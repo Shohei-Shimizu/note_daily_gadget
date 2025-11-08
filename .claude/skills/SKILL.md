@@ -99,10 +99,10 @@ description: Interactive workflow for Claude to draft engaging note articles fro
 - シメの本文と定型CTAの間には1行空行を入れ、末尾に「気に入ったらスキとフォローで応援してもらえるとうれしいです！」を添えてnoteでのアクションを促す（最後はビックリマークで終わる）
 
 **関連記事セクションの配置**:
-- まとめセクション（`## まとめ`）の本文の後、最終CTAの前に配置
+- まとめセクション（`## まとめ`）の本文と最終CTAの後に配置
 - `article/_metadata.json` から、現在の記事と関連性の高い記事（同じカテゴリまたはタグが一致）を2〜3件選択
 - URL が設定されている記事（status が "published"）のみ表示
-- セクション見出しなし、URLのみを1行ずつ記載（noteはURLだけでプレビュー表示される）
+- セクション見出し `## 関連記事` を付けて、その後にURLのみを1行ずつ記載（noteはURLだけでプレビュー表示される）
 - 関連記事がない場合は、このセクション全体をスキップ
 - 構成例:
   ```
@@ -110,10 +110,16 @@ description: Interactive workflow for Claude to draft engaging note articles fro
 
   まとめの本文...
 
+  気に入ったらスキとフォローで応援してもらえるとうれしいです！
+
+
+  ## 関連記事
+
   https://note.com/daily_gadget/n/n607bc93b9b4d
+
   https://note.com/daily_gadget/n/nc1cd80a430dd
 
-  気に入ったらスキとフォローで応援してもらえるとうれしいです！
+  https://note.com/daily_gadget/n/nd364de02063d
   ```
 
 **まとめの書き方バリエーション**:
@@ -191,12 +197,12 @@ description: Interactive workflow for Claude to draft engaging note articles fro
 - 新規記事作成時は、`article/_metadata.json` に記事情報を自動追加
 - タグには必ず「おすすめガジェット」を先頭に含める（note上の有名タグのため）
 - その後に記事テーマに応じた固有タグを2〜3個追加
-- マガジンは以下の5つから記事内容に最適なものを1つ選択:
-  1. 🏠 デスク環境を整える
-  2. 🎧 音響・映像クリエイター向け
-  3. 🎒 モバイル・外出作業グッズ
-  4. 🏡 スマートホーム・生活改善
-  5. 🤖 AI・生産性ツール
+- カテゴリは以下の5つから記事内容に最適なものを1つ選択（これら以外は使用禁止）:
+  1. スマートホーム・ライフスタイル・健康管理
+  2. 生産性向上・クリエイティブ・入力機器
+  3. コミュニケーション・会議・音声
+  4. モバイル・電源・周辺機器
+  5. ワークスペース・デスク環境の最適化
 - 記事公開後、ユーザーがnoteのURLと status を "published" に手動更新
 - 関連記事は、タグまたはカテゴリが一致し、URLが設定されている記事から自動抽出
 

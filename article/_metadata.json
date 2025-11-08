@@ -6,7 +6,6 @@
       "url": "https://note.com/daily_gadget/n/n607bc93b9b4d",
       "tags": ["おすすめガジェット", "Anker", "Amazonセール", "充電器", "モバイルバッテリー"],
       "category": "モバイル・電源・周辺機器",
-      "magazine": "お得に買う",
       "published_date": "2025-11-04",
       "status": "published"
     },
@@ -16,7 +15,6 @@
       "url": "https://note.com/daily_gadget/n/nc1cd80a430dd",
       "tags": ["おすすめガジェット", "エルゴノミクス", "デスクワーク", "在宅ワーク", "オフィスチェア"],
       "category": "ワークスペース・デスク環境の最適化",
-      "magazine": "デスク環境を整える",
       "published_date": "2025-11-06",
       "status": "published"
     },
@@ -26,7 +24,6 @@
       "url": "https://note.com/daily_gadget/n/n840a57865bd2",
       "tags": ["おすすめガジェット", "リモート会議", "オンラインミーティング", "在宅ワーク", "Webカメラ"],
       "category": "コミュニケーション・会議・音声",
-      "magazine": "リモートワークを快適にする",
       "published_date": "2025-11-07",
       "status": "published"
     },
@@ -36,7 +33,6 @@
       "url": "https://note.com/daily_gadget/n/n58d3eab634f1",
       "tags": ["おすすめガジェット", "モバイルガジェット", "出先作業", "リモートワーク", "カフェ作業"],
       "category": "モバイル・電源・周辺機器",
-      "magazine": "どこでも快適に働く",
       "published_date": "2025-11-08",
       "status": "published"
     },
@@ -46,7 +42,6 @@
       "url": "https://note.com/daily_gadget/n/nd364de02063d",
       "tags": ["おすすめガジェット", "作業環境", "集中力", "生産性向上", "デスク環境"],
       "category": "ワークスペース・デスク環境の最適化",
-      "magazine": "デスク環境を整える",
       "published_date": "2025-11-09",
       "status": "scheduled"
     },
@@ -56,7 +51,6 @@
       "url": "https://note.com/daily_gadget/n/n0911323ecf90",
       "tags": ["おすすめガジェット", "ノイズキャンセリング", "カフェ作業", "ワークカフェ", "リモートワーク"],
       "category": "コミュニケーション・会議・音声",
-      "magazine": "どこでも快適に働く",
       "published_date": "2025-11-10",
       "status": "scheduled"
     },
@@ -65,8 +59,7 @@
       "title": "自宅をスマートオフィス化するIoTガジェット７選",
       "url": "https://note.com/daily_gadget/n/na75d5fdae736",
       "tags": ["おすすめガジェット", "スマートホーム", "IoTガジェット", "在宅ワーク", "スマートオフィス"],
-      "category": "スマートデバイス・自動化・効率化",
-      "magazine": "デスク環境を整える",
+      "category": "スマートホーム・ライフスタイル・健康管理",
       "published_date": "2025-11-11",
       "status": "scheduled"
     },
@@ -76,8 +69,16 @@
       "url": "https://note.com/daily_gadget/n/nfa4fb065d86d",
       "tags": ["おすすめガジェット", "ワイヤレスイヤホン", "リモートワーク", "在宅ワーク", "ノイズキャンセリング"],
       "category": "コミュニケーション・会議・音声",
-      "magazine": "リモートワークを快適にする",
       "published_date": "2025-11-12",
+      "status": "scheduled"
+    },
+    {
+      "filename": "2025-11-08_ハイブリッドワークに最適な持ち運びPCスタンド７選.md",
+      "title": "ハイブリッドワークに最適な持ち運びPCスタンド７選",
+      "url": "https://note.com/daily_gadget/n/n8a5a939b3315",
+      "tags": ["おすすめガジェット", "PCスタンド", "ハイブリッドワーク", "リモートワーク", "姿勢改善"],
+      "category": "ワークスペース・デスク環境の最適化",
+      "published_date": "2025-11-13",
       "status": "scheduled"
     }
   ]
