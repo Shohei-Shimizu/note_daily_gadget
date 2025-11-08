@@ -1,64 +1,84 @@
 {
   "articles": [
     {
+      "filename": "_archive/2025-11-02_Amazonスマイルセール_Anker製品10選.md",
+      "title": "【Amazon スマイルセール】10,000円以下で購入できる割引率の高いAnker人気製品10選",
+      "url": "https://note.com/daily_gadget/n/n607bc93b9b4d",
+      "tags": ["おすすめガジェット", "Anker", "Amazonセール", "充電器", "モバイルバッテリー"],
+      "category": "モバイル・電源・周辺機器",
+      "magazine": "お得に買う",
+      "published_date": "2025-11-04",
+      "status": "published"
+    },
+    {
       "filename": "2025-11-05_作業姿勢を改善するエルゴノミクス製品６選.md",
       "title": "作業姿勢を改善するエルゴノミクス製品６選",
-      "url": "",
+      "url": "https://note.com/daily_gadget/n/nc1cd80a430dd",
       "tags": ["おすすめガジェット", "エルゴノミクス", "デスクワーク", "在宅ワーク", "オフィスチェア"],
       "category": "ワークスペース・デスク環境の最適化",
       "magazine": "デスク環境を整える",
-      "published_date": "2025-11-05",
-      "status": "draft"
+      "published_date": "2025-11-06",
+      "status": "published"
     },
     {
       "filename": "2025-11-05_リモート会議の質を上げるオンラインミーティングデバイス６選.md",
       "title": "リモート会議の質を上げるオンラインミーティングデバイス６選",
-      "url": "",
+      "url": "https://note.com/daily_gadget/n/n840a57865bd2",
       "tags": ["おすすめガジェット", "リモート会議", "オンラインミーティング", "在宅ワーク", "Webカメラ"],
       "category": "コミュニケーション・会議・音声",
       "magazine": "リモートワークを快適にする",
-      "published_date": "2025-11-05",
-      "status": "draft"
+      "published_date": "2025-11-07",
+      "status": "published"
     },
     {
       "filename": "2025-11-05_出先作業が快適になるモバイルガジェット６選.md",
       "title": "出先作業が快適になるモバイルガジェット６選",
-      "url": "",
+      "url": "https://note.com/daily_gadget/n/n58d3eab634f1",
       "tags": ["おすすめガジェット", "モバイルガジェット", "出先作業", "リモートワーク", "カフェ作業"],
       "category": "モバイル・電源・周辺機器",
       "magazine": "どこでも快適に働く",
-      "published_date": "2025-11-05",
-      "status": "draft"
+      "published_date": "2025-11-08",
+      "status": "published"
     },
     {
       "filename": "2025-11-07_集中力を高める作業環境向上アイテム６選.md",
       "title": "集中力を高める作業環境向上アイテム６選",
-      "url": "",
+      "url": "https://note.com/daily_gadget/n/nd364de02063d",
       "tags": ["おすすめガジェット", "作業環境", "集中力", "生産性向上", "デスク環境"],
       "category": "ワークスペース・デスク環境の最適化",
       "magazine": "デスク環境を整える",
-      "published_date": "2025-11-07",
-      "status": "draft"
+      "published_date": "2025-11-09",
+      "status": "scheduled"
     },
     {
       "filename": "2025-11-08_ワークカフェで活躍するノイズ対策ガジェット７選.md",
       "title": "ワークカフェで活躍するノイズ対策ガジェット７選",
-      "url": "",
+      "url": "https://note.com/daily_gadget/n/n0911323ecf90",
       "tags": ["おすすめガジェット", "ノイズキャンセリング", "カフェ作業", "ワークカフェ", "リモートワーク"],
       "category": "コミュニケーション・会議・音声",
       "magazine": "どこでも快適に働く",
-      "published_date": "2025-11-08",
-      "status": "draft"
+      "published_date": "2025-11-10",
+      "status": "scheduled"
     },
     {
       "filename": "2025-11-08_自宅をスマートオフィス化するIoTガジェット７選.md",
       "title": "自宅をスマートオフィス化するIoTガジェット７選",
-      "url": "",
+      "url": "https://note.com/daily_gadget/n/na75d5fdae736",
       "tags": ["おすすめガジェット", "スマートホーム", "IoTガジェット", "在宅ワーク", "スマートオフィス"],
       "category": "スマートデバイス・自動化・効率化",
       "magazine": "デスク環境を整える",
-      "published_date": "2025-11-08",
-      "status": "draft"
+      "published_date": "2025-11-11",
+      "status": "scheduled"
+    },
+    {
+      "filename": "2025-11-08_家でも職場でも使えるワイヤレスイヤホン６選.md",
+      "title": "家でも職場でも使えるワイヤレスイヤホン６選",
+      "url": "https://note.com/daily_gadget/n/nfa4fb065d86d",
+      "tags": ["おすすめガジェット", "ワイヤレスイヤホン", "リモートワーク", "在宅ワーク", "ノイズキャンセリング"],
+      "category": "コミュニケーション・会議・音声",
+      "magazine": "リモートワークを快適にする",
+      "published_date": "2025-11-12",
+      "status": "scheduled"
     }
   ]
 }
