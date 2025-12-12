@@ -15,7 +15,7 @@ description: Interactive workflow for Claude to draft engaging note articles fro
 - キャラクター: 現場目線を大事にする編集部の声。人格名や自分の使用体験は出さず、リサーチと客観情報を軸に語る
 - 想定読者: 20〜40代のナレッジワーカー／クリエイター、モバイルワークや副業・ハイブリッド勤務層を含む
 - トーン: 親しみやすい調査系編集者の声。深掘り解説を重視
-- 詳細メモ: `docs/account/note_account_design.md`
+- 詳細メモ: `03_docs/account/note_account_design.md`
 
 ## 🎯 想定ユースケース
 
@@ -98,7 +98,7 @@ description: Interactive workflow for Claude to draft engaging note articles fro
 
 **あわせて読みたいセクションの配置**:
 - まとめセクション（`## まとめ`）の本文と最終CTAの後に配置
-- `article/_metadata.json` から、現在の記事と同じカテゴリまたはタグが一致する記事を最大10件抽出
+- `02_article/_metadata.json` から、現在の記事と同じカテゴリまたはタグが一致する記事を最大10件抽出
 - URL が設定されている記事（status が "published" または "scheduled"）のみ表示
 - セクション見出し `## あわせて読みたい` を付けて、その後にURLのみを1行ずつ記載（noteはURLだけでプレビュー表示される）
 - 関連記事がない場合は、このセクション全体をスキップ
@@ -141,9 +141,9 @@ description: Interactive workflow for Claude to draft engaging note articles fro
 - **コミュニティ感を出す型**: 「在宅ワークの環境づくりは、みんな試行錯誤しています。この記事が、あなたの快適なデスク作りの参考になれば嬉しいです。」
 
 **記事の保存**:
-- 完成した記事は、プロジェクトルートの `article` フォルダに保存する
+- 完成した記事は、プロジェクトルートの `02_article` フォルダに保存する
 - ファイル名は `YYYY-MM-DD_記事タイトル.md` の形式を使用（例: `2025-02-10_出先作業向けガジェット7選.md`）
-- `article` フォルダが存在しない場合は自動的に作成する
+- `02_article` フォルダが存在しない場合は自動的に作成する
 
 **記事ファイルの構成**:
 記事ファイル内には以下の順序で内容を含める：
@@ -165,7 +165,7 @@ description: Interactive workflow for Claude to draft engaging note articles fro
 - 追加で必要な編集や調整の有無
 
 **メタデータ管理**:
-- 新規記事作成時は、`article/_metadata.json` に記事情報を自動追加
+- 新規記事作成時は、`02_article/_metadata.json` に記事情報を自動追加
 - タグには必ず「おすすめガジェット」を先頭に含める（note上の有名タグのため）
 - その後に記事テーマに応じた固有タグを2〜3個追加
 - カテゴリは以下の5つから記事内容に最適なものを1つ選択（これら以外は使用禁止）:
