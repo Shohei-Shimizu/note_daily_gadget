@@ -93,8 +93,12 @@ description: note記事生成
 
 ### Phase 4: 本文完成と確認
 - 全商品が埋まったら、自動的に「まとめ」「最終CTA」「あわせて読みたい」を追加し、ファイルを完成させる。
-- [04_schedule/schedule_2025_2026.md](cci:7://file:///Users/shoheishimizu/Knowledge/note-writer/04_schedule/schedule_2025_2026.md:0:0-0:0) の当該日付に打ち消し線（`~~タイトル~~`）を追加する。
+- **[重要] 記事作成がすべて完了した際、[04_schedule/schedule_2025_2026.md](file:///Users/shoheishimizu/Knowledge/note-writer/04_schedule/schedule_2025_2026.md) の該当する記事タイトルの前後に打ち消し線（`~~タイトル~~`）を追加する。**
 - 最終的なファイルの保存場所、メタデータの更新状況を報告して完了する。
+
+## メタデータ・スケジュール管理
+- [_metadata.json](file:///Users/shoheishimizu/Knowledge/note-writer/02_article/_metadata.json) 更新時、新しい記事エントリは必ず配列の末尾に追記する。
+- **記事のステータスが公開（または完成）となったら、必ず [04_schedule/schedule_2025_2026.md](file:///Users/shoheishimizu/Knowledge/note-writer/04_schedule/schedule_2025_2026.md) のタイトルを `~~` で囲み、打ち消し線を適用すること。**
 
 ## 詳細執筆ルール
 
