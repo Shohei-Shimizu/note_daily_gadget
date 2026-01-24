@@ -108,10 +108,16 @@ def main():
             if "ItemInfo" in item and "Features" in item["ItemInfo"] and "DisplayValues" in item["ItemInfo"]["Features"]:
                  features = item["ItemInfo"]["Features"]["DisplayValues"]
 
+            # 画像URLを取得
+            image_url = ""
+            if "Images" in item and "Primary" in item["Images"] and "Large" in item["Images"]["Primary"]:
+                image_url = item["Images"]["Primary"]["Large"]["URL"]
+
             output.append({
                 "title": title,
                 "url": url,
                 "price": price,
+                "image_url": image_url,
                 "features": features
             })
         print(json.dumps(output, indent=2, ensure_ascii=False))
