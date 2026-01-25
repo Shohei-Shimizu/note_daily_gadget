@@ -43,7 +43,9 @@ def search_products(keywords, partner_tag, item_count=10):
             "ItemInfo.Title",
             "ItemInfo.Features",
             "Offers.Listings.Price",
-            "Images.Primary.Large"
+            "Images.Primary.Large",
+            "CustomerReviews.Count",
+            "CustomerReviews.StarRating"
         ],
         "PartnerTag": partner_tag,
         "PartnerType": "Associates",
@@ -113,14 +115,30 @@ def main():
             if "Images" in item and "Primary" in item["Images"] and "Large" in item["Images"]["Primary"]:
                 image_url = item["Images"]["Primary"]["Large"]["URL"]
 
+            # レビュー情報を取得
+            review_count = 0
+            star_rating = 0.0
+            if "CustomerReviews" in item:
+                if "Count" in item["CustomerReviews"]:
+                    review_count = item["CustomerReviews"]["Count"]
+                if "StarRating" in item["CustomerReviews"] and "Value" in item["CustomerReviews"]["StarRating"]:
+                    star_rating = item["CustomerReviews"]["StarRating"]["Value"]
+
             output.append({
                 "title": title,
                 "url": url,
                 "price": price,
                 "image_url": image_url,
-                "features": features
+                "features": features,
+                "review_count": review_count,
+                "star_rating": star_rating
             })
-        print(json.dumps(output, indent=2, ensure_ascii=False))
+
+        
+        output_path = os.path.join(os.path.dirname(__file__), 'temp_products.json')
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(output, f, indent=2, ensure_ascii=False)
+        print(f"Results saved to {output_path}")
     else:
         print(json.dumps(result, indent=2, ensure_ascii=False))
 
