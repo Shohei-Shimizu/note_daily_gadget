@@ -94,14 +94,16 @@ def main():
     
     # List of queries to search for
     queries = [
-        "CIO NovaPort DUO 45W",
-        "CIO SMARTCOBY Pro SLIM",
-        "Anker PowerLine III Flow",
-        "Buffalo SSD 外付け 1TB スティック",
-        "ロジクール Pebble M350",
-        "MOFT Snap-On スマホスタンド",
-        "Anker Soundcore Liberty 4 NC",
-        "Eufy Security SmartTrack Card"
+        "SwitchBot スマートロック Pro",
+        "キャンディハウス セサミ5",
+        "Qrio Lock Q-SL2",
+        "SADIOT LOCK 2",
+        "Lockin G30 スマートロック",
+        "Philips EasyKey Alpha",
+        "SwitchBot スマートロック Lite",
+        "Yale Linus スマートロック",
+        "美和ロック PiACK II",
+        "ミネベアミツミ SADIO LOCK"
     ]
     
     all_items = []
