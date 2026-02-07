@@ -94,16 +94,13 @@ def main():
     
     # List of queries to search for
     queries = [
-        "SwitchBot スマートロック Pro",
-        "キャンディハウス セサミ5",
-        "Qrio Lock Q-SL2",
-        "SADIOT LOCK 2",
-        "Lockin G30 スマートロック",
-        "Philips EasyKey Alpha",
-        "SwitchBot スマートロック Lite",
-        "Yale Linus スマートロック",
-        "美和ロック PiACK II",
-        "ミネベアミツミ SADIO LOCK"
+        "象印 炊飯器 スマホ",
+        "パナソニック ビストロ スマホ",
+        "シャープ ヘルシオ ホットクック",
+        "アイリスオーヤマ 電気圧力鍋 スマホ",
+        "ティファール クックフォーミー",
+        "バルミューダ トースター スマホ",
+        "siroca 電気圧力鍋 スマホ"
     ]
     
     all_items = []
