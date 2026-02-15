@@ -10,10 +10,17 @@ description: 記事の自動生成フロー（検索・執筆・サムネイル�
    - `python3 05_script/search_amazon_products.py daily-gadget-22 "{テーマ}" > 05_script/temp_products.json`
    - 出力されたJSONファイルの中身を確認する。
 2. **記事執筆**
-   - `02_article/YYYY-MM-DD_{テーマ}.md` を作成する。
-   - `05_script/temp_products.json` の情報を使用して、[note-writer.md](cci:7://file:///Users/shoheishimizu/Knowledge/note-writer/.agent/rules/note-writer.md:0:0-0:0) のルールに従い記事を執筆する。
-   - **重要**: URLはJSONにある `url` (アフィリエイトリンク) をそのまま使用する。
-   - [_metadata.json](cci:7://file:///Users/shoheishimizu/Knowledge/note-writer/02_article/_metadata.json:0:0-0:0) と [schedule_2026.md](cci:7://file:///Users/shoheishimizu/Knowledge/note-writer/03_schedule/schedule_2026.md:0:0-0:0) を更新する。
+   - **ファイルパス**: `/Users/shoheishimizu/Knowledge/note_daily_gadget/02_article/{YYYY-MM}/{YYYY-MM-DD}_{テーマ}.md`
+     - `{YYYY-MM}`: 公開予定日の年月（例: 2026-02）
+     - `{YYYY-MM-DD}`: 公開予定日の年月日（例: 2026-02-16）
+     - `{テーマ}`: 記事タイトル（ファイル名として適切な形式に整形）
+   - **フォーマット**: 参考記事のマークダウン構造を**完全に模倣**すること（タイトル → 導入3段落 → 商品セクション → 最後に → あわせて読みたい）。
+   - **ルール適用**: `.agent/rules/note-writer.md` の全ルールを厳守。特にURL直下の商品名再記述は絶対禁止。
+   - **重要**: URLは `05_script/temp_products.json` の `url` (アフィリエイトリンク) をそのまま使用する。
+   - **metadata更新**: 
+     - `02_article/{YYYY-MM}/_metadata.json` に記事情報を追加。`urls`は必ず空配列`[]`。
+     - `tags`は記事生成時にカンマ区切りテキストで提示（例: `ガジェット, Anker, オーディオ`）。
+   - **schedule更新**: `03_schedule/schedule_2026.md` の該当タイトルを `~~打ち消し線~~` で囲む。
 3. **サムネイル生成**
    - [generete-thumbnail.md](cci:7://file:///Users/shoheishimizu/Knowledge/note-writer/.agent/rules/generete-thumbnail.md:0:0-0:0) のルールに従い、記事内容に合ったサムネイルを3枚生成する。
    - 生成した画像を `04_thumbnail` に保存する。
