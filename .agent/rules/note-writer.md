@@ -126,12 +126,6 @@ description: note記事の執筆・整形（PA-API連携版）
 
 **参考**: 既存記事 [02_article/2026-01/2026-01-28_【Anker徹底比較】コスパ最強「Soundcore」オーディオ10選.md](cci:7://file:///Users/shoheishimizu/Knowledge/note_daily_gadget/02_article/2026-01/2026-01-28_%E3%80%90Anker%E5%BE%B9%E5%BA%95%E6%AF%94%E8%BC%83%E3%80%91%E3%82%B3%E3%82%B9%E3%83%91%E6%9C%80%E5%BC%B7%E3%80%8CSoundcore%E3%80%8D%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA10%E9%81%B8.md:0:0-0:0) のフォーマットを完全に模倣すること。
 
-
-### metadata.json 更新ルール
-
-- **URL配列**: `urls` は必ず空配列 `[]` にする（アフィリエイトURLは記事本文内に埋め込み済みのため）
-- **tags配列**: カンマ区切りのプレーンテキストで提示する（例: `ガジェット, スマートホーム, IoT, 生活家電, 時短`）
-
 ### Phase 2: コンテンツ生成（執筆）
 
 -   **導入文**: 「導入文の構成」ルールに従って執筆する。
@@ -147,22 +141,26 @@ description: note記事の執筆・整形（PA-API連携版）
 
 ### metadata.json 更新ルール
 
-記事生成完了後、ユーザーがmetadata.jsonを更新しやすいように、以下の形式で情報を提示すること:
+記事生成完了後、ユーザーが [_metadata.json](cci:7://file:///Users/shoheishimizu/Knowledge/note_daily_gadget/02_article/2026-02/_metadata.json:0:0-0:0) を更新しやすいように、以下の完全なJSONフォーマット（全項目を含めること）で情報を提示すること。一部の項目だけを抽出するのはNG。
 
-**URL配列**: 
-- metadata.jsonの `urls` フィールドには必ず空配列 `[]` を設定するよう指示する。
-
-**tags配列**: 
-- JSON配列形式ではなく、**1行のカンマ区切りテキスト**として提示する。
-- フォーマット: `タグ1, タグ2, タグ3, タグ4`（各タグの間にカンマとスペース1つ）
-- 例: `おすすめガジェット, ロボットペット, 癒やし, Loona, Qoobo, BOCCO, デスク環境`
-- この形式により、ユーザーはコピー&ペーストでmetadata.jsonに追加できる。
+**必須ルール**:
+- `url`: 必ず空文字列 `""` を設定する（アフィリエイトURLは記事本文内に配置済みのため。`urls: []` などは不可）。
+- `tags`: JSON配列ではなく、**スペース区切りのプレーンテキスト**で提示する。
+- `category`: 対象商品に適したカテゴリを既存の [_metadata.json](cci:7://file:///Users/shoheishimizu/Knowledge/note_daily_gadget/02_article/2026-02/_metadata.json:0:0-0:0) を参考に**必ず**設定する（生成漏れ厳禁）。
 
 **提示方法の例**:
 記事生成が完了しました。
-metadata.json更新用の情報:
-- urls: []
-- tags: おすすめガジェット, ロボットペット, 癒やし, Loona, Qoobo, BOCCO, デスク環境
+metadata.jsonの配列内に追加するための情報です。以下のブロックをそのままコピーして追加してください。
+
+        {
+            "filename": "2026-02-27_デスクに癒やしを。大人もハマる「最新ロボットペット」_5_選.md",
+            "title": "デスクに癒やしを。大人もハマる「最新ロボットペット」 5 選",
+            "url": "",
+            "tags": "おすすめガジェット ロボットペット 癒やし Loona Qoobo BOCCO デスク環境",
+            "category": "スマートホーム・ライフスタイル・健康管理",
+            "published_date": "2026-02-27"
+        }
+
 
 ### Phase 3: クリーニング & 自己推敲 (Self-Correction)
 
