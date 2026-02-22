@@ -1,1 +1,4 @@
 .DS_Store
+00_knowledge/
+.agent/antigravity-discord-bot/.env
+.agent/antigravity-discord-bot/node_modules/
