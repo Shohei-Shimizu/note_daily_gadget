@@ -1,0 +1,130 @@
+{
+  "date": "2026-03-04",
+  "title": "朝の目覚めを確実に。強力振動と光で起こす「目覚まし」6 選",
+  "queries": [
+    "moonmoon inti4s 光目覚まし時計",
+    "moonmoon トトノエライト 光目覚まし",
+    "TITIROBA 光目覚まし時計 ラジオ 自然音",
+    "Philips SmartSleep 光目覚まし時計",
+    "ADESSO MY-96 振動 電波時計",
+    "ADESSO バイブレーション 枕 目覚まし"
+  ],
+  "selection_policy": {
+    "default_tiers": "Tier1/2/3 by review_count and star_rating",
+    "applied_policy": "fallback: WebSearch経由で収集。amazon.co.jpへのAPIアクセス・直接アクセスが503/Tunnel403でブロックされたため、WebSearch経由で収集できた商品情報を採用。Amazon Creators API（amazon_creatorsapi）モジュール未インストール、PA-API v5はトンネル経由でブロック、amazon.co.jpへのWebFetchも403で取得不可のため、公開WebSearch結果から確認できた商品情報を採用",
+    "reason": "amazon_creatorsapi モジュール未インストール、PA-API v5はネットワークブロック (Tunnel connection failed: 403)、WebFetch www.amazon.co.jp も EGRESS_BLOCKED。WebSearch経由で確認できた実在ASINの商品のみ選定"
+  },
+  "fetched_count": 6,
+  "dedup_count": 6,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "moonmoon inti4s 光 目覚まし時計 ( ライト / アラーム ) めざまし時計 デジタル時計 スマホ連動 スヌーズ機能 光目覚まし 睡眠 快眠 安眠",
+      "url": "https://www.amazon.co.jp/dp/B07SJYNPPZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "最大20,000ルクスの圧倒的な明るさで、体内時計をリセットして快適な目覚めをサポートします。",
+        "Bluetooth接続で無料スリープアプリ「Somnus」と連動し、スマホから手軽に設定・操作が可能です。",
+        "輝度は10段階で調整でき、昼白色と暖色の2種類のライトカラーを使い分けられます。",
+        "光の向きを最大90度まで調整でき、顔に向けてセットするだけで夜明けのような光で自然に目が覚めます。",
+        "アラーム音機能も搭載しており、光だけでは不安な方も最初は音と光で起床し、慣れたら光のみに切り替えられます。",
+        "NHK「あさイチ」「マツコの知らない世界」でも紹介された日本製ブランドの光目覚まし時計です。"
+      ],
+      "query": "moonmoon inti4s 光目覚まし時計",
+      "tier": "fallback",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "moonmoon"
+    },
+    {
+      "title": "moonmoon トトノエライト 光 目覚まし時計 トトノエライトプレーン",
+      "url": "https://www.amazon.co.jp/dp/B0C65D8SKC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "最大20,000LUXの明るさで覚醒を促し、日中のパフォーマンスをサポートするAmazon's Choice商品です。",
+        "輝度は長押しで99段階まで調整でき、4段階のクイック切り替えにも対応しています。",
+        "スタンドは180度まで角度調整が可能で、昼白色・温白色の2種類のライトカラーを気分に合わせて選べます。",
+        "設定した時間の前から徐々に光が増していき、朝の太陽のように自然に目覚めを促します。",
+        "本体デザインはシンプルでコンパクト、スリムなプレーンモデルでインテリアに馴染みやすい仕上がりです。"
+      ],
+      "query": "moonmoon トトノエライト 光目覚まし",
+      "tier": "fallback",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "moonmoon"
+    },
+    {
+      "title": "TITIROBA 目覚まし時計 光 めざまし時計 YABAE Wake Up Light ウェイクアップ ライト 置き時計 光目覚まし スリープタイマー スヌーズ ラジオ ナイトライト イルミネーション 光目覚まし時計 FZ-06-L",
+      "url": "https://www.amazon.co.jp/dp/B0D6V9Y882?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "日の出・日没を再現するRGBライトを搭載し、20段階調光・16段階音量調整に対応した多機能モデルです。",
+        "8種類の自然音とFMラジオを搭載。ダブルアラーム・スヌーズ機能付きでシーンに合わせた起床スタイルを選べます。",
+        "USB出力ポートを備えており、スマートフォンの充電ステーションとしてベッドサイドでも活躍します。",
+        "ナイトライト機能も搭載しており、就寝前のリラックスタイムから朝の目覚めまで一台でサポートします。",
+        "スリープタイマーで設定時間が来ると自動で消灯。入眠サポートにも役立てられます。"
+      ],
+      "query": "TITIROBA 光目覚まし時計 ラジオ 自然音",
+      "tier": "fallback",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TITIROBA"
+    },
+    {
+      "title": "フィリップス スマートスリープ スマートウェイクアップライト アラームクロック HF3519/15 ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B08LQ1WH5N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "フィリップス独自の夜明けシミュレーション機能で、設定時間の30分前から徐々に明るくなり体をゆっくり覚醒に導きます。",
+        "5段階の明るさ調整と複数の自然音アラームを搭載し、光と音の組み合わせで快適に起床できます。",
+        "日没シミュレーション機能（サンセット）も備えており、就寝時は光が徐々に暗くなり自然な入眠をサポートします。",
+        "タッチ式のスヌーズ操作に対応。本体天面を軽くタップするだけでスヌーズが作動します。",
+        "ナイトライト機能付きで、夜間のトイレや読書時にも目に優しい光を提供します。"
+      ],
+      "query": "Philips SmartSleep 光目覚まし時計",
+      "tier": "fallback",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "Philips"
+    },
+    {
+      "title": "ADESSO(アデッソ) 目覚まし時計 振動 強力 二度寝・寝坊防止 MY-96 電波時計 バイブレーション アラーム 音 おしゃれ アダプター ブラック",
+      "url": "https://www.amazon.co.jp/dp/B01AKWDNDS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "¥4,980",
+      "image_url": "",
+      "features": [
+        "強力振動バイブレーターと最大100dBの爆音アラームを搭載した電波時計。振動のみ・音のみ・同時使用の3通りから選択可能です。",
+        "電波時計のため時刻合わせが自動。枕やマットレスの下に置ける薄型シェイカーが付属し、寝ていても確実に起こします。",
+        "振動は2段階、アラーム音量は3段階で調整でき、ダブルアラーム・スヌーズ機能にも対応しています。",
+        "本体サイズは16×6.3×4.5cm、シェイカーはφ9.5×3.0cmのコンパクト設計。AC アダプター付属で安定した動作を確保します。",
+        "4段階バックライト調整機能付きで、夜間でも手元で時刻を確認できます。"
+      ],
+      "query": "ADESSO MY-96 振動 電波時計",
+      "tier": "fallback",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "ADESSO"
+    },
+    {
+      "title": "ADESSO 目覚まし時計 振動 ブルブルクラッシュ バイブレーション ダブルアラーム バックライト スヌーズ機能付き 枕の下に入れる",
+      "url": "https://www.amazon.co.jp/dp/B07SLXLVMB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "枕やクッションの下に入れて使う薄型振動式アラームで、振動だけで確実に起こす設計。音を立てずに起きたい方に向いています。",
+        "振動・アラーム音・両方同時の3モードに対応し、強度は2段階・音量は3段階から選べます。",
+        "ダブルアラーム機能で平日と休日でそれぞれ異なる設定を記憶でき、スヌーズ機能も搭載しています。",
+        "バックライト付きで暗い部屋でも時刻確認が可能。単4電池2本で動作するため持ち運びもしやすい設計です。"
+      ],
+      "query": "ADESSO バイブレーション 枕 目覚まし",
+      "tier": "fallback",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "ADESSO"
+    }
+  ]
+}
