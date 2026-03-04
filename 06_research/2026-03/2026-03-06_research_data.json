@@ -1,0 +1,803 @@
+{
+  "date": "2026-03-06",
+  "title": "Wi-Fi の死角をなくす。家中つながる「メッシュ Wi-Fi」 6 選",
+  "queries": [
+    "メッシュWiFi ルーター",
+    "メッシュWiFi Wi-Fi 6",
+    "TP-Link Deco メッシュWiFi",
+    "BUFFALO メッシュWiFi",
+    "NEC Aterm メッシュ",
+    "ASUS メッシュWiFi",
+    "Netgear Orbi メッシュ",
+    "Linksys Velop メッシュ"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "PA-APIレスポンスで review_count / star_rating が取得できないため",
+    "fallback_policy": "Amazon検索上位 + 除外ワード排除（展示品/中古/訳あり/ジャンク/B品/アウトレット/整備済み/再生品） + メーカー重複制限（原則2件まで、特集テーマ除く）"
+  },
+  "search_execution": {
+    "script": "05_script/search_custom_list.py (imported search_products)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success"
+  },
+  "target_count": 6,
+  "fetched_count": 40,
+  "dedup_count": 35,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "TP-Link WiFi7 ルーター メッシュwi-fi 無線lan メッシュWi-Fiシステム BE3600規格 2882Mbps(5GHz) + 688Mbps(2.4GHz) MLO Deco BE22 2-pack 【Amazon.co.jp限定】",
+      "url": "https://www.amazon.co.jp/dp/B0DTTSWTFG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21whkQD0iwL._SL500_.jpg",
+      "features": [
+        "【コンパクトでキュート】省スペース設計でインテリアになじむデザイン。かわいさと実力を兼ね備えた次世代Wi-Fi。",
+        "【最新規格 Wi-Fi 7対応】5GHz最大2882Mbps＋2.4GHz最大688Mbps。動画もゲームも止まらないシームレス通信。",
+        "【Decoハーモニー】最大10ユニットまで拡張可能。家中すみずみまでWi-Fiのハーモニーを奏でよう。",
+        "【安心のセキュリティ】TP-Link HomeShieldでネットワークを守り、家族も安心。",
+        "【世界シェアNo.1 TP-Link】無線LAN機器世界シェアNo.1、信頼のグローバルブランド (IDC調べ）"
+      ],
+      "query": "メッシュWiFi ルーター",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TP-Link",
+      "tier": "fallback"
+    },
+    {
+      "title": "TP-Link WiFi ルーター メッシュwifi WiFi6 AX3000 HE160 IPv6対応 2402+574Mbps 2台セット Deco X3000【Amazon.co.jp限定】",
+      "url": "https://www.amazon.co.jp/dp/B0DQ88YBDF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31iXawVs4PL._SL500_.jpg",
+      "features": [
+        "[特徴] 広いおウチでも、たくさん端末があっても、もう大丈夫。広範囲をムラなく包み込む次世代Wi-Fi6メッシュで、おウチのWi-Fiを快適にしよう。2ユニットパック。",
+        "[規格値] 2x2/HE160 2402 + 574Mbps",
+        "[快適な有線接続] 3つのギガビットポートを搭載しているので有線接続にも困りません。",
+        "[AI-搭載メッシュ] AIによりメッシュWi-Fi環境をさらに快適に",
+        "[かんたん設定] Decoを箱から出してアプリをインストールしたら、あとは画面の表示通りに進めるだけ。数分で設定完了です。"
+      ],
+      "query": "メッシュWiFi ルーター",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TP-Link",
+      "tier": "fallback"
+    },
+    {
+      "title": "【Amazon.co.jp限定】 バッファロー WiFi ルーター 無線 LAN Wi-Fi 6E 11ax 6GHz AXE5400 メッシュ 2個セット トライバンド 6ストリーム 有線 2.5Gbps エコパッケージ 【 iPhone 17 / Air / 16 / Nintendo Switch 2 / PS5 動作確認済み 】 WNR-5400XE6P/2SN",
+      "url": "https://www.amazon.co.jp/dp/B0CQS1GT88?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21gdC6Y+y2L._SL500_.jpg",
+      "features": [
+        "【Wi-Fi 6E 対応】Wi-Fi向けに新たに開放された6GHz通信に対応。クリーンな高速帯域をWi-Fiで独占して安定利用。2.4GHz・5GHz通信にも対応するトライバンド設計",
+        "【設置のしやすさを重視した新筐体】ケーブルすっきりデザインで設置場所の自由度を向上。アンテナ内蔵型。側面置き・正面置き・壁掛けに対応",
+        "【EasyMesh対応】すみずみまで快適なWi-Fiを最適化するWi-Fi EasyMeshに対応。本商品は2台セットモデルとして出荷時から、1台をコントローラ（親機）、もう1台をエージェント（中継機）としてペアリング済みのモデルとなります",
+        "【INTERNETポート最大2.5Gbps対応】高速回線サービスご利用のお客様のボトルネック解消に寄与 ※規格値",
+        "【安心のセキュリティー】より強固なセキュリティー規格「WPA3」に対応。通信の暗号化により、高い安全性を確保します。また、セキュリティ―機能「ネット脅威ブロッカー2 プレミアム」対応です（1年無料ライセンス付）",
+        "【かんたん設定】新しくなった「AirStationアプリ」を使えば、スマホで簡単に初期設定が完了します。",
+        "【Amazon限定】環境に配慮した簡易包装でお届けします",
+        "目に見える所に置いても圧迫感の少ない白色を採用しました。雑然となってしまいがちなケーブルは、背面に格納スペースを設けているので、すっきりと収めることができます。Wi-Fiに限らず、電波は障害物があると届きにくくなるため、より効果的にWi-Fiを届けるため、ご自宅の中心など見通しの良い場所に違和感なく置いていただけるデザインを採用しました。"
+      ],
+      "query": "メッシュWiFi ルーター",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "バッファロー",
+      "tier": "fallback"
+    },
+    {
+      "title": "Amazon eero 6+ - メッシュwifi ルーター | AX3000 | 1.0Gbpsイーサネット | 最大wifi範囲140m² | 同時接続デバイス約75台 | 1ユニット",
+      "url": "https://www.amazon.co.jp/dp/B0BP73KBC2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/11kOJd6FijL._SL500_.jpg",
+      "features": [
+        "【ギガビットの速さがお手頃価格で】eero 6+は、最大1ギガビットのwifiスピードを手頃な価格で提供。ご家族全員で、オンライン作業、ストリーミング、ビデオチャットを同時に行っても安心。",
+        "【eeroデバイスを増やすとwifi範囲がもっと広がる】eero 6+の最大wifi範囲は、1ユニットで140m²、2ユニットで280m²、3ユニットで420m²。約75台のデバイスとの同時接続もサポート。",
+        "【数分でセットアップ】eeroアプリのガイドに従えば、簡単にセットアップが完了。好きな場所から、簡単にご家庭のネットワークを管理。",
+        "【TrueMeshの安定性】eeroのTrueMeshテクノロジーは、ネットワーク上のトラフィックを能動的に調整し、各接続デバイスを、都度最適なネットワーク経路に誘導。ネットワークの切断を減らし、ご自宅全体でシームレスなwifi環境を実現。",
+        "【Amazon Echoデバイスでwifi範囲を拡張】eeroビルトイン機能を使えば、対応するAmazon Echoデバイス(別売)が、wifiエクステンダーに。ネットワークの届きづらいデッドスポットやバッファリングを解消。",
+        "【安心の国内サポート】日本国内のカスタマーサポートがお客様をサポート。フリーダイヤル(0120-984-213)、またはメール(support@eero.com)でお問い合わせください。",
+        "【ご利用中も安心】ご利用開始後も、eeroアプリの通知機能で、ネットワークセキュリティを守るための継続的なサービスアップデートが確認可能。さらに、別途有料のサブスクリプションサービス(eero Plus)を契約すると、オンラインセキュリティツール含むその他プレミアムサービスの利用も可能に。",
+        "【スマートホームハブ】eero 6+を利用すれば、Thread、Matter、Zigbeeデバイスの接続・管理も可能。※eeroデバイスにはAlexaは搭載されておりませんので、スマートホーム製品のコントロールにはEchoなど対応するAlexaデバイス(別売)やAlexaアプリをご利用ください。"
+      ],
+      "query": "メッシュWiFi Wi-Fi 6",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "Amazon",
+      "tier": "fallback"
+    },
+    {
+      "title": "【Amazon.co.jp限定】 バッファロー WiFi ルーター 無線 LAN Wi-Fi 6 11ax / 11ac AX3000 2401+573Mbps メッシュWi-Fi ペアリング済み2台セット 【 iPhone 15 / 14 / iPhone SE (第三世代) / Nintendo Switch / PS5 動作確認済み 】 エコパッケージ WNR-3000AX4/2SN",
+      "url": "https://www.amazon.co.jp/dp/B0C6F5YQ52?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21GOO9RUT-L._SL500_.jpg",
+      "features": [
+        "【メッシュWi-Fi対応】すみずみまで快適なWi-Fiを最適化するメッシュWi-Fi（Wi-Fi EasyMesh（TM））に対応。本商品は2台セットモデルとして出荷時から、1台を親機、もう1台を中継機としてペアリング済みのモデルとなります。",
+        "【設置のしやすさを重視した新コンパクト筐体】ケーブルすっきりデザインで設置場所の自由度を向上。アンテナ内蔵型のコンパクト設計です。側面置き・正面置き・壁掛けに対応。",
+        "【スマート家電ともメーカー動作確認済み】iPhone、Nintendo Switch、PS5はもちろん、Amazon echo Show 5/8/10/15、GoogleHome、ルンバ e5/i3/i7/s9等スマート家電ともメーカー動作確認済み。",
+        "【安心のセキュリティー】より強固なセキュリティー規格「WPA3」に対応。通信の暗号化により、高い安全性を確保します。また、セキュリティ―機能「ネット脅威ブロッカー2 プレミアム」に後日対応予定です。",
+        "【かんたん設定】新しくなった「AirStationアプリ」を使えば、スマホで簡単に初期設定が完了します。",
+        "【Amazon限定】環境に配慮した簡易包装でお届けします"
+      ],
+      "query": "BUFFALO メッシュWiFi",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "バッファロー",
+      "tier": "fallback"
+    },
+    {
+      "title": "【Amazon.co.jp限定】NEC Aterm 無線LAN Wi-Fi ６ ルーター 11ax AM-3000D4AX メッシュWi-Fi対応 デュアルバンド ４ストリーム (iPhone 16Pro/ 16 / 15 Pro / 14 / 13 /Nintendo Switch メーカー動作確認済み)",
+      "url": "https://www.amazon.co.jp/dp/B0FP214ZWF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31SNGiXvz+L._SL500_.jpg",
+      "features": [
+        "【Amazon.co.jp限定】ツメ折れ防止LANケーブル付き。ツメを稼働の逆側に、ストッパーを設けることでツメ折れを防止。商品の包装には環境に配慮したエコパッケージを採用。",
+        "【Wi-Fi 6で高速通信】Wi-Fi 6(11ax)に対応し、最大2402Mbps（5GHz帯）の高速通信を実現。",
+        "【メッシュ中継機能に対応】家中にWi-Fiを張り巡らせられるメッシュ中継機能搭載し安定した通信を実現。",
+        "【JC-STARに適合】IoT機器選びのセキュリティ新基準！セキュリティ要件適合評価及びラベリング制度「JC-STAR」に適合",
+        "【Aterｍ ホームネットワークリンクアプリ：初期ウィザード機能】スマホの画面の案内に沿って進めるだけでインターネット接続するまでの初期設定が可能。",
+        "【Aterm ホームネットワークリンクアプリ：ヒートマップ機能】スマホアプリで宅内のWi-Fi速度を計測し、通信状況をヒートマップでWi-Fiを見える化。",
+        "【コンパクトデザイン】アンテナ内蔵のコンパクトサイズでお部屋になじむスッキリデザイン。",
+        "【通信帯域のワイドバンド化】5GHz帯域がワイドバンド技術により従来の2倍の「160MHz」に拡大。通信の混雑解消とスピードが向上。",
+        "AM-3000D4AXは、PA-3000D4AXと同等商品です。"
+      ],
+      "query": "NEC Aterm メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "NEC",
+      "tier": "fallback"
+    }
+  ],
+  "all_candidates": [
+    {
+      "title": "TP-Link WiFi7 ルーター メッシュwi-fi 無線lan メッシュWi-Fiシステム BE3600規格 2882Mbps(5GHz) + 688Mbps(2.4GHz) MLO Deco BE22 2-pack 【Amazon.co.jp限定】",
+      "url": "https://www.amazon.co.jp/dp/B0DTTSWTFG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21whkQD0iwL._SL500_.jpg",
+      "features": [
+        "【コンパクトでキュート】省スペース設計でインテリアになじむデザイン。かわいさと実力を兼ね備えた次世代Wi-Fi。",
+        "【最新規格 Wi-Fi 7対応】5GHz最大2882Mbps＋2.4GHz最大688Mbps。動画もゲームも止まらないシームレス通信。",
+        "【Decoハーモニー】最大10ユニットまで拡張可能。家中すみずみまでWi-Fiのハーモニーを奏でよう。",
+        "【安心のセキュリティ】TP-Link HomeShieldでネットワークを守り、家族も安心。",
+        "【世界シェアNo.1 TP-Link】無線LAN機器世界シェアNo.1、信頼のグローバルブランド (IDC調べ）"
+      ],
+      "query": "メッシュWiFi ルーター",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TP-Link",
+      "tier": "fallback"
+    },
+    {
+      "title": "TP-Link WiFi ルーター メッシュwifi WiFi6 AX3000 HE160 IPv6対応 2402+574Mbps 2台セット Deco X3000【Amazon.co.jp限定】",
+      "url": "https://www.amazon.co.jp/dp/B0DQ88YBDF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31iXawVs4PL._SL500_.jpg",
+      "features": [
+        "[特徴] 広いおウチでも、たくさん端末があっても、もう大丈夫。広範囲をムラなく包み込む次世代Wi-Fi6メッシュで、おウチのWi-Fiを快適にしよう。2ユニットパック。",
+        "[規格値] 2x2/HE160 2402 + 574Mbps",
+        "[快適な有線接続] 3つのギガビットポートを搭載しているので有線接続にも困りません。",
+        "[AI-搭載メッシュ] AIによりメッシュWi-Fi環境をさらに快適に",
+        "[かんたん設定] Decoを箱から出してアプリをインストールしたら、あとは画面の表示通りに進めるだけ。数分で設定完了です。"
+      ],
+      "query": "メッシュWiFi ルーター",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TP-Link",
+      "tier": "fallback"
+    },
+    {
+      "title": "【Amazon.co.jp限定】 バッファロー WiFi ルーター 無線 LAN Wi-Fi 6E 11ax 6GHz AXE5400 メッシュ 2個セット トライバンド 6ストリーム 有線 2.5Gbps エコパッケージ 【 iPhone 17 / Air / 16 / Nintendo Switch 2 / PS5 動作確認済み 】 WNR-5400XE6P/2SN",
+      "url": "https://www.amazon.co.jp/dp/B0CQS1GT88?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21gdC6Y+y2L._SL500_.jpg",
+      "features": [
+        "【Wi-Fi 6E 対応】Wi-Fi向けに新たに開放された6GHz通信に対応。クリーンな高速帯域をWi-Fiで独占して安定利用。2.4GHz・5GHz通信にも対応するトライバンド設計",
+        "【設置のしやすさを重視した新筐体】ケーブルすっきりデザインで設置場所の自由度を向上。アンテナ内蔵型。側面置き・正面置き・壁掛けに対応",
+        "【EasyMesh対応】すみずみまで快適なWi-Fiを最適化するWi-Fi EasyMeshに対応。本商品は2台セットモデルとして出荷時から、1台をコントローラ（親機）、もう1台をエージェント（中継機）としてペアリング済みのモデルとなります",
+        "【INTERNETポート最大2.5Gbps対応】高速回線サービスご利用のお客様のボトルネック解消に寄与 ※規格値",
+        "【安心のセキュリティー】より強固なセキュリティー規格「WPA3」に対応。通信の暗号化により、高い安全性を確保します。また、セキュリティ―機能「ネット脅威ブロッカー2 プレミアム」対応です（1年無料ライセンス付）",
+        "【かんたん設定】新しくなった「AirStationアプリ」を使えば、スマホで簡単に初期設定が完了します。",
+        "【Amazon限定】環境に配慮した簡易包装でお届けします",
+        "目に見える所に置いても圧迫感の少ない白色を採用しました。雑然となってしまいがちなケーブルは、背面に格納スペースを設けているので、すっきりと収めることができます。Wi-Fiに限らず、電波は障害物があると届きにくくなるため、より効果的にWi-Fiを届けるため、ご自宅の中心など見通しの良い場所に違和感なく置いていただけるデザインを採用しました。"
+      ],
+      "query": "メッシュWiFi ルーター",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "バッファロー",
+      "tier": "fallback"
+    },
+    {
+      "title": "TP-Link WiFi ルーター メッシュwifi AC1200 無線ルーター 867+300Mbps WiFi5 AC1200 3年保証 2台セット Deco M4",
+      "url": "https://www.amazon.co.jp/dp/B07KJ2TDMR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31uSto27vxL._SL500_.jpg",
+      "features": [
+        "[特徴] 隅々まで途切れないWi-Fi空間を構築する最先端のメッシュWiFiシステム Deco M4",
+        "[メッシュWi-Fi] 2つのユニットを駆使し、従来の無線LANルーターでは届かなかった場所までカバー。範囲に合わせてユニットの増加も可能。",
+        "[高い安定性] Decoは家じゅう柔軟にWiFiカバーをします。",
+        "[専用アプリ] iOS&Android用 Deco専用アプリでだれでも直感的な設定が可能です",
+        "[長期保証] 通常無線LAN機器は1年保証ですが、TP-Linkは安心の3年保証を付帯しております。"
+      ],
+      "query": "メッシュWiFi ルーター",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TP-Link",
+      "tier": "fallback"
+    },
+    {
+      "title": "TP-Link WiFi 無線LANルーター Wi-Fi6 2402 + 574 Mbps HE160 メッシュWi-Fiシステム 3年保証 Deco X50/A 3ユニット",
+      "url": "https://www.amazon.co.jp/dp/B09QFYTW29?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31p7uw9MKBL._SL500_.jpg",
+      "features": [
+        "[特徴] 広いおウチでも、たくさん端末があっても、もう大丈夫。広範囲をムラなく包み込む次世代Wi-Fi6メッシュで、おウチのWi-Fiを快適にしよう。3ユニットパック。",
+        "[規格値] 2x2/HE160 2402 + 574Mbps",
+        "[快適な有線接続] 3つのギガビットポートを搭載しているので有線接続にも困りません。",
+        "[AI-搭載メッシュ] AIによりメッシュWi-Fi環境をさらに快適に",
+        "[長期保証] メーカー保証３年",
+        "[かんたん設定] Decoを箱から出してアプリをインストールしたら、あとは画面の表示通りに進めるだけ。数分で設定完了です。"
+      ],
+      "query": "メッシュWiFi ルーター",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TP-Link",
+      "tier": "fallback"
+    },
+    {
+      "title": "TP-Link メッシュ WiFi 6 ルーター 【 PS5 / ipad/Nintendo Switch/iPhone シリーズ メーカー動作確認済み 】 Alexa 認定製品 スマートテレビ 対応 メッシュWi-Fi無線LANルーター スマートホーム AX1800 (1201+574Mbps) Deco X20 1ユニット",
+      "url": "https://www.amazon.co.jp/dp/B0873HWFGQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31dtMFtKO-L._SL500_.jpg",
+      "features": [
+        "[特徴] WiFi6対応。広い場所もWi-Fiが途切れにくい環境を構築。1201 + 574Mbps。1ユニットタイプ。",
+        "[WiFi6対応] 最先端のWi-Fi規格でさらなる速度と安定性を構築",
+        "Deco X20 (1-pack)",
+        "[クアッドコアCPU搭載] 超高速のクアッドコアCPUを搭載。Wi-Fi通信のデータ処理をより円滑に。",
+        "[メッシュWi-Fi] 広いおウチやオフィスでも安定したWi-Fi環境を構築。"
+      ],
+      "query": "メッシュWiFi Wi-Fi 6",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TP-Link",
+      "tier": "fallback"
+    },
+    {
+      "title": "TP-Link メッシュ WiFi 6 ルーター 【 PS5 / ipad/Nintendo Switch/iPhone シリーズ メーカー動作確認済み 】 Alexa 認定製品 スマートテレビ 対応 メッシュWi-Fi無線LANルーター スマートホーム AX1800 (1201+574Mbps) Deco X20 2ユニット",
+      "url": "https://www.amazon.co.jp/dp/B0873GSWFY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31t9D+wInJL._SL500_.jpg",
+      "features": [
+        "[特徴] 新感覚 \"Wi-Fi 6\" でおウチを包む。広い場所もWi-Fiが途切れにくい環境を構築。1201 + 574Mbps、2ユニットタイプ。",
+        "[スマホで設定] おどろくほど簡単に。iOS または Android搭載スマホより専用アプリ\"Deco\"でかんたん設定。",
+        "[WiFi6対応] 最先端のWi-Fi規格でさらなる速度と安定性を構築",
+        "[メッシュWi-Fi] 広いおウチやオフィスでも安定したWi-Fi環境を構築。",
+        "[メッシュWi-Fi] 広いおウチやオフィスでも安定したWi-Fi環境を構築。",
+        "[クアッドコアCPU搭載] 超高速のクアッドコアCPUを搭載。Wi-Fi通信のデータ処理をより円滑に。",
+        "コネクタタイプ:WLAN",
+        "WPS対応無"
+      ],
+      "query": "メッシュWiFi Wi-Fi 6",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TP-Link",
+      "tier": "fallback"
+    },
+    {
+      "title": "TP-Link メッシュ WiFi 6 ルーター 【 PS5 / ipad/Nintendo Switch/iPhone シリーズ メーカー動作確認済み 】 Alexa 認定製品 スマートテレビ 対応 メッシュWi-Fi無線LANルーター スマートホーム AX1800 (1201+574Mbps) Deco X20/A 2ユニット",
+      "url": "https://www.amazon.co.jp/dp/B0BB5NH4JN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31bHEME1yCL._SL500_.jpg",
+      "features": [
+        "[特徴] 新感覚 \"Wi-Fi 6\" でおウチを包む。広い場所もWi-Fiが途切れにくい環境を構築。1201 + 574Mbps、2ユニットタイプ。",
+        "[スマホで設定] おどろくほど簡単に。iOS または Android搭載スマホより専用アプリ\"Deco\"でかんたん設定。",
+        "[WiFi6対応] 最先端のWi-Fi規格でさらなる速度と安定性を構築",
+        "[メッシュWi-Fi] 広いおウチやオフィスでも安定したWi-Fi環境を構築。"
+      ],
+      "query": "メッシュWiFi Wi-Fi 6",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TP-Link",
+      "tier": "fallback"
+    },
+    {
+      "title": "Amazon eero 6+ - メッシュwifi ルーター | AX3000 | 1.0Gbpsイーサネット | 最大wifi範囲140m² | 同時接続デバイス約75台 | 1ユニット",
+      "url": "https://www.amazon.co.jp/dp/B0BP73KBC2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/11kOJd6FijL._SL500_.jpg",
+      "features": [
+        "【ギガビットの速さがお手頃価格で】eero 6+は、最大1ギガビットのwifiスピードを手頃な価格で提供。ご家族全員で、オンライン作業、ストリーミング、ビデオチャットを同時に行っても安心。",
+        "【eeroデバイスを増やすとwifi範囲がもっと広がる】eero 6+の最大wifi範囲は、1ユニットで140m²、2ユニットで280m²、3ユニットで420m²。約75台のデバイスとの同時接続もサポート。",
+        "【数分でセットアップ】eeroアプリのガイドに従えば、簡単にセットアップが完了。好きな場所から、簡単にご家庭のネットワークを管理。",
+        "【TrueMeshの安定性】eeroのTrueMeshテクノロジーは、ネットワーク上のトラフィックを能動的に調整し、各接続デバイスを、都度最適なネットワーク経路に誘導。ネットワークの切断を減らし、ご自宅全体でシームレスなwifi環境を実現。",
+        "【Amazon Echoデバイスでwifi範囲を拡張】eeroビルトイン機能を使えば、対応するAmazon Echoデバイス(別売)が、wifiエクステンダーに。ネットワークの届きづらいデッドスポットやバッファリングを解消。",
+        "【安心の国内サポート】日本国内のカスタマーサポートがお客様をサポート。フリーダイヤル(0120-984-213)、またはメール(support@eero.com)でお問い合わせください。",
+        "【ご利用中も安心】ご利用開始後も、eeroアプリの通知機能で、ネットワークセキュリティを守るための継続的なサービスアップデートが確認可能。さらに、別途有料のサブスクリプションサービス(eero Plus)を契約すると、オンラインセキュリティツール含むその他プレミアムサービスの利用も可能に。",
+        "【スマートホームハブ】eero 6+を利用すれば、Thread、Matter、Zigbeeデバイスの接続・管理も可能。※eeroデバイスにはAlexaは搭載されておりませんので、スマートホーム製品のコントロールにはEchoなど対応するAlexaデバイス(別売)やAlexaアプリをご利用ください。"
+      ],
+      "query": "メッシュWiFi Wi-Fi 6",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "Amazon",
+      "tier": "fallback"
+    },
+    {
+      "title": "TP-Link Deco X50 3P AX3000メッシュWi-Fi 6システム 3個パック",
+      "url": "https://www.amazon.co.jp/dp/B0BSTMHPJ2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21reiQyNgeL._SL500_.jpg",
+      "features": [
+        "ブランド:TP-Link",
+        "モデル名:DECOX50(3-PACK)(JP)",
+        "周波数帯クラス:デュアルバンド",
+        "ワイヤレス通信規格:802.11ax",
+        "付属コンポーネント:本体"
+      ],
+      "query": "メッシュWiFi Wi-Fi 6",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TP-Link",
+      "tier": "fallback"
+    },
+    {
+      "title": "【Amazon.co.jp限定】 TP-Link WiFi 6E ルーター tri band メッシュWi-Fiシステム 中継 スマートテレビ 対応 無線LAN 2.5Gbps スマートホーム AXE5400 (2402 + 2402 + 574Mbps) Deco XE75 Pro 2-pack",
+      "url": "https://www.amazon.co.jp/dp/B0D59G3D9M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31nwkvGH+xL._SL500_.jpg",
+      "features": [
+        "[特徴] Wi-Fi6Eで新たなメッシュWi-Fi環境を構築。新規格 6GHzにより、新次元のメッシュWi-Fi環境を体感。既存のDecoとの併用も可能。",
+        "[規格値] 6GHz:2402 Mbps (802.11ax, HE160) , 5GHz: 2402Mbps (802.11ax , HE160) , 2.4GHz : 574Mbps (802.11ax)",
+        "[広範囲カバレッジ] ２ユニット使用時は最大510m²までのカバー範囲を実現。ご利用範囲に合わせて、最大10ユニットまでのDecoユニットをひとつのネットワークで使用できます。",
+        "[AIメッシュ] ネットワーク環境を賢く学習し、各ご家庭に合った理想的なWiFiを提供",
+        "[6GHz新トライバンド] 新たなる6GHzがDecoユニット間専用のバックホールとしても機能し、どのようなWiFi端末の環境でも最適化"
+      ],
+      "query": "TP-Link Deco メッシュWiFi",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "TP-Link",
+      "tier": "fallback"
+    },
+    {
+      "title": "【Amazon.co.jp限定】 バッファロー WiFi ルーター 無線 LAN Wi-Fi 6 11ax / 11ac AX3000 2401+573Mbps メッシュWi-Fi ペアリング済み2台セット 【 iPhone 15 / 14 / iPhone SE (第三世代) / Nintendo Switch / PS5 動作確認済み 】 エコパッケージ WNR-3000AX4/2SN",
+      "url": "https://www.amazon.co.jp/dp/B0C6F5YQ52?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21GOO9RUT-L._SL500_.jpg",
+      "features": [
+        "【メッシュWi-Fi対応】すみずみまで快適なWi-Fiを最適化するメッシュWi-Fi（Wi-Fi EasyMesh（TM））に対応。本商品は2台セットモデルとして出荷時から、1台を親機、もう1台を中継機としてペアリング済みのモデルとなります。",
+        "【設置のしやすさを重視した新コンパクト筐体】ケーブルすっきりデザインで設置場所の自由度を向上。アンテナ内蔵型のコンパクト設計です。側面置き・正面置き・壁掛けに対応。",
+        "【スマート家電ともメーカー動作確認済み】iPhone、Nintendo Switch、PS5はもちろん、Amazon echo Show 5/8/10/15、GoogleHome、ルンバ e5/i3/i7/s9等スマート家電ともメーカー動作確認済み。",
+        "【安心のセキュリティー】より強固なセキュリティー規格「WPA3」に対応。通信の暗号化により、高い安全性を確保します。また、セキュリティ―機能「ネット脅威ブロッカー2 プレミアム」に後日対応予定です。",
+        "【かんたん設定】新しくなった「AirStationアプリ」を使えば、スマホで簡単に初期設定が完了します。",
+        "【Amazon限定】環境に配慮した簡易包装でお届けします"
+      ],
+      "query": "BUFFALO メッシュWiFi",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "バッファロー",
+      "tier": "fallback"
+    },
+    {
+      "title": "【Amazon.co.jp限定】バッファロー WiFi 無線LAN 中継機 Wi-Fi 6 11ax AX3000 2401+573Mbps WPS ワイドバンド メッシュ EasyMesh コンセント直挿し/据え置き 外付けアンテナ 日本メーカー エコパッケージ WEX-3000AX4EA/N",
+      "url": "https://www.amazon.co.jp/dp/B0DJV98JTL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21p9fd+lRAL._SL500_.jpg",
+      "features": [
+        "【W-Fiエリアを拡大】外付け可動式ハイパワーアンテナを搭載したWi-Fi 6対応中継機です。Wi-Fiが届かなかった部屋へも、Wi-Fiエリアを拡大することができます。​",
+        "【離れた部屋でもより快適に】3本の5GHzアンテナで離れた部屋でも、より高速・安定通信を実現します。",
+        "​【かんたん接続】Wi-Fiルーターと本商品のボタンを押すだけで接続完了。すぐにお使いいただけます。※ルーター側もWPSに対応している必要があります。",
+        "【コンセント直挿し&据え置き両対応】上部のコンセント口をふさぐことなくスッキリ設置可能な設計です。 付属のスタンド&延長ケーブルで据え置き設置もできます。",
+        "【メッシュWi-Fiにも対応】EasyMesh対応ルーターと組み合わせることでメッシュ環境へのアップグレードが可能です。​",
+        "【Amazon限定】環境に配慮した包装でお届けします"
+      ],
+      "query": "BUFFALO メッシュWiFi",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "バッファロー",
+      "tier": "fallback"
+    },
+    {
+      "title": "【Amazon.co.jp限定】バッファロー WiFi 無線LAN 中継機 Wi-Fi 6 11ax AX3000 2401+573Mbps WPS ワイドバンド メッシュ EasyMesh 薄型 コンセント直挿し 内蔵アンテナ 日本メーカー エコパッケージ WEX-3000AX4/N",
+      "url": "https://www.amazon.co.jp/dp/B0DJVBC15T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21rFwXnWeyL._SL500_.jpg",
+      "features": [
+        "【W-Fiエリアを拡大】内蔵ハイパワーアンテナを搭載したWi-Fi 6対応スリム中継機です。Wi-Fiが届かなかった部屋へも、Wi-Fiエリアを拡大することができます。​",
+        "【離れた部屋でもより快適に】3本の5GHzアンテナで離れた部屋でも、より高速・安定通信を実現します。",
+        "​【かんたん接続】Wi-Fiルーターと本商品のボタンを押すだけで接続完了。すぐにお使いいただけます。※ルーター側もWPSに対応している必要があります。",
+        "【コンセント直挿し対応】上部のコンセント口をふさぐことなくスッキリ設置できます。",
+        "【メッシュWi-Fiにも対応】EasyMesh対応ルーターと組み合わせることでメッシュ環境へのアップグレードが可能です。​",
+        "【Amazon限定】環境に配慮した包装でお届けします"
+      ],
+      "query": "BUFFALO メッシュWiFi",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "バッファロー",
+      "tier": "fallback"
+    },
+    {
+      "title": "バッファロー メッシュ WiFi 無線LAN AirStation connect 専用中継機 コンセント直挿しモデル Wi-Fi 5 11ac 866+400Mbps AC1300 【 iPhone 13 / 12 / 11 / PS5 メーカー動作確認済み 】 WEM-1266WP",
+      "url": "https://www.amazon.co.jp/dp/B0842J1QXV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31NBiEGsw2L._SL500_.jpg",
+      "features": [
+        "【インターフェース】(無線)11ac/n/a/g/b (有線):Giga",
+        "【コンセント直挿しでも上のポートを塞がない】プラグの位置に配慮した設計なので、使用中でも上のコンセント口を塞がず、スッキリ設置。",
+        "※※※本製品はWTR-M2133HPシリーズ/WTR-M2133HSシリーズとWRM-D2133HPシリーズ/WRM-D2133HSシリーズの専用中継機です。それ以外の無線親機とあわせて使用することはできませんので予めご了承ください。※※※",
+        "【独自メッシュ機能】バッファロー独自のアルゴリズムによって通信経路のパターンを複数シミュレートし、最も効率的なメッシュネットワークを構築します。これにより、電波の届きにくい隣の部屋や異なるフロアでも、高画質な動画再生を快適に楽しむことができます。",
+        "【バッファローの強み】バッファローの無線LAN製品は日本国内販売台数18年連続第1位を受賞(※)。多くのお客様に支持されている無線LAN製品で毎日を快適に。※2019年 BCN調べ"
+      ],
+      "query": "BUFFALO メッシュWiFi",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "バッファロー",
+      "tier": "fallback"
+    },
+    {
+      "title": "【Amazon.co.jp限定】NEC Aterm 無線LAN Wi-Fi ６ ルーター 11ax AM-3000D4AX メッシュWi-Fi対応 デュアルバンド ４ストリーム (iPhone 16Pro/ 16 / 15 Pro / 14 / 13 /Nintendo Switch メーカー動作確認済み)",
+      "url": "https://www.amazon.co.jp/dp/B0FP214ZWF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31SNGiXvz+L._SL500_.jpg",
+      "features": [
+        "【Amazon.co.jp限定】ツメ折れ防止LANケーブル付き。ツメを稼働の逆側に、ストッパーを設けることでツメ折れを防止。商品の包装には環境に配慮したエコパッケージを採用。",
+        "【Wi-Fi 6で高速通信】Wi-Fi 6(11ax)に対応し、最大2402Mbps（5GHz帯）の高速通信を実現。",
+        "【メッシュ中継機能に対応】家中にWi-Fiを張り巡らせられるメッシュ中継機能搭載し安定した通信を実現。",
+        "【JC-STARに適合】IoT機器選びのセキュリティ新基準！セキュリティ要件適合評価及びラベリング制度「JC-STAR」に適合",
+        "【Aterｍ ホームネットワークリンクアプリ：初期ウィザード機能】スマホの画面の案内に沿って進めるだけでインターネット接続するまでの初期設定が可能。",
+        "【Aterm ホームネットワークリンクアプリ：ヒートマップ機能】スマホアプリで宅内のWi-Fi速度を計測し、通信状況をヒートマップでWi-Fiを見える化。",
+        "【コンパクトデザイン】アンテナ内蔵のコンパクトサイズでお部屋になじむスッキリデザイン。",
+        "【通信帯域のワイドバンド化】5GHz帯域がワイドバンド技術により従来の2倍の「160MHz」に拡大。通信の混雑解消とスピードが向上。",
+        "AM-3000D4AXは、PA-3000D4AXと同等商品です。"
+      ],
+      "query": "NEC Aterm メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "NEC",
+      "tier": "fallback"
+    },
+    {
+      "title": "NEC Aterm 無線LAN メッシュWiFi Wi-Fi 6E ルーター 11ax PA-WX5400T6/MS ペアリング済み・すぐ使えるトライバンド 計6ストリーム (iPhone 15 Pro / 14 / 13 /Nintendo Switch メーカー動作確認済み)",
+      "url": "https://www.amazon.co.jp/dp/B0D2R3XY3Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31M1XiWcQdL._SL500_.jpg",
+      "features": [
+        "【ペアリング済み】親機と中継機の2台セットモデル。ペアリング済みなので、メッシュ接続設定不要ですぐに使える。",
+        "【Wi-Fi 6E対応】混雑が少ない6GHz帯の利用により安定通信が可能。",
+        "【Wi-Fiエリアを拡大】家中にWi-Fiを張り巡らせられるメッシュ中継機能搭載。 安定した通信を実現。",
+        "【Wi-Fi状況を見える化】外出先からスマホアプリでWi-Fi接続を確認できる「ホームネットワークリンク」に対応。",
+        "【ヒートマップでWi-Fiの通信状況確認】スマホアプリで宅内のWi-Fi速度を計測し、通信状況をヒートマップで確認可能。"
+      ],
+      "query": "NEC Aterm メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "NEC",
+      "tier": "fallback"
+    },
+    {
+      "title": "NEC Aterm 無線LAN WiFi ルーター Wi-Fi6(11ax)デュアルバンド対応 5ストリーム PA-WX4200D5/MS（メッシュ親機-中継機ペアリング済みセットモデル）",
+      "url": "https://www.amazon.co.jp/dp/B0DBPZVH27?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21ezlabkKPL._SL500_.jpg",
+      "features": [
+        "【ペアリング済み】親機とメッシュ中継機の2台セットモデル。ペアリング済みなので、接続操作が不要ですぐに使える。",
+        "【Wi-Fi 6で高速通信】Wi-Fi 6(11ax)に対応し、最大3603Mbps（規格値）の高速通信を実現。",
+        "【メッシュ中継機能を搭載】家中にWi-Fiを張り巡らせられるメッシュ機能搭載。 安定した通信を実現。",
+        "【途切れにくく安定した通信】ローミング機能でいつでも電波環境の良い方へ自動切替。",
+        "【Wi-Fi見える化】外から遠隔操作でWi-Fi接続を確認できる「ホームネットワークリンク」に対応。"
+      ],
+      "query": "NEC Aterm メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "NEC",
+      "tier": "fallback"
+    },
+    {
+      "title": "NEC WiFi メッシュルーター 単体（ルーター本体にも中継機になる）Wi-Fi6 (11ax) / AX1800 無線LAN Atermシリーズ (5GHz帯 / 2.4GHz帯) AM-AX1800HP(MC)【 iPhone 13 / 12 / iPhone SE(第二世代) / Nintendo Switch メーカー動作確認済み】",
+      "url": "https://www.amazon.co.jp/dp/B08GR23R2J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/313M64lmZ7L._SL500_.jpg",
+      "features": [
+        "【高速通信】Wi-Fi 6(11ax)に対応し、最大1201Mbpsの高速通信を実現。",
+        "【安定通信技術】「メッシュ中継機能」の「ローミング」により、親機と中継機間で電波状況の良い方へ自動切替接続する安定通信を実現。",
+        "【すぐに使える設定】親機とメッシュ中継機は出荷時からペアリング済み。接続設定は不要の簡単設計。",
+        "【便利アプリ】スマホアプリ「ホームネットワークリンク」によるWi-Fiの見える化、再起動などの遠隔操作を実現。",
+        "NTTドコモの5G対応ホームルーター「home 5G HR02」を親機としたメッシュ中継利用も可能。"
+      ],
+      "query": "NEC Aterm メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "NEC",
+      "tier": "fallback"
+    },
+    {
+      "title": "PA-WX1800HP Aterm WX1800HP Wi-Fi6 無線LANルータ メッシュ中継機能搭載モデル",
+      "url": "https://www.amazon.co.jp/dp/B0F2MQM1BB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21hS8mU6zwL._SL500_.jpg",
+      "features": [
+        "Wi-Fiホームルータ​Wi-Fi 6対応",
+        "メッシュ中継機能搭載2ストリーム(5GHz)2ストリーム(2.4GHz)"
+      ],
+      "query": "NEC Aterm メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "PA-WX1800HP",
+      "tier": "fallback"
+    },
+    {
+      "title": "ASUS WiFi 無線 ルーター WiFi6 1201+574Mbps v6プラス/ OCNバーチャルコネクトに対応デュアルバンド RT-AX1800U (A) メッシュ&セキュリティ機能付 3階建 接続台数32台 国内正規代理店品",
+      "url": "https://www.amazon.co.jp/dp/B0BVDZPNP5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41RVnvx88WL._SL500_.jpg",
+      "features": [
+        "【IPv6 IPoE(IPv4 over IPv6)対応】 – v6プラス/ OCNバーチャルコネクトに対応",
+        "【テレワーク(在宅勤務)も安心】セキュリティー機能で家庭内接続機器をお守りします。また、帯域幅変更機能でネット会議中の音声途切れもなく、画像も滑らかです。PS5 、switchにも最適。",
+        "【最新のWi-Fi6対応】より多くのデバイスを同時に繋げても安定、高速通信が可能。8K/4K動画もストレスなく快適に!",
+        "【TWT(ターゲットウェイクタイム)】デバイスのバッテリーの消費を効率的に抑え、省エネに。",
+        "【セキュリティ機能】「悪質サイトブロック」や「感染デバイス検出/ブロック」によって外部の脅威からしっかり守ります。、ゲーム機やスマートフォンなどのセキュリティ対策にも"
+      ],
+      "query": "ASUS メッシュWiFi",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "ASUS",
+      "tier": "fallback"
+    },
+    {
+      "title": "ASUS RT-BE3600 Go 最新規格WiFi7対応デュアルバンドトラベルルーター 2882+688Mbps 2.5Ｇポート 4G/5Gモバイルテザリングや公共WiFiモードに対応 メッシュネットワーク「AiMesh」&無料セキュリティー機能を搭載 軽量コンパクト",
+      "url": "https://www.amazon.co.jp/dp/B0GBRW79HG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ltlACax6L._SL500_.jpg",
+      "features": [
+        "デュアルバンド WiFi 7 により、MLOと4K-QAMを活用して最大3600 Mbpsの速度を実現",
+        "4G/5Gモバイルテザリングや公共WiFiモードに対応し、旅行・仕事・家庭のあらゆる場面で使えるトライモード接続",
+        "包括的なVPN機能は最大30のサービスプロバイダーに対応し、拠点間VPNもサポート",
+        "ゲストネットワーク プロにより、IoTデバイス、VPNサブネットワーク、またはゲストポータルを簡単に設定可能",
+        "「悪意のあるウェブサイトのブロッキング」、「感染デバイスの防止とブロッキング」の２つのセキュリティー機能",
+        "複数のWiFiルーターを繋ぎ合わせて、隅々まで広い通信範囲を提供するメッシュネットワークシステムAiMeshに対応。",
+        "複雑な設定は一切なし！ASUSルーター専用アプリから手順にしたがって操作するだけで簡単に初期設定が完了。"
+      ],
+      "query": "ASUS メッシュWiFi",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "ASUS",
+      "tier": "fallback"
+    },
+    {
+      "title": "【Amazon.co.jp限定】ASUS wifi7 ルーター RT-BE92U(A)/E 無線LAN 10GBポート 10gbps 10ギガ対応 / OCNバーチャルコネクト/トライバンド 10G光クロス 月額無料ネットワークセキュリティ 「AiProtection」 & 「ペアレンタルコ ントロール」機能 メッシュWi-Fi 「AiMesh」 3年保証",
+      "url": "https://www.amazon.co.jp/dp/B0DM8PTZS1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ObcDgqRHL._SL500_.jpg",
+      "features": [
+        "【Amazon限定】環境に配慮した包装でお届けします。保証期間は+1年の3年保証",
+        "【IPv6 IPoE(IPv4 over IPv6)対応】 IPv6/IPv4共にインターネット接続可能。10Ｇ光クロスでの接続の場合はＦＷアップデートが必要です。",
+        "【スマートホーム向けWi-Fi】　最大9,700Mbpsの高速通信を実現する超高速Wi-Fi 7ルーターにパワフルなクアッドコアCPUを搭載することで、処理能力を向上し、より多くのデバイスに対応。",
+        "【ワンタップで安全なブラウジング】 ASUSセーフブラウジングで望ましくないコンテンツをブロックし、検索結果から不適切なコンテンツをフィルタリングしてオンラインの危険からお子様を保護。",
+        "【AiMesh】複数のWi-Fiルーターを繋ぎ合わせて、隅々まで広い通信範囲を提供するメッシュネットワークシステムAiMeshに対応。"
+      ],
+      "query": "ASUS メッシュWiFi",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "ASUS",
+      "tier": "fallback"
+    },
+    {
+      "title": "ASUS WiFi RT-AX57 無線 ルーター 最新規格WiFi6 2402+574Mbps v6プラス/ OCNバーチャルコネクト対応デュアルバンド。アプリで各種機能を簡単に設定、ゲーム&ストリーミングに最適 メッシュ/セキュリティ機能付 3階建4LDK",
+      "url": "https://www.amazon.co.jp/dp/B0CG7RVJ88?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31vMBoHLUbL._SL500_.jpg",
+      "features": [
+        "【IPv6 IPoE(IPv4 over IPv6)対応】v6プラス/ OCNバーチャルコネクト対応デュアルバンド。",
+        "【スマートホーム向けWi-Fi】　最大3,000Mbpsの高速通信を実現する超高速Wi-Fi 6ルーターにパワフルなクワッドコア 1.7GHzを搭載することで、処理能力を向上し、より多くのデバイスに対応。",
+        "【最新のWi-Fi6対応】より多くのデバイスを同時に繋げても安定、高速通信が可能。8K/4K動画もストレスなく快適に!",
+        "【テレワーク(在宅勤務)も安心】セキュリティー機能で家庭内接続機器をお守りします。また、帯域幅変更機能でネット会議中の音声途切れもなく、画像も滑らかです。PS5 、switchにも最適。",
+        "【セキュリティ機能】「悪質サイトブロック」や「感染デバイス検出/ブロック」によって外部の脅威からしっかり守ります。ゲーム機やスマートフォンなどのセキュリティ対策にも"
+      ],
+      "query": "ASUS メッシュWiFi",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "ASUS",
+      "tier": "fallback"
+    },
+    {
+      "title": "【Amazon.co.jp限定】ASUS WiFi 7 ゲーミングルーター BE7200 10G WAN 2.5GゲーミングLANポート 5764+1376Mbps v6プラス/OCNバーチャルコネクト/クロスパス/transix対応 ゲーミングネットワーク専用SSID ROG STRIX GS-BE7200X 3年保証 国内正規代理店品",
+      "url": "https://www.amazon.co.jp/dp/B0FS16PPPR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31p9TlHH1UL._SL500_.jpg",
+      "features": [
+        "【Amazon限定】環境に配慮した包装でお届けします",
+        "【IPv6 IPoE(IPv4 over IPv6)対応】 v6プラス/OCNバーチャルコネクト/クロスパス/transix/IPv6オプション対応。IPv6/IPv4共にインターネット接続可能。",
+        "【高速、低遅延インターフェイス】 最大で16.5Gの有線接続でネットワークをさらに高速化。10ギガWAN、2.5ギガのゲーミングポート、4つの1ギガLANポートを搭載。",
+        "【ゲームブースト機能】ゲーミングネットワーク専用のSSIDを作成する事で、接続するゲーミングデバイスのネットワークをブーストします。ASUSが誇るゲームブースト機能を個々のデバイスごとに設定する必要は無く、ゲーミングネットワークに接続するだけで利用可能です。",
+        "【Zero Wait DFS】内蔵のゼロウェイトDFSが更に信頼性の高いネットワークを提供します。5GHz帯に5番目のRXレシーバーを搭載するハードウェアデザインで、5GHz帯のパフォーマンスを向上させます。"
+      ],
+      "query": "ASUS メッシュWiFi",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "ASUS",
+      "tier": "fallback"
+    },
+    {
+      "title": "ネットギア Orbi WiFi6 Micro (NETGEAR) メッシュwifi 無線lan ルーター RBK352 [ルーター&サテライト] 2台セット 11ax (wifi 6) ax1800",
+      "url": "https://www.amazon.co.jp/dp/B08NPQ87H4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31-v7Dfw30L._SL500_.jpg",
+      "features": [
+        "【Orbi WiFi6 Micro】WiFi6対応 メッシュWiFiシステム(ルーター+サテライトセット)",
+        "【AX1800 WiFi 6対応】1201+574 MbpsのWiFi 6に対応し、2台セットで最大200㎡の広範囲に安定したWiFiを提供。",
+        "【ギガビットLANポート搭載】ルーターとサテライトあわせて5ポートのLANポートを備え、WiFiはもちろんテレビやゲーム機などの有線デバイスがご自宅のどこでも接続できる。",
+        "【従来の機器も高速に】WiFi6ではより効率的な通信を実現。WiFi6未対応のデバイスでも速度の向上を体感できます。",
+        "【安心の日本語サポートと3年保証】ネットギアのサポート窓口は365日年中無休で対応(購入後サポートの際には無償ユーザ登録が必要です)"
+      ],
+      "query": "Netgear Orbi メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "ネットギア",
+      "tier": "fallback"
+    },
+    {
+      "title": "[メーカー生産終了品] NETGEAR Orbi WiFi6 Mini メッシュWiFi AX4200 2台セット 無線LANルーター 11ax トライバンド RBK752 無償3年保証 【Nintendo Switch/PS5/iPhone/android】",
+      "url": "https://www.amazon.co.jp/dp/B08D6L11JC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31H+NUugBWL._SL500_.jpg",
+      "features": [
+        "【Orbi WiFi6 Mini】WiFi6対応 トライバンド メッシュWiFiシステム(ルーター+サテライト)",
+        "【トライバンド WiFi6】2つの5GHz帯の両方がWiFi 6対応で、WiFi速度は2402Mbps+1201Mbps+574Mbps 合計4177Mbps。1ユニットあたり175㎡をカバー。",
+        "【ギガビットLANポート搭載】WiFiはもちろんテレビやゲーム機などの有線デバイスをご自宅のどこでも接続できます。",
+        "【メッシュWiFi】サテライトの追加でさらに拡張可能。※本製品に802.11ac対応のOrbiサテライト(RBS50, RBS20, RBS40V)は接続できません。",
+        "【業界最長クラスの保証】無償保証期間は3年間。サポートセンターも365日年中無休の日本語サポートで安心。",
+        "コネクタタイプ:Wi-Fi"
+      ],
+      "query": "Netgear Orbi メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "NETGEAR",
+      "tier": "fallback"
+    },
+    {
+      "title": "ネットギア Orbi WiFi6 Micro (NETGEAR) メッシュwifi 無線lan 中継機 RBS350 [サテライトのみ] 11ax (wifi 6) ax1800",
+      "url": "https://www.amazon.co.jp/dp/B08NPK2XP6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21U0D78l-5L._SL500_.jpg",
+      "features": [
+        "【Orbi WiFi6 Micro】WiFi6対応 メッシュWiFiシステム 追加用サテライト",
+        "【WiFiの範囲を拡張】サテライト1台でWiFiの範囲を100㎡拡張することができます。※本製品単体ではインターネットに接続することはできません。インターネットに接続するには、別売りのOrbi WiFi 6 Mini/Micro スターターキット同梱のOrbiルーター(RBK352/RBK353/RBK752:ファームウェア4.6.5.14以降/RBK753:ファームウェア4.6.5.14以降)が必要です。",
+        "【ギガビットLANポート搭載】サテライトは2ポートのLANポートを備え、WiFiはもちろんテレビやゲーム機などの有線デバイスがご自宅のどこでも接続できる。",
+        "【従来の機器も高速に】WiFi6ではより効率的な通信を実現。WiFi6未対応のデバイスでも速度の向上を体感できます。",
+        "【安心の日本語サポートと3年保証】ネットギアのサポート窓口は365日年中無休で対応(購入後サポートの際には無償ユーザ登録が必要です)"
+      ],
+      "query": "Netgear Orbi メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "ネットギア",
+      "tier": "fallback"
+    },
+    {
+      "title": "ネットギア Orbi WiFi6 Micro (NETGEAR) メッシュwifi 無線lan ルーター RBK353 [ルーター&サテライトx2] 3台セット 11ax (wifi 6) ax1800",
+      "url": "https://www.amazon.co.jp/dp/B08NNYVMZD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31N04LkJxcL._SL500_.jpg",
+      "features": [
+        "【Orbi WiFi6 Micro】WiFi6対応 メッシュWiFiシステム(ルーター+サテライト2台: 合計3台)",
+        "【AX1800 WiFi 6対応】1201+574 MbpsのWiFi 6に対応し、3台セットで最大300㎡の広範囲に安定したWiFiを提供。",
+        "【ギガビットLANポート搭載】ルーターとサテライトあわせて7ポートのLANポートを備え、WiFiはもちろんテレビやゲーム機などの有線デバイスがご自宅のどこでも接続できる。",
+        "【従来の機器も高速に】WiFi6ではより効率的な通信を実現。WiFi6未対応のデバイスでも速度の向上を体感できます。",
+        "【安心の日本語サポートと3年保証】ネットギアのサポート窓口は365日年中無休で対応(購入後サポートの際には無償ユーザ登録が必要です)"
+      ],
+      "query": "Netgear Orbi メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "ネットギア",
+      "tier": "fallback"
+    },
+    {
+      "title": "【メーカ生産終了品】NETGEAR メッシュWiFi 無線LAN 中継機 Orbi WiFi6 11ax 速度 AX6000 トライバンド 推奨48台/175㎡ RBS850 (サテライトのみ)",
+      "url": "https://www.amazon.co.jp/dp/B08CDPW7FQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/319wW1snCNL._SL500_.jpg",
+      "features": [
+        "【Orbi WiFi6 追加サテライト】部屋数が増えた、接続台数が増えた人のための追加サテライト(中継機)。サテライト1台でWiFiの範囲を175㎡拡張。",
+        "注意: 本商品はOrbiサテライト(RBS850)単体モデルです。インターネットに接続するには、別売りのOrbiスターターキット同梱のOrbiルーター(RBK852/RBK853)が必要です。1つのルーターに対して、サテライト3台まで推奨。",
+        "【トライバンド WiFi6】WiFi速度は2つの5GHz帯の両方がWiFi 6対応で、 2402Mbps+2402Mbps+1147Mbps　合計5951Mbps。1ユニットあたり175㎡をカバー。",
+        "【移動しても通信が途切れない】Orbiは1つのネットワーク名(SSID)を使うのでシームレスな通信を提供、移動しても途切れません。",
+        "【安心の日本語サポートと3年保証】ネットギアのサポート窓口は365日年中無休で対応(購入後サポートの際には無償ユーザ登録が必要です)"
+      ],
+      "query": "Netgear Orbi メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "NETGEAR",
+      "tier": "fallback"
+    },
+    {
+      "title": "【家電批評2023上半期ベストバイ】 Linksys(リンクシス) AX5400 Wi-Fi 6 メッシュ対応ルーター MX5501-JP 11ax (574 + 4804 Mbps) デュアルバンド メーカー3年保証 【 iPhone/Android アプリ簡単設定 複数台で メッシュ範囲拡張 WiFi強化可能 】",
+      "url": "https://www.amazon.co.jp/dp/B09M7W6QN8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31NpxG5S44L._SL500_.jpg",
+      "features": [
+        "WiFi 6の効果を最大限に発揮: この高速回線ゲーミングルーターは 2.4GHz帯で574 Mbps 5GHz帯で4,804 Mbpsの通信速度を実現し より多くのスマートデバイスやIoT機器に最大5.4 Gbpsの高速通信を提供します。",
+        "強力なWiFiホームルーター: WiFi 6および160 MHzチャネルへの対応により 8K動画のストリーミングやVRゲームのプレイをタイムラグなしで楽しめます。また Intelligent Meshテクノロジーが信号の安定性を高め 建物内のデッドゾーンを解消します。",
+        "通信範囲をシームレスに拡大: Velopノードや他のi-Mesh対応機器を追加するだけで ご自宅全体をカバーする安定したWiFi環境を構築できます。本ルーター1台で 同時接続デバイス数30台 通信範囲190平方メートル(2~3LDK)まで対応しています。",
+        "簡単なセットアップ:Linksysアプリを使えば ごく短時間でインターネットに接続でき ネットワークの管理も容易になります。自宅のWiFiのリモート管理 ゲスト用WiFiの設定 ペアレンタルコントロール機能の有効化などもすべて このアプリで行えます。",
+        "セキュアなネットワーク:3年間の製品保証と日本語サポートの付属 WPA3への対応 SPIファイアウォールとファームウェア自動更新の機能により 長く安心してお使いいただけます。また 本ルーターはQualcomm 216 1.0GHz CPUを搭載し 優れたパフォーマンスを発揮します。"
+      ],
+      "query": "Linksys Velop メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "Linksys(リンクシス)",
+      "tier": "fallback"
+    },
+    {
+      "title": "Linksys(リンクシス) Velop WHW0103ホールホームメッシュシステム: WiFi 5デュアルバンド(867+400 Mbps)無線LANルーター3台パック(3年保証付き) - PS5、iPhone動作確認済、スマートテレビの通信速度と通信範囲を強化",
+      "url": "https://www.amazon.co.jp/dp/B07HRZMVQX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31923oeQWgL._SL500_.jpg",
+      "features": [
+        "デッドゾーンの解消: より多くのスマートデバイスやIoT機器を接続できる安定したWiFi環境をご自宅内に構築します。Velopノードや他のi-Mesh対応機器を追加すれば簡単に通信範囲を拡大できるモジュール式システムです。",
+        "ギガビットの通信速度: この高速WiFi 6ホームルーターは、最大1.3 Gbpsの通信速度と、高帯域幅アクセスが可能な2つの周波数帯を提供します。最大45台のデバイスの接続に対応し、420平方メートル(3~4LDK)の範囲をカバーします。",
+        "滑らかで途切れないストリーミング: Intelligent Meshテクノロジーを搭載したこの強力なホールホームWiFiルーターは、オンラインゲームのプレイ、動画のストリーミング視聴、テレワークでも、滑らかで途切れのない無線通信を実現します。",
+        "簡単なセットアップ: Linksysアプリを使えば、ごく短時間でインターネットに接続でき、ネットワークの管理も容易になります。自宅のWiFiのリモート管理、ゲスト用WiFiの設定、ペアレンタルコントロール機能の有効化などもすべて、このアプリで行えます。",
+        "セキュアなネットワーク: 本ルーターは、3年間の製品保証と日本語によるサポートが付属し、WPA2への対応と、SPIファイアウォールおよびファームウェア自動更新の機能により、長く安心してご利用いただけます。"
+      ],
+      "query": "Linksys Velop メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "Linksys(リンクシス)",
+      "tier": "fallback"
+    },
+    {
+      "title": "【apple HomeKit対応】 Linksys AX4200 Wi-Fi 6 メッシュWiFi ルーター MX4200-JP 11ax (2402 + 1201 + 574 Mbps) トライバンド iPhone/Android アプリ簡単設定 国内正規代理店品 NT1522",
+      "url": "https://www.amazon.co.jp/dp/B0074JKFCI?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21dg7RCiMCL._SL500_.jpg",
+      "features": [
+        "NT1522 日本正規代理店製品 保証2年",
+        "Wi-Fi 6（IEEE 802.11ax）に対応し、最大4200Mbpsのトライバンド通信で高速かつ安定したネットワークを実現します。動画配信やオンラインゲームも快適です。",
+        "Intelligent Mesh技術により、複数台のノードでシームレスなWi-Fi環境を構築できます。1台で約185平方メートルをカバーし、家全体を安定した通信エリアにします。",
+        "OFDMA、MU-MIMO、ビームフォーミングなどに対応し、多数のデバイスを同時に高速接続可能です。スマート家電が多い環境にも適しています。",
+        "WPA2/WPA3ミックスモードやSPIファイアウォールによって安全性を確保。ゲストWi-Fiやペアレンタルコントロールにも対応しています。"
+      ],
+      "query": "Linksys Velop メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "Linksys",
+      "tier": "fallback"
+    },
+    {
+      "title": "Linksys(リンクシス) WHW0302 WiFi 5ホールホームメッシュシステム: トライバンド(867+867+400 Mbps)無線LANルーター2台パック(3年保証付き) - PS5、iPhone動作確認済、スマートテレビの接続用",
+      "url": "https://www.amazon.co.jp/dp/B07HRQ8TFT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/316LzXk4EmL._SL500_.jpg",
+      "features": [
+        "真のギガビット通信速度: この高速WiFiホームルーターは、最大2.2 Gbpsの通信速度と、高帯域幅アクセスが可能な3つの周波数帯を提供します。本システムは最大40台のデバイスの接続に対応し、360平方メートル(2~3LDK)の範囲をカバーします。",
+        "メッシュのメリット: Intelligent Meshテクノロジーにより、Velopノードや他のメッシュ対応機器を追加すれば簡単に通信範囲を拡大できます。より多くのスマートデバイスやIoT機器を接続できる安定したWiFi環境をご自宅内に構築します。",
+        "HomeKitに対応:Linksys AC2200システムはApple HomeKitに対応しています。スマートホームのセキュリティをさらに高め、ウイルス/マルウェアへの感染や個人データの流出を防ぎます。",
+        "簡単なセットアップ: Linksysアプリを使えば、ごく短時間でインターネットに接続でき、ネットワークの管理も容易になります。自宅のWiFiのリモート管理、ゲスト用WiFiの設定、ペアレンタルコントロール機能の有効化などもすべて、このアプリで行えます。",
+        "セキュアなネットワーク:本ルーターは、3年間の製品保証と日本語によるサポートが付属し、WPA2への対応と、SPIファイアウォールおよびファームウェア自動更新の機能により、長く安心してご利用いただけます。"
+      ],
+      "query": "Linksys Velop メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "Linksys(リンクシス)",
+      "tier": "fallback"
+    },
+    {
+      "title": "Linksys(リンクシス) WHW0303 WiFi 5ホールホームメッシュシステム: トライバンド(867+867+400 Mbps)無線LANルーター3台パック(3年保証付き) - PS5、iPhone動作確認済、スマートテレビの接続用",
+      "url": "https://www.amazon.co.jp/dp/B07HRT5673?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/313LlZxW8iL._SL500_.jpg",
+      "features": [
+        "真のギガビット通信速度: この高速WiFiホームルーターは、最大2.2 Gbpsの通信速度と、高帯域幅アクセスが可能な3つの周波数帯を提供します。本システムは最大60台のデバイスの接続に対応し、550平方メートル(4LDK~)の範囲をカバーします。",
+        "メッシュのメリット: Intelligent Meshテクノロジーにより、Velopノードや他のメッシュ対応機器を追加すれば簡単に通信範囲を拡大できます。より多くのスマートデバイスやIoT機器を接続できる安定したWiFi環境をご自宅内に構築します。",
+        "HomeKitに対応:Linksys AC2200システムはApple HomeKitに対応しています。スマートホームのセキュリティをさらに高め、ウイルス/マルウェアへの感染や個人データの流出を防ぎます。",
+        "簡単なセットアップ: Linksysアプリを使えば、ごく短時間でインターネットに接続でき、ネットワークの管理も容易になります。自宅のWiFiのリモート管理、ゲスト用WiFiの設定、ペアレンタルコントロール機能の有効化などもすべて、このアプリで行えます。",
+        "セキュアなネットワーク:本ルーターは、3年間の製品保証と日本語によるサポートが付属し、WPA2への対応と、SPIファイアウォールおよびファームウェア自動更新の機能により、長く安心してご利用いただけます。"
+      ],
+      "query": "Linksys Velop メッシュ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "Linksys(リンクシス)",
+      "tier": "fallback"
+    }
+  ]
+}

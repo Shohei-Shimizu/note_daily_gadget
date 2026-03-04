@@ -1,0 +1,1340 @@
+{
+  "date": "2026-03-05",
+  "title": "予算内でデスク整理。コスパ抜群「UGREEN」おすすめ 8 選",
+  "queries": [
+    "UGREEN USB-C ハブ",
+    "UGREEN ドッキングステーション",
+    "UGREEN 充電器 GaN",
+    "UGREEN モバイルバッテリー",
+    "UGREEN USB-C ケーブル",
+    "UGREEN HDMI 切替器",
+    "UGREEN ノートPCスタンド",
+    "UGREEN タブレットスタンド",
+    "UGREEN イヤホン",
+    "UGREEN NASync",
+    "UGREEN 電源タップ USB",
+    "UGREEN カードリーダー"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "PA-APIレスポンスで review_count / star_rating が取得できないため",
+    "fallback_policy": "Amazon検索上位 + 除外ワード排除（展示品/中古/訳あり/ジャンク/B品/アウトレット/整備済み/再生品） + メーカー重複制限（原則2件まで、特集テーマ除く）"
+  },
+  "search_execution": {
+    "script": "05_script/search_custom_list.py (imported search_products)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success"
+  },
+  "target_count": 8,
+  "fetched_count": 60,
+  "dedup_count": 60,
+  "selected_count": 8,
+  "selected_items": [
+    {
+      "title": "UGREEN Revodok 105 USB C ハブ 5-IN-1 HDMI 出力USB ハブ Type-C 100W PD急速充電 1*USB3.0+2*USB2.0ポート 5Gbps超高速データ転送用 スリムハブ 4K@30Hz Window/MacOS/linux/IOS/Androidシステム対応 Mac Pro/Air/iPad Proなど対応",
+      "url": "https://www.amazon.co.jp/dp/B0BR3M8XHK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Ec3fEO1hL._SL500_.jpg",
+      "features": [
+        "『スリム&多数のポートを同時に使用』：スリムで洗練されたUSB Cハブは、HDMIポートと1つのUSB 3.0、2つのUSB 2.0ポート、1つのPD充電ポートをを備えた5ポートマルチポートアダプターで瞬時に拡張し、ラップトップ、タブレットなどのUSB-Cデバイスの接続を改善します。",
+        "『PD 100Wの電力供給』：Power Delivery 3.0対応したUSB-Cポート経由で、MacBookや Surface Go 、Dell XPS、HP Spectre、Lenovo Yogaなどパソコンに最大95Wの急速充電を提供できるだけではなく、過電流・短絡保護機構を内蔵し、機器の安全性を確保します。多数のデバイスを同時に接続しても、電力不足の心配がありません。※ご注意：当USB-Cポートはデータ転送に非対応です。",
+        "『鮮やかな4Kディスプレイに対応』：このUSB Cマルチポートハブは、HDMIディスプレイに接続するためのHDMIポートを備えており、最大4K（3840*2160P@30Hz）の画質映像出力可能です。4K、Full HD 1080pをサポートし、音声と映像出力、ミラーモードと拡張モード両方も対応します。画像のティアリング、スタッター、ジャーキネスがなく、オーディオとディスプレイの同期も良好です。",
+        "『数秒でファイルを転送』：USB-Cハブは、キーボード、マウス、メモリなどの複数のUSB周辺機器を接続するために、1つのUSB 3.0、2つのUSB 2.0ポートを増設されます。最大5Gbpsの速度で、映画などのファイルを超高速で簡単に転送します。",
+        "『24ヶ月の保証期間』 ：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN USB-C ハブ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN Revodok Pro 314 USB-C ドッキングステーション 3画面対応 2つのHDMI & DP搭載 14-in-1【HDMI 4K/60Hz・DP 8K・100W PD充電・10Gbps高速転送・RJ45有線LAN・SD/TF対応】 Windows ノートPC/MacBook対応",
+      "url": "https://www.amazon.co.jp/dp/B0DYTVVLH4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/311Yrxg3xuL._SL500_.jpg",
+      "features": [
+        "【4K/8Kマルチモニター対応】HDMI×2（最大4K@60Hz）、DP×1（最大8K@30Hz/4K@120Hz）で鮮やかな映像表示。仕事・映画鑑賞・プレゼンに最適。",
+        "【最大100W急速充電＋27W PD】ノートPCへ最大100W供給、スマホへ27W高速充電。90cmケーブルで自由な設置が可能。",
+        "【超高速データ転送10Gbps】USBポート5基搭載（10Gbps×3、5Gbps×2）。大容量ファイルも短時間で転送。",
+        "【安定有線LAN＋高速カードリーダー】RJ45ギガビットLAN、SD/TF（170MB/s）、3.5mmオーディオポート搭載。安定性と柔軟性を両立。",
+        "【WindowsノートPC最適化】ThinkPad、Dell XPS、HP、Surface対応。マルチモニター安定動作、信頼性の高い作業環境を実現。",
+        "注:このドックは、異なるディスプレイを搭載したマルチモニタ一を接続したいMacBookユーザーには推奨されません。macOSの場合、外部モニタ一には同一のコンテンツが表示されます。 【24ヶ月品質保証 & 12時間以内迅速対応】弊社でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN ドッキングステーション",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 45W GaN USB-C 急速充電器 Type-C PD 充電器【PSE技術基準適合/GaNII 採用】タイプc PD/PPS/SCP/QC3.0全対応 MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
+      "url": "https://www.amazon.co.jp/dp/B0DMN885ZF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21rIqzMznhL._SL500_.jpg",
+      "features": [
+        "【45W GaN急速充電で、デバイスの電力不足を解消】最新GaN技術を採用した当社45W急速充電器は、従来比93%の高エネルギー変換効率を実現。PD出力とPPSプロトコルに対応し、スマホから、タブレット、ノートPCまで、あらゆるポータブルデバイスの急速充電ニーズをカバーられます。",
+        "【コインサイズの超コンパクト設計で、空間を圧迫しない】従来の45W充電器より体積50%縮小（35×35×44mm）、コンパクトで持ち運びに便利なサイズです。小さな本体に高効率の充電技術が詰め込まれており、外出先や旅行中でも手軽に利用できます。スマートフォンやタブレットなどのデバイスをいつでもどこでも快適に充電することができ、ユーザーの生活をサポートします。体積が小さいため、バッグやポケットに簡単に収納でき、持ち運び時の負担も軽減されます。",
+        "【次世代パワー半導体素材「GaN Fast II」採用】革新的な「GaN Fast II」テクノロジーと積層設計により、UGREEN Nexode Mini 45W Type C 充電アダプターはオリジナルの45W充電器より36%コンパクトサイズになっています。 従来品に比べて電力損失と発熱量が小さくなり、小型化・高効率化を実現したGaN充電器です。",
+        "【安心防護機能・しっかりサポート】過充電保護、過熱防止、過電流防止、ショート防止など複数の充電保護システムを備え、PSE認証をクリアし、安心してご利用可能。また、UGREEN独自技術による、接続されたデバイスに応じ、自動的に出力を判別し、最適な電流量でパワフルかつ安全に充電可能です。なお、耐火のPC素材を採用し、耐火レベルUL94-V0まで至ります。ACアダプターの耐久性と安全性を両立させます。",
+        "【複数充電規格に対応・小さいけど適用性が大きい】USB-C 充電器はこれ一台でガジェットライフがより自由に！PD3.0対応だけでなく、QC3.0、SCP、AFC、など多種類の充電規格にも対応しており、iPad Pro/iPad　mini/iPhone/Androidスマホ/タブレット端末/iWatch/MacBook Air/AirPods Proなど、優れた互換性があり、あらゆるデバイスに急速充電できます。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN 充電器 GaN",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 【小型・軽量・10000mAh】モバイルバッテリー 大容量 2台同時充電（USB-A×1 USBC×1）PD20W 急速充電 小電流モード バッテリー残量表示 コンパクト PSE技術基準適合 iphone17/Android/iPad 各種 USB-C 機器に対応",
+      "url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21yWDfPjQgL._SL500_.jpg",
+      "features": [
+        "【UGREEN史上初の小型・しかも10000mAh大容量！】電池切れの心配を解消し、災害や停電でコンセントから充電できない場合は役立つ大容量モバイルバッテリーです。",
+        "【iPhone 16 Pro Maxより37%も小型化！】ポケットに入れても違和感ない112MMのサイズで、コンパクトで持ち運びしやすいから、カバンの中でもかさばらないし、片手でサクッと操作するのも問題なし！",
+        "【2ポート・USB-C ＆ USB-A】端子はUSB-A×1、USB-C×1という2ポート構成。2ポート同時出力可能で、複数デバイスに同時充電可能なPD モバイルバッテリーです。",
+        "【PD対応・スマホやタブレットに急速充電】PD20W出力対応で、iPhone 15 Proに30分間で0～60％急速充電可能なモバイルバッテリーです。様々な急速充電プロトコルにも対応し、互換性抜群です。",
+        "【PSE適合・小電流モード搭載】電源ボタンを6秒間長押しすると、小電流モードをオン/オフができ、イヤホン、スマートウォッチなどの小電流デバイスにも充電対応します。",
+        "【バッテリー残量数字表示】バッテリー残量が具体的な数字表示により、バッテリー残量が一目瞭然できます。小柄でコンパクト、どこでも持ち歩きたくなる小型モバイルバッテリーです。",
+        "【★24ヶ月の保証期間★】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN モバイルバッテリー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN HDMI 切り替え器 HDMiセレクター 2入力1出力 双方向 4K 60Hz HDCP 2.2/hdmi 2.0 【HDMIケーブル一体型】 手動 電源不要 PC Xbox PS4 Fire TV Stick Apple TVに対応",
+      "url": "https://www.amazon.co.jp/dp/B08R868KSZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31h33gid+dL._SL500_.jpg",
+      "features": [
+        "【4K@60Hz高解像度】このHDMIセレクターは4K（3840 x 2160 @60Hz）、2K（2560×1440）、3Dビデオ、CECに対応し、1080P，1080i，720P，576P，480P，576i，480iと下位と互換性があります。気軽に大迫力映像をお楽しみ頂けます。★ご注意：4Kで利用したい場合は、HDMIケーブルは１m以内である必要があります。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .",
+        "【双方向で使用可能】1入力×2出力、2入力×1出力の双方向で使用できるHDMIセレクターです。これ1台あればさまざまな接続方法に対応でき、活躍シーンが広がります。★ご注意：2つの出力機器に同時に出力する分配機能はありません。 　　　　　　　　　　　　　　　.",
+        "【HDMIケーブル一体型】本体には約50cmのHDMIケーブルが内蔵されています。一方向はHDMIケーブルを用意する必要がなく便利です。選択機器がわかるLEDランプが付き、どの機器を利用しているのをすぐに分かります。 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .",
+        "【ワンタッチで切替可能】電源要らずでコンパクト設計。HDMIポートに差し込むだけで使用可能。高品質のABS素材で耐熱性に優れており、内蔵のスマートチップでより高い性能を発揮します。　　　　　　　　　　　　　　　　　　　　 .",
+        "【多機種に対応】PC、PS4、PS3、Blu-Ray DVDプレーヤー、XBox 360、XBox One、Chromecast等。出力：テレビ、HDTV、Apple TV対応、Fire TV、モニター、プロジェクターなど対応。（※PS4 ProなどのHDMI 2.0機器を接続する場合は、解像度を4K @ 60Hzに設定してください。）",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN HDMI 切替器",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN ノートパソコンスタンド 縦型 3台収納 pcスタンド 縦置き 収納 3スロット 幅調整可能 アルミ合金製 シリコーンゴム傷防止 15.6インチまで対応 パソコンスタンド 全機種対応MacBook Pro Surface iPad HP Lenovo ThinkPad Huawei Surface Dell、HP、Lenovoなど",
+      "url": "https://www.amazon.co.jp/dp/B0CNXDLJQ5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41rIrVxf2JL._SL500_.jpg",
+      "features": [
+        "【優れた互換性&幅調整可能】: 幅広の側面 (12 ～ 26 mm) により、13 ～ 17.3 インチのラップトップ、タブレット、iPadなどのデバイスを簡単に手の届くところに保管するのに十分なスペースが提供されます。前面はスマホホルダーとしても使えます。中央のスロット (19mm) は、より薄いラップトップやタブレットにも対応します。",
+        "【作業スペースを整理】: この省スペーススタンドを使用すると、机の上のすべてを整理できます。付属のラップトップスタンドはモニターの後ろにぴったり収まるので、机の上にスペースを必要としません。仕事で 1 ～ 2 台の外部モニターが必要なユーザー、または要求の厳しいファイル サイズを編集する必要があるユーザーに最適。",
+        "【丈夫で安定】：スタンドは高品質アルミニウム合金で作られています。頑丈なベースによりスタンドが安定します。スタンドのゴムベースにより、スタンド内のデバイスは揺れることなくテーブルにしっかりと立てることができます。ノブで幅を調整すれば、デバイスが転倒する心配がありません。",
+        "【全面保護、傷防止、滑り止め】：滑り止めのゴム底により、スタンドがしっかりと固定され、ぐらつきません。内側は完全にゴム引きされており、デバイスを傷から保護し、グリップ力を高めます。",
+        "【斬新なデザイン】: デバイスを縦に収納しながら充電でき、スタンドのデザインによりケーブルを収納できるスペースが確保され、仕事や勉強中に整理整頓できます。外付けモニタ付きノートブックPCを使用するのに慣れている場合は、新しい整然とした作業環境を提供します。",
+        "【24ヶ月の保証期間】：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN ノートPCスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN タブレット スタンド 折りたたみ式 iPad スタンド 高さ角度調整可能 アルミ＋鉄合金製 姿勢改善 持ち運びに便利 充電可能 人間工学設計 卓上縦置きスタンド iPad/Kindle/Surface/Switch機種に対応 4.7-12.9インチに対応(グレイ)",
+      "url": "https://www.amazon.co.jp/dp/B0BD4J84RK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51V0U2JIt6L._SL500_.jpg",
+      "features": [
+        "【高さ角度調整可能＆人間工学設計】人間工学に基づいて設計により、5cmから23cmまでお好みの角度＆高さ自由にに調節できます。会社・家の机と椅子の不便な高さから解放され、快適な角度で楽に作業できます。アイパッド スタンドを用いてタブレットに角度と高さをつけることで，視線が高くなり適正な姿勢に、肩や腰や首など負担を軽減らしてくれて、猫背などを有効に防止できます。",
+        "【収納便利＆放熱性抜群】折りたたみ式のタブレット スタンドとして、省スペースに収納可能です，収納や持ち運びにも便利。自宅でも会社でも、どこでも便利に使えます。冷却しやすいアルミ＋鉄合金スタンドに美しさと耐久性を兼ね備えた隙間を設けて、熱が籠りにくく、タブレットなどのデバイスの自然放熱を実現して、タブレットの運行スピードアップできます。",
+        "【安定性抜群＆滑り止め保護ゴム付】タブレットに当たる部分にシリコンゴム製の滑り止めパッドが付いているので、滑りも倒れもなく安定的に使えます。また、ゴム付きのフックがあり、大切なタブレットを落下などから保護できます。また、硬いサポートアームが二つあり、3kgまで耐荷できて安定性抜群です。多様なシーンに対応できる，キッチン、オフィスデスク、ゲーム、食卓に適用。",
+        "【高品質タブレットホルダー】高級感に溢れるアルミ合金と安全感向上の鉄合金を採用しており、そしてエッジ部分に丁寧に艶出し、滑らかで手に傷しません。回転軸がゆるくならないように強化され、耐久性が高くなります。高品質合金仕上げは、タブレットとの相性が非常によい。",
+        "【対応機種】約4.7-12.9インチのデバイス（iPad Pro 12.9 / 7.9 / 9.7 / 10.2 / 10.5 / 10.9 / 11 / mini 2 3 4 / air 1 2 3 4, S9 S8 S7 S6, Note 6 5, 12 mini pro max/ 11/ XS Max/ XR/ X 8 7 6 6s Plus）に対応できる。キッチン ・ オフィスデスク ・ ナイトテーブル ・ 食卓に適用 。仕事中でもメールやメッセージ受信を確認できるのでとても便利 。アニメ 、 映画 、 電子書籍を楽しむというようなレジャーの時にも活躍している。",
+        "【ご注意】本製品はアルミ＋鉄合金製で、優れた放熱性能と軽量性を両立させながら、より安定した使用感と安全性を提供します。もう支えられない心配は不要です。どのような場面でも安心してご使用いただけます。"
+      ],
+      "query": "UGREEN タブレットスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 スマホ タブレット MacBook Windows PCに適用",
+      "url": "https://www.amazon.co.jp/dp/B07D1J88CF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/3122q+LtsKL._SL500_.jpg",
+      "features": [
+        "USB-C OTG機能に対応したAndroidスマホ タブレット、iPad Pro 2018 11インチ 12.9インチ、Windows PCに汎用できる多機能SDカードリーダーです。これ一台で簡単に写真や動画等のデータを移動や保存できます。",
+        "USB3.0対応、2.0より約10倍速く転送できます。1GBのフォトアルバムやドラマ、映画などを数秒で高速転送可能です。2カードスロットを拡張し、同時に読み書きできます。",
+        "2TBまでの大容量カードに対応します。SD,SDHC,SDXC,RS-MMC,MMC,Micro SD,Micro SDHC,Micro SDXC，UHS-Iなどのデジカメに、スマホに使用されている多彩なメディアカードにサポートします。",
+        "マルチシステム対応のメモリカードリーダです。MacBook、iMac、Windows PC両対応、USB-C OTG機能に対応したAndroidスマホ タブレットにも対応します。ドライバ不要、挿すだけで認識可能です。",
+        "USBコネクタを埃、液体、傷から保護できるキャップが付いて、カバンやポケットに入れても傷つけません。紛失を避けるためのキーチェーンラインに繋げるデザイン、持ち運びと収納が楽で使い易いです。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN カードリーダー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    }
+  ],
+  "all_candidates": [
+    {
+      "title": "UGREEN Revodok 105 USB C ハブ 5-IN-1 HDMI 出力USB ハブ Type-C 100W PD急速充電 1*USB3.0+2*USB2.0ポート 5Gbps超高速データ転送用 スリムハブ 4K@30Hz Window/MacOS/linux/IOS/Androidシステム対応 Mac Pro/Air/iPad Proなど対応",
+      "url": "https://www.amazon.co.jp/dp/B0BR3M8XHK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Ec3fEO1hL._SL500_.jpg",
+      "features": [
+        "『スリム&多数のポートを同時に使用』：スリムで洗練されたUSB Cハブは、HDMIポートと1つのUSB 3.0、2つのUSB 2.0ポート、1つのPD充電ポートをを備えた5ポートマルチポートアダプターで瞬時に拡張し、ラップトップ、タブレットなどのUSB-Cデバイスの接続を改善します。",
+        "『PD 100Wの電力供給』：Power Delivery 3.0対応したUSB-Cポート経由で、MacBookや Surface Go 、Dell XPS、HP Spectre、Lenovo Yogaなどパソコンに最大95Wの急速充電を提供できるだけではなく、過電流・短絡保護機構を内蔵し、機器の安全性を確保します。多数のデバイスを同時に接続しても、電力不足の心配がありません。※ご注意：当USB-Cポートはデータ転送に非対応です。",
+        "『鮮やかな4Kディスプレイに対応』：このUSB Cマルチポートハブは、HDMIディスプレイに接続するためのHDMIポートを備えており、最大4K（3840*2160P@30Hz）の画質映像出力可能です。4K、Full HD 1080pをサポートし、音声と映像出力、ミラーモードと拡張モード両方も対応します。画像のティアリング、スタッター、ジャーキネスがなく、オーディオとディスプレイの同期も良好です。",
+        "『数秒でファイルを転送』：USB-Cハブは、キーボード、マウス、メモリなどの複数のUSB周辺機器を接続するために、1つのUSB 3.0、2つのUSB 2.0ポートを増設されます。最大5Gbpsの速度で、映画などのファイルを超高速で簡単に転送します。",
+        "『24ヶ月の保証期間』 ：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN USB-C ハブ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN Revodok USB-C ハブ 6in1 100W USB PD対応 4K 60Hz 10Gbps 高速データ転送 HDMIポート USB C 3.2 & USB-A 3.2 MacBook Pro/Air、iPad Pro、Thinkpad Rog Ally などに対応",
+      "url": "https://www.amazon.co.jp/dp/B0D1XLNWP2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41WuZUNHBSL._SL500_.jpg",
+      "features": [
+        "【6-in-1 10Gbps USB C ハブ】 2 つの 10 Gbps USB-C 3.2 Gen 2 ポート、2 つの 10 Gbps USB-A 3.2 Gen 2 ポート、4K 60Hz HDMI、100W 電源供給により、ノートパソコンの USB-C ポートの可能性をさらに引き出します。",
+        "【USB 3.2 時代の幕開け】二つ USB-C データ ポートと二つ USB-A ポートを介して、最大 10 Gbps の速度でファイル、映画、写真を転送します。10Gbps とマークされた C ポートはデータ転送にのみ使用でき、ビデオ出力や充電には対応していません。",
+        "【鮮やかな 4K 60Hz ディスプレイ】SUSB C ドックには 4K@60Hz HDMI ポートが装備されています。視覚的に美しい映画、高解像度のオンライン会議、スムーズなゲームを楽しんだり、ディスプレイを拡張して非常に魅力的なプレゼンテーションを行ったりできます。",
+        "【強力な 100W 電力供給】Type-C ポート経由の最大 100W USB C パススルー充電をサポートし、ノートパソコンに常に電力を供給します。スクリーンキャストやファイル転送のデモンストレーションを行うときは、画像やデータの損失を防ぐため、PD 充電器を抜き差ししないでください。",
+        "【幅広い互換性とドライバー不要】USB C ドングルは、MacBook Pro、MacBook Air、MacBook M1、M2、M3、iMac、iPad Pro、iPhone 15、Chromebook、Surface、Steam デッキ、Rog Ally など、ほとんどの USB-C デバイスと互換性があります。",
+        "【24ヶ月の保証期間】 ：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN USB-C ハブ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN USB-C ハブ 4ポート4xUSB-C USB3.2 Gen2 10Gbps高速データ転送 軽量 変換アダプター 4-in-1 Type-C 拡張ハブ 増設 MacBook Pro/Air 、 iMac、iPad Pro/iPad Air 、iPhone 15/15 Pro、 Galaxy S23/ S24などに対応",
+      "url": "https://www.amazon.co.jp/dp/B0CR6JBJDH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Kwg2eKy2L._SL500_.jpg",
+      "features": [
+        "【10 Gbps 時代の始まり 】4 ポート4xUSB-C ハブは、最大 10Gbps データ転送速度をサポートします。従来のUSB2.0より約20倍速く、最大10Gbps(理論値)の高速データ転送に対応、数秒でHD動画/ファイル/写真等大容量のデータを転送できます。 これは 20 GB のファイルをわずか 16.4 秒で転送できるほどの速さで、待ち時間を大幅に節約できます。【ご注意】このハブはデータ転送のみをサポートし、ノートパソコンの充電やビデオ出力はサポートしていません。映像出力にも対応できません。",
+        "【4-IN-1 USB C から4xUSB-C】USB C 3.2 ハブは、ラップトップの USB-C ポートを4xUSB-Cデータ ポートに変換します。2023年新登場USB C ハブは USB C*1ポートをUSB C*4ポートに増やし、USB-Cポート不足の悩みを解決。外付けHDD、USBメモリ、マウス、キーボードなど複数の USB Type-C機器を同時に接続できるようにします。",
+        "【幅広い互換性】USB Cハブは、MacBook Pro/MacBook Air 2022/2021、iPad Mini 6/5、iPad Pro/iPad Air 5/4、Surface Book 2、XPS 17/などのほとんどの USB-C または Thunderbolt デバイスと互換性があります。iPhone 15、Galaxy S24/S23/S22/S21 およびその他のスマートフォン/ラップトップ/タブレットに対応します。 Windows、Mac OS、Chrome OS、Linux、iPad OS、Android など、ほとんどのオペレーティング システムで動作します。ドライバーは不要、挿すだけで使用できます。",
+        "【優れたデザイン】 アルミニウム シェルと30cm 編組ナイロン ケーブルのUSB-C 3.2ハブで設計されており、強力なマルチポート機能を提供しながら、スリムでエレガントな外観を備えています。 軽量でポータブル、いつでもどこでも使用でき、データの収集、ファイルの転送などが簡単にできます。",
+        "【24ヶ月の保証期間】：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN USB-C ハブ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN Revodok Pro USB-C ハブ Type-c 8-in-1 100W PD急速充電 10Gbps高速データ転送 HDMI出力 4K@60Hz 2*USB A/C microSD＆SDカードスロット搭載 MacBook Pro/Air/iPad Pro/XPS/Thinkpadなどに対応",
+      "url": "https://www.amazon.co.jp/dp/B0DY1BD3T2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41JzJOioStL._SL500_.jpg",
+      "features": [
+        "【8-in-1 ハブ！一台で全て解決 】UGREEN USB-C ハブ には、4K@60Hz HDMI出力、USB-C×2／USB-A×2データポート、100W PD給電、SD／microSDカードリーダー搭載（ケーブル長30cm）。ノートPCのUSB-Cポートを最大限に活用します。※安心の24ケ月間製品保証も付属し、何か不具合などがあれば無料で交換いたします。（購入履歴→購入商品→販売者→質問する欄からご連絡できます）",
+        "【10Gbps超高速転送速度・作業効率の向上】最新規格USB3.2 Gen2対応のUSB‑C／USB‑Aデュアルポートを装備。外付けSSDやHDD、フラッシュドライブ、周辺機器を同時接続しながら、動画・写真・大容量ファイルを最大10Gbps※の速度でストレスフリーに転送。業務効率やクリエイティブワークを強力にサポートします。※理論値であり、実際の転送速度は接続機器や環境により異なります。",
+        "【4K@60Hz出力対応・高精細映像出力】MacBook ProなどのUSB-Cポートに接続するだけで、USB-CハブのHDMI端子から4K UHD（3,840×2,160）@60Hzの映像をHDTV、モニター、プロジェクターへそのままミラーリングまたは拡張出力できます。細部まで鮮明に映し出せるので、写真や動画の編集作業にも最適です。",
+        "【100W PD急速充電・充電も給電も可能】最大100W入力対応のPower Delivery（PD）ポートを搭載し、Type‑C PDポートから最大85Wのパススルー給電に対応しています。MacBook ProやXPSをしっかり充電しつつ、残り15WをHDMIやUSBポート、カードリーダーに振り分けるので、充電と拡張機能を同時にストレスなく使えます。※ご注意：実際の給電量や動作状況は接続機器や使用環境により異なる場合があります。",
+        "【幅広い互換性・USB-C対応機器に最適】この 8-in-1 USB-Cハブは、MacBook Pro、MacBook Air、MacBook M1、M2、M3、M4、iMac、iPad Pro、iPhone 15 Pro/Pro Max、Chromebook、Surface、Switch、Steam Deck、Rog Allyなど、ほとんどのUSB-C機器と互換性があります"
+      ],
+      "query": "UGREEN USB-C ハブ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN USB C ハブ 100W PD充電対応 10Gbps 5 in 1 USB C 3.2 アダプター、５ポート（４xUSB-Ｃ10Gbps データ転送 +100W PD ポート付き）MacBook Pro/Air、iPad Pro、iPhone 15/15 Pro Max、Surface、PC、ノートパソコンなどusb cデバイスに対応",
+      "url": "https://www.amazon.co.jp/dp/B0D9Q9WCLX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41srsC+Sf3L._SL500_.jpg",
+      "features": [
+        "PD 100W 充電ポート付き: PD 3.0 100W 電源ポートを備えた USB C ハブは、ノートパソコン、タブレット、スマートフォンなどのホストデバイスに対して最大 100W の PD 充電をサポートし、追加の充電ポートは必要ありません。(USB-C充電ポートは電源供給のみをサポートします。また充電器と充電ケーブルは含まれていません)。",
+        "10 Gbps 時代の始まり：USB C 3.2ハブは最大10Gbpsのデータ転送速度をサポートします。。従来のUSB2.0より約20倍速く、最大10Gbps(理論値)の高速データ転送に対応、数秒でHD動画/ファイル/写真等大容量のデータを転送できます。 これは 20 GB のファイルをわずか 16.4 秒で転送できるほどの速さで、待ち時間を大幅に節約できます。 【ご注意】USB-Cデータポートはデータ転送のみをサポートし、ノートパソコンの充電やビデオ出力はサポートしていません。映像出力にも対応できません。",
+        "プラグ＆プレイ：追加のドライバやソフトウェアは必要ありません。USB Cスプリッタプラグアンドプレイは、Windows 11/10/8.1/8/7-Vista/XP、macOS、Linux、iPadOS、iOS、Androidに適しています。",
+        "幅広い互換性： USB Cハブは、MacBook Pro/MacBook Air、iPad/iPad Pro/iPad Air/iPad Mini、iPhone 16/16 Pro Max、iPhone 15/15 Pro Max、Surface Pro、XPS 15/13、Galaxy S23/S22/S21、その他のスマートフォン/ラップトップ/タブレット/PCなど、ほとんどのUSB-CまたはThunderboltデバイスに対応します。",
+        "コンパクト＆軽量： 4.1 x 1.5 x 0.5インチのサイズと50gの重量で、5ポートUSB Cポートは超コンパクトで軽量です。旅行やオフィスへの持ち運びに最適です。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN USB-C ハブ",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN Revodok Pro 314 USB-C ドッキングステーション 3画面対応 2つのHDMI & DP搭載 14-in-1【HDMI 4K/60Hz・DP 8K・100W PD充電・10Gbps高速転送・RJ45有線LAN・SD/TF対応】 Windows ノートPC/MacBook対応",
+      "url": "https://www.amazon.co.jp/dp/B0DYTVVLH4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/311Yrxg3xuL._SL500_.jpg",
+      "features": [
+        "【4K/8Kマルチモニター対応】HDMI×2（最大4K@60Hz）、DP×1（最大8K@30Hz/4K@120Hz）で鮮やかな映像表示。仕事・映画鑑賞・プレゼンに最適。",
+        "【最大100W急速充電＋27W PD】ノートPCへ最大100W供給、スマホへ27W高速充電。90cmケーブルで自由な設置が可能。",
+        "【超高速データ転送10Gbps】USBポート5基搭載（10Gbps×3、5Gbps×2）。大容量ファイルも短時間で転送。",
+        "【安定有線LAN＋高速カードリーダー】RJ45ギガビットLAN、SD/TF（170MB/s）、3.5mmオーディオポート搭載。安定性と柔軟性を両立。",
+        "【WindowsノートPC最適化】ThinkPad、Dell XPS、HP、Surface対応。マルチモニター安定動作、信頼性の高い作業環境を実現。",
+        "注:このドックは、異なるディスプレイを搭載したマルチモニタ一を接続したいMacBookユーザーには推奨されません。macOSの場合、外部モニタ一には同一のコンテンツが表示されます。 【24ヶ月品質保証 & 12時間以内迅速対応】弊社でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN ドッキングステーション",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN ドッキングステーション 14-in-1 3画面出力 ノートPC100W充電 2つのDP&HDMI（DP-4K120Hz HDMI-4K60Hz） usb ドッキングステーション 10Gbps高速転送 PD3.0・USB-C/A3.2ポート・3.5mmオーディオ・SD/TFカードスロット・RJ45イーサネットポート 放熱機能付き MacBook Windows対応",
+      "url": "https://www.amazon.co.jp/dp/B0FGHX59G2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/3141FYqPqUL._SL500_.jpg",
+      "features": [
+        "【13種類の豊富なポートで、複数機器をまとめて接続】：本製品は次のポートを装備：USB-C 3.2 アップリンクポート（ノートPCへ100W充電対応）×1、PD充電ポート（27W出力）×1、DP（DisplayPort 1.4、4K120Hz）×2、HDMI（HDMI2.0、4K60Hz）×1、USB-C 3.2（10Gbps）×2、USB-A 3.2（10Gbps）×1、USB-A 3.0（5Gbps）×2、SD/TFカードリーダー（SD3.0、170MB/s）×1、RJ45（1000Mbps）×1、3.5mmオーディオジャック×1、DC電源入力（24V/140W）×1。豊富なポートであらゆる接続ニーズに対応し、1台で多数のデバイスをまとめて接続可能。優れた放熱設計により、複数デバイスを同時接続しても過熱しません。",
+        "【2つのDPと1つのHDMIで、3画面対応】：DPポート2個＋HDMIポート1個を搭載し、3画面出力（三画面異なる表示可）に対応。DP1.4規格に準拠し、3D/HDR対応で最大4K120Hzの高清解像度を出力。HDMI2.0規格に準拠し、3D/HDR対応で最大4K60Hzの高清解像度を出力。3台のモニターを同時に接続可能で、デザイン作業、動画編集、映画鑑賞、業務プレゼンなど、多様なシーンで活用できます。",
+        "【PD充電ポートを2つ搭載、デバイス同時充電が可能】： USB-C 3.2 アップリンクポートでノートPCに接続しながら、PD3.0対応の最大100W（20V/5A）給電を実現。ダウンリンクポートのPD充電ポートでは、PD3.0対応の最大27W出力でスマホの充電が可能です。",
+        "【USB 3.2 Gen 2規格準拠、高速データ転送】：10Gbps対応の高速データポートを3つ（USB-C×2, USB-A×1）、5Gbps対応のデータポートを2つ（USB-A 3.0）装備。大容量ファイル転送も高速で行えます。",
+        "【安定した有線LAN、カードリーダー、オーディオ機能を完備】：RJ45イーサネットポートで高速かつ安定した有線接続が可能。SD 3.0規格（170MB/s）のデュアルカードリーダーと、音声出力・マイク入力兼用の3.5mmオーディオジャックを装備。",
+        "【幅広い互換性、24ヶ月製品保証】：USB-Cポートを搭載した多くのデバイス（ASUS、ThinkPad、Dell、HP、Surface、MacBookなど）と互換性があります。ご購入日より24ヶ月の製品保証を提供します。ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN ドッキングステーション",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 7 in 1 Revodok Pro USB C ドッキングステーション 2*HDMI出力 USB Cハブ 4K@60Hz HDMI 出力 2*USB A&C 10Gbps高速データ転送 100W PD急速充電 MacBook Air/Pro, Dell XPS, iPad Proに対応",
+      "url": "https://www.amazon.co.jp/dp/B0D1XSKZRJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41lwPD-oWhL._SL500_.jpg",
+      "features": [
+        "◆◆UGREEN正規品に関するご確認のお願い◆◆ UGREEN正規品は、メーカー直轄の販売元「Ugreen Japan Co., Ltd」により出品・販売されています。 正規品をご購入いただくことで、日本国内におけるメーカー保証、安全性確認済みの品質、およびカスタマーサポートをご提供できます。 お客様が正規品の完全なサービスをお受けいただくため、ご購入前には、商品ページの「販売元」情報が「Ugreen Japan Co., Ltd」となっていることをご確認いただけますと幸いです。",
+        "【7 in 1 USB C ドッキングステーション】UGREEN ドッキングステーションには、HDMI 2つ、10Gbps USB A ポート2つ、10Gbps USB C ポート2つ、PD 100w 充電転送ポートが付属しています。マルチスクリーンで最高の解像度を得るためには、11世代以上のCPUを搭載したPCを使用することをお勧めします。",
+        "【二つ4K 60Hz出力】USB C2画面 HDMI アダプターの HDMI 2 ポートは、最大 4K@60Hz の解像度を提供し、驚くほどのディテールと超鮮やかな色を生み出します。 ビジュアル コンテンツを作成したり楽しんだりすることがこれまでになく便利になりました。【ご注意：USB A およびUSB Cポートはビデオ出力に対応しておらず、HDMIポート2つだけでビデオを出力することができます。】",
+        "【10Gbps超高速転送速度】 この2画面 HDMI USB-C ハブ ドッキング ステーションには、キーボードやマウスを接続したり、USB 3.2 でデータを転送したりするための 2 つの USB A&C ポートが付属しています。ファイル、ムービー、写真を最大 10 Gbps の速度で転送します。",
+        "【100W PD急速充電】USB-C PD ポート経由で最大 85W USB C パススルー充電をサポートしているため、MacBook Pro 13 をバッテリー残量の少ない状態から 1 時間で 73% まで充電できます。 充電ケーブルと電源アダプターは付属していません。また、充電ポートは充電のみをサポートしており、データ転送やビデオ出力には対応していません。",
+        "【幅広い適応性】 Type-Cドッキングステーションは、MacBook Air M1/M2、iMac、ThinkPad X1、ZenBook、iPad Pro、Chromebook、Surfaceなどと互換性があります。注: Windowsシステムは拡張デュアルスクリーンディスプレイを利用できますが、Macデバイスはミラーモードに制限されています。"
+      ],
+      "query": "UGREEN ドッキングステーション",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN Revodok Max 213 13-in-1 Thunderbolt 4 ドッキングステーション 40Gbps 高速データ転送 2画面拡張4K@60Hz 単一出力8K@30Hz 90W PD対応 2.5Gbpsイーサネット SD/TF 4.0カード 3.5mm オーディオ USB A3.2&USB C3.2ポート搭載 MacBook Windows PCノートパソコンなどに適用",
+      "url": "https://www.amazon.co.jp/dp/B0DQWJNJ21?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31caYnrDSLL._SL500_.jpg",
+      "features": [
+        "【Revodok Max 13-in-1拡張】Thunderbolt 4 ドッキングステーションには、2 つのThunderbolt 4（最大40Gbps、8K@30Hz、4K@60Hz）、1 つのUSB-C 3.2 （最大10Gbps、20W）、 2 つのUSB-A 3.2（最大10Gbps） 、 2 つのUSB-A 3.0（最大5Gbps）、 1 つのDisplayPort 1.4（最大8K@30Hz） 、1 つの SD/TF4.0カードスロット（最大104MB/s） RJ-45イーサネット（最大2.5Gbps）、オーディオ（3.5mm AUX）および 180W DC 電源ポートを備えており、すべての高性能拡張ニーズを満たすことができます。",
+        "【40Gbps超高速データ通信】Thunderbolt 4 ダウンストリームポートは最大40Gbpsの超高速データ転送や8K 30Hz の画像出力が可能で、20GBの動画ファイルや音楽のプレイリストをわずか14秒ほどで転送することが可能です。これまでにないハイパフォーマンスな仕事を体験してください。",
+        "【2つ4K@60Hz&単一8K@30Hz画面出力】Thunderbolt 4 ドッキング ステーションは、最大 4K@60Hz で 2 台のディスプレイ、または最大 8K@30Hz で単一のディスプレイを拡張できます (macOS は 4K@60Hz のみをサポートします)。 単ポート利用時はThunderbolt 4 ポート(ダウンストリーム)あるいはDisplay ポートで最大8K (30Hz) での出力が可能です。同時に2つのの画面へ最大4K (60Hz)での出力も可能で、2つの鮮明なディスプレイで高画質なコンテンツをお楽しみいただけます。作業効率と表示エクスペリエンスが大幅に向上します。 (Macbook の場合、Pro/Max バージョンの M チップと Intel チップのみが2つ画面出力をサポートします)",
+        "【PD90W 高速充電】付属の 180W GaN 充電器を使用すると、この Thunderbolt 4 ドックは作業中にラップトップを最大 90W で充電できます。 別の充電器を接続する必要はありません。MacBook Pro（13インチ、M2、2022）やMacBook Air（15インチ、M2、2023）の充電ができます。内蔵の過電流保護機能 (OCP) により、接続されているすべてのデバイスを安全に充電。 USB-C3.2ポートがiPhone 15を最大 20W高速充電することもできます (動作するにはドックを充電器に接続する必要があります)",
+        "【幅広い互換性】Thunderbolt 4 ドックは、Macbook (macOS 11.4 以降)、Windows ラップトップ (Windows 10 以降)、iPad、またはその他のタブレットを含む、ほとんどの Thunderbolt 4、Thunderbolt 3、USB4、または USB-C コンピュータまたはタブレットと互換性があります。 USB-Cポート付き。 (フル機能の USB-C ラップトップおよびタブレットは単一ディスプレイのみをサポートします)",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN ドッキングステーション",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN Revodok Pro 209 ドッキングステーション USB-Cハブ 10 Gbps高速データ転送 4K@60Hz 2*HDMI+2*DP 1Gbpsイーサネット RJ45+【PD 100W】 急速充電ポート MacBook Pro Air Pro Galaxy S20 USB C デバイス対応 【100 W給電が必要】",
+      "url": "https://www.amazon.co.jp/dp/B0BLNCNCMZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51VhnZ9GB4L._SL500_.jpg",
+      "features": [
+        "【9 in 1 USB-C ドッキングステーション】マルチポート USB Type-C ハブは: 4K HDMI ポート*2、DP ポート*2、100W Type-C PD3.0 充電ポート*1、USB C 10Gbps データ転送ポート*2、USB 3.2 (USB-A)ポート* 2、1Gbps イーサネット/RJ-45 ポート*1、1 つの USB-C ドッキング ステーションでほとんどのデバイスを接続できます。家庭やオフィスのワークスペースの機能を拡張します。！！！この製品にはスリープ モードがあり、一定期間使用しないと画面が暗くなる場合がありますが、これは正常な現象です。設定方法については、以下の Q&A セクションを参照してください。",
+        "【DisplayLink搭載で最大4K/60Hzデュアル出力対応】USB C ポートは、Windows および macOS システムで最大 4K@60Hz のデュアル モニターへのメディア ディスプレイをサポートします (M1、M2 MacBook をサポート)。 モニターを同時に接続して、2 台のディスプレイで非常にクリアなストリーミングまたはミラーリングをお楽しみください。2xHDMI 4K メス: HDMI2.0、HDCP1.4 に準拠、HDR はサポートなし、ビデオ帯域幅 18Gbps、 2xDPメス4K DP1.2、HDCP1.4 に準拠、HDR はサポートしていません、ビデオ帯域幅 16.2Gbps、 (注: メディア表示とネットワーク機能を正しく使用できるように、必ずインストールしてください。) 。DisplayLinkチップにより、映像出力機能を持たないUSB-CやUSB-A搭載PCでもマルチモニターが実現可能。ノートPC画面の狭さを解消し、作業効率を飛躍的に向上。プレゼン、編集、株取引にも便利。",
+        "【最大10Gbpsの超高速転送】USB-A＆USB-CのGen2ポートは最大10Gbpsの転送速度を実現。外付けSSDや大容量ファイルもストレスなく転送可能。USB-Cも搭載で将来性も◎。写真や動画などの重たいデータもサクサク移動でき、作業時間を短縮。 ( *内部テストに基づくデータ。実際の結果は異なる場合があります。)",
+        "【85W急速充電+安定ネット接続】PDポートは最大100W入力、製品本体で15W使用後も最大85WでPC充電可能。RJ45ポートは最大1000Mbps。高性能PCでも高速充電が可能。Wi-Fi不安定時でも有線接続で安定通信。外出先でもオフィスでも快適な作業環境を維持。急な会議やオンライン授業にも安心対応。",
+        "【macOSもMST対応、幅広い互換性】Windowsだけでなく、macOSでもマルチモニター（MST）をサポート。Windows 7 以上、macOS 10.4 以上、USB-C ポートが搭載されたシステムで使用できます。接続する USB-C ポートは、Thunderbolt 4、Thunderbolt 3、USB4、または DisplayPort 代替モード、およびホスト充電に対応している必要があります。ご注意：メディア表示とネットワークRJ45機能を適切に使用するには、Displaylinkソフトウェアをインストールする必要があります。",
+        "【24ヶ月の保証期間】 ：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。",
+        "【ご注意ください】この製品にはスリープ モードがあり、一定期間使用しないと画面が暗くなる場合がありますが、これは正常な現象です。設定方法については、以下の Q&A セクションを参照してください。 モニターに画像が表示されない場合の対処方法。 1. ディスプレイまたは接続ケーブル自体に異常があります。パソコンに直接接続して確認してください。 2. ポートの接触不良です。ポートを点検し、清掃してください。 3. 使用しているケーブルが要件を満たしていません。短いケーブルを交換してみてください。 4. 製品の電源が不足しています。多くの周辺機器を接続する場合は、PD電源も同時に接続する必要があります。 5. デバイスに互換性がありません。他のディスプレイを交換して互換性を確認してください。 6. 元のUSB-CC配線が使用されていないため、接続が不安定です。元のケーブルを交換してください。"
+      ],
+      "query": "UGREEN ドッキングステーション",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 45W GaN USB-C 急速充電器 Type-C PD 充電器【PSE技術基準適合/GaNII 採用】タイプc PD/PPS/SCP/QC3.0全対応 MacBook PD対応 iphone17/15/14/13/12 iPad Galaxy Android スマートフォン ノートPC 各機種対応",
+      "url": "https://www.amazon.co.jp/dp/B0DMN885ZF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21rIqzMznhL._SL500_.jpg",
+      "features": [
+        "【45W GaN急速充電で、デバイスの電力不足を解消】最新GaN技術を採用した当社45W急速充電器は、従来比93%の高エネルギー変換効率を実現。PD出力とPPSプロトコルに対応し、スマホから、タブレット、ノートPCまで、あらゆるポータブルデバイスの急速充電ニーズをカバーられます。",
+        "【コインサイズの超コンパクト設計で、空間を圧迫しない】従来の45W充電器より体積50%縮小（35×35×44mm）、コンパクトで持ち運びに便利なサイズです。小さな本体に高効率の充電技術が詰め込まれており、外出先や旅行中でも手軽に利用できます。スマートフォンやタブレットなどのデバイスをいつでもどこでも快適に充電することができ、ユーザーの生活をサポートします。体積が小さいため、バッグやポケットに簡単に収納でき、持ち運び時の負担も軽減されます。",
+        "【次世代パワー半導体素材「GaN Fast II」採用】革新的な「GaN Fast II」テクノロジーと積層設計により、UGREEN Nexode Mini 45W Type C 充電アダプターはオリジナルの45W充電器より36%コンパクトサイズになっています。 従来品に比べて電力損失と発熱量が小さくなり、小型化・高効率化を実現したGaN充電器です。",
+        "【安心防護機能・しっかりサポート】過充電保護、過熱防止、過電流防止、ショート防止など複数の充電保護システムを備え、PSE認証をクリアし、安心してご利用可能。また、UGREEN独自技術による、接続されたデバイスに応じ、自動的に出力を判別し、最適な電流量でパワフルかつ安全に充電可能です。なお、耐火のPC素材を採用し、耐火レベルUL94-V0まで至ります。ACアダプターの耐久性と安全性を両立させます。",
+        "【複数充電規格に対応・小さいけど適用性が大きい】USB-C 充電器はこれ一台でガジェットライフがより自由に！PD3.0対応だけでなく、QC3.0、SCP、AFC、など多種類の充電規格にも対応しており、iPad Pro/iPad　mini/iPhone/Androidスマホ/タブレット端末/iWatch/MacBook Air/AirPods Proなど、優れた互換性があり、あらゆるデバイスに急速充電できます。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN 充電器 GaN",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN Nexode 65W 急速 充電器 Type-C 3ポート【USB-C *2とUSB-A*1】PD3.0 PPS GaNII 折り畳み式 iphone17/16/15/MacBook/iPad/Galaxy/Android/PC/45w/30w対応 PSE適合 [ブラック]",
+      "url": "https://www.amazon.co.jp/dp/B091BGMKYS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21gaL9IWnrL._SL500_.jpg",
+      "features": [
+        "▶【瞬間フル充電！65W急速！】弊社のNexode 急速充電器は スマホからタブレット、PCなどあらゆるType-C関連機器を効率的に急速充電できます。iPhone 17/16を約30 Minで60%充電、MacBook Pro13を約1.8時間と短時間でフル充電。USB-AポートはQuickCharge3.0（QC3.0)、 SCP/FCPに対応し、Androidスマホなどにも急速充電できます。",
+        "▶【3台同時充電OK！】弊社のNexode 急速充電器はType-C×2とUSB-A×1の4つの充電ポートを搭載しています。さらに、コンセントのスペースを有効活用し、ケーブルの散らかりも減少。デスクや生活空間をスッキリと整えます。家庭でもオフィスでも、このタイプc充電器は全会一致で最適な選択としておすすめされる！（単ポートも65W対応！）",
+        "▶【進化されたGaN技術II世代！】進化されたII世代GaN技術を搭載したPD充電器は、一般的なタイプC充電器65Wに比べ約30%小さなコンパクトサイズを実現した上に普通のI世代のGaN技術より余分な熱を発生させずに動作中の温度を低くしてより強い出力パワーを提供し高効率充電を可能にする。そして折り畳み式プラグを採用し、他のものとぶつかっても傷がつきにくく、どこにでも気軽に持ち運べる。更に、2026レッド・ドット・デザイン賞（red dot design award）を受賞して、優れたデザインに基づく、GaN半導体材料の応用もさらに良くする。",
+        "▶【多重な安全保護機能！】知能検知機能により、接続されたデバイスに合わせて自動的に出力を判別してパワーの調整を行う。耐火PC素材を使用し、過電流、過電圧、過熱、短絡などをしっかり防ぎ、夜間でも安心して静かに高速充電が可能です。（PSEなど電気安全に関する認証を取済み！）",
+        "▶【24ヶ月間の保証】当店でご購入の製品には24ヶ月間保証サービスが付いております。 お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。また、当社の製品は外観が改善され、最新バッチの製品はポート部分に印刷が追加されました。これはお客様が充電装置をより明確に識別できるようにするためです。製品の機能自体は以前と全く同じであります、ご安心してご利用ください。",
+        "▶【iPhone 17に対応する充電電力】iPhone 17：30Wの充電電力に対応（実測データ）、iPhone 17 Pro Max：36Wの充電電力に対応（実測データ）"
+      ],
+      "query": "UGREEN 充電器 GaN",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 100W GaN 卓上急速充電器 (4*USB-C+2*USB-A) コンパクト【PSE技術基準適合/PD3.0/QC4.0/PPS対応】 複数台同時充電 iPhone17/16/15/14/13/Xperia/Pixel Pro/iPad/ノートPC MacBook Pro/Airなどに対応",
+      "url": "https://www.amazon.co.jp/dp/B0DNT9Z2HS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31lgOzmbOtL._SL500_.jpg",
+      "features": [
+        "【最大6台同時充電で、効率化を実現】UGREEN 100W 卓上式 充電器は、4つのType-Cポートと2つのUSB-Aポートを備え、イヤホン、スマートウォッチ、スマホ、SwitchからノートPCまで、最大6台のデバイスを同時に充電可能。デスクの上で複数の機器がバラバラに充電される煩わしさから解放され、作業効率が向上します。",
+        "【単口最大65W & 総出力100W】Type-C単口使用時は最大65Wの高出力で、ほとんどのノートPCを素早く充電。複数ポートを同時使用する場合でも、智能ICチップがデバイスを自動認識し、合計100Wの電力を最適に配分します。全ての機器に効率的な急速充電を提供。",
+        "【超コンパクト設計で、デスク空間を有効活用】本体サイズは8.0 x 8.6 x 3.0 cmの手掌サイズ。従来の大型充電器と比べて70%以上も省スペースを実現しました。卓上やベッドサイドなど、限られた空間をほとんど占有せず、すっきりと整理された快適な空間を保ちます。",
+        "多重保護機能・誇りの独自の「TG」温調技術】過電流保護、過電圧保護、ショート防止、過熱防止、過電力保護、干渉防止、低電圧保護などマルチ保護システムを搭載！また、優れた独自の「TG」冷却技術により238＋回/秒の自動温度検知・制御機能があり、UGREENならではの長く使えるあんしんな保護機能！（※TG：Thermal Guard）",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。　"
+      ],
+      "query": "UGREEN 充電器 GaN",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN Nexode 100W 充電器 急速 Type-C 4ポート【USB-C*3とUSB-A*1】PD3.0 PPS GaNII 折り畳み式iphone17/16/15/14/MacBook/Dell/iPad/Android対応 PSE適合 CD226",
+      "url": "https://www.amazon.co.jp/dp/B0982VFYYJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21q621U9uTL._SL500_.jpg",
+      "features": [
+        "【最大100W出力のタイプC充電器】UGREEN 100W充電器は単ポートでも100Wを出力でき、4ポート合計で一つの充電器だけで、ご家族の複数デバイスを同時に充電可能となり、2台のノートPCと2台のスマートフォンを同時に充電するのに十分です。USB Cポートで100Wを出力し、MacBook Pro 16インチを1.5時間で満充電できます。　　　　　　　　　　　　　　　　　　　　　　　　　",
+        "【GaN搭載・コンパクト設計】Type-C x3・USB-A x1 合計4ポートを搭載。シングルポートモードでC1 / C2ポートから最大100W、2つのUSB-Cポート使用時はMacbookProを65W、スマホやタブレットを最大30Wで充電できます。窒化ガリウム（GaN）技術を採用することで高出力かつコンパクトな設計を実現。また、100～240Vの電圧に対応しており、海外へ出張や自宅・職場・旅行など、様々な場所への携帯にも便利です。",
+        "【スマート電流管理機能】PD/QC/PPS規格対応。複数のポートを同時に使用すると、接続された機器の必要電力に応じて100Wの出力を最適に分配し、効率よくスムーズに充電を行います。 ※スマート電流管理機能を搭載しており、複数ポートでPD充電を同時に行った場に一端のPDポートを抜くと、電流の再分配のために他のポートは充電が瞬断して再接続される事象があります。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【PSE認証取得済み】日本のPSE認証など電気安全に関する認証を取得済み。当社独自の多重保護システムにより過充電、過放電、過熱、短絡を避けて充電器自体とデバイスを保護し、安全に充電を行います。",
+        "【幅広い互換性】MacBook Pro 14'' 2021 (M1 Pro)、MacBook Pro 13、Macbook Air 2020、iPad Pro、iPhone16、15、14、13、12、11 Pro、XS、AirPods Pro、 Switch, Galaxy Note 20, Note 20 Ultra, S24, S20, S10, Note 10 Plus, S9, S8, A8 2018, A5 2017, A51, A71, Google Pixel 4A 4 XL 3A 3 XL；Pura70 P60 P50 P40Nitendo Switch、その他USB-C対応デバイス等あらゆるデバイスへ最適・最速速度での充電を実現します。",
+        "【電流電圧対応範囲】USB-C1/C2：5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A 100W Max（PPS: 3.3~21V/3A）。USB-C3：5V/3A 9V/2.5A 12V/1.88A 22.5W Max（PPS: 3.3~5.9V/3A、3.3~11V/2A）。USB-A：4.5V/5A 5V/4.5A 5V/3A 9V/2A 12V/1.5A 22.5W Max。※PD充電を行うためには、PD対応ケーブルとPD充電に対応したデバイスが必要となります。",
+        "【24ヶ月間の保証】当店でご購入の製品には24ヶ月間保証サービスが付いております。 お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN 充電器 GaN",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 充電器 type-c 30W (2*USB-C+1*USB-A) 【PSE技術基準適合/PD3.0対応/30W急速充電/コンパクト】 GaN アダプター iphone17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel（白）",
+      "url": "https://www.amazon.co.jp/dp/B0FPCYJ6K5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21Y7ItlmOSL._SL500_.jpg",
+      "features": [
+        "【1台であらゆるポータブルデバイスを充電】UGREEN 30W充電器には2*USB-C+1*USB-Aポートを搭載し、Cポートだけで最大30Wの出力電力を出力することができ、iPhoneシリーズを充電できるだけでなく、Macbookを充電することもできます。Aポートのみを使用する場合は最大22.5W、AポートとCポートの両方を使用する場合は合計15Wの出力が可能。",
+        "【PSE技術基準適合 PD3.0急速充電】 USB-C PD3.0の充電規格と互換性があり高速で効率的な充電が可能です。また、PSE認証を取得しており、デバイスのバッテリーが急速かつ安全に充電され、いつでも快適に使用できるようになります。PD3.0急速充電とPSE認証を備えたこのスマホ充電器は、iPhoneをわずか30分で0％から60％まで充電！",
+        "【コンパクトで持ち運び便利】： このスマートフォン充電器は、36*33*44mm、コンパクトで持ち運びに便利なサイズです。小さな本体に高効率の充電技術が詰め込まれており、外出先や旅行中でも手軽に利用できます。スマートフォンやタブレットなどのデバイスをいつでもどこでも快適に充電することができ、ユーザーの生活をサポートします。体積が小さいため、バッグやポケットに簡単に収納でき、持ち運び時の負担も軽減されます。",
+        "【知能的な電流配分・しっかりサポート】UGREEN独自技術Power Dispenserシステムにより、接続されたデバイスに応じ、自動的に出力を判別し、機器が必要とする電力に賢く適応させてパワフルかつ安全に充電可能です。過充電保護、過熱防止、過電流防止、ショート防止など複数の充電保護システムを備え、PSE認証をクリアし、安心してご利用可能。また、UGREEN独自技術による、接続されたデバイスに応じ、自動的に出力を判別し、最適な電流量でパワフルかつ安全に充電可能です。なお、耐火のPC素材を採用し、耐火レベルUL94-V0まで至ります。ACアダプターの耐久性と安全性を両立させます。（注意：電流を知能的な配分するときに、通電が一瞬止まることは正常現象です。ご安心ください。）",
+        "【複数充電規格に対応・小さいけど適用性が大きい】USB-C 充電器はこれ一台でガジェットライフがより自由に！PD3.0対応だけでなく、QC3.0、SCP、AFC、BC1.2など多種類の充電規格にも対応しており、iPad Pro/iPad　mini/iPhone/Androidスマホ/タブレット端末/iWatch/MacBook Air/AirPods Proなど、優れた互換性があり、あらゆるデバイスに急速充電できます。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN 充電器 GaN",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 【小型・軽量・10000mAh】モバイルバッテリー 大容量 2台同時充電（USB-A×1 USBC×1）PD20W 急速充電 小電流モード バッテリー残量表示 コンパクト PSE技術基準適合 iphone17/Android/iPad 各種 USB-C 機器に対応",
+      "url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21yWDfPjQgL._SL500_.jpg",
+      "features": [
+        "【UGREEN史上初の小型・しかも10000mAh大容量！】電池切れの心配を解消し、災害や停電でコンセントから充電できない場合は役立つ大容量モバイルバッテリーです。",
+        "【iPhone 16 Pro Maxより37%も小型化！】ポケットに入れても違和感ない112MMのサイズで、コンパクトで持ち運びしやすいから、カバンの中でもかさばらないし、片手でサクッと操作するのも問題なし！",
+        "【2ポート・USB-C ＆ USB-A】端子はUSB-A×1、USB-C×1という2ポート構成。2ポート同時出力可能で、複数デバイスに同時充電可能なPD モバイルバッテリーです。",
+        "【PD対応・スマホやタブレットに急速充電】PD20W出力対応で、iPhone 15 Proに30分間で0～60％急速充電可能なモバイルバッテリーです。様々な急速充電プロトコルにも対応し、互換性抜群です。",
+        "【PSE適合・小電流モード搭載】電源ボタンを6秒間長押しすると、小電流モードをオン/オフができ、イヤホン、スマートウォッチなどの小電流デバイスにも充電対応します。",
+        "【バッテリー残量数字表示】バッテリー残量が具体的な数字表示により、バッテリー残量が一目瞭然できます。小柄でコンパクト、どこでも持ち歩きたくなる小型モバイルバッテリーです。",
+        "【★24ヶ月の保証期間★】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN モバイルバッテリー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN コンセント付きモバイルバッテリー 10000mAh 65W 急速充電 【3役一体】 ACプラグ＋USB-Cケーブル一体型 3ポート ノートPC(MacBook)充電対応 65W 充電器 モバイルバッテリー 45W 折畳式プラグ デジタル表示 コンパクト PSE認証済 iPhone17 Galaxy Android スマートフォン iPad Pro MacBook その他 PB512",
+      "url": "https://www.amazon.co.jp/dp/B0FJR9813B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21xJtcXCseL._SL500_.jpg",
+      "features": [
+        "【 ★ 3-in-1設計・充電器、モバイルバッテリー、ケーブルが一つに ★ 】 ACプラグ折りたたみ式充電器、10000mAhモバイルバッテリー、18cm内蔵USB-Cケーブルが一体化！充電器とモバイルバッテリーと予備ケーブルを別々に持ち歩く必要がなくなります。カバンの中がすっきり整理でき、出張や旅行の荷物を軽減。緊急時にもすぐに充電開始でき、「ケーブル忘れた！」というストレスから解放されます。まさに「持って出かける充電ステーション」です。",
+        "【 ★ 65W充電器としてノートPCもフルスピード充電 ★ 】 充電器モードでは、USB-Cケーブル/Cポートで65W Max (PD3.0/PPS/QC4.0)出力仕様、MacBook Air M3を30分で約57%充電可能！ 専用の重いACアダプターを持ち歩かなくても、薄型ノートPCに十分な電力を供給できます。カフェや移動中の空き時間で、仕事用ノートPCを素早く充電。バッテリー切れの心配なく、長時間の作業やプレゼンに集中できます。",
+        "【 ★ 45Ｗモバイルバッテリーとしてスマホやタブレットに急速充電 ★ 】 モバイルバッテリーモードでは、USB-Cケーブル/Cポートで45Ｗ Max出力仕様、iPhone 17 Pro Maxを30分で約66%充電ができます。iPhone、AndroidのスマートフォンやiPad Proなどのタブレットにも十分な出力で急速充電でき、充電器とモバイルバッテリー一体型により荷物を一枚減らし、日常の外出を快適・効率的にするガジェットです。",
+        "【 ★ 10000mAhの実用容量＋コンパクト設計 ★ 】 高密度車載級セルを採用した10000mAhの大容量、iPhone17に約1.7回フル充電可能。一日中、あるいは泊まりがけの旅行でも、「バッテリー切れの不安」から解放され、あんしんして観光や仕事に集中できる10000mAh モバイルバッテリーです。",
+        "【 ★ 3ポート搭載・内蔵USB-Cケーブル付き ★ 】USB-Cケーブル内蔵＋USB-Cポート＋USB-Aポートという3ポート構成。3台のデバイスに同時充電が可能。またUSB-Cケーブル一体型で、ストラップとして持ち運びしやすく、もうケーブル探しにイライラしないケーブル一体型 モバイルバッテリーです！",
+        "【 ★ 使いやすさの工夫が満載：デジタル表示、小電流モード、バススルー充電 ★ 】残量が一目でわかるデジタル表示、イヤホン用の小電流モード、デバイスを充電しながら本体も充電するバススルー機能がまとめて搭載！残量がパーセントでわかり、小さなデバイスも確実に満充電にでき、常に充電状態を維持できます。細かいストレスを解消する、ユーザーフレンドリーな設計。デジタル機器に詳しくない方でも、迷わず快適に使用できます。",
+        "【★ 24ヶ月の保証期間 ★】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN モバイルバッテリー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 当社比極小型（10000mAh・PD45W）モバイルバッテリー 小型サイズ 軽量 大容量 高出力 充電ケーブル 一体型 持ち運びやすい 便利 リアルタイム表示 Xiaomi 55W急速充電対応 iPhone17 16 15/iPhone Air/シャオミ/Android iPad/Switch 2などに対応 PSE認証済 PB727",
+      "url": "https://www.amazon.co.jp/dp/B0FJMFT169?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31rHk34fhyL._SL500_.jpg",
+      "features": [
+        "【90×50×33mmコンパクトサイズ、ミニポーチにもちょうど収まる】UGREENモバイルバッテリー全製品の中にも唯一無二の存在、小物入れに収まって最低限の荷物で身軽に移動したい方へ！従来モバ充のイメージを覆し、極小型・軽量設計で！どんなに小さいバッグでも邪魔になりません。ポケットにもすっと収まり、日常の持ち運びが格段に楽になります。",
+        "【極小なのに10000ｍAh、PD45Wでパワフル】USB-Cポートがもちろん、ストラップ型の充電コードでも最大45WのPD出力に対応、一部のノートパソコンにも充電可能。しかも、GalaxyシリーズのPPS充電規格、Xiaomi/Redmiシリーズ独自の充電規格にも対応。iPhoneはもちろん、Androidなどのデバイスも素早く充電できます！",
+        "【ストラップ型充電ケーブル、外出時の持ち忘れを解消！】本体にUSB-Cケーブルが装置されており、充電の度にケーブルを探す煩わしさから解放され、「取り出してすぐ充電」が可能になります。このケーブルは充電用としてだけでなく、充電宝自体を充電する際にも、そして移動中は手首に掛けたりバッグに引っ掛けたりでき、落下防止と利便性を両立します。",
+        "【充電情報が多いディスプレイ、出力を一目でわかる】クリアなディスプレイを搭載。残量は「％」表示で正確に把握でき、さらに充電中の「リアルタイム合計出力」も一目瞭然で、充電マニアにも満足可能！日常充電する時、リアルタイム出力機能に関心をお持ちの方に向いています。",
+        "【最大3台同時充電で、周辺機器もまとめてお手入れ】USB-Cケーブル＋USB-Cポート＋USB-Aポートの計3出力を実現。スマホ、タブレット、イヤホン、スマートウォッチなど、お持ちのガジェットを一度にまとめて充電できます！デスクの上もバッグの中も、コードレスでスッキリ整理可能！",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN モバイルバッテリー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN Uno PowerBank マグネット (10000mAh Qi・7.5W USB-Cｘ1) 折畳式スタンド付き モバイルバッテリー Qi ワイヤレス充電対応 TFTスクリーン・表情表示 タイプC PD 20W 急速充電対応 コンパクト パススルー機能 低電流モード搭載 PSE技術基準適合 【iphone17-12シリーズ マグネット対応機種に適用 その他】 PB572 メタリック",
+      "url": "https://www.amazon.co.jp/dp/B0D7CG2PHM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31pIJIa-lqL._SL500_.jpg",
+      "features": [
+        "【^.^】╯UGREEN Uno・マグネット・モバイルバッテリーが笑顔で新登場！╰【^.^】10000mAh大容量・Qi 7.5W ワイヤレス充電・強力な吸着力、今回絶対笑顔にしっかり吸い付け！外出時に、コードが邪魔だと思ったら、ワイヤレス充電を試してみよう！iPhone17シリーズ専用のアクセサリーとして生まれ、この便利さに笑顔になってもらえたら幸いです！（※ iPhone12以降のモデルに対応。）",
+        "【^.^】╯表情から充電状況をお知らせ！╰【^.^】「パーセントだけなんて、生気がない」と思ったら、充電状況によって表情が変化できるUGREEN Uno PowerBankをお見せよう！残量十分・ハッピー、残量不足・ぴえん……次は何か知りたくない？意外な発見もありますよ！パワが足りない時に、俺がいるから怖くないと伝えたい！UGREEN Uno 表情付きモバイルバッテリーを充電の毎日に寄り添わせてください！",
+        "【^.^】╯10000mAh容量も抜群・2WAYでの充電が可能╰【^.^】7.5Ｗ出力で無線ワイヤレス充電・PD 20W Max出力で有線USB-C充電、どっちでも急速充電を君に！10000mAhの大容量で、外出でも家でも安全感が満々！USB-C充電・放電効率は87％以上に達し、10000mAhの容量を放電へ無駄にならない！UGREEN Uno ワイヤレス充電モバイルバッテリーは充電中の君との出会いを大切に！",
+        "【^.^】╯折畳式のスタンド付き・充電しない時にも利用可能╰【^.^】ワイヤレス充電時→充電できるスマホスタンドとして楽しく使えます！充電しない時→マグネットスタンドとしても使えます！（※ 電源ボタンを3回クリックし、約2秒待つとワイヤレス充電機能が解除され、マグネット式スマホスタンドとしてのみ使用可能）",
+        "【^.^】╯独自NTC保護システムに・多種保護機能で全力守れる╰【^.^】高温・低温の環境下で、出力を温度により自動的に調整し、お使いのデバイスとUGREEN Unoモバイルバッテリーの両方を安全かつ安心して使用可能！過電圧、過電流、過充電、過放電、過熱、ショット防止などの保護回路を搭載し、高性能とともに安全面の機能も充実しているこのUGREEN Uno スタンド付きモバイルバッテリー！",
+        "【^.^】╯24ヶ月の保証期間╰【^.^】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN モバイルバッテリー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN【20000mAh・充電コード2本付き】 ストラップ型 モバイルバッテリー コンパクト 持ち運びやすい かわいい表示 ケーブル忘れ防止 便利 PD 急速充電 22.5W 20W iPhone17 16 15/USB-Cデバイスなどに対応 PSE認証済 PB525 黒",
+      "url": "https://www.amazon.co.jp/dp/B0D9GQMMSV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ROAjilyqL._SL500_.jpg",
+      "features": [
+        "【20000mAhの大容量 & コンパクト設計】iPhone16proに約4回分の充電が可能な大容量でありながら、充電ケーブルを2本収納するコンパクトサイズを実現。ビジネス出張からレジャーまで、1日中複数デバイスの使用を支える、信頼性の高いモバイルバッテリーです。",
+        "【充電コード2本付き、着脱式ケーブルでストラップを】煩雑なケーブル管理は不要。本体に着脱式メインケーブルと背面固定ケーブルをあらかじめ内蔵。iPhone、Android主要機種に対応し、最小限の荷物で最大限の充電環境を構築します。（着脱式ケーブルを）側面ボタンによるワンタッチ着脱で、利便性と綺麗な収納を両立。",
+        "【顔文字で表示する残量状況】従来の数字表示に加え、直感的な顔文字アイコンで残量と充電状態を表示。特に満充電時には明確なピンクのハートマークが点灯し、充電完了を一目で確認可能。機能性とユーザビリティを融合した次世代のモバイルバッテリーです。",
+        "【最大3ポート同時充電 ＆ 複数デバイスをワンストップで実現】内蔵2ケーブルに加え、本体にはUSB-CポートとUSB-Aポートを装備。スマートフォン、タブレット、ワイヤレスイヤホンなどを同時に、最大3台まで効率的に充電。デスク上でも外出先でも、まとまった電力供給が可能です。",
+        "【PD20W ＆ SCP22.5W 高速充電対応】多様な最新デバイスに対応した高速充電をサポート。iPhoneシリーズにはPD20Wで、Huawei等対応機種にはSCP22.5Wで、待ち時間を大幅短縮。ビジネスシーンでの短時間充電や、緊急時の迅速な電力確保を強力にバックアップします。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN モバイルバッテリー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN20000mAh・充電コード2本付き",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN USB Type Cケーブル PD対応 100W/5A 超急速充電 USB C ナイロン編み 断線防止 iphone17/16/15シリーズ/iPad/MacBook Pro/Galaxy S24/Matebook/iPad/Xperia等USB-C各種対応(1m, ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B07V78HMDQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31iSZJ32a7L._SL500_.jpg",
+      "features": [
+        "🔋【最大100Wの超高速充電対応】UGREEN usb c ケーブルはUSB PD技術に対応し、最大100W (20V×5A)まで安全かつ安定して出力できます。PD充電を実現するために、デバイスとアダプタはPD機能をサポートする必要があります。100W 87W 61W 45W 30W 18Wの電力供給PD急速充電をサポートします。 【ビデオ出力をサポートしていません。】",
+        "🔋【幅広い互換性】 UGREEN usbc ケーブルはiPhone 17/16/15シリーズ、MacBook Pro、Macbook Air、iMac、ChromeBook Pixel 、Dell XPS 、Moniteur 4k、 Galaxy S24、 Mate 20/ Mate 20 Pro/ P20/ P20 Pro/ Mate 10/ P10、HTC U11/ 10など様々なUSB type cデバイスに対応できます。スマホだけでなく必要の充電時間を短縮したい各種のタブレット、ノートパソコンなどの充電時間を大幅に減らせます。",
+        "🔋【耐久性と柔軟性を両立】UGREEN 5A USB Cケーブルは、コンパクトで信頼できるアルミニウム合金シェルとナイロン編まれたケーブルを使っている優れた高品質製品を提供します。ナイロンファイバー被覆構造で10000回以上の折り曲げ試験に合格し、一般的なUSBケーブルより寿命を4倍以上に向上する高耐久Type C ケーブルです。",
+        "🔋【480Mbpsデータ転送】USB 2.0基準で最大480Mbpsのデータ転送を対応し、100曲ごとに5秒ごとに転送速度を提供しています。 端子部には金メッキ加工を施しており、確実に信号を伝送するための設計もありますので、耐久性を確保しつつ安定の転送ができます。",
+        "🔋【安全保護】過電流/過熱/短絡保護およびE-markerスマートチップを搭載し多層シールドも内蔵しており、安全で安定した電源を提供します。高速充電とデータ転送に最適な選択で、自宅やオフィスで高速充電を楽しめます。",
+        "🔋【24ヶ月間保証】当店でご購入の製品には24ヶ月間保証サービスが付いております。 お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN USB-C ケーブル",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN USB Type CケーブルPD対応100W/5A 超急速充電USB C to USB C 断線防止 iPhone 15、MacBook Pro、Matebook、iPad、Xperia、Galaxy等Type-c機種対応 (1M-2本セット)",
+      "url": "https://www.amazon.co.jp/dp/B09N94MZG9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41SyWFAvGwL._SL500_.jpg",
+      "features": [
+        "🔋【最大100Wの超高速充電対応】USB PD技術に対応し、最大100W (20V×5A)まで安全かつ安定して出力できます。PD充電を実現するために、デバイスとアダプタはPD機能をサポートする必要があります。100W 87W 61W 45W 30W 18Wの電力供給PD急速充電をサポートします。 【ビデオ出力をサポートしていません。】",
+        "🔋【480Mbpsデータ転送】USB 2.0基準で最大480Mbpsのデータ転送を対応し、100曲ごとに5秒ごとに転送速度を提供しています。",
+        "🔋【幅広い互換性】 UGREEN USB C to C ケーブルはMacBook Pro 2016/ 2017、 Macbook Air 2018、iMac 2017、ChromeBook Pixel 2015、Dell XPS 15/ 13、Moniteur 4k、 Galaxy S9/ S9 Plus/ S8/ Note 8、 Mate 20/ Mate 20 Pro/ P20/ P20 Pro/ Mate 10/ P10、HTC U11/ 10など様々なUSB type cデバイスに対応できるスマホ充電ケーブるです。",
+        "🔋【耐久性と柔軟性を両立】UGREEN 5 A USB Cケーブルは、コンパクトで信頼できるアルミニウム合金シェルとナイロン編まれたケーブルを使っている優れた高品質製品を提供します。ナイロンファイバー被覆構造で10000回以上の折り曲げ試験に合格し、一般的なUSBケーブルより寿命を4倍以上に向上する高耐久Type C ケーブルです。",
+        "🔋【安全保護】過電流/過熱/短絡保護および56Ωプルアップ抵抗を内蔵した多層シールドも内蔵しており、安全で安定した電源を提供します。高速充電とデータ転送に最適な選択で、2本セットで自宅やオフィスで高速充電を楽しめます。",
+        "🔋【24ヶ月間保証】当店でご購入の製品には24ヶ月間保証サービスが付いております。 お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN USB-C ケーブル",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 【100cm巻き取り式】PD 100W/5A USB-C ケーブル 4階段調整可能（36/60/82/100cm） 軽さ ミニ型 「持ち運び用 部屋収納」 両引き メタル風仕上げ PPS対応 E-Marker iphone17/16/15/シリーズ、スマホ・パソコン・タップレットなどType-C適合",
+      "url": "https://www.amazon.co.jp/dp/B0DXDT9SKW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31AsqtTeJEL._SL500_.jpg",
+      "features": [
+        "【100cm巻き取り式】4段階（36cm/60cm/82cm/100cm）でサクッと長さ調整可能、デスク周りや外出先での使い勝手を追求したデザイン！「両引き設計でストレスフリー！」軽く引っ張ると長さが固定され、さらにもう一度引っ張ればラクラク収納でき！ケーブルが散らからず収納ラクラクで、迷わなくてエグいほど便利～！",
+        "【PD 100W/5A 爆速充電】巻き取り式ケーブルの中でも100W/5A怖い出力パワー！超急速の充電ケーブルのトレンド？最大100W/5Aで爆速充電、スマホもノートPCもタブレットも一気にフル充実！利便性と高性能を兼ね備えるUGREEN巻き取り式USB-Cケーブルで、統一感ある充電デスクトップを！",
+        "【ロングライフ・スムーズ】日常的な引き出し・巻き取りを繰り返しても、長期間安定した性能を維持でき！高耐久素材を採用したケーブル部は折れにくく、コネクタ部分には強化処理を施し、確かなUGREEN品質を実現！「壊れる前に飽きる」レベルの耐久性がここに…！(*注：ですが、過度な力でのご使用はお控えいただけますと幸いです。)",
+        "【PD3.0、E-maker知能チップ搭載】PD急速充電しながら安定・安全も大事。知能的に出力検出＆配分機能を備えています。送電側や充電側のデバイスの状況を考慮して、最適な電力制御が可能。",
+        "【スマホ・パソコンなど多種対応、幅広い互換性】iPhone/MacBook Pro/MacBook Air/iPad Pro/Chromebook/Xiaomi/Dell/HP/Galaxy/Pixel/Xperia/NS2/GoPro/カメラ/PS5コントローラーなどいろいろなCタイプ機種に対応可能！",
+        "【UGREEN 24ヶ月の保証期間付き】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN USB-C ケーブル",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN USB Type C ケーブル USB A to USB C ケーブル ナイロン編み 3A急速充電 Quick Charge 3.0/2.0対応 56Kレジスタ実装 iphone17/Galaxy S24/Pixel/Google/Xperia/LG等対応 (0.5m)ブラック",
+      "url": "https://www.amazon.co.jp/dp/B07PP2RB25?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41djlgaly7L._SL500_.jpg",
+      "features": [
+        "QC3.0急速充電対応：UGREEN USB Type C充電ケーブルは、Huawei FCP急速充電およびQC3.0急速充電（最大3A）をサポートしています。Qualcomm Quick Chargeに対応する各機種をフルスピードで充電できます。純正のケーブルと同じ速さで、ギャラクシーS9に僅か2時間で満充電できます。",
+        "安全性と信頼性を向上：高品質の安全保護を実現するために、USB-C急速充電プロトコルと内蔵の56Kレジスタ実装、アップグレードされた多重保護機能付きインテリジェントチップに完全に準拠しています。このようなタイプC充電ケーブルは信頼性の高い導電性と安定した充電電流を提供し、過電流、過電圧、過熱、短絡からスマホを保護できます。",
+        "幅広い互換性：UGREEN USB-C急速充電ケーブルはXperia XZ/ XZ Premium/ XZ2/ XZ3/ XZs、ギャラクシー S10/ S9/ S8/ S8/ Note9/ Note 8/ A5 2017、iPad Pro 2018、Nexus 5X/6P、Mate 20/ Mate 20 Pro/ P20/ P20 Pro/ Mate 10/ P10、HTC 10/ U12、LG V20/ V30/ V40/ V50、GoPro HeroなどほぼすべてのCタイプ機種に適用します。",
+        "強化された耐久性：両端のUSBコネクタはアルミニウム合金と一体されているプラグを採用して、挿抜の耐久性が90％向上し（10000+の抜き差しテスト済み）、根元も人間工学設計で強化加工され、もっと持ちやすくなり、断線防止ができます。丈夫なナイロン編組ケーブルは、絡みにくいだけではなく、十分な柔軟性もあり、取り回してバッグに入れるのにも便利です。",
+        "高速データ転送：USB-C to USB-A 2.0ケーブルは急速充電と高速データ転送同期を対応しております。最大480Mbpsの同期速度をサポートし、1GBのファイルを数秒間で転送完了します。",
+        "【24ヶ月間保証】当店でご購入の製品には24ヶ月間保証サービスが付いております。 お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN USB-C ケーブル",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN USB C ケーブル L字 100W USB Type-C iPhone 充電ケーブル L型 PD/PPS 急速充電 データ転送 タイプ C to Cコード 高耐久性 iPhone 17/16/15シリーズ、MacBook/iPad/Galaxy/Pixel/Google/HP/SwitchなどUSB-Cデバイス対応-1M【ビデオ出力非対応】",
+      "url": "https://www.amazon.co.jp/dp/B083Q4SHPT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Xawgd-82L._SL500_.jpg",
+      "features": [
+        "【100W超高速充電対応】UGREEN USB C L字 ケーブルはUSB PD技術に対応し、最大100W (20V*5A)まで安全かつ安定して出力できます。PD充電を実現するために、デバイスとアダプタはPD機能をサポートする必要があります。100W 87W 61W 45W 30W 18Wの電力供給PD急速充電をサポートします。(ご注意！モニタや映画などと対応できません。)",
+        "【L字型・ケーブルへの負荷軽減】このL字 USB-Cケーブルはコネクタ部分でケーブルが自然に曲げられるため、接続点への物理的ストレス（引っ張りや折れ曲がり）が分散され、断線や接触不良のリスクを低減します。ゲームをしたり、ビデオを見たり、ソファーやベッドに横になって充電している時にはるかに便利で快適です。（ 携帯カバーの厚さ：2.5 mm以内）",
+        "【高品質＆安全性の向上】L字のType cケーブル設計で、ケーブルが他の物体にぶつかりにくく、誤って引っ掛けて抜けてしまう事故を防ぎます。また、コードが無理な角度で曲がらないため、発火やショートのリスク低減にもつながります。また、cケーブルには過電圧、過熱、過電流、ショート防止等の多重保護の安全性と信頼性を向上します。",
+        "【日々の充電やデータ転送も快適に行える】C端子を備えた携帯電話やタブレット、ノートPC、ゲーム機器などほとんど全ての端末で利用できるし、優れた汎用性を誇ります。最大480Mbpsの転送速度により、スマホやPCなどのデバイス間のデータをスムーズに転送！",
+        "【耐久性と柔軟性を両立】この100W USB C to Cケーブルは10000回以上の折り曲げに耐えうるまでに強化され、圧倒的な持続力を持ちます。二重に編み込まれた高耐久ナイロンにより、絡みにくい、取り回しやすい、機能性とデザイン性を両立しました。",
+        "【幅広い互換性を備える】この UGREEN USB-CケーブルはこのUSB Cto CケーブルはUSB-C搭載のiPhone17/16/15シリーズににシームレスに接続、最高のパフォーマンスを発揮します。iPhone17/16e/16/15、iPhone Air/16/15 Plus、iPhone17/16/15 Pro、iPhone17/16/15 Pro Max、Switch、Google Pixel 2 / 3 / 4 /XL / 2XL、Galaxy S10 / S9 / S8 / Note 10 / Note 9 / Note 8、GoPro Hero 7 / 6 / 5など、さまざまなUSB-Cデバイスに完璧に適合します。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN USB-C ケーブル",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN HDMI 切り替え器 HDMiセレクター 2入力1出力 双方向 4K 60Hz HDCP 2.2/hdmi 2.0 【HDMIケーブル一体型】 手動 電源不要 PC Xbox PS4 Fire TV Stick Apple TVに対応",
+      "url": "https://www.amazon.co.jp/dp/B08R868KSZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31h33gid+dL._SL500_.jpg",
+      "features": [
+        "【4K@60Hz高解像度】このHDMIセレクターは4K（3840 x 2160 @60Hz）、2K（2560×1440）、3Dビデオ、CECに対応し、1080P，1080i，720P，576P，480P，576i，480iと下位と互換性があります。気軽に大迫力映像をお楽しみ頂けます。★ご注意：4Kで利用したい場合は、HDMIケーブルは１m以内である必要があります。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .",
+        "【双方向で使用可能】1入力×2出力、2入力×1出力の双方向で使用できるHDMIセレクターです。これ1台あればさまざまな接続方法に対応でき、活躍シーンが広がります。★ご注意：2つの出力機器に同時に出力する分配機能はありません。 　　　　　　　　　　　　　　　.",
+        "【HDMIケーブル一体型】本体には約50cmのHDMIケーブルが内蔵されています。一方向はHDMIケーブルを用意する必要がなく便利です。選択機器がわかるLEDランプが付き、どの機器を利用しているのをすぐに分かります。 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .",
+        "【ワンタッチで切替可能】電源要らずでコンパクト設計。HDMIポートに差し込むだけで使用可能。高品質のABS素材で耐熱性に優れており、内蔵のスマートチップでより高い性能を発揮します。　　　　　　　　　　　　　　　　　　　　 .",
+        "【多機種に対応】PC、PS4、PS3、Blu-Ray DVDプレーヤー、XBox 360、XBox One、Chromecast等。出力：テレビ、HDTV、Apple TV対応、Fire TV、モニター、プロジェクターなど対応。（※PS4 ProなどのHDMI 2.0機器を接続する場合は、解像度を4K @ 60Hzに設定してください。）",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN HDMI 切替器",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN HDMI 切り替え器 3入力1出力 8K@60Hz/4K@120Hz セレクター リモコン付き 48Gbps HDMI2.1 HDCP 2.3 PS3/PS4/PS5/Switch対応/動作確認済み",
+      "url": "https://www.amazon.co.jp/dp/B0BRSR8GNQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41HUYzZxPKL._SL500_.jpg",
+      "features": [
+        "【8K高解像度対応、3台の機器で切替可能】このHDMIセレクターは、最新のゲーム機や映像出力機器など3台のHDMI機器を切り替えて、フルHDの16倍の画素数をもつ8Kの映像信号と音声をそのまま出力できるHDMIセレクターです。8K対応HDMI端子を1ポートしかもたないテレビやディスプレイも、ボタンひとつでHDMI機器を切り替えて共有することができます。",
+        "【4K@120Hz/144Hzの高フレームゲーム対応】高精細4Kコンテンツの高フレームレート120fps（120Hz）に対応で、大画面でなめらかな動きを再現します。HDMI2.1で規定される「VRR」にも対応で、動きの激しいアクションゲームも快適にプレイすることができます。対人ゲームやeSports など、スピード感や繊細な操作が要求されるゲームも、ディスプレイと直結したときと同じ感覚で楽しめます。",
+        "【Dolby Atmos&HDCP2.3対応】このHDMI切替器は、サラウンドの音声フォーマット「Dolby Atmos（ドルビーアトモス）」「DTS:X」にも対応し、音声データをオリジナルに近い、美しい音声で再生できます。標準ハイダイナミックレンジのHDR 10 をはじめ、映画で用いられるDolby 放送用 HDR 規格のHLG など、各種HDR規格に対応。映像を鮮やかでリアルに再現します。HDCP2.3に対応しているので、家庭用ゲームソフトやBlu-rayビデオなど、HDCPにより保護されたコンテンツもそのまま表示できます。",
+        "【ボタンとリモコンで簡単切替】本体ボタンを操作したときのみ、選んだポートに切り替わります。また、超薄型リモコン付きで本体から離れていても切替可能です。ドライバー不要で、製品を接続するだけで使用可能。※重要：DVD、ゲーム機、TVボックス信号ソース機器を使用する場合、製品の最高の体験を確保するために、製品を5V/1Aアダプター電源に接続する必要があります。",
+        "【幅広い互換性】最新ゲーム機 PlayStation5 や XBOXSeriesX を接続し、4K 120Hz対応コンテンツが直結したときと同じ解像度、フレームレートで出力されていることを確認しています。HDMI出力端子を搭載したPC、PS5、PS4、PS3、Xbox360、TV Box、DVD等に対応できます。テレビ、DLP、LCD、プロジェクター等HDMI入力端子を搭載した機器にも対応可能です。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN HDMI 切替器",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN HDMI 切り替え器 2入力1出力 4K@60Hz 切替器 双方向 HDCP 2.2/HDMI 2.0 電源不要 PS5/PS4/PS3 TV Stick PC ブルーレイプレーヤー テレビ プロジェクター 等に適用 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B07JQH1L83?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31pth0tPrmL._SL500_.jpg",
+      "features": [
+        "【双方向使用可能】レコーダーやゲーム機、パソコンなどのHDMI機器が増えてテレビ側の入力端子が足りなくなったとき、本製品を追加すれば、１つのHDMI入力端子を複数のHDMI機器で共有することができ、2入力1出力と1入力2出力を双方向に切り替え可能なHDMI切替器です。※※2画面同時に分配する機能はありません。",
+        "【4K@60Hz高解像度】4Kに対応した再生機器から映し出される美しい映像をそのまま大画面の液晶テレビやディスプレイに出力可能なHDMIセレクターです。4K（3840 x 2160 @60Hz）、2K（2560×1440）、3Dビデオ、CECに対応し、1080P，1080i，720P，576P，480P，576i，480iと下位互換性があります。",
+        "【簡単切替】ボタン一つで各出力機器へ切り替え可能なHDMI切替器です。本体を定位置に安心して固定できる滑り止めが付き、デスクトップに傷つきしません。高品質のTS3DV642+MCUを採用し、安定した信号伝送を確保できます。",
+        "【HDR&HDCP2.2】HDRに対応し、より自然でリアルな映像を楽しむことができます。HDCP2.2もサポートし、保護されたコンテンツもそのまま表示できます。3D映像に対応、ダイナミックな映像を楽しめます。DTS-HD/Dolby-tureHD/LPCM7.1/DTS/Dolby-AC3/DSDなどのサラウンドサウンドをサポートします。",
+        "【幅広い互換性】Windows & Mac OS PC、PS5、PS4 Pro、PS4、Switch、ブルーレイプレーヤー、Xbox 360、Xbox one、Chromecast、テレビ、プロジェクター、ディスプレイ、モニターなどに適用します。ホームビデオ、プレゼンテーション、会議、メディア教育などの場合に大活躍です。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN HDMI 切替器",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN HDMI 切り替え器 HDMiセレクター 2入力1出力 8K@60Hz/4k@240Hz HDCP 2.3/HDMI 2.1 HDR 10+/CEC/VRR 手動 Switch/Switch 2 PS5 PC Xbox PS4 Fire TV Stick Apple TVに対応 USB-C電源ケーブル付き",
+      "url": "https://www.amazon.co.jp/dp/B0F3WSXWHW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41VKvTiygHL._SL500_.jpg",
+      "features": [
+        "【切替の手間を解消・快適な視聴体験を提供】テレビで複数のゲーム機器を頻繁に切り替えるのに疲れていませんか？UGREENのHDMI 2.1切替器 2入力1出力なら簡単に切り替えが可能です！PS5、Xbox、Switch、ノートパソコンなど、お気に入りの2つの機器を1台のテレビに接続したり、1つのモニターを共有したりできます。2つの信号源を1つのディスプレイに接続できます。（ご注意：これは単方向で、1入力2出力モードはサポートしていないため、2台のモニターに同時に表示することはできません。）",
+        "【8K解像度対応・次世代ゲーム体験】こちらのHDMI 2.1切り替え器はゲーマーに最適で、8K@60Hz、4K@240Hz、4K@120Hz、さらに1080P@240Hzの解像度にも対応しています。このHDMIiセレクター2入力1出力は、HDMI 2.1/2.0/1.4、VRR、ダイナミックHDR、Dolby Atmos & HDCP2.3にも対応しています。（ご注意：8K@60Hzの高解像度を実現するには、HDMIケーブル、モニター、グラフィックスカードがすべて8K@60Hzをサポートしていることを確認してください。）",
+        "【重要な注意事項】1. このHDMI 2.1切替器は使用時に必ず電源に接続する必要があります。（USB-C電源ケーブルが付属しています）2. 自動切り替えはサポートしていません。3. ARC/eARCはサポートしていません。4. 8K@60Hzの解像度を実現するためには、3メートル以内の認証されたHDMI 2.1ケーブル（AWG28）を使用することをお勧めします。5. 電源ケーブルは付属していますが、HDMIケーブルと電源アダプターは含まれていません。",
+        "【究極の滑らかさ・より高いリフレッシュレート】4K@240Hz、4K@120Hz、2K@240Hz、1080P@240Hzなどの高リフレッシュレートをサポートし、この8K HDMIスイッチは48Gbpsのデータ転送帯域幅をサポートします。また、可変リフレッシュレートVRR、Free-Sync、G-syncにも対応し、コンテンツのフレームレートに合わせて画面のリフレッシュレートをリアルタイムで自動調整し、画面のティアリングやスタッタリングを防ぎ、入力遅延を減少させ、ゲームの応答性を向上させます。",
+        "【プラグ＆プレイ・幅広い互換性】外部ドライバーは必要なく、HDMIスイッチボックスのボタンを押すだけで、2つの入力ソース間を簡単に切り替えられます。2つのLEDインジケーターにより、接続されたデバイスが動作しているかを簡単に確認できます。また、このHDMIスイッチは、Switch、PS5/PS4/PS3、コンピューター、Xbox 360、Xbox One、Blu-ray DVDプレーヤー、Roku TV、Firestick、HDTV、モニター、プロジェクターなど、標準HDMIインターフェースを持つほとんどのデバイスと互換性があります。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN HDMI 切替器",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN HDMI切り替え器 3入力1出力 4K@60Hz リモコン付き HDR10+ CEC HDCP2.2対応 HDMI切替器 Switch/PS5/4/3 Xbox TV Fire Stick Blu-Ray Player対応 手動切り替え",
+      "url": "https://www.amazon.co.jp/dp/B0DLN4RLQF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31n7pfc0rfL._SL500_.jpg",
+      "features": [
+        "【HDMI切り替え器 3入力1出力】： UGREEN HDMI切り替え器を使用すると、3つのHDMIソースから1つのHDMIディスプレイにビデオを簡単にストリーミングできます。(本HDMI切替器は、HDMIケーブルの抜き差しから解放され、ポートとケーブルを保護するので、簡単に仕事を楽しんだり、3つのデバイス間でゲームをプレイすることができます。",
+        "【4K高解像度】： HDMI2.0/1.4、HDCP2.2/1.4をサポートし、4K@60Hzの解像度と4K@30Hz、2560*1440@120Hz、1920*1080@240Hzまでの下位互換性で、信じられないほどの視聴に没頭できます。また、HDR10/HDR10+、3D、RGB 8/10/12bpc、Dolby Atmos、DTSにも対応しており、映画のような素晴らしい映像とクリアでスリリングなサラウンド・サウンドをお届けします。",
+        "【高速で安定した伝送】： このリモート付きHDMI切り替え器は、高帯域幅18Gbpsデータ伝送をサポートし、USB給電設計は安定したビデオ伝送とより良いパフォーマンスを確認し、ゲームをスムーズに実行し、データ伝送を高速化します。本UGREEN 4K HDMI切替器を使用するときは、常に電源に接続しておいてください。",
+        "【リモコンと手動スイッチ】： リモコンと手動スイッチにより、ソファやベッドでくつろぎながら、リモコンでゲーム機器を簡単に切り替えることができます（制御範囲は10M以内）。手動スイッチは、ボタンを押すだけで、いつでも3つのデバイスを切り替えることができます。",
+        "【幅広い互換性とパッケージ内容】： このHDMI切り替え機は、PS5/3/4/4 pro、Blu-rayプレーヤー、Fire stick、Xbox 360、Xboxシリーズx、Switch、Apple TV、DVDプレーヤー、PC、ラップトップ、HDTV、プロジェクターなど、ほとんどのHDMIソースデバイスと互換性があります。パッケージリスト 1* 4K HDMI切替器、1*電源ケーブル、1*リモートコントローラー、1*ユーザーマニュアル",
+        "【重要な注意事項】: 1、自動スイッチングをサポートしていません。2、5V/1A電源アダプター以上を接続し、通常の使用に十分な電力を確保してください。3、HDMIケーブルや電源アダプタを含まず、リモートバッテリも含まれていません。4、製品にボタンかコントローラーを使用する前に、すべての HDMI ケーブルおよび送電線を接続することを確認します。５、リモート・コントロールが使用中であるとき、それを妨げる目的のない IR の受信機に直接直面するべきです。6.注：切り替え時の問題を避けるため、お使いのPCまたはMacの設定で「スリープしない」に設定されていることを確認してください！！！"
+      ],
+      "query": "UGREEN HDMI 切替器",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN ノートパソコンスタンド 縦型 3台収納 pcスタンド 縦置き 収納 3スロット 幅調整可能 アルミ合金製 シリコーンゴム傷防止 15.6インチまで対応 パソコンスタンド 全機種対応MacBook Pro Surface iPad HP Lenovo ThinkPad Huawei Surface Dell、HP、Lenovoなど",
+      "url": "https://www.amazon.co.jp/dp/B0CNXDLJQ5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41rIrVxf2JL._SL500_.jpg",
+      "features": [
+        "【優れた互換性&幅調整可能】: 幅広の側面 (12 ～ 26 mm) により、13 ～ 17.3 インチのラップトップ、タブレット、iPadなどのデバイスを簡単に手の届くところに保管するのに十分なスペースが提供されます。前面はスマホホルダーとしても使えます。中央のスロット (19mm) は、より薄いラップトップやタブレットにも対応します。",
+        "【作業スペースを整理】: この省スペーススタンドを使用すると、机の上のすべてを整理できます。付属のラップトップスタンドはモニターの後ろにぴったり収まるので、机の上にスペースを必要としません。仕事で 1 ～ 2 台の外部モニターが必要なユーザー、または要求の厳しいファイル サイズを編集する必要があるユーザーに最適。",
+        "【丈夫で安定】：スタンドは高品質アルミニウム合金で作られています。頑丈なベースによりスタンドが安定します。スタンドのゴムベースにより、スタンド内のデバイスは揺れることなくテーブルにしっかりと立てることができます。ノブで幅を調整すれば、デバイスが転倒する心配がありません。",
+        "【全面保護、傷防止、滑り止め】：滑り止めのゴム底により、スタンドがしっかりと固定され、ぐらつきません。内側は完全にゴム引きされており、デバイスを傷から保護し、グリップ力を高めます。",
+        "【斬新なデザイン】: デバイスを縦に収納しながら充電でき、スタンドのデザインによりケーブルを収納できるスペースが確保され、仕事や勉強中に整理整頓できます。外付けモニタ付きノートブックPCを使用するのに慣れている場合は、新しい整然とした作業環境を提供します。",
+        "【24ヶ月の保証期間】：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN ノートPCスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN ノートパソコンスタンド 360度回転 PCスタンド 耐荷重5KG タブレットスタンド 人間工学デザイン 姿勢改善 折りたたみ式 安定性 効率向上 放熱性高い 高さ/角度調整可能 鉄合金＋アルミ合金製 ノートPC 17.3インチまで対応可能 シルバー",
+      "url": "https://www.amazon.co.jp/dp/B0D3WT12Y8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41w2bNNjldL._SL500_.jpg",
+      "features": [
+        "【高さ角度調整可能＆人間工学設計】人間工学に基づいて設計により、高さと角度を自由に調整できます。会社・家の机と椅子の不便な高さから解放され、快適な角度で楽に作業でき、姿勢改善に良いです。仕事や勉強の時、視線が高くなり適正な姿勢に、肩や腰や首など負担を軽減し、猫背なども有効に防止できます。",
+        "【高品質アルミニウム合金製】高品質アルミニウム合金製で、耐荷重は最大5KG、あらゆるのノートパソコンやタブレットをしっかり支えます。中空デザインで、優れた放熱性をもたらし、特に暑い夏や長時間のコンピュータ使用時に、デュアル放熱設計がコンピュータを低温に保ち、オーバーヒートによるラグを軽減します。また、シリコン製滑り止め保護ゴム付きで、ノートパソコンに傷つかない。",
+        "【二軸構造＆360度回転可能】二軸構造を用いて、より強い支持安定性をもたらす上、折りたたみ機能を実現でき、持ち運びの簡単にできます。360度回転可能で、あらゆる角度に調整可能です。様々な利用シーンのニーズに対応でき、快適な使用体験を提供できます。ミーティングの共有でも、勉強でも、快適に使用できます。",
+        "【幅広い互換性】最大17.3インチまでのデバイスに対応できます。 また、Z型構造により、PCスタンド下のスペースを活用し、キーボードやUSBハブなどの小物を収納することができ、デスクトップをより美しく整頓することができます。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN ノートPCスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN ノートパソコンスタンド PC 折りたたみ式 パソコンスタンド コンパクト 持ち運びやすい ラップトップ 7.9-17.3インチまでのノートPC タブレットに対応 アルミ合金素材 5段階角度調整可能 滑り止めシリコン 収納ケース付き",
+      "url": "https://www.amazon.co.jp/dp/B08TLVKBMJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31zo6d-Wu2S._SL500_.jpg",
+      "features": [
+        "5段階高さ調整・姿勢改善：エルゴノミクスの設計により、机に対してキーボードが15度から35度まで変換できて、画面の高さも6～15cmほど高くすることができます。視線が高くなり姿勢も正されて長時間のデスクワークでも体の疲労が溜まりにくくなります。頸椎の疲れや肩こりを解消できリモートワーク時代の必要品としておすすめします。",
+        "安定性抜群 & 耐荷重5KG：軽量で安定性のあるアルミ合金で作られ、表面にあるシリコン滑り止めに大きく、安定性が抜群の上にパソコンを傷つけません。また、開いた時の横幅が広くてタイピング・クリック・スクロールなどの操作で揺れはほとんど見られません。耐荷重は5kgに達し、17.3インチまでの幅広いデバイスに対応できます。",
+        "コンパクト＆携帯便利：折りたたみ式パソコンスタンドは27*5.5*1cmの小型のサイズで、開く長さは23.3cmです。わずか220gで、携帯電話のように軽量です。使用するときネジ不要、力を入れて調整する必要もなく、誰でも簡単に組み立ててすぐに使えるスタンドです。スーツケース、リュックはもちろん、コンパクトに折りたたんでカバンに収納、持ち運びが出来るポータブルノートPCスタンドで、外出先に持ち運んで使用することができます。",
+        "放熱性抜群＆耐久性抜群：PCスタンドは冷却しやすいアルミ合金材料を採用し、特別な中空デザインにより、空気が通りやすく、放熱性は非常に良いです。高品質のアルミ合金素材を採用されるため、全体的な構造からディテールに至るまで 精巧に作られ、耐久性も優れていて長時間使用可能です。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN ノートPCスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN ノートパソコンスタンド 縦型 2台収納 pcスタンド 縦置き 収納 2スロット 幅調整可能 2槽 アルミ合金製 シリコーンゴム傷防止 15.6インチまで対応 パソコンスタンド 全機種対応MacBook Pro Surface iPad HP Lenovo ThinkPad など",
+      "url": "https://www.amazon.co.jp/dp/B09XZTM9QD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41v9h6Z6YAL._SL500_.jpg",
+      "features": [
+        "【ダブルスロット＆幅調整可能】厚さ0.5インチから最大1インチのノートパソコンにフィットし、2台まで収納出来ます。 ネジをひねることで簡単にスロットを調整でき、工具が不要です。",
+        "【傷防止】 デスクノートパソコンスタンドホルダーは、スロットの内側はシリコーンのパッドでカバーされており、ご貴重なパソコンを傷から完全に保護します。",
+        "【頑丈で安定性】プレミアムアルミニウム合金製でノートパソコンを保持するための優れた安定性を確保します。ベースもシリコンパッドで覆われており滑り止めも完璧です。",
+        "【幅広い互換性】この縦型ノートPCスタンドは、MacBook Pro、Surface、Galaxy Book、Lenovo、HP、Dell、Chromebook、ThinkPadなど多数の15.6インチまでのコンピューターに対応しています。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN ノートPCスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 縦型 ノートパソコンスタンド pcスタンド 縦置き 収納 幅調整可能 アルミ合金製 シリコーンゴム傷防止 全機種対応Mac/Surface/iPad/HPなど（グレイ）",
+      "url": "https://www.amazon.co.jp/dp/B091B4SWR7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31hM79NswGL._SL500_.jpg",
+      "features": [
+        "【調整可能なスロット】ノートパソコンホルダースタンドは、厚さ0.5インチから最大1インチのノートパソコンにフィットします。 ネジをひねることで簡単にスロットを拡張でき、工具が不要です。",
+        "【幅広い互換性】このノートパソコン用スタンドは、MacBook Air、MacBook Pro、Microsoft Surface、Samsung Galaxy Book、Lenovo Ideapad 3、HPノートブック、Dell Chromebook、ThinkPad、その他の17.3インチまでのコンピューターに対応しています。",
+        "【頑丈で安定性】 デスク用縦型ノートパソコンスタンドはプレミアムアルミニウム合金製で、ノートパソコンを保持するための優れた安定性を確保します。 ベースもシリコンパッドで覆われており、滑りを防ぎます。",
+        "【傷防止】 デスクノートパソコンスタンドホルダーは、スロットの内側に滑り止めシリコンパッドで覆われており、PCを傷から完全に保護します。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN ノートPCスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN タブレット スタンド 折りたたみ式 iPad スタンド 高さ角度調整可能 アルミ＋鉄合金製 姿勢改善 持ち運びに便利 充電可能 人間工学設計 卓上縦置きスタンド iPad/Kindle/Surface/Switch機種に対応 4.7-12.9インチに対応(グレイ)",
+      "url": "https://www.amazon.co.jp/dp/B0BD4J84RK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51V0U2JIt6L._SL500_.jpg",
+      "features": [
+        "【高さ角度調整可能＆人間工学設計】人間工学に基づいて設計により、5cmから23cmまでお好みの角度＆高さ自由にに調節できます。会社・家の机と椅子の不便な高さから解放され、快適な角度で楽に作業できます。アイパッド スタンドを用いてタブレットに角度と高さをつけることで，視線が高くなり適正な姿勢に、肩や腰や首など負担を軽減らしてくれて、猫背などを有効に防止できます。",
+        "【収納便利＆放熱性抜群】折りたたみ式のタブレット スタンドとして、省スペースに収納可能です，収納や持ち運びにも便利。自宅でも会社でも、どこでも便利に使えます。冷却しやすいアルミ＋鉄合金スタンドに美しさと耐久性を兼ね備えた隙間を設けて、熱が籠りにくく、タブレットなどのデバイスの自然放熱を実現して、タブレットの運行スピードアップできます。",
+        "【安定性抜群＆滑り止め保護ゴム付】タブレットに当たる部分にシリコンゴム製の滑り止めパッドが付いているので、滑りも倒れもなく安定的に使えます。また、ゴム付きのフックがあり、大切なタブレットを落下などから保護できます。また、硬いサポートアームが二つあり、3kgまで耐荷できて安定性抜群です。多様なシーンに対応できる，キッチン、オフィスデスク、ゲーム、食卓に適用。",
+        "【高品質タブレットホルダー】高級感に溢れるアルミ合金と安全感向上の鉄合金を採用しており、そしてエッジ部分に丁寧に艶出し、滑らかで手に傷しません。回転軸がゆるくならないように強化され、耐久性が高くなります。高品質合金仕上げは、タブレットとの相性が非常によい。",
+        "【対応機種】約4.7-12.9インチのデバイス（iPad Pro 12.9 / 7.9 / 9.7 / 10.2 / 10.5 / 10.9 / 11 / mini 2 3 4 / air 1 2 3 4, S9 S8 S7 S6, Note 6 5, 12 mini pro max/ 11/ XS Max/ XR/ X 8 7 6 6s Plus）に対応できる。キッチン ・ オフィスデスク ・ ナイトテーブル ・ 食卓に適用 。仕事中でもメールやメッセージ受信を確認できるのでとても便利 。アニメ 、 映画 、 電子書籍を楽しむというようなレジャーの時にも活躍している。",
+        "【ご注意】本製品はアルミ＋鉄合金製で、優れた放熱性能と軽量性を両立させながら、より安定した使用感と安全性を提供します。もう支えられない心配は不要です。どのような場面でも安心してご使用いただけます。"
+      ],
+      "query": "UGREEN タブレットスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN タブレットスタンド iPad 360°ベース回転式 折りたたみ式 高さ角度調整可能 アルミ製 ポータブルスタンド 卓上 縦 横置き すたんど タブレット 置き台iPad Pro/Air/miniなどの4.7-13インチに対応 グレー",
+      "url": "https://www.amazon.co.jp/dp/B0CMHTFHSM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31WUPSNMloL._SL500_.jpg",
+      "features": [
+        "【革新的3６0°ベース回転式スタンド】スタンドを動かさずに360度自由に角度を調整できます。 手で触れるだけで必要な角度に回転します。UGREENタブレットデスクは二軸アームを備えており、iPad/iPhoneを目と平らな位置に引き上げ、快適な視聴体験を実現し、首/背中の痛みを大幅に軽減することができる。",
+        "【角度調整&両手解放】2つの調整可能なサポートアームは、絵画、読書、共有のためのさまざまな角度を提供します。iPadやタブレットを垂直または水平に置くことができ、保護ケースを外すことなく、スクリーン、充電ポート、オーディオポートへのブロックをなくすことができます。",
+        "【折りたたみ＆充電が便利】 完全に折り畳むことができます。軽くて、重さは約0.34kg、折り畳みサイズは14.9*12*3.9cmで、コンパクトに収納でき、カバンの中でもかさばりにくいです。 持ち運びがとても便利ですので、家や会社や出張や旅行などに最適です。また、スタンド使用中にデバイスを簡単に充電できるよう、専用の切り欠きを設けています。",
+        "【卓越した安定性・耐荷重1KG】頑丈な金属合金構造を採用し、最大1000グラムの耐荷重を実現。安定性が大幅に向上しました。底面とiPad/iPhone設置エリアにはゴムパッドを装備し、効果的な滑り止めにより安定性を大幅に向上。安全で信頼性の高いiPad/タブレット/スマートフォンスタンドです。",
+        "【対応機種】約4.7-13インチのデバイス（iPad Pro 12.9 / 7.9 / 9.7 / 10.2 / 10.5 / 10.9 / 11 / mini 2 3 4 / air 1 2 3 4, S9 S8 S7 S6, Note 6 5, 12 mini pro max/ 11/ XS Max/ XR/ X 8 7 6 6s Plus）に対応できる。キッチン ・ オフィスデスク ・ ナイトテーブル ・ 食卓に適用 。仕事中でもメールやメッセージ受信を確認できるのでとても便利 。アニメ 、 映画 、 電子書籍を楽しむというようなレジャーの時にも活躍している。",
+        "【24ヶ月の保証期間】：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN タブレットスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN タブレット スタンド アルミ製 iPad スタンド 角度調整可能 折りたたみ式 イラスト用 iPad Pro Galaxy Tab Note 6/5 LG Sony Nexus Fire hd Kindleなどの4-12.9インチに対応(スペースグレイ)",
+      "url": "https://www.amazon.co.jp/dp/B08VDF8PZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31efmG9eH3L._SL500_.jpg",
+      "features": [
+        "【角度調整可能&コンパクト便利】最大270°調整可能で, それぞれのユーザーのニーズを満たせる。軽くて、コンパクトなタブレットスタンドです。完全に折り畳むことができます。持ち運びがとても便利ですので、キッチン/オフィスデスク/ナイトテーブル/食卓に適用。喫茶店、図書館、閲覧室等室内の場合と地下鉄、汽車、飛行機、船に乗る外出の場合に最適です。",
+        "【安定性抜群】角度調整のやすさと安定感を両立するため、軸は最適な強度に調整されます。タブレットを置いでも重さで下がることはありません。回転できるの箇所が二つあり、軽くで回て、自分にベストな高さと角度に調整することができ、動画視聴や読書やタイピングなどには大活躍です。",
+        "【上品なアルミ質感】高品質のアルミ合金素材を採用し、細かなエッジ処理と艶消し表面処理、軽くて、コンパクトなデザインは上品で高級感を演出します。",
+        "【細部までこだわる】ご端末に接触する面にラバーが付き、大切なご端末を傷から守ります。底面にも滑り止めラバーにより、しっかりと卓上に固定できます。 特別な設計で、ケーブルを通すホール付き、ご端末を装着したままデバイスへの充電を行うことができる。シンプルなホールにより、使いやすさと美しさを両立させます。",
+        "【幅広い対応性】約 4-12.9インチのスマホとタブレットに対応しています。iPad 2021/iPad 9/iPad Pro 7.9 / 9.7 / 10.2 / 10.5 / 11 / 12.9/ mini 2/3/4 / air 1/2/3/4、Galaxy Tab A, Galaxy Tab A7, Galaxy Tab S7, Galaxy Tab S7+, Galaxy Tab S6, Galaxy Tab S6 Lite, Galaxy S21, S21 Ultra、Tab M10 M8 M8、Tab P11/Yoga Smart Tab、Surface Go 2/Surface Pro 7、iPhone 13/13 ProMax/13 mini/13 Pro/iPhone 12/12 mini/12 Pro/XS Max/XR、Switchなどのデバイスに対応します。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN タブレットスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN タブレット スタンド 折りたたみ式 iPad スタンド 高さ角度調整可能 アルミ＋鉄合金製 姿勢改善 持ち運びに便利 充電可能 人間工学設計 卓上縦置きスタンド iPad/Kindle/Surface/Switch機種に対応 4.7-12.9インチに対応(シルバー)",
+      "url": "https://www.amazon.co.jp/dp/B09P87NBYS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Vnjr9QbgL._SL500_.jpg",
+      "features": [
+        "【高さ角度調整可能＆人間工学設計】人間工学に基づいて設計により、5cmから23cmまでお好みの角度＆高さ自由にに調節できます。会社・家の机と椅子の不便な高さから解放され、快適な角度で楽に作業できます。アイパッド スタンドを用いてタブレットに角度と高さをつけることで，視線が高くなり適正な姿勢に、肩や腰や首など負担を軽減らしてくれて、猫背などを有効に防止できます。",
+        "【収納便利＆放熱性抜群】折りたたみ式のタブレット スタンドとして、省スペースに収納可能です，収納や持ち運びにも便利。自宅でも会社でも、どこでも便利に使えます。冷却しやすいアルミ＋鉄合金スタンドに美しさと耐久性を兼ね備えた隙間を設けて、熱が籠りにくく、タブレットなどのデバイスの自然放熱を実現して、タブレットの運行スピードアップできます。",
+        "【安定性抜群＆滑り止め保護ゴム付】タブレットに当たる部分にシリコンゴム製の滑り止めパッドが付いているので、滑りも倒れもなく安定的に使えます。また、ゴム付きのフックがあり、大切なタブレットを落下などから保護できます。また、硬いサポートアームが二つあり、3kgまで耐荷できて安定性抜群です。多様なシーンに対応できる，キッチン、オフィスデスク、ゲーム、食卓に適用。",
+        "【高品質タブレットホルダー】高級感に溢れるアルミ合金と安全感向上の鉄合金を採用しており、そしてエッジ部分に丁寧に艶出し、滑らかで手に傷しません。回転軸がゆるくならないように強化され、耐久性が高くなります。高品質合金仕上げは、タブレットとの相性が非常によい。",
+        "【対応機種】約4.7-12.9インチのデバイス（iPad Pro 12.9 / 7.9 / 9.7 / 10.2 / 10.5 / 10.9 / 11 / mini 2 3 4 / air 1 2 3 4, S9 S8 S7 S6, Note 6 5, 12 mini pro max/ 11/ XS Max/ XR/ X 8 7 6 6s Plus）に対応できる。キッチン ・ オフィスデスク ・ ナイトテーブル ・ 食卓に適用 。仕事中でもメールやメッセージ受信を確認できるのでとても便利 。アニメ 、 映画 、 電子書籍を楽しむというようなレジャーの時にも活躍している。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。",
+        "【ご注意】本製品はアルミ＋鉄合金製で、優れた放熱性能と軽量性を両立させながら、より安定した使用感と安全性を提供します。もう支えられない心配は不要です。どのような場面でも安心してご使用いただけます。"
+      ],
+      "query": "UGREEN タブレットスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN タブレット スタンド iPad スタンドアルミ製 7.9-12.9インチ iphone スタンド 折りたたみ式 角度調整可能 持ち運びに便利 充電可能 iPhone12/13 iPad 9 Androidスマホ タブレットに適用 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0BD4FB61Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/3108BOd3CuL._SL500_.jpg",
+      "features": [
+        "【幅広い対応性】約 4-12.9インチのスマホとタブレットに対応しています。iPad 2021/iPad 9/iPad Pro 7.9 / 9.7 / 10.2 / 10.5 / 11 / 12.9/ mini 2/3/4 / air 1/2/3/4、Galaxy Tab A, Galaxy Tab A7, Galaxy Tab S7, Galaxy Tab S7+, Galaxy Tab S6, Galaxy Tab S6 Lite, Galaxy S21, S21 Ultra、Tab M10 M8 M8、Tab P11/Yoga Smart Tab、Surface Go 2/Surface Pro 7、iPhone 13/13 ProMax/13 mini/13 Pro/iPhone 12/12 mini/12 Pro/XS Max/XR、Switchなどのデバイスに対応します。",
+        "【安定性抜群】角度調整のやすさと安定感を両立するため、軸は最適な強度に調整されます。タブレットを置いでも重さで下がることはありません。回転できるの箇所が二つあり、軽くで回て、自分にベストな高さと角度に調整することができ、動画視聴や読書やタイピングなどには大活躍です。",
+        "【上品なアルミ質感】高品質のアルミ合金素材を採用し、細かなエッジ処理と艶消し表面処理、軽くて、コンパクトなデザインは上品で高級感を演出します。",
+        "【細部までこだわる】ご端末に接触する面にラバーが付き、大切なご端末を傷から守ります。底面にも滑り止めラバーにより、しっかりと卓上に固定できます。 特別な設計で、ケーブルを通すホール付き、ご端末を装着したままデバイスへの充電を行うことができる。シンプルなホールにより、使いやすさと美しさを両立させます。",
+        "【角度調整可能&コンパクト便利】最大270°調整可能で, それぞれのユーザーのニーズを満たせる。軽くて、コンパクトなタブレットスタンドです。完全に折り畳むことができます。持ち運びがとても便利ですので、キッチン/オフィスデスク/ナイトテーブル/食卓に適用。喫茶店、図書館、閲覧室等室内の場合と地下鉄、汽車、飛行機、船に乗る外出の場合に最適です。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN タブレットスタンド",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN イヤーカフ イヤホン Bluetooth 5.4 Hi-Fi音質 ENC搭載 AI通話ノイズキャンセリング 【オープンイヤー型/耳挟み式/完全ワイヤレス/IPX5防水/最大30時間再生】 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0DMZWD4JP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31xlC0ThOvL._SL500_.jpg",
+      "features": [
+        "【「ながら聴き」再定義】完全ワイヤレス・イヤーカフ型のオープンイヤーイヤホンがついに登場！耳をふさがない開放型デザインで、外音を自然に取り込みながらも、高音質なサウンドを実現。装着感は軽やかで、耳飾りのようなおしゃれなスタイルも人気の理由です。ご使用中は衝撃を与えないようご注意ください。製品の故障につながる恐れがあります。",
+        "【音の妥協ゼロ・Hi-Fi超高音質】12mmドライバーとコンポジット振動板を搭載。繊細でパワフルな音質を実現し、特に高音と低音の再現性に優れています。シングルマグネットよりも振動板の制御力が強く、音の歪みを最小限に抑え、より自然で臨場感ある音場を提供します。",
+        "【30時間連続再生・急速充電対応】高性能バッテリーを内蔵し、1回の充電で最大30時間の連続再生が可能。USB Type-Cポートにより効率よく充電でき、通勤・出張・長時間の移動中も安心して使用できます。※再生時間は音量や使用環境により異なります。",
+        "【最新Bluetooth 5.4・臨場感満々】最先端のBluetooth 5.4チップを搭載し、接続はさらに安定＆省電力化。起動と同時に自動ペアリングモードに入り、初心者でも簡単に使いこなせます。指向性伝導技術により、音が鼓膜に直接届き、音漏れを最小限に抑制。動画やゲームの世界に没入できます。",
+        "【わずか5.3グラム・耳をふさがない】カナル型の圧迫感も、骨伝導の振動もなし。空気伝導方式で、わずか5.3gという超軽量設計。長時間装着しても疲れにくく、運動中も快適です。IPX5防水対応で、汗や小雨でも安心。ジョギング・ランニング・ヨガ・フィットネス・サイクリングにも最適です。",
+        "【簡単操作・2年安心保証】両耳タッチコントロールに対応し、曲操作・通話・音声アシスタントの起動・ゲームモード切替など簡単操作が可能。ご購入後は2年間の製品保証が付帯。不明点は「アカウントサービス」＞「注文履歴」＞「販売元」＞「質問する」よりお気軽にお問い合わせください。"
+      ],
+      "query": "UGREEN イヤホン",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN FitBuds Bluetooth 6.0 ワイヤレス オープンイヤー型イヤホン【 18mmチタニウム製ドライバー / 合計28時間再生 / 4マイクノイキャン技術 / IPX5防水】Hi-Fi音質 DNNノイキャン 2台デバイス同時接続 APPカスタム操作 急速充電対応 IMAX級低音体験 音漏れ抑制 耳を塞がない ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DZX8G1ZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31RLWspZ63L._SL500_.jpg",
+      "features": [
+        "【偽造品にご注意。販売元Ugreen Japan Co., Ltdをご確認ください。】 【最新Bluetooth 6.0・より安定な接続】最先端のBluetooth6.0チップを搭載し、接続はさらに安定＆省電力化。起動と同時に自動ペアリングモードに入り、初心者でも簡単に使いこなせます。2台デバイス同時接続可能、家族と友たちと一緒に楽しめる。指向性伝導技術により、音が鼓膜に直指向接届き、音漏れを最小限に抑制され、動画やゲームの世界に没入できます。",
+        "【Hi-Fi音質＆IMAX級サラウンド低音、卓越した音質体験】11mm×18mm PU＋チタンコーティング振動板ユニットを搭載。従来の円形ダイャフラムと比較すると、振動板面積が210%增加。IMAX級サラウンド低音で没入感あふれる体験を楽しめる。シングルマグネットよりも制御力が強く、音の歪みを最小限に抑え、より自然で臨場感ある音場を提供します。",
+        "【28時間連続再生・急速充電対応】高性能バッテリーを内蔵し、1回の充電で最大28時間の連続再生が可能。イヤホン本体に10minsの充電で2時間使用可能。USB Type-Cポートにより効率よくケースに充電できます。通勤・出張・長時間の移動中も安心して使用でき、いつでもどこでも音楽や動画を楽しめる。※ご注意：再生時間は音量や使用環境により異なります。",
+        "【オープンイヤー型で無重力のような快適さ】UGREEN FitBudsワイヤレスイヤホンは人間工学に基づいたデザインを採用し、医療級シリコーン＋形状記憶ワイヤーを採用し、あらゆるサイズの耳に完璧にフィットします。また片耳8.7gの軽さで、長時間使用でも耳に疲れ感や蒸れ感なし。",
+        "【APPカスタム操作可能・優れたタッチ操作】UGREENイヤホン専用アプリ経由で多くの機能を活用しよう！８つのプリセットEQと2つのカスタムモードの間に自由自在に切替。または空間オーディオの利用、バッテリー残量の確認、イヤホン探し、全部APPで実現できる。また優れたタッチ操作で指を軽く動いただけで様々な機能利用を実現できる。運動中でも高品質と高利便性を完璧に体験できます。ご注意：上記の機能はすべて、アプリに接続した後、アプリ内で設定する必要があります。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN イヤホン",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "【2026最新！】UGREEN Dots ワイヤレスイヤホン Bluetooth 6.0 超小型【片耳7.3g軽量化/10mmチタニウム製ドライバー/ 合計32時間再生 /IPX5防水/AI通話ノイキャン】空間オーディオ 超軽量 2台デバイス同時接続 0.08s低遅延 APPカスタム操作 急速充電対応 耳を塞がない ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0F94D2JB6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31YLJXiu8uL._SL500_.jpg",
+      "features": [
+        "【片耳7.3g軽量化デザイン】UGREEN Dotsワイヤレスイヤホンは人間工学に基づいたデザインを採用し、超小型のデザインであらゆるサイズの耳に完璧にフィット上、快適な着け心地をもたらす。片耳わずか7.3gの軽さで、目立たない&長時間使用でも耳に疲れ感や蒸れ感なし。",
+        "【超高品質低音サウンド】10mmチタンコーティング振動板ユニットを搭載。より細部までこだわった音質で没入感あふれる体験を楽しめる。シングルマグネットよりも制御力が強く、音の歪みを最小限に抑え、より自然で臨場感ある音場を提供します。より大きな音響キャビティにより、低音域の再現効果がより顕著です",
+        "【最新Bluetooth 6.0・より安定な接続】最先端のBluetooth6.0チップを搭載し、接続はさらに安定＆省電力化。起動と同時に自動ペアリングモードに入り、初心者でも簡単に使いこなせます。2台デバイス同時接続可能、家族と友たちと一緒に楽しめる。0.08s超低遅延映画鑑賞＆ゲームなどのゼロ遅延感。あらゆる使用シーンに完璧に対応できる。",
+        "【32時間連続再生・急速充電対応】高性能バッテリーを内蔵し、1回の充電で最大32時間の連続再生が可能。イヤホン本体に10minsの充電で2時間使用可能、イヤホン本体単回充電で6.5時間使用可能。通勤・出張・長時間の移動中も安心して使用でき、いつでもどこでも音楽や動画を楽しめる。※ご注意：再生時間は音量や使用環境により異なります。",
+        "【APPカスタム操作可能＆優れたタッチ操作】UGREENイヤホン専用アプリ経由で多くの機能を活用しよう！多様なカスタムモードの間に自由自在に切替。または空間オーディオの利用、バッテリー残量の確認、イヤホン探し、全部APPで実現できる。また優れたタッチ操作で指を軽く動いただけで様々な機能利用を実現できる。運動中でも高品質と高利便性を完璧に体験できます。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN イヤホン",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 世界初ANCノイズキャンセリング技術搭載 イヤーカフ型イヤホン ClipBuds Pro ワイヤレスイヤホン 【Bluetooth 6.0/ENCノイキャン/Hi-Res認証/11mmチタニウム製ドライバー / 合計32時間再生 / 6マイク搭載 / IPX5防水】Hi-Fi音質 2台デバイス同時接続 APPカスタム操作 急速充電対応 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0FM46BRB2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31s1uSUZO+L._SL500_.jpg",
+      "features": [
+        "【世界初ANC＋ENCノイズキャンセリング技術】史上初適応型デュアルフィードバックANCノイズキャンセリング技術対応、外部環境の騒音レベルを自動認識し、騒音が大きい環境ではノイキャン効果を強化し、騒音が小さい環境では効果を軽減することで、より快適な聴覚体験を実現する。6つのMEMSマイク、単一のマイクよりもノイズを正確に認識し、強力なノイズキャンセリング効果を発揮します。【ご注意】ANCノイズキャンセリング機能を完全に体験するには、イヤホンを耳に完全に密着させ、大きな隙間が生じないように装着位置を調整する必要があります。",
+        "【最新Bluetooth 6.0・より安定な接続】最先端のBluetooth6.0チップを搭載し、接続はさらに安定＆省電力化。起動と同時に自動ペアリングモードに入り、初心者でも簡単に使いこなせます。2台デバイス同時接続可能、家族と友たちと一緒に楽しめる。指向性伝導技術により、音が鼓膜に直指向接届き、音漏れを最小限に抑制され、動画やゲームの世界に没入できます。",
+        "【Hi-Fi音質＆Hi-Res認証】11mmチタンコーティング振動板ユニットを搭載。より細部までこだわった音質で没入感あふれる体験を楽しめる。シングルマグネットよりも制御力が強く、音の歪みを最小限に抑え、より自然で臨場感ある音場を提供します。またHi-Res認証で音質をより豊かにし、細部をより鮮明に、再現性を向上させます。",
+        "【32時間連続再生・急速充電対応】高性能バッテリーを内蔵し、1回の充電で最大32時間の連続再生が可能。イヤホン本体に10minsの充電で2時間使用可能。USB Type-Cポートにより効率よくケースに充電できます。通勤・出張・長時間の移動中も安心して使用でき、いつでもどこでも音楽や動画を楽しめる。※ご注意：再生時間は音量や使用環境により異なります。",
+        "【APPカスタム操作可能・優れたタッチ操作】UGREENイヤホン専用アプリ経由で多くの機能を活用しよう！８つのプリセットEQと2つのカスタムモードの間に自由自在に切替。または空間オーディオの利用、バッテリー残量の確認、イヤホン探し、全部APPで実現できる。また優れたタッチ操作で指を軽く動いただけで様々な機能利用を実現できる。運動中でも高品質と高利便性を完璧に体験できます。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN イヤホン",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN ClipBuds Magic クリップ型 オープンイヤーイヤホン LCDスマートディスプレイ搭載 イヤーカフ【Bluetooth 5.4 / 12mmドライバー / 合計30時間再生 / DNNノイキャン技術 / IPX5防水】Hi-Fi音質 超軽量 2台デバイス同時接続 APPカスタム操作 急速充電対応 音漏れ抑制 耳を塞がない ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0F12CS762?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31e37NihO0L._SL500_.jpg",
+      "features": [
+        "【偽造品にご注意。販売元Ugreen Japan Co., Ltdをご確認ください。】 【LCDスマートディスプレイ搭載】172*320 / 40Hz LCDスマートディスプレイ搭載、操作が視覚的に確認可能。ワンタッチで様々な機能の間で自由に切り替え、設置できる。また、専用APPを使用すると、さらに性能を引き出せる。スタンバイ中のディスプレイ表情をカスタマイズできるだけでなく、イヤホン探しなど、全部APPで実現できる。運動中でも高品質と高利便性を完璧に体験できます。ご注意：アプリをダウンロード後、アプリ設定内で言語を切り替えることができます。",
+        "【Hi-Fi音質・12mmバイオロジカルダイアフラムユニット】12mmバイオロジカルダイアフラムユニットを搭載。音の細部までしっかり再現できる。Hi-Fi音質で没入感あふれる体験を楽しめる。シングルマグネットよりも制御力が強く、音の歪みを最小限に抑え、より自然で臨場感ある音場を提供します。",
+        "【クリップ型で無重力のような快適さ】ClipBuds Magicワイヤレスイヤホンは人間工学に基づいたデザインを採用し、クリップ型のデザインであらゆるサイズの耳に完璧にフィットします。また片耳5.6gの軽さで、長時間使用でも耳に疲れ感や蒸れ感なし。",
+        "【30時間連続再生・急速充電対応】高性能バッテリーを内蔵し、1回の充電で最大30時間の連続再生が可能。イヤホン本体に10minsの充電で2時間使用可能。USB Type-Cポートにより効率よくケースに充電できます。通勤・出張・長時間の移動中も安心して使用でき、いつでもどこでも音楽や動画を楽しめる。※ご注意：再生時間は音量や使用環境により異なります。",
+        "【最新Bluetooth 5.4・より安定な接続】最先端のBluetooth5.4技術で、接続は安定＆省電力化。起動と同時に自動ペアリングモードに入り、初心者でも簡単に使いこなせます。2台デバイス同時接続可能、家族と友たちと一緒に楽しめる。指向性伝導技術により、音が鼓膜に直指向接届き、音漏れを最小限に抑制され、動画やゲームの世界に没入できます。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN イヤホン",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN NASync DH2300 2ベイ デスクトップNAS NFCワンタッチ接続​​ 4K動画再生を支持 最大60TBのストレージ 4GB RAM オンボード メモリ搭載 バックアップ 初心者向け 初期設定簡単 ​​2年保証（HDD付属なし）",
+      "url": "https://www.amazon.co.jp/dp/B0FNWYD2LC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ERZnWtb1L._SL500_.jpg",
+      "features": [
+        "【個人または家庭向けのパーソナルクラウド】：個人やご家庭での利用にぴったりのコンパクト設計。写真や動画の自動バックアップを行い、スマホやパソコンからかんたんにアクセスできます。データ管理を楽に！",
+        "【最大60TB対応のストレージ】：日常の写真やお気に入りの映画・アニメ・音楽はもちろん、仕事の資料や個人契約書、生活の中で増える領収書や各種電子マニュアルまで、あらゆるデータをまとめてバックアップ・保存できます。 ※本製品には*HDD(ハードディスク)は含まれておりません。別途ご購入が必要です。",
+        "【一度の購入で、ずっと使える自分専用ストレージ】：月額料金の心配は一切不要。一度の購入で生涯使えるストレージを手に入れられます。写真・動画・仕事のデータまで大容量で保存可能。個人用からビジネスまで、コストを抑えながら安心のデータ管理を実現します。",
+        "【膨大な写真の分類&整理はAIにおまかせ】：写真を人物・シーン・場所ごとに分類し、重複画像は自動で削除。お子さまの成長アルバムなんかも自動で作成してくれます。大切な瞬間を手間なく保存&整理し、QRコードやリンクで家族や友人にサッと共有できます。",
+        "【高性能CPU×大容量メモリで快適な処理性能】：高性能プロセッサーと4GB オンボードメモリ（拡張不可）を搭載し、複数デバイスからの同時アクセスにも余裕で対応。1GbEポートとRAIDモードにより、高速で安定したデータ転送と柔軟な運用が可能です。",
+        "【便利なNFC機能も】：初期設定は3ステップで完了！NFC機能搭載で、次回以降はスマホをかざすだけで自動で接続できます。",
+        "【幅広い互換性】：Western Digital/Seagate/Toshibaなどの主要サードパーティ製HDDに対応（※互換性リストを確認してください）。",
+        "【2年間の製品保証付き】：お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。UGREENの専門サポートチームによる2年間保証で、安心してご利用してください。ご不明な点やお困りのことがありましたら、いつでもテクニカルサポートがお手伝いします。"
+      ],
+      "query": "UGREEN NASync",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN NASync DXP2800 2ベイデスクトップnasキット、Intel N100クアッドコアCPU、8GB DDR5 RAM、2.5GbE、2 * M.2 NVMeスロット、4K HDMI、ネットワーク接続ストレージ(ハードドライブは付属していません)",
+      "url": "https://www.amazon.co.jp/dp/B0DXKZV61R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
+      "features": [
+        "費用削減、容量拡大：高額なクラウドストレージの月額料金とは異なり、NASは初期購入費のみで追加費用不要。長期的に圧倒的なコストメリットを実現します。また、データをローカルに保存することでセキュリティも強化し、完全な管理権限を保持できます。",
+        "大容量ストレージ（最大76TB）：ファイル・写真・動画など全てのデータを十分にバックアップ可能。写真の自動アルバム作成や自宅で映画鑑賞も楽しめます。注: ストレージハードドライブは含まれていません",
+        "初心者に優しい操作：多くのアプリをダウンロードする必要はなく、よく使う機能は全てUGREEN NASアプリに集約されています。ストレージ・マネージャー、ファイル、写真など、すべて1つのところからアクセスできます。Windows/macOS/Android/iOS/ブラウザ/スマートTVに対応。シンプルな設定でどの端末からでも安全にファイル共有できます。",
+        "AI搭載の写真管理システム：顔・風景・物体・位置情報を自動認識して整理。重複ファイルを瞬時に検出・削除し、ストレージの節約と効率向上を実現。",
+        "安全なプライベートクラウド：高度な暗号化技術でデータの完全管理を実現。ファイルと個人情報を常に保護します。",
+        "業界トップクラスの性能：第12世代Intel N100プロセッサー & 2.5GbEネットワークポート搭載。複数アプリの同時動作も快適で、1GBファイルをわずか3秒で転送可能。",
+        "幅広い互換性：Western Digital/Seagate/Toshibaなど主要サードパーティ製HDDに対応（※互換性リスト要確認）。※ストレージ用ハードドライブは別途購入が必要です。",
+        "2年間の製品保証付き：お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。UGREENの2年間保証で、安心してお利用いただけます。"
+      ],
+      "query": "UGREEN NASync",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN NASync DXP4800 4-Bay デスクトップ NAS、Intel N100 クワッドコア CPU、8GB DDR5 RAM、32G eMMC、2 * 2.5GbE、2 * M.2 NVMe スロット、4K HDMI、ネットワーク付属ストレージ(ハードドライブは付属していません)",
+      "url": "https://www.amazon.co.jp/dp/B0DXL1DJQS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31CBONqZZCL._SL500_.jpg",
+      "features": [
+        "外付けドライブを超える高性能保存ツール: NASは、集中型ストレージ、自動バックアップ、リモートアクセス、多様なRAIDパターンを提供し、ドライブが故障した場合でも簡単にデータを復旧できます。",
+        "大容量ストレージで限界を突破: 最大136TBの容量で、約3900万枚の写真や76,000本の映画を保存可能。容量不足の心配を解消します。！",
+        "超高速データ転送: 2つの2.5GbEネットワークポートまたは10Gbps USBポートを使用すれば、1GBのデータを2秒以内にバックアップ可能。",
+        "安全なプライベートクラウド: 高度な暗号化でファイルを保護し、データの100%所有権を保持します。柔軟な権限管理により、他者との共同作業時もプライバシーを確実に保護します。",
+        "AI搭載フォトアルバム: 顔・風景・物体・場所を認識して写真を自動的に整理します。また、重複画像の瞬時削除で、貴重なストレージ空間や管理時間を大幅に節約します。",
+        "使いやすいアプリ:多くのアプリをダウンロードする必要はなく、よく使う機能は全てUGREEN NASアプリに集約されています。ストレージ・マネージャー、ファイル、写真など、すべて1つのところからアクセスできます。また、Windows/macOS/Android/iOS/ブラウザ/スマートTVに対応。シンプルな設定でどのデバイスでも安全にファイル共有できます。",
+        "幅広い互換性: ウエスタンデジタル、シーゲート、東芝などサードパーティ製HDDに対応（※互換性リスト要確認）。ストレージ用ハードドライブは別途購入が必要です。",
+        "2年間の製品保証付き: お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。UGREENの2年間保証で、安心してお使いいただけます。"
+      ],
+      "query": "UGREEN NASync",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN NASync DH2300 2ベイNASバンドル、2M メッシュLANケーブル カテゴリー8付属 、 NFCワンタッチ接続​​ 4K動画再生を支持 最大60TBのストレージ 4GB RAM オンボード メモリ搭載 バックアップ 初心者向け 初期設定簡単 ​​2年保証（HDD付属なし）",
+      "url": "https://www.amazon.co.jp/dp/B0GH7QDLL8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31+qC4xa4iL._SL500_.jpg",
+      "features": [
+        "【個人または家庭向けのパーソナルクラウド】：個人やご家庭での利用にぴったりのコンパクト設計。写真や動画の自動バックアップを行い、スマホやパソコンからかんたんにアクセスできます。データ管理を楽に！",
+        "【最大60TB対応のストレージ】：日常の写真やお気に入りの映画・アニメ・音楽はもちろん、仕事の資料や個人契約書、生活の中で増える領収書や各種電子マニュアルまで、あらゆるデータをまとめてバックアップ・保存できます。 ※本製品には*HDD(ハードディスク)は含まれておりません。別途ご購入が必要です。",
+        "【一度の購入で、ずっと使える自分専用ストレージ】：月額料金の心配は一切不要。一度の購入で生涯使えるストレージを手に入れられます。写真・動画・仕事のデータまで大容量で保存可能。個人用からビジネスまで、コストを抑えながら安心のデータ管理を実現します。",
+        "【膨大な写真の分類&整理はAIにおまかせ】：写真を人物・シーン・場所ごとに分類し、重複画像は自動で削除。お子さまの成長アルバムなんかも自動で作成してくれます。大切な瞬間を手間なく保存&整理し、QRコードやリンクで家族や友人にサッと共有できます。",
+        "【高性能CPU×大容量メモリで快適な処理性能】：高性能プロセッサーと4GB オンボードメモリ（拡張不可）を搭載し、複数デバイスからの同時アクセスにも余裕で対応。1GbEポートとRAIDモードにより、高速で安定したデータ転送と柔軟な運用が可能です。"
+      ],
+      "query": "UGREEN NASync",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN NASync DXP6800 Pro 6ベイデスクトップNAS Intel i5 1235u 10コアCPU 8GB DDR5 RAM 内蔵128GB SSD 10GbE x 2 M.2 NVMeスロット x 2 8K HDMI TBT4 x 2 ネットワーク接続ストレージ(ハードドライブは付属していません)",
+      "url": "https://www.amazon.co.jp/dp/B0DXKZJCL8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31NeYA9jP1L._SL500_.jpg",
+      "features": [
+        "6ベイ、196TBの大容量データストレージ： 何千ものHD映画や写真、ファイルを保存できる大容量ストレージを提供。NASyncは映画ライブラリ、フォトアルバム、ファイルストレージのすべてを一元管理できます。 また、JBOD/Basic/RAID0/RAID1/RAID5/RAID6/RAID10の7つのRAIDモードをサポート。自動データバックアップ機能により、ドライブが故障しても、簡単にデータを復元できます。",
+        "圧倒的な処理性能：第12世代Intel 10コアi5プロセッサーを搭載し、超高速デュアル10GbEネットワークポートと先進的なデュアルThunderbolt 4ポートを備えています。これにより、処理性能は従来のプロセッサーと比べて飛躍的に向上しています。",
+        "超高速デュアル10GbEネットワークポート： 2つの10GbE高速ネットワークポートは、最大2500MB/秒のダウンロード速度で20Gの帯域幅に集約可能です。大容量ファイルもスムーズに転送できます。さらに、2つのポート間の負荷は動的に調整され、伝送効率を最適化します。",
+        "初心者に優しい＆多用途のアプリ： Windows、MacOS、Android、iOS、ウェブブラウザ、スマートテレビなどさまざまなデバイスで簡単にセットアップ可能。ファイル共有が手軽にできます。特に、8K HDMIビデオ出力に対応して、全てのデバイスから簡単かつ安全にアクセス可能です。",
+        "AI搭載フォトアルバム： 顔・物・場所を認識し、写真を自動的に整理します。また、重複した写真を瞬時に削除することで、貴重なストレージ空間や管理時間を大幅に節約します。",
+        "耐久設計＆3年の製品保証：アルミ合金製の頑丈な筐体で、移動時の落下や衝撃から機器を保護し、長期使用を可能にする設計です。さらに、UGreenの専門サポートチームによる3年間の製品保証が付いているので、安心してお使いいただけます。",
+        "プロ仕様のデータセキュリティ：クラウドドライブと比べ、NASyncは信頼の高いローカルデバイスに大量の個人データを保存できるため、漏洩や監視を最小限に抑えられます。データ転送とアカウントは、専門的な暗号化技術と多要素認証によって徹底的に保護されます。"
+      ],
+      "query": "UGREEN NASync",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 20台同時充電 電源タップ 差し込み口4面 プラグ干渉なし PD20W 16個口 4ポート 配線整理 一括集中スイッチ 省電 据え置き型 斜めデザイン 両側で並べても同時利用可能 接地3PIN ACアダプター挿入可能 合計1500W PSE基準適合 T620（1.5M ブラック）",
+      "url": "https://www.amazon.co.jp/dp/B0FLX65CDQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/319iNGQCwAL._SL500_.jpg",
+      "features": [
+        "【20台まで同時利用可能、たくさんの配線をまとめたい方へ】住まいの「コンセント不足」を一気に解決。一室に1〜2口しかない住宅・オフィスで、工事不要で20台まで同時充電が可能。AC口*16は家電・PCに、USBポート*4はスマホ・タブレットに使い分けられ、増設コンセントのように充電・給電のデバイスを一元管理可能になります。（※要注意：定格容量は最大1500W）",
+        "【4面全方向の差込口に挿入可能、大型アダプターもすっきり配置したい方へ】大きなACアダプターも全ての口を干渉なくフル活用。狭い壁コンセントでは、隣接プラグ同士がぶつかって使えない口が生じがちです。これにより、ノートPCなど大型アダプターを挿しても、全16のAC口を無駄なく同時利用できます。",
+        "【最大1500Wまで対応、過負荷時は自動オフの一括集中スイッチが付き】※1500W（定格容量）を超えると、スイッチが自動でOFFになります。また外出時・就寝時、抜かずに全ての電源をまとめてオフにしたい方にも最適解。無駄な待機電力をカットし、省エネと安全性向上を簡単にを実現します。",
+        "【最大20WPD対応、充電器なしで充電したい方へ】PD20WのUSB-Cポート搭載、充電アダプター不要でUSB-CケーブルのみでiPhoneをPD20W高速充電可能。",
+        "【1.5mコード、離れた位置まで伸ばしたい方へ】家具の裏や低いコンセントにも届き、配置の自由度を大幅アップ。長いコードが、ベッドサイドやデスク周りなど、理想的な位置への設置を可能にし、生活動線に合わせた使い勝手を提供します。",
+        "【PSE適合、多重安全保護】電気用品安全法（PSE）に適合し、過電流・過電圧・短絡・過負荷の保護機能を内蔵された信頼設計です。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN 電源タップ USB",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN【3ピン 4AC口 PD20W】3ピンコンセント用 電源タップ 接地ダブルコンセント PSE認証取得 雷サージ 感電防止 静電気抑制 US海外対応（USB-C*1・USB-A*3・4AC・タイプAプラグ）2ピン/3ピンプラグの電化製品に適用 iphone17シリーズ",
+      "url": "https://www.amazon.co.jp/dp/B0DTK3NMQ1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31emXAoJBkL._SL500_.jpg",
+      "features": [
+        "【3ピンプラグ採用・3ピンコンセントに適用】該当品は、3ピンのタイプAプラグを採用しており、接地ダブルコンセント（3ピン）にそのまま使えます。該当品を使用することで、３ピンコンセントを使いたくて、コンセントの数が足りないという悩みは、解決可能。【※ダブルコンセント（2ピン）に変換アダプター（2P➡3P）は必要】",
+        "【2・3ピンの電化製品全対応】お使いの電化製品プラグタイプ：2ピン＆3ピンの電化製品はどちらにも対応。【※電化製品を利用時、2ピン⇒3ピン変換アダプターは不要。】",
+        "【PSE認証取得・家族を守る】PSE認証を取得し、雷サージ保護や感電防止、静電気抑制機能も備え、大切な機器を守ります。",
+        "【8-IN-1・8台同時利用可能】USBポートも充実し、PD20W対応のUSB-Cポート1つと、USB-Aポート3つで、スマホやタブレットなどの同時充電が可能。合計4つのACコンセントと組み合わせれば、デスク周りやリビングの配線もすっきり整理できます。【※海外製品をご利用の際は、電圧規格が日本国内の使用基準に適合しているか必ずご確認ください。】",
+        "【通電表示ランプ・一目で分かる】通電しているかどうかがひと目で分かる、通電表示ランプが付いています。产品内部のコンデンサは蓄電作用があり、放電には一定の時間を要するため、電源を切った後、インジケーターライトはすぐには消えず、数秒間遅れて消灯します。",
+        "【海外旅行対応】日本国内はもちろん、アメリカなどのタイプAコンセントを使われている国へ出張・旅行する場合の利用にも便利！一台あると、あらゆる場面で活躍する頼もしい電源タップです。【※海外で日本製品をご使用の際は、電気製品の規格が地元に適合しているかご確認ください。】"
+      ],
+      "query": "UGREEN 電源タップ USB",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN3ピン",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 65W 充電器 巻き取り式【単ポート65W】69CM 8階段調整可能 伸縮式 Type-C ケーブル内蔵 USB-C/USB-A 3ポート同時充電可能 PD3.0/PPS 旅行/出張/収納/スマホ/iphone17 16/パソコン/タップレットなどType-C適合 200g",
+      "url": "https://www.amazon.co.jp/dp/B0DNSQCRJB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31N8svmaRML._SL500_.jpg",
+      "features": [
+        "▶【収納可能な巻き取り式充電器】絡まらないの伸縮式ケーブル（最大0.69M）で、シーンに合わせて8段階の長さ調節がカンタン！ 25,000回の伸縮・10,000回の折り曲げテストをクリアした圧倒的な耐久性。鞄の中でごちゃつかず、必要な時にサッと伸ばしてスマートに充電。充電の煩わしさから解放される、最強の一本です。【サイズ：53*50.4*50.9MM 製品本体重量：200g】",
+        "▶【単一ポートで65W Max高出力& 3ポート同時対応】 MacBook Air M4をわずか60分で84%まで充電！ 1ポートなら最大65Wのフルパワー集中、2ポート/3ポート同時使用時は自動で最適分配を実現。PD3.0/QC4+対応、スマートフォンからタブレット、ゲーム機からノートパソコンまであらゆる USB-C 関連機器を効率よく急速充電できます。",
+        "▶【旅の充電はこれ一本！手軽に持ち運び】旅行にぴったりの小ささで、かばんの隅にスッキリ収納。GaNInfinity テクノロジー搭載で、驚異の最大95%電力変換効率を実現！ ムダな発熱を抑え、安全かつ効率的に高速充電。優れた放熱性能で長時間使用も安心のコンパクト設計。旅先でもサッと出して充電。いつでもどこでも、デバイスをフル充電！",
+        "▶【長持ちするためのデザイン】UGREEN 65W 伸縮シリーズには進化した GaNFast チップを採用。UGREEN独自の Thermal Guard温度制御技術との組み合わせにより、エネルギー効率を向上、機器本体の発熱量を軽減しました。8 層からなる安全保護機能も備えています。乱雑に扱っても、熱暴走しても、ずっと安心。愛用ガジェットを守りながら、何年も使い続けられる本物の耐久性能です。",
+        "▶【UGREEN Nexode 巻き取り式 シリーズ】①UGREEN Nexode 巻き取り式USB-Cケーブル内蔵 充電器 45W/65W/100W②UGREEN Nexode 巻き取り式USB-Cケーブル内蔵 モバイルバッテリー 20000mAh 165W③UGREEN Nexode 巻き取り式 USB-C ケーブル 100W④UGREEN Nexode 巻き取り式USB-Cケーブル内蔵 カーチャージャー 145W",
+        "▶【24ヶ月間の保証】当店でご購入の製品には24ヶ月間保証サービスが付いております。ご購入日から24ヶ月間保証いたします。ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。",
+        "【様々な充電規格とデバイスに対応】PD3.0、PPS、QC4+、FCP、SCP、AFC、APPLE 5V2.4A、BC1.2充電規格に全て対応した上に、タイプCポートを2つ、USB-Cポートを1つ搭載しまして、iphone17、16、15、14、13シリーズ、Galaxy S24/S23シリーズ/MacbookPro/MacbookAirシリーズ/Ipad/switch/Ipodなどの各種機器に全て対応します。"
+      ],
+      "query": "UGREEN 電源タップ USB",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN 200W 充電器 8ポート Type-C 卓上 急速 単ポート最大100W 高出力【USB-C*6とUSB-A*2】充電保護システム PD3.0 PPS規格対応 iphone17/16/15/14/MacBook/iPad/Galaxy/Android各種 その他USB-C機器対応 PSE技術基準適合 金属製ベース付き",
+      "url": "https://www.amazon.co.jp/dp/B0DL993DZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/311lp2oAyOL._SL500_.jpg",
+      "features": [
+        "▶【瞬間フル充電！200W急速！】最大総出力 200W、C1/C2/C3 ポート最大出力100Wで、小型化に成功しながら超高出力を実現して、3台のパソコンを同時に100Wのパワーで充電することを可能にします。MacBook Pro 16インチを90分間で0％-100％充電出来て電源切れの心配はありませ。（ご注意：ポートC6/A1/A2の合計出力は常に15W。）",
+        "▶【8台同時充電OK！】弊社の8-in-1 卓上急速充電器は【USB-C*6とUSB-A*2】の8つの充電ポートを搭載しています。さらに、 4台の高出力MacBook Airでもこれ一つで同時に急速充電できる。オフィスでも家庭でも、このタイプc充電器は全会一致で最適な選択としておすすめされる！",
+        "▶【収納用金属製ベース付き】この製品を購入すると、金属製ベースが無料で付いてきます。コンセントのスペースを有効活用し、ケーブルの散らかりも減少。2M 電源ケーブル付き、コンセントから離れた場所も利用可能で自宅でもオフィスでも適用し、省スペースを実現した上に机をスッキリさせます。　　　",
+        "▶【幅広い互換性】本製品はPD3.0、PPS、QC4+、FCP、SCP、AFC、APPLE 5V2.4A、BC1.2充電規格に全て対応した上に、ノートパソコン／タブレット／携帯電話／MacBook Pro/Airシリーズ/ThinkPadシリーズ/Chromebookシリーズ/iPad Air/Pro/Miniシリーズ/iPhone17/16/15/14シリーズ/Galaxyシリーズ/ヘッドフォン/時計/スイッチなど様々な機器互換性があります。",
+        "▶【24ヶ月間の保証】当店でご購入の製品には24ヶ月間保証サービスが付いております。 お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN 電源タップ USB",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN USB ハブ 7ポート3.0 hub 5Gbps高速伝送 セルフパワー対応 DC12V/2A ACアダプタ付き 独立スイッチ付 C to Aケーブル 1m 7ポート拡張 HDD/USBメモリ//キーボード/マウス/USBファン/プリンタなど対応 アルミ製",
+      "url": "https://www.amazon.co.jp/dp/B09DCK46PM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41S8kzqDQXL._SL500_.jpg",
+      "features": [
+        "【USB3.0ハブ7ポート拡張】パソコンのUSBポートは1つを3つのUSB3.0データ転送ポート+4つの高速充電ポートに拡張します。▶複数のHDD外付け、USBメモリ、スマートフォン、タブレット、カードリーダー、プリンター、マウス、キーボードなどのデバイスを同時に接続できます。データ転送と充電にも同時に満足！",
+        "【5Gbps高速データ伝送】：USB3.0ポートを介して最大5Gbpsの速度でファイルを転送およびバックアップします。画像、ファイル、ビデオを数秒で転送する。ホットスワットにも対応できます、ドライバ不要、挿すだけで使用できます。Windows 10、8.1、8、7、7、Vista、XP、Mac OS X（10.x above）、Linuxのシステムと互換可能。USB2.0/1.1と互換性あり、従来のUSB2.0/1.1デバイスにも対応でき、ドライバは不要。",
+        "【12V/2A 24W電源付き】12V/2AのACアダプタ付き、消費電力の大きなハードディスクドライブなどを使用す際にも、安定した電源供給が可能。充電ポートは最大2A出力し、iPad、スマートフォン、タブレットなどを急速充電ができます。",
+        "【USB3.0ハブ個別スイッチ付き】個別スイッチ搭載により、ポートごとの電源コントロールが可能です。各ポートはLEDライト付き、電源の状態が一目でわかります、頻繁に抜き差しも不要！",
+        "【アルミ製＆軽量化設計】優れたアルミ合金素材、丈夫なボディながら軽量というメリットが目立っています。アルミ製の本体は放熱性も耐久性も優れています。小型軽量で持ち運びは簡単。",
+        "【24ヶ月の保証期間】 ：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN 電源タップ USB",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 スマホ タブレット MacBook Windows PCに適用",
+      "url": "https://www.amazon.co.jp/dp/B07D1J88CF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/3122q+LtsKL._SL500_.jpg",
+      "features": [
+        "USB-C OTG機能に対応したAndroidスマホ タブレット、iPad Pro 2018 11インチ 12.9インチ、Windows PCに汎用できる多機能SDカードリーダーです。これ一台で簡単に写真や動画等のデータを移動や保存できます。",
+        "USB3.0対応、2.0より約10倍速く転送できます。1GBのフォトアルバムやドラマ、映画などを数秒で高速転送可能です。2カードスロットを拡張し、同時に読み書きできます。",
+        "2TBまでの大容量カードに対応します。SD,SDHC,SDXC,RS-MMC,MMC,Micro SD,Micro SDHC,Micro SDXC，UHS-Iなどのデジカメに、スマホに使用されている多彩なメディアカードにサポートします。",
+        "マルチシステム対応のメモリカードリーダです。MacBook、iMac、Windows PC両対応、USB-C OTG機能に対応したAndroidスマホ タブレットにも対応します。ドライバ不要、挿すだけで認識可能です。",
+        "USBコネクタを埃、液体、傷から保護できるキャップが付いて、カバンやポケットに入れても傷つけません。紛失を避けるためのキーチェーンラインに繋げるデザイン、持ち運びと収納が楽で使い易いです。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN カードリーダー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN カードリーダー USB 3.0 高速 SD TF カードリーダライタ 2スロットカード同時読み書き可能",
+      "url": "https://www.amazon.co.jp/dp/B01EFPX9XA?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41fj67Y4uOL._SL500_.jpg",
+      "features": [
+        "2TBまで大容量カードに対応：ケーブル一体型のUSB 3.0高速ポート経由でSDとTFスロットを簡単に拡張します。複数ブランドのSDXC/SDHC/SD/MMC/RS-MMC/MicroSD/TF/MicroSDXC/Micro SDHC/UHS-I等カードに対応します｡",
+        "USB3.0高速伝送：USB 2.0より10倍ぐらい速い5Gbpsのスーパー転送スピードで30MB/48MB/60MB/95MBなど異なる速度率カードをサポートします。錫メッキ無酸素銅線と多重シールド構造を採用して有効にデータ送信中の電波干渉を防止します。",
+        "2スロットカード同時読み書き可能：抜き差しのめんどな手間を除き、同時にカードを書き込みや読み込みができます。外部電源不要。ホットスワップに対応。ドライバ不要、挿すだけで使用できます。",
+        "マルチシステム対応：幅広い互換性を持ちます。Windows XP / Vista / 7/8 / 8.1 / 10、Mac OS、Linux、Chrome OS等多種類のシステムに適用します。2TBまで大容量のSD/Micro SDカードをを対応します。",
+        "よく洗練された外観：小型で手軽なサイズでいつでもどこにも持ち歩き可能で便利です。シンプルながらABS高強度素材を採用し、滑らかな外観、光沢加工の表面、高級感溢れる仕上げます。※マイナンバーカードに対応しません",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN カードリーダー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー",
+      "url": "https://www.amazon.co.jp/dp/B0BNBXVLZS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41ZVTXpmOlL._SL500_.jpg",
+      "features": [
+        "UHS-II 4Kビデオ撮影に最適なSDカードリーダー：最新のSD4.0カードに対応したSDスロットとmicroSDスロットによると、UHS-II対応の一眼レフカメラ、デジタルカメラ、ビデオカメラから撮影した高容量の4Kビデオデータを最大312MB/sの高速でPCへ転送できます。",
+        "2つ同士でファイルの移動可能：最大2TBまでの大容量カードをサポートし、2枚カード間のファイルの同期、転送、共有が簡単にできます。スマホ、デジカメラ、GoProなど撮った写真(撮影画像)をPC・Androidスマホにて直接ファイルを数秒で素早くバックアップできます。",
+        "多種類のカードに対応：SD/microSDカードスロットが2つ備えたUSB Type C 3.1 SDカードリーダーで、SD4.0 UHS-II対応し、UHS-Iおよび SDXC、microSDXC、microSDHC、microSD、MMC micro、RS-MMC、SDHC、SDなどに対応しています。",
+        "プレミアムデザイン：しっかりとしたアルミ素材を使って、優れた放熱性を持ちながら高級感があります。体感温度で熱を少し持ちますが、筐体が金属なので風を当てるとすぐ冷えます。指紋もつけにくいです。内蔵された高品質のチップにより安定した転送と安全保護を保証できます。従来のABS型と比べて高いデザイン性と耐久性を実現しました。",
+        "幅広い互換性：USB Type C 3.1 Gen1に準拠して、MacBook ProやiPad Proを含み、OTG AndroidスマホやタブレットなどのUSB-Cポート搭載の幅広い機器でお使いいただけます。隣り合う接続ポートにも干渉しづらい超コンパクト設計で、端末本体と一緒に出張や旅行でも気軽に持ち運ぶことができます。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN カードリーダー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN microSD USB C カードリーダー TF マイクロSDカード リーダー 超小型 高速転送 タイプC OTG対応 Android iPadOS Windows MacOS Linux対応 亜鉛合金 シルバー",
+      "url": "https://www.amazon.co.jp/dp/B0BS3QD4CG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31EwaDsc4zL._SL500_.jpg",
+      "features": [
+        "2TBまでのmicroSDカードに対応：USB-C TFカードリーダーはUSB CポートとOTG機能を備えたスマホ、タブレット、MacとWindows PCで、microSD、Micro SDXC、Micro SDHCカードを簡単にアクセスしてストレージを拡張できます。 最大2TBのTFカードをサポートできます。",
+        "5Gbps超高速データ転送：USB C Micro SDカードリーダーは最大5Gbpsの高速転送速度をサポートし、1GBのHDムービーをわずか数秒で転送できます。 インテリジェントチップPL2731を採用して高速かつ安定したデータ転送を保証します。",
+        "OTG機能でスマートフォンに最適：タイプC OTG機能によりAndroidスマートフォンやタブレットにも適用します。USB-Cポート経由でスマートフォンの容量を大幅に拡張できます。また、いつでもどこでも写真や動画を移行し、容量不足を心配ありません。",
+        "互換性が抜群：ドライバー不要、挿すだけで認識可能、Windows、Mac OS、Linuxなど多くのシステムと互換性があり、ほとんどのUSB-Cポート搭載機器で動作できます。",
+        "小型とストラップ付き：TF microSDリーダーは小さいデザインとフレンドリーなキーホルダーワイヤー付いていつでも持ち歩きにもストレスありません。小型でも過電流、過電圧、短絡保護を備えて、データを安全に保護できます。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN カードリーダー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    },
+    {
+      "title": "UGREEN USB-C カードリーダー SD MicroSD 2枚カード同時読取 アルミ合金製 放熱性良い タイプC OTG機能 Android Mac Window Linux対応 USB3.1 Gen1 5Gbps 高速データ移行",
+      "url": "https://www.amazon.co.jp/dp/B08CS8T8DC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/310UId7pFpL._SL500_.jpg",
+      "features": [
+        "SDカードリーダー Type-C:USB Type 3.1 Gen1コネクタは従来のUSB2.0より約10倍速く、最大5Gpsの高速データ転送を楽しめます。UHS-Iカードに対応し、大容量のHD映画や仕事ファイル、記念写真などを数秒で転送できます。",
+        "2in1 SD/TFカード同時に読書：USB-CカードリーダーはSD・MicroSDカードスロットを拡張し、2枚カードを挿した場合、同時に読み書きできます。面倒な抜き挿しが不要で、作業効率を向上させます。SD、SDHC、SDXC、MMC Micro、RS MMC、Micro SD、Micro SDHC、micro SDXCなど多種のメモリカードと互換性があり、最大2TBまでの大容量のメデイアカードをサポートします。",
+        "OTG機能で幅広い互換性：タイプC OTG対応してAndroidスマートフォンやタブレットに使用できるになります。Windows、Mac、Linux、ChromeOSなど多数のシステムにも対応します。ドライバをインストールする必要なく、挿すだけで使用できるカードリーダーです。",
+        "優れた放熱性&高級感あり：高品質のチップセットとアルミニウム製ケースを採用して効率的な転送を確保するとともに、優れた放熱性を持ち、使用中の発熱を抑え、安定したデータ転送を保証します。高耐久性のナイロン編みと組み合わせ、高級感に溢れるUSB-C SDカードリーダーです。",
+        "ケーブル一体型デザイン：直挿タイプと比べ、ケーブルを通してスロットを外に延長して、隣接するUSBポートを邪魔ず、複数の周辺機器を接続可能になります。ちょうどの15cmの長さで、干渉にならないことを満たし、持ち運びにも便利し、外出先でも気軽に利用できます。",
+        "【ご注意】本製品はファームウェア（Firmware）の更新を実施しておりますが、一部の製品において性能が期待通りでない場合があります。最新バージョンのファームウェアに速やかに更新するため、お手数ですが当社までご連絡ください。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN カードリーダー",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "UGREEN",
+      "tier": "fallback"
+    }
+  ]
+}
