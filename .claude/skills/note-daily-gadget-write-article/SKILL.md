@@ -123,6 +123,13 @@ description: note記事の執筆・整形（PA-API連携版）。毎日ガジェ
 - `category`: 対象商品に適したカテゴリを既存のメタデータを参考に**必ず**設定する（生成漏れ厳禁）。
 - 既存の JSON 構造（`articles` 配列）を壊さないように注意すること。
 
+### schedule_2026.md 更新ルール（必須手順）
+
+- **TRIGGER**: 記事（Markdown）の保存および `_metadata.json` の更新完了時
+- **MANDATORY**: 必ず `03_schedule/schedule_2026.md` を開き、今回執筆した対象日付の `Title` 列全体を `~~` で囲んで打ち消し線を引くこと
+- **FORMAT**: `| YYYY/MM/DD | ~~記事タイトル~~ |` のMarkdownテーブル形式を維持する
+- **FORBIDDEN**: 対象行自体の削除や、パイプ（`|`）・スペース等のテーブル構造を破壊すること
+
 ### Phase 3: クリーニング & 自己推敲 (Self-Correction)
 
 -   **記事完成後、直ちに以下のチェックリストに基づいて自己レビューを行う**。
