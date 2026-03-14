@@ -1,0 +1,126 @@
+{
+  "date": "2026-03-16",
+  "title": "忘れ物を完全防止。AirTag 対応「便利な探し物ツール」 6 選",
+  "queries": [
+    "Apple AirTag 第2世代 4個入り",
+    "Tile Mate 2024 スマートトラッカー",
+    "Tile Slim 2024 カード型 財布",
+    "MAMORIO キーホルダー型 超小型",
+    "Anker Eufy Security SmartTrack Card",
+    "Anker Eufy Security SmartTrack Link"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "Amazon Creators API モジュール未インストール / PA-API HTTP 403 Forbidden のため、Webサーチによる代替選定を実施",
+    "fallback_policy": "Amazon検索上位・ブランド公式情報 + 除外ワード排除 + メーカー重複制限（原則2件まで）"
+  },
+  "search_execution": {
+    "script": "WebSearch（Amazon API 代替）",
+    "partner_tag": "daily-gadget-22",
+    "status": "fallback_success",
+    "error": "amazon_creatorsapi モジュール未インストール / PA-API 403 Forbidden"
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Apple AirTag 4個入り (第2世代)",
+      "url": "https://www.amazon.co.jp/dp/B0GJTXZHDX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "「探す」ネットワーク対応。10億台以上のAppleデバイスが匿名で位置情報を中継し、Bluetoothの圏外でも荷物の場所を特定できる。",
+        "精密な位置確認機能搭載（第2世代）。U1チップと超広帯域技術により、AirTagが近くにある場合に矢印と距離で誘導してくれる。",
+        "IP67防水・防塵。水深1mに30分沈めても壊れない耐水設計で、雨天時や水辺での使用でも安心。",
+        "スピーカーが第1世代比50%大音量に改善。置き場所がわからないときでも聞き取りやすい音量で鳴らして場所を特定できる。",
+        "CR2032コイン電池で駆動。電池は市販品に交換可能で、一度買えば長く使い続けられる経済的な設計。",
+        "4個セット。財布・鍵・カバン・スーツケースなど複数の荷物にそれぞれ取り付けられ、まとめて管理できる。"
+      ],
+      "query": "Apple AirTag 第2世代 4個入り",
+      "asin": "B0GJTXZHDX"
+    },
+    {
+      "title": "Tile Mate (2024) スマートトラッカー",
+      "url": "https://www.amazon.co.jp/dp/B0D99Z5KJP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "電池交換不要で約3年間使用可能。煩わしい電池交換の手間がなく、購入後はそのまま長期間使い続けられる。",
+        "iPhone・Android両対応。AppleユーザーだけでなくAndroidユーザーも同じタグを使えるため、家族や職場でデバイスが混在していても問題ない。",
+        "「Find with Tile」コミュニティ検索対応。Tileアプリを使う多くのユーザーのスマホが中継役となり、Bluetooth圏外の荷物も検索できる。",
+        "SOS機能付き。緊急時にTileを3回押すことで現在地を家族や指定の連絡先にアラートできる安心機能。",
+        "IP68防水。水深1.5mに30分耐える高い防水性能を備えており、雨やプールサイドでも気兼ねなく使用できる。"
+      ],
+      "query": "Tile Mate 2024 スマートトラッカー",
+      "asin": "B0D99Z5KJP"
+    },
+    {
+      "title": "Tile Slim (2024) 薄いカード型スマートトラッカー",
+      "url": "https://www.amazon.co.jp/dp/B0D99ZHVD2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "財布やカード入れにそのまま収納できる薄型カード設計。クレジットカードとほぼ同じサイズで、カードポケットに1枚追加するだけで財布の紛失防止ができる。",
+        "電池交換不要で約3年間使用可能。電池切れを心配せずに長期間使い続けられる点がカード型製品として大きなメリット。",
+        "「Find with Tile」コミュニティ検索に対応。Bluetooth接続圏外でも他のTileユーザーのスマホを通じて財布の大まかな場所を探せる。",
+        "IP68防水対応。薄型でありながら高い耐水性を備えており、財布ごと濡れてしまうような状況でも安心して使用できる。",
+        "iPhone・Android両対応。Tileアプリとの連携でスマホを鳴らす「スマホを探す」機能も使え、スマホとタグが互いを探し合える。"
+      ],
+      "query": "Tile Slim 2024 カード型 財布",
+      "asin": "B0D99ZHVD2"
+    },
+    {
+      "title": "MAMORIO チャコールブラック キーホルダー型",
+      "url": "https://www.amazon.co.jp/dp/B07S176WPY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "世界最小クラスの超小型・超軽量・超薄型デザイン。鍵のキーリングに付けても邪魔になりにくく、存在感を気にせず使える。",
+        "Bluetooth経由で約60m以内に近づくと自動的にスマホへ通知。「置き忘れ」を外に出る前に気づかせてくれる忘れ物防止機能が核心。",
+        "「みんなで探す」機能搭載。全国のMAMORIOユーザーや、駅・商業施設などに設置されたMAMORIO Spotsを経由して、紛失した物の最終位置を追跡できる。",
+        "日本生まれのサービスで国内ネットワークが充実。主要駅や大型ショッピングモールにMAMORIO Spotsが設置されており、よく使う場所での発見率が高い。"
+      ],
+      "query": "MAMORIO キーホルダー型 超小型",
+      "asin": "B07S176WPY"
+    },
+    {
+      "title": "Anker Eufy Security SmartTrack Card 2個入り (紛失防止トラッカー)",
+      "url": "https://www.amazon.co.jp/dp/B0CSDGGTGK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21S9c+Ob9WL._SL500_.jpg",
+      "features": [
+        "約2.4mmの薄型カード設計で、財布やカードケースに収めやすい。",
+        "Appleの「探す」ネットワークに対応し、iPhone・iPad・Macから位置確認できる（iOS端末向け）。",
+        "スマホからタグを鳴らす機能と、タグ側の操作でスマホを鳴らす双方向探索に対応。",
+        "置き忘れ時のアラート通知に対応し、外出時の忘れ物防止に使いやすい。",
+        "2個入りパックで、財布とパスポートケースなど複数アイテムを同時管理しやすい。"
+      ],
+      "query": "Anker Eufy Security SmartTrack Card",
+      "asin": "B0CSDGGTGK"
+    },
+    {
+      "title": "Anker Eufy Security SmartTrack Link (iPhone用) (紛失防止トラッカー)",
+      "url": "https://www.amazon.co.jp/dp/B0B6ZQJXW8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Z-wJdJALL._SL500_.jpg",
+      "features": [
+        "約3.7cm四方の小型タグで、鍵やバッグに付けやすい形状。",
+        "Appleの「探す」ネットワークに対応し、iPhone標準アプリから位置を追跡できる（iOS端末向け）。",
+        "スマホからタグを鳴らして探せるほか、タグ側の操作でスマホを鳴らす機能にも対応。",
+        "置き忘れ防止通知を備え、持ち物から離れたときにアラートで気づきやすい。",
+        "シンプルなキーホルダー型で、カード型では付けにくい鍵やポーチ向けに使いやすい。"
+      ],
+      "query": "Anker Eufy Security SmartTrack Link",
+      "asin": "B0B6ZQJXW8"
+    }
+  ],
+  "all_candidates": []
+}

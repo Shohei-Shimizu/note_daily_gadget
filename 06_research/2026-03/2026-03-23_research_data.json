@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-23",
+  "title": "節約をスマートに。保温・保冷ができる「IT お弁当箱」 6 選",
+  "queries": [
+    "THANKO おひとりさま用超高速弁当箱炊飯器",
+    "THANKO 2段式超高速弁当箱炊飯器",
+    "THANKO フードウォーマープレートS",
+    "オーム電機 保温プレート COK-HB600A-K",
+    "サーモス 真空断熱スープジャー 400ml",
+    "象印 ステンレスランチジャー SL-GH18"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/search_amazon_creators.py (API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "THANKO 炊飯器 小型 一人用 おひとりさま用超高速弁当箱炊飯器 白色/さくら色/藍色 (白色)",
+      "url": "https://www.amazon.co.jp/dp/B0D499M873?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21YfMcae1BL._SL500_.jpg",
+      "features": [
+        "最短14分で炊きあがる、お一人様小型炊飯器。三色展開でシーンに合わせて選べるからプレゼントにも最適！ いつでもどこでもほかほかの炊き立てご飯が食べたい！ そんな望みを叶えられる、携帯できる炊飯器です。 見た目はお弁当箱なのに、なんと実は炊飯器！ 一人分に最適なお茶碗一杯分が最速14分で炊けてしまいます。 ちょうどいい量の炊き立てをどこでも食べられるのが、この「おひとりさま用超高速弁当箱炊飯器」です♪ 内容品：本体、電源ケーブル（140cm）、計量カップ50ml、蓋、日本語取扱い説明書",
+        "サイズ：幅240×奥行き100×高さ80(mm)",
+        "重量：840g（ケーブル含む）",
+        "消費電力：185W",
+        "最大炊飯量：1合",
+        "炊飯時間：0.5合：約14〜19分、1合：約19分〜24分"
+      ],
+      "query": "THANKO おひとりさま用超高速弁当箱炊飯器",
+      "asin": "B0D499M873"
+    },
+    {
+      "title": "THANKO 弁当箱型炊飯器 1合炊き 蒸し調理 お弁当 炊き立て お米もおかずもこれ一台！2段式超高速弁当箱炊飯器 RCKDBLSWH TKFCLDRC (TKFCLDRC)",
+      "url": "https://www.amazon.co.jp/dp/B08QHYR14Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21wl8Pz6ncL._SL500_.jpg",
+      "features": [
+        "【サイズ】幅240×奥行き100×高さ113(mm) 【重量】877g（蓋、内蓋、内釜含む）",
+        "【電源】AC100V 50/60Hz 【消費電力】185W 【定格電圧】100V",
+        "【ケーブル長】1400mm",
+        "【最大炊飯量】0.18L（1合）",
+        "【電気代目安】1日約1.9円（1kWhあたりの電気代を31円として計算、1日20分間の使用を想定）",
+        "【素材】上蓋：PC　パッキン：シリコン　収納ポーチ:不織布　おかずトレイ・中蓋：アルミ　炊飯釜：アルミ/フッ素加工"
+      ],
+      "query": "THANKO 2段式超高速弁当箱炊飯器",
+      "asin": "B08QHYR14Q"
+    },
+    {
+      "title": "THANKO のせるだけでずっと温かい「フードウォーマープレートS」TK-FWP21B-R",
+      "url": "https://www.amazon.co.jp/dp/B09HMHHL76?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31lMM2vBfSL._SL500_.jpg",
+      "features": [
+        "【サイズ】高さ210×幅210×厚み30(mm) 　【重量】約765g 　【種類】電気ホットプレート",
+        "【定格電圧】100V 　【定格周波数】50/60Hz 消費電力 36W",
+        "プレート ヒーター一体式 プレート温度調整範囲 60～110度 ヒューズ温度 142度 サーモスタット 120度",
+        "ケーブル長 約180cm 素材 ガラス、アルミ合金、鉄 内容品 本体、日本語説明書 耐荷重 8kg",
+        "パッケージサイズ 幅280×高さ260×奥行65(mm) パッケージ込み重量 約1kg",
+        "保証期間 12カ月"
+      ],
+      "query": "THANKO フードウォーマープレートS",
+      "asin": "B09HMHHL76"
+    },
+    {
+      "title": "オーム電機 保温プレート フードウォーマー 卓上 ヒーター ブラック おしゃれ 耐熱ガラス COK-HB600A-K 08-1417 OHM",
+      "url": "https://www.amazon.co.jp/dp/B0CSXX75XY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31bZ0KOzXcL._SL500_.jpg",
+      "features": [
+        "【 特 長 】　◆プラスチック容器・アルミ容器・紙容器・陶器もそのまま置ける　◆保温専用　◆40～90℃まで10℃刻みで温度設定が可能　◆ガラスプレートでお手入れカンタン　◆31mmの薄型で収納に困らない　◆本体カラーはブラック",
+        "【 仕 様 】　◆定格電圧：AC100V 50/60Hz　◆定格消費電力：35W　◆プレート：ヒーター一体式　◆プレート温度調整範囲：40～90℃　◆本体寸法：（約）幅217×高さ217×奥行31mm",
+        "◆質量：約613g　◆コード長：約1.8m　◆材質：耐熱ガラス、ポリプロピレン樹脂　◆付属品：保証書付取扱説明書"
+      ],
+      "query": "オーム電機 保温プレート COK-HB600A-K",
+      "asin": "B0CSXX75XY"
+    },
+    {
+      "title": "【食洗機対応モデル】 サーモス 真空断熱スープジャー 400ml アイボリー 全パーツ食洗機OK 保温保冷 お手入れ簡単 口当たりがやさしい丸口設計 スタンダードモデル JED-400 IV",
+      "url": "https://www.amazon.co.jp/dp/B0D9XSXK9J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/319BWNxoZZL._SL500_.jpg",
+      "features": [
+        "スタンダードタイプのスープジャー。食洗機対応でお手入れ簡単!",
+        "本体サイズ(約):幅9.5×奥行き9.5×高さ12.5cm、本体重量(約):300g、容量:400ml",
+        "保温効力:60℃以上(6時間)/ 保冷効力:11℃以下(6時間)",
+        "原産国:中国",
+        "素材:本体:ステンレス鋼(ポリエステル樹脂塗装)/ 外フタ:ポリプロピレン(発泡ポリプロピレン内蔵)/ 内フタ:ポリプロピレン / ベンパッキン・シールパッキン:シリコーンゴム"
+      ],
+      "query": "サーモス 真空断熱スープジャー 400ml",
+      "asin": "B0D9XSXK9J"
+    },
+    {
+      "title": "象印 保温弁当箱 ステンレスランチジャー 茶碗 約3杯分 約 1.2合 電子レンジ 対応 ブラック SL-GH18-BA",
+      "url": "https://www.amazon.co.jp/dp/B01I8RJA34?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31LLWDMwITL._SL500_.jpg",
+      "features": [
+        "保温効力(6時間) : 69度以上",
+        "容量(約L):ごはん容器 0.59/おかず容器 0.40/スープ容器 0.28",
+        "サイズ(幅×奥行×高さ):15×13.5×21cm/ 質量(約kg:1.0",
+        "電子レンジ対応(ごはん容器、おかず容器、スープ容器)",
+        "本体:SUS304、容器:PP、はし:メタリクル樹脂、パッキン:シリコン",
+        "容量:ごはん0.59L、スープ容器0.28L、おかず容器0.4L"
+      ],
+      "query": "象印 ステンレスランチジャー SL-GH18",
+      "asin": "B01I8RJA34"
+    }
+  ],
+  "all_candidates": []
+}

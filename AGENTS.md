@@ -17,6 +17,11 @@
     -   条件を満たす商品のみを厳選します。
     -   指定数（〇選等）に満たない場合は、スケジュール側のタイトルを変更します。
 3.  取得した結果（JSON形式等）を、ライター（Claude Code）が参照できるように **`06_research/YYYY-MM/`** ディレクトリへ保存します。
+4.  保存前に、**商品URL監査（必須）** を実施します。
+    -   URLは必ず `https://www.amazon.co.jp/dp/<ASIN>?tag=daily-gadget-22&linkCode=osi...` の形式に統一。
+    -   `selected_items[*].asin` を必須項目として保持し、URL中のASINと一致することを確認。
+    -   URLは手入力・推測で作らず、必ず API レスポンスの `detail_page_url` か検証済みURLのみ使用。
+    -   不一致が1件でもあれば保存しない。修正後に再監査してから保存する。
 
 ### Phase 3: 品質監査と最終処理 (Audit & Finalize)
 

@@ -1,0 +1,147 @@
+{
+  "date": "2026-03-17",
+  "title": "お風呂を癒やし空間に。防水スピーカーと「スマホケース」 6 選",
+  "queries": [
+    "防水 スピーカー Bluetooth",
+    "JBL 防水 スピーカー",
+    "Anker Soundcore 防水 スピーカー",
+    "SONY 防水 スピーカー",
+    "Bose 防水 スピーカー",
+    "iPhone 防水ケース",
+    "iPhone 16 防水ケース",
+    "スマホ 防水ケース IPX8",
+    "スマホ 防水ポーチ"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "PA-API接続エラーにより取得件数0。Amazon検索上位の定番・人気モデルを手動でキュレーション",
+    "fallback_policy": "Amazon検索上位 + 除外ワード排除（展示品/中古/訳あり/ジャンク/B品/アウトレット/整備済み/再生品） + メーカー重複制限（原則2件まで、特集テーマ除く）"
+  },
+  "search_execution": {
+    "script": "05_script/search_custom_list.py (imported search_products)",
+    "partner_tag": "daily-gadget-22",
+    "status": "error_fallback_manual",
+    "errors": [
+      {
+        "query": "防水 スピーカー Bluetooth",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      }
+    ]
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 6,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "JBL CLIP 5 Bluetoothスピーカー IP67防水防塵/最大12時間再生/ポータブル/カラビナ付",
+      "url": "https://www.amazon.co.jp/dp/B0CZTTF16G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "features": [
+        "IP67防水防塵対応で浴室・アウトドア問わず安心して使えるコンパクトスピーカー",
+        "360°全方向に広がるサウンドをデュアルパッシブラジエーターが実現",
+        "カラビナが標準装備されており、タオルハンガーやバスルームの棚に引っかけて設置できる",
+        "最大12時間再生対応。USB-C充電対応で給電の手間を減らせる",
+        "Bluetooth 5.3接続でペアリングがすばやく完了する"
+      ],
+      "query": "JBL 防水 スピーカー",
+      "tier": "fallback_manual",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "JBL",
+      "asin": "B0CZTTF16G"
+    },
+    {
+      "title": "Anker Soundcore 3 Bluetoothスピーカー IPX7防水/24時間再生/デュアルドライバー",
+      "url": "https://www.amazon.co.jp/dp/B08CXJ3HMF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "features": [
+        "BassUpテクノロジーにより低音を強化し、浴室のタイル空間でもこもらずクリアに聴こえる",
+        "IPX7防水対応で、水しぶきや水没にも耐えられる設計",
+        "デュアルドライバー＋2つのパッシブラジエーターでスピーカーサイズを超えた音の広がりを実現",
+        "最大24時間のロング再生に対応しており、充電頻度を抑えられる"
+      ],
+      "query": "Anker Soundcore 防水 スピーカー",
+      "tier": "fallback_manual",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "Anker",
+      "asin": "B08CXJ3HMF"
+    },
+    {
+      "title": "ソニー SONY ワイヤレスポータブルスピーカー SRS-XB100 IP67防水防塵/最大16時間再生/ストラップ内蔵",
+      "url": "https://www.amazon.co.jp/dp/B0C3Q65R9P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "features": [
+        "IP67防水防塵の最高クラス等級を持ちながら、一辺が約7cmのキューブサイズに収まるコンパクト設計",
+        "ソニー独自のX-Balanceスピーカーユニットにより、小型ながら安定した音質を発揮",
+        "本体後部に内蔵ストラップを搭載しており、バスルームのタオルハンガーやS字フックへの取り付けがしやすい",
+        "最大16時間の長時間再生対応で、毎日の充電なしに複数日使い続けられる"
+      ],
+      "query": "SONY 防水 スピーカー",
+      "tier": "fallback_manual",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "SONY",
+      "asin": "B0C3Q65R9P"
+    },
+    {
+      "title": "JBL GO 4 Bluetoothスピーカー IP67防水防塵/最大7時間再生/超コンパクト",
+      "url": "https://www.amazon.co.jp/dp/B0CZDP1V8S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "features": [
+        "手のひらに収まる超小型ボディにIP67防水防塵性能を搭載したエントリーモデルのスピーカー",
+        "Bluetooth 5.3接続対応でスムーズなペアリングが可能",
+        "USB-C充電採用で充電ケーブルを統一しやすい",
+        "最大7時間再生に対応。防水スピーカー入門としてコストを抑えて試したい方向けに調べていて気になった一台"
+      ],
+      "query": "JBL 防水 スピーカー",
+      "tier": "fallback_manual",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "JBL",
+      "asin": "B0CZDP1V8S"
+    },
+    {
+      "title": "JOTO ユニバーサル防水スマホポーチ 2枚セット IPX8防水 タッチ対応 6.9インチまで対応",
+      "url": "https://www.amazon.co.jp/dp/B00LBK7OSY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "features": [
+        "IPX8規格準拠の防水ポーチでiPhoneからAndroidまでほぼ全機種に対応する汎用設計",
+        "ポーチ越しのタッチスクリーン操作と指紋認証に対応しており、スマホを出さずに操作できる",
+        "6.9インチ幅まで対応し、大型スマホでもぴったり収まる",
+        "スリムなデザインで邪魔にならず、ネックストラップや腰ひも取り付けのループが付いている"
+      ],
+      "query": "スマホ 防水ポーチ",
+      "tier": "fallback_manual",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "JOTO",
+      "asin": "B00LBK7OSY"
+    },
+    {
+      "title": "Spigen AquaShield ウォータープルーフポーチ A610 IPX8防水 Face ID対応 ネックストラップ付",
+      "url": "https://www.amazon.co.jp/dp/B0C5QXNFQR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "features": [
+        "IPX8防水規格に対応したスマホポーチで、7インチまでのスマートフォンを水没から守る",
+        "Face IDや指紋認証、タッチスクリーン操作がポーチ越しに可能な高透明素材を採用",
+        "カードスロットが内蔵されており、クレジットカードや交通系ICカードを同時携帯できる",
+        "ネックストラップ付属でハンズフリーで持ち運びができ、プールや海、浴室での使用にも応用しやすい"
+      ],
+      "query": "スマホ 防水ケース IPX8",
+      "tier": "fallback_manual",
+      "review_count": null,
+      "star_rating": null,
+      "maker": "Spigen",
+      "asin": "B0C5QXNFQR"
+    }
+  ],
+  "all_candidates": []
+}

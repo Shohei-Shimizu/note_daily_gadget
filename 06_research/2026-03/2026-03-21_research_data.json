@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-21",
+  "title": "スマホの容量不足を解消。写真を「自動保存」するツール 6 選",
+  "queries": [
+    "Maktar Qubii Duo",
+    "Maktar Qubii Pro",
+    "BUFFALO おもいでばこ PD-2000",
+    "Synology BeeStation BST150-4T",
+    "QNAP TS-216G",
+    "SanDisk iXpand Luxe"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/search_amazon_creators.py (API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Maktar Qubii Duo USB Type A ホワイト 充電しながら自動バックアップ SDロック機能搭載 iphone バックアップ usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証 (microSD別売)",
+      "url": "https://www.amazon.co.jp/dp/B08PBL57JM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31AbV+PCVyL._SL500_.jpg",
+      "features": [
+        "【Qubii Duoがあれば写真取り放題】寝る前にスマホ充電するだけでiPhoneの写真や動画を自動バックアップ！Qubiiがあれば、iPhoneの容量不足には困らず、写真を気兼ねなく取り放題！使いやすくて高速転送。簡単操作で手軽にiPhoneの写真をパソコンにデータ移行することも可能。",
+        "【保存できるもの】写真、動画、音楽、連絡先、SNS（X、Facebookの画像など）、ファイルアプリのデータ※OSごとに保存できる内容は異なります。",
+        "【容量不足解消】USB3.1 転送スピードがアップ！PCいらずで空き容量を確保。カード入れ替えで自由に容量を増やせる！各メーカーのmicroSDカードに対応します。（最大容量2TBまで）オフラインでバックアップするのでデータ漏洩の心配もありません。",
+        "【MFi認証取得、2年保証、幅広い互換性】iPhone & iPad iOS 14 以降 / SDカードリーダーとしても使用可能でMac OSとWindowsに対応。",
+        "【microSDロック機能搭載】ロックすると、自分のスマホ以外ではカードの認識自体ができなくなります。大事なデータや秘密のファイルの保存に最適！※microSD別売"
+      ],
+      "query": "Maktar Qubii Duo",
+      "asin": "B08PBL57JM"
+    },
+    {
+      "title": "Maktar Qubii Pro ホワイト (microSD 128GB付) 充電しながら自動バックアップ iphone usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証",
+      "url": "https://www.amazon.co.jp/dp/B08FM7CDNC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31HNbpBIUlL._SL500_.jpg",
+      "features": [
+        "【Qubii Proがあれば写真取り放題】寝る前にスマホ充電するだけでiPhoneの写真や動画を自動バックアップ！Qubiiがあれば、iPhoneの容量不足には困らず、写真を気兼ねなく取り放題！使いやすくて高速転送。簡単操作で手軽にiPhoneの写真をパソコンにデータ移行することも可能。",
+        "【保存できるもの】写真、動画、音楽、連絡先、SNS（X、Facebookの画像など）、ファイルアプリのデータ。Googleフォトの高画質・容量無制限終了にあたってのデータ保存先に！",
+        "【容量不足解消】USB3.1 転送スピードがアップ！PCいらずで空き容量を確保。カード入れ替えで自由に容量を増やせる！各メーカーのmicroSDカードに対応します。（最大容量2TBまで）オフラインでバックアップするのでデータ漏洩の心配もありません。",
+        "【MFi認証取得、2年保証、幅広い互換性】iPhone & iPad iOS 14 以降 / SDカードリーダーとしても使用可能でMac OSとWindowsに対応。USBポートに挿して使用する際は、充電器としても使用できます。",
+        "【無料＆使いやすい専用アプリ】バックアップしたデータは専用アプリ「Qubii Pro」で閲覧・管理。異なるスマホで共用可能で、データが混ざることなくスッキリ管理。他のアプリを起動しながらでも使用可能です。※microSD 128GB付属"
+      ],
+      "query": "Maktar Qubii Pro",
+      "asin": "B08FM7CDNC"
+    },
+    {
+      "title": "バッファロー おもいでばこ スマホ 4K 動画 写真 Wi-Fi 6 対応 スタンダード モデル 1TB PD-2000",
+      "url": "https://www.amazon.co.jp/dp/B0B1J7W7RF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/116064kivtL._SL500_.jpg",
+      "features": [
+        "【もっと残せて、もっと快適に】使い勝手や安心性能はそのままに、新しくなった「おもいでばこ」スタンダードモデル。",
+        "【家族みんなで楽しめる】付属のHDMIケーブルでテレビにつなぐだけで、写真と動画を大画面で共有できる。",
+        "【選べるとりこみ方法】専用アプリ経由のスマホ・PC取り込みに加え、SDカード/USBメモリ取り込みにも対応。",
+        "【写真や動画をたっぷり保存】最大100万コンテンツ保存に対応し、スマホ容量不足の解消に向く。",
+        "【整理はおまかせ】撮影日ベースで自動整理し、アルバム作成も容易。",
+        "【バックアップHDD対応】専用バックアップHDD（別売）を接続して追加保護が可能。"
+      ],
+      "query": "BUFFALO おもいでばこ PD-2000",
+      "asin": "B0B1J7W7RF"
+    },
+    {
+      "title": "Synology パーソナルクラウド BeeStation BST150-4T / ネットワーク対応/簡易NAS/簡単設定/国内正規代理店フィールドレイク取扱品",
+      "url": "https://www.amazon.co.jp/dp/B0CSSR38F1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21Skvw1NfJL._SL500_.jpg",
+      "features": [
+        "【特徴】自分用のクラウドを作成",
+        "容量：4TB",
+        "CPU：Realtek RTD1619B",
+        "簡単な操作",
+        "どこからでもアクセス"
+      ],
+      "query": "Synology BeeStation BST150-4T",
+      "asin": "B0CSSR38F1"
+    },
+    {
+      "title": "QNAP TS-216G-US - 最も手頃な価格の2ベイ2.5GbEデスクトップNAS、ARM Cortex-A55クアッドコアCPU、内蔵NPU、4GB DDR4 RAM(ディスクレス)搭載",
+      "url": "https://www.amazon.co.jp/dp/B0D1WYD1DB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21enpnxqiyL._SL500_.jpg",
+      "features": [
+        "ARM Cortex-A55クアッドコア2.0GHzプロセッサ、4GB DDR4 RAM。",
+        "AIアクセラレーション用のNPUが内蔵されており、顔や物体の高速認識のためのパフォーマンスを向上させます。",
+        "2.5GbE (2.5G/1G/100M) ポートは、チームやデバイス間でのファイル共有を高速化したり、大きなファイル転送を合理化したりします。",
+        "ファイルストレージとマルチメディアストリーミング用の低予算のホームNAS。",
+        "個人または家族の写真、音楽、ビデオを一元的に保存して整理。",
+        "QNAPのNetBak ReplicatorソフトウェアでWindowsコンピューターを楽にバックアップし、Time MachineでMacコンピューターをバックアップできます。"
+      ],
+      "query": "QNAP TS-216G",
+      "asin": "B0D1WYD1DB"
+    },
+    {
+      "title": "SanDisk TYPE-C SDIX70N-256G-GN6NE Lightnig Flash",
+      "url": "https://www.amazon.co.jp/dp/B08JD2LXXG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ze2xNIC1L._SL500_.jpg",
+      "features": [
+        "iXpand Luxe 256GB フラッシュドライブ - SanDisk",
+        "ストレージ容量256GB。",
+        "1つのドライブ。 2つのコネクター。",
+        "コンテンツをコンピュータにすばやく移動",
+        "スペースを解放する簡単な方法。"
+      ],
+      "query": "SanDisk iXpand Luxe",
+      "asin": "B08JD2LXXG"
+    }
+  ],
+  "all_candidates": []
+}
