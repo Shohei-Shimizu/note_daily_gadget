@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-18",
+  "title": "寝る前の読書を快適に。目に優しい「電子書籍リーダー」 6 選",
+  "queries": [
+    "Kindle 電子書籍リーダー",
+    "Kobo 電子書籍リーダー",
+    "BOOX 電子書籍リーダー",
+    "PocketBook 電子書籍リーダー",
+    "電子ペーパー タブレット 読書",
+    "電子書籍リーダー フロントライト",
+    "電子書籍リーダー 7インチ",
+    "電子書籍リーダー 防水",
+    "カラー 電子書籍リーダー"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "PA-API接続エラーで候補を取得できず、要件を満たす選定ができなかったため（手動補完なし）。",
+    "fallback_policy": "Tier順で緩和しつつ選定。メーカー重複は原則2件まで。除外ワード（展示品/中古/訳あり/ジャンク/B品/アウトレット/整備済み/再生品）を適用。"
+  },
+  "search_execution": {
+    "script": "05_script/search_custom_list.py (imported search_products)",
+    "partner_tag": "daily-gadget-22",
+    "status": "error_no_data",
+    "errors": [
+      {
+        "query": "Kindle 電子書籍リーダー",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      },
+      {
+        "query": "Kobo 電子書籍リーダー",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      },
+      {
+        "query": "BOOX 電子書籍リーダー",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      },
+      {
+        "query": "PocketBook 電子書籍リーダー",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      },
+      {
+        "query": "電子ペーパー タブレット 読書",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      },
+      {
+        "query": "電子書籍リーダー フロントライト",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      },
+      {
+        "query": "電子書籍リーダー 7インチ",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      },
+      {
+        "query": "電子書籍リーダー 防水",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      },
+      {
+        "query": "カラー 電子書籍リーダー",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      }
+    ]
+  },
+  "target_count": 6,
+  "fetched_count": 0,
+  "dedup_count": 0,
+  "selected_count": 0,
+  "selected_items": [],
+  "manual_verified_items": [
+    {
+      "position": 5,
+      "title": "楽天 Kobo Clara BW",
+      "asin": "B0D4978BWY",
+      "url": "https://www.amazon.co.jp/dp/B0D4978BWY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "note": "旧URL B0CX2KWGBK は商品ページ非存在のため差し替え"
+    },
+    {
+      "position": 6,
+      "title": "BOOX Palma",
+      "asin": "B0CJ876GB8",
+      "url": "https://www.amazon.co.jp/dp/B0CJ876GB8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "note": "旧URL B0C63GVPLT は商品ページ非存在のため差し替え"
+    }
+  ],
+  "all_candidates": []
+}

@@ -47,3 +47,21 @@ description: 記事構成のためのAmazon PA-API商品リサーチ・選定ル
 
 - **保存先**: `06_research/YYYY-MM/`
 - **フォーマット例**: `2026-03-01_research_data.json` など、どの日付・タイトルのデータか判定可能な名前をつけること。
+
+---
+
+## URL整合性チェック（保存前の必須監査）
+
+`selected_items` の URL は、誤リンク防止のため以下を **全件必須** とします。
+
+1.  **正規URL形式**
+    - `https://www.amazon.co.jp/dp/<ASIN>?tag=daily-gadget-22&linkCode=osi...` の形式のみ許可。
+2.  **ASIN一致**
+    - `selected_items[*].asin` を必須で保持する。
+    - URL中の `<ASIN>` と `asin` フィールドが完全一致しない場合は不合格。
+3.  **取得元制約**
+    - URLは手入力・記憶・推測で作成しない。
+    - APIレスポンスの `detail_page_url` を優先し、fallback時も最終的にASIN一致を確認したURLのみ採用する。
+4.  **公開前ゲート**
+    - 1件でも不一致・タグ欠落（`tag=daily-gadget-22`）があれば保存を禁止。
+    - 修正後に再チェックし、全件合格でのみ `06_research/YYYY-MM/` へ保存する。
