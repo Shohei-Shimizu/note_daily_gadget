@@ -1,0 +1,1952 @@
+{
+  "version": "2.9",
+  "children": [
+    {
+      "type": "frame",
+      "id": "ni09V",
+      "x": 0,
+      "y": 0,
+      "name": "2026-03-25_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "xhf26",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-03-25 AI議事録の決定版。Zoom連携から「単体機」まで 7選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "6sFfm",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "VPdAo",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "C7TX1",
+              "x": -14,
+              "y": -138,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./20260325.png",
+                "mode": "fill"
+              },
+              "width": 1408,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "QwaYz",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "7u8F5",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "hEgtK",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "emhA8",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "HntTq",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: 卓上AIマイク・スピーカー",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "Namhc",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic lifestyle shot of a compact black AI-powered conference speaker with a circular microphone array on a light wood desk, next to a silver laptop with a Zoom meeting on screen and a ceramic coffee mug. Soft morning sunlight from a window on the right. Background shows a minimalist home office with bookshelves beautifully blurred. High-key lighting, shallow depth of field.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "7Ltkj",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: コンパクトな黒いAI会議用スピーカーが明るい木目のデスクに置かれ、Zoom会議が映るシルバーのノートPCと陶器のコーヒーマグの横にあるフォトリアルなライフスタイル写真。右側の窓から柔らかな朝の日差し。背景には本棚のあるミニマルなホームオフィスが美しくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "5PVoH",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: Zoom会議中のデスクに溶け込むAIスピーカー",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "Mx0vp",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "JVH2a",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: ペン型ボイスレコーダー",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "KWMic",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A realistic close-up of a sleek metallic pen-shaped voice recorder lying on an open leather-bound notebook, next to a smartphone showing a transcription app. Clean white desk surface with soft side lighting from the left. Background shows a blurred bright meeting room with glass walls. Modern, professional aesthetic with strong depth of field.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "DSG0p",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 洗練されたメタリックなペン型ボイスレコーダーが、開いた革製ノートの上に置かれ、文字起こしアプリを表示するスマートフォンの横にあるリアルなクローズアップ。清潔な白いデスク表面に左からの柔らかなサイドライト。背景にはガラス壁の明るい会議室が美しくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "sQYnr",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 会議メモとデジタル文字起こしの融合",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "PtZpO",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "v9M20",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: デスク上の議事録デバイス全景",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "oCjL5",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A lifestyle image of a white portable AI meeting recorder device standing upright on a light wooden desk shelf, flanked by a MacBook-style laptop and a potted succulent. Warm morning sunlight filters through sheer curtains on the right, casting gentle shadows. The composition is minimal and clean, emphasizing the device as the centerpiece. Softly blurred home office background.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "FuIk2",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 白いポータブルAI会議レコーダーが明るい木目のデスクの上に立てて置かれ、MacBook風のノートPCと多肉植物の鉢に挟まれたライフスタイル画像。右側のレースカーテン越しに暖かい朝の日差しが柔らかな影を落としている。ミニマルで清潔な構図、デバイスが主役。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "AqqNX",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: ミニマルなデスク環境に馴染む議事録デバイス",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "MJTwK",
+      "x": 1400,
+      "y": 0,
+      "name": "2026-03-26_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "ql4px",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-03-26 書類をスマホで管理。名刺もデジタル化する「スキャナー」 5選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "3H0oh",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "iBcpK",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "8Wgk9",
+              "x": -104,
+              "y": -70,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./20260326.png",
+                "mode": "fill"
+              },
+              "width": 1408,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "WnaJe",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "ANzJx",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "DlNIN",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "kvBn5",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "nRr89",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: デスクトップスキャンシーン",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "yXq61",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic lifestyle photo of a compact white desktop document scanner with a 4.3-inch touch panel and open ADF tray, scanning a stack of business cards on a clean white desk. A smartphone beside it shows a document management app screen. Soft natural side light from a window, shallow depth of field with a blurred monitor and potted plant in the background.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "h1wK2",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 清潔な白いデスクの上に、4.3インチタッチパネル付きの白いコンパクトドキュメントスキャナーがADFトレイを開いた状態で置かれ、名刺の束をスキャン中。隣のスマートフォンにはドキュメント管理アプリの画面が表示。窓からの柔らかなサイドライト、背景にぼけたモニターと鉢植え。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "8bDO5",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: タッチパネル操作とスマホ連携のペーパーレスワーク",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "slEMK",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "H6vwn",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: モバイルスキャナーの持ち運び",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "hf0ol",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic close-up of a slim, portable black document scanner about the size of a ruler, placed on a light wooden cafe table next to a few scattered business cards and receipts. A laptop is partially visible in the background. The scanner has a sleek minimal design with a single feed slot. Bright window light, airy atmosphere, shallow depth of field.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "6Y5Me",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: カフェの明るい木目テーブルの上に、定規サイズのスリムな黒いモバイルスキャナーが置かれ、周囲に数枚の名刺やレシートが散らばっている。背景にノートPCが部分的に見える。明るい窓の光とエアリーな雰囲気。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "7mSAz",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: モバイルスキャナーの携帯性と外出先での利用",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "EfRVm",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "6XAPO",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: 書類整理ビフォーアフター",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "SbJqt",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic overhead shot of a white desk divided into two halves: on the left, a messy pile of paper documents, business cards and receipts; on the right, a compact white scanner with its tray open and a tablet displaying neatly organized digital files. Soft even lighting from above, clean white background.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "BqHAX",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 白いデスクの俯瞰ショット。左半分には紙の書類・名刺・レシートが乱雑に積まれ、右半分にはコンパクトな白いスキャナーとデジタルファイルが整然と表示されたタブレット。均一な柔らかい照明、アナログの混乱とデジタルの整頓の対比を強調。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "4eoRi",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: ペーパーレス化のビフォーアフターの視覚的対比",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "C9pEe",
+      "x": 2800,
+      "y": 0,
+      "name": "2026-03-27_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "SsoG0",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-03-27 デスクを高く使う。ノートPCの「縦置きスタンド」 6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "7YHEz",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "0aMa0",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "v9NEg",
+              "x": -37,
+              "y": -70,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./test.png",
+                "mode": "fill"
+              },
+              "width": 1376,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "YU9TZ",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "JeIr8",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "0tK0T",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "GTOtC",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "4PKeH",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: クラムシェルデスク全景",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "TEthP",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic lifestyle photo of a MacBook standing vertically in an elegant aluminum arc-shaped stand on a clean white desk. An external monitor, wireless keyboard and mouse are arranged neatly beside it. A coffee mug and small potted succulent add warmth. Soft natural side light from a large window on the left, shallow depth of field blurring a bright living room with curtains. White, silver and natural wood color palette.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "7tg9B",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 清潔な白いデスクの上に、エレガントなアルミニウム製アーチ型スタンドにMacBookが縦置きされている。隣には外部モニター、ワイヤレスキーボードとマウスが整然と配置。コーヒーマグと小さな多肉植物が温かみを添える。左の大きな窓からの柔らかなサイドライト。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "FQCJy",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: クラムシェルモードによる広々としたデスク空間",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "m7ZsE",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "8MxP7",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: 素材の質感クローズアップ",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "y8aTf",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic close-up of two vertical laptop stands side by side on a wooden desk: one made of dark walnut wood with aluminum accents, and another of matte black steel with silicone padding visible inside the slot. A closed silver laptop is inserted in the wooden stand. Soft directional light highlighting the grain of the wood and the brushed metal textures. Shallow depth of field, neutral warm background.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "IXlUa",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 木目のデスクの上に2台の縦置きスタンドが並ぶクローズアップ。一方はダークウォルナット材＋アルミアクセント、もう一方はマットブラックスチール＋スロット内にシリコンパッド。ウォルナットのスタンドにはシルバーのノートPCが挿入。木目と金属の質感を強調する柔らかな指向性ライト。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "DIJRg",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 異なる素材（木製・金属）の質感と高級感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "Aw0DJ",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "IGyUc",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: 省スペース効果の比較",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "5XSIM",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic slightly elevated angle shot of a small white desk. On the left side, a laptop lies flat open taking up most of the desk space. On the right side, the same laptop stands vertically in a slim minimalist steel stand, freeing up the desk surface for a notebook, pen and smartphone. Bright natural light, clean white walls, a window with sheer curtains blurred in the background. Emphasizing the space-saving benefit.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "PlfRM",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: やや高い角度から撮影した小さな白いデスク。左側にはノートPCが平置きでデスクの大半を占め、右側には同じノートPCがスリムなスチールスタンドに縦置きされ、ノートやペン、スマホのスペースが確保されている。明るい自然光、省スペース効果の対比を強調。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "YHXgX",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 平置きと縦置きの省スペース効果の視覚的比較",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "FapGz",
+      "x": 4200,
+      "y": 0,
+      "name": "2026-03-28_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "MXrl1",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-03-28 食材管理をスマートに。保存・見える化に役立つキッチンガジェット 5選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "YULHC",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "wiPcH",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "TwXWz",
+              "x": -104,
+              "y": -121,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./20260328.png",
+                "mode": "fill"
+              },
+              "width": 1408,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "q0vU8",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "seomk",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "qg7My",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "ZB52j",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "eReCd",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: 冷蔵庫まわりのスマート管理",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "mLZHj",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic lifestyle photo of a modern white refrigerator door with colorful magnetic label sheets attached in neat rows. A small round waterproof temperature sensor with a digital display is mounted inside the fridge, visible through the slightly open door. On the kitchen counter nearby, a compact white vacuum food sealer and a small Bluetooth label printer sit side by side. Soft natural light from a kitchen window, bright and airy atmosphere with white and light wood tones.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "qwO4N",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: モダンな白い冷蔵庫のドアにカラフルなマグネットラベルシートが整然と貼られている。少し開いた冷蔵庫の中にはデジタル表示の小型丸型防水温度センサーが見える。キッチンカウンターにはコンパクトな白い真空フードシーラーとBluetoothラベルプリンターが並ぶ。キッチン窓からの柔らかな自然光。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "shMOB",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 冷蔵庫周りのアナログ＋デジタル食材管理の全景",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "z1lfp",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "i6zRr",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: 真空パック調理クローズアップ",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "ii4Ju",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic close-up of a slim white vacuum food sealer on a light wooden kitchen counter, in the process of sealing a bag filled with colorful vegetables. Freshly printed labels from a small portable printer are scattered nearby, showing dates written on them. A smartphone displaying a temperature monitoring app rests against a cutting board. Warm natural light, shallow depth of field with blurred kitchen shelves in background.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "bJCn5",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 明るい木目のキッチンカウンターの上で、スリムな白い真空フードシーラーがカラフルな野菜入りの袋をシーリング中。近くには小型ポータブルプリンターから印刷されたラベルが散らばり、日付が記載されている。スマートフォンが温度モニタリングアプリを表示してカッティングボードに立てかけられている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Ftkun",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 真空保存とラベル管理の実使用シーン",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "OIytC",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "nhu6i",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: パントリー整理俯瞰",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "tE7Ub",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic overhead shot of a neatly organized kitchen pantry shelf. Clear vacuum-sealed bags of dried goods and frozen items are labeled with small printed stickers showing dates. A compact round smart temperature sensor sits on the shelf edge. Colorful magnetic labels are attached to a small metal board leaning against the wall. Clean, bright lighting, white and natural wood color palette, organized and satisfying visual composition.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "WugjA",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 整頓されたキッチンパントリーの棚を真上から撮影。透明な真空パック済みの乾物や冷凍食品に日付入りの小さなラベルシールが貼られている。棚の端にはコンパクトな丸型スマート温湿度センサー。壁に立てかけた小さな金属ボードにカラフルなマグネットラベルが貼付。整理された満足感のある構図。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "5ubFX",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: パントリー全体の「見える化」された整理整頓",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "PQ4Rt",
+      "x": 5600,
+      "y": 0,
+      "name": "2026-03-29_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "IqoQd",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-03-29 部屋の空気をきれいに。新生活のための「脱臭・清浄機」 6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "MHR9J",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "1JGAG",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none"
+        },
+        {
+          "type": "text",
+          "id": "2wRTi",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "olK30",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "7cuXN",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "vaOEE",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "jhbSn",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: リビングのタワー型清浄機",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "PNN5U",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic lifestyle photo of a sleek white tower-shaped air purifier standing on a light hardwood floor in a bright living room. The purifier has a clean cylindrical design with a subtle LED indicator on its side. A sofa with a throw blanket and a small side table with a coffee cup are nearby. Large window with sheer curtains letting in soft natural side light, a potted monstera plant blurred in the background. White, beige and natural wood tones. Fresh, airy atmosphere.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "3zTly",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 明るいリビングの明るいフローリングの上に、スリムな白いタワー型空気清浄機が立っている。側面にさりげないLEDインジケーター。近くにブランケットのかかったソファと、コーヒーカップが乗ったサイドテーブル。薄いカーテン越しの柔らかな自然光、背景にぼけたモンステラ。清潔でエアリーな雰囲気。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "yRwzz",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: リビング空間に溶け込むタワー型清浄機の存在感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "0Rdlr",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "I6QvH",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: デスク横のコンパクト清浄機",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "iIyXK",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic photo of a compact cylindrical white air purifier with a 360-degree air intake design sitting on a wooden desk next to a laptop and a small potted plant. The purifier has a round top with subtle ventilation slots. A smartphone nearby shows an air quality monitoring app with a green indicator. Soft window light from the side, shallow depth of field with a blurred bookshelf behind. Clean modern workspace aesthetic.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "qeMT7",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 木目のデスクの上に、360度吸引デザインのコンパクトな円柱型白い空気清浄機がノートPCと小さな鉢植えの隣に置かれている。天面に通気スロット付きの丸い形状。近くのスマートフォンにはグリーンのインジケーターが表示された空気品質モニタリングアプリ。窓からのサイドライト、背景にぼけた本棚。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "UNCWy",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: デスクワーク環境でのコンパクト清浄機の実使用",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "IxMMh",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "mXD1A",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: 玄関の脱臭LED電球",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "28wg9",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic photo of a modern minimalist entryway with a ceiling light socket fitted with an LED deodorizing bulb emitting warm white light. Below, a shoe rack with neatly arranged sneakers and a small console table with keys and a tray. The entryway has white walls and light wood flooring. The LED bulb has a distinctive rounded shape slightly larger than a standard bulb. Warm, inviting lighting atmosphere, clean and fresh feeling.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "PAZHz",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: モダンでミニマルな玄関。天井のソケットに脱臭LED電球が取り付けられ、暖かい白色光を放っている。下にはスニーカーが整然と並んだシューラック、鍵とトレイが乗った小さなコンソールテーブル。白い壁と明るい木のフローリング。通常より少し大きめの丸い形状のLED電球。温かく清潔感のある雰囲気。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "eiXPP",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 電球交換だけで実現する玄関の脱臭ソリューション",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "dcQG3",
+      "x": 7000,
+      "y": 0,
+      "name": "2026-03-30_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "lFm3o",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-03-30 月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "vUyee",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "XInqR",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none"
+        },
+        {
+          "type": "text",
+          "id": "VZTBy",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "JxqRS",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "v568i",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "T5vKh",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "dUZix",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: デスク上のキューブタイマー",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "pKqNF",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic lifestyle photo of a small hexagonal cube timer sitting on a clean white desk next to a laptop and a notebook with a pen. The timer is a matte white hexagonal prism shape with a small digital display showing 25:00 on one face. A coffee mug and a small potted succulent are nearby. Soft natural side light from a window on the left, shallow depth of field with a blurred bookshelf in the background. White, natural wood and black accent color palette. Focused, productive atmosphere.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "9IE0d",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 清潔な白いデスクの上に、ノートPCとノート・ペンの隣にマットホワイトの六角柱キューブタイマーが置かれている。タイマーの一面に25:00のデジタル表示。コーヒーマグと小さな多肉植物が近くにある。左の窓からの柔らかなサイドライト、背景にぼけた本棚。集中力のある生産的な雰囲気。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "g9p2K",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: ポモドーロ25分の集中を始める瞬間",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "dJyo5",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "NeJrC",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: アナログ式ビジュアルタイマー",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "VOGY0",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic close-up of a round analog visual timer with a red diminishing disc showing remaining time, placed on a wooden desk surface. The timer has a dark metallic two-tone body with a clean circular face. Behind it, a slightly blurred open planner and a mechanical pencil. Warm directional light from the right side, shallow depth of field. Minimalist workspace aesthetic with warm neutral tones.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "zY8Bm",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 木目のデスクの上に、残り時間を赤い減少ディスクで表示する丸いアナログビジュアルタイマーのクローズアップ。ダークメタリックなツートンボディに清潔な丸い文字盤。背後に少しぼけた手帳とシャープペンシル。右側からの温かい指向性ライト。ミニマルなワークスペースの美学。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "w0GQo",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 残り時間が「見える」タイマーの直感的な使用感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "BuVxg",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "LCf7D",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: 勉強デスクのインターバル学習",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "48FTO",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic slightly elevated angle photo of a study desk with an egg-shaped white timer with a rounded top button, surrounded by open textbooks, colored sticky notes, and a tablet displaying a study app. The timer has a small LCD screen showing a countdown. A desk lamp provides warm light from the upper left. Clean white walls, bright and focused study environment. Shallow depth of field blurring the background wall.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "lBu50",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: やや高い角度から撮影した勉強デスク。丸い上部ボタンの付いた卵型の白いタイマーが、開いた教科書やカラフルな付箋、学習アプリを表示するタブレットに囲まれている。タイマーの小さなLCD画面にカウントダウン表示。左上からデスクライトの温かい光。明るく集中できる学習環境。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "noQ7e",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: インターバル学習における物理タイマーの実使用シーン",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "H7XUy",
+      "x": 8400,
+      "y": 0,
+      "name": "2026-03-31_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "gukH6",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-03-31 3月のベストバイ。新生活を彩る「買ってよかったギア」 8選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "e89Ul",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "UYykO",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none"
+        },
+        {
+          "type": "text",
+          "id": "6NPro",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "XQIP1",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "0T0AK",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "yNQvn",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "MnVqm",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: デスクに並ぶベストバイアイテム",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "xHfsV",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic lifestyle photo of a clean white desk with several gadgets arranged in a curated flat-lay style: a compact white GaN charger with folding plug, a small ergonomic wireless mouse, a portable SSD with a carabiner loop, and a slim aluminum mobile battery with a digital display. A laptop is partially visible at the top edge. Soft natural overhead light creating gentle shadows, white and silver color palette with natural wood desk surface. Magazine-style product arrangement.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "OeGu4",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 清潔な白いデスクの上に、折りたたみプラグ付きの白いGaN充電器、小型エルゴノミクスワイヤレスマウス、カラビナループ付きポータブルSSD、デジタル表示付きのスリムなアルミモバイルバッテリーがキュレーションされたフラットレイで並ぶ。上端にノートPCが部分的に見える。柔らかなオーバーヘッドライト。マガジンスタイルの配置。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "1MtnV",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 3月ベストバイの多ジャンルガジェット集合写真",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "cpAEo",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "H7qui",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: リビングのスマートホーム機器",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "4MzPs",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic photo of a bright living room corner with a white smart hub device with a small LCD display sitting on a side table next to a sofa. Nearby, a compact cylindrical white air purifier stands on the floor, and an electric standing desk is visible in the background with a monitor on it. Large window with sheer curtains letting in soft daylight. White, beige and natural wood tones. Fresh, modern living space atmosphere.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "oG4QB",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 明るいリビングのコーナー。ソファ横のサイドテーブルに小型LCD付きの白いスマートハブが置かれている。近くに白い円柱型コンパクト空気清浄機が床に立ち、背景にモニターが乗った電動昇降デスクが見える。薄いカーテン越しの柔らかな日光。白・ベージュ・ナチュラルウッドトーン。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "DFoBY",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: リビング空間のスマートホーム＆デスク環境のアップデート",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "xuuny",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "h3sqz",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: 持ち運びギアのクローズアップ",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "mWO0Q",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic close-up of a small travel pouch open on a wooden surface, revealing a compact GaN charger with three ports visible, a slim mobile battery magnetically attached to an iPhone, and a rugged orange portable SSD with a USB-C cable. A boarding pass and a passport are partially visible at the edge. Warm side light from the right, shallow depth of field. Clean, organized travel preparation scene.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "oJEk7",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 木目の面に開かれた小さなトラベルポーチのクローズアップ。3ポートが見えるコンパクトなGaN充電器、iPhoneにマグネットで吸着したスリムなモバイルバッテリー、USB-Cケーブル付きのオレンジ色の頑丈なポータブルSSDが覗く。端に搭乗券とパスポートが部分的に見える。右からの温かいサイドライト。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "mjE28",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 出張・旅行シーンでのモバイルギアの実用性",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

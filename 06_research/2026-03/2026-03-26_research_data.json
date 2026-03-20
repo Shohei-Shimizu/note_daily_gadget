@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-26",
+  "title": "書類をスマホで管理。名刺もデジタル化する「スキャナー」 5 選",
+  "queries": [
+    "ScanSnap iX1600",
+    "ScanSnap iX100",
+    "Canon imageFORMULA R10",
+    "Epson DS-310",
+    "BROTHER MDS-940DW"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX1600 (最新/高速毎分40枚/両面読取/ADF/4.3インチタッチパネル/Wi-Fi対応/USB接続/フラグシップ/書類/レシート/名刺/写真) (White)",
+      "url": "https://www.amazon.co.jp/dp/B0C23XJGCW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21PjFmt1IQL._SL500_.jpg",
+      "features": [
+        "ScanSnap史上最速の毎分40枚の高速スキャン。パソコンはもちろん、スマートデバイス接続時も安定した高速大量スキャンを実現します。",
+        "簡単操作のタッチパネルを搭載。目的に応じたアイコン（プロファイル）を選んでスキャンするだけの直観操作。アイコンは保存先やファイル形式などユーザーにあわせてカスタマイズできます。そのためチームで使用するときも簡単便利。タッチパネル上でユーザーを簡単に切り替えることができ、自分だけのプロファイルを迷わず選べ快適にお使いいただけます。",
+        "クラウド保存もワンタッチ！Wi-Fi(2.4/5GHz帯)対応でスキャナーがPCやスマートデバイスとワイヤレスでつながるだけでなく、インターネットにも直結。文書管理、名刺管理、経費精算や家計簿などの多彩なクラウドサービスへの保存もタッチパネルからワンタッチ。",
+        "テレワークとオフィス業務のメンバーが混在する中でも、クラウド保存で簡単に共有でき、時間や場所にとらわれないフレキシブルな働き方・さらなる業務効率化を支援します。",
+        "ドキュメント読み取りからデータ整理・活用まで一元管理ができるソフトウェア「ScanSnap Home」に対応。原稿の読み取りから、閲覧、編集管理、検索やアプリケーションへの連携、学習機能によりデータの生成や管理を効果的にアシストしてくれます。"
+      ],
+      "query": "ScanSnap iX1600",
+      "asin": "B0C23XJGCW"
+    },
+    {
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX100 (最新/A4/片面読取/Wi-Fi対応/USB接続/モバイル/書類/レシート/名刺/写真) (Black)",
+      "url": "https://www.amazon.co.jp/dp/B0C23RFQNM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21Y4a8gwlPL._SL500_.jpg",
+      "features": [
+        "軽量コンパクトボディーにモバイルバッテリーとWi-Fiを搭載し、パソコンはもちろんスマートフォンやタブレットにコードレスで接続できるモバイルスキャナーです。",
+        "身の周りのドキュメント、名刺、写真などを手元のスマートフォンやタブレットでスピーディーに電子化、クラウドサービスなどでスマート活用。軽量コンパクト・コードレスにより、外出先やオフィスはもとより、リビングや書斎など、様々な場所に持ち運んで自由にお使いいただけます。",
+        "高性能薄型バッテリーを搭載。ケーブル接続による給電の必要がなく、好きな場所ですぐに使うことができます。",
+        "オフィスや周囲のWi-Fi環境に応じて、アクセスポイント接続モード、ダイレクト接続方法、接続方法・接続先を自動的に切り替えます。Wi-Fi環境の有無によらず、iX100をいつでもご利用いただけるようになります。",
+        "大きいサイズの原稿読み取りの見開きページの自動合成、名刺やレシートなどの小さい紙は2枚並べて同時に読み取るデュアルスキャンなどの便利機能ですばやい電子化をサポートします。"
+      ],
+      "query": "ScanSnap iX100",
+      "asin": "B0C23RFQNM"
+    },
+    {
+      "title": "Canon キヤノン ドキュメントスキャナー imageFORMULA R10 JPN",
+      "url": "https://www.amazon.co.jp/dp/B09FSC61GM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21VKCbPKEkL._SL500_.jpg",
+      "features": [
+        "プラグ&スキャン(USB接続)",
+        "USBバスパワー駆動",
+        "カードスキャン対応",
+        "コンパクト設計",
+        "コネクタタイプ:USB",
+        "スキャナータイプ: ドキュメント"
+      ],
+      "query": "Canon imageFORMULA R10",
+      "asin": "B09FSC61GM"
+    },
+    {
+      "title": "エプソン スキャナー DS-310 (シートフィード/A4両面)",
+      "url": "https://www.amazon.co.jp/dp/B01IALGUZY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31HsclPs4ML._SL500_.jpg",
+      "features": [
+        "カードスキャンにも対応。カウンター業務でも活躍",
+        "両面同時スキャンで50面/分を実現",
+        "棚や引き出しにすっきり収納できるコンパクトサイズ。",
+        "使用環境に合わせて様々な接続方法で使える",
+        "オフィスでの大量文書のスキャン業務にも耐える20万スキャンの高耐久性を実現。"
+      ],
+      "query": "Epson DS-310",
+      "asin": "B01IALGUZY"
+    },
+    {
+      "title": "ブラザー工業(Brother Industries) ドキュメントスキャナー MDS-940DW (モバイルスタイル/両面スキャン/無線LAN/スマホ接続)",
+      "url": "https://www.amazon.co.jp/dp/B083VZHDGZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/314PvWYBv4L._SL500_.jpg",
+      "features": [
+        "無線LAN対応・充電池搭載で、PCレスでも使えるモバイルスキャナー",
+        "両面読取対応",
+        "読取速度(A4縦/300dpi/片面・両面)：カラー約4秒/枚、モノクロ約4秒/枚",
+        "インターフェイス：Micro USB 3.0、無線LAN。液晶：LED（PICT）",
+        "サイズ自動検出、傾き補正機能、スキャンtoSDカード、電源：リチウムイオン充電池、USBバスパワー"
+      ],
+      "query": "BROTHER MDS-940DW",
+      "asin": "B083VZHDGZ"
+    }
+  ],
+  "all_candidates": []
+}

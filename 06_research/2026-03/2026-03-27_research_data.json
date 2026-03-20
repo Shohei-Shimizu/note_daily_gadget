@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-27",
+  "title": "デスクを高く使う。ノート PC の「縦置きスタンド」 6 選",
+  "queries": [
+    "BoYata ノートパソコン 縦置きスタンド",
+    "UGREEN ノートPC 縦置きスタンド",
+    "エレコム ノートPCスタンド 縦置き",
+    "サンワダイレクト ノートPC 縦置きスタンド",
+    "HumanCentric ノートPC 縦置きスタンド",
+    "Twelve South BookArc MacBook"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "山崎実業(Yamazaki) スリム ノートパソコンスタンド ブラック 約W16×D5.7×H15.2cm タワー tower ノートPC 収納 縦置き 省スペース 4499",
+      "url": "https://www.amazon.co.jp/dp/B0C8XRLGZV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31G7px8UMLL._SL500_.jpg",
+      "features": [
+        "サイズ:約W16×D5.7×H15.2cm",
+        "収納可能なノートパソコン・タブレットPCの目安:約17.3インチ,厚さ約2.7cm,重さ約2.8kg以内",
+        "素材:本体/スチール(粉体塗装),滑り止め/シリコーン,緩衝材/ポリプロピレン",
+        "重量:約735g",
+        "差し込むだけでスリムに収納できるノートパソコンスタンド。"
+      ],
+      "query": "BoYata ノートパソコン 縦置きスタンド",
+      "asin": "B0C8XRLGZV"
+    },
+    {
+      "title": "UGREEN 縦型 ノートパソコンスタンド pcスタンド 縦置き 収納 幅調整可能 アルミ合金製 シリコーンゴム傷防止 全機種対応Mac/Surface/iPad/HPなど（ブラック）",
+      "url": "https://www.amazon.co.jp/dp/B0CBJLM51J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/414B5m6gs9L._SL500_.jpg",
+      "features": [
+        "【調整可能なスロット】ノートパソコンホルダースタンドは、厚さ0.5インチから最大1インチのノートパソコンにフィットします。 ネジをひねることで簡単にスロットを拡張でき、工具が不要です。",
+        "【幅広い互換性】このノートパソコン用スタンドは、MacBook Air、MacBook Pro、Microsoft Surface、Samsung Galaxy Book、Lenovo Ideapad 3、HPノートブック、Dell Chromebook、ThinkPad、その他の17.3インチまでのコンピューターに対応しています。",
+        "【頑丈で安定性】 デスク用縦型ノートパソコンスタンドはプレミアムアルミニウム合金製で、ノートパソコンを保持するための優れた安定性を確保します。 ベースもシリコンパッドで覆われており、滑りや滑りを防ぎます。",
+        "【傷防止】 デスクノートパソコンスタンドホルダーは、スロットの内側に滑り止めシリコンパッドで覆われており、PCを傷から完全に保護します。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN ノートPC 縦置きスタンド",
+      "asin": "B0CBJLM51J"
+    },
+    {
+      "title": "エレコム ノートPCスタンド ~15.6インチ対応 1台収納 縦置き 幅調整可能 滑り止め アルミ合金 シルバー PCAWLTSV04SV",
+      "url": "https://www.amazon.co.jp/dp/B0F3MGVR1C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31NqJGvjlhL._SL500_.jpg",
+      "features": [
+        "サイズが小さく省スペースなため、机の上を広々活用できるノートパソコン・タブレット用の縦置きスタンドです。",
+        "~15.6インチノートパソコン、12.9インチタブレットに対応しています。",
+        "ノートパソコンもしくはタブレットを1台スタンド可能です。",
+        "ネジ部分を回すだけで、簡単にはさみ幅を調節できます。",
+        "堅牢で上質な仕上げのアルミ合金製です。"
+      ],
+      "query": "エレコム ノートPCスタンド 縦置き",
+      "asin": "B0F3MGVR1C"
+    },
+    {
+      "title": "サンワダイレクト ノートPCスタンド 2台収納 クラムシェル 縦置き 幅1.4cm～3.2cmまで調節 200-STN060",
+      "url": "https://www.amazon.co.jp/dp/B097PFNTNZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31G4CM3BSbS._SL500_.jpg",
+      "features": [
+        "ノートパソコンやiPad、タブレットなど、最大2台の機器を立てて収納できるスタンドです。ノートパソコンを外部ディスプレイなどに接続した状態で縦置きすることが可能です。",
+        "ノートパソコンの内蔵ディスプレイを閉じた状態で、外部ディスプレイなどと接続して使うクラムシェルモード時に便利です。",
+        "垂直にノートパソコンを設置することで、作業スペースやデスクスペースを節約できます。",
+        "収納する機器に合わせて設置幅を自由に調整できるので、本体の厚みが32mm以下のノートパソコンやタブレット・小物類が設置できます。",
+        "機器と接する部分のシリコーンゴムシートが機器が滑るのを防ぎ、機器を傷つきから守ります。重厚感のある本体と、底面の滑り止めシリコーンゴムシートでしっかり安定して設置できます。",
+        "■保証期間：初期不良のみ"
+      ],
+      "query": "サンワダイレクト ノートPC 縦置きスタンド",
+      "asin": "B097PFNTNZ"
+    },
+    {
+      "title": "LOE(ロエ) 【日本企画】 ノートパソコン スタンド 縦置き 収納ホルダー 2台対応 幅調節可 木製デザイン アルミ合金 全機種対応 MacBook/Surface/iPad 省スペース PCスタンド (ブラック) 1台",
+      "url": "https://www.amazon.co.jp/dp/B0D97J73ZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41+JmUDOgkL._SL500_.jpg",
+      "features": [
+        "【 縦置き パソコンスタンド 】ブラウンウォルナット材とアルミニウムを使用した 2台 対応 縦型 ノートパソコンスタンド。MacBook Pro、Surface、Galaxy Book、Lenovo、HP、Dell、Chromebook、ThinkPadなど、最大17インチまでのノートパソコンやタブレットに対応。自然な素材とアルミニウムの豊かさや魅力を組み合わせた、視覚的に美しいデザインです。上質な素材を使用し、仕事を快適で楽しいものにすることをサポートします。",
+        "【 調整可能なデュアルスロットデザイン 】2台のノートパソコンを同時に立てて配置できる縦型パソコンスタンド。幅を自由に調整できるので、厚さ最大2.7cmまでのノートパソコンに対応。卓上のスペースを有効活用し、デバイスをすっきりと整理。シンプルで整理された作業環境を整えることで、仕事の効率を向上させ、充実した日常を実現します。",
+        "【 冷却効果とデバイス保護 】縦置きにすることで接地面が少ななり、ノートパソコンクーラーとして放熱効果が期待でき、長時間の使用でも過熱を防ぎます。さらに、ウォルナット材のパネルには傷防止パッドが付いており、アルミニウムパネルにはシリコンパッドが装備されているため、デバイスを傷や損傷からしっかりと守ります。",
+        "【 サステナブルでエコフレンドリー 】リサイクル可能なアルミニウムと端材を使用し、手作業で作られたこの縦置きノートパソコンスタンドは、環境に優しく持続可能な製品。仕事を楽しむだけでなく、地球への配慮も忘れないライフスタイルを提案します。あなたの仕事を快適にし、生活を楽しむための最適な選択です。",
+        "【 安心の返品対応と延長保証 】30日間の返品ポリシーと12ヶ月の保証を提供しています。ノートパソコンスタンドは無垢材で作られているため、木目や色にご満足いただけない場合は、新しいものと交換いたします。あなたの仕事環境をより快適にするための製品だからこそ、満足のいくサポートをお約束します。"
+      ],
+      "query": "HumanCentric ノートPC 縦置きスタンド",
+      "asin": "B0D97J73ZB"
+    },
+    {
+      "title": "Twelve South BookArc for MacBook | Appleノートブックのための省スペース縦置きスタンド スペースグレイ",
+      "url": "https://www.amazon.co.jp/dp/B086RRJ82R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31BaArdwnSL._SL500_.jpg",
+      "features": [
+        "BookArcはMacBookに合わせてデザインされました。なめらかで落ち着いたたたずまいが、省スペースの中にMacBookを引き立てます。",
+        "クラムシェルモードのMacBookにお気に入りのディスプレイとキーボードとマウスをつなげれば、ラグジュアリーなデスクトップができあがります。",
+        "ケーブルキャッチャー構造で周辺機器も扱いやすくなります。BookArcの下にケーブルを通してケーブル抜けを防ぎます。アルミニウムの素材感あるモダンなデザイン。しかもディスプレイのパフォーマンスを高め、MacBookのエアフローも向上します。",
+        "CurveにMacBookをのせれば、デスク周りをより整理してPCを使えます。アルミニウムの素材感あるモダンなデザイン。しかもディスプレイのパフォーマンスを高め、MacBookのエアフローも向上します。",
+        "本製品（2022年8月リリース）には、インサートF,G,Hが同梱されております。インサートF,G,Hの対応機種は、13インチ MacBook Air (A2179, A2337/Retina, 2020)、13インチ MacBook Pro (M2, 2022)、13インチMacBook Pro（2020）、14インチMacBook Pro（M1,2021）、16インチ MacBook Pro (A2141/USB-C, 2019)、16インチMacBook Pro（M1,2021）※本製品をお求めの前に、必ず出品者に対応機種の確認を行ってください。※13インチ、15インチMacBook Air (M2, 2023／M3, 2024)に対応したインサートIは別売りになります。"
+      ],
+      "query": "Twelve South BookArc MacBook",
+      "asin": "B086RRJ82R"
+    }
+  ],
+  "all_candidates": []
+}
