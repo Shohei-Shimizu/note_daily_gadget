@@ -1,0 +1,202 @@
+{
+  "date": "2026-04-04",
+  "title": "【ロジクール徹底比較】MX シリーズ人気ガジェット 10 選",
+  "queries": [
+    "Logicool MX Master 3S",
+    "Logicool MX Anywhere 3S",
+    "Logicool MX Keys S",
+    "Logicool MX Keys Mini",
+    "Logicool MX Mechanical",
+    "Logicool MX Mechanical Mini",
+    "Logicool MX Brio",
+    "Logicool MX Ergo S",
+    "Logicool MX Palm Rest",
+    "Logicool MX Creative Console"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 10,
+  "fetched_count": 10,
+  "dedup_count": 0,
+  "selected_count": 10,
+  "selected_items": [
+    {
+      "title": "【Amazon.co.jp限定】 ロジクール MX MASTER 3S Bluetooth Edition アドバンスド ワイヤレス マウス 静音 MX2300CRd Logi Bolt Bluetooth Unifying非対応 8000dpi 高速スクロールホイール USB-C 充電式 無線 MX2300 グラファイト 国内正規品 ※Amazon.co.jp限定 壁紙ダウンロード付き",
+      "url": "https://www.amazon.co.jp/dp/B0FR8KBS5K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31HmSa8C2wL._SL500_.jpg",
+      "features": [
+        "Bluetooth Edition ／ 超高速スクロールホイールを搭載した人間工学デザインのMXシリーズ高機能ワイヤレスマウス MX MASTER3SのLogi bolt USBレシーバーと充電ケーブルが付属しないBluetooth Editionが登場。*別売りまたはすでにお持ちのLogi Boltレシーバーを使用して接続することはできます。",
+        "型番：MX2300CRd ／ 保証期間1年間のAmazon.co.jp限定モデル ※Amazon.co.jp限定 壁紙ダウンロード付き",
+        "超高速スクロール ／ 1秒間に1,000行のスクロールが可能な超高速スクロールホイールを搭載",
+        "静音クリック ／ 以前のモデル(MX MASETER 3/MX2200s)よりクリック音を約90%カットした静音モデル",
+        "8,000 DPIの精確なトラッキング ／ のガラス面を含むあらゆる面を精確にトラッキングする8,000 DPIのDark Fieldセンサー",
+        "人間工学デザインでストレスフリーな使用感 ／ スイスのLogitech International本社内にある「LOGI エルゴ・ラボ」にて設計・開発された自然な傾斜角とボタン配置により、長時間の使用でも疲労感を軽減します。",
+        "対応OS ／ Windows 10、Windows 11以降、macOS 10.15以降、Linux、ChromeOS、iPadOS 14以降、Android 8.0以降。",
+        "サステナブルな設計 ／ プラスチック部分には再生プラスチックが最低27%含まれています。パッケージにはFSC認証紙を使用し、未塗装プラスチックや分解しやすい設計でリサイクル性も高めています。"
+      ],
+      "query": "Logicool MX Master 3S",
+      "asin": "B0FR8KBS5K"
+    },
+    {
+      "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0C65MQZ65?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/312jQ3H3eRL._SL500_.jpg",
+      "features": [
+        "超高速スクロールホイールを搭載したMXシリーズの持ち運びやすいスタイリッシュな高機能ワイヤレスマウスが静音モデル&8000dpiの高トラッキング精度にパワーアップして登場!",
+        "Logi Options+に新しく搭載したマクロ登録機能「Smart Actions」対応／複雑なマウスやキー操作のショートカットやファンクションをひとつのボタンに割り当てて登録し作業効率を大幅アップ",
+        "1秒間に1000行のスクロールが可能／超高速かつ精確。さらに驚くほど静かなMagSpeed電磁気スクロールホイールを搭載",
+        "あらゆる表面に対応できるダークフィールド8000dpiセンサーを搭載／ガラスなどの表面でも精確にトラッキング",
+        "Bluetoothおよびロジクール独自のLogi Bolt接続に対応／対応OS:（Bluetooth） Windows 10, 11以降、macOS 11以降、Chrome OS、iPad OS 14以降、Android9.0以降 ※Logi Bolt　USBは別売です。"
+      ],
+      "query": "Logicool MX Anywhere 3S",
+      "asin": "B0C65MQZ65"
+    },
+    {
+      "title": "ロジクール MX KEYS S ワイヤレス キーボード KX800sGR Bluetooth Logi Bolt Unifying非対応 Smart Actions 対応 Windows Mac Chrome Android FLOW Easy-Switch 無線 薄型 充電式 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0C65F55K5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Mi3XJWwTL._SL500_.jpg",
+      "features": [
+        "MXシリーズの薄型・高機能ワイヤレスキーボード「MX KEYS」が「MX KEYS S」にアップデートして登場！",
+        "Logi Options+に新しく搭載したマクロ登録機能「Smart Actions」対応／複雑なマウスやキー操作のショートカットやファンクションをひとつのボタンに割り当てて登録し作業効率を大幅アップ",
+        "指先の形状にあった球状にくぼんだパーフェクト・ストロークキー／キーのどこを打ってもすべてのキーストロークが滑らかで精確",
+        "手が近づいた瞬間に点灯するスマートバックライト／変化する照明条件に合わせて自動的に明度を調整し、バッテリー電力を節約するバックライトはLogi Options+でライティングの光量や時間をカスタマイズすることが可能",
+        "対応OS／(Bluetooth) Windows 10, 11以降、macOS 11以降、Chrome OS、Android　9.0以降 (Logi Bolt) Windows 10, 11以降、macOS 10.15以降、Chrome OS ※Logi Bolt USBは本製品に同梱されています"
+      ],
+      "query": "Logicool MX Keys S",
+      "asin": "B0C65F55K5"
+    },
+    {
+      "title": "【Amazon.co.jp限定】ロジクール MX KEYS mini KX700GRd ミニマリスト ワイヤレス イルミネイテッド キーボード グラファイト 充電式 Bluetooth Logi Bolt Unifying非対応 USB-C-A 日本語配列 無線 KX700 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0BWDSC5ZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41p1Ot+OB2L._SL500_.jpg",
+      "features": [
+        "MX KEYS(KX800)のテンキーレスモデル／70%のサイズで省スペース・持ち運びもらくらくのスタイリッシュな高機能キーボード [ Amazon.co.jp限定 壁紙ダウンロード付き ]",
+        "KX700GRd／メーカー保証期間1年間／メーカー保証期間をのぞく、機能やデザインは従来モデルKX700GRと同じです",
+        "指先の形状にあった球状にくぼんだパーフェクト・ストロークキーを採用／キーのどこを打ってもすべてのキーストロークが滑らかで精確",
+        "変化する照明条件に合わせて自動的に明度を調整するバックライトキー、スマートイルミネーションを搭載／バッテリー電力を節約",
+        "対応OS:Windows 10,11以降　macOS 10.15以降　ChromeOS、Android 5.0以降"
+      ],
+      "query": "Logicool MX Keys Mini",
+      "asin": "B0BWDSC5ZB"
+    },
+    {
+      "title": "ロジクール KX850FT MX MECHANICAL ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキー 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+      "url": "https://www.amazon.co.jp/dp/B0B1Q636K7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41N7F4bj0jL._SL500_.jpg",
+      "features": [
+        "独自のロー・プロファイルキーを採用した静かな打鍵感のワイヤレスメカニカルキーボード／茶軸(タクタイル)",
+        "KX850FT／タクタイルスイッチ(茶軸)／確かな感触、精確なフィードバックのタクタイルは他のメカニカルキーボードに比べとても静か",
+        "高さが低い独自のロー・プロファイル・キーを採用／手首をあまり曲げなくて済む／3.2ｍｍの短いキーストロークでタイピングの際の指の負荷が比較的小さい",
+        "スマートライティングを搭載／周囲の環境に合わせて光量が自動で変化／ライティングのエフェクトをカスタマイズ可能",
+        "Bluetooth／Logi boltで接続 ※Unifying非対応"
+      ],
+      "query": "Logicool MX Mechanical",
+      "asin": "B0B1Q636K7"
+    },
+    {
+      "title": "ロジクール KX850CL MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 赤軸 リニア テンキーレス 静かな打鍵感 Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+      "url": "https://www.amazon.co.jp/dp/B0B1Q6H9X5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41a+xCkUz5L._SL500_.jpg",
+      "features": [
+        "独自のロー・プロファイルキーを採用した静かな打鍵感のワイヤレスメカニカルキーボード／テンキーレスモデル／赤軸(リニア)",
+        "KX850CL／リニアスイッチ(赤軸)／とてもスムーズな感触、素早い反応のリニアで流れるようなタイピングを可能に",
+        "高さが低い独自のロー・プロファイル・キーを採用／手首をあまり曲げなくて済む／3.2ｍｍの短いキーストロークでタイピングの際の指の負荷が比較的小さい",
+        "スマートライティングを搭載／周囲の環境に合わせて光量が自動で変化／ライティングのエフェクトをカスタマイズ可能",
+        "Bluetooth／Logi boltで接続 ※Unifying非対応"
+      ],
+      "query": "Logicool MX Mechanical Mini",
+      "asin": "B0B1Q6H9X5"
+    },
+    {
+      "title": "ロジクール ウェブカメラ MX BRIO 700 C1100GR 4K Webカメラ usbカメラ 自動光補正 プライバシーシャッター USB Type-C ノイズ軽減ステレオマイク Sony Starvis センサー搭載 パソコン カメラ マイク PC Windows Mac Chrome C1100 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0CVZW78XW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31MO34WBGhL._SL500_.jpg",
+      "features": [
+        "フラッグシップモデル「MXシリーズ」から初のウェブカメラが登場／4K対応の高画質と高機能の最上位モデル「MX BRIO 700」",
+        "4K対応の高画質と高度なAI技術により鮮明でクリアな映像を実現",
+        "デュアルビームフォーミングマイク搭載でノイズを低減したクリアで明瞭な音質",
+        "ロジクール無料アプリケーション「Logi Options+」「Logicool G HUB」に対応／色味や視野角などを自分好みにカスタマイズ可能",
+        "対応OS:Windows 10 以降、macOS 10.15、ChromeOS、Linux"
+      ],
+      "query": "Logicool MX Brio",
+      "asin": "B0CVZW78XW"
+    },
+    {
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MXTB2d MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品 ※Amazon.co.jp限定 壁紙ダウンロード付き",
+      "url": "https://www.amazon.co.jp/dp/B0D9Y1SNQT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/319RcxooUNL._SL500_.jpg",
+      "features": [
+        "人気の高機能トラックボールマウスMXTB1が静音化＆接続方式をアップデートして登場!",
+        "MXTB2d／保証期間1年間のAmazon.co.jp限定モデル ※Amazon.co.jp限定 壁紙ダウンロード付き",
+        "従来モデルMXTB1と比較しクリック音を80%削減した静音トラックボールマウス",
+        "接続はBluetooth&UnifyingからBluetooth&LogiBoltにアップデート／接続の信頼性と安定性を更に向上 ※Logi Boltレシーバーは本製品に同梱されています。",
+        "2023年5月に「Logi Options+」に追加されたマクロ登録機能「Smart Actions」対応／複雑な操作を必要としていたショートカットやファンクションをひとつのボタンに割り当て",
+        "USB-C充電式／1分間の充電で24時間、フル充電で最長120日間の使用ができ、長時間使用する際もバッテリーを気にすることなくお使いいただけます。※USB-C充電ケーブルは同梱していません。電池寿命は使用状況により異なります。",
+        "トラッキング速度を変更できるプレシジョンモードボタン／ボタンを押すだけでスピードモードとプレシジョンモードを瞬時に切り替え",
+        "ティルト搭載プレシジョンスクロールホイール／水平スクロールとミドルクリック、左右ティルト(横にたおす)が可能",
+        "ロジクール アドバンス オプティカル トラッキングでなめらかで精確なボールコントロール／512dpi-2000dpiに対応",
+        "対応OS:[Bluetooth] Windows 10以降、macOS 11以降、iPadOS 14以降、ChromeOS、Android 9.0以降 [Logi Bolt] Windows 10以降、macOS 11以降、ChromeOS"
+      ],
+      "query": "Logicool MX Ergo S",
+      "asin": "B0D9Y1SNQT"
+    },
+    {
+      "title": "ロジクール パームレスト MX10PR グラファイト キーボード用 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B07XQ3XCXS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/416Lo5S1qWL._SL500_.jpg",
+      "features": [
+        "【長時間の作業を快適に】手首をしっかりサポートするデザインにより、手をリラックスした姿勢に保ち、何時間でも快適に入力作業が可能",
+        "【高品質の素材】柔らかくてサポート力のある低反発フォームは、快適で高い耐久性。さらに、汚れに強く、掃除も簡単",
+        "【スムーズなタイピングをサポート】手触りは滑らかで快適ですが、タイピング時は滑りにくい仕様",
+        "【薄型キーボード用デザイン】MX KEYS(KX800)やCraft(KX1000s)などの薄型キーボードに最適な高さとフォルム",
+        "メーカー保証年数:2年",
+        "梱包内容 パームレスト 取扱説明書、保証規定"
+      ],
+      "query": "Logicool MX Palm Rest",
+      "asin": "B07XQ3XCXS"
+    },
+    {
+      "title": "ロジクール MX クリエイティブ コンソール KXCCGR 左手デバイス キーパッド ダイヤルパッド DaVinci Resolve Adobe Photoshop Illustrator Premiere Pro After Effects Audition Bluetooth Logi Bolt USB Type-C 画像編集 動画編集 画像 動画 編集 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0DGQ3WW4N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31PCS4IXvwL._SL500_.jpg",
+      "features": [
+        "MXシリーズよりクリエイティブ制作の生産性を飛躍的に向上するクリエイティブコンソールが登場！",
+        "プロのクリエイター向けに開発されたクリエイティブキーパッドとクリエイティブダイヤルパッド、独立した2つのデバイスをセットにしたモデル／自分好みにデスクの左右に配置が可能",
+        "9つのディスプレイキーと2つのページング・ボタンが搭載されたキーパッドには最大135の機能を、ダイヤルパッドは滑らかなダイヤルやローラーの感度やボタンに頻繁に使う操作を搭載",
+        "Adobe Affinity Partner : Adobe Affinity Partner としてAdobeと連携することでより充実したエクスペリエンスを実現／Adobeの新規、既存ユーザー問わず使用可能な Adobe「Creative Cloud コンプリートプラン」3ヶ月分の会費 (23,340 円相当)を付帯",
+        "対応アプリケーション : DaVinci Resolve, Adobe Photoshop, Illustrator, Premiere Pro, AfterEffects, Lightroom, Audition, Final Cut Pro, Figma, Affinity Photo、他 (発売以降も他アプリケーションのプラグイン対応予定)",
+        "接続方式／MXクリエイティブ ダイヤルパッド：BluetoothまたはLogi Boltレシーバー(別売)による無線接続／MXクリエイティブ キーパッド：USB Type-Cによる有線接続",
+        "無料アプリケーション「Logi Options+」を使用すればアプリケーションごとにプロファイルを作成したり保存したりすることが可能",
+        "対応OS:Windows 10 以降、macOS 13 以降"
+      ],
+      "query": "Logicool MX Creative Console",
+      "asin": "B0DGQ3WW4N"
+    }
+  ],
+  "all_candidates": []
+}

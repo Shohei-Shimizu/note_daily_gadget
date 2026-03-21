@@ -1,0 +1,140 @@
+{
+  "date": "2026-04-01",
+  "title": "入社祝いに贈る。一生モノの「スマートペン・デジタル文具」 7 選",
+  "queries": [
+    "Neo smartpen M1+",
+    "LAMY safari ncode smartpen",
+    "Livescribe Symphony Smartpen",
+    "Kindle Scribe",
+    "Rocketbook Core",
+    "キングジム フリーノ FRN10",
+    "コクヨ しゅくだいやる気ペン"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "Neo smartpen〈書いてデジタル〉ネオスマートペン M1＋ エムワンプラス スマホと即連動 [Type-Cリニューアルver.][ブラック][単品/ノート別] AIツールと手書き連携 スマート文具 学生 社会人 ビジネス",
+      "url": "https://www.amazon.co.jp/dp/B0GLFZFQ97?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/211LkzuXCeL._SL500_.jpg",
+      "features": [
+        "メディアでの紹介多数。アナログとデジタルのいいとこどり、スマートペンのフルスペックモデル。Type-C充電タイプにリニューアルされ、利便性が高まりました。",
+        "【Neo smartpenとは？】紙に筆記した内容をそのままデジタル化するペンです。紙とデジタルを繋ぐ専門企業NeoLABのスマートペン源泉技術は、老舗文具メーカーLAMY（ラミー）やMoleskine（モレスキン）のスマートペンにも採用されています。「より便利で楽しいデジタルライフを実現するガジェット」として二子玉川蔦屋家電にセレクト頂いた商品です",
+        "【Neo Studioアプリを活用】デジタル化したあとはアプリの便利機能で様々に活用！ ●簡単接続：スマートペンの電源Onで即接続 ●編集：部分的にペンの色や太さの変更、切り取り貼り付けもOK ●動画で共有：書いた出順をGIF/MP4で共有 ●検索：手書き内容をキーワードで検索可能、ページ単位でタグ付けして検索もできる ●簡単シェア：PNG/PDF など様々な形式でシェア。生成AIツールへの送信も簡単 ●「書きながら録音」を再生：スマートペンで書きながら同時に音声を録音。筆記内容をチャプターにしながら再生できます ●テキスト変換：ワンタッチでデジタルテキストに変換 ●自動同期：モバイルやパソコンの筆記データが自動で同期",
+        "【こんな方におすすめ】◆ビジネス向け：会議のメモや議事録作成、アイディアのスケッチに。シェア機能でChatGPTに即送って要約するなど使い方は無限大 ◆学習・教育：授業やゼミのノート、試験の暗記など、覚えるときは紙に手書き！後で見直すのはデジタルでOK ◆スキルアップ：資格取得やリスキリングに。復習や整理が効率化 ◆クリエイティブワーク：デザイナー、イラストレーターの方にも、Web会議をしながらリアルタイムに手描きスケッチを投影することも可能 ◆趣味・日記：趣味の記録、ジムの運動メモ、推し活など日々書き留めたいことはこれまで通りアナログで書く。全てアーカイブされるので何年前の記録も簡単に振り返れます",
+        "【仕様・スペック】●寸法：149.6mm（ペンキャップを除く） × 10.4～10.9mm ●重さ：17.6g（ペンキャップを除く） ●バッテリー：使用時間17時間、Type-C充電 ●ペンで書き始めると自動で電源ON ●オフライン筆記：約30ページ ●カレンダー連動対応（N plannerシリーズのカレンダー連動が可能） ●ペン芯：スタンダードD1タイプ（汎用タイプ）"
+      ],
+      "query": "Neo smartpen M1+",
+      "asin": "B0GLFZFQ97"
+    },
+    {
+      "title": "【LAMY × Neo smartpen】〈書いてデジタル〉LAMY safari all black ncode ラミー サファリ オールブラック エヌコード スマートペン スマホと即連動 [単品/ノート別](NeoLAB) 電子ペン",
+      "url": "https://www.amazon.co.jp/dp/B09G6CW53M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31GEZCFVgxL._SL500_.jpg",
+      "features": [
+        "ドイツのクラフトマンシップとデジタルの融合。世界中で愛されるロングセラーモデルLAMY safariより、その美しさを兼ね備えたままスマート文具として誕生。",
+        "【Neo smartpenとは？】ネオスマートペンとは紙に筆記した内容をそのままデジタル化するペンです。紙とデジタルを繋ぐ専門企業NeoLABのスマートペン源泉技術は、老舗文具メーカーLAMY（ラミー）やMoleskine（モレスキン）のスマートペンにも採用されています。【Nノートを選ぶ】商品名の下の「Neo smartpenのストアを表示」「ストアにアクセス」からスマートペンと一緒に使う自分に合うNノートを見つけてください。",
+        "【Neo Studioアプリを活用】デジタル化したあとはアプリの便利機能で様々に活用！ ●簡単接続：スマートペンの電源Onで即接続 ●編集：部分的にペンの色や太さの変更、切り取り貼り付けもOK ●動画で共有：書いた出順をGIF/MP4で共有 ●検索：手書き内容をキーワードで検索可能、ページ単位でタグ付けして検索もできる ●簡単シェア：PNG/PDF など様々な形式でシェア。生成AIツールへの送信も簡単 ●「書きながら録音」を再生：スマートペンで書きながら同時に音声を録音。筆記内容をチャプターにしながら再生できます ●テキスト変換：ワンタッチでデジタルテキストに変換 ●自動同期：モバイルやパソコンの筆記データが自動で同期",
+        "【こんな方におすすめ】◆ビジネス向け：会議のメモや議事録作成、アイディアのスケッチに。シェア機能でChatGPTに即送って要約するなど使い方は無限大 ◆学習・教育：授業やゼミのノート、試験の暗記など、覚えるときは紙に手書き！後で見直すのはデジタルでOK ◆スキルアップ：資格取得やリスキリングに。復習や整理が効率化 ◆クリエイティブワーク：デザイナー、イラストレーターの方にも、Web会議をしながらリアルタイムに手描きスケッチを投影することも可能 ◆趣味・日記：趣味の記録、ジムの運動メモ、推し活など日々書き留めたいことはこれまで通りアナログで書く。全てアーカイブされるので何年前の記録も簡単に振り返れます",
+        "【仕様・スペック】●寸法(キャップ除く）：137mm × 13.9mm ●重さ(キャップ除く）：18.6g ●バッテリー：使用時間11時間、MicroUSB充電 ●オフライン筆記：約30ページ ●カレンダー連動対応（N plannerシリーズのカレンダー連動が可能） ●ボールペン芯：スタンダードD1タイプ（汎用タイプ）"
+      ],
+      "query": "LAMY safari ncode smartpen",
+      "asin": "B09G6CW53M"
+    },
+    {
+      "title": "Livescribe 2 GB Echo Smartpen - APX-00008",
+      "url": "https://www.amazon.co.jp/dp/B00524DLZ0?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31-LKbDV8aL._SL500_.jpg",
+      "features": [
+        "Record everything you write and hear so you'll never miss a word",
+        "Replay your meetings or lectures simply by tapping on your notes",
+        "Saves notes and audio recordings to your computer",
+        "Search for words within your notes",
+        "Send notes and audio from your paper to destinations like Facebook, Evernote, and Microsoft OneNote"
+      ],
+      "query": "Livescribe Symphony Smartpen",
+      "asin": "B00524DLZ0"
+    },
+    {
+      "title": "Kindle Scribe Notebook Design - 10.2インチディスプレイ、64GBストレージ、ノート機能搭載、プレミアムペン付き、メタリックジェード (2024年発売)",
+      "url": "https://www.amazon.co.jp/dp/B0CZ9SX1GW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41nl1n17hWL._SL500_.jpg",
+      "features": [
+        "【読書とノートを両立】Kindleの読書とノート機能がKindle Scribeひとつに。新しくホワイトベゼルのNotebook Designで登場。",
+        "【Kindle本に直接手書きで】Active Canvasで文中に直接手書きのメモを。※一部の電子書籍のみ対応(縦書き及びマンガなど固定レイアウトの電子書籍には非対応)",
+        "【ノート機能搭載】自由に書き込めるノートは白紙やリスト、カレンダーなどのテンプレートから選べます。",
+        "【10.2インチディスプレイ】光の反射を抑えたディスプレイ(解像度300ppi)なら、明るい日差しの中でも快適に読み書きができます。",
+        "【読書の時間を贅沢に】Eメールやソーシャルメディアなどの通知に気を取られることなく、本に集中できます。",
+        "【専用プレミアムペン付き】セットアップやペアリング、充電も不要。消しゴム機能の他、カスタマイズ可能なショートカットボタンも搭載。",
+        "【Kindle Unlimited】会員登録(有料)すれば、500万冊以上の本・マンガ・雑誌・洋書が読み放題。新しいお気に入りがきっと見つかります。"
+      ],
+      "query": "Kindle Scribe",
+      "asin": "B0CZ9SX1GW"
+    },
+    {
+      "title": "Rocketbook 再利用可能デジタルノートブック - スマートメモ帳 A5 オレンジ ワイヤー綴じノート To Doリストパッド ドット紙 フリクション消せるペンとワイプ オフィスガジェット Rocketbookアプリ付き 紙の無駄を減らす",
+      "url": "https://www.amazon.co.jp/dp/B07ZHZFZG8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Ykhz37gjL._SL500_.jpg",
+      "features": [
+        "[PEN→PAPER→DIGITALをシームレスに接続] タブレットのデジタル接続で、ペンと紙の書き味の時代を超えた感覚を体験してください。",
+        "[驚くべき生産性] Rocketbook Coreで手書きをデジタルテキストに変換する魔法を解き放ちます。 統合されたスマート機能と印象的なRocketbook Appは、書き込みを簡単に保存、検索、整理します - 再入力の手間を省きます。",
+        "[再利用可能-水を加えるだけ] Rocketbook Coreで無駄な使い捨て紙を捨てます。 メモをスキャンしてクラウドに保存し、付属の布でページをきれいに拭き取り、何度も再利用できます。 1コア=100冊以上のノート。 環境に優しく効率的。",
+        "[すべての人へのギフト] - Rocketbook Coreの汎用性は、インスピレーションを得たときにアイデアを捉えるのに最適なギフトです。 コンパクトで軽量、学生、クリエイティブ、あらゆるタイプのプロフェッショナルに理想的なノートブックギフトです。",
+        "[必要なものすべて] Rocketbook Core特許取得済みのノートブック、6インチ x 8.8インチの消せるノート、36ページのドットページ、パイロットペン、マイクロファイバークリーニングクロス、クラウド共有テクノロジーを備えたRocketbookアプリが含まれています。 全16色展開。"
+      ],
+      "query": "Rocketbook Core",
+      "asin": "B07ZHZFZG8"
+    },
+    {
+      "title": "キングジム(Kingjim) デジタルノ-ト フリ-ノ ベージュ FRN10ヘ-",
+      "url": "https://www.amazon.co.jp/dp/B08CV4GTSB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41fq9epseCL._SL500_.jpg",
+      "features": [
+        "本体色:マットベージュ",
+        "画面:6.8インチ(103.68(W)×138.24(H)mm)/電子ペーパーディスプレイ(16諧調グレースケール)",
+        "画面解像度:1,440×1,080ドット(265dpi)",
+        "タッチパネル:電磁誘導方式+静電容量方式",
+        "フロントライト:あり(明るさ/色味調整可)"
+      ],
+      "query": "キングジム フリーノ FRN10",
+      "asin": "B08CV4GTSB"
+    },
+    {
+      "title": "コクヨ(KOKUYO) しゅくだいやる気ペン【iOS・Android両対応】 (パープル（NST-YRK2V）)",
+      "url": "https://www.amazon.co.jp/dp/B0G136CMXM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41pBY9-TiqL._SL500_.jpg",
+      "features": [
+        "iOS 11以上 Android 7.0以上に対応"
+      ],
+      "query": "コクヨ しゅくだいやる気ペン",
+      "asin": "B0G136CMXM"
+    }
+  ],
+  "all_candidates": []
+}

@@ -1,0 +1,2357 @@
+{
+  "version": "2.9",
+  "children": [
+    {
+      "type": "frame",
+      "id": "apr01F",
+      "x": 0,
+      "y": 0,
+      "name": "2026-04-01_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "apr01h",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-01 入社祝いに贈る。一生モノの「スマートペン・デジタル文具」 7選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr01d1",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "apr01tf",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "apr01img",
+              "x": 0,
+              "y": 0,
+              "fill": "#E8E8E8",
+              "width": 1200,
+              "height": 628
+            },
+            {
+              "type": "rectangle",
+              "id": "Mi60l",
+              "x": -88,
+              "y": -92,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0401.png",
+                "mode": "fill"
+              },
+              "width": 1376,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "apr01lb",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr01d2",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "apr01pt",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "apr01s1",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr01s1t",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: スマートペンとギフトボックス",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr01s1p",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic lifestyle shot of a premium smart pen in an elegant gift box on a clean white desk, next to a handwritten congratulatory card and cherry blossom petals. Soft natural light from the left. Background shows a bright, modern office entrance beautifully blurred. Warm spring atmosphere, shallow depth of field.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr01s1j",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 高級スマートペンがエレガントなギフトボックスに入り、清潔な白いデスクの上に置かれている。手書きのお祝いカードと桜の花びらが添えられたフォトリアルなライフスタイル写真。左から柔らかな自然光。背景には明るいモダンなオフィスエントランスが美しくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr01s1f",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 入社祝いにふさわしい高級感のあるスマートペン",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr01s2",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr01s2t",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: デジタル文具セット",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr01s2p",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A flat lay of digital stationery items — a smart pen, a digital notebook, a stylus, and a compact scanner — arranged neatly on a light wood desk with a small potted plant. Top-down view with even, warm lighting. Clean, minimalist composition with subtle spring colors. High resolution, editorial style.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr01s2j",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: スマートペン、デジタルノート、スタイラス、コンパクトスキャナーなどのデジタル文具が明るい木目のデスクにきれいに並べられたフラットレイ。小さな鉢植えも添えて。俯瞰アングルで均一な暖かい照明。ミニマルな構図に春らしい淡い色彩。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr01s2f",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: デジタル文具のフラットレイで新生活感を演出",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr01s3",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr01s3t",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: 新入社員のデスクで使うスマートペン",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr01s3p",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A realistic lifestyle image of a young professional's clean desk with a smart pen resting on a fresh notebook, next to a laptop and a takeout coffee cup. Morning light streaming through large office windows. Background shows an open-plan office with colleagues blurred in the distance. Fresh, optimistic spring morning feel.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr01s3j",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 新入社員の清潔なデスクにスマートペンが新しいノートの上に置かれ、ノートPCとテイクアウトのコーヒーカップの横にあるリアルなライフスタイル画像。大きなオフィスの窓から朝の光が差し込む。背景にはオープンオフィスの同僚たちが遠くにぼかされている。爽やかで前向きな春の朝の雰囲気。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr01s3f",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 新社会人のデスクに馴染むスマートペンの日常",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "apr02F",
+      "x": 1400,
+      "y": 0,
+      "name": "2026-04-02_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "apr02h",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-02 メモを即デジタル化。OCRと録音に対応する「スキャンペン・ペン型レコーダー」 6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr02d1",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "apr02tf",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "apr02img",
+              "x": 0,
+              "y": 0,
+              "fill": "#E8E8E8",
+              "width": 1200,
+              "height": 628
+            },
+            {
+              "type": "rectangle",
+              "id": "JqevY",
+              "x": -88,
+              "y": -70,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0402.png",
+                "mode": "fill"
+              },
+              "width": 1376,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "apr02lb",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr02d2",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "apr02pt",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "apr02s1",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr02s1t",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: スキャンペンで教科書をなぞる",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr02s1p",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic close-up of a hand holding a sleek scan pen gliding over printed text in an open textbook on a wooden desk. A tablet next to it displays the scanned text in real-time OCR. Warm desk lamp lighting from the right. Background shows study materials and a coffee cup softly blurred. Sharp focus on the pen tip touching the page.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr02s1j",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 洗練されたスキャンペンを持つ手が木目のデスク上の開いた教科書の活字をなぞっているフォトリアルなクローズアップ。横のタブレットにはリアルタイムOCRでスキャンされたテキストが表示されている。右からの暖かいデスクランプの光。背景には学習資料とコーヒーカップが柔らかくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr02s1f",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: スキャンペンでテキストを即座にデジタル化する瞬間",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr02s2",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr02s2t",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: ペン型レコーダーと会議メモ",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr02s2p",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A realistic lifestyle shot of a metallic pen-shaped voice recorder placed upright in a pen holder on a clean white meeting room table, next to a spiral notebook with handwritten meeting notes and a glass of water. Bright fluorescent office lighting from above. Background shows a whiteboard with diagrams, softly out of focus. Professional and functional mood.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr02s2j",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: メタリックなペン型ボイスレコーダーが清潔な白い会議室テーブルのペン立てに立てて置かれ、手書きの議事メモが書かれたスパイラルノートとグラスの水の横にあるリアルなライフスタイル写真。上からの明るいオフィス照明。背景にはダイアグラムが描かれたホワイトボードが柔らかくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr02s2f",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 会議中のメモと録音を同時にこなすペン型レコーダー",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr02s3",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr02s3t",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: デスク上のスキャンペンとデバイス全景",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr02s3p",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A top-down lifestyle image of a scan pen and a pen-shaped recorder lying side by side on an open notebook, surrounded by a smartphone, wireless earbuds, and a laptop on a natural wood desk. Soft overhead daylight from a skylight. Clean, organized workspace aesthetic. The devices are the focal point with everything else slightly blurred.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr02s3j",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: スキャンペンとペン型レコーダーが開いたノートの上に並べて置かれ、スマートフォン、ワイヤレスイヤホン、ノートPCに囲まれた天然木デスクの俯瞰ライフスタイル画像。天窓からの柔らかな頭上の自然光。清潔で整理されたワークスペースの美学。デバイスが主役で他はわずかにぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr02s3f",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: デジタル化ツールが揃ったミニマルなデスク全景",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "apr03F",
+      "x": 2800,
+      "y": 0,
+      "name": "2026-04-03_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "apr03h",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-03 【SwitchBot徹底比較】家のスイッチを自動化する人気商品 10選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr03d1",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "apr03tf",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "apr03img",
+              "x": 0,
+              "y": 0,
+              "fill": "#E8E8E8",
+              "width": 1200,
+              "height": 628
+            },
+            {
+              "type": "rectangle",
+              "id": "8sqGF",
+              "x": -104,
+              "y": -70,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0403.png",
+                "mode": "fill"
+              },
+              "width": 1408,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "apr03lb",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr03d2",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "apr03pt",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "apr03s1",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr03s1t",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: SwitchBotボットが壁スイッチを押す",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr03s1p",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic close-up of a small white SwitchBot device attached to a beige wall light switch, with its mechanical arm about to press the toggle. A smartphone in the foreground shows the SwitchBot app with an on/off toggle. Warm evening living room lighting. Background shows a cozy modern living room with a sofa and floor lamp, softly blurred. Clean, smart home aesthetic.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr03s1j",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: ベージュの壁の照明スイッチに取り付けられた小さな白いSwitchBotデバイスのフォトリアルなクローズアップ。メカニカルアームがトグルを押そうとしている。手前のスマートフォンにはSwitchBotアプリのオン/オフ切替が表示。暖かい夕方のリビング照明。背景にはソファとフロアランプのある居心地のよいモダンなリビングが柔らかくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr03s1f",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: SwitchBotがスイッチを自動操作する瞬間",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr03s2",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr03s2t",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: SwitchBotハブとデバイス集合",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr03s2p",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A lifestyle flat lay of multiple SwitchBot devices — Hub Mini, Bot, Curtain motor, smart plug, and thermometer — arranged neatly on a white marble surface. Each device is labeled with a small tag. Overhead soft daylight. Clean, catalog-style composition with consistent spacing. White and minimalist aesthetic.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr03s2j",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 複数のSwitchBotデバイス（Hub Mini、Bot、カーテンモーター、スマートプラグ、温湿度計）が白い大理石の表面にきれいに並べられたライフスタイルフラットレイ。各デバイスに小さなタグが付いている。頭上からの柔らかな自然光。均等な間隔のカタログスタイルの構図。白くミニマルな美学。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr03s2f",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: SwitchBotエコシステムの全体像を俯瞰",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr03s3",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr03s3t",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: スマートホーム化されたリビング",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr03s3p",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A wide-angle lifestyle shot of a modern Japanese apartment living room where SwitchBot devices are subtly integrated — a curtain motor on the rail, a bot on the wall switch, and a Hub Mini on the TV shelf. Evening blue-hour light through the window with warm interior lighting. The room looks lived-in but organized. Cozy smart home atmosphere.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr03s3j",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: SwitchBotデバイスがさりげなく統合されたモダンな日本のマンションのリビングの広角ライフスタイル写真。レールにカーテンモーター、壁スイッチにBot、テレビ棚にHub Mini。窓からのブルーアワーの夕光と暖かい室内照明。生活感がありつつ整理された部屋。居心地のよいスマートホームの雰囲気。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr03s3f",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: SwitchBotで自動化された暮らしのリビング全景",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "apr04F",
+      "x": 4200,
+      "y": 0,
+      "name": "2026-04-04_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "apr04h",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-04 【ロジクール徹底比較】MX シリーズ人気ガジェット 10選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr04d1",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "apr04tf",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "apr04img",
+              "x": 0,
+              "y": 0,
+              "fill": "#E8E8E8",
+              "width": 1200,
+              "height": 628
+            },
+            {
+              "type": "rectangle",
+              "id": "fiJsM",
+              "x": -104,
+              "y": -70,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0404.png",
+                "mode": "fill"
+              },
+              "width": 1408,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "apr04lb",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr04d2",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "apr04pt",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "apr04s1",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr04s1t",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: MX Master 3Sマウスのクローズアップ",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr04s1p",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic close-up of a Logitech MX Master 3S mouse in graphite gray on a dark leather desk mat, next to a MacBook Pro and a cup of black coffee. Dramatic side lighting from the left highlighting the mouse's ergonomic curves. Background shows a dark, sophisticated home office with a monitor displaying code, softly blurred. Premium, professional aesthetic.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr04s1j",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: グラファイトグレーのロジクールMX Master 3Sマウスがダークレザーのデスクマットの上に置かれ、MacBook Proとブラックコーヒーのカップの横にあるフォトリアルなクローズアップ。左からのドラマチックなサイドライトがマウスのエルゴノミクスな曲線を強調。背景にはコードが表示されたモニターのあるダークで洗練されたホームオフィスが柔らかくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr04s1f",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: MX Master 3Sの洗練されたデザインと質感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr04s2",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr04s2t",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: MXシリーズ全製品の集合写真",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr04s2p",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A lifestyle flat lay of the complete Logitech MX lineup — MX Master 3S mouse, MX Keys keyboard, MX Mechanical keyboard, MX Anywhere 3S, and MX Ergo trackball — arranged in a grid pattern on a matte gray desk surface. Overhead even lighting. Each device clearly visible with consistent spacing. Catalog-style, premium product photography with a tech-magazine aesthetic.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr04s2j",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: ロジクールMXシリーズの全ラインナップ（MX Master 3Sマウス、MX Keysキーボード、MX Mechanicalキーボード、MX Anywhere 3S、MX Ergoトラックボール）がマットグレーのデスク面にグリッドパターンで並べられたライフスタイルフラットレイ。頭上からの均一な照明。各デバイスが均等な間隔で明確に見える。テックマガジンの美学を持つカタログスタイルのプレミアムなプロダクトフォトグラフィー。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr04s2f",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: MXシリーズの豊富なラインナップを一覧",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr04s3",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr04s3t",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: MXデバイスのあるワークステーション",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr04s3p",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A wide-angle lifestyle shot of a professional workstation with a Logitech MX Keys keyboard and MX Master 3S mouse on a walnut desk, connected to a dual-monitor setup. A small desk plant and a wireless charging pad nearby. Warm afternoon sunlight from the right. The setup looks productive and premium. Background shows a minimalist room with shelves, softly blurred.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr04s3j",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: ウォールナットのデスクにロジクールMX KeysキーボードとMX Master 3Sマウスが置かれ、デュアルモニターに接続されたプロフェッショナルなワークステーションの広角ライフスタイル写真。小さなデスクプラントとワイヤレス充電パッドが近くに。右からの暖かい午後の日差し。生産的でプレミアムなセットアップ。背景にはシェルフのあるミニマルな部屋が柔らかくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr04s3f",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: MXシリーズで統一されたプロフェッショナルなデスク環境",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "apr05F",
+      "x": 5600,
+      "y": 0,
+      "name": "2026-04-05_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "apr05h",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-05 海外会議も怖くない。リアルタイムで話せる「AI翻訳機」 6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr05d1",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "apr05tf",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "apr05img",
+              "x": 0,
+              "y": 0,
+              "fill": "#E8E8E8",
+              "width": 1200,
+              "height": 628
+            },
+            {
+              "type": "rectangle",
+              "id": "fkTJc",
+              "x": -104,
+              "y": -70,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0405.png",
+                "mode": "fill"
+              },
+              "width": 1408,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "apr05lb",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr05d2",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "apr05pt",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "apr05s1",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr05s1t",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: AI翻訳機を手に持つ会議シーン",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr05s1p",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic lifestyle shot of a compact white AI translator device held in a hand across a conference table, with a laptop showing a video call with international participants on screen. Modern glass-walled meeting room with warm overhead lighting. Background shows city skyline through floor-to-ceiling windows, softly blurred. Professional, global business atmosphere.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr05s1j",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: コンパクトな白いAI翻訳機を会議テーブル越しに手に持ち、ノートPCには海外の参加者とのビデオ通話が映っているフォトリアルなライフスタイル写真。暖かい天井照明のモダンなガラス壁の会議室。背景には床から天井までの窓越しに都市のスカイラインが柔らかくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr05s1f",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 海外会議で活躍するAI翻訳機の使用シーン",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr05s2",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr05s2t",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: AI翻訳機のクローズアップ",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr05s2p",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A realistic close-up of a sleek portable AI translator device lying on a dark leather passport holder, next to a boarding pass and wireless earbuds on a clean white surface. The device screen shows translated text in Japanese and English side by side. Soft natural light from above. Travel-ready, sophisticated mood with shallow depth of field.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr05s2j",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 洗練されたポータブルAI翻訳機がダークレザーのパスポートケースの上に置かれ、搭乗券とワイヤレスイヤホンの横にあるリアルなクローズアップ。デバイスの画面には日本語と英語の翻訳テキストが並んで表示。上からの柔らかな自然光。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr05s2f",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 出張・旅行シーンに馴染むAI翻訳機のデザイン",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr05s3",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr05s3t",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: カフェでAI翻訳機を使う",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr05s3p",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A lifestyle image of a person at a bright café table using a small AI translator device while looking at a foreign-language menu. A latte and a smartphone are on the table. Warm afternoon sunlight streams through the café window. Background shows a European-style café interior beautifully blurred. Casual, adventurous travel mood.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr05s3j",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 明るいカフェのテーブルで外国語のメニューを見ながら小さなAI翻訳機を使う人のライフスタイル画像。テーブルにはラテとスマートフォン。カフェの窓から暖かい午後の日差し。背景にはヨーロッパ風のカフェのインテリアが美しくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr05s3f",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 海外カフェで気軽に使えるAI翻訳機の日常",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "apr06F",
+      "x": 7000,
+      "y": 0,
+      "name": "2026-04-06_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "apr06h",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-06 アナログ手帳をクラウドへ。手書きを共有する「スマートペン・デジタルノート」 6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr06d1",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "apr06tf",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "apr06img",
+              "x": 0,
+              "y": 0,
+              "fill": "#E8E8E8",
+              "width": 1200,
+              "height": 628
+            },
+            {
+              "type": "rectangle",
+              "id": "mNYxM",
+              "x": -88,
+              "y": -70,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0406.png",
+                "mode": "fill"
+              },
+              "width": 1376,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "apr06lb",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr06d2",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "apr06pt",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "apr06s1",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr06s1t",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: スマートペンでノートに書き込む手元",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr06s1p",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic close-up of a hand writing with a smart pen on a dot-grid notebook page, with handwritten notes and diagrams. A tablet beside it mirrors the handwriting in real-time via a companion app. Warm desk lamp lighting from the left. Background shows a cozy study with bookshelves softly blurred. Focus on the pen tip and the ink flowing onto paper.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr06s1j",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: ドットグリッドのノートにスマートペンで書き込む手のフォトリアルなクローズアップ。手書きのメモと図が描かれている。横のタブレットがコンパニオンアプリでリアルタイムに手書きをミラーリング。左からの暖かいデスクランプの光。背景には本棚のある居心地のよい書斎が柔らかくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr06s1f",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 手書きがリアルタイムでデジタル化される瞬間",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr06s2",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr06s2t",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: デジタルノートとアナログ手帳の並置",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr06s2p",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A lifestyle flat lay of a digital notebook (e-ink tablet) placed next to an open leather-bound analog planner on a light wood desk. A smart pen rests between them. Scattered sticky notes and a small succulent plant add color. Overhead soft daylight. The composition emphasizes the bridge between analog and digital. Clean, editorial style.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr06s2j",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 電子インクタブレットのデジタルノートと開いた革製のアナログ手帳が明るい木目のデスクに並べて置かれたライフスタイルフラットレイ。間にスマートペンが置かれている。散りばめられた付箋と小さな多肉植物が彩りを添える。頭上からの柔らかな自然光。アナログとデジタルの架け橋を強調した構図。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr06s2f",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: アナログとデジタルの共存を象徴するデスク",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr06s3",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr06s3t",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: クラウド同期されたノートをPCで確認",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr06s3p",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A realistic lifestyle image of a laptop screen displaying cloud-synced handwritten notes in a notebook app, with the original smart notebook open beside it on a wooden desk. A coffee cup and reading glasses add warmth. Soft morning light from a window on the right. Background shows a bright, airy home office.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr06s3j",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: ノートアプリでクラウド同期された手書きメモを表示するノートPCの画面と、その横に開かれたスマートノートが木製デスクの上にあるリアルなライフスタイル画像。コーヒーカップと老眼鏡が温かみを添える。右の窓からの柔らかな朝の光。背景には明るく開放的なホームオフィス。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr06s3f",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 手書きノートがクラウドでPCと同期される体験",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "apr07F",
+      "x": 8400,
+      "y": 0,
+      "name": "2026-04-07_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "apr07h",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-07 防災の備えに。キャンプでも役立つ「小型ポータブル電源」 6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr07d1",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "apr07tf",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "apr07img",
+              "x": 0,
+              "y": 0,
+              "fill": "#E8E8E8",
+              "width": 1200,
+              "height": 628
+            },
+            {
+              "type": "rectangle",
+              "id": "gRq0Y",
+              "x": -104,
+              "y": -111,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0407.png",
+                "mode": "fill"
+              },
+              "width": 1408,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "apr07lb",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr07d2",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "apr07pt",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "apr07s1",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr07s1t",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: キャンプサイトでポータブル電源",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr07s1p",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic lifestyle shot of a compact portable power station on a wooden camping table, powering a string of LED lights and charging a smartphone. A tent and folding chairs visible in the background under a canopy of spring cherry blossoms. Golden hour evening light. Modern, rugged design. Outdoor adventure atmosphere with warm tones.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr07s1j",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: コンパクトなポータブル電源が木製のキャンプテーブルの上に置かれ、LEDストリングライトに給電しスマートフォンを充電しているフォトリアルなライフスタイル写真。背景には春の桜の下にテントと折りたたみ椅子。ゴールデンアワーの夕暮れの光。モダンでタフなデザイン。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr07s1f",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 春キャンプで活躍するポータブル電源",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr07s2",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr07s2t",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: 防災備蓄棚のポータブル電源",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr07s2p",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A realistic lifestyle image of a small portable power station stored on a home emergency preparedness shelf alongside water bottles, a flashlight, a first aid kit, and canned food. Clean white shelving unit in a bright hallway. Even overhead lighting. The power station stands out with its orange accent color. Organized, reassuring preparedness aesthetic.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr07s2j",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 小型ポータブル電源が家庭の防災備蓄棚に水のペットボトル、懐中電灯、救急キット、缶詰と一緒に収納されているリアルなライフスタイル画像。明るい廊下の白い棚ユニット。均一な頭上照明。オレンジのアクセントカラーの電源が際立つ。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr07s2f",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 防災備蓄の一部として自然に収まるポータブル電源",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr07s3",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr07s3t",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: リビングで日常使いするポータブル電源",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr07s3p",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A lifestyle image of a compact portable power station on a living room side table, powering a small fan and a table lamp during a power outage simulation. Candles provide ambient background light. The room is a modern Japanese apartment with curtains drawn. The power station's LED display glows softly. Cozy yet practical atmosphere, warm color palette.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr07s3j",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: コンパクトなポータブル電源がリビングのサイドテーブルに置かれ、停電を想定して小型扇風機とテーブルランプに給電しているライフスタイル画像。キャンドルが背景のアンビエントライトを提供。カーテンが引かれたモダンな日本のマンション。電源のLEDディスプレイが柔らかく光る。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr07s3f",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 停電時にリビングで頼れるポータブル電源",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "apr08F",
+      "x": 9800,
+      "y": 0,
+      "name": "2026-04-08_サムネイル",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "apr08h",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-08 アイデアをすぐ見える化。共有にも使いやすい「電子メモパッド・デジタルノート」 5選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr08d1",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "apr08tf",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "apr08img",
+              "x": 0,
+              "y": 0,
+              "fill": "#E8E8E8",
+              "width": 1200,
+              "height": 628
+            },
+            {
+              "type": "rectangle",
+              "id": "xRKcR",
+              "x": -104,
+              "y": -70,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0408.png",
+                "mode": "fill"
+              },
+              "width": 1408,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "apr08lb",
+          "name": "label",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "apr08d2",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "apr08pt",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "apr08s1",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr08s1t",
+              "name": "s1title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 1: 電子メモパッドにアイデアを描く",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr08s1p",
+              "name": "s1prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A photorealistic close-up of a hand sketching a mind map on a large electronic memo pad with a stylus, placed on a white desk next to a laptop and a cup of green tea. The e-ink screen shows colorful diagrams and arrows. Soft side lighting from the left. Background shows a bright, modern co-working space softly blurred. Creative brainstorming mood.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr08s1j",
+              "name": "s1ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 大きな電子メモパッドにスタイラスでマインドマップを描く手のフォトリアルなクローズアップ。白いデスクの上にノートPCと緑茶のカップの横に置かれている。電子インク画面にはカラフルな図と矢印が表示。左からの柔らかなサイドライト。背景には明るいモダンなコワーキングスペースが柔らかくぼかされている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr08s1f",
+              "name": "s1focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 電子メモパッドでアイデアを即座に見える化",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr08s2",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr08s2t",
+              "name": "s2title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 2: 会議でデジタルノートを共有",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr08s2p",
+              "name": "s2prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A lifestyle image of a digital notebook propped up on a meeting table, displaying hand-drawn wireframes being shared to a large wall-mounted TV screen via wireless casting. Two colleagues' hands are visible pointing at the screen. Bright office fluorescent lighting. Background shows a clean conference room with a whiteboard. Collaborative, productive atmosphere.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr08s2j",
+              "name": "s2ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: デジタルノートが会議テーブルに立てて置かれ、手描きのワイヤーフレームがワイヤレスキャストで壁掛けの大型TVに共有されているライフスタイル画像。2人の同僚の手が画面を指している。明るいオフィスの蛍光灯照明。背景にはホワイトボードのある清潔な会議室。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr08s2f",
+              "name": "s2focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: 手描きアイデアをその場で大画面に共有",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "apr08s3",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "apr08s3t",
+              "name": "s3title",
+              "fill": "#333333",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Scene 3: デスク上の電子メモパッド全景",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "apr08s3p",
+              "name": "s3prompt",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Prompt: A wide-angle lifestyle shot of a minimalist desk setup with a thin electronic memo pad as the centerpiece, flanked by a mechanical keyboard and a monitor showing a note-taking app synced with the pad. A small desk organizer with pens and a plant nearby. Warm afternoon light from a window behind. Clean, productive workspace aesthetic with natural wood tones.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr08s3j",
+              "name": "s3ja",
+              "fill": "#555555",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Japanese: 薄型の電子メモパッドを中心に、メカニカルキーボードとパッドと同期したノートアプリを表示するモニターに挟まれたミニマルなデスクセットアップの広角ライフスタイル写真。ペンと植物が入った小さなデスクオーガナイザーが近くに。背後の窓からの暖かい午後の光。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "apr08s3f",
+              "name": "s3focus",
+              "fill": "#0066CC",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Focus: デスクに馴染む電子メモパッドのある作業環境",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
