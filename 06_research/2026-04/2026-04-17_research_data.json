@@ -1,0 +1,176 @@
+{
+  "date": "2026-04-17",
+  "title": "デスクの配線を隠す。床をスッキリさせる「整理ボックス」 7 選",
+  "queries": [
+    {
+      "query": "サンワダイレクト ケーブルボックス",
+      "include": [
+        "ケーブルボックス"
+      ]
+    },
+    {
+      "query": "ELECOM ケーブル収納ボックス",
+      "include": [
+        "ボックス"
+      ]
+    },
+    {
+      "query": "山崎実業 ケーブルボックス",
+      "include": [
+        "ボックス"
+      ]
+    },
+    {
+      "query": "ナカバヤシ ケーブルボックス",
+      "include": [
+        "ボックス"
+      ]
+    },
+    {
+      "query": "無印良品 ケーブル収納",
+      "include": [
+        "収納"
+      ]
+    },
+    {
+      "query": "IKEA ケーブルボックス",
+      "include": [
+        "ボックス"
+      ]
+    },
+    {
+      "query": "バッファロー ケーブルボックス",
+      "include": [
+        "ケーブルボックス"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "サンワダイレクト ケーブルボックス switch/switch2収納 幅40×奥行15×高さ15cm 難燃ABS樹脂素材 配線隠し コンセントボックス 配線ボックス ブラック 200-CB100BK",
+      "url": "https://www.amazon.co.jp/dp/B0GSXMVSFT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31A-TniPwEL._SL500_.jpg",
+      "features": [
+        "電源タップ や ケーブル をきれいに収納できる コンセントボックス です。",
+        "Switch、Switch2の本体と電源も収納可能です。",
+        "ボックス内部のメンテナンスがしやすい開閉式蓋仕様です。",
+        "左右、上部には配線口があり、 電源回り をスッキリ配線できます。",
+        "熱に強い素材と熱が籠もりにくい構造で、火災を引き起こす心配がありません。※ケーブルは小さく束ねないでください。発熱して危険です。",
+        "底面は放熱の為にスリット構造になっています。完成品でお届けするため、到着後すぐに使用できます。"
+      ],
+      "query": "サンワダイレクト ケーブルボックス",
+      "asin": "B0GSXMVSFT"
+    },
+    {
+      "title": "エレコム ケーブル収納ボックス ケーブルボックス ケーブル収納 6個口電源タップ収納 ブラック EKC-BOX001BK",
+      "url": "https://www.amazon.co.jp/dp/B005B7I7K2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31dBvx9DoGL._SL500_.jpg",
+      "features": [
+        "複数のケーブルやコードで雑然としがちな電源タップまわりを、スッキリ快適になるケーブルボックスです。",
+        "6個口の電源タップを収納可能です。",
+        "天面のフタを外して電源タップを収納するだけで使用可能です。",
+        "左右どちらからでも電源ケーブルを出せるように、側面にスリットを施しています。",
+        "ボックス天面には、頻繁に利用する充電ケーブルなどの使用に便利なケーブルホールを2箇所設置しています。"
+      ],
+      "query": "ELECOM ケーブル収納ボックス",
+      "asin": "B005B7I7K2"
+    },
+    {
+      "title": "山崎実業(Yamazaki) ケーブルボックス ウェブ L ブラウン 約W40×D15.5×H14.5cm 電源タップ ケーブル 収納 2708",
+      "url": "https://www.amazon.co.jp/dp/B014BMPXSQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21PEef12G8L._SL500_.jpg",
+      "features": [
+        "見苦しいケーブルタップ周りをスッキリ収納できる",
+        "本体重量:約0.95kg",
+        "サイズ:約W40XD15.5XH14.5cm",
+        "収納可能サイズ:7個口タップまで",
+        "くるくる巻いて、自由に長さを調整",
+        "収納可能サイズ:7個口タップまで ※目安ですので、お手持ちのタップのサイズをお確かめください。",
+        "ケーブルタップ周りをボックスの中に収納することで、ホコリがたまりにくく電源火災の予防になります。"
+      ],
+      "query": "山崎実業 ケーブルボックス",
+      "asin": "B014BMPXSQ"
+    },
+    {
+      "title": "ナカバヤシ ケーブルボックス 電源タップ ケーブル ホワイト Z0765",
+      "url": "https://www.amazon.co.jp/dp/B0F5W53ZRN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21QFhdh-lcL._SL500_.jpg",
+      "features": [
+        "煩雑になりがちなコード類もスッキリ",
+        "複数面の開口部",
+        "ワイド仕様",
+        "高さ内寸約116mmのハイト仕様で大半のアダプターが収納可能"
+      ],
+      "query": "ナカバヤシ ケーブルボックス",
+      "asin": "B0F5W53ZRN"
+    },
+    {
+      "title": "無印良品 スチールタップ収納箱 フラップ式 ホワイトグレー 幅32×奥行10×高さ14cm 44596654 ケーブルボックス 収納ボックス 配線隠し",
+      "url": "https://www.amazon.co.jp/dp/B0BL9SWMCR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21I4S1F-MML._SL500_.jpg",
+      "features": [
+        "サイズ:幅32×奥行10×高さ14cm",
+        "カラー:ホワイトグレー",
+        "素材:本体:スチール・滑り止めパーツ:シリコーンゴム",
+        "原産国・地域:中国",
+        "ブランド:無印良品"
+      ],
+      "query": "無印良品 ケーブル収納",
+      "asin": "B0BL9SWMCR"
+    },
+    {
+      "title": "ＩＫＥＡ/イケア SATTING/セッティング：ケーブルマネジメントボックス ふた付き ホワイト（305.346.28）",
+      "url": "https://www.amazon.co.jp/dp/B0BB72MQ89?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21Iq6DjPtQL._SL500_.jpg",
+      "features": [
+        "■商品の大きさ 奥行き: 14 cm 高さ: 13 cm 幅: 32 cm"
+      ],
+      "query": "IKEA ケーブルボックス",
+      "asin": "B0BB72MQ89"
+    },
+    {
+      "title": "バッファロー BUFFALO ケーブルボックス 電源タップ&ケーブル収容 Lサイズ ホワイト BSTB01LWH",
+      "url": "https://www.amazon.co.jp/dp/B00462PYE0?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/313F4x4aFML._SL500_.jpg",
+      "features": [
+        "本体寸法:W407xD157xH138mm",
+        "内側寸法:W394xD140xH115mm",
+        "温度上昇を防ぐ構造",
+        "3方向にケーブルを伸ばせるケーブルルート",
+        "ボックス天面には充電に便利なケーブルホールを装備",
+        "難燃性樹脂使用"
+      ],
+      "query": "バッファロー ケーブルボックス",
+      "asin": "B00462PYE0"
+    }
+  ],
+  "all_candidates": []
+}

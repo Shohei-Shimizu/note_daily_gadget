@@ -3846,6 +3846,1560 @@
           ]
         }
       ]
+    },
+    {
+      "type": "frame",
+      "id": "Du2SS",
+      "x": 19600,
+      "y": 0,
+      "name": "outer15",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "PP9lN",
+          "name": "header15",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-15 | 集中力を維持。眠気を防ぐ「二酸化炭素モニター」 6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "GZ5EX",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "X3bkQ",
+          "name": "thumbnail_frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "cW5Ht",
+              "x": -26,
+              "y": -35,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0416.png",
+                "mode": "fill"
+              },
+              "width": 1314,
+              "height": 717
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "bKOrm",
+          "name": "label15",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "fKl6Z",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "A7x3S",
+          "name": "promptTitle",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "duOZl",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "5dsy9",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "fmtB1",
+              "fill": "#555555",
+              "content": "Prompt: A sleek CO2 monitor on a minimalist desk displaying green numbers, warm white desk light, light gray background. Clean modern product photography, shallow depth of field.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "u9SaK",
+              "fill": "#555555",
+              "content": "Japanese: ミニマルなデスクの上に置かれたCO2モニター。緑色のLEDが数値を表示。暖かい白いデスクライト、明るいグレー背景。浅い被写界深度。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "bXvHh",
+              "fill": "#0066CC",
+              "content": "Focus: CO2モニター本体 + 換気アラート表示 + 清潔感のあるデスク環境",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "XhSal",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "mPaJw",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "fr6Vp",
+              "fill": "#555555",
+              "content": "Prompt: Office desk with SwitchBot CO2 sensor showing yellow caution LED, person typing on laptop blurred in background. Cozy warm ambient light, shallow depth of field.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "pra0M",
+              "fill": "#555555",
+              "content": "Japanese: オフィスのデスク上にSwitchBot CO2センサー。イエローの警告LEDが点灯し、奥でラップトップを操作する人物がぼける。暖かい間接照明。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "iOYIQ",
+              "fill": "#0066CC",
+              "content": "Focus: 警告LEDの点灯 + 在宅ワーク環境 + 換気のタイミングを示す状態",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "Acpnp",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "I2XDK",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "kdVtL",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of multiple CO2 monitors including SwitchBot, INKBIRD, and compact desktop models arranged on a light wooden surface. Soft natural overhead light, top-down photography.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "TEhob",
+              "fill": "#555555",
+              "content": "Japanese: 木目調のテーブルにSwitchBot、INKBIRD等のCO2モニター6台を並べたフラットレイ。柔らかい自然光、真上からの俯瞰撮影。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "2Cmuo",
+              "fill": "#0066CC",
+              "content": "Focus: 6台のCO2モニター一覧 + 「集中力を維持」テーマ + スペック比較のイメージ",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "cuFhb",
+      "x": 21000,
+      "y": 0,
+      "name": "outer16",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "32CYV",
+          "name": "h16",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-16 | ビデオ会議を鮮明に。顔を自動追尾する「AI カメラ」 6 選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "TWu7z",
+          "name": "dv16a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "8Pi6F",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "weBqB",
+              "x": -136,
+              "y": -47,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0417.png",
+                "mode": "fill"
+              },
+              "width": 1377,
+              "height": 768
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "x9I2u",
+          "name": "lb16",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "5Oz3j",
+          "name": "dv16b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "tbq59",
+          "name": "pt16",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "i4z11",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "0hBTD",
+              "name": "s16at",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "Ur1Xb",
+              "name": "s16ap",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of six AI auto-tracking webcams on a clean white desk, minimal product photography, 8K resolution, soft studio lighting",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "3fLgs",
+              "name": "s16aj",
+              "fill": "#555555",
+              "content": "Japanese: 白いデスクに6台のAIウェブカメラを並べたフラットレイ、ミニマルな商品写真、柔らかいスタジオ照明",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "GHm76",
+              "name": "s16af",
+              "fill": "#0066CC",
+              "content": "Focus: OBSBOT / Insta360 比較 + AI自動追尾 + デスク環境",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "xvl0z",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "CtFpC",
+              "name": "s16bt",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "BmeGQ",
+              "name": "s16bp",
+              "fill": "#555555",
+              "content": "Prompt: Person on a video call, compact AI webcam mounted on monitor tracking their face automatically, modern home office, natural daylight streaming in",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "tnk6F",
+              "name": "s16bj",
+              "fill": "#555555",
+              "content": "Japanese: AIウェブカメラが自動で顔追尾しながらビデオ会議中の人物、モダンなホームオフィス、自然光",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "vv6tE",
+              "name": "s16bf",
+              "fill": "#0066CC",
+              "content": "Focus: 顔自動追尾 + テレワーク環境 + 4K映像品質",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "rlr3l",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "d6Kno",
+              "name": "s16ct",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "1B1XQ",
+              "name": "s16cp",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a compact AI gimbal webcam clipped to a laptop screen, pure white background, premium technical product photography",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "m2xD2",
+              "name": "s16cj",
+              "fill": "#555555",
+              "content": "Japanese: ノートPCのスクリーンに取り付けたコンパクトなAIジンバルウェブカメラのクローズアップ、白背景",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "mPuXs",
+              "name": "s16cf",
+              "fill": "#0066CC",
+              "content": "Focus: コンパクトジンバル設計 + 高解像度レンズ + デスク固定",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "kFhvH",
+      "x": 22400,
+      "y": 0,
+      "name": "outer17",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "oevn0",
+          "name": "h17",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-17 | デスクの配線を隠す。床をスッキリさせる「整理ボックス」 7 選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "7IF5T",
+          "name": "dv17a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "cDD6l",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "mkRpR",
+              "x": -42,
+              "y": -36.181818181818244,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./041702.png",
+                "mode": "fill"
+              },
+              "width": 1320,
+              "height": 720
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "IfWxo",
+          "name": "lb17",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "HPpiU",
+          "name": "dv17b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "WDNqZ",
+          "name": "pt17",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "7jAFa",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "UD4d4",
+              "name": "s17at",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "UMZev",
+              "name": "s17ap",
+              "fill": "#555555",
+              "content": "Prompt: Minimalist desk setup with a sleek cable management box hiding power strips and tangled wires, clean white and wood tones, soft natural window light",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "JOecf",
+              "name": "s17aj",
+              "fill": "#555555",
+              "content": "Japanese: スッキリとしたケーブル整理ボックスが電源タップとケーブルを隠したミニマルなデスク環境、白と木目トーン、ナチュラルライト",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "MU9Th",
+              "name": "s17af",
+              "fill": "#0066CC",
+              "content": "Focus: 配線隠し + ミニマルデスク + スッキリ感の演出",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "bojp4",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "fQSW9",
+              "name": "s17bt",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "BaXpW",
+              "name": "s17bp",
+              "fill": "#555555",
+              "content": "Prompt: Open cable management box revealing neatly organized power strip and bundled cables inside, top-down view on white surface, clean studio lighting",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "kv7uI",
+              "name": "s17bj",
+              "fill": "#555555",
+              "content": "Japanese: 蓋を開けた整理ボックスの中に電源タップとまとめられたケーブルが見える、白い床面への俯瞰撮影、スタジオ照明",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Q9Nin",
+              "name": "s17bf",
+              "fill": "#0066CC",
+              "content": "Focus: ボックス内部 + 整理された状態 + 収納力の訴求",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "VKiUI",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "hAVW0",
+              "name": "s17ct",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "HZLeR",
+              "name": "s17cp",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of seven cable management boxes in various sizes and colors arranged on a light wooden desk, product comparison photography, overhead shot",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "l0bWn",
+              "name": "s17cj",
+              "fill": "#555555",
+              "content": "Japanese: 木目調デスクに7種のケーブル整理ボックスを並べたフラットレイ、製品比較写真、真上からの撮影",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "bmMoB",
+              "name": "s17cf",
+              "fill": "#0066CC",
+              "content": "Focus: 7製品ラインナップ + サイズ比較 + デスク収納の提案",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "a6q0l",
+      "x": 23800,
+      "y": 0,
+      "name": "outer18",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "4yFFK",
+          "name": "h18",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-18 | GW 旅行を快適に。機内で役立つ「ノイキャンヘッドホン」 6 選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "SRSDW",
+          "name": "dv18a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "3mEl1",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "WYXtd",
+              "x": -32,
+              "y": -38.744186046511686,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0418.png",
+                "mode": "fill"
+              },
+              "width": 1288,
+              "height": 719
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "MWsEJ",
+          "name": "lb18",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "dLc8B",
+          "name": "dv18b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "fnxJl",
+          "name": "pt18",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "fSVnF",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "KG9dD",
+              "name": "s18at",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "SwvSy",
+              "name": "s18ap",
+              "fill": "#555555",
+              "content": "Prompt: Premium over-ear noise-canceling headphones resting on an airplane seat armrest, clouds visible through oval window, warm ambient cabin lighting",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Xqiye",
+              "name": "s18aj",
+              "fill": "#555555",
+              "content": "Japanese: 機内の窓際の肘掛けに置かれたプレミアムノイキャンヘッドホン、楕円窓から雲が見える、暖かい機内照明",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "CHziT",
+              "name": "s18af",
+              "fill": "#0066CC",
+              "content": "Focus: 機内旅行 + ノイズキャンセリング + プレミアム感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "kwd8g",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "pguoP",
+              "name": "s18bt",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "P1teo",
+              "name": "s18bp",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of six premium over-ear headphones including Sony, Bose, Sennheiser on grey fabric, product comparison, soft studio lighting",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "hW0bI",
+              "name": "s18bj",
+              "fill": "#555555",
+              "content": "Japanese: グレーのファブリックにSony、Bose、Sennheiserなど6台のプレミアムヘッドホンを並べたフラットレイ、比較写真",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "CKBor",
+              "name": "s18bf",
+              "fill": "#0066CC",
+              "content": "Focus: 6モデル比較 + Sony / Bose / Sennheiser + プレミアム音質",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "N7bmx",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "2gVNm",
+              "name": "s18ct",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "W3CnF",
+              "name": "s18cp",
+              "fill": "#555555",
+              "content": "Prompt: Person wearing premium black headphones at an airport departure lounge, blurred travelers in background, focused calm expression, travel photography",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "rNLIq",
+              "name": "s18cj",
+              "fill": "#555555",
+              "content": "Japanese: 空港の出発ロビーでプレミアムヘッドホンをつけた人物、奥に旅行客がぼける、落ち着いた表情、旅行写真",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "LLQ8w",
+              "name": "s18cf",
+              "fill": "#0066CC",
+              "content": "Focus: 旅行者の静寂 + 空港環境 + 装着快適性の表現",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "QcLsf",
+      "x": 25200,
+      "y": 0,
+      "name": "outer19",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "AGCFz",
+          "name": "h19",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-19 | 集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "hxHjV",
+          "name": "dv19a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "ELT7S",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "kJ7Bw",
+              "x": -33,
+              "y": -31.272727272727252,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0419.png",
+                "mode": "fill"
+              },
+              "width": 1300,
+              "height": 709
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "Zb1bL",
+          "name": "lb19",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "C8IHB",
+          "name": "dv19b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "kh3BK",
+          "name": "pt19",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "kK7QW",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "XTAWq",
+              "name": "s19at",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "RNJxB",
+              "name": "s19ap",
+              "fill": "#555555",
+              "content": "Prompt: Time Timer with a shrinking red disc on a wooden desk beside an open notebook and pencil, warm study atmosphere, shallow depth of field",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "szLT3",
+              "name": "s19aj",
+              "fill": "#555555",
+              "content": "Japanese: 木製デスクにTime Timerの赤いディスクが縮まっている横にノートと鉛筆、暖かい学習シーン、浅い被写界深度",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "NLUc0",
+              "name": "s19af",
+              "fill": "#0066CC",
+              "content": "Focus: Time Timer + 視覚的な残り時間 + 集中学習環境",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "F8q9Q",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "Lon70",
+              "name": "s19bt",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "cD9tY",
+              "name": "s19bp",
+              "fill": "#555555",
+              "content": "Prompt: Dark grey hexagonal TickTime timer standing upright on a minimalist white desk next to a laptop, pomodoro technique setup, clean overhead lighting",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "yt5l8",
+              "name": "s19bj",
+              "fill": "#555555",
+              "content": "Japanese: ミニマルな白いデスクにダークグレーの六角形TickTimeタイマーとラップトップ、ポモドーロ設定、クリーンな照明",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "xCpxa",
+              "name": "s19bf",
+              "fill": "#0066CC",
+              "content": "Focus: TickTime六角形デザイン + ポモドーロ + デスクミニマル配置",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "KaKkU",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "bwUj4",
+              "name": "s19ct",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "CaO3O",
+              "name": "s19cp",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of six physical timers including round, hexagonal and cube shapes on a clean white surface, product comparison, soft diffused studio light",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "3Mijx",
+              "name": "s19cj",
+              "fill": "#555555",
+              "content": "Japanese: 白い背景に円形・六角形・キューブ型など6種の物理タイマーを並べたフラットレイ、製品比較、柔らかいスタジオ照明",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "1vWJc",
+              "name": "s19cf",
+              "fill": "#0066CC",
+              "content": "Focus: 6製品形状比較 + Time Timer / TickTime / SEIKO + 学習管理",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "Sh7lc",
+      "x": 26600,
+      "y": 0,
+      "name": "outer20",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "ZlRXF",
+          "name": "h20",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-20 | 鍵のストレスをゼロに。指紋で開く「最新スマートロック」 6 選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "VSD73",
+          "name": "dv20a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "ebu0M",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "TUd1F",
+              "x": -23,
+              "y": -43,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0420.png",
+                "mode": "fill"
+              },
+              "width": 1279,
+              "height": 714
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "Zq4a7",
+          "name": "lb20",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "kwZnJ",
+          "name": "dv20b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "lXNbO",
+          "name": "pt20",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "3jkhb",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "YE0SA",
+              "name": "s20at",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "xQa12",
+              "name": "s20ap",
+              "fill": "#555555",
+              "content": "Prompt: Person touching fingerprint sensor on a sleek smart lock mounted on a modern front door, evening ambient light, close-up product action shot",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "MpBjC",
+              "name": "s20aj",
+              "fill": "#555555",
+              "content": "Japanese: モダンな玄関ドアに取り付けたスマートロックの指紋センサーに触れる人物、夕方の間接照明、アクションクローズアップ",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "hV5PM",
+              "name": "s20af",
+              "fill": "#0066CC",
+              "content": "Focus: 指紋認証の瞬間 + 玄関ドア設置 + 鍵なし生活",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "6thij",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "B0c3f",
+              "name": "s20bt",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "1PLrT",
+              "name": "s20bp",
+              "fill": "#555555",
+              "content": "Prompt: SwitchBot smart lock and fingerprint pad set mounted on a white door, aluminum finish, soft studio lighting, clean product shot showing installation",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "VDU52",
+              "name": "s20bj",
+              "fill": "#555555",
+              "content": "Japanese: 白いドアに設置されたSwitchBotスマートロックと指紋認証パッドセット、アルミニウム仕上げ、スタジオ照明、設置状態を示すクリーンな商品写真",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "M40tk",
+              "name": "s20bf",
+              "fill": "#0066CC",
+              "content": "Focus: SwitchBot Ultra設置状態 + アルミデザイン + 後付け感ゼロ",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "lroQc",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "weiBm",
+              "name": "s20ct",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "Caa5y",
+              "name": "s20cp",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of six smart locks from SwitchBot, SESAME, Aqara, and Yale on white background, product lineup comparison, clean overhead studio photography",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "LWZkR",
+              "name": "s20cj",
+              "fill": "#555555",
+              "content": "Japanese: 白い背景にSwitchBot、SESAME、Aqara、Yaleなど6種のスマートロックを並べたフラットレイ、製品ラインナップ比較、俯瞰撮影",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "kqkEE",
+              "name": "s20cf",
+              "fill": "#0066CC",
+              "content": "Focus: 6製品ラインナップ + 各社比較 + 賃貸・持ち家向けの選択肢",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
