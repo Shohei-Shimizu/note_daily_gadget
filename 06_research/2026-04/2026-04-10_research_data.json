@@ -1,0 +1,158 @@
+{
+  "date": "2026-04-10",
+  "title": "充電ケーブルを廃止。MagSafe で整う「ワイヤレスデスク」 7 選",
+  "queries": [
+    "Anker MagGo charging station",
+    "Belkin 3 in 1 MagSafe",
+    {
+      "query": "Twelve South HiRise 3 Deluxe",
+      "include": [
+        "充電"
+      ]
+    },
+    "ESR Qi2 3 in 1 charging station",
+    {
+      "query": "UGREEN Qi2 2 in 1 ワイヤレス充電器",
+      "include": [
+        "充電"
+      ]
+    },
+    "MOFT Smart Desk Mat MagSafe",
+    "CIO NovaWave 3Way"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "Anker MagGo Wireless Charging Station (3-in-1 Pad) Qi2対応 マグネット式 3-in-1 ワイヤレス充電ステーション/ワイヤレス出力/Apple Watchホルダー付 MagSafe対応 iPhone 16 /15 / 14 / 13 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CP7QRWWC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31IXSzILyiL._SL500_.jpg",
+      "features": [
+        "ピタッと充電、絡まずスッキリ：マグネット式ワイヤレス充電対応のパッド型ワイヤレス充電ステーション。Qi2対応のiPhoneに、従来のAnker MagGoシリーズの2倍の最大15W出力でワイヤレス充電が可能です。",
+        "Wireless PowerIQ搭載：Anker独自技術のWireless PowerIQを搭載し、充電時間の短縮と放熱性の向上を実現しました。",
+        "3台まとめてこれ1つ：これ1台で、Qi2対応のiPhone / ワイヤレスイヤホン / Apple Watchの3台を同時に充電可能です。",
+        "選べる2種類の使い方：充電パッド部分が折りたたみ式で収納可能なため、スタンドとしてもパッドとしてもご利用できます。",
+        "Apple Watchに急速充電が可能 最新のApple Watch Series 9を30分で約50%まで充電可能 充電忘れに気付いても、外出前の短時間で急速充電ができます",
+        "マグネット式ワイヤレス充電でも安全性を実現：従来の多重保護システムに加え、 Active Shield 2.0により、さらなる安全性を実現。常に温度を計測し制御するため、お使いの機器を24時間守ります。",
+        "パッケージ内容：Anker MagGo Wireless Charging Station (3-in-1 Pad)、充電器、USB-C＆USB-C ケーブル (1.5m) 、取扱説明書、カスタマーサポート"
+      ],
+      "query": "Anker MagGo charging station",
+      "asin": "B0CP7QRWWC"
+    },
+    {
+      "title": "【Amazon.co.jp限定】Belkin Qi2 25W Ultra Charge ワイヤレス充電 3-in-1 スクエアモデル Qi2公式認証/MagSafe対応 急速充電 iPhone17,16～12 スタンバイモード Google pixel 10 PRO XL 折りたたみ可能 持ち運び最適 ホワイト WIZ036dqWH-A ※Amazon.co.jp限定 壁紙ダウンロード付き",
+      "url": "https://www.amazon.co.jp/dp/B0FK4L4ZRV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Rl3c+KJWL._SL500_.jpg",
+      "features": [
+        "※Amazon限定の壁紙ダウンロード付きの商品です。【New Qi2 25W 充電器】Qi2 25W 対応デバイスに高速で効率的な充電を提供します。",
+        "【コンバーチブルデザイン】スタンドモードとパッドモードに簡単に切り替え可能、フレキシブルに使用できます。コンパクトに折りたたみもできるデザインで、持ち運びも簡単に。",
+        "【3-in-1充電】iPhone、Airpods、Applewatch対応を同時充電できるので、ケーブルが散らかる心配なし。",
+        "【プレミアム素材でApple製品と調和するデザイン】 プレミアムな材質を採用。洗練されたデザインがAppleデバイスとの一体感を提供します。",
+        "【Applewatch対応急速充電】Applewatch対応を充電し忘れた際も、急速充電ですぐにでかけられます"
+      ],
+      "query": "Belkin 3 in 1 MagSafe",
+      "asin": "B0FK4L4ZRV"
+    },
+    {
+      "title": "Twelve South HiRise 3 Deluxe | iPhone、AirPods、Apple Watch専用、コンパクト、ラグジュアリーなMagSafe搭載3-IN-1ワイヤレス充電スタンド - 専用電源アダプタ、電源コード（1.5m）、国際規格電源プラグアダプタ",
+      "url": "https://www.amazon.co.jp/dp/B0CV4WNKHT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41lKR8WkxoL._SL500_.jpg",
+      "features": [
+        "シンプルで美しい3-IN-1ワイヤレス充電スタンド：HiRise 3 Deluxeは、Apple純正の同じ仕様の充電器を搭載した3-IN-1ワイヤレス充電スタンドです。柔らかいヴィーガンレザーで覆われたMagSafe充電器と台座、そして黒のアルミニウムで構成され、ミニマムなデザインを追求、一本の電源コードのみで3台のデバイスを充電できます。",
+        "スタンバイモードをお好みの角度で：HiRise 3 Deluxeは、MagSafe充電器の角度を最大35度まで調節することができ、iPhoneスタンバイモードの表示や通知をユーザーのお好みの角度に設定することができます。iPhoneは、縦にも横にもスタンドに設置可能です。スクリーンを自分に最適な角度に傾けて、スタンバイモードで予定チェックや通知などを確認しながらヴィーガンレザーで覆われたApple純正の15WMagSafe充電器で素早く充電できます。",
+        "Apple Watch充電中もスペースを節約：HiRise 3 Deluxeなら、Ultraを含むすべてのApple Watchを、どのバンド付けていながら充電可能。この折りたたみ式の純正Apple Watch急速充電器を搭載したラグジュアリーなスタンドは、傾けてナイトスタンドモードにしたり、フラットに倒して格納し、よりミニマムな外観にすることもできます。",
+        "2台同時にスマートフォンを充電できる：3つ目のワイヤレス充電スポットは、通常はAirPods用の充電器ですが、別のスマートフォンのワイヤレス充電に使用することもできます。友人やお客様を家に招いた時は、彼らのスマートフォンを台座の後方部に置いて、自分のiPhoneと同時にQi認証の急速充電を行うこともできます。",
+        "省スペース設計：HiRise 3 Deluxe1台で、ナイトテーブルや作業デスクにぶら下がる複数のケーブルやコード、作業デスクのスペースをとる充電パッドなどが不要になります。HiRise 3 Deluxeの台座は、約8.5cm×約15.9cmと小さく、1本のケーブルで3箇所とも充電します。電源アダプタ、1.5mの電源コードと国際規格電源プラグアダプタ（イギリス、香港、シンガポール用、欧州用、オーストラリア、ニュージーランド用、北米、日本用）が付属しています。"
+      ],
+      "query": "Twelve South HiRise 3 Deluxe",
+      "asin": "B0CV4WNKHT"
+    },
+    {
+      "title": "ESR 3-in-1充電器Qi2.2対応25W MagSafe充電器（CryoBoost搭載） 折りたたみ式スマホ冷却ワイヤレス充電器 iPhone 17e/17/16（iOS 26対応・50Wアダプター付属） AirPods Apple Watch用 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0FHQDKX7G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/415M+mRxF+L._SL500_.jpg",
+      "features": [
+        "【超コンパクトな折りたたみデザイン】3-in-1充電器は、折りたたむとわずか110×62×15.6mmのサイズになり、持ち運びに便利です。コンパクトな設計により、このマルチデバイス対応のトラベル充電器はカバンに簡単に収納でき、どこでも手軽に充電できます。",
+        "【25Wマグネット式充電】このiPhone充電ステーションは、認定済みのQi2.2およびCryoBoost冷却テクノロジーを搭載し、最大25Wの超高速ワイヤレス充電を実現します。有線充電に匹敵するスピードで、iPhone 17または17 Proをわずか30分で60％まで充電可能です。Qi2.2およびMagSafeに対応しているため、マグネットで簡単に「ピタッと吸着させて充電」が可能。コードレスの快適さを味わえます。",
+        "【CryoBoost冷却による迅速で安全な充電】MagSafe充電器に搭載された独自冷却ファン「CryoBoost」技術は、充電中にスマートフォンの温度を積極的に抑制します。iPhone 17 Pro Maxを充電した場合、ファン冷却のない通常のワイヤレス充電器と比較して、温度は平均で約3.6°C、最大で6.0°Cも低く保たれます。この冷却効果により、充電速度が向上し、デバイスの安全性が高まり、バッテリー寿命の延長にもつながります。",
+        "【MFW認証済み充電器】Apple MFW認証を取得した第2世代のポータブルウォッチ充電器より高速で安定した充電を実現します。Watch充電器は旧型の脱着式から一変し、一体型へ改良され、紛失する可能性がなくなりました。Apple Watch Series 10をわずか30分で0％から80％まで充電でき、どこでも手軽に使用可能です。また、iOSアップデートに確実に対応しており、アップデート毎に使えなくなる心配がありません。",
+        "【強力磁力と静音モード搭載】1,200gの磁力を備えたMagSafe充電スタンドは、横向き・縦向きを問わずデバイスを確実に固定でき、横向きにすることでiPhoneスタンバイモードで保持するナイトスタンド時計としても機能します。CryoBoost冷却ファン機能をボタン操作でオン/オフに切り替えることで、夜間の眠りを妨げない静音モードで使用できます。",
+        "【iPhone対応機種】Qi2.2 25W：iPhone 17 Pro Max／17 Pro／17／17e / 16 Pro Max／16 Plus、iOS 26以降を搭載したデバイス。Qi2.2 20W：iPhone Air／16 Pro／16。Qi2 15W：iPhone 15〜12シリーズ。 【AirPods /Watch対応機種】アクティブノイズキャンセリング対応のAirPods 4／AirPods 3／AirPods Pro 2／AirPods Pro、すべてのApple WatchシリーズおよびApple Watch Ultra 2／Ultra。 【非対応機種】Motorola、OnePlus、Google製スマートフォンには非対応です。 【付属アダプター】この3in1充電器にはMacBook Airの充電も可能な50Wアダプターが付属しています。"
+      ],
+      "query": "ESR Qi2 3 in 1 charging station",
+      "asin": "B0FHQDKX7G"
+    },
+    {
+      "title": "UGREEN Zapix Qi2 15W ワイヤレス充電器 2 in 1 Magsafe対応 イヤホン iPhone充電器 90°調整可能 磁気 無線 ワイヤレス急速 iPhone 17/16/15/14/13/12シリーズ & AirPods対応 LED表示 USB-Cケーブル付き",
+      "url": "https://www.amazon.co.jp/dp/B0FQBYRSP1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31786VWJvaL._SL500_.jpg",
+      "features": [
+        "【Qi2認証の15W急速充電】このMagSafe対応充電器は、iPhone 17 Proをわずか30分で37%まで充電できます。注：スマートフォンとイヤホンを最適な速度で充電するには、27W以上のPD充電器と60WのCCケーブルをご使用ください。",
+        "【2台のデバイスを同時に充電】2 in 1ワイヤレス充電器はiPhone 12～17シリーズとAirPods（第2世代/第3世代/第4世代）を同時に充電できます。充電ケーブルを別途用意する必要がなく、すっきりと整理整頓できます。整理整頓されたデスクやベッドサイドテーブルに最適です。",
+        "【強力なN48H磁石】UGREEN Zapix 15W 無線充電器は高強度のN48H磁石は安定して固定されます。シリコンの表面は携帯電話によって傷つけられません。",
+        "【調整可能なキックスタンド】15°から90°まで調整可能な充電スタンドは、日常使用における安定性を確保し、長寿命化を図るため、1000回以上のテストに合格しています。横向きで動画を視聴したり、縦向きで友達とチャットしたりと、iPhoneを思い通りに操作できます。",
+        "【追加のUSB-C 出力】製品の下部側面に追加の USB-C 出力があり、スマートウォッチや時々充電する必要があるその他の小型デバイスなど、他のデバイスを接続できます。",
+        "【安全の多重保護】過熱保護、異物検出 (FOD)、短絡保護、過電流保護を備えており、充電の安全性を確保し、より安全な充電体験を提供します。",
+        "【幅広い互換性】UGREEN Magsafe ワイヤレス充電器は、iPhone 17/16/15/14/13シリーズ、AirPodsを同時に充電できます。本製品には、iPhone 12-17シリーズ用の最大15W充電のワイヤレス充電スタンドと、AirPods用ワイヤレス充電パッドを備えております。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN Qi2 2 in 1 ワイヤレス充電器",
+      "asin": "B0FQBYRSP1"
+    },
+    {
+      "title": "MOFT スマートデスクマット モフト Smart Desk Mat ノートパソコンスタンド タブレットスタンド フルキット 収納 拡張 ワーク テーブル 作業台 ブックホルダー デバイス一括管理 折りたたみ マグネット PUレザー (ブラウン)",
+      "url": "https://www.amazon.co.jp/dp/B0BJDRFKZ4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41HM3BgID3L._SL500_.jpg",
+      "features": [
+        "【いかなる作業も快適にする、究極のワークスペース】MOFTスマートデスクマットは、パソコン、タブレット、スマホ、本、メモ…、デスク周りのあらゆるものを見える形で集約することのできるデスクマットです。マグネット式のパーツは自在に配置を変えることができるので、用途に合わせた最適なワークスペースを常に実現いたします。",
+        "【シチュエーションに合わせて、4種の角度調節】ノートPCのタイピングなら25°、Apple Pencil等のペン操作なら45°、本を読むなら60°、タブレットでの動画鑑賞なら75°と、用途に合った最適な角度にて作業することができます。角度はサッと調節できるので、別の作業に取り掛かる時にも瞬時に変更することができます。",
+        "【よく使うアプリをワンタッチで起動】 本体には2つのNFCタグが埋め込まれており、スマホをタッチするだけで指定したアプリを瞬時に起動することができます。音楽再生や通話、メモ帳など、良く使うアプリをスマホで設定しておけば、作業を止めることなくスムーズにこなすことができます。",
+        "【用途に応じて貼り付けパーツを選択】マグネット式の付属パーツは、iPadやiPhone等、デジタルデバイスを活用する場合に便利な「デジタルキット」、イラスト制作や読み書きに便利な「ペーパーキット」のどちらも付属する「フルキット」となります。使う場面に応じて、必要なパーツだけをマットに貼り付けてご使用ください。",
+        "【場所を選ばず、どこでもマイデスク】本体は約1.5kgと軽量なため、気軽に持ち運ぶことができます。PCやスマホ等を乗せたまま、自分のデスクから会議室へ、自宅作業部屋からリビングへ、あらゆる場所を自分のデスクに変えていただけます。"
+      ],
+      "query": "MOFT Smart Desk Mat MagSafe",
+      "asin": "B0BJDRFKZ4"
+    },
+    {
+      "title": "CIO NovaWave 3Way+ [3in1 Qi2 & Apple Watch 充電器] MagSafe対応 ワイヤレス充電器 スタンド iPhone 17 / 16 / 15 / 14 / 13 / 12 / AppleWatch Ultra AirPods 充電器（ブラック）",
+      "url": "https://www.amazon.co.jp/dp/B0FRMQD7RK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31HbLg3ggWL._SL500_.jpg",
+      "features": [
+        "【iPhoneとApple Watchを同時充電】Magsafe(マグセーフ)対応のiPhone 17/16 / 15/14/13/12各シリーズとApple Watch(アップルウォッチ)を同時に充電できる3in1ワイヤレス充電器。コンパクトなフォルムにQi2認証チップ搭載の最大15W出力と最大5W出力、2つの充電器が搭載され、マグネット吸着により適切な位置でのワイヤレス充電が可能です。※それぞれApple MFi非認証品です。特に最大5W側の充電器はwatchOSのアップデートにより使用できなくなる場合がございます。",
+        "【持ち運べるワイヤレス充電スタンドとして】金属製のスタンドを起こした状態で、Magsafe(マグセーフ)対応のiPhone 17/16/15/14/13/12各シリーズにマグネットで吸着し、アームを展開することでApple Watch(アップルウォッチ)もiPhoneも同時充電できます。スマホスタンド + 3in1の充電ステーションのような機能を凝縮しており、これまで旅行や出張時に複数のワイヤレス充電器を持ち運んでいたAppleユーザーの荷物を減らす強い味方になります。",
+        "【フォルムチェンジで3in1】1日の様々なシーンにおいて、iPhoneに常に装着して持ち歩き、必要に応じて変形させて使うことができます。ワイヤレス充電スタンド＋平置き型コンパクト充電器＋スマートウォッチ充電器という3Wayでお使いいただけます。",
+        "【スマートフォン対応機種】iPhone 17/16/15/14/13/13 Pro/13 Mini/12/12 ProといったMagSafe(マグセーフ)対応機種をはじめ、iPhone SE/11/11Pro Max/Xs/Xr/Xs Max/X/8/8 Plus、Samsung Galaxy S21/S20/S10/S9/S9+/Note 8/S8、Xperia などのスマートフォンを充電可能です。【その他の対応機種】Apple Watch 8/7/Ultra、ワイヤレス充電対応の Airpods Airpods Pro が充電可能です。※Apple Watchは最大5出力での充電が可能です。※モバイルバッテリーではありません。※別途充電器が必要です。※付属の充電ケーブルはストレートタイプです。L字タイプは別売りとなります。",
+        "※充電の際は PD 30W以上の充電アダプター を使用することを推奨いたします。ご使用の際は、付属のUSB-Cケーブルまたは高品質なPD対応ケーブルをご利用ください。 ※スマートフォンを置く際は、充電位置が合うように調整してください。MagSafe対応のiPhoneは磁力で適切な位置に固定されますが、AndroidスマートフォンなどMagSafe非対応の機種では、最適な充電位置に手動で調整する必要があります。"
+      ],
+      "query": "CIO NovaWave 3Way",
+      "asin": "B0FRMQD7RK"
+    }
+  ],
+  "all_candidates": []
+}

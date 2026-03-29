@@ -2352,6 +2352,1500 @@
           ]
         }
       ]
+    },
+    {
+      "type": "frame",
+      "id": "HsbEJ",
+      "x": 11200,
+      "y": 0,
+      "name": "outer09",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "85NNH",
+          "name": "header09",
+          "fill": "#1A1A1A",
+          "content": "2026-04-09 | 家電の消し忘れを防止。電源をスマホで操る「スマートプラグ」7選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "X01nl",
+          "name": "div1_09",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "8T8Rb",
+          "name": "thumb09",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "4yBej",
+              "x": -20,
+              "y": -68,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0409.png",
+                "mode": "fill"
+              },
+              "width": 1307,
+              "height": 730
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "Ja5rg",
+          "name": "label09",
+          "fill": "#888888",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "yAC8T",
+          "name": "div2_09",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "FYa2E",
+          "name": "phead09",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "bmbho",
+          "name": "sc1_09",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "EzOag",
+              "name": "sc1t_09",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "1SxY8",
+              "name": "sc1p_09",
+              "fill": "#555555",
+              "content": "Prompt: A compact white smart plug inserted into a wall outlet in a modern Japanese apartment, with a smartphone screen glowing nearby showing an app interface. Natural side lighting from a window, clean white walls, wooden desk in background with a coffee mug and a laptop.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "0UhgM",
+              "name": "sc1j_09",
+              "fill": "#555555",
+              "content": "Japanese: 清潔感のあるリビングのコンセントに差し込まれた白いスマートプラグ。隣にスマートフォンが置かれ、制御アプリの画面が光っている。窓からの自然光、木製デスク背景。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "sVRnp",
+              "name": "sc1f_09",
+              "fill": "#0066CC",
+              "content": "Focus: スマートプラグ本体 + スマホアプリ画面の点灯 + 自然光の室内",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "kKojz",
+          "name": "sc2_09b",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "bLGwE",
+              "name": "sc2t_09b",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "CyWc2",
+              "name": "sc2p_09b",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a small rectangular smart plug with a round indicator light, plugged into a power strip on a minimalist white desk. A smartphone rests beside it, screen showing energy monitoring graph. Soft morning light from the left, shallow depth of field.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "8eRHd",
+              "name": "sc2j_09b",
+              "fill": "#555555",
+              "content": "Japanese: ミニマルな白いデスクの電源タップに差し込まれたスマートプラグ。インジケーターライトが点灯し、横のスマホに消費電力グラフが表示されている。朝の柔らかいサイドライト。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "CKW4s",
+              "name": "sc2f_09b",
+              "fill": "#0066CC",
+              "content": "Focus: 電力モニタリンググラフ画面 + コンパクトなプラグ本体 + デスク上の整頓感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "9rjvS",
+          "name": "sc3_09b",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "MkLv5",
+              "name": "sc3t_09b",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "8wASq",
+              "name": "sc3p_09b",
+              "fill": "#555555",
+              "content": "Prompt: Wide shot of a tidy living room interior at dusk, with multiple smart plugs visible in wall outlets connected to a floor lamp and air purifier. A smartphone on a wooden coffee table shows a smart home app with device controls. Warm ambient light, plants in background.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "ffzX8",
+              "name": "sc3j_09b",
+              "fill": "#555555",
+              "content": "Japanese: 夕暮れ時のリビング全体。フロアランプと空気清浄機のコンセントにスマートプラグが差し込まれ、木製テーブルのスマホにスマートホームアプリが表示されている。温かい間接照明と観葉植物。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "dD9g7",
+              "name": "sc3f_09b",
+              "fill": "#0066CC",
+              "content": "Focus: スマートホーム全体像 + 複数デバイス連携 + 生活感のある室内",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "GZqEv",
+      "x": 12600,
+      "y": 0,
+      "name": "outer10",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "YIeC5",
+          "name": "header10",
+          "fill": "#1A1A1A",
+          "content": "2026-04-10 | 充電ケーブルを廃止。MagSafeで整う「ワイヤレスデスク」7選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "GEkqD",
+          "name": "div1_10",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "EN7oa",
+          "name": "thumb10",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "yabnu",
+              "x": -15,
+              "y": -16,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0410.png",
+                "mode": "fill"
+              },
+              "width": 1279,
+              "height": 698
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "SoSDw",
+          "name": "label10",
+          "fill": "#888888",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "OmI2h",
+          "name": "div2_10",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "H2DTS",
+          "name": "phead10",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "CgoQU",
+          "name": "sc1_10",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "834OV",
+              "name": "sc1t_10",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "5XP4u",
+              "name": "sc1p_10",
+              "fill": "#555555",
+              "content": "Prompt: A modern minimalist desk with a 3-in-1 MagSafe wireless charging station pad in the center. iPhone is magnetically attached and glowing, Apple Watch resting on a small arm charger, AirPods case sitting on the pad. Natural window light, white walls, wooden desk surface.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Spwfr",
+              "name": "sc1j_10",
+              "fill": "#555555",
+              "content": "Japanese: ミニマルなデスクの中央に置かれた3-in-1 MagSafe充電ステーション。iPhoneが磁力で吸着し画面が光り、Apple WatchとAirPodsのケースも充電中。窓からの自然光と白壁。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "K5GXT",
+              "name": "sc1f_10",
+              "fill": "#0066CC",
+              "content": "Focus: 3台同時充電のシーン + ケーブルレスな整頓感 + 自然光の清潔感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "qaHrW",
+          "name": "sc2_10",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "UE0Zj",
+              "name": "sc2t_10",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "l7JCU",
+              "name": "sc2p_10",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a folded square-shaped wireless charger on a white desk, with an iPhone snapped magnetically onto the stand at an angle showing standby clock screen. Soft morning light from the left, coffee mug slightly out of focus in background.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "dRYpH",
+              "name": "sc2j_10",
+              "fill": "#555555",
+              "content": "Japanese: スクエア型ワイヤレス充電器のスタンドモードに斜めにセットされたiPhone。スタンバイ時計画面が表示されている。左からの朝の柔らかい光、背景にコーヒーマグがぼけている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "XPlps",
+              "name": "sc2f_10",
+              "fill": "#0066CC",
+              "content": "Focus: スタンバイモード表示 + MagSafe吸着 + 朝デスクの雰囲気",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "EjXfZ",
+          "name": "sc3_10",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "sYSxi",
+              "name": "sc3t_10",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "sQp7Z",
+              "name": "sc3p_10",
+              "fill": "#555555",
+              "content": "Prompt: Overhead flat-lay shot of a tidy work desk with a leather desk mat, laptop, and multiple Apple devices all wirelessly charging. No visible cables. Notebook, pen, and a small plant as props. Warm neutral tones.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Zz5YA",
+              "name": "sc3j_10",
+              "fill": "#555555",
+              "content": "Japanese: レザーデスクマットの上に整然と並んだAppleデバイス。ケーブルは一切見えず、すべてワイヤレス充電中。ノートとペン、観葉植物がプロップとして添えられている。俯瞰構図。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "OtHbt",
+              "name": "sc3f_10",
+              "fill": "#0066CC",
+              "content": "Focus: ケーブルゼロの整頓されたデスク全体 + 俯瞰構図 + ライフスタイル感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "Ack1R",
+      "x": 14000,
+      "y": 0,
+      "name": "outer11",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "vbkQ1",
+          "name": "header11",
+          "fill": "#1A1A1A",
+          "content": "2026-04-11 | 庭やベランダで仕事。アウトドアで使える「ワークライト」5選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "KSr4j",
+          "name": "div1_11",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "WhzET",
+          "name": "thumb11",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "JBO6R",
+              "x": -43,
+              "y": -40,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0411.png",
+                "mode": "fill"
+              },
+              "width": 1321,
+              "height": 737
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "gdBIQ",
+          "name": "label11",
+          "fill": "#888888",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "S3IIG",
+          "name": "div2_11",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "2fyCO",
+          "name": "phead11",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "UJrNi",
+          "name": "sc1_11",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "0Kcj2",
+              "name": "sc1t_11",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "2VDFr",
+              "name": "sc1p_11",
+              "fill": "#555555",
+              "content": "Prompt: A portable LED work light with a cylindrical body placed upright on an outdoor wooden deck table at dusk. The light is glowing warm white, illuminating an open notebook and a coffee cup. Blurred garden plants in the background, soft ambient light.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "k8dBz",
+              "name": "sc1j_11",
+              "fill": "#555555",
+              "content": "Japanese: 夕暮れ時の木製アウトドアテーブルに立てられたスティック型ワークライト。温かい白色光がノートとコーヒーカップを照らしている。背景に庭の緑がぼけている。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "oZqEY",
+              "name": "sc1f_11",
+              "fill": "#0066CC",
+              "content": "Focus: 屋外テーブル作業シーン + ライトの発光 + 夕暮れのアウトドア感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "1SZdN",
+          "name": "sc2_11",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "RGYVB",
+              "name": "sc2t_11",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "ayreA",
+              "name": "sc2p_11",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a compact rectangular LED lantern with a handle on a balcony railing at night. The device emits bright cool-white light. City lights are faintly visible in the blurred background. Minimalist industrial aesthetic.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "a4Duv",
+              "name": "sc2j_11",
+              "fill": "#555555",
+              "content": "Japanese: 夜のベランダの手すりに置かれたハンドル付きLEDランタン。鮮やかなクールホワイトの光を放ち、背景に都市の明かりがぼけて見える。ミニマルなインダストリアルテイスト。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "hPGU7",
+              "name": "sc2f_11",
+              "fill": "#0066CC",
+              "content": "Focus: ベランダ夜景 + ランタンの強い発光 + 携帯性の表現",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "lY1rZ",
+          "name": "sc3_11",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "0VS4R",
+              "name": "sc3t_11",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "mNQwb",
+              "name": "sc3p_11",
+              "fill": "#555555",
+              "content": "Prompt: A rugged LED work light attached magnetically to a metal surface outdoors, illuminating a tool bench. USB charging cable visible in the foreground. Natural gravel or garden path in the background. Daytime outdoor work atmosphere.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "LKGl8",
+              "name": "sc3j_11",
+              "fill": "#555555",
+              "content": "Japanese: 屋外の金属面にマグネットで取り付けられたLEDワークライト。作業台を照らしている。手前にUSB充電ケーブルが見え、背景には砂利や庭の通路。日中の屋外作業の雰囲気。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "fNe5o",
+              "name": "sc3f_11",
+              "fill": "#0066CC",
+              "content": "Focus: マグネット固定シーン + 屋外作業感 + 頑丈さの表現",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "imxNw",
+      "x": 15400,
+      "y": 0,
+      "name": "outer12",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "6TF7t",
+          "name": "header12",
+          "fill": "#1A1A1A",
+          "content": "2026-04-12 | 電気代を節約。人感センサーやアプリで賢く照らす「スマート照明」6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "Y4LV5",
+          "name": "div1_12",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "d5RLL",
+          "name": "thumb12",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "BLKNX",
+              "x": -34,
+              "y": -46,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0412.png",
+                "mode": "fill"
+              },
+              "width": "fill_container(1306)",
+              "height": "fill_container(729)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "T8pQ2",
+          "name": "label12",
+          "fill": "#888888",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "As8QG",
+          "name": "div2_12",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "jw2wq",
+          "name": "phead12",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "iuAOR",
+          "name": "sc1_12",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "4rRbk",
+              "name": "sc1t_12",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "xYY25",
+              "name": "sc1p_12",
+              "fill": "#555555",
+              "content": "Prompt: A modern living room at dusk with a warm smart bulb glowing in a floor lamp. A smartphone rests on the coffee table showing a smart lighting app interface. Natural plants and wooden furniture in the background. Cozy, inviting atmosphere.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Ltik0",
+              "name": "sc1j_12",
+              "fill": "#555555",
+              "content": "Japanese: 夕暮れ時のリビングでフロアランプのスマート電球が温かく点灯。コーヒーテーブルのスマホにアプリ画面が表示されている。観葉植物と木製家具の背景。温かみのある居心地のよい雰囲気。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "8USWY",
+              "name": "sc1f_12",
+              "fill": "#0066CC",
+              "content": "Focus: スマート電球の温かな発光 + アプリ制御画面 + くつろぎのリビング",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "bsEqJ",
+          "name": "sc2_12",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "xEaMT",
+              "name": "sc2t_12",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "bFu69",
+              "name": "sc2p_12",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a white E26 LED smart bulb placed on a minimal white desk next to a smartphone showing a color-changing app. The bulb glows in a soft purple hue. Clean white background, side light from a window, minimalist styling.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "9ATaF",
+              "name": "sc2j_12",
+              "fill": "#555555",
+              "content": "Japanese: ミニマルな白いデスクの上に置かれたE26スマート電球がソフトパープルに発光。隣にカラー調整アプリのスマホ画面。白い背景に窓からのサイドライト。ミニマリストスタイル。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "K4mFx",
+              "name": "sc2f_12",
+              "fill": "#0066CC",
+              "content": "Focus: スマート電球の色変化 + アプリカラーコントロール + ミニマルな雰囲気",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "8e1QN",
+          "name": "sc3_12",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "hUNcw",
+              "name": "sc3t_12",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "2iRHw",
+              "name": "sc3p_12",
+              "fill": "#555555",
+              "content": "Prompt: Hallway corridor with a ceiling light socket showing a motion-sensor LED bulb. The light is on, illuminating the path. A person's silhouette is partially visible entering from the side. Clean white walls, energy-saving concept.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "tvGDq",
+              "name": "sc3j_12",
+              "fill": "#555555",
+              "content": "Japanese: 廊下の天井ソケットに取り付けられた人感センサーLED電球が点灯し、通路を照らしている。人のシルエットが横から入ってくる様子。白い壁、省エネのコンセプト。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "W3TvL",
+              "name": "sc3f_12",
+              "fill": "#0066CC",
+              "content": "Focus: 人感センサー自動点灯 + 廊下の省エネ照明 + シンプルな生活感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "XdEqg",
+      "x": 16800,
+      "y": 0,
+      "name": "outer13",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "OzEAu",
+          "name": "header13",
+          "fill": "#1A1A1A",
+          "content": "2026-04-13 | 大切なペットを見守る。会話もできる「ネットワークカメラ」7選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "cnUYH",
+          "name": "div1_13",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "ZbiP5",
+          "name": "thumb13",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "TZeSl",
+              "x": -20,
+              "y": -83,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0413.png",
+                "mode": "fill"
+              },
+              "width": 1305,
+              "height": 729
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "Pku5G",
+          "name": "label13",
+          "fill": "#888888",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "8UnkN",
+          "name": "div2_13",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "cmLe8",
+          "name": "phead13",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "6i350",
+          "name": "sc1_13",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "9XVKV",
+              "name": "sc1t_13",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "ETvGk",
+              "name": "sc1p_13",
+              "fill": "#555555",
+              "content": "Prompt: A small white dome-shaped security camera on a wooden shelf in a cozy living room, with a cat sitting on the floor below. A smartphone screen showing live camera feed is visible nearby. Warm natural light from window, plants in background.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "4sdBi",
+              "name": "sc1j_13",
+              "fill": "#555555",
+              "content": "Japanese: 木製の棚に置かれた白いドーム型見守りカメラ。その下の床に猫が座っている。近くにライブ映像を映すスマホ画面。窓からの温かな自然光と観葉植物の背景。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Tppoi",
+              "name": "sc1f_13",
+              "fill": "#0066CC",
+              "content": "Focus: ペット見守りシーン + ライブ映像確認 + 家庭的な温かみ",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "wwq8g",
+          "name": "sc2_13",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "4QkCs",
+              "name": "sc2t_13",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "2wjWP",
+              "name": "sc2p_13",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a compact pan-tilt network camera with a rotating lens head, placed on a white desk. The lens is pointing slightly upward. Blue LED indicator light on. Minimalist white background, soft side lighting.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "r87Hr",
+              "name": "sc2j_13",
+              "fill": "#555555",
+              "content": "Japanese: 白いデスクの上に置かれたパン・チルト機能付きネットワークカメラのクローズアップ。レンズが少し上を向き、青いLEDインジケーターが点灯。白いミニマル背景にソフトなサイドライト。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Dwg2m",
+              "name": "sc2f_13",
+              "fill": "#0066CC",
+              "content": "Focus: パン・チルト可動 + コンパクトデザイン + 監視機能の表現",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "VKd4V",
+          "name": "sc3_13",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "fWLyd",
+              "name": "sc3t_13",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "DeAdP",
+              "name": "sc3p_13",
+              "fill": "#555555",
+              "content": "Prompt: Person's hand holding a smartphone showing a split-screen camera view of multiple rooms. A small white security camera is visible on the desk in the background. Modern apartment interior, natural light.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "kqNWS",
+              "name": "sc3j_13",
+              "fill": "#555555",
+              "content": "Japanese: スマホを持つ手。画面に複数の部屋のカメラ映像が分割表示されている。背景のデスクに白い防犯カメラが見える。モダンなアパートの室内、自然光。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "CYwdq",
+              "name": "sc3f_13",
+              "fill": "#0066CC",
+              "content": "Focus: 複数カメラの遠隔監視 + スマホ映像確認 + リモート見守り感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "hnjuj",
+      "x": 18200,
+      "y": 0,
+      "name": "outer14",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "luRBB",
+          "name": "header14",
+          "fill": "#1A1A1A",
+          "content": "2026-04-14 | 【Anker Eufy】ロボット掃除機の人気モデル徹底比較10選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "KZTED",
+          "name": "div1_14",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "9yxha",
+          "name": "thumb14",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "V4Xit",
+              "x": -15,
+              "y": -32,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./0414.png",
+                "mode": "fill"
+              },
+              "width": 1277,
+              "height": 713
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "52YNh",
+          "name": "label14",
+          "fill": "#888888",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "swxyP",
+          "name": "div2_14",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "K9yHx",
+          "name": "phead14",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "W39LM",
+          "name": "sc1_14",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "pPm2x",
+              "name": "sc1t_14",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "a7Z4Z",
+              "name": "sc1p_14",
+              "fill": "#555555",
+              "content": "Prompt: A sleek black circular robot vacuum cleaner gliding across a clean light hardwood floor in a modern Japanese living room. Its top light is glowing blue. A white docking station is visible in the background. Natural morning light, minimal furnishings.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "hzrqx",
+              "name": "sc1j_14",
+              "fill": "#555555",
+              "content": "Japanese: 明るい無垢材フローリングの上をスムーズに走る黒い円形ロボット掃除機。天面の青いライトが点灯。背景に白いドッキングステーション。自然な朝の光とミニマルなリビング。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "RxRyI",
+              "name": "sc1f_14",
+              "fill": "#0066CC",
+              "content": "Focus: ロボット掃除機の動作シーン + クリーンなフローリング + モダンリビング",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "4ZDiz",
+          "name": "sc2_14",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "Rxv3h",
+              "name": "sc2t_14",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "q11fJ",
+              "name": "sc2p_14",
+              "fill": "#555555",
+              "content": "Prompt: A robot vacuum docked in its all-in-one cleaning station against a white wall. The station is a tall white unit with a mop washing compartment. A mop pad is visible. Clean, bright interior, shallow depth of field.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "7dleX",
+              "name": "sc2j_14",
+              "fill": "#555555",
+              "content": "Japanese: 白い壁際の全自動クリーニングステーションにドッキングしたロボット掃除機。モップ洗浄コンパートメント付きの縦型白いステーション。モップパッドが見える。明るい清潔な室内、浅い被写界深度。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "c4A2P",
+              "name": "sc2f_14",
+              "fill": "#0066CC",
+              "content": "Focus: 全自動クリーニングステーション + ドッキング状態 + 完全放置感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "mbX2Q",
+          "name": "sc3_14",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "IbXmw",
+              "name": "sc3t_14",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "xnNXh",
+              "name": "sc3p_14",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of the underside of a robot vacuum showing dual rotating mop pads and spinning brushes, placed on white flooring. Strong focused studio lighting. Technical product detail shot conveying cleaning power.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "U9Xpu",
+              "name": "sc3j_14",
+              "fill": "#555555",
+              "content": "Japanese: 白いフローリングに置かれたロボット掃除機の底面クローズアップ。デュアル回転モップパッドと回転ブラシが見える。スタジオ照明によるテクニカルなプロダクト詳細ショット。掃除力を表現。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "dAt1N",
+              "name": "sc3f_14",
+              "fill": "#0066CC",
+              "content": "Focus: デュアル回転モップ + 吸引ブラシ + 高い掃除性能の表現",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

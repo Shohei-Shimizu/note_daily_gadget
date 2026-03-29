@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-11",
+  "title": "庭やベランダで仕事。アウトドアで使える「ワークライト」 5 選",
+  "queries": [
+    "Ledlenser ワークライト",
+    "GENTOS ワークライト USB充電",
+    "Makita 充電式ワークライト",
+    "Bosch ワークライト バッテリー",
+    "LUMENA マルチランタン"
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "Ledlenser(レッドレンザー)W6R Work ワークライト 作業灯 折り畳み式 ライト部分可動 マグネット付 フック付 スポットライト付 USB充電式 502736 [日本正規品]",
+      "url": "https://www.amazon.co.jp/dp/B0BY9N84B4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21FYHxjXXpL._SL500_.jpg",
+      "features": [
+        "【光束(lm)】（メインライト）パワー：500 / ミドル：- / ロー：220、（スポットライト）120",
+        "【点灯時間(h)】（メインライト）パワー：2 / ミドル：- / ロー：6、（スポットライト）10",
+        "【使用電池】専用充電池(Li-ion/内蔵)　【充電時間(h)】約3.5",
+        "広範囲を照らすメインライトとピンポイントで照らすスポットライトの2灯式・ランプヘッド可動式",
+        "USB-Cで充電・フックと底面マグネット付き"
+      ],
+      "query": "Ledlenser ワークライト",
+      "asin": "B0BY9N84B4"
+    },
+    {
+      "title": "GENTOS(ジェントス) LED ワークライト USB充電式 【明るさ740ルーメン/実用点灯5時間/耐塵/防滴】 専用充電池使用 ガンツ GZ-X233",
+      "url": "https://www.amazon.co.jp/dp/B0D32ZLDRD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21+ZT7tqtqL._SL500_.jpg",
+      "features": [
+        "サイズ:約幅45×奥行45×高さ315mm、本体重量:約227g",
+        "セット内容・付属品:本体・USB Type-Cケーブル(50cm)・専用ACアダプター・専用充電池、使用電池:専用充電池",
+        "明るさ:High/740ルーメン、Eco/400ルーメン、Top/50ルーメン",
+        "実用点灯:High/5時間、Eco/9時間、Top/31時間",
+        "機能:2m落下耐久、耐塵・防滴仕様(IP64準拠)、最大照射距離:約38m"
+      ],
+      "query": "GENTOS ワークライト USB充電",
+      "asin": "B0D32ZLDRD"
+    },
+    {
+      "title": "マキタ(Makita) 充電式ワークライト 18V バッテリ・充電器別売 ML817",
+      "url": "https://www.amazon.co.jp/dp/B0C9PTQDY5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51u5VTOEqGL._SL500_.jpg",
+      "features": [
+        "広範囲照射＆コンパクトサイズ。USB出力付､18V/14.4Vモデル。照射範囲切替可能。ライトスイッチを押すたびに全面点灯･横面点灯･上面点灯･電源OFFと切替が可能。電源OFF時に前回の照射モードを記憶するメモリ機能も搭載｡",
+        "軽量･コンパクト。軽量：0.21kg(バッテリ除く)｡手に収まる小型ボディ｡広く照らす光拡散樹脂レンズ採用。スマートフォンや各種USB機器が充電可能。最大出力：2.4A｡充電していない状態が続くと約30分後に自動的に充電機能をオフにするオートオフ機能付｡災害の備えに。",
+        "直流18V/14.4V、スライド式Li-ionバッテリ仕様。バッテリ・充電器別売。光源LED：8灯(昼白色)。照度：全面点灯：240lx/横面点灯：190lx/上面点灯：190lx※照度(lx)の補足※ルクスは光源より先方0.5m。光束：全面点灯：300lm/横面点灯：150lm/上面点灯：150lm",
+        "USB出力端子:数1。USB出力端子:出力電圧直流5.0V、出力電流直流2.4A、形状USB A型。1充電連続使用時間[作業量](目安):18V:BL1860B-6.0Ah全面点灯：約28時間横･上面点灯：約49時間※数値は参考値です。バッテリの充電状態や作業条件によって異なります。",
+        "本機寸法：長さ107mm×幅77mm×高さ50mm。※本機寸法の補足※バッテリ除く。質量：0.21kg※バッテリ除く。"
+      ],
+      "query": "Makita 充電式ワークライト",
+      "asin": "B0C9PTQDY5"
+    },
+    {
+      "title": "Bosch 18V バッテリー対応 LED作業灯 48W 6000ルーメン 高輝度 USB-C充電ポート搭載 140度角度調整可能 作業灯 広照射 現場 ガレージ 防水 軽量 携帯",
+      "url": "https://www.amazon.co.jp/dp/B0G6483QML?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31x9pndmLNL._SL500_.jpg",
+      "features": [
+        "【強力6000ルーメンで作業を明るくサポート】最大6000ルーメンの高輝度クールホワイト光(6000K)を実現。広範囲を均一に照らすワイドビーム設計で、暗所での作業も細部まで鮮明に。視認性が向上し、夜間作業や倉庫内、車両整備などの精密作業におけるミスや見落としを軽減します。",
+        "【Bosch 18Vバッテリー＆マルチ充電でコードレス快適】Bosch 18Vバッテリー（BAT609/609G/618/618G等対応）ですぐに使用可能。さらに、USB-Cポートによる本体充電に加え、USB-Aポートでスマートフォン等の充電ステーションとしても活用できます。コードに縛られず、現場での利便性が格段に向上。",
+        "【フレキシブル調整で光を思いのままに】ヘッド部分が最大150度にわたって角度調整可能。ワンタッチで照射角度を自由に変えられ、天井への照射や真下の細かい作業など、多様なシチュエーションに対応。付属のフックで吊り下げても安定しています。",
+        "【頑丈設計で過酷な現場でも安心の耐久性】プロユースを想定した耐衝撃・耐塵仕様。ガレージや建設現場、屋外での使用にも耐える設計で、長期にわたる信頼性を提供します。",
+        "【多様なシーンで活躍する作業必須アイテム】建設・工事現場、自動車整備、DIY作業、ガレージ、キャンプ、防災備品など、あらゆる暗所作業に威力を発揮。高輝度かつ調整機能に優れているため、メインライトとしてもサブライトとしても、作業効率と安全性を高める必需品です。"
+      ],
+      "query": "Bosch ワークライト バッテリー",
+      "asin": "B0G6483QML"
+    },
+    {
+      "title": "グッドデザイン賞 ルーメナーLEDランタン ルーメナープラス2 LUMENA PLUS2 ベージュ 高輝度3000ルーメン カラー調節機能 120時間点灯 IP67防水防塵 180度ハンドル IWAERUセット",
+      "url": "https://www.amazon.co.jp/dp/B0DRTGNCRX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/316SYiKOOrL._SL500_.jpg",
+      "features": [
+        "ルーメナーLEDランタン ルーメナープラス2 LUMENA PLUS2 正規品 IWAERUタオルセット",
+        "モダンなデザインと実用性を兼ね備えたコードレスLEDランタン プラス2はスリムでモダンなデザインにさまざまな環境で使用できるハンドルを備えた実用的なLEDアウトドアランタンです。 最大明るさ3,000ルーメン、カラー調節機能、最大120時間の使用時間、IP67防水防塵機能を特徴とするプレミアムな製品です。",
+        "ハンドルはさまざまな環境で使用できる多機能なデザインと2.4段階の調光機能と3種類のLED光色調節により、最大3000ルーメンの明るさを実現",
+        "グッドデザイン賞/GOODDESIGN/受賞",
+        "容量: Li-Polymer 3.7V 20,000mAh (74Wh) サイズ: 168.6 × 103.4 × 29 mm 重量: 550g LED色温度: 3,000K (Warm) / 4,500K (Bright) / 6,500K (Cool) 明るさ: 100 ~ 3,000Lm 点灯時間: 約10時間 ~ 約120時間 充電時間: 5時間30分 (QC Charger, クイックチャージ充電時) 入力 (Type C): 5V-3A / 9V-2A / 12V-1.5A (MAX 18W) 出力1 (Type C): 5V-3A / 9V-2.22A / 12V-1.67A (MAX 20W) 出力2 (USB A): 5V-3A / 9V-2A / 12V-1.5A 防水/防塵等級: IP67"
+      ],
+      "query": "LUMENA マルチランタン",
+      "asin": "B0DRTGNCRX"
+    }
+  ],
+  "all_candidates": []
+}
