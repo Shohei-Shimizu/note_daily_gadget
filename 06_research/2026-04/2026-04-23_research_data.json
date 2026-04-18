@@ -1,0 +1,160 @@
+{
+  "date": "2026-04-23",
+  "title": "プレゼンを成功させる。多機能な「レーザーポインター」 6 選",
+  "queries": [
+    {
+      "query": "Canon PR500-RC",
+      "include": [
+        "PR500-RC"
+      ]
+    },
+    {
+      "query": "ロジクール R400f",
+      "include": [
+        "R400"
+      ]
+    },
+    {
+      "query": "Canon PR11-GC",
+      "include": [
+        "PR11-GC"
+      ]
+    },
+    {
+      "query": "コクヨ レーザーポインター ELA",
+      "include": [
+        "レーザーポインター"
+      ]
+    },
+    {
+      "query": "サンワサプライ レーザーポインター プレゼン",
+      "include": [
+        "レーザーポインター"
+      ]
+    },
+    {
+      "query": "AMERTEER レーザーポインター",
+      "include": [
+        "レーザーポインター"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Canon【抗菌仕様】 レッドレーザーポインター PR500-RC（プレゼン、PowerPoint・Keynoteスライド操作、軽量コンパクト、単四電池、PSC認証）",
+      "url": "https://www.amazon.co.jp/dp/B01N3QJCDY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31gSUeK66wL._SL500_.jpg",
+      "features": [
+        "直感的にポインティングできて、シンプルで使いやすい「レッドレーザーポインター」",
+        "本体重量53gの「コンパクト軽量ボディー」で、長時間使っても疲れづらい",
+        "ワイヤレスのスライド操作機能（操作範囲20m）で、いつものプレゼンをスマートに",
+        "「抗菌仕様」なので、複数人での共有や会議室の備品に便利",
+        "消費生活用製品安全法(PSC)適合製品ですので、安心してお使い頂けます（レーザー出力クラス2準拠）"
+      ],
+      "query": "Canon PR500-RC",
+      "asin": "B01N3QJCDY"
+    },
+    {
+      "title": "ロジクール ポインター R400f ブラック 赤色 レーザー プレゼン ワイヤレス 無線 レーザーポインター プレゼンター USB R400 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B07YS7XZTV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31W7ji69GtL._SL500_.jpg",
+      "features": [
+        "USBポートにレシーバーを接続するだけの簡単接続",
+        "レシーバーは本体に収納可能で持ち運びもらくらく",
+        "わかりやすいボタンの感触と手になじむ滑らかなフォルムで直感的かつ快適な操作性を実現",
+        "レーザークラス : クラス2レーザー",
+        "2.4GHzのワイヤレステクノロジーで安定接続",
+        "直感的なスライドショーコントロールが可能な赤色レーザーポインター",
+        "操作距離:約10m (※使用環境・状況によって異なります)"
+      ],
+      "query": "ロジクール R400f",
+      "asin": "B07YS7XZTV"
+    },
+    {
+      "title": "Canon 【抗菌仕様】グリーンレーザーポインター PR11-GC PowerPoint/Keynote/プレビュー/PDF対応 黒",
+      "url": "https://www.amazon.co.jp/dp/B073LC54KT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31gSSR5B2tL._SL500_.jpg",
+      "features": [
+        "広い空間や明るい場所でも優れた視認性を発揮する「グリーンレーザーポインター」",
+        "「連続使用約35時間」で長時間のプレゼンにも安心(ダイレクトグリーン方式採用)",
+        "ワイヤレスのスライド操作機能(操作範囲30m)で、いつものプレゼンをスマートに",
+        "聞き手を注目させる「ブラックスクリーン機能」プレゼンの時間配分に便利な「タイマー機能」搭載",
+        "消費生活用製品安全法(PSC)適合だから安心(レーザー出力クラス2準拠)/ 抗菌仕様なので会議室の備品にも快適",
+        "対応OS：Windows、Mac / 対応ソフトウェア：PowerPoint、Keynote、プレビュー、PDF",
+        "同梱品：USBレシーバー（本体収納）、単4形アルカリ乾電池2本、純正ポーチケース"
+      ],
+      "query": "Canon PR11-GC",
+      "asin": "B073LC54KT"
+    },
+    {
+      "title": "コクヨ 赤色 レーザーポインター 手のひらサイズ 黒 ELA-R41D",
+      "url": "https://www.amazon.co.jp/dp/B005CSZM7Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/5162DbRgFqL._SL500_.jpg",
+      "features": [
+        "【製品色】黒 【本体寸法】本体:38×103×17mm 【質量】本体:約48g(電池含む)",
+        "【ビーム到達距離】 約70m(夜間使用時) 【ビーム径】 約5mm(距離3mの時)",
+        "【レーザー光】赤色光(波長:635nm) 【最大出力】1mW(クラス2)",
+        "【付属品】単4形アルカリ乾電池2本(お試し用)・保管用ポーチ",
+        "【電池寿命】 (アルカリ乾電池使用時)連続仕様約15時間"
+      ],
+      "query": "コクヨ レーザーポインター ELA",
+      "asin": "B005CSZM7Q"
+    },
+    {
+      "title": "サンワサプライ レーザーポインター グリーンレーザー LP-GL1017G",
+      "url": "https://www.amazon.co.jp/dp/B089ZN9ZLF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/310ibDERgML._SL500_.jpg",
+      "features": [
+        "赤色光よりも8倍視覚的に見やすいとされている緑色光のグリーンレーザーポインターで、観客にわかりやすく説明することができます。",
+        "緑色のレーザー光線が約200m先まで照射できます。（夜間時） ※使用環境により異なります。",
+        "照射中は、手元のLEDが点灯するので、暗い場所でも照射しているかどうか一目でわかります。",
+        "ポケットからサッと取り出せるペン型タイプ、クリップ付きで、胸ポケットに入れ手軽に持ち運ぶことができます。",
+        "消費生活用製品安全法に基づき、PSCマークの認証を受けています。"
+      ],
+      "query": "サンワサプライ レーザーポインター プレゼン",
+      "asin": "B089ZN9ZLF"
+    },
+    {
+      "title": "AMERTEER レーザーポインター 緑 【Type-C/USB-A 一体型レシーバー内蔵・Mac/PC対応】 ワイヤレスプレゼンリモコン グリーンレーザー搭載 明るく見やすい Type-C充電式 講堂・大会議室対応 PowerPoint/Keynote/Googleスライド対応 PSC認証済み ポーチ付き (071G)",
+      "url": "https://www.amazon.co.jp/dp/B0GCCQCMWY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/316oVvoDzhL._SL500_.jpg",
+      "features": [
+        "【明るく見やすい緑色レーザー｜広い会場でも確認しやすい】 人の目で認識しやすい緑色レーザーを採用。明るい会議室や講堂、大会議室など広い空間でも、指し示したポイントをはっきり確認できます。PSC基準（1mW以下・クラス2）に準拠した安心設計です。",
+        "【プレゼン・会議・講義に最適｜遠くからでも伝わる】 社内会議、セミナー、授業、講義など、前方・後方どちらからでも視認しやすく、聞き手に内容を正確に伝えられます。赤色レーザーより視認性に優れた緑色レーザーは、日本市場で特に支持されています。",
+        "【PowerPoint・Keynote・Googleスライド対応】 Windows・Mac OS・Linux に対応。PPT／Keynote／Googleスライドで使用可能。特別なソフトや設定は不要で、初めての方でもすぐに使えます。",
+        "【Type-C/USB-A 一体型レシーバー｜変換アダプター不要】 USB-A と Type-C が一体型に設計されたレシーバーを付属。別途の変換アダプターが一切不要で、Mac/PCを問わず、そのまま直接接続してご利用いただけます。2.4GHzワイヤレス接続で安定した操作を実現し、最大約30mの操作範囲（使用環境により異なります）で自由なプレゼンが可能です。。",
+        "【充電式・軽量・携帯性抜群】 Type-C充電式で電池交換不要。軽量約30gのコンパクト設計で、収納ケース付き。出張や外出先、学校・オフィスへの持ち運びにも便利です。"
+      ],
+      "query": "AMERTEER レーザーポインター",
+      "asin": "B0GCCQCMWY"
+    }
+  ],
+  "all_candidates": []
+}

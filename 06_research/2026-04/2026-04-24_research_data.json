@@ -1,0 +1,155 @@
+{
+  "date": "2026-04-24",
+  "title": "出張をスマートに。ガジェット収納に最適な「多機能バックパック」 6 選",
+  "queries": [
+    {
+      "query": "サンワダイレクト ビジネスリュック 200-BAGBP035BK",
+      "include": [
+        "ビジネスリュック"
+      ]
+    },
+    {
+      "query": "エレコム off toco バックパック",
+      "include": [
+        "off toco"
+      ]
+    },
+    {
+      "query": "ace. ガジェタブル バックパック",
+      "include": [
+        "ガジェタブル"
+      ]
+    },
+    {
+      "query": "Samsonite バックパック エピッド",
+      "include": [
+        "バックパック"
+      ]
+    },
+    {
+      "query": "THULE Crossover 2 Backpack",
+      "include": [
+        "Backpack"
+      ]
+    },
+    {
+      "query": "MATEIN ビジネスリュック USB",
+      "include": [
+        "ビジネスリュック"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "[サンワダイレクト] ビジネスリュック マチ拡張 大容量 22～35L パソコン リュック 15.6インチ対応 PUコーティング 耐水 撥水 多機能 ビジネス 通勤 出張 ブラック 200-BAGBP035BK",
+      "url": "https://www.amazon.co.jp/dp/B0FJKYRXNV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41uWw3RMhoL._SL500_.jpg",
+      "features": [
+        "普段は スリム 、荷物が増える時はマチ 拡張 で1.5倍以上に大きくなる リュックサッ クです。普段はスマートなリュックとして使い、 出張 や 旅行 ではマチを広げて2～3泊の 荷物 を持ち運べます。 PC ・ タブレット ルームは、 16インチ までの ノートPC 、12.9インチまでのタブレットと書類を収納可能です。不意な飛び出しを防ぐ ベルト とクッションで機器を保護します。",
+        "オン・オフ使える黒1色で装飾の無いシンプルなデザインなので、 通勤 ビジネスバッグ や 通学 バッグとしても最適です。表面がPUコーティング生地を採用しており、雨や汚れから荷物を守る 耐水 性能。また手触りがよく高級感のある見た目です。大きく開くメインの衣類・旅行用品ルーム、ポケットが充実の書類・ガジェットルーム、PC・タブレットルームがあります。",
+        "約9cmの マチ拡張 が可能で、普段はスリムな形状ですが、荷物が多いときにはメインの衣類・旅行用品ルームを大幅に広げることが可能です。マチを拡張することで容量が1.5倍以上に！22リットルから 35リットル へ大幅に収納力がアップします。メインの衣類・旅行用品ルームはスーツケース/ キャリーバッグ のような フルオープン 式です。メッシュの仕切りで荷崩れを防ぎ、中身が見えて便利です。",
+        "書類・ガジェットルームには小物用のポケットが2つ、メッシュポケットが1つ、ペンポケットが2つとたくさんのポケットがあります。約8cmの奥行きがあるので、厚みのある書類やカタログ、 A4 ファイルの収納にも最適です。また、鍵を見失わない着脱できるキーフック付きです。",
+        "バッグ の前側にはフロントポケットが3つも付いており、小物をサッと取り出せて便利です。500mlペットボトルが入るサイドポケットがついています。通気性に優れたメッシュ生地＆クッション素材で快適に背負えます。",
+        "手提げ でも持てる、縦持ち、横持ち対応の ハンドル がついています。 キャリー ケースに取り付けができる キャリーサポーター 付きです。 ショルダー ベルトは収納可能なのでハンドルだけで持ち運ぶ際や、キャリーサポーターの使用時に邪魔になりません。【保証期間：初期不良のみ】※ファスナー部分は止水仕様ではありません。強い雨の際はファスナー部分から水が染み込む恐れがあります。"
+      ],
+      "query": "サンワダイレクト ビジネスリュック 200-BAGBP035BK",
+      "asin": "B0FJKYRXNV"
+    },
+    {
+      "title": "エレコム リュック ビジネスバッグ off toco(オフトコ) 15.6インチPC収納 A4対応 3WAY ハイグレード バックパック ブラック BM-OF02BK",
+      "url": "https://www.amazon.co.jp/dp/B07HX6KWBR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41d3eRxtNaL._SL500_.jpg",
+      "features": [
+        "休日に持ってでかけたくなる。 バックパック、メッセンジャーバッグ、ハンドバッグと、シーンに合わせて使い方を変えられる3WAY PCバックパック“off toco\"のハイグレードモデル。",
+        "外寸:幅310mm×奥行160mm×高さ465mm ※ハンドル・ショルダーベルト部含まず",
+        "参考収容寸法:バッグ本体内寸:幅285mm×奥行90mm×高さ445mm、PC収納部内寸:幅285mm×奥行30mm×高さ400mm、ボトル収納部内寸:幅105mm×奥行90mm×高さ255mm",
+        "ポケット数:上部収納スペース(内側:メッシュポケット×2、ファスナーポケット×2)、背面側収納口(内側:PC収納部×1、書類ポケット×1)、前面収納口×2、右側面収納口×1、左側面撥水収納口×1、背面ショルダー収納口×1、隠し背面ポケット×1、底面レインカバー収納口×1",
+        "材質:〔表面〕ポリエステル(撥水)、〔底面〕ハイパロンゴム(撥水)、〔裏面〕ポリエステル",
+        "重量:約1385g",
+        "付属品:レインカバー×1"
+      ],
+      "query": "エレコム off toco バックパック",
+      "asin": "B07HX6KWBR"
+    },
+    {
+      "title": "[エースジーン] ビジネスリュック ガジェタブルSF A4サイズ収納可能 14inchPC収納 14L ２気室 No.68782",
+      "url": "https://www.amazon.co.jp/dp/B0FHP2XR37?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31yehVtG6-L._SL500_.jpg",
+      "features": [
+        "【素材】ナイロン100×420dnコーデュラ スパイダージャガード インターロック加工",
+        "【サイズ】H39×W28×D12cm",
+        "【容量】14L",
+        "A4サイズ収納可能",
+        "14.0インチPC収納可能"
+      ],
+      "query": "ace. ガジェタブル バックパック",
+      "asin": "B0FHP2XR37"
+    },
+    {
+      "title": "[サムソナイト] ビジネスバック バックパック エピッド4 EPID 4 バックパック L ネイビー/オレンジ",
+      "url": "https://www.amazon.co.jp/dp/B0CFLHGJTB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31RNZ-vOgEL._SL500_.jpg",
+      "features": [
+        "サイズ:高さ44cm×幅30cm×マチ18cm",
+        "重量:1kg 容量: 24.2 L",
+        "主素材:撥水加工・リサイクルポリエステル・ポリウレタン・牛革",
+        "マルチポーチ付き、PC&タブレットポケット付き",
+        "PC収納:15.6inch 参考寸法 W37.5 x H26 x D2.5cm"
+      ],
+      "query": "Samsonite バックパック エピッド",
+      "asin": "B0CFLHGJTB"
+    },
+    {
+      "title": "[スーリー] リュック Thule Crossover 2 Backpack 20L ノートパソコン収納可 Dark Blue",
+      "url": "https://www.amazon.co.jp/dp/B07H5RMC5Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41C10dgACEL._SL500_.jpg",
+      "features": [
+        "タテ:31 cmX ヨコ:19 cmX マチ:43 cm"
+      ],
+      "query": "THULE Crossover 2 Backpack",
+      "asin": "B07H5RMC5Z"
+    },
+    {
+      "title": "MATEIN メイトイン リュック ビジネスリュック 大容量 メンズ 40L 旅行 機内持ち込み用 USB充電ポート付き 盗難防止 撥水 靴収納 自立 ラゲージストラップ [ エリート トラベル バックパック 1197 17インチ ]【公式契約店舗】 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0G517RGG3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31hTVam98bL._SL500_.jpg",
+      "features": [
+        "製品名　　　　　　：MATEIN エリート トラベルラップトップ バックパック",
+        "製品型番　　　　　：1197 17インチ",
+        "本体サイズ　　　　：約50.8 × 33.0 × 20.3 cm",
+        "本体重量　　　　　：約1000g",
+        "容量　　　　　　　：40L"
+      ],
+      "query": "MATEIN ビジネスリュック USB",
+      "asin": "B0G517RGG3"
+    }
+  ],
+  "all_candidates": []
+}

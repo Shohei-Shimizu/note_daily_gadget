@@ -1,0 +1,138 @@
+{
+  "date": "2026-04-22",
+  "title": "節電を可視化。消費電力をリアルタイムで知る「モニター」 5 選",
+  "queries": [
+    {
+      "query": "ラトックシステム ワットチェッカー",
+      "include": [
+        "ワット"
+      ]
+    },
+    {
+      "query": "サンワサプライ ワットモニター",
+      "include": [
+        "ワット"
+      ]
+    },
+    {
+      "query": "Nature Remo E2 lite",
+      "include": [
+        "Nature Remo",
+        "E2 lite"
+      ]
+    },
+    {
+      "query": "TP-Link Tapo P110M",
+      "include": [
+        "スマートプラグ"
+      ]
+    },
+    {
+      "query": "SwitchBot プラグミニ 消費電力",
+      "include": [
+        "プラグミニ"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "ラトックシステム Bluetooth ワットチェッカー RS-BTWATTCH2A",
+      "url": "https://www.amazon.co.jp/dp/B08F1XDRH1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31T9icmMFnL._SL500_.jpg",
+      "features": [
+        "電力や電気料金をスマホでチェックできるBluetooth接続のワットチェッカー",
+        "電力の動きをリアルタイムで確認",
+        "グラフ表示、CSV出力が可能",
+        "電源ON/OFF機能搭載",
+        "1日単位で約50ヶ月分の消費電力を保存可能"
+      ],
+      "query": "ラトックシステム ワットチェッカー",
+      "asin": "B08F1XDRH1"
+    },
+    {
+      "title": "サンワサプライ ワットモニター 5種データ計測可能 消費電力(W)・積算電力量(kWh)・積算時間(Hour)・積算電力料金(円)・CO2排出量(kg) 液晶表示 1個口・2ピン ホワイト TAP-TST8N",
+      "url": "https://www.amazon.co.jp/dp/B01DX4JNXE?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31q+j8+I4YL._SL500_.jpg",
+      "features": [
+        "5種類の測定ができる検電器です。",
+        "消費電力(W)、積算電力量(kWh)、積算時間(Hour)、積算電力料金(円)、CO2排出量(kg)の5種類が測定できます。",
+        "コンセントに差し込んでボタン1つですぐ測定できます。",
+        "液晶画面に数値で表示され、一目でデータを確認できます。",
+        "USBポート数:無",
+        "<使用方法> 本体下面差込口に測定する機器の電源プラグをしっかり差し込んで、壁のコンセントなどに差し込みます。測定したいボタンを押して数値を読み取ります。",
+        "<ご注意> ※熱器具・調理器具・エアコン・冷蔵庫・洗濯機・乾燥機など、壁のコンセントへ直接接続することが決められている機器には使用しないでください。上記の製品を本製品に接続した場合、接続不良などの要因により、本体が熱くなったり、電源が切れたりする場合があります。"
+      ],
+      "query": "サンワサプライ ワットモニター",
+      "asin": "B01DX4JNXE"
+    },
+    {
+      "title": "Nature Remo E2 lite 電力モニタリングシステム 簡単設置 ネイチャーリモ｜アレクサで手軽に節電 ｜電力見える化｜スマートホーム スマート家電 ｜",
+      "url": "https://www.amazon.co.jp/dp/B0F1T83MB5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/3126LnZ6orL._SL500_.jpg",
+      "features": [
+        "【敷居の高い家庭のエネマネを手軽に】本体をコンセントに挿して、スマホのアプリで設定を行うだけ。電気の使用状況を見える化し、無駄な消費を抑えて効率的に使えるようになります。"
+      ],
+      "query": "Nature Remo E2 lite",
+      "asin": "B0F1T83MB5"
+    },
+    {
+      "title": "TP-Link Tapo Matter 対応 スマートプラグ プラグミニ スマートコンセント 電力モニタリング コンセント 節電·省エネ スケジュール 電源タイマー 直差し 遠隔操作 音声コントロール かんたん設定【Amazon Alexa, Apple Siri, Google Assistant 対応】Tapo P110M(1-pack)(JP)/A",
+      "url": "https://www.amazon.co.jp/dp/B0C9PYN7RN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31s-zpBH1uL._SL500_.jpg",
+      "features": [
+        "[特徴] Matter対応 スマートプラグが登場。Apple Siri , Amazon Alexa, Google Assistantの音声コントロールに対応",
+        "[特徴②] Amazon Alexa 認証取得。電源のオン・オフを制御するスマートWi-Fiプラグ。",
+        "[アプリでかんたん] 外出先からスマホアプリで簡単に設定ができます。",
+        "[消費電力モニタリング] プラグに挿した電気製品の電力使用状況を確認でき、電気料金の設定を行うと毎月の電気料金の目安を確認できます。",
+        "[スケジュール設定] 日々の生活リズムに合わせて、指定した時間にプラグの動作を指定可能です。",
+        "[自動オフタイマー] プラグ側で給電時間を指定することができ、一定時間経過後に給電が止まるので、省エネかつ安心してご利用いただけます。"
+      ],
+      "query": "TP-Link Tapo P110M",
+      "asin": "B0C9PYN7RN"
+    },
+    {
+      "title": "SwitchBot スマートプラグ プラグミニ スマートコンセント スイッチボット 消費電力モニター タイマー コンセント 節電·省エネ 直差し 遠隔操作 音声コントロール Bluetooth&Wi-Fi両方対応 スマートホーム Alexa, Google Home, Siri, IFTTT, SmartThings対応",
+      "url": "https://www.amazon.co.jp/dp/B0DT6S7NZ8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31z4vTju3wL._SL500_.jpg",
+      "features": [
+        "【ご購入前に必ずご確認ください】より安全にご利用いただけるように、本製品は幅広プラグ(片方の刃が大きいタイプ)の電源プラグを使用しています。必ず、N極対応のコンセントで使用してください。または、N極対応延長コードと併用してください。※プラグ穴の設計は日本のJIS規格「JIS C 8303:2007」に適合しています。【安心保証体制】商品に初期不良・不具合・故障と思われる場合、速やかに新品との交換で対応させて頂きます。お問い合わせ連絡先については、下記の「SwitchBot製品に関するメーカーお問い合わせ先について」までにご覧ください。",
+        "【遠隔操作で家電を自由にON/OFF】BluetoothとWi-Fi(2.4Ghzのみ)両方対応。2つの接続方法で、デバイスの追加と操作がよりスムーズに。バブとの併用は不要で、外出先からでも照明のON/OFFが手軽にできるので、消し忘れ防止にも役立ちます。Bluetooth接続も可能で、Wi-Fiがない環境でも使用できます。Wi-Fiの電波がわるい時、またはインターネットの使えない部屋はBluetooth機能でカバーしてくれます。",
+        "【スケジュール設定·タイマー機能搭載】SwitchBotアプリで、スケジュール機能を利用すれば、あらかじめ指定した時間帯や日の出・日の入りに合わせて、スマートプラグと併用した家電の電源のON/OFFを自動で切り替えられるように。また、外出・帰宅の時間帯に合わせて家電の電源を一括操作できます。あらかじめスケジュールを設置し、電気製品をつなげておけば、電気代の安い夜間のみ充電させることが可能に、電気代を節約できます。「今から◯分後に電源をON/OFFする」といった予約操作も可能。デバイスの過充電によってバッテリーに負荷がかかるリスクを防げます。",
+        "【消費電力を簡単に把握し節電に役立てる】接続した家電で使用される消費電力はSwitchBotアプリにリアルタイムに確認できます。消費電力はアプリ上でグラフとして可視化できるので、電気の消費量を参考に家電の稼働時間や使用頻度を改めることで、省エネ対策に役立ちます。また、消費電力量の過去履歴もアプリで閲覧でき、データのエクスポートも可能です。",
+        "【声で家電を操作】「アレクサ、フロアライトを消して」と声を掛けると、ライトが消灯します。起き上がったり手を伸ばしてスイッチを押したりする必要はなく、一声で家電を操作できます。アレクサのほか、Google Home、Siri Shortcuts、IFTTT、SmartThingsなどにも対応しています。",
+        "【安全を第一に設計されたスマートプラグ】SwitchBotスマートプラグは安全性を第一に設計されており、「過負荷保護装置」、「感電防止設計」、「750℃高温難燃性素材」など3つの機能を有し、電気製品使用の安全性を向上します。感電防止対策もされているため、お子さまが感電する心配もありません。",
+        "【SwitchBotシリーズ製品と連携し自宅をスマートホームに】他のSwitchBot製品と組み合わせれば、実現したいシーンをカスタマイズすることで、複数の家電を同時にコントロールできます。例えば、SwitchBotハブミニとSwitchBot開閉センサーを組み合わせ、あらかじめアプリでシーンを設定しておくと、外出時にドアが閉まると、テレビやエアコンの電源がOFFになり、ロボット掃除機がお部屋の清掃を始めるなど、コンセント家電だけではなくリモコン家電の一斉操作も可能になります。",
+        "【コンパクトなデザイン、初心者でも簡単設置】後付け型とコンパクトの外観を備えているため、既存のコンセントを干渉せず、家電を挿し込み、アプリで登録するだけですぐに使用できます。"
+      ],
+      "query": "SwitchBot プラグミニ 消費電力",
+      "asin": "B0DT6S7NZ8"
+    }
+  ],
+  "all_candidates": []
+}

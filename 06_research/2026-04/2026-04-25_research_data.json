@@ -1,0 +1,167 @@
+{
+  "date": "2026-04-25",
+  "title": "大事な機材を守る。盗難を防ぐ「最新 GPS トラッカー」 6 選",
+  "queries": [
+    {
+      "query": "Apple AirTag",
+      "include": [
+        "AirTag"
+      ]
+    },
+    {
+      "query": "Tile Pro",
+      "include": [
+        "Tile"
+      ]
+    },
+    {
+      "query": "Tile Mate",
+      "include": [
+        "Tile"
+      ]
+    },
+    {
+      "query": "Anker Eufy SmartTrack Link",
+      "include": [
+        "SmartTrack Link"
+      ]
+    },
+    {
+      "query": "Anker Eufy SmartTrack Card",
+      "include": [
+        "SmartTrack Card"
+      ]
+    },
+    {
+      "query": "エレコム スマートトラッカー LGT-ELBETG1BKG",
+      "include": [
+        "エレコム",
+        "スマートトラッカー"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
+      "url": "https://www.amazon.co.jp/dp/B0GJTW9CL8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Ju9cujJ9L._SL500_.jpg",
+      "features": [
+        "「探す」アプリで持ち物を見つける — AirTag（第2世代）を使えば、大切なものがどこにあるかを把握できます。持ち物にAirTagを付けておけば、「探す」アプリを使って追跡できます*。",
+        "iPhoneの「正確な場所を見つける」機能 — なくしたアイテムがある場所まで、詳しい経路を案内します。海外旅行中は、iPhoneだけでなくApple Watchでも使えます。",
+        "進化したスピーカー — 音量が50%も大きくなったスピーカーと聞き分けやすいチャイムを採用。AirTagの音がかつてないほどよく聞こえ、見つけやすくなりました*。",
+        "はるか遠くからでも音が鳴る — アップグレードされた超広帯域チップとBluetoothチップにより、これまで以上に遠くからでも持ち物を見つけられます*。",
+        "持ち物の位置情報を共有 — 大切なものをなくしてしまった時は、信頼できる連絡先や第三者、50社以上の航空会社とAirTagの位置情報を一時的に安全に共有できます。",
+        "バッテリー駆動時間 — AirTag（第2世代）は、簡単に交換できる標準的なバッテリーで1年以上使えます。交換のタイミングは、あなたのiPhoneがお知らせします*。",
+        "安全に、確実に、見つける — あなたのAirTagの位置情報は、あなたと、あなたが許可したユーザーのみが確認できます。位置情報や履歴がAirTagに保存されることはありません。",
+        "より持続可能な設計 — 最新のAirTagは筐体に85%再生プラスチック、そしてパッケージには100%ファイバー素材を採用しています*。",
+        "*免責事項 — 探せる範囲が広がった「正確な場所を見つける」機能と音量が大きくなったスピーカーは、一世代前のAirTagとの比較にもとづきます。「探す」アプリを利用するには、iOS 14以降、iPadOS、またはmacOS Catalina以降が必要です。デバイスでは自分のApple Accountを使ってiCloudにサインインしている必要があります。国や地域によっては一部の機能を利用できません。国内の規制により、日本ではAirTagの探せる範囲が広がった「正確な場所を見つける」機能とApple Watchの「正確な場所を見つける」機能を利用できません。日本国外を旅行中は、iPhone AirまたはiPhone 15以降（iPhone 16eを除く）とペアリングしたAirTag（第2世代）で、探せる範囲が広がった「正確な場所を見つける」機能を利用できます。利用できるかは地域によって異なります。日本国外を旅行中にApple Watchの「正確な場所を見つける」機能を利用するには、watchOS 26.2.1を搭載したApple Watch Series 9以降またはApple Watch Ultra 2以降が必要です。利用できるかは地域によって異なります。詳しくは、apple.com/jp/uwbをご覧ください。",
+        "バッテリー駆動時間のテストは試作ソフトウェアを搭載したiPhone 17、iPhone 17 Pro、iPhone 17 Pro Max、iPhone AirのハードウェアとペアリングしたAirTag（第2世代）の試作ハードウェアとソフトウェアを使用し、2025年12月にAppleが実施しました。バッテリー駆動時間は、サウンド再生と「正確な場所を見つける」機能を毎日平均的な時間使用した結果にもとづきます。バッテリー駆動時間は使用条件、環境条件、交換したバッテリーのメーカー、その他の多くの要素によって変わり、実際の結果は異なる場合があります。より持続可能な設計はAppleが出荷する小売用パッケージにもとづきます。米国小売用パッケージの重量による内訳。接着剤、インク、コーティングは、プラスチック含有量とパッケージ重量の計算に含めていません。"
+      ],
+      "query": "Apple AirTag",
+      "asin": "B0GJTW9CL8"
+    },
+    {
+      "title": "Life360 Tile Pro 電池交換可 ハイスペックモデル ブラック スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 音を鳴らして場所をお知らせ 防水機能Bluetooth接続範囲外でも探せる 縦長 iOS Android 対応 カギやバッグに",
+      "url": "https://www.amazon.co.jp/dp/B0D9B21YQP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31K19DKuQvL._SL500_.jpg",
+      "features": [
+        "シリーズ最大接続距離のプレミアムモデル:鍵、財布、バッグ、自転車など日常的に使うものに取り付けてください。",
+        "Life360アプリ連携：Life360アプリでTileの位置情報も加えることができ、SOSアラートも送信可能です。",
+        "持ち物を探す：どこかに置き忘れてしまったら、Tileを鳴らすか無料のアプリで探しましょう。",
+        "スマホを探す ：Tileを使用すると、スマホがマナーモードになっていても鳴らすことができます。",
+        "iOSおよびAndroidに対応：無料のTileアプリは、すべてスマホでご利用いただけます。",
+        "高いスペック：最大150mのBluetooth通信距離。寿命が最大1年間の電池交換可能なバッテリー。IP68防水。",
+        "ギフトにも最適：Tileは家族や友人への手軽で便利な贈り物として最適です。",
+        "GPS ・ Air Tag ( エアタグ ) 非対応です。"
+      ],
+      "query": "Tile Pro",
+      "asin": "B0D9B21YQP"
+    },
+    {
+      "title": "Life360 Tile Mate スタンダードモデル ブラック スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 3年間電池交換不要 音を鳴らして場所をお知らせ 長距離接続 防水機能 Bluetooth接続範囲外でも探せる 小型 iOS Android 対応 カギやバッグに",
+      "url": "https://www.amazon.co.jp/dp/B0D99Z5KJP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/319ekaBdy0L._SL500_.jpg",
+      "features": [
+        "探し物を「音」で見つけるスマートトラッカー： 鍵、財布、バッグ、自転車など日常的に使うものに取り付けてください",
+        "Life360アプリ連携：Life360アプリでTileの位置情報も加えることができ、SOSアラートも送信可能です。",
+        "持ち物を探す：どこかに置き忘れてしまったら、Tileを鳴らすか無料のアプリで探しましょう。",
+        "スマホを探す ：Tileを使用すると、スマホがマナーモードになっていても鳴らすことができます。",
+        "iOSおよびAndroidに対応：無料のTileアプリは、すべてスマホでご利用いただけます。",
+        "高いスペック：最大105mのBluetooth通信距離。寿命が最大3年間のバッテリー。IP68防水。",
+        "ギフトにも最適：Tileは家族や友人への手軽で便利な贈り物として最適です。",
+        "GPS ・ Air Tag ( エアタグ ) 非対応です。"
+      ],
+      "query": "Tile Mate",
+      "asin": "B0D99Z5KJP"
+    },
+    {
+      "title": "Anker Eufy (ユーフィ) SmartTrack Link (Android用) (紛失防止タグ) 【 Googleの「検索ハブ」に対応 (Android端末のみ) / なくしものが、無くなる/探し物/スマホが見つかる/スマホ鳴らす】 Bluetooth",
+      "url": "https://www.amazon.co.jp/dp/B0D9VTLK47?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31faoIjaYwL._SL500_.jpg",
+      "features": [
+        "なくしものが、無くなる：約3.7cm四方の小さなタグ型です。穴が空いているので、そのままキーチェーン等に取り付けできます。※リングは付属していません。",
+        "Googleの「Find Hub」に対応：Android端末の「Find Hub」ネットワークで、落とし物の位置を特定できます。※AndroidはGoogle LLCの商標です。※ご使用機種により旧名称の「デバイスを探す」、「検索ハブ」と表示される場合がございます。",
+        "紛失を未然に防ぐ：スマホからSmarTrackを鳴らして持ち物の置き場所を確認したり、逆に、SmartTrackを押すことで、スマホの置き場所を確認することもできます。※位置情報の利用許可を「常に」設定する必要があります。",
+        "拾った人から連絡をもらう: 裏面のQRコードをスキャンすると持ち主に連絡できます。※「Eufy 」アプリでの登録と紛失モードをオンにする必要があります",
+        "パッケージ内容：Eufy SmartTrack Link、クイックスタートガイド、安全マニュアル、カスタマーサポート"
+      ],
+      "query": "Anker Eufy SmartTrack Link",
+      "asin": "B0D9VTLK47"
+    },
+    {
+      "title": "Anker Eufy (ユーフィ) Security SmartTrack Card (iPhone用) (紛失防止タグ) 【 Appleの「探す」に対応 (iOS端末のみ) / なくしものが、無くなる/スマートタグ/盗難防止タグ/探し物/スマホが見つかる/置き忘れ防止/スマホ鳴らす】",
+      "url": "https://www.amazon.co.jp/dp/B0BJCQCQ7Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/213JAimbXYL._SL500_.jpg",
+      "features": [
+        "なくしものが、無くなる：約2.4mmのカード型で、財布やカードケースにスッキリと収まります。付属のクリップでパスポートや書類ケース等に取り付けることもできます。",
+        "Appleの「探す」に対応：iPhone、iPad、Macデバイスの「探す」ネットワークで、落とし物の位置を特定できます。※一部機能は非対応。※「探す」機能はApple端末のみ対応。",
+        "紛失を未然に防ぐ：スマホからSmarTrackを鳴らして持ち物の置き場所を確認したり、逆に、SmartTrackを押すことで、スマホの置き場所を確認することもできます。また、置き忘れ防止機能も搭載しており、持ち物を置き忘れ、離れてしまってもアラートでお知らせします。※位置情報の利用許可を「常に」設定する必要があります。",
+        "パッケージ内容：Eufy Security SmartTrack Card、メタルクリップ、クイックスタートガイド、安全マニュアル、カスタマーサポート"
+      ],
+      "query": "Anker Eufy SmartTrack Card",
+      "asin": "B0BJCQCQ7Z"
+    },
+    {
+      "title": "エレコム スマートトラッカー 忘れ物防止タグ 紛失防止 IP65設計 Android対応 電池交換タイプ ブラック LGT-ELBETG1BKG",
+      "url": "https://www.amazon.co.jp/dp/B0FHP92TQ9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31nBkxvqGTL._SL500_.jpg",
+      "features": [
+        "Android(TM)スマートフォン・タブレットの「Find Hub」アプリから荷物のありかを探せる紛失防止タグです。Google純正のアプリをダウンロードするだけで購入後すぐに使えて、鍵やかばんなど大切な荷物の紛失を防ぎます。",
+        "使い方はかんたん3ステップ。「電源ボタンを押す」「Androidスマートフォン・タブレットの『Find Hub』アプリに登録」「大切な荷物に取り付ける」だけで完了です。位置情報はアプリからいつでも調べることができます。",
+        "約3.3cm四方のタグ型だから、家や車の鍵などにキーホルダー感覚で付けられます。スーツケースやランドセルの位置確認にも便利。旅行をはじめとしたさまざまなシーンで活用できます。",
+        "紛失防止タグ本体が鳴るアラーム機能付き。「Find Hub」アプリから「サウンドを再生」を選ぶとアラームが鳴って荷物のありかを確認できます。",
+        "ホコリなどの侵入を防ぎ、激しい雨や水しぶきがかかっても心配ないIP65設計です。"
+      ],
+      "query": "エレコム スマートトラッカー LGT-ELBETG1BKG",
+      "asin": "B0FHP92TQ9"
+    }
+  ],
+  "all_candidates": []
+}

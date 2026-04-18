@@ -1,0 +1,184 @@
+{
+  "date": "2026-05-03",
+  "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+  "queries": [
+    {
+      "query": "tomtoc ガジェットポーチ 大容量",
+      "include": [
+        "tomtoc",
+        "ガジェットポーチ"
+      ]
+    },
+    {
+      "query": "CIO NovaPort TRIOⅡ 65W",
+      "include": [
+        "NovaPort TRIOⅡ",
+        "65W"
+      ]
+    },
+    {
+      "query": "UGREEN Nexode 65W 充電器",
+      "include": [
+        "UGREEN",
+        "65W",
+        "充電器"
+      ]
+    },
+    {
+      "query": "Anker PowerLine III Flow USB-C 240W",
+      "include": [
+        "PowerLine III Flow",
+        "240W"
+      ]
+    },
+    {
+      "query": "Anker Zolo Power Bank 10000mAh 30W",
+      "include": [
+        "Zolo Power Bank",
+        "10000mAh"
+      ]
+    },
+    {
+      "query": "UGREEN Revodok USB-C ハブ 6in1",
+      "include": [
+        "Revodok",
+        "6in1"
+      ]
+    },
+    {
+      "query": "サンワサプライ ケーブルタイ マグネット CA-610N",
+      "include": [
+        "ケーブルタイ",
+        "CA-610N"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテリー マウス収納 出張 お出掛け オフィス 旅行 便利グッズ バックインバッグ 二層 自立 撥水 軽量 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CY57DPW5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41H86FahAQL._SL500_.jpg",
+      "features": [
+        "【ポーチ1つで全てを】Light-T12 ポータブルガジェットポーチは、日々や旅行の必需品をまとめてすっきり収納するソリューションを提供します。さまざまな小物を散らかりや紛失なしに、いつでも手が届き、整頓された状態をキープ。すべて一つの場所にまとめて、素早く持ち物をまとめて出かけたいときに活躍し、すっきり持ち運ぶことができます。外形寸法：24.5×13×7cm。",
+        "【整頓しやすい構造】二層収納構造に、MacBookアダプタや小物をすっきり収納できるように、程よい数のポケットを配置しました。自宅でも外出先でも、ハイテクガジェットはもちろん、個人アイテムやモバイルアクセサリーなどの必需品をいつでも手の届く場所にきちんと収まります。",
+        "【万能ポーチ】この小物入れは多用途にご利用いただけます。ハイテクガジェットをたくさん持ち運ぶ方々だけではなく、鍵、リップクリーム、イヤホン、ミントタブレットなどごちゃごちゃしがちな身の回り品もすっきり収納してます。仕事に向かうときでも、旅行に行くときでも、いつでもどこでも、迷わず取り出します。",
+        "【環境にやさしい】YKKファスナー、再生素材のPET 600Dポリエステルを使用したこのバッグは、美しさや耐久性、機能性を重視していることだけではなく、品質や地球を守ることにも全力で取り組んでいます。",
+        "【持ち運びやすい便利グッズ】複数のバッグポケットにバラバラに収納された小物アイテムを探す邪魔を軽減させるために設計したこのガジェットケースは、リュックサック、トートバッグ、スーツケースの中に入れて持ち運ぶこともできます。自立できる洗練された仕様で、中身を見渡しやすく取り出しやすいのも魅力。"
+      ],
+      "query": "tomtoc ガジェットポーチ 大容量",
+      "asin": "B0CY57DPW5"
+    },
+    {
+      "title": "CIO NovaPort TRIOⅡ 65W USB-C ×2+A 急速充電器 [世界最小級 NovaIntelligence NovaEngine搭載] ACアダプター 3ポート 2C1A USB type-C×2 + type-A ノートPC 充電器 コンセント PD iPhone 17 / Air / 16 / 15 Android Galaxy Macbook iPad向け (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0D53VJJ7F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/4112nHQ3AaL._SL500_.jpg",
+      "features": [
+        "【世界最小級 3ポート67W充電器】これまでの3ポート、USB-C単ポート最大出力65WクラスのUSB充電器、ACアダプターでは考えられないほどの小型化を実現。コンセントに挿しても他の充電器に干渉しづらいサイズで、折り畳み式のコンセントプラグだからガジェットポーチやちょっとしたポケットに収まるコンパクトさ。出張先や旅行先などのあらゆるシーン、ビジネス用途から学生の方まであらゆるユーザーにおすすめです。",
+        "【3ポート搭載】複数デバイスご利用のユーザーに便利な3ポート(Cポート２，Aポート１)搭載 。USB-C1+USB-C2+USB-Aの合計出力は最大60Wの高出力。 USB-C1+USB-C2の合計出力は最大65Wの高出力。 USB-C1+USB-Aの合計出力は最大63Wの高出力。USB-C単ポート最大出力67Wでノートパソコンへの充電にも対応！ スマートフォン(iPhoneやAndroid)からタブレット(iPad)、ノートPC(Macbook、Windows PC等)まで幅広い機器に対応しており、これ一つでご自宅でも外出先でも快適にご利用いただけます。 ※USB-C2+USB-Aの合計出力は最大15Wとなりますので、USB-C1をご利用ください。 ※詳しくは急速充電早見表（画像）をご確認ください。",
+        "【電力を最適に振り分け NovaIntelligenceを搭載】接続された端末に合わせて電力を自動で調整する独自の技術 NovaIntelligence を搭載。ポートの出力を気にしながらデバイスを繋ぐ必要がなく、同時充電時もストレスなく快適に充電が可能です。",
+        "【新技術 NovaEngine搭載】次世代半導体のGaNチップをダブルで搭載するCIOの新技術NovaEngineを採用。エネルギーのロスを減らし、変換効率の向上を実現しました。充電器本体の発熱を抑制し、充電速度と安定性を追求した充電器です。",
+        "【進化した安全保護機能 NovaSafety2.0搭載】NovaPort TRIOⅡをより安心してご使用いただけるよう、CIO独自技術としてNova Safety2.0を搭載。製品温度を常に監視し、製品高負荷時に自動的に電力調整を行います。温度管理を行うことで、より安心して長くご使用いただけることを目指しました。さらにこれまでの急速充電器にありがちだった、端末接続時に一時的に充電が止まる「瞬断」を抑制する技術も搭載。より快適なスマホ、タブレット、ノートPCの充電が実現しています。※瞬断抑制機能は急速充電規格の違いがあるため、USB-Aポートを使用した際は作動しません。"
+      ],
+      "query": "CIO NovaPort TRIOⅡ 65W",
+      "asin": "B0D53VJJ7F"
+    },
+    {
+      "title": "UGREEN NexodeX【当社比最小】 65W充電器 USB-C*2とUSB-A*1 新生代GaNInfinity™チップ 独自Airpyra技術 PD3.0/QC4+対応 自宅/出張/旅行用 ノートPC iPad iphone17/16/15/14 Galaxy S24 Pixel8 Xperia5以降対応 超急速45W対応 PSE技術基準適合 X754",
+      "url": "https://www.amazon.co.jp/dp/B0CLGZGXMD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31k2nc5tX2L._SL500_.jpg",
+      "features": [
+        "【当社比最小・65W急速充電器】Nexode Xシリーズ充電器は最新のGaNInfinityチップを搭載、新世代スタッキング技術・Airpyraの活用により、65W急速充電器としては最小級のサイズを実現しました。充電スピードも従来比約2倍にアップ！iPhone 15 Proはわずか30分で0％から60％に充電できます。MacBook Air M2の0％- 51％充電も、わ ずか30分という速さです。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【独自の温度検知/制御技術 Thermal Guard】UGREENの独 自の温度検知/制御技術Thermal Guardは、ミリ秒単位の温度検出により過熱、過充電、過電流を制御します。温度変化をリアルタイムで検知し、適切な電流をデバイスにスマートに分配することで、デバイ スのバッテリー寿命の劣化を防ぎながら安心の高速充電を実現します。シェルは耐火性および難燃性に優れた高級PVC素材を採用、落下による衝撃から保護します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【3台のデバイスを同時に充電】 2つのUSB-Cポートと1つのUSB-Aポートを搭載し、最大3台のデバイスを同時に充 電で きます。合計で最大65Wの給電が可能なため、スマートフォ ンやスマートウォッチ、タブレット、ノートパソコンなどを急いで充電したいときに便利です。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【幅広い機器に対応】USB PD3.0のほか、QC4+、PPS、SCP 、FCPなど多様な充電規格をサポートします。対応機種（一部）：MacBook Pro 14'' 2021 (M1 Pro)、MacBook Pro 13、Macbook Air 2020、iPad Pro、iPhone17、16、15、14、13、12、11 Pro、XS、XR、8、7 Plus、SE 2020、AirPods Pro、 Switch, Galaxy Note 20, Note 20 Ultra, S24，S23，S22，S21, S20, S10, Note 10 Plus, S9, S8, A8 2018, A5 2017, A51, A71, Google Pixel 4A 4 XL 3A 3 XL；P60,P60, P60 Pro, P50, P50 Pro,P40 Pro，P40, P30, P20 Proなど　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【24ヶ月間の保証】当店でご購入の製品には24ヶ月間保証サービスが付いております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【ご注意】PD充電を行うためには、PD対応ケーブルとPD充電に対応したデバイスが必要となります。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．"
+      ],
+      "query": "UGREEN Nexode 65W 充電器",
+      "asin": "B0CLGZGXMD"
+    },
+    {
+      "title": "Anker PowerLine III Flow USB-C & USB-C ケーブル Anker絡まないケーブル USB PD対応 シリコン素材採用240W iPhone 16 / 15 Galaxy iPad Pro/Air MacBook Pro/Air 各種対応 (0.9m ラベンダーグレー)",
+      "url": "https://www.amazon.co.jp/dp/B093L878QZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31FI48o+Z8S._SL500_.jpg",
+      "features": [
+        "かつてない柔軟性：ケーブル内部の銅線をグラフェンで覆い、外装にシリコン素材を使用した3層構造を採用し、従来のケーブルにはないやわらかさを実現しました。肌に優しい使い心地をお楽しみいただけます。",
+        "絡まず、ストレスフリー：束ねてポケット等に入れたり、携帯用充電器に巻き付けて持ち運んだりしても絡みにくく、出し入れもスムーズ。巻いたりまとめたりしても癖がつきにくく、いつでもスマートに使用できます。",
+        "優れた耐久性：約25,000回の折り曲げにも耐える優れた耐久性を実現しているため、ケーブル内部のワイヤーを断線から保護し、安心して充電することができます。",
+        "フルスピード充電：最大出力240Wの高出力で、スマートフォン、タブレット端末、ノートPC等のUSB-C端子機器にフルスピード充電が可能です。",
+        "パッケージ内容：Anker PowerLine III Flow USB-C & USB-C ケーブル (0.9m ラベンダーグレー)、シリコン製結束バンド、最大24ヶ月保証、カスタマーサポート"
+      ],
+      "query": "Anker PowerLine III Flow USB-C 240W",
+      "asin": "B093L878QZ"
+    },
+    {
+      "title": "Anker Zolo Power Bank (10000mAh, 30W, Built-In USB-Cケーブル) (モバイルバッテリー 10000mAh 最大30W出力 USB-C ケーブル一体型 ディスプレイ搭載) 【PD/PowerIQ搭載/PSE技術基準適合】iPhone 16 / 15 Android iPad その他各種機器対応 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0DRFR2YT3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21-zwuGdAeL._SL500_.jpg",
+      "features": [
+        "スマホに急速充電：最大30W出力でiPhone 16を含めた様々な機器に急速充電が可能です。一般的な15W出力の充電器に比べて最大2倍速く充電できます。※一般的な15W出力の充電器でiPhone 16 Pro Maxを0%から50%まで充電した場合との比較（Anker調べ）",
+        "ケーブル一体型で、荷物がスッキリ：USB-Cケーブル一体型のため、外出先でもお使いの機器をいつでも充電可能です。約14cmの一体型ケーブルは約10,000回の折り曲げにも耐えられる優れた耐久性を実現しました。(Anker調べ)",
+        "コンパクトサイズかつ安心の大容量：片手に収まるコンパクトサイズで仕事や旅行などの持ち運び用に最適です。 10000mAhの大容量でiPhone 16を約2回の充電が可能です。(Anker調べ)",
+        "最大20Wでの入力にも対応：一体型ケーブルは出力だけでなく、最大20Wでの入力にも対応可能です。約2.5時間 でバッテリー本体に満充電が可能です。 ※20W出力のUSB急速充電器を使用して充電した場合（Anker調べ）",
+        "パッケージ内容：Anker Zolo Power Bank (10000mAh, 30W, Built-In USB-Cケーブル)、USB-C & USB-Cケーブル、取扱説明書、カスタマーサポート"
+      ],
+      "query": "Anker Zolo Power Bank 10000mAh 30W",
+      "asin": "B0DRFR2YT3"
+    },
+    {
+      "title": "UGREEN Revodok USB-C ハブ 6in1 100W USB PD対応 4K 60Hz 10Gbps 高速データ転送 HDMIポート USB C 3.2 & USB-A 3.2 MacBook Pro/Air、iPad Pro、Thinkpad Rog Ally などに対応",
+      "url": "https://www.amazon.co.jp/dp/B0D1XLNWP2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41WuZUNHBSL._SL500_.jpg",
+      "features": [
+        "【6-in-1 10Gbps USB C ハブ】 2 つの 10 Gbps USB-C 3.2 Gen 2 ポート、2 つの 10 Gbps USB-A 3.2 Gen 2 ポート、4K 60Hz HDMI、100W 電源供給により、ノートパソコンの USB-C ポートの可能性をさらに引き出します。",
+        "【USB 3.2 時代の幕開け】二つ USB-C データ ポートと二つ USB-A ポートを介して、最大 10 Gbps の速度でファイル、映画、写真を転送します。10Gbps とマークされた C ポートはデータ転送にのみ使用でき、ビデオ出力や充電には対応していません。",
+        "【鮮やかな 4K 60Hz ディスプレイ】SUSB C ドックには 4K@60Hz HDMI ポートが装備されています。視覚的に美しい映画、高解像度のオンライン会議、スムーズなゲームを楽しんだり、ディスプレイを拡張して非常に魅力的なプレゼンテーションを行ったりできます。",
+        "【強力な 100W 電力供給】Type-C ポート経由の最大 100W USB C パススルー充電をサポートし、ノートパソコンに常に電力を供給します。スクリーンキャストやファイル転送のデモンストレーションを行うときは、画像やデータの損失を防ぐため、PD 充電器を抜き差ししないでください。",
+        "【幅広い互換性とドライバー不要】USB C ドングルは、MacBook Pro、MacBook Air、MacBook M1、M2、M3、iMac、iPad Pro、iPhone 15、Chromebook、Surface、Steam デッキ、Rog Ally など、ほとんどの USB-C デバイスと互換性があります。",
+        "【24ヶ月の保証期間】 ：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN Revodok USB-C ハブ 6in1",
+      "asin": "B0D1XLNWP2"
+    },
+    {
+      "title": "サンワサプライ(Sanwa Supply) ケーブルタイ(マグネット) CA-610N",
+      "url": "https://www.amazon.co.jp/dp/B0BQJ4CGYV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/313nFapqnHL._SL500_.jpg",
+      "features": [
+        "取り付け、取り外し、位置修正の容易な強力マグネットタイプです。※磁石の付く金属面に対してのみ使用可能です。",
+        "大、小2種類のベルト付きで、束ねるケーブルの径に合わせて調節可能です。　※各種カードなどの磁気記憶媒体には絶対に近づけないでください。"
+      ],
+      "query": "サンワサプライ ケーブルタイ マグネット CA-610N",
+      "asin": "B0BQJ4CGYV"
+    }
+  ],
+  "all_candidates": []
+}
