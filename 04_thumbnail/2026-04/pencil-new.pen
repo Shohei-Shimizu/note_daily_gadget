@@ -1,5 +1,5 @@
 {
-  "version": "2.9",
+  "version": "2.10",
   "children": [
     {
       "type": "frame",
@@ -5393,6 +5393,2496 @@
               "name": "s20cf",
               "fill": "#0066CC",
               "content": "Focus: 6製品ラインナップ + 各社比較 + 賃貸・持ち家向けの選択肢",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "F4sXR",
+      "x": 28000,
+      "y": 0,
+      "name": "outer21",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "WuLt8",
+          "name": "h21",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-21 | ガジェットを飾る収納。デスク横に置く「有孔ボード」7選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "zaIgp",
+          "name": "dv21a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "txZr2",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "SJ5mN",
+              "x": -78,
+              "y": -75,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_u02h82u02h82u02h.png",
+                "mode": "fill"
+              },
+              "width": 1446,
+              "height": 807
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "kmaS7",
+          "name": "lb21",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "x1Pew",
+          "name": "dv21b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "Hq674",
+          "name": "pt21",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "yCDKE",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "t60MB",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "nBpAw",
+              "fill": "#555555",
+              "content": "Prompt: Clamp-mount steel pegboard installed beside a wooden desk, organized with headphones, cables, and stationery hooks, modern minimal home office, soft natural light",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "j63f7",
+              "fill": "#555555",
+              "content": "Japanese: 木製デスク横にクランプ取付したスチール有孔ボード、ヘッドホン・ケーブル・文房具をフック収納、モダンなホームオフィス、柔らかな自然光",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "vgg78",
+              "fill": "#0066CC",
+              "content": "Focus: クランプ式設置 + デスク横活用 + ガジェット整理",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "iO3o7",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "udqRx",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "ADJfF",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a matte black steel punching board (90x45cm) mounted on a wall with kitchen tools and gadgets hanging via hooks and baskets, industrial interior style",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "cEWvM",
+              "fill": "#555555",
+              "content": "Japanese: 壁掛け設置されたマット黒スチールパンチングボード（90×45cm）、フックとバスケットで吊るしたキッチン用品やガジェット、インダストリアルインテリア",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "X47If",
+              "fill": "#0066CC",
+              "content": "Focus: 壁掛けタイプ + 大判パネル + 多用途収納",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "PrHdo",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "SGkDE",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "Esv74",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of seven different pegboards (clamp-mount, freestanding, wall-mount) in various sizes on a white background, top-down product comparison shot",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "YCiuQ",
+              "fill": "#555555",
+              "content": "Japanese: 白背景にクランプ式・卓上自立・壁掛けタイプなど7枚の有孔ボードを並べたフラットレイ、俯瞰の商品比較ショット",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "3QGHB",
+              "fill": "#0066CC",
+              "content": "Focus: 7製品ラインナップ + 設置タイプ別比較 + サイズ感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "ABaW3",
+      "x": 29400,
+      "y": 0,
+      "name": "outer22",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "ES0Gn",
+          "name": "h22",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-22 | 節電を可視化。消費電力をリアルタイムで知る「モニター」5選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "BaH3V",
+          "name": "dv22a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "tntcd",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "2sSLU",
+              "x": -185,
+              "y": -79,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_5cn72a5cn72a5cn7.png",
+                "mode": "fill"
+              },
+              "width": 1409,
+              "height": 786
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "TWvq0",
+          "name": "lb22",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "OuMYU",
+          "name": "dv22b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "JYVFk",
+          "name": "pt22",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "sGThr",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "b06yX",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "Lr1Nz",
+              "fill": "#555555",
+              "content": "Prompt: A smartphone showing real-time power consumption graph alongside a Bluetooth watt checker plugged into a wall outlet, modern living room interior, soft daylight",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "gyPgP",
+              "fill": "#555555",
+              "content": "Japanese: コンセントに挿したBluetoothワットチェッカーと、消費電力グラフをリアルタイム表示するスマホ画面、モダンなリビング、柔らかな日光",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "LIWSH",
+              "fill": "#0066CC",
+              "content": "Focus: アプリ連携 + リアルタイム可視化 + 節電アクション",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "su8zi",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "iLITQ",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "VtGJV",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a simple watt monitor with LCD screen displaying watts and kWh, plugged into a household appliance cord, clean studio product shot",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "XErvY",
+              "fill": "#555555",
+              "content": "Japanese: 家電のコードに接続されたシンプルなワットモニター、液晶にW・kWhを表示、クリーンなスタジオ商品写真",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "lDUac",
+              "fill": "#0066CC",
+              "content": "Focus: 液晶直読 + 設定不要 + 単機能の安心感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "6ejVU",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "VZ3Ch",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "CHurb",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of five power monitors (Nature Remo, Tapo smart plug, watt checkers) on white background, top-down product comparison",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "JLo2Y",
+              "fill": "#555555",
+              "content": "Japanese: 白背景にNature Remo、Tapoスマートプラグ、ワットチェッカーなど5種の電力モニターを並べたフラットレイ、俯瞰の商品比較",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "0alLZ",
+              "fill": "#0066CC",
+              "content": "Focus: 5製品比較 + 全体把握 vs 個別計測 + スマートホーム連携",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "3ph7w",
+      "x": 30800,
+      "y": 0,
+      "name": "outer23",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "Vcj06",
+          "name": "h23",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-23 | プレゼンを成功させる。多機能な「レーザーポインター」6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "KrAKN",
+          "name": "dv23a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "5FX12",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "6IZYn",
+              "x": -74,
+              "y": -23,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_jujdy2jujdy2jujd.png",
+                "mode": "fill"
+              },
+              "width": 1348,
+              "height": 674
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "19zeU",
+          "name": "lb23",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "3GV47",
+          "name": "dv23b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "PTkkq",
+          "name": "pt23",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "SRdE8",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "c7I6g",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "4srJp",
+              "fill": "#555555",
+              "content": "Prompt: Business presenter on stage holding a wireless presenter remote, green laser pointer beam visible on a large projection screen, conference room setting, dramatic lighting",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "anPV3",
+              "fill": "#555555",
+              "content": "Japanese: ステージ上のビジネスプレゼンター、ワイヤレスプレゼンターを持ちプロジェクションスクリーンにグリーンレーザーが映る、会議室、ドラマチックな照明",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "EePRu",
+              "fill": "#0066CC",
+              "content": "Focus: グリーンレーザー視認性 + 大会場プレゼン + プロ感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "hAEc4",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "Ka509",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "MCSxZ",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a slim wireless presenter remote (Logicool R400 style) with USB receiver, ergonomic black design, hand grip view, soft studio lighting",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "xVhZk",
+              "fill": "#555555",
+              "content": "Japanese: スリムなワイヤレスプレゼンター（ロジクールR400風）、USBレシーバー付き、エルゴノミックな黒デザイン、手で握るアングル、柔らかなスタジオ照明",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "UM2ka",
+              "fill": "#0066CC",
+              "content": "Focus: コンパクト本体 + USBレシーバー収納 + 直感操作",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "6cIPg",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "gaXSW",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "Wih48",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of six laser pointers (Canon, Logitech, Kokuyo) on white background, mix of red and green laser models, top-down product comparison",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "HWCQp",
+              "fill": "#555555",
+              "content": "Japanese: 白背景にCanon、ロジクール、コクヨなど6種のレーザーポインターを並べたフラットレイ、赤レーザーとグリーンレーザーのミックス、俯瞰の商品比較",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "RGhNF",
+              "fill": "#0066CC",
+              "content": "Focus: 6製品比較 + 赤vsグリーン + 用途別の選び方",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "qzz5O",
+      "x": 32200,
+      "y": 0,
+      "name": "outer24",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "fM6dL",
+          "name": "h24",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-24 | 出張をスマートに。ガジェット収納に最適な「多機能バックパック」6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "6E5uK",
+          "name": "dv24a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "NZZ30",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "A4jcu",
+              "x": -63,
+              "y": 0,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_faqej0faqej0faqe.png",
+                "mode": "fill"
+              },
+              "width": 1295,
+              "height": 723
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "b3VyH",
+          "name": "lb24",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "nmoXu",
+          "name": "dv24b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "DJ4vM",
+          "name": "pt24",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "xyrSH",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "v0vZJ",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "8rooK",
+              "fill": "#555555",
+              "content": "Prompt: A businessman walking through an airport terminal carrying a sleek black expandable backpack, business attire, morning light through large windows",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "LJxm7",
+              "fill": "#555555",
+              "content": "Japanese: スーツ姿のビジネスマンが空港ターミナルを歩く、スリムな黒いマチ拡張型バックパック、大きな窓からの朝の光",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "FjEEO",
+              "fill": "#0066CC",
+              "content": "Focus: 出張シーン + マチ拡張対応 + ビジネス兼用",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "CzxJo",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "Pju42",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "X2gHk",
+              "fill": "#555555",
+              "content": "Prompt: Open-top view of a backpack showing organized interior with laptop, tablet, charger cables, notebook, and gadgets neatly compartmentalized, flat lay studio shot",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "h0Sfy",
+              "fill": "#555555",
+              "content": "Japanese: バックパックを開いた俯瞰視点、ノートPC・タブレット・充電ケーブル・ノート・ガジェットがきれいに仕分けされた内部、フラットレイのスタジオ撮影",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "TTqwX",
+              "fill": "#0066CC",
+              "content": "Focus: 内部仕切り + PC・ガジェット収納力 + 整理しやすさ",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "RBPEh",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "GWCI1",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "RZCML",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of six business backpacks (Sanwa, Elecom, Ace Gene, etc.) lined up on white background, varied sizes and styles, top-down product lineup",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "6B45S",
+              "fill": "#555555",
+              "content": "Japanese: 白背景にサンワダイレクト、エレコム、エースジーンなど6種のビジネスバックパックを並べたフラットレイ、サイズ・スタイル多様、俯瞰の商品ラインナップ",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "J79GC",
+              "fill": "#0066CC",
+              "content": "Focus: 6製品比較 + 容量・3WAY・耐水 + 用途別の選択肢",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "jb5QC",
+      "x": 33600,
+      "y": 0,
+      "name": "outer25",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "Wd9De",
+          "name": "h25",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-25 | 大事な機材を守る。盗難を防ぐ「最新GPSトラッカー」6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "oBVRw",
+          "name": "dv25a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "kzZ50",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "cOVKR",
+              "x": -235,
+              "y": -174,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_5rvsft5rvsft5rvs.png",
+                "mode": "fill"
+              },
+              "width": 1562,
+              "height": 871
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "Ki0dr",
+          "name": "lb25",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "NbAfe",
+          "name": "dv25b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "xsEaS",
+          "name": "pt25",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "95Cua",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "AiLZw",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "w0rei",
+              "fill": "#555555",
+              "content": "Prompt: A camera bag with an Apple AirTag attached visible inside, smartphone in foreground showing Find My map with location pin, urban café setting",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "9B95a",
+              "fill": "#555555",
+              "content": "Japanese: Apple AirTagを取り付けたカメラバッグ、手前のスマホに「探す」アプリの位置ピン、都会のカフェのシーン",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "xy8mP",
+              "fill": "#0066CC",
+              "content": "Focus: 探すネットワーク + 位置追跡 + 機材防衛",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "8tFmm",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "587Uv",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "z4VYM",
+              "fill": "#555555",
+              "content": "Prompt: Close-up product shot of a Tile Pro tracker attached to a key ring, IP68 waterproof black tracker, soft studio lighting on white background",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "ngMkZ",
+              "fill": "#555555",
+              "content": "Japanese: キーリングに取り付けたTile Proトラッカーのクローズアップ商品写真、IP68防水の黒いトラッカー、白背景に柔らかなスタジオ照明",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "YbiMW",
+              "fill": "#0066CC",
+              "content": "Focus: Bluetooth150m + 防水耐久 + キーリング装着",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "ak0zW",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "Or3Uz",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "p6nCz",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of six smart trackers (Apple AirTag, Tile Pro, Tile Mate, card type) on white background, top-down comparison shot showing varied form factors",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "DaBmt",
+              "fill": "#555555",
+              "content": "Japanese: 白背景にApple AirTag、Tile Pro、Tile Mate、カード型など6種のスマートトラッカーを並べたフラットレイ、形状の違いを見せる俯瞰比較",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "VvR7c",
+              "fill": "#0066CC",
+              "content": "Focus: 6製品比較 + フォームファクター差 + iOS/Android対応",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "qfYI0",
+      "x": 35000,
+      "y": 0,
+      "name": "outer26",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "1E2KP",
+          "name": "h26",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-26 | 朝の時短をサポート。時計や温度を映す「ミラークロック」5選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "KVymw",
+          "name": "dv26a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "9jZuJ",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "oqBM6",
+              "x": -131,
+              "y": -99,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_1id0xi1id0xi1id0.png",
+                "mode": "fill"
+              },
+              "width": 1419,
+              "height": 792
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "on2hL",
+          "name": "lb26",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "2A6GA",
+          "name": "dv26b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "74afZ",
+          "name": "pt26",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "G6rVq",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "yAiON",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "6JJpe",
+              "fill": "#555555",
+              "content": "Prompt: A mirror clock on a bedside table displaying time, date, and temperature in glowing white LED, calm bedroom morning scene with soft window light",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "vSgjt",
+              "fill": "#555555",
+              "content": "Japanese: ベッドサイドテーブルのミラークロック、白色LEDで時刻・日付・温度を表示、柔らかな窓の光が差し込む朝の寝室",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "vuV3y",
+              "fill": "#0066CC",
+              "content": "Focus: 朝の身支度 + LED表示 + ベッドサイド設置",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "JRZGL",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "U1mfI",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "MOM37",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a 6.7-inch large LED mirror clock showing time, day of week, and temperature, modern minimalist desk setup with plant",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "0z8KF",
+              "fill": "#555555",
+              "content": "Japanese: 6.7インチの大型LEDミラー目覚まし時計のクローズアップ、時刻・曜日・温度を表示、観葉植物のあるミニマルなデスク",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "wEnHc",
+              "fill": "#0066CC",
+              "content": "Focus: 大型ディスプレイ + 多情報表示 + 自動調光",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "AQ693",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "HFoUH",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "hJZOd",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of five mirror clocks in various sizes (compact USB-powered, large 6.7-inch LED, smart WiFi) on white background, top-down product comparison",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "QkHcb",
+              "fill": "#555555",
+              "content": "Japanese: 白背景にコンパクトUSB式・大型6.7インチLED・スマートWiFiなど5種のミラークロックを並べたフラットレイ、俯瞰の商品比較",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "YXa96",
+              "fill": "#0066CC",
+              "content": "Focus: 5製品比較 + サイズ別 + WiFi自動同期vs電池式",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "82TpW",
+      "x": 36400,
+      "y": 0,
+      "name": "outer27",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "QiBLP",
+          "name": "h27",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-27 | 旅行前に揃えたい。世界で使える「翻訳機・充電器」7選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "uwbMq",
+          "name": "dv27a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "NzXVP",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "GxPmX",
+              "x": -111,
+              "y": -40,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_8q2km48q2km48q2k.png",
+                "mode": "fill"
+              },
+              "width": 1360,
+              "height": 759
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "WOWqQ",
+          "name": "lb27",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "D4lrN",
+          "name": "dv27b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "Kz2sH",
+          "name": "pt27",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "8ZfAo",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "is6yK",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "J59JO",
+              "fill": "#555555",
+              "content": "Prompt: A traveler holding a POCKETALK AI translator at an overseas airport, showing translation screen, suitcase and passport in background, vibrant travel scene",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "ooIf5",
+              "fill": "#555555",
+              "content": "Japanese: 海外の空港でPOCKETALK翻訳機を手に持つ旅行者、翻訳画面が見える、背景にスーツケースとパスポート、活気ある旅のシーン",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "eNXBW",
+              "fill": "#0066CC",
+              "content": "Focus: AI翻訳機 + 海外旅行 + リアル会話",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "CFnGA",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "v93xD",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "RWJqq",
+              "fill": "#555555",
+              "content": "Prompt: Multi-plug world travel adapter charging multiple devices, USB-C ports active, hotel room desk with passport and itinerary",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Xq8MN",
+              "fill": "#555555",
+              "content": "Japanese: 複数デバイスを充電するマルチプラグ世界対応変換アダプター、USB-Cポート稼働、パスポートと旅程表が置かれたホテル部屋のデスク",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "iPqYE",
+              "fill": "#0066CC",
+              "content": "Focus: マルチ変換プラグ + 複数同時充電 + 旅先のデスク",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "THbho",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "Qbv0a",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "EcPO3",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of seven travel essentials (POCKETALK S2 Plus, POCKETALK S, AUTOOSE Z2, world adapters, USB chargers) on light wood background, top-down lineup",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "RtutM",
+              "fill": "#555555",
+              "content": "Japanese: 明るい木目背景にPOCKETALK S2 Plus、POCKETALK S、AUTOOSE Z2、変換アダプター、USB充電器など7点の旅行アイテムを並べたフラットレイ、俯瞰のラインナップ",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Gfx39",
+              "fill": "#0066CC",
+              "content": "Focus: 7製品比較 + 翻訳機×充電器セット + 旅行準備一覧",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "Vcjkp",
+      "x": 37800,
+      "y": 0,
+      "name": "outer28",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "AWMmV",
+          "name": "h28",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-28 | 壁を傷つけずDIY。レーザー水平器など「スマートDIYガジェット」5選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "lVmRM",
+          "name": "dv28a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "ogpbL",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "bq0kB",
+              "x": -207,
+              "y": -32,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_chdwnzchdwnzchdw.png",
+                "mode": "fill"
+              },
+              "width": 1425,
+              "height": 795
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "hh1e3",
+          "name": "lb28",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "77Haz",
+          "name": "dv28b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "hOyV0",
+          "name": "pt28",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "65KUp",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "TtyFc",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "SXliG",
+              "fill": "#555555",
+              "content": "Prompt: A green laser level projecting horizontal and vertical lines on a white wall while a person aligns a picture frame, modern living room DIY scene",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "JjAPQ",
+              "fill": "#555555",
+              "content": "Japanese: 白い壁にグリーンレーザーが水平・垂直ラインを照射、その光に合わせて額縁を取り付ける人物、モダンなリビングのDIYシーン",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Fg4a1",
+              "fill": "#0066CC",
+              "content": "Focus: グリーンレーザー水平器 + 額縁取付 + 室内DIY",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "GXk0f",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "Zw6Xh",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "wY05z",
+              "fill": "#555555",
+              "content": "Prompt: Bosch laser distance meter measuring room distance with red dot on opposite wall, hand holding compact device, clean home interior",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "iqWkh",
+              "fill": "#555555",
+              "content": "Japanese: ボッシュのレーザー距離計が反対側の壁に赤いドットを照射し部屋の距離を測定、手にコンパクトな本体、クリーンな室内インテリア",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "bW4nL",
+              "fill": "#0066CC",
+              "content": "Focus: レーザー距離計 + ワンボタン操作 + 部屋採寸",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "WYR0v",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "lz0E7",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "1Xsew",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of five DIY gadgets (laser level, distance meter, angle gauge, stud finder) on workbench background, tool collection top-down view",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "eThNS",
+              "fill": "#555555",
+              "content": "Japanese: 作業台背景にレーザー墨出し器・距離計・角度計・下地センサーなど5種のDIYガジェットを並べたフラットレイ、ツールコレクションの俯瞰",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "ZKfiR",
+              "fill": "#0066CC",
+              "content": "Focus: 5製品比較 + レーザー精度 + 用途別ツール",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "JM4f1",
+      "x": 39200,
+      "y": 0,
+      "name": "outer29",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "3FzfC",
+          "name": "h29",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-29 | Apple Watchを便利に。毎日を変える「神アクセサリ」7選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "AFs5h",
+          "name": "dv29a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "BTJBA",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "t8YKD",
+              "x": -22,
+              "y": -15,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_yli2rdyli2rdyli2.png",
+                "mode": "fill"
+              },
+              "width": 1295,
+              "height": 723
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "sSGmi",
+          "name": "lb29",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "arFML",
+          "name": "dv29b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "9KRoM",
+          "name": "pt29",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "nYKNX",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "2orDU",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "6YIF1",
+              "fill": "#555555",
+              "content": "Prompt: Apple Watch charging on a 3-in-1 Anker MagGo power bank with iPhone simultaneously charging via USB-C cable, modern desk setup",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "o50F6",
+              "fill": "#555555",
+              "content": "Japanese: 3-in-1のAnker MagGoモバイルバッテリーで充電中のApple Watch、USB-CケーブルでiPhoneも同時充電、モダンなデスクセットアップ",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "yu1vJ",
+              "fill": "#0066CC",
+              "content": "Focus: 3-in-1モバイルバッテリー + 同時充電 + 外出先で充電切れ防止",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "ECwt0",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "bn2u1",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "OUU8W",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of Apple Watch with elegant accessory band on wrist, showing watch face and high-quality strap details, lifestyle product shot",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "o6aNc",
+              "fill": "#555555",
+              "content": "Japanese: 手首にエレガントなアクセサリーバンドを装着したApple Watchのクローズアップ、ウォッチフェイスと高品質なストラップ詳細、ライフスタイル商品写真",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Ikhs9",
+              "fill": "#0066CC",
+              "content": "Focus: バンド交換 + 装着感 + デイリースタイル",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "Hst5n",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "2UaHA",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "4kJWZ",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of seven Apple Watch accessories (3-in-1 power bank, RORRY mobile battery, Philips charger, protective cases, bands, charging stand) on white background",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "1UvBW",
+              "fill": "#555555",
+              "content": "Japanese: 白背景に3-in-1モバイルバッテリー、RORRYバッテリー、Philips充電器、保護ケース、バンド、充電スタンドなど7種のApple Watchアクセサリーを並べたフラットレイ",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "YKQQ1",
+              "fill": "#0066CC",
+              "content": "Focus: 7製品比較 + 充電・保護・装着まで網羅 + 日常アップグレード",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "gYo09",
+      "x": 40600,
+      "y": 0,
+      "name": "outer30",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "RbkPX",
+          "name": "h30",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-04-30 | 4月のベストバイ。買ってよかった「春のガジェット」8選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "493c7",
+          "name": "dv30a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "4dtGH",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "ghypp",
+              "x": -12,
+              "y": -28,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_u6fxx2u6fxx2u6fx.png",
+                "mode": "fill"
+              },
+              "width": 1224,
+              "height": 683
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "tvCB8",
+          "name": "lb30",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "SeNCw",
+          "name": "dv30b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "8AAYr",
+          "name": "pt30",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "ILRM5",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "CqzRM",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "jglUh",
+              "fill": "#555555",
+              "content": "Prompt: A spring-themed gadget hero shot featuring AirTag, smart plug, Sony WH-1000XM5 headphones, and a stylish desk arrangement, cherry blossom petals in soft focus background",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "1NP7D",
+              "fill": "#555555",
+              "content": "Japanese: AirTag、スマートプラグ、ソニーWH-1000XM5ヘッドホンを中心としたスタイリッシュなデスクアレンジ、桜の花びらが柔らかにボケる春のヒーローショット",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "ehI2T",
+              "fill": "#0066CC",
+              "content": "Focus: 春の新生活 + 月間ベスト集合 + ライフスタイル感",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "MsVZc",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "bx3lr",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "CJ29P",
+              "fill": "#555555",
+              "content": "Prompt: Editorial-style photo with a 'Best of April' badge overlay, featuring AirTag in a passport, Tapo smart plug, and Nature Remo E2 lite, magazine spread aesthetic",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "S25wM",
+              "fill": "#555555",
+              "content": "Japanese: 「Best of April」のバッジオーバーレイを配したエディトリアル風写真、パスポートに付いたAirTag、Tapoスマートプラグ、Nature Remo E2 lite、雑誌スプレッドの美学",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "gO5ba",
+              "fill": "#0066CC",
+              "content": "Focus: ベストバイ感 + エディトリアル + 受賞バッジ",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "w9dRL",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "iyBCw",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "LCwsx",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of eight April best-buy gadgets (AirTag, Tapo P110M, Nature Remo E2 lite, Sony WH-1000XM5, etc.) arranged in a grid on light pastel background, top-down product showcase",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "bsCx0",
+              "fill": "#555555",
+              "content": "Japanese: 明るいパステル背景にAirTag、Tapo P110M、Nature Remo E2 lite、ソニーWH-1000XM5など4月ベストバイ8点をグリッド配置、俯瞰の商品ショーケース",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Z6QEM",
+              "fill": "#0066CC",
+              "content": "Focus: 8製品まとめ + 春カラー + 月刊総括",
               "fontFamily": "Inter",
               "fontSize": 13,
               "fontWeight": "bold"
