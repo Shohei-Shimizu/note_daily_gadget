@@ -1,0 +1,1250 @@
+{
+  "version": "2.11",
+  "children": [
+    {
+      "type": "frame",
+      "id": "07Kut",
+      "x": 0,
+      "y": 0,
+      "name": "outer01",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "SFwBS",
+          "name": "h01",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-05-01 | 五月病を打破。朝を快適にする「最新光目覚まし」6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "BYqDl",
+          "name": "dv01a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "fqqtY",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "Tgyxk",
+              "x": -136,
+              "y": -80,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_msp9j1msp9j1msp9.png",
+                "mode": "fill"
+              },
+              "width": 1412,
+              "height": 788
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "ZjBO2",
+          "name": "lb01",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "T6YTt",
+          "name": "dv01b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "TQrxq",
+          "name": "pt01",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "DJFrs",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "hy0yo",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "FEfZf",
+              "fill": "#555555",
+              "content": "Prompt: A Philips wake-up light glowing warm sunrise orange on a bedside table, person stirring under blanket in early morning bedroom, soft warm light filling the room",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "XwxUi",
+              "fill": "#555555",
+              "content": "Japanese: ベッドサイドテーブルで朝日のオレンジ色に輝くフィリップスのウェイクアップライト、毛布の下で目覚めかけの人物、暖かい光が部屋を満たす早朝の寝室",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "yenD7",
+              "fill": "#0066CC",
+              "content": "Focus: 日の出シミュレート + 自然な目覚め + 五月病対策",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "b15BI",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "bJ4Vz",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "eFPJf",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a circular wake-up light displaying time in bright LED while emitting bright daylight white at maximum 12000 lux, minimalist Scandinavian bedroom design",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "ligR9",
+              "fill": "#555555",
+              "content": "Japanese: 円形の光目覚まし時計のクローズアップ、LEDで時刻を表示しながら最大12,000ルクスの明るい昼白色を放射、ミニマルな北欧スタイルの寝室",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "qfyps",
+              "fill": "#0066CC",
+              "content": "Focus: 高照度LED + サウンド搭載 + 国産デザイン",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "zHKdv",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "bHjEV",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "qTVI2",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of six wake-up lights (Philips HF3519, HF3520, ADESSO Shizen Flow, etc.) on white background, top-down product comparison",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "zIgnX",
+              "fill": "#555555",
+              "content": "Japanese: 白背景にPhilips HF3519、HF3520、ADESSO Shizen Flowなど6種の光目覚ましを並べたフラットレイ、俯瞰の商品比較",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "VZKDa",
+              "fill": "#0066CC",
+              "content": "Focus: 6製品比較 + 国産vs海外ブランド + 光と音の組合せ",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "eqz7p",
+      "x": 1400,
+      "y": 0,
+      "name": "outer02",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "1Rrg2",
+          "name": "h02",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-05-02 | 連休明けの掃除はお任せ。AIマッピング搭載「ロボット掃除機」7選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "1u9MO",
+          "name": "dv02a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "ftG08",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "Hnydn",
+              "x": -71,
+              "y": -61,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_fuskvrfuskvrfusk.png",
+                "mode": "fill"
+              },
+              "width": 1341,
+              "height": 749
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "Z7S3A",
+          "name": "lb02",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "agyna",
+          "name": "dv02b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "52D14",
+          "name": "pt02",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "1g8kR",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "Rpujo",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "5htlh",
+              "fill": "#555555",
+              "content": "Prompt: Anker Eufy robot vacuum cleaning a modern living room floor with AI mapping visualization overlay showing room layout, sleek black device docked nearby",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "YaSQ0",
+              "fill": "#555555",
+              "content": "Japanese: モダンなリビングの床を掃除中のAnker Eufyロボット掃除機、部屋の間取りを示すAIマッピング可視化のオーバーレイ、近くにスタイリッシュな黒い本体ドック",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "VyGVk",
+              "fill": "#0066CC",
+              "content": "Focus: AIマッピング + 全自動清掃 + 連休後の大掃除",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "Pvza2",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "FQTsZ",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "9BbZD",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of an all-in-one cleaning station with robot vacuum docked, showing dust collection bin, mop washing module, and water tanks, premium product detail",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "ekcuA",
+              "fill": "#555555",
+              "content": "Japanese: ロボット掃除機がドッキングした全自動クリーニングステーションのクローズアップ、ゴミ収集ボックス・モップ洗浄モジュール・水タンクを見せるプレミアムな商品詳細",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "OzDBp",
+              "fill": "#0066CC",
+              "content": "Focus: 全自動ステーション + 吸引×水拭き + メンテ最小化",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "aPoRv",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "x2Rm7",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "xmE2y",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of seven robot vacuums (Eufy X10 Pro Omni, E25, Lefant M1 etc.) on white background, top-down product lineup comparison",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "IKNjk",
+              "fill": "#555555",
+              "content": "Japanese: 白背景にEufy X10 Pro Omni、E25、Lefant M1など7種のロボット掃除機を並べたフラットレイ、俯瞰の商品ラインナップ比較",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "xOTtZ",
+              "fill": "#0066CC",
+              "content": "Focus: 7製品比較 + 価格帯別 + ハイエンドvsエントリー",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "IOwAp",
+      "x": 2800,
+      "y": 0,
+      "name": "outer03",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "sTTNx",
+          "name": "h03",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-05-03 | ポーチの中身を公開。ケーブルから充電器まで厳選7選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "ubfZl",
+          "name": "dv03a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "9gOhF",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "2KauY",
+              "x": -127,
+              "y": -92,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_l3kc78l3kc78l3kc.png",
+                "mode": "fill"
+              },
+              "width": 1454,
+              "height": 811
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "uimMS",
+          "name": "lb03",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "sXjwR",
+          "name": "dv03b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "1rn0g",
+          "name": "pt03",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "L1PwN",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "r9qSW",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "lUmRr",
+              "fill": "#555555",
+              "content": "Prompt: An open tomtoc gadget pouch revealing organized contents - GaN charger, silicone cables, mobile battery, USB hub - flat lay style on wooden desk",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "mzNZX",
+              "fill": "#555555",
+              "content": "Japanese: tomtocガジェットポーチを開いて整理された中身（GaN充電器・シリコンケーブル・モバイルバッテリー・USBハブ）を見せる、木製デスク上のフラットレイ",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "y5Uhz",
+              "fill": "#0066CC",
+              "content": "Focus: ポーチ展開 + 整理整頓 + 持ち出し基本セット",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "8adaU",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "hVrsi",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "WJhrA",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a compact GaN 3-port charger (CIO NovaPort or UGREEN) with foldable plug, USB-C cables connected, palm-sized hero shot",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "j3mE3",
+              "fill": "#555555",
+              "content": "Japanese: コンパクトなGaN 3ポート充電器（CIO NovaPortまたはUGREEN）の折り畳みプラグのクローズアップ、USB-Cケーブル接続、手のひらサイズのヒーローショット",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "EgIVe",
+              "fill": "#0066CC",
+              "content": "Focus: GaN小型化 + 3ポート同時 + 折り畳みプラグ",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "qJn7O",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "ntFpc",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "MClcF",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of seven gadget pouch essentials (pouch, GaN charger, silicone cable, mobile battery, USB hub, etc.) on light beige background, top-down lineup",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "lW8Jd",
+              "fill": "#555555",
+              "content": "Japanese: 明るいベージュ背景にポーチ・GaN充電器・シリコンケーブル・モバイルバッテリー・USBハブなど7点のガジェットポーチ必需品を並べたフラットレイ、俯瞰のラインナップ",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "HkPSu",
+              "fill": "#0066CC",
+              "content": "Focus: 7製品比較 + 出張・旅行装備 + 中身公開ネタ",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "jmPLr",
+      "x": 4200,
+      "y": 0,
+      "name": "outer04",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "d0XYk",
+          "name": "h04",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-05-04 | 自律神経を整える。ストレスを計測する「最新デバイス」5選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "t25AW",
+          "name": "dv04a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "KXaeI",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "ulphN",
+              "x": -67,
+              "y": -58,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_ij0subij0subij0s.png",
+                "mode": "fill"
+              },
+              "width": 1333,
+              "height": 744
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "wmTsw",
+          "name": "lb04",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "p1508",
+          "name": "dv04b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "dZJId",
+          "name": "pt04",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "rftYs",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "wCbrG",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "DVkjE",
+              "fill": "#555555",
+              "content": "Prompt: A wrist wearing a Fitbit Sense 2 smartwatch displaying a stress score graph, calm minimal home office desk, person in soft focus working in background",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "nCSXw",
+              "fill": "#555555",
+              "content": "Japanese: ストレススコアのグラフを表示するFitbit Sense 2スマートウォッチを装着した手首、落ち着いたミニマルなホームオフィスデスク、背景にソフトフォーカスで作業する人物",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "52aUZ",
+              "fill": "#0066CC",
+              "content": "Focus: ストレス可視化 + スマートウォッチ装着 + 自律神経ケア",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "JSvL9",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "D6VlN",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "Kzsii",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a HEALBE GoBe smart band on a desk with a smartphone showing real-time stress level and EDA biosignal data, modern wellness aesthetic",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "tDVuC",
+              "fill": "#555555",
+              "content": "Japanese: デスクに置かれたHEALBE GoBeスマートバンドのクローズアップ、リアルタイムストレスレベルとEDA生体信号データを表示するスマホ、モダンなウェルネス美学",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "HIVAP",
+              "fill": "#0066CC",
+              "content": "Focus: EDAセンサー + ストレス数値化 + アプリ連携",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "NANZ7",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "mKvKE",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "m49qp",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of five wearable stress measurement devices (HEALBE GoBe, Fitbit Sense 2, GARMIN Instinct, etc.) on white background, top-down product comparison",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "TM6dg",
+              "fill": "#555555",
+              "content": "Japanese: 白背景にHEALBE GoBe、Fitbit Sense 2、GARMIN Instinctなど5種のウェアラブルストレス計測デバイスを並べたフラットレイ、俯瞰の商品比較",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "tmsjF",
+              "fill": "#0066CC",
+              "content": "Focus: 5製品比較 + バンドvsウォッチ + 用途別の選び方",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "kraqT",
+      "x": 5600,
+      "y": 0,
+      "name": "outer05",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "VQn9R",
+          "name": "h05",
+          "fill": "#1A1A1A",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "2026-05-05 | 夏の準備を快適に。AIやスマホで操る「サーキュレーター」6選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "l2l8D",
+          "name": "dv05a",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "OP7FC",
+          "name": "thumbnail",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#E0E0E0"
+          },
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "DCyyO",
+              "x": -82,
+              "y": -67,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_ulooqnulooqnuloo.png",
+                "mode": "fill"
+              },
+              "width": 1364,
+              "height": 761
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "aouce",
+          "name": "lb05",
+          "fill": "#888888",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "v4ju2",
+          "name": "dv05b",
+          "fill": "#CCCCCC",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "ND3aH",
+          "name": "pt05",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 20,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "1kdLd",
+          "name": "Scene 1",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "skx3D",
+              "fill": "#333333",
+              "content": "Scene 1",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "EAdNY",
+              "fill": "#555555",
+              "content": "Prompt: A SwitchBot cordless circulator placed on a sunlit balcony with subtle airflow lines visualization, smartphone in foreground showing app control screen",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "aozIx",
+              "fill": "#555555",
+              "content": "Japanese: 日差しのベランダに置かれたSwitchBotコードレスサーキュレーター、繊細なエアフローラインの可視化、手前のスマホにアプリ操作画面",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "1sEBK",
+              "fill": "#0066CC",
+              "content": "Focus: コードレス + アプリ操作 + 夏準備のシーン",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "G6jdR",
+          "name": "Scene 2",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "Pjjfd",
+              "fill": "#333333",
+              "content": "Scene 2",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "Hpr0q",
+              "fill": "#555555",
+              "content": "Prompt: Close-up of a cocono airy fan with 360-degree oscillation in a stylish minimal living room, plants and morning light, interior-friendly design hero shot",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "26Ipq",
+              "fill": "#555555",
+              "content": "Japanese: 360°首振りのcocono airy fanがスタイリッシュなミニマルリビングに置かれたクローズアップ、観葉植物と朝の光、インテリア性重視のヒーローショット",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "FSg7L",
+              "fill": "#0066CC",
+              "content": "Focus: デザイン重視 + 360°首振り + インテリア調和",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "7ebYL",
+          "name": "Scene 3",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "dhGzf",
+              "fill": "#333333",
+              "content": "Scene 3",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "Oz0rZ",
+              "fill": "#555555",
+              "content": "Prompt: Flat lay of six smart circulators (SwitchBot cordless, SwitchBot Lite, cocono airy fan, etc.) on white background, top-down product comparison",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "bGhxa",
+              "fill": "#555555",
+              "content": "Japanese: 白背景にSwitchBotコードレス、SwitchBot Lite、cocono airy fanなど6種のスマートサーキュレーターを並べたフラットレイ、俯瞰の商品比較",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "BxHo7",
+              "fill": "#0066CC",
+              "content": "Focus: 6製品比較 + コードレスvs据置 + 静音・省エネ",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
