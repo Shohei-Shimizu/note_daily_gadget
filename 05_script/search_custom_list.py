@@ -7,6 +7,9 @@ import datetime
 import urllib.request
 import urllib.parse
 import time
+import ssl
+
+import certifi
 
 # Configuration
 ACCESS_KEY = "AKPAC2JB3E1767047306"
@@ -78,9 +81,10 @@ def search_products(keywords, partner_tag, item_count=1):
     }
 
     req = urllib.request.Request(ENDPOINT, data=payload_json.encode('utf-8'), headers=headers)
+    ssl_context = ssl.create_default_context(cafile=certifi.where())
     
     try:
-        with urllib.request.urlopen(req) as response:
+        with urllib.request.urlopen(req, context=ssl_context) as response:
             return json.loads(response.read().decode('utf-8'))
     except Exception as e:
         return {"error": str(e)}
