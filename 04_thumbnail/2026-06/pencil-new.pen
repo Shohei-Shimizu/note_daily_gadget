@@ -1,0 +1,257 @@
+{
+  "version": "2.11",
+  "children": [
+    {
+      "type": "frame",
+      "id": "spgZE",
+      "x": 0,
+      "y": 0,
+      "name": "outer-2026-06-01",
+      "width": 1300,
+      "fill": "#F5F5F5",
+      "layout": "vertical",
+      "gap": 32,
+      "padding": 32,
+      "children": [
+        {
+          "type": "text",
+          "id": "e7tMH",
+          "name": "header",
+          "fill": "#1A1A1A",
+          "content": "2026-06-01 / 部屋干しを快適に。梅雨に負けない「衣類乾燥・除湿機」 7 選",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "rectangle",
+          "id": "INCaq",
+          "name": "divider1",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "oX2d5",
+          "name": "thumbnail-frame",
+          "clip": true,
+          "width": 1200,
+          "height": 628,
+          "fill": "#FFFFFF",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "q376g",
+              "x": -5,
+              "y": -81,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "Gemini_Generated_Image_k9prwek9prwek9pr.png",
+                "mode": "fill"
+              },
+              "width": 1281,
+              "height": 715
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "S8fwX",
+          "name": "label",
+          "fill": "#888888",
+          "content": "↑ ここに画像を配置（1200×628）",
+          "textAlign": "center",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "rectangle",
+          "id": "QBiPS",
+          "name": "divider2",
+          "fill": "#CCCCCC",
+          "width": 1236,
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "rkhmO",
+          "name": "prompts-heading",
+          "fill": "#1A1A1A",
+          "content": "Thumbnail Prompts",
+          "fontFamily": "Inter",
+          "fontSize": 18,
+          "fontWeight": "bold"
+        },
+        {
+          "type": "frame",
+          "id": "YApAW",
+          "name": "scene1",
+          "width": 1236,
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "JXwbs",
+              "name": "s1t",
+              "fill": "#333333",
+              "content": "Scene 1: Living Room Laundry",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "gZjzX",
+              "name": "s1p",
+              "fill": "#555555",
+              "content": "Prompt: A modern Japanese living room with a clothes drying rack standing near a tall window during a rainy day, with a slim white dehumidifier-clothes-dryer placed on the wood floor next to the rack, its top air vent gently swiveling toward the hung shirts. Photorealistic lifestyle photography, soft window light from the side, slightly hazy gray sky with subtle rain streaks visible through the window. White walls with natural wood furniture, a subtle plant in the background out of focus. Hi-key bright tone, modern minimal interior, no logos, no text overlays.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "K3Zu9e",
+              "name": "s1j",
+              "fill": "#555555",
+              "content": "Japanese: 雨の窓辺の前で物干しスタンドに洗濯物がかけられたリビングに、スリムな白い衣類乾燥除湿機が置かれ、上部の送風口がシャツに向かって首振りしているシーン。窓の外はうっすら曇り空と雨。ナチュラルウッドの床、観葉植物が背景にボケる。ロゴ・テキストなし。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "OKYHM",
+              "name": "s1f",
+              "fill": "#0066CC",
+              "content": "Focus: 「梅雨の窓×部屋干しシーン×稼働中の除湿機」のストーリーで、商品の用途を直感的に伝える",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "zIPgm",
+          "name": "scene2",
+          "width": 1236,
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "oHrmi",
+              "name": "s2t",
+              "fill": "#333333",
+              "content": "Scene 2: Close-Up Control Panel",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "X42WA",
+              "name": "s2p",
+              "fill": "#555555",
+              "content": "Prompt: Close-up shot of a person's hand gently pressing the power button on the top control panel of a slim white clothes-drying dehumidifier. The digital LED display shows humidity percentage and timer settings. The background is a softly blurred white-walled laundry corner with folded white towels and a tall green plant. Photorealistic, natural sidelight from a window, hi-key bright tone, shallow depth of field with the control panel sharp. Modern minimal aesthetic, no logos, no text.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "LWFlW",
+              "name": "s2j",
+              "fill": "#555555",
+              "content": "Japanese: 衣類乾燥除湿機の天面にある操作パネルに人の手がやさしく触れているクローズアップ。LEDディスプレイには湿度と時間が表示。背景はランドリーコーナーが柔らかくボケる。窓からの自然光、明るいトーン。ロゴ・テキストなし。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "NyT7W",
+              "name": "s2f",
+              "fill": "#0066CC",
+              "content": "Focus: 「操作の手軽さ×ハイテク感」を伝え、忙しい在宅ワーカーや共働き世帯に響かせる",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "vyclt",
+          "name": "scene3",
+          "width": 1236,
+          "fill": "#FFFFFF",
+          "cornerRadius": 8,
+          "layout": "vertical",
+          "gap": 8,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "r7AnJX",
+              "name": "s3t",
+              "fill": "#333333",
+              "content": "Scene 3: Morning Laundry Space",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "bold"
+            },
+            {
+              "type": "text",
+              "id": "z8HfTh",
+              "name": "s3p",
+              "fill": "#555555",
+              "content": "Prompt: A bright minimal Japanese laundry room scene in the morning, with a compact clothes-drying dehumidifier on caster wheels placed on the tile floor next to a folding clothes drying rack hung with neat rows of white shirts and towels. Soft natural morning light filters through frosted glass, casting gentle shadows. White walls, simple shelving with neatly stacked detergent bottles slightly out of focus, a single small green plant in the corner. Photorealistic, hi-key bright tone, photographed from a 3/4 angle.",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "Yy8FI",
+              "name": "s3j",
+              "fill": "#555555",
+              "content": "Japanese: 朝のミニマルな脱衣所。タイル床にキャスター付きのコンパクトな衣類乾燥除湿機が置かれ、隣の物干しスタンドに白いシャツやタオルが整然と干されている。すりガラスから柔らかい光、白壁、棚にはボトル類がボケる。明るいトーン、3/4アングル。ロゴ・テキストなし。",
+              "lineHeight": 1.6,
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "GVnwA",
+              "name": "s3f",
+              "fill": "#0066CC",
+              "content": "Focus: 「朝×ランドリー空間×清潔感」を演出し、生活感のあるベネフィットを訴求",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "bold"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
