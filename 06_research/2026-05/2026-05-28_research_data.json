@@ -1,0 +1,158 @@
+{
+  "date": "2026-05-28",
+  "title": "柔らかくて使いやすい。CIO の「シリコンケーブル」特集 6 選",
+  "queries": [
+    {
+      "query": "CIO 柔らかいシリコンケーブル C to C 240W",
+      "include": [
+        "CIO",
+        "シリコン"
+      ]
+    },
+    {
+      "query": "CIO シリコンケーブル C to C 100W",
+      "include": [
+        "CIO",
+        "シリコン"
+      ]
+    },
+    {
+      "query": "CIO シリコンケーブル USB-C Lightning",
+      "include": [
+        "CIO",
+        "シリコン"
+      ]
+    },
+    {
+      "query": "CIO スパイラルケーブル USB-C",
+      "include": [
+        "CIO",
+        "スパイラル"
+      ]
+    },
+    {
+      "query": "CIO L字 シリコンケーブル USB-C",
+      "include": [
+        "CIO",
+        "シリコン"
+      ]
+    },
+    {
+      "query": "CIO マグネットシリコンケーブル",
+      "include": [
+        "CIO",
+        "シリコン"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "CIO 柔らかいシリコンケーブル C to C (USB Type-C/USB-C) 240W PD 急速 充電ケーブル 絡まない iPhone 17 / 16 / 15 / Macbook Pro/Air/iPad/ノートパソコン Galaxy Google Pixel Android (アンドロイド)",
+      "url": "https://www.amazon.co.jp/dp/B0B2PR2QD4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31vfpYAhTJL._SL500_.jpg",
+      "features": [
+        "外装にシリコン素材を使用したことで、従来のケーブルにはない柔らかい質感を実現しました。優しい使い心地をご体感ください。カバンやポケットに入れても絡みにくく、出し入れもスムーズに行えます。折り癖や巻き癖が付きにくいため、いつでもストレスフリーにご使用いただけます。",
+        "30,000回の折り曲げテストを実施し、断線しにくい優れた耐久性を実現。ケーブル内部のワイヤーを断線から保護し、安心して急速/高速充電することが出来ます。",
+        "240Wに対応。高出力を必要とするデバイスを充電される場合は対応したACアダプタが必要となります。お持ちでない方はCIOが販売する充電器がおすすめです。",
+        "データ転送速度最大480Mbpsを実現し、写真や動画・音声等のデータを素早く転送することが可能です。",
+        "日本メーカーによる安心サポートで、ご購入いただいてから最大1年の保証付き。動作不良にもしっかりと対応させていただきます。初期不良の場合、まずはお問い合わせください。お問い合わせ時はご注文番号をお伝えいただくとスムーズです。"
+      ],
+      "query": "CIO 柔らかいシリコンケーブル C to C 240W",
+      "asin": "B0B2PR2QD4"
+    },
+    {
+      "title": "CIO 柔らかいシリコンケーブル C to C (USB Type-C/USB-C) 100W PD 急速 充電ケーブル 絡まない iPhone15 / 16 / Macbook Pro/Air/iPad/ノートパソコン Galaxy Google Pixel Android (アンドロイド)",
+      "url": "https://www.amazon.co.jp/dp/B0D4VDVBNL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21nnGx53qmL._SL500_.jpg",
+      "features": [
+        "外装にシリコン素材を使用したことで、従来のケーブルにはない柔らかい質感を実現しました。優しい使い心地をご体感ください。カバンやポケットに入れても絡みにくく、出し入れもスムーズに行えます。折り癖や巻き癖が付きにくいため、いつでもストレスフリーにご使用いただけます。",
+        "モバイルバッテリーとスマホの重ね持ち充電に最適な長さ（ケーブル長15cm）です。",
+        "30,000回の折り曲げテストを実施し、断線しにくい優れた耐久性を実現。ケーブル内部のワイヤーを断線から保護し、安心して急速/高速充電することが出来ます。",
+        "※100W急速充電には100W出力以上に対応したACアダプタが必要となります。お持ちでない方はCIOが販売する充電器がおすすめです。",
+        "データ転送速度最大480Mbpsを実現し、写真や動画・音声等のデータを素早く転送することが可能です。",
+        "日本メーカーによる安心サポートで、ご購入いただいてから最大1年の保証付き。動作不良にもしっかりと対応させていただきます。初期不良の場合、まずはお問い合わせください。お問い合わせ時はご注文番号をお伝えいただくとスムーズです。"
+      ],
+      "query": "CIO シリコンケーブル C to C 100W",
+      "asin": "B0D4VDVBNL"
+    },
+    {
+      "title": "CIO 柔らかいシリコンケーブル USB-C & ライトニング (USB Type-C/Lightning) iPhone 14 PD 60W 急速 充電 絡まない 30000回折り曲げ対応（ストレート, ブラック, 0.15m）",
+      "url": "https://www.amazon.co.jp/dp/B0CVN8DX2Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31eUwnMqX2L._SL500_.jpg",
+      "features": [
+        "外装にシリコン素材を使用したことで、従来のケーブルにはない柔らかい質感を実現しました。優しい使い心地をご体感ください。カバンやポケットに入れても絡みにくく、出し入れもスムーズに行えます。折り癖や巻き癖が付きにくいため、いつでもストレスフリーにご使用いただけます。",
+        "30,000回の折り曲げテストを実施し、断線しにくい優れた耐久性を実現。ケーブル内部のワイヤーを断線から保護し、安心して急速/高速充電することが出来ます。",
+        "日本メーカーによる安心サポートで、ご購入いただいてから最大1年の保証付き。動作不良にもしっかりと対応させていただきます。初期不良の場合、まずはお問い合わせください。お問い合わせ時はご注文番号をお伝えいただくとスムーズです。"
+      ],
+      "query": "CIO シリコンケーブル USB-C Lightning",
+      "asin": "B0CVN8DX2Y"
+    },
+    {
+      "title": "CIO フラットスパイラルケーブル CtoC 1m (Type-C/USB-C) PD 急速充電 平型 磁石 マグネット吸着 まとまる 充電ケーブル PD 240W データ転送 480Mbps (ライトブラック, 1m)",
+      "url": "https://www.amazon.co.jp/dp/B0FXKF11B1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/313LZ8v+G6L._SL500_.jpg",
+      "features": [
+        "【携帯性に優れたデザイン】薄いフラットケーブルに磁石を内蔵。厚みを抑えた渦巻き状にきれいにまとまるため、非常にコンパクトにまとまります。体積をとらないのでカバンやポーチの隙間にスッキリ収まります。ナイロンの編み込み素材は柔軟で丈夫です。",
+        "【急速充電、データ転送も可能】PD急速充電規格に対応。最大240Wの充電にお使いいただけます。スマホやイヤホンはもちろん、デジカメやノートPCにも安定給電できる急速充電ケーブルです。データ転送はUSB2.0、最大480Mbpsに対応しています。"
+      ],
+      "query": "CIO スパイラルケーブル USB-C",
+      "asin": "B0FXKF11B1"
+    },
+    {
+      "title": "CIO シリコンL字ケーブル USB Type-C ケーブル 240W L型 急速充電 絡まない 90度 USB-C 1m 直角 高速データ転送 20Gbps 4K 映像出力 USB4.0 Gen2 PD EPR MacBook Pro iPad Android Galaxy Switch ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0C4P5XZ8X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31mizPs5-2L._SL500_.jpg",
+      "features": [
+        "【しなやかなシリコン素材】外装にシリコン素材を使用したことで、従来のケーブルにはない柔らかい質感を実現しました。優しい使い心地をご体感ください。カバンやポケットに入れても絡みにくく、出し入れもスムーズに行えます。折り癖や巻き癖が付きにくいため、いつでもストレスフリーにご使用いただけます。",
+        "【優れた耐久性】3,000回の折り曲げテストを実施し、断線しにくい優れた耐久性を実現。ケーブル内部のワイヤーを断線から保護し、安心して急速/高速充電することが出来ます。",
+        "【USB Power Delivery EPR(PD3.1)対応】従来の100Wよりも更に早い最大240Wに対応。MacbookやWindows等のハイエンドノートPCから大容量モバイルバッテリー等ありとあらゆるデバイスを最速で充電可能です。※100W以上の出力で充電する際はPD EPRに対応したAC充電器が必要です。お持ちでない方はCIOが販売するNovaPort TRIO(CIO-G140W3CE)がオススメです。",
+        "【対応機種】SONY XperiaやSamsung Galaxyなどの各種Android端末はもちろん、100W充電に対応しているのでUSB-C対応のiPad ProやiPad Air、Macbook ProやSurface、LenovoなどのノートPC/Laptop、Switchなどあらゆるデバイスに幅広く対応。※100W急速充電には100W出力以上に対応したACアダプタが必要となります。お持ちでない方はCIOが販売する充電器がおすすめです。",
+        "【高速給電をサポート】E-Marker内蔵のケーブル。給電先のデバイスに適した電圧や電流を自動で調整します。面倒な設定は不要です。 ※E-Markerとは「自分の電気特性を機器へ伝えるためのICチップ」のことです。ケーブルの製造元や通電容量などを製造元が設定を行い、その情報を基に供給電力を決定します。USB PD規格に合わせて最適な電力調整を行う事ができ、高速な充電が可能になります。"
+      ],
+      "query": "CIO L字 シリコンケーブル USB-C",
+      "asin": "B0C4P5XZ8X"
+    },
+    {
+      "title": "CIO マグネットシリコンケーブル 100W対応 USB Type-C 磁石で脱着 防水規格 IPX5対応 iPhone 17 / 16 / 15 タイプC ケーブル (ストレート,ブラック, 0.5m)",
+      "url": "https://www.amazon.co.jp/dp/B0CHW7DH4R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31p7XOcl0nL._SL500_.jpg",
+      "features": [
+        "【カチッとくっつくデータ転送対応マグネット充電ケーブル】iPhone 17 など、スマートフォン や USB type-C ポート搭載機器に ケーブル を近づければ磁石でカチッと吸着して充電。そんな圧倒的な手軽さと利便性を持った充電ケーブルです。データ転送速度は最大480Mbpsを実現し、写真や動画・音声等のデータを素早く転送することが可能です。",
+        "【PD 急速充電 100W 対応で様々な機器を安定して充電】100Wの大出力やUSB-PDにも対応するケーブルを採用しているので、スマホだけではなく、ノートPC (MacBook air M3 / Surface / Lenovo など)もらくらく充電可能。※100W急速充電には100W出力以上に対応したACアダプタが必要となります。お持ちでない方はCIOが販売する充電器がおすすめです。",
+        "【徹底的にこだわったCIOならではの安全性】端子とコネクタが分離しているために発生しやすい通電トラブルに対応するため、マグネットケーブルにポゴピンを実装しています。1つ1つのピンが各種通電機能を端子とコネクタ間で確認し合い、問題無ければ通電する仕様です。さらに万が一の過充電や異常な発熱などから大切なデバイスを守るため、充電保護システムe-Marker(イーマーカー)チップを搭載しました。目先の便利さだけではなく、より安心して長くご使用いただきたい。そんな想いを体現しました。",
+        "【しなやか過ぎて絡まない、折り曲げテスト30,000回クリアのシリコンケーブル】外装にシリコン素材を使用したことで、従来のケーブルにはない柔らかい質感を実現しました。優しい使い心地をご体感ください。カバンやポケットに入れても絡みにくく、出し入れもスムーズに行えます。折り癖や巻き癖が付きにくいため、いつでもストレスフリーにご使用いただけます。30,000回の折り曲げテストを実施し、断線しにくい優れた耐久性を実現。ケーブル内部のワイヤーを断線から保護し、安心して急速/高速充電することが出来ます。",
+        "※デバイスの充電口付近に装着されるアクセサリのサイズによって、本製品が正しく装着できず、使用できない場合がありますので、ご注意ください。"
+      ],
+      "query": "CIO マグネットシリコンケーブル",
+      "asin": "B0CHW7DH4R"
+    }
+  ],
+  "all_candidates": []
+}

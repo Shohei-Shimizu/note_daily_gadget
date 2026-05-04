@@ -1,0 +1,149 @@
+{
+  "date": "2026-05-26",
+  "title": "Google vs Alexa。自分に合う「スマートスピーカー・ディスプレイ」 6 選",
+  "queries": [
+    {
+      "query": "Echo Dot 第5世代",
+      "include": [
+        "Echo Dot"
+      ]
+    },
+    {
+      "query": "Echo Spot 2024 Alexa",
+      "include": [
+        "Echo Spot"
+      ]
+    },
+    {
+      "query": "Echo Show 5 第3世代",
+      "include": [
+        "Echo Show 5"
+      ]
+    },
+    {
+      "query": "Google Nest Mini 第2世代",
+      "include": [
+        "Google Nest Mini"
+      ]
+    },
+    {
+      "query": "Google Home スマートスピーカー 本体",
+      "include": [
+        "Google Home"
+      ]
+    },
+    {
+      "query": "Google Nest Hub Max 本体",
+      "include": [
+        "Google Nest Hub Max"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜チャコール",
+      "url": "https://www.amazon.co.jp/dp/B09B8SZLLG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51ojjwuImJL._SL500_.jpg",
+      "features": [
+        "【コンパクトなのに響く低音・高音質】前世代と同じサイズでも、よりクリアなボーカル、より深い低音、そして鮮やかなサウンドが楽しめる、Alexa搭載スマートスピーカー。",
+        "【音楽もポッドキャストも】Amazon Music、Apple Music、Spotifyなどからお好みの音楽、ポッドキャストを再生。オーディオブックも楽しめます。スマホからBluetoothで音楽再生も。",
+        "【Alexaが暮らしのお手伝い】Alexaに話しかけて天気やニュースを聞いたり、スケジュールを確認したり、タイマーのセットも。",
+        "【スマートホームで快適生活】スマートホーム製品の操作は声だけではありません。モーション検知機能や内蔵温度センサーを使って、あらかじめ設定した操作を自動で実行することができます。たとえば、部屋に入ると照明が点灯したり、室温が設定温度を超えたら扇風機を動かしたり。",
+        "【簡単ペアリングでさらに迫力のサウンド】Echo Dot 第5世代が2台あれば、Alexaアプリから簡単にステレオサウンドを楽しむことができます。さらに、Fire TVと組み合わせれば迫力のホームシアターを簡単に設定することができます。他のEchoデバイスと一緒に鳴らして家中で音楽を楽しむことも。",
+        "【eeroビルトイン】対応するeeroルーター(別売)をお使いの場合は対応するEchoデバイスがwifiエクステンダーになります。",
+        "【プライバシーに配慮したデザイン】マイク オン/オフ ボタンを用意するなど、何重ものプライバシー保護対策を用いて設計しています。また、Amazonは、個人情報を第三者に販売する業務は行っていません。",
+        "【サステナビリティへの取り組み】デバイスには再生利用ポリエステル糸100%と再生利用プラスチックを57%使用するなど、サステナビリティを考慮した設計になっています。"
+      ],
+      "query": "Echo Dot 第5世代",
+      "asin": "B09B8SZLLG"
+    },
+    {
+      "title": "Amazon Echo Spot（2024年発売） - スマートアラームクロック with Alexa、鮮やかなサウンド | ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0C2S4K41G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41qT82TSxdL._SL500_.jpg",
+      "features": [
+        "【新しくなったEcho Spot】高音質で洗練されたデザインのAlexa搭載スマートアラームクロック。朝の慌ただしい時間や夜のリラックスタイムなど、日常のいろいろな場面でお役に立ちます。",
+        "【カスタマイズ可能】時刻、天気、再生中の曲名などを一目で確認したり、対応するスマートホーム製品(別売)のコントロールなど、ディスプレイ付きならではの便利な使い方ができます。時計のデザインやカラーは、お好みに合わせて選ぶことができます。",
+        "【鮮やかなサウンド】クリアなボーカルと深みのある低音で、高音質のオーディオを楽しめます。Alexaに話しかけて、音楽、ポッドキャスト、オーディオブックを再生できます。ディスプレイに曲名が表示され、タッチ操作で再生をコントロールできます。※各コンテンツやサービスの利用には別途登録・契約や料金が必要な場合があります。",
+        "【暮らしを便利に】好きな曲を目覚ましに設定したり、徐々に明るくなる照明(別売)を明るくするなど、Alexaの定型アクションによって自由に朝のルーティンを設定できます。時刻やリマインダーを一目で確認でき、Alexaに今日の天気を尋ねることもできます。",
+        "【手軽に始めるスマートホーム】Alexa対応スマートホーム製品を接続すれば、Alexaに話しかけて照明をつけたり、消したりすることができます。モーション検知を使った定型アクションを設定して、外出時に自動的にエアコンをオフにしたり、部屋に入ったら自動的にカーテンを開けたりすることもできます。※エアコンや扇風機などのAlexa非対応の家電については、Alexa対応のスマートリモコン等を使用する必要があります。",
+        "【プライバシーに配慮したデザイン】Amazonはお客様の大切な個人情報を販売することはありません。マイク オン/オフ ボタンやアプリ内での設定など、何重ものプライバシー保護対策を用いて設計しています。",
+        "【サステナビリティへの取り組み】このデバイスには再生利用素材が36%使用されています。"
+      ],
+      "query": "Echo Spot 2024 Alexa",
+      "asin": "B0C2S4K41G"
+    },
+    {
+      "title": "Amazon Echo Show 5 (エコーショー5) 第3世代 - スマートディスプレイ with Alexa、2メガピクセルカメラ付き、チャコール",
+      "url": "https://www.amazon.co.jp/dp/B09B2PF8S4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Nngpk4CaL._SL500_.jpg",
+      "features": [
+        "【ディスプレイ付きでEchoがより便利に】5.5インチのディスプレイを搭載。ニュースや天気を一目で確認したり、ビデオ通話をしたり、対応するカメラの映像を確認したり、音楽や動画ストリーミングをお楽しみ頂くことができます。",
+        "【コンパクトでも高音質】Amazon Music、Spotifyなどのストリーミングサービスの音楽、Prime Videoなどのストリーミングビデオ、ラジオ、ポッドキャストなどを、深い低音とクリアなボーカルで再生できます。5.5インチディスプレイには動画、曲名などが表示されます。",
+        "【スマートホーム】照明やエアコンなど、Alexa対応スマートホーム製品（別売）を音声でも、画面上でも操作できます。※エアコンや扇風機などの一部のAlexa非対応の家電については、Alexa対応のスマートリモコン等を使用する必要があります。",
+        "【見守り】内蔵カメラを使って外出先から家族やペットの様子をチェックしたり、対応するドアベルやカメラをご利用の場合は玄関前の映像などをEcho Show 5で確認することができます。",
+        "【フォトフレーム】ホーム画面をお好きな写真でスマートフォトフレームに。プライム会員なら、Amazon Photosで写真の保存は容量制限なし。",
+        "【ビデオ通話】内蔵2メガピクセルカメラでAlexaアプリや画面付きEchoデバイスを持っている友人や家族とビデオ通話が可能。自宅の他のEchoデバイスに一斉アナウンスすることも。",
+        "【プライバシーに配慮したデザイン】マイク/カメラ オン/オフ ボタンや内蔵カメラを覆うためのカメラカバーなど、何重ものプライバシー保護対策を用いて設計されています。また、Amazonは、個人情報を第三者に販売する業務は行っていません。"
+      ],
+      "query": "Echo Show 5 第3世代",
+      "asin": "B09B2PF8S4"
+    },
+    {
+      "title": "Google Nest Mini本体 第2世代 小さくても便利なスマートスピーカー Googleアシスタント 声だけで家電を操作 パワフルで豊かなサウンド (ホワイト チョーク Chalk)",
+      "url": "https://www.amazon.co.jp/dp/B0CQQ29K2W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51cg7s4VY4L._SL500_.jpg",
+      "features": [],
+      "query": "Google Nest Mini 第2世代",
+      "asin": "B0CQQ29K2W"
+    },
+    {
+      "title": "Google Home",
+      "url": "https://www.amazon.co.jp/dp/B0768PBH36?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/413whHbDgUL._SL500_.jpg",
+      "features": [],
+      "query": "Google Home スマートスピーカー 本体",
+      "asin": "B0768PBH36"
+    },
+    {
+      "title": "Google Nest Hub Max 日本モデル 多言語ネストハブ 10インチ 英語対応 H2A GA00639-JP (チャコール)",
+      "url": "https://www.amazon.co.jp/dp/B0FKD5SVB7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31y3TcMrs5L._SL500_.jpg",
+      "features": [
+        "セット内容:Google Nest Hub Max、英語、スペイン語、フランス語、日本語、グローバル言語に対応しているため、どこでも動作します。ユニバーサル電源アダプター、グローバルユーザー向けの国際マニュアル付きクイックスタートガイド。",
+        "どこでも使えます 使いやすく、初めてデバイスに接続すると自動的に英語で起動します。 Nest Hubは、世界中のほとんどの言語と場所をサポートし、グローバルに機能します。 また、言語設定はいつでもお好みの言語に切り替えられ、海外での使用や旅行の際に便利です。",
+        "ご自宅にぴったりブレンド。ナイトスタンド、棚、カウンタートップ、壁に最適です。 このNest Hubは小さくて強力で、明るいサウンドでキックします。 壁に差し込み、国際的に動作するグローバルACアダプターで電源供給されるため、あらゆるコンセントで機能します。"
+      ],
+      "query": "Google Nest Hub Max 本体",
+      "asin": "B0FKD5SVB7"
+    }
+  ],
+  "all_candidates": []
+}

@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-08",
+  "title": "部屋の不快な匂いを消す。高機能「脱臭機・アロマ」 6 選",
+  "queries": [
+    {
+      "query": "富士通ゼネラル 脱臭機 DAS-15K",
+      "include": [
+        "脱臭機",
+        "DAS"
+      ]
+    },
+    {
+      "query": "パナソニック ジアイーノ F-MV5400",
+      "include": [
+        "ジアイーノ"
+      ]
+    },
+    {
+      "query": "シャープ プラズマクラスター 脱臭機 DY-S01",
+      "include": [
+        "DY-S01"
+      ]
+    },
+    {
+      "query": "cado SAP 003 除菌脱臭機",
+      "include": [
+        "SAP"
+      ]
+    },
+    {
+      "query": "Kirala Air Aria Pro オゾン 脱臭",
+      "include": [
+        "Kirala",
+        "Aria Pro"
+      ]
+    },
+    {
+      "query": "生活の木 アロモア アロマディフューザー",
+      "include": [
+        "アロモア"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "PLAZION（プラズィオン）小型脱臭機 DAS-15R-W(ホワイト)",
+      "url": "https://www.amazon.co.jp/dp/B0FFSW4M4T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21oKEUJpn3L._SL500_.jpg",
+      "features": [
+        "【主な特徴】・トリプル脱臭で気になるニオイもしっかり脱臭！",
+        "・フィルター交換不要（注2）",
+        "【運転モード】弱 / 標準 / 強 / 急速",
+        "【電源】AC100V 50 / 60Hz",
+        "【脱臭方式】 高速メガフィルターⅢ（金属酸化触媒ハニカムフィルター） オゾンユニット（高濃度オゾン） 消臭成分放出（低濃度オゾン）",
+        "【JAN】4974437539715"
+      ],
+      "query": "富士通ゼネラル 脱臭機 DAS-15K",
+      "asin": "B0FFSW4M4T"
+    },
+    {
+      "title": "パナソニック ジアイーノ ステンレスシルバー F-MV5400-SZ ~21畳 除菌 脱臭 加湿 集じん 次亜塩素酸で空気を洗う 空間除菌脱臭機 家族やペットが集う広いリビングに",
+      "url": "https://www.amazon.co.jp/dp/B0BC7ZV7P8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31MDvVEujSL._SL500_.jpg",
+      "features": [
+        "【除菌】空気中をただよう菌も、お部屋についた菌も除菌。/浮遊菌の場合、約6畳の密閉空間における、約15分後の効果。付着菌の場合、約21畳の居室空間における、約12時間後の効果",
+        "【脱臭】お部屋にただようニオイも、染みついたニオイも脱臭。/喫煙環境では使用しないでください。",
+        "【加湿】乾燥した冬にも、清潔なうるおいをたっぷりお届け。",
+        "【集じん】フィルターが、空気中の汚れをしっかり集じん。",
+        "ブランド:パナソニック(Panasonic)"
+      ],
+      "query": "パナソニック ジアイーノ F-MV5400",
+      "asin": "B0BC7ZV7P8"
+    },
+    {
+      "title": "シャープ 脱臭機 プラズマクラスター NEXT(50000) 光触媒 脱臭 ホワイト DY-S01-W",
+      "url": "https://www.amazon.co.jp/dp/B07SRZ9ZVT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31JhceEX--L._SL500_.jpg",
+      "features": [
+        "サイズ:径23.3×高さ57cm",
+        "本体重量(kg):3.9",
+        "消費電力:最大約11W",
+        "消臭・脱臭方式:プラズマクラスターNEXT、光触媒脱臭フィルター",
+        "ニオイの元となる付着したニオイ原因菌まで除菌",
+        "コンパクトサイズながら、広いフィルター面積を実現",
+        "持ち運びもできる、スリムな円筒デザイン"
+      ],
+      "query": "シャープ プラズマクラスター 脱臭機 DY-S01",
+      "asin": "B07SRZ9ZVT"
+    },
+    {
+      "title": "【公式ストア限定】cado（カドー） SAP 003 ホワイト 脱臭機 空気清浄機 オゾン脱臭器 メーカー2年保証 除菌 消臭 におい除去 犬 猫 ペット臭",
+      "url": "https://www.amazon.co.jp/dp/B0DGT7R55X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/218+lckyb8L._SL500_.jpg",
+      "features": [
+        "【生活4大悪臭をスピード分解・脱臭】 日常生活で特に気になる4つの悪臭に着目して開発。アンモニア(屎尿のニオイ)、メチルメルカプタン（腐った玉ねぎのニオイ）、 トリメチルアミン(魚が腐ったようなニオイ)、硫化水素(腐った卵のニオイ)に効果の高い金属触媒を採用しました。",
+        "【人感センサーで必要なタイミングに自動運転】 たとえばトイレ。24時間ニオイが気になるわけではないスペースでは運転モードを「人感センサー」にすると、 人を検知した際に自動で風量が強に。無人判定の5分後、「オートモード」に切り替わり、空気の状態に合わせて自動運転します。",
+        "【脱臭力が持続するSAP003の仕組み】 空気清浄機はフィルターでニオイ物質を吸着・除去するとともに、集塵フィルターでホコリや菌・ウィルス・花粉などの有害物質をろ過し清浄するのに対し、除菌脱臭機はニオイとその原因菌に特化しています。ニオイの原因となる物質をフィルターに吸着させるのではなくオゾンと触媒により分解することで、脱臭力が落ちず、出続ける持続臭を常に分解脱臭します。",
+        "【外形寸法】直径約 170 mm × 高さ約 350 mm",
+        "【 必ずご確認下さい 】 ご注文後、2-4週間以内に保証内容と修理時の申請先をお伝えする 【 延長保証書 】 をメールにてお送りいたしますので、必ずご確認をお願いいたします。延長保証書がない場合、修理交換の無償対応サービスは受けられません。お客様のEメールの受信設定上、保証書情報がメールで届かない場合は、「UpCare」とWEB検索いただき、「UpCare」公式サイトより保証書をダウンロードいただきますようお願いいたします。"
+      ],
+      "query": "cado SAP 003 除菌脱臭機",
+      "asin": "B0DGT7R55X"
+    },
+    {
+      "title": "Kirala Air Aria Pro 空気清浄機 オゾン 除菌 キララエアー air",
+      "url": "https://www.amazon.co.jp/dp/B08L7KPQ18?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21WOqeSIb5L._SL500_.jpg",
+      "features": [
+        "メーカー正規認定整備済製品となります。",
+        "メーカー保証期間は、新品同様にご購入から1年間の保証付きです。"
+      ],
+      "query": "Kirala Air Aria Pro オゾン 脱臭",
+      "asin": "B08L7KPQ18"
+    },
+    {
+      "title": "ディフューザー アロモア ウッド",
+      "url": "https://www.amazon.co.jp/dp/B01M02IQK9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41qfu1q4QBL._SL500_.jpg",
+      "features": [
+        "カラー:ウッド",
+        "サイズ:1台",
+        "内容量:1台"
+      ],
+      "query": "生活の木 アロモア アロマディフューザー",
+      "asin": "B01M02IQK9"
+    }
+  ],
+  "all_candidates": []
+}

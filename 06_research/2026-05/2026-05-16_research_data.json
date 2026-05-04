@@ -1,0 +1,201 @@
+{
+  "date": "2026-05-16",
+  "title": "帰宅前に部屋を涼しく。外出先から操る「スマートリモコン」 7 選",
+  "queries": [
+    {
+      "query": "SwitchBot ハブ2 スマートリモコン",
+      "include": [
+        "SwitchBot",
+        "ハブ2"
+      ]
+    },
+    {
+      "query": "SwitchBot ハブミニ Matter",
+      "include": [
+        "SwitchBot",
+        "ハブミニ"
+      ]
+    },
+    {
+      "query": "Nature Remo nano",
+      "include": [
+        "Nature Remo",
+        "nano"
+      ]
+    },
+    {
+      "query": "Nature Remo Lapis",
+      "include": [
+        "Nature Remo",
+        "Lapis"
+      ]
+    },
+    {
+      "query": "ラトックシステム スマート家電リモコン RS-WFIREX4",
+      "include": [
+        "RS-WFIREX4"
+      ]
+    },
+    {
+      "query": "LinkJapan eRemote5",
+      "include": [
+        "eRemote5"
+      ]
+    },
+    {
+      "query": "TP-Link Tapo H110 スマートリモコン",
+      "include": [
+        "Tapo",
+        "H110"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
+      "url": "https://www.amazon.co.jp/dp/B0BM8VS13P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41A4B3EevKL._SL500_.jpg",
+      "features": [
+        "【高性能の4-in-1スマートリモコン】SwitchBot ハブ2 一つでおうちを簡単にスマートに。あらゆる家電のリモコンを1つに集約してスマホで操作できるスマートリモコンだけではなく、温湿度計、スマートボタン、スマートハブなど便利な機能を多数搭載しています。本商品はWorks with Alexa認定を受けたAmazon Alexa対応端末です。（※本製品はWi-Fi2.4GHz帯のみ対応。）",
+        "【あらゆる赤外線家電はそのままスマート家電に】圧倒的な赤外線コードデータベース所有量が誇り。対応可能なメーカー数4877社、対応可能なリモコンの種類21363種、対応可能な製品型番83934個、新デバイスも旧式家電も簡単にスマートに。自社開発のスマートラーニング方式で、ワンタッチで家電を登録。初心者もすぐに使えます。",
+        "【自宅の温湿度・照度の変化が常にひと目で分かる】付属のケーブルには温度センサーと湿度センサーが搭載、お部屋の温湿度がより精確に分かります。光センサーも搭載されいるため、SwitchBotシーリングライトやSwitchBotカーテンなどの室内照明調整アイテムと併用すれば、室内の光度や日照量を自動で調節します。オートメーションを設定する際にも活躍できます。",
+        "【遠隔操作可能、音声で家電をコントロール】テレビ・エアコン・照明など赤外線の家電製品をSwitchBot Hub2一つで集約し、おうちでも外出先でもスマホで家電を一括にコントロールします。音声コントロールが対応。Amazonアレクサ、Googleアシスタント、Siriショートカットなどのスマートスピーカーと連携すれば、話しかけるだけで家電を操作できます。",
+        "【新基準のMatter対応、新規格のスマートホームハブ】ネットに接続できない赤外線家電（エアコン、照明など）や、従来HomeKit非対応のSwitchBotデバイスなど、ハブ 2に連携して、Matter(マター)に通じて、AppleのHomeアプリ上で管理したり、スマートスピーカーで音声コントロールしたりできるようになります。（本機能を利用するには、サードパーティスマートハブとの併用が必要。）",
+        "【革新なエアコンのリモコン状態常時取得技術搭載】日本初のAC赤外線コード対応、外出先でもスマホでエアコンのリモコン状態を確認でき、エアコンの状態をシンクロさせられます。エアコンの状態を確認した後、遠隔でオンにできます。ルーターやサーバーに通信障害が発生しても、スマホのBluetooth機能を使ってエアコンを操作することが可能です。",
+        "【ワンタッチで複数のデバイスをコントロール】ON/OFFボタンをタップするだけで、複数のデバイスをまとめて操作できます。あらかじめ実現したいシーンをカスタマイズすることで、指定したタイミングで連携したデバイスが特定のオートメーションを実行できます。",
+        "【パッケージ内容】5V/2Aアダプター*1、温湿度センサー搭載ケーブル*1、‎ハブ 2本体*1、日本語取扱説明書*1、サポートカード*1、両面テープ*1"
+      ],
+      "query": "SwitchBot ハブ2 スマートリモコン",
+      "asin": "B0BM8VS13P"
+    },
+    {
+      "title": "【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) Alexa - 温湿度センサー搭載 スイッチボット Hub Mini マター対応 スマートホーム 学習リモコン 赤外線家電を管理 節電·省エネ Echo Google Home Siri IFTTT SmartThings対応 Kataステッカー付き 熱中症対策",
+      "url": "https://www.amazon.co.jp/dp/B0DSPXKDP8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/412gzRO1-SL._SL500_.jpg",
+      "features": [
+        "【新基準のMatter対応、新規格のスマートホームハブ】インターネットに接続できない赤外線の家電製品（エアコン、照明、テレビなど）や、従来HomeKit非対応のSwitchBot Bluetooth通信デバイスなど、ハブミニ(Matter対応) に連携して、Matter(マター)に通じて、Apple Homeアプリ上で管理したり、スマートスピーカーで音声コントロールしたりできるようになります。(※Apple Homeからデバイスを操作するには、Apple Homepodなどとの併用が必要です。Matterを利用するには、Amazon Echoシリーズや、Apple Homepod、Google Nest hubなどのMatterコントローラーデバイスが必要です。)",
+        "【自宅の温湿度を管理】付属のケーブルには温度センサーと湿度センサーが搭載、お部屋の温湿度がより精確に分かります。",
+        "【簡単セットアップに対応、セットアップ手順もシンプルに】デバイスをコンセントに挿すだけですぐに使えます！煩わしい設定手順から解放されます。（*簡単セットアップ機能を利用するには、インターネットにすでに接続されているAmazon Echoデバイスが必要です。本機能はAmazonで購入した場合のみ対応可能となります。必ず2.4Ghz帯のWi-Fiに接続してください。）",
+        "【あらゆる赤外線家電はそのままスマート家電に】圧倒的な赤外線コードデータベース所有量が所有し、新デバイスも旧式家電も簡単にスマートに。自社開発のスマートラーニング方式で、ワンボタンで家電を登録。",
+        "【家中のリモコンを1つに集約し、スマホから操作】エアコン・テレビ・照明など、多くの赤外線タイプのリモコンに対応。簡単なデバイス登録を行えば、赤外線タイプのリモコンを本製品1台にまとめて、スマートフォンから管理・操作できます。外出先からスマホでエアコンを操作したり、テレビや照明をコントロールしたらすることが可能に。",
+        "【Works with Alexa認定】本商品はWorks with Alexa認定を受けたAmazon Alexa対応端末です。※本製品は2.4GHz帯の電波周波数帯のみ対応。",
+        "【限定のKataステッカー付き】"
+      ],
+      "query": "SwitchBot ハブミニ Matter",
+      "asin": "B0DSPXKDP8"
+    },
+    {
+      "title": "【Echoから家電を音声操作】Nature Remo nano ネイチャーリモ スマートリモコン スマホからリモコン操作 いつもの家電操作を効率化 Alexa/Google Home/Siri対応 Remo-5W1",
+      "url": "https://www.amazon.co.jp/dp/B0C6V1CJB7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31mY09g+HyL._SL500_.jpg",
+      "features": [
+        "【はじめてのスマートホームに】テレビ、エアコン、扇風機。たくさんのリモコンはぜんぶスマホにまとめて、いつもの家電操作を効率化してみませんか。",
+        "【オートメーションで、日々を快適に】曜日・時間、位置情報の条件で家電操作を自動化。起床時にテレビと照明を自動でオン、家に近づいたらエアコンを自動でオンすることも。",
+        "【スマートスピーカーと連携して便利に】料理中などスマホを触れない時でも音声で家電操作が可能。アレクサまたはGoogleアシスタントに対応しています。",
+        "【小さくても共通規格Matterに対応】スマートホームの共通規格「Matter」に対応。古い家電がMatter対応家電に早変わり。 Matterを介してApple HomePodにも接続できます。\"",
+        "【短縮されたセットアップ】セットアップにBluetooth Low Energyを採用し、セットアップにかかる時間を手間を短縮。",
+        "【ボタンを押すだけで自動登録】リモコンをNature Remo本体に向けて、ボタンを押すだけ。家電登録も手間なく行えます。",
+        "【古い家電も、幅広い機種に対応】赤外線方式のリモコンに対応した家電であれば、メーカーや型番・年式などに関係なく使用可能です。",
+        "【環境に配慮】省資源化を行い、輸送時に排出されるCO2を削減。塗装レスにしたことで、性能・デザインを損なわずに、VOC(揮発性有機化合物)の排出量を削減しました。",
+        "【思わぬトラブルの際にも】お買い上げから1年以内に不具合がおきた等、思わぬトラブルの際にも「無償」で修理・交換等の対応をいたします。",
+        "Designed by Nature in Japan, Assembled in China"
+      ],
+      "query": "Nature Remo nano",
+      "asin": "B0C6V1CJB7"
+    },
+    {
+      "title": "Nature Remo Lapis ネイチャーリモ スマートリモコン 温湿度センサー搭載 エアコンの節電を快適に Alexa/Google Home/Siri対応 Remo-2W3",
+      "url": "https://www.amazon.co.jp/dp/B0D3TSNWBG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31IrNmalTZL._SL500_.jpg",
+      "features": [
+        "【空気をととのえるスマートリモコン】エアコンの節電機能を備えた次世代のスマートリモコン。家電の遠隔操作やアレクサなどのスマートスピーカーにももちろん対応。",
+        "【温湿度センサーを搭載】外出先からお部屋の温度や湿度を確認。また、温度センサー・湿度センサーを使ったエアコンの自動制御も。",
+        "【エアコンの節電はおまかせ】節電と快適のバランスを選ぶだけで自動で節電する「オートエコ」機能に加え、エアコン起動直後の無駄をカットする「コスパ起動」を搭載。エアコンの消し忘れを知らせる「消し忘れアラート」も今後追加予定。",
+        "【年間最大13,800円節約】ここちよく暮らしながら、我慢せず節電。年間13,800円は、夏と冬に1日中(24時間)エアコンをつけっぱなしの家庭で、8時間の節電を実施した場合。東京電力の従量電灯、3段階目料金で計算。エアコン1台を2℃調整した際の節電量を0.18 kWh/時間 として試算。",
+        "【ここちよい毎日をサポート】熱中症アラートや快適指数表示、ウェアラブルデバイスとのバイタルデータ連携なども今後追加予定。無理なく節電しながら、ここちよく過ごすことが出来ます。",
+        "【スマートホーム世界標準規格のMatter対応】Nature Remo nanoでは3台までに限定されていたMatter接続制限を20台まで拡張。スマートロックなど新しいデバイスタイプにも対応しました。",
+        "【ブランドを超えた接続】めざましカーテン「mornin' plus」、スマートロック「Qrio Lock」「SESAME５」、指ロボット「SESAME bot」に対応。今後、スマート照明「Philips Hue」シリーズにも対応予定。",
+        "【お部屋のどこにでも馴染むデザイン】テレビ台や机の上に加え、キッチンや寝室にも。Nature Remo Lapisは陰ながらあなたを支えます。",
+        "【思わぬトラブルの際にも】お買い上げから1年以内に不具合がおきた等、思わぬトラブルの際にも「無償」で修理・交換等の対応をいたします。",
+        "Designed by Nature in Japan, Assembled in China"
+      ],
+      "query": "Nature Remo Lapis",
+      "asin": "B0D3TSNWBG"
+    },
+    {
+      "title": "ラトックシステム 超小型 スマート 家電リモコン RS-WFIREX4 壁掛けフック 赤外線 30m",
+      "url": "https://www.amazon.co.jp/dp/B07MVC7394?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31zaxP-8XJL._SL500_.jpg",
+      "features": [
+        "【超小型モデル】約4cm四方の超小型スマートリモコン。フック穴で壁掛け設置もOK。",
+        "【温度/湿度/明暗センサー】外出先で室温をチェックして冷房ON。家族やペットの見守りにおすすめです。",
+        "【外出先からエアコン操作】あらかじめ冷房をつけておけば、帰宅する頃には涼しい部屋に。",
+        "【Alexaに呼びかけて操作】手が離せない時もらくらく操作。Alexa/Googleアシスタント/Siriなどに対応。",
+        "【便利なタイマー機能】最大28件のタイマー設定が可能。起床時や出勤時、就寝時などのルーティンを自動化できます。 本体のWi-Fi接続には、2.4GHz帯のWi-Fi環境が必要です。",
+        "※5GHz帯のWi-Fi環境では接続できませんのでご注意ください。"
+      ],
+      "query": "ラトックシステム スマート家電リモコン RS-WFIREX4",
+      "asin": "B07MVC7394"
+    },
+    {
+      "title": "【国内メーカー・国内サーバー】LinkJapan eRemote5+ スマートリモコン Alexa対応 ハブ不要 遠隔操作 赤外線 学習リモコン 丸型 ホワイト 高精度温湿度センサー付き【Google Home/Siri/HomeLink 対応】10年以上のIoT開発実績",
+      "url": "https://www.amazon.co.jp/dp/B08BN8WSGZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31FIyjiz2rL._SL500_.jpg",
+      "features": [
+        "【国内メーカーならではの安心サポート】 設定方法やトラブルなどでお困りの際は、専門のサポートチームへメール・LINEにてお問い合わせください。 【サポート窓口】 Mail: support@linkjapan.co.jp LINE: @515wljtu 対応時間 メール・LINE：平日10:00〜19:00（※平日のみ） AIチャット：毎日対応 保証期間：1年 LINEお友達登録で半年延長",
+        "【国内スマートリモコンの先駆者｜10年を超える実績】 2014年の誕生以来、多くのユーザーに選ばれてきたLinkJapanのスマートリモコン。 日本の住環境に合わせて開発された「HomeLink」が、安定した操作性と安心のプラットフォームを提供します。",
+        "【電気代を抑えて快適に｜温湿度センサーで自動調整】 高精度の温湿度センサーが室内環境をリアルタイムで測定。 設定した条件に応じてエアコンを自動でコントロールし、無駄な電力消費を抑えます。 「つけっぱなし」や「冷やしすぎ」を防ぎながら、快適さと省エネを両立します。",
+        "【スマホでかんたん操作｜外出先から家電操作】 エアコンやテレビ、照明などの家電をスマホからまとめて操作可能。 外出先から電源を入れたり。エアコンを操作して、帰宅前の部屋を快適な温度に整えることもできます。",
+        "【誰でも使える簡単設定｜古い家電にも対応】 国内の主要メーカー製家電に対応しており、初期設定もシンプル。 対応家電は新旧問わず、赤外線リモコンならOK。リモコンを学習させるだけで、スマホから操作できます。",
+        "【スマートホームの中心に｜HomeLink連携】 eRemote5+は、スマートカーテンや照明などとHomeLinkでアプリ内連携も可能。 1台で家中の家電や環境をまとめて管理できます。 日常の操作をよりシンプルに、より快適に。スマートな暮らしをサポートします。",
+        "【eLamp2シリーズにも対応｜スマートホームをさらに便利に】 eRemote5+はハブ機能を内蔵しており、スマート電球「eLamp2」などの対応デバイスと連携できます。 家電だけでなく、eLamp2なども遠隔操作や音声アシスタント（Alexa / Google Home / Siri）に対応し、より便利にご利用いただけます。",
+        "【データプライバシー保護】個人情報や機器情報を海外送信しません。"
+      ],
+      "query": "LinkJapan eRemote5",
+      "asin": "B08BN8WSGZ"
+    },
+    {
+      "title": "【Amazon.co.jp限定】Tapo スマートホーム 赤外線 スマートハブ エアコン テレビ リモコン チャイム機能つき Sub-1GHz 簡易パッケージ メーカー保証3年 Tapo H110C",
+      "url": "https://www.amazon.co.jp/dp/B0F1S6XSL6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Nwz8h8+1L._SL500_.jpg",
+      "features": [
+        "[特徴] Tapoのスマートリモコンが登場！他のTapoと併せて、新時代のスマートホームを構築しよう。",
+        "[かんたん設定] スマホアプリから簡単に設定できます。この機会にスマートホームを構築しましょう。",
+        "[Alexa音声操作対応] AlexaやGoogle Assistantなどの音声AIアシスタントといっしょにつかって、音声操作が可能に。",
+        "[18種類の家電+8000以上のブランド] エアコンやテレビなど、リモコンで動く家電 に広い範囲で対応。",
+        "[Amazon.co.jp限定] 本製品はゴールドロゴを印字。環境にやさしい簡易パッケージで梱包されているAmazon.co.jp限定製品です。"
+      ],
+      "query": "TP-Link Tapo H110 スマートリモコン",
+      "asin": "B0F1S6XSL6"
+    }
+  ],
+  "all_candidates": []
+}

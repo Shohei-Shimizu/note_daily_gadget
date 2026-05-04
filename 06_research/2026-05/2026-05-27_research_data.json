@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-27",
+  "title": "ガジェット収納を自作。おすすめ家庭用「3D プリンター」5 選",
+  "queries": [
+    {
+      "query": "Bambu Lab A1 mini 3Dプリンター",
+      "include": [
+        "A1 mini"
+      ]
+    },
+    {
+      "query": "ANYCUBIC Kobra 3 3Dプリンター",
+      "include": [
+        "Anycubic",
+        "Kobra 3"
+      ]
+    },
+    {
+      "query": "Creality Ender-3 V3 KE 3Dプリンター",
+      "include": [
+        "Ender-3",
+        "V3"
+      ]
+    },
+    {
+      "query": "ELEGOO Neptune 4 Pro 3Dプリンター",
+      "include": [
+        "Neptune 4 Pro"
+      ]
+    },
+    {
+      "query": "FLASHFORGE Adventurer 5M 3Dプリンター",
+      "include": [
+        "Adventurer 5M"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "Bambu Lab A1 mini 3D プリンター、組立簡単、500mm/s 高速高精度、全自動キャリブレーション＆流量補正、静音造形（<48dB）FDM 3D プリンター、初心者向け、家庭用、日本語UI対応、造形サイズ：180 * 180 * 180mm³",
+      "url": "https://www.amazon.co.jp/dp/B0CRYJBKQQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31GPhIELVDL._SL500_.jpg",
+      "features": [
+        "高速で高精度：最大10,000 mm/s²の加速度で長時間待ちことなく、高速といっても造形品質に妥協しません",
+        "全自動キャリブレーション：手動で煩雑なキャリブレーションが不要となります。全てのキャリブレーションは自動で行います",
+        "アクティブ流量補正：よりよい仕上がりは安定的な押出が必要です。専用センサーが流量を検知し、安定的に押出します",
+        "AMS liteで多色造形：いままで単色で造形がカラフルへ。あなたの想像力に支援します！多色造形するのにAMS liteが必要です",
+        "簡単かつ超静音：20分で組立が簡単にできます。ノズルもクリップで固定し、ワンクリックで交換できます。アクティブモーターノイズキャンセリングで、サイレントモードで≤48 dB 以下のノイズを実現しています",
+        "ご使用前に、必ず取付ガイド動画をご覧ください"
+      ],
+      "query": "Bambu Lab A1 mini 3Dプリンター",
+      "asin": "B0CRYJBKQQ"
+    },
+    {
+      "title": "Anycubic 3dプリンター Kobra 3 v2、組立簡単モジュール設計、Z軸ダブル、高精度3d printer、インテリジェント自己診断、静音、最大600mm/sの印刷速度、3dプリンター 多色サポート（ACE Proが必要）、初心者向け、断線/停電時の印刷再開機能、印刷サイズ：250x250x260mm",
+      "url": "https://www.amazon.co.jp/dp/B0F8NNZJF3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/419n-dvr2gL._SL500_.jpg",
+      "features": [
+        "【注記】この製品にはAnycubic Kobra 3 V2 3Dプリンターのみが含まれます。Anycubic ACE Proは含まれません。マルチカラー印刷には、Anycubic ACE Proをアドオンとして必要です：1x ACE Pro → 4色印刷が可能、2x ACE Pro + 8色フィラメントハブ → 8色印刷が可能。最適な印刷体験を得るためには、購入前に正しいACE Proバージョンを選択してください。",
+        "【720pカメラ標準装備】Kobra 3 V2 3Dプリンターは高解像度の720Pビデオストリーミングを提供するカメラにより、いつでもどこでも印刷の進捗を監視でき、印刷プロセスのタイムラプス記録を共有できます。",
+        "【高い成功率のための強化された自動レベル調整】LeviQ 3.0自動レベル調整により、Z軸オフセットの必要性が軽減され、優れた初層密着性と大幅に高い印刷成功率が得られます。",
+        "【最先端のノズル技術】Anycubic Kobra 3 V2は、Kobra S1と同じ先進ノズルを装備しており、印刷中の材料漏れを大幅に削減し、モデルの表面をより滑らかにし、その精巧な外観を向上させます。",
+        "【開梱して15分で印刷開始】Anycubic Kobra 3 V2は、合理化された組み立てのためのモジュラー設計を採用しており、2本のラインを接続するだけで印刷を開始できます！255×255×260mmの印刷ボリュームにより、さまざまなオンラインプラットフォームのプリスライスモデルとの互換性が確保されています。",
+        "【優れたサービスと厳格なテスト】各Anycubic Kobra 3 V2 3Dプリンターは、出荷前に厳格なテストと優れた梱包を受け、1年間のサービス（プリントヘッドは3ヶ月、ヒーテッドベッドは6ヶ月）、生涯テクニカルサポート、24時間365日のカスタマーサービスが付帯します。ご質問やご要望がございましたら、お気軽にお問い合わせください。"
+      ],
+      "query": "ANYCUBIC Kobra 3 3Dプリンター",
+      "asin": "B0F8NNZJF3"
+    },
+    {
+      "title": "Creality Ender-3 V3 KE 3Dプリンター、500mm/秒高速印刷、自動レベリング、300℃スプライト押出機、リニアレール、デュアルファン、220×220×250mm ビルドボリューム",
+      "url": "https://www.amazon.co.jp/dp/B0F9DXZBW6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41quOUHCkaL._SL500_.jpg",
+      "features": [
+        "高速印刷:Creality Ender 3 V3 KE高速3Dプリンターは、最大500mm/sの高速印刷速度を実現し、品質を損なうことなくモデルを迅速に完成させます。 大幅にペースが上がることで、印刷プロセス中の待ち時間を最小限に抑え、全体的な生産性を向上させます。",
+        "高度な押出機技術:Creality Ender 3 V3 KE高速3Dプリンターは、高度な「スプライト」ダイレクトエクストルーダーを統合し、60Wのセラミックヒーター、バイメタルヒートブレーク、銅ノズルを組み合わせて、最大300℃の温度での印刷を容易にします。 この技術はシームレスなフィラメント供給を保証し、PLA、PETG、ABS、TPU、ASAを含む幅広い材料をサポートし、多様なフィラメントの印刷における信頼性を維持します。",
+        "安定した構造設計:Creality Ender 3 V3 KE高速3Dプリンターは、X軸に硬いスチールリニアレールを組み込んでおり、プリンターは正確で安定した動きを保証します。 剛性のデュアルZ軸リードスクリューはZのぐらつきを効果的に最小限に抑え、Y軸は2つの8mm耐摩耗性スチールリニアシャフトを備え、長時間使用しても安定性を維持します。",
+        "25-PONIT CRタッチによる自動レベリング:家庭用デスクトップ用エンダー3 v3 ke 3Dプリンター用のCRタッチの自動レベリングが含まれているため、レベリングプロセスが簡素化され、完璧な第1層を保証します。 この機能により、時間を節約し、特に初心者の方に手間をかけずに印刷できます。",
+        "【便利な印刷方法】CRタッチでオートレベリング機能を搭載し、印刷プラットフォーム上でマルチポイント検出を行い、各検出ポイントの高さを高精度に記録します。 完璧な1層を簡単に手に入れることができます。 レベリングは印刷前の重要なプロセスであり、通常お客様を困らせます。 このプリンターはレベリングの時間を節約し、簡単に印刷を開始できます。 初心者を含むすべてのお客様に優しい商品です。 Ender 3 V3 KEは、電話コントロール、WiFi、USBドライブの3つの方法で印刷できます。",
+        "スマートエアゴリズム:Creality ender 3 v3 ke高速3Dプリンターはインテリジェントアルゴリズムを備えており、プリンターは振動を軽減し、リンギングやゴーストを最小限に抑え、より高い印刷品質を実現します。 フィラメントの流れを最適化し、印刷中のしみや滲みなどの不完全さを軽減します。",
+        "複数の印刷方法:家庭用デスクトップ用Ender 3 v3 ke 3Dプリンターは、電話コントロール、WiFi、USBドライブを介して印刷できる多目的な印刷オプションを提供します。 この柔軟性は、さまざまなユーザーの好みやニーズに応えます。"
+      ],
+      "query": "Creality Ender-3 V3 KE 3Dプリンター",
+      "asin": "B0F9DXZBW6"
+    },
+    {
+      "title": "ELEGOO Neptune 4 Pro 3D プリンター Klipper ファームウェア付き 500mm/s 高速 3Dプリンター 自動レベリング ダイレクトドライブ押出機 簡単な組み立て 225x225x265mm³ /8.85x8.85x10.43 インチの印刷サイズ",
+      "url": "https://www.amazon.co.jp/dp/B0CG1GGD2T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41EjERP43EL._SL500_.jpg",
+      "features": [
+        "【500mm/sの超高速スピード】Klipperファームウェアと強力なプロセッサーを搭載したELEGOO Neptune 4 proは、500mm/秒の驚異的な速度で印刷できるため、より速く作品を制作できます。 推奨印刷速度は250mm/sです。",
+        "【より高精度にアップグレード】Neptune 4 Pro の X 軸と Y 軸は両方とも、U 字型スチールホイールを備えた堅牢な全金属ガイドレールにアップグレードされ、抗力を減らし、より高い精度を保証します。 ビルドボリュームは8.85x8.85x10.43 インチ/225x225x265mmです。",
+        "【セグメント化された加熱ゾーン】3Dプリンターには2つの独立した加熱エリアがあります。 スライシング ソフトウェアはモデル サイズを自動的に識別し、中央加熱ゾーンを超える場合は周辺加熱ゾーンをアクティブにします。 消費電力を大幅に削減し、加熱速度を向上させます。",
+        "【ダイレクトドライブ押出機】自社開発のデュアルギアダイレクトドライブ押出機は減速比5.2:1を備え、強力な押出とよりスムーズなフィラメント供給を実現します。 金属スロートパイプと独自のエアダクト設計と組み合わせて、ノズル詰まりのリスクを軽減します。",
+        "【使いやすく、幅広い互換性】121 (11x11) ポイントの自動ベッドレベリングは、迅速かつ正確なレベリングが保証されます。 300°C の高温ノズルと拡張されたホットエンドにより、フィラメントの溶融と押し出しが高速化されます。Neptune 4 Pro は、PLA、PETG、ABS、TPU、ナイロンなどのさまざまなフィラメント素材を対応できます。"
+      ],
+      "query": "ELEGOO Neptune 4 Pro 3Dプリンター",
+      "asin": "B0CG1GGD2T"
+    },
+    {
+      "title": "Flashforge Adventurer 5M 3Dプリンター,完璧な初層形成,自動レベリングとクイックリリースノズル,最大速度600mm/s,CoXY全金属構造、造形領域：220*220*220mm,対応素材：PLA/TPU/PETG",
+      "url": "https://www.amazon.co.jp/dp/B0DNDRRZFS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41QUMjisLfL._SL500_.jpg",
+      "features": [
+        "当社は製造メーカーです。当社製品のご使用中に問題が発生した場合は、アフターサービスは直接当社までご連絡ください。つまり、Amazonのメッセージ機能を通じて直接お問い合わせいただけます。迅速な問題解決に努めてまいります。",
+        "【フルオート・ワンクリック・レベリング 】：Flashforge Adventurer 5Mは、ビルドプレートに対するノズルの高さを測定する先進のオートレベリングシステムを搭載。",
+        "【10分でセットアップ完了】：初心者やお子様でも簡単に楽しく使用できます。箱から出して、ワンクリックでスタート。",
+        "【完璧なファーストレイヤー】：正確なオートレベリングで、完璧なファーストレイヤーを実現。手動のZ軸調整は必要ありません。最初から最後まで楽にプリントできます。",
+        "【PEI ビルドプレート 】：マグネット式ビルドプレートは取り外し可能。",
+        "【スピードマスターが印刷し放題】： 最高速度:600mm/s; 最大加速度:20000mm/s; ノズルフロー:32mm/s; 最大:12倍速"
+      ],
+      "query": "FLASHFORGE Adventurer 5M 3Dプリンター",
+      "asin": "B0DNDRRZFS"
+    }
+  ],
+  "all_candidates": []
+}

@@ -1,0 +1,140 @@
+{
+  "date": "2026-05-07",
+  "title": "どこでも仕事。ワーケーションに必須の「モバイルセット」 5 選",
+  "queries": [
+    {
+      "query": "ASUS ZenScreen MB16ACV モバイルモニター",
+      "include": [
+        "ZenScreen"
+      ]
+    },
+    {
+      "query": "MOFT ノートパソコンスタンド",
+      "include": [
+        "MOFT",
+        "スタンド"
+      ]
+    },
+    {
+      "query": "ロジクール K380s Bluetooth キーボード",
+      "include": [
+        "K380s"
+      ]
+    },
+    {
+      "query": "Anker Prime Power Bank 12000mAh 130W",
+      "include": [
+        "Anker",
+        "Prime",
+        "Power Bank"
+      ]
+    },
+    {
+      "query": "GL.iNet Beryl AX トラベルルーター",
+      "include": [
+        "Beryl",
+        "AX"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "ASUS ポータブルモニター/ZenScreen MB169CK-J/ポータブルUSBモニター -15.6インチ / フルHD/IPS/デュアルUSB Type-C/フリッカーフリー/ブルーライト軽減機能/ノングレアパネル / 360°回転のキックスタンド/国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0FB37MB8K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41I0gueZ9NL._SL500_.jpg",
+      "features": [
+        "〔特徴〕超薄型の15.6インチフルHDポータブルノングレアIPS液晶モニターがあれば、外出先でも作業効率UP",
+        "〔画面〕15.6型/1,920×1,080/ノングレア/250cd/m2(typ)/バックライト:LED/5ms(GTG)/画素ピッチ: 0.179 mm/コントラスト比:800:1/視野角:水平178°/垂直178°",
+        "〔端子〕USB-C x 2 (DP Alt Mode),Mini HDMI x 1",
+        "〔サイズ(WxHxD cm)‎/重量(kg)〕36.0 x 22.6 x 1.2,約0.78",
+        "〔保証〕購入日より4年間の日本国内保証"
+      ],
+      "query": "ASUS ZenScreen MB16ACV モバイルモニター",
+      "asin": "B0FB37MB8K"
+    },
+    {
+      "title": "MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【中空デザイン】 持ち運び簡単 折りたたみ式 超薄型 安定性 15°&25°二段階調整可能 16インチまで対応 コンパクト PC/MacBook/ラップトップ/iPadタブレットに対応 パソコンスタンド 「貼り付け」 AirFlow (ジェットブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0B15B32NV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31gvAoeFnHL._SL500_.jpg",
+      "features": [
+        "【放熱効果革新・中空デザイン】あらゆる種類のノートパソコンに互換性のある通気孔付きノートパソコン用スタンド -- MOFT Airflow Standが新登場！ 研究し尽くされた中空デザインとコンパクトなサイズは、空気の流れを促すことで溜まった熱を解消し、ノートパソコンの効率を上げながら、自然と正しい姿勢で作業することができます。",
+        "【折り畳み式・2段階調整】MOFT Airflow Standは、MOFT歴代のパソコンスタンドのデザインを踏襲し、一秒開きで15°& 25°二段階の角度があらゆるシーンで調整可能、快適な使用角度を提供し、仕事の効率を向上させることができます。",
+        "【驚きの軽さ· ミニマリズムへのこだわり】重さわずか65g，サイズは約224*135*2.5mm。AirFlow Standは薄さ・軽さの限界に挑み、レギュラーサイズを20％削減し、25％以上の軽量化を実現した製品です。 さらに、収納時はスタンドをしっかり固定できるように、スナップシール2枚付属しており、まさに見えない収納を実現しています。",
+        "【シンプルで効率的・変わらぬサポート】特殊なPU素材を使用し、思い通りに動く折りたたみ式デザインを採用し、軽量・小型・薄型でありながら、最大耐荷重5kgの日常使いのできるパソコンスタンドです。 ＊ご注意：パソコンスタンドをご使用の際、キーボードの周りを叩くとパソコンが揺れるという意見を頂きました。この件について、実際に使用した場合を検討し、作業時両手を自然にキーボード上に置くと揺れることはないのでご安心ください。",
+        "【粘着式で取り外し簡単】本品は繰り返し接着可能なリムーバブルグルーを採用するため、場合による貼りながら調整することや、剥がしてまた貼ることも、思いのままにできます！ ご注意：取り外す場合、無理な力を加えないよう、上部の任意の角から剥がし始めてください。スタンドの粘着面に埃がついた場合は粘着面を水洗いし、自然乾燥させてからご使用ください。また、装着時は上下の向きに注意し、スタンドをPC背面のヒンジ近くへ、ステッカーと一緒に貼り付ければ完了です。 何かご不明な点等がございましたら気軽にお問い合わせください。"
+      ],
+      "query": "MOFT ノートパソコンスタンド",
+      "asin": "B0B15B32NV"
+    },
+    {
+      "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s オフホワイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0CJR82M5M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/3120X4KkbrL._SL500_.jpg",
+      "features": [
+        "薄型&軽量(415g)&コンパクト／ロングセラーのBluetoothキーボードK380がカラーと機能をアップデートして登場！",
+        "グラファイト、オフホワイト、ローズは2トーンカラーにリニューアル + 新色のグレージュ、ブルーが仲間入り",
+        "接続はBluetoothに加えLogicool独自のLogi Boltレシーバーに新たに対応 ※Logi Bolt USBレシーバーは別売となります。Unifyingは非対応です。",
+        "接続された3台までの対応デバイスを本体上部のキーを押すだけで切り替えられる／Logicool独自のEasy-Switchに対応",
+        "単四本で乾電池2本で36ケ月の長電池寿命 ※従来モデルは24ケ月／保証期間2年間",
+        "対応OS:[Bluetooth] Windows 10, 11以降、macOS 11以降、iPad OS 14以降、Android OS 9.0以降、Chrome OS"
+      ],
+      "query": "ロジクール K380s Bluetooth キーボード",
+      "asin": "B0CJR82M5M"
+    },
+    {
+      "title": "Anker Prime Power Bank (12000mAh, 130W) (12000mAh 合計130W出力 モバイルバッテリー)【Power Delivery対応/PPS規格対応/PSE技術基準適合/USB-C入力】iPhone MacBook Galaxy Android スマートフォン ノートPC 各種 その他機器対応 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0BZ87C549?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31UjKd--z2L._SL500_.jpg",
+      "features": [
+        "MacBook Proにも充電可能な高出力モバイルバッテリー：合計最大出力130Wかつ単ポート利用時も最大65W出力で、MacBook Proにも充電できます。外出先でも複数機器へ同時充電可能です。",
+        "iPad Pro約1回分の大容量：12000mAhの大容量で、iPad Proへ約1回充電が可能。iPhone 16にも約2回充電でき、外出先でも充電切れの心配がありません。",
+        "最大65Wでの入力にも対応：モバイルバッテリー本体に最大65Wで入力が可能。約45分でバッテリー本体を100%まで充電できます。",
+        "充電状況をリアルタイムで確認可能：出力やバッテリー本体への入力の強さが確認できるディスプレイ機能を搭載。バッテリーの残り残量や充電にかかる時間がリアルタイムで確認できます。",
+        "大容量かつコンパクト：350mlペットボトルとほぼ同等のサイズで、小さなバッグなどにも収納が可能。持ち運びにも便利です。"
+      ],
+      "query": "Anker Prime Power Bank 12000mAh 130W",
+      "asin": "B0BZ87C549"
+    },
+    {
+      "title": "GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN |Wireguard WPA3 IPv6対応 テザリング 旅行 出張 RV GL-MT3000 (Beryl AX)",
+      "url": "https://www.amazon.co.jp/dp/B0BQ1YRH9F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31cQhCMxTqL._SL500_.jpg",
+      "features": [
+        "【デュアルバンド wifi6トラベルルーター】スピードアップで快適なWi-Fi6!IPv6対応、ワイヤレス速度 574Mbps (2.4G)+2402Mbps (5G) のデュアルバンドネットワーク。2.5GマルチギガビットWAN ポートと1G ギガビットLAN ポート！コンパクトで、持ち運び便利な無線LANルーターです。【ご注意！使用の前に最新のファームウェアをダウンロードください：https://dl.gl-inet.com/?model=mt3000】",
+        "【VPNクライアントとサーバ】GL-MT3000 (Beryl AX) vpn ルーター はOpenVPNとWireGuardはプリインストールされており、30以上のVPNサービスプロバイダと互換性があります。既存のVPNアカウントにログインするだけで、Beryl AX は接続されたネットワーク内のすべてのネットワークトラフィックを自動的に暗号化します。最大VPN速度は150 Mbps（OpenVPN）、300 Mbps（WireGuard）",
+        "【オープンソースとプログラマブル】オープンソースのOpenWrt 21.02 ファームウェアで動作し、カスタマイズ用に 5,000 を超える既製のプラグインをサポートします。Beryl AXの管理パネル内のコード不要のインターフェイスを使用し、パッケージを参照、インストール、および管理するだけです。",
+        "【ネットワークセキュリティの保護】WPA3プロトコルをサポート、パスワード、ブルート、フォース攻撃に対する予防措置。DNS over HTTPS および DNS over TLS ―ドメイン ネーム システムのトラフィックを保護し、悪意のある人物によるデータの盗聴を防ぎます。 IPv6 ―プライバシー保護のための組み込み認証により、ネットワーク アドレス変換が不要になります。",
+        "【パッケージ内容】GL.iNet GL-MT3000 wifi ルーター本体（通常1年間の無料保証期間を2年間に延長いたしました!）、USBケーブル、ACアダプター（米国、英国、EU プラグ付き）、LANケーブル、ユーザーマニュアル。【サポート】何か不明点または何らかが起こった場合、まずサポーターとご連絡ください！メールアドレス：support@gl-inet.com。"
+      ],
+      "query": "GL.iNet Beryl AX トラベルルーター",
+      "asin": "B0BQ1YRH9F"
+    }
+  ],
+  "all_candidates": []
+}
