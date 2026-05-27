@@ -700,6 +700,54 @@ TASKS = [
         ],
     },
     {
+        "date": "2026-05-29",
+        "output_filename": "2026-05-29_amazon_smile_sale_research_data.json",
+        "title": "【Amazonスマイルセール】充電器・PC周辺機器・梅雨対策家電の狙い目 10 選",
+        "target_count": 10,
+        "editorial_summary": "2026年5月27日9:00から6月2日23:59までのAmazonスマイルセール向けに、先行公開で名前が出ているガジェットと、読者の購買意欲が高い充電器・PC周辺機器・音声/配信機材・梅雨対策家電を横断して選定。セール価格は変動するため、記事では対象品確認とポイント還元込みの実質価格確認を促す構成にする。",
+        "sale_context": {
+            "event_name": "Amazonスマイルセール",
+            "event_period": "2026-05-27 09:00 - 2026-06-02 23:59",
+            "article_publish_target": "2026-05-29",
+            "notes": [
+                "セール期間中は価格・在庫・対象品が変動するため、本文では掲載時点の確認を明記する。",
+                "ポイントアップキャンペーンはエントリーと購入金額条件があるため、商品紹介とは別枠で注意書きを入れる。",
+                "ストア導線は記事末尾またはカテゴリ区切りの補助導線に留め、記事タイトルと本文主語はAmazonスマイルセールにする。"
+            ],
+            "public_sources": [
+                "https://sellercentral.amazon.co.jp/seller-forums/discussions/t/6ed0554c-0abf-4a97-8e46-f25869ee0875?mons_sel_locale=ja_JP",
+                "https://www.phileweb.com/news/d-av/202605/24/65184.html",
+                "https://smhn.info/202605-amazon-smile-sale-may-27-5000-points-campaign",
+                "https://av.watch.impress.co.jp/docs/news/2110511.html",
+                "https://news.mynavi.jp/article/20260526-4505220/"
+            ]
+        },
+        "query_reasons": {
+            "CIO NovaPort QUADⅡ 65W": "先行公開で名前が出ている65W級の多ポート急速充電器。スマホ・タブレット・ノートPCをまとめて充電したい読者に刺さりやすいセール定番枠。",
+            "Xiaomi Pad 7 8G 128G ブルー": "先行公開で名前が出ているタブレット。動画視聴と軽作業の両方に使いやすく、セール記事の目玉候補にしやすい。",
+            "Acer Predator GM9000 8TB SSD": "先行公開で名前が出ている大容量・高速SSD。PC環境の見直しやゲーム/動画編集用途に向く高単価の注目枠。",
+            "オーディオテクニカ AT-UMX3 WH USB オーディオミキサー": "先行公開で名前が出ている配信・会議・DTM向け機材。デスク環境改善記事として扱いやすい。",
+            "Shokz OpenDots ONE": "先行公開で名前が出ているオープンイヤー系イヤホン。作業中や移動中に耳を塞ぎたくない読者向け。",
+            "ATH-CKS50TW2": "先行公開で名前が出ている完全ワイヤレスイヤホン。長時間再生・防水防塵・マルチポイントなど日常用途で訴求しやすい。",
+            "Wacom Cintiq 16 FHD": "先行公開で名前が出ている液晶ペンタブレット。クリエイター向けの大物枠としてセール記事の幅を出せる。",
+            "Ring Indoor Cam": "先行公開記事でRing防犯カメラへの言及があり、置き配・見守り・一人暮らし防犯の需要に合う。",
+            "SwitchBot ハブ2 スマートリモコン": "梅雨から夏に向けてエアコン遠隔操作・温湿度管理・スマートホーム連携をまとめて訴求できる。",
+            "アイリスオーヤマ 衣類乾燥除湿機 IJD-I50": "梅雨対策枠。セールの生活家電需要に合い、部屋干し・湿気対策という季節性が強い。"
+        },
+        "queries": [
+            {"query": "CIO NovaPort QUADⅡ 65W", "include": ["CIO", "QUADⅡ", "65W"]},
+            {"query": "Xiaomi Pad 7 8G 128G ブルー", "include": ["Xiaomi Pad 7", "8G+128G"]},
+            {"query": "Acer Predator GM9000 8TB SSD", "include": ["Predator", "GM9000", "8TB"]},
+            {"query": "オーディオテクニカ AT-UMX3 WH USB オーディオミキサー", "include": ["AT-UMX3", "WH"]},
+            {"query": "Shokz OpenDots ONE", "include": ["Shokz", "OpenDots ONE"], "exclude": ["ケース", "カバー"]},
+            {"query": "ATH-CKS50TW2", "include": ["ATH-CKS50TW2"]},
+            {"query": "Wacom Cintiq 16 FHD", "include": ["Wacom", "Cintiq 16"], "exclude": ["整備済み"]},
+            {"query": "Ring Indoor Cam", "include": ["Ring", "Indoor Cam"]},
+            {"query": "SwitchBot ハブ2 スマートリモコン", "include": ["SwitchBot", "ハブ2"]},
+            {"query": "アイリスオーヤマ 衣類乾燥除湿機 IJD-I50", "include": ["アイリスオーヤマ", "IJD-I50"]},
+        ],
+    },
+    {
         "date": "2026-05-30",
         "title": "夏の思い出を記録。最新「アクションカメラ」徹底比較 6 選",
         "target_count": 6,
@@ -854,7 +902,7 @@ def run_task(task):
         else:
             errors.append({"query": query, "error": "no usable item found"})
 
-        time.sleep(1)
+        time.sleep(3)
 
     payload = {
         "date": task["date"],
@@ -886,10 +934,13 @@ def run_task(task):
     }
     if task.get("editorial_summary"):
         payload["editorial_summary"] = task["editorial_summary"]
+    if task.get("sale_context"):
+        payload["sale_context"] = task["sale_context"]
 
     output_dir = get_output_dir(task["date"])
     os.makedirs(output_dir, exist_ok=True)
-    output_path = os.path.join(output_dir, f"{task['date']}_research_data.json")
+    output_filename = task.get("output_filename", f"{task['date']}_research_data.json")
+    output_path = os.path.join(output_dir, output_filename)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
 

@@ -1,0 +1,293 @@
+{
+  "checked_at": "2026-05-27T13:46:35.131Z",
+  "results": [
+    {
+      "asin": "B0D53XL7GL",
+      "query": "CIO NovaPort QUADⅡ 65W",
+      "url": "https://www.amazon.co.jp/dp/B0D53XL7GL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "candidates": [
+        {
+          "selector": "#corePriceDisplay_desktop_feature_div",
+          "text": ".ppu-align-bottom, .stp-ppu-adaptive-container { display: inline-flex; flex-direction: row; align-items: flex-end; top: 0.8rem; } .stp-ppu-adaptive-container .pricePerUnit { margin-left: 6px; } /* Override the font of a size small with parent container, currently set to a size-mini. This is necessary as basisPrice is hardcoded to use a size small */ .stp-ppu-adaptive-container .a-size-small.basisPrice { font-size: inherit !important; line-height: inherit !important; } .stp-ppu-adaptive-container .a-size-micro.basisPriceLegalMessage { margin-left: 2px; } .savingPriceOverride { color:#CC0C39!important; font-weight: 300!important; } .savingPriceOverrideEdlp { color:#565959!important; font-weigh"
+        },
+        {
+          "selector": "#apex_desktop",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; } .delight-pricing-badge { background-color: #B12704 !important; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; padding-left: 10px; padding-right: 10px; font-size: 12px !important; line-height: 24px !important; max-width: 140px; } .delight-pricing-badge-label { position: relative; z-index: 1; float: left; } .delight-pricing-badge-label-text { color: #ffffff !important; } .delight-pricing-container span { display: inline-block; vertical-align: middle; } .delight-pricing-container { padding-bottom: 5p"
+        },
+        {
+          "selector": "#dealBadge_feature_div",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; }"
+        },
+        {
+          "selector": "#buybox",
+          "text": ".gb_box_info {border-color:#bbd3de;} .gb_box_error {border-color:#c40000;} .gb_box_warn {border-color:#8b6e00;} .gb_box_success {border-color:#89cd89;} .gb_box_in_cart {background-color: #e7f2ef; border-radius: 3px;} .gb_alert_in_cart {padding-top: 1px} ￥4,580￥4,580 税込 ポイント: 46pt (1%) 詳細はこちら 無料配送 5月29日 金曜日にお届け 詳細を見る または 最も早い配送 明日 5月28日にお届け（1 時間 13 分以内にご注文の場合） 詳細を見る {\"merchantId\":\"A3SH5YQPQNRLHA\",\"asin\":\"B0D53XL7GL\"} お届け先福岡市 812-0011-お届け先の更新 在庫あり。 {\"isInternal\":false,\"showInsightsHub\":false,\"isRobot\":false,\"showFaceout\":true,\"merchantId\":\"A3SH5YQPQNRLHA\",\"availableBadges\":\"\",\"loggedIn\":false,\"asin\":\"B0D53XL7GL\",\"showBadge\":false,\"ingressFaceout\":\"\",\"availableFaceouts\":\"TK_BOUGHT\"} 在庫状況について .a"
+        },
+        {
+          "selector": "#centerCol",
+          "text": ".product-title-word-break { word-break: break-word; } CIO NovaPort QUADⅡ 65W 急速充電器 PD 4ポート [世界最小級] USB-C×3 + USB-A×1 ACアダプター コンセント 軽量 iPhone 17 / Air / 16 / 15 Android Galaxy Macbook iPad向け ノートPC (ブラック) CIOのストアを表示 4.3 5つ星のうち4.3 (583) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics'"
+        }
+      ],
+      "explicitSaleSignal": true,
+      "price": "",
+      "title": "CIO NovaPort QUADⅡ 65W 急速充電器 PD 4ポート [世界最小級] USB-C×3 + USB-A×1 ACアダプター コンセント 軽量 iPhone 17 / Air / 16 / 15 Android Galaxy Macbook iPad向け ノートPC (ブラック)"
+    },
+    {
+      "asin": "B0DXFC2WC9",
+      "query": "Xiaomi Pad 7 8G 128G ブルー",
+      "url": "https://www.amazon.co.jp/dp/B0DXFC2WC9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "candidates": [
+        {
+          "selector": "#corePriceDisplay_desktop_feature_div",
+          "text": ".ppu-align-bottom, .stp-ppu-adaptive-container { display: inline-flex; flex-direction: row; align-items: flex-end; top: 0.8rem; } .stp-ppu-adaptive-container .pricePerUnit { margin-left: 6px; } /* Override the font of a size small with parent container, currently set to a size-mini. This is necessary as basisPrice is hardcoded to use a size small */ .stp-ppu-adaptive-container .a-size-small.basisPrice { font-size: inherit !important; line-height: inherit !important; } .stp-ppu-adaptive-container .a-size-micro.basisPriceLegalMessage { margin-left: 2px; } .savingPriceOverride { color:#CC0C39!important; font-weight: 300!important; } .savingPriceOverrideEdlp { color:#565959!important; font-weigh"
+        },
+        {
+          "selector": "#apex_desktop",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; } .delight-pricing-badge { background-color: #B12704 !important; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; padding-left: 10px; padding-right: 10px; font-size: 12px !important; line-height: 24px !important; max-width: 140px; } .delight-pricing-badge-label { position: relative; z-index: 1; float: left; } .delight-pricing-badge-label-text { color: #ffffff !important; } .delight-pricing-container span { display: inline-block; vertical-align: middle; } .delight-pricing-container { padding-bottom: 5p"
+        },
+        {
+          "selector": "#dealBadge_feature_div",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; }"
+        },
+        {
+          "selector": "#buybox",
+          "text": ".gb_box_info {border-color:#bbd3de;} .gb_box_error {border-color:#c40000;} .gb_box_warn {border-color:#8b6e00;} .gb_box_success {border-color:#89cd89;} .gb_box_in_cart {background-color: #e7f2ef; border-radius: 3px;} .gb_alert_in_cart {padding-top: 1px} ￥49,980￥49,980 税込 ポイント: 500pt (1%) 詳細はこちら 無料配送 5月29日 金曜日にお届け 詳細を見る または 最も早い配送 明日 5月28日にお届け（1 時間 13 分以内にご注文の場合） 詳細を見る {\"merchantId\":\"AN1VRQENFRJN5\",\"asin\":\"B0DXFC2WC9\"} お届け先福岡市 812-0011-お届け先の更新 在庫あり。 {\"isInternal\":false,\"showInsightsHub\":false,\"isRobot\":false,\"showFaceout\":true,\"merchantId\":\"AN1VRQENFRJN5\",\"availableBadges\":\"\",\"loggedIn\":false,\"asin\":\"B0DXFC2WC9\",\"showBadge\":false,\"ingressFaceout\":\"\",\"availableFaceouts\":\"TK_BOUGHT\"} 在庫状況について ."
+        },
+        {
+          "selector": "#centerCol",
+          "text": ".premium-logoByLine-brand-logo { max-height: 36px; height: auto; max-width: min(220px, 100%); min-width: 4px; width: auto; object-fit: contain; } xiaomi(シャオミ)のストアを表示 .product-title-word-break { word-break: break-word; } Xiaomi Pad 7 8G+128G ブルー 3.2K 144Hz高精細ディスプレイ 800nits Snapdragon 7+ Gen 3 Xiaomi HyperOS 2搭載 AI機能 Google Gemini クワッドスピーカー Dolby Vision 8850mAhバッテリー 45W急速充電 エンターテインメント 作業 会議用 4.0 5つ星のうち4.0 (52) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (win"
+        }
+      ],
+      "explicitSaleSignal": true,
+      "price": "",
+      "title": "Xiaomi Pad 7 8G+128G ブルー 3.2K 144Hz高精細ディスプレイ 800nits Snapdragon 7+ Gen 3 Xiaomi HyperOS 2搭載 AI機能 Google Gemini クワッドスピーカー Dolby Vision 8850mAhバッテリー 45W急速充電 エンターテインメント 作業 会議用"
+    },
+    {
+      "asin": "B0FW4JN2R3",
+      "query": "Acer Predator GM9000 8TB SSD",
+      "url": "https://www.amazon.co.jp/dp/B0FW4JN2R3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "candidates": [
+        {
+          "selector": "#corePriceDisplay_desktop_feature_div",
+          "text": ".ppu-align-bottom, .stp-ppu-adaptive-container { display: inline-flex; flex-direction: row; align-items: flex-end; top: 0.8rem; } .stp-ppu-adaptive-container .pricePerUnit { margin-left: 6px; } /* Override the font of a size small with parent container, currently set to a size-mini. This is necessary as basisPrice is hardcoded to use a size small */ .stp-ppu-adaptive-container .a-size-small.basisPrice { font-size: inherit !important; line-height: inherit !important; } .stp-ppu-adaptive-container .a-size-micro.basisPriceLegalMessage { margin-left: 2px; } .savingPriceOverride { color:#CC0C39!important; font-weight: 300!important; } .savingPriceOverrideEdlp { color:#565959!important; font-weigh"
+        },
+        {
+          "selector": "#apex_desktop",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; } .delight-pricing-badge { background-color: #B12704 !important; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; padding-left: 10px; padding-right: 10px; font-size: 12px !important; line-height: 24px !important; max-width: 140px; } .delight-pricing-badge-label { position: relative; z-index: 1; float: left; } .delight-pricing-badge-label-text { color: #ffffff !important; } .delight-pricing-container span { display: inline-block; vertical-align: middle; } .delight-pricing-container { padding-bottom: 5p"
+        },
+        {
+          "selector": "#dealBadge_feature_div",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; }"
+        },
+        {
+          "selector": "#centerCol",
+          "text": ".product-title-word-break { word-break: break-word; } Acer Predator GM9000 8TB SSD Gen5×4 超高速(最大読み取り：14000MB/s、最大書き込み：13000MB/s) NVMe2.0 M.2 Type 2280 PCIe 内蔵SSD 6nmプロセス 低消費電力 高耐久 メーカー5年保証 Acerのストアを表示 4.4 5つ星のうち4.4 (27) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \""
+        }
+      ],
+      "explicitSaleSignal": true,
+      "price": "",
+      "title": "Acer Predator GM9000 8TB SSD Gen5×4 超高速(最大読み取り：14000MB/s、最大書き込み：13000MB/s) NVMe2.0 M.2 Type 2280 PCIe 内蔵SSD 6nmプロセス 低消費電力 高耐久 メーカー5年保証"
+    },
+    {
+      "asin": "B0DZCCPH3V",
+      "query": "オーディオテクニカ AT-UMX3 WH USB オーディオミキサー",
+      "url": "https://www.amazon.co.jp/dp/B0DZCCPH3V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "candidates": [
+        {
+          "selector": "#corePriceDisplay_desktop_feature_div",
+          "text": ".ppu-align-bottom, .stp-ppu-adaptive-container { display: inline-flex; flex-direction: row; align-items: flex-end; top: 0.8rem; } .stp-ppu-adaptive-container .pricePerUnit { margin-left: 6px; } /* Override the font of a size small with parent container, currently set to a size-mini. This is necessary as basisPrice is hardcoded to use a size small */ .stp-ppu-adaptive-container .a-size-small.basisPrice { font-size: inherit !important; line-height: inherit !important; } .stp-ppu-adaptive-container .a-size-micro.basisPriceLegalMessage { margin-left: 2px; } .savingPriceOverride { color:#CC0C39!important; font-weight: 300!important; } .savingPriceOverrideEdlp { color:#565959!important; font-weigh"
+        },
+        {
+          "selector": "#apex_desktop",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; } .delight-pricing-badge { background-color: #B12704 !important; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; padding-left: 10px; padding-right: 10px; font-size: 12px !important; line-height: 24px !important; max-width: 140px; } .delight-pricing-badge-label { position: relative; z-index: 1; float: left; } .delight-pricing-badge-label-text { color: #ffffff !important; } .delight-pricing-container span { display: inline-block; vertical-align: middle; } .delight-pricing-container { padding-bottom: 5p"
+        },
+        {
+          "selector": "#dealBadge_feature_div",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; }"
+        },
+        {
+          "selector": "#buybox",
+          "text": ".gb_box_info {border-color:#bbd3de;} .gb_box_error {border-color:#c40000;} .gb_box_warn {border-color:#8b6e00;} .gb_box_success {border-color:#89cd89;} .gb_box_in_cart {background-color: #e7f2ef; border-radius: 3px;} .gb_alert_in_cart {padding-top: 1px} ￥17,424￥17,424 税込 ポイント: 174pt (1%) 詳細はこちら 無料配送 5月29日 金曜日にお届け （1 時間 13 分以内にご注文の場合） 詳細を見る {\"merchantId\":\"A1097A3VZYRXB9\",\"asin\":\"B0DZCCPH3V\"} お届け先福岡市 812-0011-お届け先の更新 在庫あり。 {\"isInternal\":false,\"showInsightsHub\":false,\"isRobot\":false,\"showFaceout\":true,\"merchantId\":\"A1097A3VZYRXB9\",\"availableBadges\":\"\",\"loggedIn\":false,\"asin\":\"B0DZCCPH3V\",\"showBadge\":false,\"ingressFaceout\":\"\",\"availableFaceouts\":\"TK_BOUGHT\"} 在庫状況について .availabilityMoreDetailsIcon"
+        },
+        {
+          "selector": "#centerCol",
+          "text": ".product-title-word-break { word-break: break-word; } オーディオテクニカ AT-UMX3 WH USB オーディオミキサー オーディオインターフェース 配信機材 DTM 音楽制作 USB Type-C スマホ/タブレット対応 PS4 PS5 【公式限定カラー】 ホワイト Audio Technica(オーディオテクニカ)のストアを表示 4.0 5つ星のうち4.0 (360) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allo"
+        }
+      ],
+      "explicitSaleSignal": true,
+      "price": "",
+      "title": "オーディオテクニカ AT-UMX3 WH USB オーディオミキサー オーディオインターフェース 配信機材 DTM 音楽制作 USB Type-C スマホ/タブレット対応 PS4 PS5 【公式限定カラー】 ホワイト"
+    },
+    {
+      "asin": "B0DW3RWMNM",
+      "query": "Shokz OpenDots ONE",
+      "url": "https://www.amazon.co.jp/dp/B0DW3RWMNM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "candidates": [
+        {
+          "selector": "#corePriceDisplay_desktop_feature_div",
+          "text": ".ppu-align-bottom, .stp-ppu-adaptive-container { display: inline-flex; flex-direction: row; align-items: flex-end; top: 0.8rem; } .stp-ppu-adaptive-container .pricePerUnit { margin-left: 6px; } /* Override the font of a size small with parent container, currently set to a size-mini. This is necessary as basisPrice is hardcoded to use a size small */ .stp-ppu-adaptive-container .a-size-small.basisPrice { font-size: inherit !important; line-height: inherit !important; } .stp-ppu-adaptive-container .a-size-micro.basisPriceLegalMessage { margin-left: 2px; } .savingPriceOverride { color:#CC0C39!important; font-weight: 300!important; } .savingPriceOverrideEdlp { color:#565959!important; font-weigh"
+        },
+        {
+          "selector": "#apex_desktop",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; } .delight-pricing-badge { background-color: #B12704 !important; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; padding-left: 10px; padding-right: 10px; font-size: 12px !important; line-height: 24px !important; max-width: 140px; } .delight-pricing-badge-label { position: relative; z-index: 1; float: left; } .delight-pricing-badge-label-text { color: #ffffff !important; } .delight-pricing-container span { display: inline-block; vertical-align: middle; } .delight-pricing-container { padding-bottom: 5p"
+        },
+        {
+          "selector": "#dealBadge_feature_div",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; }"
+        },
+        {
+          "selector": "#buybox",
+          "text": ".gb_box_info {border-color:#bbd3de;} .gb_box_error {border-color:#c40000;} .gb_box_warn {border-color:#8b6e00;} .gb_box_success {border-color:#89cd89;} .gb_box_in_cart {background-color: #e7f2ef; border-radius: 3px;} .gb_alert_in_cart {padding-top: 1px} ￥20,891￥20,891 税込 ポイント: 209pt (1%) 詳細はこちら 無料配送 5月29日 金曜日にお届け （1 時間 13 分以内にご注文の場合） 詳細を見る {\"merchantId\":\"A3U5E183ODUBBN\",\"asin\":\"B0DW3RWMNM\"} お届け先福岡市 812-0011-お届け先の更新 在庫あり。 {\"isInternal\":false,\"showInsightsHub\":false,\"isRobot\":false,\"showFaceout\":true,\"merchantId\":\"A3U5E183ODUBBN\",\"availableBadges\":\"\",\"loggedIn\":false,\"asin\":\"B0DW3RWMNM\",\"showBadge\":false,\"ingressFaceout\":\"\",\"availableFaceouts\":\"TK_BOUGHT\"} 在庫状況について .availabilityMoreDetailsIcon"
+        },
+        {
+          "selector": "#centerCol",
+          "text": ".product-title-word-break { word-break: break-word; } Shokz (ショックス) OpenDots ONE イヤーカフ ワイヤレスイヤホン オープンイヤー イヤホン 【Dolby Audio対応 / 合計40時間再生 / 音漏れ抑制技術/VGP 2025 金賞】 Bluetooth 5.4 マルチポイント接続 IP54防水 専用アプリ マイク付き 急速充電対応 ワイヤレス充電 耳を塞がない 耳挟み式 ブラック SHOKZのストアを表示 4.5 5つ星のうち4.5 (692) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declara"
+        }
+      ],
+      "explicitSaleSignal": true,
+      "price": "",
+      "title": "Shokz (ショックス) OpenDots ONE イヤーカフ ワイヤレスイヤホン オープンイヤー イヤホン 【Dolby Audio対応 / 合計40時間再生 / 音漏れ抑制技術/VGP 2025 金賞】 Bluetooth 5.4 マルチポイント接続 IP54防水 専用アプリ マイク付き 急速充電対応 ワイヤレス充電 耳を塞がない 耳挟み式 ブラック"
+    },
+    {
+      "asin": "B0DJCWXJKB",
+      "query": "ATH-CKS50TW2",
+      "url": "https://www.amazon.co.jp/dp/B0DJCWXJKB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "candidates": [
+        {
+          "selector": "#corePriceDisplay_desktop_feature_div",
+          "text": ".ppu-align-bottom, .stp-ppu-adaptive-container { display: inline-flex; flex-direction: row; align-items: flex-end; top: 0.8rem; } .stp-ppu-adaptive-container .pricePerUnit { margin-left: 6px; } /* Override the font of a size small with parent container, currently set to a size-mini. This is necessary as basisPrice is hardcoded to use a size small */ .stp-ppu-adaptive-container .a-size-small.basisPrice { font-size: inherit !important; line-height: inherit !important; } .stp-ppu-adaptive-container .a-size-micro.basisPriceLegalMessage { margin-left: 2px; } .savingPriceOverride { color:#CC0C39!important; font-weight: 300!important; } .savingPriceOverrideEdlp { color:#565959!important; font-weigh"
+        },
+        {
+          "selector": "#apex_desktop",
+          "text": ".delight-pricing-badge { background-color: #B12704 !important; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; padding-left: 10px; padding-right: 10px; font-size: 12px !important; line-height: 24px !important; max-width: 140px; } .delight-pricing-badge-label { position: relative; z-index: 1; float: left; } .delight-pricing-badge-label-text { color: #ffffff !important; } .delight-pricing-container span { display: inline-block; vertical-align: middle; } .delight-pricing-container { padding-bottom: 5px; } .delight-pricing-badge-description-text { padding-left: 10px; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; color: #111; } .reinventDelightPricing { color:#CC0C39"
+        },
+        {
+          "selector": "#buybox",
+          "text": "P.when(\"A\", \"a-expander\", \"a-truncate\", \"ready\").execute(function(A, expander, truncate) { A.on(\"a:accordion:buybox-accordion:select\", function(data) { // Change active accordion header price color to red A.$(\"#buyBoxAccordion\").find(\".accordion-header span.header-price\"). removeClass(\"a-color-price\").addClass(\"a-color-secondary\"); A.$(data.selectedRow.$row).find(\".accordion-header span.header-price\"). removeClass(\"a-color-secondary\").addClass(\"a-color-price\"); // Change active accordion header prime logo to opaque A.$(\"#buyBoxAccordion\").find(\".accordion-header i.header-prime-logo\"). addClass(\"opacity-50\"); A.$(data.selectedRow.$row).find(\".accordion-header i.header-prime-logo\"). removeClas"
+        },
+        {
+          "selector": "#centerCol",
+          "text": ".product-title-word-break { word-break: break-word; } audio-technica ATH-CKS50TW2 BG 完全ワイヤレスイヤホン bluetooth マグネティックスイッチ機能 最大約65時間再生 IP55 防水防塵 マルチポイント対応 置き忘れアラート ヒアスルー 低遅延モード 急速充電 Qiワイヤレス充電対応 ベージュ Audio Technica(オーディオテクニカ)のストアを表示 4.6 5つ星のうち4.6 (53) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-c"
+        }
+      ],
+      "explicitSaleSignal": true,
+      "price": "",
+      "title": "audio-technica ATH-CKS50TW2 BG 完全ワイヤレスイヤホン bluetooth マグネティックスイッチ機能 最大約65時間再生 IP55 防水防塵 マルチポイント対応 置き忘れアラート ヒアスルー 低遅延モード 急速充電 Qiワイヤレス充電対応 ベージュ"
+    },
+    {
+      "asin": "B07L9LX9JX",
+      "query": "Wacom Cintiq 16 FHD",
+      "url": "https://www.amazon.co.jp/dp/B07L9LX9JX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "candidates": [
+        {
+          "selector": "#corePriceDisplay_desktop_feature_div",
+          "text": ".ppu-align-bottom, .stp-ppu-adaptive-container { display: inline-flex; flex-direction: row; align-items: flex-end; top: 0.8rem; } .stp-ppu-adaptive-container .pricePerUnit { margin-left: 6px; } /* Override the font of a size small with parent container, currently set to a size-mini. This is necessary as basisPrice is hardcoded to use a size small */ .stp-ppu-adaptive-container .a-size-small.basisPrice { font-size: inherit !important; line-height: inherit !important; } .stp-ppu-adaptive-container .a-size-micro.basisPriceLegalMessage { margin-left: 2px; } .savingPriceOverride { color:#CC0C39!important; font-weight: 300!important; } .savingPriceOverrideEdlp { color:#565959!important; font-weigh"
+        },
+        {
+          "selector": "#apex_desktop",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; } .delight-pricing-badge { background-color: #B12704 !important; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; padding-left: 10px; padding-right: 10px; font-size: 12px !important; line-height: 24px !important; max-width: 140px; } .delight-pricing-badge-label { position: relative; z-index: 1; float: left; } .delight-pricing-badge-label-text { color: #ffffff !important; } .delight-pricing-container span { display: inline-block; vertical-align: middle; } .delight-pricing-container { padding-bottom: 5p"
+        },
+        {
+          "selector": "#dealBadge_feature_div",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; }"
+        },
+        {
+          "selector": "#buybox",
+          "text": "P.when(\"A\", \"a-expander\", \"a-truncate\", \"ready\").execute(function(A, expander, truncate) { A.on(\"a:accordion:buybox-accordion:select\", function(data) { // Change active accordion header price color to red A.$(\"#buyBoxAccordion\").find(\".accordion-header span.header-price\"). removeClass(\"a-color-price\").addClass(\"a-color-secondary\"); A.$(data.selectedRow.$row).find(\".accordion-header span.header-price\"). removeClass(\"a-color-secondary\").addClass(\"a-color-price\"); // Change active accordion header prime logo to opaque A.$(\"#buyBoxAccordion\").find(\".accordion-header i.header-prime-logo\"). addClass(\"opacity-50\"); A.$(data.selectedRow.$row).find(\".accordion-header i.header-prime-logo\"). removeClas"
+        },
+        {
+          "selector": "#centerCol",
+          "text": ".product-title-word-break { word-break: break-word; } 【Amazon.co.jp限定】ワコム 液タブ 液晶ペンタブレット Wacom Cintiq 16 FHD ブラック オリジナルカスタムブラシセット DTK1660K1D Wacom(ワコム)のストアを表示 4.5 5つ星のうち4.5 (2,303) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(eve"
+        }
+      ],
+      "explicitSaleSignal": true,
+      "price": "",
+      "title": "【Amazon.co.jp限定】ワコム 液タブ 液晶ペンタブレット Wacom Cintiq 16 FHD ブラック オリジナルカスタムブラシセット DTK1660K1D"
+    },
+    {
+      "asin": "B0B6GL3N8D",
+      "query": "Ring Indoor Cam",
+      "url": "https://www.amazon.co.jp/dp/B0B6GL3N8D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "candidates": [
+        {
+          "selector": "#corePriceDisplay_desktop_feature_div",
+          "text": ".ppu-align-bottom, .stp-ppu-adaptive-container { display: inline-flex; flex-direction: row; align-items: flex-end; top: 0.8rem; } .stp-ppu-adaptive-container .pricePerUnit { margin-left: 6px; } /* Override the font of a size small with parent container, currently set to a size-mini. This is necessary as basisPrice is hardcoded to use a size small */ .stp-ppu-adaptive-container .a-size-small.basisPrice { font-size: inherit !important; line-height: inherit !important; } .stp-ppu-adaptive-container .a-size-micro.basisPriceLegalMessage { margin-left: 2px; } .savingPriceOverride { color:#CC0C39!important; font-weight: 300!important; } .savingPriceOverrideEdlp { color:#565959!important; font-weigh"
+        },
+        {
+          "selector": "#apex_desktop",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; } .delight-pricing-badge { background-color: #B12704 !important; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; padding-left: 10px; padding-right: 10px; font-size: 12px !important; line-height: 24px !important; max-width: 140px; } .delight-pricing-badge-label { position: relative; z-index: 1; float: left; } .delight-pricing-badge-label-text { color: #ffffff !important; } .delight-pricing-container span { display: inline-block; vertical-align: middle; } .delight-pricing-container { padding-bottom: 5p"
+        },
+        {
+          "selector": "#dealBadge_feature_div",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; }"
+        },
+        {
+          "selector": "#buybox",
+          "text": ".gb_box_info {border-color:#bbd3de;} .gb_box_error {border-color:#c40000;} .gb_box_warn {border-color:#8b6e00;} .gb_box_success {border-color:#89cd89;} .gb_box_in_cart {background-color: #e7f2ef; border-radius: 3px;} .gb_alert_in_cart {padding-top: 1px} ￥3,460￥3,460 税込 ポイント: 35pt (1%) 詳細はこちら 無料配送 5月29日 金曜日にお届け（初回注文特典） 詳細を見る または 最も早い配送 明日 5月28日にお届け（1 時間 13 分以内にご注文の場合） 詳細を見る {\"merchantId\":\"AN1VRQENFRJN5\",\"asin\":\"B0B6GL3N8D\"} お届け先福岡市 812-0011-お届け先の更新 在庫あり。 {\"isInternal\":false,\"showInsightsHub\":false,\"isRobot\":false,\"showFaceout\":true,\"merchantId\":\"AN1VRQENFRJN5\",\"availableBadges\":\"\",\"loggedIn\":false,\"asin\":\"B0B6GL3N8D\",\"showBadge\":false,\"ingressFaceout\":\"\",\"availableFaceouts\":\"TK_BOUGHT\"} 在庫状況に"
+        },
+        {
+          "selector": "#centerCol",
+          "text": ".product-title-word-break { word-break: break-word; } 【2023年度グッドデザイン賞受賞】Ring Indoor Cam (リング インドアカム) 第2世代 ブラック | 軽量小型の屋内用セキュリティカメラ、ペットカメラやご自宅の見守りカメラ、防犯カメラの用途にも プライバシーカバー付き | Ring Homeプラン30日間無料体験 Ringストアにアクセス 4.0 5つ星のうち4.0 (2,255) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'c"
+        }
+      ],
+      "explicitSaleSignal": true,
+      "price": "",
+      "title": "【2023年度グッドデザイン賞受賞】Ring Indoor Cam (リング インドアカム) 第2世代 ブラック | 軽量小型の屋内用セキュリティカメラ、ペットカメラやご自宅の見守りカメラ、防犯カメラの用途にも プライバシーカバー付き | Ring Homeプラン30日間無料体験"
+    },
+    {
+      "asin": "B0BM8VS13P",
+      "query": "SwitchBot ハブ2 スマートリモコン",
+      "url": "https://www.amazon.co.jp/dp/B0BM8VS13P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "candidates": [
+        {
+          "selector": "#corePriceDisplay_desktop_feature_div",
+          "text": ".ppu-align-bottom, .stp-ppu-adaptive-container { display: inline-flex; flex-direction: row; align-items: flex-end; top: 0.8rem; } .stp-ppu-adaptive-container .pricePerUnit { margin-left: 6px; } /* Override the font of a size small with parent container, currently set to a size-mini. This is necessary as basisPrice is hardcoded to use a size small */ .stp-ppu-adaptive-container .a-size-small.basisPrice { font-size: inherit !important; line-height: inherit !important; } .stp-ppu-adaptive-container .a-size-micro.basisPriceLegalMessage { margin-left: 2px; } .savingPriceOverride { color:#CC0C39!important; font-weight: 300!important; } .savingPriceOverrideEdlp { color:#565959!important; font-weigh"
+        },
+        {
+          "selector": "#apex_desktop",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; } .delight-pricing-badge { background-color: #B12704 !important; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; padding-left: 10px; padding-right: 10px; font-size: 12px !important; line-height: 24px !important; max-width: 140px; } .delight-pricing-badge-label { position: relative; z-index: 1; float: left; } .delight-pricing-badge-label-text { color: #ffffff !important; } .delight-pricing-container span { display: inline-block; vertical-align: middle; } .delight-pricing-container { padding-bottom: 5p"
+        },
+        {
+          "selector": "#dealBadge_feature_div",
+          "text": "スマイル SaleNO_OF_HOURS 時間 NO_OF_MINUTES 分 スマイル Sale NO_OF_MINUTES分 スマイル Sale NO_OF_MINUTES分NO_OF_SECONDS秒 スマイル Sale NO_OF_SECONDS秒 スマイル Sale .dealBadgeSupportingText { color:#CC0C39; }"
+        },
+        {
+          "selector": "#promoPriceBlockMessage_feature_div",
+          "text": "プロモーション情報 【母の日・父の日まとめ買いフェア】よりどり2点以上で5%OFF 買い物をする .cxcwEmphasisLink { padding-left: 6px; padding-right: 12px !important; display: inline-block; } .cxcwEmphasisLink::after { bottom: 6.5px !important; margin-left: 2px !important; }"
+        },
+        {
+          "selector": "#buybox",
+          "text": ".gb_box_info {border-color:#bbd3de;} .gb_box_error {border-color:#c40000;} .gb_box_warn {border-color:#8b6e00;} .gb_box_success {border-color:#89cd89;} .gb_box_in_cart {background-color: #e7f2ef; border-radius: 3px;} .gb_alert_in_cart {padding-top: 1px} ￥8,400￥8,400 税込 ポイント: 84pt (1%) 詳細はこちら 無料配送 5月30日 土曜日にお届け 詳細を見る または 最も早い配送 5月29日 金曜日にお届け（13 時間 43 分以内にご注文の場合） 詳細を見る {\"merchantId\":\"AN1VRQENFRJN5\",\"asin\":\"B0BM8VS13P\"} お届け先福岡市 812-0011-お届け先の更新 在庫あり。 {\"isInternal\":false,\"showInsightsHub\":false,\"isRobot\":false,\"showFaceout\":true,\"merchantId\":\"AN1VRQENFRJN5\",\"availableBadges\":\"\",\"loggedIn\":false,\"asin\":\"B0BM8VS13P\",\"showBadge\":false,\"ingressFaceout\":\"\",\"availableFaceouts\":\"TK_BOUGHT\"} 在庫状況について .a"
+        },
+        {
+          "selector": "#centerCol",
+          "text": ".product-title-word-break { word-break: break-word; } SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2 スイッチボット(SwitchBot)のストアを表示 4.3 5つ星のうち4.3 (11,413) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative("
+        }
+      ],
+      "explicitSaleSignal": true,
+      "price": "",
+      "title": "SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2"
+    },
+    {
+      "asin": "B07RVT4BK3",
+      "query": "アイリスオーヤマ 衣類乾燥除湿機 IJD-I50",
+      "url": "https://www.amazon.co.jp/dp/B07RVT4BK3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "candidates": [
+        {
+          "selector": "#apex_desktop",
+          "text": ".delight-pricing-badge { background-color: #B12704 !important; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; padding-left: 10px; padding-right: 10px; font-size: 12px !important; line-height: 24px !important; max-width: 140px; } .delight-pricing-badge-label { position: relative; z-index: 1; float: left; } .delight-pricing-badge-label-text { color: #ffffff !important; } .delight-pricing-container span { display: inline-block; vertical-align: middle; } .delight-pricing-container { padding-bottom: 5px; } .delight-pricing-badge-description-text { padding-left: 10px; margin: auto; font-family: \"Amazon Ember\", Arial, sans-serif; color: #111; } .reinventDelightPricing { color:#CC0C39"
+        },
+        {
+          "selector": "#buybox",
+          "text": "P.when(\"A\", \"a-expander\", \"a-truncate\", \"ready\").execute(function(A, expander, truncate) { A.on(\"a:accordion:buybox-accordion:select\", function(data) { // Change active accordion header price color to red A.$(\"#buyBoxAccordion\").find(\".accordion-header span.header-price\"). removeClass(\"a-color-price\").addClass(\"a-color-secondary\"); A.$(data.selectedRow.$row).find(\".accordion-header span.header-price\"). removeClass(\"a-color-secondary\").addClass(\"a-color-price\"); // Change active accordion header prime logo to opaque A.$(\"#buyBoxAccordion\").find(\".accordion-header i.header-prime-logo\"). addClass(\"opacity-50\"); A.$(data.selectedRow.$row).find(\".accordion-header i.header-prime-logo\"). removeClas"
+        },
+        {
+          "selector": "#centerCol",
+          "text": ".product-title-word-break { word-break: break-word; } アイリスオーヤマ 除湿機 衣類乾燥 デシカント式 13畳 サーキュレーター付き 除湿器 除湿量 5L タイマー付き スピード乾燥 静音設計 大容量 強力 部屋干し カビ防止 首ふり 左右 梅雨対策 コンパクト リビング IJD-I50 ホワイト アイリスオーヤマ(IRIS OHYAMA)のストアを表示 4.2 5つ星のうち4.2 (10,908) var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'cl"
+        }
+      ],
+      "explicitSaleSignal": true,
+      "price": "",
+      "title": "アイリスオーヤマ 除湿機 衣類乾燥 デシカント式 13畳 サーキュレーター付き 除湿器 除湿量 5L タイマー付き スピード乾燥 静音設計 大容量 強力 部屋干し カビ防止 首ふり 左右 梅雨対策 コンパクト リビング IJD-I50 ホワイト"
+    }
+  ]
+}

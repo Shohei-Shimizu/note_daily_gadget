@@ -1,0 +1,394 @@
+{
+  "date": "2026-05-29",
+  "title": "【Amazonスマイルセール】充電器・PC周辺機器・梅雨対策家電の狙い目 10 選",
+  "queries": [
+    {
+      "query": "CIO NovaPort QUADⅡ 65W",
+      "include": [
+        "CIO",
+        "QUADⅡ",
+        "65W"
+      ]
+    },
+    {
+      "query": "Xiaomi Pad 7 8G 128G ブルー",
+      "include": [
+        "Xiaomi Pad 7",
+        "8G+128G"
+      ]
+    },
+    {
+      "query": "Acer Predator GM9000 8TB SSD",
+      "include": [
+        "Predator",
+        "GM9000",
+        "8TB"
+      ]
+    },
+    {
+      "query": "オーディオテクニカ AT-UMX3 WH USB オーディオミキサー",
+      "include": [
+        "AT-UMX3",
+        "WH"
+      ]
+    },
+    {
+      "query": "Shokz OpenDots ONE",
+      "include": [
+        "Shokz",
+        "OpenDots ONE"
+      ],
+      "exclude": [
+        "ケース",
+        "カバー"
+      ]
+    },
+    {
+      "query": "ATH-CKS50TW2",
+      "include": [
+        "ATH-CKS50TW2"
+      ]
+    },
+    {
+      "query": "Wacom Cintiq 16 FHD",
+      "include": [
+        "Wacom",
+        "Cintiq 16"
+      ],
+      "exclude": [
+        "整備済み"
+      ]
+    },
+    {
+      "query": "Ring Indoor Cam",
+      "include": [
+        "Ring",
+        "Indoor Cam"
+      ]
+    },
+    {
+      "query": "SwitchBot ハブ2 スマートリモコン",
+      "include": [
+        "SwitchBot",
+        "ハブ2"
+      ]
+    },
+    {
+      "query": "アイリスオーヤマ 衣類乾燥除湿機 IJD-I50",
+      "include": [
+        "アイリスオーヤマ",
+        "IJD-I50"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 10,
+  "fetched_count": 10,
+  "dedup_count": 0,
+  "selected_count": 10,
+  "selected_items": [
+    {
+      "title": "CIO NovaPort QUADⅡ 65W 急速充電器 PD 4ポート [世界最小級] USB-C×3 + USB-A×1 ACアダプター コンセント 軽量 iPhone 17 / Air / 16 / 15 Android Galaxy Macbook iPad向け ノートPC (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0D53XL7GL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41e0+F7WLzL._SL500_.jpg",
+      "features": [
+        "【最大67W出力！超小型4ポート充電器】USB-C単ポート最大出力67Wでノートパソコンへの充電にも対応！ スマートフォン(iPhoneやAndroid)からタブレット(iPad向け)、ノートPC(Macbook、Windows PC等)まで幅広い機器に対応しており、これ一つでご自宅でも外出先でも快適にご利用いただけます。",
+        "【4ポート搭載】最大4台同時充電に対応し、スマホやタブレット、ゲーム機、モバイルバッテリー、電子タバコなど、さまざまなデバイスをこれ1台で充電可能。CIO独自技術 Nova Intelligenceを搭載し、複数充電時に最適な電力を自動で振り分けてくれます。※Nova Intelligenceの仕様は急速充電早見表(画像)をご確認ください。",
+        "【世界最小級サイズ】高出力でありながら、4ポート充電器の中でも極限まで小さいサイズに設計。持ち運びをされる際に、カバンやポーチに入れやすいサイズ感。コンセント干渉がなく、コンセント周りをスッキリすることができます。",
+        "【電力を最適に振り分け NovaIntelligenceを搭載】接続された端末に合わせて電力を自動で調整する独自の技術 NovaIntelligence を搭載。ポートの出力を気にしながらデバイスを繋ぐ必要がなく、同時充電時もストレスなく快適に充電が可能です。",
+        "【新技術 NovaEngine搭載】次世代半導体のGaNチップをダブルで搭載するCIOの新技術NovaEngineを採用。エネルギーのロスを減らし、変換効率の向上を実現しました。充電器本体の発熱を抑制し、充電速度と安定性を追求した充電器です。"
+      ],
+      "query": "CIO NovaPort QUADⅡ 65W",
+      "asin": "B0D53XL7GL",
+      "editorial_reason": "先行公開で名前が出ている65W級の多ポート急速充電器。スマホ・タブレット・ノートPCをまとめて充電したい読者に刺さりやすいセール定番枠。",
+      "browser_check": {
+        "checked_at": "2026-05-26T23:20:25.568Z",
+        "display_price": "￥4,580",
+        "availability": "在庫あり。",
+        "points": "ポイント: 46pt (1%) 詳細はこちら",
+        "coupon_or_promo": "",
+        "final_url": "https://www.amazon.co.jp/dp/B0D53XL7GL?tag=daily-gadget-22&linkCode=osi&th=1",
+        "blocked": false
+      }
+    },
+    {
+      "title": "Xiaomi Pad 7 8G+128G ブルー 3.2K 144Hz高精細ディスプレイ 800nits Snapdragon 7+ Gen 3 Xiaomi HyperOS 2搭載 AI機能 Google Gemini クワッドスピーカー Dolby Vision 8850mAhバッテリー 45W急速充電 エンターテインメント 作業 会議用",
+      "url": "https://www.amazon.co.jp/dp/B0DXFC2WC9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41W7mVRHEtL._SL500_.jpg",
+      "features": [
+        "【11.2インチ 3.2Kの高精細ディスプレイ】Xiaomi Pad 7は3.2K解像度（3200×2136）に進化し、文書や資料などの操作しやすい3:2の画面比率、800nitsの最大輝度やDolby Vision、Adaptive HDR対応などの基本性能に、DCI-P3の色域にも対応します。トップクラスの鮮明さと、入念に調整されたオリジナル・カラー・プロによって、複数のデバイスでもプロフェッショナルなカラーパフォーマンスを実現します。最大144Hzの可変リフレッシュレートにより、ウェブ閲覧も、絵を描くときも、エンターテインメントを楽しむときも、なめらかかつ残像の少ないディスプレイ表示で目に優しい体験を得られます。さらに、4,096レベルの輝度調整とDC調光機能で、プロ仕様のアイ・プロテクション性能では夜間での使用にも目のケアにサポートします。",
+        "【Xiaomi HyperAI】Xiaomi Pad 7は、Snapdragon 7+ Gen 3 Mobile Platformを搭載し、学習とエンターテインメントのバランスを求める人のために設計されています。外国語のリアルタイム翻訳や要約といった日常の利用のみならず、手書きの数式を認識して計算するAI電卓や自分で描いたイラストをもとに生成するAIアートのようなタブレットに最適化したAI機能もご活用いただけます。",
+        "【ノートPCのような操作性】ビジネスで資料作成、動画＆画像編集、クリエイティビティの作業も、早い処理速度で制作物を出力します。3200万画素の AON（Always ON）フロントカメラと5000万画素アウトカメラは、オンラインミーティングや資料の記録撮影に活躍します。Xiaomi Pad 7シリーズはワークステーションモードも搭載しており、タブレットをノートPCのようなインターフェースに変え、フローティングウィンドウ、調整可能なアプリサイズ、高い作業で情報収集することができます。これらの機能を組み合わせることで、Xiaomi Pad 7シリーズは生産性と創造性のための強力なツールとなります。",
+        "【進化したXiaomi HyperOS 2】Xiaomi HyperOS 2によって強化されたXiaomi HyperConnectは、一新したデザインで直感的な操作体験を提供し、デバイス間の連携をよりシームレスにします。NFCタッチ※共有機能を使えば、デバイスを重ねてタップするだけで瞬時にファイル転送やスマートフォン画面のミラーリングができます。クロスデバイスカメラは、アプリ内でスマートフォンとタブレットのカメラを同時に起動できるため、プレゼンテーションやクリエイティブなワークフローを強化します。",
+        "【フラッグシップ並みのパフォーマンス】Xiaomi Pad 7は、Dolby Atmos対応のクワッドスピーカーを内蔵しており、200%の音量アップをサポートしているため、さらに没入感のあるサウンド体験が得られます。Xiaomi Pad 7シリーズは厚さ6.18mm、重さ500gの薄型軽量ボディに8850mAhの大容量バッテリーを搭載。45W 急速充電に対応するため、万が一充電がなくなても、すぐに回復します。メタルユニボディ設計は従来モデルにあるディスプレイの出っ張りをなくし、よりスタイリッシュなデザインを実現。"
+      ],
+      "query": "Xiaomi Pad 7 8G 128G ブルー",
+      "asin": "B0DXFC2WC9",
+      "editorial_reason": "先行公開で名前が出ているタブレット。動画視聴と軽作業の両方に使いやすく、セール記事の目玉候補にしやすい。",
+      "browser_check": {
+        "checked_at": "2026-05-26T23:20:25.568Z",
+        "display_price": "￥49,980",
+        "availability": "在庫あり。",
+        "points": "ポイント: 500pt (1%) 詳細はこちら",
+        "coupon_or_promo": "",
+        "final_url": "https://www.amazon.co.jp/dp/B0DXFC2WC9?tag=daily-gadget-22&linkCode=osi&th=1",
+        "blocked": false
+      }
+    },
+    {
+      "title": "Acer Predator GM9000 8TB SSD Gen5×4 超高速(最大読み取り：14000MB/s、最大書き込み：13000MB/s) NVMe2.0 M.2 Type 2280 PCIe 内蔵SSD 6nmプロセス 低消費電力 高耐久 メーカー5年保証",
+      "url": "https://www.amazon.co.jp/dp/B0FW4JN2R3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31RJcbsNYVL._SL500_.jpg",
+      "features": [
+        "【Gen5超高速性能】最新PCIe Gen5×4対応により、最大14,000MB/秒の読み取り速度（書込は最大13,000MB/秒※）を実現。従来Gen4 SSDの約2倍に及ぶ超高速性能で、大容量ゲームや高解像度動画ファイルも数秒でロードでき、生産性と快適さを飛躍的に向上させます。※書込速度は容量モデルにより異なります。",
+        "【DRAMキャッシュ搭載】内蔵DRAMキャッシュにより、頻繁なデータアクセスでも卓越した高速応答を発揮します。大量データの連続転送でも速度低下を最小限に抑え、フラッシュメモリへの負荷軽減によってSSDの耐久性向上にも貢献します。",
+        "【6nm省電力・低発熱】最先端6nmプロセスで製造された高効率コントローラーを採用。従来世代（12nm）に比べ電力効率が大幅に向上し発熱を抑制、ヒートシンク非搭載でも長時間にわたり安定したパフォーマンスを維持できます。熱による速度低下を防ぎ、PC環境への熱負荷も低減します。",
+        "【ハイエンド用途に最適】驚異的な転送スピードと高いランダムアクセス性能により、ゲーミングからコンテンツ制作、AI開発まで幅広いハイエンド用途で真価を発揮します。最新のAAAゲームやオープンワールドゲームもロード時間を短縮し、4K/8K動画編集や3DCGレンダリングもスムーズ。さらにAIモデルのトレーニングやビッグデータ解析など高度な処理もストレスなくこなせる高性能ストレージです。",
+        "【安心の5年保証付き】Predator SSDシリーズ商品には5年保証（日本国内のみ）が付き、万一不具合と思われる症状がある場合は、注文履歴→注文情報(内容)→販売元までお問い合わせください（外部損傷がある場合は保証対象外です）。"
+      ],
+      "query": "Acer Predator GM9000 8TB SSD",
+      "asin": "B0FW4JN2R3",
+      "editorial_reason": "先行公開で名前が出ている大容量・高速SSD。PC環境の見直しやゲーム/動画編集用途に向く高単価の注目枠。",
+      "browser_check": {
+        "checked_at": "2026-05-26T23:20:25.568Z",
+        "display_price": "￥227,990",
+        "availability": "残り19点 ご注文はお早めに 在庫状況について",
+        "points": "",
+        "coupon_or_promo": "",
+        "final_url": "https://www.amazon.co.jp/dp/B0FW4JN2R3?tag=daily-gadget-22&linkCode=osi&th=1",
+        "blocked": false
+      }
+    },
+    {
+      "title": "オーディオテクニカ AT-UMX3 WH USB オーディオミキサー オーディオインターフェース 配信機材 DTM 音楽制作 USB Type-C スマホ/タブレット対応 PS4 PS5 【公式限定カラー】 ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0DZCCPH3V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/312cTVdIEkL._SL500_.jpg",
+      "features": [
+        "初めての方でも使いやすいオーディオテクニカ初のUSBオーディオミキサー：PCだけでなく、iPhoneやiPad、Android端末と接続して、誰でも気軽に配信を始められるように設計。経験豊富なストリーマーや高音質を求めるミュージシャンにも最適なツールで、低ノイズ、高品質なサウンドを提供します。",
+        "オーディオテクニカマイクロホンの為に開発、独自設計技術により高音質を実現：長年にわたり、マイクロホンの開発を手がけてきた技術および設計担当者が監修。オーディオテクニカ『AT2020』をはじめとするマイクロホンに最適な音質になるよう設計。特殊なフィルタ回路と金属板によるシールドを施し、ノイズに強いクリアな音質を実現。",
+        "専用ドライバー不要、USB接続ですぐに使える：USBクラスコンプライアントに対応しており、専用ドライバーが不要でお持ちのPCやスマートフォン、PS4、PS5（当社にて動作検証済み）につなぐだけですぐに使用することができます。サンプリング周波数は最大192kHz/24bitの高性能A/Dコンバーターを採用し、スタジオクラスの高解像度で配信、レコーディングが可能。",
+        "初心者でも安心、配信に必要不可欠な機能が満載：ゼロレイテンシーで自分の声、演奏をモニタリングできるダイレクトモニター機能、配信でBGMやカラオケ音源を流して、自分の声や演奏とミックスして出力するLOOPBACK機能、わかりやすいマイクミュートスイッチ、配信には自分の声を流し、ヘッドホンからは聴こえる自分の声をミュートするマイクモニターミュート機能を搭載。",
+        "※スマートフォン／タブレットと接続する場合は、スマートフォン／タブレットを USB 端子に接続してから、市販の USB 電源アダプターを 本体のUSB 電源端子に接続して電源を供給してください。",
+        "公式オンラインストア限定ホワイトカラーモデル ライブ配信環境をすべてホワイトで統一できるよう、クリエイターに最適なコンデンサーマイクロホン『AT2020 CWH』やモニターヘッドホン『ATH-M20x WH』、ブームアーム『AT8700J WH』、そしてXLR ケーブル『BX3/3.0 WH』もラインナップに揃えました。"
+      ],
+      "query": "オーディオテクニカ AT-UMX3 WH USB オーディオミキサー",
+      "asin": "B0DZCCPH3V",
+      "editorial_reason": "先行公開で名前が出ている配信・会議・DTM向け機材。デスク環境改善記事として扱いやすい。",
+      "browser_check": {
+        "checked_at": "2026-05-26T23:20:25.568Z",
+        "display_price": "￥17,424",
+        "availability": "在庫あり。",
+        "points": "ポイント: 174pt (1%) 詳細はこちら",
+        "coupon_or_promo": "",
+        "final_url": "https://www.amazon.co.jp/dp/B0DZCCPH3V?tag=daily-gadget-22&linkCode=osi&th=1",
+        "blocked": false
+      }
+    },
+    {
+      "title": "Shokz (ショックス) OpenDots ONE イヤーカフ ワイヤレスイヤホン オープンイヤー イヤホン 【Dolby Audio対応 / 合計40時間再生 / 音漏れ抑制技術/VGP 2025 金賞】 Bluetooth 5.4 マルチポイント接続 IP54防水 専用アプリ マイク付き 急速充電対応 ワイヤレス充電 耳を塞がない 耳挟み式 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DW3RWMNM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21Nez2id1xL._SL500_.jpg",
+      "features": [
+        "イヤーカフ型で耳を圧迫しない新体験：耳を塞がないオープンイヤー型イヤホンにより、周囲の音を認識できるので通勤中や運動中の安全性を保ちつつ、長時間の音楽鑑賞での快適な装着感を実現。チタン合金とソフトシリコン採用の柔軟なShokz「JointArc」構造はあらゆる耳型にフィットし、サングラスやマスクなどにも干渉せずに安定性に優れ、ながら聴きに最適。",
+        "Dolby Audio搭載・臨場感あふれる高音質：16mm相当のデュアルドライバーシステムとShokz独自の「Bassphere」テクノロジーにより強化されたスピーカーは、「OpenBass 2.0」技術と連携し、オープンイヤー型でも力強く深みのある低音から繊細な高音まで忠実に再現します。映画館にもよく使れている「ドルビーオーディオ」に対応し、まるでライブのような臨場感を味わえます。",
+        "最大40時間再生・ワイヤレス充電対応：10分の急速充電で約2時間、フル充電ならイヤホン本体で最大10時間連続、ケース併用で最大40時間再生可能なスタミナを実現。ワイヤレス充電対応のポケットサイズ充電ケースで外出時もらくらく。バッテリー切れの心配なく、時間を気にせず、心ゆくまでお楽しみいただけます。",
+        "多機能搭載・専用アプリ：自動耳検出で左右を区別せず装着可能。自動再生/停止機能に加え、AIノイキャン通話・マルチポイント接続・タッチ操作など便利な機能を多数搭載。専用アプリでは4つのプリセットEQと2つのカスタムモードでサウンドを自在に調整可能。タッチ操作の設置、イヤホン紛失時の検索、ファームウェア更新、プロンプト音量調整も簡単に行えます。",
+        "プライベート空間で聴く：Shokz独自の「DirectPitch」テクノロジーという指向性技術は音漏れを防ぎながら耳への大音量を保証し、通話中もプライバシーを守り周囲への迷惑を軽減します。専用アプリのプライベートモードと併用すれば、音漏れ防止の効果がさらに高まり、日々の生活にも安心してご利用いただけます。"
+      ],
+      "query": "Shokz OpenDots ONE",
+      "asin": "B0DW3RWMNM",
+      "editorial_reason": "先行公開で名前が出ているオープンイヤー系イヤホン。作業中や移動中に耳を塞ぎたくない読者向け。",
+      "browser_check": {
+        "checked_at": "2026-05-26T23:20:25.568Z",
+        "display_price": "￥20,891",
+        "availability": "在庫あり。",
+        "points": "ポイント: 209pt (1%) 詳細はこちら",
+        "coupon_or_promo": "",
+        "final_url": "https://www.amazon.co.jp/dp/B0DW3RWMNM?tag=daily-gadget-22&linkCode=osi&th=1",
+        "blocked": false
+      }
+    },
+    {
+      "title": "audio-technica ATH-CKS50TW2 BG 完全ワイヤレスイヤホン bluetooth マグネティックスイッチ機能 最大約65時間再生 IP55 防水防塵 マルチポイント対応 置き忘れアラート ヒアスルー 低遅延モード 急速充電 Qiワイヤレス充電対応 ベージュ",
+      "url": "https://www.amazon.co.jp/dp/B0DJCWXJKB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/311TLeE3uaL._SL500_.jpg",
+      "features": [
+        "圧巻の重低音を堪能できる、φ10mm SOLID BASS HD TWSドライバー：完全ワイヤレスで重要な装着感を追求しながら、圧巻の重低音を再生する大口径ドライバーを搭載。高い密閉性により低音を逃さず、また、高精度なハイブリッドノイズキャンセリング機能を掛け合わせることで、大好きな音楽を心ゆくまで堪能することができます。",
+        "ケースは自宅待機、イヤホンだけで使える「マグネティックスイッチ 」機 能：イヤホンを取り出して左右に離すと電源ON 、マグネットでくっつけると電源OFFできる機能を搭載しました。これまでの完全ワイヤレスイヤホンで感じる「充電ケースに入れないと電池切れ が心配」「毎回ケースから取り出すのが面倒」といったストレスから解放され、使いたいときにすぐ使えます。",
+        "1日中使える、業界最高クラスバッテリー：ノイズキャンセリングOFF時では、イヤホンだけで最大25時間の連続再生が可能なため、 電池切れを心配することなく音楽や動画やSNSを1日中楽しむことができます。また、ノイズキャンセリングON時でも最大15時間、充電ケースを併用すれば最大66時間の連続再生が可能です。",
+        "外音取込のヒアスルー機能とトークスルー機能：音楽を流しながら散歩やスポーツ、家事やテレワークをする際や、電車やバスでの通勤・通学時に周囲の音を気にしながらリスニングしたいときに便利です。",
+        "水で洗える防水・防じん性能：IS保護等級：IP56相当(イヤホンのみ)。日常のさまざまなシーンでイヤホンが使える高い防水性能と、砂ぼこりなどの環境下でも使える防じん性能を採用。スポーツしているときに雨で濡れたり、イヤホンに汗が付いたりしてもOK。使い終えたら水で洗い流すことができます。"
+      ],
+      "query": "ATH-CKS50TW2",
+      "asin": "B0DJCWXJKB",
+      "editorial_reason": "先行公開で名前が出ている完全ワイヤレスイヤホン。長時間再生・防水防塵・マルチポイントなど日常用途で訴求しやすい。",
+      "browser_check": {
+        "checked_at": "2026-05-26T23:20:25.568Z",
+        "display_price": "￥17,323",
+        "availability": "残り1点 ご注文はお早めに 在庫状況について",
+        "points": "",
+        "coupon_or_promo": "",
+        "final_url": "https://www.amazon.co.jp/dp/B0DJCWXJKB?tag=daily-gadget-22&linkCode=osi&th=1",
+        "blocked": false
+      }
+    },
+    {
+      "title": "【Amazon.co.jp限定】ワコム 液タブ 液晶ペンタブレット Wacom Cintiq 16 FHD ブラック オリジナルカスタムブラシセット DTK1660K1D",
+      "url": "https://www.amazon.co.jp/dp/B07L9LX9JX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41inFD2L-kL._SL500_.jpg",
+      "features": [
+        "【本商品はアマゾン限定のオリジナル特典（CLIP STUDIO用カスタムブラシデータ）付き製品です】本商品をご購入いただきますと、CLIP STUDIO用オリジナルカスタムブラシセットを電子メールを通じてご提供致します。別途特典のご提供の為、メールが送信されますのでご了承の上ご購入下さい。",
+        "【ミドルクラスモデル】プロラインと同じWacom Pro Pen 2を採用しながらも、機能を最小限に抑えた液晶ペンタブレット",
+        "【Wacom Pro Pen 2】指先の微妙な感覚まで表現できる、クリエイティブを追い求めた描き味を実現",
+        "【15.6型フルHD液晶】作業時にも制作スペースにも大きすぎず小さすぎずで、ちょうど良いサイズ",
+        "【PC接続も簡単】専用ケーブルをPCのHDMIとUSBポート、電源に接続するだけ",
+        "【対応PC】WindowsでもMacでも使用可能。※Windows 7以降(最新のSP適用）、macOS 10.13以上",
+        "バンドルソフトウェア"
+      ],
+      "query": "Wacom Cintiq 16 FHD",
+      "asin": "B07L9LX9JX",
+      "editorial_reason": "先行公開で名前が出ている液晶ペンタブレット。クリエイター向けの大物枠としてセール記事の幅を出せる。",
+      "browser_check": {
+        "checked_at": "2026-05-26T23:20:25.568Z",
+        "display_price": "￥99,880",
+        "availability": "在庫あり。",
+        "points": "ポイント: 999pt (1%) 詳細はこちら",
+        "coupon_or_promo": "",
+        "final_url": "https://www.amazon.co.jp/dp/B07L9LX9JX?tag=daily-gadget-22&linkCode=osi&th=1",
+        "blocked": false
+      }
+    },
+    {
+      "title": "【2023年度グッドデザイン賞受賞】Ring Indoor Cam (リング インドアカム) 第2世代 ブラック | 軽量小型の屋内用セキュリティカメラ、ペットカメラやご自宅の見守りカメラ、防犯カメラの用途にも プライバシーカバー付き | Ring Homeプラン30日間無料体験",
+      "url": "https://www.amazon.co.jp/dp/B0B6GL3N8D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31snFnEnmbL._SL500_.jpg",
+      "features": [
+        "【ペットやご自宅の見守りを手軽に】Ringアプリを使えば、ライブ映像の確認はもちろんのこと、双方向音声やモーション検知機能を有効にして外出先からもペットやご自宅の見守りが可能です。",
+        "【昼でも夜でもはっきりと】対角143°のカメラ視野角と1080p HDビデオの鮮明な映像でライブ映像を確認できます。カラーナイトビジョン機能で夜間でも鮮明な映像を確認可能です。",
+        "【プライバシーにも配慮】 プライバシーカバーを手動で左右にスライドすることで、必要に応じてカメラとマイクをON/OFFにすることができます。",
+        "【さまざまな設置方法】平置きや、壁面や天井などにも取り付けが可能です。天井に取付けした場合は、カメラ映像の上下を反転させる設定ができます。",
+        "【大事な瞬間を見逃さない】カメラがモーションを検知した時にRingアプリに通知を送り、タップするとリアルタイムでライブ映像を確認できます。別売りのRing Home プランに登録すれば、モーション検知の数秒前から録画を開始するプレ録画機能で、イベントの初めから終わりまで何が起きていたのか後から録画内容を確認することができます。さらに Ring Home Premiumの24時間連続録画を使用すれば、モーション検知ゾーン外で発生したイベントも連続で録画します。※24時間連続録画は、1つの場所 (登録住所) につき最大10台まで利用可能です。一部併用できない機能があります。連続録画されたビデオは最長14日間一時的にクラウド上に保存されます。",
+        "【見る。知る。守る。セキュリティに、さらなる強さを。】過去最長180日間 (デフォルト設定は60日間) の動画を気になる時に確認したり、人物検知の通知を受信するなどさまざまなベネフィットを、Ring Home プラン（有償）に登録するとご利用いただけます。",
+        "【Works with Alexa認定】Alexaスキルを有効化すれば、お持ちの対応する画面付きEchoデバイスやFire TVシリーズで、お子様やペットの様子の確認が可能です。",
+        "【主な用途】ペットカメラ、見守りカメラ、防犯カメラの用途にもご利用頂けます。※カメラの首振り機能はありません。"
+      ],
+      "query": "Ring Indoor Cam",
+      "asin": "B0B6GL3N8D",
+      "editorial_reason": "先行公開記事でRing防犯カメラへの言及があり、置き配・見守り・一人暮らし防犯の需要に合う。",
+      "browser_check": {
+        "checked_at": "2026-05-26T23:20:25.568Z",
+        "display_price": "￥4,980",
+        "availability": "在庫あり。",
+        "points": "",
+        "coupon_or_promo": "",
+        "final_url": "https://www.amazon.co.jp/dp/B0B6GL3N8D?tag=daily-gadget-22&linkCode=osi&th=1",
+        "blocked": false
+      }
+    },
+    {
+      "title": "SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
+      "url": "https://www.amazon.co.jp/dp/B0BM8VS13P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41A4B3EevKL._SL500_.jpg",
+      "features": [
+        "【高性能の4-in-1スマートリモコン】SwitchBot ハブ2 一つでおうちを簡単にスマートに。あらゆる家電のリモコンを1つに集約してスマホで操作できるスマートリモコンだけではなく、温湿度計、スマートボタン、スマートハブなど便利な機能を多数搭載しています。本商品はWorks with Alexa認定を受けたAmazon Alexa対応端末です。（※本製品はWi-Fi2.4GHz帯のみ対応。）",
+        "【あらゆる赤外線家電はそのままスマート家電に】圧倒的な赤外線コードデータベース所有量が誇り。対応可能なメーカー数4877社、対応可能なリモコンの種類21363種、対応可能な製品型番83934個、新デバイスも旧式家電も簡単にスマートに。自社開発のスマートラーニング方式で、ワンタッチで家電を登録。初心者もすぐに使えます。",
+        "【自宅の温湿度・照度の変化が常にひと目で分かる】付属のケーブルには温度センサーと湿度センサーが搭載、お部屋の温湿度がより精確に分かります。光センサーも搭載されいるため、SwitchBotシーリングライトやSwitchBotカーテンなどの室内照明調整アイテムと併用すれば、室内の光度や日照量を自動で調節します。オートメーションを設定する際にも活躍できます。",
+        "【遠隔操作可能、音声で家電をコントロール】テレビ・エアコン・照明など赤外線の家電製品をSwitchBot Hub2一つで集約し、おうちでも外出先でもスマホで家電を一括にコントロールします。音声コントロールが対応。Amazonアレクサ、Googleアシスタント、Siriショートカットなどのスマートスピーカーと連携すれば、話しかけるだけで家電を操作できます。",
+        "【新基準のMatter対応、新規格のスマートホームハブ】ネットに接続できない赤外線家電（エアコン、照明など）や、従来HomeKit非対応のSwitchBotデバイスなど、ハブ 2に連携して、Matter(マター)に通じて、AppleのHomeアプリ上で管理したり、スマートスピーカーで音声コントロールしたりできるようになります。（本機能を利用するには、サードパーティスマートハブとの併用が必要。）",
+        "【革新なエアコンのリモコン状態常時取得技術搭載】日本初のAC赤外線コード対応、外出先でもスマホでエアコンのリモコン状態を確認でき、エアコンの状態をシンクロさせられます。エアコンの状態を確認した後、遠隔でオンにできます。ルーターやサーバーに通信障害が発生しても、スマホのBluetooth機能を使ってエアコンを操作することが可能です。",
+        "【ワンタッチで複数のデバイスをコントロール】ON/OFFボタンをタップするだけで、複数のデバイスをまとめて操作できます。あらかじめ実現したいシーンをカスタマイズすることで、指定したタイミングで連携したデバイスが特定のオートメーションを実行できます。",
+        "【パッケージ内容】5V/2Aアダプター*1、温湿度センサー搭載ケーブル*1、‎ハブ 2本体*1、日本語取扱説明書*1、サポートカード*1、両面テープ*1"
+      ],
+      "query": "SwitchBot ハブ2 スマートリモコン",
+      "asin": "B0BM8VS13P",
+      "editorial_reason": "梅雨から夏に向けてエアコン遠隔操作・温湿度管理・スマートホーム連携をまとめて訴求できる。",
+      "browser_check": {
+        "checked_at": "2026-05-26T23:20:25.568Z",
+        "display_price": "￥8,400",
+        "availability": "在庫あり。",
+        "points": "ポイント: 84pt (1%) 詳細はこちら",
+        "coupon_or_promo": "プロモーション情報 【母の日・父の日まとめ買いフェア】よりどり2点以上で5%OFF 買い物をする",
+        "final_url": "https://www.amazon.co.jp/dp/B0BM8VS13P?tag=daily-gadget-22&linkCode=osi&th=1",
+        "blocked": false
+      }
+    },
+    {
+      "title": "アイリスオーヤマ 除湿機 衣類乾燥 デシカント式 13畳 サーキュレーター付き 除湿器 除湿量 5L タイマー付き スピード乾燥 静音設計 大容量 強力 部屋干し カビ防止 首ふり 左右 梅雨対策 コンパクト リビング IJD-I50 ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B07RVT4BK3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31JwWAwJzKL._SL500_.jpg",
+      "features": [
+        "商品サイズ(cm):幅約28.7×奥行約23.4×高さ約64",
+        "消費電力:590W",
+        "AC100V、50/60Hz●タンク容量:約2.5L●使用温度:0~40℃●コード長さ:約1.6m●除湿機能:デシカント式●首ふりモード:50°・70°・90°●強さ選択(サーキュレーター・除湿):各:弱・中・強●切タイマー:2・4・8時間",
+        "本体重量(kg):7.8",
+        "除湿可能面積の目安・木造:10m2(6畳)・プレハブ:16m2(10畳)・鉄筋コンクリート:21m2(13畳)"
+      ],
+      "query": "アイリスオーヤマ 衣類乾燥除湿機 IJD-I50",
+      "asin": "B07RVT4BK3",
+      "editorial_reason": "梅雨対策枠。セールの生活家電需要に合い、部屋干し・湿気対策という季節性が強い。",
+      "browser_check": {
+        "checked_at": "2026-05-26T23:20:25.568Z",
+        "display_price": "￥19,200",
+        "availability": "在庫あり。",
+        "points": "ポイント: 192pt (1%) 詳細はこちら",
+        "coupon_or_promo": "",
+        "final_url": "https://www.amazon.co.jp/dp/B07RVT4BK3?tag=daily-gadget-22&linkCode=osi&th=1",
+        "blocked": false
+      }
+    }
+  ],
+  "all_candidates": [],
+  "editorial_summary": "2026年5月27日9:00から6月2日23:59までのAmazonスマイルセール向けに、先行公開で名前が出ているガジェットと、読者の購買意欲が高い充電器・PC周辺機器・音声/配信機材・梅雨対策家電を横断して選定。セール価格は変動するため、記事では対象品確認とポイント還元込みの実質価格確認を促す構成にする。",
+  "sale_context": {
+    "event_name": "Amazonスマイルセール",
+    "event_period": "2026-05-27 09:00 - 2026-06-02 23:59",
+    "article_publish_target": "2026-05-29",
+    "notes": [
+      "セール期間中は価格・在庫・対象品が変動するため、本文では掲載時点の確認を明記する。",
+      "ポイントアップキャンペーンはエントリーと購入金額条件があるため、商品紹介とは別枠で注意書きを入れる。",
+      "ストア導線は記事末尾またはカテゴリ区切りの補助導線に留め、記事タイトルと本文主語はAmazonスマイルセールにする。"
+    ],
+    "public_sources": [
+      "https://sellercentral.amazon.co.jp/seller-forums/discussions/t/6ed0554c-0abf-4a97-8e46-f25869ee0875?mons_sel_locale=ja_JP",
+      "https://www.phileweb.com/news/d-av/202605/24/65184.html",
+      "https://smhn.info/202605-amazon-smile-sale-may-27-5000-points-campaign",
+      "https://av.watch.impress.co.jp/docs/news/2110511.html",
+      "https://news.mynavi.jp/article/20260526-4505220/"
+    ]
+  },
+  "browser_price_check": {
+    "checked_at": "2026-05-26T23:20:25.568Z",
+    "source": "Codex in-app browser visible Amazon product pages",
+    "status": "success",
+    "notes": [
+      "価格・在庫・ポイントは確認時点の表示。セール中は変動するため公開直前に再確認推奨。",
+      "ログインなし表示のため、個別アカウント条件や配送先で表示が変わる可能性あり。"
+    ]
+  }
+}
