@@ -1,0 +1,197 @@
+{
+  "date": "2026-06-09",
+  "title": "作業環境をアップグレード。4K「ウルトラワイドモニター」 7 選",
+  "queries": [
+    {
+      "query": "Dell U4025QW 5K2K ウルトラワイドモニター",
+      "include": [
+        "Dell",
+        "U4025QW"
+      ]
+    },
+    {
+      "query": "LG 40WP95C-W 5K2K ウルトラワイド",
+      "include": [
+        "LG",
+        "40WP95C"
+      ]
+    },
+    {
+      "query": "BenQ PD3420Q ウルトラワイドモニター",
+      "include": [
+        "BenQ",
+        "PD3420Q"
+      ]
+    },
+    {
+      "query": "MSI MAG 401QR ウルトラワイドモニター",
+      "include": [
+        "MSI",
+        "401QR"
+      ]
+    },
+    {
+      "query": "JAPANNEXT 40インチ 5K2K ウルトラワイド",
+      "include": [
+        "JAPANNEXT",
+        "5K2K"
+      ]
+    },
+    {
+      "query": "Philips 499P9H1 ウルトラワイドモニター",
+      "include": [
+        "Philips",
+        "499P9"
+      ]
+    },
+    {
+      "query": "Samsung Odyssey G9 ウルトラワイド",
+      "include": [
+        "Samsung",
+        "Odyssey"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "Dell U4025QW 39.7インチ 曲面Thunderboltハブ モニター(無輝点3年保証/WUHD/IPS Black,非光沢/2500R曲面/DP,HDMI,Thunderbolt 4,USB-C/内蔵スピーカー/有線LAN/BT.709 100%,Display P3 99%,DCI-P3 99%/DisplayHDR600/高さ調整,傾き)",
+      "url": "https://www.amazon.co.jp/dp/B0GR4VMWQF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41kPP9mYzsL._SL500_.jpg",
+      "features": [
+        "【目の負担を軽減しながら、 鮮明な映像を表示】この優れた40インチ 5K 曲面モニターは、120Hzのリフレッシュ レートと広い視野を備え、 スムーズで応答性の高いビジュアルを実現します。眼精疲労を和らげるアイケア性能を評価する最新の業界基準、 TÜV Rheinland認定の5つ星を取得した、初の40インチ 5Kモニターです。※5120x2160解像度モニターに関するDellの分析(2023年8月)に基づきます。",
+        "【臨場感あふれる表示、 卓越したスクリーン パフォーマンス】DCI-P3/Display P3色域カバー率 99%で色を忠実に再現。IPS Blackパネル テクノロジーにより、広い視野角とともに2000:1のコントラスト比で深みのある黒を表現します。また、内蔵の環境光センサーが、周囲の光レベルに基づいて明るさと色温度をインテリジェントに最適化します。",
+        "【生産性を最大限に高める】データとビデオの送信が可能なThunderbolt 4接続でケーブル数を減らすことができると同時に、さまざまなノートパソコンに最大140Wの電力を供給できます。PXE ブート、MAC アドレス パススルー、Wake On LAN機能を搭載したLANポート(RJ45)で、2.5GbE Ethernet による安定したネットワーク接続を実現します。",
+        "【楽々マルチタスク】Picture-by-Picture/Picture-in-PictureおよびネットワークKVMと自動KVMによって2つのPCソースを接続し、効率的にマルチタスクを実行できます。 また、iMST(Internal Multi-Stream Transport)でディスプレイを2画面に分割すれば、1つのPCソースで簡単にマルチタスクを実行できます。",
+        "【Dell Display and Peripheral Managerで情報整理】Dellの革新的な単一アプリケーションを使用して、Dellパソコンのワークスペース全体のパフォーマンスを最適化しましょう。＜生産性の最大化＞Easy Arrangeは、事前設定されたパーティションを使用して画面全体にアプリケーションを並べて表示し、最大5つのウィンドウをカスタマイズして、マルチタスクを強化できます。Easy Arrangeメモリーでは、手動、スケジュール、または起動時にアプリケーション プロファイルを保存および復元できます。＜表示をカスタマイズ＞昼夜を問わず快適に作業できます。スケジュールに合わせて明るさとコントラストの設定を自動化します。"
+      ],
+      "query": "Dell U4025QW 5K2K ウルトラワイドモニター",
+      "asin": "B0GR4VMWQF"
+    },
+    {
+      "title": "LG 40WP95C-W 40” UltraWide Curved WUHD (5120 x 2160) 5K2K Nano IPS Display, DCI-P3 98% (Typ.) with HDR10, Thunderbolt 4 with 96W PD, 3-Side Virtually Borderless Design Tilt/Height/Swivel Stand",
+      "url": "https://www.amazon.co.jp/dp/B09P1VLCQ4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41aPgWYaERL._SL500_.jpg",
+      "features": [
+        "40インチカーブWUHD(5120 x 2160)ナノIPSディスプレイ。アスペクト比:21:9。視野角:178.0度。応答時間:5.0ミリ秒。コントラスト比700:1(最小。 )、1000:1(標準)。 明るさ300cd(Typ)/240cd(最小)。 入力100-240Vac(50/60Hz)。 消費電力(最大)。 70W。 消費電力(標準) 60W。動作温度:0℃~40℃(-0.0 °C~40.0 °C)。",
+        "Thunderbolt 4接続、96Wの電力供給。",
+        "DCI-P3 98%(標準) HDR10付き。",
+        "10W x 2 内蔵スピーカー、豊かな低音。",
+        "3面実質的にボーダーレスデザイン。",
+        "傾斜/高さ/回転スタンド。"
+      ],
+      "query": "LG 40WP95C-W 5K2K ウルトラワイド",
+      "asin": "B09P1VLCQ4"
+    },
+    {
+      "title": "PHILIPS モニター ディスプレイ 499P9H1/11 (49インチ/32:9/曲面ディスプレイ/5年保証/ 「Display HDR 400」認証/HDMI/DisplayPort/USB Type-C/WDHD)",
+      "url": "https://www.amazon.co.jp/dp/B07NWT82B5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41tW8lPK1YL._SL500_.jpg",
+      "features": [
+        "[ 特徴 ]作業の同時進行やチャート監視、 動画編集に最適なスーパーワイドモニター",
+        "[ 解像度 ] 5120x1440( VAパネル、曲面、反射防止パネル、WDHD、32:9、輝度450cd/㎡、応答速度5ms、コントラスト比80,000,000:1、水平178°・垂直178°、リモコン付属",
+        "[ 入力端子/スピーカー ] HDMI2.0b x 2、Display Port1.4 x 1、USB Type C x 1(DP Alt mode) [ 保証 ]パネル・バックライトを含む5年間フル保証( センドバック対応 )",
+        "[ 付属ケーブル ] HDMI cable 1.8M、DP cable 1.8M、Power cable 1.8M、USB Type C-C cable 1M、USB cable 1.8M",
+        "[ 本体サイズ W1194 x H568 x D303 mm(背面VESA100mmx100mm)",
+        "ディスプレイ方式: 液晶",
+        "リフレッシュレート: 60 hertz",
+        "その他機能: 内蔵スピーカー",
+        "原産国:中国"
+      ],
+      "query": "Philips 499P9H1 ウルトラワイドモニター",
+      "asin": "B07NWT82B5"
+    },
+    {
+      "title": "【VGP2026 企画賞/金賞】LG ウルトラワイドモニター LG UltraFine™ Display 40U990A-W 39.7インチ/5120×2160(2500R曲面型)/120Hz/Nano IPS Black/DCI-P3 99%/DisplayHDR 600/Thunderbolt 5 (In/Out)対応モデル/PD 最大96W給電/HDMI×2/DisplayPort",
+      "url": "https://www.amazon.co.jp/dp/B0FJKNH2M6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41J-53H8OwL._SL500_.jpg",
+      "features": [
+        "【かつてない高速転送を実現する】 Thunderbolt 5 Thunderbolt 5は、通常時は上り下りそれぞれ最大80Gbpsの高速なデータ転送ができます｡さらに、高解像度/高リフレッシュレートな映像信号など､PCからのデータ転送量が多いときは､上りが最大120Gbpsまでのデータ転送が可能になります｡Thunderbolt対応の外付けグラフィックボードやストレージなど高速デバイスの接続も可能です｡また、映像・音声信号入力、給電（最大96W）に対応します。",
+        "【5K2Kで2台接続】 デイジーチェーン Thunderbolt Outに本製品を2台、デイジーチェーン接続すれば､10240×2160@120Hzという､アスペクト比42:9のいまだかつて見たことのない横長画面で、2200万画素超の高解像度かつ高リフレッシュレートで表示することもできます｡USBダウンストリーム端子はUSB3.0の倍となる10Gbpsに対応するUSB Type-C×4とUSB Type-A×2の6ポートを実装しており､より多くのUSBデバイスをモニターに接続でき､Thunderbolt Inにノートパソコンを接続するだけで､モニターへの表示、充電と同時に接続した機器を使用できます。",
+        "【仕事をもっとスリムに】KVMスイッチ KVMスイッチにも対応。Thunderbolt Inに接続したパソコンとは別に､もう一台のパソコンを映像入力端子と､USBアップストリーム(USB Type-C)に繋げば､接続したUSBデバイスや､安定した通信ができるGigabit対応有線LAN､マイク機能付きヘッドホンが切り換わり､表示されているPCと連動します｡",
+        "【高解像度ウルトラワイド画面がさまざまなシーンで活躍】 21:9 解像度5120×2160（5K2K） 4Kの33%横長な5K2K（5120×2160）の21:9ウルトラワイド画面による圧倒的な情報量と、より緻密な色再現が可能になったNano IPS Blackによる高画質をエキスパートたちに。大量の情報を収集、処理、分析する必要があるコンテンツクリエイターやビデオ編集者、ウェブデザイナー、イラストレーター、グラフィックデザイナー、アプリ開発者、プログラマー、投資家など、あらゆる分野のプロフェッショナルに対して､さらに高いニーズに応えるモニターが誕生しました。",
+        "【忠実な色と深い黒の再現】 Nano IPS Black、DCI-P3 99%（標準値） LEDバックライトが発する余計なオレンジの波長を吸収する、わずか1nmの微細な粒子を採用したNano IPSによる鮮やかな色彩と、黒の再現性を強化したIPS Blackによる高コントラストによって、デジタルシネマ向けに定められる広域な色域『DCI-P3』を99%カバー。画像や映像のエキスパートが、思い描くイメージを正確な色で再現します。"
+      ],
+      "query": "JAPANNEXT 5K2K 40インチ ウルトラワイド モニター",
+      "asin": "B0FJKNH2M6",
+      "editorial_reason": "最新40インチ5K2K枠として、作業領域と接続性を重視する読者向けに採用。"
+    },
+    {
+      "title": "INNOCN 40インチモニター 5K 大画面ディスプレイ 21:9 IPS非光沢 HDR400 ウルトラ ワイドモニター USB Type-C給電/HDMI2.1/DP1.4/USBハブ付き/スピーカー内蔵 ブルーライト軽減 高さ・左右調整 40C1U",
+      "url": "https://www.amazon.co.jp/dp/B0F8H2MQBX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41eiGsw86QL._SL500_.jpg",
+      "features": [
+        "【5K 40インチモニター＆広色域】5120*2160の5K解像度がテキストや線画のギザつきを解消して、微細な質感も再現でき。△E<2の超精密色精度が「意図した色」を「見たままの色」として忠実に表示。さらに、この5k40インチモニターは広色域sRGB 142%/Adobe RGB 121%/DCI-P3 112%の容積比を実現。デジタルアートを鮮烈に彩り、高品位印刷の再現性を保証し、劇場超えの深みでHDR映像制作を支援。あらゆる色空間を自在に駆ける次世代ビジュアルエンジン。写真編集・映像配色・高精度デザインに挑むプロフェッショナルが、この5kモニターをすすめします。",
+        "【HDR400のウルトラワイドモニター】5K超高精細映像に加え、HDR400対応で、より深い黒と鮮やかな色彩を再現。100Hzのリフレッシュレートにより、映画の滑らかなシーン切り替えや、動画コンテンツの快適なスクロールも実現します。さらに、内蔵スピーカーが直接クリアな音声を出力し、映像と音で世界に包まれる「没入感」をデスク上で体感。ワンケーブルで、自宅デスクが小さなホームシアターに早変わりです。",
+        "【21:９の平面モニター】40インチの平面ディスプレイが、映画のシネスコ映像を迫力満点で再現。2つのドキュメントを並べて開いても余裕のスペースで、幾何学歪みゼロで編集作業、金融トレーダー、プログラマーに理想的なワイド画面を提供します。複数のウィンドウを並べて作業できるので、効率が大幅に向上します。さらに、40C1UはマルチタスクのPIP/PBPも搭載しました。 ※PIP ：メインコンテンツを邪魔せず、別ソース（ノートPC、ゲーム機、監視カメラ等）を小窓で常時表示。※PBP：画面を左右に分割し、2台の異なる入力機器（例えば：PCとMac、業務PCと私用タブレット）の画面を、1枚の大画面で同時に並列表示。情報比較や作業効率が飛躍的に向上します。",
+        "【USB Type-C 65W給電&USBハブ付き】USB Type-C 1本で5K映像伝送とデータ転送と65W高速充電を同時実現。ドック不要でデスク上からACアダプターを消滅させ、スッキリ作業環境を構築。さらに、HDMI 2.1、DisplayPort 1.4による高精細・高リフレッシュレート対応の映像出力、PC接続用のUSB-B アップリンク、周辺機器接続のためのUSB-A 3.0 ダウンリンクも標準装備。1本のケーブルが、パワフルな充電・美しい映像・快適な接続性のすべてをワンストップで提供します。",
+        "【高さ調整＆VESA 100*100】最大120mmのスムーズな高さ調節、左右30°の回転、5°～20°のチルト調整を実現。理想の姿勢を見つけ、長時間の作業や鑑賞でも疲れにくい、オーダーメイドのような視認性を確保。さらにVESA規格100x100mm対応で、壁掛け設置も自由自在。デスクレイアウトの可能性が大きく広がります。視覚への配慮も徹底。ブルーライトカット技術搭載で、目に優しいクリアな表示を実現。",
+        "【無憂なINNOCNサービス】1年間の無料交換(機械品質上の問題による)及び生涯技術サポートサービスを提供し、使用過程中に何か問題やアドバイスがあれば、いつでも我々と連絡してください。1、ケーブル接続後信号ありません場合、OSDメニューで出力端子を再度選択ください、出力端子再度選択後映像出力可能です。２、電源等一切反応無しの場合、もう一度電源をチェクください、また出力信号なしならモニターは待機モード、一切操作不能。"
+      ],
+      "query": "JAPANNEXT 5K2K 40インチ ウルトラワイド モニター",
+      "asin": "B0F8H2MQBX",
+      "editorial_reason": "40インチクラスの高解像ウルトラワイドとして、広い作業領域を確保したい読者向けに採用。"
+    },
+    {
+      "title": "LG モニター ディスプレイ 34WK95U-W 34インチ/5K2K UltraWide(5120×2160)/DisplayHDR600/Nano IPS/Thunderbolt3、HDMI×2、DP /3年安心・無輝点保証",
+      "url": "https://www.amazon.co.jp/dp/B07HRSSWGK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51UF+CHf7eL._SL500_.jpg",
+      "features": [
+        "高解像度(5120×2160) 4辺フレームレス ウルトラワイドモニター (HDMI出力では最大3840×2160の解像度になります)",
+        "Nano IPSパネルを採用し、DCI-P3の色域98%、sRGB135%をカバー",
+        "VESA規格のDisplayHDR600に対応し、ピーク輝度600cd/㎡を実現",
+        "入力端子:Thunderbolt3×1、HDMI×2、DisplayPort×1",
+        "輝度:600cd/㎡(最大) 450cd/㎡(標準)/応答速度:5ms",
+        "スピーカー内蔵/高さ調節対応:110mm/チルト対応:上15°~下-5°/壁掛け対応100×100mm",
+        "付属品:Thunderboltケーブル×1、DisplayPortケーブル×1、USBケーブル×1、保証書(3年保証)"
+      ],
+      "query": "LG 34WK95U-W 5K2K ウルトラワイド",
+      "asin": "B07HRSSWGK",
+      "editorial_reason": "34インチ5K2Kの定番高解像モデルとして、クリエイティブ作業向けに採用。"
+    },
+    {
+      "title": "ASUS ウルトラワイドモニター ProArt PA34VCNV カーブドプロフェッショナルモニター - 34.1インチ/IPS/21:9/3440 x 1440/3800Rカーブ/100% sRGB/Rec.709/色の精度 ΔE < 2/Calman検証済み/USB Type-CドッキングPD 96W/RJ45/エルゴノミックスタンド/グリーンサステナビリティ/3年保証 / 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0D3H16PFS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41qx9zpkyfL._SL500_.jpg",
+      "features": [
+        "〔特徴〕34.1インチ、21:9、3800RのIPSカーブディスプレイで、フレームレスデザイン",
+        "〔画面〕34.1型/3440x1440/ノングレア/300cd/m2 (typ)/バックライト:LED/5ms(GTG)/画素ピッチ:0.2325mm/視野角:水平178°/垂直178°",
+        "〔端子〕USB-C x 1 (DP Alt Mode/PD 96W),DisplayPort 1.4 x 2 (Daisy Chain),HDMI(v2.0) x 2,2x USB 3.2 Gen 1 Type-A,1x USB 3.2 Gen 1 Type-C,3.5mmステレオミニジャック",
+        "〔サイズ(WxHxD cm)‎/重量(kg)〕81.72 x (43.92~56.92) x 24,約10.8",
+        "〔保証〕購入日より3年間の日本国内保証 LCD ZBD Warranty : Yes(3 yr)"
+      ],
+      "query": "ASUS ProArt PA34VCNV ウルトラワイド",
+      "asin": "B0D3H16PFS",
+      "editorial_reason": "ProArtシリーズの色再現とUSB-Cドック機能を評価し、制作作業向けに採用。"
+    }
+  ],
+  "all_candidates": [],
+  "editorial_summary": "作業領域を広げたい読者向けに、4K級・曲面・USB-C・KVM・高解像度を軸にウルトラワイド系モニターを選定。デスクワーク、動画編集、マルチタスク用途で比較しやすい構成にした。"
+}

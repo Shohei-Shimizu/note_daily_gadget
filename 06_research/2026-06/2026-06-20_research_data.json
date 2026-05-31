@@ -1,0 +1,155 @@
+{
+  "date": "2026-06-20",
+  "title": "下半期の目標を立てる。振り返りに役立つ「管理ツール」 6 選",
+  "queries": [
+    {
+      "query": "Kindle Scribe 電子ノート",
+      "include": [
+        "Kindle Scribe"
+      ]
+    },
+    {
+      "query": "Kobo Elipsa 2E 電子ノート",
+      "include": [
+        "Kobo",
+        "Elipsa"
+      ]
+    },
+    {
+      "query": "Rocketbook Core スマートノート",
+      "include": [
+        "Rocketbook"
+      ]
+    },
+    {
+      "query": "キングジム デジタルメモ ポメラ DM250",
+      "include": [
+        "ポメラ",
+        "DM250"
+      ]
+    },
+    {
+      "query": "Time Timer MOD タイマー",
+      "include": [
+        "Time Timer"
+      ]
+    },
+    {
+      "query": "TickTime Pomodoro タイマー",
+      "include": [
+        "TickTime"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Kindle Scribe Notebook Design - 10.2インチディスプレイ、64GBストレージ、ノート機能搭載、プレミアムペン付き、メタリックジェード (2024年発売)",
+      "url": "https://www.amazon.co.jp/dp/B0CZ9SX1GW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41nl1n17hWL._SL500_.jpg",
+      "features": [
+        "【読書とノートを両立】Kindleの読書とノート機能がKindle Scribeひとつに。新しくホワイトベゼルのNotebook Designで登場。",
+        "【Kindle本に直接手書きで】Active Canvasで文中に直接手書きのメモを。※一部の電子書籍のみ対応(縦書き及びマンガなど固定レイアウトの電子書籍には非対応)",
+        "【ノート機能搭載】自由に書き込めるノートは白紙やリスト、カレンダーなどのテンプレートから選べます。",
+        "【10.2インチディスプレイ】光の反射を抑えたディスプレイ(解像度300ppi)なら、明るい日差しの中でも快適に読み書きができます。",
+        "【読書の時間を贅沢に】Eメールやソーシャルメディアなどの通知に気を取られることなく、本に集中できます。",
+        "【専用プレミアムペン付き】セットアップやペアリング、充電も不要。消しゴム機能の他、カスタマイズ可能なショートカットボタンも搭載。",
+        "【Kindle Unlimited】会員登録(有料)すれば、500万冊以上の本・マンガ・雑誌・洋書が読み放題。新しいお気に入りがきっと見つかります。"
+      ],
+      "query": "Kindle Scribe 電子ノート",
+      "asin": "B0CZ9SX1GW"
+    },
+    {
+      "title": "Kobo Elipsa 2E | eReader | 10.3” Glare-Free Touchscreen with ComfortLight PRO | Includes Kobo Stylus 2 | Adjustable Brightness | Wi-Fi | Carta E Ink Technology | 32GB of Storage",
+      "url": "https://www.amazon.co.jp/dp/B0C15G7J3V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41OQPq38cBL._SL500_.jpg",
+      "features": [],
+      "query": "Kobo Elipsa 2E 電子書籍リーダー",
+      "asin": "B0C15G7J3V",
+      "editorial_reason": "大画面電子ペーパーで読書と手書きメモをまとめたい読者向けの振り返りノート枠として採用。"
+    },
+    {
+      "title": "Rocketbook 再利用可能デジタルノートブック - スマートメモ帳 A5 オレンジ ワイヤー綴じノート To Doリストパッド ドット紙 フリクション消せるペンとワイプ オフィスガジェット Rocketbookアプリ付き 紙の無駄を減らす",
+      "url": "https://www.amazon.co.jp/dp/B07ZHZFZG8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Ykhz37gjL._SL500_.jpg",
+      "features": [
+        "[PEN→PAPER→DIGITALをシームレスに接続] タブレットのデジタル接続で、ペンと紙の書き味の時代を超えた感覚を体験してください。",
+        "[驚くべき生産性] Rocketbook Coreで手書きをデジタルテキストに変換する魔法を解き放ちます。 統合されたスマート機能と印象的なRocketbook Appは、書き込みを簡単に保存、検索、整理します - 再入力の手間を省きます。",
+        "[再利用可能-水を加えるだけ] Rocketbook Coreで無駄な使い捨て紙を捨てます。 メモをスキャンしてクラウドに保存し、付属の布でページをきれいに拭き取り、何度も再利用できます。 1コア=100冊以上のノート。 環境に優しく効率的。",
+        "[すべての人へのギフト] - Rocketbook Coreの汎用性は、インスピレーションを得たときにアイデアを捉えるのに最適なギフトです。 コンパクトで軽量、学生、クリエイティブ、あらゆるタイプのプロフェッショナルに理想的なノートブックギフトです。",
+        "[必要なものすべて] Rocketbook Core特許取得済みのノートブック、6インチ x 8.8インチの消せるノート、36ページのドットページ、パイロットペン、マイクロファイバークリーニングクロス、クラウド共有テクノロジーを備えたRocketbookアプリが含まれています。 全16色展開。"
+      ],
+      "query": "Rocketbook Core スマートノート",
+      "asin": "B07ZHZFZG8"
+    },
+    {
+      "title": "キングジム デジタルメモ「ポメラ」 DM250",
+      "url": "https://www.amazon.co.jp/dp/B0B5ZSJ1WW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/410504MSxdL._SL500_.jpg",
+      "features": [
+        "最高の「書く」を味わえるツールとして、作家やライターなどプロにも愛される「ポメラ」がさらにパワーアップ。約24時間の連続使用、USB Type-C対応、充電確認用LEDを搭載し、ハードウェア面での充実を図りました。ソフトウェア面では、ATOK校正支援機能を強化し、脚本や台本の作成に適した「シナリオモード」も追加。様々な機能のアップデートをおこない、より効率的な文章作成をサポートします。",
+        "本体色:ダークグレー 外形寸法:約263(W)×120(D)×18(H)mm 質量:約620g<br>材質:ABS+PC",
+        "セット内容:本体、USBケーブル(Type-A/Type-C 1m)、ACアダプタ(AS0530U)取扱説明書、保証書、キートップステッカー",
+        "無線LAN : IEEE802.11b/g/n(2.4GHz帯)"
+      ],
+      "query": "キングジム デジタルメモ ポメラ DM250",
+      "asin": "B0B5ZSJ1WW"
+    },
+    {
+      "title": "TIME TIMER MOD Home Edition 9cm 60分 タイムタイマー モッド シルクオレンジ 時間管理 学習タイマー TTM9-HDO-W 正規品",
+      "url": "https://www.amazon.co.jp/dp/B08K9FG8Y7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41B5KhTSyCL._SL500_.jpg",
+      "features": [
+        "世界30ヶ国以上、販売実績30年以上の歴史あるTime Timer社のオリジナル タイムタイマー。時間管理にピッタリ! お子さまの学習用アラームに、職場でのタスク管理に、キッチンタイマーとして、スクールタイマーとして、などマルチに活躍します。",
+        "スタイリッシュなカラーとデザインのタイムタイマーモッド限定カラー (シルクオレンジ) です。売り上げの１％は、インクルーシブ教育への取り組みのサポートとして使われます。※カバー別売り (Time Timer MOD Home Edition 専用カバーをご利用ください)",
+        "集中した時間を作りたい時や、時間をキッチリ決めて行動したい時に活躍するTimeTimerは、時計が読めない子ども・時間管理が苦手な子供や発達障害の人・時間を有効に使いたい大人まで、あらゆる人の時間を管理してくれる見えるタイマーです。",
+        "自宅や学校、オフィス等、多様なシーンで活躍するタイムタイマーは、学習タイマー・スクールタイマー・会議タイマー・ゲームタイマー・キッチンタイマーなど、勉強や仕事だけでなく、あらゆる日常(食事・支度等)のタスクタイマーとして時間を管理することができます。",
+        "60分タイマー / アラームON OFF機能付き / 本体サイズ : 約 幅 8.8cm x 高さ 8.8cm x 奥行き 5.0cm / 電池種別 : 単3電池 x 1本 (電池は別途ご用意ください) ※ パッケージのイラストや写真と実際の商品は改良により多少異なる場合があります。あらかじめご了承ください。"
+      ],
+      "query": "Time Timer MOD タイマー",
+      "asin": "B08K9FG8Y7"
+    },
+    {
+      "title": "【TickTime・新時代のデジタルタイマー】正六角柱 ポモドーロ タイマー キッチンタイマー キューブタイマー 消音切替 音量切替機能 最大99分55秒 カウントダウン 軽量 勉強 会議 スポーツテスト Type-C充電 環境対応型ABS素材 LED HD画面 Pomodoro Timer (TickTime 長時版 ダークグレー)",
+      "url": "https://www.amazon.co.jp/dp/B0DHG8DBQ3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31hIvV3iftL._SL500_.jpg",
+      "features": [
+        "【TickTime：信頼されるポモドーロタイマー】TickTimeは、初代モデル発売以来、多くのユーザーに愛用されてきました。長年の改良を重ね、使いやすさと耐久性を追求した設計となっており、TickTime Cubeもその機能性とデザインを受け継いでいます。日常の勉強や会議、キッチンなど、さまざまなシーンで快適に使用できるタイマーです。",
+        "【簡単操作で誰でも使える】TickTimeは、忙しい日常をもっと効率的にしたい方にぴったりのデジタルタイマー。複雑なボタン操作は不要で、タイマーを倒すだけでカウントダウンが自動で始まる直感的な設計です。勉強、料理、運動、どんなシーンでも瞬時に使え、時間管理を手軽にサポートします。",
+        "【6つのプリセット時間で即カウントダウン】日常生活でよく使われる6つの時間設定が本体側面に配置され、タイマーを横に倒すだけで、選んだ時間で自動カウントダウンを開始します。シンプルかつスマートなデザインで、面倒な操作を省き、効率的に時間を管理できます。",
+        "【エコ＆充電式】環境に配慮したUSB充電式リチウム電池を採用。1回の充電で約10時間の使用が可能で、乾電池を買い換える手間も不要。どこでも手軽に充電できるため、外出先やオフィスでも安心して使えます。。初回使用時は12時間充電し、次回以降は4時間の充電で十分です。充電完了後、ケーブルを抜き、ボタンを押してタイマーを起動します。Ticktimeポモドーロタイマーを最大限に活用するための必須のヒントを実践してください。※長期間未使用または過放電状態の場合、内部保護機能により充電・電源投入ができない場合があります。24時間程度充電後、再度お試しください。改善しない場合は弊社までお問い合わせください。",
+        "【78gの配重で、重みのあるプレミアムな感触を実現】TickTimeは、78gの配重を追加することで、手に持ったときにしっかりとした重みを感じられるようになりました。この重みが、タイマーに高級感を加え、優れた存在感を提供します。コンパクトで携帯性も抜群、どんなシーンでもそのしっかりとした感触をお楽しみいただけます。"
+      ],
+      "query": "TickTime Pomodoro タイマー",
+      "asin": "B0DHG8DBQ3"
+    }
+  ],
+  "all_candidates": [],
+  "editorial_summary": "下半期の目標設定や振り返りを習慣化しやすい物理ツールとして、デジタルノート、電子ペーパー、スマートノート、タイマー、タスク可視化ツールを選定。仕事と生活の棚卸しに使いやすい構成にした。"
+}

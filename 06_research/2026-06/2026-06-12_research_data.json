@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-12",
+  "title": "配信者デビュー。マイクとライトの「スターターセット」 6 選",
+  "queries": [
+    {
+      "query": "SHURE MV7+ USB マイク",
+      "include": [
+        "SHURE",
+        "MV7"
+      ]
+    },
+    {
+      "query": "Elgato Wave:3 USB コンデンサーマイク",
+      "include": [
+        "Elgato",
+        "Wave"
+      ]
+    },
+    {
+      "query": "Elgato Key Light Air",
+      "include": [
+        "Elgato",
+        "Key Light"
+      ]
+    },
+    {
+      "query": "Logitech StreamCam Webカメラ",
+      "include": [
+        "StreamCam"
+      ]
+    },
+    {
+      "query": "Elgato Wave Mic Arm LP",
+      "include": [
+        "Elgato",
+        "Mic Arm"
+      ]
+    },
+    {
+      "query": "YAMAHA ZG01 オーディオミキサー",
+      "include": [
+        "YAMAHA",
+        "ZG01"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": [],
+    "manual_corrections": [
+      {
+        "old_asin": "B0CTG6JJF2",
+        "new_asin": "B07QNJ2YQD",
+        "query": "Logicool StreamCam ウェブカメラ 配信用",
+        "reason": "アクセサリ寄りのWebカメラクリップを、配信スターターセットに適した実体のWebカメラへ差し替え。"
+      }
+    ]
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "SHURE シュア MV7+ ポッドキャストマイクロホン ブラック MV7+-K : OBS 認証 ダイナミックマイク カーディオイド 単一指向性 USB-C XLR 有線 ノイズ除去 配信 ストリーミング YouTube 録音 レコーディング 音楽 実況 ゲーミング ボーカル DTM 宅録 iOS Android Mac Windows対応 【国内正規品/メーカー保証2年】",
+      "url": "https://www.amazon.co.jp/dp/B0CYYZ78NJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31GUC-1sY+L._SL500_.jpg",
+      "features": [
+        "✅【プロのようなサウンドを簡単に】MV7+は強力なDSP機能、より上質な音声を備え生まれ変わった、音にこだわるストリーマー、ポッドキャスター、ミュージシャンのためのダイナミック型マイクロホンです。この新しいマイクロホンは、USB-CおよびXLR出力、強化されたオートレベルモード、デジタルポップフィルター、リアルタイム・デノイザーおよびリバーブ効果を備えています。タッチ式ミュートLEDパネルは多彩なカラーオプションが用意されていて、収音する音声と同様に独自性を持たせることができます。",
+        "✅【リアルタイム・デノイザー】リアルタイム・デノイザーは最先端のDSPテクノロジーに基づいて室内の環境ノイズを低減します。マイクロホンのボイスアイソレーション・テクノロジーを装備することで、レコーディングに適さない環境でも優れた音質を確保します。",
+        "✅【デジタルポップフィルター (Digital Popper Stopper)】DSP処理によるポップフィルターにより耳障りな破裂音を除去します。外付けのポップフィルターを付ける必要がなくなり、シンプルなセットアップでカメラ撮影が可能になります。",
+        "✅【強化されたオートレベルモード】オートレベルモードが強化され、距離、音量、空間検知に基づいてマイクゲインを調整することで最適な音声レベルが得られるようになりました。",
+        "✅【リバーブ設定を内蔵】3種類のリバーブ設定（プレート、ホール、スタジオ）を利用して、レコーディングに深みと豊かさを加えることができます。",
+        "✅【マルチカラーLEDタッチパネル】LEDタッチパネルによりサウンドに鮮やかな色を添えます。1680万色から選択してオーディオレベルメーターとして使用したり、目を引くパルス効果をオンにしたりできます。LEDパネルのどこでもタップすると、すぐにMV7+をミュートできます。",
+        "✅【XLRとUSB-C出力】XLRとUSB-C出力の両方に対応し、実際のレコーディング環境に関係なく、自由に接続が行えます（XLRとUSB-Cは同時出力が可能）。",
+        "✅【MOTIV Mixデスクトップアプリ】MOTIV Mixデスクトップアプリを使用すると、USB-C出力の使用時に、すべてのMV7+に内蔵された強力なDSP機能が設定可能になります。鮮やかなLEDタッチパネルをパーソナライズし、サウンドシグネチャー、ゲイン、EQ、コンプレッサー、リミッターなどのマイク設定を最適化します。 また、このアプリは録音機能も備えているので、すぐにコンテンツの制作を行うことができます。",
+        "✅【同梱品】USB-C - USB-Cケーブル（3m）、クイックスタートガイド、MOTIV Mix Appダウンロード用QRコード、5/8-3/8 変換ネジ"
+      ],
+      "query": "SHURE MV7+ USB マイク",
+      "asin": "B0CYYZ78NJ"
+    },
+    {
+      "title": "【Amazon.co.jp限定】Elgato Wave:3 - プレミアムUSBコンデンサーマイク, 【ブラック】黒 配信、ポッドキャスト、ゲーミング、およびホームオフィス適用, 無料のミキサーソフトウェア, サウンドエフェクトプラグイン, 歪みなし, プラグ&プレイ Mac/PC対応",
+      "url": "https://www.amazon.co.jp/dp/B0CDWVRQ41?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31wxbvpvrsL._SL500_.jpg",
+      "features": [
+        "カーディオイドコンデンサーカプセル:声をはっきりと繊細にキャプチャします。",
+        "Wave Linkアプリ: Wave:3と最高8つの他のオーディオソースをコントロールできる上、2つの独立したミックスを作成できます。",
+        "24-bit/96 kHzのアナログ - デジタル変換: プロ級の音質でブロードキャスト。",
+        "プロプライエタリClipguard技術: ひずみを実質ゼロに。",
+        "優れた電気回路: シグナルチェーン全体を通してシームレスな音波伝送。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "query": "Elgato Wave:3 USB コンデンサーマイク",
+      "asin": "B0CDWVRQ41"
+    },
+    {
+      "title": "【Amazon.co.jp限定】Elgato Key Light Neo ブラック (モニターマウント付き) - ビデオ通話や配信に最適なプロ仕様ライト - Wi-Fiまたは内蔵コントロール - USB給電 - ノートPC | PC | Mac対応",
+      "url": "https://www.amazon.co.jp/dp/B0FKT2VNMJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31QnMzGXMtL._SL500_.jpg",
+      "features": [
+        "どんなプラットフォームでもプロらしく: 明るさや色温度を含むすべての肌トーンを調整して、YouTube、Teams、Zoomなど、すべてのプラットフォームでプロのあなたを見せましょう。",
+        "シームレスなセットアップとコントロール: 外部USB電源に接続して、他のライトパネルの明るさを遥かに凌ぐ、最高 1000 ルーメンまで明るさアップ。",
+        "エッジ型テクノロジー: Key Light Neoは、ちらつきを最小限に抑え、快適な光を提供し、細かなタスクでもで目に優しい 照明をお届けします。",
+        "楽々マウント: モニターやラップトップの画面に簡単にしっかりと設置できます。",
+        "エコフレンドリーを約束: すべてのNeo製品は、 持続可能な方法で製造され、パッケージにはプラスチックを使用していません。環境に配慮し、地球に優しくありたいという私たちの取り組みを形にしています。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "query": "Elgato Key Light Air",
+      "asin": "B0FKT2VNMJ"
+    },
+    {
+      "title": "ロジクール Webカメラ C922n フルHD 1080P ストリーミング 撮影用 三脚 スタンド 付き オートフォーカス ステレオ マイク ウェブカメラ ウェブカム PC Mac ノートパソコン Zoom Skype 国内正規品 2年間メーカー保証",
+      "url": "https://www.amazon.co.jp/dp/B07QNJ2YQD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Yy2XUcQUL._SL500_.jpg",
+      "features": [
+        "【フルHD 1080P 30FPS / 720P 60FPS / オートフォーカス搭載】フルHD 1080pの画質とオートフォーカス機能により、鮮明で臨場感のある映像を実現します。また、60FPS(720P)の超高速フレームレートの動画撮影を実現。遅延や歪みなしにライブブロードキャスト、ストリーミング配信を行うことができます。",
+        "【ステレオマイク搭載】カメラの両側に1台ずつ、計2台のマイクを搭載。あらゆる角度からリアルなサウンドをキャプチャできるため、自分の声が自然かつクリアに相⼿に届きます。",
+        "【自動光補正】自動HD光補正機能を搭載。光の状態に合わせて微調整するので、薄暗い場所でも高品質な動画撮影やストリーミングが可能です。",
+        "【78°の視野角、卓上用3脚同梱】78°の視野角により最高2人をフレームに入れることができ、無料のLogicool Captureアプリを使って、カメラのズームとパンができます。また、卓上用の3脚が同梱されており卓上のどこにでもカメラを自由に設置できます。",
+        "【安心の2年間長期保証】国内正規品 2年間メーカー保証(製品箱にクイックスタートガイドが直接記載されており、 別途説明書のようなものは同梱されておりません)"
+      ],
+      "query": "Logicool StreamCam ウェブカメラ 配信用",
+      "asin": "B07QNJ2YQD",
+      "editorial_reason": "アクセサリ寄りのWebカメラクリップを、配信スターターセットに適した実体のWebカメラへ差し替え。"
+    },
+    {
+      "title": "【Amazon.co.jp限定】Elgato Wave Mic Arm LP 薄型デザインマイクアーム 配信/ゲーミング/レコーディング向け クランプ式固定 モニター下部からの設置に適用",
+      "url": "https://www.amazon.co.jp/dp/B0CDWRJ6LB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21iwYPfCspS._SL500_.jpg",
+      "features": [
+        "プレミアムデザイン:歪みのない、高品質のメタル製。",
+        "スリムなデザイン:肩より下に収まるので、視界を遮ることがありません。",
+        "ケーブルレール:磁気式の着脱可能なカバーがケーブルをすっきりと隠し、アクセスを簡単にします。",
+        "自由自在に角度調整:水平に360°、垂直に90°回転 (上向き)。",
+        "広い範囲をカバー:水平時の全長が740 mm / 29.1 in なので、大きな机もカバーします。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "query": "Elgato Wave Mic Arm LP",
+      "asin": "B0CDWRJ6LB"
+    },
+    {
+      "title": "ヤマハ(YAMAHA) ゲーム/配信用オーディオミキサー ZG01",
+      "url": "https://www.amazon.co.jp/dp/B09WQN5QP2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31DzNyyFG5L._SL500_.jpg",
+      "features": [
+        "発売日:2022年6月1日、希望小売価格:31,900 円(税込",
+        "没入感の高いゲーム体験を提供するゲーム/配信用オーディオミキサー",
+        "ゲーマー/ゲーム配信者のために設計された直感的な音量操作",
+        "高解像度 (24-bit/48kHz) USBオーディオ録音/再生",
+        "複数デバイスとしてPCに認識される専用ドライバーによる柔軟な音量調整",
+        "エフェクトボタン x 6 (Voice chat effects用 x 3, Game sound effects用 x 3)",
+        "HDMI接続 (2-in/1-out, オーディオ出力: 2ch 24-bit/48 kHz, ビデオ信号: パススルー仕様)",
+        "ボイスチャットをしながらのゲームプレイやゲーム配信といったシーンに最適な音声コントロール体験と高い没入感をご提供する「ZG01」と、原音に忠実な音質はもちろん、長時間ユースも考慮して設計されたヘッドセット「YH-G01」がセットになった「ZG01 PACK」は、ゲームの音環境をゼロから構築したい方、アップグレードしたい方にとって最適な選択となるでしょう。"
+      ],
+      "query": "YAMAHA ZG01 オーディオミキサー",
+      "asin": "B09WQN5QP2"
+    }
+  ],
+  "all_candidates": [],
+  "editorial_summary": "配信を始める人向けに、USBマイク、照明、Webカメラ、マイクアーム、オーディオミキサーを選定。初期環境を整えやすい定番機材を中心に構成した。"
+}

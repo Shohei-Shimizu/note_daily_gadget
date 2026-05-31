@@ -1,0 +1,168 @@
+{
+  "date": "2026-06-16",
+  "title": "BGM を最高級に。部屋がホールになる「最新スピーカー」 6 選",
+  "queries": [
+    {
+      "query": "Sonos Era 300 スピーカー",
+      "include": [
+        "Sonos",
+        "Era 300"
+      ]
+    },
+    {
+      "query": "Bose Smart Speaker 500",
+      "include": [
+        "Bose",
+        "Speaker"
+      ]
+    },
+    {
+      "query": "Marshall Acton III Bluetooth スピーカー",
+      "include": [
+        "Marshall",
+        "Acton"
+      ]
+    },
+    {
+      "query": "JBL Authentics 300 スピーカー",
+      "include": [
+        "JBL",
+        "Authentics"
+      ]
+    },
+    {
+      "query": "Bang & Olufsen Beosound A1 2nd Gen",
+      "include": [
+        "Beosound",
+        "A1"
+      ]
+    },
+    {
+      "query": "Anker Soundcore Motion X600",
+      "include": [
+        "Soundcore",
+        "Motion X600"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Sonos Era 300 【VGP2026 SUMMER 受賞】 Dolby Atmos 空間オーディオ対応 スマートスピーカー Bluetooth5.0 ポータブルスピーカー Wi-Fi 内蔵マイク Apple Air Play 2 ライン入力 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0BXPHJR47?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/217iP+jkeDL._SL500_.jpg",
+      "features": [
+        "Sonos Era 300は、かつてないサウンドでお部屋を満たす革新的な空間オーディオ・スピーカーです。これまでのコンパクトスピーカーとは異なり、レフト、ライ ト、センターからリア、そしてハイト方向にもサウンドを届ける６つのスピーカーを搭載。音楽や映画のサウンドステージの中心で没入体験をもたらす先進の Dolby Atmosをお楽しみいただけます。",
+        "【空間オーディオのために生まれたフォルム】Sonos Era 300は極めて複雑な音響構造を砂時計のようなエレガントなくびれで包み込んだ美しいデザ インです。全てのアングル、プロポーション、そして貫通孔パターンはリスナーを包み込むサウンド体験を実現する為に指向性や拡散性を最大化さ せるように精緻に設計されています。 【お部屋中を満たすサウンド】あらゆる音源で極上のサウンド体験を実現。お部屋のどこにいても、息を呑むほどの臨場感あふれるステレオサウンド でリスナーを包み込みます。",
+        "【想像を超えるサラウンドサウンド】高度なマルチチャンネル再生を可能にするSonos Era 300をSonos ArcやSonos Beam (Gen 2) と組み合わせれ ば、究極のDolby Atmos（ドルビーアトモス）ホームシアター体験を実現できます。 【音楽界のリーダーたちとの世界的なコラボレーション】Sonosサウンドは、世界の音楽シーンを牽引するアーティストやクリエーターたちとの緻密な 共同作業によって創られています。アーティストがスタジオで意図した「あるべきサウンド」をそのまま体験できるように、精緻なチューニングが施さ れた。それがSonos Era 300です。AndroidとiOSの両方に対応したTrueplayは、Sonosアプリの簡単なタップ操作によって個々に異なるお部屋の 音響特性に合わせて最適な音響補正をおこないます。",
+        "【さらにサステナブルなサウンド】Sonos Era 300は再生プラスチック（PCR）を採用し、梱包材はサステイナビリティ条件を満たした紙素材のみを100 ％使用しています。アイドリング時の電力消費量2ワット以下に抑え、新たにスリープ機能を加えるなど、消費電力の設計も考慮されています。さら に、より持続的な使用を可能とするメンテナンスや修理の為に、接着剤の使用を減らしてネジ留めを積極的に採用する事で製品の分解修理やパー ツ交換の実現性を高めています。",
+        "【新体験のユーザー・インターフェイス】Sonos Era 300は、Sonos Voice Control、Sonosアプリ、Apple AirPlay 2、Bluetoothで即座かつ思いのままに 音楽を操作できるほか、タッチ操作によるスライドコントロールを新たに搭載し、さらに直感的な操作性を実現しています。 【接続オプションを拡充】WiFiやBluetoothでお気に入りのコンテンツをストリーミング再生。AUXケーブルとSonosライン入力アダプターを使用すれ ば、ターンテーブルなどの外部プレーヤーも直接接続できます。"
+      ],
+      "query": "Sonos Era 300 スピーカー",
+      "asin": "B0BXPHJR47"
+    },
+    {
+      "title": "Bose Smart Speaker 500 スマートスピーカー Bluetooth, Wi-Fi接続 マイク付 タッチ操作 17 cm (W) x 20.3 cm (H) x 10.9 cm (D) 2.15 kg Amazon Alexa搭載 トリプルブラック",
+      "url": "https://www.amazon.co.jp/dp/B07GC4CJ8Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51cMzvAstKL._SL500_.jpg",
+      "features": [
+        "スピーカー1台で部屋中に拡がるステレオサウンド。シームレスで洗練されたアルミボディ。仕上がりも素材も美しいプレミアムデザイン。",
+        "Amazon Alexaの音声操作に対応。どんな曲も簡単にコントロール。天気予報やニュースなど、Amazon Alexaの標準機能を利用可能。",
+        "SpotifyやAmazon MusicなどのWi-Fiを使った音楽配信サービスに対応。Bluetooth接続したスマートフォンやタブレットからお気に入りの音楽を再生。",
+        "Bose Musicアプリを使用してスピーカーを設定し、Wi-Fiネットワークに接続する必要があります。",
+        "簡単操作。音声、Bose Musicアプリ、タッチ、3つ方法で音楽をコントロール。操作性に優れたBose Musicアプリに対応。ユーザーごとに設定をカスタマイズして、コンテンツを操作。",
+        "マイク8つの独自アレイ構造。大音量で曲を再生しても、部屋のどこからでも、音声を確実に認識。",
+        "カスタマイズ可能な6つのプリセットを用意。プレイリストやインターネットラジオを設定して、ワンタッチでアクセス。",
+        "ライフスタイルに合わせて進化し、どの部屋にいても音楽を愉しめるボーズの新しいスマートスピーカー/サウンドバーシリーズ。",
+        "再生中の曲、ラジオ、プレイリストの情報、アルバムアートなどがLCDディスプレイにカラーで表示。",
+        "将来のソフトウェアアップデートで、新しい機能にも対応予定。"
+      ],
+      "query": "Bose Smart Speaker 500",
+      "asin": "B07GC4CJ8Y"
+    },
+    {
+      "title": "Marshall ワイヤレススピーカー Bluetoothスピーカー ACTON III BLACK (ブラック) 【国内正規品】",
+      "url": "https://www.amazon.co.jp/dp/B0B1QPMNYR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Vy-X1udUL._SL500_.jpg",
+      "features": [
+        "形式 アクティブスピーカー/バスレフ型 通信方式 Bluetooth5.2",
+        "対応コーデック SBC パワー・アンプ",
+        "ウーファー用30W D級アンプx1 ツィーター用15W D級アンプx2",
+        "再生周波数帯域 45~20 000Hz",
+        "ワイヤレスレンジ 約10m 入力電圧 100~240V"
+      ],
+      "query": "Marshall Acton III Bluetooth スピーカー",
+      "asin": "B0B1QPMNYR"
+    },
+    {
+      "title": "JBL AUTHENTICS 300 オーセンティックス 300 Wi-Fi Bluetoothスピーカー 自動音質補正機能搭載/3.5mm入力付き/バッテリー内蔵/プロサウンド ブラック JBLAUTH300BLKJN",
+      "url": "https://www.amazon.co.jp/dp/B0CL4GY3KB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41tfRjbhVgL._SL500_.jpg",
+      "features": [
+        "国内正規品 新品のみメーカー保証1年",
+        "技適マーク認証済み商品。 周波数帯:2400MHz~2483.5MHz",
+        "Wi-Fi 接続と「JBL ONE」アプリによる新次元のオーディオ体験",
+        "70年代の正統派モデルを彷彿させるオーセンティックなデザイン",
+        "Bluetooth、3.5mm入力も装備し外部機器との接続が可能"
+      ],
+      "query": "JBL Authentics 300 スピーカー",
+      "asin": "B0CL4GY3KB"
+    },
+    {
+      "title": "バング・アンド・オルフセン (Bang & Olufsen) ポータブルスピーカー Beosound A1 2nd Black Anthracite Bluetooth ワイヤレス IP67認定 防水・防塵 ビデオ会議 18時間再生",
+      "url": "https://www.amazon.co.jp/dp/B085R7TSN6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41GtDnPX4nL._SL500_.jpg",
+      "features": [
+        "【出荷元・販売元 Amazon.co.jp】から購入された製品のみ、メーカー保証2年となります。",
+        "パンチの効いた全指向性のTrue360サウンドで未だかつてない至福のサウンドを楽しめます。3つの内蔵マイクによりクリアな通話で、オンライン会議やハンズフリー通話もご利用いただけます。音楽だけでなく、幅広く活躍するポータブルスピーカーです。Multipoint機能を使えば、スマホを2台まで繋げて曲のコントロールを行えます。",
+        "耐久性に優れた持ち運びやすさの観点から、滑らかで柔らかな形を意識したデザインです。カラーバリエーションも豊富で、様々なライフシーンにてお使い頂ける定番の人気商品です。",
+        "もっと遠くに出かけよう。もっと長時間音楽を流そう。パワフルなバッテリーとお洒落でより軽量のデザインで、音楽をお供に新たなアドベンチャーに出かけましょう。通常の音量で合計最大18時間のオーディオ再生が楽しめるポータブルスピーカーです。",
+        "耐久性に優れた Beosound A1 は、防水はもちろん、砂やホコリも全く寄せつけません。ビーチからバスタブまでどこへ連れて行っても、さらには間違って落としてしまっても、このBluetoothスピーカーは音楽を流し続けます。"
+      ],
+      "query": "Bang & Olufsen Beosound A1 2nd Gen",
+      "asin": "B085R7TSN6"
+    },
+    {
+      "title": "Anker Soundcore Motion X600 Bluetoothスピーカー【空間オーディオ/ハイレゾ音源再生 / 50W出力 / IPX7防水規格 / 最大12時間再生 / Proイコライザー機能/AUX対応】スペースグレー",
+      "url": "https://www.amazon.co.jp/dp/B0BXSVN86C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31bX3Dmw+QL._SL500_.jpg",
+      "features": [
+        "驚くほどの立体感、「空間オーディオ」技術：Anker独自の空間オーディオアルゴリズムと、5つのドライバーにより、空間全体を包み込むような立体音響を実現しました。",
+        "ハイレゾ音源再生にまで対応：LDACコーデックを搭載し、通常のSBCコーデックと比較し、最大約3倍の情報量を送信することが可能なため、ワイヤレス接続でも原音に近いクリアな音楽を再現。",
+        "こだわりを尽くした、洗練されたデザイン：高級感を演出する、3Dメタルメッシュを採用。シンプルで洗練された、デザインのため室内のインテリアとしても使用可能です。",
+        "細やかな音質調整を可能にするProイコライザー機能：Soundcoreアプリのイコライザー機能が進化。音楽をさらに好みに合わせて聴くことができるよう、細かな周波数帯のカスタマイズが可能になりました。",
+        "パッケージ内容：Motion X600、USB-C & USB-C ケーブル、クイックスタートガイド、安全マニュアル、カスタマーサポート"
+      ],
+      "query": "Anker Soundcore Motion X600",
+      "asin": "B0BXSVN86C"
+    }
+  ],
+  "all_candidates": [],
+  "editorial_summary": "自宅のBGM環境を上げたい読者向けに、据え置き型スマートスピーカー、Wi-Fiスピーカー、ポータブル高音質スピーカーを選定。音質、空間表現、デザイン性を軸に構成した。"
+}

@@ -1,0 +1,145 @@
+{
+  "date": "2026-06-10",
+  "title": "腰の負担をゼロに。ボーナスで狙う「高級チェア」 5 選",
+  "queries": [
+    {
+      "query": "ハーマンミラー アーロンチェア リマスタード",
+      "include": [
+        "アーロンチェア"
+      ]
+    },
+    {
+      "query": "エルゴヒューマン プロ2 オフィスチェア",
+      "include": [
+        "エルゴヒューマン"
+      ]
+    },
+    {
+      "query": "オカムラ シルフィー オフィスチェア",
+      "include": [
+        "オカムラ",
+        "シルフィー"
+      ]
+    },
+    {
+      "query": "Steelcase Gesture オフィスチェア",
+      "include": [
+        "Steelcase",
+        "Gesture"
+      ]
+    },
+    {
+      "query": "AKRacing Premium オフィスチェア",
+      "include": [
+        "AKRacing",
+        "Premium"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "【正規品】 Herman Miller 　(ハーマンミラー) 　アーロンチェア オフィスチェア B(ミディアム)サイズ グラファイト(ブラック) BBキャスター AER1B23DWALPG1G1G1BBBK23103",
+      "url": "https://www.amazon.co.jp/dp/B01MUZOWBH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/410b4QZltjL._SL500_.jpg",
+      "features": [
+        "フレーム・シャシー・ベース・8Ｚペリクル：グラファイト",
+        "サイズ : 幅68.5 x 奥行42.5 x 高さ93~104.5cm",
+        "Amazon.co.jp が販売、発送の場合、保証サポートのご案内、専用連絡先を同封しております。",
+        "背・座 : ペリクル(弾性ポリエステル)",
+        "背部・座部フレーム : グラファイトフレーム・グラファイトベースベース(アルミダイキャスト粉体エポキシ途装リンクル途装)",
+        "キャスター : ナイロン双輪",
+        "バックサポートオプション : ポスチャーフィットSL",
+        "重量 : 約20kg",
+        "保証期間/構造体、機構部、可動部 : 12年間、ガス圧シリンダー : 2年間"
+      ],
+      "query": "ハーマンミラー アーロンチェア リマスタード",
+      "asin": "B01MUZOWBH"
+    },
+    {
+      "title": "エルゴヒューマン2(Ergohuman2) オフィスチェア ヘッドレスト付き オットマン内蔵 昇降式 メモリーロッキング機能付き エラストリックメッシュ PUキャスター プロ オットマン フレーム:グレー メッシュ:ホワイト EHP2-LPL-DR-GF-WH(PU) 関家具 445402",
+      "url": "https://www.amazon.co.jp/dp/B0DVL6YX36?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41WjKcjOL3L._SL500_.jpg",
+      "features": [
+        "Ergohumanは、人間工学に基づいて開発された多機能なデスクチェアで、腰のサポートに重点を置いています。独立式ランバーサポートで姿勢を調整し、個別の調整も可能です。世界の50以上の国と地域で支持されています。",
+        "多様なラインナップを提供しているErgohumanは、ワークスタイルやライフスタイルに合った最適な椅子を選ぶことができます。カラー展開はブラック・ホワイト・レッド・ブルー・グリーンの5色と、 さらにフレームの色をブラックとグレーの2色からお選びいただけます。",
+        "商品サイズ：幅70.0 × 奥行66.5 × 高さ115.0∼131.5cm 座面高45.5~54.0cm 本体重量24.9kg",
+        "【集中とリラックスを高水準で実現した一脚】Ergohumanの全機能を搭載したフラッグシップモデル、プロオットマンタイプには、収納式のオットマンが内蔵されています。集中したいときは前傾チルト機能、リラックスしたい時はオットマンを使って、ON/OFFの切り替えをスムーズに行え、より効率的にデスクワークを行えます。",
+        "【機能】ヘッドレストの高さ・角度調節/バックレストの高さ調節/独立式ランバーサポート/4Dアームレスト/ハイブリッドレバー/メッシュサポート/リクライニングテンション調節/座面奥行調節/座面高さ調節/座面前傾チルト機能/収納式オットマン内蔵/メモリーロッキング機能"
+      ],
+      "query": "エルゴヒューマン プロ2 オフィスチェア",
+      "asin": "B0DVL6YX36"
+    },
+    {
+      "title": "オカムラ オフィスチェア 完成品 組立不要 シルフィー ハイバック 背メッシュ アジャストアーム ブラック樹脂脚 ブラックフレーム ブラック C685ZR-FMP1",
+      "url": "https://www.amazon.co.jp/dp/B0C3M2FPZY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31bRj7spcmL._SL500_.jpg",
+      "features": [
+        "背と座はシンクロしてリクライニングし、従来の直立姿勢から後傾姿勢までのリクライニングに加え、パソコン作業や筆記作業をサポートするように、前傾ポジションを取ることが可能。",
+        "硬さの異なる3種類のウレタンを一体で成形。前方は太ももを圧迫しないやわらかなクッション。後方には、お尻をしっかりサポートする硬いクッションを採用。",
+        "原産国:日本",
+        "サイズ：幅64.8×奥57.4～62.4×高さ95.4～105.4×座面高42～52×脚外径70cm",
+        "製品仕様：品番：C685ZR-FMP1／アジャストアーム／背サイズ：ハイバック／ウレタンキャスター／ブラックフレーム／ブラック樹脂脚／背メッシュ：ブラック"
+      ],
+      "query": "オカムラ シルフィー オフィスチェア",
+      "asin": "B0C3M2FPZY"
+    },
+    {
+      "title": "スチールケース(Steelcase) Gesture ジェスチャー オフィスチェア ゲーミングチェア Graphite Black frame 姿勢をサポートし疲れにくい アームの自由度が高い 作業効率アップ メーカー組み立て完成品 D53~60×W57~88×H100~112cm【日本正規輸入品】 442A40JP",
+      "url": "https://www.amazon.co.jp/dp/B0B5TT8XVS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31QOYO6kDmL._SL500_.jpg",
+      "features": [
+        "仕様1 :USミシガン州に本社を構えるスチールケースは、100年以上の歴史の中で働く人の姿勢の研究調査を重ねて理想のオフィスチェアを進化させてきたトップブランドです。",
+        "仕様2: Steelcase Gestureは世界11か国 2000人の仕事時の姿勢を研究し、その結果として使用する端末や、作業内容によって9つ以上の姿勢を取る事を確認しました。 その全ての姿勢をサポートできるよう、人間工学に基づき設計されたのがGestureです。",
+        "仕様3 : Gestureは3D LiveBackテクノロジーを採用し、姿勢を変える度に背もたれが背骨の自然な動きに沿って柔軟に変形するように設計されています。 背骨を自然で健康的なS字型に整え、長時間の作業でも疲れ辛く快適な作業環境を提供します。",
+        "仕様4 : 調節機能:座面高さのみではなく、奥行の調節、背もたれ反力調節、リクライニング角度4段階調節が可能です。 アーム上下360°調節が可能となりパソコンだけでなく、タブレットやスマートフォン等複数のデバイスで作業をする際に、変わり続ける姿勢をしっかりとサポートします。",
+        "仕様5 :キャスター:カーペット用キャスターを採用し、お家の床材を傷つけ辛い使用になっております。",
+        "6 : 組立完了品でお客様の玄関までお届けします。保証サポートのご案内、専用連絡先を同封しております。",
+        "仕様7:ゲーミングチェアとしてもご利用頂けます。"
+      ],
+      "query": "Steelcase Gesture オフィスチェア",
+      "asin": "B0B5TT8XVS"
+    },
+    {
+      "title": "AKRacing オフィスチェア ゲーミングチェア Raven レイブン Premium 高耐久PUレザー 180度リクライニング 5年保証",
+      "url": "https://www.amazon.co.jp/dp/B075R8DPJ5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41P4uVhr85L._SL500_.jpg",
+      "features": [
+        "フルフラットリクライニング機能/座面チルト機能搭載",
+        "フローリング床に傷を付けにくいPU製キャスターにはストッパー機能つき",
+        "安心のメーカー（AKRacing）5年保証。 ※張地(レザー・クロス)の摩耗・劣化、昇降機構(ガスシリンダー)の故障については2年保証となります。詳しくはAKRacingホームページの製品保証規定をご確認ください。",
+        "寸法:脚部最大幅 65cm、背もたれ高さ 93cm、座面の高さ 36.5cm~43.0cm",
+        "【材質】PUレザー(背もたれ、座面)、高反発モールドウレタンフォーム(クッション材)、スチール(フレーム、シリンダー、ホイールベース)、ポリウレタン(アームレスト上面、キャスター)"
+      ],
+      "query": "AKRacing Premium オフィスチェア",
+      "asin": "B075R8DPJ5"
+    }
+  ],
+  "all_candidates": [],
+  "editorial_summary": "長時間作業向けの高級チェアとして、姿勢サポート、腰まわりのフィット感、調整機構、メッシュ素材を軸に選定。医療的な効果断定は避け、作業環境改善の文脈で扱う。"
+}

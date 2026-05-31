@@ -1,0 +1,183 @@
+{
+  "date": "2026-06-29",
+  "title": "耳を塞がない快適さ。骨伝導＆「オープンイヤー」最新版 7 選",
+  "queries": [
+    {
+      "query": "Shokz OpenFit 2 オープンイヤー",
+      "include": [
+        "OpenFit 2"
+      ]
+    },
+    {
+      "query": "Shokz OpenRun Pro 2 骨伝導",
+      "include": [
+        "OpenRun Pro 2"
+      ]
+    },
+    {
+      "query": "Bose Ultra Open Earbuds オープンイヤー",
+      "include": [
+        "Ultra Open"
+      ]
+    },
+    {
+      "query": "Sony LinkBuds Open オープンイヤー",
+      "include": [
+        "LinkBuds Open"
+      ]
+    },
+    {
+      "query": "JBL Soundgear Sense オープンイヤー",
+      "include": [
+        "Soundgear Sense"
+      ]
+    },
+    {
+      "query": "Soundcore AeroFit 2 オープンイヤー",
+      "include": [
+        "AeroFit 2"
+      ]
+    },
+    {
+      "query": "HUAWEI FreeArc オープンイヤー",
+      "include": [
+        "FreeArc"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": [],
+    "manual_completion": [
+      {
+        "query": "Sony LinkBuds Open WF-L910",
+        "asin": "B0DHZYMCH8",
+        "reason": "初回検索で予定数に満たなかったため、PA-APIで追加取得して補完。"
+      }
+    ]
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "Shokz (ショックス) OpenFit 2+ オープンイヤー イヤホン bluetooth ワイヤレスイヤホン 山口一郎コラボモデル同仕様 Dolby Audio対応 17.3mm 大型ドライバー 合計48時間再生 音漏れ抑制技術 IP55防水 Bluetooth 5.4 物理ボタン ワイヤレス充電 急速充電 マイク付き AIノイキャン通話 9.4g超軽量 耳を塞がない 2025 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0F1Y3CJJ2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31aTpZhCriL._SL500_.jpg",
+      "features": [
+        "Dolby Audioでダイナミックなサウンドを：OpenFit 2+は、業界初の「Shokz DualBoost」テクノロジーを搭載し、17.3mm超大型低周波ドライバーと独立した高周波ユニットで迫力のある重低音を実現しながらきらめく高音を再現し、鮮やかでダイナミックなサウンドを提供します。深みのある低音、非常にクリアな中音と高音、そして卓越したディテール音をお聴きいただけます。「Dolby Audio」は、リッチで広大なサウンドステージを作り出し、臨場感あふれるオーディオで包み込み、ステレオ・エンターテイメントをクリアで自然な体験に変えます。",
+        "オープンイヤー型ならではの快適さ：耳を塞がないオープンイヤーデザインと片耳9.4gという軽さにより、長時間の使用でも聞き疲れや蒸れを感じません。「Shokz Ultra-Soft Silicone 2.0」と一体型のニッケルチタン合金で作られた柔軟なイヤーフックは、さまざまな耳の輪郭にフィットし、日常使いから激しいワークアウトまで、落ちにくさをしっかり実現します。外と繋がっていて周囲の状況に注意を払い、安全安心で音楽を楽しめます。",
+        "最大48時間再生・ワイヤレス充電対応：イヤホン本体は10分の急速充電で約2時間、フル充電なら最大11時間の連続再生が可能です。ケース併用で合計48時間再生可能なスタミナを実現しています。ワイヤレス充電対応のポケットサイズ充電ケースは外出時もらくらく。バッテリー切れの心配なく、時間を気にせず、耳につけていることを忘れるほどの快適なフィット感に加え、心ゆくまでお楽しみいただけます。",
+        "AIノイキャン通話・音漏れ防止機能：高度なノイズキャンセリング技術とAIアルゴリズムを搭載した4つのビームフォーミングマイクを揃えています。Shokz独自の「DirectPitch 2.0」技術という指向性技術は音漏れを防ぎながら耳への大音量を保証し、通話中もプライバシーを守り周囲への迷惑を軽減します。専用アプリのプライベートモードと併用すれば、音漏れ防止の効果がさらに高まり、日々の生活にも安心してご利用いただけます。",
+        "アプリでさまざまな機能を活用：Shokz専用アプリでは5つのプリセットEQと2つのカスタムモードでサウンドを自在に調整可能。タッチ操作の設置、イヤホン紛失時の検索、ファームウェア更新、プロンプト音量調整も簡単に行えます。次世代Bluetooth 5.4、マルチポイント接続、IP55防塵防水性能、多機能の物理ボタン、自動再生/停止機能などハイテックで便利な機能を搭載しており、通勤、ワークアウト、仕事、旅行などさまざまなシーンで活躍します。"
+      ],
+      "query": "Shokz OpenFit 2 オープンイヤー",
+      "asin": "B0F1Y3CJJ2"
+    },
+    {
+      "title": "Shokz (ショックス) OpenRun Pro 2 骨伝導イヤホン ワイヤレスイヤホン オープンイヤー 【DualPitch技術 12時間連続再生 IP55防水防塵 Bluetooth 5.3 EQカスタマイズ 音漏れ防止機能】 耳を塞がない ながら聴き 軽量 マイク付き 自動ペアリング ランニング・スポーツ イヤホン USB-C急速充電 技適認証済み ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D2W63XYY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21h1B8wbvFL._SL500_.jpg",
+      "features": [
+        "デュアルドライバーによる優れたサウンド：Shokz DualPitchを搭載し、オープンイヤーオーディオのルールを書き換えるShokzのまったく新しいフラッグシップヘッドフォン、OpenRun Pro 2が登場。この先進的なテクノロジーは、骨伝導スピーカーと空気伝導スピーカーを見事に組み合わせ、クリアで力強い音質をお届けします。",
+        "周囲が確認できる安全性：Shokzの特徴的なオープンイヤーデザインを採用したOpenRun Pro 2は、周囲の音をしっかりと把握しながら、ワークアウトに集中することができます。音量範囲をインテリジェントに最適化し、外出先でもクリアな音声をお楽しみいただけます。",
+        "最適化されたフィット感：OpenRun Pro 2は、厳しい環境でも安心してご使用いただけるようにデザインされています。人間工学に基づいたイヤーフックと一体型フレームが、ずれることなく安全で快適なフィット感を実現します。圧力を均等に分散する広めの接触面と洗練されたバンド設計により、長時間の使用でも心地よさが持続し、プレイリストのように快適な着け心地が続きます。",
+        "防風マイク：マイクを最適な低風ゾーンに配置し、内部構造によって風の影響を大幅に軽減することで、風の強い状況でも非常にクリアな通信を実現します。",
+        "12時間の再生時間とUSB-C急速充電：1回のフル充電で最大12時間の音楽再生をお楽しみいただけます。5分間の急速充電で2.5時間のリスニングが可能です。USB-Cポートにより、付属のケーブルを使用しても、お持ちのケーブルを使用しても簡単に充電できます。 ご案内：商品の重量は30.3g前後（±0.5g）であり、この範囲内であれば正常な範囲内の製品です。"
+      ],
+      "query": "Shokz OpenRun Pro 2 骨伝導",
+      "asin": "B0D2W63XYY"
+    },
+    {
+      "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CSKFY1Q2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31iW7F9kQNL._SL500_.jpg",
+      "features": [
+        "外の世界にも耳を澄ませる： 豊かな空間オーディオを楽しみながら、周囲とのつながりも保つリスニング体験。オープンイヤーの開放型デザインのワイヤレスイヤホンは、「周りとのつながりも大切にしている」というメッセージを発信する一方で、OpenAudioテクノロジーが高品質のプライベートサウンドを実現します。",
+        "どこででも音楽を満喫：ボーズのイマーシブオーディオを搭載した立体感のある空間オーディオを実現するこのBluetoothイヤホンは、快適な着け心地とスタイリッシュなデザインを両立。サウンドに包まれているような、よりリアルなリスニング体験を実現します。",
+        "心地よく、しっかりフィット： Bose Ultra Open Earbudsのジョイント部分は柔軟かつ超軽量設計。この快適なイヤホンのオープンイヤーの耳かけを耳にさっとかけるだけで、周りとのつながりを保ちながら音楽も楽しむことができます。",
+        "IPX4防滴規格に準拠： 多少の水しぶきや汗、雨なら ご心配なく。IPX4環境規格準拠の防滴仕様を備えたBose Ultra Open Earbudsにお任せください。さらに湿気やほこりはアコースティックメッシュがシャットアウト。極上のリスニング体験を快適に、途切れることなくお楽しみいただけます。",
+        "長時間再生バッテリー：最長7.5時間の連続再生時間 （イマーシブオーディオ設定がオンの場合は最長4.5時間）*と、最長48時間スタンバイ***の長時間バッテリー。付属の充電ケース**を使用すると、さらに19.5時間再生可能。オープンイヤホンで音質の良いリスニングを長時間お楽しみいただけます。",
+        "ボタン操作で簡単にリスニングを調整：このマイク内蔵イヤホンのボタン操作はとてもシンプル。ステレオモードやイマージョンモードの切り替え、音楽の再生・一時停止、着信への応答など、ボタンを押すだけで素早く簡単に操作できます。",
+        "他のボーズ製品と併用してさらに楽しく便利に： Bose SimpleSyncテクノロジーで、オープンイヤーワイヤレスイヤホンをボーズのスマートサウンドバーやスピーカーとBluetoothでペアリングすれば、お好みの音量でテレビ鑑賞もお楽しみいただけます。",
+        "ハンズフリーで手間のかからない切り替え: Bluetooth マルチポイントは、シームレスで中断のないリスニングを提供します。携帯電話、ノートパソコン、その他のデバイスを簡単に切り替えることができるので、すべての瞬間を逃しません。"
+      ],
+      "query": "Bose Ultra Open Earbuds オープンイヤー",
+      "asin": "B0CSKFY1Q2"
+    },
+    {
+      "title": "JBL SOUNDGEAR SENSE 完全ワイヤレスイヤホン/オープンイヤー/マルチポイント / IP54防水 / Bluetooth5.3 / 耳を塞がない/音漏れ防止/ブルー/JBLSNDGEARSNSBLU",
+      "url": "https://www.amazon.co.jp/dp/B0DJNXH5KV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31h2idCGvnL._SL500_.jpg",
+      "features": [
+        "国内正規品 新品のみメーカー保証1年",
+        "技適マーク認証済み商品。 周波数帯:2402 MHz − 2480 MHz",
+        "耳をふさがない2ウェイのオープンスタイル",
+        "装着感もパーソナライズ。角度調整可能なイヤーフック構造を採用",
+        "極限まで音漏れを軽減し音質も妥協しない\"OpenSoundテクノロジー\""
+      ],
+      "query": "JBL Soundgear Sense オープンイヤー",
+      "asin": "B0DJNXH5KV"
+    },
+    {
+      "title": "Anker Soundcore AeroFit 2 (Bluetooth 5.4)【オープンイヤー型ワイヤレスイヤホン / IP55防塵防水規格/ 最大42時間再生 / マルチポイント接続/PSE技術基準適合】 ミッドナイトブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D7ZZCHFV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31d6lWg6Y5L._SL500_.jpg",
+      "features": [
+        "どんな耳にも、感動のフィット感と心地よさを：4段階の角度調節可能なイヤーフックで、どんな耳にもフィット。曲線設計で耳に当たる部分の圧力を均等に分散し、快適なつけ心地に。",
+        "イヤホン単体で最大10時間の長時間再生で、一日中使える：一日中つけっぱなしでいられて、つけ外しの手間も不要です。また、約10分間の短時間充電で、最大4時間再生可能。ワイヤレス充電にも対応。",
+        "ハイレゾにも対応、超高音質へのこだわり： 20mm × 11.5mmの大型ドライバーで、全ての音域を緻密に再現。ハイレゾ再生、高音質コーデックLDACにも対応。",
+        "深みのある、重低音：Anker独自のBassTurbo構造が振動板の振動を増幅させることで、音を増強させ、より迫力のある重低音に。",
+        "パッケージ内容：本体、充電ケース、USB-C & USB-A ケーブル、クイックスタートガイド、技適マーク認証済み商品（周波数帯：2.40～2.48GHz）"
+      ],
+      "query": "Soundcore AeroFit 2 オープンイヤー",
+      "asin": "B0D7ZZCHFV"
+    },
+    {
+      "title": "HUAWEI FreeArc オープンイヤー ワイヤレスイヤホン 耳掛け Bluetooth 快適な装着感 IP57防水 28時間再生 iOS/Andriod対応 グレー",
+      "url": "https://www.amazon.co.jp/dp/B0DZ27XBDG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31pLrzlBaNL._SL500_.jpg",
+      "features": [
+        "【運動中でも安定した装着感】 ステントなどの医療器具や航空宇宙産業、ロボット工学などに使用されるニッケルチタン形状記憶合金と生体適合性に高く、肌に優しく、アレルギー反応を起こしにくい35A液状シリコーンを採用し、一日中快適で確実なフィット感を実現",
+        "【３つの安定化設計で快適な装着感を実現】: 10,000件以上の耳介データを分析し形状の微調整を行い、最適なカーブで形成したC-bridge Design。アコースティックボール、C-bridge Design、バッテリーの３つの重心部分の重さを調整し、３つの支点でイヤホンの安定性を向上させた三角形設計。最も安定したバランスでデザインした重心バランス設計で、激しい運動でも、ズレにくく、落ちにくい。",
+        "【音漏れ軽減】: 指向性音声伝送技術により、音を出すスピーカーとは反対側に逆位相の音波を出すことで音漏れを軽減",
+        "【IP57防水仕様】:特殊な防水マイクを搭載しているため、汗や雨を気にせず運動をすることが可能。HUAWEI初のIP57レベルの防水に対応。",
+        "【優れた音質】: 17x12mm 高感度ドライバーユニットを搭載。高音域にはPENチタンコーティングを施し、豊かで解像度の高いディテールを再現。低音域には柔らかく弾力性のあるPUチタンプレーティング複合振動板を採用し、パンチのある低音を実現。高性能ネオジム磁石を使用し、高い駆動力を実現することで、小型で大音量を実現"
+      ],
+      "query": "HUAWEI FreeArc オープンイヤー",
+      "asin": "B0DZ27XBDG"
+    },
+    {
+      "title": "ソニー(SONY) オープンイヤー LinkBudsOpen Bluetooth ワイヤレスイヤホン 防滴 ロングバッテリー最大8時間連続再生 マイク付 迫力の音質 軽量 コンパクト カラフルケースカバー WF-L910 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DHZYMCH8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31bStyuJgVL._SL500_.jpg",
+      "features": [
+        "WF-L910 BZ"
+      ],
+      "query": "Sony LinkBuds Open WF-L910",
+      "asin": "B0DHZYMCH8"
+    }
+  ],
+  "all_candidates": []
+}

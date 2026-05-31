@@ -1,0 +1,162 @@
+{
+  "date": "2026-06-21",
+  "title": "自宅をスタジオに。防音パネルと「最新マイクアーム」 6 選",
+  "queries": [
+    {
+      "query": "Elgato Wave Mic Arm LP",
+      "include": [
+        "Elgato",
+        "Mic Arm"
+      ]
+    },
+    {
+      "query": "RODE PSA1+ マイクアーム",
+      "include": [
+        "RODE",
+        "PSA1"
+      ]
+    },
+    {
+      "query": "Blue Compass マイクアーム",
+      "include": [
+        "Compass"
+      ]
+    },
+    {
+      "query": "SmallRig マイクアーム ロープロファイル",
+      "include": [
+        "SmallRig",
+        "マイクアーム"
+      ]
+    },
+    {
+      "query": "吸音パネル 防音パネル 12枚 セット",
+      "include": [
+        "吸音パネル"
+      ]
+    },
+    {
+      "query": "Auralex Acoustics Studiofoam 吸音材",
+      "include": [
+        "Auralex"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "【Amazon.co.jp限定】Elgato Wave Mic Arm LP 薄型デザインマイクアーム 配信/ゲーミング/レコーディング向け クランプ式固定 モニター下部からの設置に適用",
+      "url": "https://www.amazon.co.jp/dp/B0CDWRJ6LB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21iwYPfCspS._SL500_.jpg",
+      "features": [
+        "プレミアムデザイン:歪みのない、高品質のメタル製。",
+        "スリムなデザイン:肩より下に収まるので、視界を遮ることがありません。",
+        "ケーブルレール:磁気式の着脱可能なカバーがケーブルをすっきりと隠し、アクセスを簡単にします。",
+        "自由自在に角度調整:水平に360°、垂直に90°回転 (上向き)。",
+        "広い範囲をカバー:水平時の全長が740 mm / 29.1 in なので、大きな机もカバーします。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "query": "Elgato Wave Mic Arm LP",
+      "asin": "B0CDWRJ6LB"
+    },
+    {
+      "title": "RODE Microphones ロードマイクロフォンズ PSA1プラス スタジオ用マイクブーム PSA1+",
+      "url": "https://www.amazon.co.jp/dp/B09JBVR5B4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31gPKxt1FgL._SL500_.jpg",
+      "features": [
+        "より滑らかで静かな動きを可能にした、プレミアムなスタジオ用マイクブームです。"
+      ],
+      "query": "RODE PSA1+ マイクアーム",
+      "asin": "B09JBVR5B4"
+    },
+    {
+      "title": "ロジクール G Blue Compass マイクスタンド マイクアーム BA100CBK 国内正規品 2年間メーカー保証",
+      "url": "https://www.amazon.co.jp/dp/B0822PPK7P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/310fU9bP9mL._SL500_.jpg",
+      "features": [
+        "型番:BA100CBK",
+        "カラー:ブラック",
+        "【格納式ケーブルマネージメント・システム】ケーブルを本体チューブに格納なので取り回し良く使用可能",
+        "【操作性が高く、スムーズな静音動作】スプリング内蔵で操作性が高く、スムーズな静音動作を実現",
+        "【様々なマイクで利用可能】Yetiをはじめとする1.08kg(24ポンド)以下のマイクをマウント可能",
+        "ケーブルを本体チューブに格納なので取り回し良く使用可能",
+        "スプリング内蔵で操作性が高く、スムーズな静音動作を実現",
+        "Yetiをはじめとする1.08kg(24ポンド)以下のマイクをマウント可能",
+        "耐荷重:約1kg(マイク、ショックマウント含め)",
+        "ネジ山:標準5/8インチ、5/8-3/8変換アダプター付属"
+      ],
+      "query": "Blue Compass マイクアーム",
+      "asin": "B0822PPK7P"
+    },
+    {
+      "title": "【宇宙最強吸音・12枚セット】防音パネル 吸音パネル 防音 壁 防音材 吸音材 壁 高密度 遮音シート 遮音材 防音ボード 防音シート壁 賃貸 剥がせる 騒音対策 窓楽器 部屋装飾 防音マット 取り付け簡単 ホームスタジオ 室内装飾 DIY インテリア おしゃれ 一戸建て アパート (ブラック, 12枚セット(1.08㎡))",
+      "url": "https://www.amazon.co.jp/dp/B0DYDBSZTN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41DI-8gK4bL._SL500_.jpg",
+      "features": [
+        "🎵【商品内容】 セット内容：吸音ボード本体、両面粘着テープ、日本語取り付け説明書×1。 お届けした商品に不具合や不足があった場合は、Amazonのメッセージ機能よりご連絡ください。内容を確認のうえ、順次対応させていただきます。",
+        "🎵【厳選された材料】環境に配慮した難燃性高品質ポリエステル繊維で作られ、臭い無し、吸音効果に優れているだけでなく、保温、断熱材としてもご利用可能です。エアコンの効率をよくさせ、省エネ効果を実現。圧縮せずにお届けするので、即ご利用可能です。",
+        "🎵【幅広い用途】吸音パネルは、新型改良版の【3M製両面テープ】を使用しており、壁やドア、天井などに簡単に取り付け可能です。 ピンや釘を使わず、壁を傷つける心配もありません。 寝室、ピアノ練習室、レコーディングルーム、オフィス、会議室など、さまざまな場所でご利用いただけます。",
+        "🎵【アドバイス】理想的な吸音効果を得るためには、吸音シートが部屋の壁の70％以上を覆うことを推奨します。また、より良い吸音効果を追求する場合、防音材との併用をお勧めします。",
+        "🎵【品質保証について】たくさんの吸音材の中から厳選し、最も効果の高い物を提供できるように努めてまいりました。安心してお買い求めいただけます。商品を受け取った後、何かご不明点がある場合、取扱説明書を参考し、弊社にご連絡ください。誠意をもって対応させていただきます。"
+      ],
+      "query": "吸音パネル 防音パネル 12枚 セット",
+      "asin": "B0DYDBSZTN"
+    },
+    {
+      "title": "Auralex Acoustics Studiofoam Wedgies Acoustic Absorption Foam, 2 x 12 x 12, 24-Panels, Charcoal by Auralex Acoustics",
+      "url": "https://www.amazon.co.jp/dp/B0002D05KA?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41vqzfPHHpL._SL500_.jpg",
+      "features": [
+        "■吸音材 ■24枚入り ■1枚あたりのサイズ：約30ｘ30ｘ5cm ■素材： ウレタンフォーム Studiofoam Wedgiesは、広く配置することで、小さなフラッターエコーに効果的で音の拡散を抑えます。色はチャコールグレーのみとなります。"
+      ],
+      "query": "Auralex Acoustics Studiofoam 吸音材",
+      "asin": "B0002D05KA"
+    },
+    {
+      "title": "FIFINE ブームアーム マイクスタンド マイクアーム コンデンサーマイク用 3/8 5/8 卓上マイクスタンド 下から 角度調節可能 360度回転 金属製 ケーブル収納可能 ゲーム実況 配信 録音 在宅ワーク 白 BM88W",
+      "url": "https://www.amazon.co.jp/dp/B0CM3MZJZR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21NKCXgVO3L._SL500_.jpg",
+      "features": [
+        "【優れた耐久性】本体は金属を素材に作られ、耐荷重は1.5kgに達し、マイクが動作している時に揺れやがたつきはなく、優れた安定性を提供いたします。また、頑丈な設計と金属の光沢感を相まっており、ハイテク感が溢れています。",
+        "【省スペース設計】ロープロファイルな設計により、モニターの下部からマイクを出すことができ、モニター下のデットスペースを有効活用できます。デスク下の活動空間が限られ、またはデスクの下に障害物がある場合にも対応可能です。",
+        "【広い可動域】3つの関節と2つのアームで構成され、固定側のアームは360度の1軸方向、第2関節は360度/-35～165度の2軸方向、第3関節は360度の1軸方向、ボールヘッド部は1方向に180度動くなど、広範囲に可動となっています。",
+        "【ケーブル収納可能】隠されたケーブルカバーがマイクアームに内蔵し、配線整理はより便利になります。ケーブルをきちんと整えられ、作業スペースの整理整頓に役立ち、見た目もすっきりとしています。",
+        "【幅広い互換性】本製品は1/4″、3/8″、5/8″の三種類のネジ変換アダプターを付属しており、ほとんどのマイクに対応でき、別途で変換アダプターを用意せず、多用途かつ利便性の両立を実現します。ゲーム実況、ポッドキャスト、レコーディング、ボイスチャット、歌ってみたなどに最適です。",
+        "【品質保証】当店は12ヶ月の商品品質を保証します。包装破損、商品の色の不一致、製品欠陥などの問題がございましたら、お早めに当店までご連絡いただけますと幸いです。",
+        "【注意事項】ブラック型番外箱は全カラー型番共通仕様です。商品が届きましたら、必ず開封してパッケージ内の製品のカラーをご確認ください。"
+      ],
+      "query": "FIFINE マイクアーム ロープロファイル",
+      "asin": "B0CM3MZJZR",
+      "editorial_reason": "ロープロファイル型のマイクアームとして、机上をすっきり見せたい配信環境向けに採用。"
+    }
+  ],
+  "all_candidates": [],
+  "editorial_summary": "自宅録音や配信環境を整えるため、防音・吸音パネルとマイクアームを組み合わせて選定。音の反射を抑える環境作りと、マイク位置を安定させる機材を軸に構成した。"
+}

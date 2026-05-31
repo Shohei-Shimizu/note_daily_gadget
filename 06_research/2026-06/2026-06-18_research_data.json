@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-18",
+  "title": "画質で差をつける。4K 対応の「ハイエンド Web カメラ」 6 選",
+  "queries": [
+    {
+      "query": "OBSBOT Tiny 2 4K Webカメラ",
+      "include": [
+        "OBSBOT",
+        "Tiny 2"
+      ]
+    },
+    {
+      "query": "Insta360 Link 2 4K Webカメラ",
+      "include": [
+        "Insta360",
+        "Link 2"
+      ]
+    },
+    {
+      "query": "Logitech MX Brio 4K Webカメラ",
+      "include": [
+        "MX Brio"
+      ]
+    },
+    {
+      "query": "Razer Kiyo Pro Ultra 4K Webカメラ",
+      "include": [
+        "Kiyo Pro Ultra"
+      ]
+    },
+    {
+      "query": "Elgato Facecam Pro 4K",
+      "include": [
+        "Facecam Pro"
+      ]
+    },
+    {
+      "query": "AnkerWork C310 4K Webカメラ",
+      "include": [
+        "AnkerWork",
+        "C310"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "OBSBOT TINY 2 Lite Webカメラ 4K ウェブカメラ AI搭載 自動追跡 4800万画素 HDR 位相差検出AF フィルター加工 ノイズ低減 会議 ライブ配信 ビデオ通話 PC Mac Windows",
+      "url": "https://www.amazon.co.jp/dp/B0CZ6XY78Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31VP0ctn9GL._SL500_.jpg",
+      "features": [
+        "【コスパ高いモデル】TINY 2 LiteはOBSBOT TINYシリーズ優れなAI機能を引き継ぐ、価格と機能のバランスがとれたWebカメラです。2軸ジンバル構造より、視野角度制限によるカメラの位置調整は必要せず、ワンクッション画面調整ができます。リモート会議・プレゼント発表・ライブ配信などのニーズに応じて、強力なAIが自動で画角を調整でき、臨場感あふれる映像を体感できます。",
+        "【卓越した4K画質】1/2 インチのCMOSセンサーを搭載し、48MP画素でUltra HD 4K解像度の滑らかかつ鮮明な画質でライブ配信を行います。明暗差画が大きい照明環境でもきれいな映像で配信できます。また、一眼レフで最もよく使われているPDAFという高速自動フォーカス技術を採用しており、素早くピントを合わせることができます。",
+        "【自由度高い設置】片手で収めるコンパクトサイズと約91グラムの重さで、持ち運びと設置もしやすくなります。天井下がり・横置きの場合、画幅が自動的に上下または横縦回転します。USBケーブル1本で差し込みだけ、即座利用できます。",
+        "【実用性高める専用ソフト】OBSBOT Centerで解像度・ズームなどの細かい画質に関すパラメータ調整ができます。スリップ状態でのお知らせ写真もカストマイズでき、背景ぼしか・フィルター加工・ビューティーモードも備えております。",
+        "【分かりやすい直感操作】カメラの向きを変更することで、スリップ状態のオン・オフができます。プレゼン発表会などカメラと離れたとき、カメラに向け、特定の手ポーズを出すと、追跡対象の登録・解除、ズーム調整は簡単に行います。"
+      ],
+      "query": "OBSBOT Tiny 2 4K Webカメラ",
+      "asin": "B0CZ6XY78Y"
+    },
+    {
+      "title": "Insta360 Link 2 Webカメラ 4K ウェブカメラ PTZ 1/2インチセンサー AI追跡 ジンバル搭载 HDR AIノイズキャンセリング マイク付き 配信 ビデオ通話 会議用 Zoom Teams Twitchに対応 PC/Windows/Mac用",
+      "url": "https://www.amazon.co.jp/dp/B0DDTH3HX8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31q9st-QxJL._SL500_.jpg",
+      "features": [
+        "互換性：Microsoft Teams、Zoom、Twitchなど、主要なビデオ会議ソフトやライブ配信プラットフォームに完全対応。ハードウェアに関する注意：現在、ARMベースのWindowsシステムおよびWindows Hello顔認証には対応していません。 *ARMベースのWindowsデバイスおよびWindows Hello顔認証には対応していません。 **表示されているソフトウェアはInsta360 Linkデバイスとの互換性を示すものであり、Insta360との提携・関係性を示すものではありません。 その他"
+      ],
+      "query": "Insta360 Link 2 4K Webカメラ",
+      "asin": "B0DDTH3HX8"
+    },
+    {
+      "title": "ロジクール ウェブカメラ MX BRIO 700 C1100GR 4K Webカメラ usbカメラ 自動光補正 プライバシーシャッター USB Type-C ノイズ軽減ステレオマイク Sony Starvis センサー搭載 パソコン カメラ マイク PC Windows Mac Chrome C1100 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0CVZW78XW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31MO34WBGhL._SL500_.jpg",
+      "features": [
+        "フラッグシップモデル「MXシリーズ」から初のウェブカメラが登場／4K対応の高画質と高機能の最上位モデル「MX BRIO 700」",
+        "4K対応の高画質と高度なAI技術により鮮明でクリアな映像を実現",
+        "デュアルビームフォーミングマイク搭載でノイズを低減したクリアで明瞭な音質",
+        "ロジクール無料アプリケーション「Logi Options+」「Logicool G HUB」に対応／色味や視野角などを自分好みにカスタマイズ可能",
+        "対応OS:Windows 10 以降、macOS 10.15、ChromeOS、Linux"
+      ],
+      "query": "Logitech MX Brio 4K Webカメラ",
+      "asin": "B0CVZW78XW"
+    },
+    {
+      "title": "Razer Kiyo Pro Ultra - ゲーミング カメラ - コンテンツ制作のための超大型センサー搭載 4K ウェブカメラ",
+      "url": "https://www.amazon.co.jp/dp/B0CT6FFK4R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/413NnHzV0CL._SL500_.jpg",
+      "features": [
+        "デジタル一眼レフのような4K品質 — 2.9μmのピクセルサイズの大きなセンサーを特徴とするKiyo Pro Ultra、1/1.2インチのSony STARVIS 2センサーは、各ピクセルでより多くの光と画像データをキャプチャし、プログレードのコンテンツ作成とストリーミングのための卓越したディテールと色を実現します。",
+        "どんな光でも鮮明さ — センサーの潜在能力を最大限に引き出すために、ウェブカメラにはカスタムF/1.7絞りレンズが取り付けられており、大量の光を取り込み、暗い場所でもクリアで鮮明な画像を提供します。",
+        "AI搭載のビデオイメージング — 顔を追跡して安定した焦点を保持できるだけでなく、顔を完全に露出させるために光のレベルを自動的に調整するウェブカメラで、常にシャープで明るい状態を保ちます。",
+        "ポートレートモードのような品質 — このレンズは、ソフトウェアを必要とせずに、焦点を合わせたまま、背景を巧みにぼかし、すべてのショットに深みと寸法の感覚を加えます。",
+        "リアルな色 — 30 FPSのHDRテクノロジーにより、最も暗い色や最も明るい色調でも色をポップにすることで、視覚的なディテールと質感を追加できます。露光量の上や露出不足の部分を修正しながら、ウェブカメラの照明とコントラストを自動的に調整します。",
+        "ピュアで圧縮されていない光学機器 — 最先端のプロセッサを搭載。ウェブカメラは、生の4K 30 FPS映像を非圧縮の4K 24FPS、1440P 30 FPS、または1080P 60 FPSビデオをライブストリームに直接変換できます。",
+        "高度なカメラのカスタマイズ — カスタマイズ可能な設定の包括的な選択からショットを微調整および微調整します。 最後に保存した設定のために、オンボードメモリでどこでも撮影できます。",
+        "互換性 — Windows向けに最適化されており、高度な設定を完全にソフトウェアで制御でき、MacOSとプラグアンドプレイで基本的なビデオキャプチャが可能です(ソフトウェア/高度な機能はサポートされていません)。"
+      ],
+      "query": "Razer Kiyo Pro Ultra 4K Webカメラ",
+      "asin": "B0CT6FFK4R"
+    },
+    {
+      "title": "Anker AnkerWork C310 ウェブカメラ、4Kウェブカメラ、1200万画素、AIオートフォーカス、AIフレーミング、AIノイズキャンセリングマイク、内蔵プライバシーカバー、調節可能なFOV、1080p@60FPS HDR、ビデオ通話やライブストリーム用",
+      "url": "https://www.amazon.co.jp/dp/B0CCY8RBJD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41e7iSQiX2L._SL500_.jpg",
+      "features": [
+        "【12MP 4Kディスプレイ】4K解像度と1200万画素ディスプレイは、詳細で高精細でリアルな画像を提供し、会議を次のレベルに引き上げます。",
+        "【ロスレス高速伝送】このストリーミングウェブカメラはUSB3.0技術とYUVエンコーディングを採用し、高速1080p@60FPS伝送を実現します。 これにより、ライブストリームがよりスムーズに、より本物に近いものになります。",
+        "【AIパワー機能】AIオートフォーカス、AIフレーミング、デュアルマイクAIノイズキャンセリングを組み合わせて、サウンドとディスプレイをリアルタイムで自動最適化します。",
+        "【内臓プライバシーカバー】会議が終わったら、カバーを閉めるだけでプライバシーが完全に保護されます。",
+        "1080p@60FPS HDR ウェブカメラ:f/2.0口径と1/2.5インチセンサーを備えたC310モニター用ウェブカメラは、さまざまな環境光条件に適応し、明るさのバランスを取り、暗い光をクリアしてリアルな画像、色、環境を実現します。"
+      ],
+      "query": "AnkerWork C310 4K Webカメラ",
+      "asin": "B0CCY8RBJD"
+    },
+    {
+      "title": "Dell デジタル Webカメラ WB7022 4K 800万画素 HDR 3D/2Dノイズリダクション AIオートフレーミング 3年保証",
+      "url": "https://www.amazon.co.jp/dp/B098NF6K7G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Hy2w30iGS._SL500_.jpg",
+      "features": [
+        "[センサー]IR LEDセンサー,近接センサー,マルチエレメントレンズ及び大型4K Sony STARVISセンサー [データポート]USB3.1Gen1(USB-C)*1",
+        "[視野角]65/78/90度 [フォーカス]自動 [ズーム]5倍デジタルズーム [自動ライト補正]HDRおよび自動ホワイトバランス,ビデオノイズリダクション",
+        "[ストリームビデオ出力]H.264,MJPEGエンコードエンジン [サポートするビデオ形式]4K UHD(24/30fps),FHD(24/30/60fps),HD(24/30/60fps) [サポートOS]Windows 10 64bit,Mac OS [マイク]なし",
+        "[製品本体サイズ]直径42mm*長さ90mm [付属マウントサイズ]幅32mm*奥行き65mm*高さ9.4mm",
+        "[内容物]Dell WB7022 Webカメラ本体,Webカメラマウント,USB-C to USB-Aケーブル(2m),三脚アダプター,レンズキャップ/プライバシーフィルター(磁気式),ユーザードキュメント"
+      ],
+      "query": "Dell UltraSharp WB7022 4K Webカメラ",
+      "asin": "B098NF6K7G",
+      "editorial_reason": "4K対応の高画質Webカメラとして、会議や配信で画質を重視する読者向けに採用。"
+    }
+  ],
+  "all_candidates": [],
+  "editorial_summary": "ビデオ会議や配信の画質を上げたい読者向けに、4K対応・AI追尾・大型センサー・高画質補正を備えたWebカメラを選定。会議、配信、講義収録で使い分けられる構成にした。"
+}

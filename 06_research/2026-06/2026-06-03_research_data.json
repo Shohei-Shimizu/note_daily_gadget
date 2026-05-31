@@ -1,0 +1,161 @@
+{
+  "date": "2026-06-03",
+  "title": "布団をふかふかに。ジメジメを解消する「スマート除湿機」 6 選",
+  "queries": [
+    {
+      "query": "アイリスオーヤマ 布団乾燥機 カラリエ FK-W2",
+      "include": [
+        "アイリスオーヤマ",
+        "布団乾燥機"
+      ]
+    },
+    {
+      "query": "パナソニック ふとん乾燥機 FD-F06A7",
+      "include": [
+        "パナソニック",
+        "ふとん乾燥機"
+      ]
+    },
+    {
+      "query": "象印 ふとん乾燥機 RF-UA10",
+      "include": [
+        "象印",
+        "ふとん乾燥機"
+      ]
+    },
+    {
+      "query": "シャープ 衣類乾燥除湿機 CV-R60",
+      "include": [
+        "シャープ",
+        "除湿"
+      ]
+    },
+    {
+      "query": "コロナ 衣類乾燥除湿機 CD-P63A",
+      "include": [
+        "コロナ",
+        "除湿"
+      ]
+    },
+    {
+      "query": "山善 衣類乾燥除湿機 YDC-C60",
+      "include": [
+        "山善",
+        "除湿"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "アイリスオーヤマ 布団乾燥機＋衣類乾燥袋 FK-W2-W FK-CDBM",
+      "url": "https://www.amazon.co.jp/dp/B0DZH6476C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31w+JiO3TSL._SL500_.jpg",
+      "features": [
+        "≪ふとん乾燥機 ツインノズル FK-W2-W ホワイト≫●商品サイズ(cm)（ホース折りたたみ時）：幅約16.6×奥行約19.6×高さ約32●商品質量：約2.4kg",
+        "電源：AC100V（50/60Hz共用）●消費電力（高温風時）：760W●タイマー：15・30・45・60・75・90・120・180分●コードの長さ：約1.9m",
+        "安全装置：温度センサー、サーモスタット、温度ヒューズ●主要材質：ABS樹脂、ポリプロピレン●付属品：くつ乾燥アタッチメント×2",
+        "≪衣類乾燥袋 FK-CDB-M 布団乾燥機対応 スピード乾燥≫●商品サイズ（ｃｍ）：幅約17×奥行約2.5×高さ約25●質量：約78g",
+        "▼使用上の注意●対応ふとん乾燥機：アイリスオーヤマ カラリエシリーズ●衣類の種類や量によって乾燥時間が異なります。様子を見ながら温風温度と時間を設定してください。"
+      ],
+      "query": "アイリスオーヤマ 布団乾燥機 カラリエ FK-W2",
+      "asin": "B0DZH6476C"
+    },
+    {
+      "title": "パナソニック 布団乾燥機 ふとん乾燥機 靴乾燥機 ダニ退治 マットタイプ ブルーシルバー FD-F06A7-A",
+      "url": "https://www.amazon.co.jp/dp/B01JIVV25S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31leeKbRwkL._SL500_.jpg",
+      "features": [
+        "マット使用でふとんをふんわり乾燥",
+        "くつも乾燥できる。",
+        "付属品 :マット、くつ乾燥アタッチメント",
+        "乾燥しづらい敷きふとんに直接、温風が届くことで、全体にムラなくしっかりと乾燥します。",
+        "取っ手にメタリック色採用で上質感UP"
+      ],
+      "query": "パナソニック ふとん乾燥機 FD-F06A7",
+      "asin": "B01JIVV25S"
+    },
+    {
+      "title": "象印マホービン ふとん乾燥機 グレー RF-UA10-HA",
+      "url": "https://www.amazon.co.jp/dp/B0CD3LG6NN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41csAVct22L._SL500_.jpg",
+      "features": [
+        "マット&ホース不要で使いやすい、象印ならではのふとん乾燥機"
+      ],
+      "query": "象印 ふとん乾燥機 RF-UA10",
+      "asin": "B0CD3LG6NN"
+    },
+    {
+      "title": "シャープ 衣類乾燥 除湿機 CV-R60-W ホワイト 5.6L/日 プラズマクラスター 7000 デシカント方式 省スペース コンパクト スピーディー除湿 消臭",
+      "url": "https://www.amazon.co.jp/dp/B0D5H9D7ST?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/210oEIstIRL._SL500_.jpg",
+      "features": [
+        "衣類乾燥時間（2kg）：約99分（梅雨時）/約109分（冬季）",
+        "プラズマクラスター適用床面積（目安）：約8畳（約13m²）",
+        "定格除湿能力（50Hz/60Hz）：5.4/5.6 L/日",
+        "衣類乾燥1回あたりの電気代目安：約28円（梅雨時）/約32円（冬季）",
+        "センサー：温度/湿度"
+      ],
+      "query": "シャープ 衣類乾燥除湿機 CV-R60",
+      "asin": "B0D5H9D7ST"
+    },
+    {
+      "title": "CORONA(コロナ) 衣類乾燥除湿機 【日本生産】 除湿量6.3L(木造7畳・鉄筋14畳まで) コンプレッサー式 切タイマー付 ホワイト CD-P63A3(W)",
+      "url": "https://www.amazon.co.jp/dp/B0GKF7PS8Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21+vuPgYATL._SL500_.jpg",
+      "features": [
+        "【強力除湿＆広範囲対応】 最大6.3L/日（60Hz）の確かな除湿能力で、リビングから寝室までしっかり除湿。鉄筋住宅なら最大14畳まで対応し、梅雨のジメジメや冬の結露対策にこれ一台で家中をカラッと快適に保ちます。",
+        "【部屋干しの悩みを解消】 2kg相当の洗濯物なら約173分で乾燥完了。長時間の部屋干しによる「生乾き臭」が発生する前に乾き切るため、年中清潔で快適な衣類ケアが可能です。",
+        "【大容量3.5Lタンクで手間を削減】 コンパクトながら3.5Lのたっぷり排水タンクを搭載。頻繁な水捨ての負担を軽減し、長時間の連続運転をサポートします。溜まった水も捨てやすい設計で、日々の使い勝手を追求しました。",
+        "【スピード衣類乾燥で生乾き臭を防止】 効率的な除湿で洗濯物を素早く乾燥。外に干せない雨の日や花粉の季節も、部屋干し特有の嫌なニオイを抑えて清潔に仕上げます。急ぎの衣類がある時にも頼れる一台です。",
+        "【商品仕様】◇本体サイズ:高さ515×幅220×奥行330mm ◇本体重量:7.7kg ◇定格除湿能力(L/日):5.6/6.3(50Hz/60Hz) ◇除湿可能面積の目安(50Hz/60Hz):プレハブおもに11畳 木造7～鉄筋14畳(12～23㎡)/プレハブおもに12畳 木造8～鉄筋16畳(13～26㎡) ◇運転音:衣類乾燥 38/36dB(50Hz/60Hz) ◇排水タンク容量:3.5L ◇電源コード長さ:1.8m ◇電気代の目安(50/60Hz):除湿時・衣類乾燥時ともに5.0/5.6円/h※電力料金目安単価 31円/kWh(税込)[2022年7月改定]にて試算"
+      ],
+      "query": "コロナ 衣類乾燥除湿機 CD-P63A",
+      "asin": "B0GKF7PS8Z"
+    },
+    {
+      "title": "[山善] 衣類乾燥除湿機 除湿量 6.0L (木造7畳 / 鉄筋14畳まで) タイマー オートオフ機能付き ホワイト YDC-C60(W)",
+      "url": "https://www.amazon.co.jp/dp/B07RZJD2LC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31zcMB6cROL._SL500_.jpg",
+      "features": [
+        "本体サイズ:幅27.6×奥行18.5×高さ48cm",
+        "電源:100V(50/60Hz)",
+        "消費電力:150/180W(50/60Hz)",
+        "定格除湿能力:5.0/6.0L/日(50/60Hz)※室温27℃、相対湿度60%",
+        "水タンク容量:約2.0L",
+        "電源コード長:約1.8m",
+        "本体重量(kg):9.5"
+      ],
+      "query": "山善 衣類乾燥除湿機 YDC-C60",
+      "asin": "B07RZJD2LC"
+    }
+  ],
+  "all_candidates": [],
+  "editorial_summary": "梅雨時期の寝具まわりの湿気対策として、布団乾燥機と除湿機を組み合わせて選定。布団を乾かす即効性、部屋全体の除湿、衣類乾燥にも使える汎用性を軸に構成した。"
+}

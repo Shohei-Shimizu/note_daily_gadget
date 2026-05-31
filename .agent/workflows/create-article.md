@@ -26,11 +26,11 @@ description: 記事の自動生成フロー（検索・執筆・サムネイル�
      - `category` はファイル内の既存カテゴリを参考に必ず設定する（生成漏れ厳禁）。
    - **schedule更新**: `03_schedule/schedule_2026.md` の該当タイトルを `~~打ち消し線~~` で囲む。
 
-3. **サムネイルプロンプト生成 & Pencilフレーム配置**
-   - `.agent/skills/generete-thumbnail/SKILL.md` のルールに従い、記事内容に合ったサムネイル画像生成用プロンプトを3パターン以上作成する。
-   - `04_thumbnail/YYYY-MM/pencil-new.pen` を開き、既存ブロックの右側にフレーム（1200×628）＋プロンプトを配置する。
-   - 月初でファイルが存在しない場合は、新しい月のディレクトリと `.pen` ファイルを新規作成する。
-   - ※画像生成自体は外部ツール（DALL-E、Midjourney等）で別途行う。
+3. **サムネイル画像生成**
+   - `.agent/skills/generete-thumbnail/SKILL.md` のルールに従い、記事内容に合ったサムネイル画像をCodexの `imagegen` で生成する。
+   - リサーチデータの商品カテゴリ、外観、利用シーンを反映し、文字やロゴを含まない実写風の横長画像にする。
+   - 生成画像は `04_thumbnail/YYYY-MM/YYYY-MM-DD_短いテーマ名.png` に保存する。
+   - 完了時に、対象記事タイトルと保存先パスを明示する。
 
 4. **後処理**
    - 一時ファイル `05_script/temp_products.json` を削除する。

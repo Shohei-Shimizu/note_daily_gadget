@@ -1,0 +1,165 @@
+{
+  "date": "2026-06-23",
+  "title": "360 度どこでもいい音。高解像「ポータブルスピーカー」 6 選",
+  "queries": [
+    {
+      "query": "Soundcore Motion X600 ハイレゾ ポータブルスピーカー",
+      "include": [
+        "Motion X600"
+      ]
+    },
+    {
+      "query": "Bose SoundLink Max ポータブルスピーカー",
+      "include": [
+        "SoundLink Max"
+      ]
+    },
+    {
+      "query": "Sony ULT FIELD 3 ポータブルスピーカー",
+      "include": [
+        "ULT FIELD"
+      ]
+    },
+    {
+      "query": "JBL Charge 6 ポータブルスピーカー",
+      "include": [
+        "Charge 6"
+      ]
+    },
+    {
+      "query": "Marshall Emberton III ポータブルスピーカー",
+      "include": [
+        "Emberton III"
+      ]
+    },
+    {
+      "query": "Sonos Roam 2 ポータブルスピーカー",
+      "include": [
+        "Roam 2"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": [],
+    "manual_completion": [
+      {
+        "query": "Bang Olufsen Beosound A1 3rd Gen ポータブルスピーカー",
+        "asin": "B0FFS2ZTNP",
+        "reason": "初回検索で予定数に満たなかったため、PA-APIで追加取得して補完。"
+      }
+    ]
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Anker Soundcore Motion X600 Bluetoothスピーカー【空間オーディオ/ハイレゾ音源再生 / 50W出力 / IPX7防水規格 / 最大12時間再生 / Proイコライザー機能/AUX対応】ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0DQ59DMNP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/315JbIDpJIL._SL500_.jpg",
+      "features": [
+        "驚くほどの立体感、「空間オーディオ」技術：Anker独自の空間オーディオアルゴリズムと、5つのドライバーにより、空間全体を包み込むような立体音響を実現しました。",
+        "ハイレゾ音源再生にまで対応：LDACコーデックを搭載し、通常のSBCコーデックと比較し、最大約3倍の情報量を送信することが可能なため、ワイヤレス接続でも原音に近いクリアな音楽を再現。",
+        "こだわりを尽くした、洗練されたデザイン：高級感を演出する、3Dメタルメッシュを採用。シンプルで洗練された、デザインのため室内のインテリアとしても使用可能です。",
+        "細やかな音質調整を可能にするProイコライザー機能：Soundcoreアプリのイコライザー機能が進化。音楽をさらに好みに合わせて聴くことができるよう、細かな周波数帯のカスタマイズが可能になりました。",
+        "パッケージ内容：Motion X600、USB-C & USB-C ケーブル、クイックスタートガイド、安全マニュアル、カスタマーサポート"
+      ],
+      "query": "Soundcore Motion X600 ハイレゾ ポータブルスピーカー",
+      "asin": "B0DQ59DMNP"
+    },
+    {
+      "title": "Bose SoundLink Max Portable Speaker 大型 Bluetooth ポータブル スピーカー ワイヤレス 防水 最長20時間連続再生 USB-C 3.5 mm AUX入力対応 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D5HS9YK1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41FyxQrrdgL._SL500_.jpg",
+      "features": [
+        "深みを極めた重低音、大迫力サウンドを実現：グループのメインDJでも、自慢のプレイリストを持つ音楽ファンでも、この大型Bluetoothワイヤレススピーカーなら、奥行きのある豊かな重低音でパーティームードを最高潮に盛り上げることができます。",
+        "最高のサウンドでいつでもどこでもムードは最高潮：ソフトな質感の着脱式クライミングロープハンドル付きで、パーティーや外出先など、ボーズ bluetoothポータブルスピーカーならどこへでも簡単に持ち運ぶことができます。",
+        "防水・防塵仕様：誤って落としてしまったり、突然の雨に濡れてしまったりなどのハプニング時も安心。この防塵・防水の大型BluetoothワイヤレススピーカーはIP67規格準拠に加えて、衝撃や錆にも強い設計です。",
+        "20時間の長寿命バッテリー*：この大型ポータブルBluetoothワイヤレススピーカーは、最長20時間の連続再生が可能*なため、パーティー中もバッテリー残量を気にすることなくお気に入りの音楽を昼も夜も楽しむことができます。",
+        "スマートフォンの充電もカバー：背面に搭載されたUSB-Cポートを使えば、スピーカー内蔵のバッテリーでデバイスを充電することができます。このワイヤレススピーカー、Bose SoundLink Max Bluetooth Speakerのバッテリー残量があれば、デバイスのバッテリー切れを心配する必要はありません。",
+        "AUX入力対応：この大型スピーカー、Bose SoundLink Max Portable Speakerは3.5 mm AUX入力に対応。ターンテーブル、CD・ MP3プレーヤーなどに有線接続して、音楽を再生できます。",
+        "リスニング体験をパーソナライズ：ボーズアプリ内のイコライザー設定で低、中、高音域のレベルを簡単に調整可能。あなた好みのサウンドにこのBluetoothスピーカーをパーソナライズできるだけでなく、バッテリー寿命の確認、接続されたデバイスの管理も行うことができます。"
+      ],
+      "query": "Bose SoundLink Max ポータブルスピーカー",
+      "asin": "B0D5HS9YK1"
+    },
+    {
+      "title": "ソニー(SONY) ULT FIELD 3 Bluetoothスピーカー パワフル重低音 クリアなボーカル ロングバッテリー24時間 ショルダーストラップ 防水 防塵 SRS-ULT30 BC ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0F32D3NPX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41kNAAQ7P2L._SL500_.jpg",
+      "features": [
+        "片手で持ち運べるスリムなボディが奏でるダイナミックな重低音",
+        "パワフルでクリアなサウンド",
+        "周囲の騒音を検知し自動で調整　音場最適化機能",
+        "お風呂でも使える安心の耐久性",
+        "約24時間再生可能なバッテリー"
+      ],
+      "query": "Sony ULT FIELD 3 ポータブルスピーカー",
+      "asin": "B0F32D3NPX"
+    },
+    {
+      "title": "JBL CHARGE 6 / ポータブルスピーカー/Bluetooth対応 / IP68 防塵防水/USB-C/アプリ対応/モバイルバッテリー機能/ハンドストラップ付属/AURA CAST マルチスピーカー接続/ブラック / JBLCHARGE6BLK",
+      "url": "https://www.amazon.co.jp/dp/B0F1MZ88ML?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31RjqQTUoxL._SL500_.jpg",
+      "features": [
+        "改良されたウーファーユニットにより、更に進化したサウンドと深い低域再生を実現",
+        "ハンドストラップを同梱し、持ち運びにも最適",
+        "IP68 防塵防水&衝撃への耐性を高めたアウトドア利用にも耐えるタフな設計",
+        "USB–C経由でのオーディオ再生やAuracastでのステレオペアリングなど、より音楽を楽しめる機能を搭載",
+        "スマートフォン等への給電が可能なモバイルバッテリー機能を搭載。スピーカー構成：53 x 93mmウーファー + 20mmツイーター"
+      ],
+      "query": "JBL Charge 6 ポータブルスピーカー",
+      "asin": "B0F1MZ88ML"
+    },
+    {
+      "title": "Marshall ワイヤレスポータブル防水スピーカー Emberton III ブラック&ブラス 連続再生32時間/IP67防水仕様/小型/急速充電 【国内正規品】",
+      "url": "https://www.amazon.co.jp/dp/B0DFHH1N33?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ych-6N1gL._SL500_.jpg",
+      "features": [
+        "【マーシャル・シグネチャーサウンド】Emberton IIIは、リッチでパワフルなMarshallシグネチャーサウンドを届けます。ダイナミックラウドネス機能により、音量を調整するたびに周波数が適正に調整され、トーンバランスが常に適切に保たれます。前モデルよりもさらに大きな低音を備え、大音量でこそ真価を発揮します。",
+        "【ステレオフォニック】Marshall独自のマルチディレクショナルサウンドの一形態であるトゥルーステレオフォニックを搭載。Marshall製品でしか体験できない優れた空間音響とバイノーラルサウンドが周囲を包み込み、完全な360°サウンドでどんな空間も音楽で包み込みます。",
+        "【最大約32時間連続再生】1回の充電で最大約32時間の音楽再生が可能です。コンパクトなサイズ、耐久性、そして信頼性のある再生時間により、外出時に必携のアイテムとなります。バッテリーが切れても、わずか2時間でフル充電が完了します。急速充電に対応しており、わずか20分の充電で約6時間の再生が可能なため、すぐにリスニングセッションを再開できます。",
+        "【防塵防水仕様】シリコン製の外装と堅牢な金属グリルを備え、激しい雨にも耐えうる頑丈なデザインです。Emberton IIIは水にも強く、IP67の防塵・防水性能を持ち、水深1メートル（約3フィート）までの水中に最大30分間沈めても問題ありません。",
+        "【マイク内蔵】音楽が第一ですが、生活は慌ただしいものです。Emberton IIIには内蔵マイクが搭載されており、クリアなハンズフリー通話が簡単にできます。音楽を楽しんでいる最中でも、通話を受けることができます。"
+      ],
+      "query": "Marshall Emberton III ポータブルスピーカー",
+      "asin": "B0DFHH1N33"
+    },
+    {
+      "title": "バング・アンド・オルフセン (Bang & Olufsen) ポータブルスピーカー Beosound A1 3rd Gen Warm Granite Bluetooth ワイヤレス IP67認定 防水・防塵 ビデオ会議 24時間再生",
+      "url": "https://www.amazon.co.jp/dp/B0FFS2ZTNP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41w6gASIkuL._SL500_.jpg",
+      "features": [
+        "【出荷元・販売元 Amazon.co.jp】から購入された製品のみ、メーカー保証2年となります。B&Oアプリで製品登録をするとさらに3年延長され合計5年の保証になります。",
+        "パンチの効いた全指向性のTrue360サウンドで未だかつてない至福のサウンドを楽しめます。さらにA1 3rd GEN同士はもちろんのこと、A1 2nd Genともステレオペアリングが可能です。先代モデルに比べて低音再生能力が62→64dbに強化されました。3つの内蔵マイクによりクリアな通話で、オンライン会議やハンズフリー通話もご利用いただけます。Multipoint機能を使えば、スマホを2台まで繋げて曲のコントロールを行えます。",
+        "耐久性に優れた持ち運びやすさの観点から、滑らかで柔らかな形を意識したデザインです。新たにコンパクトになったストラップロックを採用しました。",
+        "もっと遠くに出かけよう。もっと長時間音楽を流そう。パワフルなバッテリーとお洒落でより軽量のデザインで、音楽をお供に新たなアドベンチャーに出かけましょう。通常の音量で合計最大24時間のオーディオ再生が楽しめるポータブルスピーカーです。",
+        "耐久性に優れた Beosound A1 3rd Genは、IP67準拠の防水/防塵仕様です。ビーチからバスタブまでどこへ連れて行っても、さらには間違って落としてしまっても、このBluetoothスピーカーは音楽を流し続けます。"
+      ],
+      "query": "Bang Olufsen Beosound A1 3rd Gen ポータブルスピーカー",
+      "asin": "B0FFS2ZTNP"
+    }
+  ],
+  "all_candidates": []
+}

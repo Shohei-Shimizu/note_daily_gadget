@@ -1,0 +1,169 @@
+{
+  "date": "2026-06-17",
+  "title": "編集作業を爆速化。左手で操る「編集コントローラー」 6 選",
+  "queries": [
+    {
+      "query": "TourBox Elite 左手デバイス",
+      "include": [
+        "TourBox",
+        "Elite"
+      ]
+    },
+    {
+      "query": "Loupedeck Live S 編集 コントローラー",
+      "include": [
+        "Loupedeck"
+      ]
+    },
+    {
+      "query": "Elgato Stream Deck +",
+      "include": [
+        "Stream Deck"
+      ]
+    },
+    {
+      "query": "Xencelabs Quick Keys 左手デバイス",
+      "include": [
+        "Xencelabs",
+        "Quick Keys"
+      ]
+    },
+    {
+      "query": "Contour ShuttlePRO v2 編集 コントローラー",
+      "include": [
+        "ShuttlePRO"
+      ]
+    },
+    {
+      "query": "8BitDo Retro Mechanical Numpad 左手デバイス",
+      "include": [
+        "8BitDo",
+        "Numpad"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "TourBox Elite Plus、iPad左手デバイス Bluetooth 片手デバイスとして創作をスマートに操る統合型コントローラー 動画編集・写真編集・イラスト制作に最適 触覚フィードバック搭載 Procreate Photoshop Lightroom DaVinci Resolve Mac/Windows/Android対応（アイストランスルーセント）",
+      "url": "https://www.amazon.co.jp/dp/B0DR2MHF2L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31WXTo85LKL._SL500_.jpg",
+      "features": [
+        "【スマート・統合操作・オールインワン】ソフトウェアごとにショートカットを覚え直す必要はありません。TourBox Elite Plusは、iPadOS、Android、macOS、Windows、各システムの主要クリエイティブアプリ全てに対応し、一致する操作ロジックを提供します。一度設定すればすぐ使える。学習も作業も効率最大化。",
+        "【クリエイティブワークフローを再構築】業界での7年にわたる実績と進化。片手デバイスTourBoxはデジタルペインティング、写真編集、動画編集のワークフローを再構築しました。お絵描き、アニメーション制作、画像編集・加工、音楽、ビデオ編集、グラフィックデザイン、Live2D、3Dモデリングなどに最適。",
+        "【ソフトウェアの機能をディープマッピング】TourBox Elite PlusではCLIP STUDIO PAINT、Procreate、Premiere Pro、Lumafusion、Photoshop、Lightroom Classic向けの初期プリセットを搭載。さらに専用のビルトインによってMediBang Paint、Artstudio、Davinci Resolve、After Effects、PowerDirector、Filmora、FCPX、Illustrator、Affinity Designerのようなソフトも自在に操作できます。",
+        "【TourBox “Hardware + Software” 】 左手ツール「TourBox Elite Plus」では、最新ソフト＆ハードをサポート。基本から応用までフルカバーします。基本操作：ノブとボタンの組み合わせでキーボードやマウスクリックを実現。プロレベル：プロユーザー向けに、AdobeやDaVinciなどの直感的なプリセットコマンドを搭載。カスタマイズ：視覚的に設定できるマクロ機能、HUD、ビルトインライブラリ、カーソル調整、マウスドラッグシミュレートなどのカスタムに対応。",
+        "【For Creators, By Creators】世界中で30万人以上のユーザーが片手キーボードTourBoxを使用しています。98％のユーザーが1週間で操作を習得。ユーザーからのフィードバックを積極的に採用し、これまでに50回以上のソフトウェアアップデートを実施しています。*一般的なショートカットデバイスと違って、TourBoxは持続的なアップデートを行い、続々と新機能を追加しています。",
+        "【世界中のクリエイターとプリセットをシェア】TourBox Elite PlusはCLIP STUDIO PAINT （クリスタ）、PaintTool SAI、Final Cut Pro、Premiere Proなどメジャーなソフト向けの初期プリセットを用意してあります。自分で割り当てる必要がなく、すぐに使用可能です。ユーザーコミュニティにはユーザー制作のプリセットも豊富にそろっているので、初心者でもトップレベルのクリエイターのワークフローを体験できます。",
+        "【NO.1左手デバイス】WindowsPC、Macbook、液タブ、板タブ、マウスに対応。左右の手をバランスよく使える設計により、イラスト制作、動画編集、画像編集の効率を大幅に向上させます。特にTourBox Elite Plusを使用しての描画効率は170%アップで、お絵描きがより手軽に。最新の軌跡アルゴリズムによって操作の精度も上がり、ペンタブレットを使用する際の両手のストローク量は60%減少、疲労軽減にも繋がります。左利きでも右利きでも使いやすいようにノブを配置しています。",
+        "【ご注意：対応OS】iPadOS 13以降、Android 12以降、macOS 10.13以降、Windows 10以降（64ビット対応）※iOS（iPhone）、Linuxには対応していません。",
+        "※同梱内容：Elite Plus 本体、単三電池2本 (1.5V)、クイックスタートガイドが含まれています。（USBケーブルや専用トラベルケース付きのアクセサリーキット入りバージョンをご希望の場合は、対応バージョンをお選びください。）"
+      ],
+      "query": "TourBox Elite 左手デバイス",
+      "asin": "B0DR2MHF2L"
+    },
+    {
+      "title": "Loupedeck Live S – 日々のPC作業や配信、コンテンツ制作を効率化するカスタムコントローラ。LEDタッチスクリーンボタンと物理ダイヤル、RGB物理ボタンを搭載【日本語対応及び日本語サポート】",
+      "url": "https://www.amazon.co.jp/dp/B0BMLQYZNF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41uJonOycwL._SL500_.jpg",
+      "features": [
+        "豊富なネイティブ対応プラグイン: OBS Studio, Streamlabs (Windows), Twitch, Ecamm, vMix, Spotify, Adobe Premiere Pro, Final Cut Pro, Photoshop 等、その他主要なストリーミング、編集用アプリケーションにAPIベースで対応し、複雑なアクションも簡単にコントロールします。各プロファイルも初期設定されており、すぐにご利用頂けます。",
+        "配信作業のコントロールセンター: 1. 配信､チャット､音声､マイク､ライティングを自在にコントロール　2. メディア､アプリケーション､WEBなど各ツールの起動　3. ダイヤル操作で編集やカラーグレーディングも瞬時に実行　4. アプリケーションやプロファイル間をストレスなく自動で切替。",
+        "充実したマーケットプレイス: 200種類を超えるプロファイルやプラグイン､アイコンやサウンドパックをダウンロードできます。Microsoft Flight Simulator, Twitch Studio, Philips Hue, Nanoleaf, Elgato, Voicemod, GoXLR, Voicemeeter, Davinci Resolve Color Panel, Notionなどの人気ツールが公開されており、日々新しいコンテンツが追加されています。",
+        "強力なカスタマイズ性: 最大14ページに及ぶタッチボタン及びダイヤルの設定が可能で、スワイプでページ間を簡単に移動。複雑なマクロコマンド(複数のアクションを一度に実行)やマルチトグル(同一ボタンで実行する毎に機能を変更)、ダイヤル調整アクションなど、数多くのアクションを作成して割り当てることができます。",
+        "直感的な操作が可能: フィードバック機能付きLEDタッチボタン、押し込み機能付きアナログダイヤル、カスタム可能なRGB物理ボタンを搭載し、直感的なコントロールを実現しました。"
+      ],
+      "query": "Loupedeck Live S 編集 コントローラー",
+      "asin": "B0BMLQYZNF"
+    },
+    {
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck +, オーディオミキサー, コンテンツクリエイターのためのライブ制作とスタジオコントローラー, ストリーミング, 配信, ゲーミング, カスタム可能なタッチストリップとダイヤルおよびLCDキー搭載, Mac/PC対応",
+      "url": "https://www.amazon.co.jp/dp/B0CDWQS6NW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31QM3pkDwDL._SL500_.jpg",
+      "features": [
+        "触覚コントロール、視覚フィードバック: LCDキー、タッチストリップ、ダイヤルでオーディオ、ビデオ、照明、その他をコントロール。コマンドが実行されたことを確認したり、ダイヤルの情報を表示できます。",
+        "100%カスタム可能: オーディオミキサー、スタジオコントローラ、プロダクションコンソールなど使用可能。",
+        "マルチアクション、スマートプロファイル: 複数のアクションを同時に、または連続してトリガ、アプリごとに指定したインターフェース構成を自動的に切り替えられます。",
+        "パワフルなプラグイン: Elgato Wave Link、Camera Hub、Control Center、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue、その他多くに対応。",
+        "Stream Deckアプリ、ストア: セットアップとカスタムインターフェースアイコンをドラッグ & ドロップ。 プラグイン、アイコン、数千もの著作権使用料無料のトラック、サウンドエフェクトなどをダウンロードできます。定期的なアップデートと、頻繁に追加される新しいプラグイン。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "query": "Elgato Stream Deck +",
+      "asin": "B0CDWQS6NW"
+    },
+    {
+      "title": "Contour ShuttlePRO v2 - マルチメディアコントローラー ジョグホイール&15個のカスタムプログラム可能なボタン付き | ビデオ、オーディオ、写真編集に最適 | Mac&PC対応 - ブラック",
+      "url": "https://www.amazon.co.jp/dp/B005VCF97Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31lvEBhiFHL._SL500_.jpg",
+      "features": [
+        "正確なコントロール:スプリング式のジョグホイールとシャトルダイヤルを使用して、自信を持って編集できます。 Premiere Pro、Final Cut、DaVinci Resolveなどのツールで、フレームごとのビデオスクラブやスムーズなタイムラインナビゲーションに最適です。",
+        "15個のプログラム可能なショートカットボタン:ショートカットとマクロを15個の触覚ボタンに割り当てることで、ワークフローをスピードアップします。 クリップをカットしたり、ツールを切り替えたり、エフェクトを即座にトリガーしたりできます。効率を重視するビデオ、オーディオ、写真編集者に最適です。",
+        "スマートアプリ検出:ShuttlePRO v2はアクティブなソフトウェアを自動検出し、適切なプロファイルに切り替えます。 手動で設定を切り替える必要がなく、クリエイティブプログラム全体のマルチタスクに最適です。",
+        "コンパクトなデザインで使いやすい:デスクの設置面積を最小限に抑えながら片手で快適にフィットします。 あらゆる作業スペースにフィットするように設計されており、指がほとんど動かないようにすべてのボタンとジョグホイールに到達し、ワークフローをスムーズかつ効率的に保ちます。",
+        "人間工学的でユーザーフレンドリーなデザイン:コンパクト、快適、左利きと右利きの両方のユーザーに適しており、長時間の編集セッションが効率的で疲れません。"
+      ],
+      "query": "Contour ShuttlePRO v2 編集 コントローラー",
+      "asin": "B005VCF97Q"
+    },
+    {
+      "title": "8BitDo レトロ 18 メカニカル テンパッド、電卓モードをサポート、Windows および Android 用 Bluetooth/2.4G/有線テンパッド - (N)",
+      "url": "https://www.amazon.co.jp/dp/B0D4QC8R4P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31KM+p4o4lL._SL500_.jpg",
+      "features": [
+        "クラシックからインスピレーションを受けています。Windows および Android と互換性があります。",
+        "2-in-1 テンキー: PC テンキー モード (Windows または Android デバイスに接続) / 標準電卓モード 。(スタンドアロン使用)",
+        "Windows 電卓アプリのショートカット ボタン。",
+        "レトロなLEDディスプレイ。独立した制御パネル。",
+        "トップマウント スタイル。ホットスワップ可能な PCB。N キー ロールオーバーをサポートします。"
+      ],
+      "query": "8BitDo Retro Mechanical Numpad",
+      "asin": "B0D4QC8R4P",
+      "editorial_reason": "テンキー型の物理ショートカット入力として、編集作業の補助デバイス枠に採用。"
+    },
+    {
+      "title": "XPPen ACK05 左手デバイス 片手キーボード 板タブ 液タブ お絵描き 最適パートナー 作業効率 イラスト制作/動画編集/ゲーム/作業効率化 Bluetooth&有線接続対応",
+      "url": "https://www.amazon.co.jp/dp/B0GJCQ42PM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/312JGb5FGfL._SL500_.jpg",
+      "features": [
+        "①最大36個のショートカットで作業効率アップ：10個のボタンと1個のダイヤルに、よく使うコマンドを自由に割り当て可能。やり直し、消しゴム、拡大縮小など、キーボード操作の手間ゼロ。イラスト制作から動画編集まで、作業スピードが格段に向上します。",
+        "②Bluetooth＆有線接続両対応：Bluetooth＆USBレシーバー＆有線ケーブルの3WAY接続に対応。デスク周りはスッキリ、ケーブルの煩わしさから解放されます。1000mAh大容量バッテリー内蔵で最大300時間の連続使用が可能。バッテリー切れを気にせず制作に没頭できます。",
+        "③設定を本体に保存。PCを変えても即座に使用：自分好みにカスタマイズした設定をデバイス本体に保存可能。自宅と職場、メインPCとサブPCなど、環境が変わっても設定し直す必要はありません。※ご注意：設定の保存・インポートは有線接続時のみ可能で、同じOS間でのみ有効です。",
+        "④驚異の互換性。他社ペンタブも各種ソフトもOK：XPPen製品はもちろん、他社メーカーのペンタブレットとも併用可能。Windows／Mac／iOS／Linux対応。Illustrator、Photoshop、Premiere Pro、CLIP STUDIO PAINTなど、あらゆるクリエイティブソフトで活躍します。",
+        "⑤クリエイター以外も大活躍：PCゲーム、動画編集、ブラウジングのスクロール、Web会議のミュート操作、Excelショートカットキーなど、幅広いシーンで使える万能デバイス。コスパ抜群の左手デバイス入門機です。",
+        "⑥わずか75gの超軽量・コンパクト設計：127×70×10mmのスマホサイズで重量は約75g。カバンに入れて持ち運びラクラク。滑り止めゴム付きで激しい操作でもズレません。保証期間は12ヶ月。"
+      ],
+      "query": "XP-Pen ACK05 左手デバイス",
+      "asin": "B0GJCQ42PM",
+      "editorial_reason": "Bluetooth対応の片手ショートカットデバイスとして、編集・制作作業の時短枠に採用。"
+    }
+  ],
+  "all_candidates": [],
+  "editorial_summary": "動画編集・画像編集・配信操作のショートカットを物理操作に置き換える左手デバイスを選定。ダイヤル、ボタン、液晶キー、プロファイル切替などで作業短縮を狙える構成にした。"
+}
