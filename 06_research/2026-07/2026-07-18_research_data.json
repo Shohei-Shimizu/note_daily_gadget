@@ -1,0 +1,190 @@
+{
+  "date": "2026-07-18",
+  "title": "ホテルや出先の Wi-Fi を中継。持ち運べる「トラベルルーター」 6 選",
+  "queries": [
+    {
+      "query": "GL.iNet GL-MT3600BE Beryl 7 トラベルルーター",
+      "include": [
+        "GL-MT3600BE",
+        "Beryl 7"
+      ],
+      "exclude": [
+        "CaseSack",
+        "ケース"
+      ]
+    },
+    {
+      "query": "GL.iNet GL-AXT1800 Slate AX トラベルルーター",
+      "include": [
+        "GL-AXT1800",
+        "Slate AX"
+      ],
+      "exclude": [
+        "CaseSack",
+        "ケース"
+      ]
+    },
+    {
+      "query": "TP-Link TL-WR802N ホテル WiFi ルーター",
+      "include": [
+        "TP-Link",
+        "TL-WR802N"
+      ],
+      "exclude": [
+        "ブラケット",
+        "ケース"
+      ]
+    },
+    {
+      "query": "エレコム ホテルルーター WRH-300BK3",
+      "include": [
+        "エレコム",
+        "WRH-300BK3"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "バッファロー トラベルルーター WMR-433W2-BK",
+      "include": [
+        "BUFFALO",
+        "WMR-433W2-BK"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "プラネックス ちびファイ4 MZK-DP300N",
+      "include": [
+        "MZK-DP300N",
+        "小型"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "GL.iNet GL-MT3600BE (Beryl 7) ポータブルトラベルルーター、ポケットWi-Fi 7ワイヤレス2.5Gルーター、ミニポータブルVPNルーターWiFi Car、Travel、Public Computer Routers、Business、Mobile/RV/Cruise/Plane用",
+      "url": "https://www.amazon.co.jp/dp/B0G57FQGLB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Pq5xJ1AVL._SL500_.jpg",
+      "features": [
+        "【デュアルバンドWiFi 7 トラベルルーター】米国、英国、EU、オーストラリアプラグ付き製品；2.4Gで688Mbps、5Gで2882Mbpsのデュアルバンドネットワーク；デュアル2.5Gイーサネットポート（1x WANポートと1x LANポート）；USB 3.0ポート。最大120台のデバイスでゲーミングとストリーミングをお楽しみください。",
+        "【ハイスピードVPNクライアント＆サーバー】最大VPN速度：1100 Mbps（WireGuard）；1000 Mbps（OpenVPN-DCO）。OpenVPNとWireGuardは事前インストール済み、30以上のVPNサービスプロバイダーに対応（アクティブなサブスクリプションが必要）。当社のポータブルWiFiデバイスで既存アカウントにログインするだけで、Beryl 7は接続ネットワーク内のすべてのネットワークトラフィックを自動的に暗号化します。*速度テストはローカルネットワークで実施されます。実際の速度はネットワーク設定に応じて異なる場合があります。*",
+        "【OpenWrt 21.02 FIRMWARE】Beryl 7 (GL-MT3600BE)は、最大限のカスタマイズと高度なネットワーク機能を備えたOpenWrt 21.02 (カーネル5.4.281)で構築された高性能Wi-Fi 7トラベルルーターです。512MBストレージ、オープンソースの自由による完全なカスタマイズとOpenWrtプラグインの柔軟なインストール機能を備えています。",
+        "【旅行に最適なポータブルWiFiルーター】Beryl 7は、理想的な国際的なワイヤレスポータブルWiFiトラベルルーターです。コンパクトなサイズと旅行に適した機能を備え、ポケットWiFiルーターは、移動中に安全なインターネット接続を必要とする旅行者にとって完璧な相棒です。旅行、ホテル、またはクルーズ船用のポータブルWiFi。",
+        "【ネットワークセキュリティを保護】他の旅行用ポータブルWiFiホットスポットデバイスと異なり、弊社のポケットWiFiはWPA3プロトコルをサポート–パスワードブルートフォース攻撃に対する予防的対策; DNS over HTTPS & DNS over TLS–ドメイン名システムトラフィックの保護と悪意のある第三者によるデータ盗聴の防止; IPv6–プライバシー保護のための組み込み認証、ネットワークアドレス変換の必要性を排除。",
+        "【VPNカスケーディングが簡単】家庭用のほとんどのVPNルーターの平均的な性能を超え、Beryl 7は同じデバイス内でVPNサーバーとVPNクライアントを同時にホストでき、ユーザーはWi-FiプリンターやローカルWebサーバーなどのローカルネットワークリソースにリモートアクセスし、VPNクライアントとして同時にパブリックインターネットにアクセスできます。",
+        "【VPNまたはAdGuard Homeを簡単に有効化】物理トグルスイッチを通じて、選択した機能（AdGuard HomeまたはOpenVPNクライアントまたはWireGuardクライアント）を即座に有効化/無効化します。*ボタンのデフォルト設定には機能はありません。この機能を使用する前に、管理パネルで設定する必要があります。*",
+        "【簡単な設定】Amazonの詳細な開梱と設定のビデオガイドを参照してください、スムーズな設定手順のために。"
+      ],
+      "query": "GL.iNet GL-MT3600BE Beryl 7 トラベルルーター",
+      "asin": "B0G57FQGLB"
+    },
+    {
+      "title": "GL.iNet GL-AXT1800(Slate AX) WiFiルーターWiFi6 無線LAN VPN トラベル デュアルバンド 11 b/g/n/ac/ax 1201Mbps (5GHz) + 574Mbps (2.4GHz) OpenVPN&wiregurad対応 日本語設定画面",
+      "url": "https://www.amazon.co.jp/dp/B0B4S2V99D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31br3NiZvgL._SL500_.jpg",
+      "features": [
+        "【 WiFi 6無線ルーター】高速Wi-Fi 6通信を実現する高性能です。2.4GHz帯（600Mbps）と5GHz帯（1200Mbps）を併用することで、最大1800Mbpsの通信速度を発揮。MU-MIMO、OFDMA、BSSカラーといった先進技術により、最大120台の同時接続時でも安定した通信環境を構築する。",
+        "【高速通信・安全セキュリティ】IPv6完全対応。OpenVPN（最大120Mbps）とWireGuard（最大550Mbps）を標準搭載し、30以上のVPNサービスとの互換性ある。Cloudflare暗号化通信により、プライバシーを強力に保護。",
+        "【手軽なファイル共有機能】外付けUSBハードディスクを接続することで、SAMBA/WebDavプロトコルに対応したNASとして運用可能。社内ネットワークや家庭内LANで、安全なファイル共有環境を構築できる。",
+        "【広告ブロック・セキュリティ機能】標準搭載のAdGuard Homeが広告やトラッカーを自動ブロック。カスタムDNSサーバー機能により、安全なブラウジング環境とデジタル資産を保護。",
+        "【カスタマイズ性の高さ】最新OpenWrt 21.02（カーネルバージョン4.4.60）を採用し、多数端末接続時の信号干渉を大幅に減少。柔軟なカスタマイズが可能なオープンソースOSで、多様なネットワーク環境に対応。"
+      ],
+      "query": "GL.iNet GL-AXT1800 Slate AX トラベルルーター",
+      "asin": "B0B4S2V99D"
+    },
+    {
+      "title": "TP-Link WIFI Nano 無線LAN ルーター 11n/g/b 300Mbps 中継機 子機 ホテル WiFi USB給電型 ブリッジ APモード 3年保証 TL-WR802N",
+      "url": "https://www.amazon.co.jp/dp/B01M0GJU4N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21uLHl-tyiL._SL500_.jpg",
+      "features": [
+        "[特徴] 選べる４つのモード（ルーター/中継/クライアント/AP)。コンパクトボディで持ち運びも簡単。",
+        "[無線LAN] 11n・11g・11b/転送速度:300Mbps(11n)、54Mbps(11g)、11Mbps(11b)",
+        "[有線LANポート] 100BASE-TX、10BASE-T",
+        "[利用推奨環境] ワンルーム、ホテルルーム",
+        "[外形寸法(幅X奥行X高さ)] 57 x 57 x 18 mm",
+        "[電源] 5V MicroUSB 給電",
+        "[付属品] TL-WR802N 本体、USBケーブル、LANケーブル、クイックインストールガイド ◆業界最高基準の3年保証"
+      ],
+      "query": "TP-Link TL-WR802N ホテル WiFi ルーター",
+      "asin": "B01M0GJU4N"
+    },
+    {
+      "title": "エレコム WiFiルーター 無線LAN ポータブル 300Mbps ACアダプタ付属 WRH-300BK3",
+      "url": "https://www.amazon.co.jp/dp/B01ITAEQG6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31SRoRnWvNL._SL500_.jpg",
+      "features": [
+        "[特徴:1]LTE回線の約4倍、3G回線の約32倍の速さとなる、11ngb300Mbpsの高速Wi-Fi通信に対応",
+        "[特徴:2]本製品を中継器モードに変更することで、Wi-Fiの電波が届きにくい場所も快適にインターネットができます。",
+        "[特徴:3]同梱のQRコードを読み取るだけで、面倒な暗号キーの入力が不要なかんたん設定アプリを提供。",
+        "[通信速度]最大300Mbps(理論値)",
+        "[サイズ]外形寸法(幅×奥行き×高さ):(W)約24×(D)約65×(H)約18mm、質量:約20g(本体のみ)"
+      ],
+      "query": "エレコム ホテルルーター WRH-300BK3",
+      "asin": "B01ITAEQG6"
+    },
+    {
+      "title": "BUFFALO (バッファロー) USB 無線LAN親機 11ac/n/a/g/b 433/150Mbps トラベルルーター single_band ブラック WMR-433W2-BK【iPhone13メーカー動作確認済み】",
+      "url": "https://www.amazon.co.jp/dp/B07R2CKQXC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31osdd-u9JL._SL500_.jpg",
+      "features": [
+        "無線LAN規格:IEEE802.11ac/n/a/g/b",
+        "無線LAN親機 11ac/n/a/g/b 433/150Mbps トラベルルーター ブラック",
+        "外形寸法:(幅×高さ×奥行):45×45×15mm※本体のみ(突起部除く)、質量:約19g(製品本体のみ)",
+        "アンテナ:1本(1本送信、1本受信)、消費電力:2.5W(最大)",
+        "INTERETポート:最大100Mbps×1",
+        "不正アクセスを防止するワイヤレスWAN"
+      ],
+      "query": "バッファロー トラベルルーター WMR-433W2-BK",
+      "asin": "B07R2CKQXC"
+    },
+    {
+      "title": "プラネックス ホテルでWiFi コンセント直挿型 無線LANルーター single band ホテル用 11n/g/b 300Mbps ちびファイ4 MZK-DP300N 小型",
+      "url": "https://www.amazon.co.jp/dp/B0BSDWCH2T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/314ZyZvsHlL._SL500_.jpg",
+      "features": [
+        "ホテル、病院、スターバックスなど、外出先の有線LANまたは無線LAN(WiFi)に接続するだけで、手軽に無線LAN環境を構築できる、コンセント直挿型無線LANルータ",
+        "カフェなどの外出先の電源にちびファイ4を挿してWi-Fi接続すれば、スマホ、タブレット、ノートPC、携帯ゲーム機など複数台の端末を簡単に同時Wi-Fi接続することが可能です。",
+        "ちびファイ4は有線LANを無線化するので、データ通信サービスを経由せずにネット接続ができ、パケット量などを気にする必要がなくなります。",
+        "お手持ちの機器にIDを登録しておけば、コンセントに挿し、LAMケーブルを挿すだけの2stepですぐに無線LANが利用できるようになります。",
+        "約30(W)×45(H)×55(D)mmとカバンのサイドポケットに納まる極小サイズで持ち運びに便利なポータブル無線ルーターです。",
+        "「ちびファイ4」は新たに電波強度変更機能を搭載しました。100% / 70% / 50% / 30% / 15%の5段階の電波強度を選択することができ、室外への電波漏れを減少させることにより他の宿泊者が利用するWi-Fiへの影響を軽減させるなど、インターネット環境に優しいホテルルーターとなっています。"
+      ],
+      "query": "プラネックス ちびファイ4 MZK-DP300N",
+      "asin": "B0BSDWCH2T"
+    }
+  ],
+  "all_candidates": []
+}

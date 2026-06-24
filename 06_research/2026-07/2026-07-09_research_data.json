@@ -1,0 +1,153 @@
+{
+  "date": "2026-07-09",
+  "title": "夏フェスで耳を守る。音質を損なわない「ライブ用耳栓」 5 選",
+  "queries": [
+    {
+      "query": "Loop Experience 2 耳栓 ライブ",
+      "include": [
+        "Loop",
+        "Experience"
+      ],
+      "exclude": [
+        "ケース",
+        "ミュート"
+      ]
+    },
+    {
+      "query": "Etymotic Research ER20XS 高音質 耳栓",
+      "include": [
+        "ER20XS"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Alpine MusicSafe Pro ライブ 耳栓",
+      "include": [
+        "MusicSafe"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "EarPeace Music Pro ライブ用 耳栓",
+      "include": [
+        "EarPeace",
+        "Music"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Vibes High Fidelity Earplugs ライブ 耳栓",
+      "include": [
+        "Vibes"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "Loop Experience 2 耳栓 – コンサート フェス ライブ 音楽活動 スポーツ DJ ナイトライフに最適な認定聴覚保護具 - SNR値17dBのノイズリダクション耳栓（ハイファイ） ライブ用",
+      "url": "https://www.amazon.co.jp/dp/B0D4DM19KF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31eGiEUSLoL._SL500_.jpg",
+      "features": [
+        "ノイズを減らして音をより鮮明に – Experience 2を装着し、自分のボリュームで今この瞬間をお楽しみください。ライブイベントでの使用を念頭に設計されたExperience 2。音質を損なうことなく音量を抑え、コンサート、フェス、スポーツイベントなどで鮮明かつクリアなリスニング体験を保証します。",
+        "認定聴覚保護具 – Loop Experience 2は認定聴覚保護具として認められており、騒音によるダメージから耳を守り、騒がしい状況下で安心を確保します。Experience 2は、17 dB（SNR値）のフィルターノイズリダクションを提供します。",
+        "踊ったり動き回るための耳栓 – 一日中外れないように設計されたExperience 2は、イベントのお供に最適。改良された4種類のサイズのイヤーチップでフィット感を調整でき、小さな耳にも完璧にフィットします。Loop耳栓は再利用可能。しかもお手入れが簡単で長持ち。",
+        "使いやすさ – 調整可能な異なるサイズのイヤーチップが付属したExperience 2は、装着が簡単。最適なノイズリダクションを提供しつつ、一日中快適な着け心地を実現します。差し込んでひねって固定して、自分のボリュームで出かけましょう。正しく装着すると、Experience 2は正面から見えません。",
+        "梱包内容 – Loop Experience 2耳栓 x 1セット、シリコン製イヤーチップ x 4組（XS/S/M/L）、持ち運び便利なキーホルダー型Carry Case x 1個。"
+      ],
+      "query": "Loop Experience 2 耳栓 ライブ",
+      "asin": "B0D4DM19KF"
+    },
+    {
+      "title": "【国内正規品】Etymotic イヤープラグ ER20XSシリーズ ユニバーサルフィット 3フランジ・イヤーチップS クリアー 1ペア ［他２種イヤーチップ同梱］ノイズ低減 最大20dB減退 ER20XS-UF-C",
+      "url": "https://www.amazon.co.jp/dp/B015IQ6HI4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31hN9aGnunL._SL500_.jpg",
+      "features": [
+        "Etymotic High-Fidelity Earplugsは、低域、中域、高域の周波数帯域を均等に最大20dB、減衰し会話や音楽の明瞭さを維持するイヤープラグです。",
+        "Etymotic High-Fidelity Earplugsは、長年の開発実績とデータの蓄積をもとに開発設計された共振器と音響抵抗器を採用し、自然なレスポンスを再現します。ライブハウス、ナイトクラブ、工事現場、モータースポーツ、航空機内など、あらゆる騒音環境から聴覚を守り障害のリスクを軽減します。イヤーチップは交換が可能なので、様々な耳のサイズや形状に対応し、清潔に長くご愛用いただけます。",
+        "【ER20XSシリーズの特長】ステムレス設計により目立たない装着感。プルタブ採用でスムーズな取外しが可能。",
+        "セット内容：3フランジ・イヤーチップS クリアー×1ペア、3フランジ・イヤーチップL・クリアー×1ペア、フォーム・イヤーチップ×１ペア、ネックコード、収納ケース"
+      ],
+      "query": "Etymotic Research ER20XS 高音質 耳栓",
+      "asin": "B015IQ6HI4"
+    },
+    {
+      "title": "ALPINE HEARING PROTECTION 耳栓 NEW MusicSafe Pro BLACK",
+      "url": "https://www.amazon.co.jp/dp/B07HHFVSPB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41P9452L6KL._SL500_.jpg",
+      "features": [
+        "ALPINE HEARING PROTECTION 最上位モデルで、難聴や耳鳴りを防ぎます。",
+        "サウンドクオリティを維持しながら、任意の周波数帯を吸収するユニークなAlpineAcousticFilters",
+        "MusicSafe Proのイヤープラグは柔軟で耐久性のあるAlpineThermoShape材から製造されます。 体温に反応し耳穴の形にフィットし、長時間の装着でも快適に使用可能です。",
+        "セット内容:イヤープラグ X 3、フィルター(WHITE(LOW PROTECTION) / SILVER(MEDIUM PROTECTION) / GOLD(HIGH PROTECTION )",
+        "専用ケース、専用クリーナー、専用ストラップ付属"
+      ],
+      "query": "Alpine MusicSafe Pro ライブ 耳栓",
+      "asin": "B07HHFVSPB"
+    },
+    {
+      "title": "EarPeace Music PRO 耳栓 音楽 ライブ用 - 軽量安全素材２サイズ計６個入 コンサート ライブや練習時の聴覚保護 減音値20db、High プロテクション",
+      "url": "https://www.amazon.co.jp/dp/B099X8NCGC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41bj-T3VibL._SL500_.jpg",
+      "features": [
+        "EarPeace PRO : プロ仕様の聴覚保護。 音楽を愛するあなたへ贈る、最高のパフォーマンスと快適性を兼ね備えた再利用可能な耳栓です。プロの演奏者も絶賛する、幅広い年代の男女に最適な耳栓です。",
+        "安全と音質を追求しました: EarPeace PROは、安全な音量で臨場感溢れるオーディオ体験を実現するためのフィルター・テクノロジーを採用しています。正確なサウンドシグネチャー再現により、音楽の魅力を損なうことなく、耳栓を使用しながら最高の音楽体験をお楽しみいただけます。ライブイベントを思い切り楽しむための安心感を提供します。",
+        "快適性にこだわりました : 特許取得済みのContour Ear Plugsの人間工学に基づいた楕円形の形状が、最高のフィット感と快適性を実現します。イヤーピースPROを装着することで、耳への負担を軽減し、長時間の使用でも快適な状態を保ちます。装着を忘れてしまうほどの心地よさで、あなたの音楽体験をより一層充実させます。",
+        "2サイズ6個の耳栓を同梱 : EarPeace PROには、万が一の紛失に備えて予備プラグを同梱しています。標準サイズとスモールサイズの耳栓が合計6個付属されており、耳穴の小さな方にも対応。あなたの耳のサイズに合わせて最適な選択が可能です。また、再利用可能な耳栓は耐久性に優れており、長くご使用いただけます。さらに、高級感溢れるアルミニウム製のケースも付属しています。",
+        "プロも愛用する品質 : EarPeaceは、メタリカやRed Bull Music、ロラパルーザフェスティバルなど、音楽業界の一流アーティストやブランドが信頼を寄せその品質と効果に大きな満足を抱いています。 あなたの音楽体験を次のレベルへ引き上げるEarPeace PROをぜひお試しください。"
+      ],
+      "query": "EarPeace Music Pro ライブ用 耳栓",
+      "asin": "B099X8NCGC"
+    },
+    {
+      "title": "VIBES 耳栓 音質はそのままにノイズ低減 大切な耳を守ります 装着が目立たない Hi-Fi イヤープラグ 音楽ライブ 機内 集中したい時 聴覚過敏の緩和にも 繰り返し使える耳の保護具 S/M/Lサイズの洗えるシリコン製イヤーチップ付き 正規品 (クリア)",
+      "url": "https://www.amazon.co.jp/dp/B0CZDHMKVF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31NnIMqp3eL._SL500_.jpg",
+      "features": [
+        "イヤフォンではありません／耳栓でもありません／騒音から耳を保護するイヤープラグ／音質はクリアに保ちながら音量を許容範囲までボリュームダウン／全音域で約22dBのノイズ低減（NRR15）／高性能アコースティックフィルタ採用",
+        "ライブ会場で／スタジオで／機内で／ツーリングやスポーツイベントで／外出先で集中したい時に／高~低周波音が苦手な方、聴覚過敏でお悩みの方にもおすすめです",
+        "装着時に目立たないデザイン／あらゆる形状・サイズの耳にジャストフィット（S/M/Lサイズの洗えるソフトシリコン製イヤーチップ付き）",
+        "現代社会は騒音で溢れています／VIBESは、現代の喧噪の世界を＜快適かつ安全に＞体験できるよう開発されたイヤープラグです／周囲の音を完全には遮断せずコミュニケーションを阻みません",
+        "左右セット1組（サイズ：2.2 ×1.2 × 1.2 cm）／移動中も安心のハードケース付属／繰り返し使えます",
+        "対象年齢 3歳以上／＊本体サイズが小さいため、小さなお子様のお手に触れないよう十分ご注意ください"
+      ],
+      "query": "Vibes High Fidelity Earplugs ライブ 耳栓",
+      "asin": "B0CZDHMKVF"
+    }
+  ],
+  "all_candidates": []
+}

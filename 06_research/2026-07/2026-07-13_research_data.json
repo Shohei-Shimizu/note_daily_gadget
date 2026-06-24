@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-13",
+  "title": "大事なデータを暗号化。情報漏洩を防ぐ「USB メモリ・SSD ケース」 4 選",
+  "queries": [
+    {
+      "query": "アイ・オー・データ ED-FP 指紋認証 USBメモリ",
+      "include": [
+        "ED-FP"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "iStorage datAshur PRO2 64GB",
+      "include": [
+        "datAshur PRO2",
+        "64GB"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "StarTech S251BMU3FP 指紋認証 SSDケース",
+      "include": [
+        "StarTech",
+        "指紋認証"
+      ],
+      "exclude": [
+        "フィルム"
+      ]
+    },
+    {
+      "query": "VCOM 指紋認証 SSDケース M.2 NVMe SATA",
+      "include": [
+        "VCOM",
+        "指紋認証",
+        "SSDケース"
+      ],
+      "exclude": [
+        "フィルム"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 4,
+  "fetched_count": 4,
+  "dedup_count": 0,
+  "selected_count": 4,
+  "selected_items": [
+    {
+      "title": "アイ・オー・データ 指紋認証センサー付き セキュリティUSBメモリー 64GB 日本メーカー ED-FP/64G",
+      "url": "https://www.amazon.co.jp/dp/B07TC31FV8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/419qdzrZ4+L._SL500_.jpg",
+      "features": [
+        "■PCに挿し、指でタッチするだけの簡単操作ですばやいログインが可能。PC上でパスワード認証を行う従来のセキュリティUSBメモリーとは違い、動作OSが限られることがありません。",
+        "■最大6つまで指紋の登録ができるので、複数のユーザー間でUSBメモリーを共有してご利用可能。また、複数の指紋を登録しておくことで指を怪我した場合などに備えることができます。※初期設定時はパスワードの登録が必要。初期設定や指紋登録等の管理にはWindows環境が必要。",
+        "■専用ソフトなどでパスワード認証を行うセキュリティUSBメモリーは、ソフトの対応OSにより動作可能な機器が限られていました。本商品は指紋認証によるログインのため、セキュリティ運用をしながら幅広い機器でUSBメモリーをお使いいただけます。",
+        "■書き込まれるデータはすべて、ハードウェアで自動暗号化されます(AES256bit)。本商品を分解し、内部フラッシュメモリーをはがして別基板に載せたとしても、データの解読や閲覧はできません。また、指紋認証からパスワード認証へ切り替えが可能です。"
+      ],
+      "query": "アイ・オー・データ ED-FP 指紋認証 USBメモリ",
+      "asin": "B07TC31FV8"
+    },
+    {
+      "title": "iStorage datAshur PRO2 セキュアフラッシュドライブ - FIPS 140-2レベル3認定 - パスワード保護、ほこりや耐水性、ポータブル、軍用グレードのハードウェア暗号化。 USB 3.2 (64GB)",
+      "url": "https://www.amazon.co.jp/dp/B07VF5LBLM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41JSs2v1bQL._SL500_.jpg",
+      "features": [
+        "使いやすい、PIN認証ハードウェア暗号化USBフラッシュドライブ -あなたのデジタル資産を保護するための完璧なソリューション。7~15桁のPINを入力するだけで、通常のUSBフラッシュドライブとして認証して使用できます。ドライブが切断されると、すべてのデータは AES-XTS 256 ビット ハードウェア暗号化を使用して暗号化されます(ソフトウェアは不要です)。",
+        "datAhur PRO2はUSBポートを持つすべてのデバイスで動作しますが、ソフトウェアは必要ありません。対応: MS Windows、 macOS、 Linux、クロム、アンドロイド、シンクライアント、ゼロクライアント、組み込みシステム、シトリックス、ヴイエムウェア",
+        "政府認定 :FIPS 140-2レベル3認定。datAhur PRO は、GDPR、CCPA、HIPAA などのデータ規制への準拠を保証するのに役立ちます。",
+        "datAhur PRO2 は、あなたの個人または会社のデータを保存するための完璧なソリューションです。 どこへ行ってもダターサーPROを持ち歩いて下ろしてください。ポータブル、頑丈な、ほこり&耐水性(IP68認定)PIN なしでは、方法はありません! ドライブに転送されるすべてのデータはリアルタイムで暗号化され、デバイスが紛失または盗難に遭った場合でも不正アクセスから保護されます。",
+        "秒でファイルを転送ライトニング高速逆方向互換性のあるUSB 3.2データ転送速度。最大 168MB/秒の読み取り速度は最大 116MB/秒の書き込み速度です。"
+      ],
+      "query": "iStorage datAshur PRO2 64GB",
+      "asin": "B07VF5LBLM"
+    },
+    {
+      "title": "StarTech.com 外付け2.5インチHDD/SSDケース 指紋認証機能 SATA対応ハードディスクケース USB-C/USB-A対応機器と接続 S251BMU3FP",
+      "url": "https://www.amazon.co.jp/dp/B0897Z9NWD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31bPa-0nagL._SL500_.jpg",
+      "features": [
+        "[暗号化と指紋認証] 256ビットAESデータ暗号化対応ハードドライブケース。指紋認証またはマスターパスワードによるドライブアクセスでセキュリティに対応、重要なデータを保護",
+        "[幅広いドライブ互換性] SATA 1.0/2.0/3.0 HDD/SSD各種（5mm - 9.5mm）に対応、高速データ転送をサポートするUSB 3.0（5Gbps）2.5インチSATAドライブケース。50cm USB 3.0ケーブル付属（USB-A - Micro-B）",
+        "[セキュリティ機能] マスターパスワードでロック解除後、直感的なインターフェースで指紋アクセスを管理。8名分の指紋に許可を設定し、複数ユーザーでドライブ共有が可能",
+        "[幅広いホスト互換性] USBホスト／ノートパソコン各種でプラグアンドプレイに対応するユニバーサルOSサポート。 指紋認証管理インターフェイスを使用するには、初期設定と許可設定にWindows OSが必要"
+      ],
+      "query": "StarTech S251BMU3FP 指紋認証 SSDケース",
+      "asin": "B0897Z9NWD"
+    },
+    {
+      "title": "VCOM 指紋認証 SSDケース M.2 NVMe/SATA両対応 TFTディスプレイ搭載 【情報漏洩・紛失対策】 ハードウェア暗号化 USB3.2 Gen2 10Gbps 高速データ転送 セキュリティ 外付けハードディスクケース プライバシー保護 機密データ保存 (2230/2242/2280サイズ対応)",
+      "url": "https://www.amazon.co.jp/dp/B0FP55W6LN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/4113Q4ugOiL._SL500_.jpg",
+      "features": [
+        "【強固なセキュリティ】登録された指紋（最大20件まで登録可能）でのみデータへのアクセスを許可する、高度なセキュリティ設計。OPAL2 / PYRITE規格のハードウェア暗号化SSDにも対応しており、万が一SSD本体を物理的に抜き取られても、別のPCでデータを読み取ることは不可能です。社外秘データや顧客情報の持ち出し、個人のプライバシー保護に絶対の安心を提供します。",
+        "【業界初クラス】本体に搭載されたTFT画面により、データ転送速度、内部温度、SSDの総容量と空き容量、健康状態（ヘルス）、さらには暗号化のロック状態までを一目でモニタリング可能。目に見えないデータ管理を可視化することで、異常な発熱や寿命によるデータ消失のリスクを未然に防ぎます。",
+        "【M.2 NVMe/SATA両対応＆卓越した放熱設計】2230 / 2242 / 2280サイズのM.2 NVMe (PCIe) および SATA (NGFF) の両プロトコルに対応。極薄のアルミニウム合金ボディに加え、専用の放熱シリコンパッドが付属。高速転送時に発生する熱を効率的に外部へ逃がし、サーマルスロットリング（熱暴走による速度低下）を抑制して長時間の安定動作を約束します。",
+        "【USB3.2 Gen2 最大10Gbpsの圧倒的な転送スピード】最新のUSB Type-Cインターフェースを採用し、NVMe SSD装着時は最大1,000MB/s（理論値10Gbps）の超高速転送を実現。数ギガバイトに及ぶ大容量の4K動画ファイルや、重いプロジェクトデータ、フルバックアップも数秒〜数十秒で完了し、クリエイターやビジネスマンの作業効率を劇的に向上させます。",
+        "【ドライバ不要・幅広いデバイスとの互換性】専用のソフトウェアやドライバのインストールは一切不要。ケーブルを繋ぐだけのプラグ＆プレイですぐに使用できます。Windows、Mac OS、Linux、Androidなど多様なOSをサポート。出張時のセキュアなデータ持ち運び、カフェでのリモートワーク、スマホの容量不足解消など、あらゆるシーンで最上級のデータストレージ環境を構築します。"
+      ],
+      "query": "VCOM 指紋認証 SSDケース M.2 NVMe SATA",
+      "asin": "B0FP55W6LN"
+    }
+  ],
+  "all_candidates": []
+}

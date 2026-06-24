@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-08",
+  "title": "4K 動画を撮りまくる。高耐久・大容量「microSD カード」 7 選",
+  "queries": [
+    {
+      "query": "SanDisk Extreme PRO microSDXC 256GB SDSQXCD",
+      "include": [
+        "microSD",
+        "256GB"
+      ],
+      "exclude": [
+        "ケース",
+        "リーダー"
+      ]
+    },
+    {
+      "query": "Samsung PRO Plus microSD 512GB MB-MD512",
+      "include": [
+        "PRO Plus",
+        "512GB"
+      ],
+      "exclude": [
+        "ケース",
+        "リーダー"
+      ]
+    },
+    {
+      "query": "KIOXIA microSD 256GB 高耐久 KLMHB256G",
+      "include": [
+        "KIOXIA",
+        "高耐久",
+        "256GB"
+      ],
+      "exclude": [
+        "ケース",
+        "リーダー"
+      ]
+    },
+    {
+      "query": "Lexar PLAY PRO microSDXC Express 512GB",
+      "include": [
+        "PLAY PRO",
+        "microSDXC",
+        "512GB"
+      ],
+      "exclude": [
+        "ケース",
+        "リーダー"
+      ]
+    },
+    {
+      "query": "Kingston Canvas Go Plus microSD 256GB",
+      "include": [
+        "Canvas Go",
+        "256GB"
+      ],
+      "exclude": [
+        "ケース",
+        "リーダー"
+      ]
+    },
+    {
+      "query": "Transcend microSD 256GB TS256GUSD300S",
+      "include": [
+        "Transcend",
+        "256GB",
+        "TS256GUSD300S"
+      ],
+      "exclude": [
+        "ケース",
+        "リーダー"
+      ]
+    },
+    {
+      "query": "Gigastone 4K Camera Pro microSD 256GB",
+      "include": [
+        "microSD",
+        "256GB"
+      ],
+      "exclude": [
+        "ケース",
+        "リーダー"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "microSDXC 256GB SanDisk Extreme PRO SDSQXCD-256G-GN6MA R:200MB/s W: 140MB/s UHS-I U3 V30 4K Ultra HD A2 Compatible with SD Adapter Included [並行輸入品]",
+      "url": "https://www.amazon.co.jp/dp/B0BSDB1TQS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Dr0-+9KnL._SL500_.jpg",
+      "features": [],
+      "query": "SanDisk Extreme PRO microSDXC 256GB SDSQXCD",
+      "asin": "B0BSDB1TQS"
+    },
+    {
+      "title": "Samsung PRO Plus Sonic The Hedgehog + Adapter microSDXC 512GB メモリーカード 最大180MB/秒 UHS-I U3 C10 V30 A2 任天堂スイッチ Steam Deck タブレット Androidスマートフォン用 (MB-MD512SA/LC1)",
+      "url": "https://www.amazon.co.jp/dp/B0DQX529CV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41mPETo2eIL._SL500_.jpg",
+      "features": [
+        "最大180/130MB/秒の読み取り/書き込み速度:高速にロードし、より速く再生できます。 最大180MB/秒、130MB/秒の読み取りと書き込み速度で、ロード画面を疾走し、ゲーム間を素早くジャンプできます。",
+        "128GBから1TBまでのストレージ容量: 128GBから1TBまでの幅広いストレージオプションでゲームライブラリをレベルアップしましょう(高解像度ファイル、写真、4Kビデオを含む)。",
+        "幅広い互換性:Sonicと彼の友人たちは、オリジナルのNintendo SwitchやSteamデッキからアクションカムやドローンまで、あなたがプレイするすべてのものをパワーアップします。 すべてのSonic the Hedgehog PRO PlusmicroSDカードには、フルサイズのSDアダプターが付属しています。",
+        "6つの保護と10年間の限定保証付き: Sonic the HedgehogTM PRO Plus microSDカードは、水や極端な温度など、人生最大のボスに耐えます。 ² ³ ☘ ☘",
+        "マジシャンソフトウェア:Samsung Magicianソフトウェアは、止められないSonic the HedgehogTM PRO Plus microSDカードパフォーマンスのロックを解除するのに役立ちます。 製品の真正性検証とヘルスモニタリングの推進が含まれています。¹"
+      ],
+      "query": "Samsung PRO Plus microSD 512GB MB-MD512",
+      "asin": "B0DQX529CV"
+    },
+    {
+      "title": "KIOXIA(キオクシア)【日本製】microSD 256GB 高耐久 ドラレコ・監視カメラ対応 UHS-I U3 V30 Class10 microSDXC 4K対応 最大読出速度100MB/s 最大書込50MB/s 国内サポート正規品 メーカー保証2年 KLMHB256G",
+      "url": "https://www.amazon.co.jp/dp/B0DW8V4VMJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41M0myP6YFL._SL500_.jpg",
+      "features": [
+        "監視カメラやドライブレコーダーの繰り返し録画に適した高耐久",
+        "累積録画時間(256GB)：40,000時間（フルHD録画）",
+        "UHS-I、UHSスピードクラス3、ビデオスピードクラス30",
+        "最大読出速度100MB/s、最大書込速度50MB/s",
+        "4K映像録画に対応",
+        "日本製 Made in JAPAN",
+        "保証期間:製品お買い上げ日より2年間",
+        "著作権保護機能（CPRM）非対応"
+      ],
+      "query": "KIOXIA microSD 256GB 高耐久 KLMHB256G",
+      "asin": "B0DW8V4VMJ"
+    },
+    {
+      "title": "Lexar PLAY PRO microSDXC Expressカード 512GB 最大読込900MB/s 最大書込600MB/s Nintendo Switch 4K動画 ドローン対応 防水 耐衝撃 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0F9P5J764?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41xvLs2nZSL._SL500_.jpg",
+      "features": [
+        "✅Lexar PLAY PRO microSDXC Expressカードは、最大900MB/sの読取速度と600MB/sの書込速度を誇り、従来のUHS-Iカードの約4倍の速度を実現。大容量データやAAAタイトルの読み込みもスピーディーで、待ち時間を大幅に短縮。高速なデータ転送で、ゲームや動画のロードが圧倒的に快適になります。",
+        "✅本製品は最大1TBの超大容量モデルをラインアップ。グラフィックの進化に伴いファイルサイズが大きくなっている最新ゲームも、余裕を持って保存可能です。複数の大型タイトルを1枚にまとめて保存でき、ゲームの入れ替えやデータの整理に悩む必要がありません。",
+        "✅microSD Express（SD 7.1規格）に対応し、従来のUHS-I・UHS-IIホスト機器とも下位互換性あり。Nintendo Switchやポータブルゲーム機など、今お使いの機器でそのまま利用でき、将来登場する新世代デバイスでも性能を最大限に発揮。今も未来も活躍する一枚です。",
+        "✅IPX7防水仕様に加え、耐衝撃・耐落下・耐磁気・耐振動・耐X線・耐温度設計を搭載。旅行やアウトドア、持ち運びの多いシーンでも安心して使用可能。大切なゲームやデータをしっかり保護し、突然のアクシデントにも強く対応します。",
+        "✅Lexarの品質ラボにて数千台の機器で互換性・信頼性・性能テストを実施。その品質に自信があるからこそ、制限付き永久保証を提供。さらに、万が一のデータ誤削除やフォーマットにも対応できる「Lexar Recovery Tool（無料）」も使用可能。購入後も万全のサポート体制で、安心してお使いいただけます。"
+      ],
+      "query": "Lexar PLAY PRO microSDXC Express 512GB",
+      "asin": "B0F9P5J764"
+    },
+    {
+      "title": "Kingston キングストン 256GB microSDXC Canvas Go Plus Gen4 200MB/秒 A2 U3 V30 アダプタ付き SDCG4/256GB",
+      "url": "https://www.amazon.co.jp/dp/B0F29YZWSM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31yf9ijedoL._SL500_.jpg",
+      "features": [
+        "Kingston Canvas Go! Plus microSD カードは、ドローン、アクションカメラ、Android デバイスに最適",
+        "容量：256GB / SD変換アダプタ付",
+        "カードタイプ ：micro SDXC / CLASS10 / UHS-I / U3 / V30 / A2",
+        "最大読み取り/書き込み速度：200/160MB/秒 ***最大転送速度を実現するには、専用のカードリーダーが必要です。（Kingston MobileLite Plus microSD Reader、型番：MLPM)",
+        "保証/サポート：製品寿命期間保証、無料技術サポート（メーカーよりご提供します）"
+      ],
+      "query": "Kingston Canvas Go Plus microSD 256GB",
+      "asin": "B0F29YZWSM"
+    },
+    {
+      "title": "Transcend マイクロSDカード 256GB UHS-I U3対応 Class10 Nintendo Switch 動作確認済 TS256GUSD300S-A",
+      "url": "https://www.amazon.co.jp/dp/B07N31KRZL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51-bkiMmHXL._SL500_.jpg",
+      "features": [
+        "microSDカード: 容量 256GB",
+        "カードタイプ : 3D TLC microSDXC : CLASS10 UHS-I U3 V30 A1",
+        "転送速度 : 読出し最大95MB/s",
+        "動作温度 : -25℃~85℃ : 耐温度、防水、耐磁、耐X線、静電耐性",
+        "商品の仕様・外観は製造時期 / 発送のタイミングにより画像と異なる場合がございます。",
+        "ドライブレコーダーや監視カメラなどの書込み頻度の高い使用環境では、保証対象外となりますので、高耐久microSDカードをご使用下さい。推奨型番:TS128GUSDXC10V",
+        "保証 : 5年保証 / 記録データの消失に関する保証はございませんので予めご了承ください。保証規定に関してはトランセンドホームページをご参照ください。"
+      ],
+      "query": "Transcend microSD 256GB TS256GUSD300S",
+      "asin": "B07N31KRZL"
+    },
+    {
+      "title": "【5年データ復旧・無償交換保証】GIGASTONE マイクロsdカード 256GB 4K Camera Pro microSDXC UHS-I A2 V30 U3 C10 100MB/s Ultra HD 4K ビデオ録画 Gopro インスタ360 アクションカメラ スポーツカメラ SDアダプター1枚付き",
+      "url": "https://www.amazon.co.jp/dp/B07LBJC2D9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41P2XcYpJ6L._SL500_.jpg",
+      "features": [
+        "[4K UHD]読み込み/書き込みが最大100/60 MB/s, V30のビデオスピード, Ultra HD(UHD)4Kビデオ撮影,UHD 4K　ゲーミング",
+        "[アプリケーション]スマートフォンやタブレットでのスムーズなアプリケーション使用に最適なA2グレード,高解像度の画像や動画を簡単に転送",
+        "[ストレージ]スマートフォンなどの内蔵ストレージの予備に最適。",
+        "[互換性]ノートパソコン, PC, スマートフォン, カメラ, DSLR, Dash Cam, Camcorder, Surveillance, e-Reader, ドローン, ゲーム,ビデオ, 音楽. 任天堂Switch, GoPro, アンドロイド, Samsung, Canon, Nikon. 防水,耐衝撃,耐熱,X-ray proof",
+        "[サポート]安心の5年間メーカー保証付き。Gigastoneは世界各国に製品を販売するグローバルなブランドです。 アメリカ、日本、中国、韓国、台湾など多くの国に支社を持つことで、お客様とのコミュニケーションやサポートを迅速に行っています。東京新宿にある日本支社でサポート対応しておりますので、安心してご使用いただけます。"
+      ],
+      "query": "Gigastone 4K Camera Pro microSD 256GB",
+      "asin": "B07LBJC2D9"
+    }
+  ],
+  "all_candidates": []
+}

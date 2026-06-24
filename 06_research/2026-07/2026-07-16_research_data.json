@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-16",
+  "title": "旅先で写真共有。自分専用の「パーソナルクラウド」 5 選",
+  "queries": [
+    {
+      "query": "Synology BeeStation 4TB パーソナルクラウド",
+      "include": [
+        "BeeStation",
+        "4TB"
+      ],
+      "exclude": [
+        "ケース",
+        "交換"
+      ]
+    },
+    {
+      "query": "UGREEN NASync DXP2800 NAS",
+      "include": [
+        "DXP2800"
+      ],
+      "exclude": [
+        "ケース",
+        "メモリ"
+      ]
+    },
+    {
+      "query": "バッファロー LinkStation LS720D 4TB",
+      "include": [
+        "LS720D",
+        "4TB"
+      ],
+      "exclude": [
+        "交換",
+        "ケース"
+      ]
+    },
+    {
+      "query": "アイオーデータ HDL2-TA4 NAS 4TB",
+      "include": [
+        "HDL2-TA4"
+      ],
+      "exclude": [
+        "交換",
+        "ケース"
+      ]
+    },
+    {
+      "query": "QNAP TS-233 NAS",
+      "include": [
+        "TS-233"
+      ],
+      "exclude": [
+        "ケース",
+        "メモリ"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "Synology パーソナルクラウド BeeStation BST151-4T / 4TB HDD搭載/ネットワーク対応/簡易NAS/簡単設定/国内正規代理店フィールドレイク取扱品",
+      "url": "https://www.amazon.co.jp/dp/B0GX2YVY3M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31IbilWxhBL._SL500_.jpg",
+      "features": [
+        "【特徴】自分用のクラウドを作成",
+        "容量:4TB メモリ:2GB CPU:Realtek RTD1619B",
+        "メーカー型番：BST151-4T",
+        "接続：ネットワーク接続",
+        "メーカー保証期間：3年間"
+      ],
+      "query": "Synology BeeStation 4TB パーソナルクラウド",
+      "asin": "B0GX2YVY3M"
+    },
+    {
+      "title": "UGREEN NASync DXP2800 2ベイデスクトップnasキット、Intel N100クアッドコアCPU、8GB DDR5 RAM、2.5GbE、2 * M.2 NVMeスロット、4K HDMI、ネットワーク接続ストレージ(ハードドライブは付属していません)",
+      "url": "https://www.amazon.co.jp/dp/B0DXKZV61R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
+      "features": [
+        "費用削減、容量拡大：高額なクラウドストレージの月額料金とは異なり、NASは初期購入費のみで追加費用不要。長期的に圧倒的なコストメリットを実現します。また、データをローカルに保存することでセキュリティも強化し、完全な管理権限を保持できます。",
+        "大容量ストレージ（最大80TB）：ファイル・写真・動画など全てのデータを十分にバックアップ可能。写真の自動アルバム作成や自宅で映画鑑賞も楽しめます。注: ストレージハードドライブは含まれていません。 ※ 80TBの容量は、32TB HDD×2台および8TB SSD×2台（RAID 0構成）で実現します。なお、HDD/SSDは別売りです。",
+        "初心者に優しい操作：多くのアプリをダウンロードする必要はなく、よく使う機能は全てUGREEN NASアプリに集約されています。ストレージ・マネージャー、ファイル、写真など、すべて1つのところからアクセスできます。Windows/macOS/Android/iOS/ブラウザ/スマートTVに対応。シンプルな設定でどの端末からでも安全にファイル共有できます。",
+        "AI搭載の写真管理システム：顔・風景・物体・位置情報を自動認識して整理。重複ファイルを瞬時に検出・削除し、ストレージの節約と効率向上を実現。",
+        "安全なプライベートクラウド：高度な暗号化技術でデータの完全管理を実現。ファイルと個人情報を常に保護します。",
+        "業界トップクラスの性能：第12世代Intel N100プロセッサー & 2.5GbEネットワークポート搭載。複数アプリの同時動作も快適で、1GBファイルをわずか3秒で転送可能。 ※転送速度は、使用環境（ルーター、CPU、ドライブ、ファイルサイズなど）によって異なります。",
+        "幅広い互換性：Western Digital/Seagate/Toshibaなどの主要サードパーティ製HDDに対応（※UGREEN公式サイトまたは本ページの「安全性と製品リソース」よりご確認ください）。",
+        "2年間の製品保証付き：お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。UGREENの2年間保証で、安心してお利用いただけます。"
+      ],
+      "query": "UGREEN NASync DXP2800 NAS",
+      "asin": "B0DXKZV61R"
+    },
+    {
+      "title": "バッファロー BUFFALO リンクステーション LS720D/N ネットワークHDD メカニカルハードデイスク 2ベイ 4TB LS720D0402/N",
+      "url": "https://www.amazon.co.jp/dp/B08N4HDP2Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41wkNv-eZQL._SL500_.jpg",
+      "features": [
+        "【対応機種】パソコン:有線LAN端子または無線LANを搭載するWindowsパソコン、Mac(Intel CPU搭載機)、スマートフォン、タブレット端末:iPhone、iPad Pro、iPad、iPad mini、iPod touch、Android搭載のスマートフォン、タブレット端末",
+        "【インターフェース】2.5GBASE-T/1000BASE-T/100BASE-TX/10BASE-T(AUTO-MDIX対応)【ポート数】1※AUTO-MDIX対応【コネクター形状】RJ-45型 8極【搭載ドライブ】2TB×2",
+        "【電源】AC100V 50/60Hz【最大消費電力】36W",
+        "【外形寸法(幅×高さ×奥行)】92×128×207mm※本体のみ(突起部除く)【本体質量】約2.3kg",
+        "【主な付属品】本体、LANケーブル(Cat5e 2m)、ACアダプター、取扱説明書※保証書はパッケージに記載"
+      ],
+      "query": "バッファロー LinkStation LS720D 4TB",
+      "asin": "B08N4HDP2Z"
+    },
+    {
+      "title": "I-O DATA アイ・オー・データ NAS 2ベイ 4TB RAID1 PC スマホ タブレット ネットワークHDD 日本製 簡易パッケージ HDL2-TA4/E",
+      "url": "https://www.amazon.co.jp/dp/B08B88SBJ6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41SRJPSwldL._SL500_.jpg",
+      "features": [
+        "[特長] データを2重で保存できる2ドライブNAS",
+        "[利用シーン]複数のPC/スマホ/タブレットでファイル共有。外出先からスマホでアクセスOK。",
+        "[容量/対応OS] 4TB / Win10/8.1 Mac OS 10.12~10.15、iOS 11.0~13.0、Android 5.0~10",
+        "[接続規格] 有線LANポート×1(1000BASE-T)",
+        "[サイズ/重量] 約85(W)×145(D)×192(H)mm / 約2.1kg"
+      ],
+      "query": "アイオーデータ HDL2-TA4 NAS 4TB",
+      "asin": "B08B88SBJ6"
+    },
+    {
+      "title": "QNAP (キューナップ) NAS キット 2ベイ ホーム向け TS-233 /AZ スマホ対応 スリムデザイン 6ヵ月延長保証 「簡単セットアップガイド同梱」/国内正規代理店品",
+      "url": "https://www.amazon.co.jp/dp/B09TDWPFTW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21q+-LKJlDL._SL500_.jpg",
+      "features": [
+        "【家でも外でもNASのデータを閲覧できる】NASに保存した動画や画像を外でも簡単に楽しめます。携帯やPCの容量が足りない方、データを安全に保存したい方に最適。",
+        "【スリムでスタイリッシュなデザイン。普段使いに最適】ホワイトカラーのミニマルでスリムなTS-230はお部屋のどこに置いても自然と馴染みます。",
+        "【2GBメモリでデータ読み書きサクサク】 2GBのメモリでデータの読み書きもサクサク。CPUはARMベースのクアッドコア2.0GHz CPUを搭載。",
+        "【スナップショット対応でもしもの時も安心】スナップショット機能に対応。ファイルが誤って削除・変更されても、以前に記録されたデータをすぐに復元可能。",
+        "【6ヵ月延長保証で購入後も安心】 メーカー保証2年+Amazon限定延長保証6ヵ月となります。 保証規定に従った状態で保証期間内に故障した場合、無償修理またはお取り替えいたします。詳細は製品外箱添付の保証書をご確認ください。"
+      ],
+      "query": "QNAP TS-233 NAS",
+      "asin": "B09TDWPFTW"
+    }
+  ],
+  "all_candidates": []
+}

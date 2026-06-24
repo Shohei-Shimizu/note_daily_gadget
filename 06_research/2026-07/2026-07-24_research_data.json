@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-24",
+  "title": "旅行中の家を守る。スマホで確認できる「スマートカメラ」 7 選",
+  "queries": [
+    {
+      "query": "TP-Link Tapo C225 見守りカメラ",
+      "include": [
+        "Tapo",
+        "C225"
+      ],
+      "exclude": [
+        "ブラケット",
+        "ケース"
+      ]
+    },
+    {
+      "query": "TP-Link Tapo C210 見守りカメラ",
+      "include": [
+        "Tapo",
+        "C210"
+      ],
+      "exclude": [
+        "ブラケット",
+        "ケース"
+      ]
+    },
+    {
+      "query": "SwitchBot 見守りカメラ Plus 5MP",
+      "include": [
+        "SwitchBot",
+        "見守りカメラ"
+      ],
+      "exclude": [
+        "ブラケット",
+        "ケース"
+      ]
+    },
+    {
+      "query": "Anker Eufy Indoor Cam C220",
+      "include": [
+        "C220"
+      ],
+      "exclude": [
+        "ブラケット",
+        "ケース"
+      ]
+    },
+    {
+      "query": "ATOM Cam 2 ネットワークカメラ",
+      "include": [
+        "ATOM",
+        "Cam 2"
+      ],
+      "exclude": [
+        "ブラケット",
+        "ケース"
+      ]
+    },
+    {
+      "query": "Google GA01317-JP Nest Cam",
+      "include": [
+        "Google",
+        "Nest Cam"
+      ],
+      "exclude": [
+        "マウント",
+        "ケース",
+        "ケーブル",
+        "ドアベル"
+      ]
+    },
+    {
+      "query": "Panasonic KX-HRC100 見守りカメラ",
+      "include": [
+        "KX-HRC100"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "TP-Link 400万画素 2K QHD 見守りカメラ AppleWatch 対応 ネットワークWi-Fiカメラ 屋内カメラ ホームカメラ ペットカメラ 夜間撮影 パン/チルト 【Apple Home Kit/Matter対応】 プライバシーボタン メーカー保証3年 Tapo C225/A v2",
+      "url": "https://www.amazon.co.jp/dp/B0BWCM6JFN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31XAqkeoclL._SL500_.jpg",
+      "features": [
+        "[特徴] 400万画素(2K QHD)の見守りカメラ。ボタンひとつでカメラレンズが下に収納されて安心。",
+        "[かわいいペットを追跡] パン/チルト＋動的検知＆自動追尾機能を搭載。スマートトラッキングでお留守番のペットの動きを追うことも可能です。",
+        "[スターライトセンサー] ナイトビジョンはもちろん、光量が低いところでも映るスターライトセンサーを搭載。",
+        "[microSDカード] 512GBまでのmicroSDカードに対応",
+        "[スマホで双方向通話] スマホアプリを通して音声通話ができます",
+        "[アラート機能] 効果音とライトで警告を発信。"
+      ],
+      "query": "TP-Link Tapo C225 見守りカメラ",
+      "asin": "B0BWCM6JFN"
+    },
+    {
+      "title": "TP-Link 300万画素ネットワークWi-Fiカメラ ペットカメラ フルHD 屋内カメラ夜間撮影 メーカー保証3年 Tapo C210/A",
+      "url": "https://www.amazon.co.jp/dp/B09F9N8GLY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31cECdQVT7L._SL500_.jpg",
+      "features": [
+        "[特徴] 300万画素。横360度、縦114度まで回転するパン・チルト機能搭載のみまもりカメラ。",
+        "[microSD対応] 最大512GBまでのmicroSDカードに対応",
+        "[音声会話可能] スマホアプリから音声会話を楽しめます",
+        "[動的検知＆スマホ通知] 動作を感知しスマホに通知が可能です",
+        "[メーカー保証３年] 本製品はティーピーリンク株式会社により提供される3年間のメーカー保証付帯商品です。"
+      ],
+      "query": "TP-Link Tapo C210 見守りカメラ",
+      "asin": "B09F9N8GLY"
+    },
+    {
+      "title": "【Works with Alexa認定】 SwitchBot 防犯カメラ 500万画素 監視カメラ アプリ通知 遠隔確認 動体検知 自動追跡 ナイトビジョン 双方向音声通話 パン/チルト カラーナイトビジョン 室内 スイッチボット 見守りカメラ Plus 5MP 3年保証",
+      "url": "https://www.amazon.co.jp/dp/B0CR3Y76ZH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/312P-N-DVZL._SL500_.jpg",
+      "features": [
+        "【防犯対策助成金】防犯対策を考えているなら、助成制度を活用しましょう！防犯対策助成金は、地域住民や事業者が防犯設備を導入する際に、その費用の一部を支援する制度です。これは一部の自治体が提供しており、防犯カメラやセンサーライト、鍵の交換など、犯罪抑止を目的とした設備が対象となることが多いです。各自治体によって申請期間や必要書類が異なるため、必ず申請予定の自治体のWebサイトでご確認ください。",
+        "【500万高画質と高解像度、細部までくっきり鮮明に】500万高画質のレンズと、高解像度レンズモジュールによって、映像がより鮮やかでクリアに。お子さまやペットの細かな動きや、お部屋の隅々までハッキリ映ります。 (※本製品はWi-Fi2.4 GHzのみ対応)",
+        "【30日間無料体験でデータ管理の悩みを解消】30日間無料クラウドストレージ体験を提供。期間中は保存容量無制限で、SDカードの物理破損・容量不足・手動削除の手間がすべて解決！過去30日分の映像を自動バックアップし、スマホで瞬時に確認可能。さらに「AI自動選別機能」で動物や車の動きを検出し、無駄な映像チェック時間を90%削減！育児中の隙間時間や通勤中でもサクサク確認できます。不要な場合はアプリで簡単に解約OK。",
+        "【薄暗い環境でもカラー撮影】高感度センサーを内蔵し、受ける光を増幅して、少ない光でもカラーで撮影します。街灯に照らされるリビング、常夜灯やほんのり灯のつく寝室などの低照度の環境においてもカラー監視が可能です。赤外線ナイトビジョンも対応、真っ暗な場所でもクリアに。",
+        "【全方向、お部屋の隅々まで見守る】パン・チルトの機能が備わって、気になる場所にカメラを向けたり、画面を拡大しておうちの状況を詳しくチェックしたりできます。レンズは左右360°、上下115°回転できるため、広範囲で死角が少なく、お部屋の端々まで見渡します。"
+      ],
+      "query": "SwitchBot 見守りカメラ Plus 5MP",
+      "asin": "B0CR3Y76ZH"
+    },
+    {
+      "title": "Anker Eufy Indoor Cam C220 (見守りカメラ) 【ペットカメラ/ペット見守り/屋内カメラ/ネットワークカメラ / 2K画質 / ズーム対応 / 360°監視/AI動作検知/Wi-Fi対応 】",
+      "url": "https://www.amazon.co.jp/dp/B0CQQQ5NZ1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21+ZAFqGPWL._SL500_.jpg",
+      "features": [
+        "細部まで鮮明な映像：100°の広い画角に加え、2Kの高画質で昼夜を問わず細部まで鮮明に映像が確認できます。",
+        "夜間でもはっきり：自動夜間モードを搭載し、夜間や暗い場所でもはっきりと映像を映すことができます。",
+        "AIによるモーショントラッキング：本体に搭載されたAIによるモーショントラッキング機能で、⼈の動きを検知して自動で追跡ができます。",
+        "360°監視：Eufy Securityアプリから簡単操作で水平方向360°と垂直方向75°までお部屋全体の様子を確認可能。カメラの死角に入りがちなペットのモニタリングにも最適です。",
+        "プライバシーモード搭載：ボタンを押すだけでプライバシーモードが起動。カメラが背を向けて撮影を中断し、家族との時間を邪魔されることなく過ごせます。",
+        "ローカルストレージで安心：microSDカード（最大128GB、別売り）のローカルストレージに、暗号化によりプライバシーを保護した状態で録画データを保存することができます。",
+        "パッケージ内容：製品本体、USB-C & USB-A ケーブル、USB充電器、取り付けプレート、位置決めステッカー、取り付けネジとアンカー、クイックスタートガイド、カスタマーサポート",
+        "カスタマーサポート：製品に関して、疑問点がある場合は、カスタマーサポート(support@anker.com)へ問い合わせお願いします。"
+      ],
+      "query": "Anker Eufy Indoor Cam C220",
+      "asin": "B0CQQQ5NZ1"
+    },
+    {
+      "title": "アトムテック(ATOM tech) 屋内/屋外兼用の防犯カメラ ATOM Cam 2 (アトムカムツー) 1080PフルHD Alexa対応 見守りカメラ 監視カメラ ネットワークカメラ ペットカメラ/ベビーモニター AC2",
+      "url": "https://www.amazon.co.jp/dp/B094YDG7ZV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31RIgi7dJlL._SL500_.jpg",
+      "features": [
+        "複数個ご購入の場合はアトムテック公式サイトもご確認下さい。",
+        "1080pの高画質:気になるところはスムーズに拡大(デジタル8倍ズーム)し、120°の画角により、スマホ画面でくまなく確認することができます。 ※HDモード:1080p/SDモード:720p/360pモードを選ぶことができます。",
+        "カラーナイトビジョン:高感度CMOSセンサーで、月明かり程度の光(0.1ルクス程度)でも鮮明に人やものを映すことができます。",
+        "通話機能・音声監視機能:マイクとスピーカー内蔵なので、設置場所の人やペットとの会話はもちろん、侵入した不審者へ警告することもできます。",
+        "セキュリティ対策の防犯カメラ/監視カメラとして、またペットカメラや子供の見守りカメラとして使用できます。",
+        "屋内屋外兼用です。"
+      ],
+      "query": "ATOM Cam 2 ネットワークカメラ",
+      "asin": "B094YDG7ZV"
+    },
+    {
+      "title": "Google Nest Cam 1080p モーションのみ (屋内、屋外対応 / バッテリー式) ホワイト GA01317-JP",
+      "url": "https://www.amazon.co.jp/dp/B09WQZHBTN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21NwfouSQTL._SL500_.jpg",
+      "features": [
+        "【カメラ】・1/3インチ 2メガピクセル センサー・対角画角 130°・6倍デジタルズーム・アスペクト比 16：9【動画】・最大 1080p、30 FPS・HDR・H.264 エンコード　商品モデル番号:GA01317-JP",
+        "【音声】 ・スピーカーとマイク ・ノイズ キャンセル機能付きの全二重双方向音声 【モーション検出】 ・モーション センサー（1台） ・水平画角 110° ・最大 7.5 m",
+        "【夜間撮影対応】 ・6 x 850 nm IR LED ・最大 6.1 m 先までの照射に対応 【無線】 ・Wi-Fi： 802.11a/b/g/n（2.4 GHz / 5 GHz） ・Bluetooth Low Energy（BLE）",
+        "【セキュリティ】 ・オンデバイス ML ・セキュアブート ・セキュリティの自動更新 ・128 ビット AES（TLS / SSL） 【ポートとコネクタ】 ・ポゴピン磁気コネクタ 【電源】 ・6Ah リチウムイオン電池 ・屋内用定格充電ケーブル（1 m） ・7.5 W USB-A 電源アダプター",
+        "【取り付けオプション】 ・壁面に 2 本のネジで取り付け ・金属面にマグネットで貼り付け 【動作温度】 ・-20°C～40°C 【防水・防塵】 ・防水・防塵性能（IP54） 【照明】 ・RGB ステータス LED"
+      ],
+      "query": "Google GA01317-JP Nest Cam",
+      "asin": "B09WQZHBTN"
+    },
+    {
+      "title": "パナソニック ネットワークカメラ スマ@ホーム 広画角レンズ タイムラプス搭載 屋内HDカメラ KX-HRC100-K",
+      "url": "https://www.amazon.co.jp/dp/B08L7953HZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ldCUEnaJL._SL500_.jpg",
+      "features": [
+        "本商品はWorks with Alexa認定を受けたAmazon Alexa対応端末です。",
+        "広画角でお部屋を広く見わたせペットやお子様の様子を見守れる。",
+        "フルHD、広画角レンズでお部屋をひろびろ確認できます。",
+        "1日の動画を短時間で楽しめる「タイムラプス機能」。",
+        "動作・温度・音を検知しスマホにお知らせ。"
+      ],
+      "query": "Panasonic KX-HRC100 見守りカメラ",
+      "asin": "B08L7953HZ"
+    }
+  ],
+  "all_candidates": []
+}

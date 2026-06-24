@@ -13,8 +13,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 1. **データ読み込み**: Codexが `06_research/YYYY-MM/` に用意した対象記事のJSON（またはMarkdownデータ等）を読み込みます。
 2. **記事執筆**: Claudeスキルの `/note-daily-gadget-write-article` (実体: `.claude/skills/note-daily-gadget-write-article/SKILL.md`) のルール（特に「島フォーマット」と禁止事項）に厳格に従い、記事の初稿を作成します。
 3. **推敲・保存**: `02_article/YYYY-MM/` に、指定されたファイル名（例：`YYYY-MM-DD_タイトル.md`）で記事Markdownを保存します。
-4. **メタデータの追記**: 記事保存後、直ちに `02_article/YYYY-MM/_metadata.json` にその記事のメタデータ（tags, thumbnail_text, category等）を直接書き込んで完了です。
-    *   ※完了後のスケジュール更新（打ち消し線）やクオリティの最終監査はCodexが行います。
+4. **メタデータ追記＋スケジュール打ち消し**: 記事保存後、直ちに `02_article/YYYY-MM/_metadata.json` に当該記事のメタデータ（tags, category, published_date等）を追記し、`03_schedule/schedule_2026.md` の該当行の Title 列全体を `~~ ... ~~` で囲みます。
+5. **バッチ完了後の監査 (Phase 3)**: 1週間分の執筆が完了したら、Claudeが `/note-daily-gadget-audit-articles` スキル（実体: `.claude/skills/note-daily-gadget-audit-articles/SKILL.md`）を呼び出します。このスキルは Codex を読み取り専用モードで起動し、URL/ASIN/affiliateタグ・サムネイル・metadata・schedule・handoffノート遵守を一括監査します。`CRITICAL`/`ERROR` が報告された場合は Claude 側で修正したうえで再監査を提案します。
 
 ## ディレクトリ構成と役割
 
@@ -22,6 +22,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `02_article/YYYY-MM/` — 【出力】あなたが執筆した記事Markdownの保存先。
 - `03_schedule/schedule_2026.md` — 【参照】投稿予定日とタイトルの一覧表。
 - `.claude/skills/note-daily-gadget-write-article/SKILL.md` — 【重要】メイン執筆ルール（記事フォーマット・禁止事項・トーン等）。
+- `.claude/skills/note-daily-gadget-audit-articles/SKILL.md` — 【Phase 3】バッチ完了後にCodex経由で品質監査を行うスキル。
 - `.docs/note_account_design.md` — ブランドトーン・ターゲット定義。
 - `.docs/magazines.md` — 5つのマガジンカテゴリ定義。
 

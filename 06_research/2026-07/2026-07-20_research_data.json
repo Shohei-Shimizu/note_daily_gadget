@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-20",
+  "title": "生成 AI を使いこなす。文章・画像作成に適した「AI PC」 7 選",
+  "queries": [
+    {
+      "query": "Microsoft Surface Laptop 13 Snapdragon X Plus",
+      "include": [
+        "Surface Laptop",
+        "Snapdragon X Plus"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム",
+        "充電器"
+      ]
+    },
+    {
+      "query": "ASUS Vivobook S 14 Copilot+ PC Ryzen AI",
+      "include": [
+        "Vivobook S 14",
+        "Ryzen AI"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム"
+      ]
+    },
+    {
+      "query": "Lenovo Yoga Slim 7i Aura Edition Core Ultra",
+      "include": [
+        "Yoga Slim 7i",
+        "Core Ultra"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム"
+      ]
+    },
+    {
+      "query": "HP OmniBook Ultra Flip AI PC",
+      "include": [
+        "OmniBook",
+        "Ultra Flip"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム"
+      ]
+    },
+    {
+      "query": "Dell XPS 13 Copilot+ PC Snapdragon X Elite",
+      "include": [
+        "XPS 13",
+        "Snapdragon"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム"
+      ]
+    },
+    {
+      "query": "Acer Swift 14 AI Copilot+ PC",
+      "include": [
+        "Swift 14 AI"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム"
+      ]
+    },
+    {
+      "query": "Apple MacBook Air M4 15インチ",
+      "include": [
+        "MacBook Air",
+        "M4",
+        "15"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム",
+        "充電器"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "マイクロソフト Surface Laptop 13 インチ Snapdragon X Plus 16GB 256GB プラチナ EP2-36993",
+      "url": "https://www.amazon.co.jp/dp/B0F83TRN69?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41n+cxIG+pL._SL500_.jpg",
+      "features": [
+        "【プロセッサ・NPU・グラフィクス】プロセッサ: Snapdragon X Plus (8 コア) / NPU: Qualcomm Hexagon (45 TOPS) / グラフィクス: Qualcomm Adreno GPU",
+        "【メモリ・ストレージ】メモリ オプション: 16 GB LPDDR5x RAM / ストレージ オプション: リムーバブル 256GB、512GB (UFS)",
+        "【ディスプレイ・サイズ・重量・バッテリー駆動時間】13 インチ PixelSense タッチスクリーン、解像度:1920 x 1280 (178 PPI)、縦横比: 3:2、コントラスト比: 1000:1、リフレッシュ レート: 最大 60 Hz、カラーの設定: sRGB、Enhanced / サイズ: 285.65 mm (幅）x 214.14 mm (奥行) x 15.6 mm (高さ）/ 重量:1.22 kg / バッテリー駆動時間：最大 23 時間のローカル ビデオ再生または最大 16 時間のアクティブな Web 使用",
+        "【カメラ・オーディオ・マイク・ポート】カメラ：フル HD フロント Surface Studio カメラ、1080P フル HD カメラ、自動フレーミング、ポートレート ブラー、クリエイティブ フィルター (イラスト、アニメーション、水彩画)、アイ コンタクト、ポートレート ライトを備えた Windows スタジオ エフェクト対応 / オーディオ：Dolby Audio 搭載 Omnisonic スピーカー、Bluetooth LE Audio 対応 / マイク: 音声フォーカス搭載 デュアル スタジオ マイク / ポート: 2x USB-CまたはUSB 3.2 ポート、1x USB-A 3.1、1x 3.5 mm ヘッドホン ジャック",
+        "【ソフトウェア・セキュリティ・保証・同梱物】ソフトウェア：Windows 11 Home、Xbox アプリ搭載、PC Game Pass 30 日試用版、Microsoft 365 Personal（24か月版）/ Office Home ＆ Business 2024 オプション付 / セキュリティ: Microsoft Pluton TPM 2.0 、Windows 11 セキュア コア、サインイン セキュリティの強化を使用した Windows Hello 指紋認証電源ボタン、Microsoft Defender / 保証: 1 年間のハードウェア保証 / 同梱物: Surface Laptop、USB-C 充電ケーブル、Surface 45W USB-C 充電器、クイック スタート ガイド、安全性および保証に関する書類"
+      ],
+      "query": "Microsoft Surface Laptop 13 Snapdragon X Plus",
+      "asin": "B0F83TRN69"
+    },
+    {
+      "title": "ASUS ノートパソコン Vivobook S 14 M3407KA 14インチ AMD Ryzen AI 5 330 メモリ16GB SSD 512GB MS Office 2024搭載 Windows 11 重量 1.4kg Wi-Fi 6 Webカメラ内蔵 Type-C給電対応 有機ELパネル搭載 Copilot+PC AI PC マットグレー M3407KA-AI5165GRS/A",
+      "url": "https://www.amazon.co.jp/dp/B0FLJPSTF3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Ny9ZZfR0L._SL500_.jpg",
+      "features": [
+        "【OS】Windows 11 Home 64ビット【カラー】マットグレー【ディスプレイ】14.0型 OLED (有機EL)、グレア、1,920×1,200ドット (60Hz)【本体サイズ】幅315.2mm×奥行き223.4mm×高さ15.9～18.6mm 約1.4kg【バッテリー駆動】※計測中【消費電力】最大約65W",
+        "【CPU】AMD Ryzen AI 5 330 4 コア / 8 スレッド プロセッサ 【NPU】AMD Ryzen AI (NPU パフォーマンス 最大 50 TOPS)【メモリ】16GB DDR5-5600【スロット】SODIMMスロット×1 (空き×1) + オンボードメモリ16GB【グラフィックス】Radeon グラフィックス (CPU内蔵)【ストレージ】512GB (PCI Express 4.0 x4接続 NVMe/M.2)【Office】Microsoft 365 Basic (1年間使用権) + Office Home & Business 2024 (デジタルアタッチ版)",
+        "【キーボード】84キー日本語キーボード (イルミネートキーボード) (JIS配列)【ポインティングデバイス】マルチタッチ・タッチパッド【webカメラ】207万画素赤外線 (IR) カメラ内蔵(プライバシーシャッター付)【オーディオ】ステレオスピーカー内蔵 (2W×2)、アレイマイク内蔵、マイクロホン/ヘッドホン・コンボジャック×1",
+        "【USBポート】USB3.2 (Type-C/Gen1/Power Delivery対応)×2 ※データ転送と映像出力、本機への給電をサポート、USB3.2 (Type-A/Gen1) ×2【外部ディスプレイ出力】HDMI×1、Type-C×2【通信機能】無線LAN:IEEE802.11a/b/g/n/ac/ax (Wi-Fi 6)、Bluetooth 5.3【カードリーダー】なし【その他】顔認証対応",
+        "【本体：購入日より12ヵ月間のインターナショナル保証＋購入日より12ヵ月間のASUSのあんしん保証（日本国内保証・要登録）※製品購入後30日以内にMyASUSで製品登録が必要】 【バッテリーおよびACアダプター：購入日より12ヵ月間の日本国内保証】【主な付属品】ACアダプター、製品マニュアル、製品保証書"
+      ],
+      "query": "ASUS Vivobook S 14 Copilot+ PC Ryzen AI",
+      "asin": "B0FLJPSTF3"
+    },
+    {
+      "title": "【Amazon.co.jp限定】Lenovo ノートパソコン copilot pc Yoga Slim 7i Aura Edition Gen 11 14.0インチ インテル Core Ultra 5 プロセッサー 325 メモリ16GB SSD512GB MS Office搭載 Windows11 バッテリー駆動18.8時間 重量1.14kg ルナグレー 83QM006FJP copilot+",
+      "url": "https://www.amazon.co.jp/dp/B0H5BBBX2T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/516sshhYDgL._SL500_.jpg",
+      "features": [
+        "【OS】Windows 11 Home 64bit (日本語版)【CPU】インテル Core Ultra 5 プロセッサー 325",
+        "【メモリ】16GB【SSD】512GB (PCIe NVMe/M.2)",
+        "【ディスプレイ】 14.0型 WUXGA OLED (有機ELディスプレイ、1920x1200ドット、最大10.74億色、16:10、フリッカーフリー、DisplayHDRTrue Black 500、Dolby Vision対応) 、光沢あり",
+        "【インターフェース】USBポート Type-C：3xThunderbolt 4 (USB PD/DP Alt Mode) 、マイクロホン/ヘッドホン・コンボ・ジャック：0、イーサネット・コネクター(RJ-45)：0",
+        "【WiFi・Bluetooth】Wi-Fi 7対応 (IEEE802.11be/ax/ac/a/b/g/n)、Bluetooth v5.4",
+        "【Amazon.co.jp限定】Amazon限定モデルではIntel Core Ultra 5 325を搭載し、より高い処理性能になっております。"
+      ],
+      "query": "Lenovo Yoga Slim 7i Aura Edition Core Ultra",
+      "asin": "B0H5BBBX2T"
+    },
+    {
+      "title": "HP ノートパソコン OmniBook Ultra Flip 14-fh 14.0インチタッチディスプレイ OLED液晶 Intel Core Ultra 7 32GBメモリ 1TB SSD Microsoft Office H&B 2024 Windows11 Home Windows Copilotキー搭載 AIPC NPU 47 TOPS (型番：B0GM6PA-AAAF)",
+      "url": "https://www.amazon.co.jp/dp/B0DSLDLTBN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51pc-AiIrUL._SL500_.jpg",
+      "features": [
+        "[OS]Windows 11 Home[CPU]インテル Core Ultra 7 プロセッサー 258V[NPU]47 NPU TOPS[メモリ]32GB オンボード (LPDDR5x-8533MT/s)[ストレージ]1TB PCIe Gen4 NVMe M.2 SSD[グラフィックスタイプ]Intel Arc グラフィックス 140V (プロセッサーに内蔵)",
+        "[内蔵無線LAN]IEEE 802.11be (Wi-Fi 7)、 Bluetooth5.4[ディスプレイタイプ]14.0インチ・2.8K・OLED タッチディスプレイ (2880×1800 / 16:10 / 400nit / 48～120Hz / DCI-P3 100%) テュフ・ラインランドEyesafe認定ディスプレイ[外部ディスプレイ]最大 3840×2160",
+        "[サイズ]約 313 × 216 × 14.9 mm (最厚部) 約 1.34 kg[キーボード]バックライトキーボード (日本語配列)[標準保証]1年間 (引き取り修理サービス、パーツ保証)[使い方サポート]1年間[Officeソフト]Microsoft 365 Basic 12ヶ月試用版+Office Home & Business 2024 (デジタルアタッチ版)",
+        "[バッテリー駆動時間]最大 20時間[Windows Hello]指紋認証センサー、顔認証センサー[同梱物]HP リチャージャブル MPP2.0 アクティブペン (ブラック)[特典]Adobeソフト1カ月体験版バンドル",
+        "[製品特徴]AI時代の最先端プロセッサーを搭載した次世代PC。ローカルAIを活用できるCopilot+PCを内蔵し、使用用途に合わせてAIを使いこなすことが可能。ディスプレイは2.8K OLEDディスプレイを採用。360度回転するディスプレイとタッチペン対応でタブレットとしても利用できる唯一無二のパートナー"
+      ],
+      "query": "HP OmniBook Ultra Flip AI PC",
+      "asin": "B0DSLDLTBN"
+    },
+    {
+      "title": "2025 Dell XPS 13 9345 ノートパソコン Copilot+ AI PC (13.4インチ FHD+ 120Hz、Snapdragon X Plus (> Intel i7-1355U)、16GB 8448MT/s RAM、2TB SSD)、薄型&軽量、バッテリー寿命27時間、IRウェブカメラ、Wi-Fi 7、Win 1。 1 Pro",
+      "url": "https://www.amazon.co.jp/dp/B0G5PCZLVW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/419a-Ezrn4L._SL500_.jpg",
+      "features": [
+        "最初のCopilot+ XPSは、強力なオンデバイスAIを備えており、要求の厳しいマルチタスクワークロードをナビゲートするための最先端の応答性と比類のない速度を実現し、最薄で軽量なXPSでセキュリティと効率を強化します。 Snapdragon X Plus搭載のXPS 13は、複雑な作業負荷に簡単に対処し、画期的な複数日[2]バッテリー寿命を提供します。クラスで最も長い稼働時間。",
+        "Snapdragon X Plus (8コア最大3.2GHz、NPU最大45TOPS) X1P-42-100、16GB LPDDR5x 8448 MT/s RAM、2TB PCIe NVMe M.2 SSD。 Dell XPS 13はSnapdragon Plus X CPUを搭載。洗練されたデザイン、鮮やかなディスプレイ、強力なパフォーマンスを実現。 XPS 13でこれまでにないような作りに。",
+        "13.4インチ、ノンタッチ、FHD+ 1920x1200、30-120Hz、アンチグレア、500 nit、InfinityEdge、統合Qualcomm Adreno GPU、グラフィックスを搭載した優れたパフォーマンス。USB-C 4ポート経由で2台の4K UHDモニターに拡張可能。",
+        "Qualcomm FastConnect 7800 Wi-Fi 7 2x2 + Bluetooth 5.4 ワイヤレスカード; 2 x USB4 40Gbps USB Type-C ディスプレイポートと電源供給(Thunderbolt 3テクノロジー)。",
+        "セキュリティソリューション:McAfee+ Premium 1年間、指紋リーダー、顔認識用1080P IRウェブカメラ",
+        "開示:SSDをアップグレードするために新品のコンピュータが再封されました。 アップグレードされたSSDのIssaquah Highlands Techからの3年間の保証。 残りのコンポーネントについては、Dellから1年間の保証が付いています。",
+        "Windows 11 Professional 64ビット、AI搭載のコパイロットにより、さまざまなタスクをインテリジェントにサポートします。 学校教育、デザイナー、専門家、中小企業、プログラマー、カジュアルゲーム、ストリーミング、オンラインクラス、リモート学習、ズーム会議、ビデオ会議などに最適です。"
+      ],
+      "query": "Dell XPS 13 Copilot+ PC Snapdragon X Elite",
+      "asin": "B0G5PCZLVW"
+    },
+    {
+      "title": "acer Swift 14 AI Copilot+ PC | 14.5インチ 2.5K 120Hz タッチスクリーンノートパソコン Qualcomm Snapdragon X Plus 10コアプロセッサ 16GB LPDDR5X RAM 1TB SSD Wi-Fi 7 バックライトキーボード 指紋 Windows 11 Pro",
+      "url": "https://www.amazon.co.jp/dp/B0DB2N5HYP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/415g5ak7KfL._SL500_.jpg",
+      "features": [
+        "Qualcomm Snapdragon X Plus X1P-64-100プロセッサー。",
+        "Wi-Fi 7とBluetooth 5.4。",
+        "14.5インチマルチタッチディスプレイ IPS WQXGA (2560 x 1600) 300-Nitsディスプレイ。",
+        "タッチパッド、バックライトキーボード、1440pウェブカメラ。",
+        "Microsoft Windows 11 Pro。"
+      ],
+      "query": "Acer Swift 14 AI Copilot+ PC",
+      "asin": "B0DB2N5HYP"
+    },
+    {
+      "title": "【整備済み品】Apple MacBook Air M4 2025(15インチ,16GB RAM,256GB SSD,10コアCPU/10コアGPU）シルバー (整備済み品)",
+      "url": "https://www.amazon.co.jp/dp/B0GTYSX73N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41t6qvolqML._SL500_.jpg",
+      "features": [
+        "チップ:Apple M4﻿チ﻿ッ﻿プ/ 4つの高性能コアと6つの高効率コアを搭載した10コアCPU/10コアGPU/ハードウェアアクセラレーテッドレイトレーシング/16コアNeural Engine/120GB/sのメモリ帯﻿域﻿幅・メディアエンジン:ハードウェアアクセラレーテッドH.264、HEVC、ProRes、ProRes RAW/ビデオデコードエンジン/ビデオエンコードエンジン/ProResエンコード/デコードエンジン/AV1デコードエンジン",
+        "ディスプレイ:Liquid Retinaディスプレイ/IPSテクノロジー搭載15.3インチ（対角）LEDバックライトディスプレイ1、2,880 x 1,864ピクセル標準解像度、224ppi/ 500ニトの輝度・カラー/10億色対応/ 広色域（P3）/True Toneテクノロジー",
+        "バッテリーと電源:最大18時間のビデオストリーミング/最大15時間のワイヤレスインターネット/ 66.5Whリチウムポリマーバッテリー/デュアルUSB-Cポート搭載35Wコンパクト電源アダプタ/ USB-C - MagSafe 3ケーブル/70W USB-C電源アダプタによる高速充電に対応",
+        "ディスプレイのサポート:本体ディスプレイで標準解像度（10億色対応）と以下を同時サポート：最大2台の外部ディスプレイで最大6K解像度、60Hz/Thunderbolt 4デジタルビデオ出力/USB-C経由でDisplayPort 1.4出力に標準対﻿応",
+        "キーボードとトラックパッド:バックライトMagic Keyboard：12個のファンクションキー（フルハイト）、4つの矢印キー（逆T字型配列）を含むJIS配列準拠キーボード/ Touch ID/ 環境光センサー/カーソルを正確にコントロールできる、圧力感知機能を搭載した感圧タッチトラックパッド（強めのクリック、加速操作、感圧スケッチ、Multi-Touchジェスチャーが利用可能）"
+      ],
+      "query": "Apple MacBook Air M4 15インチ",
+      "asin": "B0GTYSX73N"
+    }
+  ],
+  "all_candidates": []
+}

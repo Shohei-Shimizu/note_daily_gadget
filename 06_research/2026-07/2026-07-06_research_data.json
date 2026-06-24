@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-06",
+  "title": "風切り音をカット。動画の音質を上げる「外部マイク」 5 選",
+  "queries": [
+    {
+      "query": "RODE Wireless Micro USB-C",
+      "include": [
+        "ワイヤレス マイクロ",
+        "USB-C"
+      ]
+    },
+    {
+      "query": "RODE Wireless PRO",
+      "include": [
+        "Wireless PRO"
+      ]
+    },
+    {
+      "query": "Hollyland LARK M2",
+      "include": [
+        "LARK M2"
+      ]
+    },
+    {
+      "query": "DJI Mic Mini ワイヤレスマイク",
+      "include": [
+        "DJI Mic Mini"
+      ]
+    },
+    {
+      "query": "BOYA mini ワイヤレスマイク",
+      "include": [
+        "BOYA",
+        "mini"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "RODE Microphones ロードマイクロフォンズ ワイヤレス マイクロ USB-C ブラック スマートフォン用超小型マイク（USB-C接続） WIMICROC",
+      "url": "https://www.amazon.co.jp/dp/B0DFXQDTDT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31GzPwjNu-L._SL500_.jpg",
+      "features": [
+        "ワイヤレスマイクロは、スマートフォンでクリアな音声を手軽に録音できる、ポケットサイズのワイヤレスマイクです。",
+        "どこにでも持ち運びやすい超コンパクトサイズ",
+        "ケーブルなし、複雑さなし、クリエイティブな作業に集中できる",
+        "常にクリアな音を手軽に集音",
+        "魅力あふれるコンテンツをRØDE Captureで手軽に作成"
+      ],
+      "query": "RODE Wireless Micro USB-C",
+      "asin": "B0DFXQDTDT"
+    },
+    {
+      "title": "RODE Microphones ロードマイクロフォンズ Wireless PRO ワイヤレス プロ デュアルチャンネルワイヤレスマイクシステム WIPRO",
+      "url": "https://www.amazon.co.jp/dp/B0CB2HGR9Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41OtryexuUL._SL500_.jpg",
+      "features": [
+        "RØDEの「ワイヤレスプロ」は、シリーズIV 2.4GHzデジタル伝送と128bit暗号化による最大260mまでの音声伝送を可能にした、ケーブル不要の高音質ワイヤレスマイクシステムです。音声録音のマージ/スプリットモード選択と最大7時間駆動を実現しています。",
+        "32GBメモリを内蔵し、32bit float でのオンボード録音機能が可能です。また、接続が途絶えた場合でも40時間以上の録音バックアップを保証します。美しい音質で安心の映像制作をサポートします。",
+        "32bit floatオンボード録音、ゲインアシスト、セーフティチャンネル機能を装備。最適なゲイン調整と、大きな音やノイズから守るバックアップ音源出力で、クリアな音声録音が可能です。",
+        "タイムコード機能を搭載。3.5mmTRS端子とUSB-C端子から出力可能。さらに5パターンの割り当てが可能で、複数機器へのシンクも容易。万が一の接続切れでも、送信機タイムコードが自動同期を保証します。",
+        "PCやスマートフォンに直接接続ができ、ウェビナーやオンライン会議でクリアな音声を配信します。iOS端末では専用アプリ「RØDE Capture」で便利に利用可能。さらに、受信機にヘッドセットを接続すれば3チャンネル目の入力音声も可能で、より多機能な映像制作を支えます。詳細設定はアプリで変更できます。"
+      ],
+      "query": "RODE Wireless PRO",
+      "asin": "B0CB2HGR9Q"
+    },
+    {
+      "title": "Hollyland Lark M2 ワイヤレスマイク-ピンマイク USB Type-C 軽量9g ノイズキャンセリング 48kHz/24Bit 300m転送距離 iPhone/Android/PC対応 Vlog撮影用 (黒)",
+      "url": "https://www.amazon.co.jp/dp/B0CP7P4RRQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51PNwUXTVxL._SL500_.jpg",
+      "features": [
+        "「Hi-Fiスタジオ級音質」LarkM2ワイヤレスマイク技術仕様：48Khz/24Bit信号対雑音比（SNR）≥70dB。ホワイトノイズを制圧ます。音圧レベル（SPL）は115dBになります。",
+        "「上位機種と同じノイズキャンセリング技術」本ピンマイクは、上位機種と同じのノイズキャンセル技術を採用します。音声品質がクリアで歪みのないまま、大きな録音環境でも維持されます。",
+        "「信じられない大きさ」重さわずか9gのLARK M2ワイヤレスラベリアマイクロホンは、軽量なミニマイクです。ロスレスサウンド再生と録音機能により、比類のない録音性能を発揮します。ワイヤレス音声伝送は、見通し距離300メートルまで届きます。映画制作者、ブロガー、ポッドキャスターに愛用されます。",
+        "「30時間動き」LARK M2ワイヤレスマイクは、単回10時間（ENCオフ時）の使用が可能です。充電ケースでセット全体を2回フル充電でき、1回の充電にかかる時間は1.5時間です。充電ケースを使用した場合、COMBO版のバッテリー持続時間は40時間です。もうバッテリー残量を心配する必要はありません。",
+        "「受信機抜けず即時再生」LARK M2ワイヤレスマイクは、レシーバーに直接プラグを接続します。わずらわしい配線をなくし、真のワイヤレスレコーディング体験を提供します。LightingバージョンのレシーバーはMFi認定済み、USB-CバージョンはAndroid携帯、Apple 17、アクションカメラ、コンピューター用に設計されており、クリアで鮮明なサウンドを出力します。"
+      ],
+      "query": "Hollyland LARK M2",
+      "asin": "B0CP7P4RRQ"
+    },
+    {
+      "title": "DJI Mic Mini（2 TX + 1 RX + 充電ケース） ピンマイク ワイヤレス 超軽量 48時間使用 ノイズキャンセリング 自動制限機能 カメラ／iPhone／Android用ワイヤレスマイク Vlog撮影 ストリーミング",
+      "url": "https://www.amazon.co.jp/dp/B0DDL8WGH5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41DQ6v6fKFL._SL500_.jpg",
+      "features": [
+        "【小さくてもパワフル】 - DJI Mic Miniトランスミッターは、小型で重さわずか10 gの超軽量です[1]。快適に装着でき、目立たないデザインで、マイクを付けていても外観を損ねません。",
+        "【細部まで豊かなサウンド 】- Mic Miniは高品質なオーディオを実現します。400 mの最大伝送距離で[2]、雑踏などの賑やかな屋外環境でも安定した収録が可能です。",
+        "【長時間バッテリーによる長い収録時間】 - Mic Miniと充電ケースを併用することで、最大48時間のバッテリー駆動時間を実現し[3]、長時間の移動やインタビュー、ライブ配信、その他の集中的な使用が必要なシーンに最適です。",
+        "【DJIエコシステムに直接接続】 -DJI OsmoAudioを使用すると、トランスミッターをレシーバーなしでOsmo Nano、Osmo 360、Osmo Mobile 7P、Osmo Action 5 Pro、Osmo Action 4、Osmo Pocket 3に接続でき、プレミアムな音声が実現します。",
+        "【パワフルなノイズキャンセリング】 - 静かな屋内環境に最適なベーシックレベル、騒音の多い環境でも鮮明な音声収録を効果的に実現する強レベルの2つのノイズキャンセリングレベルを装備しています[8]。",
+        "【常に信頼性の高いオーディオ品質】 - DJI Mic Miniは、音声入力が大きすぎる場合に音量を自動で制限する機能を備えており、音割れを防止し、どのような設定でも信頼性の高い音声品質を実現します。",
+        "DJI Mic Mini TX 2台、RX 1台、充電ケース、その他アクセサリーが付属しており、インタビューやライブ配信、コンテンツ制作など、さまざまな長時間の収録に対応するよう最適化されています。"
+      ],
+      "query": "DJI Mic Mini ワイヤレスマイク",
+      "asin": "B0DDL8WGH5"
+    },
+    {
+      "title": "BOYA Mini 2 ワイヤレスラベリアマイク Android/iPhone17-15/PC対応 USB-Cプラグ、ノイズキャンセリング、充電ケース付きで30時間バッテリー駆動、デュアルチャンネル、セーフティトラック、ビデオ録画・ポッドキャスト用ラペルマイク",
+      "url": "https://www.amazon.co.jp/dp/B0DJSM8PHP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31XhGTzQihL._SL500_.jpg",
+      "features": [
+        "【MINIだけどパワフル】BOYA mini 2 ワイヤレスラベリアマイクは、わずか5グラムの軽さで、ポッドのような形状が特徴。外出時にも最適なパートナーです。BOYAの小型ラペルマイクは、カメラバッグやポケット、バックパック、小さなハンドバッグなどに収納可能なポータブルワイヤレスマイクで、ロスレスCD品質のサウンドを提供し、プロフェッショナルな録音デバイスです。",
+        "【3段階のAIノイズキャンセリング】BOYA mini 2 ワイヤレスマイクは、ワンクリックでノイズ減少レベルを調整でき、ノイズ干渉をカットします。DSPノイズキャンセリング技術により、どんなシナリオでもあなたの声をクリアに保ちます。最大音圧レベル120dBでも鮮明な音声を維持し、高音環境での録音に最適です。",
+        "【30時間のバッテリー駆動】このクリップ型マイクは、最大6時間の連続使用が可能。コンパクトな充電ケースはセット全体を1.5回充電でき、充電ケースを使うことで総バッテリー駆動時間は30時間に延長されます。使用中の電池切れを心配する必要はありません。",
+        "【自動ペアリング、100メートルの伝送距離】ワイヤレスラベリアマイクは、すぐに使用可能で、信号の途切れなく安定した伝送を楽しめます。受信機がデバイスに接続されると、青色のライトが点灯し、録音準備が整ったことを示します。受信機を取り外さずにビデオを再生でき、再生がスムーズで便利です。",
+        "【新世代アップグレードモデル】BOYA mini 2 従来モデルを大幅に進化。より安定した性能と優れた音質を実現しました。専用アプリ「BOYA Central」に対応し、音声設定の迅速な調整が可能に。デュアルチャンネル収録とセーフティトラック機能を搭載し、ポストプロダクション編集がより便利になりました。",
+        "幅広いUSB-C互換性：BOYA mini 2-02は、USB-C受信機、2つの送信機、充電ケースを搭載し、iPhone 17/16/15シリーズAndroid Type-CスマートフォンやタブレットなどのUSB-Cインターフェイスモバイルデバイスをサポートします。【ヒント Android携帯電話の場合は、マイクを接続する前に、携帯電話の設定でOTG機能をオンにしてください。】",
+        "【あらゆる録音シーンに最適】このミニマイクは、ショートビデオ撮影、ボイスオーバー、ライフスタイルVlog、ライブストリーミングやムクバン、会議やインタビュー、オンライン授業や歌唱セッションなど、さまざまな録音シーンに最適です。心温まるストーリーを共有したり、ユーモアで楽しんだりする際、このマイクはその瞬間を完璧に捉えます。"
+      ],
+      "query": "BOYA mini ワイヤレスマイク",
+      "asin": "B0DJSM8PHP"
+    }
+  ],
+  "all_candidates": []
+}

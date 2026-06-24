@@ -1,0 +1,211 @@
+{
+  "date": "2026-07-26",
+  "title": "クリエイター必見。作業を加速させる「ダイヤルデバイス」 7 選",
+  "queries": [
+    {
+      "query": "TourBox Elite Plus 左手デバイス",
+      "include": [
+        "TourBox",
+        "Elite Plus"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "TourBox NEO 左手デバイス",
+      "include": [
+        "TourBox",
+        "NEO"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Elgato Stream Deck Plus 本体",
+      "include": [
+        "Stream Deck +",
+        "ダイヤル"
+      ],
+      "exclude": [
+        "専用",
+        "Dials",
+        "スタンド",
+        "ケース"
+      ]
+    },
+    {
+      "query": "Loupedeck Live S 編集コントローラー",
+      "include": [
+        "Loupedeck",
+        "Live S"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "XP-PEN ACK05 ワイヤレスショートカットリモート",
+      "include": [
+        "ACK05"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "HUION Keydial Mini Bluetooth K20",
+      "include": [
+        "Keydial",
+        "Mini"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "8BitDo Micro Bluetooth ゲームパッド 左手デバイス",
+      "include": [
+        "8BitDo",
+        "Micro"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "TourBox Elite Plus、iPad左手デバイス Bluetooth 片手デバイスとして創作をスマートに操る統合型コントローラー 動画編集・写真編集・イラスト制作に最適 触覚フィードバック搭載 Procreate Photoshop Lightroom DaVinci Resolve Mac/Windows/Android対応（アイストランスルーセント）",
+      "url": "https://www.amazon.co.jp/dp/B0DR2MHF2L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31jw--8tiQL._SL500_.jpg",
+      "features": [
+        "【スマート・統合操作・オールインワン】ソフトウェアごとにショートカットを覚え直す必要はありません。TourBox Elite Plusは、iPadOS、Android、macOS、Windows、各システムの主要クリエイティブアプリ全てに対応し、一致する操作ロジックを提供します。一度設定すればすぐ使える。学習も作業も効率最大化。",
+        "【クリエイティブワークフローを再構築】業界での7年にわたる実績と進化。片手デバイスTourBoxはデジタルペインティング、写真編集、動画編集のワークフローを再構築しました。お絵描き、アニメーション制作、画像編集・加工、音楽、ビデオ編集、グラフィックデザイン、Live2D、3Dモデリングなどに最適。",
+        "【ソフトウェアの機能をディープマッピング】TourBox Elite PlusではCLIP STUDIO PAINT、Procreate、Premiere Pro、Lumafusion、Photoshop、Lightroom Classic向けの初期プリセットを搭載。さらに専用のビルトインによってMediBang Paint、Artstudio、Davinci Resolve、After Effects、PowerDirector、Filmora、FCPX、Illustrator、Affinity Designerのようなソフトも自在に操作できます。",
+        "【TourBox “Hardware + Software” 】 左手ツール「TourBox Elite Plus」では、最新ソフト＆ハードをサポート。基本から応用までフルカバーします。基本操作：ノブとボタンの組み合わせでキーボードやマウスクリックを実現。プロレベル：プロユーザー向けに、AdobeやDaVinciなどの直感的なプリセットコマンドを搭載。カスタマイズ：視覚的に設定できるマクロ機能、HUD、ビルトインライブラリ、カーソル調整、マウスドラッグシミュレートなどのカスタムに対応。",
+        "【For Creators, By Creators】世界中で30万人以上のユーザーが片手キーボードTourBoxを使用しています。98％のユーザーが1週間で操作を習得。ユーザーからのフィードバックを積極的に採用し、これまでに50回以上のソフトウェアアップデートを実施しています。*一般的なショートカットデバイスと違って、TourBoxは持続的なアップデートを行い、続々と新機能を追加しています。",
+        "【世界中のクリエイターとプリセットをシェア】TourBox Elite PlusはCLIP STUDIO PAINT （クリスタ）、PaintTool SAI、Final Cut Pro、Premiere Proなどメジャーなソフト向けの初期プリセットを用意してあります。自分で割り当てる必要がなく、すぐに使用可能です。ユーザーコミュニティにはユーザー制作のプリセットも豊富にそろっているので、初心者でもトップレベルのクリエイターのワークフローを体験できます。",
+        "【NO.1左手デバイス】WindowsPC、Macbook、液タブ、板タブ、マウスに対応。左右の手をバランスよく使える設計により、イラスト制作、動画編集、画像編集の効率を大幅に向上させます。特にTourBox Elite Plusを使用しての描画効率は170%アップで、お絵描きがより手軽に。最新の軌跡アルゴリズムによって操作の精度も上がり、ペンタブレットを使用する際の両手のストローク量は60%減少、疲労軽減にも繋がります。左利きでも右利きでも使いやすいようにノブを配置しています。",
+        "【ご注意：対応OS】iPadOS 13以降、Android 12以降、macOS 10.13以降、Windows 10以降（64ビット対応）※iOS（iPhone）、Linuxには対応していません。",
+        "※同梱内容：Elite Plus 本体、単三電池2本 (1.5V)、クイックスタートガイドが含まれています。（USBケーブルや専用トラベルケース付きのアクセサリーキット入りバージョンをご希望の場合は、対応バージョンをお選びください。）"
+      ],
+      "query": "TourBox Elite Plus 左手デバイス",
+      "asin": "B0DR2MHF2L"
+    },
+    {
+      "title": "TourBox NEO 公式ストア プロ 左手デバイス 片手キーボード イラスト制作 画像 動画編集 絵描き アニメ デザイン 絵師 カスタム マクロ ショートカット ブラインド操作 Clip Studio Paint Illustrator DaVinci Resolve Premiere Lightroom Photoshop 板タブ 液タブ ペンタブ用 マウス Windows/Mac対応",
+      "url": "https://www.amazon.co.jp/dp/B08HCV1JGB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31T7JSuzMnL._SL500_.jpg",
+      "features": [
+        "【接続環境】有線接続で安定した操作性と高速レスポンスを実現、macOSとWindowsに対応。ご注意：Elite、LiteおよびNEOはiPadOSとAndroidのデバイスに対応できません（iPadやAndroidシステムのタブレットなど）。",
+        "【ハードウェアとソフトウェアの幅広い互換性】TourBoxはPhotoshop、Lightroom、Premiere Pro、Illustrator、DaVinci Resolve、Final Cut Pro、Clip Studio Paint、Camera Raw、Capture One Pro、SAIなどキーボードショートカットを使うMacとWindowsのソフトウェアほぼ全てに対応できます。",
+        "【完全カスタマイズ可能なボタン】ボタン11個とノブ、スクロール、ダイヤルを搭載しており、これらの単独使用または組み合わせで100 以上の入力方法を設定可能です。ツールのパラメータ調整や切り替えなどをすばやく処理し、集中できる作業環境をサポートして生産性を40％向上させます。",
+        "【ノールック片手コントロール】コンパクトなサイズと考え抜かれたボタンレイアウトのTourBoxは片手で楽々操作できます。ボタンとノブ、スクロール、ダイヤルは形が全て異なりますので、作業中に視線を動かして探す必要がありません。初心者もエキスパートもすばやく使いこなせます。",
+        "【多機能なカスタマイズコンソール】TourBoxは単なるショートカットコントローラーではありません。①豊富なビルトイン機能②オートスイッチ：使用中のソフトウェアを認識してプリセットを自動切り替え③マクロコマンド：マウス、キーボードショートカット、テキスト入力からファイルやフォルダー、リンクを開く操作までワンクリックで実行④Tourメニュー：10種類の機能をワンクリックにまとめるオーバーレイ型メニューなど自社開発した様々な機能を搭載しています。",
+        "【使いやすさを追求したデザイン】肌に優しい素材を使用し、厳選したプロセスを経た人間工学デザインのボディが手のひらにぴったりと心地よくフィット。20万回の耐久テストをクリアしているほか、適度な重さで作業中に動いてしまうことがなく安定して操作できます。まさに使いやすさを追求したクリエイターのための秘密兵器です。ケーブル端子は片方直線、片方90度になります。どちらもTourBoxに接続できますので、ご了承ください。(ページ上の画像をご参照ください)"
+      ],
+      "query": "TourBox NEO 左手デバイス",
+      "asin": "B08HCV1JGB"
+    },
+    {
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck +, オーディオミキサー, コンテンツクリエイターのためのライブ制作とスタジオコントローラー, ストリーミング, 配信, ゲーミング, カスタム可能なタッチストリップとダイヤルおよびLCDキー搭載, Mac/PC対応",
+      "url": "https://www.amazon.co.jp/dp/B0CDWQS6NW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31QM3pkDwDL._SL500_.jpg",
+      "features": [
+        "触覚コントロール、視覚フィードバック: LCDキー、タッチストリップ、ダイヤルでオーディオ、ビデオ、照明、その他をコントロール。コマンドが実行されたことを確認したり、ダイヤルの情報を表示できます。",
+        "100%カスタム可能: オーディオミキサー、スタジオコントローラ、プロダクションコンソールなど使用可能。",
+        "マルチアクション、スマートプロファイル: 複数のアクションを同時に、または連続してトリガ、アプリごとに指定したインターフェース構成を自動的に切り替えられます。",
+        "パワフルなプラグイン: Elgato Wave Link、Camera Hub、Control Center、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue、その他多くに対応。",
+        "Stream Deckアプリ、ストア: セットアップとカスタムインターフェースアイコンをドラッグ & ドロップ。 プラグイン、アイコン、数千もの著作権使用料無料のトラック、サウンドエフェクトなどをダウンロードできます。定期的なアップデートと、頻繁に追加される新しいプラグイン。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "query": "Elgato Stream Deck Plus 本体",
+      "asin": "B0CDWQS6NW"
+    },
+    {
+      "title": "Loupedeck Live S – 日々のPC作業や配信、コンテンツ制作を効率化するカスタムコントローラ。LEDタッチスクリーンボタンと物理ダイヤル、RGB物理ボタンを搭載【日本語対応及び日本語サポート】",
+      "url": "https://www.amazon.co.jp/dp/B0BMLQYZNF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41uJonOycwL._SL500_.jpg",
+      "features": [
+        "豊富なネイティブ対応プラグイン: OBS Studio, Streamlabs (Windows), Twitch, Ecamm, vMix, Spotify, Adobe Premiere Pro, Final Cut Pro, Photoshop 等、その他主要なストリーミング、編集用アプリケーションにAPIベースで対応し、複雑なアクションも簡単にコントロールします。各プロファイルも初期設定されており、すぐにご利用頂けます。",
+        "配信作業のコントロールセンター: 1. 配信､チャット､音声､マイク､ライティングを自在にコントロール　2. メディア､アプリケーション､WEBなど各ツールの起動　3. ダイヤル操作で編集やカラーグレーディングも瞬時に実行　4. アプリケーションやプロファイル間をストレスなく自動で切替。",
+        "充実したマーケットプレイス: 200種類を超えるプロファイルやプラグイン､アイコンやサウンドパックをダウンロードできます。Microsoft Flight Simulator, Twitch Studio, Philips Hue, Nanoleaf, Elgato, Voicemod, GoXLR, Voicemeeter, Davinci Resolve Color Panel, Notionなどの人気ツールが公開されており、日々新しいコンテンツが追加されています。",
+        "強力なカスタマイズ性: 最大14ページに及ぶタッチボタン及びダイヤルの設定が可能で、スワイプでページ間を簡単に移動。複雑なマクロコマンド(複数のアクションを一度に実行)やマルチトグル(同一ボタンで実行する毎に機能を変更)、ダイヤル調整アクションなど、数多くのアクションを作成して割り当てることができます。",
+        "直感的な操作が可能: フィードバック機能付きLEDタッチボタン、押し込み機能付きアナログダイヤル、カスタム可能なRGB物理ボタンを搭載し、直感的なコントロールを実現しました。"
+      ],
+      "query": "Loupedeck Live S 編集コントローラー",
+      "asin": "B0BMLQYZNF"
+    },
+    {
+      "title": "XP-PEN ワイヤレスショートカットリモート ACK05",
+      "url": "https://www.amazon.co.jp/dp/B0CM3DWCZN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31vqgwpt6AL._SL500_.jpg",
+      "features": [
+        "【メーカー名】XP-PEN",
+        "入り数1個",
+        "その他アクセサリ（IOT・DX関連）"
+      ],
+      "query": "XP-PEN ACK05 ワイヤレスショートカットリモート",
+      "asin": "B0CM3DWCZN"
+    },
+    {
+      "title": "HUION 左手デバイス 片手キーボード bluetooth 5.0 ワイヤレス接続 液タブ ペンタブレット用 動画 画像 編集 クリエイター Keydial mini",
+      "url": "https://www.amazon.co.jp/dp/B01GZX4UQU?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/316-BgHNXXL._SL500_.jpg",
+      "features": [
+        "【より使いやすいアップグレード版】従来品Mini Keydial KD100より進化してきた点：❶同時キー入力でも反応できるようになってきた。例えば、[Ctrl+Z]のようなショートカットは１つのキーに登録しても機能するし、２つのキーにそれぞれ[Ctrl]と[Z]を分けて登録しても同時に押すことで反応できる。❷Bluetooth 5.0接続オプションを追加。❸より低い消費電力。製品の詳細な説明書が欲しい場合は、公式ホームページにてご確認ください。英語を日本語に切り替えて（一番下に引いて）、ドライバーもマニュアルも取得できます。お買い上げ製品の保証期間は、ご購入日より2年間となります。公式サイトよりあるいはAmazonメッセージにてお願い致します。メールサポート、電話サポートもサポートしておりますので、いつでもお気軽にお問い合わせください。ご連絡をいただく事で早期解決する可能性がございます。",
+        "【作業スピードをアップする】❶ショートカットキー18個：お好みによってショートカット機能を割り当ててカスタマイズ可能。❷同じキーでもアプリケーションごとにショートカット機能を個別に設定できる。アプリケーションを切り替えると、キーの対応するショートカット機能もそのアプリに応じて変わる。❸ダイヤルコントローラー付：キャンバスのズームイン・アウト、ブラシの拡大・縮小、ページのスクロールなどの機能はよりはやく、より便利に操作できる。Windows Radialにもサポート。❹頻繁にキーボードに手を伸ばす必要がなくなって、身近にすぐショートカットキーを触ることができる。",
+        "【快適な作業環境をつくる】❶Bluetooth 5.0 無線対応： ブルーツース5.0によってワイヤレス接続が可能。面倒な配線がいらず、デスク周りをスッキリ！❷置き方自由：本体は小型で軽いため置き方が自由。どこでも使える。背面には滑り止めパッドがついており、直接液晶タブレットのディスプレイ上に置いても滑らず、安定的でスムーズに作業し続けられる。❸ペンタブと併用：液タブ・板タブのショートカットボタンが足りなかったり、左利きに優しくなかったりする場合、本製品Keydial miniは追加ショートカットキーとしてあなたの強力な味方となります！",
+        "【優れた互換性】❶対応OS：Windows 7以降、macOS 10.12以降。❷対応製品：HUION製品だけではなく、他メーカーの製品にも使える。他メーカーのドライバと同じPCにインストールされても問題なし。ボタンの少ないペンタブレットなどと一緒に使うことをおすすめ。Windows11でBluetooth接続するには、Windows11の[設定]-[Bluetoothとデバイス]-[デバイスの設定:Bluetoothデバイスの検出]にて、「既定」から「詳細」に変更する。",
+        "【抜群な使用感と耐久性】❶打ちやすいキー：キーは特別なはさみ足構造の低ノイズ設計により、より静かに感じることができます。どの角度から叩いても滑らかに押し込まれていく。より浅いキーストロークによって指が疲れにくい。❷長く使える：300万回以上の打鍵が可能。❸充電式：バッテリー容量1200mAh。約70時間くらいで使い続けられる。バッテリー残量が低いとインジケーターランプが赤色で点滅するので、その際は充電してください。❸寸法：146*93*11mm 重量：115g。"
+      ],
+      "query": "HUION Keydial Mini Bluetooth K20",
+      "asin": "B01GZX4UQU"
+    },
+    {
+      "title": "8Bitdo Micro BluetoothゲームパッドポケットサイズミニコントローラSwitch//Switch 2、Android、Raspberry Pi用、キーボードモード対応(Blue)",
+      "url": "https://www.amazon.co.jp/dp/B0CDG5HCCH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41n+lnFLT3L._SL500_.jpg",
+      "features": [
+        "重量24.8グラムと16のボタン。超ポータブルで汎用性が高い。",
+        "ファームウェアの更新をサポートします",
+        "モードスイッチングボタン",
+        "8BitDo Ultimateソフトウェアのボタンマッピングに対応-モバイルバージョン（キーボードモードのみ）"
+      ],
+      "query": "8BitDo Micro Bluetooth ゲームパッド 左手デバイス",
+      "asin": "B0CDG5HCCH"
+    }
+  ],
+  "all_candidates": []
+}

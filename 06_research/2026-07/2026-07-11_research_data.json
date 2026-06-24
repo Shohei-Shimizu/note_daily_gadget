@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-11",
+  "title": "旅の写真を即保存。SD リーダーと「超高速 SSD」 6 選",
+  "queries": [
+    {
+      "query": "Anker USB-C 2-in-1 カードリーダー SD microSD",
+      "include": [
+        "Anker",
+        "カードリーダー"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "UGREEN USB C SDカードリーダー UHS-II",
+      "include": [
+        "カードリーダー",
+        "UHS-II"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "ProGrade Digital UHS-II SDカードリーダー",
+      "include": [
+        "ProGrade",
+        "カードリーダー"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Samsung Portable SSD T9 2TB",
+      "include": [
+        "T9",
+        "2TB"
+      ],
+      "exclude": [
+        "ケース",
+        "ケーブル"
+      ]
+    },
+    {
+      "query": "SanDisk Extreme PRO Portable SSD 2TB",
+      "include": [
+        "Extreme PRO",
+        "SSD",
+        "2TB"
+      ],
+      "exclude": [
+        "ケース",
+        "ケーブル"
+      ]
+    },
+    {
+      "query": "Crucial X10 Pro 2TB CT2000X10PROSSD9",
+      "include": [
+        "X10Pro",
+        "2TB"
+      ],
+      "exclude": [
+        "ケース",
+        "ケーブル"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Anker USB-C 2-in-1 カードリーダー【SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSDHC/microSD/UHS-Iカード対応】",
+      "url": "https://www.amazon.co.jp/dp/B07P1XB7BG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/316lo0JIqKL._SL500_.jpg",
+      "features": [
+        "優れた互換性：幅広いUSB-Cポート搭載機器で動作するように設計されています。",
+        "より多くの機能を：SDスロットとMicro SDスロットを搭載し手軽にファイルの同期や転送、共有ができます。",
+        "超コンパクトとスマートフォンに最適：他の周辺機器向けに使用中のUSBポートの隣でも干渉することなく使用することができます。USB-C経由で接続してお使いのスマートフォンの容量を大幅に拡張します。",
+        "高速データ転送と高い耐久性：フォトアルバムや動画、映画などを5Gbps以上のスピードで瞬時に転送することができます。高品質な素材を使用し、10,000回以上におよぶ接続にも耐えられるよう設計しました。",
+        "パッケージ内容：Anker USB-C 2-in-1 カードリーダー、取扱説明書、カスタマーサポート"
+      ],
+      "query": "Anker USB-C 2-in-1 カードリーダー SD microSD",
+      "asin": "B07P1XB7BG"
+    },
+    {
+      "title": "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー",
+      "url": "https://www.amazon.co.jp/dp/B0BNBXVLZS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41ZVTXpmOlL._SL500_.jpg",
+      "features": [
+        "UHS-II 4Kビデオ撮影に最適なSDカードリーダー：最新のSD4.0カードに対応したSDスロットとmicroSDスロットによると、UHS-II対応の一眼レフカメラ、デジタルカメラ、ビデオカメラから撮影した高容量の4Kビデオデータを最大312MB/sの高速でPCへ転送できます。",
+        "2つ同士でファイルの移動可能：最大2TBまでの大容量カードをサポートし、2枚カード間のファイルの同期、転送、共有が簡単にできます。スマホ、デジカメラ、GoProなど撮った写真(撮影画像)をPC・Androidスマホにて直接ファイルを数秒で素早くバックアップできます。",
+        "多種類のカードに対応：SD/microSDカードスロットが2つ備えたUSB Type C 3.1 SDカードリーダーで、SD4.0 UHS-II対応し、UHS-Iおよび SDXC、microSDXC、microSDHC、microSD、MMC micro、RS-MMC、SDHC、SDなどに対応しています。",
+        "プレミアムデザイン：しっかりとしたアルミ素材を使って、優れた放熱性を持ちながら高級感があります。体感温度で熱を少し持ちますが、筐体が金属なので風を当てるとすぐ冷えます。指紋もつけにくいです。内蔵された高品質のチップにより安定した転送と安全保護を保証できます。従来のABS型と比べて高いデザイン性と耐久性を実現しました。",
+        "幅広い互換性：USB Type C 3.1 Gen1に準拠して、MacBook ProやiPad Proを含み、OTG AndroidスマホやタブレットなどのUSB-Cポート搭載の幅広い機器でお使いいただけます。隣り合う接続ポートにも干渉しづらい超コンパクト設計で、端末本体と一緒に出張や旅行でも気軽に持ち運ぶことができます。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "query": "UGREEN USB C SDカードリーダー UHS-II",
+      "asin": "B0BNBXVLZS"
+    },
+    {
+      "title": "ProGrade Digital [SD/microSD UHS-II] ダブルスロットカードリーダー (PGM0.5) 本体端子USB-C プログレードデジタル 正規輸入品",
+      "url": "https://www.amazon.co.jp/dp/B0B6HM369H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/315U+zHubpL._SL500_.jpg",
+      "features": [
+        "✅対応：USB-Cポート搭載のiPad, iPhone, Android端末 ✅対応OS：Mac OS X10.6以降／ Windows10以降",
+        "✅フルサイズSDカード／microSDカード（どちらもUHS-II対応） ✅本体端子：USB Type-C ✅USB3.2 Gen1対応 ✅最大転送速度：625MB/s ✅SD, microSDカード２枚同時にパソコンへデータ転送可能 ✅SDからmicroSD、microSDからSDへのデータ転送も可能　",
+        "✅Refresh Pro対応（SDスロットのみ、microSDカードはSDアダプターを利用してSDスロットで利用可能）",
+        "✅コンパクトなサイズで持ち運びに便利　Vlogger, YouTuberなど出先で撮影しタブレットなどで直ちに編集したい方々に最適",
+        "✅製造国：台湾　 ✅保証期間：購入より2年間"
+      ],
+      "query": "ProGrade Digital UHS-II SDカードリーダー",
+      "asin": "B0B6HM369H"
+    },
+    {
+      "title": "Samsung T9 ポータブル SSD 2TB USB 3.2 Gen 2x2 外付けソリッドステートドライブ 連続読み取り速度 最大2,000MB/秒 ゲーム 学生 プロ向け MU-PG2T0B/AM ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CHFS9K14?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41JHNVamFwL._SL500_.jpg",
+      "features": [
+        "ノンストップスピード:クリエイター向けの最速のSSDでプロジェクトを駆け抜けましょう。読み込み、編集、転送速度を最大2,000MB/s1の持続的な読み取り速度と書き込み速度で読み込み、編集、転送。T9ポータブルSSDは、長いプロセスでも高速で機能します。",
+        "ダイナミックなサーマルガード:情熱的なプロジェクトでひじを深く感じているときでも、T9ポータブルSSDは涼しく保ちます。高度なサーマルソリューションは、熱に耐え、制御し、頻繁に使用してもSSDを理想的な温度に保ちます。2",
+        "あらゆるニーズに対応: デスクトップ、カメラ、ゲーム機を使用する場合でも、3、T9 Portable SSDで幅広い互換性があります。アプリケーションの使用やファイル保存に関しては、真のチームプレーヤーです。",
+        "頑丈。 無地。 安定性:コンセプトから完成まで – T9ポータブルSSDは、長距離を走る便利なドライブ1台で、頻繁に使用しても長持ちします。",
+        "魔法のように動作:T9ポータブルSSDは、常に最新のMagicianソフトウェアで新品のように動作します。ファームウェアの更新、追加の暗号化、ドライブの状態の継続的な監視により、魅力のように機能します。",
+        "世界一のフラッシュメモリブランド:20034年以来、フラッシュメモリの世界ナンバー1ブランドのパフォーマンスと信頼性。世界的に有名なDRAMやNANDを含むすべてのファームウェアとコンポーネントは自社で製造されており、信頼できます。",
+        "iPhoneに対応:iPhone 15 Pro Res 4K(60fpsビデオなど)をサポート。5。付属のSSDケーブル推奨。"
+      ],
+      "query": "Samsung Portable SSD T9 2TB",
+      "asin": "B0CHFS9K14"
+    },
+    {
+      "title": "SanDisk Extreme PRO ポータブルSSD USB4 2TB搭載 (最大3800MB/秒の読み取り速度、最大3700MB/秒の書き込み速度、パワフルなNVMeソリッドステートパフォーマンス、40Gbps) ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DN688B7V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Qr1aLu5DL._SL500_.jpg",
+      "features": [
+        "USB4スピードを解き放ちます。 外付けUSBドライブでターボチャージされたペースで動作。当社の次世代USB4インターフェースにより、最大3800MB/秒の読み取り速度、最大3,700MB/秒の書き込み速度を実現します。",
+        "下位互換性。 古いUSB 3.2およびUSB 2.0デバイス間でデータを保存および移動し、Thunderbolt 4にも対応しています。",
+        "強力な保護。 頑丈なシリコンシェルと鍛造アルミニウムシャーシで、外出先でもデータを保護します。",
+        "データにすばやくアクセスし、大きなファイルをリアルタイムで処理し、次世代の速度で次世代の結果を提供します。",
+        "【優れた信頼性】SanDiskを信頼してください。 ストレージには5年間の限定保証が付いており、安心です。"
+      ],
+      "query": "SanDisk Extreme PRO Portable SSD 2TB",
+      "asin": "B0DN688B7V"
+    },
+    {
+      "title": "crucial 外付けポータブルSSD X10Proシリーズ 2TB 最大読み込み 2100MB/s CT2000X10PROSSD9",
+      "url": "https://www.amazon.co.jp/dp/B0CCYKY4T4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31vnKbpm2yL._SL500_.jpg",
+      "features": [
+        "速度：読み込みが最大2,100MB/秒、書き込みが最大2,000MB/秒",
+        "容量：2TB",
+        "耐久性能：防水、防塵、防砂（IP55）",
+        "互換性：Windows、Mac、Android、iPad、PC、Linux",
+        "保証：5年間の限定",
+        "暗号化：パスワード保護と256ビットAESハードウェア暗号化で個人データを保護"
+      ],
+      "query": "Crucial X10 Pro 2TB CT2000X10PROSSD9",
+      "asin": "B0CCYKY4T4"
+    }
+  ],
+  "all_candidates": []
+}

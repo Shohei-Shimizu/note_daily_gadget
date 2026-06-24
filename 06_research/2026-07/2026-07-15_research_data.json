@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-15",
+  "title": "パスワードを卒業。高度なセキュリティを実現する「セキュリティキー」 5 選",
+  "queries": [
+    {
+      "query": "Yubico YubiKey 5 NFC セキュリティキー",
+      "include": [
+        "YubiKey 5 NFC"
+      ],
+      "exclude": [
+        "ケース",
+        "カバー"
+      ]
+    },
+    {
+      "query": "Yubico Security Key C NFC",
+      "include": [
+        "Security Key C NFC"
+      ],
+      "exclude": [
+        "ケース",
+        "カバー"
+      ]
+    },
+    {
+      "query": "Identiv uTrust FIDO2 NFC セキュリティキー",
+      "include": [
+        "Identiv",
+        "FIDO2",
+        "NFC"
+      ],
+      "exclude": [
+        "ケース",
+        "カバー"
+      ]
+    },
+    {
+      "query": "FEITIAN ePass K40 FIDO2 NFC",
+      "include": [
+        "FEITIAN",
+        "ePass K40"
+      ],
+      "exclude": [
+        "ケース",
+        "カバー"
+      ]
+    },
+    {
+      "query": "AuthenTrend ATKey.Pro Zinc USB-C FIDO2",
+      "include": [
+        "ATKey.Pro",
+        "USB-C",
+        "FIDO2"
+      ],
+      "exclude": [
+        "ケース",
+        "カバー"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "Yubico セキュリティキー YubiKey 5 NFC ログイン/U2F/FIDO2/USB-A ポート/2段階認証/高耐久性/耐衝撃性/防水",
+      "url": "https://www.amazon.co.jp/dp/B07HBD71HL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31-V7PuwsVL._SL500_.jpg",
+      "features": [
+        "YubiKeyは、コンピューター、ネットワーク、クラウドサービスの認証をシンプルな操作で保護します。",
+        "USB-Aポートに挿してタッチする、あるいはNFCにかざすだけで認証ができます。",
+        "Windows、Mac OS、Linuxなどの各OS、主要ブラウザ(Edge、Chrome、Safari、Firefox)で動作し、Google、Microsoft、AWS、Salesforceなど多くのサービスでご利用いただけます。",
+        "FIDO2、FIDO U2F、スマートカード(PIV)、OTPなどの認証プロトコルに対応し、強力なハードウェアベースの認証が可能です。",
+        "耐タンパ性、防水性、耐衝撃性を備えています。",
+        "2要素認証、多要素認証、パスワードレス認証でなりすましを防ぎます。"
+      ],
+      "query": "Yubico YubiKey 5 NFC セキュリティキー",
+      "asin": "B07HBD71HL"
+    },
+    {
+      "title": "yubico - Security Key C NFC - Black- Two-Factor authentication (2FA) Security Key, Connect via USB-C or NFC, FIDO U2F/FIDO2 Certified",
+      "url": "https://www.amazon.co.jp/dp/B0BVNRXFHT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31+G38dLekL._SL500_.jpg",
+      "features": [
+        "強力なセキュリティキー:セキュリティキーC NFCは、デジタルライフをフィッシング攻撃から保護するために不可欠な物理パスキーです。 お客様だけがアカウントにアクセスできるようにします。",
+        "1000以上のアカウントで動作:Google、Microsoft、Appleに対応。 1つのセキュリティキーC NFCで、Eメール、パスワードマネージャーなど、お気に入りのアカウントを100個保護します。",
+        "高速で便利なログイン:USB-C経由でセキュリティキーC NFCを接続してタップするか、携帯電話(NFC)にタップして認証します。 電池不要、インターネット接続なし、追加料金不要。",
+        "信頼できるパスキー技術:最新のパスキー規格(FIDO2/WebAuthn、FIDO U2F)を使用していますが、ワンタイムパスワードはサポートしていません。 複雑なニーズについては、YubiKey 5シリーズをご覧ください。",
+        "長持ち設計:丈夫で防水性があり、つぶれにくい素材で作られています。 スウェーデンで製造され、最高のセキュリティ基準で米国でプログラムされています。",
+        "プライマリキーとスペアキー:スペアハウスキーと同じように、セキュリティキーを2つ購入することをお勧めします。1つは日常使用用、もう1つはスペア用です。 そうすれば、アカウントからロックアウトされることはありません。",
+        "ご注意:Amazon経由でのご購入の場合、最新のファームウェアは保証されません。"
+      ],
+      "query": "Yubico Security Key C NFC",
+      "asin": "B0BVNRXFHT"
+    },
+    {
+      "title": "Identiv uTrust FIDO2 NFC セキュリティキー USB-A (FIDO、FIDO2、U2F、WebAuth)。",
+      "url": "https://www.amazon.co.jp/dp/B08BVYJ67J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31DNfQUggdL._SL500_.jpg",
+      "features": [
+        "パスワードの問題を解決:IdentivのuTrust FIDO2 NFCセキュリティキーは、個人、企業、政府機関、請負業者がパスワードを安全で高速でスケーラブルで費用対効果の高いログインソリューションに置き換えることができます。",
+        "シンプルで安全:FIDO Alliance認定。 暗号化セキュリティモデルにより、フィッシング、パスワード盗難、リプレイ攻撃のリスクを排除します。 FIDO暗号化キーはデバイスに保存され、ウェブサイトごとに固有であるため、サイト間でユーザーを追跡することはできません。 FIDO/FIDO2認定アカウント(通常はアカウントのアカウント/セキュリティセクション)にキーを登録し、アカウントを保護するために政府レベルのセキュリティを使用していることを確認します。",
+        "マルチプロトコル:FIDO2、FIDO U2F、WebAuthをサポートし、強力な多要素認証を可能にし、パスワードの必要性を排除します。 HOTPのサポートは、特定のユースケースで有効になっています(下記の製品説明を参照)。",
+        "日常使い:このFIDOセキュリティキーは、携帯電話、タブレット、ノートパソコン、デスクトップなどの日常のデバイスや、Gmail、Facebook、Salesforce、LinkedInなどすべてのサービスで機能します。 キーはNFCまたはUSBタイプAまたはType C経由でワイヤレスで接続します(USBタイプは購入するモデルによって異なります)。",
+        "アカウントを登録するときは、少なくとも2つのキーを持つことがベストプラクティスです。 1つは日常使用の主キーとして、もう1つは主キーを置き忘れた場合のバックアップキーとして使用します。 ほとんどのアプリケーションでは、少なくとも2つのキーを登録できます。",
+        "uTrust Key Managerツールは、FIDO2 PINの管理や特定のHOTP機能に使用できます。 詳細については、下記の製品説明をご覧ください。",
+        "100%TAA準拠:信頼できる米国企業が製造。"
+      ],
+      "query": "Identiv uTrust FIDO2 NFC セキュリティキー",
+      "asin": "B08BVYJ67J"
+    },
+    {
+      "title": "FEITIAN ePass K40 USBセキュリティキー - 2要素認証機 - USB-C NFC FIDO U2F + FIDO2 - 多要素認証でアカウントの乗っ取りを防ぐのに役立ちます",
+      "url": "https://www.amazon.co.jp/dp/B089ZYVCV6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31uDN0SjWhL._SL500_.jpg",
+      "features": [
+        "FIDO2 + FIDO U2F認定およびサポートされているUSBセキュリティキー。",
+        "USB-Cポートおよび/またはNFCを備えたコンピューター、ノートパソコン、タブレット、モバイルデバイスに対応。",
+        "ドライバーをダウンロードしなくても動作します。 対応OS:Android、Chrome OS、Windows、MacOS、Linux",
+        "日常使用でも長持ちするように作られた丈夫なデザイン。 防水(IP67)。",
+        "フィッシングやその他のサイバー攻撃からアカウントを保護します。 デバイスの不正使用を防ぎます。",
+        "対応機種: Windowsログイン、Twitter、Googleアカウント、Microsoftアカウント、Facebook、Salesforce、Zoho、Dropbox、DUOセキュリティ、Microsoft Azure Entra ID、Microsoft Active Directory、Coinbase、Bank of America、Okta、Ping Identity、eBay、その他多くのウェブサイト、アプリケーション、コンピューター、ノートパソコン、USBセキュリティキーを受け入れるデバイス。"
+      ],
+      "query": "FEITIAN ePass K40 FIDO2 NFC",
+      "asin": "B089ZYVCV6"
+    },
+    {
+      "title": "AuthenTrend ATKey.Pro Zinc USB-C FIDO2認定指紋認証セキュリティキー CTAP2.1 認定 U2F/FIDO2/USB-C/Type-C/指紋認証/パスキー/台湾製",
+      "url": "https://www.amazon.co.jp/dp/B0BFPNQWRQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31hF+vfPfYL._SL500_.jpg",
+      "features": [
+        "亜鉛合金ボディ(Zinc)を採用した高耐久のUSB-CタイプのFIDO2認定セキュリティキー。指紋認証による多要素認証およびパスキー認証に対応し、強固なフィッシング耐性を実現",
+        "オンライン証券口座のパスキーログイン等に対応",
+        "指紋が登録出来なくてもPINコード認証による代替手段でFIDO2、パスキー認証が可能",
+        "Microsoft Entra IDやGoogle Workspaceと容易に統合でき、企業システムやクラウドサービスの安全な認証環境を構築可能",
+        "パスワードマネージャー機能も搭載"
+      ],
+      "query": "AuthenTrend ATKey.Pro Zinc USB-C FIDO2",
+      "asin": "B0BFPNQWRQ"
+    }
+  ],
+  "all_candidates": []
+}

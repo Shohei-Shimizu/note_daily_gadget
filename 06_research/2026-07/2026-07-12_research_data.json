@@ -1,0 +1,184 @@
+{
+  "date": "2026-07-12",
+  "title": "長距離移動を快適に。機内で役立つ「タブレットアクセサリ」6 選",
+  "queries": [
+    {
+      "query": "MOFT Snap フロートスタンド iPad",
+      "include": [
+        "MOFT",
+        "スタンド"
+      ],
+      "exclude": [
+        "シール"
+      ]
+    },
+    {
+      "query": "ロジクール KEYS TO GO 2 iK1043GRU",
+      "include": [
+        "KEYS TO GO 2",
+        "iK1043"
+      ],
+      "exclude": [
+        "ケース",
+        "カバー"
+      ]
+    },
+    {
+      "query": "Anker Nano Power Bank 10000mAh 30W",
+      "include": [
+        "10000mAh",
+        "30W"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "UGREEN タブレットスタンド 折りたたみ",
+      "include": [
+        "タブレット",
+        "スタンド"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Twelve South AirFly Pro Bluetooth トランスミッター",
+      "include": [
+        "AirFly Pro"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Anker 555 USB-C ハブ 8-in-1",
+      "include": [
+        "Anker",
+        "USB-C",
+        "ハブ"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "MOFT iPad mini 6 Snapケース＆スタンドセット MOFT iPad mini6 (2021)サイズ タブレットスタンド iPad Pro Mini 2021 2022 iPad Pro (Snap On タブレットスタンド（単品）, Black)",
+      "url": "https://www.amazon.co.jp/dp/B0B34K7DQT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31-npwm8WGL._SL500_.jpg",
+      "features": [
+        "「Snap On and Off」インスタントセパレーションにより、Magic Keyboardなどの他の磁気タブレットツールと切り替えして、クリエイティブなプロセスを改善できます。",
+        "「接着剤なしのタブレットステッカー」磁性シリコンパッドは柔らかく、50回再利用でき、どのタブレットにも貼り付けることができます。",
+        "「多機能な視点」MOFT タブレットスタンドは特殊ポリウレタンと再生グラスファイバー素材で作られております。滑らくやわらかい手触りを感じられます。",
+        "「高品質なビーガンレザー」特殊ポリウレタンと再生グラスファイバー素材で作られており、手触りが滑らかで、タブレットにエレガンスを増します。",
+        "「幅広い互換性」Samsung, Microsoft, Lenovo タブレットを含む、7.9-9.7インチのタブレットに対応することが可能です。"
+      ],
+      "query": "MOFT Snap フロートスタンド iPad",
+      "asin": "B0B34K7DQT"
+    },
+    {
+      "title": "ロジクール KEYS TO GO 2 ワイヤレス キーボード iK1043GRU 薄型 軽量 222g Bluetooth ワイヤレスキーボード 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome iK1043 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0D62N9DM3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31aBNZ6hPbL._SL500_.jpg",
+      "features": [
+        "超軽量＆薄型／ロジクール史上最もポータブルなワイヤレスキーボード KEYS TO GO 2",
+        "iK1043GRU／通常モデル／日本語配列キーレイアウト／保証期間2年間",
+        "軽量かつポケットに収まるほどコンパクトで持ち運びがしやすい／iPadやスマートフォンなどのポータブルデバイスとの相性抜群　※厚さ:8.9mm-4.3mm、重さ:222g(電池含む)",
+        "Bluetooth接続、最大3台までの接続デバイスを切り替えらえるEasy-switch対応",
+        "マルチOS対応:Windows 10以降、macOS 14以降、iPadOS 17以降、iOS 17以降、Android 12以降、ChromeOS"
+      ],
+      "query": "ロジクール KEYS TO GO 2 iK1043GRU",
+      "asin": "B0D62N9DM3"
+    },
+    {
+      "title": "Anker Nano Power Bank (30W, Built-In USB-C Cable) (モバイルバッテリー 10000mAh 30W出力 大容量 LEDディスプレイ搭載 USB-Cケーブル内蔵 一体型)【PD/PowerIQ搭載/PSE技術基準適合】iPhone 16 / 15 Android MacBook その他各種機器対応 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0CDBY9P5Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31y0epEPv-L._SL500_.jpg",
+      "features": [
+        "ケーブル一体型で、荷物がスッキリ：USB-Cケーブル一体型のため、外出先でもお使いの機器をいつでも充電可能かつ、コンパクトサイズで充電しながら快適にスマホを操作いただけます。",
+        "iPhone 16シリーズにも急速充電：最大30W出力が可能で、iPhone 16シリーズにも最大3倍速く急速充電が可能です。※一般的な5W出力の充電器でiPhone 15を0%から30%まで充電した場合との比較（Anker調べ）",
+        "バッテリー本体にも急速充電：一体型ケーブルは出力だけでなく、入力も最大30Wに対応し、約1.5時間でバッテリー本体に急速充電が可能です。 ※30W出力のUSB急速充電器を使用して充電した場合（Anker調べ）",
+        "コンパクトながらパワフル：コンパクト設計ながら、スマホ約2回分の10000mAhの大容量と最大30Wの出力を実現し、コンパクトさとパワフルさを兼ね備えています。",
+        "幅広い対応機種 : スマートフォンだけでなくタブレット端末やMacBook Airなど、幅広い機器への充電に対応しています。",
+        "パッケージ内容：Anker Nano Power Bank (30W, Built-In USB-C Cable) 、取扱説明書、カスタマサポート"
+      ],
+      "query": "Anker Nano Power Bank 10000mAh 30W",
+      "asin": "B0CDBY9P5Q"
+    },
+    {
+      "title": "UGREEN タブレット スタンド 折りたたみ式 iPad スタンド 高さ角度調整可能 アルミ＋鉄合金製 姿勢改善 持ち運びに便利 充電可能 人間工学設計 卓上縦置きスタンド iPad/Kindle/Surface/Switch機種に対応 4.7-12.9インチに対応(シルバー)",
+      "url": "https://www.amazon.co.jp/dp/B09P87NBYS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Vnjr9QbgL._SL500_.jpg",
+      "features": [
+        "【高さ角度調整可能＆人間工学設計】人間工学に基づいて設計により、5cmから23cmまでお好みの角度＆高さ自由にに調節できます。会社・家の机と椅子の不便な高さから解放され、快適な角度で楽に作業できます。アイパッド スタンドを用いてタブレットに角度と高さをつけることで，視線が高くなり適正な姿勢に、肩や腰や首など負担を軽減らしてくれて、猫背などを有効に防止できます。",
+        "【収納便利＆放熱性抜群】折りたたみ式のタブレット スタンドとして、省スペースに収納可能です，収納や持ち運びにも便利。自宅でも会社でも、どこでも便利に使えます。冷却しやすいアルミ＋鉄合金スタンドに美しさと耐久性を兼ね備えた隙間を設けて、熱が籠りにくく、タブレットなどのデバイスの自然放熱を実現して、タブレットの運行スピードアップできます。",
+        "【安定性抜群＆滑り止め保護ゴム付】タブレットに当たる部分にシリコンゴム製の滑り止めパッドが付いているので、滑りも倒れもなく安定的に使えます。また、ゴム付きのフックがあり、大切なタブレットを落下などから保護できます。また、硬いサポートアームが二つあり、3kgまで耐荷できて安定性抜群です。多様なシーンに対応できる，キッチン、オフィスデスク、ゲーム、食卓に適用。",
+        "【高品質タブレットホルダー】高級感に溢れるアルミ合金と安全感向上の鉄合金を採用しており、そしてエッジ部分に丁寧に艶出し、滑らかで手に傷しません。回転軸がゆるくならないように強化され、耐久性が高くなります。高品質合金仕上げは、タブレットとの相性が非常によい。",
+        "【対応機種】約4.7-12.9インチのデバイス（iPad Pro 12.9 / 7.9 / 9.7 / 10.2 / 10.5 / 10.9 / 11 / mini 2 3 4 / air 1 2 3 4, S9 S8 S7 S6, Note 6 5, 12 mini pro max/ 11/ XS Max/ XR/ X 8 7 6 6s Plus）に対応できる。キッチン ・ オフィスデスク ・ ナイトテーブル ・ 食卓に適用 。仕事中でもメールやメッセージ受信を確認できるのでとても便利 。アニメ 、 映画 、 電子書籍を楽しむというようなレジャーの時にも活躍している。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。",
+        "【ご注意】本製品はアルミ＋鉄合金製で、優れた放熱性能と軽量性を両立させながら、より安定した使用感と安全性を提供します。もう支えられない心配は不要です。どのような場面でも安心してご使用いただけます。"
+      ],
+      "query": "UGREEN タブレットスタンド 折りたたみ",
+      "asin": "B09P87NBYS"
+    },
+    {
+      "title": "Twelve South AirFly Pro 2 | AirPodsまたはワイヤレスイヤホンを直感的な操作で最大2台まで同時に接続できる、ノイズキャンセリング対応Bluetooth接続オーディオトランスミッター／レシーバー ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0DWT9FM4J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21PMd+ajayL._SL500_.jpg",
+      "features": [
+        "どこでもワイヤレスで楽しもう – AirFly Pro 2は、あらゆる3.5mmオーティオジャックのあるデバイスに使用できる、Bluetooth 5.3トランスミッター／レシーバーです。通常、ワイヤレス接続に対応できない飛行機のスクリーン、スポーツジムのテレビ、携帯ゲーム機などのオーティオジャックに本製品を挿す事で、AirPodsなどのワイヤレス・イヤホンが使用できるようになります。また、本製品側面のTX/RXスイッチを受信モード（RX）に切り替えて、AUXポートのある自動車やレジャーボートに本製品を挿すことでスマートフォンの音楽などを接続先のスピーカーから再生することが出来ます。",
+        "直感的な操作で最大2台のワイヤレスイヤホンをペアリング – AirFly Pro 2は、デュアルペアリングに対応しており、2台のBluetoothヘッドホンを同時に接続可能です。本機両側面に2台分の専用ペアリングボタンを搭載、2台のワイヤレスイヤホンを直感的な操作で簡単に接続できます。フライト中の映画や、自宅で、iPad、音楽、ビデオゲームなどで音声を共有して一緒に楽しむことが出来ます。",
+        "優れたオーディオ品質、低遅延、そしてノイズキャンセル対応 - Bluetooth 5.3とaptX HD Adaptiveに対応したAirFly Pro 2は、安定した高品質の接続と、臨場感あふれるリスニング体験を実現します。クイックアクセス・ボタン・コントロールにより、サウンドの調整やボリュームのミュートが即座に行えます。映画鑑賞やゲームでは、低遅延のオーディオを楽しむことができます。また、AirFly Pro 2は、ユーザーが機内エンターテイメントを楽しむときに、ワイヤレス・イヤホンやヘッドホンのノイズキャンセリング機能に対応するように設計されています。ワイヤレスで、クリアな音質をお楽しみください！",
+        "25時間超のバッテリー駆動時間 – AirFly Pro 2は、不要なディスプレイの搭載を省くことでコンパクトさと効率性を確保し、長時間のフライト、ドライブ、ワークアウト中の再生でも耐えらるようにバッテリー駆動時間を最大限に延ばしています。最高クラスのバッテリー駆動時間で、より長く、より少ない充電回数で、より長く音楽などをお楽しみいただけます。",
+        "旅行以外のシーンでも活躍 - AirFly Pro 2は、Apple AirPodsなどのワイヤレスイヤホンや、あらゆるBluetoothイヤホンに簡単に接続できます。テックポーチや機内持ち込み用バックのサイドポケットに簡単に収まる小型サイズです。機内エンターテイメントを楽しむ以外でも、ジムに行く車の中などでスマートフォンの音楽を再生するなど、どこに行ってもワイヤレスを楽しめます。"
+      ],
+      "query": "Twelve South AirFly Pro Bluetooth トランスミッター",
+      "asin": "B0DWT9FM4J"
+    },
+    {
+      "title": "Anker PowerExpand 8-in-1 USB-C PD 10Gbps データ ハブ 100W USB Power Delivery 対応 USB-Cポート 4K (60Hz) 出力対応 HDMIポート 10Gbps 高速データ転送 USB-Cポート USB-Aポート 1Gbps イーサネット microSD&SDカード スロット搭載 MacBook Pro iPad Pro対応",
+      "url": "https://www.amazon.co.jp/dp/B087TB7YM7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31xyi9YlCyS._SL500_.jpg",
+      "features": [
+        "Ankerの強み：3000万人以上が支持するAmazon第1位の充電製品ブランドを是非お試しください。",
+        "マルチタスクをこれひとつで：フルスピード充電が可能なUSB Power Deliveryに対応したUSB-Cポート、USB 3.1 Gen 2に対応した2つのUSB-Aポート、USB-Cポート、4K (60Hz) 対応のHDMIポート、1Gbps対応のイーサネットポート、microSD＆SDカード スロットと8つのポートが1つのハブにまとまることで、マルチタスクが可能になりました。",
+        "高速データ転送・高画質出力：データ転送用USB 3.1 Gen 2対応のUSB-C ポート、2つのUSB-A ポートから最大10Gbpsでの高速データ転送を実現。さらに、HDMIポートから4K (60Hz) での高画質出力が可能です。※4K (60Hz) での出力をご使用になる場合は、お使いのノートPCがDisplayPort 1.4に対応していることを予めご確認ください。",
+        "USB Power Delivery 対応：データ転送やHDMI接続などハブとして使用しながらも、お使いのノートPCに最大85Wまでの高出力でフルスピード充電が可能です。(15W出力はハブ自体への給電に利用されるため、最大入力は100W、最大出力は85Wです)※85Wで出力の場合は100W出力が可能な充電器をご利用ください。",
+        "パッケージ内容：Anker PowerExpand 8-in-1 USB-C PD 10Gbps データ ハブ、取扱説明書、カスタマーサポート。（※製品パッケージは予告なく変更になる場合がございます。）"
+      ],
+      "query": "Anker 555 USB-C ハブ 8-in-1",
+      "asin": "B087TB7YM7"
+    }
+  ],
+  "all_candidates": []
+}

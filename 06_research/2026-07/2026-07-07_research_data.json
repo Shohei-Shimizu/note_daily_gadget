@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-07",
+  "title": "旅先からライブ配信。高速「モバイルルーター」セット 6 選",
+  "queries": [
+    {
+      "query": "NEC Aterm MR51FN モバイルルーター",
+      "include": [
+        "MR51FN"
+      ]
+    },
+    {
+      "query": "富士ソフト FS040W モバイルルーター",
+      "include": [
+        "FS040W"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム"
+      ]
+    },
+    {
+      "query": "TP-Link M8550 モバイルルーター",
+      "include": [
+        "M8550"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム"
+      ]
+    },
+    {
+      "query": "GlocalMe Numen Air モバイルルーター",
+      "include": [
+        "Numen Air"
+      ]
+    },
+    {
+      "query": "TP-Link M7450 モバイルルーター",
+      "include": [
+        "M7450"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム",
+        "バッテリー"
+      ]
+    },
+    {
+      "query": "ピクセラ PIX-MT110 モバイルルーター",
+      "include": [
+        "PIX-MT110"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報が安定取得できないため、Amazon PA-API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Amazon検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py via 05_script/search_custom_list.py (PA-API direct)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "NEC Aterm MR51FN 専用クレードルセット 5Gモバイルルーター 最大3.8Gbps SIMフリー 国内4大キャリアバンド帯対応 / (170以上の国と地域で使用可能) EX51Cクレードル付属",
+      "url": "https://www.amazon.co.jp/dp/B0BZPB99FB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41I-Ha9LoNL._SL500_.jpg",
+      "features": [],
+      "query": "NEC Aterm MR51FN モバイルルーター",
+      "asin": "B0BZPB99FB"
+    },
+    {
+      "title": "富士ソフト +F FS040W モバイル Wi-Fi ルーター dual_band SIMフリー 端末 FS040WMB1",
+      "url": "https://www.amazon.co.jp/dp/B08CDQQSMP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21xA-o3xaHL._SL500_.jpg",
+      "features": [
+        "FS040Wは、3,060mAhの大容量バッテリーを搭載していますので、最大20時間の連続通信が可能です。",
+        "APNが自動設定でご利用いただけます。",
+        "FS040Wは、SIMロックフリーなので、主要3社をはじめ、多くの通信会社に対応しています。",
+        "パスワードレスでアクセスできるので、手間のかかる設定は不要です。",
+        "ご自分に合った通信会社を選んで、お得にインターネットを楽しめます。",
+        "質量:約142g"
+      ],
+      "query": "富士ソフト FS040W モバイルルーター",
+      "asin": "B08CDQQSMP"
+    },
+    {
+      "title": "TP-Link 5G モバイルWi-Fi ルーター Wi-Fi 6E トライバンド AXE3600 最大3.4Gbps nanoSIM対応 ギガビットWAN/LAN タッチスクリーン WireGuard VPN 32台同時接続 4680mAh M8550",
+      "url": "https://www.amazon.co.jp/dp/B0GRXQ7DKD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31XM3TVzhFL._SL500_.jpg",
+      "features": [
+        "[特徴] プレミアムな機能で違いを演出する、5G対応Wi-Fi6EモバイルWi-Fiルーター。最大3.4Gbps のダウンロード速度を実現。",
+        "[Wi-Fi 6E対応] Wi-Fi 6Eルータートライバンド（6GHz/5GHz/2.4GHz 対応）ルーターは2880Mbps + 2880Mbps + 680 Mbpsで最大32台の端末と接続可能。",
+        "[タッチスクリーン] 見やすいディスプレイで、データ使用量をかんたん確認。使いすぎを防ぎながら、バッテリー残量や電波状況、接続端末数、Wi-Fiの状態もひと目でチェックできます。",
+        "[VPNセキュリティ強化] 面倒なVPN設定は不要。スマホやPCなどの端末ごとにVPNソフトを入れなくても、手軽に安全なVPN環境を構築できます。WireGuard VPNが通信を暗号化し、自宅や外出先からでも会社のネットワークへ安心してアクセス。大切な情報を守りながら、リモートワークをもっと快適にします。",
+        "【ギガビットWAN/LANポート搭載】有線LANポートを搭載。5G回線が不安定な場所であれば、有線LANで通信するWi-Fi6Eルーターに。バッテリーも着脱可能で、USB-C給電に対応。長時間の現場でも使いやすい高性能モバイルWi-Fiルーターです。"
+      ],
+      "query": "TP-Link M8550 モバイルルーター",
+      "asin": "B0GRXQ7DKD"
+    },
+    {
+      "title": "GlocalMe Numen Air U50 5G対応 ポケットWiFi 世界200カ国SIM不要 最大2.5Gbps高速通信 16台同時接続 & 5400mAh大容量バッテリー 海外旅行・出張・自宅のセカンド回線に(世界通用1ギガ/90日間)",
+      "url": "https://www.amazon.co.jp/dp/B0B5K4D4JV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51q8+FsFR4L._SL500_.jpg",
+      "features": [
+        "【🌎 5G超高速！動画・ゲーム・会議がストレスフリー】 最大2.5Gbpsの通信速度は、従来の4Gの約15倍。機内モードからの切り替えも一瞬で、高画質動画の再生はもちろん、オンライン会議や大容量ファイルのダウンロードも、途切れずサクサク快適。",
+        "【🌎 世界200カ国で即時接続！面倒なSIM探しとはもうお別れ】 特許技術CloudSIMにより、到着したその瞬間からネットに接続。海外で現地SIMを探して設定する手間と不安はありません。5G商用化済みの50カ国以上、全世界200カ国以上で、最適なキャリアに自動切り替え。グローバルビジネスや旅行を、一本の端末でシンプルに。",
+        "【🌎 縛られない！あなただけのフレキシブルデータプラン】 面倒な契約や高額なローミング料金は一切不要。GlocalMeアプリから、日単位、月単位、地域単位で、必要な分だけデータを購入できるので無駄がありません。「たまの旅行だけ」「繁忙期だけ回線を増強したい」 といった様々なニーズに、スマートにお応えします。",
+        "【🌎 最大16台同時接続！チームも家族もこれ1台】 Wi-Fi 5テクノロジーにより、スマホ、PC、タブレット、ゲーム機など、最大16台のデバイスを同時に高速ネットに接続。出張時のチーム全員や、家族での旅行でも、複数台のポケットWiFiをレンタルする必要がなく、コストパフォーマンスに優れています。",
+        "【🌎 1日中外でも使える！】 大容量5400mAhバッテリーで、外出先での長時間使用をしっかりサポート。直感的に操作できる2.4インチタッチスクリーンで、電源オンから接続まで、ボタンひとつで簡単快適。"
+      ],
+      "query": "GlocalMe Numen Air モバイルルーター",
+      "asin": "B0B5K4D4JV"
+    },
+    {
+      "title": "TP-Link モバイルルーター 300Mbps LTE-Advanced対応 モバイルWi-Fiルーター SIMフリー 最大接続台数32台 M7450/A",
+      "url": "https://www.amazon.co.jp/dp/B0BS3BJ7MF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31j1i16GebL._SL500_.jpg",
+      "features": [
+        "LTE-Advanced cat6に対応し、最大300Mbpsのダウンロード速度と、50Mbpsのアップロード速度を提供します。",
+        "最大32台のデバイスを同時に接続可能です。",
+        "デュアルバンドに対応し、2.4GHz（300Mbps）または5GHz（867Mbps）を選択して接続できます。",
+        "様々な情報を一目でチェックできる便利なディスプレイが備わっています。",
+        "付属の3000mAhバッテリーは最長15時間の駆動が可能です。",
+        "microSDカードスロット（最大32GB）を搭載しています。※SDカード別売り",
+        "tpMiFiアプリから手軽に管理することができます。",
+        "M7450は、SIMロックフリーなので、主要4社をはじめ、多くの通信会社に対応しています。"
+      ],
+      "query": "TP-Link M7450 モバイルルーター",
+      "asin": "B0BS3BJ7MF"
+    },
+    {
+      "title": "ピクセラ LTE対応 SIMフリー USBドングル 無線 LAN ホワイト PIX-MT110-AZ",
+      "url": "https://www.amazon.co.jp/dp/B09DG8DGQX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31LEQznFuqL._SL500_.jpg",
+      "features": [
+        "nanoSIMカードをセットしてUSB Type A接続するだけでWi-Fi環境に早変わり。",
+        "軽量＆コンパクトサイズなので、場所を気にせずお使いいただけます。",
+        "パソコンでLTE通信しながら、無線LANアクセスポイントとしても使えます。LTE通信速度 下り 最大 150Mbps、上り 最大 50Mbps",
+        "車のシガーソケットやモバイルバッテリーにつなげると移動中も使用できます。 ※エンジン始動時には、シガーソケットからはずしてください。",
+        "最大8台まで同時接続できます。"
+      ],
+      "query": "ピクセラ PIX-MT110 モバイルルーター",
+      "asin": "B09DG8DGQX"
+    }
+  ],
+  "all_candidates": []
+}
