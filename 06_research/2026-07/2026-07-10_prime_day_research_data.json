@@ -1,0 +1,969 @@
+{
+  "date": "2026-07-10",
+  "title": "【Amazonプライムデー】値下げ幅が大きいお得ガジェット 20 選",
+  "queries": [
+    {
+      "query": "Amazon Echo Show 15 スマートディスプレイ",
+      "include": [
+        "B0C7Y1N38H"
+      ],
+      "source_research_file": "06_research/2026-07/2026-07-19_research_data.json"
+    },
+    {
+      "query": "Kindle Scribe",
+      "include": [
+        "B0CZ9SX1GW"
+      ],
+      "source_research_file": "06_research/2026-04/2026-04-08_research_data.json"
+    },
+    {
+      "query": "Anker Prime Power Bank 12000mAh 130W",
+      "include": [
+        "B0BZ87C549"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-07_research_data.json"
+    },
+    {
+      "query": "CIO NovaPort QUADⅡ 65W",
+      "include": [
+        "B0D53XL7GL"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json"
+    },
+    {
+      "query": "SwitchBot ハブ2 スマートリモコン",
+      "include": [
+        "B0BM8VS13P"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json"
+    },
+    {
+      "query": "SwitchBot サーキュレーター Alexa",
+      "include": [
+        "B0C9TKSP8V"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-05_research_data.json"
+    },
+    {
+      "query": "Ring Indoor Cam",
+      "include": [
+        "B0B6GL3N8D"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json"
+    },
+    {
+      "query": "TP-Link Tapo P110M Alexa",
+      "include": [
+        "B0C9PYN7RN"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-09_research_data.json"
+    },
+    {
+      "query": "BenQ ScreenBar Halo モニターライト",
+      "include": [
+        "B0DK59YKRS"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-06_research_data.json"
+    },
+    {
+      "query": "Logicool MX Master 3S",
+      "include": [
+        "B0FR8KBS5K"
+      ],
+      "source_research_file": "06_research/2026-04/2026-04-04_research_data.json"
+    },
+    {
+      "query": "Logicool MX Keys S",
+      "include": [
+        "B0C65F55K5"
+      ],
+      "source_research_file": "06_research/2026-04/2026-04-04_research_data.json"
+    },
+    {
+      "query": "Xiaomi Pad 7 8G 128G ブルー",
+      "include": [
+        "B0DXFC2WC9"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json"
+    },
+    {
+      "query": "Samsung Portable SSD T9 2TB",
+      "include": [
+        "B0CHFS9K14"
+      ],
+      "source_research_file": "06_research/2026-07/2026-07-11_research_data.json"
+    },
+    {
+      "query": "Crucial X10 Pro 2TB CT2000X10PROSSD9",
+      "include": [
+        "B0CCYKY4T4"
+      ],
+      "source_research_file": "06_research/2026-07/2026-07-11_research_data.json"
+    },
+    {
+      "query": "Shokz OpenDots ONE",
+      "include": [
+        "B0DW3RWMNM"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json"
+    },
+    {
+      "query": "JBL Flip 7 防水 Bluetooth スピーカー",
+      "include": [
+        "B0F1MZJTB7"
+      ],
+      "source_research_file": "06_research/2026-07/2026-07-31_research_data.json"
+    },
+    {
+      "query": "DJI Osmo Action 5 Pro",
+      "include": [
+        "B0DS2DF5S5"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-30_research_data.json"
+    },
+    {
+      "query": "Insta360 Flow 2 Pro AIトラッキング ジンバル",
+      "include": [
+        "B0G64QDV8J"
+      ],
+      "source_research_file": "06_research/2026-06/2026-06-15_research_data.json"
+    },
+    {
+      "query": "roborock Q7B+",
+      "include": [
+        "B0F6NRWF9V"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-02_research_data.json"
+    },
+    {
+      "query": "オーディオテクニカ AT-UMX3 WH USB オーディオミキサー",
+      "include": [
+        "B0DZCCPH3V"
+      ],
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json"
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "2026-07-04時点の実行環境からPA-APIへDNS接続できなかったため、既存のPA-API取得済みresearch_data.jsonからURL/ASIN監査済み商品を再利用。ディール・ハブの事前傾向は秘密情報として扱い、価格・割引率は公開前データに含めない。",
+    "fallback_policy": "既存PA-API取得済みデータ・カテゴリ横断・メーカー重複抑制・URL/ASIN一致検証・公開直前ライブ確認必須"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_batch.py attempted; existing PA-API research_data.json fallback",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": [],
+    "pa_api_attempt_note": "Direct PA-API call on 2026-07-04 failed with DNS error: nodename nor servname provided, or not known.",
+    "browser_check_note": "Old browser_check blocks from source research were removed to avoid carrying stale public prices into the Prime Day draft.",
+    "latest_pa_api_attempt": {
+      "checked_at": "2026-07-07T22:18:25+09:00",
+      "operation": "GetItems",
+      "status": "failed",
+      "failure_type": "network_dns_resolution_failure",
+      "failure_detail": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+    }
+  },
+  "target_count": 20,
+  "fetched_count": 20,
+  "dedup_count": 0,
+  "selected_count": 20,
+  "selected_items": [
+    {
+      "title": "Amazon Echo Show 15 (エコーショー15) 第2世代 (2024年発売) - 15.6インチ フルHDスマートディスプレイ with Alexa、Fire TV機能搭載、Alexa対応音声認識リモコン同梱",
+      "url": "https://www.amazon.co.jp/dp/B0C7Y1N38H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 37980,
+      "image_url": "https://m.media-amazon.com/images/I/317IvU2fsIL._SL500_.jpg",
+      "features": [
+        "【新しいEcho Show 15】15.6インチ フルHDディスプレイ(1080p)を搭載したスマートディスプレイ。 ダイニングやキッチンなどで便利に使うことができ、毎日の生活をより快適に過ごせるようにサポートします。 カスタマイズ可能なウィジェットを使って1日の予定を管理。さらに、 迫力のあるサウンドでFire TVのコンテンツや、 広い撮影範囲と3.3倍ズーム機能による自然なビデオ通話をお楽しみいただくことができます。",
+        "【カスタマイズ可能なホーム画面】家族の予定表、やることリスト、天気や写真をウィジェットで一目で確認。",
+        "【お気に入りのコンテンツがここに】Fire TV機能でPrime Video、Netflix、YouTube、U-NEXT、TVer などが提供する映画やドラマ、バラエティ番組などの様々な動画コンテンツを再生できます。また、Fire TV機能を操作するためのリモコンが付属しています。さらに、「再生中のメディア」機能を使って、音楽を再生するEchoデバイスを素早く追加できます。たとえば、キッチンのEcho Show 15で音楽を再生中に、別室にあるEchoデバイスを追加して同時に再生することなどができます。※各コンテンツやサービスの利用には別途登録・契約や料金が必要な場合があります。",
+        "【スマートホームの中心】Alexaに話しかけたり、スマートホームダッシュボードをタッチして手軽にスマートホーム製品をコントロール。 リビングの照明のオン/オフや、駐車場や子供部屋などのカメラの映像を確認することもできます。また「アレクサ、おはよう」など指定した特定の発話や、設定した時間に家中の家電を一斉に操作することもできます。",
+        "【思い出の写真を飾る】ホーム画面をデジタルフォトフレームにして、思い出の写真で毎日の生活に彩りを。写真はおまかせでスライドショーに。家族や友人に写真のシェアもできます。",
+        "【自然なビデオ通話】家族や友人のEchoデバイスやスマートフォンとビデオ通話ができます。本体上部中央に配置されたカメラは広視野角、自動フレーミング機能、3.3倍ズーム機能やノイズ低減技術を搭載し、より自然に会話できます。",
+        "【お客様のプライバシーを保護するための設計】 Amazonが個人情報を第三者に販売することはありません。マイク/カメラ オフ ボタンや内蔵カメラカバーなど、何重ものプライバシー保護対策が取られています。"
+      ],
+      "query": "Amazon Echo Show 15 スマートディスプレイ",
+      "asin": "B0C7Y1N38H",
+      "prime_day_category": "Amazonデバイス",
+      "editorial_reason": "大画面スマートディスプレイ。プライムデーでAmazonデバイス枠の値引き候補として扱いやすい。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-07/2026-07-19_research_data.json",
+      "list_price": 42980,
+      "sale_price": 37980,
+      "discount_rate": "-12%",
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "Amazon Echo Dot (エコードット) 第5世代 - Alexa、センサー搭載、鮮やかなサウンド｜チャコール",
+      "url": "https://www.amazon.co.jp/dp/B09B8SZLLG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "confirmed_on_sale_no_price",
+      "image_url": "https://m.media-amazon.com/images/I/51ojjwuImJL._SL500_.jpg",
+      "features": [
+        "コンパクトなのに響く低音・高音質。Alexa搭載スマートスピーカーで、クリアなボーカルと深みのある低音を楽しめる。",
+        "Amazon Music、Apple Music、Spotifyなどからの音楽再生や、オーディオブック、ポッドキャストの再生に対応。スマホとのBluetooth接続も可能。",
+        "Alexaに話しかけて天気やニュースの確認、スケジュール管理、タイマー設定ができる。",
+        "モーション検知機能や内蔵温度センサーを使い、部屋に入ると照明が点灯するなどの自動操作を設定できる。",
+        "Echo Dotを2台使えばステレオサウンドを楽しめるほか、Fire TVと組み合わせてホームシアターとしても活用できる。"
+      ],
+      "query": "Amazon Echo Dot 第5世代",
+      "asin": "B09B8SZLLG",
+      "prime_day_category": "Amazonデバイス",
+      "editorial_reason": "コンパクトなAlexaスマートスピーカー。Echo Show 15とは別用途で扱いやすい。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-08_manual_check",
+        "verified_by": "user_manual_check",
+        "replacement_note": "Replaced an item that was not on Prime Day sale or out of stock as of 2026-07-07/08 manual check."
+      },
+      "source_research_file": "06_research/2026-05/2026-05-09_research_data.json",
+      "sale_tag": "プライムデー期間中セール対象(詳細未確認)"
+    },
+    {
+      "title": "UGREEN Zapix Qi2 15W ワイヤレス充電器 2 in 1 Magsafe対応 iPhone充電器 90°調整可能 磁気 無線 ワイヤレス急速 iPhone 17/16/15/14/13/12シリーズ & AirPods対応 LED表示 USB-Cケーブル付き",
+      "url": "https://www.amazon.co.jp/dp/B0FQBYRSP1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "confirmed_on_sale_no_price",
+      "image_url": "https://m.media-amazon.com/images/I/31786VWJvaL._SL500_.jpg",
+      "features": [
+        "Qi2認証の15W急速充電に対応したMagSafe対応ワイヤレス充電器。iPhoneとAirPodsを同時に充電できる2in1設計。",
+        "高強度のN48H磁石を採用しており、充電中もスマートフォンをしっかりと固定できる。",
+        "15度から90度まで角度を調整できるキックスタンドを備えており、動画視聴時にも使いやすい。",
+        "過熱保護や異物検出、短絡保護、過電流保護など複数の安全機能を搭載している。"
+      ],
+      "query": "UGREEN Zapix Qi2 15W ワイヤレス充電器",
+      "asin": "B0FQBYRSP1",
+      "prime_day_category": "充電・電源",
+      "editorial_reason": "MagSafe対応の2in1ワイヤレス充電器。デスクや枕元に置いて使いやすい充電アクセサリ。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-08_manual_check",
+        "verified_by": "user_manual_check",
+        "replacement_note": "Replaced an item that was not on Prime Day sale or out of stock as of 2026-07-07/08 manual check."
+      },
+      "source_research_file": "06_research/2026-04/2026-04-10_research_data.json",
+      "sale_tag": "プライムデー期間中セール対象(詳細未確認)"
+    },
+    {
+      "title": "CIO NovaPort QUADⅡ 65W 急速充電器 PD 4ポート [世界最小級] USB-C×3 + USB-A×1 ACアダプター コンセント 軽量 iPhone 17 / Air / 16 / 15 Android Galaxy Macbook iPad向け ノートPC (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0D53XL7GL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 4380,
+      "image_url": "https://m.media-amazon.com/images/I/41e0+F7WLzL._SL500_.jpg",
+      "features": [
+        "【最大67W出力！超小型4ポート充電器】USB-C単ポート最大出力67Wでノートパソコンへの充電にも対応！ スマートフォン(iPhoneやAndroid)からタブレット(iPad向け)、ノートPC(Macbook、Windows PC等)まで幅広い機器に対応しており、これ一つでご自宅でも外出先でも快適にご利用いただけます。",
+        "【4ポート搭載】最大4台同時充電に対応し、スマホやタブレット、ゲーム機、モバイルバッテリー、電子タバコなど、さまざまなデバイスをこれ1台で充電可能。CIO独自技術 Nova Intelligenceを搭載し、複数充電時に最適な電力を自動で振り分けてくれます。※Nova Intelligenceの仕様は急速充電早見表(画像)をご確認ください。",
+        "【世界最小級サイズ】高出力でありながら、4ポート充電器の中でも極限まで小さいサイズに設計。持ち運びをされる際に、カバンやポーチに入れやすいサイズ感。コンセント干渉がなく、コンセント周りをスッキリすることができます。",
+        "【電力を最適に振り分け NovaIntelligenceを搭載】接続された端末に合わせて電力を自動で調整する独自の技術 NovaIntelligence を搭載。ポートの出力を気にしながらデバイスを繋ぐ必要がなく、同時充電時もストレスなく快適に充電が可能です。",
+        "【新技術 NovaEngine搭載】次世代半導体のGaNチップをダブルで搭載するCIOの新技術NovaEngineを採用。エネルギーのロスを減らし、変換効率の向上を実現しました。充電器本体の発熱を抑制し、充電速度と安定性を追求した充電器です。"
+      ],
+      "query": "CIO NovaPort QUADⅡ 65W",
+      "asin": "B0D53XL7GL",
+      "editorial_reason": "多ポート急速充電器。スマホ、タブレット、PCをまとめるセール定番枠。",
+      "prime_day_category": "充電・電源",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json",
+      "list_price": 6900,
+      "sale_price": 4380,
+      "discount_rate": "-37%",
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
+      "url": "https://www.amazon.co.jp/dp/B0BM8VS13P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 7980,
+      "image_url": "https://m.media-amazon.com/images/I/41A4B3EevKL._SL500_.jpg",
+      "features": [
+        "【高性能の4-in-1スマートリモコン】SwitchBot ハブ2 一つでおうちを簡単にスマートに。あらゆる家電のリモコンを1つに集約してスマホで操作できるスマートリモコンだけではなく、温湿度計、スマートボタン、スマートハブなど便利な機能を多数搭載しています。本商品はWorks with Alexa認定を受けたAmazon Alexa対応端末です。（※本製品はWi-Fi2.4GHz帯のみ対応。）",
+        "【あらゆる赤外線家電はそのままスマート家電に】圧倒的な赤外線コードデータベース所有量が誇り。対応可能なメーカー数4877社、対応可能なリモコンの種類21363種、対応可能な製品型番83934個、新デバイスも旧式家電も簡単にスマートに。自社開発のスマートラーニング方式で、ワンタッチで家電を登録。初心者もすぐに使えます。",
+        "【自宅の温湿度・照度の変化が常にひと目で分かる】付属のケーブルには温度センサーと湿度センサーが搭載、お部屋の温湿度がより精確に分かります。光センサーも搭載されいるため、SwitchBotシーリングライトやSwitchBotカーテンなどの室内照明調整アイテムと併用すれば、室内の光度や日照量を自動で調節します。オートメーションを設定する際にも活躍できます。",
+        "【遠隔操作可能、音声で家電をコントロール】テレビ・エアコン・照明など赤外線の家電製品をSwitchBot Hub2一つで集約し、おうちでも外出先でもスマホで家電を一括にコントロールします。音声コントロールが対応。Amazonアレクサ、Googleアシスタント、Siriショートカットなどのスマートスピーカーと連携すれば、話しかけるだけで家電を操作できます。",
+        "【新基準のMatter対応、新規格のスマートホームハブ】ネットに接続できない赤外線家電（エアコン、照明など）や、従来HomeKit非対応のSwitchBotデバイスなど、ハブ 2に連携して、Matter(マター)に通じて、AppleのHomeアプリ上で管理したり、スマートスピーカーで音声コントロールしたりできるようになります。（本機能を利用するには、サードパーティスマートハブとの併用が必要。）",
+        "【革新なエアコンのリモコン状態常時取得技術搭載】日本初のAC赤外線コード対応、外出先でもスマホでエアコンのリモコン状態を確認でき、エアコンの状態をシンクロさせられます。エアコンの状態を確認した後、遠隔でオンにできます。ルーターやサーバーに通信障害が発生しても、スマホのBluetooth機能を使ってエアコンを操作することが可能です。",
+        "【ワンタッチで複数のデバイスをコントロール】ON/OFFボタンをタップするだけで、複数のデバイスをまとめて操作できます。あらかじめ実現したいシーンをカスタマイズすることで、指定したタイミングで連携したデバイスが特定のオートメーションを実行できます。",
+        "【パッケージ内容】5V/2Aアダプター*1、温湿度センサー搭載ケーブル*1、‎ハブ 2本体*1、日本語取扱説明書*1、サポートカード*1、両面テープ*1"
+      ],
+      "query": "SwitchBot ハブ2 スマートリモコン",
+      "asin": "B0BM8VS13P",
+      "editorial_reason": "赤外線家電をまとめるスマートリモコン。導入しやすいスマートホーム中核候補。",
+      "prime_day_category": "スマートホーム",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json",
+      "list_price": 9980,
+      "sale_price": 7980,
+      "discount_rate": "-20%",
+      "sale_tag": "限定プライムセール"
+    },
+    {
+      "title": "【節電対策】SwitchBot サーキュレーター 静音 首振り Alexa - コードレス スイッチボット 扇風機 ~30畳 DCモーター 省エネ 充電式バッテリー搭載 無段階風量調整 リモコン付き 梅雨対策",
+      "url": "https://www.amazon.co.jp/dp/B0C9TKSP8V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "confirmed_on_sale_no_price",
+      "image_url": "https://m.media-amazon.com/images/I/41C-oYdrUxL._SL500_.jpg",
+      "features": [
+        "【独自の「SilenTech」静音技術とパワフル送風】DCモーター、高性能エアダクト、防音性が高いスパイラルグリル設計のガードを採用し、運転音をわずか22dB(※)に抑えられました！就寝中やリモートワーク中でも音が気にならない優れた静音性。さらに、羽根径23cmのビックサイズで大風量で送風を実現！30畳のリビングでは10分で約2度気温を下げます。 ※そよ風モード",
+        "【コードレスで使用可能】バッテリー内蔵で、コンセントに繋がなくても使用可能。どこでも置けて超便利！フル充電で最大50時間（※）の連続運転が可能。キッチンや浴室、ベランダなどコンセントがない場所でも使用できます。もちろんコンセントに電源を挿してもお使いいただけます。 ※おやすみモード・送風1段階の場合、SwitchBotラボテスト結果",
+        "【自動3D首振り】どの角度からでも風を感じることができ、置く場所に関係なく心地よい風を楽しめます。また、アプリでお好みの角度に固定して送風することも可能です。",
+        "【1~100％まで風量を細かく調節&メモリー機能】アプリで風量を100レベルまで自由自在に調節可能。また、メモリー機能が搭載されており、前回電源OFF時の設定で運転を開始します。",
+        "【アレクサで音声操作(ハブ必要)】サーキュレーター本体やリモコンだけでなく、スマートスピーカーを通じて音声操作も可能。アレクサの他、Googleアシスタント、Siriショートカットなどにも対応。例えば、「アレクサ、サーキュレーターをつけて」と言えば、声でサーキュレータ―を起動することができます。",
+        "【4つのモードで多彩な送風を実現】シーンやニーズに応じて、最適な風を選ぶことができます。空気の循環には強く真っ直ぐな送風モード、お子さんやお年寄りには一番優しいそよ風モード、自然のように不規則な風を楽しみたい場合はナチュラルモード、寝るときにはおやすみモードを選べます。",
+        "【SwitchBotシリーズと連携】SwitchBotハブ2との連携で、温湿度センサーで感知したお部屋の温湿度に基づいて、エアコンやサーキュレーターのON/OFFを自動に操作します。夏には暑さ対策として、エアコンとサーキュレーターが自動的に起動し、お部屋の隅々まで涼しく保ちます。また、梅雨時にはサーキュレーターの自動操作でお部屋の空気を循環させます。",
+        "【節電&省エネ】消費電力24Wで、ひと夏(90日間)使用時の電気代約531円、1日あたりわずか5.9円です(※)！消費電力40WのACモータータイプと比較して、約40％節約可能。※電気代31円/1kWh、1日8時間稼働した場合で算出"
+      ],
+      "query": "SwitchBot サーキュレーター Alexa",
+      "asin": "B0C9TKSP8V",
+      "prime_day_category": "スマートホーム・季節家電",
+      "editorial_reason": "Alexa連携できるコードレスサーキュレーター。夏のプライムデーと相性がよい。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-05/2026-05-05_research_data.json",
+      "sale_tag": "セール中(詳細未確認)"
+    },
+    {
+      "title": "【2023年度グッドデザイン賞受賞】Ring Indoor Cam (リング インドアカム) 第2世代 ブラック | 軽量小型の屋内用セキュリティカメラ、ペットカメラやご自宅の見守りカメラ、防犯カメラの用途にも プライバシーカバー付き | Ring Homeプラン30日間無料体験",
+      "url": "https://www.amazon.co.jp/dp/B0B6GL3N8D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 2980,
+      "image_url": "https://m.media-amazon.com/images/I/31snFnEnmbL._SL500_.jpg",
+      "features": [
+        "【ペットやご自宅の見守りを手軽に】Ringアプリを使えば、ライブ映像の確認はもちろんのこと、双方向音声やモーション検知機能を有効にして外出先からもペットやご自宅の見守りが可能です。",
+        "【昼でも夜でもはっきりと】対角143°のカメラ視野角と1080p HDビデオの鮮明な映像でライブ映像を確認できます。カラーナイトビジョン機能で夜間でも鮮明な映像を確認可能です。",
+        "【プライバシーにも配慮】 プライバシーカバーを手動で左右にスライドすることで、必要に応じてカメラとマイクをON/OFFにすることができます。",
+        "【さまざまな設置方法】平置きや、壁面や天井などにも取り付けが可能です。天井に取付けした場合は、カメラ映像の上下を反転させる設定ができます。",
+        "【大事な瞬間を見逃さない】カメラがモーションを検知した時にRingアプリに通知を送り、タップするとリアルタイムでライブ映像を確認できます。別売りのRing Home プランに登録すれば、モーション検知の数秒前から録画を開始するプレ録画機能で、イベントの初めから終わりまで何が起きていたのか後から録画内容を確認することができます。さらに Ring Home Premiumの24時間連続録画を使用すれば、モーション検知ゾーン外で発生したイベントも連続で録画します。※24時間連続録画は、1つの場所 (登録住所) につき最大10台まで利用可能です。一部併用できない機能があります。連続録画されたビデオは最長14日間一時的にクラウド上に保存されます。",
+        "【見る。知る。守る。セキュリティに、さらなる強さを。】過去最長180日間 (デフォルト設定は60日間) の動画を気になる時に確認したり、人物検知の通知を受信するなどさまざまなベネフィットを、Ring Home プラン（有償）に登録するとご利用いただけます。",
+        "【Works with Alexa認定】Alexaスキルを有効化すれば、お持ちの対応する画面付きEchoデバイスやFire TVシリーズで、お子様やペットの様子の確認が可能です。",
+        "【主な用途】ペットカメラ、見守りカメラ、防犯カメラの用途にもご利用頂けます。※カメラの首振り機能はありません。"
+      ],
+      "query": "Ring Indoor Cam",
+      "asin": "B0B6GL3N8D",
+      "editorial_reason": "屋内カメラの定番候補。防犯、ペット、見守りの需要に広く刺さる。",
+      "prime_day_category": "スマートホーム・見守り",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json",
+      "list_price": 4980,
+      "sale_price": 2980,
+      "discount_rate": "-40%",
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "TP-Link Tapo Matter 対応 スマートプラグ プラグミニ スマートコンセント 電力モニタリング コンセント 節電·省エネ スケジュール 電源タイマー 直差し 遠隔操作 音声コントロール かんたん設定【Amazon Alexa, Apple Siri, Google Assistant 対応】Tapo P110M(1-pack)(JP)/A",
+      "url": "https://www.amazon.co.jp/dp/B0C9PYN7RN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 1300,
+      "image_url": "https://m.media-amazon.com/images/I/31s-zpBH1uL._SL500_.jpg",
+      "features": [
+        "[特徴] Matter対応 スマートプラグが登場。Apple Siri , Amazon Alexa, Google Assistantの音声コントロールに対応",
+        "[特徴②] Amazon Alexa 認証取得。電源のオン・オフを制御するスマートWi-Fiプラグ。",
+        "[アプリでかんたん] 外出先からスマホアプリで簡単に設定ができます。",
+        "[消費電力モニタリング] プラグに挿した電気製品の電力使用状況を確認でき、電気料金の設定を行うと毎月の電気料金の目安を確認できます。",
+        "[スケジュール設定] 日々の生活リズムに合わせて、指定した時間にプラグの動作を指定可能です。",
+        "[自動オフタイマー] プラグ側で給電時間を指定することができ、一定時間経過後に給電が止まるので、省エネかつ安心してご利用いただけます。"
+      ],
+      "query": "TP-Link Tapo P110M Alexa",
+      "asin": "B0C9PYN7RN",
+      "prime_day_category": "スマートホーム・節電",
+      "editorial_reason": "Matter対応スマートプラグ。電力モニタリングや節電文脈で紹介しやすい。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-05/2026-05-09_research_data.json",
+      "list_price": 1600,
+      "sale_price": 1300,
+      "discount_rate": "-19%",
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "フィリップスヒュー(Philips Hue) Go ポータブルライト - スマート照明 テーブルランプ Alexa対応 マルチカラー 1600万色 電球色 昼白色 調光 調色 スマートホーム 間接照明 LED スマートライト 音声操作 アプリ操作 Matter対応 ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B089B8YFKS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "confirmed_on_sale_no_price",
+      "image_url": "https://m.media-amazon.com/images/I/31i0kc7EGoL._SL500_.jpg",
+      "features": [
+        "1600万色のフルカラー表示に対応したポータブルタイプのスマートライト。リビングの間接照明やベランダでの利用など、置く場所を選ばない。",
+        "本体ボタンで色の変更ができるほか、スケジュール機能により日中と夜とで自動的に明かりを切り替えられる。",
+        "Bluetooth接続に対応しており、タイマーやスケジュール設定、調光をアプリから操作できる。",
+        "コンパクトなサイズと軽さを備えており、デスク上だけでなく持ち運んで使うことにも向いている。"
+      ],
+      "query": "フィリップスヒュー Go ポータブルライト",
+      "asin": "B089B8YFKS",
+      "prime_day_category": "デスク環境",
+      "editorial_reason": "持ち運びできるスマート間接照明。デスク周りの雰囲気づくりに使いやすい一台。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-08_manual_check",
+        "verified_by": "user_manual_check",
+        "replacement_note": "Replaced an item that was not on Prime Day sale or out of stock as of 2026-07-07/08 manual check."
+      },
+      "source_research_file": "06_research/2026-07/2026-07-30_research_data.json",
+      "sale_tag": "プライムデー期間中セール対象(詳細未確認)"
+    },
+    {
+      "title": "【Amazon.co.jp限定】 ロジクール MX MASTER 3S Bluetooth Edition アドバンスド ワイヤレス マウス 静音 MX2300CRd Logi Bolt Bluetooth Unifying非対応 8000dpi 高速スクロールホイール USB-C 充電式 無線 MX2300 グラファイト 国内正規品 ※Amazon.co.jp限定 壁紙ダウンロード付き",
+      "url": "https://www.amazon.co.jp/dp/B0FR8KBS5K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 12970,
+      "image_url": "https://m.media-amazon.com/images/I/31HmSa8C2wL._SL500_.jpg",
+      "features": [
+        "Bluetooth Edition ／ 超高速スクロールホイールを搭載した人間工学デザインのMXシリーズ高機能ワイヤレスマウス MX MASTER3SのLogi bolt USBレシーバーと充電ケーブルが付属しないBluetooth Editionが登場。*別売りまたはすでにお持ちのLogi Boltレシーバーを使用して接続することはできます。",
+        "型番：MX2300CRd ／ 保証期間1年間のAmazon.co.jp限定モデル ※Amazon.co.jp限定 壁紙ダウンロード付き",
+        "超高速スクロール ／ 1秒間に1,000行のスクロールが可能な超高速スクロールホイールを搭載",
+        "静音クリック ／ 以前のモデル(MX MASETER 3/MX2200s)よりクリック音を約90%カットした静音モデル",
+        "8,000 DPIの精確なトラッキング ／ のガラス面を含むあらゆる面を精確にトラッキングする8,000 DPIのDark Fieldセンサー",
+        "人間工学デザインでストレスフリーな使用感 ／ スイスのLogitech International本社内にある「LOGI エルゴ・ラボ」にて設計・開発された自然な傾斜角とボタン配置により、長時間の使用でも疲労感を軽減します。",
+        "対応OS ／ Windows 10、Windows 11以降、macOS 10.15以降、Linux、ChromeOS、iPadOS 14以降、Android 8.0以降。",
+        "サステナブルな設計 ／ プラスチック部分には再生プラスチックが最低27%含まれています。パッケージにはFSC認証紙を使用し、未塗装プラスチックや分解しやすい設計でリサイクル性も高めています。"
+      ],
+      "query": "Logicool MX Master 3S",
+      "asin": "B0FR8KBS5K",
+      "prime_day_category": "PC周辺機器",
+      "editorial_reason": "MX Master 3S。仕事用マウスの定番で、値下げ時の訴求が強い。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-04/2026-04-04_research_data.json",
+      "sale_price": 12970,
+      "discount_rate": "-20%",
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "PFU キーボード HHKB Professional HYBRID Type-S 日本語配列／墨",
+      "url": "https://www.amazon.co.jp/dp/B082TSZ27D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 33000,
+      "image_url": "https://m.media-amazon.com/images/I/31wEgCldOML._SL500_.jpg",
+      "features": [
+        "静電容量無接点方式、Bluetooth接続、USB Type-C接続、キーマップ変更機能を備える。",
+        "Type-Sキー構造により、高速タイピング性と静粛性を重視。",
+        "合理的なキー配列により、ホームポジションから手を大きく移動せずに操作しやすい。",
+        "A4ハーフサイズ強のコンパクト設計で、外出先にも持ち運びやすい。",
+        "Bluetoothでは最大4台までデバイス登録が可能。"
+      ],
+      "query": "HHKB Professional HYBRID Type-S",
+      "asin": "B082TSZ27D",
+      "prime_day_category": "PC周辺機器",
+      "editorial_reason": "静音・高速タイピングに定評のある静電容量無接点キーボード。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check",
+        "replacement_note": "Replaced an item that was not on Prime Day sale as of 2026-07-07 manual check."
+      },
+      "source_research_file": "06_research/2026-06/2026-06-08_research_data.json",
+      "list_price": null,
+      "sale_price": 33000,
+      "discount_rate": "-10%",
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "Xiaomi Pad 7 8G+128G ブルー 3.2K 144Hz高精細ディスプレイ 800nits Snapdragon 7+ Gen 3 Xiaomi HyperOS 2搭載 AI機能 Google Gemini クワッドスピーカー Dolby Vision 8850mAhバッテリー 45W急速充電 エンターテインメント 作業 会議用",
+      "url": "https://www.amazon.co.jp/dp/B0DXFC2WC9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 47480,
+      "image_url": "https://m.media-amazon.com/images/I/41W7mVRHEtL._SL500_.jpg",
+      "features": [
+        "【11.2インチ 3.2Kの高精細ディスプレイ】Xiaomi Pad 7は3.2K解像度（3200×2136）に進化し、文書や資料などの操作しやすい3:2の画面比率、800nitsの最大輝度やDolby Vision、Adaptive HDR対応などの基本性能に、DCI-P3の色域にも対応します。トップクラスの鮮明さと、入念に調整されたオリジナル・カラー・プロによって、複数のデバイスでもプロフェッショナルなカラーパフォーマンスを実現します。最大144Hzの可変リフレッシュレートにより、ウェブ閲覧も、絵を描くときも、エンターテインメントを楽しむときも、なめらかかつ残像の少ないディスプレイ表示で目に優しい体験を得られます。さらに、4,096レベルの輝度調整とDC調光機能で、プロ仕様のアイ・プロテクション性能では夜間での使用にも目のケアにサポートします。",
+        "【Xiaomi HyperAI】Xiaomi Pad 7は、Snapdragon 7+ Gen 3 Mobile Platformを搭載し、学習とエンターテインメントのバランスを求める人のために設計されています。外国語のリアルタイム翻訳や要約といった日常の利用のみならず、手書きの数式を認識して計算するAI電卓や自分で描いたイラストをもとに生成するAIアートのようなタブレットに最適化したAI機能もご活用いただけます。",
+        "【ノートPCのような操作性】ビジネスで資料作成、動画＆画像編集、クリエイティビティの作業も、早い処理速度で制作物を出力します。3200万画素の AON（Always ON）フロントカメラと5000万画素アウトカメラは、オンラインミーティングや資料の記録撮影に活躍します。Xiaomi Pad 7シリーズはワークステーションモードも搭載しており、タブレットをノートPCのようなインターフェースに変え、フローティングウィンドウ、調整可能なアプリサイズ、高い作業で情報収集することができます。これらの機能を組み合わせることで、Xiaomi Pad 7シリーズは生産性と創造性のための強力なツールとなります。",
+        "【進化したXiaomi HyperOS 2】Xiaomi HyperOS 2によって強化されたXiaomi HyperConnectは、一新したデザインで直感的な操作体験を提供し、デバイス間の連携をよりシームレスにします。NFCタッチ※共有機能を使えば、デバイスを重ねてタップするだけで瞬時にファイル転送やスマートフォン画面のミラーリングができます。クロスデバイスカメラは、アプリ内でスマートフォンとタブレットのカメラを同時に起動できるため、プレゼンテーションやクリエイティブなワークフローを強化します。",
+        "【フラッグシップ並みのパフォーマンス】Xiaomi Pad 7は、Dolby Atmos対応のクワッドスピーカーを内蔵しており、200%の音量アップをサポートしているため、さらに没入感のあるサウンド体験が得られます。Xiaomi Pad 7シリーズは厚さ6.18mm、重さ500gの薄型軽量ボディに8850mAhの大容量バッテリーを搭載。45W 急速充電に対応するため、万が一充電がなくなても、すぐに回復します。メタルユニボディ設計は従来モデルにあるディスプレイの出っ張りをなくし、よりスタイリッシュなデザインを実現。"
+      ],
+      "query": "Xiaomi Pad 7 8G 128G ブルー",
+      "asin": "B0DXFC2WC9",
+      "editorial_reason": "Xiaomi Pad 7。動画視聴と軽作業の両方で使える目玉候補。",
+      "prime_day_category": "タブレット",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json",
+      "sale_price": 47480,
+      "discount_rate": "-14%",
+      "list_price": 54980,
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "Acer Predator GM9000 8TB SSD Gen5×4 超高速(最大読み取り：14000MB/s、最大書き込み：13000MB/s) NVMe2.0 M.2 Type 2280 PCIe 内蔵SSD 6nmプロセス 低消費電力 高耐久 メーカー5年保証",
+      "url": "https://www.amazon.co.jp/dp/B0FW4JN2R3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 215991,
+      "image_url": "https://m.media-amazon.com/images/I/31RJcbsNYVL._SL500_.jpg",
+      "features": [
+        "PCIe Gen5×4対応で、最大14,000MB/秒の読み取り速度、最大13,000MB/秒の書き込み速度に対応。",
+        "DRAMキャッシュ搭載により、頻繁なデータアクセスや大量データの連続転送での応答性を重視。",
+        "6nmプロセスの高効率コントローラーにより、省電力と低発熱をうたう。",
+        "ゲーミング、コンテンツ制作、AI開発などのハイエンド用途向け。"
+      ],
+      "query": "Acer Predator GM9000 8TB",
+      "asin": "B0FW4JN2R3",
+      "prime_day_category": "ストレージ",
+      "editorial_reason": "8TBの超大容量とGen5対応の速度を両立した内蔵SSD。大容量データを扱うクリエイター向け。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check",
+        "replacement_note": "Replaced an item that was not on Prime Day sale as of 2026-07-07 manual check."
+      },
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json",
+      "list_price": 239990,
+      "sale_price": 215991,
+      "discount_rate": "-10%",
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "【Amazon.co.jp限定】SanDisk SSD 外付け 1TB USB3.2Gen2 読出最大1050MB/秒 防滴防塵 SDSSDE61-1T00-GH25 エクストリーム ポータブルSSD V2 Win Mac PS4 PS5 エコパッケージ 5年保証",
+      "url": "https://www.amazon.co.jp/dp/B08P4CN4YC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 35080,
+      "image_url": "https://m.media-amazon.com/images/I/41zEuz5-klL._SL500_.jpg",
+      "features": [
+        "最大読出し速度1050MB/秒、最大書込み速度1000MB/秒で写真や動画のバックアップ、編集、管理に対応。",
+        "USB 3.2 Gen 2対応。USB Type-CケーブルとUSB Type-A変換アダプタを同梱。",
+        "iPhone 15シリーズでiOSファイルアプリ経由のファイル転送に対応。",
+        "IP65の防滴、防塵性能を備える。"
+      ],
+      "query": "SanDisk Extreme Portable SSD V2 1TB",
+      "asin": "B08P4CN4YC",
+      "prime_day_category": "ストレージ",
+      "editorial_reason": "コンパクトで防滴防塵性能を備えた外付けポータブルSSD。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check",
+        "replacement_note": "Replaced an item that was not on Prime Day sale as of 2026-07-07 manual check."
+      },
+      "source_research_file": "06_research/2026-03/2026-03-31_research_data.json",
+      "list_price": null,
+      "sale_price": 35080,
+      "discount_rate": "-15%",
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "Shokz (ショックス) OpenDots ONE イヤーカフ ワイヤレスイヤホン オープンイヤー イヤホン 【Dolby Audio対応 / 合計40時間再生 / 音漏れ抑制技術/VGP 2025 金賞】 Bluetooth 5.4 マルチポイント接続 IP54防水 専用アプリ マイク付き 急速充電対応 ワイヤレス充電 耳を塞がない 耳挟み式 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DW3RWMNM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 19521,
+      "image_url": "https://m.media-amazon.com/images/I/21Nez2id1xL._SL500_.jpg",
+      "features": [
+        "イヤーカフ型で耳を圧迫しない新体験：耳を塞がないオープンイヤー型イヤホンにより、周囲の音を認識できるので通勤中や運動中の安全性を保ちつつ、長時間の音楽鑑賞での快適な装着感を実現。チタン合金とソフトシリコン採用の柔軟なShokz「JointArc」構造はあらゆる耳型にフィットし、サングラスやマスクなどにも干渉せずに安定性に優れ、ながら聴きに最適。",
+        "Dolby Audio搭載・臨場感あふれる高音質：16mm相当のデュアルドライバーシステムとShokz独自の「Bassphere」テクノロジーにより強化されたスピーカーは、「OpenBass 2.0」技術と連携し、オープンイヤー型でも力強く深みのある低音から繊細な高音まで忠実に再現します。映画館にもよく使れている「ドルビーオーディオ」に対応し、まるでライブのような臨場感を味わえます。",
+        "最大40時間再生・ワイヤレス充電対応：10分の急速充電で約2時間、フル充電ならイヤホン本体で最大10時間連続、ケース併用で最大40時間再生可能なスタミナを実現。ワイヤレス充電対応のポケットサイズ充電ケースで外出時もらくらく。バッテリー切れの心配なく、時間を気にせず、心ゆくまでお楽しみいただけます。",
+        "多機能搭載・専用アプリ：自動耳検出で左右を区別せず装着可能。自動再生/停止機能に加え、AIノイキャン通話・マルチポイント接続・タッチ操作など便利な機能を多数搭載。専用アプリでは4つのプリセットEQと2つのカスタムモードでサウンドを自在に調整可能。タッチ操作の設置、イヤホン紛失時の検索、ファームウェア更新、プロンプト音量調整も簡単に行えます。",
+        "プライベート空間で聴く：Shokz独自の「DirectPitch」テクノロジーという指向性技術は音漏れを防ぎながら耳への大音量を保証し、通話中もプライバシーを守り周囲への迷惑を軽減します。専用アプリのプライベートモードと併用すれば、音漏れ防止の効果がさらに高まり、日々の生活にも安心してご利用いただけます。"
+      ],
+      "query": "Shokz OpenDots ONE",
+      "asin": "B0DW3RWMNM",
+      "editorial_reason": "Shokz OpenDots ONE。オープンイヤー系の注目枠として扱いやすい。",
+      "prime_day_category": "オーディオ",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json",
+      "sale_price": 19521,
+      "discount_rate": "-30%",
+      "list_price": 27880,
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "Anker Soundcore Boom 2 Pro bluetooth スピーカー【最大140W出力 / IP68 防塵・防水規格 / 最大20時間再生 / BassUp2.0テクノロジー/ バッテリー機能搭載/Proイコライザー】",
+      "url": "https://www.amazon.co.jp/dp/B0DR2PNSBN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "confirmed_on_sale_no_price",
+      "image_url": "https://m.media-amazon.com/images/I/417VUrNME8L._SL500_.jpg",
+      "features": [
+        "50Wのウーファー2つと20Wのツイーター2つを搭載し、BassUpボタンオンで最大140Wの出力に対応。",
+        "Anker独自技術BassUp2.0により、40Hzの低音域まで再生可能な迫力の重低音を実現。",
+        "IP68の防塵・防水規格に対応しており、水深1.5mまで沈めても操作できる設計。",
+        "最大20時間の連続再生に対応しており、長時間のイベントでもバッテリー残量を気にせず使用できる。",
+        "ショルダーストラップが付属しており、持ち運びやすい。"
+      ],
+      "query": "Anker Soundcore Boom 2 Pro",
+      "asin": "B0DR2PNSBN",
+      "prime_day_category": "オーディオ",
+      "editorial_reason": "IP68防水と140W出力を両立したポータブルスピーカー。JBL FLIP 7の代替として屋外利用シーンに合う。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-08_manual_check",
+        "verified_by": "user_manual_check",
+        "replacement_note": "Replaced JBL FLIP 7, which was not on Prime Day sale as of manual check."
+      },
+      "source_research_file": "06_research/2026-07/2026-07-22_research_data.json",
+      "sale_tag": "プライムデー期間中セール対象(詳細未確認)"
+    },
+    {
+      "title": "AKASO Brave8 lite アクションカメラ 4K60fps 20MP 本機防水10m 水中カメラ スーパースムース手ブレ補正 ８倍スローモーション 4KHDR 1550mAhバッテリー×2 音声制御機能 外部マイク対応 アクションカム",
+      "url": "https://www.amazon.co.jp/dp/B0CZKRRBQF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 23998,
+      "image_url": "https://m.media-amazon.com/images/I/4106u3KI9wL._SL500_.jpg",
+      "features": [
+        "4K60fps HDR撮影に対応し、スピード感のある場面でも滑らかな映像をうたう。",
+        "2.0インチタッチスクリーンと1.22インチフロントスクリーンのデュアルスクリーン構成。",
+        "本体単体で水深10mまでのIPX8防水に対応。専用ケース使用時は水深60mまで対応。",
+        "SuperSmooth自動手ぶれ補正を搭載。",
+        "7言語の音声コントロールに対応。"
+      ],
+      "query": "AKASO Brave8 lite",
+      "asin": "B0CZKRRBQF",
+      "prime_day_category": "映像制作",
+      "editorial_reason": "本体単体で防水対応するアクションカメラ。手ブレ補正とデュアルスクリーンを搭載。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check",
+        "replacement_note": "Replaced an item that was not on Prime Day sale as of 2026-07-07 manual check."
+      },
+      "source_research_file": "06_research/2026-05/2026-05-30_research_data.json",
+      "list_price": 29999,
+      "sale_price": 23998,
+      "discount_rate": "-20%",
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "Insta360 Flow 2 Pro ジンバル スタビライザー（iPhone／Android対応）、AIトラッキング対応スマホジンバル。フィルライト、内蔵自撮り棒＆三脚を搭載。Vlog、旅行、家族、スポーツ撮影に最適 - アルティメット AIトラッカー キット（グレー）",
+      "url": "https://www.amazon.co.jp/dp/B0G64QDV8J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 20000,
+      "image_url": "https://m.media-amazon.com/images/I/31OcTu0oAUL._SL500_.jpg",
+      "features": [
+        "【iPhone&Android対応 ネイティブトラッキング】200以上のサードパーティ製アプリに対応した高精度トラッキングを実現。Instagram、TikTok、YouTubeでのVlog、旅行撮影、ライブ配信でも、安定したスマートトラッキングを提供します。",
+        "【高度なアクティブズームトラッキング】最大15倍ズームでも高速な動きを正確に追従。テニス、バスケットボール、サッカー、コンサートなど、ダイナミックなシーンの撮影に最適です。",
+        "【インテリジェント複数人トラッキング】グループ全体を自動で認識し、追従・フレーミング。家族旅行、ダンスパフォーマンス、グループでの集まりでも、全員をしっかりフレームに収めます。",
+        "【即時セットアップ＆3軸手ブレ補正】展開してスマートフォンを装着するだけで、すぐに撮影開始。3軸ジンバル補正により、手ブレを抑えた、なめらかでプロ品質の映像を実現します。",
+        "【360度無限パントラッキング】折りたたみ式スマホジンバルならではの自由度で、連続パン回転による常に自然なフレーミングを実現。あらゆる角度からダイナミックなシーンを捉え、没入感のあるコンテンツ制作が可能です。すべてのジンバルユーザーに最適。",
+        "【オールインワンAIトラッキングキット】Insta360 AIトラッカーを使って、200以上のアプリで次世代のハンズフリートラッキングを実現。マグネット式スマホマウント、USB-C to USB-A 充電ケーブル、内蔵三脚、自撮り棒、自撮りミラー、テレプロンプターを含む、充実のキットです。",
+        "【革新的なフリーティルトモード】より広い可動域で、創造性を解放。スマートフォンを上下に動かしても角度を一定に保ち、これまでにない撮影表現が可能になります。",
+        "【プロ仕様の照明を内蔵】モバイル撮影をワンランク上へ。暗所や難しい環境でも、Vlog・ライブ配信・動画をプロ品質の明るさで撮影できます。 *スポットライトは別売りです。",
+        "【幅広いスマートフォン対応】縦位置撮影に最適化されたジンバル設計で、iPhone／Androidの多くの機種にしっかり対応。すべてのデバイスで安定したトラッキングを実現し、モバイル映像制作を強力にサポートします。",
+        "【すべてのクリエイターに必須】Vlogger、モバイル映像制作者、ひとり旅の撮影、コンテンツクリエイターまで。このポータブルジンバルは、いつでもスムーズでプロフェッショナルな動画撮影を実現する、頼れるスマホ用スタビライザーです。"
+      ],
+      "query": "Insta360 Flow 2 Pro AIトラッキング ジンバル",
+      "asin": "B0G64QDV8J",
+      "prime_day_category": "映像制作",
+      "editorial_reason": "Insta360 Flow 2 Pro。スマホ撮影を強化するジンバル候補。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-06/2026-06-15_research_data.json",
+      "sale_price": 20000,
+      "discount_rate": "-26%",
+      "list_price": 26900,
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "roborock ロボロック Q7B+ ブラック ロボット掃除機 自動ゴミ収集 8000Pa 水拭き対応 LDSマッピング アプリ操作 【2025年6月発売】 正規品",
+      "url": "https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 34980,
+      "image_url": "https://m.media-amazon.com/images/I/31qmMRLI1gL._SL500_.jpg",
+      "features": [
+        "【コンパクト設計で置きやすい】本体約32.5×32.7×9.9cm、ドック約21.3×17.8×25.9cmの省スペース設計。ワンルームから戸建てまで設置しやすく、ロボット掃除機の導入ハードルを下げます。狭い通路や家具周りも小回り良く清掃。",
+        "【8000Paの強力吸引】最大8000Pa（社内試験）で微細なホコリから食べこぼしまで一気に吸引。フローリングやカーペットなど多様な床に対応し、日常清掃の時間を短縮。お掃除ロボットの基本性能を高水準で実現します。",
+        "【毛がらみを抑制】新形状のメインブラシとサイドブラシが毛絡みを低減。ペットの抜け毛や長い髪に配慮し、清掃完了後のメンテナンス時間を削減。毎日の運転でも吸引性能を安定維持します。",
+        "【同時吸引×水拭き】280mlタンクと3段階の水量調整で、食べこぼしや皮脂汚れに合わせて拭き取り。吸引と同時に床拭きができ、ロボット掃除機 水拭き両用ならではの時短効果を発揮します。",
+        "【LDSマッピングで賢く清掃】高精度LDSレーザーが60度スキャンすることで、室内を素早くマッピングし、効率の良いルートで走行。クイックマッピングにより初回の間取り登録も短時間で完了します。",
+        "【アプリ操作で細かく管理】掃除予約、清掃履歴の確認、進入禁止エリアの設定、部屋ごとの清掃指示に対応。、外出中も進捗を確認できます。",
+        "【床材に合わせた走行】フローリングの木目やタイル目地に沿う走行で取り残しを低減。就寝中は静音設定で運転できるため家族の生活リズムに馴染みます。",
+        "【最大3枚のマップ保存】1階・2階など複数フロアを最大3枚まで保存。部屋名や清掃モードをフロア別に設定でき、在宅ワーク中は部分清掃、外出時は全体清掃など使い分けが簡単です。",
+        "【自動ゴミ収集ドック】清掃後はドックが自動でダストボックスを吸い上げ。2.5L紙パック式で手を汚しにくく、ホコリが舞いにくい構造。日々のゴミ捨て頻度を大幅に削減します。",
+        "【大容量2.5L紙パック】紙パック採用で捨てやすく、交換も簡単。使用状況により交換目安は変動しますが、家事の手間を軽減。交換用フィルターやブラシなどの消耗品も別売で用意されています。"
+      ],
+      "query": "roborock Q7B+",
+      "asin": "B0F6NRWF9V",
+      "prime_day_category": "生活家電",
+      "editorial_reason": "Roborock Q7B+。自動ゴミ収集付きロボット掃除機の大型値引き候補。",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-05/2026-05-02_research_data.json",
+      "sale_price": 34980,
+      "discount_rate": "-30%",
+      "sale_tag": "プライムデー先行セール"
+    },
+    {
+      "title": "オーディオテクニカ AT-UMX3 WH USB オーディオミキサー オーディオインターフェース 配信機材 DTM 音楽制作 USB Type-C スマホ/タブレット対応 PS4 PS5 【公式限定カラー】 ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0DZCCPH3V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": 16335,
+      "image_url": "https://m.media-amazon.com/images/I/312cTVdIEkL._SL500_.jpg",
+      "features": [
+        "初めての方でも使いやすいオーディオテクニカ初のUSBオーディオミキサー：PCだけでなく、iPhoneやiPad、Android端末と接続して、誰でも気軽に配信を始められるように設計。経験豊富なストリーマーや高音質を求めるミュージシャンにも最適なツールで、低ノイズ、高品質なサウンドを提供します。",
+        "オーディオテクニカマイクロホンの為に開発、独自設計技術により高音質を実現：長年にわたり、マイクロホンの開発を手がけてきた技術および設計担当者が監修。オーディオテクニカ『AT2020』をはじめとするマイクロホンに最適な音質になるよう設計。特殊なフィルタ回路と金属板によるシールドを施し、ノイズに強いクリアな音質を実現。",
+        "専用ドライバー不要、USB接続ですぐに使える：USBクラスコンプライアントに対応しており、専用ドライバーが不要でお持ちのPCやスマートフォン、PS4、PS5（当社にて動作検証済み）につなぐだけですぐに使用することができます。サンプリング周波数は最大192kHz/24bitの高性能A/Dコンバーターを採用し、スタジオクラスの高解像度で配信、レコーディングが可能。",
+        "初心者でも安心、配信に必要不可欠な機能が満載：ゼロレイテンシーで自分の声、演奏をモニタリングできるダイレクトモニター機能、配信でBGMやカラオケ音源を流して、自分の声や演奏とミックスして出力するLOOPBACK機能、わかりやすいマイクミュートスイッチ、配信には自分の声を流し、ヘッドホンからは聴こえる自分の声をミュートするマイクモニターミュート機能を搭載。",
+        "※スマートフォン／タブレットと接続する場合は、スマートフォン／タブレットを USB 端子に接続してから、市販の USB 電源アダプターを 本体のUSB 電源端子に接続して電源を供給してください。",
+        "公式オンラインストア限定ホワイトカラーモデル ライブ配信環境をすべてホワイトで統一できるよう、クリエイターに最適なコンデンサーマイクロホン『AT2020 CWH』やモニターヘッドホン『ATH-M20x WH』、ブームアーム『AT8700J WH』、そしてXLR ケーブル『BX3/3.0 WH』もラインナップに揃えました。"
+      ],
+      "query": "オーディオテクニカ AT-UMX3 WH USB オーディオミキサー",
+      "asin": "B0DZCCPH3V",
+      "editorial_reason": "USBオーディオミキサー。配信、会議、音声収録のデスク機材として扱える。",
+      "prime_day_category": "配信・会議",
+      "pre_publication_status": {
+        "draft_candidate": true,
+        "deal_hub_secret_handling": "Do not publish sale target status, sale price, discount rate, or deal-hub-derived claims before the deal is live on Amazon.co.jp.",
+        "live_confirmation_required": false,
+        "live_confirmation_window": "2026-07-07_to_2026-07-10_before_publication",
+        "price_discount_publication_status": "confirmed_live_2026-07-07_manual_check",
+        "verified_by": "user_manual_check"
+      },
+      "source_research_file": "06_research/2026-05/2026-05-29_amazon_smile_sale_research_data.json",
+      "sale_price": 16335,
+      "discount_rate": "-25%",
+      "sale_tag": "プライムデー先行セール"
+    }
+  ],
+  "all_candidates": [],
+  "editorial_summary": "プライムデー号外用の下準備データ。カテゴリ横断で値下げ幅が大きくなりやすいガジェット候補を20点に整理。公開前の記事では価格・割引率・セール対象断定を出さない。",
+  "sale_context": {
+    "event": "Amazonプライムデー 2026",
+    "phase": "2026-07-07_live_check_attempt",
+    "confidentiality_note": "ディール・ハブ由来の対象商品・価格・割引率はAmazonアソシエイト上の秘密情報。各商品がAmazon.co.jp上で実際にセール開始するまで公開記事に記載しない。",
+    "publication_gate": "2026-07-10公開直前に全20点のライブ確認を実施し、実際のセール価格・割引率・在庫・ASIN/URLを再監査してから確定する。",
+    "price_discount_status": "unverified_due_to_pa_api_dns_failure",
+    "draft_use_only": true,
+    "stale_browser_check_removed": true,
+    "live_check": {
+      "checked_at": "2026-07-07T22:18:25+09:00",
+      "method": "Amazon PA-API GetItems by ASIN in two batches of 10",
+      "endpoint": "https://webservices.amazon.co.jp/paapi5/getitems",
+      "partner_tag": "daily-gadget-22",
+      "resources_requested": [
+        "ItemInfo.Title",
+        "Offers.Listings.Price",
+        "Offers.Listings.SavingBasis",
+        "Offers.Listings.Availability.Message",
+        "Offers.Listings.Condition",
+        "Offers.Summaries.HighestPrice",
+        "Offers.Summaries.LowestPrice"
+      ],
+      "status": "failed",
+      "failure_type": "network_dns_resolution_failure",
+      "failure_detail": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned.",
+      "price_fields_updated": false,
+      "items": [
+        {
+          "asin": "B0C7Y1N38H",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0CZ9SX1GW",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0BZ87C549",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0D53XL7GL",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0BM8VS13P",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0C9TKSP8V",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0B6GL3N8D",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0C9PYN7RN",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0DK59YKRS",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0FR8KBS5K",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0C65F55K5",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0DXFC2WC9",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0CHFS9K14",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0CCYKY4T4",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0DW3RWMNM",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0F1MZJTB7",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0DS2DF5S5",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0G64QDV8J",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0F6NRWF9V",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        },
+        {
+          "asin": "B0DZCCPH3V",
+          "url_audit": "PASS",
+          "sale_status": "unverified_due_to_pa_api_failure",
+          "json_price_update": "none; current sale/list/reference price not verified",
+          "reason": "PA-API GetItems failed before authentication: DNS resolution error URLError gaierror(8, 'nodename nor servname provided, or not known') for webservices.amazon.co.jp. No current offer data was returned."
+        }
+      ]
+    }
+  },
+  "url_audit": {
+    "checked_at": "2026-07-07T22:18:25+09:00",
+    "result": "PASS",
+    "rule": "selected_items[*].asin must match /dp/<ASIN> and URL must include tag=daily-gadget-22&linkCode=osi",
+    "errors": []
+  },
+  "all_replacements_applied": true
+}
