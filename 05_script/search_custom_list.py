@@ -6,6 +6,7 @@ import hmac
 import datetime
 import urllib.request
 import urllib.parse
+import urllib.error
 import time
 import ssl
 
@@ -86,6 +87,9 @@ def search_products(keywords, partner_tag, item_count=1):
     try:
         with urllib.request.urlopen(req, context=ssl_context) as response:
             return json.loads(response.read().decode('utf-8'))
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")
+        return {"error": f"HTTP Error {e.code}: {e.reason}: {body}"}
     except Exception as e:
         return {"error": str(e)}
 

@@ -6,8 +6,16 @@ Amazon Creators API を使用した商品検索スクリプト
 
 import sys
 import json
+import os
+import re
 import time
 from amazon_creatorsapi.api import AmazonCreatorsApi, SearchItemsResource
+
+import certifi
+
+
+os.environ.setdefault("SSL_CERT_FILE", certifi.where())
+os.environ.setdefault("REQUESTS_CA_BUNDLE", certifi.where())
 
 # Creators API 認証情報
 CREDENTIAL_ID = "38m4h91ecrubjs1s2oq9tf8rik"
@@ -15,7 +23,19 @@ CREDENTIAL_SECRET = "s883g8vpc7rnlge0g6k57a6ijci450e1v5nunac0ul5b05eah3f"
 PARTNER_TAG = "daily-gadget-22"
 COUNTRY = "JP"
 
-def search_product(api, query):
+def extract_asin(url):
+    match = re.search(r"/dp/([A-Z0-9]{10})", url or "")
+    return match.group(1) if match else ""
+
+
+def normalize_url(url):
+    asin = extract_asin(url)
+    if not asin:
+        return url
+    return f"https://www.amazon.co.jp/dp/{asin}?tag={PARTNER_TAG}&linkCode=osi&th=1&psc=1"
+
+
+def search_product(api, query, include=None, exclude=None, item_count=5):
     """
     品質チェック付き商品検索（全カテゴリ対応）
     
@@ -30,13 +50,15 @@ def search_product(api, query):
         dict: 商品情報（title, url, price, features, image_url, query）
     """
     # 除外ワード（全カテゴリ共通）
-    EXCLUDE_KEYWORDS = ["展示品", "中古", "訳あり", "ジャンク", "B品", "アウトレット", "整備済み", "再生品"]
+    include = include or []
+    exclude = exclude or []
+    EXCLUDE_KEYWORDS = ["展示品", "中古", "訳あり", "ジャンク", "B品", "アウトレット", "整備済み", "再生品"] + exclude
     
     try:
         # 上位3件を取得（品質フィルター用）
         items = api.search_items(
             keywords=query,
-            item_count=3,  # 上位3件から選定
+            item_count=item_count,  # 上位候補から選定
             resources=[
                 SearchItemsResource.ITEM_INFO_DOT_TITLE,
                 SearchItemsResource.ITEM_INFO_DOT_FEATURES,
@@ -51,26 +73,33 @@ def search_product(api, query):
         
         # 除外ワードチェック：上位3件から最適な商品を選定
         selected_item = None
+        include_matched_items = []
         for item in items.items:
             title = item.item_info.title.display_value if item.item_info and item.item_info.title else ""
             
+            lowered_title = title.lower()
+            if include and not all(kw.lower() in lowered_title for kw in include):
+                continue
+            include_matched_items.append(item)
             # 除外ワードがなければ採用
-            if not any(kw in title for kw in EXCLUDE_KEYWORDS):
+            if not any(kw.lower() in lowered_title for kw in EXCLUDE_KEYWORDS):
                 selected_item = item
                 print(f"  ✅ Selected (no exclude words): {title[:50]}...", file=sys.stderr)
                 break
         
-        # 全て除外された場合は1件目を採用（最終手段）
+        if not selected_item and include_matched_items:
+            print(f"  ⚠️  Include-matched results were excluded for: {query}", file=sys.stderr)
+            return None
         if not selected_item:
-            selected_item = items.items[0]
-            title = selected_item.item_info.title.display_value if selected_item.item_info and selected_item.item_info.title else ""
-            print(f"  ⚠️  All items have exclude words, using top result: {title[:50]}...", file=sys.stderr)
+            print(f"  ⚠️  No include-matched results found for: {query}", file=sys.stderr)
+            return None
         
         item = selected_item
         
         # 商品情報の抽出
         title = item.item_info.title.display_value if item.item_info and item.item_info.title else "N/A"
-        url = item.detail_page_url if item.detail_page_url else "N/A"
+        url = normalize_url(item.detail_page_url) if item.detail_page_url else "N/A"
+        asin = extract_asin(url)
         
         # 価格情報（offersV2 を使用）
         price = "N/A"
@@ -95,7 +124,8 @@ def search_product(api, query):
             "price": price,
             "image_url": image_url,
             "features": features,
-            "query": query
+            "query": query,
+            "asin": asin
         }
         
     except Exception as e:
