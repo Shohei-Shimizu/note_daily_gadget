@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-04",
+  "title": "Vlog 制作を AI で時短。動画編集を楽にする「ツール」 6 選",
+  "queries": [
+    {
+      "query": "Adobe Premiere Elements 2026",
+      "include": [
+        "Premiere Elements"
+      ],
+      "exclude": [
+        "教本"
+      ]
+    },
+    {
+      "query": "CyberLink PowerDirector 365",
+      "include": [
+        "PowerDirector"
+      ],
+      "exclude": [
+        "教本"
+      ]
+    },
+    {
+      "query": "VEGAS Pro 動画編集 ソフト",
+      "include": [
+        "VEGAS"
+      ],
+      "exclude": [
+        "教本"
+      ]
+    },
+    {
+      "query": "DaVinci Resolve Studio",
+      "include": [
+        "DaVinci"
+      ],
+      "exclude": [
+        "教本"
+      ]
+    },
+    {
+      "query": "Elgato Stream Deck Neo",
+      "include": [
+        "Stream Deck Neo"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Loupedeck Live S 編集コントローラー",
+      "include": [
+        "Loupedeck",
+        "Live S"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Photoshop Elements& Premiere Elements 2026 3年版",
+      "url": "https://www.amazon.co.jp/dp/B0FQBVH4B6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/416vLYCJx4L._SL500_.jpg",
+      "features": [
+        "AI と自動化の魔法が背後で機能し、すばらしい写真や今すぐ共有したくなる動画を簡単に作成できます。",
+        "新しい方法で写真を組み合わせてオブジェクトを削除したり、奥行きを追加したり、写真の色を変えたり、タイトテキストのスタイルを設定したり、動画の色を変換したりすることができます。",
+        "数多くのステップバイステップ式ガイド付き編集でスキルを向上させることができます。",
+        "Photoshop Elements 2026とPhotoshop Elements & Premiere Elements 2026バンドル版には、 毎月25の生成クレジットが付属します。",
+        "本製品はテキストから画像生成をすることができます。"
+      ],
+      "query": "Adobe Premiere Elements 2026",
+      "asin": "B0FQBVH4B6"
+    },
+    {
+      "title": "PowerDirector 365 1年版(2026年版) | 動画編集ソフト | 基本＋高機能編集 | AI編集機能 | AI動画生成 | Windows対応",
+      "url": "https://www.amazon.co.jp/dp/B0FQBWSJYY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41yH7pzIoJL._SL500_.jpg",
+      "features": [
+        "PowerDirector 365 1年版は、常に最新版が使える製品です。",
+        "PowerDirector Ultraのすべての機能に加え、1年版のみの特典がご利用いただけます。",
+        "365 1年版だけで使える機能を搭載し、新機能も定期的にリリースされます。",
+        "最新のAI技術で動画を生成するAI 動画生成、AI 画像生成機能を搭載。",
+        "さらに、ロイヤリティフリーの高品質な動画、写真が利用可能です。パッケージ版にはフルカラーマニュアルが付属します。"
+      ],
+      "query": "CyberLink PowerDirector 365",
+      "asin": "B0FQBWSJYY"
+    },
+    {
+      "title": "ソースネクスト VEGAS Pro Post(最新) | Win対応|ダウンロード版",
+      "url": "https://www.amazon.co.jp/dp/B0CK48QNCF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51vHdOb6SSL._SL500_.jpg",
+      "features": [
+        "ポイント1:バージョン21の新しい VEGAS Pro には、AI を活用したユニークな新機能が搭載されています。",
+        "ポイント2:AIにより2D映像の奥行きを自動解析し、深度マップを作成します。映像の背景だけにボカシ効果や色補正をかけたり、複数の映像を合成したりする作業が圧倒的に効率化されます。",
+        "ポイント3:AIが映像をフレームごとに分析し、移動しているオブジェクトを識別&追跡することで自動的にベジェマスクを生成します。合成にかかる時間を大幅に節約できます。"
+      ],
+      "query": "VEGAS Pro 動画編集 ソフト",
+      "asin": "B0CK48QNCF"
+    },
+    {
+      "title": "Blackmagic Design (ブラックマジック デザイン) DaVinci Resolve Studio (ダビンチリゾルブスタジオ) 編集用ソフトウェア (アクティベーションカード)",
+      "url": "https://www.amazon.co.jp/dp/B076CQPVCF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41WIMKIfUML._SL500_.jpg",
+      "features": [
+        "DaVinci Resolveをアップグレードして無制限に機能を使用"
+      ],
+      "query": "DaVinci Resolve Studio",
+      "asin": "B076CQPVCF"
+    },
+    {
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck Neo – カスタム可能な8個のキー、2つのTouch Points、タスクとワークフローを加速 - Word、Excel、PowerPoint、Teams、Zoom、Spotify、その他をコントロール、ドラッグ&ドロップで設定可能 - MacとPCに対応",
+      "url": "https://www.amazon.co.jp/dp/B0CWL3V6R8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ofayqQzTL._SL500_.jpg",
+      "features": [
+        "効率をアップ: 8個のショートカットキーを使ってタスクをカスタマイズして、自動化できます。ワークフローに合わせて、毎日の繰り返し作業をすばやく、楽しく済ませましょう。",
+        "楽々コントロール: アクションをドラッグ&ドロップして、簡単に設定。無料のStream Deckアプリを使ってオフスクリーンでもよく使うツールを管理。",
+        "よく使うアプリに対応: Zoom、Teams、PowerPoint、Excel、Word、 Google Suite、MS Office、Photoshop、Adobe Creative アプリ、Spotify、ミュージックを始めとする、多くの必須アプリとシームレスに統合。",
+        "シームレスなスマートコントロール: ボタン1つでエコシステムを管理して、スマートライト、プラグ、オーディオ、その他を制御。または、Stream Deck Neoを使って他のNeo製品を制御 – 使い方はあなた次第。",
+        "エコフレンドリーを約束: Elgato Neo製品は、 持続可能な方法で製造され、パッケージにはプラスチックを使用していません。環境に配慮し、地球に優しくありたいという私たちの取り組みを形にしています。"
+      ],
+      "query": "Elgato Stream Deck Neo",
+      "asin": "B0CWL3V6R8"
+    },
+    {
+      "title": "Loupedeck Live S – 日々のPC作業や配信、コンテンツ制作を効率化するカスタムコントローラ。LEDタッチスクリーンボタンと物理ダイヤル、RGB物理ボタンを搭載【日本語対応及び日本語サポート】",
+      "url": "https://www.amazon.co.jp/dp/B0BMLQYZNF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41uJonOycwL._SL500_.jpg",
+      "features": [
+        "豊富なネイティブ対応プラグイン: OBS Studio, Streamlabs (Windows), Twitch, Ecamm, vMix, Spotify, Adobe Premiere Pro, Final Cut Pro, Photoshop 等、その他主要なストリーミング、編集用アプリケーションにAPIベースで対応し、複雑なアクションも簡単にコントロールします。各プロファイルも初期設定されており、すぐにご利用頂けます。",
+        "配信作業のコントロールセンター: 1. 配信､チャット､音声､マイク､ライティングを自在にコントロール　2. メディア､アプリケーション､WEBなど各ツールの起動　3. ダイヤル操作で編集やカラーグレーディングも瞬時に実行　4. アプリケーションやプロファイル間をストレスなく自動で切替。",
+        "充実したマーケットプレイス: 200種類を超えるプロファイルやプラグイン､アイコンやサウンドパックをダウンロードできます。Microsoft Flight Simulator, Twitch Studio, Philips Hue, Nanoleaf, Elgato, Voicemod, GoXLR, Voicemeeter, Davinci Resolve Color Panel, Notionなどの人気ツールが公開されており、日々新しいコンテンツが追加されています。",
+        "強力なカスタマイズ性: 最大14ページに及ぶタッチボタン及びダイヤルの設定が可能で、スワイプでページ間を簡単に移動。複雑なマクロコマンド(複数のアクションを一度に実行)やマルチトグル(同一ボタンで実行する毎に機能を変更)、ダイヤル調整アクションなど、数多くのアクションを作成して割り当てることができます。",
+        "直感的な操作が可能: フィードバック機能付きLEDタッチボタン、押し込み機能付きアナログダイヤル、カスタム可能なRGB物理ボタンを搭載し、直感的なコントロールを実現しました。"
+      ],
+      "query": "Loupedeck Live S 編集コントローラー",
+      "asin": "B0BMLQYZNF"
+    }
+  ],
+  "all_candidates": []
+}

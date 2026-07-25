@@ -1,0 +1,203 @@
+{
+  "date": "2026-08-12",
+  "title": "デジタルノマドの装備。ポーチの中身「2026 夏」 7 選",
+  "queries": [
+    {
+      "query": "Native Union Stow Organizer ガジェットポーチ",
+      "include": [
+        "Organizer"
+      ],
+      "exclude": [
+        "ケーブル"
+      ]
+    },
+    {
+      "query": "エレコム ガジェットポーチ BMA",
+      "include": [
+        "ガジェットポーチ"
+      ],
+      "exclude": [
+        "バッグ"
+      ]
+    },
+    {
+      "query": "サンワダイレクト ガジェットポーチ 200-BAGIN",
+      "include": [
+        "ガジェットポーチ"
+      ],
+      "exclude": [
+        "バッグ"
+      ]
+    },
+    {
+      "query": "Anker Nano Power Bank USB-C",
+      "include": [
+        "Anker",
+        "Power Bank"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "CIO NovaPort DUOII 67W",
+      "include": [
+        "CIO",
+        "67W"
+      ],
+      "exclude": [
+        "ケーブル"
+      ]
+    },
+    {
+      "query": "UGREEN Nexode 65W 充電器",
+      "include": [
+        "UGREEN",
+        "65W"
+      ],
+      "exclude": [
+        "ケーブル"
+      ]
+    },
+    {
+      "query": "Anker USB-C 2-in-1 カードリーダー",
+      "include": [
+        "カードリーダー"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "Native Union Stow Organizer – ガジェットポーチ プレミアム トラベル テック キット 出張 旅行用 耐久性のあるキャンバス製 – ケーブル 充電器 SIMカード 小物を整理収納 フレキシブル クイックアクセスポケット付 (サンドストーン)",
+      "url": "https://www.amazon.co.jp/dp/B0DD75P3RB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31FOBkO-tcL._SL500_.jpg",
+      "features": [
+        "外出時もすっきり：伸縮性のあるループ、柔軟なポケット、さらに外部ポケットで、ケーブル、充電器、AirPodsなどのテックアクセサリーを整理して素早くアクセス。",
+        "洗練されたデザイン：本革のアクセントが施されたミニマルなフォームフィッティングデザインが、日常の持ち運びを格上げします。",
+        "細部に宿る工夫：SIMカード、SDカード、フラッシュドライブなどの紛失しやすいアイテムを、ジッパー付きコンパートメントの巧妙な隠し収納でしっかりと保持。",
+        "テックを保護：耐久性のあるテキスタイルが摩耗から守り、内側の柔らかいコットンがテクノロジーを保護します。防水ジッパーとコーティングされたキャンバス仕上げでさらに丁寧にケア。",
+        "1年保証：購入日から1年間保証が付きます。製品をオンラインで登録することで、保証を12ヶ月から24ヶ月に延長可能です。"
+      ],
+      "query": "Native Union Stow Organizer ガジェットポーチ",
+      "asin": "B0DD75P3RB"
+    },
+    {
+      "title": "エレコム ガジェットポーチ 大容量 自立型 旅行 出張 テレワーク オーガナイズポーチ ブラック BMA-GP14BK",
+      "url": "https://www.amazon.co.jp/dp/B08DCYD9LD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41ZjhUECtoL._SL500_.jpg",
+      "features": [
+        "詳しくは「商品の仕様」「商品の説明」をご確認ください。",
+        "周辺機器からビジネス用品までをまとめて収納可能な、収納物が一覧しやすい自立型ポーチです。",
+        "開閉しやすいダブルファスナーを採用しています。",
+        "ポーチ内部にケーブルなどの小物を整理して収納できるメッシュポケットがついています。",
+        "ポーチ内部のメイン空間に仕切りがついており、沢山の小物を入れてもまざりにくくなっています。"
+      ],
+      "query": "エレコム ガジェットポーチ BMA",
+      "asin": "B08DCYD9LD"
+    },
+    {
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 マウス ケーブル モバイルバッテリー ブラック LLサイズ 200-BAGIN023BK",
+      "url": "https://www.amazon.co.jp/dp/B09DK2GVB8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21oXaPAh98L._SL500_.jpg",
+      "features": [
+        "旅行時や出張時、普段使いでの使用に 便利 な、セミ ハード タイプの トラベル ポーチ です。 大容量 タイプなのでiPadやNintendo Switchなど、本体と 周辺機器 をまとめて収納可能です。",
+        "ケース には大、小、4つの面ファスナー仕様の間仕切り付きなので、 収納 物によって細かく仕切ったり、仕切りを取り外すことができます。ノートパソコンなどのACアダプタやマウス、 モバイルバッテリー や充電ケーブル、 充電器 、 イヤホン などの 周辺機器 から デジカメ 、電気シェーバーなどを収納でき ガジェットケース としてもおすすめです。",
+        "ガバッと開いて収納物を一目で確認できる、出し入れしやすいフルオープンタイプです。",
+        "内側に収納物を確認しやすいメッシュポケットを1つ搭載しています。また、内側は収納物に傷がつきにくいサラサラとして手触りの良い素材を使用しています。",
+        "持ち手付きで持ち運びしやすくなっています。また、ファスナーの内側には収納物への傷を防止する、ファスナーガード付きです。"
+      ],
+      "query": "サンワダイレクト ガジェットポーチ 200-BAGIN",
+      "asin": "B09DK2GVB8"
+    },
+    {
+      "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CCJFY2V4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21eFVa5KgZL._SL500_.jpg",
+      "features": [
+        "ケーブルいらずでストレスフリー：USB-C端子一体型のため、ケーブルレスで充電可能。充電しながら快適にスマホを操作いただけます。",
+        "持ち運びしやすい折りたたみ式を採用：コンパクトなサイズに加え、一体型のUSB-C端子部分は折りたたんで収納が可能。他の荷物を傷つけないため、持ち運びにも便利です。",
+        "コンパクトかつパワフル：コンパクト設計ながらスマホ約1回分の5000mAhの容量と最大22.5Wの出力を実現。コンパクトさとパワフルさを兼ね備えています。",
+        "最大22.5Wでの急速充電：最大22.5W出力で、スマートフォンを含めた様々な機器に急速充電。2ポート利用時も合計最大18Wで、スマートフォンとイヤホンへの2台同時充電も可能です。",
+        "選べる充電方法：バッテリー本体には、内蔵のUSB-C端子を直接充電器に繋ぐ方法と本体側面にケーブルを接続して充電する方法の2種類から選んで充電することが可能です。"
+      ],
+      "query": "Anker Nano Power Bank USB-C",
+      "asin": "B0CCJFY2V4"
+    },
+    {
+      "title": "CIO NovaPort DUOⅡ 65W USB-C 2ポート 充電器 [世界最小級 NovaIntelligence NovaEngine搭載] ACアダプター type-c 67W PD 急速充電器 ノートPC Macbook iPhone 17 / Air / 16 / 15 Android Galaxy iPad向け (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0D53VKL36?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31-rdar9QYL._SL500_.jpg",
+      "features": [
+        "【世界最小級 2ポート67W充電器】これまでの2ポート、USB-C単ポート最大出力65WクラスのUSB充電器、ACアダプターでは考えられないほどの小型化を実現。コンセントに挿しても他の充電器に干渉しづらいサイズで、折り畳み式のコンセントプラグだからガジェットポーチやちょっとしたポケットに収まるコンパクトさ。出張先や旅行先などのあらゆるシーン、ビジネス用途から学生の方まであらゆるユーザーにおすすめです。",
+        "【Nova Intelligence搭載で電力を最適に振り分け】それぞれのUSB タイプC ポートにUSBケーブルを接続するだけで、スマホなどの端末に自動で最大67Wの出力を調整して充電が可能な急速充電器。これまでの充電器のように、接続するUSBポートを迷うことなく最速で充電が可能です。※Nova Intelligenceの仕様は急速充電早見表(画像)をご確認ください。",
+        "【新技術 NovaEngine搭載】次世代半導体のGaNチップをダブルで搭載するCIOの新技術NovaEngineを採用。エネルギーのロスを減らし、変換効率の向上を実現しました。充電器本体の発熱を抑制し、充電速度と安定性を追求した充電器です。",
+        "【進化した安全保護機能 NovaSafety2.0搭載】NovaPort DUOⅡにはCIO独自技術としてNova Safety2.0を搭載。製品温度を常に監視し、高負荷時、高温時に自動的に電力調整、温度管理を行います。さらにこれまでの急速充電器にありがちだった、端末接続時に一時的に充電が止まる「瞬断」を抑制する技術も搭載。より快適なスマホ、タブレット、ノートPCの充電が実現しています。",
+        "【外観にも機能性をプラス】 製品をいつまでも長くご愛用いただきたい思いから、表面に一眼レフカメラのボディのようなザラザラとした傷がつきにくいシボ加工を実装。いつまでも綺麗な状態で保つことが可能です。また、充電器のプラグ側を、壁にすき間なくピタッとささるフルフラットデザインに変更。壁コンセントに差し込んだ時の安定性が向上しております。機能性や安定性に加え、洗練された所持欲満たされるオシャレなデザインを目指しました。"
+      ],
+      "query": "CIO NovaPort DUOII 67W",
+      "asin": "B0D53VKL36"
+    },
+    {
+      "title": "UGREEN 65W 充電器 Type-C PD 【2C1A 3ポート】折り畳み式 GaNII 急速充電器 USB-C×2（65W）+USB-A×1（22.5W） PPS/QC3.0/SCP/FCP対応 iPhone16/15/14/MacBook/iPad/Galaxy/Android/その他USB-C機器 PSE技術基準適合·2022レッド・ドット・デザイン賞",
+      "url": "https://www.amazon.co.jp/dp/B091BGMKYS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21gaL9IWnrL._SL500_.jpg",
+      "features": [
+        "▶【65W高出力 Type-C 急速充電器】最 大65W出力（USB-C単ポート使用時）で、ノートPCからスマホまで幅広いデバイスを高速充電。MacBook Pro 13インチは約1.8時間でフル充電、iPhone 16は約30分で60%まで到達。USB-AポートはQC3.0・SCP・FCPに対応し、Androidスマホも急速充電可能です。",
+        "▶【3台同時充電OK｜2C1A多ポート充電器】USB-Cポート×2（最 大65W/65W）とUSB-Aポート×1（最 大22.5W）を搭載。スマホ・タブレット・ノートPCなど最 大3台を同時に充電できます。コンセントスペースを有効活用し、ケーブルの散らかりも解消。家庭やオフィスで大活躍する一台です。",
+        "▶【進化版GaNII技術｜小型・低温・高効率】従来のGaN I世代比で約30%小型化。II世代GaN技術により、発熱を抑えながら安定した高出力を長時間維持。折り畳み式プラグ採用で持ち運びも簡単。さらに、優れたデザイン性が認められ、2022 Red Dot Design Awardを受賞しています。",
+        "▶【多重安全保護機能｜PSE適合で安心】過電流・過電圧・過熱・短絡保護回路を内蔵。耐火PC素材を使用し、知能検知機能が接続デバイスに合わせて自動で出力調整。夜間の長時間充電も安心してお任せいただけます。日本のPSE技術基準にも適合済みです。",
+        "▶【幅広い互換性】PD3.0・PPS・QC3.0・SCP・FCPに対応。iPhone、iPad、MacBook、Galaxy、Xperia、Switchなど、USB-C搭載のほとんどの機器を最適な速度で充電します。C1ポートはSam sung Galaxy Sシリーズへの最 大45W出力など、各デバイスの要求に応えます。",
+        "▶【24ヶ月間の保 証】当店でご購入の製品には24ヶ月間保 証サービスが付いております。 お客様が製品を購入された時点から24ヶ月後の応当日まで保 証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保 証の対象外となります。また、当社の製品は外観が改善され、最新バッチの製品はポート部分に印刷が追加されました。これはお客様が充電装置をより明確に識別できるようにするためです。製品の機能自体は以前と全く同じであります、ご安心してご利用ください。",
+        "▶【iPhone 17に対応する充電電力】iPhone 17：30Wの充電電力に対応（実測データ）、iPhone 17 Pro Max：36Wの充電電力に対応（実測データ）"
+      ],
+      "query": "UGREEN Nexode 65W 充電器",
+      "asin": "B091BGMKYS"
+    },
+    {
+      "title": "Anker USB-C 2-in-1 カードリーダー",
+      "url": "https://www.amazon.co.jp/dp/B07P1XB7BG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/316lo0JIqKL._SL500_.jpg",
+      "features": [
+        "優れた互換性：幅広いUSB-Cポート搭載機器で動作するように設計されています。",
+        "より多くの機能を：SDスロットとMicro SDスロットを搭載し手軽にファイルの同期や転送、共有ができます。",
+        "超コンパクトとスマートフォンに最適：他の周辺機器向けに使用中のUSBポートの隣でも干渉することなく使用することができます。USB-C経由で接続してお使いのスマートフォンの容量を大幅に拡張します。",
+        "高速データ転送と高い耐久性：フォトアルバムや動画、映画などを5Gbps以上のスピードで瞬時に転送することができます。高品質な素材を使用し、10,000回以上におよぶ接続にも耐えられるよう設計しました。",
+        "パッケージ内容：Anker USB-C 2-in-1 カードリーダー、取扱説明書、カスタマーサポート"
+      ],
+      "query": "Anker USB-C 2-in-1 カードリーダー",
+      "asin": "B07P1XB7BG"
+    }
+  ],
+  "all_candidates": []
+}

@@ -1,0 +1,184 @@
+{
+  "date": "2026-08-07",
+  "title": "文章作成を AI で。読書感想文も捗る「執筆サポート」 6 選",
+  "queries": [
+    {
+      "query": "キングジム Pomera DM250",
+      "include": [
+        "DM250"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "キングジム Pomera DM30",
+      "include": [
+        "DM30"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "iFLYTEK VOITER SR502J",
+      "include": [
+        "VOITER"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "PLAUD NOTE AI ボイスレコーダー",
+      "include": [
+        "PLAUD NOTE"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Notta Memo AI ボイスレコーダー",
+      "include": [
+        "Notta Memo"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Boox Palma 電子ペーパー",
+      "include": [
+        "BOOX",
+        "Palma"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "キングジム デジタルメモ「ポメラ」 DM250",
+      "url": "https://www.amazon.co.jp/dp/B0B5ZSJ1WW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/410504MSxdL._SL500_.jpg",
+      "features": [
+        "最高の「書く」を味わえるツールとして、作家やライターなどプロにも愛される「ポメラ」がさらにパワーアップ。約24時間の連続使用、USB Type-C対応、充電確認用LEDを搭載し、ハードウェア面での充実を図りました。ソフトウェア面では、ATOK校正支援機能を強化し、脚本や台本の作成に適した「シナリオモード」も追加。様々な機能のアップデートをおこない、より効率的な文章作成をサポートします。",
+        "本体色:ダークグレー 外形寸法:約263(W)×120(D)×18(H)mm 質量:約620g<br>材質:ABS+PC",
+        "セット内容:本体、USBケーブル(Type-A/Type-C 1m)、ACアダプタ(AS0530U)取扱説明書、保証書、キートップステッカー",
+        "無線LAN : IEEE802.11b/g/n(2.4GHz帯)"
+      ],
+      "query": "キングジム Pomera DM250",
+      "asin": "B0B5ZSJ1WW"
+    },
+    {
+      "title": "キングジム デジタルメモポメラ シルバー DM30シル",
+      "url": "https://www.amazon.co.jp/dp/B07CYTVH4Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41VnjeR+j9L._SL500_.jpg",
+      "features": [
+        "【外形寸法】156(W)×126(D)×33(H)mm ※折りたたみ時",
+        "【外形寸法】286(W)×131(D)mm ※使用時",
+        "【質量】約450g(電池含まず)",
+        "【電源】単3形アルカリ乾電池×2本(別売) または単3形エネループ×2本(別売)",
+        "【画面】6.0インチ電子ペーパー",
+        "【インターフェイス】USB2.0(microBタイプ)",
+        "【本体メモリ】8GB(システム領域含む。1ファイルあたり最大文字数全角50,000字)",
+        "【PCリンク対応OS】WinOS7以降各日本語版、MacOSX10.10以降"
+      ],
+      "query": "キングジム Pomera DM30",
+      "asin": "B07CYTVH4Z"
+    },
+    {
+      "title": "iFLYTEK VOITER SR502J AIライティングレコーダー/文字起こしサービス料無料/ボイスレコーダー/高精度な音声認識テクノロジー搭載",
+      "url": "https://www.amazon.co.jp/dp/B09BPZXWCB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41p2FOLW21L._SL500_.jpg",
+      "features": [
+        "高精度な音声認識テクノロジー搭載で自動でテキスト化するAIライティングレコーダー",
+        "国際コンテスト１位優勝のノイズ除去技術と8個のマイクを搭載、雑音環境でも、人の声をクリアに記録。",
+        "VOITER SR502Jの文字起こしには、Wi-Fiなどネットワーク接続が必要です。文字起こしには、アカウントの作成が必要です。文字起こしサービスはアカウントご登録後無料でご利用いただけます。",
+        "Wi-Fi（2.4GHzのみ対応）接続時やSIMカード（別売）によるネットワーク接続時、操作画面上にリアルタイムに文字起こしします。 ＊4G接続には別途SIMカードが必要(nano SIM) ＊対応キャリア：au/docomo/楽天/ahamo/softbank(iPhone用のみ)の音声用プラン。その他キャリアは未検証(2023年2月時点) またAPN設定にも対応しておりません",
+        "※文字起こしの精度は録音時の環境や音声の明確さや距離等で変わり、100％の精度を保証するものではありません。文字起こし対応言語：日本語・英語",
+        "ストレージ：本体16GB、クラウド10GB"
+      ],
+      "query": "iFLYTEK VOITER SR502J",
+      "asin": "B09BPZXWCB"
+    },
+    {
+      "title": "Plaud NotePin S AIボイスレコーダー ウェアラブルAIデバイス 小型 4種類のアクセサリー付属 物理ボタン搭載 ワンタッチ録音 自動文字起こし/要約 自動議事録/メモ生成 Web会議対応 先端AIモデル活用 112言語対応 20時間連続録音 スマートフォン・パソコン連動 64GB ICレコーダー AIノートテイカー 対面会話/オンライン会議/工事現場/商談などの記録 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0G6F1PZXY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31hqK0hHWlL._SL500_.jpg",
+      "features": [
+        "【Plaud NotePin Sについて】Plaud NotePin S（プラウドノートピン S）は、知性を拡張するウェアラブルAIボイスレコーダーです。どこにでも装着できるので、重要な情報を漏れなく記録し、要約ノートを自動生成します。面倒なルーティン業務を代わりにこなしてくれるので、よりクリエイティブな業務に集中できます。",
+        "【4種類のアクセサリー付属したセット】カプセル型ボイスレコーダーNotePin Sには、ネックストラップ、リストバンド、マグネットピン、クリップの4種類の専用アクセサリーが付属。腕時計のように手首に巻き付けたり、ネックレスのように首にかけたり、クリップやピンで服に留めたりできるため、自分スタイルで装着でき、完全ハンズフリーで会話を記録できます。",
+        "【記録したい瞬間に録音開始】NotePin Sを身につければ、商談や工事現場など移動の多く、メモ書きができないような環境でも、あなたの代わりに会話内容を細部まで記録し、自動で情報を整理。まるで「第二の脳」のように、あなたの記憶をしっかりサポートします。※信頼関係を守るため、録音の同意を取得してください。",
+        "【マルチモーダル入力】録音中、重要な瞬間をボタンで短押しでハイライト記録、重要な視覚情報を撮影したり、浮かんだアイデアを文字入力することで、より深い文脈で記録できます。AIがこれらの情報を基に、意図に沿った要約やToDoリストを自動生成し、正確で実行可能なインサイトを提供します。情報整理の精度が革新的に向上します。",
+        "【プロ仕様の文字起こし】AI文字起こしは、日本語を含む112言語に対応し、話者ラベルで「誰が何を話したか」を明確に表示した状態で文字起こしできます。教育・法律・金融・建築など10種類以上の専門用語集を選択でき、プロの現場でも高精度な文字起こしを実現します。",
+        "【多次元要約＆Ask Plaud】GPT-5.5、Claude Sonnet 4.6、Gemini 3.1 Proなどの最先端AIモデルを活用し、会議内容を多角的に要約。1万種類以上の要約テンプレートから選択できます。さらに、Ask Plaud機能で様々な質問をすることができ、次のアクションやToDoリストも提案します。根拠となる音声ソースも確認できるので、より高精度で価値ある情報を提供します。",
+        "【オンライン会議でも活用】Plaud Desktop（Plaudオンライン会議ツール）を使用することにより、Plaudの録音機能を、対面での会話だけでなく、Web会議でも利用できるようになります。Zoom、Microsoft Teams、Google Meetなどのオンライン会議ツールで会議が始まると、Plaudは自動的に会議を検出し、パソコンで録音を開始します。",
+        "【データの安全性を最優先】すべてのデータは暗号化され、ユーザーの許可なく処理されることはありません。ISO 27001/27701、SOC 2、GDPRなどの国際基準に準拠し、機密情報を取り扱う場合も安心です。Plaud AppやPlaud Webで無制限のクラウド保存が可能で、プライバシーを守りながら全てを一元管理できます。",
+        "【小さなカプセル型デバイスに、大きなAIパワー。】超軽量23gのPlaud NotePin Sは、指でつまめるほど超コンパクト カプセル型ボイスレコーダーです。本体には、容量320mAhのバッテリーが内蔵されており、一度フル充電すれば、20時間の連続録音が可能で、40日間のスタンバイもできるため、1日中使っても大丈夫なパワフルさを備えています。",
+        "【Starterプラン特典】現在、Plaudデバイスをご購入いただくと、Starterプラン（300分/月までのAI文字起こし・自動要約）を無料特典としてご利用いただけます。マルチモーダル入力やAsk Plaudなど、様々なPlaud Intelligence機能も制限なく利用可能です。※本体とアプリを接続すると、Starterプランが自動的に有効になります。"
+      ],
+      "query": "PLAUD NOTE AI ボイスレコーダー",
+      "asin": "B0G6F1PZXY"
+    },
+    {
+      "title": "Notta Memo Type-C充電 AIボイスレコーダー 文字起こし/リアルタイム翻訳/AI要約/話者識別/Notta Brain 通話/会議録音モード 仕事効率化 会議・面談・講演内容自動整理 Bluetooth&Wi-Fiデータ自動同期 5つのマイク搭載 スマホ・PCアプリ連携 会議ツール連携可 単語登録 専用マグネット式Type-C充電ケース 30時間連続録音 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0G3GH1H1K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51y9EldTkGL._SL500_.jpg",
+      "features": [
+        "【議事録・翻訳・要点整理まで自動化】 Notta Memoは、わずか1秒で録音を開始できるAIボイスレコーダーです。 ワンタッチで「録音 → 文字起こし → 翻訳 → 要点整理・ToDo抽出」までを自動化し、議事録作成の工数を劇的に削減します。 PCにUSB接続するだけで、録音データを高速同期。文字起こし完了後、そのままNotta Webの大画面ですぐに編集や要約が可能です。 スマホを介さない直感的なワークフローにより、会議後の情報整理と共有を最大限にスピードアップ。専用デバイスならではの即時起動で、通話や会議、突然のアイデアも逃さず記録。手作業によるメモや議事録作成の負担を削減します。 さらにNottaアカウント連携でスタータープランを自動適用。 （月間300分のAI文字起こし／連続5時間録音可能／月100ファイルアップロード／月100回のAI要約）",
+        "【主要23言語対応のリアルタイム2か国語文字起こし＆翻訳】 Notta Memo AIボイスレコーダーは最大58言語に対応し、会議や通話の音声をリアルタイムで文字起こし・翻訳します。 専用アプリ「Notta」と連携することで、主要23言語において2か国語同時のリアルタイム文字起こし・翻訳が可能です。 会議の議事録作成、インタビュー、学術講演など、さまざまなシーンで音声を効率的に2言語のテキストへ自動変換します。 文字起こしおよび要約の精度は最大98.86％。ノイズに強い録音品質と安定した話者識別機能により、話すだけで質の高い原稿や議事録を瞬時に作成できます。",
+        "【Notta Brain機能で、情報活用を次のレベルへ】 進化したAIチャット機能「Notta Brain」により、録音データだけでなく複数の会議ノートや蓄積された情報を横断してAIに質問可能。 要約・分析・ToDo抽出を瞬時に生成し、過去の議論整理やナレッジ検索を効率化します。 さらにWeb版では、画像・Word・Excel・PowerPointなど多様なファイル入力に対応し、対話内容からPowerPoint資料を自動作成、Wordや画像形式でのエクスポートも可能。営業・マーケティング・コンサルなど専門家ロールを設定することで、目的に応じた視点から実践的な分析・提案を行い、情報整理から意思決定までを強力にサポートします。",
+        "【Bluetooth・Wi-Fi・Type-C 3WAY高速データ同期】 Notta Memo AIボイスレコーダーは、Bluetooth／Wi-Fi／Type-C有線接続に対応した3WAY同期設計。 専用アプリ「Notta」と連携し、データの同期・編集・共有をワンタッチで実行できます。外出先ではスマホと連携し、オフィスではPCのUSBポートに挿すだけですぐ同期。初回ペアリング後は、電源を入れるだけで自動接続され、シーンに応じた柔軟な運用が可能です。 Type-C有線転送では最大800kb/sの高速通信を実現。無線接続時と比較して最大10倍のスピードで大容量データを安定的に転送できます。Wi-Fi環境に左右されず、議事録作成を効率化します。 録音データは転送後、本体から削除され、アプリおよびWeb上に安全に保存されます。ビジネス現場における確実な情報共有を支えます。",
+        "【AI要約の編集＆カスタムテンプレート対応】 「Notta」アプリでは、AI要約の編集が可能です。要約生成後にテキストを直接編集できるほか、要約画面内でAIチャット機能を利用し、内容への追加質問や深掘りも行えます。 さらに、30種類以上のプロ仕様テンプレートから最適な形式を選択できます。見出し構成・箇条書き・詳細メモなど、用途に応じたカスタマイズにも柔軟に対応します。 カスタムテンプレートの作成やAIによるテンプレートの改善にも対応しており、個人に最適化されたパーソナルAI議事録ツールとして活用できます。",
+        "【法人向けセキュリティ＆外部ツール連携】 Notta Memoは、個人スマホを介さず、会社PCへ直接データを転送できます。私用端末経由による情報漏えいリスクを回避し、法人利用に適した安全な運用を実現します。 データは日本国内のサーバーに保管され、送信時・保存時ともに多重暗号化を実施。業務担当者であっても、個別のユーザーデータを特定・閲覧することはできません。 累計ユーザー数1,500万人以上、導入企業5,000社以上、日経225銘柄企業の約72％が利用※。大手企業や官公庁でも導入可能な高水準のセキュリティ環境を提供します。 さらに、Zoom・Google Meet・Microsoft Teams・Webexに対応し、文字起こしデータはNotionなど各種クラウドサービスと自動連携。安全性と業務効率の両立を支援します。 ※数値は記載時点の実績です。",
+        "【マグネット式ケース＆USB Type-Cポート】 Notta Memo AIボイスレコーダーは、マグネット式ケースとUSB Type-Cポートを採用し、スマートフォン・PC・タブレットなど幅広いデバイスとの高い互換性を実現。 強力なマグネットによりスマートフォンへ簡単に装着でき、移動中や外出先での急な通話もワンタッチでクリアに録音できます。 高級感のあるデザインと実用性を兼ね備え、出張や日常業務など、多忙なビジネスシーンをスマートにサポートします。"
+      ],
+      "query": "Notta Memo AI ボイスレコーダー",
+      "asin": "B0G3GH1H1K"
+    },
+    {
+      "title": "BOOX Palma2 Pro Mobile ePaper eBook Reader 8G 128G 150PPI in Color Mode (White)",
+      "url": "https://www.amazon.co.jp/dp/B06XPHC2JG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ZqUAcwGoL._SL500_.jpg",
+      "features": [
+        "スクリーン: 6.13インチ Kaleido 3 (4,096色) ガラススクリーン、フラットカバーレンズ付き 解像度: 白黒: 824 x 1648 (300ppi) カラー: 412 x 824 (150ppi) タッチ: 静電容量式タッチ CPU: オクタコア + BSR RAM: 8GB ROM: 128GB 接続: Wi-Fi + BT 5.1 CTM (暖色と寒色) 付きフロントライト、自動回転用 Gセンサー、光センサー、LEDフラッシュ付き 16MP リアカメラ",
+        "OS: Android 15 ドキュメント形式: PDF、CAJ、DJVU、CBR、CBZ、EPUB、EPUB3、AZW3、MOBI、TXT、DOC、DOCX、FB2、CHM、RTF、HTML、ZIP、PRC、PPT、PPTX 画像形式: PNG、JPG、BMP、TIFF 音声形式: WAV、MP3 サードパーティ製アプリをサポート",
+        "ボタン: 指紋認識機能付き電源ボタン、音量/ページめくりボタン、スマートボタン USB-Cポート (OTGをサポート、またはオーディオジャックとして使用) ハイブリッドSIMカードスロット 内蔵スピーカー 内蔵デュアルマイク バッテリー: 3,950mAh リチウムイオンポリマー 寸法: 159 x 80 x 8.8 mm (6.3 x 3.1 x 0.35 インチ) 重量: 約175 g (6.2オンス)",
+        "Dark, gray, or wrongfully believed low resolution screen : All Eink products used Kaleido 3 color e-ink technology, which currently has inherent limitations and share the same darker or grayer screen than LCD/LED ones. This is a characteristic of all e-ink products, not a defect. If it doesn't meet your expectations, you may return the product under our return policy. However, please note this is not considered a product fault."
+      ],
+      "query": "Boox Palma 電子ペーパー",
+      "asin": "B06XPHC2JG"
+    }
+  ],
+  "all_candidates": []
+}

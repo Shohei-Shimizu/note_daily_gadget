@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-25",
+  "title": "海外コンセントに対応。全世界対応「変換プラグ」 5 選",
+  "queries": [
+    {
+      "query": "カシムラ 海外変換プラグ USB-C",
+      "include": [
+        "変換プラグ"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "サンワサプライ 海外電源変換アダプタ",
+      "include": [
+        "変換"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "ROAD WARRIOR ゴーコンW2",
+      "include": [
+        "ゴーコン"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "MOMAX 変換プラグ 70W",
+      "include": [
+        "変換プラグ"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Zendure Passport III 変換プラグ",
+      "include": [
+        "Passport"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "カシムラ 海外用変換プラグ A/C/O/BFタイプ USBA+C 2.4A NTI-515",
+      "url": "https://www.amazon.co.jp/dp/B0G927M4SC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31kmNlpfpBL._SL500_.jpg",
+      "features": [
+        "USB付き海外用変換プラグ。変換プラグとUSB電源、1台2役で海外旅行に最適。",
+        "USB Type-Aポート・USB Type-Cポート搭載・・・旅行先でのスマホやカメラなどの充電で使用可能。 自動識別IC搭載、端末に合わせて最適に充電。 2ポート合計最大出力12W (5V 2.4A)",
+        "変換プラグ・・・4種類の電源コンセントに対応。（A/C/O/BF）",
+        "マルチコンセント・・・8種類のプラグ形状に対応。（A/B/C/O/SE/BF/B3/O2）",
+        "コンパクト設計・・・収納・持ち運びに便利。通電ランプ付き・・・一目で通電を確認できる電源ランプ付き。"
+      ],
+      "query": "カシムラ 海外変換プラグ USB-C",
+      "asin": "B0G927M4SC"
+    },
+    {
+      "title": "サンワサプライ 海外電源変換アダプタ ブラック TR-AD4BK",
+      "url": "https://www.amazon.co.jp/dp/B075D7BDPX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31AERoyaTYL._SL500_.jpg",
+      "features": [
+        "分割、合体、変形させることで、ほぼ全世界の一般電源用プラグ形状（9種類）158ヶ国に変換することが可能なアダプタ",
+        "渡航先のコンセントの形状がはっきりしない時、あるいは、幾つかの国をまわらなければならない時に役立ちます。",
+        "持ち運びに便利な厚さ16.5mmの超薄型タイプです。",
+        "【本体サイズ・重量】：W50.4×D16.5（突起を除く）×H106.5mm・55g",
+        "【対応プラグ】：A、B、BF（新規格BF対応）、B3、C、SE、O、O2、CB",
+        "【許容容量】：6A 250V",
+        "【本体材質】：ポリカーボネート（難燃材）",
+        "【付属品】：プラグキャップ、取扱説明書"
+      ],
+      "query": "サンワサプライ 海外電源変換アダプタ",
+      "asin": "B075D7BDPX"
+    },
+    {
+      "title": "デバイスネット RW75WH ゴーコンW2(ホワイト)",
+      "url": "https://www.amazon.co.jp/dp/B001GV016U?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31CN9X1gusL._SL500_.jpg",
+      "features": [
+        "世界158ヶ国以上・9種類の電源コンセントに対応。渡航先のコンセント形状がはっきりしない時や、複数の国を周る時などにとても便利！9種類のコンセント形状に対応しているので、ほぼ全世界でプラグ形状の異なる電気製品が使えます。手のひらサイズの薄型ボディなので、ガジェットポーチにもすっきり入る。 旅行中の持ち運びにとっても便利です",
+        "日頃使い慣れているUSB充電器などと組み合わせたり、海外対応の電源タップと組み合わせれば、複数の電気製品を同時に給電可能です。 プラグ変換機能に特化しているからこそできる、自由度の高い変換プラグです",
+        "サイズ：W50.4×H106.5×D20mm　重量：約55g　定格容量：6A/250V　材質：ポリカーボネイト　カラー：ホワイト／レッド　プラグ形状：A,B,BF,B3,C,CB,SE,O,O2タイプ　ソケット(差込口)形状：A,B,BF,B3,C,CB,SE,O,O2タイプ　付属品：収納ケース　注意事項：※B3Lタイプ(南アフリカの一部で使用されている形状)には対応しておりません",
+        "※本製品に電圧変換の機能はありません。日本国内専用(100V)電気製品を海外でご使用になる場合は、別途変圧器が必要です",
+        "本製品は海外で使用するための製品で電気用品安全法の例外対象品となり、日本国内での使用は認められておりません。「日本国内での使用はしない」を同意いただいた上でのご購入をお願いいたします"
+      ],
+      "query": "ROAD WARRIOR ゴーコンW2",
+      "asin": "B001GV016U"
+    },
+    {
+      "title": "【さらに小型化・PD70W】MOMAX 海外 変換プラグ PD 70W GaN 急速充電 7台同時充電 3*USB-C PD & 2*USB-A QC &2*ACコンセント 2個AC差込口 C/BF/O/Aタイプ マルチ変換プラグ 全世界対応 ヨーロッパ/イギリス/アメリカ/オーストラリア 旅行用 パソコンに対応 universal adapter",
+      "url": "https://www.amazon.co.jp/dp/B0DQCMQNGY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31WD9U4bUZL._SL500_.jpg",
+      "features": [
+        "【最新改良型 コンパクトモデル】 MOMAX最新モデルの海外変換プラグは、最大70Wの急速充電性能はそのままに、従来品よりさらに小型を実現、携帯性が大幅に向上しました。新たにAC差込口を1口追加し、2つの充電器を同時に使用できるようになりました。AC×2、USB×5の合計7ポートを搭載。7台のデバイスを同時に充電できます。前面ACコンセントも改良され、差し込みにくさや接触不良を軽減しました。",
+        "【全世界対応の変換プラグ】 MOMAXの旅行用変換プラグは、Aタイプ／oタイプ／cタイプ／bfタイプの4種類のプラグ形状に対応。これ1つでヨーロッパ、アメリカ、イギリス、オーストラリア、マレーシア、シンガポール、中国、韓国、シンガポールなど、世界200以上の国と地域で使用可能です。定格入力は100〜250V、50-60Hz対応、最大負荷電流10Aのヒューズ内蔵。（ご注意ください：本製品のType Cプラグは4mm仕様のため、韓国の一部コンセントでは差し込みがやや緩く感じられる場合があります。）",
+        "【PD 70W急速充電・GaNテクノロジー搭載】 USB-C×3、USB-A×2、ACコンセント×2（最大2500W）を搭載し、PD3.0／QC3.0急速充電に対応。側面のUSB-Cポートは最大70W出力で、ノートPCやタブレットも高速充電可能です。一般的な変換プラグと比較して、2倍以上の充電速度を実現し、充電待ち時間を短縮します。先進のGaN技術により、コンパクトサイズ（69×55.5×54.3mm）と軽量（約200g）を両立しつつ、発熱を抑えた効率的な充電を実現しました。",
+        "【多重保護システム・安全設計】 MOMAXの変換プラグは、ROHS・CE・FCC各種認証を取得しており、国際的な安全・環境基準に準拠した安心設計です。本体には耐火性に優れた高品質PC素材を採用し、日常使用から海外旅行まで安全にご使用いただけます。また、過電流・過電圧・過熱・短絡（ショート）・過電力などを検知する多重保護機能を搭載。接続したスマートフォン、タブレット、ノートPCなどの電子機器をトラブルからしっかり守ります。長時間使用時や同時充電時でも安定した電力供給を実現し、安心してお使いいただけるマルチ変換プラグです。",
+        "【ご使用上の注意・1年保証】 本製品は変圧機能を備えておりません。AC100–250V対応機器はそのまま使用可能ですが、日本仕様（AC100V）のみ対応機器をご使用の場合は変圧器が必要です。安心の1年間保証付き。ご不明点がございましたら、いつでもお気軽にお問い合わせください。 ※海外専用製品です。日本国内での使用には適していません。"
+      ],
+      "query": "MOMAX 変換プラグ 70W",
+      "asin": "B0DQCMQNGY"
+    },
+    {
+      "title": "Zendure 61W PD 海外 コンセント 変換プラグ, 旅行用アダプター持ち運び 小型,6台同時充電,3*USB-A &2*USB-C ポート&1*ACコンセント,Macbook、iPad、iPhone、Android、Airpods、Dji、Switch用,Passport II Pro【EC限定型番】",
+      "url": "https://www.amazon.co.jp/dp/B0CZ9BPXCC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ovGvPhcsL._SL500_.jpg",
+      "features": [
+        "【世界200ヵ国以上に対応】Zendure Passport II Proは、200か国以上をUS / EU / AU / UKプラグでカバーする、オールインワンの多機能トラベルアダプターです。61WのPD GaN急速充電アダプターによって、1つの変換プラグだけで世界中を旅行することができます。",
+        "【スマート急速充電】5つのUSBポート（2つのUSB-Cと3つのUSB-A）、1つのACコンセント、6つのデバイスに同時に高速で電力を供給します。AC100Vで最大電力1000W、AC250Vで2500Wの出力を提供します。 Passport II Proは、iPhone、iPad、その他のスマートフォンを急速充電するためのPD 3.0、QC 3.0、PPS 3A、AFC、FCPをサポートしています。PPS 3Aを使用すると、iPhoneをわずか30分で50%充電できます。例えばMacBook Pro 13 'を2時間でフル充電可能です。",
+        "【広範囲なデバイスに対応】iPhone13 / 12 / 11 / 8 / 7 / 6、Samsung S8 / S7、XiaoMi Mix2、HUAWEI Mate 10、MeiZu、ノートPC、タブレット、デジタルカメラ、シェーバーなどの広範囲なUSBデバイスとの互換性を提供しますので、アメリカ、イギリス、ヨーロッパ、カナダ、メキシコ、アジア、中東などを安心して旅行できます。",
+        "【安全・安心】安心のイノベーション、10A自動リセットヒューズ。特許取得済みの10A自動リセットヒューズにより、Passport II Proは、サービスや交換なしで最大6,000回過負荷から回復できます。高出力デバイスを安心してご使用ください。。",
+        "【アフターサービス】Zendure海外変換プラグ PassPort ProIIは２年間の長期保証を提供します、 商品についてご不良や不明な点がございましたら、お気軽にご連絡ください。"
+      ],
+      "query": "Zendure Passport III 変換プラグ",
+      "asin": "B0CZ9BPXCC"
+    }
+  ],
+  "all_candidates": []
+}

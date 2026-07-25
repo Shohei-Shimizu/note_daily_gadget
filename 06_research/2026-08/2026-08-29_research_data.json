@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-29",
+  "title": "ホテルの Wi-Fi を高速化。有線 LAN「変換ルーター」 5 選",
+  "queries": [
+    {
+      "query": "GL.iNet Beryl AX GL-MT3000",
+      "include": [
+        "GL-MT3000"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "GL.iNet Beryl 7 GL-MT3600BE",
+      "include": [
+        "GL-MT3600BE"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "TP-Link TL-WR902AC トラベルルーター",
+      "include": [
+        "WR902AC"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "TP-Link WR802N トラベルルーター",
+      "include": [
+        "WR802N"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "BUFFALO WMR-433W2 トラベルルーター",
+      "include": [
+        "WMR-433W2"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN |Wireguard WPA3 IPv6対応 テザリング 旅行 出張 RV GL-MT3000 (Beryl AX)",
+      "url": "https://www.amazon.co.jp/dp/B0BQ1YRH9F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31cQhCMxTqL._SL500_.jpg",
+      "features": [
+        "【デュアルバンド wifi6トラベルルーター】スピードアップで快適なWi-Fi6!IPv6対応、ワイヤレス速度 574Mbps (2.4G)+2402Mbps (5G) のデュアルバンドネットワーク。2.5GマルチギガビットWAN ポートと1G ギガビットLAN ポート！コンパクトで、持ち運び便利な無線LANルーターです。【ご注意！使用の前に最新のファームウェアをダウンロードください：https://dl.gl-inet.com/?model=mt3000】",
+        "【VPNクライアントとサーバ】GL-MT3000 (Beryl AX) vpn ルーター はOpenVPNとWireGuardはプリインストールされており、30以上のVPNサービスプロバイダと互換性があります。既存のVPNアカウントにログインするだけで、Beryl AX は接続されたネットワーク内のすべてのネットワークトラフィックを自動的に暗号化します。最大VPN速度は150 Mbps（OpenVPN）、300 Mbps（WireGuard）",
+        "【オープンソースとプログラマブル】オープンソースのOpenWrt 21.02 ファームウェアで動作し、カスタマイズ用に 5,000 を超える既製のプラグインをサポートします。Beryl AXの管理パネル内のコード不要のインターフェイスを使用し、パッケージを参照、インストール、および管理するだけです。",
+        "【ネットワークセキュリティの保護】WPA3プロトコルをサポート、パスワード、ブルート、フォース攻撃に対する予防措置。DNS over HTTPS および DNS over TLS ―ドメイン ネーム システムのトラフィックを保護し、悪意のある人物によるデータの盗聴を防ぎます。 IPv6 ―プライバシー保護のための組み込み認証により、ネットワーク アドレス変換が不要になります。",
+        "【パッケージ内容】GL.iNet GL-MT3000 wifi ルーター本体（通常1年間の無料保証期間を2年間に延長いたしました!）、USBケーブル、ACアダプター（米国、英国、EU プラグ付き）、LANケーブル、ユーザーマニュアル。【サポート】何か不明点または何らかが起こった場合、まずサポーターとご連絡ください！メールアドレス：support@gl-inet.com。"
+      ],
+      "query": "GL.iNet Beryl AX GL-MT3000",
+      "asin": "B0BQ1YRH9F"
+    },
+    {
+      "title": "GL.iNet GL-MT3600BE (Beryl 7) ポータブルトラベルルーター、ポケットWi-Fi 7ワイヤレス2.5Gルーター、ミニポータブルVPNルーターWiFi Car、Travel、Public Computer Routers、Business、Mobile/RV/Cruise/Plane用",
+      "url": "https://www.amazon.co.jp/dp/B0G57FQGLB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Pq5xJ1AVL._SL500_.jpg",
+      "features": [
+        "【デュアルバンドWiFi 7 トラベルルーター】米国、英国、EU、オーストラリアプラグ付き製品；2.4Gで688Mbps、5Gで2882Mbpsのデュアルバンドネットワーク；デュアル2.5Gイーサネットポート（1x WANポートと1x LANポート）；USB 3.0ポート。最大120台のデバイスでゲーミングとストリーミングをお楽しみください。",
+        "【ハイスピードVPNクライアント＆サーバー】最大VPN速度：1100 Mbps（WireGuard）；1000 Mbps（OpenVPN-DCO）。OpenVPNとWireGuardは事前インストール済み、30以上のVPNサービスプロバイダーに対応（アクティブなサブスクリプションが必要）。当社のポータブルWiFiデバイスで既存アカウントにログインするだけで、Beryl 7は接続ネットワーク内のすべてのネットワークトラフィックを自動的に暗号化します。*速度テストはローカルネットワークで実施されます。実際の速度はネットワーク設定に応じて異なる場合があります。*",
+        "【OpenWrt 21.02 FIRMWARE】Beryl 7 (GL-MT3600BE)は、最大限のカスタマイズと高度なネットワーク機能を備えたOpenWrt 21.02 (カーネル5.4.281)で構築された高性能Wi-Fi 7トラベルルーターです。512MBストレージ、オープンソースの自由による完全なカスタマイズとOpenWrtプラグインの柔軟なインストール機能を備えています。",
+        "【旅行に最適なポータブルWiFiルーター】Beryl 7は、理想的な国際的なワイヤレスポータブルWiFiトラベルルーターです。コンパクトなサイズと旅行に適した機能を備え、ポケットWiFiルーターは、移動中に安全なインターネット接続を必要とする旅行者にとって完璧な相棒です。旅行、ホテル、またはクルーズ船用のポータブルWiFi。",
+        "【ネットワークセキュリティを保護】他の旅行用ポータブルWiFiホットスポットデバイスと異なり、弊社のポケットWiFiはWPA3プロトコルをサポート–パスワードブルートフォース攻撃に対する予防的対策; DNS over HTTPS & DNS over TLS–ドメイン名システムトラフィックの保護と悪意のある第三者によるデータ盗聴の防止; IPv6–プライバシー保護のための組み込み認証、ネットワークアドレス変換の必要性を排除。",
+        "【VPNカスケーディングが簡単】家庭用のほとんどのVPNルーターの平均的な性能を超え、Beryl 7は同じデバイス内でVPNサーバーとVPNクライアントを同時にホストでき、ユーザーはWi-FiプリンターやローカルWebサーバーなどのローカルネットワークリソースにリモートアクセスし、VPNクライアントとして同時にパブリックインターネットにアクセスできます。",
+        "【VPNまたはAdGuard Homeを簡単に有効化】物理トグルスイッチを通じて、選択した機能（AdGuard HomeまたはOpenVPNクライアントまたはWireGuardクライアント）を即座に有効化/無効化します。*ボタンのデフォルト設定には機能はありません。この機能を使用する前に、管理パネルで設定する必要があります。*",
+        "【簡単な設定】Amazonの詳細な開梱と設定のビデオガイドを参照してください、スムーズな設定手順のために。"
+      ],
+      "query": "GL.iNet Beryl 7 GL-MT3600BE",
+      "asin": "B0G57FQGLB"
+    },
+    {
+      "title": "TP-Link WiFi 無線LAN ナノ ルーター 11ac AC750 433+300Mbps 中継/子機/APモード ホテル用 USB給電対応 デュアルバンド 3年保証 TL-WR902AC",
+      "url": "https://www.amazon.co.jp/dp/B078GPSRSG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31QvavfSjBL._SL500_.jpg",
+      "features": [
+        "[柔軟な電源供給 ] マイクロUSBポートからアダプターやモバイルバッテリー、またはパソコンに繋げて給電を行えます。",
+        "[無線LAN規格] /11ac・11n・11a・11g・11b/転送速度:433Mbps(11ac)、300Mbps(11n)、54Mbps(11a、11g)、11Mbps(11b)",
+        "[マルチモード機能搭載] ボタンひとつで変化する5つのモード(ルータ/ホットスポット/中継/クライアント/AP(ブリッジ))に対応。環境に合わせて最適なモードへ様変わり。",
+        "[保証] 業界最高基準の3年保証",
+        "[旅行にも最適なコンパクトサイズ] - 次世代規格11ac対応。小さくて軽いので持ち運びにも最適。"
+      ],
+      "query": "TP-Link TL-WR902AC トラベルルーター",
+      "asin": "B078GPSRSG"
+    },
+    {
+      "title": "TP-Link WIFI Nano 無線LAN ルーター 11n/g/b 300Mbps 中継機 子機 ホテル WiFi USB給電型 ブリッジ APモード 3年保証 TL-WR802N",
+      "url": "https://www.amazon.co.jp/dp/B01M0GJU4N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21uLHl-tyiL._SL500_.jpg",
+      "features": [
+        "[特徴] 選べる４つのモード（ルーター/中継/クライアント/AP)。コンパクトボディで持ち運びも簡単。",
+        "[無線LAN] 11n・11g・11b/転送速度:300Mbps(11n)、54Mbps(11g)、11Mbps(11b)",
+        "[有線LANポート] 100BASE-TX、10BASE-T",
+        "[利用推奨環境] ワンルーム、ホテルルーム",
+        "[外形寸法(幅X奥行X高さ)] 57 x 57 x 18 mm",
+        "[電源] 5V MicroUSB 給電",
+        "[付属品] TL-WR802N 本体、USBケーブル、LANケーブル、クイックインストールガイド ◆業界最高基準の3年保証"
+      ],
+      "query": "TP-Link WR802N トラベルルーター",
+      "asin": "B01M0GJU4N"
+    },
+    {
+      "title": "バッファロー BUFFALO USB 無線LAN親機 single_band 11ac/n/a/g/b 433/150Mbps トラベルルーター ホワイト WMR-433W2-WH【iPhone13メーカー動作確認済み】",
+      "url": "https://www.amazon.co.jp/dp/B07R162HP8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/217En2O-OJL._SL500_.jpg",
+      "features": [
+        "不正アクセスを防止するワイヤレスWAN",
+        "アンテナ:1本(1本送信、1本受信)",
+        "INTERETポート:最大100Mbps×1",
+        "無線LAN規格:IEEE802.11ac/n/a/g/b",
+        "無線LAN親機 11ac/n/a/g/b 433/150Mbps トラベルルーター ホワイト",
+        "外形寸法:(幅×高さ×奥行):45×45×15mm※本体のみ(突起部除く)、質量:約19g(製品本体のみ)"
+      ],
+      "query": "BUFFALO WMR-433W2 トラベルルーター",
+      "asin": "B07R162HP8"
+    }
+  ],
+  "all_candidates": []
+}

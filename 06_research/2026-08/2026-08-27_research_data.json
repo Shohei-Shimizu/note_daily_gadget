@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-27",
+  "title": "旅行の防犯。スキミングを防ぐ「RFID ブロッキングウォレット」 6 選",
+  "queries": [
+    {
+      "query": "Bellroy Travel Wallet RFID",
+      "include": [
+        "RFID"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "SECRID Cardprotector RFID",
+      "include": [
+        "SECRID"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "abrAsus 薄い財布 RFID",
+      "include": [
+        "財布"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "TRAVANDO RFID 財布",
+      "include": [
+        "RFID"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "ZERO GRID RFID パスポートケース",
+      "include": [
+        "RFID"
+      ],
+      "exclude": [
+        "ケースのみ"
+      ]
+    },
+    {
+      "query": "TUMI RFID ウォレット",
+      "include": [
+        "RFID"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Bellroy Leather Travel Wallet（パスポートホルダー、RFID保護搭載、渡航文書用スペース、トラベルペン付き）- Cocoa",
+      "url": "https://www.amazon.co.jp/dp/B07DZL765P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41GcJtsNB-L._SL500_.jpg",
+      "features": [
+        "渡航書類をまとめて持ち運べるクラシックな二つ折り財布.",
+        "標準サイズのパスポート、搭乗券、最大10枚のカード、紙幣、SIMカードのほか、付属のミクロペンも収納でき、ポケットにすっきり収まるデザイン.",
+        "よく使うカードをさっと取り出せるスロット4つと、予備の紙幣やメモを収納できる外から見えない隠しスペースを配置.さらに、フライト中でも申告書類を記入できるよう便利なミクロペンが付いているほか、予備のSIMや取り出し用ピン専用のスペースも備えています.",
+        "サイズ：高さ 97mm x 幅 150mm.一部を除く標準サイズのパスポートを収納できます",
+        "上質なエコタンニングレザーを使用し、データの盗難を防ぐRFIDシールドを採用しています. レザー70%、リサイクルポリエステル25%、その他5%"
+      ],
+      "query": "Bellroy Travel Wallet RFID",
+      "asin": "B07DZL765P"
+    },
+    {
+      "title": "Secrid カードプロテクター チタンカラー Reddot アワード受賞 非常にスリムなクレジットカードホルダー/財布 RFID保護付き 1クリックで6枚全てのカードがスライド",
+      "url": "https://www.amazon.co.jp/dp/B007XU89US?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21R8BtZrQRL._SL500_.jpg",
+      "features": [
+        "Secridカードプロテクター。Reddotアワード受賞のデザインクレジットカードホルダー。",
+        "ワンクリックですべてのカードがゆっくりスライドして出てきます。カードが落下することはありません。",
+        "完璧なメンズ財布。後ろのポケットに入れても問題ありません。折れない、曲がらない。",
+        "たった8mmのフラットな形状。最大6枚のカードを保持可能。-",
+        "RFID保護。ハッカーがプライバシーとクレジットカード情報を盗むのを防止。"
+      ],
+      "query": "SECRID Cardprotector RFID",
+      "asin": "B007XU89US"
+    },
+    {
+      "title": "[アブラサス] 薄い財布 レザー 薄型 メンズ レディース 財布 日本製 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0062EZYIG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Ef0DHZF1L._SL500_.jpg",
+      "features": [
+        "グッドデザイン賞受賞: 優れたデザインが評価され、グッドデザイン賞を受賞しました。",
+        "特許取得済みの特別な構造: 特許を取得した独自の構造により、圧倒的な薄さを実現しました。",
+        "驚きの薄さ約13mm: カード5枚、コイン10枚、お札10枚を入れた状態で、その厚さはわずか約13mmです。",
+        "ポケットに入れてもシルエットが崩れず、快適です。男性でも女性でも使いやすいユニセックスなデザイン。プレゼントに大変喜ばれます。",
+        "日本製（MADE IN JAPAN）",
+        "財布 メンズ 2つ折り 財布 メンズ 財布 メンズ 長財布 財布 メンズ 二つ折り 財布 メンズ コンパクト 財布 メンズ 2つ折り 人気ブランド 財布 メンズ 長財布 人気ブランド 財布 メンズ ブランド 財布 メンズ 2つ折り 薄い 財布 メンズ 長財布 本革"
+      ],
+      "query": "abrAsus 薄い財布 RFID",
+      "asin": "B0062EZYIG"
+    },
+    {
+      "title": "TRAVANDO SLYDE アルミカードホルダー - RFIDブロッキング財布 メンズ マネークリップ付き – カード6枚まで – RFIDメンズ財布, ブラック, 8-9 Cards, マネークリップ付きカードホルダー",
+      "url": "https://www.amazon.co.jp/dp/B0G25J6FGX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41ZkoyBIKFL._SL500_.jpg",
+      "features": [
+        "SLYDEカードホルダーは、CNC機械加工のアルミニウムケース(3.9 x 2.7 x 0.4インチ)で、最大9枚のカードを収納できます(カードの厚さによって異なります)。 内蔵のステンレススチール製マネークリップは、折りたたんだ紙幣をしっかりと保持し、洗練されたデザインと日常の実用性を兼ね備えています。",
+        "特許取得済みのSLYDEメカニズム:ワンモーションですべてのカードが滑らかな扇状のディスプレイにスライドします。 当社のメタルウォレットの自動引き込みと安全なカバーが、カードを保護し、データ盗難を安全に保ちます。",
+        "この男性用スリムな財布は、13.56MHzの周波数を確実にブロックし、アルミニウムフレーム内のカードを不正なスキャンやデジタル盗難から保護します。",
+        "硬化アルミニウム製のカードホルダー。 マット仕上げにより、財布に洗練された外観と長持ちするプレミアムな感触を与えます。",
+        "プレミアム品質のアルミ財布:問題が発生した場合は、名刺ホルダーを簡単に交換できます。",
+        "この財布はエレガントなギフトボックスに入っており、あらゆる機会のギフトに最適です。"
+      ],
+      "query": "TRAVANDO RFID 財布",
+      "asin": "B0G25J6FGX"
+    },
+    {
+      "title": "[Zero Grid] ネックウォレット RFIDブロック付き - 隠しトラベルポーチ&パスポートホルダー (ワンサイズ、アッシュ)",
+      "url": "https://www.amazon.co.jp/dp/B01FCSS286?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41+qghvOLIL._SL500_.jpg",
+      "features": [
+        "貴重品とアイデンティティを保護 - このトラベルポーチとネックウォレットは、現金、クレジットカード、その他の貴重品をスリから隠します。 ネックポーチに内蔵されたRFIDブロックは、隠し財布の中にいる間、パスポート、クレジットカード、個人情報を個人情報の盗難から保護します。",
+        "安全な海外旅行のために設計されたトラベルネックウォレット - 混雑したマーケットプレイス、空港、バス、電車、スポーツイベント、音楽祭に非常に貴重です。 当社の旅行用ネックウォレットとパスポートホルダーは、泥棒にはほとんど見えず、どんな環境でも安心です。",
+        "柔軟な収納と整理 - パスポートウォレットの3つのジッパー付きコンパートメントは、現金を安全に保管し、パスポートカバーを提供し、旅行書類ホルダーとして機能し、搭乗券、クレジットカード、ID、鍵、スマートフォンを収納できます。 1つのネックトラベルウォレットですべてを安全に保管。 トラベルウォレットのソフトで調節可能なネックストラップは、男性にも女性にもフィットします。 パスポートネックウォレットは旅行者にとって必需品です。",
+        "快適で多用途 - このパスポートカバーは、超軽量、耐水性の210Dリップストップナイロン製です。 パスポートホルダーは通気性があり、吸湿発散性の背面で、不快な湿気や熱を排除します。 旅行用パスポートポーチを衣類の下、首周り、またはベルトにしっかりと固定してください。",
+        "このネックウォレットを自信を持って今すぐご購入ください - 100%永久返金保証"
+      ],
+      "query": "ZERO GRID RFID パスポートケース",
+      "asin": "B01FCSS286"
+    },
+    {
+      "title": "TUMI - ナッソー スリム シングル 札入れ 財布 - メンズ & レディース カードホルダー ウォレット - RFIDウォレット保護 - ナッパレザー素材、ブラックエンボス、ワンサイズ、スリムシングル札入れ",
+      "url": "https://www.amazon.co.jp/dp/B0D5KP3FXR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/4138SSEXvoL._SL500_.jpg",
+      "features": [],
+      "query": "TUMI RFID ウォレット",
+      "asin": "B0D5KP3FXR"
+    }
+  ],
+  "all_candidates": []
+}

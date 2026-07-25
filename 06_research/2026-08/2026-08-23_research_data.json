@@ -1,0 +1,145 @@
+{
+  "date": "2026-08-23",
+  "title": "旅の記録を自動化。GPS ロガーと「カメラ連携ギア」5 選",
+  "queries": [
+    {
+      "query": "Garmin eTrex SE GPS",
+      "include": [
+        "eTrex"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム"
+      ]
+    },
+    {
+      "query": "Canon GP-E2 GPSレシーバー",
+      "include": [
+        "GP-E2"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Sony GP-VPT2BT シューティンググリップ",
+      "include": [
+        "GP-VPT2BT"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Nikon ML-L7 リモコン",
+      "include": [
+        "ML-L7"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "GoPro Volta バッテリーグリップ",
+      "include": [
+        "Volta"
+      ],
+      "exclude": [
+        "ケース",
+        "フィルム",
+        "フイルム"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "Garmin eTrex SE、屋外GPSハンドヘルド、ハイキングやジオキャッシング用GPSデバイス、マルチGNSS対応、長いバッテリー寿命、2.25インチのハイコントラストスクリーン、デジタルコンパス。",
+      "url": "https://www.amazon.co.jp/dp/B0BT35C89P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31AAAWKeVKL._SL500_.jpg",
+      "features": [
+        "2.2インチの高解像度ディスプレイは、明るい日光の下でも読みやすいです。",
+        "フィールド交換可能な単3電池2本(別売り)で、標準モードで最大7日間、遠征モードで最大3ヶ月の長いバッテリー寿命を実現します。",
+        "互換性のあるスマートフォンのGarmin Exploreアプリとペアリングして、ワイヤレスソフトウェアのアップデート、旅行計画、アクティブな天気、スマート通知、追加のマッピングを行えます。",
+        "互換性のあるスマートフォンのGarmin Exploreアプリとペアリングすると、説明、ログ、ヒントなど、Geocaching Liveから自動キャッシュ更新を取得できます。",
+        "マルチGNSSサポートにより、複数のグローバルナビゲーション衛星システム(GPS、GLONASS、Galileo、BeiDou、QZSS)にアクセスし、GPSだけよりも困難な環境で追跡できます。"
+      ],
+      "query": "Garmin eTrex SE GPS",
+      "asin": "B0BT35C89P"
+    },
+    {
+      "title": "Canon GPSレシーバーGP-E2",
+      "url": "https://www.amazon.co.jp/dp/B007G3T2XU?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41DoitGDh7L._SL500_.jpg",
+      "features": [
+        "画像にジオタグを付けることができます。",
+        "GPSデータと時刻機能を提供 - 互換性のあるカメラモデルでのみ使用できます。",
+        "写真家が画像を追跡して分類するのに役立ちます。",
+        "製品のパッケージ寸法:長さ15.6インチ x 幅7インチ x 高さ17.8インチ。"
+      ],
+      "query": "Canon GP-E2 GPSレシーバー",
+      "asin": "B007G3T2XU"
+    },
+    {
+      "title": "SONY(ソニー) ワイヤレスリモートコマンダー機能付シューティンググリップ GP-VPT2BT",
+      "url": "https://www.amazon.co.jp/dp/B083V2P3JG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31yXplt5rQL._SL500_.jpg",
+      "features": [
+        "Bluetooth対応によりケーブル不要で取り回しが容易",
+        "容易な角度調整、方向切り替え",
+        "ホールド性に優れたグリップ形状",
+        "防塵防滴に配慮した設計",
+        "付属品:キャリングポーチ、リチウムコイン電池(CR2032x1)"
+      ],
+      "query": "Sony GP-VPT2BT シューティンググリップ",
+      "asin": "B083V2P3JG"
+    },
+    {
+      "title": "Nikon リモコン ML-L7",
+      "url": "https://www.amazon.co.jp/dp/B07H625RG2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/316eKUebxQL._SL500_.jpg",
+      "features": [
+        "ズーム操作、静止画撮影、動画撮影の開始・停止操作が可能",
+        "マルチセレクターで、マニュアルフォーカスの調整、項目の選択が可能",
+        "カメラから機能を割り当てられるFn1/Fn2ボタンも搭載",
+        "対応商品:COOLPIX A1000、COOLPIX P1000、COOLPIX B600"
+      ],
+      "query": "Nikon ML-L7 リモコン",
+      "asin": "B07H625RG2"
+    },
+    {
+      "title": "GoPro Volta - 公式GoProアクセサリー(リニューアル版)。",
+      "url": "https://www.amazon.co.jp/dp/B0DVD3MXGR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21WukXgTIbL._SL500_.jpg",
+      "features": [],
+      "query": "GoPro Volta バッテリーグリップ",
+      "asin": "B0DVD3MXGR"
+    }
+  ],
+  "all_candidates": []
+}

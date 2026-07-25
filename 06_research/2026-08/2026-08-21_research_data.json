@@ -1,0 +1,154 @@
+{
+  "date": "2026-08-21",
+  "title": "バーベキューを盛り上げる。タフな「大型スピーカー」 5 選",
+  "queries": [
+    {
+      "query": "JBL Boombox 3 Bluetooth スピーカー",
+      "include": [
+        "Boombox"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Soundcore Boom 2 Pro Bluetooth スピーカー",
+      "include": [
+        "Boom 2 Pro"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Sony ULT FIELD 7 ワイヤレススピーカー",
+      "include": [
+        "ULT FIELD 7"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Marshall Kilburn III Bluetooth スピーカー",
+      "include": [
+        "Kilburn"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Bose SoundLink Max Portable Speaker",
+      "include": [
+        "SoundLink Max"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "JBL BOOMBOX 3 Bluetoothスピーカー IP67防塵水/3way 5スピーカー/ ブラック JBLBOOMBOX3BLKJN",
+      "url": "https://www.amazon.co.jp/dp/B0BB17YBC3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31yd+oyw+xL._SL500_.jpg",
+      "features": [
+        "国内正規品 新品のみメーカー保証1年",
+        "技適マーク認証済み商品。 周波数帯:2.402 GHz – 2.480 GHz",
+        "3ウェイ構成採用により更に進化したパワフルサウンド",
+        "約24時間連続再生可能な大容量バッテリーとチャージ機能",
+        "IP67規格の防水・防塵性能"
+      ],
+      "query": "JBL Boombox 3 Bluetooth スピーカー",
+      "asin": "B0BB17YBC3"
+    },
+    {
+      "title": "【第2世代】Anker Soundcore Boom 2 Pro【最大140Wの大迫力サウンドを実現するBluetoothスピーカー】",
+      "url": "https://www.amazon.co.jp/dp/B0DR2PNSBN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/417VUrNME8L._SL500_.jpg",
+      "features": [
+        "最大140Wの大迫力サウンド : 50Wのウーファー2つと20Wのツイーター2つを搭載。合計最大140W (※) の大迫力のあるサウンドを実現。※本体上部のBassUpボタンをオンにすることで最大140Wの出力が可能",
+        "迫力のある重低音 : Anker独自技術BassUp2.0を使用。従来 (※) と比較し、低音域の増強をさらに強化。40Hzの低音域まで再生可能で迫力の重低音を実現。※BassUpとの比較",
+        "IP68最高レベルの防塵・防水規格 : 砂や塵の侵入を防ぐ防塵構造に加えて水深1.5mまで30分程度沈めても操作可能な防水設計。アウトドアやインドアでも粉塵や水濡れを気にせず使用可能。",
+        "最大20時間の長時間再生 : 最大20時間 (※) の連続再生が可能なためダンスレッスンなどのイベントでもバッテリー残量を気にせず使用可能。※再生可能時間は音量や使用環境によって異なります",
+        "様々なシーンで活躍 : 手軽に持ち運びが可能なため友人との集まりやお店でのBGM再生用途など様々なシーンで活躍",
+        "パッケージ内容：Boom 2 Pro、USB-C & USB-C ケーブル、ショルダーストラップ、クイックスタートガイド、安全マニュアル、カスタマーサポート",
+        "※製品の仕様またはパッケージは予告なく変更されることがありますので、予めご了承ください。"
+      ],
+      "query": "Soundcore Boom 2 Pro Bluetooth スピーカー",
+      "asin": "B0DR2PNSBN"
+    },
+    {
+      "title": "ソニー(SONY) ワイヤレススピーカー SRS-ULT70 :防水 IP67/ ULT FIELD 7/パワフル重低音/ロングバッテリー 30時間/ SRS-ULT70 C",
+      "url": "https://www.amazon.co.jp/dp/B0D145NHH1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31U8yzkHk6L._SL500_.jpg",
+      "features": [
+        "パワフルな音圧と豊かな重低音体験",
+        "「ULTボタン」による豊かな低域とパワフルな音体験",
+        "防水・防じん・防錆、ショックプルーフ",
+        "約30時間再生可能なバッテリーを搭載",
+        "タテ・ヨコ置ける本体デザイン。"
+      ],
+      "query": "Sony ULT FIELD 7 ワイヤレススピーカー",
+      "asin": "B0D145NHH1"
+    },
+    {
+      "title": "Marshall ワイヤレスポータブルスピーカー Kilburn III ブラック&ブラス 連続再生50時間/IP54防水防塵仕様/急速充電/LC3, AAC対応 【国内正規品】",
+      "url": "https://www.amazon.co.jp/dp/B0F96FWCDF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41D0czclt8L._SL500_.jpg",
+      "features": [
+        "【従来のモデルより倍増、最大50時間のポータブル再生時間】最初の曲を寝室で再生し始め、アンコールはバルコニーで再生。本製品は、屋内外問わず長時間、高音質なサウンドを楽しめるポータブルスピーカーです。ポータブルでも最大50時間の再生時間が可能なため、バッテリー切れを気にすることなく、お気に入りのプレイリストを最後までお楽しみいただけます。",
+        "【立体的なサウンド体験を実現するMarshall独自のマルチディレクショナル(全方位)サウンドを採用】Marshall独自のマルチディレクショナル（全方位）サウンド設計により、部屋のどこにいても均一な音量と音質で音楽をお楽しみいただけます。改良されたチューニングと広帯域のスピーカードライバーにより、丸みのある中音域、クリアな高音域、そして深みのある低音域を実現。あらゆる空間で、Marshallならではの立体的なサウンド体験を提供します。",
+        "【機能面でも安心、IP54の防水防塵対応】「Kilburn III」はIP54の防塵・防滴仕様を備えており、水はねや軽度の汚れにも安心してご使用いただけます。屋内外のさまざまなシーンに対応できる設計で、たとえばパーティ中に飲み物がかかってしまった場合でも、製品への影響を心配する必要はありません。",
+        "【あらゆる音域でバランスの取れたサウンドを実現】「Kilburn III」は、音量に関わりなく、低域、中域、高域において完全に調和がとれたサウンド体験を提供します。",
+        "【ワンタッチで、ロータリーノブよりすべてをコントロール】低音や高音の調整、オン/オフの設定、曲の再生/停止/スキップはすべてワンアクションでコントロールロータリーノブより可能です。Marshallの「M」ボタンを使って、即座にプリセット状態へもアクセス可能です。"
+      ],
+      "query": "Marshall Kilburn III Bluetooth スピーカー",
+      "asin": "B0F96FWCDF"
+    },
+    {
+      "title": "Bose SoundLink Max Portable Speaker 大型 Bluetooth ポータブル スピーカー ワイヤレス 防水 最長20時間連続再生 USB-C 3.5 mm AUX入力対応 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D5HS9YK1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41FyxQrrdgL._SL500_.jpg",
+      "features": [
+        "深みを極めた重低音、大迫力サウンドを実現：グループのメインDJでも、自慢のプレイリストを持つ音楽ファンでも、この大型Bluetoothワイヤレススピーカーなら、奥行きのある豊かな重低音でパーティームードを最高潮に盛り上げることができます。",
+        "最高のサウンドでいつでもどこでもムードは最高潮：ソフトな質感の着脱式クライミングロープハンドル付きで、パーティーや外出先など、ボーズ bluetoothポータブルスピーカーならどこへでも簡単に持ち運ぶことができます。",
+        "防水・防塵仕様：誤って落としてしまったり、突然の雨に濡れてしまったりなどのハプニング時も安心。この防塵・防水の大型BluetoothワイヤレススピーカーはIP67規格準拠に加えて、衝撃や錆にも強い設計です。",
+        "20時間の長寿命バッテリー*：この大型ポータブルBluetoothワイヤレススピーカーは、最長20時間の連続再生が可能*なため、パーティー中もバッテリー残量を気にすることなくお気に入りの音楽を昼も夜も楽しむことができます。",
+        "スマートフォンの充電もカバー：背面に搭載されたUSB-Cポートを使えば、スピーカー内蔵のバッテリーでデバイスを充電することができます。このワイヤレススピーカー、Bose SoundLink Max Bluetooth Speakerのバッテリー残量があれば、デバイスのバッテリー切れを心配する必要はありません。",
+        "AUX入力対応：この大型スピーカー、Bose SoundLink Max Portable Speakerは3.5 mm AUX入力に対応。ターンテーブル、CD・ MP3プレーヤーなどに有線接続して、音楽を再生できます。",
+        "リスニング体験をパーソナライズ：ボーズアプリ内のイコライザー設定で低、中、高音域のレベルを簡単に調整可能。あなた好みのサウンドにこのBluetoothスピーカーをパーソナライズできるだけでなく、バッテリー寿命の確認、接続されたデバイスの管理も行うことができます。"
+      ],
+      "query": "Bose SoundLink Max Portable Speaker",
+      "asin": "B0D5HS9YK1"
+    }
+  ],
+  "all_candidates": []
+}

@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-28",
+  "title": "スポーツの秋に向けて。ジムで使いたい「時計とイヤホン」 7 選",
+  "queries": [
+    {
+      "query": "Garmin Forerunner 265",
+      "include": [
+        "Forerunner 265"
+      ],
+      "exclude": [
+        "バンド",
+        "フィルム"
+      ]
+    },
+    {
+      "query": "HUAWEI WATCH FIT 4 Pro",
+      "include": [
+        "WATCH FIT 4"
+      ],
+      "exclude": [
+        "バンド",
+        "フィルム",
+        "フイルム",
+        "整備済み"
+      ]
+    },
+    {
+      "query": "Fitbit Charge 6",
+      "include": [
+        "Charge 6"
+      ],
+      "exclude": [
+        "バンド",
+        "フィルム"
+      ]
+    },
+    {
+      "query": "Shokz OpenRun Pro 2",
+      "include": [
+        "OpenRun Pro 2"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Soundcore Sport X20",
+      "include": [
+        "Sport X20"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Jabra Elite 8 Active Gen 2",
+      "include": [
+        "Elite 8 Active"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "JBL Endurance Race 2",
+      "include": [
+        "Endurance Race"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music Black 【日本正規品】",
+      "url": "https://www.amazon.co.jp/dp/B0BWF14TBL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41yargK8F3L._SL500_.jpg",
+      "features": [
+        "【メーカーサポートについて】販売元・発送元がAmazon.co.jpになっているカートから購入した商品は、正規品で一年保証の対象となります。他事業者が販売する同製品のサポートについては、各販売事業者にお問い合わせください。",
+        "■レンズ素材:Corning Gorilla Glass 3■ベゼル素材:FRP■QuickFitウォッチバンド互換性:あり/22mm■ストラップ素材:シリコン■サイズ:46.1 x 46.1 x 12.9 mm手首周り適応サイズ/135-205mm■ディスプレイサイズ:直径1.3インチ/32.5mm■解像度:416 x 416 ピクセル■ディスプレイタイプ:AMOLED/オプションで常時表示モード■重量:47 g■防水等級:5 ATM■充電方式:Garmin独自の充電ケーブルによる有線充電■内蔵メモリ/履歴:8 GB■特長:・1.3インチの鮮やかAMOLEDディスプレイ・GPSモードで約20時間稼働",
+        "・高度なトレーニング機能・GNSSマルチバンド対応・タッチ操作とボタン操作に対応・ウォッチに音楽を保存■稼働時間:スマートウォッチモード/ 約 13 日間GPSモード/ 約 20 時間SatIQ(衛星自動選択モード)モード/約 16 時間マルチGNSSマルチバンドモード/約 14 時間GPS+音楽再生モード/ 約 7 時間SatIQ(衛星自動選択モード)+音楽再生モード/約 6.5 時間マルチGNSSマルチバンド+音楽再生モード/約 6 時間■標準付属品:Forerunner 265 Blackチャージングケーブルクイックスタートマニュアル",
+        "カラー:Black",
+        "ブランド:ガーミン(GARMIN)"
+      ],
+      "query": "Garmin Forerunner 265",
+      "asin": "B0BWF14TBL"
+    },
+    {
+      "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ3000nitsディスプレイ サファイアガラス チタン合金ベゼル 10日間ロングバッテリー iOS/Android対応 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0F5WR3KP9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41KkM4mAaZL._SL500_.jpg",
+      "features": [
+        "【薄型軽量で頑丈なボディ、アップグレードしたディスプレイ】厚さ約9.3mm、重さわずか約30.4g。スリムなボディに、超強力なチタン合金ベゼルと航空機グレードのアルミニウム合金を採用、1.82インチのディスプレイはサファイアガラスで頑丈にカバーされ、3000nitsの明るさはアウトドアでも鮮明に見えます。",
+        "【ゴルフナビ、登山、トレランなど豊富なワークアウト】パワフルなゴルフナビ機能、登山、トレイルランニング、約40mフリーダイビングなど、100種類以上のアクティビティを見つけ、楽しむことができます。また、新たに搭載された気圧計によりハイレベルな測定も可能です。",
+        "【手首に付ける登山ガイド】YamapやYamaRacoのルートインポートに対応し、GPX（GPS Exchange Format)ファイルの読み込みも可能になりました。GPSデータのやり取りが可能になり、等高線マップのフルカラー表示や、登山中の豊富なデータ表示で、より便利に、より快適な登山体験が得られます。",
+        "【心電図（ECG）測定と24時間健康管理】新しく改良された電極技術により、心電図信号の収集がより精確になり、応答性も向上しました。また光学アーキテクチャ、超精密ガラス技術、次世代のヘルスモニタリングアルゴリズムにより、ヘルスケアデータをより迅速かつ精確に測定できるようになりました。【HUAWEI Health+】 スマートな体重管理コーチングからパーソナライズされたダイエットプランニング、フィットネス専用コースまで、さまざまなプレミアムサービスが利用可能。今なら、購入特典で3か月間ご利用いただけます。",
+        "【約10日間のロングバッテリー】第2世代のHUAWEI WATCHワイヤレススーパーチャージャーにより、わずか10分の充電で約1日使用することができます。"
+      ],
+      "query": "HUAWEI WATCH FIT 4 Pro",
+      "asin": "B0F5WR3KP9"
+    },
+    {
+      "title": "【Suica対応】Fitbit Charge 6 トラッカー オブシディアン／ブラック スマートウォッチ/防水/iPhone対応/アンドロイド対応/最大7日間のバッテリー/GPS搭載/心拍計/睡眠スコア [日本正規品]",
+      "url": "https://www.amazon.co.jp/dp/B0CJB8RYWK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31rFa0SOmqL._SL500_.jpg",
+      "features": [
+        "【睡眠スコアを表示】 毎日の睡眠スコアで、その日の過ごし方が睡眠にどのような影響を与えたかを把握できます。浅い睡眠、深い睡眠、レム睡眠の各睡眠ステージのグラフ表示など、毎晩の睡眠についての高度な指標も提供。月ごとの睡眠分析では、自分の睡眠習慣や長期的な傾向を追跡できます。",
+        "【ストレスマネジメント】 ストレスに対する体の反応を、毎日のスコアで表します。エクササイズの習慣やマインドフルネスの実践、睡眠の状態が、ストレスレベルの管理に役立つ様子がわかります。また、手首の皮膚電気活動センサーを使って、マインドフルネスセッションを実施し、ストレスレベルの改善に向けて取り組めます。",
+        "【毎日24時間の心拍数測定】 エクササイズ中の心拍数が、脂肪燃焼・有酸素運動・ピークのどのゾーンに入っているかを把握して、目標に合わせて運動の強度を調整できます。",
+        "【心肺機能のフィットネスレベルを測定】 最大強度で運動している時にどれだけの酸素を取り込めるかを示すVO2 max（最大酸素摂取量）を把握しましょう。スコアをチェックすることで、時間の経過とともに体力が向上していく様子を確認できます。",
+        "【Fitbit Pay（Suica対応）*】 Fitbitアプリのウォレットに、Suicaやクレジットカード、デビットカードを登録すれば、Charge 6を使って外出先でのお支払いが可能に。カフェや食料品店、駅などで非接触決済ができます。スマートフォンや財布は必要ありません。*非接触型決済に対応する Fitbit デバイスで Google ウォレットをご利用いただけるようになりました。Fitbit Pay は 2025 年 1 月 13 日よりご利用いただけなくなります。Fitbit デバイスで引き続き非接触型決済を利用するためには、Fitbit アプリ（バージョン 4.27 以降）で Google ウォレットを設定します。Suicaは東日本旅客鉄道株式会社の登録商標です。メーカー保証の有無や正規代理店か否かは販売業者へご確認ください。"
+      ],
+      "query": "Fitbit Charge 6",
+      "asin": "B0CJB8RYWK"
+    },
+    {
+      "title": "Shokz (ショックス) OpenRun Pro 2 骨伝導イヤホン ワイヤレスイヤホン オープンイヤー 【DualPitch技術 12時間連続再生 IP55防水防塵 Bluetooth 5.3 EQカスタマイズ 音漏れ防止機能】 耳を塞がない ながら聴き 軽量 マイク付き 自動ペアリング ランニング・スポーツ イヤホン USB-C急速充電 技適認証済み ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D2W63XYY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21h1B8wbvFL._SL500_.jpg",
+      "features": [
+        "デュアルドライバーによる優れたサウンド：Shokz DualPitchを搭載し、オープンイヤーオーディオのルールを書き換えるShokzのまったく新しいフラッグシップヘッドフォン、OpenRun Pro 2が登場。この先進的なテクノロジーは、骨伝導スピーカーと空気伝導スピーカーを見事に組み合わせ、クリアで力強い音質をお届けします。",
+        "周囲が確認できる安全性：Shokzの特徴的なオープンイヤーデザインを採用したOpenRun Pro 2は、周囲の音をしっかりと把握しながら、ワークアウトに集中することができます。音量範囲をインテリジェントに最適化し、外出先でもクリアな音声をお楽しみいただけます。",
+        "最適化されたフィット感：OpenRun Pro 2は、厳しい環境でも安心してご使用いただけるようにデザインされています。人間工学に基づいたイヤーフックと一体型フレームが、ずれることなく安全で快適なフィット感を実現します。圧力を均等に分散する広めの接触面と洗練されたバンド設計により、長時間の使用でも心地よさが持続し、プレイリストのように快適な着け心地が続きます。",
+        "防風マイク：マイクを最適な低風ゾーンに配置し、内部構造によって風の影響を大幅に軽減することで、風の強い状況でも非常にクリアな通信を実現します。",
+        "12時間の再生時間とUSB-C急速充電：1回のフル充電で最大12時間の音楽再生をお楽しみいただけます。5分間の急速充電で2.5時間のリスニングが可能です。USB-Cポートにより、付属のケーブルを使用しても、お持ちのケーブルを使用しても簡単に充電できます。 ご案内：商品の重量は30.3g前後（±0.5g）であり、この範囲内であれば正常な範囲内の製品です。"
+      ],
+      "query": "Shokz OpenRun Pro 2",
+      "asin": "B0D2W63XYY"
+    },
+    {
+      "title": "Anker Soundcore Sport X20 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CRVN23LP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31--8oIyvwL._SL500_.jpg",
+      "features": [
+        "伸縮可能なイヤーフックでぴったりフィット：柔らかい質感のイヤーフックにより、激しい運動中も外れにくく、快適で軽い付け心地を実現。耳に合わせ、イヤーフックの角度や伸縮の調整が可能です。",
+        "スポーツやアウトドアシーンでも安心なIP68の完全防塵・完全防水規格： IP68防塵防水規格とSweatGuardテクノロジーにより、雨や運動時の汗などを気にせず安心してスポーツやアウトドアにご活用いただけます。",
+        "アクティブノイズキャンセリング搭載：トレーニングジムでの使用時に嬉しいノイズキャンセリング機能を搭載。搭載されたマイクが周囲の雑音を低減。外音取り込みにも対応。",
+        "長時間再生・短時間充電：イヤホン本体が満充電の状態で最大12時間、付属の充電ケースを合わせて使えば最大48時間の音楽再生が可能です。また、5分間の充電で約2時間の音楽再生が可能です。",
+        "パッケージ内容：本体、充電ケース、イヤーチップ5種、USB-C & USB-A ケーブル、クイックスタートガイド＆安全マニュアル、技適マーク認証済み商品（周波数帯：2.40～2.48GHz）"
+      ],
+      "query": "Soundcore Sport X20",
+      "asin": "B0CRVN23LP"
+    },
+    {
+      "title": "Jabra Elite 8 Active 完全ワイヤレスイヤホン ダークグレー [国内正規品] ハイブリッドアクティブノイズキャンセリング (ANC) 搭載 IP68 防塵 防水 Dolby Audio 空間サウンド 風切り音抑制ヒアスルー 高性能6マイク通話テクノロジー スポーツ マルチポイント 2台同時接続 Bluetooth 5.3 ジャブラ",
+      "url": "https://www.amazon.co.jp/dp/B0CGDX3F63?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31u0OZxexNL._SL500_.jpg",
+      "features": [
+        "耐久性を検証済み。イヤホンがIP68準拠、充電ケースがIP54準拠の高い防塵防水性能。 加速腐食試験による汗に対する耐久性も検証済み。",
+        "Dolby Audioによる空間サウンド。パワフルな6mmスピーカー搭載で、トレーニング中も立体的で迫力のあるサウンド。",
+        "さらに改良されたJabraシェークグリップテクノロジー。 耳の形にフィットする筐体と、全体をリキッドシリコンラバーでコーティングすることで、激しいトレーニング中もしっかり固定され安定した装着感。",
+        "アダプティブハイブリッドアクティブノイズキャンセリング搭載。 耳内の形状と周囲の状況に合わせて、ANC強度を自動調整。 風切り音抑制ヒアスルーにより、屋外でのジョギングにも。",
+        "ANCオンの状態で最長32時間、オフの状態で最長56時間使用可能(ケース充電と併用)",
+        "FSC認証"
+      ],
+      "query": "Jabra Elite 8 Active Gen 2",
+      "asin": "B0CGDX3F63"
+    },
+    {
+      "title": "JBL ENDURANCE RACE 2 完全ワイヤレスイヤホン 防水・防塵 スポーツモード 急速充電 ノイズキャンセリング 外音取込 マルチポイント対応 軽量 コンパクト スポーツ (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0DJQH79Q7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31u4yrsBouL._SL500_.jpg",
+      "features": [
+        "IP68防水・防塵規格に対応。（充電ケースはIPX2）",
+        "ツイストロック構造やウィング付きエンハンサー、外耳道内のより高い安定性を提供するオーバルシェイプデザインで、確実な装着性と遮音性を得られます。",
+        "アクティブノイズキャンセリング、外音取込機能搭載。",
+        "マルチポイント対応。",
+        "持ち歩きやすい軽量コンパクト設計。"
+      ],
+      "query": "JBL Endurance Race 2",
+      "asin": "B0DJQH79Q7"
+    }
+  ],
+  "all_candidates": []
+}

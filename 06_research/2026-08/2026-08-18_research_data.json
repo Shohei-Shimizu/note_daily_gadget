@@ -1,0 +1,172 @@
+{
+  "date": "2026-08-18",
+  "title": "夏の眠りを快適に。睡眠を計測する「スマートリング」 6 選",
+  "queries": [
+    {
+      "query": "Oura Ring 4 スマートリング",
+      "include": [
+        "Oura Ring"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Samsung Galaxy Ring スマートリング",
+      "include": [
+        "Galaxy Ring"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "COLMI R02 スマートリング",
+      "include": [
+        "COLMI"
+      ],
+      "exclude": [
+        "ケース",
+        "サイズキット"
+      ]
+    },
+    {
+      "query": "Amazfit Helio Ring",
+      "include": [
+        "Helio Ring"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "RingConn Gen 2 スマートリング",
+      "include": [
+        "RingConn"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "SOXAI RING 1 スマートリング",
+      "include": [
+        "SOXAI"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Oura Ring 第4世代 スマートリング – シルバー – サイズ10 |iPhone/Android対応 |まずはサイズ確認:専用サイズキット対応|睡眠・心拍・フィットネスを計測|最長8日間バッテリー持続",
+      "url": "https://www.amazon.co.jp/dp/B0D9WT1S2T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41xwp0ETgrL._SL500_.jpg",
+      "features": [
+        "【 購入前にサイズを測定 】　- Oura Ring第4世代のサイズは一般的なリングサイズとは異なります。ご購入前に専用のサイズキットで計測することで、ぴったりのサイズを見つけることができます。さらに、後日Oura Ringをご購入いただく際に使える1,500円分のAmazonクレジットも付与されます。",
+        "【 抜群の精度 】 - Ouraは睡眠、活動、ストレス、心臓の健康、女性の健康指標を含む20以上の健康指標を追跡します。最先端のセンシング技術によって、ユーザー固有の生理機能に適応し、24時間にわたって精度の高い継続的なデータを提供します。",
+        "【 長持ちバッテリー 】 - 最大8日間のバッテリー寿命、画面なし、振動なしで、Oura Ring 4はマインドフルネスを可能にします。ワークアウトから夜の外出まで、着けていることを忘れて自由でいられます。褒められ始めるまでは。",
+        "【 24時間着用設計 】 - Oura Ring 4の更新されたデザインはより快適で、これまで以上にフィットし、100mの防水性能です。地球上で最も丈夫な素材の一つである航空宇宙グレードのチタンは、敏感肌にも優しいタッチで卓越した耐久性を兼ね備えています。"
+      ],
+      "query": "Oura Ring 4 スマートリング",
+      "asin": "B0D9WT1S2T"
+    },
+    {
+      "title": "Samsung Galaxy Ring -Size 7｜チタニウムゴールド｜スマートリング｜Samsung純正 国内正規品｜Galaxy AI対応｜2025年発売｜バッテリー持続最長7日｜健康管理｜チタンフレーム｜防水・防塵 10ATM+IP68｜SM-Q507NZDAXJP",
+      "url": "https://www.amazon.co.jp/dp/B0DQPB4114?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Bqw2VQIQL._SL500_.jpg",
+      "features": [
+        "Galaxy Ringのサイズは、米国の指輪の標準サイズ（US 5 - US 15）に基づいています",
+        "コンパクトで軽量、高い耐久性を備えたデザイン",
+        "最大7日持続するバッテリーライフ",
+        "ユーザーにパーソナライズされた健康管理"
+      ],
+      "query": "Samsung Galaxy Ring スマートリング",
+      "asin": "B0DQPB4114"
+    },
+    {
+      "title": "スマートリング COLMI R06 健康管理 IP68防水 5ATM フィットネス指輪 多種類運動モード 睡眠記録 歩数計 小型 超軽量 GPS運動記録 メンズ レディース (ゴールド, 10)",
+      "url": "https://www.amazon.co.jp/dp/B0DNVWQWTD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41j1tT9OxGL._SL500_.jpg",
+      "features": [
+        "COLMI スマート リング R06 は、何万回もの CNC 研削と研磨作業を通じて細心の注意を払って作られたステンレススチールのシェルを誇ります。その結果、翡翠のように優しい外輪が生まれ、究極の耐久性と洗練された外観が保証されています。"
+      ],
+      "query": "COLMI R02 スマートリング",
+      "asin": "B0DNVWQWTD"
+    },
+    {
+      "title": "Amazfit Helio Ring スマートリング 軽量 チタン合金 回復分析 健康管理 睡眠 心拍 ストレス 4つのスポーツモード 10 ATM耐水 活動量計 Google Fit/Apple Health/adidas Running連携 (サイズ10（US）・20号（日本）ーリングの内周66mm)",
+      "url": "https://www.amazon.co.jp/dp/B0DJNVNVP2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41UgvIGpN0L._SL500_.jpg",
+      "features": [
+        "【チタン合金ボディ】4g以下の超軽量、厚さわずか2.7mmのスリムデザイン。高級で耐久性のあるチタン合金で作られており、3つのサイズから選択可能です。【10 ATM耐水】最大100mの水圧に耐えることができ、汗や雨に濡れても問題なく使用可能です。",
+        "【スマートウォッチとのデータ統合】Amazfitスマートウォッチを装着して運動し、休息中や睡眠中、または回復状況をトラッキングするときにHelioRingを装着してください。時計とリングを同時に装着する場合でも、一日の中で時計とリングを付け替える場合でも、Zeppアプリで両デバイスからのデータを確認できます。 レディネスなどの主要な回復指標は、時計とリングのデータを統合して、さらに正確なスコアを提供します。",
+        "【包括的な回復分析】毎朝の精神的および肉体的回復に基づいてレディネススコアを取得できます。また、Zeppアプリには回復サマリが表示され、すべての回復データ（レディネス、回復時間、睡眠HRV、睡眠RHR、睡眠スコア）を確認可能です。【精神的／感情的ストレスのモニタリング】Helio Ringに搭載されたEDA（皮膚電気活動）センサーは、皮膚と汗の反応を記録することでストレスを測定します。特に手から出る汗はストレスの重要な指標であり、精密なストレスモニタリングに役立ちます。",
+        "【心拍回復】運動後の3分間の心拍回復を追跡し、安静時の心拍数に戻るまでの時間を確認しましょう。【24時間健康モニタリング】心拍数、ストレスレベルを24時間モニタリング。また、睡眠ステージ、睡眠の質、睡眠呼吸の質、昼寝トラッキングなどの詳細な追跡が可能です。指に装着するため、スマートウォッチよりもデータ読み取りの精度が向上します。",
+        "【4つのスポーツモード搭載】ステップ数、消費カロリー、距離、ペース、ワークアウト中の心拍数などのスポーツデータをリアルタイムで追跡します。ワークアウト後、Appでプロフェッショナルデータ（VO2 Max、回復時間、トレーニング効果、トレーニング負荷など）を表示します。【アプリを連携してシェア】Zeppアプリを通じて、Google Fit/Apple Health/adidas Running/komoot/Strava/Reliveにワークアウトデータを同期させることが可能です。"
+      ],
+      "query": "Amazfit Helio Ring",
+      "asin": "B0DJNVNVP2"
+    },
+    {
+      "title": "RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリー持続最長12日、睡眠・心拍・ストレス・女性の健康管理・フィットネス追跡、Android & iOS対応（シルバー、サイズ10）",
+      "url": "https://www.amazon.co.jp/dp/B0DG2QKMFX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41vtrBOLRIL._SL500_.jpg",
+      "features": [
+        "【購入前にサイズ確認】RingConn Gen 2スマートリングは他社の健康リングとは異なる独自のサイズ基準を採用しています。RingConn Gen 2サイズキットを使用することで、指に最も快適で正確なフィット感を見つけられ、購入前に正しいサイズを選択することで返品や交換の手間を防ぎます",
+        "【サブスクリプション不要】RingConn Gen 2スマートリングをご購入いただくと、RingConnスマートヘルスモニタリングアプリの包括的な機能に永久アクセス可能。継続的でリアルタイムな健康トラッキングとパーソナライズされた分析を体験できます",
+        "[健康モニタリング以上の機能] RingConn Gen 2 スマートリングは、一般的な健康モニタリング機能を超え、アクティビティ、睡眠、心拍、ストレスの追跡だけでなく、OTAアップデートにも対応。継続的な改善と新機能の追加により、あなたのニーズに合わせた進化し続ける体験を提供します",
+        "【あらゆる冒険に対応する防水性能】100mの防水性能を備えたRingConn Gen 2スマートリングは、日常着用、ワークアウト、水泳に最適。敏感肌の方でも快適な耐久性を実現しています",
+        "【長持ちバッテリー】RingConn Gen 2は最大10-12日間のバッテリー駆動時間を実現。サイズにより異なり、大きいサイズ（12-14）は最大12日間。スマート充電ケースと併用で150日を超えます",
+        "【超薄型デザイン】わずか2グラム（サイズにより変動）の画期的な薄型デザイン。これまで以上に薄く、軽く、フィット感も向上。装着感がほとんど気になりません",
+        "【パッケージ内容】RingConn Gen 2スマートリング1、充電ケース1、1m/3.3ft USB-C to USB-Cケーブル1、取扱説明書1、12ヶ月保証、カスタマーサービス"
+      ],
+      "query": "RingConn Gen 2 スマートリング",
+      "asin": "B0DG2QKMFX"
+    },
+    {
+      "title": "SOXAI RING 1.1 日本製スマートリング ソクサイリング 健康管理 睡眠管理 メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (マットシルバー, 16号)",
+      "url": "https://www.amazon.co.jp/dp/B0F59W82K1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Upez2+S3L._SL500_.jpg",
+      "features": [
+        "商品到着後30日以内であれば、返品・交換が可能です（破損や外観に傷がある商品は返品を承れない場合がございます）。キャンセルは発送前に限り可能です。返品・交換・キャンセルに関する具体的な手順や詳細は、Amazonカスタマーサービスにお問い合わせください。",
+        "保証に関して：Amazonにてご購入いただいたSOXAI RING（以下「リング」といいます）およびその付属品には、保証ポリシーが適用されます。詳細は、保証ポリシーをご確認ください。",
+        "幅7.6mm 厚み2.5ｍｍ、重さは2.5g ~ 3.2gで、12,14,16,18,20,22,24,26号の8サイズを展開。5種類のカラーバリエーション（シルバー、マットシルバー、マットブラック、ピンクゴールド、ゴールド）がございます。",
+        "60min～120miniの充電時間で、最大5日～9日間バッテリーが長持ちします。(理論値のため、リングのサイズや利用状況、使用年数により異なります)",
+        "【長時間バッテリー】 60min～120miniの充電時間で、最大5日～9日間バッテリーが長持ちします。(リングサイズや利用状況、使用年数により異なります)",
+        "【動作端末】 ・iOS：Apple iOS 12以降のiOSデバイス ・Android：GooglePlayサービスを搭載したAndroid 6.0以降のAndroidデバイス 　※ご使用の端末はBluetooth 4.0以上に対応している必要があり、2020年以降に発売された機種が対象です。"
+      ],
+      "query": "SOXAI RING 1 スマートリング",
+      "asin": "B0F59W82K1"
+    }
+  ],
+  "all_candidates": []
+}

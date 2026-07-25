@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-03",
+  "title": "写真を AI で補正。夏の思い出を美しくする「編集ソフト」 6 選",
+  "queries": [
+    {
+      "query": "Adobe Photoshop Elements 2026",
+      "include": [
+        "Photoshop Elements"
+      ],
+      "exclude": [
+        "教本"
+      ]
+    },
+    {
+      "query": "Adobe Lightroom 写真編集 ソフト",
+      "include": [
+        "Lightroom"
+      ],
+      "exclude": [
+        "教本"
+      ]
+    },
+    {
+      "query": "CyberLink PhotoDirector 365",
+      "include": [
+        "PhotoDirector"
+      ],
+      "exclude": [
+        "教本"
+      ]
+    },
+    {
+      "query": "SILKYPIX Developer Studio Pro",
+      "include": [
+        "SILKYPIX"
+      ],
+      "exclude": [
+        "教本"
+      ]
+    },
+    {
+      "query": "Luminar Neo 写真編集",
+      "include": [
+        "Luminar"
+      ],
+      "exclude": [
+        "教本"
+      ]
+    },
+    {
+      "query": "Corel PaintShop Pro",
+      "include": [
+        "PaintShop"
+      ],
+      "exclude": [
+        "教本"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "Photoshop Elements 2026 3年版",
+      "url": "https://www.amazon.co.jp/dp/B0FQBXFJYP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31n3KwqdkFL._SL500_.jpg",
+      "features": [
+        "AI と自動化の魔法が背後で機能し、すばらしい写真や今すぐ共有したくなる動画を簡単に作成できます。",
+        "新しい方法で写真を組み合わせてオブジェクトを削除したり、奥行きを追加したり、写真の色を変えたり、タイトテキストのスタイルを設定したり、動画の色を変換したりすることができます。",
+        "数多くのステップバイステップ式ガイド付き編集でスキルを向上させることができます。",
+        "Photoshop Elements 2026とPhotoshop Elements & Premiere Elements 2026バンドル版には、 毎月25の生成クレジットが付属します。",
+        "本製品はテキストから画像生成をすることができます。"
+      ],
+      "query": "Adobe Photoshop Elements 2026",
+      "asin": "B0FQBXFJYP"
+    },
+    {
+      "title": "【Adobe公式】Lightroom 写真画像編集ソフト（最新）| 12ヵ月 | 生成AI Firefly搭載 オンラインコード版 Win / Mac / iPad / アプリ 対応 | 画像 写真",
+      "url": "https://www.amazon.co.jp/dp/B08KJD9QZ3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Ph9Sc9LqL._SL500_.jpg",
+      "features": [
+        "Lightroom(ライトルーム)は、あらゆるデバイスで写真を編集、管理、保存、共有できるソフト・アプリ"
+      ],
+      "query": "Adobe Lightroom 写真編集 ソフト",
+      "asin": "B08KJD9QZ3"
+    },
+    {
+      "title": "PhotoDirector 365 1年版(2026年版) | 画像写真編集ソフト | 基本編集機能 | 写真補正 | AI編集機能 | Windows対応",
+      "url": "https://www.amazon.co.jp/dp/B0FQBY4935?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51DluZvoroL._SL500_.jpg",
+      "features": [
+        "PhotoDirector 365 1年版は、シンプルかつ高機能な写真編集ソフトです。",
+        "写真の管理、補正、切り抜き、合成、レイヤー編集が快適におこなえます。",
+        "最新のAI技術による写真編集が可能です。",
+        "写真を綺麗に仕上げるAI 画像高画質化、AI 画像拡大機能を搭載。生成AI 機能を使えば、思い通りの画像を生成し、画像や写真から動画も生成できます。",
+        "パッケージ版にはフルカラーマニュアルが付属しますので初めて写真編集をされる方にもおすすめです。"
+      ],
+      "query": "CyberLink PhotoDirector 365",
+      "asin": "B0FQBY4935"
+    },
+    {
+      "title": "SILKYPIX Developer Studio Pro11|ダウンロード版",
+      "url": "https://www.amazon.co.jp/dp/B0BBZQL3MK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41L9590BpxL._SL500_.jpg",
+      "features": [
+        "初めて画像調整をおこなう方でも簡単で使いやすい純国産のRAW現像ソフト。写真の取り込みからセレクト、調整、印刷までを強力にサポート"
+      ],
+      "query": "SILKYPIX Developer Studio Pro",
+      "asin": "B0BBZQL3MK"
+    },
+    {
+      "title": "ソースネクスト ｜Luminar Neo (AI機能追加版)（最新版）｜AI搭載の画像編集ソフト ｜ Windows・Mac対応",
+      "url": "https://www.amazon.co.jp/dp/B0D4LZ63F5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41CstSZi8NL._SL500_.jpg",
+      "features": [
+        "こちらの商品は、シリアル番号とダウンロード手順が記載されたものが同梱されております。（商品発送あり）本製品のご利用にはインターネット環境が必要です。",
+        "「Luminar Neo」は、写真を簡単にプロレベルに仕上げられる編集ソフトです。1ライセンスにつき2台のデバイスでご利用可能になります。",
+        "ポイント1：本製品では、最新の生成AIテクノロジーを使用した「ジェネAI」機能が使えます。アクティベートしてから1年間無制限にご利用できます。",
+        "ポイント2：ホコリ除去AIでホコリや汚れを自動的に選択し除去できます。面倒なマスクがけや消去＆クローンスタンプを省け、数回のクリックで取り除けます。都市景観や街並み、旅行写真内に映り込んだ邪魔な要素を自動的に削除できます。",
+        "ポイント3：顔認識テクノロジーで被写体の顔、目、口を選択的にターゲットにし、従来のレタッチテクスチャーやブラシでの長時間作業を短縮できます。独自のAIで、撮影後の写真にリアルな人工太陽光を追加できます。光の強さや色合いを調整できるのはもちろん、例えば木や山などの後ろ側から差し込む光なども、物体を認識して自動でリアルに表現できます。",
+        "対応OS：Macモデル：MacBook、MacBook Air、MacBook Pro、iMac、iMac Pro、Mac Pro、Mac mini（2010年初期以降）",
+        "Windows：10 バージョン1909もしくはそれ以上（64-bit OSのみ）"
+      ],
+      "query": "Luminar Neo 写真編集",
+      "asin": "B0D4LZ63F5"
+    },
+    {
+      "title": "ソースネクスト ｜ PaintShop Pro 2023 Ultimate（最新版） ｜ 写真編集ソフト ｜ Windows対応",
+      "url": "https://www.amazon.co.jp/dp/B0BH8GVRGL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51HbTcOubkL._SL500_.jpg",
+      "features": [
+        "ポイント1：「PaintShop Pro 2023 Ultimate」は、AIを使った写真編集ソフトです。SNSに投稿する写真や、資料に使う画像などの編集におすすめです。上位版の本製品には、次のソフトや素材が搭載、収録されています。",
+        "ポイント2：インパクトのある目立つ写真を、簡単に作成できます。AI技術を用い、簡単なワンクリック修正からプロレベルの細かいレタッチやデザイン制作まで、さまざまなご要望を叶えます。",
+        "ポイント3：テキストやフレームの追加も自在。写真に文字を加えたり、色で塗りつぶしたり、複数のオブジェクトを配置したりするなど。簡単なデザインワークもできます。",
+        "ポイント4：上位版だけの機能として、キャプチャソフト、ペイントソフト、アニメーション作成ソフト、無料フォント50種類、ベストシーン作成機能、水中写真やドローン写真用に設計された「Sea-to-Sky ワークスペース」を搭載しています。",
+        "対応OS：Windows 11（64ビット版）、Windows 10（64ビット版）"
+      ],
+      "query": "Corel PaintShop Pro",
+      "asin": "B0BH8GVRGL"
+    }
+  ],
+  "all_candidates": []
+}

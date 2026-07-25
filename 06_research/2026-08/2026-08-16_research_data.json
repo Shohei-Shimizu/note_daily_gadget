@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-16",
+  "title": "汚れも水洗い OK。防水「スピーカーとキーボード」 6 選",
+  "queries": [
+    {
+      "query": "JBL Flip 7 防水 Bluetooth スピーカー",
+      "include": [
+        "JBL",
+        "Flip"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Soundcore Boom 2 防水 Bluetooth スピーカー",
+      "include": [
+        "Boom 2"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "Sony ULT FIELD 1 防水 スピーカー",
+      "include": [
+        "ULT FIELD"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "バッファロー 防水 キーボード BSKBU520BK",
+      "include": [
+        "防水",
+        "キーボード"
+      ],
+      "exclude": [
+        "カバー"
+      ]
+    },
+    {
+      "query": "エレコム 防水 キーボード",
+      "include": [
+        "防水",
+        "キーボード"
+      ],
+      "exclude": [
+        "カバー"
+      ]
+    },
+    {
+      "query": "サンワサプライ 防水 キーボード",
+      "include": [
+        "防水",
+        "キーボード"
+      ],
+      "exclude": [
+        "カバー"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 6,
+  "fetched_count": 6,
+  "dedup_count": 0,
+  "selected_count": 6,
+  "selected_items": [
+    {
+      "title": "JBL FLIP 7 / ポータブルスピーカー/Bluetooth対応 / IP68 防塵防水/USB-C/アプリ対応/ストラップ・カラビナ付属/AURA CAST マルチスピーカー接続/ファンキーブラック / JBLFLIP7BLKO",
+      "url": "https://www.amazon.co.jp/dp/B0F1MZJTB7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ThZcGS5aL._SL500_.jpg",
+      "features": [
+        "500mlペットボトルと同程度のサイズ感ながら、歌や楽器が明瞭で迫力のある音楽を奏でるパワフルなJBLプロサウンドを実現",
+        "リュックやベルトループに引っかけられるカラビナ・手で引っかけやすいストラップを同梱し、持ち運びにも最適",
+        "IP68 防塵防水&衝撃への耐性を高めたアウトドア利用にも耐えるタフな設計",
+        "USB–C経由でのオーディオ再生やAuracastでのステレオペアリングなど、より音楽を楽しめる機能を搭載",
+        "JBL PORTABLE アプリで自分好みのサウンドにカスタマイズ可能。スピーカー構成：45 x 80mmウーファー + 16mmツイーター"
+      ],
+      "query": "JBL Flip 7 防水 Bluetooth スピーカー",
+      "asin": "B0F1MZJTB7"
+    },
+    {
+      "title": "【第2世代】Anker Soundcore Boom 2 Pro【最大140Wの大迫力サウンドを実現するBluetoothスピーカー】",
+      "url": "https://www.amazon.co.jp/dp/B0DR2PNSBN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/417VUrNME8L._SL500_.jpg",
+      "features": [
+        "最大140Wの大迫力サウンド : 50Wのウーファー2つと20Wのツイーター2つを搭載。合計最大140W (※) の大迫力のあるサウンドを実現。※本体上部のBassUpボタンをオンにすることで最大140Wの出力が可能",
+        "迫力のある重低音 : Anker独自技術BassUp2.0を使用。従来 (※) と比較し、低音域の増強をさらに強化。40Hzの低音域まで再生可能で迫力の重低音を実現。※BassUpとの比較",
+        "IP68最高レベルの防塵・防水規格 : 砂や塵の侵入を防ぐ防塵構造に加えて水深1.5mまで30分程度沈めても操作可能な防水設計。アウトドアやインドアでも粉塵や水濡れを気にせず使用可能。",
+        "最大20時間の長時間再生 : 最大20時間 (※) の連続再生が可能なためダンスレッスンなどのイベントでもバッテリー残量を気にせず使用可能。※再生可能時間は音量や使用環境によって異なります",
+        "様々なシーンで活躍 : 手軽に持ち運びが可能なため友人との集まりやお店でのBGM再生用途など様々なシーンで活躍",
+        "パッケージ内容：Boom 2 Pro、USB-C & USB-C ケーブル、ショルダーストラップ、クイックスタートガイド、安全マニュアル、カスタマーサポート",
+        "※製品の仕様またはパッケージは予告なく変更されることがありますので、予めご了承ください。"
+      ],
+      "query": "Soundcore Boom 2 防水 Bluetooth スピーカー",
+      "asin": "B0DR2PNSBN"
+    },
+    {
+      "title": "ソニー(SONY) ワイヤレススピーカー SRS-ULT10 :防水 IP67/ ULT FIELD 1/パワフル重低音/ロングバッテリー 12時間/ SRS-ULT10 BCブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D13TBD9B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41mGRkuDslL._SL500_.jpg",
+      "features": [
+        "パワフルでクリアなサウンド",
+        "「ULTボタン」による豊かな低域とパワフルな音体験",
+        "防水・防じん・防錆、ショックプルーフ",
+        "約12時間再生可能なバッテリーを搭載",
+        "タテ・ヨコ置ける本体デザイン。マルチウェイストラップ付き"
+      ],
+      "query": "Sony ULT FIELD 1 防水 スピーカー",
+      "asin": "B0D13TBD9B"
+    },
+    {
+      "title": "バッファロー（サプライ） 有線フルキーボード 防水防塵抗菌仕様 ブラック BSKBU520BK top1-ds-2340957 [独自簡易包装]",
+      "url": "https://www.amazon.co.jp/dp/B0DRTHSFFS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41wqZ+1MUqL._SL500_.jpg",
+      "features": [
+        "下部の「商品の説明」(PC)や、「その他の詳細」(スマホ）にて仕様をご確認いただけます。",
+        "★商品によっては商品画像に色（カラー）違い・サイズ違い等が掲載していることもありますので、商品名をご確認の上、ご注文をお願い致します。",
+        "商品名 バッファロー（サプライ） 有線フルキーボード 防水防塵抗菌仕様 ブラック BSKBU520BK",
+        "★予告なくメーカーが商品仕様やパッケージ変更等をする場合もございます。",
+        "AV・デジモノ>パソコン・周辺機器>キーボード・テンキー"
+      ],
+      "query": "バッファロー 防水 キーボード BSKBU520BK",
+      "asin": "B0DRTHSFFS"
+    },
+    {
+      "title": "エレコム 洗える ワイヤレスキーボード 防水 IPX5対応 メンブレン フルサイズ テンキー付 抗菌 ブラック TK-WS02DMKBK",
+      "url": "https://www.amazon.co.jp/dp/B09X6Q2N9B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/410IuhSl2sL._SL500_.jpg",
+      "features": [
+        "キーの隙間にたまったホコリを、丸洗いで簡単に除去可能。不意の水濡れでも心配ない、防水タイプのワイヤレスキーボードです。",
+        "IPX5対応の防水設計で水洗いが可能なため、キーボード本体を清潔に保てます。",
+        "キートップを浮かせた“アイランドタイプ\"のデザインを採用。トップケースの凸凹が少ないフラットな設計により、水が溜まりにくく排出もしやすいため、お手入れが簡単です。",
+        "風が通りやすい設計のため、エアダスターでの掃除にも適しています。",
+        "誤って飲み物などの液体をキーボードにこぼしても、本体裏面の水抜き穴からすぐに排出できる“排水機構\"を搭載しています。"
+      ],
+      "query": "エレコム 防水 キーボード",
+      "asin": "B09X6Q2N9B"
+    },
+    {
+      "title": "サンワサプライ キーボード 有線USB接続 抗菌・防水・防塵タイプ 日本語109キー ブラック SKB-BS6BK",
+      "url": "https://www.amazon.co.jp/dp/B09HZGL6N3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41PLNSY15aL._SL500_.jpg",
+      "features": [
+        "使いやすさにこだわった標準日本語配列のスタンダードキーボードです",
+        "キーボードの材質に抗菌剤を練り込んだJIS Z2801準拠の抗菌仕様です。",
+        "抗菌作用で大腸菌や黄色ブドウ球菌の繁殖を抑えます。",
+        "IP55をクリアした防水防塵設計でキーボードの丸洗いが可能です。",
+        "文字の耐久性に優れたレーザー印刷を採用しています。"
+      ],
+      "query": "サンワサプライ 防水 キーボード",
+      "asin": "B09HZGL6N3"
+    }
+  ],
+  "all_candidates": []
+}

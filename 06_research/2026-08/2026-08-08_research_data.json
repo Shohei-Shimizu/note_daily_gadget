@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-08",
+  "title": "カフェ作業の必需品。覗き見を防ぐ「プライバシー幕」 5 選",
+  "queries": [
+    {
+      "query": "キングジム デスク用 パーソナルパーティション 8020",
+      "include": [
+        "パーティション"
+      ],
+      "exclude": [
+        "交換"
+      ]
+    },
+    {
+      "query": "コクヨ ワークブース デスク パーティション",
+      "include": [
+        "パーティション"
+      ],
+      "exclude": [
+        "交換"
+      ]
+    },
+    {
+      "query": "ELECOM のぞき見防止 フィルター 14インチ",
+      "include": [
+        "のぞき見防止"
+      ],
+      "exclude": [
+        "スマホ"
+      ]
+    },
+    {
+      "query": "3M プライバシーフィルター 14インチ",
+      "include": [
+        "プライバシーフィルター"
+      ],
+      "exclude": [
+        "スマホ"
+      ]
+    },
+    {
+      "query": "Belkin プライバシーフィルター MacBook",
+      "include": [
+        "プライバシー"
+      ],
+      "exclude": [
+        "スマホ"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 5,
+  "fetched_count": 5,
+  "dedup_count": 0,
+  "selected_count": 5,
+  "selected_items": [
+    {
+      "title": "キングジム デスク用 パーソナルパーティション 折りたたみタイプ ライトグレー 8020-LG",
+      "url": "https://www.amazon.co.jp/dp/B08HVNSQNK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31+K1pP+ZQL._SL500_.jpg",
+      "features": [
+        "外形寸法:約1,092(W)×450(H)×3(D)mm ※最大寸法",
+        "外形寸法:約220(W)×450(H)×30(D)mm ※折りたたみ時",
+        "【本体色】ライトグレー",
+        "ハイタイプ(しっかり目線をさえぎる! )",
+        "置くだけ簡単! たたんで収納! パーソナルパーテーション",
+        "軽くて丈夫な発砲PPを採用。"
+      ],
+      "query": "キングジム デスク用 パーソナルパーティション 8020",
+      "asin": "B08HVNSQNK"
+    },
+    {
+      "title": "サンワサプライ 卓上パーティションブース SPT-DPB6060",
+      "url": "https://www.amazon.co.jp/dp/B08WZB1LLW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41VV8xoDwKL._SL500_.jpg",
+      "features": [
+        "デスクの上に広げて置くだけで、簡易的なブースを作ることができます。",
+        "コの字で仕切れるので、自分だけの空間が確保でき、落ち着いて仕事ができます。",
+        "フリーアドレスデスクの仕切りや、在宅ワーク時などの集中力アップに最適です。",
+        "透け感がなく、柔らかい雰囲気のフェルトパーティションです。",
+        "吸音効果のあるパネルなので、周囲の目線だけでなく物音も遮ることができます。"
+      ],
+      "query": "コクヨ ワークブース デスク パーティション",
+      "asin": "B08WZB1LLW"
+    },
+    {
+      "title": "エレコム プライバシーフィルター 14インチワイド のぞき見防止 プライバシーフィルター 着脱カンタン吸着タイプ タッチパネル対応 EF-PFNS14W",
+      "url": "https://www.amazon.co.jp/dp/B082LR2LY2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31n3F-LZFzL._SL500_.jpg",
+      "features": [
+        "周りからののぞき見から画面を守る、タッチパネルにも対応した吸着タイプののぞき見防止フィルターです。",
+        "画面に吸着してフィルターを固定でき、取り外しも簡単にできる素材“ナノサクション\"を採用しています。",
+        "金属やマグネット、粘着素材を使用していないので、端末に影響なくお使いいただける仕様です。",
+        "画面の正面を中心に60°(左右約30°)より外の角度からは画面がまっ黒に見えるので、パソコン画面を見られる心配がありません。",
+        "LED液晶ディスプレイが発する光の中の青い部分「ブルーライト」も約42%カットします。"
+      ],
+      "query": "ELECOM のぞき見防止 フィルター 14インチ",
+      "asin": "B082LR2LY2"
+    },
+    {
+      "title": "3M ブライトスクリーンプライバシーフィルター 14インチノートパソコン用 16:10 BP140W1B",
+      "url": "https://www.amazon.co.jp/dp/B0C3WTY4VM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41mt9Y15XCL._SL500_.jpg",
+      "features": [
+        "デバイスの輝度を85%伝送できる独自の技術で驚くほど鮮明な画面表示を可能にします。",
+        "平均で25%以上の明るさがあります。",
+        "Nanolouver テクノロジーは、優れた視覚体験、プライバシーの完璧なバランス、卓越した明るさと明瞭さを実現します。",
+        "視野角60度。",
+        "タッチ対応。"
+      ],
+      "query": "3M プライバシーフィルター 14インチ",
+      "asin": "B0C3WTY4VM"
+    },
+    {
+      "title": "Belkin Apple MacBook Pro 14 プライバシー保護フィルム のぞき見防止 何度でも取り付け・取り外し可能なシリコン接着 簡単取り付け 極薄 アンチグレア(映り込み低減) OVA152zz",
+      "url": "https://www.amazon.co.jp/dp/B0D14CVH6V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31+wH6M-wbL._SL500_.jpg",
+      "features": [
+        "BelkinのMacBook Air 14のプライバシー保護フィルム。",
+        "【覗き見防止】左右30°の角度からは見えない見えない設計。正面からはクリアなまま",
+        "【アンチグレア加工】屋外やオフィスなど明るい場所でも画面が見やすいようにアンチグレア加工が施されています",
+        "【洗って繰り返し使える】シリコン素材が画面にぴったり吸着。フィルム部分は取り外しが簡単で水洗いに対応。使っていない間は付属のトレイでフィルムを保管することも"
+      ],
+      "query": "Belkin プライバシーフィルター MacBook",
+      "asin": "B0D14CVH6V"
+    }
+  ],
+  "all_candidates": []
+}

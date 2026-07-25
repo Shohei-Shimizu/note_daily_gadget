@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-20",
+  "title": "GoPro を使い倒す。マウントと「必須アクセサリー」 7 選",
+  "queries": [
+    {
+      "query": "GoPro Enduro バッテリー HERO13",
+      "include": [
+        "Enduro"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "GoPro 3-Way 2.0",
+      "include": [
+        "3-Way"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "GoPro チェストマウント ハーネス",
+      "include": [
+        "チェスト"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "GoPro Handler Floating Hand Grip",
+      "include": [
+        "Handler"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "GoPro Media Mod HERO13",
+      "include": [
+        "Media Mod"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "TELESIN ネックレス式マウント GoPro",
+      "include": [
+        "ネックレス"
+      ],
+      "exclude": [
+        "ケース"
+      ]
+    },
+    {
+      "query": "SanDisk Extreme PRO microSDXC 256GB",
+      "include": [
+        "Extreme PRO",
+        "256GB"
+      ],
+      "exclude": [
+        "リーダー"
+      ]
+    }
+  ],
+  "selection_policy": {
+    "default_tiers": {
+      "tier1": "review_count >= 500 and star_rating >= 4.0",
+      "tier2": "review_count >= 100 and star_rating >= 3.5",
+      "tier3": "review_count >= 30 and star_rating >= 3.0"
+    },
+    "applied_tier": "fallback",
+    "fallback_applied": true,
+    "fallback_reason": "レビュー情報をCreators APIから安定取得できないため、Creators API検索上位 + 除外ワード + テーマ適合で選定",
+    "fallback_policy": "Creators API検索上位・除外ワード排除・メーカー重複制限（特集テーマ除く）・URL/ASIN一致検証"
+  },
+  "search_execution": {
+    "script": "05_script/run_research_august.py via 05_script/search_amazon_creators.py (Amazon Creators API)",
+    "partner_tag": "daily-gadget-22",
+    "status": "success",
+    "errors": []
+  },
+  "target_count": 7,
+  "fetched_count": 7,
+  "dedup_count": 0,
+  "selected_count": 7,
+  "selected_items": [
+    {
+      "title": "【GoPro公式】Enduro バッテリー HERO13 Black用 | AEBAT-001 [国内正規品]",
+      "url": "https://www.amazon.co.jp/dp/B0DCXF7WHT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31l8JlHgx3L._SL500_.jpg",
+      "features": [
+        "進化した1900mAhリチウムイオンバッテリー。HERO13 Blackに付属するバッテリーの交換用または予備として使用可能",
+        "-10°Cの低温環境にも対応"
+      ],
+      "query": "GoPro Enduro バッテリー HERO13",
+      "asin": "B0DCXF7WHT"
+    },
+    {
+      "title": "GoPro 公式アクセサリー 3-Way 2.0 三脚スタンド 自撮り棒 マウント (AFAEM-J02)",
+      "url": "https://www.amazon.co.jp/dp/B09DCT16DK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/310rY0XFgqL._SL500_.jpg",
+      "features": [
+        "マウントの位置はそのままに、カメラの角度だけを変えられるボールジョイント内蔵",
+        "タイムラプスショットや集合写真などの撮影時に、内蔵の三脚をすばやく広げてカメラを固定",
+        "人間工学に基づいたエルゴノミックデザインにより、1日中でも快適に使用できるグリップ",
+        "折り畳み式の延長アームは自撮り、追い撮り映像の撮影のほか、アクションをより間近で捉えたい場合に最適",
+        "パーツを紛失することがなくなるキャプティブハードウェア",
+        "GoProの標準マウントベースにより、マウント間のカメラの取り替えが簡単",
+        "水中、水上でも使用できる防水構造",
+        "最大延長時49.53cm、折り畳み時20.32cm"
+      ],
+      "query": "GoPro 3-Way 2.0",
+      "asin": "B09DCT16DK"
+    },
+    {
+      "title": "Amazonベーシック カメラアクセサリー GoPro用 チェストマウントハーネス ブラック",
+      "url": "https://www.amazon.co.jp/dp/B01D3I8A7A?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41YNBcklQpL._SL500_.jpg",
+      "features": [
+        "GoPro HERO5 Black、HERO5 Session、HERO4 Black、HERO4 Silver、HERO Sessionなど、あらゆるGoProカメラに対応。",
+        "成人用の各種サイズに幅広く調節可能。",
+        "クイックリリースGoProカメラを胸元に取り付けられます。",
+        "スリリングなアウトドア・アドベンチャーのダイナミックな映像を撮影可能。ヘルメット用カメラマウントの代わりに使えます。",
+        "スキー、スノーボード、マウンテンバイク、サイクリング、カヤック、ラフティングなどのアクティビティーに最適です。"
+      ],
+      "query": "GoPro チェストマウント ハーネス",
+      "asin": "B01D3I8A7A"
+    },
+    {
+      "title": "Homeet Handler Floating Hand Grip for GoPro, Underwater GoPro Hand Stick Monopod Pole Compatible with GoPro Hero 11/10/9/8/7/6/5/4, DJI OSMO Action Cameras and Other Sports Camera, Blue",
+      "url": "https://www.amazon.co.jp/dp/B0742DDL57?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41JDPp6uJyL._SL500_.jpg",
+      "features": [
+        "テクスチャード加工のEVAノンスリップグリップハンドルは、濡れた状態の可能性を考慮したポールの構成で、しっかりと保持するように設計されています。 高品質の滑り止めフォームハンドルにより、しっかりとしたグリップと快適性が向上します。 ラバーグリップと違い、ポールのハンドルは太陽の下でべたつきません。 カメラスタビライザーとして使用すると、グリップが照準を容易にし、より安定性とコントロール性を備えたさまざまな角度をキャプチャできます。",
+        "ハンドルに浮かぶボディデザインにより、カメラが水面に留まり、溺れるのを防ぎます。 ハンドルの下部にある明るいオレンジ色のカップは、視認性を高め、水中で簡単に見つけたり取り出したりできます。 この製品は、深海ダイビング、シュノーケリング、スキューバダイビング、水泳、サーフィン、その他のウォータースポーツ活動中の写真撮影に最適です。",
+        "グリップの防水コンパートメントは、2つの主な機能に使用できます。1つは、貴重な小物を収納するソリューションとして、雨や風から保護することです。2つ目は、スキューバダイビング、シュノーケリング、その他の水中アクティビティ中にニュートラルなフローティングポールを実現します。 水の浸入を防ぐため、ハンドルを締めるように注意してください。",
+        "このポケットサイズのポータブルで軽量なフロートポールは、陸上や水上での使用向けに設計されています。 ハンドグリップは高さ18cm、重さは76グラム未満で、他のマウントアクセサリーは必要ありません。 マウントは180度傾き、撮影の可能性を高めます。 このコンパクトで軽量なフローティングバーは、標準的な保護ケースが付属していれば、すべてのブランドのスポーツカメラと完全に互換性があります。",
+        "当社はお客様の期待に応える製品とサービスを提供することに尽力しています。 当社の製品の使用についてご質問や懸念がある場合は、お気軽にお問い合わせください。 写真のカメラはキットに含まれていませんのでご注意ください。"
+      ],
+      "query": "GoPro Handler Floating Hand Grip",
+      "asin": "B0742DDL57"
+    },
+    {
+      "title": "互換性がありますGoPro HERO13/12/11/10/9対応 - メディアモジュラーアクセサリー(Media Mod)",
+      "url": "https://www.amazon.co.jp/dp/B0FNX5LG2D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31HfB343A6L._SL500_.jpg",
+      "features": [
+        "強化されたオーディオ品質 - 風切り音を低減する内蔵指向性マイクでクリアなサウンドを実現",
+        "デュアルコールドシューマウント - 防水性を維持しながら、ライト、マイク、LCDスクリーンを安全に取り付けます。",
+        "接続性の向上 - 充電/ライブストリーミング用のUSB-CおよびHDMIポートを搭載",
+        "洗練された薄型デザイン – かさばることなくプロフェッショナルな機能を追加（重量はわずか 83g）",
+        "ツール不要の取り付け - シンプルなスナップオン式アタッチメントでHERO9～13モデルに対応"
+      ],
+      "query": "GoPro Media Mod HERO13",
+      "asin": "B0FNX5LG2D"
+    },
+    {
+      "title": "TELESIN ネックレス式マウント Gopro 用 MAXバージョン 磁気式 スマホホルダー付き スマホ対応 Gopro hero 11 10 9 8 7 6 max Insta360 One R X2 RS DJI Action 2 Osmo Pocket 2 iPhone Huawei Samsungに対応 アクション カメラ 用 アクセサリー",
+      "url": "https://www.amazon.co.jp/dp/B0BR38N4RL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41caPooOaCL._SL500_.jpg",
+      "features": [
+        "【マルチPOV角度調整可能】水平・垂直撮影だけでなく、アクションカメラやスマホを胸の中心位置に固定することもできます。",
+        "【互換性】GoPro Max Hero 11 Hero 10 Hero 9 Hero 8 Hero 7 Hero 6 Hero 5 Black Hero 4 3+Fusion Session、DJI Osmo Action 2 Pocket 2、Insta 360 One R One X 2 Go 2、およびDragon Touch/APEMAN/Crosstour/XiaoYi/Apexcam/VEMONT/AKAIRIOなどのウェアラブルカメラに対応しています。iOS iPhone 13 Plus Max iPhone 13 iPhone 12 iPhone 11 XR Samsung S10/S9 Androidなど、さまざまなスマートフォンにも対応しています。",
+        "【梱包内容】このキットには、マグネットネックレス1個、スマホホルダー1個、ネジなどのほかの小さな部品が含まれています。ご注意：この製品はMAXバージョンで、首掛けの周長は普通バージョンより長いです。",
+        "【使用方法】カメラをマウントアダプターに取り付け、マウントアダプターを磁力でネックレス式マウントに吸着して回転させて固定すれば使用できます。",
+        "【優れた材質】内部はステンレス製で、形状を調整することができるとともに、変形、割れ、破損の心配もありません。外部はシリカゲル素材で作られており、触ってみると柔らかくて快適です。"
+      ],
+      "query": "TELESIN ネックレス式マウント GoPro",
+      "asin": "B0BR38N4RL"
+    },
+    {
+      "title": "microSDXC 256GB SanDisk Extreme PRO SDSQXCD-256G-GN6MA R:200MB/s W: 140MB/s UHS-I U3 V30 4K Ultra HD A2 Compatible with SD Adapter Included [並行輸入品]",
+      "url": "https://www.amazon.co.jp/dp/B0BSDB1TQS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Dr0-+9KnL._SL500_.jpg",
+      "features": [],
+      "query": "SanDisk Extreme PRO microSDXC 256GB",
+      "asin": "B0BSDB1TQS"
+    }
+  ],
+  "all_candidates": []
+}
