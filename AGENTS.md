@@ -14,7 +14,7 @@
 
 - Codex は **記事本文の新規執筆・大量生成を行わない**。
 - `02_article/YYYY-MM/` に新規 Markdown 記事を作成してよいのは、ユーザーが明示的に「Codexが記事本文を書いてよい」と指示した場合のみ。
-- `note-daily-gadget-write-article` スキルは、Codexにとっては **執筆後の監査基準を読むための参照資料** として扱う。通常運用では、このスキルを根拠に記事本文を生成してはならない。
+- 親ワークスペース共通スキル `note-write-article`（`/note-write-article daily_gadget <date>`）は、Codexにとっては **執筆後の監査基準を読むための参照資料** として扱う。通常運用では、このスキルを根拠に記事本文を生成してはならない。
 - Codex が実行してよい記事関連作業は、原則として以下に限定する。
   - リサーチJSONの作成・監査
   - サムネイル生成
@@ -26,12 +26,12 @@
 ### Phase 1: 記事データのリサーチと準備 (Research)
 
 1.  `03_schedule/schedule_2026.md` から、本日または指定日の投稿予定タイトルを取得します。
-2.  `.agent/rules/note-researcher.md` の選定基準・検索ルールに従い、`05_script/search_amazon_products.py`（または関連スクリプト）を用いてAmazon PA-APIから商品情報を検索・取得します。
+2.  `06_research/RESEARCH_GUIDE.md`（`../../../shared/docs/research-guide-core.md` + `.agent/rules/note-researcher.md` + `PROFILE.md`）の選定基準・検索ルールに従い、親ワークスペースルートから `python3 shared/scripts/search_custom_list.py --account daily_gadget` （または `shared/scripts/search_amazon_creators.py --account daily_gadget`）を用いてAmazonから商品情報を検索・取得します。
     -   条件を満たす商品のみを厳選します。
     -   指定数（〇選等）に満たない場合は、スケジュール側のタイトルを変更します。
 3.  取得した結果（JSON形式等）を、ライター（Claude Code）が参照できるように **`06_research/YYYY-MM/`** ディレクトリへ保存します。
 4.  保存前に、**商品URL監査（必須）** を実施します。
-    -   URLは必ず `https://www.amazon.co.jp/dp/<ASIN>?tag=daily-gadget-22&linkCode=osi...` の形式に統一。
+    -   URLは必ず `https://www.amazon.co.jp/dp/<ASIN>?tag=<accounts/daily_gadget/account.json の amazon.partner_tag>&linkCode=osi...` の形式に統一（値は `account.json` が唯一の正。直書きしない）。
     -   `selected_items[*].asin` を必須項目として保持し、URL中のASINと一致することを確認。
     -   URLは手入力・推測で作らず、必ず API レスポンスの `detail_page_url` か検証済みURLのみ使用。
     -   不一致が1件でもあれば保存しない。修正後に再監査してから保存する。
@@ -39,7 +39,7 @@
 ### Phase 3: 品質監査と最終処理 (Audit & Finalize)
 
 1.  Claude Codeが執筆した `02_article/YYYY-MM/` 内の記事Markdownを検証します。
-2.  `.agent/rules/note-writer.md` の「Core Principles（執筆原則）」「禁止事項」「島フォーマット」を満たしているかチェックします。
+2.  親ワークスペースの `.claude/skills/note-write-article/SKILL.md` と `shared/docs/article-quality-checklist.md`、およびこのリポジトリの `PROFILE.md` の「Core Principles（執筆原則）」「禁止事項」「島フォーマット」を満たしているかチェックします。
     -   問題（例：「〜ですよ」「〜できますよ」の存在、段落内改行、不要な商品名の再記述等）があれば、**即座に直接修正・リライト（Self-Correction）** して上書き保存します。
 3.  最終確認後、以下の処理を完了させます。
     -   `03_schedule/schedule_2026.md` の対象記事を `~~タイトル~~` と打ち消し線で処理。

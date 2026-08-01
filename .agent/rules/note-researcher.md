@@ -16,7 +16,7 @@ description: 記事構成のためのAmazon PA-API商品リサーチ・選定ル
 
 ## Phase 1: 商品選定（リサーチ）の基準
 
-`05_script/search_amazon_products.py`（または関連スクリプト）で取得した一連の検索結果から、以下の基準で商品を選定します。
+親ワークスペースのルートから `python3 shared/scripts/search_custom_list.py --account daily_gadget`（または `shared/scripts/search_amazon_creators.py --account daily_gadget`）で取得した一連の検索結果から、以下の基準で商品を選定します。
 
 ### 選定基準（優先順位順）
 

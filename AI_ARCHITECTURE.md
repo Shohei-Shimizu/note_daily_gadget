@@ -13,7 +13,7 @@
 2.  **Claude Code - Worker / Writer**
     *   **役割**: 専属の「記事執筆者・ライター」
     *   **責務**: 大量のテキスト生成、複雑な機能実装（執筆・リライトメイン）
-    *   **参照元**: `CLAUDE.md` および `.agent/rules/note-writer.md`
+    *   **参照元**: `CLAUDE.md`、親ワークスペースの `.claude/skills/note-write-article/SKILL.md`、`PROFILE.md`
     *   **制限事項**: 自身で商品選定やリサーチ（スクリプト実行）は行わず、**提供済みのデータ（`06_research` フォルダの内容）に基づき**執筆に専念する。
 3.  **Codex (Cursor) - Supervisor / Researcher & Checker**
     *   **役割**: 商品リサーチ（スクリプト実行）、および記事の品質監査（最終チェック・修正）
@@ -29,19 +29,19 @@
 ### Phase 1: リサーチ & データ準備 (担当: Codex)
 1.  **スケジュール確認**: `03_schedule/schedule_2026.md` から本日または指定日の執筆予定タイトル・テーマを読み取る。
 2.  **商品リサーチ（PA-API連携）**: 
-    *   `.agent/rules/note-researcher.md` に定義された**検索・選定基準（レビュー数、星評価、ブランドの重複制限など）**に基づき、`05_script/search_amazon_products.py`（または関連スクリプト）を実行。
+    *   `06_research/RESEARCH_GUIDE.md`（`shared/docs/research-guide-core.md` + `.agent/rules/note-researcher.md`）に定義された**検索・選定基準（レビュー数、星評価、ブランドの重複制限など）**に基づき、親ワークスペースルートから `shared/scripts/search_custom_list.py --account daily_gadget`（または `shared/scripts/search_amazon_creators.py --account daily_gadget`）を実行。
     *   取得した検索結果から、テーマや「〇選」の数に合致するよう商品リストを決定する。
     *   ※選定基準に満たない場合は、指定数を減らしてスケジュール側のタイトルも変更（`~~`打ち消し等）する。
 3.  **結果保存**: 決定した商品データを所定のJSON形式（または中間ファイル）にまとめ、**`06_research/YYYY-MM/` ディレクトリに保存する**（ファイル名例: `2026-03-01_research_data.json`）。
 
 ### Phase 2: 記事執筆 (担当: Claude Code)
 1.  **データ読み込み**: Codexが準備した `06_research/YYYY-MM/` 内の該当リサーチデータを自動で読み込む。
-2.  **執筆実行**: `.agent/rules/note-writer.md` に規定された厳格なフォーマット（「島」形式、改行禁止ルール等）で原稿を作成する。
+2.  **執筆実行**: 親ワークスペースの `.claude/skills/note-write-article/SKILL.md` と `PROFILE.md` に規定された厳格なフォーマット（「島」形式、改行禁止ルール等）で原稿を作成する。
     *   ※Claude Codeは検索スクリプトを回さず、すでにあるJSONを使うこと。
 3.  **ドラフト保存**: 完成した原稿をMarkdown形式で `02_article/YYYY-MM/` 配下に保存する。
 
 ### Phase 3: 品質監査 & メタデータ更新 (担当: Codex)
-1.  **記事レビュー**: Claude Codeが作成した `02_article/YYYY-MM/` 側のMarkdownファイルを読み込み、`.agent/rules/note-writer.md` の禁止事項やトーン規定に違反していないかチェックする。
+1.  **記事レビュー**: Claude Codeが作成した `02_article/YYYY-MM/` 側のMarkdownファイルを読み込み、親ワークスペースの `.claude/skills/note-write-article/SKILL.md` と `PROFILE.md` の禁止事項やトーン規定に違反していないかチェックする。
     *   例: 「〜ですよ」という表現がないか？ 不要な商品名行が入っていないか？
 2.  **自動修正**: 逸脱があれば即座に修正（Rewrite）して保存する。
 3.  **完了処理**:
@@ -56,7 +56,7 @@
 | :--- | :--- | :--- | :--- |
 | `02_article/` | 出力先 | Claude Code (Write) / Codex (Check) | 執筆後の最終記事Markdown。 |
 | `03_schedule/` | 入力元 | Codex / Claude Code | 投稿スケジュールと仮タイトル。 |
-| `05_script/` | ツール | Codex (主に実行) | PA-APIを叩くPythonスクリプト群。 |
+| `05_script/` | ツール | Codex (主に実行) | 旧アカウント専用スクリプト置き場。現行の共通スクリプトは親ワークスペースの `shared/scripts/` に移行済み（`--account daily_gadget` で実行）。`legacy/` は過去の一回性バッチ。 |
 | `06_research/` | 中間 | Codex (Write) / Claude (Read) | Phase1でリサーチし確定させた商品データ(JSON等)置き場。 |
 | `AGENTS.md` | 設定 | Codex | Codex（リサーチャー兼監査役）のアイデンティティと責務定義。 |
 | `CLAUDE.md` | 設定 | Claude Code | 執筆特化ライターとしての責務定義。 |
