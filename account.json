@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "account_id": "daily_gadget",
+  "display_name": "毎日ガジェット通信",
+  "note": {
+    "username": "daily_gadget",
+    "url": "https://note.com/daily_gadget/"
+  },
+  "amazon": {
+    "partner_tag": "daily-gadget-22"
+  },
+  "profile_file": "PROFILE.md",
+  "categories": [
+    {
+      "name": "🏠 デスク環境を整える",
+      "magazine_url": "https://amzn.to/4tfeXyT"
+    },
+    {
+      "name": "🎧 音響・映像クリエイター向け",
+      "magazine_url": "https://amzn.to/42HITJ4"
+    },
+    {
+      "name": "🎒 モバイル・外出作業グッズ",
+      "magazine_url": "https://amzn.to/4cPpADI"
+    },
+    {
+      "name": "🏡 スマートホーム・生活改善",
+      "magazine_url": "https://www.amazon.co.jp/shop/zanetti/list/3PE57JTNNDNGZ"
+    },
+    {
+      "name": "🤖 AI・生産性ツール",
+      "magazine_url": "https://amzn.to/4tdkjuu"
+    }
+  ]
+}
