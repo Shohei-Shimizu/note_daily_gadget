@@ -17,7 +17,7 @@ note向けガジェット紹介記事をAIで効率的に生成・管理する�
 - `PROFILE.md`: ペルソナ・文体・CTA・カテゴリ・選定基準・禁止事項（アカウント固有）。
 - `account.json`: note情報・Amazonパートナータグ・カテゴリ一覧（唯一の正）。
 - `.agent/rules/`: 各工程でAIが参照する補助指示書。
-    - `note-researcher.md`: リサーチ選定基準（Codex向け）。
+    - `note-researcher.md`: リサーチの3段階フロー実行手順（Codex向け）。選定基準の数値そのものは親ワークスペースの `shared/docs/research-guide-core.md` に一元管理。
     - `article-title-fix.md`: 読まれるタイトルの生成ルール。
 - `.agent/skills/generete-thumbnail/`: Codex imagegenによるサムネイル画像の生成指示。
 - `.docs/`: プロジェクトの基盤ドキュメント。
