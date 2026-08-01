@@ -25,16 +25,28 @@
 
 ### Phase 1: 記事データのリサーチと準備 (Research)
 
-1.  `03_schedule/schedule_2026.md` から、本日または指定日の投稿予定タイトルを取得します。
-2.  `06_research/RESEARCH_GUIDE.md`（`../../../shared/docs/research-guide-core.md` + `.agent/rules/note-researcher.md` + `PROFILE.md`）の選定基準・検索ルールに従い、親ワークスペースルートから `python3 shared/scripts/search_custom_list.py --account daily_gadget` （または `shared/scripts/search_amazon_creators.py --account daily_gadget`）を用いてAmazonから商品情報を検索・取得します。
-    -   条件を満たす商品のみを厳選します。
-    -   指定数（〇選等）に満たない場合は、スケジュール側のタイトルを変更します。
-3.  取得した結果（JSON形式等）を、ライター（Claude Code）が参照できるように **`06_research/YYYY-MM/`** ディレクトリへ保存します。
-4.  保存前に、**商品URL監査（必須）** を実施します。
-    -   URLは必ず `https://www.amazon.co.jp/dp/<ASIN>?tag=<accounts/daily_gadget/account.json の amazon.partner_tag>&linkCode=osi...` の形式に統一（値は `account.json` が唯一の正。直書きしない）。
-    -   `selected_items[*].asin` を必須項目として保持し、URL中のASINと一致することを確認。
-    -   URLは手入力・推測で作らず、必ず API レスポンスの `detail_page_url` か検証済みURLのみ使用。
-    -   不一致が1件でもあれば保存しない。修正後に再監査してから保存する。
+`06_research/RESEARCH_GUIDE.md`（`../../../shared/docs/research-guide-core.md` + `PROFILE.md`）に定義された **3段階フロー** に従う。人間もCodex自身も商品の選定・順序・件数の判断には介入しない（スクリプトが機械的に決定する）。
+
+1.  `03_schedule/schedule_2026.md` から、本日または指定日の投稿予定タイトルを取得する。
+2.  **Stage 1 候補収集**: 親ワークスペースルートから `search_amazon_creators.py --mode pool` を実行し、候補プールJSONを取得する。
+    -   クエリは**ジャンル・用途キーワードで書く**（例:「モバイルバッテリー 軽量 大容量」）。**商品名の直指定は禁止**（例:「Anker PowerCore 10000」のような書き方は候補が1件しか返らず、後続の多様性制約・件数決定が成立しない）。
+    -   目標候補数は最終採用数の4〜6倍を目安に、複数クエリで母集団を広げる。
+    ```bash
+    python3 shared/scripts/search_amazon_creators.py --account daily_gadget \
+      "<ジャンル・用途キーワード1>" "<ジャンル・用途キーワード2>" \
+      --item-count 10 --label <ラベル>
+    ```
+3.  **Stage 2 実測 + Stage 3 機械選抜**: `select_products.py --refresh-reviews` を実行する。Amazon Creators APIはレビュー件数・星評価をほぼ返さない（実測なしではTier判定ができない）ため、必ず `--refresh-reviews` を付ける。Tier判定・多様性制約・件数決定・掲載順・URL整合性ゲートはすべてスクリプトが機械実行する。
+    ```bash
+    python3 shared/scripts/select_products.py --account daily_gadget \
+      --candidates accounts/daily_gadget/06_research/_candidates/<ラベル>.json \
+      --date YYYY-MM-DD --title "<記事タイトル>" --refresh-reviews --dry-run
+    # 問題なければ --dry-run を外して本番書き出し
+    ```
+    -   目標件数（タイトルの「◯選」または `--count`）を満たせない場合、スクリプトは exit 1 で中断する（ダミー商品の挿入はしない）。基準を緩めるのではなく、`03_schedule/schedule_2026.md` の該当タイトルの件数を実際に選抜できた件数に更新してから再実行する。
+4.  出力は **`06_research/YYYY-MM/YYYY-MM-DD_{タイトル}.md`**（Markdown形式）。旧来のJSON保存（`_research_data.json`）は新規リサーチでは行わない。過去分は履歴として残し変換しない。
+5.  **Stage 4 仕上げ**: 出力Markdown内の `※Codexが記入`（推しポイント3点）を、PROFILE.mdのペルソナに沿って埋める。商品の選定・順序・件数は変更しない。変更が必要な場合はStage 1からやり直す。
+6.  URL整合性チェック（正規URL形式・ASIN一致・partner_tag一致・ASIN欠損の除外）は `select_products.py` が保存直前に機械実行する（1件でも不合格なら書き出し中止）。詳細は共通コアの「URL整合性ゲート」章を参照。
 
 ### Phase 3: 品質監査と最終処理 (Audit & Finalize)
 
