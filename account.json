@@ -1,7 +1,8 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "account_id": "daily_gadget",
   "display_name": "毎日ガジェット通信",
+  "type": "affiliate_review",
   "note": {
     "username": "daily_gadget",
     "url": "https://note.com/daily_gadget/"
