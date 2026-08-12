@@ -1,0 +1,1116 @@
+{
+  "generated_at": "2026-08-12T19:43:06",
+  "account_id": "daily_gadget",
+  "partner_tag": "daily-gadget-22",
+  "mode": "pool",
+  "queries": [
+    {
+      "query": "電子書籍リーダー Kindle",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "Kindle Paperwhite",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "iPad mini 読書 アクセサリ",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "電子ペーパー タブレット",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "Kobo 電子書籍リーダー",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "読書 タブレット 目に優しい",
+      "include": [],
+      "exclude": []
+    }
+  ],
+  "fetched_count": 60,
+  "dedup_count": 9,
+  "candidates": [
+    {
+      "asin": "B0CX8MT2M2",
+      "title": "Amazon Kindle Colorsoft | 16GBストレージ、防水、7インチカラーディスプレイ、色調調節ライト、最大8週間持続バッテリー、広告無し、ブラック (2025年発売)",
+      "url": "https://www.amazon.co.jp/dp/B0CX8MT2M2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CX8MT2M2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41bCMgFgc-L._SL500_.jpg",
+      "features": [
+        "【Kindleがカラー表示に対応】光の反射を抑えた目に優しい紙のような読み心地のKindleがカラーディスプレイで登場。",
+        "【7インチカラーディスプレイ】Kindle Paperwhite 第12世代と同じ７インチディスプレイは白黒で300ppi、カラーで150ppiの解像度。",
+        "【最大8週間バッテリー】USB-C対応、一度のフル充電で最大8週間続くバッテリー。",
+        "【色調調節ライト】ホワイトからアンバーに色の暖かさを調節して、自分にとって読みやすい色合いを。",
+        "【本棚をまるごと手の中に】16GBのストレージで、数千冊のコンテンツをこの1台に保存し、持ち歩けます。",
+        "【読書の時間を贅沢に】Eメールやソーシャルメディアなどの通知に気を取られることなく、本に集中できる読書のための専用端末。",
+        "【防水機能】IPX8等級の防水機能搭載。うっかり水がかかってしまっても、バスタブに落としてしまっても安心。",
+        "【Kindle Unlimited】会員登録(有料)すれば、500万冊以上の本・マンガ・雑誌・洋書が読み放題。新しいお気に入りがきっと見つかります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子書籍リーダー Kindle",
+        "Kindle Paperwhite"
+      ]
+    },
+    {
+      "asin": "B0CFPHTMDX",
+      "title": "Kindle Paperwhite シグニチャーエディション (32GB) 7インチディスプレイ、明るさ自動調整、色調調節ライト、12週間持続バッテリー、広告なし、メタリックブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CFPHTMDX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CFPHTMDX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41qvfHOsuSL._SL500_.jpg",
+      "features": [
+        "【最速のKindle】最新のPaperwhiteディスプレイは前モデルと比べてページめくりが最大25%速くなりました。",
+        "【32GBストレージ】シグニチャーエディションは32GBの大容量、明るさ自動調整機能とワイヤレス充電に対応。",
+        "【読書の時間を贅沢に】Eメールやソーシャルメディアなどの通知に気を取られることなく、本に集中できる読書のための専用端末。",
+        "【色調調節ライト】ホワイトからアンバーに色の暖かさを調整して、自分にとって読みやすい色合いを。",
+        "【最大12週間バッテリー】USB-C対応、一度のフル充電で最大12週間続くバッテリー。",
+        "【防水機能】IPX8等級の防水機能搭載。うっかり水がかかってしまっても、バスタブに落としてしまっても安心。",
+        "【Kindle Unlimited】会員登録(有料)すれば、500万冊以上の本・マンガ・雑誌・洋書が読み放題。新しいお気に入りがきっと見つかります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子書籍リーダー Kindle",
+        "Kindle Paperwhite"
+      ]
+    },
+    {
+      "asin": "B0CFPL6CFY",
+      "title": "Amazon Kindle Paperwhite (16GB) 7インチディスプレイ、色調調節ライト、12週間持続バッテリー、広告なし、ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CFPL6CFY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CFPL6CFY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41AZBGRt2kL._SL500_.jpg",
+      "features": [
+        "【最速のKindle】最新のPaperwhiteディスプレイは前モデルと比べてページめくりが25%速くなりました。",
+        "【7インチディスプレイ】光の反射を抑えた300ppiディスプレイで紙のような読み心地を。",
+        "【読書の時間を贅沢に】Eメールやソーシャルメディアなどの通知に気を取られることなく、本に集中できる読書のための専用端末。",
+        "【最大12週間バッテリー】USB-C対応、一度のフル充電で最大12週間続くバッテリー。",
+        "【色調調節ライト】ホワイトからアンバーに色の暖かさを調節して、自分にとって読みやすい色合いを。",
+        "【防水機能】IPX8等級の防水機能搭載。うっかり水がかかってしまっても、バスタブに落としてしまっても安心。",
+        "【本棚をまるごと手の中に】16GBのストレージで、数千冊のコンテンツをこの1台に保存し、持ち歩けます。",
+        "【Kindle Unlimited】会員登録(有料)すれば、500万冊以上の本・マンガ・雑誌・洋書が読み放題。新しいお気に入りがきっと見つかります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子書籍リーダー Kindle",
+        "Kindle Paperwhite",
+        "電子ペーパー タブレット"
+      ]
+    },
+    {
+      "asin": "B0CX8Y3CMG",
+      "title": "Amazon Kindle Colorsoft シグニチャーエディション | 32GBストレージ、防水、7インチカラーディスプレイ、色調調節ライト、最大8週間持続バッテリー、広告無し、メタリックブラック (2025年発売)",
+      "url": "https://www.amazon.co.jp/dp/B0CX8Y3CMG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CX8Y3CMG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41MCH7MR1WL._SL500_.jpg",
+      "features": [
+        "【Kindleがカラー表示に対応】光の反射を抑えた目に優しい紙のような読み心地のKindleがカラーディスプレイで登場。",
+        "【7インチカラーディスプレイ】Kindle Paperwhite 第12世代と同じ７インチディスプレイは白黒で300ppi、カラーで150ppiの解像度。",
+        "【最大8週間バッテリー】USB-C対応、一度のフル充電で最大8週間続くバッテリー。ワイヤレス充電対応 (ワイヤレス充電器は別売り)",
+        "【明るさ自動調整】部屋の暗さに目が慣れるのに合わせて、画面を自動的に少しずつ暗くします。",
+        "【読書の時間を贅沢に】Eメールやソーシャルメディアなどの通知に気を取られることなく、本に集中できる読書のための専用端末。",
+        "【本棚をまるごと手の中に】32GBのストレージで、数千冊のコンテンツをこの1台に保存し、持ち歩けます。",
+        "【防水機能】IPX8等級の防水機能搭載。うっかり水がかかってしまっても、バスタブに落としてしまっても安心。",
+        "【Kindle Unlimited】会員登録(有料)すれば、500万冊以上の本・マンガ・雑誌・洋書が読み放題。新しいお気に入りがきっと見つかります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子書籍リーダー Kindle",
+        "Kindle Paperwhite"
+      ]
+    },
+    {
+      "asin": "B0FC25LQGT",
+      "title": "New Amazon Kindle Scribe Colorsoft | 11インチカラーディスプレイ、64GBストレージ、ノート機能搭載、明るさ自動調整、色調調節ライト、プレミアムペン付き、フィグ",
+      "url": "https://www.amazon.co.jp/dp/B0FC25LQGT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FC25LQGT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31NrqaBWvjL._SL500_.jpg",
+      "features": [
+        "【最も進化したKindle Scribe】読書とノートを両立。光の反射を抑えた11インチカラーディスプレイ、明るさ自動調整機能、色調調節ライト、ノート機能搭載、クラウド連携",
+        "【カラー表示に対応】光の反射を抑えた目に優しい紙のような読み心地のKindle Scribeがカラーディスプレイで登場※。※独自の酸化物半導体ディスプレイによる",
+        "【紙のような書き心地】独自ディスプレイの質感と高速なレスポンスで、まるで紙のノートのように自然に書き込めます。充電が不要なプレミアムペン付き。",
+        "【薄型・軽量・高速】薄さ5.4mm、軽さ400g、11インチのディスプレイを搭載した使いやすさと滑らかな動作を追求したデザイン。快適に読み書きしたり、考えをまとめたりすることができます。",
+        "【ドキュメントや本にメモを追加】ドキュメントに手書きのメモを取って考えをまとめたり、Active Canvas機能でKindle本の文中に直接書き込んだりすることができます。",
+        "【クラウドと連携】Google DriveやMicrosoft OneDriveからデバイスにドキュメントをインポートし、メモを追加できます。また、作成したノートをMicrosoft OneNoteにエクスポートすることもできます。",
+        "【様々なシーンで快適な明るさ】周囲の明るさに合わせて、ディスプレイを読みやすい明るさに自動調整。就寝前は、色調調節機能で目に優しい色合いに調整できます。",
+        "【長持ちするバッテリー】1度の充電で最大8週間持続するバッテリー(使用状況等によって変わります）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子書籍リーダー Kindle"
+      ]
+    },
+    {
+      "asin": "B0CFPKCSZH",
+      "title": "Amazon Kindle Paperwhite キッズモデル (16GB) スターフィッシュカバー | Amazon Kids+で2,000冊以上の子ども向けの本が6か月間読み放題",
+      "url": "https://www.amazon.co.jp/dp/B0CFPKCSZH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CFPKCSZH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41b9dFS5P+L._SL500_.jpg",
+      "features": [
+        "Kindle Paperwhite キッズモデルはキッズカバー、2年間の限定保証、6か月のAmazon Kids+利用が含まれています。",
+        "【最速のKindle】最新のPaperwhiteディスプレイは前モデルと比べてページめくりが25%速くなりました。",
+        "【Amazon Kids+が6か月間使い放題】日本や世界の名作、児童文庫、学習マンガや科学の本など、2,000冊以上の子ども向けの本が読み放題。※2025年5月28日時点",
+        "【広告のない読書空間】Amazon Kids+のコンテンツには広告は表示されません。アプリ内課金や、ソーシャルメディアへのリンクもありません。",
+        "【防水機能】IPX8等級の防水機能搭載。うっかり水がかかってしまっても安心。",
+        "【読書に特化して設計】直接目を照らさないから、目に優しく疲れにくいKindleのPaperwhiteディスプレイ。環境に合わせて明るさや、色の暖かさも調整可能。",
+        "【ペアレンタルコントロール】お子さまが読んでいる本を確認し、1日の利用可能時間の設定も可能です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子書籍リーダー Kindle",
+        "Kindle Paperwhite"
+      ]
+    },
+    {
+      "asin": "B0GY4MWDV9",
+      "title": "XTEINK X3 電子書籍リーダー 3.7インチ E-Ink搭載 58g軽量 カードサイズ 16GB内蔵 SD対応 ミストレグレー",
+      "url": "https://www.amazon.co.jp/dp/B0GY4MWDV9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GY4MWDV9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/318PIktan6L._SL500_.jpg",
+      "features": [
+        "【58g超軽量・カードサイズ】 わずか58g、厚さ5.1mmのコンパクト設計。ポケットや小さなバッグにもすっきり収まり、通勤・通学・旅行先でも気軽に読書を楽しめます。",
+        "【E-Ink電子ペーパー搭載】 目にやさしいE-Inkディスプレイを採用。紙のような自然な読み心地を実現しました。",
+        "【マグネット式・片手操作】 付属のマグネットリングでスマートフォンや金属面に簡単装着。幅広いスマホに対応し、ポゴピン充電で手軽に使用できます。本体ボタンと振るだけのページ送り操作に対応。",
+        "【650mAh長時間バッテリー】 低消費電力設計により、通常使用で約1週間使用できます。16GB内蔵ストレージに加え、最大256GBのSDカードに対応し、多くの電子書籍を保存できます。",
+        "【読書だけではない多機能】 時計・ToDo・壁紙表示に対応。EPUBなど主要な電子書籍形式に対応しています。",
+        "【高精度ガラスエッチング加工】 高アルミノケイ酸ガラスを採用し、高い強度と鮮明な表示を実現。E Ink電子ペーパーならではの紙のような見やすさで、快適な読書をサポートします。ガラス基板の特性上、衝撃・圧力・落下を避けてご使用ください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子書籍リーダー Kindle"
+      ]
+    },
+    {
+      "asin": "B0CFPHSTDD",
+      "title": "Kindle Paperwhite シグニチャーエディション (32GB) 7インチディスプレイ、明るさ自動調整、色調調節ライト、12週間持続バッテリー、広告なし、メタリックジェード",
+      "url": "https://www.amazon.co.jp/dp/B0CFPHSTDD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CFPHSTDD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/418P+RXlp1L._SL500_.jpg",
+      "features": [
+        "【最速のKindle】最新のPaperwhiteディスプレイは前モデルと比べてページめくりが最大25%速くなりました。",
+        "【32GBストレージ】シグニチャーエディションは32GBの大容量、明るさ自動調整機能とワイヤレス充電に対応。",
+        "【読書の時間を贅沢に】Eメールやソーシャルメディアなどの通知に気を取られることなく、本に集中できる読書のための専用端末。",
+        "【色調調節ライト】ホワイトからアンバーに色の暖かさを調整して、自分にとって読みやすい色合いを。",
+        "【最大12週間バッテリー】USB-C対応、一度のフル充電で最大12週間続くバッテリー。",
+        "【防水機能】IPX8等級の防水機能搭載。うっかり水がかかってしまっても、バスタブに落としてしまっても安心。",
+        "【Kindle Unlimited】会員登録(有料)すれば、200万冊以上の本・マンガ・雑誌・洋書が読み放題。新しいお気に入りがきっと見つかります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子書籍リーダー Kindle",
+        "Kindle Paperwhite"
+      ]
+    },
+    {
+      "asin": "B0GY4K1PQH",
+      "title": "XTEINK X3 電子書籍リーダー 3.7インチ E-Ink搭載 58g軽量 カードサイズ 16GB内蔵 SD対応 スペースブラック",
+      "url": "https://www.amazon.co.jp/dp/B0GY4K1PQH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GY4K1PQH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31J3EX7PVLL._SL500_.jpg",
+      "features": [
+        "【58g超軽量・カードサイズ】 わずか58g、厚さ5.1mmのコンパクト設計。ポケットや小さなバッグにもすっきり収まり、通勤・通学・旅行先でも気軽に読書を楽しめます。",
+        "【E-Ink電子ペーパー搭載】 目にやさしいE-Inkディスプレイを採用。紙のような自然な読み心地を実現しました。",
+        "【マグネット式・片手操作】 付属のマグネットリングでスマートフォンや金属面に簡単装着。幅広いスマホに対応し、ポゴピン充電で手軽に使用できます。本体ボタンと振るだけのページ送り操作に対応。",
+        "【650mAh長時間バッテリー】 低消費電力設計により、通常使用で約1週間使用できます。16GB内蔵ストレージに加え、最大256GBのSDカードに対応し、多くの電子書籍を保存できます。",
+        "【読書だけではない多機能】 時計・ToDo・壁紙表示に対応。EPUBなど主要な電子書籍形式に対応しています。",
+        "【高精度ガラスエッチング加工】 高アルミノケイ酸ガラスを採用し、高い強度と鮮明な表示を実現。E Ink電子ペーパーならではの紙のような見やすさで、快適な読書をサポートします。ガラス基板の特性上、衝撃・圧力・落下を避けてご使用ください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子書籍リーダー Kindle"
+      ]
+    },
+    {
+      "asin": "B0FX822573",
+      "title": "【セット買い】Amazon Kindle Colorsoft【純正 ファブリックカバー (ブラック) + 保護フィルム セット】",
+      "url": "https://www.amazon.co.jp/dp/B0FX822573?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FX822573?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41bCMgFgc-L._SL500_.jpg",
+      "features": [
+        "本商品は、Kindle Colorsoft、純正カバー、保護フィルムのセット商品です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子書籍リーダー Kindle",
+        "Kindle Paperwhite"
+      ]
+    },
+    {
+      "asin": "B0FC2LQ8LZ",
+      "title": "Amazon Kindle Paperwhite キッズモデル (16GB) スターフィッシュカバー【保護フィルム付き】",
+      "url": "https://www.amazon.co.jp/dp/B0FC2LQ8LZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FC2LQ8LZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41b9dFS5P+L._SL500_.jpg",
+      "features": [
+        "本商品は Kindle Paperwhite キッズモデル (16GB) スターフィッシュカバー と 保護フィルム のセット商品です。",
+        "Kindle Paperwhite キッズモデルはキッズカバー、2年間の限定保証、6か月のAmazon Kids+利用が含まれています。",
+        "【最速のKindle】最新のPaperwhiteディスプレイは前モデルと比べてページめくりが25%速くなりました。",
+        "【Amazon Kids+が6か月間使い放題】日本や世界の名作、児童文庫、学習マンガや科学の本など、2,000冊以上の子ども向けの本が読み放題。※2025年5月28日時点",
+        "【広告のない読書空間】Amazon Kids+のコンテンツには広告は表示されません。アプリ内課金や、ソーシャルメディアへのリンクもありません。",
+        "【防水機能】IPX8等級の防水機能搭載。うっかり水がかかってしまっても安心。",
+        "【読書に特化して設計】直接目を照らさないから、目に優しく疲れにくいKindleのPaperwhiteディスプレイ。環境に合わせて明るさや、色の暖かさも調整可能。",
+        "【ペアレンタルコントロール】お子さまが読んでいる本を確認し、1日の利用可能時間の設定も可能です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kindle Paperwhite"
+      ]
+    },
+    {
+      "asin": "B0FC1XTK8P",
+      "title": "New Amazon Kindle Scribe Colorsoft | 11インチカラーディスプレイ、64GBストレージ、ノート機能搭載、明るさ自動調整、色調調節ライト、プレミアムペン付き、グラファイト",
+      "url": "https://www.amazon.co.jp/dp/B0FC1XTK8P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FC1XTK8P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31TxeKtPWwL._SL500_.jpg",
+      "features": [
+        "【最も進化したKindle Scribe】読書とノートを両立。光の反射を抑えた11インチカラーディスプレイ、明るさ自動調整機能、色調調節ライト、ノート機能搭載、クラウド連携",
+        "【カラー表示に対応】光の反射を抑えた目に優しい紙のような読み心地のKindle Scribeがカラーディスプレイで登場※。※独自の酸化物半導体ディスプレイによる",
+        "【紙のような書き心地】独自ディスプレイの質感と高速なレスポンスで、まるで紙のノートのように自然に書き込めます。充電が不要なプレミアムペン付き。",
+        "【薄型・軽量・高速】薄さ5.4mm、軽さ400g、11インチのディスプレイを搭載した使いやすさと滑らかな動作を追求したデザイン。快適に読み書きしたり、考えをまとめたりすることができます。",
+        "【ドキュメントや本にメモを追加】ドキュメントに手書きのメモを取って考えをまとめたり、Active Canvas機能でKindle本の文中に直接書き込んだりすることができます。",
+        "【クラウドと連携】Google DriveやMicrosoft OneDriveからデバイスにドキュメントをインポートし、メモを追加できます。また、作成したノートをMicrosoft OneNoteにエクスポートすることもできます。",
+        "【様々なシーンで快適な明るさ】周囲の明るさに合わせて、ディスプレイを読みやすい明るさに自動調整。就寝前は、色調調節機能で目に優しい色合いに調整できます。",
+        "【長持ちするバッテリー】1度の充電で最大8週間持続するバッテリー(使用状況等によって変わります）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kindle Paperwhite"
+      ]
+    },
+    {
+      "asin": "B0CM7X424T",
+      "title": "【Kindle Paperwhite 第12世代・Kindle Colorsoft用】Amazon純正 ファブリックカバー (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0CM7X424T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CM7X424T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41ZS0KJQ8BL._SL500_.jpg",
+      "features": [
+        "Kindle Paperwhite (2024年発売 第12世代)・Kindle Paperwhiteシグニチャーエディション (2024年発売 第12世代)・Kindle Colorsoft・Kindle Colorsoftシグニチャーエディション専用のAmazon純正保護カバーです。",
+        "薄くて軽いデザインで、快適に読書をお楽しみいただけます。",
+        "水に強いファブリックカバーで、読書の場所も広がります。",
+        "カバーの開閉だけで端末が自動的にスリープ/スリープ解除します。",
+        "カバーは後ろに折りたためるので、片手で読む際に便利です。Kindleに装着したまま充電も可能です。",
+        "マグネットで固定されるのでしっかり閉まります。",
+        "ファブリックカバーはブラックとヒスイの2色からお選びいただけます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kindle Paperwhite"
+      ]
+    },
+    {
+      "asin": "B0GLYF5YGG",
+      "title": "タブレットハンド タブレットストラップ ゴムバンド 片手持ちリング 6～8インチ対応 iPad Mini 7/6/5/4/3/2/1、Kindle Paperwhite 2024/2021/2018、Fire HD 8 等に適用 5色 (ホワイト)",
+      "url": "https://www.amazon.co.jp/dp/B0GLYF5YGG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GLYF5YGG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41DY5UDHe2L._SL500_.jpg",
+      "features": [
+        "快適な片手操作で疲れを軽減 スマホを併用しながらのタブレット操作でも、ストラップが本体の重心を自然に支え、手首への負担を大幅に軽減。長時間の使用でも握りやすく、落下防止にも役立ち、安定した操作を実現します",
+        "5色のカラーバリエーションで選べる自分スタイル シンプルなブラック、清潔感あるホワイト、可愛らしいピンク、落ち着きのあるパープル、爽やかなブルーの全5色。お好みや端末の色に合わせて、自分だけの組み合わせをお選びいただけます",
+        "柔軟なゴム製で6～8インチの多機種に対応 高い弾力性をもつゴム素材を使用しているため、iPad Mini 第1～7世代、Kindle Paperwhite（2018/2021/2024）、Fire 7（2019/2022）、Fire HD 8 & 8 Plus（2020/2024）など、6～8インチのさまざまなタブレット・電子書籍リーダーにフィットします。※厚手のケース装着時は外すか、薄型ケースご利用を推奨",
+        "端末を傷つけない優しい設計 ストラップ本体は肌触りの良い高弾性ゴム、端末に接するクリップ部分は柔らかくクッション性のあるシリコンを採用。画面や背面を傷つけることなく、しっかりとホールドします",
+        "簡単装着で多彩なシーンで活躍 ストラップを通すだけで、利き手を選ばず簡単にセット完了。対角線に取り付けることで重みが分散され、片手でも軽く感じる持ち心地に。会議中や移動時、自宅でくつろぎながらの閲覧など、あらゆる場面で便利にお使いいただけます"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "iPad mini 読書 アクセサリ"
+      ]
+    },
+    {
+      "asin": "B07QMSV6WF",
+      "title": "JETech iPad mini 第5世代 7.9インチ (2019)用 ケースカバー (紺青)",
+      "url": "https://www.amazon.co.jp/dp/B07QMSV6WF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07QMSV6WF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31wMovYOxlL._SL500_.jpg",
+      "features": [
+        "【対応機種】新型iPad mini 5(2019モデル). iPad mini 1/2/3/4には対応していません。対応モデル: A2133 A2124A2126",
+        "【商品材質】外部は環境にやさしく､上質なPUレザーを採用しており､放熱性が良く､超軽量薄型､本体を優しく守ります",
+        "【保護機能】 iPad mini 5(2019モデル)に合わせて正確に設計されているので､傷やホコリを防ぐことができ､あらゆる角度から守ります",
+        "【スタンド機能】スタンドタイプなので､横置きにも対応できます､お好きな角度で動画視聴､読書､WEBなどに大変便利です",
+        "【パッケージ内容】iPad mini 5(2019モデル)用ケース"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "iPad mini 読書 アクセサリ"
+      ]
+    },
+    {
+      "asin": "B0DK465454",
+      "title": "iPad mini(A17 Pro)用Smart Folio - チャコールグレイ",
+      "url": "https://www.amazon.co.jp/dp/B0DK465454?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DK465454?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21z1kn4hB7L._SL500_.jpg",
+      "features": [
+        "薄くて軽いiPad mini用Smart Folioは、デバイスの前面と背面を守ります。カバーをめくるとiPadがスリープ状態から自動的に復帰し、閉じるとスリープ状態に戻ります。マグネットで取りつけられ、読書、映画鑑賞、文字入力、FaceTime通話をする時は、折りたたむとそれぞれの使い方に最適なスタンドにもなります。",
+        "互換性: iPad mini（A17 Pro）、iPad mini（第6世代）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "iPad mini 読書 アクセサリ"
+      ]
+    },
+    {
+      "asin": "B07QS4PP4Q",
+      "title": "JETech iPad mini 第5世代 7.9インチ (2019)用 ケースカバー (ミッドナイトグリーン)",
+      "url": "https://www.amazon.co.jp/dp/B07QS4PP4Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07QS4PP4Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/3144lqHMnLL._SL500_.jpg",
+      "features": [
+        "【対応機種】新型iPad mini 5(2019モデル). iPad mini 1/2/3/4には対応していません。対応モデル: A2133 A2124A2126",
+        "【商品材質】外部は環境にやさしく､上質なPUレザーを採用しており､放熱性が良く､超軽量薄型､本体を優しく守ります",
+        "【保護機能】 iPad mini 5(2019モデル)に合わせて正確に設計されているので､傷やホコリを防ぐことができ､あらゆる角度から守ります",
+        "【スタンド機能】スタンドタイプなので､横置きにも対応できます､お好きな角度で動画視聴､読書､WEBなどに大変便利です",
+        "【パッケージ内容】iPad mini 5(2019モデル)用ケース"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "iPad mini 読書 アクセサリ"
+      ]
+    },
+    {
+      "asin": "B0DK45RXTN",
+      "title": "iPad mini(A17 Pro)用Smart Folio - ライトバイオレット",
+      "url": "https://www.amazon.co.jp/dp/B0DK45RXTN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DK45RXTN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21c7P3+GA0L._SL500_.jpg",
+      "features": [
+        "薄くて軽いiPad mini用Smart Folioは、デバイスの前面と背面を守ります。カバーをめくるとiPadがスリープ状態から自動的に復帰し、閉じるとスリープ状態に戻ります。マグネットで取りつけられ、読書、映画鑑賞、文字入力、FaceTime通話をする時は、折りたたむとそれぞれの使い方に最適なスタンドにもなります。",
+        "互換性: iPad mini（A17 Pro）、iPad mini（第6世代）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "iPad mini 読書 アクセサリ"
+      ]
+    },
+    {
+      "asin": "B0H2657DJN",
+      "title": "[JIFANPAUL] スマホ・タブレットスタンド 折りたたみ 多角度調整 軽量 滑り止め 卓上スタンド iPhone・iPad・Kindle対応",
+      "url": "https://www.amazon.co.jp/dp/B0H2657DJN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H2657DJN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/413xr9017ZL._SL500_.jpg",
+      "features": [
+        "【幅広い対応デバイス】：iPhone、iPad、iPad mini、iPad Pro、Kindleとの互換性あり スタンド、スマートフォンなど様々なサイズのデバイスに対応。1台で家でもオフィスでも快適に使用可能。",
+        "【折りたたみ式＆コンパクト設計】：スリムに折りたためる設計で、バッグやカバンに簡単収納。外出先でも場所を取らずに持ち運び可能。",
+        "【多角度調整（6-8段階）】：好みに合わせて角度調整が可能。動画視聴やオンライン会議、電子書籍の読書など、最適な視聴角度で使用できる。",
+        "【滑り止め付きで安定】：底面には滑り止めパッドを採用。机やデスク上でしっかり固定され、デバイスが滑る心配なし。",
+        "【軽量＆持ち運び便利】：わずか数百グラムの軽量設計で、旅行や出張先でも簡単に持ち運び可能。毎日使える便利なポータブルスタンド。",
+        "【多用途で快適使用】：動画視聴、オンライン会議、ゲーム、料理中のレシピ閲覧、読書など様々なシーンで活躍。スマホ・タブレットスタンド1台で生活がより快適に。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "iPad mini 読書 アクセサリ"
+      ]
+    },
+    {
+      "asin": "B07QS4PT1W",
+      "title": "JETech iPad mini 第5世代 7.9インチ (2019)用 ケースカバー (ライトパープル)",
+      "url": "https://www.amazon.co.jp/dp/B07QS4PT1W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07QS4PT1W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/311yQmCkLHL._SL500_.jpg",
+      "features": [
+        "【対応機種】新型iPad mini 5(2019モデル). iPad mini 1/2/3/4には対応していません。対応モデル: A2133 A2124A2126",
+        "【商品材質】外部は環境にやさしく､上質なPUレザーを採用しており､放熱性が良く､超軽量薄型､本体を優しく守ります",
+        "【保護機能】 iPad mini 5(2019モデル)に合わせて正確に設計されているので､傷やホコリを防ぐことができ､あらゆる角度から守ります",
+        "【スタンド機能】スタンドタイプなので､横置きにも対応できます､お好きな角度で動画視聴､読書､WEBなどに大変便利です",
+        "【パッケージ内容】iPad mini 5(2019モデル)用ケース"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "iPad mini 読書 アクセサリ"
+      ]
+    },
+    {
+      "asin": "B0DK45QKTJ",
+      "title": "iPad mini(A17 Pro)用Smart Folio - デニム",
+      "url": "https://www.amazon.co.jp/dp/B0DK45QKTJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DK45QKTJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21d3lNArcTL._SL500_.jpg",
+      "features": [
+        "薄くて軽いiPad mini用Smart Folioは、デバイスの前面と背面を守ります。カバーをめくるとiPadがスリープ状態から自動的に復帰し、閉じるとスリープ状態に戻ります。マグネットで取りつけられ、読書、映画鑑賞、文字入力、FaceTime通話をする時は、折りたたむとそれぞれの使い方に最適なスタンドにもなります。",
+        "互換性: iPad mini（A17 Pro）、iPad mini（第6世代）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "iPad mini 読書 アクセサリ"
+      ]
+    },
+    {
+      "asin": "B0DK4584S1",
+      "title": "iPad mini(A17 Pro)用Smart Folio - セージ",
+      "url": "https://www.amazon.co.jp/dp/B0DK4584S1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DK4584S1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21+cNpf-Z-L._SL500_.jpg",
+      "features": [
+        "薄くて軽いiPad mini用Smart Folioは、デバイスの前面と背面を守ります。カバーをめくるとiPadがスリープ状態から自動的に復帰し、閉じるとスリープ状態に戻ります。マグネットで取りつけられ、読書、映画鑑賞、文字入力、FaceTime通話をする時は、折りたたむとそれぞれの使い方に最適なスタンドにもなります。",
+        "互換性: iPad mini（A17 Pro）、iPad mini（第6世代）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "iPad mini 読書 アクセサリ"
+      ]
+    },
+    {
+      "asin": "B0F92K822F",
+      "title": "SAIJI(サイジ) iPadスタンドピロー - タブレットKindleホルダー ベッドでの読書用 調節可能なクリップ付き 4~13インチのタブレット用 iPad Pro Air Mini Kindle Galaxy Tab 電子書籍リーダー ピンク",
+      "url": "https://www.amazon.co.jp/dp/B0F92K822F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F92K822F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41znjGLKIaL._SL500_.jpg",
+      "features": [
+        "【タブレットを持ち上げて安全にロック】不快感にさよなら。 タブレットを低く抑えすぎる従来のスタンドとは異なり、当社のアップグレードされたベッド用KindleiPadホルダーには、デバイスを快適な視野角に持ち上げ、しっかりと固定する安全なクランプが付いています。ベッド、ソファ、デスクでの使用に最適です。 読書、視聴、ブラウジングなど、どんな位置でも完全な安定性を楽しむことができます。",
+        "【頑丈な三角形とお手入れ簡単】三角形の高密度のスポンジコアで構築されたこのベッド用iPadスタンドは、ベッド、ソファ、テーブルなど、あらゆる表面で安定して固定されます。 柔らかい短いパイル生地のカバーが快適さを増し、取り外して洗濯機で洗えるので、簡単に掃除でき、スタンドを新品のように新鮮に保ちます。",
+        "【無限調整クリップ付きKindle枕スタンド】ユニークな回転クリップで200°スムーズに傾けることができ、ベッドやソファで読書をするときの首の負担を軽減します。",
+        "【サイドポケット付きベッド用タブレットホルダー】2つのサイドポケットには、Kindleページめくり/携帯電話/スタイラス/イヤホンを収納でき、デバイスを使用する際に必需品を手の届くところに置いておくことができます。",
+        "【タブレット枕スタンド】この非常に便利なタブレット枕スタンドで、ハンズフリーでエンターテイメントと生産性を楽しんでください。 本を読んだり、ゲームをしたり、映画を見たり、写真を閲覧したり、ビデオ録画をするときも、このスタンドはデバイスを完璧な角度でしっかりと固定します。 家族とのつながりを保ちながらベッドでリラックスしたり、思い出を捉えるのに最適です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "iPad mini 読書 アクセサリ"
+      ]
+    },
+    {
+      "asin": "B0GZVHF79R",
+      "title": "Plimpton 電子ノート タブレット 8インチ 手書き デジタルノート 電子メモ Android 128GB タブレット Wacom EMRペン 4096筆圧 傾き検知 紙のような書き心地 AG液晶 Gemini AI Wi-Fi6 Bluetooth5.4 GMS認証 Google Play対応 軽量 薄型 読書 イラスト 勉強 会議 白黒モード カラーモード 保護ケース付 Paper8",
+      "url": "https://www.amazon.co.jp/dp/B0GZVHF79R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GZVHF79R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41EhRPEWMNL._SL500_.jpg",
+      "features": [
+        "紙のような書き心地｜Wacom EMRペン搭載: 電子ノート タブレットとして、Wacom技術のEMRスタイラスペンに対応し、充電・ペアリング不要ですぐに手書き可能。4096段階の筆圧検知と傾き検知により、メモ・手書きノート・イラスト制作まで自然な書き味を実現。紙のような書き心地で、デジタルノート初心者にもおすすめ。",
+        "目に優しいAG液晶｜読書・長時間使用に最適: アンチグレア（AG）液晶ディスプレイを採用したAndroid タブレットで、映り込みを抑え、目の疲れを軽減。電子書籍リーダーとしても快適に使え、白黒読書モードで紙の本のような視認性を実現。電子メモ・勉強・ビジネス用途にも最適です。",
+        "Gemini AI搭載｜ノート整理・学習効率アップ: 最新AI「Gemini」を内蔵したAIタブレットとして、音声検索・AIノート・翻訳・自動整理に対応。会議メモや授業ノートをリアルタイムで整理でき、マルチウィンドウで手書きノートとAIを同時に活用可能。仕事効率化・学習サポートに最適。",
+        "Android＆GMS認証｜アプリ自由ダウンロード: GMS認証済みのAndroid タブレットとして、Google Play対応。Sketchbook、ibisPaint、Kindleなど人気アプリをダウンロードでき、イラストタブレット・電子ノート・動画視聴デバイスとして幅広く活躍。Wi-Fi6・Bluetooth5.4対応で通信も安定。",
+        "軽量・薄型設計＆多用途｜持ち運び便利: 8インチ タブレットで約350gの軽量ボディ、厚さ7.2mmの薄型設計。通勤・通学・出張にも最適で、手書きメモ、デジタルノート、イラスト、読書、会議用など多用途に対応。保護ケース付きで持ち運びも安心、日常からビジネスまで幅広く活躍。",
+        "ギフトにも最適｜安心の2年保証＆充実サポート: シンプルで高級感のあるデザインにより、誕生日プレゼント・入学祝い・ビジネスギフトとしてもおすすめのタブレットです。ご購入後も安心してご使用いただけるよう、本製品は2年間のメーカー保証付き。万が一不具合やご不明点がある場合は、お気軽にお問い合わせください。サポートチームが24時間以内（※土日祝日を除く）に迅速に対応いたします。",
+        "本製品は、読書に最適な「白黒読書モード」と、図表や画像が鮮明な「カラーモード」の両方を搭載しています。 ※初期設定や読書モードがオンの場合、画面は白黒表示になります。設定から「読書モード」をオフにするだけで、瞬時に鮮やかなカラー表示に切り替わります。 論文の図表確認はカラーで、長時間の読解は目に優しい白黒で、シーンに合わせて使い分けが可能です。",
+        "※パッケージ内容：paper8電子ノート*1 保護ケース*1 wacomタッチペン*1替え芯抜き*1 ソフト替え芯 *2 USB-C ケーブル*1 電源アダプター*1"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子ペーパー タブレット"
+      ]
+    },
+    {
+      "asin": "B0H2MP639Z",
+      "title": "電子ノート タブレット 13インチ 【AG液晶 紙のような書き心地 目に優しい 手書き デジタルノート 電子メモ】Android16 28GB(6+22GB拡張)+128GB+2TB拡張 90Hz T7255 8コア タブレット 大画面 Gemini AI 12000mAh&PD18W 急速充電、4GLTE Google Play対応 軽量 読書 イラスト 勉強 会議 白黒モード カラーモード",
+      "url": "https://www.amazon.co.jp/dp/B0H2MP639Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H2MP639Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41ODRnVH4IL._SL500_.jpg",
+      "features": [
+        "🏆【📢I13専用アクセサリーのご案内・同時購.入で15％OFFお.得】I13タブレットには、専用のマグネット式キーボード付きケース（一体型）および専用のお絵描き用ペンをご用意しております🛒ご希望の場合は、Amazonにて商品番号を直接検索してください：マグネット式キーボード付きケース：B0H39Q2WTG；お絵描き用ペン：B0H39JQQJ5。✨ タブレット本体と専用アクセサリーを同時にカートへ追加してご購.入いただくと、専用アクセサリー15％OFFの特別割.引が適用されます。ぜひこの機会にお得なセット購.入をご検討ください。",
+        "🏆【紙のような書き心地×90Hz滑らか表示｜AG液晶搭載・手書き＆読書タブレット】アンチグレア（AG）液晶ディスプレイを採用し、映り込みを抑えて目の負担を軽減。長時間の読書や学習にも適しており、電子書籍リーダーとしても快適に使用できます。白黒読書モードにも対応し、紙の本に近い視認性を実現します。🌈BMAX T-Penスタイラスに対応し、ペアリング不要ですぐに手書きが可能な電子ノートタブレットです。🌈4096段階の筆圧検知と傾き検知、さらにグローバルパームリジェクション技術により、紙のように自然で滑らかな描画・メモ体験を実現します。🌈さらに90Hz高リフレッシュレートディスプレイにより、スクロールや手書き動作もより滑らかで快適。メモ、勉強、イラスト制作、ビジネス用途まで幅広く活用できる多機能タブレットです。",
+        "🏆【13インチ類紙フィルム×ブルーライト98%低減｜学習・動画視聴・作業に対応】読書、創作、動画視聴など、さまざまな使用シーンに合わせて快適な表示を選べる2種類の表示モードを搭載しています。🌈AG加工の類紙フィルムにより、開封時から紙のような自然でやさしい見え方を実現。さらに、読書に適した「インクペーパーモード」へ設定を切り替えることで、用途に応じた快適な画面表示をお楽しみいただけます。🌈ブルーライトを最大98%低減し、長時間の学習やデスクワーク、動画視聴でも目の負担を軽減。13インチ大画面でありながら、子どもから大人まで毎日安.心して使用できる設計で、幅広いシーンに対応する快適な視聴体験を提供します。",
+        "🏆【Gemini AI搭載×Android 16｜ノート整理・学習効率アップ・アプリ自由ダウンロード】最.新A.I「Gemini3.5」を搭載したタブレットとして、音声検索、A.Iノート作成、翻訳、情報整理などに対応。会議メモや授業ノートをリアルタイムで整理でき、マルチウィンドウ機能により手書きノートとA.I機能を同時に活用できます。学習効率の向上やビジネスシーンでの作業効率化に最.適です。🌈さらにGMS認証済みのAndroidタブレットとしてGoogle Playに対応し、Sketchbook、ibisPaint、Kindleなどの人気アプリを自由にダウンロード可能。イラスト制作、電子ノート、動画視聴など幅広い用途に対応する多機能タブレットです。",
+        "🏆【12000mAh大容量×4GLTE通信｜通勤・通学・出張用タブレット】12000mAhの大容量バッテリーを搭載し、動画視聴、電子書籍、オンライン授業、Web会議などを長時間快.適に利用できます。⚡18W PD急速充電に対応しており、短時間で効率よく充電できるため、忙しい日常でも安.心して使用できます。🌈さらに4G通信とGPS機能を備え、外出先や旅行時のナビゲーションにも便利な設計です。WiFi5およびBluetooth5.0を搭載し、Zoom会議やオンライン授業、リモートワークも安.定した接続環境で快適に行えます。",
+        "🏆【12ヶ月保.証・多重安全認証｜軽量薄型7.9mm・保護フィルム貼付済】当店でご購入いただいた製品には30日間の返金保.証および12ヶ月のメーカー保.証が付帯しております。不具合が発生した場合は、Amazon購入履歴より弊社までご連絡ください。誠意をもって対応いたします。お問い合わせは、商品ページの店名をクリックし「質問する」よりご連絡ください。🏆日本語設定はsettings→system→languages & input→languages→add a languageから「日本語」を選択してください。🏆PSE・TELEC認証取得済みで、日本国内の安全基準に準拠した設計です。日常使用において安心してご利用いただけます。🏆本製品は特殊AG液晶の特性上、お客様ご自身でのフィルム貼り付けには適しておりません。あらかじめ工場出荷時に専用の特殊保護フィルムを貼付済みですので、開封後すぐに使用可能で、画面の傷や指紋汚れも軽減します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子ペーパー タブレット"
+      ]
+    },
+    {
+      "asin": "B0F99Q6XND",
+      "title": "Bigme B7 カラー電子ペーパータブレット 7インチ 8+128GB 4G通話対応",
+      "url": "https://www.amazon.co.jp/dp/B0F99Q6XND?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F99Q6XND?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31YrtXgxJxL._SL500_.jpg",
+      "features": [
+        "どこにいても接続を維持：4G互換性を内蔵したBigme B7 Einkタブレットでは、Wi-Fiに依存せずにWebブラウジング、アプリの使用、音声通話が可能です。",
+        "4G接続と通話サポート：B7電子書籍リーダーは、Android 14 OSを搭載した7インチカラー電子ペーパータブレットで、様々なアプリを柔軟にインストールできます。4G通話機能も搭載しているので、外出先でも接続を維持し、生産性を維持できます。タブレットとスマートフォンのメリットを1台で実現する、多機能デバイスです。",
+        "エリートレベルのパフォーマンス：Bigme B7電子書籍リーダーは、2.4GHzオクタコアプロセッサを搭載し、スムーズなマルチタスク処理とアプリの応答性に優れたパフォーマンスを実現。生産性とエンターテイメント性を高めます。8GBのRAMと128GBの内蔵ストレージを備え、microSDカードで容量を拡張できるため、ドキュメント、アプリ、メディアなど、十分な保存容量を必要とするユーザーに最適です。",
+        "生産性の向上: 磁気スタイラスを使用して、メモの作成、ドキュメントへの注釈付け、クリエイティブなタスクをシームレスに切り替えることができます。",
+        "あらゆる作業を強力にこなします: ドキュメントに注釈を付けたり、Web を閲覧したり、電子書籍を読んだりする場合でも、B7 スマートフォンは、快適さと携帯性を重視しながら、シームレスで邪魔にならないエクスペリエンスを実現します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子ペーパー タブレット"
+      ]
+    },
+    {
+      "asin": "B0GKZT5SSK",
+      "title": "Bigme B6カラー電子リーダー、電子書籍リーダー6インチ電子インクスクリーン電子書籍リーダーデジタル電子ペーパータブレット、アンドロイド14、4 GB+64 GB付き、調節可能なヘッドランプ電子書籍リーダー装置、音声読み物翻訳機と録音付き黒い",
+      "url": "https://www.amazon.co.jp/dp/B0GKZT5SSK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GKZT5SSK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31UMUyzvv2L._SL500_.jpg",
+      "features": [
+        "【携帯型電子書籍リーダー】アンドロイド14オペレーティングシステムを用いて発売された電子書籍リーダーは、2.4 Gと5 G wifi接続、Bluetooth接続、サードパーティ製アプリケーションをサポートしている。このデジタル電子ペーパータブレットはタッチボタンがあり、本体はスリムで、厚さは6.98 mmで、本のように見え、使いやすく、携帯しやすい",
+        "【300 PPI電子インクハイビジョンディスプレイ】カラー電子インクkaleido 3ディスプレイを搭載した6インチ電子ブックリーダー。ゼロBlu-rayで点滅なし、Bigmeカラー電子リーダーは鮮明なテキストと生き生きとした画像を提供し、紙の視覚を快適に体験しながら、長期的に読むことができます",
+        "【強力な性能と大容量ストレージ】Android 電子ペーパータブレット bigme カラー電子書籍リーダーは先進的なOcta-Coreプロセッサー（2.3 GHZ）を搭載し、4 GB RAM+64 GBの大容量内部ストレージを搭載し、性能の流暢さと十分なストレージを確保し、約40000冊の本を収容できるほか、Bigme電子書籍リーダーはマイクロSDカード（含まず）の拡張をサポートし、バッテリー寿命が長く、数週間の読書を楽しむことができる",
+        "【いつでもどこでも快適に読む】このカラー電子リーダーには4種類の画面リフレッシュモードがあり、写真、文字、Webブラウズ、ビデオ視聴などの操作の性能を向上させ、鮮明でシャープな表示効果を見せることができます。このカラーデジタルペンリーダーには36レベルの調整可能なデュアルフロントライトモードもあり、昼と夜に最適な明るさを見つけ、目をケアします",
+        "【多機能】りタブレット このカラー電子リーダー装置は電子書籍リーダーの機能を結合しただけでなく、タブレットPCの機能を結合し、インテリジェント音声読み物、多AI GPT要約、翻訳、問答、同期データ転送をサポートし、多種の読書フォーマットとアプリケーションを提供し、高忠実な音質を備え、ユーザーの聴力と読書体験を強化する",
+        "【何を手に入れますか】電子書籍リーダー パッケージには、1*Bigme B 6カラー電子書籍リーダー、1*ユーザーマニュアル &1* ギフトボックス。電子ペーパー カラーこのアンドロイド電子書籍リーダーは、学生、家族、友人、専門家への理想的なプレゼントです。製品について何か質問があれば、お問い合わせください。お客様にやさしいカスタマーサービスを提供し、問題の解決に役立ちます"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子ペーパー タブレット"
+      ]
+    },
+    {
+      "asin": "B0F13GMDWS",
+      "title": "【XPPen新登場】タブレット 手書き ノート 11インチ 充電不要 X3 Proペン付 16384筆圧 カラーノートパッド Android LCD 電子ノート 128GB 90Hz ビジネス 会議 学習 勉強 マンガ 保護ケース付 Magic Note Pad",
+      "url": "https://www.amazon.co.jp/dp/B0F13GMDWS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F13GMDWS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41LLJnTDt7L._SL500_.jpg",
+      "features": [
+        "Magic Note Padは、 紙のような書き心地と多用途性を兼ね備えた革新的なタブレットです。メモやお絵描きはもちろん、動画視聴や軽いゲームまで楽しめるため、ビジネスパーソンから学生、クリエイターまで、幅広いユーザーにお楽しみいただけます。",
+        "1. 【充電＆接続不要のスタイラスペン】面倒な充電やペアリングが一切不要です。EMR技術を採用した付属のX3 Pro Pencil 2は、取り出したその瞬間から、すぐに書き始められます。バッテリー切れの心配もなく、常に最高の書き心地を約束。さらに磁気で本体にピタッと吸着するので、紛失防止と収納の手間から解放されます。",
+        "2. 【16,384段階の筆圧感知で、紙のようなサラサラ書き心地】 液晶タブレットメーカーが開発した「X3 Proスマートチップ」により、業界トップクラスの16,384段階の筆圧を感知。線の強弱や細かいタッチまで繊細に再現するため、メモからプロ級のイラスト制作まで、あなたの創造性を存分に発揮させます。",
+        "3. 【ペン入力特化設計】背面が完全にフラットかつカメラレスのため、机の上で一切グラつきません。ペン側面のカスタマイズ可能なボタンで、よく使う機能を瞬時に呼び出せ、創作の「邪魔」になることなく、作業に没頭できます。手書きに最適化されたノート型タブレットです。",
+        "4. 【3-in-1 X-Paper表示技術】読書、創作、動画視聴など、あらゆるシーンに合わせて最適な表示が選べる3つのモードを搭載。鮮やかな「ネイチャーカラーモード」、目に優しい「ライトカラーモード」、読書に最適な「インクペーパーモード」で、あなたの使い方をしっかりサポート。また、1670万色のカラーで動画やイラストの細部まで色を忠実に再現します。",
+        "5. 【びっくりするほど滑らか! 90Hz高リフレッシュレート】ディスプレイは90Hzの高リフレッシュレートで、ペン操作や動画の表示もなめらかです。動きの速い映像を見る場合にも、ストレスを感じる心配がありません。漫画はページをめくる時の遅れなどもなく、超快適に読むことができます。カラー漫画の美麗な表現も、この滑らかさでさらに快適にお楽しみいただけます。",
+        "6. 【AGナノエッチング加工で、紙の質感と目の保護を両立】 表面の微細な加工が光の乱反射を防ぎ、紙のような書き心地を実現しながらも、長時間の使用による目の疲れを軽減します。さらに指紋が付きにくく、常にクリアな画面で創作に集中できます。",
+        "7. 【付属アプリで手書きがさらにスマートに】 専用アプリ「XPPen Notes」は、手書き文字のテキスト変換、PDFへの直接注釈、音声録音とノートの同期、AIアシスタントを呼び出し、OneDriveやGoogle Driveへクラウド保存など、多彩な機能を搭載。5種類のペンブラシで、オフィスワークから学習まで、あらゆるシーンをこれ一台で完結。",
+        "8. 【大容量バッテリー＆急速充電で、電池切れのストレスから解放】 8,000mAhの大容量バッテリーで、一日中の使用にも安心。長時間の会議や外出先でも電池切れを気にする必要はありません。さらに20Wの急速充電に対応し、短い時間で素早く充電できるので、切迫した場面でも頼りになります。",
+        "9. 【充実の同梱内容と1年保証】開封後すぐ使える！ 必要なものがすべて揃っているので、面倒な追加購入は一切不要。購入したその日から、すぐに創作活動をスタートできます。〈同梱内容〉タブレット本体、マグネット式ケース、スタイラスペン、替え芯4本、替え芯抜き、充電ケーブル、充電アダプター、日本語マニュアル。〈保証〉ご購入から1年間。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子ペーパー タブレット"
+      ]
+    },
+    {
+      "asin": "B0GMGYMM3S",
+      "title": "Bigme B6電子書籍リーダー、電子インクスクリーン電子書籍リーダー6インチ電子リーダーデジタル電子ペーパータブレット、4G+64 GB、アンドロイド14、ヘッドライトを調節できるアンドロイドEink電子書籍リーダー装置、オーディオブック付き白",
+      "url": "https://www.amazon.co.jp/dp/B0GMGYMM3S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GMGYMM3S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31TtVJhE0WL._SL500_.jpg",
+      "features": [
+        "【300PPI電子インクディスプレイモノクロディスプレイ】この6インチの電子書籍リーダーは、モノクロの電子インクディスプレイディスプレイを搭載しており ブルーライトゼロかつフリッカーフリーです。Bigmeの電子インクディスプレイリーダーは、鮮明なテキストと鮮やかな画像を表示し、紙のような快適な視覚体験を提供しながら、長時間の読書を可能にします。",
+        "【Android 14搭載のBigme電子書籍リーダー】Android 14オペレーティングシステムを搭載したこの電子書籍リーダーは、2.4GHzおよび5GHzのWi-Fi接続、Bluetooth接続、サードパーティ製アプリに対応しています。タッチボタンを備えたこのデジタル電子書籍リーダー（eペーパータブレット）は、厚さわずか6.98mmのスリムなボディで、本のような外観であり、使いやすく持ち運びも簡単です。",
+        "【いつでも快適な読書体験】この目に優しいAndroid搭載電子書籍リーダーは、4種類の画面リフレッシュモードを搭載しており、写真、テキスト、ウェブ閲覧、動画視聴などの操作性能を向上させます。鮮明でシャープな表示効果を実現するこのAndroidデジタル電子ペーパータブレットリーダーは、36段階に調整可能なデュアルフロントライトモードも備えており、昼夜を問わず最適な明るさを選択できるため、目を優しく守ります。",
+        "【オクタコア＆大容量ストレージ】Bigmeの電子書籍リーダーは、高性能なオクタコアプロセッサ（2.3GHz）、4GBのRAM、64GBの大容量内蔵ストレージを搭載しており、スムーズな動作と十分な保存容量を確保しています。約40,000冊の書籍を保存可能で、さらにmicroSDカード（別売）による最大1TBまでの拡張にも対応しています。バッテリー駆動時間が長く、数週間にわたって読書を楽しむことができます。",
+        "【多機能性】このデジタル電子ペーパータブレット兼Android電子書籍リーダーは、電子書籍リーダーとしての機能に加え、タブレット機能も兼ね備えています。スマートオーディオブック、マルチAI GPT要約、翻訳、Q&A、データ同期機能をサポートし、多様な読書形式やアプリケーションを提供します。また、Bigme e-readerはハイファイ音質を搭載しており、ユーザーの聴覚と読書体験をさらに豊かにします。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子ペーパー タブレット"
+      ]
+    },
+    {
+      "asin": "B0GYJNPM9Y",
+      "title": "TCL Note A1 NXTPAPER 11.5インチ フルカラー電子ノート 120Hz 極薄5.5mm AIタブレット【専用スタイラスペン付属】ChatGPT搭載 Google Play対応 AI音声文字起こし/翻訳 目に優しい ペーパーライクディスプレイ 8GB+256GB ビジネス/学習/創作用 スマートノート",
+      "url": "https://www.amazon.co.jp/dp/B0GYJNPM9Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GYJNPM9Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31BtC7coemL._SL500_.jpg",
+      "features": [
+        "【120Hz 高リフレッシュレートタブレット】革新的な NXTPAPER アイケアディスプレイ。TCL独自のペーパーライク技術と120Hzの高リフレッシュレートを搭載。3Aクリスタルシールドガラス（アンチグレア/反射防止/指紋防止）を採用し、従来の電子ペーパー特有の残像や遅延といった**悩みを効果的に解消（または 大幅に軽減）**します。TÜV（テュフ）認証を取得した目に優しい画面で、極めて滑らかで快適な視覚体験を提供します。",
+        "【本物の紙とペンのような感触】X軸リニアモーターによる自然な書き心地。TCLのNXTPAPER技術を搭載した新しいNXTPAPER Pureディスプレイは、Note A1 電子メモ に大きな進化をもたらします。紙のような自然な表示を実現しつつ、ブルーライトの出力を2.44%以下に抑えています。",
+        "【AI 会議議事録マスター】8マイクアレイ＆スマート音声文字起こし Note A1 電子メモパッド プロフェッショナル仕様の8マイクアレイと指向性ノイズキャンセリング技術を搭載し、会議の細部まで正確に集音。録音から文字への変換、リアルタイムの多言語翻訳、AIによる議事録要約をサポート。メモ取りから解放され、思考に集中できます。",
+        "【万能 AI 手書きツールボックス】乱雑なメモを一瞬で整頓 Note A1 スマートノート先進的な（または 最先端の）**AI手書き補正機能を搭載：手書き文字のテキスト変換、文字の美化（クリーンアップ）、ワンストローク図形描画（正確な図形の作成）をサポートします。さらに、複雑な手書きの数学数式認識にも対応しており、記録作業の効率を大幅に向上させます。",
+        "【AI クリエイティブ＆ライティング支援】24時間体制のパーソナルアシスタント。単なるノートにとどまらない、強力な生産性エンジン。文章の推敲（リライト）、多言語翻訳、要約などのAIライティング支援機能を深く統合。さらにEdge AIブラウザを内蔵し、いつでもどこでも効率的な知識の検索と探求が可能です。インテリジェントなプライバシー保護機能により、探索中のデータが安全に守られます。",
+        "【1670万色のフルカラー表示】従来の白黒ディスプレイからの解放。 従来のモノクロ電子書籍リーダーとは一線を画す、11.5インチ（黄金比 3:2）のTrue Toneディスプレイ。1670万色の豊かな色彩表現に対応し、カラーの図表への書き込み、画集の閲覧、ウェブブラウジングまで、驚くほど鮮やかで鮮明なディテールを再現します。",
+        "【境界のないインスピレーション空間】無限キャンバス＆没入型スプリットスクリーン。枠に縛られない「フリーフォームノート（無限キャンバス）」機能を提供し、思考を自由に展開。さらに、左画面で資料を読みながら右画面でノートを取るなど、効率的なスプリットスクリーン（画面分割）モードに対応。情報整理がよりスムーズになります。",
+        "【多彩なフォーマットとアプリの互換性】真のオープンエコシステム。PDF、Word、PPT、EPUBなど15種類以上の主要なドキュメント形式の閲覧・注釈にネイティブ対応。システムの自由度が高く、クラウドサービスやLAN経由でのファイル転送が可能。Kindleなどのサードパーティ製読書アプリ（APK）のインストールもサポートし、コンテンツの壁を取り払います。",
+        "【8000mAh の超大容量バッテリー】ビジネスでのバッテリー切れの不安を解消。5.5mmの極薄ボディに8000mAhの超大容量バッテリーを搭載し、33Wの急速充電に対応。一日中の連続した会議から長時間の出張まで、常に高いパフォーマンスを維持し続けます。",
+        "【航空機グレードの極薄メタルデザイン】軽量さと堅牢性の両立。航空機グレードのアルミニウムを一体成型。厚さわずか5.5mm、重量500gという驚異的な薄さと軽さを実現。ミニマルで洗練されたビジネスの美学と妥協のない耐久性を兼ね備え、プロフェッショナルにふさわしい上質な質感を放ちます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子ペーパー タブレット"
+      ]
+    },
+    {
+      "asin": "B0FY2Q49WD",
+      "title": "iFLYTEK AINOTE 2 電子ノート 10.65インチ 超薄型4.2mm E-Ink タブレット ChatGPT搭載 Google Play完全対応 録音 文字起こし 手書き 要約 翻訳 AIスマートノート ビジネス・仕事・学習用",
+      "url": "https://www.amazon.co.jp/dp/B0FY2Q49WD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FY2Q49WD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41RFcwpL9AL._SL500_.jpg",
+      "features": [
+        "【極薄・極軽・大画面｜驚異の携帯性】電子ノートの概念を変える、厚さわずか4.2mm・重量295gの超薄軽量ボディ。10.65インチの大画面電子ペーパーを搭載し、最高の携帯性と視認性を両立。このタブレットは、ビジネスパーソンの理想の携帯端末です。",
+        "【次世代AIアシスタント｜GPT-5で思考を加速】会議音声の自動議事録化、専用AIボタンによる即時質疑応答、キーワード検索からドキュメント自動作成まで。先進のGPT-5モデルを搭載したこのAIノートは、アイデア出しから資料整理までを強力にサポートする、賢いスマートノートです。",
+        "【Wacom技術による紙感筆記｜アイデアをなめらかに記録】iFLYTEKとWacomが共同開発したスタイラスペンが、電子メモに革命を起こします。低遅延技術と最適化されたリフレッシュレートで、まるで紙に書いているようなリアルな筆記感覚を実現。この電子パッドは、創造性を最大限に解放します。",
+        "【プロ級文字起こし翻訳｜グローバルコミュニケーションを支援】会議・講義を高精度録音し、リアルタイムで文字起こし。18言語の文字起こし・14言語の翻訳機能で言語の壁を越えたコミュニケーションをサポート。このデジタルノートは、国際ビジネスで真価を発揮します。",
+        "【目にやさしい｜快適な電子書籍リーダー】まぶしさやブルーライトを大幅カットするE-Inkタブレットは、長時間の読書にも最適。電子書籍から資料閲覧まで、目の負担を軽減し、没入できる読書体験を提供する優れた電子書籍リーダーです。",
+        "【スケジュールとメモの連携｜スマート生産性向上】手書き電子メモに付けた「✰」「○」記号からToDoを自動抽出。Googleカレンダーと連携し、予定とノートを一元管理。このスマートノートは、計画と実行のサイクルを完結させます。",
+        "【Android 14 & Google Play｜アプリで可能性を拡張】最新Android 14を搭載したこのE-inkタブレットは、Google Playからアプリを直接インストール可能。お好みの生産性アプリと組み合わせ、最適なワークフローを構築できます。",
+        "【驚異の長時間駆動｜充電の煩わしさから解放】4000mAhの大容量バッテリー搭載のこの電子ノートは、最大2週間の連続使用を実現。頻繁な充電不要で、仕事や学習のフローを中断させません。バッテリー持続時間14日間は、ユーザーの平均的な使用状況（録音＋手書きの合計30分／日、その他の時間は電源オフ）に基づく目安です。",
+        "【大容量＆堅牢セキュリティ｜ローカル保存でデータを強力保護】本デジタルノートは大容量ストレージを搭載し、すべてのデータを端末内にローカル保存。さらに、様々なセキュリティ基準に準拠しており、あなたのアイデアやノートを厳格かつ安全に保護します。",
+        "【シームレスなマルチデバイス連携｜ワークフローを最適化】AINOTE Mobileアプリ・PC版との連携により、このスマートノートは全てのデバイス間でノートを自動同期。オフィス、自宅、外出先を問わず、いつでも最新情報にアクセス可能な電子パッドです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子ペーパー タブレット",
+        "読書 タブレット 目に優しい"
+      ]
+    },
+    {
+      "asin": "B0GWHJ7D29",
+      "title": "Bigme B6カラー電子リーダー、6インチ電子インクスクリーンデジタル電子ペーパータブレット、アンドロイド14、4 GB+64 GB付き、調節可能なヘッドランプ電子書籍リーダー装置、音声読み物翻訳機と録音付き ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0GWHJ7D29?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GWHJ7D29?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41xmYCd-S0L._SL500_.jpg",
+      "features": [
+        "【携帯型電子書籍リーダー】アンドロイド14オペレーティングシステムを用いて発売された電子書籍リーダーは、2.4 Gと5 G wifi接続、Bluetooth接続、サードパーティ製アプリケーションをサポートしている。このデジタル電子ペーパータブレットはタッチボタンがあり、本体はスリムで、厚さは6.98 mmで、本のように見え、使いやすく、携帯しやすい",
+        "【300 PPI電子インクハイビジョンディスプレイ】カラー電子インクkaleido 3ディスプレイを搭載した6インチ電子ブックリーダー。ゼロBlu-rayで点滅なし、Bigmeカラー電子リーダーは鮮明なテキストと生き生きとした画像を提供し、紙の視覚を快適に体験しながら、長期的に読むことができます",
+        "【強力な性能と大容量ストレージ】Android 電子ペーパータブレット bigme カラー電子書籍リーダーは先進的なOcta-Coreプロセッサー（2.3 GHZ）を搭載し、4 GB RAM+64 GBの大容量内部ストレージを搭載し、性能の流暢さと十分なストレージを確保し、約40000冊の本を収容できるほか、Bigme電子書籍リーダーはマイクロSDカード（含まず）の拡張をサポートし、バッテリー寿命が長く、数週間の読書を楽しむことができる",
+        "【いつでもどこでも快適に読む】このカラー電子リーダーには4種類の画面リフレッシュモードがあり、写真、文字、Webブラウズ、ビデオ視聴などの操作の性能を向上させ、鮮明でシャープな表示効果を見せることができます。このカラーデジタルペンリーダーには36レベルの調整可能なデュアルフロントライトモードもあり、昼と夜に最適な明るさを見つけ、目をケアします",
+        "【多機能】りタブレット このカラー電子リーダー装置は電子書籍リーダーの機能を結合しただけでなく、タブレットPCの機能を結合し、インテリジェント音声読み物、多AI GPT要約、翻訳、問答、同期データ転送をサポートし、多種の読書フォーマットとアプリケーションを提供し、高忠実な音質を備え、ユーザーの聴力と読書体験を強化する",
+        "【何を手に入れますか】電子書籍リーダー パッケージには、1*Bigme B 6カラー電子書籍リーダー、1*ユーザーマニュアル &1* ギフトボックス。電子ペーパー カラーこのアンドロイド電子書籍リーダーは、学生、家族、友人、専門家への理想的なプレゼントです。製品について何か質問があれば、お問い合わせください。お客様にやさしいカスタマーサービスを提供し、問題の解決に役立ちます"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "電子ペーパー タブレット"
+      ]
+    },
+    {
+      "asin": "B0D493Y9ZB",
+      "title": "Kobo Libra Colour （ホワイト） / カラー対応/書き込み機能/Eink/電子書籍リーダー / 32 GB/防水 / IPX8 / Wi-Fi/タッチスクリーン/タブレット/ComfortLight PRO",
+      "url": "https://www.amazon.co.jp/dp/B0D493Y9ZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D493Y9ZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/417dk642+gL._SL500_.jpg",
+      "features": [
+        "【心地よい電子ペーパーで感動のカラー体験】電子ペーパー特有の柔らかな色調で、長時間の読書も快適。",
+        "【7インチ大画面！見開きで楽しむ臨場感】2ページに渡る迫力のあるシーンも紙のコミックと同じようにお楽しみいただけます。",
+        "【目に優しいComfortLight PRO】周囲の明るさに合わせた色相調整やブルーライト抑制・ダークモードなどにも対応。朝昼晩、どんなシーンでも、あなたの目に一番優しい光でリラックスして読書に集中できます。",
+        "【安心の防水機能】水没しても安心の「IPX8」規格に準拠。お風呂やキッチンでも安心してご使用いただけます。",
+        "【「読書」に集中できる、贅沢な時間】読書専用端末で心ゆくまで作品の世界に没頭。集中を削ぐ通知に邪魔されることがありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kobo 電子書籍リーダー"
+      ]
+    },
+    {
+      "asin": "B0GHYFLXYX",
+      "title": "Kobo Remote｜ページめくり機能｜Kobo電子書籍リーダー対応｜ハンズフリー読書｜Bluetooth®接続｜ホワイト (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0GHYFLXYX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GHYFLXYX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31xdIvT9n7L._SL500_.jpg",
+      "features": [
+        "Kobo Remoteは、楽天Kobo電子書籍リーダーのリモートコントローラーです。Bluetooth接続による遠隔操作で、長時間の読書でも疲れ知らず。特にソファやベッドでのリラックスした読書時間に最適です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kobo 電子書籍リーダー"
+      ]
+    },
+    {
+      "asin": "B0FRSDQ9JN",
+      "title": "Kobo Clara Colour（ホワイト） / カラー対応/Eink/電子書籍リーダー / 16 GB/防水 / IPX8 / Wi-Fi/タッチスクリーン/タブレット/ComfortLight PRO",
+      "url": "https://www.amazon.co.jp/dp/B0FRSDQ9JN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FRSDQ9JN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31SOAf0t+IL._SL500_.jpg",
+      "features": [
+        "【心地よい電子ペーパーで感動のカラー体験】エントリーモデルながらカラーに対応。電子ペーパー特有の柔らかな色調で、長時間の読書も快適。",
+        "【目に優しいComfortLight PRO】周囲の明るさに合わせた色相調整やブルーライト抑制・ダークモードなどにも対応。朝昼晩、どんなシーンでも、あなたの目に一番優しい光でリラックスして読書に集中できます。",
+        "【安心の防水機能】水没しても安心の「IPX8」規格に準拠。お風呂やキッチンでも安心してご使用いただけます。",
+        "【「読書」に集中できる、贅沢な時間】読書専用端末で心ゆくまで作品の世界に没頭。集中を削ぐ通知に邪魔されることがありません。",
+        "【充電を気にせず読書三昧】最大8週間もバッテリーが持続！ 旅行や出張でも、充電を気にする必要はありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kobo 電子書籍リーダー"
+      ]
+    },
+    {
+      "asin": "B0D4978BWY",
+      "title": "Kobo Clara BW/Eink/電子書籍リーダー / 16 GB/防水 / IPX8 / Wi-Fi/タッチスクリーン/タブレット/ComfortLight PRO",
+      "url": "https://www.amazon.co.jp/dp/B0D4978BWY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D4978BWY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/4126GyfzKlL._SL500_.jpg",
+      "features": [
+        "【初めての電子書籍リーダーに】基本機能を兼ね揃えたエントリーモデル。",
+        "【目に優しいComfortLight PRO】周囲の明るさに合わせた色相調整やブルーライト抑制・ダークモードなどにも対応。朝昼晩、どんなシーンでも、あなたの目に一番優しい光でリラックスして読書に集中できます。",
+        "【安心の防水機能】水没しても安心の「IPX8」規格に準拠。お風呂やキッチンでも安心してご使用いただけます。",
+        "【「読書」に集中できる、贅沢な時間】読書専用端末で心ゆくまで作品の世界に没頭。集中を削ぐ通知に邪魔されることがありません。",
+        "【充電を気にせず読書三昧】最大8週間もバッテリーが持続！ 旅行や出張でも、充電を気にする必要はありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kobo 電子書籍リーダー"
+      ]
+    },
+    {
+      "asin": "B0FRZ2M9ZY",
+      "title": "Kobo Clara Colour（ホワイト） スリープカバー（ブラック）セット/カラー対応/タブレット/Eink / 6インチ / 電子書籍リーダー / 16 GB/防水 / IPX8 / Wi-Fi/タッチスクリーン/ComfortLight PRO",
+      "url": "https://www.amazon.co.jp/dp/B0FRZ2M9ZY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FRZ2M9ZY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/412N021EhXL._SL500_.jpg",
+      "features": [
+        "【心地よい電子ペーパーで感動のカラー体験】エントリーモデルながらカラーに対応。電子ペーパー特有の柔らかな色調で、長時間の読書も快適。",
+        "【目に優しいComfortLight PRO】周囲の明るさに合わせた色相調整やブルーライト抑制・ダークモードなどにも対応。朝昼晩、どんなシーンでも、あなたの目に一番優しい光でリラックスして読書に集中できます。",
+        "【安心の防水機能】水没しても安心の「IPX8」規格に準拠。お風呂やキッチンでも安心してご使用いただけます。",
+        "【「読書」に集中できる、贅沢な時間】読書専用端末で心ゆくまで作品の世界に没頭。集中を削ぐ通知に邪魔されることがありません。",
+        "【充電を気にせず読書三昧】最大8週間もバッテリーが持続！ 旅行や出張でも、充電を気にする必要はありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kobo 電子書籍リーダー"
+      ]
+    },
+    {
+      "asin": "B0DDX7HVKZ",
+      "title": "Kobo Clara Colour（ブラック）スリープカバー（ブラック）セット/カラー対応/タブレット/Eink / 6インチ / 電子書籍リーダー / 16 GB/防水 / IPX8 / Wi-Fi/タッチスクリーン/ComfortLight PRO",
+      "url": "https://www.amazon.co.jp/dp/B0DDX7HVKZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDX7HVKZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41+IkBu8ixL._SL500_.jpg",
+      "features": [
+        "【心地よい電子ペーパーで感動のカラー体験】エントリーモデルながらカラーに対応。電子ペーパー特有の柔らかな色調で、長時間の読書も快適。",
+        "【目に優しいComfortLight PRO】周囲の明るさに合わせた色相調整やブルーライト抑制・ダークモードなどにも対応。朝昼晩、どんなシーンでも、あなたの目に一番優しい光でリラックスして読書に集中できます。",
+        "【安心の防水機能】水没しても安心の「IPX8」規格に準拠。お風呂やキッチンでも安心してご使用いただけます。",
+        "【「読書」に集中できる、贅沢な時間】読書専用端末で心ゆくまで作品の世界に没頭。集中を削ぐ通知に邪魔されることがありません。",
+        "【充電を気にせず読書三昧】最大8週間もバッテリーが持続！ 旅行や出張でも、充電を気にする必要はありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kobo 電子書籍リーダー"
+      ]
+    },
+    {
+      "asin": "B0DDXJ3KQB",
+      "title": "Kobo Clara BW スリープカバー（ブラック）セット/タブレット/Eink / 6インチ / 電子書籍リーダー / 16 GB/防水 / IPX8 / Wi-Fi/タッチスクリーン/ComfortLight PRO",
+      "url": "https://www.amazon.co.jp/dp/B0DDXJ3KQB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDXJ3KQB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41yfWQ7LFIL._SL500_.jpg",
+      "features": [
+        "【初めての電子書籍リーダーに】基本機能を兼ね揃えたエントリーモデル。",
+        "【目に優しいComfortLight PRO】周囲の明るさに合わせた色相調整やブルーライト抑制・ダークモードなどにも対応。朝昼晩、どんなシーンでも、あなたの目に一番優しい光でリラックスして読書に集中できます。",
+        "【安心の防水機能】水没しても安心の「IPX8」規格に準拠。お風呂やキッチンでも安心してご使用いただけます。",
+        "【「読書」に集中できる、贅沢な時間】読書専用端末で心ゆくまで作品の世界に没頭。集中を削ぐ通知に邪魔されることがありません。",
+        "【充電を気にせず読書三昧】最大8週間もバッテリーが持続！ 旅行や出張でも、充電を気にする必要はありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kobo 電子書籍リーダー"
+      ]
+    },
+    {
+      "asin": "B0HC74X35Z",
+      "title": "【セット品】Kobo Libra Colour (ブラック) ＋ Kobo スタイラス2 (ブラック) | カラー対応電子書籍リーダー | 32GB | 防水 | メモ・書き込み・読書に最適",
+      "url": "https://www.amazon.co.jp/dp/B0HC74X35Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0HC74X35Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31XikOisRSL._SL500_.jpg",
+      "features": [
+        "【心地よい電子ペーパーで感動のカラー体験】電子ペーパー特有の柔らかな色調で、長時間の読書も快適。",
+        "【7インチ大画面！見開きで楽しむ臨場感】2ページに渡る迫力のあるシーンも紙のコミックと同じようにお楽しみいただけます。",
+        "【目に優しいComfortLight PRO】周囲の明るさに合わせた色相調整やブルーライト抑制・ダークモードなどにも対応。朝昼晩、どんなシーンでも、あなたの目に一番優しい光でリラックスして読書に集中できます。",
+        "【安心の防水機能】水没しても安心の「IPX8」規格に準拠。お風呂やキッチンでも安心してご使用いただけます。",
+        "【「読書」に集中できる、贅沢な時間】読書専用端末で心ゆくまで作品の世界に没頭。集中を削ぐ通知に邪魔されることがありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kobo 電子書籍リーダー"
+      ]
+    },
+    {
+      "asin": "B0DDX9ZKS1",
+      "title": "Kobo Clara Colour（ブラック）スリープカバー（キャンディーピンク）セット/カラー対応/タブレット/Eink / 6インチ / 電子書籍リーダー / 16 GB/防水 / IPX8 / Wi-Fi/タッチスクリーン/ComfortLight PRO",
+      "url": "https://www.amazon.co.jp/dp/B0DDX9ZKS1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDX9ZKS1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/4173sRZDGfL._SL500_.jpg",
+      "features": [
+        "【心地よい電子ペーパーで感動のカラー体験】エントリーモデルながらカラーに対応。電子ペーパー特有の柔らかな色調で、長時間の読書も快適。",
+        "【目に優しいComfortLight PRO】周囲の明るさに合わせた色相調整やブルーライト抑制・ダークモードなどにも対応。朝昼晩、どんなシーンでも、あなたの目に一番優しい光でリラックスして読書に集中できます。",
+        "【安心の防水機能】水没しても安心の「IPX8」規格に準拠。お風呂やキッチンでも安心してご使用いただけます。",
+        "【「読書」に集中できる、贅沢な時間】読書専用端末で心ゆくまで作品の世界に没頭。集中を削ぐ通知に邪魔されることがありません。",
+        "【充電を気にせず読書三昧】最大8週間もバッテリーが持続！ 旅行や出張でも、充電を気にする必要はありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kobo 電子書籍リーダー"
+      ]
+    },
+    {
+      "asin": "B0F8BS8F25",
+      "title": "Kobo Clara Colour（ブラック）スリープカバー（ダスクブルー）セット/カラー対応/タブレット/Eink / 6インチ / 電子書籍リーダー / 16 GB/防水 / IPX8 / Wi-Fi/タッチスクリーン/ComfortLight PRO",
+      "url": "https://www.amazon.co.jp/dp/B0F8BS8F25?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F8BS8F25?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/4117c9+eCFL._SL500_.jpg",
+      "features": [
+        "【心地よい電子ペーパーで感動のカラー体験】エントリーモデルながらカラーに対応。電子ペーパー特有の柔らかな色調で、長時間の読書も快適。",
+        "【目に優しいComfortLight PRO】周囲の明るさに合わせた色相調整やブルーライト抑制・ダークモードなどにも対応。朝昼晩、どんなシーンでも、あなたの目に一番優しい光でリラックスして読書に集中できます。",
+        "【安心の防水機能】水没しても安心の「IPX8」規格に準拠。お風呂やキッチンでも安心してご使用いただけます。",
+        "【「読書」に集中できる、贅沢な時間】読書専用端末で心ゆくまで作品の世界に没頭。集中を削ぐ通知に邪魔されることがありません。",
+        "【充電を気にせず読書三昧】最大8週間もバッテリーが持続！ 旅行や出張でも、充電を気にする必要はありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Kobo 電子書籍リーダー"
+      ]
+    },
+    {
+      "asin": "B0C2XN8HKD",
+      "title": "Amazon Fire HD 10 インチ タブレット - 1080pフル HDディスプレイ、大画面で動画もマンガも - 32GB ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0C2XN8HKD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C2XN8HKD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/410SuEglKsL._SL500_.jpg",
+      "features": [
+        "【10.1インチの大画面】1080pフルHDで動画、マンガも大画面で。",
+        "【薄くて、軽くて、丈夫】持ち運びにも便利。落下テストでの耐久性は Apple iPad 10.9 (第10世代)の約4倍。",
+        "【長時間バッテリー】最大13時間の連続使用が可能で外出先でも安心。",
+        "【高速パフォーマンス】前世代機よりも最大25％パフォーマンスが改善。3GB RAM、8コアプロセッサ―搭載でエンターテイメントもサクサク楽しめます。",
+        "【5MPカメラ】Zoomで家族や、友達との通話に。インスタグラムに投稿する動画にも。",
+        "【イラストや写真編集に】Made for Amazon スタイラスペン(別売)と一緒に使えば、4,096筆圧検知、パームリジェクション対応でのイラスト制作が可能。対応アプリはメディバンペイント、OneNoteなどです。",
+        "【Alexa搭載】Alexaに話しかけるだけでアラーム設定、音楽再生、Alexa対応スマートホーム製品(別売)など簡単操作。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "読書 タブレット 目に優しい"
+      ]
+    },
+    {
+      "asin": "B0D97PYR2D",
+      "title": "Redmi Pad SE 8.7 8.7インチディスプレイ 4+64GB(最大2TB拡張) 90Hz 低ブルーライト 最大輝度600nit 5:3アスペクト比 MediaTek Helio G85 WidevineL1 Dolby Atmos対応 デュアルスピーカー 6650mAh 18W急速充電 Wi-Fi Bluethooth 読書 会議 適用 スカイブルー",
+      "url": "https://www.amazon.co.jp/dp/B0D97PYR2D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D97PYR2D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31yQiM+O-2L._SL500_.jpg",
+      "features": [
+        "【片手でも持ちやすい、コンパクトサイズ】Redmi Pad SE 8.7シリーズは8.7インチのコンパクトサイズ、電子書籍や漫画が見やすい5:3のアスペクト比と1340×800の解像度に、84.41%の画面占有率のディスプレイを搭載し、持ち歩きしやすいエンターテインメント体験を実現します。",
+        "【90Hzリフレッシュレート対応ディスプレイ】コンパクトでありながら、90Hzの高リフレッシュレートにより、映像を観る時やコンテンツをスクロールする時の表示をよりなめらかに表現。最大600nitsのピーク輝度で屋外での視認性も高く、日差しの下でも、クリアのままお気に入りのコンテンツを視聴できます。TÜV Rheinlandの低ブルーライト認証とフリッカーフリー認証を取得、長時間の使用による目の疲れを軽減。",
+        "【6650mAhバッテリー、18Wの急速充電対応】25.2時間の動画再生、163.8時間の音楽再生、34.2時間の読書、6650mAhの大容量バッテリーにより、想像以上の駆動時間を実現。Redmi Pad SE 8.7シリーズは汎用性の高い18Wの急速充電に対応しており、急なバッテリー切れでも、しばらく充電すればすぐ回復します。",
+        "【Dolby Atmos対応】Dolby Atmos対応のステレオスピーカーを搭載したRedmi Pad SE 8.7シリーズは、音楽鑑賞も、映画視聴も、豊かなサウンドで、没入感の高い体験を提供します。",
+        "【オクタコアプロセッサー】Redmi Pad SE 8.7シリーズはMediaTek Helio G85プロセッサと最大 6GB RAMを搭載しています。電子書籍やウェブ閲覧などの日常使用はサクサク操作できます。マルチタスクでもラグを最小限に抑え、最適なパフォーマンスを実現します。最大2TBの外部ストレージに対応。コンテンツ保存がストレスフリーになり、より快適な使用体験をもたらします。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "読書 タブレット 目に優しい"
+      ]
+    },
+    {
+      "asin": "B0DX1TFTY1",
+      "title": "iFLYTEK AINOTE Air 2 電子ノート 8.2インチ E-Ink タブレット 黒色保護ケース付き ChatGPT連携 音声文字起こし テキスト変換 多言語翻訳 超軽量 手書き ノートパッド スタイラスペン付 電子書籍リーダー ビジネス 会議 学習",
+      "url": "https://www.amazon.co.jp/dp/B0DX1TFTY1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DX1TFTY1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51-Y8DSwzWL._SL500_.jpg",
+      "features": [
+        "【話すだけでメモ完了】15言語対応のリアルタイム音声文字起こし機能を搭載。会議、インタビュー、オンライン打ち合わせも、話すだけで自動的に文字化。もう手書きメモに追われることなく、会話に集中できます。業務効率と生産性が大幅に向上します。",
+        "【面倒な手書き整理から解放】83言語対応の手書き文字認識機能を備えた電子ペーパーで、授業ノートや会議メモが即座にデジタル化。紙に書くような自由さと、デジタル整理の手軽さを両立。メモの検索・管理が驚くほどスムーズになります。",
+        "【ChatGPTで議事録も自動整理】ChatGPTと連携した電子ノートだから、議事録の自動生成・要点抽出が可能。専属アシスタントのように、会話内容を整理し、即座にチームで共有。知識検索や質問対応もサポートし、会議後の作業負担を大幅に軽減します。",
+        "【Wacom技術によるなめらかな書き心地】世界的なペンタブブランドWacomと共同開発したスタイラスペンを搭載。高精度・低遅延のペン入力で、アイデアや図表も直感的に描けます。",
+        "【双方向翻訳で国際対応も安心】10言語間のリアルタイム翻訳機能で、国際会議や語学学習もスムーズにサポート。聞いた言葉をその場で理解できるため、言語の壁を感じさせません。海外取引や留学にも頼れるパートナーです。",
+        "【読書も快適に、2色調整ライト付き】本物の紙のような読み心地で目にやさしく、長時間でも快適に読書可能。2色の色温度（暖色・寒色）を24段階で調整でき、明るい昼間から夜の寝室まで、シーンに応じた最適な読書環境を提供します。",
+        "【手書きToDoでスマートに予定管理】手書きで「✰」や「○」などのマークをつけるだけで、ToDoリストやスケジュールが自動作成されます。週次レポートや日別タスクの可視化で、仕事の進行管理も簡単。手書きがそのまま“使える情報”に変わります。",
+        "【超薄・軽量、持ち運びもスマートに】厚さ5mm・重さ230gのスリム設計で、バッグやポーチにもすっきり収納。出張・通勤・カフェなど外出先でも快適に使える、持ち歩ける高性能タブレット端末です。",
+        "【大容量バッテリーで安心の連続使用】2600mAhのバッテリーで最大7日間使用可能。32GBの本体ストレージに加え、クラウドバックアップも対応し、メモや書類を安心保存。学習・ビジネスを止めない安定したパフォーマンスを実現します。",
+        "【黒色専用ケース付き限定セット】8.2インチ電子ペーパー本体、専用スタイラスペン、黒色ケース、Type-Cケーブル、取扱説明書がセットに。防水・防塵仕様の専用カバーが、大切な端末を衝撃やキズからしっかり守ります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "読書 タブレット 目に優しい"
+      ]
+    },
+    {
+      "asin": "B0FHGXG7SN",
+      "title": "iFLYTEK AINOTE Air 2 電子ノート ChatGPT搭載 手書きタブレット 紺色保護ケース付き 音声文字起こし テキスト化機能 多言語翻訳 超軽量 8.2インチ 電子書籍リーダー ビジネス 会議 学習に最適",
+      "url": "https://www.amazon.co.jp/dp/B0FHGXG7SN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FHGXG7SN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51uSrY6uSwL._SL500_.jpg",
+      "features": [
+        "【話すだけでメモ完了】15言語対応のリアルタイム音声文字起こし機能を搭載。会議、インタビュー、オンライン打ち合わせも、話すだけで自動的に文字化。もう手書きメモに追われることなく、会話に集中できます。業務効率と生産性が大幅に向上します。",
+        "【面倒な手書き整理から解放】83言語対応の手書き文字認識機能を備えた電子ペーパーで、授業ノートや会議メモが即座にデジタル化。紙に書くような自由さと、デジタル整理の手軽さを両立。メモの検索・管理が驚くほどスムーズになります。",
+        "【ChatGPTで議事録も自動整理】ChatGPTと連携した電子ノートだから、議事録の自動生成・要点抽出が可能。専属アシスタントのように、会話内容を整理し、即座にチームで共有。知識検索や質問対応もサポートし、会議後の作業負担を大幅に軽減します。",
+        "【Wacom技術によるなめらかな書き心地】世界的なペンタブブランドWacomと共同開発したスタイラスペンを搭載。高精度・低遅延のペン入力で、アイデアや図表も直感的に描けます。",
+        "【双方向翻訳で国際対応も安心】10言語間のリアルタイム翻訳機能で、国際会議や語学学習もスムーズにサポート。聞いた言葉をその場で理解できるため、言語の壁を感じさせません。海外取引や留学にも頼れるパートナーです。",
+        "【読書も快適に、2色調整ライト付き】本物の紙のような読み心地で目にやさしく、長時間でも快適に読書可能。2色の色温度（暖色・寒色）を24段階で調整でき、明るい昼間から夜の寝室まで、シーンに応じた最適な読書環境を提供します。",
+        "【手書きToDoでスマートに予定管理】手書きで「✰」や「○」などのマークをつけるだけで、ToDoリストやスケジュールが自動作成されます。週次レポートや日別タスクの可視化で、仕事の進行管理も簡単。手書きがそのまま“使える情報”に変わります。",
+        "【超薄・軽量、持ち運びもスマートに】厚さ5mm・重さ230gのスリム設計で、バッグやポーチにもすっきり収納。出張・通勤・カフェなど外出先でも快適に使える、持ち歩ける高性能タブレット端末です。",
+        "【大容量バッテリーで安心の連続使用】2600mAhのバッテリーで最大7日間使用可能。32GBの本体ストレージに加え、クラウドバックアップも対応し、メモや書類を安心保存。学習・ビジネスを止めない安定したパフォーマンスを実現します。",
+        "【紺色専用ケース付き限定セット】8.2インチ電子ペーパー本体、専用スタイラスペン、紺色ケース、Type-Cケーブル、取扱説明書がセットに。防水・防塵仕様の専用カバーが、大切な端末を衝撃やキズからしっかり守ります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "読書 タブレット 目に優しい"
+      ]
+    },
+    {
+      "asin": "B0BY8SB8MZ",
+      "title": "BenQ MindDuo 2 学習用デスクライト 広範囲照明 太陽光LED照明 まぶしさ防止 目に優しい 読書向け ノートPC/タブレット向け (オンライン授業 家庭学習 勉強 自由研究 お絵描き 塗り絵 ペーパーワーク) ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0BY8SB8MZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BY8SB8MZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21a9dl3Tu8L._SL500_.jpg",
+      "features": [
+        "成長に寄り添うデスクライト：デジタルネイティブ時代の子どもの目を守り、幼少期の色彩感覚の育成や自由研究、中高生の長時間学習まで、学習のあらゆるタイミングをサポートします。",
+        "学習時間の増加に対応：長時間でも快適に学習できる環境を実現。JIS AA級を超える広範囲照明でデスク全体を明るく照らし、複数の教材を広げても影ができにくく、手元をくっきりと照らします。",
+        "色彩感覚を育てる：自然な見え方を再現する高い演色性（Ra≥95）を実現。太陽光に近い光を提供し、図工や絵画などの表現活動や観察において、正しい色の認識をサポートします。",
+        "明るい学習環境を習慣化：手をかざしたり、ノブを回すだけで操作できるほか、センサーによる自動点灯・消灯や、休憩を促す30分タイマー機能も搭載しています。",
+        "オンライン授業にも対応：リーディングや読書に適した明るさへ自動調整するモードに加え、中央の光を抑えてタブレットやノートPC、スマートフォンの画面へのまぶしさを軽減するスクリーン閲覧モードを搭載しています。",
+        "【アクセサリー】BenQ公式サイトで別売のデスククランプリングを組み合わせればデスクをよりスリムに活用できます。机の端に固定できるため、コンパクトな学習デスクやベッドデスクにも対応し、設置の柔軟性が大幅に向上します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "読書 タブレット 目に優しい"
+      ]
+    },
+    {
+      "asin": "B0BQ71L6R9",
+      "title": "【2025革新モデル】 デスクライト LED スタンドライト 目に優しい 電気スタンド 省エネ 卓上 調色5段階 無段階調光 明るい ブックライト タッチセンサー 多角度調整 読書灯 折り畳み式 コンパクト 簡単操作 USB給電式 メモリー機能 タイマー テーブルライト USBポート 台灯 寝室/勉強/仕事/学習机 type-C(ホワイト＆シルバー)",
+      "url": "https://www.amazon.co.jp/dp/B0BQ71L6R9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BQ71L6R9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31gghnzZOiL._SL500_.jpg",
+      "features": [
+        "✨【超高輝度・調色5段階・無段階調光・タッチセンサー】 Lettop デスクライト は電球色、温白色、白色、昼白色、昼光色など5種の色温度調節、明るさ調整が無段階調光の親切設計な電気スタンドとなり、卓上 ライトの色温度調整は調節スイッチ1つで、明るさ調整は電源スイッチを長押しで調整できる操作簡単な スタンドライト ledです。最大ルーメンは600まで至り、他の製品と比べ、より明るく卓上照明でき、長時間の集中にサポートできるデスクライトです。さらに、タッチセンサー式で指で優しく触れるだけで簡単にオン・オフが調節でき、年寄りから子供まで使用しやすい ディスクライト です。",
+        "✅【目に優しい・高演色性・多重影なし・メモリー機能】 デスク ライトがもっとも自然光に近づく90のRa演色性で、従来のLEDライトと蛍光灯は約70-80のRa演色に比べて、より鮮明に表示はもちろん、勉強中や仕事中の目の疲れを軽減し、作業効率を高めてくれて、子供から大人までの使用に大活躍できるテーブルライト。また、フラット光源なので拡散性があり、周辺をムラなく照らし出すため「多重影なし」「ちらつきなし」目に優しいデスクライト LED。また、明度を記憶してくれるメモリー機能があり、好みの色や明るさが卓上ライトの電源OFFにしても記録されます。タイマー機能も付き、ベッドサイドに設置、ナイトライトや寝る前の読書用に最適な ブックライトです。",
+        "✅【安定性抜群・多角度調整可能・広い可動域・折り畳式】LEDデスクライトが軽量かつ頑丈なアルミ合金素材を採用により、従来の勝手に頭が垂れ下がり、お辞儀してしまうことを克服し、安定性抜群で垂れ下がらない。さらに卓上電気スタンドを多角度調整により、広い可動域で最適な照明が得られます。また、電気すたんどのヘッドとアームの部分も回転でき、使わない時は畳んで置いておけるので、コンパクトで場所を取らない。お出かけ、出張、旅行、サマーキャンプ等様々なシーンに活躍し、持ち運びがラクラクのコンパクト led デスクライトです。",
+        "✅【シンプルでスタイリッシュ・様々なシーンに活躍できる】 シンプルでなめらかな流線形設計の 照明 スタンドで、5種の色温度を備え、💎お休み前に、くつろいでリラックスする時💎お食事、落ち着いた雰囲気のづくり💎読書、仕事、勉強、PC作業、学習机ライトとして💎集中力アップ、効率的な作業など様々な場合に適応できるスタンドライト。台座裏面に滑り止め付き、バツグン安定、倒れる心配は無し。子供の勉強、在宅勤務などに最適な人気の 机ライトです。",
+        "✅【USB給電式・長寿命ライト・省エネ・スマホ充電】デスクライトはtype-C　USB給電式の為、アダプターだけでなく、PC、モバイルバッテリーからも給電可能です。さらいに、デスク用ライトが高輝度ledチップを採用しており、消費電力は約8Wで、従来の蛍光灯タイプの照明スタンドと比較して、寿命が長く、消費電力の少なさから省エネ効果も高い、LEDライト 卓上自体の発熱も抑えられ、子供でも安心してご利用いただけます。USBポートが付き、スマホやタブレットを充電しながら照明できて便利です。【安心サービス】万が一、初期不良や自然故障など不具合が応じた場合、（「アカウントサービス」＞「注文履歴」＞「販売元」＞「質問する」注文番号は領収書に替わります。)"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "読書 タブレット 目に優しい"
+      ]
+    },
+    {
+      "asin": "B09FL1YCRZ",
+      "title": "TECLAST P50T 11インチ 90Hz Android 16 タブレット 16GB/128GB/2TB対応 8000mAh 大容量バッテリー",
+      "url": "https://www.amazon.co.jp/dp/B09FL1YCRZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09FL1YCRZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/5144ADTD5AL._SL500_.jpg",
+      "features": [
+        "【Android16 搭載 11 インチタブレット｜AI アプリ対応で学習・仕事に最適】TECLAST P50T 11 インチタブレットは最新 Android16 を搭載。Unisoc T7250 8 コア CPU＋Mali-G57 GPU により動画鑑賞、オンライン授業、SNS、業務作業までスムーズに動作します。3GB 標準メモリに最大 13GB 拡張可能で計 16GB として運用でき、複数アプリを同時起動しやすい設計で学生・社会人・主婦・高齢者問わず使い勝手良好。Google GMS 認証取得済みで Google Play の膨大なアプリを安心利用可能。ChatGPT、Gemini、Copilot など各種 AI ツールに対応し、文書作成、情報調査、学習支援、アイデア整理といった業務・勉強・生活の効率アップに役立ちます。",
+        "【16GB メモリ＋128GB ストレージ｜最大 2TB microSD 拡張で容量不足知らず】本 11 インチ大画面タブレットは 128GB ROM を標準搭載。写真、動画、電子書籍、教材、業務ファイルを大量保存でき、最大 2TB の microSD カードで容量増設可能。旅行写真の保管やオフライン動画ダウンロードに便利で、家族共有・学習用・仕事用と多シーンで活用できます。WiFi 専用モデルです。",
+        "【11 インチ 90Hz In-cell IPS ディスプレイ｜長時間視聴でも目に優しい】Android16 搭載 P50T は 11 インチ In-cell IPS 液晶を採用。90Hz 高リフレッシュレートにより SNS スクロール、ウェブ閲覧、電子書籍のページ送りが滑らか。読書モード・ダークモード・アイケア機能・明るさ調整を備え、通勤読書、自宅学習、リモートワーク、夜間動画視聴に適します。画面分割機能搭載で並行作業の効率を高めます。",
+        "【8000mAh 大容量バッテリー＋多種便利機能搭載】8000mAh 大容量バッテリーにより動画やネット閲覧、電子書籍を長時間楽しめます。GPS/GLONASS/Galileo/BDS 各測位システム対応でナビ・地図アプリに対応。顔認証ロック、OTG、FM ラジオ、スクショ・長尺撮影・画面録画など実用機能を完備。重力・照度センサー付き、キッズモードやペアレンタルコントロール、アクセシビリティ機能も利用可能。保護フィルム、充電器、Type-C ケーブル、タッチペン、日本語説明書が同梱、開封後すぐ使用できます。",
+        "【Widevine L1＋WiFi6＋Bluetooth5.2｜動画視聴を快適に】TECLAST P50T は Widevine L1 認証を取得。Netflix、Prime Video、Disney + など配信サービスを HD 画質で視聴できます。WiFi6 で高速安定通信、Bluetooth5.2 でワイヤレス機器とスムーズ接続。ワイヤレスキャスト機能搭載でテレビへ画面出力が簡単。動画鑑賞、オンライン会議、遠隔授業、音楽再生など様々な場面で活躍します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "読書 タブレット 目に優しい"
+      ]
+    },
+    {
+      "asin": "B0GRXHGMLD",
+      "title": "Bornran 2in1 ブックライト 読書灯 Type-C充電式 3色調光 タイマー機能付き カウントダウン表示 最大35時間連続使用 目に優しい",
+      "url": "https://www.amazon.co.jp/dp/B0GRXHGMLD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GRXHGMLD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21HlFn+I7dL._SL500_.jpg",
+      "features": [
+        "2in1デザイン: 読書灯としてもナイトライトとしても使える多機能設計。本やタブレットを均一に照らし、ベッドサイドライトとしても活躍します",
+        "タイマー機能搭載: カウントダウン表示付きで定時自動消灯が可能。就寝時に照明をつけたまま自然に眠りにつけるため、夜間読書に最適です",
+        "3色調光モード: 白色・暖色・黄色の3色切替に対応し、シーンや好みに合わせて光の色を調整できます",
+        "長時間使用可能: 1200mAh充電式バッテリー内蔵で最大約35時間連続使用可能。Type-C充電ポートで簡単に充電でき、頻繁な充電は不要です",
+        "コンパクト設計: サイズ18.5x15.3cm、軽量薄型で持ち運びに便利。耐傷パネルと高硬度レンズ採用で傷が付きにくく、長期間クリアな光を保ちます"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "読書 タブレット 目に優しい"
+      ]
+    },
+    {
+      "asin": "B0FZTH87FX",
+      "title": "karidi デスクライト led 目に優しい スタンドライト 900lm輝度 5段階色の温度 5段階の輝度調節 折り畳み式コンパクト/5W省エネ/多角度調節/USB給電式 人気 卓上ライト 学習机 台灯 勉強 机 明るい ブックライト 読書灯",
+      "url": "https://www.amazon.co.jp/dp/B0FZTH87FX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FZTH87FX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31T+OJJpgEL._SL500_.jpg",
+      "features": [
+        "【5段階調色調光機能】この卓上ライト最大900ルーメンの明るさを実現。輝度と色温度それぞれに5段階の調整機能を備えており、お好みの光り方を自由にお選びいただけます。色温度は3000Kから6000Kの範囲で調節可能です。室内、壁、棚、鏡、クローゼット、浴室、キャビネット、勉強、読書、間接照明などに適しています。",
+        "【USB給電・省エネ】デスクライトはtype-C、USB給電式の為、アダプターだけでなく、PC、モバイルバッテリーからも給電可能です。照明と同時に、デスクライトの5V1A USBポートでスマートフォンやタブレット、スマートウォッチに電力を供給できます。karidiスタンドライト、デスクの省スペース化を実現しましょう！",
+        "【タッチセンサー付き・180°調節可能】タッチセンサー式で指で優しく触れるだけで簡単にオン・オフを操作できます。色温度や明るさの調節も手軽にできます。ライト部分は上下左右に180°、ベースは90°回転するため、照明をあらゆる方向に自在に向けることができます。",
+        "【目に優しい・高演色性・多重影なし】多重影なし、目に負担をかける要素が軽減されます。目に優しい発光設計やRa>80の高演色性により、自然光に近く、勉強や作業中の視疲労を軽減します。",
+        "【長寿命LED】ライトビーズ45個（冷白30/暖白15）を搭載し、長時間の使用でもほのかな温かさに抑えられるため、お子様の使用にも安心です。50,000時間の長寿命で、コストパフォーマンスに優れた照明ソリューションを提供します。",
+        "【品質保証】ご購入後何かご不明な点などがございましたら、お気楽にご連絡ください。なお、さらに、購入日から2年間の製品保証を提供いたします、製品に品質上の問題があった場合、無料で交換のアフターサービスを提供します。",
+        "【パッケージ内容】LEDデスクライト×1、USB充電器×1、USB充電ケーブル×1、日本語取扱説明書×1。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "読書 タブレット 目に優しい"
+      ]
+    }
+  ]
+}

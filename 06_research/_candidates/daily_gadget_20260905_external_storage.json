@@ -1,0 +1,1128 @@
+{
+  "generated_at": "2026-08-12T18:52:02",
+  "account_id": "daily_gadget",
+  "partner_tag": "daily-gadget-22",
+  "mode": "pool",
+  "queries": [
+    {
+      "query": "外付けSSD 高速 USB-C",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "ポータブルSSD 1TB",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "外付けHDD バックアップ",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "SanDisk SSD 外付け",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "Samsung SSD 外付け",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "Buffalo 外付けHDD SSD",
+      "include": [],
+      "exclude": []
+    }
+  ],
+  "fetched_count": 60,
+  "dedup_count": 7,
+  "candidates": [
+    {
+      "asin": "B0FNBSWSFQ",
+      "title": "UnionSine 外付けSSD 128GB USB 3.2 Type-C ソリッドステートドライブ、iPhone 15/16/17対応",
+      "url": "https://www.amazon.co.jp/dp/B0FNBSWSFQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FNBSWSFQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21tvvOCIr2L._SL500_.jpg",
+      "features": [
+        "信頼性の高いパフォーマンス：FD450 USB 3.2外付けSSDは、40nmの高性能SSDホストコントローラーとTLC NANDフラッシュを搭載し、大容量データも容易に処理できます。強力なLDPCアルゴリズムによるエラー訂正により、安定したデータ転送とスムーズな操作性を実現します。",
+        "高速転送：UnionSine ssd 外付けはUSB 3.2インターフェースを採用し、最大450MB/秒の読み取り速度を実現。これは従来のUSB 3.0フラッシュドライブの9倍の速度です。高解像度の写真、動画、大容量ファイルを高速転送できます。",
+        "幅広い互換性：プラグアンドプレイ設計のUSB-C ポータブルssd、スマートフォン/タブレット/パソコン間でデータを便利に転送できます。iPhone 15/16/17シリーズ、Androidスマートフォン、タブレット、テレビ、カーオーディオなど、すべてのType-C OTGデバイスに適しています。Windows/Mac OS/Android/Linuxなどに対応し、USB 3.0およびUSB 2.0ポートとの下位互換性があります。",
+        "HDビデオ録画：FD450 USBフラッシュドライブは、非常に高速な書き込み速度を備え、4K/60fps ProResビデオ録画に対応しています。HDビデオを簡単に保存し、大切な瞬間をすべて記録できます。もう、携帯電話のストレージ容量の心配は不要です。",
+        "コンパクトなデザイン：このUSBメモリはスタイリッシュなデザインでコンパクトです。大容量のミニUSBストレージ。SATAソリッドステートドライブがUSB Cフラッシュドライブに凝縮され、データケーブルの制約から完全に解放されます。",
+        "容量に関するご注意：メーカーは10進数表記（1GB = 1,000MB）を使用しています。ただし、オペレーティングシステムは2進数表記（1GB ≈ 1,024MB）を使用しているため、フォーマット後の容量は約7～10%少なくなる場合があります。例：128GB ≈ 119GB、256GB ≈ 237GB、512GB ≈ 476GB。これはすべてのストレージデバイスの標準容量です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けSSD 高速 USB-C"
+      ]
+    },
+    {
+      "asin": "B0DWX1XB44",
+      "title": "トランセンド ポータブルSSD 128GB 高速 最大1050 MB/s 超小型,軽量11g Type-A/Type-C 両対応 iPhone15 & iPhone16 対応 USB 10Gbps ブラック TS128GESD310C-E 【Amazon.co.jp限定】",
+      "url": "https://www.amazon.co.jp/dp/B0DWX1XB44?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DWX1XB44?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Vd3rhZsUL._SL500_.jpg",
+      "features": [
+        "[製品特徴] : 超小型,軽量なスティック型SSD、USB Type-AとType-C機器で利用できるデュアルコネクタが特徴で10Gbpsの高速ポータブルSSDです。[iPhone15 & iPhone16 対応]※本製品は、iPhone15 Pro / iPhone Pro Max以降のiPhoneを使用したProRes録画(1080P/60fps)に対応しています。",
+        "[容量] : 128GB [サイズ] : 軽量コンパクト 71.3 mm x 20 mm x 7.8 mm / [重量] : 11 g",
+        "[USB種類] : USB Type-A / USB Type-C デュアルコネクタ , [接続インターフェース] : USB 10Gbps , [OS] : Microsoft Windows/macOS/iOS/iPadOS/Linux/ChromeOS/Android",
+        "[転送速度] : 読出し (最大) 1050 MB/s ・ 書込み (最大) 700 MB/s 転送速度はホストのハードウェア、ソフトウェア、使用方法、ストレージ容量等によって異なる場合があります。※製品の速度特性により、データ転送中に温度が上昇することがありますが、機能に影響はありません。",
+        "[保証] : 5年保証 / 記録データの消失に関する保証はございませんので予めご了承ください。保証規定に関してはトランセンドホームページをご参照ください。商品の仕様・外観は製造時期 / 発送のタイミングにより画像と異なる場合がございます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けSSD 高速 USB-C"
+      ]
+    },
+    {
+      "asin": "B0H6PDRYPP",
+      "title": "PHIXERO 外付けSSD 512GB USB 3.2 Gen2 2-in-1 USB-C/USB-A 最大1100MB/秒 スライド式 SSD",
+      "url": "https://www.amazon.co.jp/dp/B0H6PDRYPP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H6PDRYPP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/310LnmBz2xL._SL500_.jpg",
+      "features": [
+        "デュアルポート＆幅広い互換性：PHIXERO P201外付けSSD 512GBはUSB-AとUSB-Cポートを搭載し、iPhone 17/16/15シリーズ、USB-C対応Androidスマートフォン、MacBook、PC、ノートパソコン、スマートテレビ、カーオーディオシステム、PS5と互換性があります。アダプター不要で、ファイルの転送、データのバックアップ、写真の保存、ゲームプレイが簡単に行えます。",
+        "1000MB/s 超高速転送: 外付け SSD は USB3.2 Gen2 高速規格を採用し、最大読み書き速度 1000MB/s を実現。4K 動画、大容量プロジェクトファイル、ゲームライブラリも数秒で転送可能です。(実際の転送速度は接続元機器・使用する端子に依存します。USB3.0、USB2.0 環境では速度が大幅に低下します。)",
+        "3 段スライド式設計: PHIXERO ポータル SSD は独自スライドカバー構造を採用。端子の摩耗を防ぐだけでなく、カバー紛失のリスクもカット。カチッと音が鳴るまでスライドしてロックするだけで完了。クリエイティブ制作、ゲーム保存、外出先のオフィス作業に最適です。",
+        "頑丈亜鉛合金ボディ: PHIXERO P201 SSD は高精度亜鉛合金筐体を採用、防塵・耐衝撃・耐熱・傷つきに強い仕様です。高品質ストラップ付属でキーホルダーやバッグに吊るせます。ドライバー不要のプラグアンドプレイで、出張・通勤・業務利用に適しています。",
+        "容量に関するご案内: 容量表記に差が生じる場合があります。製造工場は 1GB=1000MB の 10 進法で計算するのに対し、PC 機器は 1GB=1024MB の 2 進法を使用するため、実機表示容量は公称容量より約 7% 少なくなる傾向があります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けSSD 高速 USB-C"
+      ]
+    },
+    {
+      "asin": "B0F47SGXWJ",
+      "title": "サンワダイレクト SSD 外付け 256GB 読み込み最大1000MB/s 高速 USB C/USB-A ポータブルSSD PS5対応 スティック 録画用 ガンメタリック 600-USSC256GB",
+      "url": "https://www.amazon.co.jp/dp/B0F47SGXWJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F47SGXWJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31OkdH2nsIL._SL500_.jpg",
+      "features": [
+        "USB Aと Type-C コネクタ どちらも使える スティック型 外付けSSD です。最大読み込み速度約1000MB/s、最大書き込み速度約800MB/sの 超高速 データ転送に対応しています。",
+        "パソコン だけではなく、 TypeC ポートを持つ スマホ や タブレット でも使えます。 PC と スマートフォン などの機器の データ移動 に便利です。",
+        "USBメモリ と同じくらい コンパクト なスティック型サイズで持ち運びに便利です。ケーブルいらずの 直挿し スタイルなので、別途ケーブルを持ち運ぶ必要がありません。",
+        "ガンメタリックと赤色のシンプルなデザインで、 タイプC 側はスイング式、 USBA 側はキャップ式です。高い放熱性と衝撃に強いアルミボディです。※データ転送時、表面が高温になりますが、仕様上問題ございません。",
+        "USB規格はUSB 10Gbps（ USB3.2 Gen2 ）を採用しています。 テレビ録画 にも対応しております。ドライバ不要で、挿すだけですぐ使うことができます。ストラップ取り付け可能なストラップホール付きです。※ストラップは付属しておりません。",
+        "保証期間：ご購入日より1年"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けSSD 高速 USB-C"
+      ]
+    },
+    {
+      "asin": "B0H6J6XQX4",
+      "title": "外付けSSD 1TB、最大460MB/s・USB-C/A 2 in 1ケーブル＆ストラップ付属、ポータブルSSD小型軽量アジュバント4K ProRes HDR対応iPhone 17 Pro MAX/スマホ/タブレット/ノートPC",
+      "url": "https://www.amazon.co.jp/dp/B0H6J6XQX4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H6J6XQX4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31cE-CQ2GjL._SL500_.jpg",
+      "features": [
+        "【最大460MB/sの高速転送】DIDIVO外付けSSDは、読み取り速度最大460MB/sに対応し、1GBのファイルはわずか2秒で転送でき、大容量ファイルや高画質動画もスムーズに転送可能です。",
+        "【Win/Mac・iOS/Android・PS5対応】付属品のType-A/Cの2in1ケーブルを用いて、動作環境がWindows/Mac OSパソコン、iOS/Androidデバイスだけでなく、PS5&PS5 Proなどの家庭用ゲーム機にも対応しております。※下位互換性がありますが、最大性能（20Gbps）を発揮するにはUSB 3.2 Gen2x2対応のType-Cポートが必要です。",
+        "【IP67規格対応・高耐久性】PR2000はIP67規格に準拠した防塵・防水性能を備えた堅牢な筐体を採用しており、さらに3メートルの落下に耐える衝撃と振動に強い高耐久性モデル。長期間にわたって信頼性の高いパフォーマンスを提供可能。",
+        "【コンパクト設計・抜群の携帯性】ポケットサイズのデザインで簡単に収納可能。超高速データ転送に対応し、出張や旅行中の資料作成やバックアップ、高精細度写真・動画の保存など、幅広い用途で活躍します。携帯性と利便性を兼ね備えた信頼のストレージ。",
+        "【完全装備+&365日保証】製品人為的な損害を除き、弊社の商品を御購入頂いてから一年間の保証が付属しております。何か不具合が発生した場合お気軽にお問い合わせください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けSSD 高速 USB-C"
+      ]
+    },
+    {
+      "asin": "B0FL7FCHCV",
+      "title": "IODATA SlimSSD ポータブルSSD 256GB 超小型 USB Type-C SSPJ-UTC256/E",
+      "url": "https://www.amazon.co.jp/dp/B0FL7FCHCV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FL7FCHCV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/411kazvRWvL._SL500_.jpg",
+      "features": [
+        "【挿したまま持ち運べる!小指サイズの小型SSD】PCやスマホとの接続時、出っ張りはわずか約8.5mm。とても薄く、また小指サイズの小ささなので、作業中に挿したままでも気になりません。PCやスマホに挿したまま持ち運び、そのまま使用できるので、SSD本体を紛失してしまったり、うっかり家に忘れてしまったり、といった心配も不要です。",
+        "【シンプルかつ洗練されたデザイン】小さいながらも高級感のあるメタリックボディ。アクセス状況がわかるLEDランプもついています。USB-Cコネクター搭載のため、上下の向きを気にせずPC・スマホに装着できます。",
+        "【ハードディスクより速い!高速なデータ転送】読み込み速度は最大約450MB/s、書き込み速度は最大約400MB/sと高速転送が可能。長時間動画や高画質画像など、容量の大きなデータもスムーズに読み書きできます。",
+        "【Macのバックアップにもおすすめ Time Machineに対応】macOSの「Time Machine」機能によるバックアップに対応しています。USBケーブルで本商品をMacに接続するとTime Machine機能の設定画面が表示されますので、画面の案内に従って設定するだけでOK！Time Machine機能を活用することができます。",
+        "【大切な思い出を守る「Sync Connect+」】バックアップソフト「Sync Connect+」の設定はとてもかんたん。一度設定してしまえば、普段のバックアップは勝手に行われます。「ちょっと面倒かな？」と思われるかもしれませんが、このひと手間で、あなたのパソコンに保存されている大切な写真や思い出をしっかり守ります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けSSD 高速 USB-C"
+      ]
+    },
+    {
+      "asin": "B0F47MVJ6F",
+      "title": "サンワダイレクト SSD 外付け 512GB 読み込み最大1000MB/s 高速 USB C/USB-A ポータブルSSD PS5対応 スティック 録画用 ガンメタリック 600-USSC512GB",
+      "url": "https://www.amazon.co.jp/dp/B0F47MVJ6F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F47MVJ6F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31OkdH2nsIL._SL500_.jpg",
+      "features": [
+        "USB Aと Type-C コネクタ どちらも使える スティック型 外付けSSD です。最大読み込み速度約1000MB/s、最大書き込み速度約800MB/sの 超高速 データ転送に対応しています。",
+        "パソコン だけではなく、 TypeC ポートを持つ スマホ や タブレット でも使えます。 PC と スマートフォン などの機器の データ移動 に便利です。",
+        "USBメモリ と同じくらい コンパクト なスティック型サイズで持ち運びに便利です。ケーブルいらずの 直挿し スタイルなので、別途ケーブルを持ち運ぶ必要がありません。",
+        "ガンメタリックと赤色のシンプルなデザインで、 タイプC 側はスイング式、 USBA 側はキャップ式です。高い放熱性と衝撃に強いアルミボディです。※データ転送時、表面が高温になりますが、仕様上問題ございません。",
+        "USB規格はUSB 10Gbps（ USB3.2 Gen2 ）を採用しています。 テレビ録画 にも対応しております。ドライバ不要で、挿すだけですぐ使うことができます。ストラップ取り付け可能なストラップホール付きです。※ストラップは付属しておりません。",
+        "保証期間：ご購入日より1年"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けSSD 高速 USB-C"
+      ]
+    },
+    {
+      "asin": "B0FPX2P8WX",
+      "title": "Maktar (マクター) MiniMax 外付け SSD ポータブル 1TB 超コンパクト USB-C USB3, 10Gb/s 高速転送 冷却ファン内蔵 ProRes動画直接保存 液晶ディスプレイ",
+      "url": "https://www.amazon.co.jp/dp/B0FPX2P8WX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FPX2P8WX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21M5+VBlO6L._SL500_.jpg",
+      "features": [
+        "超コンパクトでスタイリッシュなポータブル・外付けSSD",
+        "熱暴走を防ぐ冷却ファン内蔵",
+        "Apple ProResの直接保存対応",
+        "スマホに接続した時にピッタリと収まり使いやすいデザイン",
+        "撮影・録音機材の接続が可能なアクセサリ付き"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けSSD 高速 USB-C"
+      ]
+    },
+    {
+      "asin": "B0H8NXQW5F",
+      "title": "外付けSSD 512GB、最大460MB/s・USB-C/A 2 in 1ケーブル＆ストラップ付属、ポータブルSSD小型軽量アジュバント4K ProRes HDR対応iPhone 17 Pro MAX/スマホ/タブレット/ノートPC",
+      "url": "https://www.amazon.co.jp/dp/B0H8NXQW5F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H8NXQW5F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31XXtl2HlkL._SL500_.jpg",
+      "features": [
+        "【最大460MB/sの高速転送】DIDIVO外付けSSDは、読み取り速度最大460MB/sに対応し、1GBのファイルはわずか2秒で転送でき、大容量ファイルや高画質動画もスムーズに転送可能です。",
+        "【Win/Mac・iOS/Android・PS5対応】付属品のType-A/Cの2in1ケーブルを用いて、動作環境がWindows/Mac OSパソコン、iOS/Androidデバイスだけでなく、PS5&PS5 Proなどの家庭用ゲーム機にも対応しております。※下位互換性がありますが、最大性能（20Gbps）を発揮するにはUSB 3.2 Gen2x2対応のType-Cポートが必要です。",
+        "【IP67規格対応・高耐久性】PR2000はIP67規格に準拠した防塵・防水性能を備えた堅牢な筐体を採用しており、さらに3メートルの落下に耐える衝撃と振動に強い高耐久性モデル。長期間にわたって信頼性の高いパフォーマンスを提供可能。",
+        "【コンパクト設計・抜群の携帯性】ポケットサイズのデザインで簡単に収納可能。超高速データ転送に対応し、出張や旅行中の資料作成やバックアップ、高精細度写真・動画の保存など、幅広い用途で活躍します。携帯性と利便性を兼ね備えた信頼のストレージ。",
+        "【完全装備+&365日保証】製品人為的な損害を除き、弊社の商品を御購入頂いてから一年間の保証が付属しております。何か不具合が発生した場合お気軽にお問い合わせください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けSSD 高速 USB-C"
+      ]
+    },
+    {
+      "asin": "B0H75KVPT8",
+      "title": "Acer 外付SSD PA100 1TB 最大読出560MB/s 27g超軽量 高速 ポータブルSSD USB3.2 耐衝撃 USB A/Cケーブル付属 Windows/Mac OS、PS5、Android、iPhone15シリーズ以降対応 メーカー3年保証",
+      "url": "https://www.amazon.co.jp/dp/B0H75KVPT8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H75KVPT8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31q3iK3FcpL._SL500_.jpg",
+      "features": [
+        "【560MB/s高速転送】USB 3.2 Gen1インターフェースを搭載し、最大読込560MB/s・最大書込430MB/sのデータ転送に対応。写真、動画、ドキュメントなどの日常データをスムーズに保存・移動できます。",
+        "【薄型・軽量設計】厚さわずか9mm、重さ27g未満のスリム設計。バッグやポーチにもすっきり収まり、外出先やオフィス、自宅など、さまざまな場所で気軽に使えるポータブルSSDです。",
+        "【大容量対応・耐落下設計】500GB・1TB・2TBの容量ラインアップを展開。資料保存から写真・動画のバックアップ、大容量データの持ち運びまで幅広く対応します。さらに最大1mの耐落下設計により、日常の持ち運びにも配慮しています。",
+        "【USB-C/A対応・幅広い互換性】USB-C／USB-A両対応の2in1ケーブルを付属。Windows PC、Mac、Androidスマートフォン、USB-C搭載iPhone、PS5など、さまざまなデバイスとの接続に対応し、データ共有をより手軽に行えます。",
+        "【日本国内3年保証】Acer PA100シリーズポータブルSSDは日本国内限定で3年間の保証が付いており、万が一不具合が生じた場合は、注文履歴から販売元へお問い合わせください。なお、外部損傷がある場合は保証対象外となります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けSSD 高速 USB-C"
+      ]
+    },
+    {
+      "asin": "B08N4JHGJL",
+      "title": "Amazon限定 バッファロー ポータブルSSD 1.0TB コンパクト USB3.2Gen1 ブラック SSD-PUT1.0U3-B/N",
+      "url": "https://www.amazon.co.jp/dp/B08N4JHGJL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08N4JHGJL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ze38peiqS._SL500_.jpg",
+      "features": [
+        "【パソコンのデータ保存に】 最大約430MB/sの高速なファイル転送。バッファロー従来品 外付けHDDよりも約3.6倍速のスピード※当社従来品HD-PCGU3-Aと比較。測定環境はメーカーより欄に記載",
+        "【ケーブルレスで持ち運び便利】バスパワー駆動で、PCにさすだけ。ケーブル不要。単三アルカリ乾電池よりも軽い約17g小型サイズ。※本体重量のみ",
+        "【テレビ番組の録画に】SSDだから動作音が気にならない。寝室やワンルームで使用してもストレスフリー",
+        "【保証】購入から1年間の保証つき。",
+        "【動作環境とインターフェイス】Windows、Mac、PS5/PS4、TV対応、Chrome OS。USB( USB 3.2(Gen 1)/3.1(Gen 1)/3.0/2.0)。端子形状：Type-A",
+        "【付属品】取扱説明書(保証書)【セキュリティー】SecureLock Mobile2(暗号化:AES 256bitソフトウェア方式)",
+        "【Amazon限定】簡易包装箱でお届けします。",
+        "データ復旧サービスは全て有償対応となります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ポータブルSSD 1TB",
+        "Buffalo 外付けHDD SSD"
+      ]
+    },
+    {
+      "asin": "B0DYC9J88T",
+      "title": "エレコム 外付けSSD 1TB USB3.2 (Gen1)対応 スライド式 Type-C/Type-A コネクタ iPhone/iPad 対応 ブラック ESD-EAWB1000GBK",
+      "url": "https://www.amazon.co.jp/dp/B0DYC9J88T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DYC9J88T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31dJ7ZPIXnL._SL500_.jpg",
+      "features": [
+        "読み込み最大420MB/s・書き込み最大400MB/sの高速データ転送を実現する、USB 5Gbps(USB3.2(Gen1))外付けポータブルSSDです。",
+        "USB-Aコネクターに加え、USB Type-C(TM)コネクターが一体になっており、スライド操作でUSB-AとUSB Type-C(TM)を切り替えられます。",
+        "従来のUSB-Aポート搭載パソコンはもちろん、USB Type-Cポートを搭載したMacやiPhone、iPadなどでも、ケーブルやアダプターを別途購入することなく、接続するだけですぐに使用可能です。",
+        "USB-AとUSB Type-Cが一体でありながら、重さ約12g、幅68.0mm×奥行22mm×高さ8mmというコンパクトさで、持ち運びや収納にも便利なUSBメモリサイズです。",
+        "PlayStation(R) 5、PlayStation(R) 4 Pro、PlayStation(R) 4での動作確認済み。ゲームデータを外付けSSDに保存することで、ゲームの起動時間やセーブデータのロード時間が短縮され、より快適なゲームプレイが可能です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ポータブルSSD 1TB"
+      ]
+    },
+    {
+      "asin": "B08P4CN4YC",
+      "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE61-1T00-GH25 エクストリーム エコパッケージ",
+      "url": "https://www.amazon.co.jp/dp/B08P4CN4YC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08P4CN4YC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41zEuz5-klL._SL500_.jpg",
+      "features": [
+        "最大読出し速度1050MB/秒、最大書込み速度1000MB/秒で写真や動画をバックアップ、編集、管理。",
+        "USB 3.2 Gen 2に対応。USB Type-CケーブルとUSB Type-A変換アダプタ同梱。",
+        "iPhone 15/Plus/Pro/Pro MaxでiOSファイルアプリ経由でのファイル転送に対応。",
+        "iPhone 15 Pro/Pro Maxでは直接 HD ビデオ録画用にも対応。",
+        "屋外への持ち運びに安心なIP65の防滴・防塵性能"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ポータブルSSD 1TB",
+        "SanDisk SSD 外付け",
+        "Samsung SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0C5JQ68FY",
+      "title": "SanDisk ポータブルSSD 1TB (読み取り速度最大800MB/秒、USB 3.2 Gen 2、NVMe ソリッドステートパフォーマンス、アップデートされたファームウェア、耐久性のあるゴム製の固定ループ) グレー",
+      "url": "https://www.amazon.co.jp/dp/B0C5JQ68FY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C5JQ68FY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41-T4nAAufL._SL500_.jpg",
+      "features": [
+        "SanDisk(サンディスク)から、プロの写真家が任務を担うことを信頼するブランド。",
+        "丈夫なゴム製の便利なアタッチメントループは、外部SSDをポケット、バックパック、またはベルトループにしっかりと取り付けることができます。 そのため、ドライブを紛失することはありません。",
+        "最も美しい瞬間のためのメモリ。 信頼性の高いモバイルストレージソリューションで、コンテンツと思い出を保護します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ポータブルSSD 1TB",
+        "SanDisk SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0CKKHM1C5",
+      "title": "IODATA SSD 外付け 1TB グレー×ブラック 小型 スティック ポータブル 高速転送 テレビ録画対応 PS5/PS4(動作確認済) USB 3.2 Gen 2 日本メーカー SSPS-US1GRE",
+      "url": "https://www.amazon.co.jp/dp/B0CKKHM1C5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CKKHM1C5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31SkLdUsEEL._SL500_.jpg",
+      "features": [
+        "【パソコンに挿すだけ！ケーブル不要のスティックタイプ】パソコンに直接挿すだけでお使いいただけます。超小型サイズですので持ち運びやすく、外出先での使用にもぴったりです。",
+        "【ハードディスクより約4倍速い！高速なデータ転送】読み込み速度は約500MB/sと、当社製ハードディスクの約4倍高速！高画質の画像や動画データなど、大容量のデータもスムーズに読み込むことができます。",
+        "【スライド式だから、キャップ紛失の心配なし！】約23.5×68.8mmと、USBメモリー同等の小型サイズ。スライド式のため、キャップ紛失の心配もありません。また、ストラップホールも付いているので無くさないようにカバン等につけることも可能です。",
+        "【PS4・PS5でも使える！安心の動作確認済み】PS4、PS5にも対応しているので、ゲームデータの保存にもご使用いただけます。",
+        "【作動音がしないから\"集中力\"を妨げない！静音SSD】作動時に全く音が聞こえない静かなSSDです。当社では、全国家庭電気製品公正取引協議会が「静音」「静か」な状態と定める基準をクリアしたSSDだけを静音モデルとして認定しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ポータブルSSD 1TB"
+      ]
+    },
+    {
+      "asin": "B0BSDY8WDK",
+      "title": "エレコム SSD 外付け 1TB USB3.2(Gen2) 読込速度500MB/秒 アルミ筐体 スライド式 キャップレス 【PS5/PS4/テレビ録画 対応】 ブラック ESD-EMA1000GBK",
+      "url": "https://www.amazon.co.jp/dp/B0BSDY8WDK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BSDY8WDK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31xAjoXCv+L._SL500_.jpg",
+      "features": [
+        "キャップレスでキャップを紛失する心配がなく、スムーズにスライドできる機構のスライド式外付けSSDです。",
+        "重さ約15g、幅約67.3mm×奥行約22.1mm×高さ約9.5mmというコンパクトさで、持ち運びや収納にも便利なUSBメモリサイズです。",
+        "読み込み最大500MB/s、書き込み最大480MB/sの高速データ転送を実現しています。",
+        "USB3.2(Gen1)/USB3.1(Gen2,Gen1)/USB3.0/USB2.0への下位互換が可能で、そのまま接続できます。※USB3.2(Gen2)でご使用になるには、機器側がUSB3.2(Gen2)に対応している必要があります。",
+        "シャープ(アクオス)、ソニー(ブラビア)、レグザ、パナソニック(ビエラ・ディーガ)、ハイセンス、LGエレクトロニクスなどのデジタルテレビに接続可能です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ポータブルSSD 1TB"
+      ]
+    },
+    {
+      "asin": "B094CHR31B",
+      "title": "エレコム ポータブルSSD 1TB USB3.2Gen1 PS5/PS4(メーカー動作確認済) データ復旧サービスLite付 ブラック ESD-EJ1000GBKR",
+      "url": "https://www.amazon.co.jp/dp/B094CHR31B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B094CHR31B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21G+YdILnES._SL500_.jpg",
+      "features": [
+        "読み込み最大400MB/s、書き込み最大320MB/sの高速データ転送を実現するUSB3.2(Gen1)対応外付けポータブルSSDです。※USB3.2(Gen1)でご使用になるには、機器側がUSB3.2(Gen1)に対応している必要があります。",
+        "PlayStation(R) 4、PlayStation(R) 4 Pro、PlayStation(R) 5※に接続し、ゲームデータを外付けSSDに保存することで、ゲームの起動時間やセーブデータのロード時間が短縮され、より快適なゲームプレイが可能です。※PlayStation(R) 5で使用する場合はPlayStation(R) 4のソフトプレイ時のみとなります。",
+        "PlayStation(R) 5に接続し、PlayStation(R) 5のゲームデータを外付けSSDに保存することで、本体ストレージの空き容量を確保が可能です。※PlayStation(R) 5のソフトデータを外付けSSDから起動することは出来ません。",
+        "テレビやレコーダーなどの機器に接続することで、番組の録画や2番組同時録画などのさらに便利な機能もご利用いただけます。(※機能の詳細、対応可否はテレビ側の仕様に依存します)",
+        "シャープ(アクオス)、レグザ、ソニー(ブラビア)、パナソニック(ビエラ)、ハイセンスなどのテレビに接続可能です。※但しテレビがUSB-HDD録画に対応している必要があります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ポータブルSSD 1TB"
+      ]
+    },
+    {
+      "asin": "B0C2PLG9MB",
+      "title": "Nextorage 日本メーカー ポータブルSSD 1TB 10Gbps USB3.2 Gen2 Type C 最大読出し速度1050MB/s 最大書込み速度1000MB/s Windows MacOS PS5 PS4 iPhone15/16 Pro, Pro Max 動作確認済み 外付けssd NX-P2SEシリーズ NX-P2SE1TB/ENET",
+      "url": "https://www.amazon.co.jp/dp/B0C2PLG9MB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C2PLG9MB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31YVi7blgsL._SL500_.jpg",
+      "features": [
+        "Nextorageはソニーにおけるメモリーストレージ２０年の歴史を継ぐ技術者、スタッフを中心に作られた会社です。",
+        "クレジットカードサイズのUSB3.2 Gen2 対応のPortable SSD",
+        "インターフェース：USB 3.2 Gen 2 (SuperSpeed USB 10Gbps) / 最大読出し速度1050MB/s、最大書き込み速度1000MB/s",
+        "超小型で軽量ながら高速転送を実現: 約66 mm×40 mm×9 mm（最大突起物を除く）、本体 約 19 g、キャリングポーチ 約 5 g",
+        "汎用外部記憶装置として幅広いOS,機器に対応　各種OS（Windows10以降、Mac OS 11以降、iPad , Andoroidなど）と機器　（iphone , Playstation 4 , playstation 5 など）※詳細はNextorageホームページをご確認ください。",
+        "iPhone 15, 16 Pro/Pro MAXは、大容量のProRes形式動画を外部SSDへ直接録画可能です。特に4K/120fps, 4K/60fpsの動画撮影を行う際は外部ストレージの接続が必須となります。このSSDを使用することで、高画質な4K映像の撮影をスムーズに楽しめ、容量の大きくなる4K/120fps, 4K/60fps撮影もストレージ残量を気にせず行えます。",
+        "同梱物：USB Type-C to Cケーブル (30cm)、USB Type-C to Aケーブル (30cm)、キャリングポーチ",
+        "保証期間は安心の購入日より3年間で日本語サポート対応"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ポータブルSSD 1TB"
+      ]
+    },
+    {
+      "asin": "B0FD9V3LJ8",
+      "title": "Biwin 外付SSD PD450 1TB 最大読出430MB/s 23g超軽量 ポータブルSSD USB3.2 耐衝撃 USB A/Cケーブル付属 Windows/Mac OS、PS5、Android、iPhone15シリーズ以降対応 メーカー3年保証",
+      "url": "https://www.amazon.co.jp/dp/B0FD9V3LJ8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FD9V3LJ8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31JcEfiX85L._SL500_.jpg",
+      "features": [
+        "【USB 3.2高速】USB 3.2 Gen1インターフェースを搭載し、最大430MB/sの高速データ転送を実現。大容量ファイルの転送や4K動画のバックアップも素早く行え、作業の効率が大幅に向上します。",
+        "【23g超軽量・耐衝撃設計】重さわずか23g、コンパクトのデザインで、持ち運びが簡単。さらに、1mまでの耐衝撃設計により、大切なデータを落下や衝撃からしっかり保護します。",
+        "【4K撮影対応】iPhone 15以降のProモデルで、4K 30fpsまたは1080p 60fpsのProRes動画を外部ストレージに録画可能。クリエイティブな作業をサポートする、高い書込性能を備えています。",
+        "【Win/Mac・iOS/Android・PS5対応】付属品のType-A/Cの2in1ケーブルを用いて、動作環境がWindows/Mac OSパソコン、iOS/Androidデバイスだけでなく、PS5&PS5 Proなどの家庭用ゲーム機にも対応しております。",
+        "【安心の3年保証】Biwin PD450シリーズ商品には3年保証（日本国内のみ）が付いており、万一不具合と思われる症状がある場合は、注文履歴→注文情報(内容)→販売元までお問い合わせください（外部損傷がある場合は保証対象外です）。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ポータブルSSD 1TB"
+      ]
+    },
+    {
+      "asin": "B08GTYFC37",
+      "title": "SANDISK サンディスク エクストリーム V2 SDSSDE61-1T00-G25 [並行輸入品]",
+      "url": "https://www.amazon.co.jp/dp/B08GTYFC37?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08GTYFC37?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500_.jpg",
+      "features": [
+        "ポータブルで大容量のドライブで、最大1050MB/秒の読み取り速度と1,000MB/秒の書き込み速度でNVMeソリッドステートパフォーマンスを実現(1) (内部テストに基づき、ホストデバイスやその他の要因によってはパフォーマンスが低下する場合があります。 1MB=1,000,000バイト。)",
+        "最大3メートルの落下保護とIP65の耐水性と防塵性により、このタフなドライブは打撃を受ける可能性があります(3) (以前は2メートルの落下保護とIP55定格で評価されていました)。 より高い仕様に適合するようになりました。)",
+        "便利なカラビナループを使ってベルトループやバックパックに固定し、さらに安心できます。",
+        "256ビットのAESハードウェア暗号化機能を備えたパスワード保護機能で、プライベートコンテンツをプライベートに保つのに役立ちます。 (3)",
+        "SanDisk Memory Zoneアプリを使えば、ファイルを簡単に管理し、スペースを自動的に解放します。 (5)"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ポータブルSSD 1TB",
+        "SanDisk SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B07BK6696F",
+      "title": "Amazon限定 バッファロー 外付けHDD 4TB テレビ録画 nasne 対応 静音 日本製 HD-AD4U3",
+      "url": "https://www.amazon.co.jp/dp/B07BK6696F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07BK6696F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Cj79QLDuL._SL500_.jpg",
+      "features": [
+        "容量: 4.0TB",
+        "【対応機種】USB3.1(Gen1)/USB3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac、対応OS:Windows 10/8.1/7、Mac OS X 10.11以降",
+        "【対応TV】シャープ「アクオス」、ソニー「ブラビア」、パナソニック「ビエラ」、バッファロー「nasne」、Hisense、東芝「レグザ」、FUNAI、オリオン、三菱電機、LG Electronics、日立「Wooo」、ピクセラ、DXアンテナ、ディーオン(対応機種の詳細はメーカーHPを参照)",
+        "【接続規格】USB3.1(Gen1)/USB3.0/2.0",
+        "【サイズ】外形寸法(幅×高さ×奥行):114×33×171mm※本体のみ(突起部除く)、質量:約900g",
+        "電源:AC電源",
+        "【保証期間】1年 日本製",
+        "※データ復旧サービスは全て有償対応",
+        "付属品:USB3.1(Gen1)ケーブル(1m)、ACアダプター、取扱説明書(保証書) 【Amazon限定】簡易包装箱でお届けします。",
+        "熱伝導率の低い筐体内の空気層を減らし、ハードディスクからの発熱をより効果的に放熱するように設計しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けHDD バックアップ"
+      ]
+    },
+    {
+      "asin": "B07D7978NV",
+      "title": "バッファロー ポータブルHDD 2TB USB3.1(Gen1)/USB3.0用 HD-PCFS2.0U3-BBA",
+      "url": "https://www.amazon.co.jp/dp/B07D7978NV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07D7978NV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51KCeWvR2pL._SL500_.jpg",
+      "features": [
+        "シンプル&コンパクト。PCデータの保存に最適",
+        "容量:2TB",
+        "対応するパソコン:USB3.1(Gen1)/USB3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac、対応OS:Windows 10(64/32)/8.1(64/32)/7(64/32)、OS X 10.11以降",
+        "接続規格:USB3.1(Gen1)/USB3.0/2.0",
+        "サイズ:(幅×高さ×奥行):76×14×115mm※本体のみ(突起物除く)、質量:約175g※本体のみ",
+        "付属品:USB3.1(Gen1)ケーブル(50cm)、取扱説明書(保証書)※保証書はマニュアルに記載●保証期間:1年",
+        "ケーブル長: 50cm",
+        "※データ復旧サービスは全て有償対応",
+        "動作環境(結露なきこと):温度5〜35℃;湿度20〜80%",
+        "インターフェース:USB3.1(Gen1)/USB3.0/2.0、RoHS基準値:準拠"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けHDD バックアップ"
+      ]
+    },
+    {
+      "asin": "B07BK5HR89",
+      "title": "Amazon限定 バッファロー 外付けHDD 2TB テレビ録画 nasne 対応 静音 日本製 HD-AD2U3",
+      "url": "https://www.amazon.co.jp/dp/B07BK5HR89?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07BK5HR89?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Cj79QLDuL._SL500_.jpg",
+      "features": [
+        "容量: 2.0TB",
+        "【対応機種】USB3.1(Gen1)/USB3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac、対応OS:Windows 10/8.1/7、Mac OS X 10.11以降",
+        "【対応TV】シャープ「アクオス」、ソニー「ブラビア」、パナソニック「ビエラ」、バッファロー「nasne」、Hisense、東芝「レグザ」、FUNAI、オリオン、三菱電機、LG Electronics、日立「Wooo」、ピクセラ、DXアンテナ、ディーオン(対応機種の詳細はメーカーHPを参照)",
+        "【接続規格】USB3.1(Gen1)/USB3.0/2.0",
+        "【サイズ】外形寸法(幅×高さ×奥行):114×33×171mm※本体のみ(突起部除く)、質量:約900g"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けHDD バックアップ",
+        "Buffalo 外付けHDD SSD"
+      ]
+    },
+    {
+      "asin": "B0B3XCH7DD",
+      "title": "バッファロー HD-EDS2U3-BE パソコン&テレビ録画用 外付けHDD 2TB",
+      "url": "https://www.amazon.co.jp/dp/B0B3XCH7DD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B3XCH7DD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31qq+vVe9DL._SL500_.jpg",
+      "features": [
+        "インターフェース:USB 3.2(Gen1)/USB 3.1(Gen1)/3.0/2.0 容量 2TB 外形寸法(幅×高さ×奥行):114×33×171mm ※本体のみ(突起部除く)",
+        "質量:約900g 保証期間:1年間 主な付属品 :USB 3.2(Gen1)ケーブル(1m)、ACアダプター、取扱説明書(保証書)※保証書は取扱説明書に記載"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けHDD バックアップ"
+      ]
+    },
+    {
+      "asin": "B07D79GJ9J",
+      "title": "バッファロー ポータブルHDD 1TB USB3.1(Gen.1) スタンダードモデル ブラック HD-PCG1.0U3-BBA",
+      "url": "https://www.amazon.co.jp/dp/B07D79GJ9J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07D79GJ9J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51eHgbBzHdL._SL500_.jpg",
+      "features": [
+        "持ち運び安心設計。故障予測機能でデータを守る",
+        "容量:1TB",
+        "対応するパソコン:USB3.1(Gen1)/USB3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac、対応OS:Windows 10(64/32)/8.1(64/32)/7(64/32)、Mac 10.11～10.13",
+        "接続規格:USB3.1(Gen1)/USB3.0/2.0",
+        "サイズ:外形寸法(幅×高さ×奥行):75×14×117mm※本体のみ(突起物除く)、質量:約175g※本体のみ",
+        "付属品:USB3.1(Gen1)ケーブル(50cm)、取扱説明書※保証書は取扱説明書に記載",
+        "保証期間:1年"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けHDD バックアップ"
+      ]
+    },
+    {
+      "asin": "B092VCK3J8",
+      "title": "バッファロー USB3.2(Gen.1)対応外付けHDD メカニカルハードデイスク 4TB ブラック HD-LE4U3-BB",
+      "url": "https://www.amazon.co.jp/dp/B092VCK3J8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B092VCK3J8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41inNnbxVkL._SL500_.jpg",
+      "features": [
+        "USB3.2(Gen.1)対応外付けHDD 4TB ブラック",
+        "【容量】4TB",
+        "【対応】USB端子搭載のWindowsパソコン、USB端子搭載のMAC(Intelプロセッサー搭載機のみ)",
+        "【接続規格】USB 3.2(Gen 1)/3.1(Gen 1)/3.0/2.0",
+        "【サイズ(:幅×高さ×奥行)】114×33×171mm※本体のみ(突起部除く)　【質量】約900g"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けHDD バックアップ",
+        "Buffalo 外付けHDD SSD"
+      ]
+    },
+    {
+      "asin": "B07SKSVB84",
+      "title": "東芝 Canvio 1TB USB3.2(Gen1)対応 ポータブルHDD PC/TV対応 バッファローサポート 国内メーカー 故障予測 外付け Mac ブラック HD-TPA1U3-B/N",
+      "url": "https://www.amazon.co.jp/dp/B07SKSVB84?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07SKSVB84?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41KIS3q3L7L._SL500_.jpg",
+      "features": [],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けHDD バックアップ"
+      ]
+    },
+    {
+      "asin": "B078D674SY",
+      "title": "アイ・オー・データ 外付けHDD ハードディスク 2TB ポータブル カクうす アルミボディ 超薄型 mac Time Machine対応 日本製 HDPX-UTS2K",
+      "url": "https://www.amazon.co.jp/dp/B078D674SY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B078D674SY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31LHy3kmboL._SL500_.jpg",
+      "features": [
+        "約130gの軽さで持ち運びに最適",
+        "USB 3.0対応でバックアップもスピーディー(USB 2.0も使用可能)",
+        "2種類のカラーから選べる",
+        "USB 3.0対応でバックアップもスピーディー(USB 2.0も使用可能)",
+        "2種類のカラーから選べる"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けHDD バックアップ"
+      ]
+    },
+    {
+      "asin": "B0BN83PH2X",
+      "title": "エレコム 外付けHDD ELD-HTV020UBK",
+      "url": "https://www.amazon.co.jp/dp/B0BN83PH2X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BN83PH2X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21WW0NfknmL._SL500_.jpg",
+      "features": [
+        "番組の録画ができるハードディスクです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けHDD バックアップ"
+      ]
+    },
+    {
+      "asin": "B0FNR5RB4K",
+      "title": "IODATA カクうすLite ポータブルHDD 2TB テレビ録画&PC両対応 HDPH-UTV2K/E",
+      "url": "https://www.amazon.co.jp/dp/B0FNR5RB4K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FNR5RB4K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41040CDMUQL._SL500_.jpg",
+      "features": [
+        "【パソコンのデータ保存に！持ち運びしやすいコンパクトサイズ】スタイリッシュなデザインと機能性を追及し、手のひらサイズのコンパクトさを実現しています。 データの持ち運びや、家族・友達への受け渡しにも便利です。",
+        "【HDDの使用状況をチェックできる！「診断ミレル」】しまった！という経験はありませんか？ HDDは使っていくうちに必ず劣化していきます。劣化した状態で使用し続けると故障につながるため、定期的にHDDを買い替える必要があります。 本アプリはHDDの使用状態をチェックできるWindows専用アプリです。HDDの状態を定期的に確認することで、お客様ご自身で買い替え時期の目安を知ることができます。",
+        "【手軽にテレビ録画を始められる！ケーブル1本つなぐだけの簡単設置】本商品は、電源ケーブル不要のバスパワータイプ。テレビと本商品をケーブル1本でつなぐだけで、テレビ録画を始められます。電源コンセントが不要なため、ごちゃつきがちなテレビ周りの配線も、コンセント周りも気にする必要はありません。",
+        "【大型テレビでも安心のロングケーブルを添付約100cmのロングケーブルを添付しています。 大型テレビでも余裕をもった配線が可能です。",
+        "【寝室で使っても音が気にならない！静音ハードディスク】本商品は、寝室で使っても音が気にならない静かなハードディスクです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "外付けHDD バックアップ"
+      ]
+    },
+    {
+      "asin": "B08P45YTTL",
+      "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE61-2T00-GH25 エクストリーム エコパッケージ",
+      "url": "https://www.amazon.co.jp/dp/B08P45YTTL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08P45YTTL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41zEuz5-klL._SL500_.jpg",
+      "features": [
+        "最大読出し速度1050MB/秒、最大書込み速度1000MB/秒で高解像度の写真や動画を超高速にバックアップ、編集、管理",
+        "超高速転送を実現するUSB 3.2 Gen 2に対応",
+        "屋外への持ち運びに安心なIP65の防滴・防塵性能",
+        "USB Type-CケーブルとUSB Type-A変換アダプタ同梱。WindowsとMac,スマートフォンに対応",
+        "信頼のメーカー5年保証",
+        "対応OS: Windows10, Windows 8.1,Windows 7, macOS, High Sierra, Sierra, Mac OS X El Capitan USB Type-C 対応のスマートフォン",
+        "256ビットハードウェア暗号化とパスワードロック対応です。",
+        "【Amazon限定】環境に配慮したエコパッケージでお届けします"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "SanDisk SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B08P49M11C",
+      "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE61-500G-GH25 エクストリーム エコパッケージ",
+      "url": "https://www.amazon.co.jp/dp/B08P49M11C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08P49M11C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41zEuz5-klL._SL500_.jpg",
+      "features": [
+        "最大読出し速度1050MB/秒、最大書込み速度1000MB/秒で高解像度の写真や動画を超高速にバックアップ、編集、管理",
+        "超高速転送を実現するUSB 3.2 Gen 2に対応",
+        "屋外への持ち運びに安心なIP65の防滴・防塵性能",
+        "USB Type-CケーブルとUSB Type-A変換アダプタ同梱。WindowsとMac,スマートフォンに対応",
+        "信頼のメーカー5年保証 こちらの製品は日本国内向け正規代理店製品です。日本国内における保証書が同梱されております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "SanDisk SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B08HN37XC1",
+      "title": "SanDisk 2TB Extreme Portable SSD - Up to 1050MB/s - USB-C, USB 3.2 Gen 2 - External Solid State Drive - SDSSDE61-2T00-G25",
+      "url": "https://www.amazon.co.jp/dp/B08HN37XC1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08HN37XC1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500_.jpg",
+      "features": [
+        "最大読出し速度1050MB/秒、最大書込み速度1000MB/秒で高解像度の写真や動画を超高速にバックアップ、編集、管理",
+        "超高速転送を実現するUSB 3.2 Gen 2に対応",
+        "屋外への持ち運びに安心なIP55の防滴・防塵性能",
+        "USB Type-CケーブルとUSB Type-A変換アダプタ同梱。WindowsとMac,スマートフォンに対応"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "SanDisk SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0C3R9BSFS",
+      "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE30-1T00-GH26 エコパッケージ",
+      "url": "https://www.amazon.co.jp/dp/B0C3R9BSFS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C3R9BSFS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41FRhiut+3L._SL500_.jpg",
+      "features": [
+        "最大読出し速度800MB/秒で写真や動画を高速にバックアップ、編集、管理",
+        "USB Type-Aケーブル同梱、WindowsとMacの両方に対応",
+        "持ち運びに便利なコンパクトサイズで、2mの落下に耐える高耐久モデル",
+        "ファイル暗号化ソフト「サンディスク セキュアアクセス」付",
+        "こちらの製品は日本国内向け正規代理店製品です。日本国内における保証書が同梱されております。",
+        "【Amazon限定】環境に配慮したエコパッケージでお届けします"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "SanDisk SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0C3RDHQYG",
+      "title": "【Amazon.co.jp限定】SanDisk SSD 外付け SDSSDE30-2T00-GH26 エコパッケージ",
+      "url": "https://www.amazon.co.jp/dp/B0C3RDHQYG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C3RDHQYG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41FRhiut+3L._SL500_.jpg",
+      "features": [
+        "最大読出し速度800MB/秒で写真や動画を高速にバックアップ、編集、管理",
+        "USB Type-Aケーブル同梱、WindowsとMacの両方に対応",
+        "持ち運びに便利なコンパクトサイズで、2mの落下に耐える高耐久モデル",
+        "ファイル暗号化ソフト「サンディスク セキュアアクセス」付",
+        "こちらの製品は日本国内向け正規代理店製品です。日本国内における保証書が同梱されております。",
+        "【Amazon限定】環境に配慮したエコパッケージでお届けします"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "SanDisk SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0C5JNWF58",
+      "title": "SanDisk (サンディスク) 2TB ポータブル SSD ポータブル外付けSSD 最大800MB/秒 読み取り USB 3.2 Gen 2 SSD 外付けドライブ",
+      "url": "https://www.amazon.co.jp/dp/B0C5JNWF58?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C5JNWF58?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41-T4nAAufL._SL500_.jpg",
+      "features": [
+        "SanDisk(サンディスク)から、プロの写真家が任務を担うことを信頼するブランド。",
+        "最も美しい瞬間のためのメモリ。 信頼性の高いモバイルストレージソリューションで、コンテンツと思い出を保護します。",
+        "頑丈なゴム製フックのおかげで、ベルトループやバックパックに固定してさらに安心できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "SanDisk SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0CKVKBQDJ",
+      "title": "【 サンディスク 正規品 】 SanDisk 外付け SSD SDSSDE20-512G-GH25",
+      "url": "https://www.amazon.co.jp/dp/B0CKVKBQDJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CKVKBQDJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31cZ7i7N9fL._SL500_.jpg",
+      "features": [
+        "最大読出し速度420MB/秒で写真や動画を高速にバックアップ、編集、管理",
+        "USBを差し込むだけで使えるプラグアンドプレイのスリムなポータブルSSD",
+        "高級感があるアルミの耐久性あるコンパクトなデザイン",
+        "ファイル暗号化ソフト「サンディスク セキュアアクセス」付",
+        "こちらの製品は日本国内向け正規代理店製品です。日本国内における保証書が同梱されております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "SanDisk SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0DM23XSH6",
+      "title": "Samsung T7 1TB 外付けSSD 最大転送速度1,050MB/秒 USB3.2 Gen2(10Gbps, Type-C) グレー iPhone15/16シリーズ動作確認済み MU-PC1T0T-PD/EC 国内正規保証品【特典付モデル】",
+      "url": "https://www.amazon.co.jp/dp/B0DM23XSH6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DM23XSH6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31RT2B2NR6L._SL500_.jpg",
+      "features": [
+        "【特典付き】Parallels Desktop for Mac トライアル ライセンス コード付属",
+        "【転送スピード】最大1,050MB/秒の高速データ転送",
+        "【インターフェース】USB 3.2 Gen 2(10Gbps)に対応（USB-C to Cケーブル 、USB-C to Aケーブル付属）",
+        "【耐久性】最大2mの落下テストクリア 【セキュリティ】パスワードロック(任意設定)、AES 256bitハードウェア暗号化",
+        "【互換性】Windows 7以降、Mac OS X 10.10以降、Android Lollipop以降、iPhone 15/16 シリーズ動作確認済み",
+        "【メーカー保証】3年限定保証 ※メーカー保証及びサポートの対象は、Amazon.co.jpおよび「国内正規品」取り扱い店が販売する新品製品のみとなります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Samsung SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0CHFSWM2P",
+      "title": "Samsung T9 ポータブル SSD 1TB、USB 3.2 Gen 2x2 外付けSSD 最大2,000MB/秒。",
+      "url": "https://www.amazon.co.jp/dp/B0CHFSWM2P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CHFSWM2P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41JHNVamFwL._SL500_.jpg",
+      "features": [
+        "ノンストップスピード:クリエイター向けの最速のSSDでプロジェクトを駆け抜けましょう。読み込み、編集、転送速度を最大2,000MB/s1の持続的な読み取り速度と書き込み速度で読み込み、編集、転送。T9ポータブルSSDは、長いプロセスでも高速で機能します。",
+        "ダイナミックなサーマルガード:情熱的なプロジェクトでひじを深く感じているときでも、T9ポータブルSSDは涼しく保ちます。高度なサーマルソリューションは、熱に耐え、制御し、頻繁に使用してもSSDを理想的な温度に保ちます。2",
+        "あらゆるニーズに対応: デスクトップ、カメラ、ゲーム機を使用する場合でも、3、T9 Portable SSDで幅広い互換性があります。アプリケーションの使用やファイル保存に関しては、真のチームプレーヤーです。",
+        "頑丈。 無地。 安定性:コンセプトから完成まで – T9ポータブルSSDは、長距離を走る便利なドライブ1台で、頻繁に使用しても長持ちします。",
+        "魔法のように動作:T9ポータブルSSDは、常に最新のMagicianソフトウェアで新品のように動作します。ファームウェアの更新、追加の暗号化、ドライブの状態の継続的な監視により、魅力のように機能します。",
+        "世界一のフラッシュメモリブランド:20034年以来、フラッシュメモリの世界ナンバー1ブランドのパフォーマンスと信頼性。世界的に有名なDRAMやNANDを含むすべてのファームウェアとコンポーネントは自社で製造されており、信頼できます。",
+        "iPhoneに対応:iPhone 15 Pro Res 4K(60fpsビデオなど)をサポート。5。付属のSSDケーブル推奨。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Samsung SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0874XN4D8",
+      "title": "SAMSUNG (サムスン) SSD T7 ポータブル 外付け ソリッドステートドライブ 1TB 最大1,050MB/秒 USB 3.2 Gen 2 信頼性の高いストレージ ゲーム用 学生用 専門職用 MU-PC1T0T/AM グレー",
+      "url": "https://www.amazon.co.jp/dp/B0874XN4D8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0874XN4D8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31LdvAbumfL._SL500_.jpg",
+      "features": [
+        "持ち運べるストレージ： 軽いポケットサイズのポータブルSSD T7は、重要なビジネスドキュメント、ゲーム、映画などの大きなファイルを転送するための簡単で信頼性の高いデータストレージで、高速です。",
+        "瞬く間に転送： USB 3.2 Gen 2の驚異的な速度で数秒以内に大量のファイルを転送します。組み込まれたPCIe NVMeテクノロジーにより、それぞれ最大で1,050MB/秒、1,000MB/秒の超高速シーケンシャルリード速度やシーケンシャルライト速度を実現します。このため、T7はこれまでのT5モデルの2倍の速度です。",
+        "丈夫で安全な設計： HDDとは異なり、ポータブルSSD T7には可動部品がないため、衝撃に対する耐性が向上しています。さらに、頑丈なアルミニウムの一体構造がさらに保護性を高め、最大6フィートの落下からデータを安全に保護します。",
+        "信頼性の高いサーマルソリューション： T7の高度なサーマルソリューションでは、ダイナミックサーマルガードを利用して耐熱性を持たせ熱を制御します。そのため、ポータブルSSDは、高速でも最適な温度を維持します。",
+        "滑らかでコンパクト： おおよそクレジットカードサイズで重さはわずか2オンスです。T7は、手のひらに心地良く収まり、外出先にファイルを持ち出せるくらい軽量です。",
+        "最適なものの選択： クラシックグレーや、印象的なブルーやレッドから色をお選びください。以下の3つの容量から、皆さまのライフスタイルのニーズに合うようものをお選びください。 500GB、1TB、または2TB。",
+        "簡単なセットアップ： T7にはソフトウェアが内蔵されており、パスワードを設定して、パソコン、MacやAndroid機器の最新のファームウェアのアップデートを入手することができます。Androidスマートフォン用やタブレット用のモバイルアプリもダウンロードすることができます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Samsung SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0DM22R8RG",
+      "title": "Samsung T7 2TB 外付けSSD 最大転送速度1,050MB/秒 USB3.2 Gen2(10Gbps, Type-C) グレー iPhone15/16シリーズ動作確認済み MU-PC2T0T-PD/EC 国内正規保証品【特典付モデル】",
+      "url": "https://www.amazon.co.jp/dp/B0DM22R8RG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DM22R8RG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31RT2B2NR6L._SL500_.jpg",
+      "features": [
+        "【特典付き】Parallels Desktop for Mac トライアル ライセンス コード付属",
+        "【転送スピード】最大1,050MB/秒の高速データ転送",
+        "【インターフェース】USB 3.2 Gen 2(10Gbps)に対応（USB-C to Cケーブル 、USB-C to Aケーブル付属）",
+        "【耐久性】最大2mの落下テストクリア 【セキュリティ】パスワードロック(任意設定)、AES 256bitハードウェア暗号化",
+        "【互換性】Windows 7以降、Mac OS X 10.10以降、Android Lollipop以降、iPhone 15/16 シリーズ動作確認済み",
+        "【メーカー保証】3年限定保証 ※メーカー保証及びサポートの対象は、Amazon.co.jpおよび「国内正規品」取り扱い店が販売する新品製品のみとなります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Samsung SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0CHFS9K14",
+      "title": "Samsung T9 ポータブル SSD 2TB、USB 3.2 Gen 2x2 外付けSSD 最大2,000MB/秒。",
+      "url": "https://www.amazon.co.jp/dp/B0CHFS9K14?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CHFS9K14?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41JHNVamFwL._SL500_.jpg",
+      "features": [
+        "ノンストップスピード:クリエイター向けの最速のSSDでプロジェクトを駆け抜けましょう。読み込み、編集、転送速度を最大2,000MB/s1の持続的な読み取り速度と書き込み速度で読み込み、編集、転送。T9ポータブルSSDは、長いプロセスでも高速で機能します。",
+        "ダイナミックなサーマルガード:情熱的なプロジェクトでひじを深く感じているときでも、T9ポータブルSSDは涼しく保ちます。高度なサーマルソリューションは、熱に耐え、制御し、頻繁に使用してもSSDを理想的な温度に保ちます。2",
+        "あらゆるニーズに対応: デスクトップ、カメラ、ゲーム機を使用する場合でも、3、T9 Portable SSDで幅広い互換性があります。アプリケーションの使用やファイル保存に関しては、真のチームプレーヤーです。",
+        "頑丈。 無地。 安定性:コンセプトから完成まで – T9ポータブルSSDは、長距離を走る便利なドライブ1台で、頻繁に使用しても長持ちします。",
+        "魔法のように動作:T9ポータブルSSDは、常に最新のMagicianソフトウェアで新品のように動作します。ファームウェアの更新、追加の暗号化、ドライブの状態の継続的な監視により、魅力のように機能します。",
+        "世界一のフラッシュメモリブランド:20034年以来、フラッシュメモリの世界ナンバー1ブランドのパフォーマンスと信頼性。世界的に有名なDRAMやNANDを含むすべてのファームウェアとコンポーネントは自社で製造されており、信頼できます。",
+        "iPhoneに対応:iPhone 15 Pro Res 4K(60fpsビデオなど)をサポート。5。付属のSSDケーブル推奨。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Samsung SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0DPVPKYZL",
+      "title": "Samsung T7 Shield 1TB 外付けSSD 最大転送速度1,050MB/秒 USB3.2 Gen2(10Gbps, Type-C) PS4 PS5 MU-PE1T0S-IT 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0DPVPKYZL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DPVPKYZL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31CzY5Z2SfL._SL500_.jpg",
+      "features": [
+        "【転送速度】最大1,050MB/秒",
+        "【インターフェース】USB 3.2 Gen 2(10Gbps) ※USB 3.0/2.0互換",
+        "【保護性能】防水性・防塵性 IP65準拠、耐落下性 最大3m落下テストクリア",
+        "【セキュリティ】パスワードロック(任意設定)、AES 256bitハードウェア暗号化",
+        "使用用途：シネマカメラ（Blackmagic Pocket Cinema Camera 4K,6K,6K G2,6K Pro,URSA Mini Pro 12K,Broadcast G2推奨ドライブ）、スタジオカメラ（Blackmagic Studio Camera 6K Pro,4K Plus, 4K Pro, 4K Pro G2推奨ドライブ）、デジタル一眼カメラ（Panasonic LUMIX GH6/S5Ⅱx推奨ドライブ）、デジタル一眼カメラ（Panasonic LUMIX DC-G9M2/GH6/S5Ⅱx推奨ドライブ）、iPhone 15 シリーズ動作確認済み、PC（個人用、ビジネス）、スマートフォン、PS4、PS5等"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Samsung SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0874XWW23",
+      "title": "SAMSUNG (サムスン) T7 2TB ポータブル SSD 最大1,050MB/秒 USB 3.2 Gen2 ゲーム用 学生用 専門職用 外付け ソリッドステートドライブ (MU-PC2T0T/AM) グレー",
+      "url": "https://www.amazon.co.jp/dp/B0874XWW23?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0874XWW23?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31LdvAbumfL._SL500_.jpg",
+      "features": [
+        "瞬く間に転送： 外付けハードディスクドライブ（HDD）の約9.5倍の速さでファイルを転送します。 USB 3.2 Gen 2対応機器では、毎秒1,050 MBまで読み込み、毎秒1,000 MBまで書き込みます。",
+        "SAMSUNG(サムスン)は、最適なパフォーマンスを確保するために、ご利用者が付属のポータブルSSDソフトウェア1.0から最新のファームウェアのアップデートをダウンロードすることを推奨しています。",
+        "USB 3.2 Gen 2に対応していない機器では、読み込み速度や書き込み速度が異なる場合があります。",
+        "SAMSUNGは、同梱のUSB Type-C～Type-Cケーブル、USB Type-C～Type-Aケーブルの使用を推奨しています。 純正ではないケーブルでは、内部抵抗や最大許容通貨の変化により、性能が低下する場合があります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Samsung SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B09Y1P5D12",
+      "title": "Samsung T7 Shield 2TB 外付けSSD 【防水、防塵】 最大転送速度1,050MB/秒 USB3.2 Gen2(10Gbps, Type-C) PS4 PS5 iPhone15動作確認済み MU-PE2T0S-IT/EC 国内正規品(メーカー保証)",
+      "url": "https://www.amazon.co.jp/dp/B09Y1P5D12?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09Y1P5D12?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31iFnHJI4VL._SL500_.jpg",
+      "features": [
+        "【転送速度】最大1,050MB/秒",
+        "【インターフェース】USB 3.2 Gen 2(10Gbps) ※USB 3.0/2.0互換",
+        "【保護性能】防水性・防塵性 IP65準拠、耐落下性 最大3m落下テストクリア",
+        "【セキュリティ】パスワードロック(任意設定)、AES 256bitハードウェア暗号化",
+        "【メーカー保証】3年限定保証 ※メーカー保証及びサポートの対象は、Amazon.co.jpおよび「国内正規品」取り扱い店が販売する新品製品のみとなります。",
+        "使用用途：シネマカメラ（Blackmagic Pocket Cinema Camera 4K,6K,6K G2,6K Pro,URSA Mini Pro 12K,Broadcast G2推奨ドライブ）、スタジオカメラ（Blackmagic Studio Camera 6K Pro,4K Plus, 4K Pro, 4K Pro G2推奨ドライブ）、デジタル一眼カメラ（Panasonic LUMIX GH6/S5Ⅱx推奨ドライブ）、デジタル一眼カメラ（Panasonic LUMIX DC-G9M2/GH6/S5Ⅱx推奨ドライブ）、iPhone 15 シリーズ動作確認済み、PC（個人用、ビジネス）、スマートフォン、PS4、PS5等"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Samsung SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B0F3N8Q78G",
+      "title": "Samsung T7 1TB 最大転送速度1,050MB/秒 PS4/PS5動作確認済み USB3.2 Gen2 外付けSSD (ポータブル) グレー MU-PC1T0T-IT/A 国内正規保証品",
+      "url": "https://www.amazon.co.jp/dp/B0F3N8Q78G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F3N8Q78G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41LO5p5Fq0L._SL500_.jpg",
+      "features": [
+        "【転送速度】最大1,050MB/秒",
+        "【インターフェース】USB 3.2 Gen 2(10Gbps)、/3.0/2.0互換",
+        "【セキュリティ】パスワードロック(任意設定)、AES 256bitハードウェア暗号化",
+        "【耐久性】最大2mの落下テストクリア",
+        "【互換性】Windows 7以降、Mac OS X 10.10以降、Android Lollipop以降、iPhone 15 シリーズ動作確認済み"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Samsung SSD 外付け"
+      ]
+    },
+    {
+      "asin": "B09FJTYT4N",
+      "title": "バッファロー HD-EDS4U3-BE パソコン&テレビ録画用 外付けHDD 4TB",
+      "url": "https://www.amazon.co.jp/dp/B09FJTYT4N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09FJTYT4N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31K-NR6wlQL._SL500_.jpg",
+      "features": [
+        "バッファロー",
+        "HD-EDS4U3-BE",
+        "パソコン&テレビ録画用"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Buffalo 外付けHDD SSD"
+      ]
+    },
+    {
+      "asin": "B08N4TY6RV",
+      "title": "Amazon限定 バッファロー ポータブルSSD 500GB コンパクト USB3.2Gen1 ブラック SSD-PUT500U3-B/N",
+      "url": "https://www.amazon.co.jp/dp/B08N4TY6RV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08N4TY6RV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ze38peiqS._SL500_.jpg",
+      "features": [
+        "【パソコンのデータ保存に】 最大約430MB/sの高速なファイル転送。バッファロー従来品 外付けHDDよりも約3.6倍速のスピード。当社従来品HD-PCGU3-Aと比較。測定環境はメーカーより欄に記載",
+        "【ケーブルレスで持ち運び便利】バスパワー駆動で、PCにさすだけ。ケーブル不要。単三アルカリ乾電池よりも軽い約17g小型サイズ。本体重量のみ",
+        "【テレビ番組の録画に】SSDだから動作音が気にならない。寝室やワンルームで使用してもストレスフリー",
+        "【保証】購入から1年間の保証つき。",
+        "【動作環境とインターフェイス】Windows、Mac、PS5/PS4、TV対応。USB( USB 3.2(Gen 1)/3.1(Gen 1)/3.0/2.0)、Type-A",
+        "【付属品】取扱説明書(保証書)",
+        "【Amazon限定】簡易包装箱でお届けします。",
+        "ストラップが取り付けられるので持ち運びの際に便利です。また紛失防止策にもなるので安心です。 ストラップは付属しておりません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Buffalo 外付けHDD SSD"
+      ]
+    },
+    {
+      "asin": "B095SLK8WZ",
+      "title": "BUFFALO バッファロー 外付けSSD ブラック 1.0TB SSD-PUT1.0U3-BKA",
+      "url": "https://www.amazon.co.jp/dp/B095SLK8WZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B095SLK8WZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41m2Sry242L._SL500_.jpg",
+      "features": [
+        "4981254057810"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Buffalo 外付けHDD SSD"
+      ]
+    },
+    {
+      "asin": "B07QPNK96T",
+      "title": "Amazon限定 バッファロー 外付けHDD 6TB テレビ録画 nasne 対応 静音 日本製 HD-AD6U3",
+      "url": "https://www.amazon.co.jp/dp/B07QPNK96T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07QPNK96T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41ab4BN-lJL._SL500_.jpg",
+      "features": [
+        "容量:6TB",
+        "【対応機種】USB3.1(Gen1)/3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac、対応OS:Windows 10/8.1/7、Mac OS X 10.11以降",
+        "【対応TV】シャープ「アクオス」、ソニー「ブラビア」、パナソニック「ビエラ」、バッファロー「nasne」、Hisense、東芝「レグザ」、FUNAI、オリオン、三菱電機、LG Electronics、日立「Wooo」、ピクセラ、DXアンテナ、ディーオン(対応機種の詳細はメーカーHPを参照)",
+        "【接続規格】インターフェース USB3.1(Gen1)/3.0/2.0",
+        "電源:AC100V 50/60Hz"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Buffalo 外付けHDD SSD"
+      ]
+    },
+    {
+      "asin": "B0BMKBHDJX",
+      "title": "Amazon限定 バッファロー CMR HDD採用 外付けHDD 4TB テレビ録画対応 nasne対応 静音 日本製 HD-ACD4U3",
+      "url": "https://www.amazon.co.jp/dp/B0BMKBHDJX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BMKBHDJX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41iA24yfK9L._SL500_.jpg",
+      "features": [
+        "高性能CMR HDDを採用、テレビ／レコーダーに幅広く対応し同時録画に強い。",
+        "【対応機種】USB 3.2(Gen1)/USB 3.1(Gen1)/3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac、対応OS:Windows 11/10/8.1、Mac OS 10.15以降",
+        "【対応TV】シャープ「アクオス」、ソニー「ブラビア」、パナソニック「ビエラ」、バッファロー「nasne」、Hisense、東芝「レグザ」、FUNAI、三菱電機、LG Electronics、ピクセラ【対応レコーダー】パナソニック「ディーガ※」、シャープ「アクオス」、ソニー　※バッファローにおける動作確認のため、接続についてのご質問はバッファローサポートセンターまでお問い合わせください。（対応機種の詳細はバッファローHPを参照。）",
+        "【サイズ】外形寸法(幅×高さ×奥行):114×33×171mm※本体のみ(突起部除く)、質量:約900g",
+        "【接続規格】USB 3.2(Gen1)/USB 3.1(Gen1)/3.0/2.0【保証期間】1年間",
+        "環境に配慮した簡易包装でお届けします",
+        "※データ復旧サービスは全て有償対応",
+        "【Amazon限定】壁紙ダウンロード付き"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Buffalo 外付けHDD SSD"
+      ]
+    },
+    {
+      "asin": "B07NWQWRPG",
+      "title": "BUFFALO USB3.1(Gen.1)対応 耐衝撃ポータブルHDD 1TB ブラック HD-PGF1.0U3-BKA",
+      "url": "https://www.amazon.co.jp/dp/B07NWQWRPG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07NWQWRPG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41P5XnaSO3L._SL500_.jpg",
+      "features": [
+        "USB3.1(Gen.1)対応 耐衝撃ポータブルHDD 1TB ブラック",
+        "容量:1TB",
+        "対応:USB3.1(Gen1)/3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac",
+        "接続規格:USB3.1(Gen1)/3.0/2.0",
+        "サイズ:(幅×高さ×奥行):79.5×13.5×119mm※本体のみ(突起物除く)、重量:150g※本体のみ",
+        "付属品:USB3.1(Gen1)ケーブル(50cm)、取扱説明書(保証書)",
+        "保証期間:1年間",
+        "対応するパソコン:USB3.1(Gen1)/3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Buffalo 外付けHDD SSD"
+      ]
+    },
+    {
+      "asin": "B0F4K79T2C",
+      "title": "BUFFALO HDSGDA8U3B 外付けHDD USB3.2(Gen1)対応 外付けHDD Seagateコラボ 8TB ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0F4K79T2C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F4K79T2C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21eo1QjO23L._SL500_.jpg",
+      "features": [
+        "大容量ストレージ: 8TBの大容量で、大量のデータやファイルを安心して保存できる据え置き型外付けHDDです",
+        "高速インターフェース: USB3.2 Gen1対応により、高速なデータ転送が可能で、Mac対応とテレビ録画対応も実現しています",
+        "コンパクト設計: 幅114mm×高さ33mm×奥行171mmのコンパクトサイズで、デスク周りにすっきりと設置できます",
+        "信頼のコラボレーション: BUFFALOとSeagateのコラボレーションモデルで、高品質なストレージソリューションを提供します",
+        "多用途対応: パソコンのデータバックアップからテレビ番組の録画まで、幅広い用途に対応可能な外付けHDDです"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Buffalo 外付けHDD SSD"
+      ]
+    }
+  ]
+}

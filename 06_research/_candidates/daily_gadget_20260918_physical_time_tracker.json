@@ -1,0 +1,517 @@
+{
+  "generated_at": "2026-08-12T19:35:07",
+  "account_id": "daily_gadget",
+  "partner_tag": "daily-gadget-22",
+  "mode": "pool",
+  "queries": [
+    {
+      "query": "時間管理 物理 トラッカー",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "タイムトラッカー 物理",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "Toggl 連携 デバイス",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "Timeular トラッカー",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "タスク管理 物理 ボタン",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "時間記録 ガジェット",
+      "include": [],
+      "exclude": []
+    }
+  ],
+  "fetched_count": 24,
+  "dedup_count": 0,
+  "candidates": [
+    {
+      "asin": "B0G39S2QXT",
+      "title": "ポモドーロ タイマー デスク – タイマー キューブ ガジェット、作業タイミング ツール |時間管理アクセサリー生産性向上、勉強トレーニング間隔トラッカー、オフィス家庭用の効率的なルーチンプランナー",
+      "url": "https://www.amazon.co.jp/dp/B0G39S2QXT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G39S2QXT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21BdcILLlCL._SL500_.jpg",
+      "features": [
+        "革新的なリマインダー システム]: 騒がしい場所と静かな場所の呼び出し音と振動モードを備えた独自の生産性タイマーで生産性を向上させます。多彩な 2 つの目覚まし時計モードはさまざまなニーズに対応し、設定された振動モードは静かな環境に最適です。",
+        "LED 利便性]: LED インジケーター ライトを介してタイマーのステータスをすばやく確認できます。振動やアラームは必要ありません。タイマーが作動中か終了かを一目で確認できます。",
+        "幅広い用途]: さまざまなアクティビティにわたって厳格な時間管理を必要とする人々のニーズに応える、この高度なタイマーで生産性を向上させます。運動、勉強、料理、キッチンでのお菓子作りから教室のスケジュールまで、幅広くお使いいただけます。",
+        "作業が簡単:] 簡単なタイマー制御機能で作業プロセスを簡素化します。電源ボタンを回してカウントダウンを停止し、希望の数字面を上にセットするとカウントダウンが開始されます。時間がなくなるとタイマーが鳴ったり振動したりします。生産性を簡単に向上させます。",
+        "持続可能な充電ソリューション]: 生産性を向上させたい方の必需品です。内蔵の充電式バッテリーとUSB Cポート経由の急速充電により、バッテリー交換を心配する必要はありません。これは、時間管理のための持続可能でコスト効率の高いソリューションです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間管理 物理 トラッカー"
+      ]
+    },
+    {
+      "asin": "B0H5CBRSBK",
+      "title": "生産性タイマー キューブ - アラーム デスク タイマー |デスクトップ用USB充電式フォーカス、ポモドーロ時間管理ツール、キッチントレーニング勉強カ",
+      "url": "https://www.amazon.co.jp/dp/B0H5CBRSBK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H5CBRSBK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31FLbWUxZ4L._SL500_.jpg",
+      "features": [
+        "効率的なリマインダー システム: 多用途のアラーム モードを備えたこの生産性タイマーにより、締め切りを逃すことがなくなります。ユニークなデザインにより、呼び出し音、振動、または両方のモードを選択できるため、騒がしい場所でも静かな場所でも最適です。 2 つの目覚まし時計モードにより、ニーズに合わせてアラートを調整できます。",
+        "LEDインジケーター：LEDディスプレイでタイマーの進行状況を簡単に確認でき、アラームや振動を気にせずに、タイマーの実行中または終了のステータスを示します。",
+        "幅広い用途: さまざまなアクティビティにわたって厳格な時間管理を必要とする人々のニーズに応える、この高度なタイマーで生産性を向上させます。運動、勉強、料理、キッチンでのお菓子作りから教室のスケジュールまで、幅広くお使いいただけます。",
+        "操作が便利：タイマー電源ボタンを上に向けてカウントダウンを停止し、希望の数字側を上にセットしてタイマーを開始します。時間がなくなると、着信音または振動で通知が届きます。生産性を簡素化し、順調に進みます。",
+        "USB 充電: デスク用生産性タイマーを使用すると、バッテリー寿命を心配することなく簡単に時間を管理できます。充電式バッテリーなので交換の必要がなく、USB C ポートを使用して急速充電できます。さらに、長期的にはお金を節約できる環境に優しいオプションです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間管理 物理 トラッカー"
+      ]
+    },
+    {
+      "asin": "B0G2XTH4MP",
+      "title": "タイマーデスク – 卵型タイマー、デジタルデスクトップツール、ワークセッショントラッカー、簡単なセットデザイン | 生産性に重点を置いた学習セッション",
+      "url": "https://www.amazon.co.jp/dp/B0G2XTH4MP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G2XTH4MP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/312TEH8p9vL._SL500_.jpg",
+      "features": [
+        "LEDの利便性:LEDインジケーターライトでタイマーの状態をすばやく確認でき、振動やアラームは不要です。 タイマーが作動しているか、終了しているかを一目で確認できます。",
+        "【多様な用途】様々な活動で厳しい時間管理を必要とする人々のニーズに応える高機能タイマーで生産性を高めます。 勉強、運動、料理、キッチンベーキング、教室のタイマーとして幅広くお使いいただけます。",
+        "【すぐに使える】ボタンを回してカウントダウンを停止し、数字側を上に向いたまま希望の時間を設定することで、簡単にタイマーを操作できます。 カウントダウンが終了すると、タイマーはリングまたはバイブレーションで警告します。",
+        "【サステナブルな充電ソリューション】生産性を高めたい方には欠かせない商品です。 内蔵充電式バッテリーとUSB Cポート経由の高速充電でバッテリー交換の心配がありません。 持続可能で費用対効果の高い時間管理ソリューションです。",
+        "革新的なリマインダーシステム:騒音や静かな場所向けのリングモードと振動モードを備えた独自の生産性タイマーで生産性を向上させます。 万能な2つの目覚まし時計モードは多様なニーズを満たし、設定された振動モードは静かな設定に最適です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間管理 物理 トラッカー"
+      ]
+    },
+    {
+      "asin": "B0FV2KZ8C6",
+      "title": "就寝時ルーチンチャート-12PCSビジュアルラーニングボード、教育行動スケジュール、磁気コミュニケーションツール|子供のための毎日のルーチンオーガナイザーホーム教室自閉症幼児認知トレーニング",
+      "url": "https://www.amazon.co.jp/dp/B0FV2KZ8C6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FV2KZ8C6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51QHINg6+5L._SL500_.jpg",
+      "features": [
+        "完全なキット：ビジュアルスケジュールには、11のドライエラーゼ「スケジュールブランクカード」、「今日のスケジュール」タイトルカード、2つの消去可能なペン1レッド、1つの黒、完全にカスタマイズされた正確な旅程の促進を備えています。",
+        "消去可能なフィルム：高品質のフィルムで覆われたSturdys Card Stockから作成された私たちの視覚的なスケジュールには、シームレスで繰り返される使用のための消去可能なペンが付属しており、環境に優しいアプローチを促進します",
+        "簡単な組織：スケジュールの左側にデジタルとアナログクロックを備え、関連するアクティビティを書くために右側にある文のストリップ、および毎日の学習スケジュールのために指定されたスペースを備えています",
+        "効率の向上：視覚的なスケジュールを組み込むことで、教室の生産性を最大化します。このツールはスケジュールに従い、子供の時間感を強化し、事前の計画と順序の維持を奨励します",
+        "良いプレゼント：送信ケアと祝福に最適、この視覚的なスケジュールは実用的で思慮深いプレゼントを作り、休日のプレゼントとして親relativeや友人に与えられたときに毎日のと喜びを確保します"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間管理 物理 トラッカー"
+      ]
+    },
+    {
+      "asin": "B0CY8D4JVZ",
+      "title": "CustomMaster 3 in 1 就寝時間/朝/毎日の雑用チャート、子供用磁気ルーチンチャート、子供用視覚スケジュール、幼児、面白いキッズTo Doリスト子供用ADHDツール",
+      "url": "https://www.amazon.co.jp/dp/B0CY8D4JVZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CY8D4JVZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51KK85tQwNL._SL500_.jpg",
+      "features": [
+        "雑用を楽しいものに変える:この雑用チャートでルーチンをエキサイティングにしましょう。完了したタスクごとにボタンを動かすことで進捗状況を追跡でき、楽しいアクティビティになります。",
+        "長持ち:もう薄っぺらな紙のチャートはもうありません! この丈夫な子供用チェックリストは耐久性があり、成長や進化に合わせてルーチンをカスタマイズするためのユニークなステッカーが付属しています。",
+        "ポジティブな習慣を奨励:当社の3-in-1ルーチンチャートは、愛情のこもった境界と期待を補強し、毎日、朝、就寝時間を予測可能でインタラクティブにし、子供にとってやりがいのある楽しいものにします。",
+        "ポータブル&散らかりません:当社の視覚的なスケジュールは磁気的で、家の中を簡単に移動でき、物をきちんと整理できます。 さらに、かわいいデザインは、お子様が毎日更新するときに興奮の要素を追加します。",
+        "自立を促進:この子供に優しい雑用ボードは、タスクを追跡するだけではありません。子供たちはそれぞれのタスクを「完了」させるときに達成感を感じさせます。 この3-in-1ルーチンチャートで、お子様が前向きな習慣を身につけ、その成果に誇りを持つのを手伝ってください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間管理 物理 トラッカー"
+      ]
+    },
+    {
+      "asin": "B0CQJQ6HPX",
+      "title": "LUCKY TIME 生産性タイマー フリップ重力センサーキューブタイマー カウントダウン&カウントアップ、ミュート&バイブレーション&サウンド、5/10/30/60分&カスタムタイミング、ADHD、仕事、学習、キッチン調理に最適 (1ホワイト)",
+      "url": "https://www.amazon.co.jp/dp/B0CQJQ6HPX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CQJQ6HPX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31fFH-JKrOL._SL500_.jpg",
+      "features": [
+        "ポモドーロタイマー"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タイムトラッカー 物理"
+      ]
+    },
+    {
+      "asin": "B0GHMT6MVG",
+      "title": "BATHVEVE 子供用家事チャートセット 週日タスク管理 物理ボタン進捗表示 教室 家庭向け週間行動チェックシート 幼児教育教材",
+      "url": "https://www.amazon.co.jp/dp/B0GHMT6MVG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GHMT6MVG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31eW1lNQqGL._SL500_.jpg",
+      "features": [
+        "のための計画ボード：毎日のスケジュール、授業などを表示し、 が独立して作業し、スケジュールに従い、秩序を保つことを奨励します。 のためのチャートを作成するのに非常に役立ちます",
+        "用雑用ボード：この製品の仕上がりは で、使用時に良い経験が得られます。勉強ツールです",
+        "教室の出席チャート：あなたの部屋や家にフィットするように美しくデザインされているので、物事に集中できます。毎日のスケジュールチャート",
+        "教室用出席ポケットチャート：お子様の行動を変え、お子様の雑用チャートで楽しく過ごしましょう。 向けタスクチャート",
+        "家事ボード：親や教師が の行動を積極的に褒めることができるように特別に設計されています。 の家事チャート"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タスク管理 物理 ボタン"
+      ]
+    },
+    {
+      "asin": "B0GQDDKC9Q",
+      "title": "Healvian 消せるToDoリスト 多機能家事表 10代行動チャート 週別 日別タスク管理 物理ボタン操作付きタスク進捗表示 家庭 学校向け計画ボード",
+      "url": "https://www.amazon.co.jp/dp/B0GQDDKC9Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GQDDKC9Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/313OHZNDE3L._SL500_.jpg",
+      "features": [
+        "大人の計画リマインダーチャート：プラスチック素材で作られており、 して使用できます。毎日のスケジュールチャート",
+        "ルーチンボード：付属のマーカーペンを使って独自のアクティビティを作成し、報酬を与えたいポジティブな行動を選択するだけです。ティーン向けの行動チャート",
+        "計画ボード：この製品の仕上がりは で、使用時に良い経験が得られます。多機能な家事チャート",
+        "の毎日のルーチンチャート：家事はルーチンと習慣を身につけ、家族の中で達成感を感じるのに役立ちます。家事",
+        "ポータブル家事チェックリストボード：新しい家事チャートで行動を変え、楽しく過ごすことができます。便利な行動チャート"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タスク管理 物理 ボタン"
+      ]
+    },
+    {
+      "asin": "B0HDTP6J6F",
+      "title": "ORFOFE プラスチック製の携帯用家事チャートはスライドパンチと物理ボタン搭載でタスク進捗管理が可能なメモボードで 家庭やオフィスでのティーン向けスケジュール管理に最適",
+      "url": "https://www.amazon.co.jp/dp/B0HDTP6J6F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0HDTP6J6F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Yfg5hba5L._SL500_.jpg",
+      "features": [
+        "家事分担表 - プラスチック素材でできており、 して使用できます。家庭での行動表",
+        "家事チェックリスト - あなたの部屋や家に美しくフィットするようにデザインされているので、大切なことに集中できます",
+        "計画リマインダーチャート-精巧な職人技と良質な素材により、 なディテールと計画ボードが実現します",
+        "家事分担表 - この表は、家族全員でルールを守ることを楽しいゲームにするためのインセンティブを提供します。リマインダー表",
+        "装飾的な家事表 - で製造され、実用的で長期使用に適した家事ボード"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タスク管理 物理 ボタン"
+      ]
+    },
+    {
+      "asin": "B0H9V1CQLM",
+      "title": "Anneome プラスチック製の多機能家事表 タスク進捗管理と物理ボタン搭載で使いやすい 10代向けのやることリストボード オフィスや家庭での効率的なスケジュール管理に最適なメモボード ペン付きで持ち運び便利",
+      "url": "https://www.amazon.co.jp/dp/B0H9V1CQLM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H9V1CQLM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31fwkQkftTL._SL500_.jpg",
+      "features": [
+        "リマインダーチャート：毎日のスケジュールや授業などを表示し、自主的に学習し、スケジュールに従い、事前に計画を立て、秩序を保つことを促します。非常に役立ちます。創造的な家事チャート",
+        "家事：私たちの家事表には、朝から寝るまで責任を持って取り組むのに役立つ週ごとのタスクボードと日ごとのタスクボード、家庭での行動表が含まれています",
+        "リマインダーボード：10代の若者に責任感と規律を教え、良い行動を促し、学校や家庭での個々の目標達成を支援する。10代の若者向けの家事分担表",
+        "家族のための家事ボード：精巧な職人技と良質な素材により、 なディテールと計画リマインダーチャートが されます",
+        "向け家事リスト：この表は、ルールを守ることを家族全員にとって楽しいゲームにするためのインセンティブを提供します。私の家事チェックリスト"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タスク管理 物理 ボタン"
+      ]
+    },
+    {
+      "asin": "B0CQ5JPCCM",
+      "title": "TEHAUX 家庭用リマインダーチャート プラ製タスク進捗管理ボード ペン付き 物理ボタン搭載 10代の若者向け 家庭やオフィス使えるスケジュールメモボード",
+      "url": "https://www.amazon.co.jp/dp/B0CQ5JPCCM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CQ5JPCCM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31JXh16H9hL._SL500_.jpg",
+      "features": [
+        "計画リマインダーチャート - ✅オフィスや家庭での使用に非常に適しており、物理ボタン、スライドパンチ、タスクの進捗状況が明確で、儀式的な感覚に満ちています。",
+        "毎日のチェックリスト ボード -- 👍👍👍短期的な目標を設定すると、やがて丸 1 週間になります。",
+        "10 代の若者向けの家事チャート -- あなたの行動を変え、新しい家事チャートを楽しんでください。",
+        "チェックリストボードの雑用チャート - 私たちのチャートはあなたにインセンティブを与え、ルールに従うことを家族全員にとって楽しいゲームにします。",
+        "家庭用リマインダー チャート -- 👍👍👍このインセンティブ チャートを活用してモチベーションを維持し、非常に実用的で耐摩耗性に優れています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タスク管理 物理 ボタン"
+      ]
+    },
+    {
+      "asin": "B0H7QMZPKM",
+      "title": "FIXOSHEE プラ製の多機能家事表 タスク進捗管理物理ボタン付き ペン付き 10代の若者向け 学校や家庭使える雑用ボードスケジュール管理リスト",
+      "url": "https://www.amazon.co.jp/dp/B0H7QMZPKM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H7QMZPKM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/313OHZNDE3L._SL500_.jpg",
+      "features": [
+        "家庭のリマインダーチャート：私たちの家事チャートには、朝から就寝時まで責任を果たすのに役立つ週ごと、毎日のタスクボードがあります。ティーン向けの家事チャート",
+        "大人の計画リマインダー ：1週間の長い 標の前に短期の 標を設定することで、家事",
+        "タスクチャート：この製品の仕上がりは で、使用時に良い経験が得られます。ポータブルな家事チャート",
+        "大人のための家事チャート：職人技と良質な素材で なディテールを 、家庭の行動チャート",
+        "多機能家事チャート：プラスチック素材で作られており、 して使用できます。装飾的な家事チャート"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タスク管理 物理 ボタン"
+      ]
+    },
+    {
+      "asin": "B0GP6TCB9C",
+      "title": "CONGARTENO 多機能家事チャート 家庭行動チャート DIYリマインダーチャート 週次日次タスク管理 物理ボタン スライドパンチ搭載 儀式感のある進捗表示 オフィスや家庭向け行動計画ボード 成人 10代複数人用",
+      "url": "https://www.amazon.co.jp/dp/B0GP6TCB9C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GP6TCB9C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/313OHZNDE3L._SL500_.jpg",
+      "features": [
+        "家庭向けの 向けルーチン - 十代の若者に責任感、規律を教え、学校や家庭での個々の 標を達成できるように良い行動を奨励します。リマインダー",
+        "十代の若者の雑用表 - 親、教師、または介護者が積極的に良い行動を報いることができるように特別に設計されています。家庭のリマインダー表",
+        "ルーチンボード - 家事はルーチンと習慣を身につけ、家族内で達成感を感じるのに役立ちます。家事チャート",
+        "計画ボード - チック製、鉛筆で書かれた白紙カードは拭いて再利用できます。後ろの穴は吊り下げたり、吊り下げたり、置いたりできます。いつでもどこでも家事に",
+        "家事ボード - 1週間の長期 標の前に短期 標を設定することで、10代の若者向けの家事"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タスク管理 物理 ボタン"
+      ]
+    },
+    {
+      "asin": "B0HDTTQT3R",
+      "title": "OUNONA ティーン向けプラスチック製スケジュールボード ポータブルで物理ボタン付き タスク進捗管理やスライディングパンチ機能搭載で家庭やオフィスのやることリストに最適 ペン付属",
+      "url": "https://www.amazon.co.jp/dp/B0HDTTQT3R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0HDTTQT3R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/311kMkF69SL._SL500_.jpg",
+      "features": [
+        "家庭での行動表 - 付属のマーカーペンを使って、独自の活動を作成し、ご褒美を与えたい良い行動を選択するだけです。スケジュールボード",
+        "家事リスト - 精巧な職人技と良質な素材により、 なディテールと携帯可能な家事チャートが実現します",
+        "10代の若者向け家事分担表 - 毎日のスケジュールや授業などを表示し、自主的に作業すること、スケジュールを守ること、事前に計画を立てること、整理整頓することなどを促します。とても役立ちます。創造的な家事分担表",
+        "便利な家事表 - プラスチック製、鉛筆で書き込める白紙のカードは拭いて再利用可能、背面の穴で吊り下げたり置いたりでき、いつでもどこでも使える家庭用リマインダーチャート",
+        "向け日課表 - 褒め言葉やご褒美を使って、楽しく簡単にティーンエイジャーの行動を促します。計画リマインダー表"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タスク管理 物理 ボタン"
+      ]
+    },
+    {
+      "asin": "B0H7T8XVHV",
+      "title": "Amosfun プラ製ペン付きティーンズ向け多機能家事表 家庭やオフィス使えるタスク進捗管理物理ボタン搭載のポータブル家事計画リマインダーボード",
+      "url": "https://www.amazon.co.jp/dp/B0H7T8XVHV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H7T8XVHV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/313OHZNDE3L._SL500_.jpg",
+      "features": [
+        "家族のための雑用ボード - 十代の若者に責任と規律を教え、学校や家庭での個々の目標を達成できるように良い行動を奨励する、計画ボード",
+        "ポータブル家事チャート - 耐摩耗性、頑丈さ、実用性を備えた装飾的な家事チャートで作られています",
+        "ポータブル家事チェックリストボード - 部屋や家にフィットするように美しくデザインされているので、重要なことに集中できます。家事チャート",
+        "毎日のスケジュールチャート - 新しい家事チャートであなたの行動を変え、楽しみましょう！大人のための家事チャート",
+        "家事リスト - 1週間の長期目標の前に短期目標を設定することで、計画ボード"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タスク管理 物理 ボタン"
+      ]
+    },
+    {
+      "asin": "B0H9YKKFNC",
+      "title": "SHINEOFI ティーンズ向け家事表 プラスチック製物理ボタン搭載 家事進捗追跡機能付き ペン付属 ホームやオフィスで使えるタスク管理ボード",
+      "url": "https://www.amazon.co.jp/dp/B0H9YKKFNC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H9YKKFNC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31VRto5SFFL._SL500_.jpg",
+      "features": [
+        "創造的な家事分担表：この表は、家族全員にとってルールを守ることが楽しいゲームになるように、インセンティブを提供します。10代向けの家事分担表",
+        "家族向けの家事ボード：オフィスや家庭での使用に最適、物理ボタン、スライドパンチ、タスクの進捗状況が明確、儀式的な雰囲気にあふれ、ティーンエイジャーの行動チャート",
+        "リマインダーボード：この家事表は、ティーンエイジャーが日課を繰り返すことを促します。多機能な家事表",
+        "便利な家事表：親、教師、介護者が「良い行動」を積極的に褒めることができるように特別に設計された、持ち運び可能な家事チェックリストボード",
+        "タスクチャート：新しい家事チャートで行動を変えて楽しみましょう！"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タスク管理 物理 ボタン"
+      ]
+    },
+    {
+      "asin": "B0H7CNCVBX",
+      "title": "JGGLD DC 6-80V メカニカルアワーメーター 高精度でエンジンの使用時間を記録するガジェット ディーゼルやガソリンエンジン用 (HM001)",
+      "url": "https://www.amazon.co.jp/dp/B0H7CNCVBX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H7CNCVBX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/415psGVGcQL._SL500_.jpg",
+      "features": [
+        "[耐久性のあるトラッキング]このDC 6-80Vメカニカルアワーメーターは、エンジンのサービスライフを正確に追跡するために設計されています。長期間にわたって使用できるため、メンテナンスのタイミングを逃すことはありません。",
+        "[低消費電力]低消費電力で作動するこのアワーメーターは、電力の無駄を最小限に抑えつつ、長時間の使用が可能です。持続的なパフォーマンスを提供し、コストパフォーマンスにも優れています。",
+        "[完全密閉の設計]このメーターは、完全にシールされており、ほこりや湿気から保護されています。このため、厳しい環境下でも確実に機能し、信頼性の高い性能を発揮します。",
+        "[確かな記録機能]信頼性の高いカウンターは、記録を全く失うことなく、99,999.9時間までの精密な読み取りを提供します。エンジンの稼働時間を正確に把握できるため、計画的なメンテナンスが可能です。",
+        "[高精度]高精度の技術により、エンジンの稼働時間を正確に記録し、表示します。このアワーメーターを使用することで、メンテナンスを適切に計画し、エンジンの寿命を延ばすことができます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間記録 ガジェット"
+      ]
+    },
+    {
+      "asin": "B0H7CLZYMR",
+      "title": "JGGLD DC 6-80V メカニカルアワーメーター 高精度でエンジンの使用時間を記録するガジェット ディーゼルやガソリンエンジン用 (HM002)",
+      "url": "https://www.amazon.co.jp/dp/B0H7CLZYMR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H7CLZYMR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31NW+YMCLMS._SL500_.jpg",
+      "features": [
+        "[耐久性のあるトラッキング]このDC 6-80Vメカニカルアワーメーターは、エンジンのサービスライフを正確に追跡するために設計されています。長期間にわたって使用できるため、メンテナンスのタイミングを逃すことはありません。",
+        "[低消費電力]低消費電力で作動するこのアワーメーターは、電力の無駄を最小限に抑えつつ、長時間の使用が可能です。持続的なパフォーマンスを提供し、コストパフォーマンスにも優れています。",
+        "[完全密閉の設計]このメーターは、完全にシールされており、ほこりや湿気から保護されています。このため、厳しい環境下でも確実に機能し、信頼性の高い性能を発揮します。",
+        "[確かな記録機能]信頼性の高いカウンターは、記録を全く失うことなく、99,999.9時間までの精密な読み取りを提供します。エンジンの稼働時間を正確に把握できるため、計画的なメンテナンスが可能です。",
+        "[高精度]高精度の技術により、エンジンの稼働時間を正確に記録し、表示します。このアワーメーターを使用することで、メンテナンスを適切に計画し、エンジンの寿命を延ばすことができます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間記録 ガジェット"
+      ]
+    },
+    {
+      "asin": "B0BW5Q7QXX",
+      "title": "食品保存ラベル - 取り外し可能な食品容器収納ステッカー - 食品、牛乳、肉の重要な日付情報を記録するキッチン ガジェット Yangjing",
+      "url": "https://www.amazon.co.jp/dp/B0BW5Q7QXX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BW5Q7QXX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21SqePLiS2L._SL500_.jpg",
+      "features": [
+        "≬【食品の安全性を確保】: 安全な状態で食品を使用できるようにします。食品保管ラベルを使用すると、日付やその他の重要な情報を書き込むことができます。",
+        "≬【完璧なキッチンガジェット】: 食品ラベルステッカーは水に簡単に溶けるので、時間効率の良いクリーニングが可能で、理想的なソリューションをもたらします。",
+        "≬【使いやすい】: 華氏-40度から華氏176度の広い温度範囲で使用できます。食品容器用の日付ラベルは便利です。",
+        "≬【機能的な デザイン】: 収納が簡単で、瓶用の溶けるキッチンラベルは ステッカーデザインを採用しており、優れたキッチンヘルパーとして使用できます。",
+        "≬【幅広い用途】: キッチン、レストラン、フードカート、食料品店、パン屋、ファーストフード店、牛乳瓶、食品容器など、さまざまな場所でフリーザーラベルを使用できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間記録 ガジェット"
+      ]
+    },
+    {
+      "asin": "B0FMLPWXBK",
+      "title": "[lalarimi]【ミニプリンター 感熱】 Bluetooth対応, ラ/写真/文書プリント可能, 軽量280g ポータブル, 学生や旅行者に便利, 日本で小型ガジェット",
+      "url": "https://www.amazon.co.jp/dp/B0FMLPWXBK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FMLPWXBK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21JPpSHTGiL._SL500_.jpg",
+      "features": [
+        "【ポータブルな利便性】軽量280gとコンパクトな85*85*45mmサイズで、カバンやポケットに収納可能。移動中や外出先でも気軽に持ち歩け、を取らないデザインが魅力。オフィスや文化の現場で、すぐに使える手軽さを実感できます。",
+        "【簡単Bluetooth操作】デバイスとのワイヤレス接続がで、ラや写真、ドキュメントの印刷を瞬時に実行。初心者でも迷わず使えるなインターフェースを採用し、時間を無駄にしません。接続の信頼性が高く、快適なユーザー体験を提供します。",
+        "【高効率熱転写印刷】熱転写紙を使用した印刷で、鮮明で耐久性のある出力を実現。様々な用途に対応し、オフィスの効率化やプライベートの創造活動を支援。インク不要のため、ランニングトを抑えられます。",
+        "【長時間バッテリー持続】内蔵リチウムバッテリーにより、充電式で電源に依存しない自由な使用を可能に。USB接続で簡単に充電でき、外出先でも途切れない安心感があります。バッテリーが長く、持続性に優れています。",
+        "【オフィスと文化の万能ツール】書類整理や記録など、多様なニーズに応える多機能性。57*25mmの用紙容量で、日常のタスクを効率よく処理し、創造的な活用を促進。コンパクトサイズでありながら、なを発揮します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間記録 ガジェット"
+      ]
+    },
+    {
+      "asin": "B0GP1NDYGQ",
+      "title": "TENOABLE デジカメケース コンデジ ポーチ PUレザー マグネット開閉 衝撃吸収 クッション (ブラウン)",
+      "url": "https://www.amazon.co.jp/dp/B0GP1NDYGQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GP1NDYGQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/4104juD-J6L._SL500_.jpg",
+      "features": [
+        "お気に入りの一台を傷や汚れから守りつつ、洗練されたデザインが日々の撮影体験を豊かにします。バッグの中でも場所を取らず、必要な時にすぐ取り出せる操作性を追求。趣味の時間をより上質に演出する、ミニマルなデザインの収納ケースです。",
+        "スナップ撮影に。バッグに収まりやすく、ふとした瞬間を逃さず記録できます。マグネット式の蓋により、片手でスムーズな開閉が可能。カメラストラップを外に出して持ち運びできる設計で、持ち運びの利便性を高めます。ガジェット類を整理するポーチとしても重宝するサイズ感です。",
+        "フラップ部分に強力なマグネットを内蔵。ファスナー特有の引っ掛かりがなく、静かにサッと開けられます。撮りたい瞬間にカメラをすぐ取り出せる利便性が魅力です。また、内側には厚みのあるクッション材を採用し、外部からの衝撃や擦れを和らげ、大切な機材を保護します。",
+        "外装は質感の良いPUレザー、内装は柔らかなベルベット調素材を採用。手に馴染む質感が、カメラを持つ喜びをより一層引き立てます。丁寧なステッチが施されたデザインは、大切な方への贈り物にも最適です。",
+        "【サイズ】 約16cm×7cm×3.5cm 【カラー】 ブラウン 【素材】 PUレザー、内側：ベルベット 【商品重量】 約50ｇ 【内容】 1個"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間記録 ガジェット"
+      ]
+    },
+    {
+      "asin": "B0GGTDVM44",
+      "title": "[Luvian]【プロ仕様イブレコーダー】連動機能付 フルHD1080P 耐熱設計 24時間監視可能 緊急録画自動保存 運転記録と車両管理に適な高性能カーガジェット 公式標準構成",
+      "url": "https://www.amazon.co.jp/dp/B0GGTDVM44?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GGTDVM44?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/214F67VgMKL._SL500_.jpg",
+      "features": [
+        "【超高精度撮影】200万画素CMOSセンサー搭載で、夜間運転時の路面状況も明瞭に記録。フルHD解像度が速度標識の視認性を確保",
+        "【管理】自動日付/時刻印字機能付きで証拠映像としての信頼性向上。衝撃感知時自動保存機能で重要な瞬間を見逃しません",
+        "【設置簡単設計】軽量コンパクトボディで視界を遮らず設置可能。専用吸盤付属で工具不要の3分設置を実現",
+        "【効率】低消費電力設計でオフ時もバッテリー負担軽減。サーマルプロテクション搭載で過熱防止",
+        "【多様性対応】国内主要車種のダッシュ形状に対応。助手席からの操作も可能なアジャスタブルアングル設計"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間記録 ガジェット"
+      ]
+    },
+    {
+      "asin": "B0GGTVH21S",
+      "title": "[Luvian]【プロ仕様イブレコーダー】連動機能付 フルHD1080P 耐熱設計 24時間監視可能 緊急録画自動保存 運転記録と車両管理に適な高性能カーガジェット 16Gバージョン",
+      "url": "https://www.amazon.co.jp/dp/B0GGTVH21S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GGTVH21S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21lMKgrrx1L._SL500_.jpg",
+      "features": [
+        "【超高精度撮影】200万画素CMOSセンサー搭載で、夜間運転時の路面状況も明瞭に記録。フルHD解像度が速度標識の視認性を確保",
+        "【管理】自動日付/時刻印字機能付きで証拠映像としての信頼性向上。衝撃感知時自動保存機能で重要な瞬間を見逃しません",
+        "【設置簡単設計】軽量コンパクトボディで視界を遮らず設置可能。専用吸盤付属で工具不要の3分設置を実現",
+        "【効率】低消費電力設計でオフ時もバッテリー負担軽減。サーマルプロテクション搭載で過熱防止",
+        "【多様性対応】国内主要車種のダッシュ形状に対応。助手席からの操作も可能なアジャスタブルアングル設計"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間記録 ガジェット"
+      ]
+    },
+    {
+      "asin": "B08D3JM3JN",
+      "title": "2020アップグレードボイスレコーダーキーリングスパイガジェット、ミニ音声起動レコーダー、1200時間の録音容量、講義用録音デバイス、インタビュー (Size : 8GB)",
+      "url": "https://www.amazon.co.jp/dp/B08D3JM3JN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08D3JM3JN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31-2rrQ1JQL._SL500_.jpg",
+      "features": [
+        "➤デジタルレコーダー：充電が完了すると、録音デバイスは68時間スタンバイできます。Wav/ mp3 FormatAsをサポートしているため、プロのMp3プレーヤーとして使用できます。特別でポータブルなデザインにより、どこにでも簡単に持ち運ぶことができます。",
+        "➤ワンボタン操作：再生付きの小型ボイスレコーダーは簡単に使用でき、オン/オフを押して録音を開始/保存、タイムスタンプ付きの録音、コンピューターでファイルを簡単に検索できます。また、再生/転送をサポートします。録音中のリスニング。",
+        "➤スピーカー：オーディオボイスレコーダーには、インテリジェントなダイナミックノイズリダクションを備えたHq録音マイクがあり、クリアな録音と再生を簡単に楽しむことができますノイズのない録音と360°パノラマ録音用のPcmデジタル＆ノイズリダクションテクノロジーを備えたプロフェッショナルなボイスレコーダー。",
+        "➤音声起動レコーダーと長時間録音：「voxオン」を開いて音声が検出されると、音声起動録音デバイスが自動的に録音を開始します。長時間の無音録音、音声なし、録音時間の節約、録音時間の節約、ストレージスペースと消費電力。また、「ロングレック」を開いて長時間録音を開始できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "時間記録 ガジェット"
+      ]
+    }
+  ]
+}

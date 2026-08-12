@@ -1,0 +1,1133 @@
+{
+  "generated_at": "2026-08-12T19:25:51",
+  "account_id": "daily_gadget",
+  "partner_tag": "daily-gadget-22",
+  "mode": "pool",
+  "queries": [
+    {
+      "query": "静音 キーボード ワイヤレス",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "静音 マウス Bluetooth",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "ロジクール 静音 キーボード",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "エレコム 静音 マウス",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "メカニカルキーボード 静音",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "トラックボール 静音",
+      "include": [],
+      "exclude": []
+    }
+  ],
+  "fetched_count": 60,
+  "dedup_count": 9,
+  "candidates": [
+    {
+      "asin": "B08K2CHMWK",
+      "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B08K2CHMWK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08K2CHMWK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41NGKIVd++L._SL500_.jpg",
+      "features": [
+        "従来モデルより90%の操作音を削減した静音キーボード",
+        "接続はUnifying USBレシーバーに対応 / 最大10mのワイヤレス接続",
+        "8つのショートカットキーとテンキーを搭載した耐水設計",
+        "単4電池2本で24ヶ月間*の長期間使用できます。*使用環境によって異なります。",
+        "対応OS：Windows 10 、 11 以降、Chrome OS / 保証：2年間の長期保証"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 キーボード ワイヤレス",
+        "ロジクール 静音 キーボード"
+      ]
+    },
+    {
+      "asin": "B0H48W9G5N",
+      "title": "ワイヤレスキーボード Bluetooth接続 英語配列 軽量スリム 充電式 静音 小型 コンパクトキーボード マルチデバイス対応 iPad Android iPhone Windows Mac タブレット対応 持ち歩き便利 テレワーク カフェ作業 在宅勤務 出張 勉強用日本語仕様書",
+      "url": "https://www.amazon.co.jp/dp/B0H48W9G5N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H48W9G5N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/410GD7p9aRL._SL500_.jpg",
+      "features": [
+        "✅【Bluetooth 5.0対応・ケーブル不要のワイヤレスキーボード】Avidpad Bluetooth キーボードは、安定したワイヤレス接続に対応した無線キーボードです。USBレシーバー不要で、iPad、スマートフォン、タブレット、ノートPCなどのBluetooth対応デバイスと簡単に接続できます。デスク周りをすっきり保ちたい方、在宅ワークやカフェ作業で使いやすいワイヤレスキーボードをお探しの方におすすめです。",
+        "✅ 【iOS / Android / Windows / Mac OS対応・幅広いデバイスで使える】iOS、Android、Windows、Mac OSに対応し、iPad、iPhone、Androidタブレット、Androidスマホ、Windows PC、Surface、MacBookなど複数のデバイスで使用できます。タブレット用キーボード、iPad用キーボード、スマホ用キーボード、PC用キーボードとして、仕事用・学習用・家庭用まで幅広く活躍します。",
+        "✅ 【約170g・厚さ約6mmの薄型軽量設計・持ち運び便利】約170gの軽量ボディと厚さ約6mmの超薄型設計で、バッグやリュックにすっきり収納できるコンパクトキーボードです。出張、旅行、通勤、通学、カフェ作業、オンライン授業、在宅ワークなど、外出先でも気軽に持ち運べます。省スペースで使えるモバイルキーボード、薄型キーボード、小型ワイヤレスキーボードをお探しの方におすすめです。",
+        "✅ 【静音パンタグラフ式キー・長時間入力も快適】ノートPCのような軽い打鍵感のパンタグラフ式キーを採用。浅めのキーストロークで入力しやすく、メール作成、資料作成、レポート入力、チャット返信などの長時間タイピングにも適しています。静音性にも配慮しているため、オフィス、図書館、学校、カフェ、夜間作業でも周囲を気にせず使いやすいBluetoothキーボードです。",
+        "✅ 【USB Type-C充電式・便利なショートカットキー搭載】USB Type-C充電式のため、乾電池交換の手間がなく、繰り返し使えて経済的です。電源ON/OFFスイッチ付きで、未使用時の無駄なバッテリー消耗を抑えます。音量調整、再生・停止、検索、ホーム画面表示、コピー＆ペーストなどに便利なファンクションキーを搭載し、日常操作やビジネス作業をスムーズにサポートします。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 キーボード ワイヤレス"
+      ]
+    },
+    {
+      "asin": "B0BWDSC5ZB",
+      "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスキーボード 無線 MX KEYS mini KX700GRd 日本語配列 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0BWDSC5ZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BWDSC5ZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41p1Ot+OB2L._SL500_.jpg",
+      "features": [
+        "MX KEYS(KX800)のテンキーレスモデル／70%のサイズで省スペース・持ち運びもらくらくのスタイリッシュな高機能キーボード [ Amazon.co.jp限定 壁紙ダウンロード付き ]",
+        "KX700GRd／メーカー保証期間1年間／メーカー保証期間をのぞく、機能やデザインは従来モデルKX700GRと同じです",
+        "指先の形状にあった球状にくぼんだパーフェクト・ストロークキーを採用／キーのどこを打ってもすべてのキーストロークが滑らかで精確",
+        "変化する照明条件に合わせて自動的に明度を調整するバックライトキー、スマートイルミネーションを搭載／バッテリー電力を節約",
+        "対応OS:Windows 10,11以降　macOS 10.15以降　ChromeOS、Android 5.0以降"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 キーボード ワイヤレス",
+        "ロジクール 静音 キーボード"
+      ]
+    },
+    {
+      "asin": "B0C3QXBTJP",
+      "title": "エレコム ワイヤレスキーボード 静音 テンキー付 薄型コンパクトサイズ Windows ChromeOS macOS対応 ブラック TK-QT30DMBK",
+      "url": "https://www.amazon.co.jp/dp/B0C3QXBTJP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C3QXBTJP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41QkHRWEtuL._SL500_.jpg",
+      "features": [
+        "本格静音設計でありながら、軽い打ち心地を実現したワイヤレスタイプの静音薄型キーボードです。デスク周りスペースを有効に使えるコンパクトサイズで、数字入力に便利なテンキー付きです。",
+        "各キートップに装着したシリコンラバーによって従来品と比べて打鍵音を9割以上低減。公共施設や会議室、夜中や朝方など音が気になる場所や時間帯での使用に最適です。",
+        "※本製品(約15dB)と従来モデルTK-FCM062BK(約45dB)の打鍵音の音圧レベルから算出した音エネルギーの大きさを比較した結果です。音エネルギーとは、測定した音圧レベル(ベル値)と基準値(人間が聞き取れる最小の音の大きさ)から算出した値です。",
+        "独自のファームウェアを搭載することにより、Windows、ChromeOS、macOSで使用可能です。",
+        "キーストローク1.4mmの薄型キーを採用し、素早いキー入力を実現します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 キーボード ワイヤレス"
+      ]
+    },
+    {
+      "asin": "B0FDQL8KNL",
+      "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0FDQL8KNL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FDQL8KNL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41NzS62Rf5L._SL500_.jpg",
+      "features": [
+        "Bluetoothで簡単に接続できるテンキー付きのコンパクトなワイヤレスキーボード",
+        "K250GRd ／ 保証期間1年間のAmazon.co.jp限定モデル ※Amazon.co.jp限定 壁紙ダウンロード付き",
+        "品質を追求して設計されたK250はキーが長持ちし、さらに耐水設計*が施されており、耐久性と信頼性があります。*最大60mlの液体（水）量の試験条件による結果です。キーボードを液体に浸さないでください。",
+        "テンキー、矢印キー、便利なFキーショートカットを搭載しながらも、コンパクトなレイアウトでスペースを取りません",
+        "単4電池2本で12ヶ月間*の長期間使用できます。*使用環境によって異なります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 キーボード ワイヤレス",
+        "ロジクール 静音 キーボード"
+      ]
+    },
+    {
+      "asin": "B0GTYMLBPF",
+      "title": "iClever ワイヤレスキーボード Bluetooth テンキー付き JIS日本語配列 2.4GHz 静音 DK20",
+      "url": "https://www.amazon.co.jp/dp/B0GTYMLBPF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GTYMLBPF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/412oak45UVL._SL500_.jpg",
+      "features": [
+        "【テンキー付きでも省スペース設計】テンキー付きながらデスクスペースを有効活用できるコンパクト設計。マウス操作のスペースも確保しやすく、JIS日本語配列とテンキーを搭載しているため、Excelや会計業務など数字入力の多いビジネスシーンにもおすすめです。",
+        "【ノートPCライクな静音パンタグラフ】ノートPCのような軽快な打鍵感を実現するパンタグラフキーを採用。静音設計により打鍵音を抑え、長時間のタイピングでも疲れにくく、オフィス・在宅勤務・オンライン会議など周囲を気にせず快適に作業できます。※完全無音ではありません。",
+        "【Bluetooth・2.4GHz対応＆最大3台ワンタッチ切替】Bluetoothと2.4GHz USBレシーバーに対応。パソコン・タブレット・スマートフォンなど最大3台まで接続でき、ボタンひとつでスムーズに切り替え可能。接続も安定し、マルチデバイス環境でも快適に使用できます。",
+        "【Type-C充電式＆幅広い互換性】約3時間でフル充電。乾電池交換の手間がなく、フル充電で1日約2時間の使用なら最長約3ヶ月使用可能です（※使用環境により異なります）。Windows、macOS、iPadOS、iOS、Androidに対応し、テレワークやオフィス、外出先でも快適に使用できます。",
+        "【薄型・軽量デザイン＆持ち運びやすい】約370×115×11.3mm、約314gの薄型・軽量設計。バッグにも収納しやすく、自宅・オフィス・外出先などさまざまなシーンで活躍します。シンプルで上質感のあるデザインはデスクにも自然になじみます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 キーボード ワイヤレス"
+      ]
+    },
+    {
+      "asin": "B08K2V1B28",
+      "title": "ロジクール ワイヤレスキーボード K295OW 静音 耐水 キーボード 無線 Unifying K295 オフホワイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B08K2V1B28?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08K2V1B28?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41corB53SqL._SL500_.jpg",
+      "features": [
+        "従来モデルより90%の操作音を削減した静音キーボード",
+        "8つのショートカットキーとテンキーを搭載した耐水設計",
+        "接続はUnifyingUSBレシーバーに対応/最大10mのワイヤレス接続",
+        "最長24ケ月の長電池寿命",
+        "2年間の長期保証",
+        "本体サイズ(幅×奥行×高さ) :441mm x 149mm x 18mm",
+        "10m動作範囲の、強力で信頼できる2.4GHzワイヤレス接続により、音の漏れや遅延はありません。Unifying USBレシーバーでデスク上をすっきりさせましょう。非常に小型なので、パソコンに取り付けたままにできます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 キーボード ワイヤレス",
+        "ロジクール 静音 キーボード"
+      ]
+    },
+    {
+      "asin": "B08K2RGTHY",
+      "title": "ロジクール ワイヤレスマウス キーボード セット MK295GP 静音 耐水 無線 USB接続 Unifying非対応 MK295 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B08K2RGTHY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08K2RGTHY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/412mHSwLyDL._SL500_.jpg",
+      "features": [
+        "従来モデルより90%の操作音を削減した静音キーボードとマウスのセット。キーボードは8つのショートカットキーとテンキーを搭載した耐水設計。",
+        "対応OS：Windows 10、11 以降 / ChromeOS",
+        "柔らかな丸みのシルエットで持ちやすいコンパクトサイズ/マウス",
+        "接続はUSBレシーバーに対応(Unifying非対応)/最大10mのワイヤレス接続",
+        "キーボードは最長36ケ月、マウスは最長18ケ月の長電池寿命"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 キーボード ワイヤレス",
+        "ロジクール 静音 キーボード"
+      ]
+    },
+    {
+      "asin": "B0GL26M6Z2",
+      "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK",
+      "url": "https://www.amazon.co.jp/dp/B0GL26M6Z2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GL26M6Z2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41+ohoioGDL._SL500_.jpg",
+      "features": [
+        "数字入力に便利なテンキー付き静音キーボードです。データ入力や集計などさまざまな作業を効率化できます。",
+        "キーの軸、内部空間、ラバーなどあらゆる要素の設計を見直し、優れた静音性としっかりとした打鍵感を両立しました。",
+        "Windows/macOS/ ChromeOS に対応。接続されたOSを識別し、自動で最適な入力モードに切り替えます。",
+        "誤って水などの液体をキーボード上にこぼしても、本体背面の水抜き穴からすばやく排出できる排水機構を採用しています。※防水設計ではありません。",
+        "メディアプレーヤーの起動、音量や明るさの調整などをワンタッチで実行できる独立した11種類のマルチファンクションキーを搭載しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 キーボード ワイヤレス"
+      ]
+    },
+    {
+      "asin": "B07D34L57F",
+      "title": "Arteck 2.4G ワイヤレスキーボード日本語配列 無線ステンレススチール 軽量 フルサイズキーボード テンキー付き コンピューター、デスクトップ、PC、ラップトップ、Surface、スマートテレビ、Windows11/10/8/7、Vista、XPとの交換性あり 充電式電池内蔵",
+      "url": "https://www.amazon.co.jp/dp/B07D34L57F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07D34L57F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41FkMVl1SeL._SL500_.jpg",
+      "features": [
+        "簡単接続：PCなどのUSBポートに商品付属のレシーバーを差し込むだけで使えます。",
+        "優れたデザイン：ステンレススチールの素材が頑丈な印象を与え、ロープロファイル、静穏タイプのキーで快適なタイピングが出来ます。このキーボードはテンキーが付き、テンキーが利用して数字などが入力したい場合、ナムロックをオンにしてください。",
+        "長寿命バッテリー:業界大容量の充電式リチウムイオン電池搭載、1回フル充電すれば6ヶ月間が使えます。「1日2時間の連続使用で」キーボードに水をかけたり、濡れた手でキーボードを操作したりしないでください。",
+        "超軽量、薄型デザイン：コンパクトサイズ「16.9 X 4.9 X 0.6インチ」と軽い重量「14.9オンス／422.4ｇ」、フルサイズで矢印キー、ショートカットキー、テンキーが付き、快適なタイピングが可能です。",
+        "製品内容：Arteck2.4G無線キーボード、USBレシーバー、USB充電ケーブル、ユーザーマニュアル、そして弊社人気の2年間の保証と親身なカスターマーサービスが付きます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 キーボード ワイヤレス"
+      ]
+    },
+    {
+      "asin": "B08LMK3L5C",
+      "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC",
+      "url": "https://www.amazon.co.jp/dp/B08LMK3L5C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08LMK3L5C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/311GO2ukVDL._SL500_.jpg",
+      "features": [
+        "カバンに入れて持ち運びしやすい厚み28mmの薄型マウスです。",
+        "マウスのクリック時のカチカチ音がしない静音スイッチを採用し、音が気になる場所でも使えます。",
+        "対応機種:Bluetooth(R)HOGPに対応したWindows OS、macOS、Android、iOS、iPadOS、FireOS搭載機器",
+        "ネットの閲覧などの操作に便利な「戻る」ボタンが付いた4ボタンタイプです。",
+        "スムーズな操作を実現する分解能1600カウントを採用しています。",
+        "適合規格 Bluetooth 4.2 Class2 / profile:HOGP(HID Over GATT Profile) 電波到達距離 磁性体(鉄の机など)の上で使用する場合:3m、非磁性体(木の机など)の上で使用する場合:10m ※当社環境でのテスト値であり保証値ではありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 マウス Bluetooth",
+        "エレコム 静音 マウス"
+      ]
+    },
+    {
+      "asin": "B0D21S5SPG",
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレスマウス 無線 Silent Bluetooth M240GRd グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0D21S5SPG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D21S5SPG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31X3ipEzCIL._SL500_.jpg",
+      "features": [
+        "Bluetoothで瞬時にペアリング／クリック感はそのままに従来モデルの90％の操作音を削減したBluetooth静音ワイヤレスマウス　※Amazon.co.jp限定 壁紙ダウンロード付き",
+        "M240GRd／保証期間1年間のAmazon.co.jp限定モデル",
+        "曲線的な形状が手のカーブにフィット／持ちやすいコンパクトサイズ オートスリープ機能搭載／18ケ月の長電池寿命",
+        "対応OS:[Bluetooth] Windows 10, 11以降、macOS 11以降、iPadOS 14以降、ChromeOS、Android 9.0以降 ※Logi Boltの接続にも対応／USBレシーバー別売"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 マウス Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0C2YK1CS6",
+      "title": "ロジクール 静音 ワイヤレスマウス M240GR Silent Bluetooth マウス グラファイト 無線 ワイヤレス 小型 左右対称 logi bolt windows mac iPad OS Chrome Android M240 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0C2YK1CS6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C2YK1CS6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31X3ipEzCIL._SL500_.jpg",
+      "features": [
+        "Bluetoothで瞬時にペアリング／クリック感はそのままに従来モデルの90％の操作音を削減したBluetooth静音ワイヤレスマウス",
+        "M240GR／保証期間2年間の通常モデル",
+        "曲線的な形状が手のカーブにフィット／持ちやすいコンパクトサイズ オートスリープ機能搭載／18ケ月の長電池寿命",
+        "対応OS:[Bluetooth] Windows 10, 11以降、macOS 11以降、iPadOS 14以降、ChromeOS、Android 9.0以降 ※Logi Boltの接続にも対応／USBレシーバー別売",
+        "対応OS:[Bluetooth] Windows 10, 11以降、macOS 11以降、iPadOS 14以降、ChromeOS、Android 9.0以降 ※Logi Boltの接続にも対応／USBレシーバー別売"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 マウス Bluetooth"
+      ]
+    },
+    {
+      "asin": "B09Y8G6FJJ",
+      "title": "エレコム ワイヤレスマウス Bluetooth EX-G 握りの極み 静音設計 5ボタン マルチペアリング Mサイズ ガンメタリック M-XGM15BBSGM/EC",
+      "url": "https://www.amazon.co.jp/dp/B09Y8G6FJJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09Y8G6FJJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/413N67ePSJL._SL500_.jpg",
+      "features": [
+        "左右ボタンとホイールボタンに加え、「進む」、「戻る」を含めた5ボタンに静音スイッチを採用し、クリックのカチカチ音が気にならず、静かに使用できる静音マウスです。",
+        "手の形状から生まれたデザインにより、ありそうでなかった「握りやすさ」を実現した5ボタンマウス“EX-G\"です。",
+        "手になじみやすくしっかりとフィットするミディアムサイズです。",
+        "マウス操作時に最も使用頻度の高い親指と薬指に着目し、基節骨、母指球筋、中節骨、中手骨の4つのポイントになじむ形状に設計しています。",
+        "本体側面にレザー調のサイドグリップを採用することで、手の滑りを防ぐとともに、道具としての上質感を高めています。",
+        "製品サイズ :10.96 x 7.38 x 4.08 cm; 81 g"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 マウス Bluetooth",
+        "エレコム 静音 マウス"
+      ]
+    },
+    {
+      "asin": "B0C2YD9T62",
+      "title": "ロジクール 静音 ワイヤレスマウス M240OW Silent Bluetooth マウス オフホワイト 無線 ワイヤレス 小型 左右対称 logi bolt windows mac iPad OS Chrome Android M240 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0C2YD9T62?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C2YD9T62?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21R2LakUW2L._SL500_.jpg",
+      "features": [
+        "Bluetoothで瞬時にペアリング／クリック感はそのままに従来モデルの90％の操作音を削減したBluetooth静音ワイヤレスマウス",
+        "曲線的な形状が手のカーブにフィット／持ちやすいコンパクトサイズ",
+        "オートスリープ機能搭載／18ケ月の長電池寿命",
+        "メーカー保証2年間",
+        "対応OS:[Bluetooth] Windows 10, 11以降、macOS 11以降、iPadOS 14以降、ChromeOS、Android 9.0以降 ※Logi Boltの接続にも対応／USBレシーバー別売"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 マウス Bluetooth"
+      ]
+    },
+    {
+      "asin": "B08LMYWKZD",
+      "title": "エレコム ワイヤレスマウス Bluetooth Slint M-TM10BBBU/EC 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ネイビーブルー",
+      "url": "https://www.amazon.co.jp/dp/B08LMYWKZD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08LMYWKZD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/317ZXhs7GQL._SL500_.jpg",
+      "features": [
+        "カバンに入れて持ち運びしやすい厚み28mmの薄型マウスです。",
+        "環境に配慮し、ゴミを減らせて開梱作業もスムーズな簡易パッケージ仕様です。",
+        "小さな凹凸やホコリでもより正確に光が反射し、場所を選ばずに快適に使用できるBlueLEDを搭載しています。",
+        "スムーズな操作を実現する分解能1600カウントを採用しています。",
+        "マウスのクリック時のカチカチ音がしない静音スイッチを採用し、音が気になる場所でも使えます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 マウス Bluetooth"
+      ]
+    },
+    {
+      "asin": "B06WRN4VGJ",
+      "title": "バッファロー マウス ワイヤレス 静音 5ボタン dpi切替 BlueLED ブラック BSMBW325BK",
+      "url": "https://www.amazon.co.jp/dp/B06WRN4VGJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B06WRN4VGJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41iM+QzafbL._SL500_.jpg",
+      "features": [
+        "【対応機種】USB Type-A端子をもつパソコン,タブレット,ゲーム機",
+        "■インターネットが快適な「戻る」「進む」ブラウジングボタン",
+        "■握り心地を追求した、長時間の使用でも疲れにくい形状",
+        "■クリック音が静かな場所でも気にならない静音設計",
+        "■快適操作を実現するカーソル速度切り替えスイッチ搭載■高感度「BlueLED」方式センサー搭載",
+        "BSMBW325BKとBSMBW320BKは同等製品です。ご了承ください。 ※レシーバーは電池ボックスの中に収納されております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 マウス Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0FJRCJ1SN",
+      "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
+      "url": "https://www.amazon.co.jp/dp/B0FJRCJ1SN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FJRCJ1SN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Ar0JA+HGL._SL500_.jpg",
+      "features": [
+        "どんな人でも、どんな機器でも、どんなシーンでも。左右対称のなだらかな形状に本当にほしい機能だけを詰め込んだ、シンプルで使いやすいマウスシリーズ・OSMOD(オスモッド)です。",
+        "左右ボタンとホイールに加えて、Webサイトやフォルダの操作時に便利な「進む」「戻る」ボタン、ファンクションボタンと計6つのボタンを搭載しています。",
+        "ファンクションボタンは、好きな機能を割り当てて便利に使える6つ目のボタン。無料でダウンロードできるソフトウェア「エレコム マウスアシスタント」を利用してよく使う機能などを割り当てられ、マウスを使った作業を効率化できます。",
+        "※「エレコム マウスアシスタント」はWindows/macOSのみの対応となります。",
+        "利き手や持ち方を問わずどんな人にもフィットする、左右対称の楕円形デザイン。長時間の作業でもストレスなく使えます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 マウス Bluetooth",
+        "エレコム 静音 マウス"
+      ]
+    },
+    {
+      "asin": "B09DT1YLJW",
+      "title": "バッファロー マウス Bluetooth 5.0 5ボタン LED ブラック 戻る/進むボタン搭載 省電力 BSMBB305BK",
+      "url": "https://www.amazon.co.jp/dp/B09DT1YLJW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09DT1YLJW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31yWIUaZFUL._SL500_.jpg",
+      "features": [
+        "【対応機種】Bluetoothに対応したパソコン,タブレット,スマートフォン,ゲーム機",
+        "■「Bluetooth Low Energy」で省電力、単三乾電池1本で約2.8年使える",
+        "■Bluetooth5.0採用",
+        "■高感度BlueLED搭載",
+        "■「戻る」「進む」ボタンで快適ブラウジング",
+        "【ボタン割り当てソフト対応】Windows用無料ソフトウェア「マウスカスタム+」で、ボタン・ホイールにお好みの機能を割り当てて作業を効率化。管理者権限不要で、ダウンロードしてすぐに使えます。 ※Windows11 / 10(64bit)に対応。※詳細はバッファローWebページをご確認ください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 マウス Bluetooth"
+      ]
+    },
+    {
+      "asin": "B09KRQZB86",
+      "title": "エレコム(ELECOM) マウス ワイヤレスマウス Bluetooth 静音 3ボタン Mサイズ 抗菌 ブラック M-BY11BRSKBK",
+      "url": "https://www.amazon.co.jp/dp/B09KRQZB86?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09KRQZB86?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31xhKkFvgYL._SL500_.jpg",
+      "features": [
+        "わずか約67gと軽量ながら約10カ月電池交換不要。 Bluetooth(R)5.0規格に対応したMサイズの3ボタンIR LEDマウス。クリック音が静かで、会議中や夜間の使用にもおすすめ。さらに、抗菌加工で本体を清潔に保ちます。",
+        "Bluetooth(R)HOGPに対応したパソコンなどの端末で、USBポートをふさがずに接続できます。レシーバが不要なため、USBポートが少ない薄型パソコンやタブレットをスマートに使いこなせます。※1",
+        "※1 Bluetooth(R)HOGPに対応していないパソコンでも、規格に適合したBluetooth(R)アダプターを用意することで使用可能です。(推奨Bluetooth(R)アダプター:LBT-UAN05C2 series(別売))",
+        "消費電力の小さな“IR LED(赤外線LED)\"を搭載し、他のLEDに比べて電池が長持ち。単4電池1本で約10カ月間の電池交換が不要です。(1日8時間のパソコン操作中5%をマウス操作に割り当てた場合)",
+        "電池を入れてもわずか約67gの軽量設計。軽い力で操作できるため長時間の操作も快適で、持ち運びにも便利です。握る力に自信のない方や長時間マウスを操作される方に適しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "静音 マウス Bluetooth",
+        "エレコム 静音 マウス"
+      ]
+    },
+    {
+      "asin": "B0BQQ764Z4",
+      "title": "ロジクール 静音 Bluetooth ワイヤレスキーボード K580GR グラファイト 超薄型 小型 Unifying ワイヤレス キーボード 薄型 テンキー 無線 Windows Mac iPad iOS Android Chrome Surface K580 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0BQQ764Z4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BQQ764Z4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/310D5EXOOzL._SL500_.jpg",
+      "features": [
+        "スタイリッシュでミニマムなデザインが魅力の超薄型・静音ワイヤレスキーボード",
+        "ロープロファイルの静音キーを採用／テンキーを搭載しコンパクトながらも高い生産性を実現",
+        "キーボード上部にスマートフォンを立てられるフォルダー(溝)付き／パソコンのような作業環境でタイピング",
+        "最大2台までの接続デバイスをボタン1つで切り替えられるEasy-Switchを採用／マルチにデバイスを使いこなしたい方にオススメ",
+        "BlutoothまたはUnifyingUSBで接続／UnifyingUSBは本製品に同梱されています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ロジクール 静音 キーボード"
+      ]
+    },
+    {
+      "asin": "B0CZ8X3DH8",
+      "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac Chrome Android K950 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0CZ8X3DH8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CZ8X3DH8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41DOikjsn-L._SL500_.jpg",
+      "features": [
+        "スタイリッシュなデザインのテンキー付きフルサイズ／薄型のワイヤレスキーボード",
+        "薄型にもかかわらず頑丈な設計／高い耐久性で長期間の使用が可能",
+        "軽く静かなキータッチ／オフィスなどの静かな場所でも周囲を気にせずタイピング",
+        "軽すぎず重すぎない本体重量(685g)／打鍵時に安定性を保ち本体がズレにくい／8度の角度がつく底面のティルトレッグで高さ調整も可能",
+        "接続はBluetoothとLogicool独自のLogi Boltレシーバーに対応 ※Logi Bolt USBレシーバーは本製品に同梱されています",
+        "接続された3台までの対応デバイスを本体上部のキーを押すだけで切り替えられる／Logicool独自のEasy-Switchに対応",
+        "単四乾電池2本で36ケ月の長電池寿命／メーカー保証期間2年間",
+        "対応OS:[Bluetooth] Windows 10, 11以降、macOS 11以降、Chrome OS、Android OS 9.0以降 [Logi Bolt] Windows 10, 11以降、macOS 11以降、ChromeOS"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ロジクール 静音 キーボード"
+      ]
+    },
+    {
+      "asin": "B0BQQBDWFT",
+      "title": "ロジクール 静音 Bluetooth ワイヤレスキーボード K580RO ローズ 超薄型 小型 Unifying ワイヤレス キーボード 薄型 テンキー 無線 Windows Mac iPad iOS Android Chrome Surface K580 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0BQQBDWFT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BQQBDWFT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31dHPwkGOUL._SL500_.jpg",
+      "features": [
+        "スタイリッシュでミニマムなデザインが魅力の超薄型・静音ワイヤレスキーボード",
+        "ロープロファイルの静音キーを採用／テンキーを搭載しコンパクトながらも高い生産性を実現",
+        "キーボード上部にスマートフォンを立てられるフォルダー(溝)付き／パソコンのような作業環境でタイピング",
+        "最大2台までの接続デバイスをボタン1つで切り替えられるEasy-Switchを採用／マルチにデバイスを使いこなしたい方にオススメ",
+        "BlutoothまたはUnifyingUSBで接続／UnifyingUSBは本製品に同梱されています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ロジクール 静音 キーボード"
+      ]
+    },
+    {
+      "asin": "B0BQQ782M9",
+      "title": "ロジクール 静音 Bluetooth ワイヤレスキーボード K580OW オフホワイト 超薄型 小型 Unifying ワイヤレス キーボード 薄型 テンキー 無線 Windows Mac iPad iOS Android Chrome Surface K580 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0BQQ782M9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BQQ782M9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41JXeb+zVbL._SL500_.jpg",
+      "features": [
+        "スタイリッシュでミニマムなデザインが魅力の超薄型・静音ワイヤレスキーボード",
+        "ロープロファイルの静音キーを採用／テンキーを搭載しコンパクトながらも高い生産性を実現",
+        "キーボード上部にスマートフォンを立てられるフォルダー(溝)付き／パソコンのような作業環境でタイピング",
+        "最大2台までの接続デバイスをボタン1つで切り替えられるEasy-Switchを採用／マルチにデバイスを使いこなしたい方にオススメ",
+        "BlutoothまたはUnifyingUSBで接続／UnifyingUSBは本製品に同梱されています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ロジクール 静音 キーボード"
+      ]
+    },
+    {
+      "asin": "B09248N9XK",
+      "title": "Logicool G ロジクール G ゲーミングキーボード 有線 G213r パームレスト 日本語配列 独自のMech-domeスイッチ キーボード 静音 LIGHTSYNC RGB 国内正規品 【 ファイナルファンタジーXIV 推奨周辺機器 】",
+      "url": "https://www.amazon.co.jp/dp/B09248N9XK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09248N9XK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41aK+GVrl0L._SL500_.jpg",
+      "features": [
+        "【LIGHTSYNC 1680万色 RGB】光るパターンはキーごとにカスタマイズでき、プレイ環境やゲームタイトルに合わせて自由に操れる。",
+        "【耐水性と耐久性】実際の使用環境を考慮してメンブレン&キーフレームの構造設計を採用し、耐水性を実現(60mlの液体でテスト済み)。結果として、毎日の実際のゲーミングに対応できるキーボードが生まれました。",
+        "【便利なメディアコントロール】テンキー上部には専用のメディアコントロールボタンと音量調節ボタンが設置され、ワンタッチで直観操作できます。",
+        "【ゲーミンググレードのMech-Domeキー】G213rには、メカニカル キーボードに匹敵するほどの上質な押し心地と総合力を発揮するロジクールG Mech-Domeキーを搭載。Mech-Domeキーはフルハイトで、4mmの移動距離、50gの作動力、および静かな操作音を実現します。",
+        "【一体型のパームレストと調節式のフィート】2段階の角度調節によって、キーボードを自分に合う傾きに設定できます。一体型のパームレストが不快感や疲労を軽減するため、何ラウンドプレイしても快適性が持続します。",
+        "接続方式: 有線"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ロジクール 静音 キーボード"
+      ]
+    },
+    {
+      "asin": "B0CZ992BKS",
+      "title": "エレコム ワイヤレスマウス 静音 3ボタン 省電力 約2.5年電池交換不要 ブラック M-IR07DRSBK/EC",
+      "url": "https://www.amazon.co.jp/dp/B0CZ992BKS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CZ992BKS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ac1NXE++L._SL500_.jpg",
+      "features": [
+        "左右ボタンとホイールボタンにサイレントスイッチを採用し、しっかりとした押し心地がありながらクリックのカチカチ音が気にならず、静かに使用できるワイヤレスマウスです。",
+        "消費電力の小さな赤外線LEDを使用したIR LEDマウスです。",
+        "Blue LEDやレーザーを使用したマウスよりも消費電力が小さいため、約2.5年間電池を取り替えずに使用することが可能です。",
+        "2.4GHz帯を採用したワイヤレスタイプで、非磁性体で約10m、スチールデスクなど磁性体上でも約3mの範囲で使用可能です。(当社調べ)",
+        "ノートパソコンのUSBポートに接続しても気にならず、装着したまま持ち運び可能な1円玉サイズのマイクロレシーバを採用しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "エレコム 静音 マウス"
+      ]
+    },
+    {
+      "asin": "B07JB6Q58L",
+      "title": "エレコム ワイヤレスマウス 静音 5ボタン Mサイズ ブラック M-FBL01DBXSBK",
+      "url": "https://www.amazon.co.jp/dp/B07JB6Q58L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07JB6Q58L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41yp2KWA7KL._SL500_.jpg",
+      "features": [
+        "左右ボタンとホイールボタンに加え、「進む」、「戻る」を含めた5ボタンにサイレントスイッチを採用し、しっかりとした押し心地がありながらクリックのカチカチ音が気にならず、静かに使用できるワイヤレスマウスです。",
+        "シンプルで手になじみやすいミディアムサイズのデザインを採用しています。",
+        "本体側面にレザー調のサイドグリップを採用することで、手の滑りを防ぐとともに、道具としての上質感を高めています。",
+        "スムーズで快適な操作を実現する分解能1600カウントです。",
+        "ボタンの機能割り当ては、無料でダウンロードできる「エレコム マウスアシスタント」を利用して変更可能です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "エレコム 静音 マウス"
+      ]
+    },
+    {
+      "asin": "B01G54NODO",
+      "title": "エレコム マウス ワイヤレス (レシーバー付属) Lサイズ 5ボタン (戻る・進むボタン搭載) 静音 BlueLED 握りの極み ブラック M-XGL10DBSBK",
+      "url": "https://www.amazon.co.jp/dp/B01G54NODO?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01G54NODO?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31SNvH8Bj-L._SL500_.jpg",
+      "features": [
+        "左右ボタンとホイールボタンに加え、「進む」、「戻る」を含めた5ボタンに静音スイッチを採用し、クリックのカチカチ音が気にならず、静かに使用できる静音マウスです。",
+        "手の形状から生まれたデザインにより、ありそうでなかった「握りやすさ」を実現した5ボタンマウス“EX-G\"です。",
+        "安定感がありしっかりとフィットするラージサイズです。",
+        "マウス操作時に最も使用頻度の高い親指と薬指に着目し、基節骨、母指球筋、中節骨、中手骨の4つのポイントになじむ形状に設計しています。",
+        "本体側面にレザー調のサイドグリップを採用することで、手の滑りを防ぐとともに、道具としての上質感を高めています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "エレコム 静音 マウス"
+      ]
+    },
+    {
+      "asin": "B08TGWDKV4",
+      "title": "エレコム ワイヤレスマウス M-BL21DBSKBK 静音 抗菌 5ボタン 3段階ポインタ速度可変 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B08TGWDKV4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08TGWDKV4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41AkzbefXeL._SL500_.jpg",
+      "features": [
+        "ネットの閲覧などの操作に便利な「進む」・「戻る」ボタンが付いた5ボタン静音ワイヤレスBlueLEDマウス。",
+        "標準的なMサイズマウスです。長時間使用していても手が疲れにくく、オフィスでの利用にも最適です。",
+        "コネクタタイプ:: USB",
+        "本体上部にポインタ速度変更ボタンを装備し、用途にあわせてマウスのカーソル速度を1000/1500/2000カウントの3段階に切り替え可能です。",
+        "表面上における細菌の増殖を抑制、あるいは阻害する性能を持つ抗菌仕様です。(財団法人日本規格協会(JSA)が定める抗菌性試験に準拠)",
+        "マウスのクリック時のカチカチ音がしない静音スイッチを採用し、カフェや図書館など音が気になる場所でも使えます。",
+        "小さな凹凸やホコリでもより正確に光が反射し、場所を選ばずに快適に使用できるBlueLEDを搭載しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "エレコム 静音 マウス"
+      ]
+    },
+    {
+      "asin": "B08THKDN8R",
+      "title": "エレコム(ELECOM) ワイヤレスマウス M-DY11DRSKBK 静音 抗菌 3ボタン Mサイズ ブラック",
+      "url": "https://www.amazon.co.jp/dp/B08THKDN8R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08THKDN8R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41X5Zu-6eCL._SL500_.jpg",
+      "features": [
+        "リーズナブルながら快適な操作性を実現したスタンダードサイズのワイヤレスマウス。",
+        "マウスのクリック時のカチカチ音がしない静音スイッチを採用し、音が気になる場所でも使えます。",
+        "標準的なMサイズのため、長時間使用していても手が疲れにくく、オフィスでの利用にも適しています。",
+        "ころんとしたシンプルなフォルムの左右対称モデルで、右利き左利きを問わず、快適に操作可能です。",
+        "こちらの製品は表面上における細菌の増殖を抑制、あるいは阻害する性能を有したもので、JIS(日本産業規格)が定める抗菌性試験に準拠したものです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "エレコム 静音 マウス"
+      ]
+    },
+    {
+      "asin": "B01G54TY1K",
+      "title": "エレコム ワイヤレスマウス 静音 握りの極み Mサイズ 5ボタン ブラック M-XGM10DBSBK",
+      "url": "https://www.amazon.co.jp/dp/B01G54TY1K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01G54TY1K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21KHawKjVRL._SL500_.jpg",
+      "features": [
+        "音が気になる場所でも静かに使える静音スイッチを採用。手の形状から生まれたデザインで、さらなる「握り心地」の良さを実現。場所を選ばず快適に操作できるBlueLEDを搭載した、2.4GHzワイヤレスタイプの5ボタンマウス“静音EX-G\"。",
+        "[接続方式]無線2.4GHｚ帯",
+        "[ボタン数]5ボタン ※ホイールボタン含む",
+        "[サイズ]Mサイズ、エルゴノミクスデザイン",
+        "単3形アルカリ乾電池、単3形マンガン乾電池、単3形ニッケル水素電池のいずれか1本",
+        "[センサー]光学センサー方式(BlueLED)",
+        "[保証期間]6ヶ月",
+        "対応機種:USBインターフェイスを装備したWindowsパソコン、Macintosh"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "エレコム 静音 マウス"
+      ]
+    },
+    {
+      "asin": "B0CJTDKSHQ",
+      "title": "エレコム メカニカルキーボード Leggero 静音 有線 テンキーレス Nキーロールオーバー対応 5000万回高耐久スイッチ採用 赤軸 ブラック TK-MC30UKPBK",
+      "url": "https://www.amazon.co.jp/dp/B0CJTDKSHQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CJTDKSHQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41qnt5c7JXL._SL500_.jpg",
+      "features": [
+        "打鍵感に優れたメカニカルスイッチを搭載し、軽やかで心地よい打ち心地を実現した有線のメカニカルキーボード“Leggero(レジェロ)\"シリーズ。",
+        "なめらかでソフトな感触と圧倒的な静音性を両立した静音赤軸(リニア)を搭載し、軽やかかつ心地よいキータッチを実現します。",
+        "キーボードの内側に敷き詰めた吸音シートが、タイピング時の振動による反響音を抑制します。より高い静音性と上質な打ち心地を感じられます。",
+        "指にフィットするキー形状を採用し、スムーズな指運びと正確な入力をサポートします。",
+        "タイピングに集中できるよう、無駄をそぎ落としたシンプルなキーデザインに仕上げました。",
+        "キー印字は「かな表記」を省き、必要な文字だけを独自のフォントで配置しています。",
+        "デスク周りのインテリアと調和するシンプルな外観でありつつ、なめらかな曲線を活かした優美なデザインを採用しています。",
+        "着脱可能なUSB Type-C(TM)ケーブルを採用しています。作業場所の移動や収納に便利で、万が一断線した場合も簡単にケーブルを交換できます。",
+        "Windows、macOS、ChromeOSの3つに対応しています。独自のファームウェアを搭載することで、OSを自動で識別して、入力モードに切り替えます。",
+        "専用ドライバーなどのインストールは不要で、接続するだけですぐに使用できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "メカニカルキーボード 静音"
+      ]
+    },
+    {
+      "asin": "B079DKZYH6",
+      "title": "サンワダイレクト メカニカルキーボード 赤軸 静音 薄型 ロープロファイル Nキーロールオーバー テンキー付き 日本語配列 400-SKB056R",
+      "url": "https://www.amazon.co.jp/dp/B079DKZYH6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B079DKZYH6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41BXbG5knjL._SL500_.jpg",
+      "features": [
+        "軽く、滑らかな押し心地で、クリック感の無いストレートな押し込みがある 赤 軸メカニカルキーボードです。",
+        "ストローク約3mm、作動点約1.5mmの為、キー入力が快適に行えるので、素早く入力でき、長時間使用しても疲れにくい設計です。",
+        "入力しやすさにこだわった「シリンドリカルステップスカルプチャー」形状を採用しています。上部カバーは、剛性の高いアルミボディを採用しており、キーを押した時の不快な沈み込みが発生しません。",
+        "ゲーミングキーボードとして使用する際に最適なNキーロールオーバー機能搭載しています。ドライバ不要、USBポートに接続するだけで使用できます。",
+        "保証期間：ご購入日より6ヶ月"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "メカニカルキーボード 静音"
+      ]
+    },
+    {
+      "asin": "B0CJTDFC8P",
+      "title": "エレコム メカニカルキーボード Leggero 静音 有線 フルサイズ Nキーロールオーバー対応 5000万回高耐久スイッチ採用 赤軸 ブラック TK-MC50UKPBK",
+      "url": "https://www.amazon.co.jp/dp/B0CJTDFC8P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CJTDFC8P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41D9X5sjATL._SL500_.jpg",
+      "features": [
+        "打鍵感に優れたメカニカルスイッチを搭載し、軽やかで心地よい打ち心地を実現した有線のメカニカルキーボード“Leggero(レジェロ)\"シリーズ。",
+        "なめらかでソフトな感触と圧倒的な静音性を両立した静音赤軸(リニア)を搭載し、軽やかかつ心地よいキータッチを実現します。",
+        "キーボードの内側に敷き詰めた吸音シートが、タイピング時の振動による反響音を抑制します。より高い静音性と上質な打ち心地を感じられます。",
+        "指にフィットするキー形状を採用し、スムーズな指運びと正確な入力をサポートします。",
+        "タイピングに集中できるよう、無駄をそぎ落としたシンプルなキーデザインに仕上げました。",
+        "キー印字は「かな表記」を省き、必要な文字だけを独自のフォントで配置しています。",
+        "デスク周りのインテリアと調和するシンプルな外観でありつつ、なめらかな曲線を活かした優美なデザインを採用しています。",
+        "着脱可能なUSB Type-C(TM)ケーブルを採用しています。作業場所の移動や収納に便利で、万が一断線した場合も簡単にケーブルを交換できます。",
+        "Windows、macOS、ChromeOSの3つに対応しています。独自のファームウェアを搭載することで、OSを自動で識別して、入力モードに切り替えます。",
+        "専用ドライバーなどのインストールは不要で、接続するだけですぐに使用できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "メカニカルキーボード 静音"
+      ]
+    },
+    {
+      "asin": "B0G4LTQRRH",
+      "title": "EPOMAKER TH87 JIS 日本語配列 TKL ワイヤレスゲーミングキーボード 2.4GHz/BT5.0/有線 テンキーレス",
+      "url": "https://www.amazon.co.jp/dp/B0G4LTQRRH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G4LTQRRH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/318ye3ENyLL._SL500_.jpg",
+      "features": [
+        "テンキーレスのコンパクトなTKL日本語配列：TH87 はテンキーレスのTKL（91キー）コンパクトレイアウトを採用し、すべてのコア機能キーを完全に保持しながら、マウスに十分な移動スペースを確保しています。ゲームでの大幅な操作から長時間のオフィスワークまで、腕への負担を効果的に軽減し、デスクスペースの利用率を大幅に向上させます。日本語ユーザー向けに設計されたJIS配列は、「かな」「変換」「無変換」などの高頻度専用キーを完全搭載します。キー配置は日本語入力習慣とタイピングロジックに完璧に適合します！日本語文書処理、日常業務、迅速な反応が求められるゲームシーンにおいても、TH87は直感的で安定した操作体験を提供します。コンパクト設計と実用機能を兼ね備えたTKLメカニカルキーボードとして、TH87はデスクの整理整頓を重視し、効率的な入力と快適な打鍵感を追求する日本語ユーザーにとって理想的な選択肢です。",
+        "心地良い打鍵感と柔らかい感触：TH87キーボードは、EpomakerのSea salt静音スイッチとCreamy Jadeスイッチの2種類から選択可能で、異なる打鍵感と使用シーンのニーズに対応します！Sea salt静音スイッチは究極の静音設計を採用し、キー音はほぼ無音レベルです。オフィス、カフェ、会議など静粛性が求められる環境でも、他人に迷惑をかけずに豊かな打鍵感を楽しめます。一方、Creamy Jadeスイッチはクリアなコトコトとした打鍵感を備え、キーを押すたびに爽やかな打鍵音を響かせ、メカニカルキーボードならではの楽しさを提供します。さらに、デュアルショットPBTチェリーキーキャップを採用し、繊細でしっかりとした打鍵感、長時間使用でも滑りにくい特性を実現します。メカニカルスイッチ専用のThockyクリアな打鍵音と相まり、指先の感触から聴覚的快楽まで、没入感のある快適なタイピング体験を提供し、一打鍵ごとに愉悦を味わえます。",
+        "3つの接続方式と10000mAhバッテリー：TH87ワイヤレスゲーミングキーボードは10000mAhの大容量バッテリーを搭載し、バッテリー持続時間を最大限に延長！バックライト全点灯状態で連続45時間使用可能、バックライトをオフにすれば最大200時間の長時間駆動を実現します。長時間のゲーム対戦やオフィスシーンでの充電不安を完全に解消し、頻繁な充電不要でいつでもどこでも安定したパフォーマンスを発揮します。ワンタッチ切り替えとショートカットキー操作に対応し、複数デバイスや異なる使用シーン間をスムーズに切り替え可能です。超高速2.4GHzワイヤレス、便利なBT無線、安定した有線の3種類の接続を同時にサポートし、必要に応じて柔軟に切り替えられます。ゲーム競技の低遅延要求と効率的なオフィス作業の安定性要求を両立し、没入型ゲーム体験と高い生産性を全方位で実現します。",
+        "ホットスワップ対応カスタムキーボード：TH87カスタムメカニカルキーボードは、高性能と高い柔軟性を追求するゲーマーのために設計されました！工場出荷時に潤滑済みのスイッチが滑らかで一貫性のある、安定した快適な打鍵感を実現し、開封後すぐに優れたメカニカルキーボードの入力体験を得られます。ホットスワップ対応PCB設計により、簡単に軸交換が可能、主流の5ピンメカニカルスイッチによる多彩な打鍵感と打鍵音を体験できます。Chromeベースのキーボードドライバーソフトウェア（オンライン/オフライン操作対応）により、複雑な操作シーケンスをマクロコマンドとして設定したり、使用頻度の低いキーを常用ショートカットに再マッピングしたりできます。TH87は単なるキーボードではなく、操作習慣とワークフローの深い拡張であり、ゲーム競技から効率的なオフィスワークまで、安定したカスタマイズ可能な入力体験を提供し、真に個人のニーズに合った専用デバイスとなります。",
+        "プロフェッショナル向けRGBキーボード：TH87ゲーミングキーボードは有線・2.4GHz無線モードともに1000Hz高速ポーリングレートをサポートし、電光石火の応答速度を実現——有線モードはわずか2ms、2.4Ghz無線モードでも5msです。EPOMAKER TH87はゴーストキー防止技術で高速かつ安定した応答を保証するだけでなく、戦術レベルの全キー独立RGBバックライトシステムを搭載。彩度、輝度、点滅速度を自由に調整可能です。重要なキーにコントラストカラーを設定して反応速度を向上させたり、ダイナミックな光効果で個性的な没入感を生み出したり——ゲームのリズムに合わせて光が躍動し、キーボードと操作のリズムが完璧に共鳴します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "メカニカルキーボード 静音"
+      ]
+    },
+    {
+      "asin": "B08M38N6X7",
+      "title": "ロジクール K835GPR 有線 メカニカルキーボード 赤軸 リニア テンキーレス コンパクト メカニカル キーボード 有線キーボード グラファイト windows surface K835 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B08M38N6X7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08M38N6X7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41mReX7oH5L._SL500_.jpg",
+      "features": [
+        "テンキーレスでコンパクトなサイズ/精確なタイピングと心地よい打鍵感が魅力の有線メカニカルキーボード",
+        "赤軸(リニア)/最も広く使われているキータイプ/なめらかな打鍵感は標準~速いキーストロークの方におすすめ",
+        "接続方式:USB",
+        "極めて硬くて丈夫な陽極酸化アルミニウムをボディに採用/5,000万回のキーストロークに耐える耐久性",
+        "角度の付いたキーが自然なタイピングポジションをキープ",
+        "付属のチルトレッグは4°または8°で本体の角度を調整可能",
+        "キー配列:日本語配列",
+        "システム要件: USB有線 必須:USBポート Windows 10,11 以降 Surfaceで動作"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "メカニカルキーボード 静音"
+      ]
+    },
+    {
+      "asin": "B0BC135WFD",
+      "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列",
+      "url": "https://www.amazon.co.jp/dp/B0BC135WFD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BC135WFD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41NeXmPoHmL._SL500_.jpg",
+      "features": [
+        "テンキーのないコンパクトなデザインのプロフェッショナル向け有線ゲーミングキーボード／G PRO ゲーミングキーボード／G-PKB-002LNd",
+        "G-PKB-002LNdは [メーカー保証期間1年間] のAmazon.co.jp限定モデルです。 ※同時販売中のG-PKB-002LNはメーカー保証期間2年間の通常モデルです。保証期間のみG-PKB-002LNdと異なります。",
+        "大会などの際はケーブルを取り外して持ち運べる着脱式ケーブルの有線キーボード／携帯性抜群で世界中を移動するときも楽に持ち運べる／三又構造のケーブルプラグで激しいプレイや何かに引っ張られた際も抜けにくい",
+        "テンキーレスのコンパクトなサイズでプレイ中のマウスの操作スペースを確保",
+        "プロも認める優れた性能、応答性、耐久性を実現したGXメカニカルスイッチ／静かでスムーズなキーストロークのリネア(赤軸)スイッチを採用したモデル",
+        "LIGHTSYNC RGB対応／Logicool Gのデバイス間で同期しながらゲーム内のアクション、オーディオ、スクリーンカラーに反応するフルスペクトルのRGBライト／アニメーションや効果は1,680万色からカスタマイズ可能／ゲームと連動したライティングが楽しめる",
+        "12個のカスタマイズ可能な機能キー(Fキー)／Logicool G HUBソフトウェアを使えば複雑なアクションやよく利用するコマンドをF1～F12に登録可能",
+        "日本国内のコールセンターによる充実したアフターフォローをご提供いたします",
+        "対応OS:Windows7 以降、Mac OS 10.11以降"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "メカニカルキーボード 静音"
+      ]
+    },
+    {
+      "asin": "B0FRNBQ6BD",
+      "title": "【Amazon.co.jp限定】Keychron C3 Pro カスタムゲーミングキーボード、コンパクトテンキーレスレイアウト/JISレイアウト/RGBバックライト/有線接続メカニカルキーボード/ホットスワップ対応/ガスケットマウント/ダブルショットPBTキーキャップ/Mac Windows Linux対応 (Keychron Silent K Pro赤軸)",
+      "url": "https://www.amazon.co.jp/dp/B0FRNBQ6BD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FRNBQ6BD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41t2uNIQUbL._SL500_.jpg",
+      "features": [
+        "最もお求めやすいQMK/VIA有線メカニカルキーボードのKeychron C3 Proは、クラシックなテンキーレスレイアウトを採用しました。すべてのキーがプログラム可能で、Mac、Windows、Linuxシステムと互換性があり、ゲームや仕事に最適です。しかもJISレイアウトのキーキャップはダブルショットPBTキーキャップを採用しています。そして本仕様はRGBライト搭載及びホットスワップ対応となります。もちろんKeychron Launcherウェブアプリを使用してキーのカスタマイズなども可能です。",
+        "【ダブルショットPBTキーキャップ】お求めやすい価格帯のC3 ProにダブルショットPBTキーキャップを贅沢に使用しています。独自のOSAプロファイル（球面の角度を持つOEMプロファイル）とダブルショットPBTキーキャップにより長期間の使用に耐える優れた耐油性と、より快適な打感を提供することを目指しています。",
+        "【QMK&Launcherウェブアプリでプログラム】 Keychron Launcherウェブアプリを使えば、各キーをカスタマイズしたりすることが可能です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "メカニカルキーボード 静音"
+      ]
+    },
+    {
+      "asin": "B0CJTCPB85",
+      "title": "エレコム メカニカルキーボード Leggero 有線 フルサイズ Nキーロールオーバー対応 5000万回高耐久スイッチ採用 赤軸 グレー TK-MC50UKLGY/EC",
+      "url": "https://www.amazon.co.jp/dp/B0CJTCPB85?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CJTCPB85?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41kwX88aFIL._SL500_.jpg",
+      "features": [
+        "打鍵感に優れたメカニカルスイッチを搭載し、軽やかで心地よい打ち心地を実現した有線のメカニカルキーボード“Leggero(レジェロ)\"シリーズ。",
+        "なめらかでソフトな感触と打鍵音の響きにくさを両立した赤軸(リニア)を搭載し、軽やかで心地よいキータッチを実現します。",
+        "指にフィットするキー形状を採用し、スムーズな指運びと正確な入力をサポートします。",
+        "タイピングに集中できるよう、無駄をそぎ落としたシンプルなキーデザインに仕上げました。",
+        "キー印字は「かな表記」を省き、必要な文字だけを独自のフォントで配置しています。",
+        "デスク周りのインテリアと調和するシンプルな外観でありつつ、なめらかな曲線を活かした優美なデザインを採用しています。",
+        "着脱可能なUSB Type-C(TM)ケーブルを採用しています。作業場所の移動や収納に便利で、万が一断線した場合も簡単にケーブルを交換できます。",
+        "Windows、macOS、ChromeOSの3つに対応しています。独自のファームウェアを搭載することで、OSを自動で識別して、入力モードに切り替えます。",
+        "専用ドライバーなどのインストールは不要で、接続するだけですぐに使用できます。",
+        "数字入力に便利なテンキー付きのフルキーボードで、Excelなどの作業を効率化します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "メカニカルキーボード 静音"
+      ]
+    },
+    {
+      "asin": "B0D86XCN4G",
+      "title": "iClever ゲーミングキーボード テンキーレス 赤軸 メカニカル キーボード 日本語配列 マクロ対応 G06 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D86XCN4G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D86XCN4G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41MZ2GMWtgL._SL500_.jpg",
+      "features": [
+        "【赤軸 メカニカルキーボード】一番キーが軽いタイプですから、キーを押したときの感触が軽いためクリック感が少なく、タイピング中のカタカタ音も抑えめです。長時間のタイピングによる手の疲労を軽減し、ゲームプレイやプログラミングなど様々な場面で高いパフォーマンスを発揮できます。もちろん、オフィスにも最適です！ ※なお、本製品は赤軸仕様のため、静音性を重視される方は、打鍵音についてあらかじめご理解の上、ご購入をご検討ください。",
+        "【マクロ機能】プロゲーマーからの厚い信頼を集めるマクロ機能を搭載しています。キーをマクロで定義し、複数の操作を1つのキーに割り当てることができます（※Fnのみカスタマイズ不可）。よく使う操作を簡単に実行でき、より迅速で正確なゲームプレイを実現します。",
+        "【テンキーレス】一般的なキーボードの右側に配置されているテンキー（数字キー）を省いて、コンパクトなサイズに設計されています。右手をマウスに移動する際の距離が短くなり、スムーズな操作が可能です。デスク上のスペースを有効活用できます。FPSやTPSなどの素早い操作が要求されるゲームの操作や、長時間ゲームを楽しみたい方にも最適です。",
+        "【Rainbow RGBバックライト】さまざまな照明効果、バックライトの明るさや速度の調節、ライトのカスタマイズ (マクロ定義で使用) が可能で、自分だけのキーボードを作り上げることができます。また本製品は、正面だけでなく側面にもバックライト機能を備えており、暗い環境でも適切にタイピングできるため、デスクトップがさらにクールになります。",
+        "【優れた手触りと耐久性】キーキャップには軽量で耐摩耗性に優れたABS素材を使用し、滑らかな手触りで長時間の快適なゲーム体験をサポートします。▲文字部分はレーザー刻印です。二色成形（ダブルインジェクション）技術は、キー強化と耐久性向上にのみ使用しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "メカニカルキーボード 静音"
+      ]
+    },
+    {
+      "asin": "B0CJT7S6D6",
+      "title": "エレコム メカニカルキーボード Leggero 有線 テンキーレス Nキーロールオーバー対応 5000万回高耐久スイッチ採用 赤軸 グレー TK-MC30UKLGY/EC",
+      "url": "https://www.amazon.co.jp/dp/B0CJT7S6D6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CJT7S6D6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41UoRrBP69L._SL500_.jpg",
+      "features": [
+        "打鍵感に優れたメカニカルスイッチを搭載し、軽やかで心地よい打ち心地を実現した有線のメカニカルキーボード“Leggero(レジェロ)\"シリーズ。",
+        "なめらかでソフトな感触と打鍵音の響きにくさを両立した赤軸(リニア)を搭載し、軽やかで心地よいキータッチを実現します。",
+        "指にフィットするキー形状を採用し、スムーズな指運びと正確な入力をサポートします。",
+        "タイピングに集中できるよう、無駄をそぎ落としたシンプルなキーデザインに仕上げました。",
+        "キー印字は「かな表記」を省き、必要な文字だけを独自のフォントで配置しています。",
+        "デスク周りのインテリアと調和するシンプルな外観でありつつ、なめらかな曲線を活かした優美なデザインを採用しています。",
+        "着脱可能なUSB Type-C(TM)ケーブルを採用しています。作業場所の移動や収納に便利で、万が一断線した場合も簡単にケーブルを交換できます。",
+        "Windows、macOS、ChromeOSの3つに対応しています。独自のファームウェアを搭載することで、OSを自動で識別して、入力モードに切り替えます。",
+        "専用ドライバーなどのインストールは不要で、接続するだけですぐに使用できます。",
+        "デスク周りのスペースを広く確保できるテンキーレスサイズです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "メカニカルキーボード 静音"
+      ]
+    },
+    {
+      "asin": "B0D9Y1J4NH",
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0D9Y1J4NH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9Y1J4NH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31nyMXEeXrL._SL500_.jpg",
+      "features": [
+        "人気のトラックボールマウスM575が静音化＆接続方式をアップデートして登場!",
+        "M575SPd／保証期間1年間のAmazon.co.jp限定モデル ※Amazon.co.jp限定 壁紙ダウンロード付き",
+        "従来モデルM575と比較しクリック音を80%削減した静音トラックボールマウス",
+        "接続はBluetooth・UnifyingからBluetoothまたはLogiBoltにアップデート／接続の信頼性と安定性を更に向上。LogiBoltレシーバーは本製品に同梱されています。",
+        "2023年5月に「Logi Options+」に追加されたマクロ登録機能「Smart Actions」対応／複雑な操作を必要としていたショートカットやファンクションをひとつのボタンに割り当て",
+        "マウスの位置は固定したまま本体のボールを転がしてマウスを操作するマウス(トラックボールマウス)／腕を動かさないので疲れにくい",
+        "象徴的なシェイプと傾斜角度が付いたスクロールホイールで指をより自然な位置にホールド／幅広い手の大きさにフィット",
+        "ロジクール アドバンス オプティカル トラッキングでなめらかで精確なボールコントロール／400dpi-2000dpiに対応",
+        "単三形乾電池1本で18ヵ月の長電池寿命　※電池寿命は使用状況・環境によって異なる場合があります。",
+        "対応OS : [Bluetooth] Windows 10以降、macOS 11以降、iPadOS 14以降、ChromeOS [Logi Bolt] Windows 10以降、macOS 11以降、ChromeOS"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "トラックボール 静音"
+      ]
+    },
+    {
+      "asin": "B0CFL9BVKX",
+      "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音 エルゴノミクスマウス 腱鞘炎対策 手首が疲れにくい 長時間作業 5段階DPI調整 7ボタン 戻る・進むボタン 在宅勤務 テレワーク Windows Mac iPad Android対応 (グレー)",
+      "url": "https://www.amazon.co.jp/dp/B0CFL9BVKX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CFL9BVKX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31R64Y3htFL._SL500_.jpg",
+      "features": [
+        "💡【手首と腕の負担を軽減する設計】 マウスを動かす必要がないため、手首や腕にかかる負担を最小限に抑えた設計となっています。長時間マウスを使用していると、手首や肩に痛みを感じることがありますよね？そんなお悩みにぜひおすすめしたいのが、疲れを軽減し、スペースを取らないトラックボールマウスです。EWIN製トラックボールは、親指でボールを転がすことでカーソル操作が可能。また、手にしっくりとなじむエルゴノミック形状を採用しており、快適な操作が期待できます。手首や肩の負担を感じる方にぴったりの解決策です。負担を軽減しながら、効率的で快適な作業を実現するために、ぜひEWIN製トラックボールをお試しください。",
+        "🌟【多彩なボタン機能が充実】快適性と使いやすさに優れたトラックボールマウスには、左右のボタンとホイールに加えて、使い方に合わせてカウント数を変えられるDPIボタンが装備されています。このDPIボタンにより、カーソルの速さを200カウント、400カウント、800カウント、1200カウントと1600カウントの5段階で切り替えることができます。これにより、Excelや描画などの詳細な作業から画面を広く使う作業まで、すべてを無理なく行うことができます。また、インターネットの閲覧に便利な進む・戻るボタン（※Mac非対応）も備えられており、ウェブページの閲覧も楽々行えます。",
+        "🔗【ワイヤレス接続が便利】省エネ性に優れたBluetoothチップと高度な2.4GHzテクノロジーのマイクロレシーバーを採用し、最大10mの接続範囲を提供。混雑したワイヤレス環境でも途切れにくく、安定した接続を実現しています。BluetoothとUSBレシーバーの両方に対応しており、USBポートのないデバイスでも安心して使用可能です。（USBレシーバーは本体の電池収納部内に収納されています。ご使用前に電池カバーを開けてご確認ください。）",
+        "🔋【最大18ヶ月の長寿命電池】省電力技術を採用し、たった単三形乾電池1本で最大18ヶ月間も電池交換不要で快適に使用できます。また、便利なステータスインジケーターも備えています。",
+        "❎【静音設計で騒音を軽減】クリック音を静かに抑えた設計で、従来のモデルと比べて90%以上も騒音を軽減。カフェや図書館などの静かな場所でも、周囲を気にせずに作業に集中できます。",
+        "♻【広範な互換性】Windows 8.0、Windows 10、Windows Vista、Mac OSX 10.10以降、Android 4.3以降、iOS 8.0以降のBluetooth搭載デバイスに対応。幅広いデバイスで使用可能です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "トラックボール 静音"
+      ]
+    },
+    {
+      "asin": "B0DC5WQQ2J",
+      "title": "ロジクール 静音 ワイヤレス トラックボール マウス M575SPGR Bluetooth Logibolt 無線 windows mac iPad OS Chrome トラックボールマウス グラファイト M575 M575SP 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0DC5WQQ2J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DC5WQQ2J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/311aVPVciAL._SL500_.jpg",
+      "features": [
+        "人気のトラックボールマウスM575が静音化＆接続方式をアップデートして登場!",
+        "M575SPGR／保証期間2年間の通常モデル",
+        "従来モデルM575と比較しクリック音を80%削減した静音トラックボールマウス",
+        "接続はBluetooth・UnifyingからBluetoothまたはLogiBoltにアップデート／接続の信頼性と安定性を更に向上。LogiBoltレシーバーは本製品に同梱されています。",
+        "2023年5月に「Logi Options+」に追加されたマクロ登録機能「Smart Actions」対応／複雑な操作を必要としていたショートカットやファンクションをひとつのボタンに割り当て",
+        "マウスの位置は固定したまま本体のボールを転がしてマウスを操作するマウス(トラックボールマウス)／腕を動かさないので疲れにくい",
+        "象徴的なシェイプと傾斜角度が付いたスクロールホイールで指をより自然な位置にホールド／幅広い手の大きさにフィット",
+        "ロジクール アドバンス オプティカル トラッキングでなめらかで精確なボールコントロール／400dpi-2000dpiに対応",
+        "単三形乾電池1本で18ヵ月の長電池寿命　※電池寿命は使用状況・環境によって異なる場合があります。",
+        "対応OS:[Bluetooth] Windows 10以降、macOS 11以降、iPadOS 14以降、ChromeOS [Logi Bolt] Windows 10以降、macOS 11以降、ChromeOS"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "トラックボール 静音"
+      ]
+    },
+    {
+      "asin": "B0BG9VR34L",
+      "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音",
+      "url": "https://www.amazon.co.jp/dp/B0BG9VR34L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BG9VR34L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31gYH9BvPXL._SL500_.jpg",
+      "features": [
+        "💡【手首と腕の負担を軽減する設計】 マウスを動かす必要がないため、手首や腕にかかる負担を最小限に抑えた設計となっています。長時間マウスを使用していると、手首や肩に痛みを感じることがありますよね？そんなお悩みにぜひおすすめしたいのが、疲れを軽減し、スペースを取らないトラックボールマウスです。EWIN製トラックボールは、親指でボールを転がすことでカーソル操作が可能。また、手にしっくりとなじむエルゴノミック形状を採用しており、快適な操作が期待できます。手首や肩の負担を感じる方にぴったりの解決策です。負担を軽減しながら、効率的で快適な作業を実現するために、ぜひEWIN製トラックボールをお試しください。",
+        "🌟【多彩なボタン機能が充実】快適性と使いやすさに優れたトラックボールマウスには、左右のボタンとホイールに加えて、使い方に合わせてカウント数を変えられるDPIボタンが装備されています。このDPIボタンにより、カーソルの速さを200カウント、400カウント、800カウント、1200カウントと1600カウントの5段階で切り替えることができます。これにより、Excelや描画などの詳細な作業から画面を広く使う作業まで、すべてを無理なく行うことができます。また、インターネットの閲覧に便利な進む・戻るボタン（※Mac非対応）も備えられており、ウェブページの閲覧も楽々行えます。",
+        "🔗【ワイヤレス接続が便利】省エネ性に優れたBluetoothチップと高度な2.4GHzテクノロジーのマイクロレシーバーを採用し、最大10mの接続範囲を提供。混雑したワイヤレス環境でも途切れにくく、安定した接続を実現しています。BluetoothとUSBレシーバーの両方に対応しており、USBポートのないデバイスでも安心して使用可能です。（USBレシーバーは本体の電池収納部内に収納されています。ご使用前に電池カバーを開けてご確認ください。）",
+        "🔋【最大18ヶ月の長寿命電池】省電力技術を採用し、たった単三形乾電池1本で最大18ヶ月間も電池交換不要で快適に使用できます。また、便利なステータスインジケーターも備えています。",
+        "❎【静音設計で騒音を軽減】クリック音を静かに抑えた設計で、従来のモデルと比べて90%以上も騒音を軽減。カフェや図書館などの静かな場所でも、周囲を気にせずに作業に集中できます。",
+        "♻【広範な互換性】Windows 8.0、Windows 10、Windows Vista、Mac OSX 10.10以降、Android 4.3以降、iOS 8.0以降のBluetooth搭載デバイスに対応。幅広いデバイスで使用可能です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "トラックボール 静音"
+      ]
+    },
+    {
+      "asin": "B0G4R81TR9",
+      "title": "フィリップス トラックボールマウス 静音 Bluetooth/USBレシーバー対応 無線 最大3台接続 手首が疲れにくい 3200DPI エルゴノミクスマウス 6ボタン 進む/戻るボタン搭載 5段階DPI切替 親指操作 windows/Android/mac/iPad OS/ios/Chrome多機種対応 Philips Business Mouse SPK7808 （レッド）",
+      "url": "https://www.amazon.co.jp/dp/B0G4R81TR9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G4R81TR9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31W1BDjv3sL._SL500_.jpg",
+      "features": [
+        "【手首の負担を軽減するエルゴノミクス設計】長時間作業で手首や腕が疲れやすい方に最適。約15°の自然な傾斜と手に沿う形状が、無理のない姿勢を保ち、手首や腕の負担を軽減します。親指でカーソルを操作するため腕全体を動かす必要がなく、デスクワークがより快適になります。※ご購入前に、サイズ表をご確認ください。",
+        "【大型ルビーボール＆高精度センサー＋PHILIPS先進チップで滑らかトラッキング】デスクはもちろん、ソファやベッドの上など省スペース環境でも快適に使用可能。 直径34mmの大型人工ルビーボール、高精度センサー、そしてPHILIPS先進チップの組み合わせにより、滑らかで正確なトラッキングを実現します。 800/1200/1600/2400/3200 DPIの5段階調整に対応し、用途に合わせて最適な精度を選べます。",
+        "【Bluetooth/USB対応・最大3台同時接続·ワンタッチで簡単切替】PC・タブレット・スマホなど、最大3台まで同時接続が可能。専用ボタンでワンタッチ切替ができ、複数デバイスを使う際のストレスを軽減します。 BluetoothでUSBポートを節約でき、付属のUSBレシーバーによる安定接続にも対応。本体底部にレシーバー収納スペースを備え、外出時の持ち運びにも便利です。",
+        "【電池1本で最長18ヶ月使用可能の省エネ性能】省電力設計で、付属のフィリップス単三電池1本が最長18ヶ月持続。頻繁な電池交換の手間を減らし、ランニングコストの削減にもつながります。長時間使用する方にも安心のスタミナ性能です。※使用環境により異なります。",
+        "【90%静音クリック＆便利な7ボタン構成で作業効率UP】クリック音を約90%カットした静音設計で、深夜やオフィス、図書館など静かな環境でも気兼ねなく使用できます。「進む」「戻る」などのショートカットを含む7ボタン構成で、ブラウジングや作業効率が向上。快適さと操作性を高いレベルで両立しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "トラックボール 静音"
+      ]
+    },
+    {
+      "asin": "B0D9Y1SNQT",
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MX ERGO S MXTB2d 無線 グラファイト",
+      "url": "https://www.amazon.co.jp/dp/B0D9Y1SNQT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9Y1SNQT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/319RcxooUNL._SL500_.jpg",
+      "features": [
+        "人気の高機能トラックボールマウスMXTB1が静音化＆接続方式をアップデートして登場!",
+        "MXTB2d／保証期間1年間のAmazon.co.jp限定モデル ※Amazon.co.jp限定 壁紙ダウンロード付き",
+        "従来モデルMXTB1と比較しクリック音を80%削減した静音トラックボールマウス",
+        "接続はBluetooth&UnifyingからBluetooth&LogiBoltにアップデート／接続の信頼性と安定性を更に向上 ※Logi Boltレシーバーは本製品に同梱されています。",
+        "2023年5月に「Logi Options+」に追加されたマクロ登録機能「Smart Actions」対応／複雑な操作を必要としていたショートカットやファンクションをひとつのボタンに割り当て",
+        "USB-C充電式／1分間の充電で24時間、フル充電で最長120日間の使用ができ、長時間使用する際もバッテリーを気にすることなくお使いいただけます。※USB-C充電ケーブルは同梱していません。電池寿命は使用状況により異なります。",
+        "トラッキング速度を変更できるプレシジョンモードボタン／ボタンを押すだけでスピードモードとプレシジョンモードを瞬時に切り替え",
+        "ティルト搭載プレシジョンスクロールホイール／水平スクロールとミドルクリック、左右ティルト(横にたおす)が可能",
+        "ロジクール アドバンス オプティカル トラッキングでなめらかで精確なボールコントロール／512dpi-2000dpiに対応",
+        "対応OS:[Bluetooth] Windows 10以降、macOS 11以降、iPadOS 14以降、ChromeOS、Android 9.0以降 [Logi Bolt] Windows 10以降、macOS 11以降、ChromeOS"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "トラックボール 静音"
+      ]
+    },
+    {
+      "asin": "B0CRQWQRMT",
+      "title": "ProtoArc EM04 トラックボールマウス 静音 無線 Bluetooth/2.4GHz 3台同時接続 手首負担軽減 人間工学 親指操作 充電式",
+      "url": "https://www.amazon.co.jp/dp/B0CRQWQRMT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CRQWQRMT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/312K1jBsz9L._SL500_.jpg",
+      "features": [
+        "🏅【一日中快適に操作できるトラックボール】使いやすさと快適さを追求したトラックボールマウスが登場しました！人間工学に基づいたデザインにより、手首をひねらず自然な角度で握ることができます。前腕や手首の筋肉への負担を大幅に軽減し、長時間のPC作業でも疲れにくいです。一度ハマると抜け出せない！長時間のデスクワークによる手首の疲れや腱鞘炎にお悩みの方は、ぜひEM04トラックボールマウスをお試しください。※注意: 手の小さい方（手のひらの下の細いしわから中指の先端までの長さが17.5cm未満）には不向きです。ご購入前にサイズをご確認ください。",
+        "🏅【省スペース・狭いデスクでも快適操作】本体を動かさずに親指だけでカーソルを操作できるトラックボールマウスです。マウスパッドが不要なため、狭いデスクはもちろん、新幹線や飛行機の座席、ソファ、ベッドの上など、限られたスペースでも快適に作業が可能です。自宅、オフィス、出張先などあらゆるシーンで活躍します。",
+        "🏅【3台同時接続・マルチOSに瞬間切り替え】Bluetooth接続と無線2.4Ghz接続の両方に対応し、1台のマウスで最大3台のデバイスに同時接続できます。複雑な設定は不要、本体裏側の切り替えボタンを押すだけで、PC、タブレット、スマホなどの複数端末を瞬間に切り替えられます。﻿また、このワイヤレスマウスはWindows XP/Win 7/Win 8/Win 10/Win 11以降、ｍacOS 10.10 以降、iOS 13以降、Android 4.3以降、Chrome OSなど幅広いOSに対応し、複数デバイスを使い分けるマルチタスクに最適です。※USBレシーバーは本体裏側に収納されています。",
+        "🏅【静かなクリック・作業効率を高める6ボタン】左右ボタンは静音設計で、クリック音が90%以上軽減され、オフィス、図書館、深夜の自宅など、周囲を気にせず静かに作業に集中できます。（※注意：DPI切り替えボタン、進む・戻るボタンは静音仕様ではありません。）Webブラウジングを効率化する「進む・戻る」ボタンやDPI切り替えボタンなど、計6ボタンを搭載し作業効率を大幅に向上させます。※チルト機能（横スクロール）は非対応です。「進む・戻る」ボタンはmacOS非対応。また、ボタン割り当てには別途ソフトウェアが必要です。",
+        "🏅【精密なトラッキング・5段階DPI調節 】Bluetooth マウスには高精度センサーを搭載しているため、ほとんどの表面で精確なトラッキングとスムーズな動きを実現します。作業内容に合わせてカーソル速度を5段階（200/400/800/1200/1600 DPI）に自由に調整できます。大画面での素早い移動から、細かな作業までスムーズに対応します。※注意：画像編集やCAD設計など、極めて繊細なカーソル操作を要する作業には不向きです。",
+        "🏅【USB-C充電式 ・ 長時間使用可能】450mAhの大容量バッテリーを内蔵し、1回のフル充電で最大70時間の連続使用が可能。面倒な電池交換が不要で経済的です。便利な電池残量インジケーター付きで、不意のバッテリー切れを未然に防ぎます。出張や旅行など、外出先での長期使用にも最適です。",
+        "🏅【このような方におすすめ】長時間のPC作業で手首を労りたい方、静かな環境で作業に集中したい方に最適です。複数デバイスの切り替え機能や、中〜大型の手にフィットするエルゴノミクス形状を採用。初めてトラックボールを試す方でも、コストを抑えて本格的な使い心地を体感できる、コスパ 抜群の一台です。",
+        "🏅【お手入れ楽々・安心の1年間メーカー保証】ボールは簡単に取り外し可能で、ホコリの拭き取りなど日々のメンテナンスも楽々です。トラックボールのボール部分はホコリが溜まりやすいため、定期的な掃除が必要です。（※ボールの動きに引っかかりを感じる場合は、ボールを取り外して内部を清掃してください。）ProtoArc製品には、お買い上げ日より1年間のメーカー保証が付いています。万が一、初期不良や破損等がございましたら、メールにてお気軽にお問い合わせください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "トラックボール 静音"
+      ]
+    },
+    {
+      "asin": "B0GZP4CVXP",
+      "title": "【最新型】ProtoArc EM02 トラックボールマウス 静音 2段階角度調整 Bluetooth 2.4GHz 3台同時接続 人間工学 手首が楽",
+      "url": "https://www.amazon.co.jp/dp/B0GZP4CVXP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GZP4CVXP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/318E8lFkECL._SL500_.jpg",
+      "features": [
+        "👍【手首に優しいトラックボールマウス】人間工学に基づいた調整可能な15°傾斜デザインにより、手首をひねらず自然な姿勢で操作できるため、長時間の作業でも疲れにくいトラックボールマウスです。0°と15°の2段階で角度を自由に調整可能。マウス本体の傾斜角が手に自然にフィットし、手首や腕への負担を大幅に軽減します。親指でボールを動かすトラックボールは、マウス本体を動かす必要がないため、ソファや膝の上など狭いスペースでもストレスなくカーソル操作が可能です。※本製品は中～大サイズの手に最適です。手のひらの長さが17.5cm以上、20cm未満の方にお勧めです。 ご購入前に手のサイズをご確認ください。",
+        "🔄【3台同時接続＆ワンタッチで簡単切替】このワイヤレスマウスはBluetoothと2.4GHz USBレシーバーの両方に対応し、PC・タブレット・スマホなど、最大3台のデバイス(Bluetooth×2台、2.4GHz×1台）を同時に接続できます。マウス上部のモード切替ボタンを押すだけで、複数のデバイスをシームレスに切り替えられます。対応: WinXP、Win7、Win8、Win10以降、macOS X 10.12以降、Android5.0以降、iOS13以降など。※USBレシーバーはマウス本体の裏面に収納されています。",
+        "🔇【静かなクリック＆便利なサイドボタン】左右ボタンは静音スイッチを採用しているため、クリック音がほとんどなく、図書館やカフェ、オフィスなど静かな環境でも周囲を気にせず快適に作業できます。さらに、マウスサイドに「進む」「戻る」が搭載されており、ブラウジングや作業効率が大幅に向上します。※注意: 1.進む・戻るボタンやスクロールホイールは静音仕様ではありません。2.MacOSでは進む/戻るボタンは動作しません。3.ボタンの機能は専用ソフトウェアによるカスタマイズはできません。",
+        "🔋【Type-C充電式＆長時間使用可能】500mAhの大容量バッテリーを内蔵し、一度のフル充電で最大約150時間の連続使用と90日間の連続待機が可能です。面倒な電池交換や頻繁な充電の手間を省き、長時間安心してご使用いただけます。また、バッテリー残量表示ランプを搭載しており、バッテリーの状態が一目で確認できるため、突然の電池切れの心配もありません。",
+        "✅【滑らかな操球感＆高精度センサー】直径34mmの大型ボールと高精度センサーの組み合わせで、なめらかで正確なトラッキングを実現する無線マウス。DPIは200・400・800・1200・1600の5段階から選べ、作業内容に応じて最適なカーソル速度で操作できます。※極めて繊細な操作には不向きです。",
+        "💦【お手入れが簡単】トラックボールのボール部分はホコリが溜まりやすいため、定期的な掃除が必要です。より快適に使用するために、週1～2回の掃除を推奨します。裏側の小さい穴に綿棒などの細い棒を突っ込んでトラックボールを取り外し、ボール部分の交換・拭き取りなどのメンテナンスが簡単にできます。（ボールを転がした時に、ひっかかりを感じる場合は、ボールとボールをはめ込む部分を掃除してみてください。）",
+        "♥️【安心の18ヶ月メーカー保証】お買い上げ日より18ヶ月のメーカー保証が付いています。万が一お届けした商品が不良品や破損品である場合、ご要望に応じて、早急に交換または返金対応させて頂きます。※商品ページ内には、初めての方でも安心な【トラックボールの掃除方法】と【よくある質問】の解説動画をご用意しております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "トラックボール 静音"
+      ]
+    },
+    {
+      "asin": "B0H8T6V98L",
+      "title": "ProtoArc EM04 トラックボールマウス 静音 Bluetooth 2.4GHz 3台同時接続 人間工学 手首負担軽減 親指操作 省スペース",
+      "url": "https://www.amazon.co.jp/dp/B0H8T6V98L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H8T6V98L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/317TRjeYfpL._SL500_.jpg",
+      "features": [
+        "✅【手首への負担を抑える15°エルゴノミクスデザイン】自然な角度で握れる15°の傾斜角を採用したトラックボール。手首をひねらずに操作できるため、長時間のPC作業による手首や前腕の筋肉への負担を大幅に軽減し、マウス腱 鞘炎対策に最適です。デスクワークの多い方や、初めてトラックボールマウスを試してみたい方に自信を持っておすすめします。(※手のひらの下から中指の先端までが17.5cm未満の「手の小さい方」には不向きです。ご購入前にサイズをご確認ください)",
+        "✅ 【省スペースな親指操作・どこでも快適作業】本体を動かさず、親指でボールを転がすだけでカーソルを操作できる親指タイプのトラックボールマウスです。マウスパッドが不要なため、狭いデスクはもちろん、新幹線の座席、ソファ、ベッド、膝の上など、スペースが限られた場所でも正確に操作可能。在宅勤務（リモートワーク）や出張先での限られた作業環境を最大限に活用できます。",
+        "✅ 【3台同時接続・マルチOS対応】Bluetooth接続（2台）と2.4GHzワイヤレス接続（1台）の両方に対応。ワイヤレスマウスの本体裏面の接続モード切替ボタンを押すだけで、パソコン、タブレット、スマホなど最大3台のデバイスを瞬時に切り替えられます。Windows、macOS、iPadOS、iOS、Android、Chrome OSなど幅広いOSに対応し、複数端末を使い分けるマルチタスクにぴったりです。(※USBレシーバーは本体裏側に収納。macOSでは進む・戻るボタンは非対応です)",
+        "✅【静音クリック】左右ボタンには静音スイッチを採用し、クリック音を90%以上軽減した静音マウスです。オフィス、図書館、深夜の自宅など、静かな環境でも周囲を気にせず使用できます。（※DPI・進む/戻るボタンは静音仕様ではありません。）",
+        "✅【5段階DPI調節・作業効率を高める6ボタン】作業内容に合わせて200/400/800/1200/1600の5段階DPI（カーソル速度）を自由に変更できます。広い画面での素早いカーソル移動から、一般的な事務作業までスムーズに対応。一般的なマウスと違いマウス本体を動かさないため、狙い通りのポインティングが可能です。さらに、Webブラウジングを効率化する「進む/戻る」ボタンやDPI変更ボタンなど、実用的な6ボタンを搭載し、作業効率を大幅に向上させます。(※1.横スクロール非対応 。2.ボタン割り当てには別途ソフトウェアが必要です。3.画像編集やCAD設計など、極めて繊細なカーソル操作を要する作業には不向きです。)",
+        "✅【USB-C充電式・1年間安心保証】450mAhの大容量バッテリーを内蔵したエコな充電式マウスです。1回のフル充電で最大70時間の連続使用を実現し、面倒な使い捨て乾電池の交換手間とコストをスマートに削減します。低電力お知らせランプを搭載し、出張や旅行先での急なバッテリー切れを未然に防止。ProtoArc正規品には「1年間のメーカー保証」が付帯しております。万が一初期不良や不具合がございましたら、お気軽に当店までメールにてご連絡ください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "トラックボール 静音"
+      ]
+    },
+    {
+      "asin": "B016QCPNUW",
+      "title": "エレコム ワイヤレス トラックボールマウス EX-G 握りの極み 6ボタン チルトホイール（左右スクロール） ブラック M-XT3DRBK",
+      "url": "https://www.amazon.co.jp/dp/B016QCPNUW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B016QCPNUW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31nVkpWP8BL._SL500_.jpg",
+      "features": [
+        "確かな基本性能とかつてない新機能を搭載した、進化した親指操作タイプのワイヤレストラックボールです。",
+        "トラックボールの動きを検出するセンサーに、ゲーミンググレードの高性能光学式センサーを搭載し、新型の高性能レンズと周辺の光学設計の最適化で抜群のポインタ追従性を実現しています。",
+        "直径2.5mmの大型人工ルビーを支持球に採用することで、操球感が向上しています。また支持球の大径化により、支持球が手あか等のゴミに埋もれにくくなり、メンテナンス頻度が低減しています。",
+        "操作時に接触する6つの手の骨格・筋肉に着目し、窪みや膨らみを考慮した設計により、まるで手のひらの形状がそのまま映し出されたかのような、操作しやすい新しい「のせ心地」を実現しています。",
+        "Webページ閲覧の効率を上げる「進む」、「戻る」ボタンを搭載しています。ボタンの大きさ・形状の工夫により、よりアクセスしやすくなりました。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "トラックボール 静音"
+      ]
+    }
+  ]
+}

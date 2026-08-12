@@ -1,0 +1,1026 @@
+{
+  "generated_at": "2026-08-12T19:52:07",
+  "account_id": "daily_gadget",
+  "partner_tag": "daily-gadget-22",
+  "mode": "pool",
+  "queries": [
+    {
+      "query": "Stream Deck",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "Elgato Stream Deck",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "ショートカット キーパッド",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "左手デバイス 液晶キー",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "配信 コントローラー",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "マクロ キーボード",
+      "include": [],
+      "exclude": []
+    }
+  ],
+  "fetched_count": 60,
+  "dedup_count": 13,
+  "candidates": [
+    {
+      "asin": "B0CDWSWLWV",
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck MK.2 エルガトストリームデック MK.2【15キー配列】ライブコンテンツ作成用のコントローラー 配信者向けデバイス OBS/Twitch​/YouTube連携 Mac/PC対応",
+      "url": "https://www.amazon.co.jp/dp/B0CDWSWLWV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CDWSWLWV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31hSJaIqcTL._SL500_.jpg",
+      "features": [
+        "15個のカスタム可能なLCDキー: アプリ、ツール、プラットフォームを一瞬でコントロールできます。",
+        "ワンタッチ操作: 1つまたは複数のアクションをトリガ、SNSに投稿、オーディオを調整、マイクをミュート、照明を点灯などさまざまなアクションが可能。",
+        "視覚フィードバック: コマンドが実行されたことを確認できます。",
+        "パワフルなプラグイン: Elgato 4KCU、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue、その他数々に対応。",
+        "ホットキーアクション: フィルム編集、ミュージック製作、写真撮影のワークフロー、その他を円滑に進め、効率を引き上げます。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Stream Deck",
+        "Elgato Stream Deck",
+        "配信 コントローラー"
+      ]
+    },
+    {
+      "asin": "B0CDWQS6NW",
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck +, オーディオミキサー, コンテンツクリエイターのためのライブ制作とスタジオコントローラー, ストリーミング, 配信, ゲーミング, カスタム可能なタッチストリップとダイヤルおよびLCDキー搭載, Mac/PC対応",
+      "url": "https://www.amazon.co.jp/dp/B0CDWQS6NW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CDWQS6NW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31r-+313leL._SL500_.jpg",
+      "features": [
+        "触覚コントロール、視覚フィードバック: LCDキー、タッチストリップ、ダイヤルでオーディオ、ビデオ、照明、その他をコントロール。コマンドが実行されたことを確認したり、ダイヤルの情報を表示できます。",
+        "100%カスタム可能: オーディオミキサー、スタジオコントローラ、プロダクションコンソールなど使用可能。",
+        "マルチアクション、スマートプロファイル: 複数のアクションを同時に、または連続してトリガ、アプリごとに指定したインターフェース構成を自動的に切り替えられます。",
+        "パワフルなプラグイン: Elgato Wave Link、Camera Hub、Control Center、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue、その他多くに対応。",
+        "Stream Deckアプリ、ストア: セットアップとカスタムインターフェースアイコンをドラッグ & ドロップ。 プラグイン、アイコン、数千もの著作権使用料無料のトラック、サウンドエフェクトなどをダウンロードできます。定期的なアップデートと、頻繁に追加される新しいプラグイン。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Stream Deck",
+        "Elgato Stream Deck",
+        "配信 コントローラー"
+      ]
+    },
+    {
+      "asin": "B0CWL3V6R8",
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck Neo – カスタム可能な8個のキー、2つのTouch Points、タスクとワークフローを加速 - Word、Excel、PowerPoint、Teams、Zoom、Spotify、その他をコントロール、ドラッグ&ドロップで設定可能 - MacとPCに対応",
+      "url": "https://www.amazon.co.jp/dp/B0CWL3V6R8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CWL3V6R8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ofayqQzTL._SL500_.jpg",
+      "features": [
+        "効率をアップ: 8個のショートカットキーを使ってタスクをカスタマイズして、自動化できます。ワークフローに合わせて、毎日の繰り返し作業をすばやく、楽しく済ませましょう。",
+        "楽々コントロール: アクションをドラッグ&ドロップして、簡単に設定。無料のStream Deckアプリを使ってオフスクリーンでもよく使うツールを管理。",
+        "よく使うアプリに対応: Zoom、Teams、PowerPoint、Excel、Word、 Google Suite、MS Office、Photoshop、Adobe Creative アプリ、Spotify、ミュージックを始めとする、多くの必須アプリとシームレスに統合。",
+        "シームレスなスマートコントロール: ボタン1つでエコシステムを管理して、スマートライト、プラグ、オーディオ、その他を制御。または、Stream Deck Neoを使って他のNeo製品を制御 – 使い方はあなた次第。",
+        "エコフレンドリーを約束: Elgato Neo製品は、 持続可能な方法で製造され、パッケージにはプラスチックを使用していません。環境に配慮し、地球に優しくありたいという私たちの取り組みを形にしています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Stream Deck",
+        "Elgato Stream Deck"
+      ]
+    },
+    {
+      "asin": "B0CDWSNF8J",
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck MK.2 White エルガトストリームデック MK.2【15キー配列】ライブコンテンツ作成用のコントローラー 配信者向けデバイス OBS/Twitch​/YouTube連携 Mac/PC対応",
+      "url": "https://www.amazon.co.jp/dp/B0CDWSNF8J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CDWSNF8J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31SfsLtN9rL._SL500_.jpg",
+      "features": [
+        "15個のカスタム可能なLCDキー: アプリ、ツール、プラットフォームを一瞬でコントロールできます。",
+        "ワンタッチ操作: 1つまたは複数のアクションをトリガ、SNSに投稿、オーディオを調整、マイクをミュート、照明を点灯、などなど、さまざまなアクションが可能。",
+        "視覚フィードバック: コマンドが実行されたことを確認できます。",
+        "パワフルなプラグイン: Elgato 4KCU、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue、その他数々に対応。",
+        "ホットキーアクション: フィルム編集、ミュージック製作、写真撮影のワークフロー、その他を円滑に進め、効率を引き上げます。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Stream Deck",
+        "Elgato Stream Deck"
+      ]
+    },
+    {
+      "asin": "B0CDWTVMDZ",
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck Mini – Zoom、Teams、PowerPoint、MS Office、その他をコントロール。毎日使うアプリとシームレスに統合して生産性をアップ。ショートカットを簡単に設定。MacとPCに対応",
+      "url": "https://www.amazon.co.jp/dp/B0CDWTVMDZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CDWTVMDZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41o0R+Ex7RL._SL500_.jpg",
+      "features": [
+        "もっと一生懸命に、ではなく、もっとスマートに働こう: キーボードショートカットはもう忘れましょう。Stream Deck Miniは、面倒で、覚えるのが難しいショートカットを1つのキーに割り当ててくれます。エラーなく、ショートカットを即座に識別して、アクティベートできます。",
+        "よく使うアプリに対応: Zoom、Teams、PowerPoint、Excel、Word、 Google Suite、MS Office、Photoshop、Adobe Creative アプリ、Spotify、ミュージックを含む、その他多くの必須ソフトウェアとシームレスに統合。X9",
+        "カスタム可能なLCDキー: タップするだけで、コマンドと機能を即座にアクティベート。",
+        "簡単設定: 使いやすいソフトウェア。アクションをキーにドラッグしたら、あっという間に設定をパーソナライズ。",
+        "マルチアクションで効率的: 複数のアクションを1度に、または連続して、正確なタイミングで実行。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Stream Deck",
+        "Elgato Stream Deck"
+      ]
+    },
+    {
+      "asin": "B0GQRRF1LC",
+      "title": "Elgato Stream Deck + XL – プロフェッショナルシステムおよび制作向けのカスタマイズ可能なコントロールプラットフォーム（マクロキー、多機能ダイヤル、タッチストリップ搭載）– PC／Mac対応 USB-C",
+      "url": "https://www.amazon.co.jp/dp/B0GQRRF1LC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GQRRF1LC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Qy2gvCU7L._SL500_.jpg",
+      "features": [
+        "36個のマクロキー：ワンタッチでコマンド実行やツール操作が可",
+        "6つの多機能ダイヤル：高精度なクイック調整を実現",
+        "タッチストリップディスプレイ：重要な情報を一目で確認",
+        "完全カスタマイズ対応：Stream Deck アプリで自由に設定",
+        "数百の連携機能：主要なアプリや機器と接続"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Stream Deck",
+        "Elgato Stream Deck"
+      ]
+    },
+    {
+      "asin": "B0CDWTHBVD",
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck XL エルガトストリームデックXL【32キー配列】ライブコンテンツ作成用のコントローラー 配信者向けデバイス OBS/Twitch​/YouTube連携 Mac/PC対応",
+      "url": "https://www.amazon.co.jp/dp/B0CDWTHBVD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CDWTHBVD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41NpinUCqxL._SL500_.jpg",
+      "features": [
+        "高度なライブ製作: お気に入りのツールとプラットフォームを簡単にコントロール。",
+        "32個のカスタム可能なキー: タップ1つで、即座に無制限のアクションをトリガできます。",
+        "パワフルな連係: Elgato 4KCU、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue、vMix、VoiceMod、その他に対応。",
+        "ワンタッチ操作: シーンを変更、メディアを起動、カメラを切り替え、照明を調整、オーディオを調整、ツイートを投稿 、つまりすべてが可能。",
+        "視覚フィードバック: コマンドが実行されたことを確認できます。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Stream Deck",
+        "Elgato Stream Deck"
+      ]
+    },
+    {
+      "asin": "B0DTYM2QFF",
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck Scissor Keys: OBS、Twitch、Discord、Teams、Photoshopなどに対応したカスタマイズ可能なマクロキー搭載ワークフローコントローラー(Windows 10・macOS 13以降対応)",
+      "url": "https://www.amazon.co.jp/dp/B0DTYM2QFF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DTYM2QFF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41iG8IEBMpL._SL500_.jpg",
+      "features": [
+        "シャープな打鍵感:確かなクリック感でレスポンスも抜群。素早いマクロ操作に最適。",
+        "すべてをコントロール:Discordや、ゲームの起動、OBSシーンの切り替え、マイクミュートなどがワンタップで。Alt + Tabはもう不要。",
+        "ライブモニタリング:CPU、GPU、Ping、FPSなどをキーに割り当てて表示。",
+        "躊躇なし:LEDキーでアイコンがはっきり見えて、素早く反応可能。",
+        "常にアップデート:新機能やプラグイン、サポートを定期的に追加。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Stream Deck",
+        "Elgato Stream Deck"
+      ]
+    },
+    {
+      "asin": "B0FKTDCZ51",
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck Neo ブラック – カスタム可能な8個のキー、2つのTouch Points、タスクとワークフローを加速 – Word、Excel、PowerPoint、Teams、Zoom、Spotify、その他をコントロール、ドラッグ&ドロップで設定可能 – MacとPCに対応",
+      "url": "https://www.amazon.co.jp/dp/B0FKTDCZ51?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FKTDCZ51?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31MjXcJE+KL._SL500_.jpg",
+      "features": [
+        "効率をアップ: 8個のショートカットキーを使ってタスクをカスタマイズして、自動化できます。ワークフローに合わせて、毎日の繰り返し作業をすばやく、楽しく済ませましょう。",
+        "楽々コントロール: アクションをドラッグ&ドロップして、簡単に設定。無料のStream Deckアプリを使ってオフスクリーンでもよく使うツールを管理。",
+        "よく使うアプリに対応: Zoom、Teams、PowerPoint、Excel、Word、 Google Suite、MS Office、Photoshop、Adobe Creative アプリ、Spotify、ミュージックを始めとする、多くの必須アプリとシームレスに統合。",
+        "シームレスなスマートコントロール: ボタン1つでエコシステムを管理して、スマートライト、プラグ、オーディオ、その他を制御。または、Stream Deck Neoを使って他のNeo製品を制御 – 使い方はあなた次第。",
+        "エコフレンドリーを約束: すべてのNeo製品は、 持続可能な方法で製造され、パッケージにはプラスチックを使用していません。環境に配慮し、地球に優しくありたいという私たちの取り組みを形にしています。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Stream Deck",
+        "Elgato Stream Deck"
+      ]
+    },
+    {
+      "asin": "B0CMQ8NQVP",
+      "title": "【Amazon.co.jp限定】Elgato Stream Deck +, オーディオミキサー, コンテンツクリエイターのためのライブ制作とスタジオコントローラー, ストリーミング, 配信, ゲーミング, Mac/PC対応,White",
+      "url": "https://www.amazon.co.jp/dp/B0CMQ8NQVP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CMQ8NQVP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31-1N6sfzSL._SL500_.jpg",
+      "features": [
+        "触覚コントロール、視覚フィードバック: LCDキーでオーディオ、ビデオ、照明、その他をコントロール。コマンドが実行されたことを確認できます。",
+        "100%カスタム可能: オーディオミキサー、スタジオコントローラ、プロダクションコンソールなどと使用可能",
+        "マルチアクション、スマートプロファイル: 複数のアクションを同時に、または連続してトリガ、アプリごとに指定したインターフェース構成を自動的に切り替えられます。",
+        "パワフルなプラグイン: Elgato Wave Link、Camera Hub、Control Center、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue、その他多くに対応。",
+        "Stream Deckアプリ、ストア: セットアップとカスタムインターフェースアイコンをドラッグ & ドロップ。 プラグイン、アイコン、数千もの著作権使用料無料のトラック、サウンドエフェクトなどをダウンロードできます。定期的なアップデートと、頻繁に追加される新しいプラグイン。",
+        "※本製品はAmazon.co.jp限定モデルです。",
+        "製品保証について…Elgatoはお買い上げ後2年6ヶ月保証をしております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Stream Deck",
+        "Elgato Stream Deck",
+        "配信 コントローラー"
+      ]
+    },
+    {
+      "asin": "B0G51SSH4Q",
+      "title": "ショートカットキー マウスパッド 早見表 Windows用 黒 NYANDELMO ND-0394-R03-3mm-win-Black",
+      "url": "https://www.amazon.co.jp/dp/B0G51SSH4Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G51SSH4Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51wjT+xDU0L._SL500_.jpg",
+      "features": [
+        "【サイズ・バリエーション】サイズ：23.5×16.5cm／厚み：3mm。Mac用（80s柄・黒・サイバー柄）／Windows用（黒・花柄・マーブル柄）から選べるショートカット早見表付きマウスパッドです。",
+        "【作業効率アップの早見表】よく使うショートカットを“見ながら操作”。探す時間を減らし、仕事・学習・在宅ワークの時短に役立ちます。",
+        "【滑り止め＆耐久エッジ】裏面はゴム素材の滑り止めベースでズレにくく、安定したトラッキングをサポート。",
+        "【見やすく整理された配色デザイン】 ショートカットの分類ごとに色分けされたレイアウトで、必要な操作を直感的に確認可能。",
+        "【毎日使えるシンプル＆実用設計】 装飾に偏りすぎない落ち着いたデザインで、仕事・学習・在宅ワークまで幅広く対応。デスクに常に敷いても違和感がなく、長時間のPC作業でも集中を妨げにくい実用性重視のマウスパッドです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ショートカット キーパッド"
+      ]
+    },
+    {
+      "asin": "B0CM9GTNKR",
+      "title": "excovip mini マウスパッド オフィス Excelショートカットキー一覧 防水 滑り止め 耐久性が良い おしゃれ 小型 26cm×21cm×0.2cm - 0165",
+      "url": "https://www.amazon.co.jp/dp/B0CM9GTNKR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CM9GTNKR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51dIJhVQGCL._SL500_.jpg",
+      "features": [
+        "【オフィスを知って、もっと得をする】Excel ショートカットチートシートマウスパッドは、ユーザーの生産効率を大幅に向上させることができます。あなたの友人、家族、パートナーが学校やキャリアで成功するのを助ける特別な贈り物です。",
+        "【裏面が滑り止め加工】裏面にはマウスパッドのズレを防止するラバーベースを採用し、滑りや動きを防ぎます。マウス及びキーボードがこのマウスパッド大型の表面で安定的に操作できます。また、天然ゴムは安全で健康的で、人体の健康を損なうことはありません。",
+        "【滑らかな表面】高品質のソフトなマウスパッドクロスが滑らかなすべりを実現します。高い正確さとコントロールを必要とする迅速な動きに最適です。",
+        "【耐久性が強】凝るの縫合エッジは磨損の防止が可能です。パットの変形しないこととゴムがはげ落ないことが保証します。表面に汚れが付いても心配することが要りません。水洗いで簡単に清潔することが可能です。日に晒して乾かして、また続けて使用可能になります。",
+        "【コンフォート素材】このマウスパッドは高品質の布と天然ゴムでできており、柔らかくて快適です。全タイプのマウスに対応、日常用に最適なサイズです！ 持ち運びが簡単な非常に柔軟性があります。サイズ：26×21×0.2cm。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ショートカット キーパッド"
+      ]
+    },
+    {
+      "asin": "B0GKD9Y6DK",
+      "title": "Windowsシンプルダークグレー ショートカットキー早見表 1枚 NYANDELMO ND-0321-R01-win-simple-DG-1",
+      "url": "https://www.amazon.co.jp/dp/B0GKD9Y6DK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GKD9Y6DK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51bt6m6th5L._SL500_.jpg",
+      "features": [
+        "【サイズ・バリエーション】豊富な種類から用途に合わせてお選びいただけます。＜Windows用（Excel・Word・Office・Windowsシステム）：白・チャコールグレー＞。＜Windows用：シンプルデザインホワイト・シンプルデザインダークグレー＞。＜Mac用：黒＞。＜Illustrator Photoshop用（Mac/WIn両用）＞。全デザイン1枚・2枚から選択可能です。シールサイズ：約90×70mm。ノートPCやマウスパッドにも使える便利なサイズ。",
+        "【Windows11対応】基本の必須ショートカットキーを厳選！主要ショートカットを一覧化。作業効率を大幅に改善。",
+        "【防水・剥がせる仕様】防水加工で日常使用に強く、貼っても剥がしても跡が残らない仕様。PCや手帳、ノートに貼って快適に利用可能。",
+        "【作業効率アップ】よく使うショートカットをすぐに確認でき、業務や学習のスピードを向上。初心者から上級者まで便利に活用可能。",
+        "【多用途に活躍】オフィスワーク、在宅勤務、学習、プログラミング、プレゼン準備など幅広いシーンで活用。効率化グッズとしてプレゼントにも最適。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ショートカット キーパッド"
+      ]
+    },
+    {
+      "asin": "B0DGFT9KWG",
+      "title": "マウスパッド 便利な ショートカットキー 一覧 オカザキ 早見表 Windows対応 学習 オフィス 作業効率 【商標登録番号 第6667215】",
+      "url": "https://www.amazon.co.jp/dp/B0DGFT9KWG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DGFT9KWG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51QqXe06OML._SL500_.jpg",
+      "features": [
+        "✅便利なショートカットキーがプリントされたマウスパッドです。",
+        "✅Windows10/8.1/7対応。",
+        "✅商品サイズ：約18×22㎝",
+        "✅材質：PVC、EVA",
+        "✅7RabbitRiograndeオリジナルステッカー付 【商標登録番号 第6667215】",
+        "✅商標を使用した転用・転売・悪用には厳しく対処致します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ショートカット キーパッド"
+      ]
+    },
+    {
+      "asin": "B0DLDKVZZF",
+      "title": "マウスパッド モノクロ キーボードショートカットキー表 For Windows 10/8.1 PVC EVA 15×21×0.3mm",
+      "url": "https://www.amazon.co.jp/dp/B0DLDKVZZF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DLDKVZZF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51HCRfWOX5L._SL500_.jpg",
+      "features": [
+        "このマウスパッドは、Windows 10および8.1のキーボードショートカットキーをモノクロで印刷した便利なアイテムです。",
+        "デスク上での作業効率を向上させ、必要なショートカットをすぐに確認できるため、初心者から上級者まで幅広くご利用いただけます。",
+        "薄型設計で、スペースを取らず、快適な操作感を提供します。",
+        "【おすすめポイント】 ショートカットキーが一目でわかるデザイン 滑り止め効果のある素材で安定した使用感 コンパクトなサイズで持ち運びにも便利",
+        "【マウスパッド モノクロ キーボードショートカットキー表】 for Windows 10/8.1 　",
+        "サイズ：約 15 × 21 × 厚み0.3 mm",
+        "材質：PVC、EVA",
+        "株式会社元林"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ショートカット キーパッド"
+      ]
+    },
+    {
+      "asin": "B0BBS3D3JV",
+      "title": "Sayodevice OSU キーパッド 2 キー USB ホットスワップ 赤軸メカニカルキーボード",
+      "url": "https://www.amazon.co.jp/dp/B0BBS3D3JV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BBS3D3JV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41SlAlnjjSL._SL500_.jpg",
+      "features": [
+        "1. Otuemuレッドスピードスイッチ12個。",
+        "2. HID標準キーボード、ドライバーなしでプラグアンドプレイ。",
+        "3. Windows、Linux、MacOS、Android、ラズベリーと互換性があり、誰でも簡単に使用できます。",
+        "4. カスタムキーパッドの機能:ショートカットキー、マルチステップ操作、マルチキーインワン、コピーアンドペースト、カット、元に戻す、やり直し、すべて選択、再生、一時停止、音量、曲の切り替え、前進、後方、カスタムスクリプトなど。",
+        "5. 各ボタンは互いに影響を与えることなく異なる機能モードに設定できます。",
+        "6. 本製品に問題がある場合は、当社にご連絡いただければ、対応させていただきます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ショートカット キーパッド"
+      ]
+    },
+    {
+      "asin": "B0G51DRJXM",
+      "title": "ショートカットキー マウスパッド 早見表 Mac用 黒 NYANDELMO ND-0394-R03-3mm-mac-Black",
+      "url": "https://www.amazon.co.jp/dp/B0G51DRJXM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G51DRJXM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Cz8MVPDhL._SL500_.jpg",
+      "features": [
+        "【サイズ・バリエーション】サイズ：23.5×16.5cm／厚み：3mm。Mac用（80s柄・黒・サイバー柄）／Windows用（黒・花柄・マーブル柄）から選べるショートカット早見表付きマウスパッドです。",
+        "【作業効率アップの早見表】よく使うショートカットを“見ながら操作”。探す時間を減らし、仕事・学習・在宅ワークの時短に役立ちます。",
+        "【滑り止め＆耐久エッジ】裏面はゴム素材の滑り止めベースでズレにくく、安定したトラッキングをサポート。",
+        "【見やすく整理された配色デザイン】 ショートカットの分類ごとに色分けされたレイアウトで、必要な操作を直感的に確認可能。",
+        "【毎日使えるシンプル＆実用設計】 装飾に偏りすぎない落ち着いたデザインで、仕事・学習・在宅ワークまで幅広く対応。デスクに常に敷いても違和感がなく、長時間のPC作業でも集中を妨げにくい実用性重視のマウスパッドです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ショートカット キーパッド"
+      ]
+    },
+    {
+      "asin": "B0CLY2P5PN",
+      "title": "時短したい人用のマウスパッド ショートカットキー 一覧 便利なショートカットキー サイズ：約18ｘ22㎝【Clip wan】",
+      "url": "https://www.amazon.co.jp/dp/B0CLY2P5PN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CLY2P5PN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61S0CO3byTL._SL500_.jpg",
+      "features": [
+        "便利なショートカットキーの一覧の記載されたマウスパッド。",
+        "仕事の効率化、時短、パソコン初心者、あると便利です。",
+        "Windows10/8.1/7対応。",
+        "サイズ：約18x22cm。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ショートカット キーパッド"
+      ]
+    },
+    {
+      "asin": "B08MTN56MT",
+      "title": "マウスパッド　ショートカットキー表モノクロ　ＭＰＳ－２－１",
+      "url": "https://www.amazon.co.jp/dp/B08MTN56MT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08MTN56MT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31nD3BzNt8L._SL500_.jpg",
+      "features": [
+        "マウスパッド モノクロ キーボードショートカットキー表"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ショートカット キーパッド"
+      ]
+    },
+    {
+      "asin": "B07R1L3YVB",
+      "title": "オカザキ マウスパット ショートカットキー 一覧 便利なショートカットキー",
+      "url": "https://www.amazon.co.jp/dp/B07R1L3YVB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07R1L3YVB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51vmlm+UMOL._SL500_.jpg",
+      "features": [
+        "Windows10/8.1/7",
+        "に対応しております。",
+        "ショートカットキーの内容が印刷されており便利です。",
+        "マウスの滑りを良くします。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "ショートカット キーパッド"
+      ]
+    },
+    {
+      "asin": "B077T9391Z",
+      "title": "Razer Tartarus V2 左手デバイス 左手キーボード メカメンブレン 全キー自由に割り当て可能 【日本正規代理店保証品】 ファイナルファンタジーXIV 推奨デバイス",
+      "url": "https://www.amazon.co.jp/dp/B077T9391Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B077T9391Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41F4O9y6deL._SL500_.jpg",
+      "features": [
+        "Razerメカメンブレン - ソフトなクッションタッチと鮮明な触覚クリック: 両方の長所を満たします - Razer Tartarus V2は、メンブレンラバードームのソフトなクッションタッチとメカニカルスイッチの鮮明な触覚クリックを組み合わせています - 各キーは中間の高さで作動し、瞬時に反応します - これで、これまで以上に速く指揮できます。",
+        "32個の完全にプログラム可能なキー - 8方向方向サムパッドとスクロールホイールが付属:スキル、ホットキー、マクロのための32個の完全にプログラム可能なキーを指先で装備 - 8方向指向性サムパッドは、簡単に移動したり、コマンドを拡張したりするためにも使用できます。",
+        "Razer Chromaカスタマイズ可能なバックライト - 16,800万色のカラーオプション: 個別にプログラム可能なバックライトキーと1,680万色のオプションを備えています - プリロードされた照明効果から選択するか、独自のカラーパレットを作成して、本当にあなたのゲーム体験を作りましょう。すべてRazer Synapseで簡単に設定できます。",
+        "【人間工学に基づいたフォームと取り外し可能なパームレスト】高度な人間工学のおかげで、1時間でも10時間でも快適なフィット感を感じることができます - 取り外し可能なパームレストが付属し、お好みの角度に合わせて2つの位置を調整できます。",
+        "【Razer Hypershift機能】ボタンコントロールを強化:キーパッドのボタンをハイパーシフトにバインドすることから始めます - クリックして長押しすると、「ハイパーシフトモード」に入り、現在のコントロールに加えて、マクロからWindowsショートカットまで、すべてのコマンドセットが開きます。",
+        "【Razer Synapse】一体型のハードウェア設定ツールでカスタマイズをさらに進める - デバイスの照明をカスタマイズするマクロを割り当てるなどの高度なカスタマイズオプションにより、ゲームプレイを思い通りに変えることができます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "左手デバイス 液晶キー"
+      ]
+    },
+    {
+      "asin": "B0GJCQ42PM",
+      "title": "XPPen ACK05 左手デバイス 片手キーボード 板タブ 液タブ お絵描き 最適パートナー 作業効率 イラスト制作/動画編集/ゲーム/作業効率化 Bluetooth&有線接続対応",
+      "url": "https://www.amazon.co.jp/dp/B0GJCQ42PM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GJCQ42PM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41jlOr2lHcL._SL500_.jpg",
+      "features": [
+        "①最大36個のショートカットで作業効率アップ：10個のボタンと1個のダイヤルに、よく使うコマンドを自由に割り当て可能。やり直し、消しゴム、拡大縮小など、キーボード操作の手間ゼロ。イラスト制作から動画編集まで、作業スピードが格段に向上します。",
+        "②Bluetooth＆有線接続両対応：Bluetooth＆USBレシーバー＆有線ケーブルの3WAY接続に対応。デスク周りはスッキリ、ケーブルの煩わしさから解放されます。1000mAh大容量バッテリー内蔵で最大300時間の連続使用が可能。バッテリー切れを気にせず制作に没頭できます。",
+        "③設定を本体に保存。PCを変えても即座に使用：自分好みにカスタマイズした設定をデバイス本体に保存可能。自宅と職場、メインPCとサブPCなど、環境が変わっても設定し直す必要はありません。※ご注意：設定の保存・インポートは有線接続時のみ可能で、同じOS間でのみ有効です。",
+        "④驚異の互換性。他社ペンタブも各種ソフトもOK：XPPen製品はもちろん、他社メーカーのペンタブレットとも併用可能。Windows／Mac／iOS／Linux対応。Illustrator、Photoshop、Premiere Pro、CLIP STUDIO PAINTなど、あらゆるクリエイティブソフトで活躍します。",
+        "⑤クリエイター以外も大活躍：PCゲーム、動画編集、ブラウジングのスクロール、Web会議のミュート操作、Excelショートカットキーなど、幅広いシーンで使える万能デバイス。コスパ抜群の左手デバイス入門機です。",
+        "⑥わずか75gの超軽量・コンパクト設計：127×70×10mmのスマホサイズで重量は約75g。カバンに入れて持ち運びラクラク。滑り止めゴム付きで激しい操作でもズレません。保証期間は12ヶ月。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "左手デバイス 液晶キー"
+      ]
+    },
+    {
+      "asin": "B07MV8F17F",
+      "title": "iClever テンキー Bluetooth ワイヤレス 数字 キーボード パンタグラフ式 超薄型 Tabキー付き IC-KP08 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B07MV8F17F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07MV8F17F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/418Mp+AmttL._SL500_.jpg",
+      "features": [
+        "便利テンキー：ファンクションキー付きの Bluetoothテンキーはホーム・タブなどの便利キーがついているため、数字の入力やスプレッドシート作成なども操作しやすくなります。KP08は主にタイピングオフィスに使用されますが、必ずしもすべてのデザインソフトウェアと互換性があるとは限りません。本製品は【技適認証済み】製品ですので安心してお使い下さい。",
+        "Bluetoothテンキー： Bluetooth5.1で接続簡単、素早いデータ入力が楽しめます。type-C充電式:、付属のUSBケーブルを使って充電ができます。フル充電で約40時間の長時間使用となっております｡",
+        "人間工学に基づいた傾斜及びスリップ防止パッド：人間工学に基づいた傾斜で入力時のストレスを軽減。間違いなく入力しやすい配置になっています。",
+        "幅広い互換性：iMac、MacBook、LaptopまたNotebook、Desktop またはPCコンピュータ動作確認済。Windows XP、Windows OS、Androidに対応 注：接続先デバイスがWin、Androidの場合、テンキーは連動型です。 Mac、iOSの場合、テンキーは非連動型です。",
+        "品質保証：保証期間は18ヶ月。ご購入後のご不明点等がございましたら、故障してしまった場合では、アマゾンの購入履歴より店までご連絡いただければ交換にて対応させて頂きます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "左手デバイス 液晶キー"
+      ]
+    },
+    {
+      "asin": "B0GTNZ472W",
+      "title": "iClever テンキー Bluetooth ワイヤレス 数字 キーボード 3台までペアリング パンタグラフ式 薄型 KP08Pro グレーブラック",
+      "url": "https://www.amazon.co.jp/dp/B0GTNZ472W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GTNZ472W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41FJpdTwxcL._SL500_.jpg",
+      "features": [
+        "【3台デバイスに瞬時切替】最大3台のBluetoothデバイスに同時接続可能。PC・タブレット・スマホ間もワンタッチで切替え、作業効率が大幅アップ。※一度ペアリングすれば次回以降は自動接続。技適認証済で安心です。▲当製品はBluetooth接続式テンキーです。有線接続やレシーバー接続などの接続方法はご使用いただけません。",
+        "【快適入力の人間工学設計】人間工学に基づいた傾斜で入力時のストレスを軽減。パンタグラフ構造＋特別な丸いキーを採用したため、タイプミスも少なく入力しやすい配置になっています。薄型・軽量設計のため、持ち運びにも便利でカフェなどでの作業に最適です。",
+        "【Type-C充電＆省エネ】わずか1時間でフル充電、最大40時間連続使用可能。操作が30分ないと自動スリープで省エネ設計。",
+        "【Numlock連動／非連動】Windows・Android接続時はNumlock連動、Mac/iOS接続時は非連動。どのデバイスでも直感的に入力可能。",
+        "【幅広い互換性】Windows・Android・iOS・Mac OS対応。Bluetooth搭載機器ならノートPC、デスクトップ、タブレット、スマホでも使用可能。3台切替で複数機器ユーザーに最適。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "左手デバイス 液晶キー"
+      ]
+    },
+    {
+      "asin": "B081NJGDZB",
+      "title": "iClever テンキー Bluetooth ワイヤレス 数字 キーボード パンタグラフ式 超薄型 Tabキー付き IC-KP08 ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B081NJGDZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B081NJGDZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Q1jN+vG3L._SL500_.jpg",
+      "features": [
+        "デバイスに他のBluetoothアクセサリが接続されている場合は信号が干渉する可能性があります。他のアクセサリの接続を切断して正常に戻るかどうかを確認してください。また、Bluetoothドライブを更新して解決できるかどうかを確認してください。KP 08のnumlk機能は、他のキーボードのnumlk機能と相互に影響を与えることがあります。これは正常な現象です。 デバイスがスリープモードまたは省電力モードをオンにすると、キーボードから切断されます。充電電圧が5 Vを超えると、充電が終了します。 静電気の影響でランプの回路基板が破損して点灯しない可能性があり、3時間以上充電すれば正常に使用できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "左手デバイス 液晶キー"
+      ]
+    },
+    {
+      "asin": "B0BWJVXGSY",
+      "title": "XPPen 左手デバイス ショートカットリモート 片手キーボード Bluetooth対応 ワイヤレス ペンタブ 液タブ用 ノートパソコン対応 作業効率向上 イラスト 画像 動画編集 ACK05",
+      "url": "https://www.amazon.co.jp/dp/B0BWJVXGSY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BWJVXGSY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/313pjgh3j0L._SL500_.jpg",
+      "features": [
+        "【ワイヤレスで便利】Bluetooth接続対応ACK05は、ケーブルなしでPCと接続できます。すっきりシンプルな作業環境を実現。1000mAh大容量バッテリーで、300時間の連続動作を実現。超長時間稼働でバッテリー切れを恐れずに安心して創造力を発揮できます。",
+        "【片手で作業効率UP】本体に10個のキーと1個ダイヤルを搭載、4パターンまでの機能グループを使用用途に合わせて自由に設定できます。イラスト制作時に「やり直し」「消しゴム」の機能を割り当てたり、ゲームでよく使うコマンドを登録したりすることで、操作をスムーズかつスピーディーにしてくれます。動画編集、音声編集やCAD、事務作業にも便利です！",
+        "【新しいUIドライバ】ACK05用に新たにドライバUIを再構築。シンプルで美しく、操作がより簡単になりました。Windows用のドライバはフル機能版と単体版をご用意、より多くのデバイスに幅広く対応し、自由な創作を実現します。フル機能版ドライバ：XPPenペンタブレットと併用する場合に使用。単体版ドライバ：他社製品との組み合わせで使用。",
+        "【複数デバイス間でも使用簡単】ドライバの設定内容をACK05本体に保存することで、複数デバイス間における設定共有が容易になり、繰り返し設定を行う必要がなく、創作がより便利になります。※有線接続のみ対応。※同じOSのみ対応。例えば、Windows版ドライバからエクスポートした場合、Windowsのみにインポート可能【高い互換性】対応OS：Windows 7以降、macOS 10.10以降、Linux。【接続方式】①Bluetoothでパソコンと接続。②付属USBレシーバーでパソコンと接続。③付属ケーブルでパソコンと接続。※Bluetooth接続は、すべてのBluetoothアダプターに対応することを保証するものではありません。",
+        "【ご注意】1．ACK05左手デバイスはPCのみ対応、iOS(iPad・iPhone)と互換性がない。２．Bluetooth接続を利用する場合、周辺にワイヤレス充電器や金属などの磁性体がない機器に近くで使用しないでください。正常に動作されない可能性があります。３．複数台を同時接続するはできません。４．内臓メモリは入っていません。5．カスタム設定を維持するには、ドライバーを常に起動状態に保つ必要がございます。ドライバーソフトウェアを終了された場合、設定は保持されませんのでご注意ください。6．最新版のドライバをダウンロード・使用してください。7．使用しているOSが最新の状態にアップデートされているかをご確認ください。8．対応機種、対応接続機器・環境の場合であっても接続環境・機器の組み合わせ・相性問題により動作しないことがあります。何かご不明な点がございましたら、XPPen公式サポートまでお問い合わせください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "左手デバイス 液晶キー"
+      ]
+    },
+    {
+      "asin": "B0FT8FSNVS",
+      "title": "ActionRing ストリームコントローラーデック 省スペース設計の縦型左手デバイス ショートカットキーボード/電卓/テンキーの３モード搭載",
+      "url": "https://www.amazon.co.jp/dp/B0FT8FSNVS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FT8FSNVS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Fk-CTrXGL._SL500_.jpg",
+      "features": [
+        "【縦型省スペースデザイン】従来の横型ストリームコントローラーはデスクスペースを占有しがちですが、Stream Dock N1は縦型レイアウトを採用。ショートカットキーを拡張しながら貴重なデスクトップスペースを節約します。",
+        "【左手操作で使える3つのモード】従来のショートカットキー専用デバイスとは異なり、ストリームドック N1は3つの実用的なモードを搭載しており、切り替えて使用できます。人間工学に基づいた形状の左手ショートカットキーボードモード、ソフトを開く必要なく利用可能な電卓モード、テンキーレスメカニカルキーボードを補完するテンキーモード。",
+        "【自由にカスタマイズ可能】ファイル、ブラウザ、アプリ、画像、動画を15個のLCDキーにドラッグ＆ドロップするだけで設定可能。手動で探す手間を省き、ワンクリックでアクセスできます。さらに各キーに画像、スクリーンショット、GIFを設定し、独自のビジュアルスタイルにカスタマイズすることが可能です。",
+        "【繰り返し作業を自動化】PC作業では、アプリの起動、定型文の入力、テンプレートメールの送信、ファイルやウェブサイトの即時オープンが可能です。画像や動画編集では、カスタムショートカットや複数ステップのマクロを割り当ててワークフローを高速化できます。ライブ配信では、ワンタッチでシーンの切り替え、マイクのミュート、ソースの表示/非表示、ライブ配信の開始操作が簡単に行えます。",
+        "【幅広い互換性】Windows・macOSの両方に対応。OBS、PowerPoint、YouTube、Twitter、Discord、Excel、Word、Photoshop、Adobe Premiere Proなど多様なソフトウェアとシームレスに連携可能です。SPACE STATION （プラグインストア）から既製のプラグインをダウンロードすることで、主要なアプリの操作をさらに効率化できます。",
+        "【多彩なニーズに対応】本ショートカットキーボードのアプリケーションスペースにはスケジュールリマインダー、天気、カレンダーなど数百のプラグインが提供されております、生産性向上ツールとしてだけでなく、最適なデスクトップコンパニオンとしても活用できます。",
+        "【 保証期間 】製品の保証期間は購入日から 24か月 です。",
+        "【カスタマーサポート】製品付属のクイックスタートガイドをお読みいただいた後も設定や操作が不明な場合は、以下の方法でサポートをご利用いただけます。 1.商品詳細ページを下にスクロールし、商品動画セクションにあるチュートリアルビデオをご覧ください。2. 「質問する」ボタンを選択し、ご連絡ください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "左手デバイス 液晶キー"
+      ]
+    },
+    {
+      "asin": "B01GZX4UQU",
+      "title": "HUION Keydial mini 左手デバイス 片手キーボード bluetooth 5.0 ワイヤレス接続 液タブ ペンタブ用 動画 画像編集",
+      "url": "https://www.amazon.co.jp/dp/B01GZX4UQU?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01GZX4UQU?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/316-BgHNXXL._SL500_.jpg",
+      "features": [
+        "【より使いやすいアップグレード版】従来品Mini Keydial KD100より進化してきた点：❶同時キー入力でも反応できるようになってきた。例えば、[Ctrl+Z]のようなショートカットは１つのキーに登録しても機能するし、２つのキーにそれぞれ[Ctrl]と[Z]を分けて登録しても同時に押すことで反応できる。❷Bluetooth 5.0接続オプションを追加。❸より低い消費電力。製品の詳細な説明書が欲しい場合は、公式ホームページにてご確認ください。英語を日本語に切り替えて（一番下に引いて）、ドライバーもマニュアルも取得できます。お買い上げ製品の保証期間は、ご購入日より2年間となります。公式サイトよりあるいはAmazonメッセージにてお願い致します。メールサポート、電話サポートもサポートしておりますので、いつでもお気軽にお問い合わせください。ご連絡をいただく事で早期解決する可能性がございます。",
+        "【作業スピードをアップする】❶ショートカットキー18個：お好みによってショートカット機能を割り当ててカスタマイズ可能。❷同じキーでもアプリケーションごとにショートカット機能を個別に設定できる。アプリケーションを切り替えると、キーの対応するショートカット機能もそのアプリに応じて変わる。❸ダイヤルコントローラー付：キャンバスのズームイン・アウト、ブラシの拡大・縮小、ページのスクロールなどの機能はよりはやく、より便利に操作できる。Windows Radialにもサポート。❹頻繁にキーボードに手を伸ばす必要がなくなって、身近にすぐショートカットキーを触ることができる。",
+        "【快適な作業環境をつくる】❶Bluetooth 5.0 無線対応： ブルーツース5.0によってワイヤレス接続が可能。面倒な配線がいらず、デスク周りをスッキリ！❷置き方自由：本体は小型で軽いため置き方が自由。どこでも使える。背面には滑り止めパッドがついており、直接液晶タブレットのディスプレイ上に置いても滑らず、安定的でスムーズに作業し続けられる。❸ペンタブと併用：液タブ・板タブのショートカットボタンが足りなかったり、左利きに優しくなかったりする場合、本製品Keydial miniは追加ショートカットキーとしてあなたの強力な味方となります！",
+        "【優れた互換性】❶対応OS：Windows 7以降、macOS 10.12以降。❷対応製品：HUION製品だけではなく、他メーカーの製品にも使える。他メーカーのドライバと同じPCにインストールされても問題なし。ボタンの少ないペンタブレットなどと一緒に使うことをおすすめ。Windows11でBluetooth接続するには、Windows11の[設定]-[Bluetoothとデバイス]-[デバイスの設定:Bluetoothデバイスの検出]にて、「既定」から「詳細」に変更する。",
+        "【抜群な使用感と耐久性】❶打ちやすいキー：キーは特別なはさみ足構造の低ノイズ設計により、より静かに感じることができます。どの角度から叩いても滑らかに押し込まれていく。より浅いキーストロークによって指が疲れにくい。❷長く使える：300万回以上の打鍵が可能。❸充電式：バッテリー容量1200mAh。約70時間くらいで使い続けられる。バッテリー残量が低いとインジケーターランプが赤色で点滅するので、その際は充電してください。❸寸法：146*93*11mm 重量：115g。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "左手デバイス 液晶キー"
+      ]
+    },
+    {
+      "asin": "B0FT89PKYC",
+      "title": "ActionRing PCワークやライブ配信向けのストリームコントローラーデック、 ビデオや画像編集用の左手デバイス、作業効率化デバイス",
+      "url": "https://www.amazon.co.jp/dp/B0FT89PKYC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FT89PKYC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31HQD68Zn7L._SL500_.jpg",
+      "features": [
+        "【自由にカスタマイズ可能】希望の操作を6つのカスタマイズ可能なLCDキーにドラッグドロップし、プロパティを設定することで、単一または複数のアクションを割り当てることができます。さらに、キーの内部にLCDを備えており、各LCDキーに自分の好きな画像やアニメーション（JPG、PNG、GIF）を追加し、ご自身のお好みのアイコンにして、ボタンの認識と記憶を強化できます。3つのダイヤルを使えば、音量調整、再生の早送り・巻き戻しなども簡単に操作できます。",
+        "【ワンタッチで任意の操作を実行】カスタマイズ可能なマクロキーボードを使用すれば、ワンクリックで効率的に作業できます。ワンクリックでマクロの起動、テキスト入力、ドキュメントやウェブサイトのオープン、ゲームコンボの実行、アプリの起動、メディアのコントロール、OBSのシーン切り替えやソースの非表示など、用途は無限大です。さらに、「アクションフロー」機能を活用することで、複数のマクロアクションを特定の順序で実行し、タスクを自在にコントロールすることができます。",
+        "【多様な互換性】このストリームコントローラデックはWindows・macOSの両方に対応。OBS、PowerPoint、YouTube、Twitter、Discord、Excel、Word、Photoshop、Adobe Premiere Proなどの人気ソフトウェアとシームレスに連携し、作業をさらにスムーズにします。",
+        "【お客様のニーズに合わせた多機能】このショートカットキーボードのアプリケーションスペースにはスケジュールリマインダー、時計、ストップウォッチ、天気、カレンダーなど数百のプラグインが提供されております、生産性向上ツールとしてだけでなく、最適なデスクトップコンパニオンとしても活用できます。 さらに、60種類のアイコンパックが用意されており、自分のニーズに合わせてダウンロードしご使用が可能です。",
+        "【カスタマーサポート】製品付属のクイックスタートガイドをお読みいただいた後も設定や操作が不明な場合は、以下の方法でサポートをご利用いただけます。 1.商品詳細ページを下にスクロールし、商品動画セクションにあるチュートリアルビデオをご覧ください。2. 「質問する」ボタンを選択し、ご連絡ください。",
+        "【 保証期間 】製品の保証期間は購入日から 24か月 です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "左手デバイス 液晶キー"
+      ]
+    },
+    {
+      "asin": "B0GQ38K3N7",
+      "title": "BRIMFORD 左手デバイス キーボード相棒 3キー1ノブ 外観まで自定義 プログラマブルキーボード マクロ対応 ホットスワップ対応 ノブ ホイール ショートカットキー 多モードRGBライト付き 機能を自由に割り当て可能 有線接続 赤軸 省力 初心者安心 デザイン/財務/オフィス/ゲーム/メディア操作",
+      "url": "https://www.amazon.co.jp/dp/B0GQ38K3N7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GQ38K3N7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31yIniIsNBL._SL500_.jpg",
+      "features": [
+        "【高度なカスタマイズ性を備えた機能】高いカスタマイズ性で、作業効率を大幅に向上。ノブの回転やキー操作にさまざまな機能を割り当てることができ、よく使う操作をワンタッチで実行できます。通常のキーボード入力で最大18回分の操作を1つのアクションに登録できるため、「Ctrl+C」「Ctrl+V」「Alt+Shift+Ctrl+S」などの複雑なショートカットやマウス操作にも対応。定型入力、ショートカット実行、音楽・動画の早送り／巻き戻し、音量調整、スライド操作など、幅広いシーンで快適に活用できます。",
+        "【外観自定義自由】本製品は外観まですべて自定義できます。5種類のエフェクトと7色のカラーを搭載。専用ソフトウェアで、お好みに合わせたライティング設定が可能です。それに、ホットスワップにも対応し、自分で3ピン軸や5ピン軸を交換でき、キーキャップのDIYもできます。お客様がオリジナルなデザインされたキーボードは仕上げられます。また、バックライトが不要な場合はソフト上で「mode 0」を選び、消灯できます。オフィスや深夜の作業でも周りに迷惑をかけることはなく、ご使用いただけます。",
+        "【作業効率アップ・リラックスタイムにも活躍】本製品は、パスワード入力や指定フォルダの起動、ショートカット操作などをワンアクションで実行できるマクロキーボードです。PhotoshopやPremiere Proなどのクリエイティブソフトをはじめ、各種アプリの複雑な操作もワンキーで簡単に呼び出せるため、資料作成やデータ処理、編集作業の効率化に役立ちます。片手でもスムーズに操作できるので、作業中の手間を減らし、より快適な作業環境をサポートします。また、PC・スマホ・タブレットなど対応機器に設定することで、動画や音楽の再生、音量調整などのリモコン操作にも使用可能。仕事終わりやくつろぎ時間に、ソファやベッドでリラックスしながら、好きな動画や番組をより快適に楽しめます。",
+        "【入手性・使い勝手】左手デバイス業界において、カラシニコフのような入手性と使い勝手を実現しています。入手性と安定性を求めるお客様におすすめです。",
+        "【赤軸採用・長時間操作も快適】本製品は、軽い押し心地が特徴の赤軸メカニカルスイッチを採用しています。リニアタイプの赤軸は、なめらかな打鍵感でクリック音も比較的静かなため、作業用としてはもちろん、ゲームや動画編集など幅広いシーンで快適に使用できます。軽い力で入力しやすく、長時間の作業でも手や手首への負担を軽減しやすい設計です。コンパクトながら操作性に優れ、デスクワークやクリエイティブ作業をよりスムーズにサポートします。",
+        "【初心者にも安心・コンパクト設計】専用ソフトの設定画面はシンプルで分かりやすく、初めてマクロキーボードを使う方でも直感的に操作できます。複雑なショートカットやマクロ設定も、画面の案内に沿って進めるだけで簡単に登録可能です。また、本体はコンパクトサイズでデスク上でも場所を取らず、バッグやポケットにもすっきり収納できます。自宅、オフィス、外出先など、さまざまなシーンで手軽に持ち運んで使用できます。",
+        "【対応機種・ダウンロード設定について】本製品はWindows/Mac/ios/Androidシステムに対応しています。（ご注意：ios/Androidシステムは、使用する前にWindowsシステムで機能を設定する必要があります） インストールソフトウェアのダウンロードアドレスは下記通り：（https://drive.google.com/drive/folders/1YQJxHzaXdCxFVFjgBANncAleh83ju10B） なお、ダウンロードをする際に、ファイアウォールによる警告窓口が現るかもしれませんが、ご心配なく利用してください。",
+        "【設定説明について】セッティング説明書は上記ダウンロードアドレスにもダウンロードできますが、当商品ページの商品図の左側に、「ビデオ」というボタンがあります。「ビデオ」ボタンをクリックして、展開する画面の一番の動画は弊社がお客様のために、日本語字幕と日本語Windowsシステムで完成したセッティング説明になっています。どうぞご利用ください。",
+        "【MAC設定について】本製品はMAC設定ができます。MAC設定手順の説明は商品図の左側のビデオにも入っていますが、ここで展開して説明いたします。先ずはフォルダーに入っている「MINI_KEYBOARD」をクリックします。もし「開けません」という窓口が現れると、それはソフト問題ではありません、心配しないでください。次に、スクリーン下の「システム環境設定」をクリックし、「プライバシーとセキュリティ」へ進んでください。「App Store と確認済みの開発元からアプリケーションを許可」がセレクトされていることを確認し、横にある「そのまま開く」をクリックしてから許可してください。本製品が有線でパソコンと接続していることを確認し、ソフトはMACシステムでもWindowsシステムと同様に簡単にセッティングできます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "左手デバイス 液晶キー"
+      ]
+    },
+    {
+      "asin": "B0DSJ6RBFM",
+      "title": "FIFINE Stream Controller 15LCDキー配列 左手デバイス RGBライト 日本語ソフト搭載 カスタムキー登録可 ストリーミング 配信 ゲーミング適用 コントローラー OBS/Twitch/YouTube連携 Mac/PC対応 ショートカットキーボード USBケーブル付き(Type-Cアタブターあり) 黒 AmpliGame D6",
+      "url": "https://www.amazon.co.jp/dp/B0DSJ6RBFM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DSJ6RBFM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41qUwblswuL._SL500_.jpg",
+      "features": [
+        "【カスタマイズ可能なLCDボタン】合計15個のカスタマイズ可能なLCDボタンが備わり、ライブストリーミングのニーズに応じて様々な操作を作成して割り当てることができます。ボタンを押すだけでソフトまたはプラグインを起動し、OBSシーンを切り替えたり、オーディオレベルを制御したりでき、非常に使いやすく便利です。",
+        "【幅広い互換性】専用ソフトのストアまたはOSからダウンロード可能なソフトウェア、アプリケーション、プラグインに対応でき、OBS Studio、Twitch、YouTube などで動作します。専用ソフトにはストリーミングに使用できる多数のプラグインが用意されています。",
+        "【ビジュアル操作キーパッド】ショートカットキーを設定してカスタマイズした後、ストリームコントローラーのタッチスクリーンにアプリケーションが表示され、押して直接制御できます。PC画面で多数のウィンドウやインターフェイスを開く必要はなく、ワークフローを合理化して作業効率が向上します。",
+        "【鮮やかなRGB照明】本体の周囲には光るRGBリングがあり、合計9つの異なるモードが搭載されます。ショートカットボタンの外観とゲームの雰囲気を個人の好みに合わせてマッチングさせ、ダイナミックのRGB照明効果は視聴者により鮮明なゲーム印象を与えます。",
+        "【様々なシーンで活躍】ゲーム、ライブストリーミング、グラフィック デザイン、動画編集、音楽制作、仕事など、マルチタスクがより簡単になります。また、フォルダーを作成して異なるプログラムを生成し、それぞれのシーンを独立して処理することもできます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "配信 コントローラー"
+      ]
+    },
+    {
+      "asin": "B0DT155DMP",
+      "title": "FIFINE Stream Controller 15LCDキー配列 左手デバイス D6W",
+      "url": "https://www.amazon.co.jp/dp/B0DT155DMP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DT155DMP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/516znMARHgL._SL500_.jpg",
+      "features": [
+        "【カスタマイズ可能なLCDボタン】合計15個のカスタマイズ可能なLCDボタンが備わり、ライブストリーミングのニーズに応じて様々な操作を作成して割り当てることができます。ボタンを押すだけでソフトまたはプラグインを起動し、OBSシーンを切り替えたり、オーディオレベルを制御したりでき、非常に使いやすく便利です。",
+        "【幅広い互換性】専用ソフトのストアまたはOSからダウンロード可能なソフトウェア、アプリケーション、プラグインに対応でき、OBS Studio、Twitch、YouTube などで動作します。専用ソフトにはストリーミングに使用できる多数のプラグインが用意されています。",
+        "【ビジュアル操作キーパッド】ショートカットキーを設定してカスタマイズした後、ストリームコントローラーのタッチスクリーンにアプリケーションが表示され、押して直接制御できます。PC画面で多数のウィンドウやインターフェイスを開く必要はなく、ワークフローを合理化して作業効率が向上します。",
+        "【鮮やかなRGB照明】本体の周囲には光るRGBリングがあり、合計9つの異なるモードが搭載されます。ショートカットボタンの外観とゲームの雰囲気を個人の好みに合わせてマッチングさせ、ダイナミックのRGB照明効果は視聴者により鮮明なゲーム印象を与えます。",
+        "【様々なシーンで活躍】ゲーム、ライブストリーミング、グラフィック デザイン、動画編集、音楽制作、仕事など、マルチタスクがより簡単になります。また、フォルダーを作成して異なるプログラムを生成し、それぞれのシーンを独立して処理することもできます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "配信 コントローラー"
+      ]
+    },
+    {
+      "asin": "B0DGQ4TVC2",
+      "title": "Stream Controller - SOOMFON Stream Studio Control Deck 15キー配列 ストリームデック ライブコンテンツ作成用のコントローラー 配信者向けデバイス OBS/Twitch​/YouTube連携 Mac/PC対応 黒",
+      "url": "https://www.amazon.co.jp/dp/B0DGQ4TVC2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DGQ4TVC2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41qJijvYYiL._SL500_.jpg",
+      "features": [
+        "SOOMFON 15個のカスタマイズ可能なLCDボタンを搭載したストリームコントロールデッキ。OBS、Twitch、YouTubeの操作をワンタッチで実行でき、ライブ配信、写真・動画編集に最適です。",
+        "【幅広い互換性】 PC、Macおよび主要なソフトウェアに対応しています。Windows 10（64bit）以上、macOS Catalina 10.15 以上に対応。 OBS Studio（Windows 27.0、28.0 以上、MacOS 28.0 以上）、Twitch、YouTube、Twitter、Spotify、Philips Hue などに統合対応しています。 対応するシステムのアドレスをブラウザに入力するだけで、ドライバーを簡単にダウンロードできます。",
+        "【15個のカスタマイズ可能なLCDキー】 15個のカスタマイズ可能なマクロキーにより、ウィンドウを切り替えることなくアプリ、ツール、プラットフォームを簡単に操作できます。 OBS、Twitch、YouTube などの操作をワンタッチで実行可能。ライブ配信、写真・動画編集に最適です。 各キーにはLCDスクリーンが搭載されており、お好みの画像（最小サイズ 126×126 ピクセル）にカスタマイズできます。",
+        "【作業効率を大幅に向上】 ワークフローを効率化したい方にとって、SOOMFON Stream Control Deck は理想的なソリューションです。 アプリやツールの操作、アクションの実行、サウンド再生、オーディオ設定の調整などが可能で、生産性を大幅に向上させます。",
+        "【多用途でコンパクト】 ワンタッチ操作で、単一または複数のアクションを簡単に実行できます。 ストリーマーだけでなく、クリエイターや多くのショートカットを必要とするユーザーにも最適な必須アイテムです。",
+        "【ご注意】 1. 必ず公式サイトから正しいソフトウェアバージョンをダウンロードしてください。 2. 本製品はハブ経由での接続には対応していません。 3. 何か問題がございましたら、いつでもお気軽にお問い合わせください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "配信 コントローラー"
+      ]
+    },
+    {
+      "asin": "B0F93RCL8N",
+      "title": "Stream Controller - SOOMFON Stream Studio Control Deck 6キー配列 ストリームデック ライブコンテンツ作成用のコントローラー 配信者向けデバイス OBS/Twitch​/YouTube連携 Mac/PC対応 黒",
+      "url": "https://www.amazon.co.jp/dp/B0F93RCL8N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F93RCL8N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41K+EAuzFCL._SL500_.jpg",
+      "features": [
+        "【カスタマイズ可能な6つのLCDキー】ストリームコントロールデッキには、6つの完全にカスタマイズ可能なDIYLCDボタンが装備されています。 ボタンはお好みでカスタマイズできます。 3つの追加切り替えボタンと3つのノブで設定をカスタマイズできます。",
+        "【幅広い互換性】 PC、Macおよび主要なソフトウェアに対応しています。Windows 10（64bit）以上、macOS Catalina 10.15 以上に対応。 OBS Studio（Windows 27.0、28.0 以上、MacOS 28.0 以上）、Twitch、YouTube、Twitter、Spotify、Philips Hue などに統合対応しています。 対応するシステムのアドレスをブラウザに入力するだけで、ドライバーを簡単にダウンロードできます。",
+        "【使いやすい】触覚コントロール、視覚応答。6つのカスタマイズされたボタンで、ワンクリックでプログラム、ウェブページ、ソフトウェア、ファイルを開くことができます。 3つのスイッチボタンは、デフォルトのシーンで前のページ、次のページ、ホームページを切り替えることができます。 回転可能なノブは、音量、明るさなどの操作設定をカスタマイズできます。 多様なニーズにお応えします。",
+        "【インテリジェントなデザインとユーザーフレンドリー】SOOMFONストリームコントローラーSEには取り外し可能な40°スタンドが付いており、必要に応じてカスタマイズできます。 スタンドに平らに置いて、USB経由でコンピューターに接続できます。また、デスクトップに取り付けることができる取り外し可能な接着剤も含まれています。 スタンドを使わなくても、机の上を滑らせません。",
+        "【広範なプラグインマーケットプレイス】このストリームコントロールデッキには、ダウンロードできる豊富なプラグインが装備されています。 設定ファイル、アイコン、すぐにインストールできます。 内部のアプリケーションは、さまざまなアプリケーションのニーズを満たすために、複数のアプリケーションシナリオ、機能、レイアウトに合わせてカスタマイズできます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "配信 コントローラー"
+      ]
+    },
+    {
+      "asin": "B0DMSS39YZ",
+      "title": "Stream Controller - SOOMFON Stream Studio Control Deck 15キー配列 ストリームデック ライブコンテンツ作成用のコントローラー 配信者向けデバイス OBS/Twitch​/YouTube連携 Mac/PC対応 白",
+      "url": "https://www.amazon.co.jp/dp/B0DMSS39YZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DMSS39YZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41VThj68etL._SL500_.jpg",
+      "features": [
+        "SOOMFON 15個のカスタマイズ可能なLCDボタンを搭載したストリームコントロールデッキ。OBS、Twitch、YouTubeの操作をワンタッチで実行でき、ライブ配信、写真・動画編集に最適です。",
+        "【幅広い互換性】 PC、Macおよび主要なソフトウェアに対応しています。Windows 10（64bit）以上、macOS Catalina 10.15 以上に対応。 OBS Studio（Windows 27.0、28.0 以上、MacOS 28.0 以上）、Twitch、YouTube、Twitter、Spotify、Philips Hue などに統合対応しています。 対応するシステムのアドレスをブラウザに入力するだけで、ドライバーを簡単にダウンロードできます。",
+        "【15個のカスタマイズ可能なLCDキー】 15個のカスタマイズ可能なマクロキーにより、ウィンドウを切り替えることなくアプリ、ツール、プラットフォームを簡単に操作できます。 OBS、Twitch、YouTube などの操作をワンタッチで実行可能。ライブ配信、写真・動画編集に最適です。 各キーにはLCDスクリーンが搭載されており、お好みの画像（最小サイズ 126×126 ピクセル）にカスタマイズできます。",
+        "【作業効率を大幅に向上】 ワークフローを効率化したい方にとって、SOOMFON Stream Control Deck は理想的なソリューションです。 アプリやツールの操作、アクションの実行、サウンド再生、オーディオ設定の調整などが可能で、生産性を大幅に向上させます。",
+        "【多用途でコンパクト】 ワンタッチ操作で、単一または複数のアクションを簡単に実行できます。 ストリーマーだけでなく、クリエイターや多くのショートカットを必要とするユーザーにも最適な必須アイ",
+        "【ご注意】 1. 必ず公式サイトから正しいソフトウェアバージョンをダウンロードしてください。 2. 本製品はハブ経由での接続には対応していません。 3. 何か問題がございましたら、いつでもお気軽にお問い合わせください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "配信 コントローラー"
+      ]
+    },
+    {
+      "asin": "B0FFTBYGHP",
+      "title": "Ulanzi D200H Stream Controller ストリーム コントローラー【2025年新版】日本語対応 7-in-1 拡張ポート USB3.0高速転送 PD急速充電 13個カスタム可能なキー AIオフィスアシスタント ライブ配信 コンテンツ作成用 ドラッグ&ドロップで設定可能 Stream コントローラー OBS/Teams/YouTube/Zoom等をコントロール MacとPC対応",
+      "url": "https://www.amazon.co.jp/dp/B0FFTBYGHP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FFTBYGHP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/412lzMBnRaL._SL500_.jpg",
+      "features": [
+        "【全シーン対応のプリセットで、初心者でも簡単に始められる】13個カスタマイズ可能な多機能キーボード搭載しており、単一のボタンに特定の機能をプリセットでき、アイコンやテキストタイトルはすべてDIY可能です。豊富なプリセットファイルとプラグインを搭載し、複雑なタスクをワンタップで実行可能です。急な学習曲線なし、接続するだけで完全なコントロールが可能です。煩雑な手順から解放され、1つのキーボードで全てをコントロール！",
+        "【7-in-1ドッキングステーション】 D200Hドックは、高速SD/TFカード対応の読み書きタブルスロット、100W PD急速充電ポートなど7つのポートを搭載しています。接続し、充電し、転送を瞬時に完了ーすべてを1つのスタイリッシュなハブから！究極のマルチタスクツールです。ポート：USB-C 3.0（5Gbps）×2、USB-A 3.0（5Gbps）×2； 1 x PD 100W；1 x ホスト；2 x SD|TF 3.0（UHS-II 104MB/s）。",
+        "【多用途で多様な分野で幅広く活用】コンテンツ作成：メニューを瞬時に開く、ツールを選択する、レイヤーを統合する、トラックを選択する、ファイルをインポートする---写真、動画、アートワークの作成を簡単に行えます。Ps、Pr、Ae、DaVinci Resolve、CapCutに対応。【オフィスアシスタント】ChatGPT、Deepseek、Excelなど、複数のオフィスアプリと連携。アプリ起動、通話開始、画面共有、ウィンドウ切り替え、ファイル開くなど、ワンタップで実行可能。【ストリーミングコントロール】ワンタップでストリーミング開始、シーン切り替え、プリセット送信、照明と音声を制御し、魅力的なソロショーを実現できます。",
+        "【スタジオを自由に照らそう】Lightmasterソフトウェアを通じて、Ulanzi K6500ライトとPhilips Hue電球を完全にコントロール可能です。明るさ、色、効果を瞬時に調整し、雰囲気を演出、撮影を完璧に、そして空間をこれまで以上に明るく照らしましょう！*対応機種：Ulanzi K6500、VL-200Bi、VL-120C、VL-120Bi、EC65、AL60、AL120、およびPhilips Hue（Bluetoothリモコンが必要）。",
+        "【Ulanzi U-Studio マーケットプレイス】豊富なアプリケーションプラグイン、プリセットファイル、アイコンパック、関連ソフトウェアなどを手軽に取得できます。ダウンロード後すぐに使用可能で、継続的に更新されます。*対応システム：Windows 10以降 / MacOS 10.13以降。 動画チュートリアル：基本操作と機能の具体的な手順を詳細に解説します。",
+        "【梱包リスト・メーカー保証】D200H×1、Type-C to C+USBデータケーブル×1、取扱説明書 x1。商品は18ヶ月品質保証があります。初期不良や使用中の自然故障等の場合交換のサービスを提供致いたします。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "配信 コントローラー"
+      ]
+    },
+    {
+      "asin": "B0FRFS4JN3",
+      "title": "Razer レイザー Stream Controller ライブ配信 & コンテンツ制作用一体型コントローラー 指先でコントロールできる12の触覚 Switchbladeキー 簡単にオーディオ調整が可能な 6 つのタクタイルアナログダイアルと 2 サイド LCD タッチスクリーン プログラム可能な 7 個のボタン 着脱式スタンド PC/Mac ストリームコントローラー [並行輸入品]",
+      "url": "https://www.amazon.co.jp/dp/B0FRFS4JN3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FRFS4JN3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31PYL+2h3+L._SL500_.jpg",
+      "features": [
+        "ストリーマーもコンテンツクリエイターも、Razer ストリームコントローラーで創造力を高めましょう。カスタマイズ可能なタッチスクリーン、ボタン、ダイアルですばやく直感的に操作して、あらゆる機能にアクセスできます。よく使うショートカットやマクロを作り、たやすくマルチタスクをこなすことで、ファンを魅了してフォロワーを増やすことに集中できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "配信 コントローラー"
+      ]
+    },
+    {
+      "asin": "B0CQN6BGMF",
+      "title": "サンワダイレクト プログラマブルキーボード Windows専用 有線接続 3キー マクロ機能 ゲーミング ブラック 400-SKB075",
+      "url": "https://www.amazon.co.jp/dp/B0CQN6BGMF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CQN6BGMF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41GoS2xqILL._SL500_.jpg",
+      "features": [
+        "キー の ショートカット（複数キー 同時押し）や 文字列入力 を 割り付け 可能です。Excel や PowerPoint などの 資料作成、定型文入力 の 効率化 に役立ちます。",
+        "マウス操作のクリックボタン、戻る・進むボタン、スクロールボタン、カーソル移動などのすべてが割り付けできます。",
+        "キーリピートの状態も 割付 け可能です。",
+        "割り当て た機能は本体メモリーに記憶されるため、一度設定すればドライバの入っていないパソコンでも同じ機能が使えます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "マクロ キーボード"
+      ]
+    },
+    {
+      "asin": "B0CXXY98GS",
+      "title": "KB16 マクロメカニカルキーボードアルミニウム製/片手キーボード/RGB VIA ホットスワップ プログラム機能対応可能/16キー/Ps Pr LrC Blenderなどのソフトに利用可能 (グレー)",
+      "url": "https://www.amazon.co.jp/dp/B0CXXY98GS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CXXY98GS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41L9pC0B4fL._SL500_.jpg",
+      "features": [
+        "耐久性アルミボディ",
+        "衝撃吸収ガスケット",
+        "多機種互換性",
+        "OLEDディスプレイ搭載",
+        "Gateron黄色スイッチ",
+        "USB-C接続",
+        "PBT高品質キーキャップ",
+        "QMKファームウェア対応",
+        "軽触リニアスイッチ",
+        "RGBフルカラーLED"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "マクロ キーボード"
+      ]
+    },
+    {
+      "asin": "B08ZJ4GW16",
+      "title": "Vaydeer プログラマブルキーボード 9キー ショートカットキーボード ゲーミング 片手 有線 メカニカル キーボードマクロ可能 互換性 Windows&Mac対応 オフィスワーカー、プログラマー、デザイナー、ゲーマーへのプレゼント",
+      "url": "https://www.amazon.co.jp/dp/B08ZJ4GW16?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08ZJ4GW16?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31IgbN7SSJL._SL500_.jpg",
+      "features": [
+        "【使い勝手の良いユーザーインターフェースとフローティングウィンドウ】シンプルで美しい操作と設定インターフェースで、面倒なコードを入力する必要がなく、ワンボタンスタートとワンボタン入力の機能を実現できます。 リアルタイムのフローティングウィンドウ表示は、使用されているレイヤーにカスタムキーの機能を思い出させるためにいつでも使用できます。 この片手で操作できるマクロメカニカルキーボードを使用すると、作業がより速く効率的になり、ゲーム体験がより快適で流暢になります。",
+        "【6レイヤーの無料編集と9つのNKROキー】6つのカスタマイズ可能な機能レイヤー、54のマクロがプログラム可能な設定キーパッドを備えた9つのキー。マウスのスクロールでレイヤーを切り替えることも、使用しているアプリケーションに基づいてレイヤーを自動的に切り替えることもできます。 9つの競合しないキーを使用すると、複数のキーを同時に押したり押したりすることができ、高速で正確な応答が得られ、新しいレベルのゲームやタイピングを体験できます。",
+        "【多機能メカニカルキーパッド】キー割り当て、マルチメディア、ショートカット、テキスト文字列、ワンクリックスタート、マウス、システム、マクロ。簡単な設定と操作で、ボタンスタート：フォルダ/などの複雑なキー機能を実現できます。 ドキュメント/一般的なWebサイト/ APP /システム機能など。テキストのワンクリック入力は、日常の作業やチャットにも便利です。 オンラインアップグレード、継続的な機能更新の反復をサポートします。",
+        "【仕事とデザイナーの良きパートナー】キーボードは、作業中、キーのコピー/貼り付け/削除、またはシステム機能を開くための1つのキーで無駄になる時間を減らすことができ、オフィスの利便性を大幅に向上させることができます。複雑なキーの組み合わせ 設計ソフトウェアで一般的に使用されているものも1つのキーで実現でき、設計効率も向上します。",
+        "【高度なゲームの幅広い互換性】PCゲームのキーボードとして使用できます。完全にプログラム可能なキーは、さまざまなゲーマーの要求に対応します。CSGO、OSUなどのワンクリックで複数のコンボまたはシャベルスライドを完了することができます。複雑なゲーム内マクロをいずれかに割り当てます。 キー。 シャベルスリップ、ジャグリングピーク、ジャンプスポットを簡単に完了できます。",
+        "【贈り物の最適な選択肢】このプログラマブルキーボードは、マクロ、キーボード割り当て、ショートカット、ワンクリック起動などの様々な機能を備えており、作業操作を簡素化し、オフィスの効率を向上させることができ、オフィスワーカー、プログラマ、デザイナー、ゲーマーに贈る最良の選択です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "マクロ キーボード"
+      ]
+    },
+    {
+      "asin": "B018WNIBL6",
+      "title": "エレコム ゲーミングキーボード 【DUX】 全キーカスタマイズ ハードウェアマクロ対応 TK-DUX30BK ブラック",
+      "url": "https://www.amazon.co.jp/dp/B018WNIBL6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B018WNIBL6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41ldv5hqEjL._SL500_.jpg",
+      "features": [
+        "MMO RPGに最適な機能を搭載し、ワンランク上のゲームを楽しめる“DUX\"MMOゲーミングキーボードです。",
+        "全てのキーに同時押しや連射マクロなどのお好みの機能を割り当てることが可能です。",
+        "戦闘用、チャット用などのプロファイルを専用キーで即座に切替え可能です。",
+        "キーボードの各種操作をプログラムしたとおりに再生することができるハードウェアマクロ機能を搭載しています。",
+        "何度も繰り返し行う決まった手順の作業を、ワンタッチで正確に実行可能です。",
+        "マクロの作成は手動入力に加え、操作したとおりに記憶するレコーディング機能にも対応しています。",
+        "キーの設定内容をキーボード本体に保存できるオンボードメモリを搭載しています。",
+        "ドライバユーティリティ上で設定を行うとキーボードが記憶し、ユーティリティをインストールしていないほかのパソコンでもそのままの設定でキーボードを使用可能です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "マクロ キーボード"
+      ]
+    },
+    {
+      "asin": "B09NRQQFHW",
+      "title": "Sayodevice OSU キーパッド 2 キー USB ホットスワップ 赤軸メカニカルキーボード",
+      "url": "https://www.amazon.co.jp/dp/B09NRQQFHW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09NRQQFHW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/418zwxWCQNL._SL500_.jpg",
+      "features": [
+        "1. チェリーレッドスピードスイッチ12個付き。",
+        "2. HID標準キーボード、ドライバーなしでプラグアンドプレイ。",
+        "3. Windows、Linux、MacOS、Android、Raspberry と互換性があり、誰でも簡単に使用できます。",
+        "4. カスタムキーパッドの機能: ショートカットキー、マルチステップ操作、マルチキーを1つにまとめたマルチキー、コピー&ペースト、カット、取り消し、やり直し、すべて選択、再生、一時停止、音量、曲の切り替え、進む、戻る、カスタムスクリプトなど。",
+        "5. 各ボタンは、互いに影響を与えることなく異なる機能モードに設定できます。",
+        "6. この製品に問題がある場合は、お問い合わせください。 対応させていただきます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "マクロ キーボード"
+      ]
+    },
+    {
+      "asin": "B0DK1M9DY3",
+      "title": "SIKAI CASE 2つノブ付け 片手キーボード マクロキーボード 12キー 3種接続 有線/ワイヤレス/Bluetooth接続 ゲーミングキーボード 3レイヤー メカニカル プログラム可能 RGB バックライト カスタマイズ可能 左手デバイス 赤軸 ミニ ショットカットキー USB-A&Type-C ポータブル イラストレーション＆ゲーム＆絵描き適用 (黒)",
+      "url": "https://www.amazon.co.jp/dp/B0DK1M9DY3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DK1M9DY3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41IyatCA--L._SL500_.jpg",
+      "features": [
+        "【マクロキーボード＆機能をカスタマイズ可能】本マクロ キーボードのすべてのキーはプログラム可能で、Windowsキーボードのキー機能のすべての標準を設定し、シンプルな操作、1 つのキーを使用して複雑なショートカット キーの組み合わせを実行できます。(★★ソフトウェアについてのご注意：（1）弊社公式サイトからソフトウェアと日本語仕様書が記載しておりますのでご利用くださいhttps://sikaicase.com/blogs/news/sikai-case-mini-keyboard-software-setting-japanese （2）以下にGoogleドライブから【Windowsバージョンｰ1】か【Windowsバージョンｰ2】のソフトウェアも設定可能です、UI設計が違うだけで、両方からお好きなバージョンをお選びください、使用中は問題があればぜひ弊店カスタマーサービスチームまでご連絡ください https://drive.google.com/drive/folders/1bvQ4usdVAJd6rRhIxRQeIBcOMWSRjVal )",
+        "【便利なノブ付け片手キーボード】回転ノブは普通に左右回転だけではなく、ノブの押しも可能です。ノブまでプログラムできます。左右の回転は無限に回転でき、±音量の増減したり、前/次の音楽を切り替えたり、バックライトの明るさを調節したり、バックライトモードを切り替えたり、ページの前進/後退したりの設定すれば手軽になるゲーミングキーボードです。設定は本体に保存されるため、コンピュータを変えてもキーボードをいちいちリセットする手間は不要です。",
+        "【軸体が交換可能＆RGB機能付き】ホットスワップでキースイッチを簡単に交換できるメカニカルキーボードです、短時間で自分のキーボードを自分好みにカスタマイズでき、キーボードのスイッチも好きなものに変更できます。RGBバックライト機能により、多種類のRGBモードをソフトウェアで簡単に設定できます、心に残る臨場感のあるゲーミング体験を実現します、華やかな雰囲気をエンジョイし、ゲームの勝利をより簡単にゲットします。",
+        "【多機能の赤轴メカニカルキーボード＆事務やゲームに最適】ワンボタンでマルチメディア、ショートカットキー、文字列の入力、フォルダの開く、アプリの起動、マクロなどの色々な機能を実現できます。簡単な設定と操作で複雑な機能を実現。デザインソフトの中で常用する複雑なキーコンビネーションもワンボタンで実現、設計効率を大幅に向上させる。PCゲームでは複雑なキーコンビネーションでしか使えないスキルもワンボタンで出せる。複雑なゲーム内のマクロも設定できる、ゲーマーに最適です。",
+        "【長期間品質保証】SIKAI CASE製品はアメリカ/ヨーロッパ/オーストラリア/日本で発売しており、お蔭様で多くのお客様にご愛顧頂いております。商品を使用中、何か問題またはご不明な点がございましたら、万が一保証期間内で故障があった場合、いつでもお気軽にお問い合わせ下さい、誠心誠意に対応いたします）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "マクロ キーボード"
+      ]
+    },
+    {
+      "asin": "B0BX99H3DL",
+      "title": "マクロキーボード 左手デバイス 15キー 3回転ノブ付 3レイヤー【Bluetooth/有線/ 2.4G対応】片手キーボード Windows/VISTA対応 18キャラクタ 6連打 Delay機能設置 動画編集/イラスト/画像/ゲームに最適 軸やキャップ交換 DIY可能 左手キーパッド (黒)",
+      "url": "https://www.amazon.co.jp/dp/B0BX99H3DL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BX99H3DL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41+j90hDp6L._SL500_.jpg",
+      "features": [
+        "【ショートカットキーDIY自由編集＆簡単なインストール】シンプルな操作、複数のキーボードとの競合なし、標準キーボードのすべてのキー機能を設定して、ショートカットキーと1つのキーの複雑な組み合わせを実現できます(★★★ ご注意：①弊社公式サイトからソフトウェアと日本語仕様書が記載しておりますのでご利用くださいhttps://sikaicase.com/blogs/news/sikai-case-mini-keyboard-software-setting-japanese ②以下にGoogleドライブから【バージョンｰ1】か【バージョンｰ2】のソフトウェアも設定可能です、UIが異なりますので、お好きなものをお選びください、使用中は問題があればぜひ弊店カスタマーサービスチームまでご連絡ください https://drive.google.com/drive/folders/1bvQ4usdVAJd6rRhIxRQeIBcOMWSRjVal )",
+        "【無線キーボード＆3層レイヤー設定可能】接続が2.4GhzとBluetoothの両方に対応可能です。2.4Gドングルも付属していますので、面倒な配線が不要です。プログラム内容は本体内蔵のMCU（小型のCPU）に保存。3層レイヤーの設定を保存できるのでシチュエーションに合わせて使い分けができます（1キーで3つのショートカットが編集可能、ワンタッチ切替が便利です）。設定は本体に保存されるため、コンピュータを変えてもキーボードをいちいちリセットする手間は不要です。ゲーマーだけでなく、デザイナーや映像クリエーターの方などにもピッタリです。",
+        "【軸体が交換可能＆7色のRGB機能付き】ホットスワップでキースイッチを簡単に交換できるメカニカルキーボードです、短時間で自分のキーボードを自分好みにカスタマイズでき、キーボードのスイッチも好きなものに変更できます。バックライト機能により、7色と5種類のモードをソフトウェアで簡単に設定できます、心に残る臨場感のあるゲーミング体験を実現します、華やかな雰囲気をエンジョイし、ゲームの勝利をより簡単にゲットします。(ご注意：バックライト機能は有線モード時のみ点灯します)",
+        "【多機能の赤轴メカニカルキーボード＆事務やゲームに最適】ワンボタンでマルチメディア、ショートカットキー、文字列の入力、フォルダの開く、アプリの起動、マクロなどの色々な機能を実現できます。簡単な設定と操作で複雑な機能を実現。デザインソフトの中で常用する複雑なキーコンビネーションもワンボタンで実現、設計効率を大幅に向上させる。PCゲームでは複雑なキーコンビネーションでしか使えないスキルもワンボタンで出せる。複雑なゲーム内のマクロも設定できる、ゲーマーに最適です。",
+        "【多システムに対応】本商品はWindows/VISTA/Linux/Macにに対応してます。メカニカルキーボードは超小型サイズで、スペースをあまり取らないです。このキーボードは他のキーボードと同時に使うことができます、互いに干渉しません【長期間品質保証】製品はアメリカ/ヨーロッパ/オーストラリア/日本で発売しており、お蔭様で多くのお客様にご愛顧頂いております。商品を使用中、何か問題またはご不明な点がございましたら、万が一保証期間内で故障があった場合、いつでもお気軽にお問い合わせ下さい、誠心誠意に対応いたします）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "マクロ キーボード"
+      ]
+    },
+    {
+      "asin": "B0BMQ256WR",
+      "title": "Vaydeer プログラマブルキーボード 4キー ショートカットキーボード ゲーミング 片手 有線 メカニカル キーボードマクロ可能 互換性 Windows&Mac対応",
+      "url": "https://www.amazon.co.jp/dp/B0BMQ256WR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BMQ256WR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/310+8qtrJnL._SL500_.jpg",
+      "features": [
+        "【使い勝手の良いユーザーインターフェースとフローティングウィンドウ】シンプルで美しい操作と設定インターフェースで、面倒なコードを入力する必要がなく、ワンボタンスタートとワンボタン入力の機能を実現できます。 リアルタイムのフローティングウィンドウ表示は、使用されているレイヤーにカスタムキーの機能を思い出させるためにいつでも使用できます。 この片手で操作できるマクロメカニカルキーボードを使用すると、作業がより速く効率的になり、ゲーム体験がより快適で流暢になります。",
+        "【6レイヤーの無料編集と4つのNKROキー】6つのカスタマイズ可能な機能レイヤー、24のマクロがプログラム可能な設定キーパッドを備えた4つのキー。マウスのスクロールでレイヤーを切り替えることも、使用しているアプリケーションに基づいてレイヤーを自動的に切り替えることもできます。 4つの競合しないキーを使用すると、複数のキーを同時に押したり押したりすることができ、高速で正確な応答が得られ、新しいレベルのゲームやタイピングを体験できます。",
+        "【多機能メカニカルキーパッド】キー割り当て、マルチメディア、ショートカット、テキスト文字列、ワンクリックスタート、マウス、システム、マクロ。簡単な設定と操作で、ボタンスタート：フォルダ/などの複雑なキー機能を実現できます。 ドキュメント/一般的なWebサイト/ APP /システム機能など。テキストのワンクリック入力は、日常の作業やチャットにも便利です。 オンラインアップグレード、継続的な機能更新の反復をサポートします。",
+        "【仕事とデザイナーの良きパートナー】キーボードは、作業中、キーのコピー/貼り付け/削除、またはシステム機能を開くための1つのキーで無駄になる時間を減らすことができ、オフィスの利便性を大幅に向上させることができます。複雑なキーの組み合わせ 設計ソフトウェアで一般的に使用されているものも1つのキーで実現でき、設計効率も向上します。",
+        "【高度なゲームの幅広い互換性】PCゲームのキーボードとして使用できます。完全にプログラム可能なキーは、さまざまなゲーマーの要求に対応します。CSGO、OSUなどのワンクリックで複数のコンボまたはシャベルスライドを完了することができます。複雑なゲーム内マクロをいずれかに割り当てます。 キー。 シャベルスリップ、ジャグリングピーク、ジャンプスポットを簡単に完了できます。",
+        "【贈り物の最適な選択肢】このプログラマブルキーボードは、マクロ、キーボード割り当て、ショートカット、ワンクリック起動などの様々な機能を備えており、作業操作を簡素化し、オフィスの効率を向上させることができ、オフィスワーカー、プログラマ、デザイナー、ゲーマーに贈る最良の選択です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "マクロ キーボード"
+      ]
+    },
+    {
+      "asin": "B0CYLV8B91",
+      "title": "SIKAI CASE マクロキーボード 有線接続 12キー2ノブ 片手キーボード RGB Windows設定 赤軸 メカニカル 多機能プログラマブル ゲーム用DIY カスタム可能 ショートカット プログラマー向き 黒色 1レイヤー",
+      "url": "https://www.amazon.co.jp/dp/B0CYLV8B91?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CYLV8B91?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/4141D3jvG5L._SL500_.jpg",
+      "features": [
+        "【ショートカットキーのDIY自由編集＆カスタマイズ機能&簡単なインストール】本マクロ キーボードのすべてのキーはプログラム可能で、Windowsキーボードのキー機能のすべての標準を設定し、シンプルな操作、1 つのキーを使用して複雑なショートカット キーの組み合わせを実行できます。(★★★ ソフトウェアについてのご注意：（1）弊社公式サイトからソフトウェアと日本語仕様書が記載しておりますのでご利用くださいhttps://sikaicase.com/blogs/news/sikai-case-mini-keyboard-software-setting-japanese （2）以下にGoogleドライブから【Windowsバージョンｰ1】か【Windowsバージョンｰ2】のソフトウェアも設定可能です、UI設計が違うだけで、両方からお好きなバージョンをお選びください、使用中は問題があればぜひ弊店カスタマーサービスチームまでご連絡ください https://drive.google.com/drive/folders/1bvQ4usdVAJd6rRhIxRQeIBcOMWSRjVal )",
+        "【★★★バージョンｰの違い】【無線バージョンｰ：Bluetooth無線接続キーボード＆3レイヤー＆2.4Gレシーバー付属】VS【有線バージョンｰ：有線接続＆1レイヤー】（★★★ ご注意：無線接続が2.4G、Bluetoothと有線の三つ接続方法に対応可能です、有線モデルは有線接続のみに対応）。無線型番は2.4Gドングルも付属していますので、面倒な配線が不要です。プログラム内容は本体内蔵のMCU（小型のCPU）に保存。3レイヤーの設定を保存できるのでシチュエーションに合わせて使い分けができます（1キーは3つのショートカットを編集可能、ワンタッチ切替が便利）。設定は本体に保存されるため、コンピュータを変えてもキーボードをいちいちリセットする手間は不要です。ゲーマーだけでなく、デザイナーや映像クリエーターの方などにもピッタリです。",
+        "【軸体が交換可能＆RGB機能付き】ホットスワップでキースイッチを簡単に交換できるメカニカルキーボードです、短時間で自分のキーボードを自分好みにカスタマイズでき、キーボードのスイッチも好きなものに変更できます。RGBバックライト機能により、多種類のRGBモードをソフトウェアで簡単に設定できます、心に残る臨場感のあるゲーミング体験を実現します、華やかな雰囲気をエンジョイし、ゲームの勝利をより簡単にゲットします",
+        "【多機能の赤轴メカニカルキーボード＆事務やゲームに最適】ワンボタンでマルチメディア、ショートカットキー、文字列の入力、フォルダの開く、アプリの起動、マクロなどの色々な機能を実現できます。簡単な設定と操作で複雑な機能を実現。デザインソフトの中で常用する複雑なキーコンビネーションもワンボタンで実現、設計効率を大幅に向上させる。PCゲームでは複雑なキーコンビネーションでしか使えないスキルもワンボタンで出せる。複雑なゲーム内のマクロも設定できる、ゲーマーに最適です。",
+        "【多システムに対応】本商品はWindows/VISTA/Linux/Macに対応してます。メカニカルキーボードは超小型サイズで、スペースをあまり取らないです。このキーボードは他のキーボードと同時に使うことができます、互いに干渉しません（★★★ ご注意：MACで利用したい場合は、windowsで設定しておき、MACで直接利用できるようになります)",
+        "【長期間品質保証】SIKAI CASE製品はアメリカ/ヨーロッパ/オーストラリア/日本で発売しており、お蔭様で多くのお客様にご愛顧頂いております。商品を使用中、何か問題またはご不明な点がございましたら、万が一保証期間内で故障があった場合、いつでもお気軽にお問い合わせ下さい、誠心誠意に対応いたします）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "マクロ キーボード"
+      ]
+    },
+    {
+      "asin": "B0H287JCH8",
+      "title": "ATTACK SHARK×MAMBASNAKE M36HE 片手ゲーミングキーボード 8000Hz 磁気スイッチ ラピッドトリガー 国内正規品 黒",
+      "url": "https://www.amazon.co.jp/dp/B0H287JCH8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H287JCH8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41wVeMWpNXL._SL500_.jpg",
+      "features": [
+        "【FPS・MOBA・RPGゲーム最適：デスク解放＆エイム集中】 従来のテンキーレスゲーミングキーボードよりさらにコンパクトな36キー片手レイアウト。マウス操作スペースを最大化し、激しいゲーム中にマウスとキーボードがぶつかるストレスを解消。さらに36キーはすべて指の自然な届く範囲に配置されているため、手首を大きく動かす必要がなく、スキル発動がより素早くなります。特にこの小型キーボードはF1～F6のファンクションキーを搭載している点で、従来の片手キーボードでは難しかったゲーム内ショートカットや配信操作もスムーズに実行可能。余計なキーを省き、必要なキーだけを残す——あなたのエイムを妨げるものは何もありません。",
+        "【ラピッドトリガー＆超低遅延：0.01mm RT・8000Hz・0.125ms】 このラピトリキーボードは磁気スイッチを採用し、業界最新の0.01mmラピッドトリガー（RT）精度・ゼロデッドゾーンを実現。急停止や連打が一瞬で決まり、FPSの撃ち合いで圧倒的な優位性を発揮します。カスタム高周波ゲーミングチップにより、128Kスキャン・8000Hzポーリングレート・0.125msの超低遅延を達成。この磁気スイッチキーボード、作動ポイントは0.1mm～3.4mmの範囲で0.01mm単位で精密に調整可能です。移動キーを0.1mmの瞬時トリガーに設定したり、アルティメットスキルキーを3.4mmに設定して誤作動を防止したりすることができます。全キーロールオーバー（NKRO） により、高速連打でも入力漏れがなく、急停止も連打もより正確に。プロゲーマーが求める極限の応答速度を、あなたの手に。",
+        "【SOCD・DKS・MT搭載：片手でマクロ＆コンボを制御】 このプログラマブルな左手キーボードは理想的な「拡張キーボード」。キー数を減らしても機能はそのまま。専用のウェブドライバーソフトを使えば、自分のプレイスタイルや好みに合わせて、各キーの機能、マクロ、RGBライトエフェクトを自由にカスタマイズできます。真のパーソナライゼーションを実現。さらにこのマクロキーボードは多彩なテクノロジーを搭載。SnapKeys（SOCD）：相反する方向キーを同時に押した場合、最新の入力のみを優先。スムーズな急停止や連続ジャンプを実現。DKS（ダイナミックキーストローク）：キーの押し込み深さに応じて異なるコマンドを発動。軽押し・深押し・長押しでそれぞれ別の動作を割り当て可能。Mod Tap（MT）：長押しとタップを正確に識別。 さらにウェブドライバーに対応し、ブラウザからキーマッピング、マクロ、RT感度を自由に調整可能。まさに「マクロキーボード」の究極形態です。",
+        "【真5層消音＋下灯位RGB：HIFI打鍵音と没入感】 この左手デバイスはハイグレードカスタム「磁珀軸（高特製）」を採用し、電競トーナメントレベルの手感触と極速応答を実現。従来のメカニカルキーボードとは異なり、なめらかでクリアな打鍵感が長時間のゲームによる疲労を軽減します。真5層消音構造（PE挟み綿・IXPE軸下パッド・PET音響シート・軸座消音綿・PET絶縁パッド）＋底面シリコン金型により、磁軸特有のノイズを排除し、ボトムアウト時のコトコト音をより純粋に。耐油・耐摩耗性に優れた原厂高PBTキーキャップを採用し、長期間使用しても美しさをキープ。さらに複数の高性能磁軸をホットスワップで混在可能、軸ごとのカーブを個別最適化して自分好みの打鍵感を追求。ABA軸の組み合わせで最大精度を引き出せます。",
+        "【eスポーツからクリエイティブまで：下灯位RGB＋ポータブル織りベルト、片手キーボードの究極形態】 デザインはよりクールに、よりプロフェッショナルに。あらゆるシーンで活躍します。下灯位RGBと22種類のダイナミックエフェクト、約1677万色のフルカラーがキーキャップ周りを美しく照らし、ゲームへの没入感を高めます。このポータブルキーボードの側面にはおしゃれな織りベルトを装備。持ち運びもらくらく、必要なときにサッと取り出せます。コンパクトなボディに、必要な機能をすべて凝縮——まさに「小型キーボード」の究極選択です。 この分割キーボードは、デスクスペースを広げて快適な作業環境を求めるすべての方におすすめです。高性能なコントロールセンターとして、また個性あふれるデスクアクセサリーとして、あなたのワーク＆ゲーミング空間にテクノロジー感をプラスします。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "マクロ キーボード"
+      ]
+    }
+  ]
+}
