@@ -1,0 +1,690 @@
+{
+  "generated_at": "2026-08-22T08:23:25",
+  "account_id": "daily_gadget",
+  "partner_tag": "daily-gadget-22",
+  "mode": "pool",
+  "queries": [
+    {
+      "query": "スマート縄跳び アプリ連携 カウント",
+      "include": [],
+      "exclude": [
+        "ダンベル",
+        "エアロバイク",
+        "EMS",
+        "腹筋ベルト",
+        "活動量計",
+        "体重計",
+        "体組成計",
+        "ウォッチ",
+        "バイク",
+        "トランポリン",
+        "ステッパー"
+      ]
+    },
+    {
+      "query": "縄跳び Bluetooth ジャンプロープ 記録",
+      "include": [],
+      "exclude": [
+        "ダンベル",
+        "エアロバイク",
+        "EMS",
+        "腹筋ベルト",
+        "活動量計",
+        "体重計",
+        "体組成計",
+        "ウォッチ",
+        "バイク",
+        "トランポリン",
+        "ステッパー"
+      ]
+    },
+    {
+      "query": "エア縄跳び 室内 有酸素運動 カウント",
+      "include": [],
+      "exclude": [
+        "ダンベル",
+        "エアロバイク",
+        "EMS",
+        "腹筋ベルト",
+        "活動量計",
+        "体重計",
+        "体組成計",
+        "ウォッチ",
+        "バイク",
+        "トランポリン",
+        "ステッパー"
+      ]
+    },
+    {
+      "query": "スマートジャンプロープ Bluetooth",
+      "include": [],
+      "exclude": [
+        "ダンベル",
+        "エアロバイク",
+        "EMS",
+        "腹筋ベルト",
+        "活動量計",
+        "体重計",
+        "体組成計",
+        "ウォッチ",
+        "バイク",
+        "トランポリン",
+        "ステッパー"
+      ]
+    },
+    {
+      "query": "縄跳び カウンター アプリ",
+      "include": [],
+      "exclude": [
+        "ダンベル",
+        "エアロバイク",
+        "EMS",
+        "腹筋ベルト",
+        "活動量計",
+        "体重計",
+        "体組成計",
+        "ウォッチ",
+        "バイク",
+        "トランポリン",
+        "ステッパー"
+      ]
+    }
+  ],
+  "fetched_count": 50,
+  "dedup_count": 9,
+  "candidates": [
+    {
+      "asin": "B0GXW7Y9WW",
+      "title": "RENPHO スマート縄跳び アプリ連携 Bluetooth対応 ジャンプロープ コードレスボール付きトレーニング用 ジャンプデータ知能管理 フリージャンプ 回数カウントダウン機能 タイマー機能 ほかの健康アプリ同期可能 カロリー消費 ロープの長さ調節可能 大人用 子供用 運動不足対策 ダイエット なわとび Appデータ記録 電池付属 日本語アプリ 日本語説明書付き ダイエット レンフォ 滑り止めハンドル R-Q008",
+      "url": "https://www.amazon.co.jp/dp/B0GXW7Y9WW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GXW7Y9WW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41oPvo4NvXL._SL500_.jpg",
+      "features": [
+        "【安心の総合ヘルスケアブランド】 1) アメリカアマゾンのトップセラー、大人気のヘルスケアブランド。 2) 全商品メーカー保証1年、安心の日本人スタッフによるサポート。",
+        "【コードレス＆ロープ両対応】コードレスモードと通常のロープジャンプを自由に切り替え可能。3mロープは工具不要で長さ調節でき、屋外トレーニングにも対応します。付属のコードレスボールを使用すれば、省スペースでも縄跳び運動が可能。マンションや室内でも周囲を気にせず快適にエクササイズできます。",
+        "【RENPHO Healthアプリ対応】Bluetooth接続により、「RENPHO Health」アプリと連携可能。ジャンプ回数・消費カロリー・運動時間・トレーニング履歴などを自動記録できます。日々の運動データを可視化し、効率的なトレーニング習慣づくりをサポートします。※iOS 7以降／Android 4.3以降対応。",
+        "【3種類のトレーニングモード搭載】フリージャンプモード、カウントダウンタイマーモード、カウントダウン回数モードの3種類を搭載。ダイエット・有酸素運動・ボクシング・筋力トレーニングなど、さまざまなフィットネスシーンに対応します。高精度Hallセンサーにより、ジャンプ回数を正確に計測します。",
+        "【高耐久PVC保護スリーブ採用】ロープには金属芯入りの高品質PVC素材を採用し、耐摩耗性と耐久性を向上。さらに保護用PVCスリーブを追加することで、摩耗や劣化を軽減します。ロープの絡まりやねじれを防ぎ、スムーズで快適なジャンプ運動を実現します。",
+        "【長さ調節可能＆家族で使える】3mのPVC被覆スチールワイヤーロープを採用し、耐久性と柔軟性を両立。ロープの長さは自由に調節できるため、子どもから大人まで幅広く使用可能です。CrossFit・ボクシング・MMA・日常トレーニングなど、多目的に活躍します。",
+        "【LCDディスプレイ＆滑りにくいグリップ】バックライト付きLCDディスプレイを搭載し、ジャンプ回数や運動データをひと目で確認できます。グリップ部分には滑りにくいシリコン素材を採用し、汗をかいても握りやすく、快適なトレーニングをサポートします。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマート縄跳び アプリ連携 カウント",
+        "縄跳び Bluetooth ジャンプロープ 記録",
+        "スマートジャンプロープ Bluetooth",
+        "縄跳び カウンター アプリ"
+      ]
+    },
+    {
+      "asin": "B0DLQ4GF9D",
+      "title": "[Tumanld]縄跳び装置 縄跳び 正確な表示 大人と子供が同時に縄跳びをする 電子Bluetoothオートカウンター 親子で縄跳びを 成長する喜び 耐久 安定していて浮かない 1回の充電で20時間連続使用可能",
+      "url": "https://www.amazon.co.jp/dp/B0DLQ4GF9D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DLQ4GF9D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31HvIqsiJnL._SL500_.jpg",
+      "features": [
+        "【自動インテリジェント縄跳び】この製品は 自動電気縄跳び設計を採用し 手動操作の必要はありません 内蔵の大容量バッテリーは20時間連続使用することができ リモートコントロール10ギア速度 科学的な設計速度歯車 巻きトラブルにさようなら LED画面がはっきりと縄跳び回数 スポーツデータの正確な記録を表示し 家族のフィットネスのためのインテリジェントな支援のフルレンジを提供する",
+        "【マルチプレイヤー・インタラクティブ・ゲーム】このインテリジェントな縄跳びマシンは 複数の人が同時に縄跳びをし 大人と子供が親子の相互作用の楽しさを高めるために一緒に参加することができ 異なる高さの家族のメンバーのニーズを満たすために 自由に調整するために自由な手は 縄跳びのフィットネスは もはや単調ではないように 自由に調整する興味深い仲間の長さ",
+        "【人間的で思慮深いデザイン】製品には安全停止が装備されており 死者のステップを緊急停止することができ より安全で安全な使用 ロープの高さは より良い異なる年齢のユーザーのニーズを満たすために調整することができます 同時に 製品は高強度プラスチック材料で作られ 強く 耐久性があり 足が誤って触れた場合でも 痛みを感じることはありません 破ることは容易ではない",
+        "【インテリジェント・データ・トラッキング】この製品は 携帯電話へのBluetooth接続をし ルタイムのデータ記録と共有 大画面が明確に運動データを表示し 太陽のブロッキングを心配する必要はありません 運動の進捗状況を習得するための全体のプロセスは フィットネスプログラムの目標開発に資するものです",
+        "【ファッショナブルでトレンディなデザイン】製品設計の全体的な外観は スタイリッシュで雰囲気があり 明るい黄色のボディを使用し の美学に沿って グLEDスンと相まって より技術的かつ未来的なので フィットネスのプロセス全体が無限の楽しみを白熱させ ファッショナブルな家族のフィットネス単一の製品となる"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "縄跳び Bluetooth ジャンプロープ 記録"
+      ]
+    },
+    {
+      "asin": "B09N1GV8MN",
+      "title": "Wpengpe なわとび， スマートジャンプロープブルートゥース PVC電子ジャンプスピードロープカウンタースキッピング電荷ポータブルフィットネススポーツ滑り滑り止めハンドル",
+      "url": "https://www.amazon.co.jp/dp/B09N1GV8MN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09N1GV8MN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31yE2qlY+2L._SL500_.jpg",
+      "features": [
+        "■防塵性に優れたベアリング構造を採用するジャンプロープは360°回転でき、巻き取りやねじ れを防ぎ、 安定かつスムーズなスイングを楽しんで、カロリー消費運動にお薦めします。また、静音で柔軟性のある エクササイズジャンプロープは、男女を問わず、いつでもどこでも楽々にグライディングとスウィングできます",
+        "abs 滑り止めハンドル：タッチに快適。発汗を恐れていません。",
+        "PVC 巻き付けワイヤーロープ：耐摩耗性で、結び目が簡単で壊れやすくない。",
+        "FSTN HD ディスプレイ：バックライトディスプレイは明らかにされている振動フィードバックを明確にします。",
+        "バッテリー寿命45日：55HAリチウム電池 USB 充電。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマートジャンプロープ Bluetooth"
+      ]
+    },
+    {
+      "asin": "B09KPFHFPJ",
+      "title": "Tangram スマートロープ ルーキードーナツ - コードレス フィットネス 縄跳び アプリ接続 長さ調節可能 バッテリー交換可能 ジャンプとカロリーを追跡 ポータブルワークアウトロープ 自宅やジム用 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B09KPFHFPJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09KPFHFPJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41fgxnMKn0L._SL500_.jpg",
+      "features": [
+        "便利なコードレスデザイン。Smart Rope Rookie Donutのコードレスデザインにより、屋内での使用に最適です。つまずくリスクを排除し、ワークアウトに集中できます。 従来の縄跳びの手間をかけずに、いつでもどこでも自由に運動できます。",
+        "Bluetooth接続を備えたスマートフィットネストラッキング。このスマート縄跳びはSmartRopeアプリと同期し、ジャンプ、消費カロリー、ワークアウトの進行状況をリアルタイムで追跡します。 モチベーションを維持し、フィットネスの旅を簡単に監視できます。",
+        "すべてのユーザーが長さを調節できます。身長やワークアウトスタイルに合わせて縄跳びの長さを簡単に調整できます。 大人にも子供にもぴったり。長さをカスタマイズできるので、誰にでも快適で効果的なワークアウト体験ができます。",
+        "丈夫で軽量。高品質の素材で作られたSmart Ropeルーキードーナツは、耐久性と軽量性能のために設計されています。 人間工学に基づいたハンドルは、快適で安全なグリップを提供し、ワークアウト中にスムーズで高速な回転を可能にします。",
+        "交換可能なバッテリーでポータブル。このポータブルコードレス縄跳びで、どこでもワークアウトを行いましょう。 交換可能なバッテリーにより、パフォーマンスが長持ちするため、頻繁に充電する必要なく、中断のないエクササイズセッションを楽しむことができます。",
+        "アプリに接続してワークアウトを強化。iOSまたはAndroidデバイスのSmartRopeアプリに接続して、さまざまなワークアウトモードにアクセスしたり、フィットネスデータを追跡したり、友達と競争したりできます。 このアプリは、インタラクティブな機能と詳細な統計情報を提供し、フィットネスルーチンを最大限に活用するのに役立ちます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマートジャンプロープ Bluetooth"
+      ]
+    },
+    {
+      "asin": "B08J2KX9Z1",
+      "title": "軽量の耐久性のあるスマートBluetoothジャンプロープクロスフィットデジタルカロリースピードカウンタージャンプロープエクササイズアラームリマインダーウェイト設定",
+      "url": "https://www.amazon.co.jp/dp/B08J2KX9Z1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08J2KX9Z1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41erOl7rrIL._SL500_.jpg",
+      "features": [
+        "1 、より速い脂肪燃焼のためのハンドルの重量設計。360度のアンチワインディング設計は、より安全で親密です。",
+        "4 、電子センサーをアップグレードします、正と負の両方がカウントできます。欠落フレーム、マルチフレーム、より正確な計算はありません。",
+        "3 、縄跳びはランニング、フィットネス機器、スポーツトレンド、フィットネス、体に適しています。",
+        "2 、電子チップ、60Sカウントダウン、インテリジェントな高精細スクリーン、アンチブレークワイヤーロープ、ABS滑り止めハンドル、調整可能なロープの長さをアップグレードします。",
+        "5 、フィットネスリアルタイムモニタリング、高精細インテリジェント大画面モニタリング表示データ：カロリー、体重、時間、カウント。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマートジャンプロープ Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0FJ1S192T",
+      "title": "スマートエレクトリックジャンプロープマシンBluetooth音楽ジャンプトレーニングファミリーオフィス用の10スピードカウンター付きロープマシンを楽しませる",
+      "url": "https://www.amazon.co.jp/dp/B0FJ1S192T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FJ1S192T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41NnsifaswL._SL500_.jpg",
+      "features": [
+        "マルチ機能：このスマートジャンプロープマシンで楽しいエクササイズを体験してください。カラフルな呼吸照明でLCD画面でジャンプカウントを追跡しながら、簡単にスピードを調整してBluetooth音楽をお楽しみください。ジャンプして友達と楽しんでください！",
+        "強力なパフォーマンス：この跳ね上がるロープマシンは、4つの重要な利点、ABSシェル、強力なモーター、遠心モーター、タイプC充電インターフェースを提供して、高速充電を提供します。いつでも、携帯電話の充電器やパワーバンクを請求して、継続的に楽しみましょう。",
+        "クリアディスプレイと充電式：昼夜を問わず見える正確なジャンプカウントディスプレイ用の大画面設計。組み込まれた充電式リチウムバッテリーは、30日間以上のスタンバイ時間で、1回の充電で20時間の継続的な使用を提供します。",
+        "インテリジェントな10速度レベル：安定した高速でスムーズなトレーニングのために、リモートコントロールを備えた10の速度レベルから選択します。調整可能な高さの設定を持つさまざまな家族に適応します。",
+        "高い耐久性：このコードレス、曲がりくねったロープで滑らかで無制限のジャンプをお楽しみください。 PUラップされたナイロンロープは、強力な耐久性と安定性を提供し、大人と子供の両方がロープを跳び、家族の楽しみを高めるのに適しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマートジャンプロープ Bluetooth"
+      ]
+    },
+    {
+      "asin": "B08J2QT2C9",
+      "title": "軽量の耐久性のあるスマートBluetoothジャンプロープクロスフィットデジタルカロリースピードカウンタージャンプロープエクササイズアラームリマインダーウェイト設定",
+      "url": "https://www.amazon.co.jp/dp/B08J2QT2C9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08J2QT2C9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41IOVRRwXNL._SL500_.jpg",
+      "features": [
+        "？ジャンプロープの利点：協調性の向上、足と足首の怪我の軽減、主要なカロリーの燃焼、完全な携帯性と楽しみ、骨密度の向上、心臓血管の健康の向上、呼吸効率の向上、よりスマートで全体的なメンタルヘルスの向上。スピード、敏捷性、バランス、協調性を向上させるため、アスリートのトレーニングに最適なロープです。ジムは必要ありません!!",
+        "？快適なハンドル：ハンドルは3.4 cm x 19.2 cm x 3.4 cmです。滑りにくいデザインで、ジャンプ中にハンドルをしっかりと保持できます。",
+        "？調節可能なロープ：大人と子供に適した高品質の耐久性のある調節可能なロープ。ロープは、もつれたり、丸まったりすることなく、あらゆる表面で使用できます。",
+        "？カロリー数、ジャンプ数、スキップ数、燃焼脂肪、時間と速度を表示するLCD画面。",
+        "？耐久性のある高品質ロープ：高品質のコーティングされたワイヤーロープは、耐久性、耐久性、滑らかさを備えています。耐衝撃性、耐摩耗性に優れた素材です。滑り摩擦が少なく、簡単に回転します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマートジャンプロープ Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0C51N1MXC",
+      "title": "Crossrope AMP スマート縄跳びハンドル Bluetoothアプリ接続付き",
+      "url": "https://www.amazon.co.jp/dp/B0C51N1MXC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C51N1MXC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51TOScYEzdL._SL500_.jpg",
+      "features": [
+        "Bluetooth接続の重み付き縄跳びハンドルは、高強度インターバル&持久力フィットネストレーニング用に設計されています。",
+        "AMPハンドルにはスマートテクノロジーが組み込まれており、ジャンプを追跡し、パーソナライズされたガイド付きの全身トレーニングを行えます。",
+        "カロリーをより速く燃焼:Crossropeアプリは、パーソナライズされたジャンプターゲット、ベンチマーク、統計トラッキング、フリージャンプモードを提供します。 会員登録の有効化手順は、商品受領時に配達されます",
+        "主要な筋肉群のパフォーマンストレーニングを向上:リアルタイムのジャンプカウント技術とフィードバック。",
+        "Crossrope加重縄跳びとロープレスに対応(ロープとロープレスアタッチメントは別売りです)。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマートジャンプロープ Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0GQHM2J6F",
+      "title": "KAJYLFAST スポーツスマートトレーニングスキップロープワイヤーロープフィットネススマートブロックロープジャンプBluetoothアプリコントロールスマートスキップロープ",
+      "url": "https://www.amazon.co.jp/dp/B0GQHM2J6F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GQHM2J6F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41myL6pfEbL._SL500_.jpg",
+      "features": [
+        "4.0、計算されたデータは正確であり、電話をリンクした後のリアルタイム同期アップロード。",
+        "小さなプログラムとアプリ、ロープジャンプのさまざまな方法。 USB充電2時間、バッテリー寿命150日。",
+        "WeChatアプレットに接続可能：時間の設定とデータの記録。カロリー計算とビデオチュートリアル。",
+        "3メートルの長いロープ、調節可能なロープのバックル。 360度universa lベアリング、スムーズ、安定しており、遮るものがない。",
+        "PU鋼線の組み合わせ、強力で耐摩耗性があり、壊れにくい。人間工学に基づいたハンドル、軽量でコンパクト、滑りにくく、握りやすい。",
+        "多目的：カウンター付き重力ボールスキッピングは、ほとんどの人のトレーニングニーズに適しており、ジムや自宅でのエクササイズに適しており、屋内でも屋外でも使用できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマートジャンプロープ Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0CGDTPHGZ",
+      "title": "Tangram Smart Rope Rookie – スマート縄跳び カウンター&アプリ付き Bluetoothフィットネストラッカー 調節可能な縄跳び 減量 有酸素運動 HIIT&ホームワークアウト用 (ホワイト/ネイビー)",
+      "url": "https://www.amazon.co.jp/dp/B0CGDTPHGZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CGDTPHGZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31XVfmREanL._SL500_.jpg",
+      "features": [
+        "すべてのジャンプを自動カウント - 手動でカウントしたり、推測したりする必要はありません。 Bluetooth経由で無料のSmartRopeアプリ (iOS & Android) に接続すると、すべてのジャンプ、消費カロリー、セッションを自動的に追跡します。 ジャンプするだけ - アプリが残りの作業を行います。",
+        "ジョギングよりも早くカロリーを消費 - 15分間の縄跳びセッションでは、関節への影響が少なく、30分間のジョギング(約400カロリー)と同じカロリーを消費します。 インターバルトレーニングモードは仕事と休息を自動的に交互に行い、短時間でカロリー燃焼を最大化します。",
+        "グローバルに競争し、モチベーションを維持 — SmartRopeアプリリーダーボードは、世界中のユーザーに対してあなたをランク付けします。 友達に挑戦し、毎日の目標を達成し、レベルアップしながら実際の報酬を獲得しましょう。 Apple Healthと同期して、すべてのフィットネスデータを1か所に保持します。",
+        "調節可能な9フィート10インチのロープ - 子供から大人までフィット - 切断不要。 フルレングスのロープは、高さやスキルレベルに調整できます。 軽量のポリプロピレン構造が回転を速くスムーズに保ちます - 自宅やジムでの有酸素運動、HIIT、スピードトレーニングに最適です。",
+        "パッケージ内容: - 両方のハンドル、3mのロープ、CR2032コインバッテリー(右ハンドルの中に収納。最初に使用する前に左のハンドルに移動するだけです)、布製キャリーポーチが付属しています。 1つのバッテリーは30分/日で3~6ヶ月持続します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "縄跳び カウンター アプリ"
+      ]
+    }
+  ],
+  "source_file": "accounts/daily_gadget/06_research/_candidates/daily_gadget_20260909_smart_jump_rope.json",
+  "filters_applied": {
+    "exclude_existing_september_asins": [
+      "B00F9VW8SC",
+      "B00PIM0PTG",
+      "B015ZFKLNK",
+      "B01C5O7E2U",
+      "B01G54TY1K",
+      "B01HE6L6BY",
+      "B06XHZ3K5T",
+      "B07BK6696F",
+      "B07D7978NV",
+      "B07FMDHNF7",
+      "B07NPRNP32",
+      "B07Q2WW8FM",
+      "B07QBXMY2Z",
+      "B07X3TVTW8",
+      "B07YSP7QYX",
+      "B07ZNF656F",
+      "B08131HFSG",
+      "B086P86X2Z",
+      "B0874XN4D8",
+      "B087S3YKH7",
+      "B08BNRF1PN",
+      "B08BZLH13D",
+      "B08CZKKPH1",
+      "B08G53DNQL",
+      "B08GTYFC37",
+      "B08HN37XC1",
+      "B08L3C8FY3",
+      "B08M94MPM8",
+      "B08QHTS7KZ",
+      "B08XPBHK78",
+      "B08YRPK8WT",
+      "B09248N9XK",
+      "B093B4TSPM",
+      "B097TVLB4F",
+      "B099DRFPZD",
+      "B099R9YPXK",
+      "B09DGBYQD4",
+      "B09FDX1T82",
+      "B09RQ812XS",
+      "B09WMMD36F",
+      "B0B1VJNWJD",
+      "B0B4NJ2QX6",
+      "B0BBS3D3JV",
+      "B0BG9VR34L",
+      "B0BPBJR6V8",
+      "B0BQQBDWFT",
+      "B0BQYBCD31",
+      "B0BR3M8XHK",
+      "B0BR9TWVKS",
+      "B0BTH3KRF9",
+      "B0BWJVXGSY",
+      "B0BXDQS4BD",
+      "B0BY8SB8MZ",
+      "B0C48ZD1XK",
+      "B0C583TGSJ",
+      "B0CBG2J3MD",
+      "B0CDWSNF8J",
+      "B0CFGM12HY",
+      "B0CJ5D89Z9",
+      "B0CM7X424T",
+      "B0CN93P2GB",
+      "B0CQX67KTW",
+      "B0CTQGM5ZN",
+      "B0CXTB6CBR",
+      "B0CZ992BKS",
+      "B0D12HTZ55",
+      "B0D1N3DTG9",
+      "B0D1XTHJZK",
+      "B0D2Q5M35Y",
+      "B0D31FK2W6",
+      "B0D3HL1134",
+      "B0D5CSCHM1",
+      "B0D5X49K8Y",
+      "B0D5XGP6CW",
+      "B0D66ZTV67",
+      "B0D7HC65Y6",
+      "B0D7HK31TS",
+      "B0D7HKNCCY",
+      "B0D9Y1J4NH",
+      "B0DBLJLK75",
+      "B0DCFXF1H1",
+      "B0DCW87ZXL",
+      "B0DD7B3VGB",
+      "B0DFG8H5TM",
+      "B0DFMCKCTW",
+      "B0DGD6QF9C",
+      "B0DHS5VY3M",
+      "B0DJ32BN83",
+      "B0DK1M9DY3",
+      "B0DK45QKTJ",
+      "B0DKT8JZBH",
+      "B0DLJPJRLJ",
+      "B0DNZMCN1R",
+      "B0DQQBC88X",
+      "B0DT9BQFRF",
+      "B0DWSK27FH",
+      "B0DX1TFTY1",
+      "B0DYCMVTG8",
+      "B0DYHY7K2V",
+      "B0F249TYWY",
+      "B0F2NCPKBY",
+      "B0F3D2V46J",
+      "B0F4X2XVG9",
+      "B0F5WN6HVZ",
+      "B0F6K1Q29G",
+      "B0F93RCL8N",
+      "B0FB3827XP",
+      "B0FB3CY9HJ",
+      "B0FB8K6YT1",
+      "B0FBW8QM21",
+      "B0FCV2Q8TB",
+      "B0FCZ1DHKN",
+      "B0FF4PYQ43",
+      "B0FGZXQQD8",
+      "B0FJ5N5PX4",
+      "B0FM82XNLF",
+      "B0FP8DNDZP",
+      "B0FP8TKZM6",
+      "B0FPPKNWFW",
+      "B0FQ5J7HFQ",
+      "B0FQ9HPS1M",
+      "B0FRD7D51J",
+      "B0FW34MF6F",
+      "B0FXDVQMQG",
+      "B0FY2Q49WD",
+      "B0FZTH87FX",
+      "B0G4LTQRRH",
+      "B0G4M5QMNG",
+      "B0G4VW29T7",
+      "B0G92Q1JWZ",
+      "B0GCYVPLRY",
+      "B0GCZXVHLW",
+      "B0GD5JXCLC",
+      "B0GJZZK9VH",
+      "B0GN94RMMZ",
+      "B0GTQ1DLQ5",
+      "B0GTYWMCN2",
+      "B0GV2C9D8L",
+      "B0H187FJQ6",
+      "B0H1B4732Z",
+      "B0H1D6GWKP",
+      "B0H9RVXHVB"
+    ],
+    "require_jump_rope_terms": true,
+    "require_app_or_bluetooth_terms": true,
+    "exclude_auto_jump_rope_machines": true,
+    "removed_count": 31,
+    "removed": [
+      {
+        "asin": "B0H7RBL92D",
+        "title": "【KPONE】縄跳びマシン 自動縄跳び機 充電式可変速ポータブル縄跳びマシン スマートリモコン付き 自動電子カウント 小学生用 大人用 運動器具 室内 エクササイズ 外遊び トレーニング用 親子活動 ファミリーオフィスジムパーティー用 (pink)",
+        "reasons": [
+          "not_app_or_bluetooth",
+          "jump_rope_machine_excluded_for_app_theme"
+        ]
+      },
+      {
+        "asin": "B0H2VSSLZS",
+        "title": "【KPONE】縄跳びマシン 縄跳びましーん 自動縄跳び機 まるパンダ跳 充電式可変速 スマートリモコン付き 自動カウント機能搭載 小学生から大人まで対応 室内外兼用 エクササイズ トレーニング 親子活動 ファミリー オフィス パーティー用 運動器具 (blue)",
+        "reasons": [
+          "not_app_or_bluetooth",
+          "jump_rope_machine_excluded_for_app_theme",
+          "duplicate_model_of:B0H7RBL92D"
+        ]
+      },
+      {
+        "asin": "B0GZDBWXGR",
+        "title": "【KPONE】縄跳びマシン 自動縄跳び機 充電式可変速ポータブル縄跳びマシン スマートリモコン付き 自動電子カウント 小学生用 大人用 運動器具 室内 エクササイズ 外遊び トレーニング用 親子活動 ファミリーオフィスジムパーティー用 (yellow)",
+        "reasons": [
+          "not_app_or_bluetooth",
+          "jump_rope_machine_excluded_for_app_theme",
+          "duplicate_model_of:B0H7RBL92D"
+        ]
+      },
+      {
+        "asin": "B0F5Q8K8BZ",
+        "title": "【Amazon限定ブランド】縄跳び エア縄跳び 縄跳び 大人用 なわとび エア縄跳び 2WAY 有酸素運動 カウント機能 縄跳び ダイエット 縄跳び トレーニング用 大人用 縄跳び 小学生 縄跳び 子供 エクササイズ トレーニング 縄跳び エア縄跳び 防滑グリップ 長さ調節可能 耐久性 折れない 絡まない ダイエットグッズ 室内室外兼用 静音設計 日本語説明書付き 収納袋付き 日本サポート対応",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0H2VLCY3K",
+        "title": "【KPONE】縄跳びマシン 縄跳びましーん 自動縄跳び機 まるパンダ跳 充電式可変速 スマートリモコン付き 自動カウント機能搭載 小学生から大人まで対応 室内外兼用 エクササイズ トレーニング 親子活動 ファミリー オフィス パーティー用 運動器具 (pink)",
+        "reasons": [
+          "not_app_or_bluetooth",
+          "jump_rope_machine_excluded_for_app_theme",
+          "duplicate_model_of:B0H7RBL92D"
+        ]
+      },
+      {
+        "asin": "B0GX149F32",
+        "title": "CHUNSHUN 自動縄跳び機 電動 充電式 無段階変速 スマートリモコン付き 自動電子カウント 小学生 大人兼用 ポータブル 室内外 トレーニング 親子活動 オフィスフィットネス 家庭用運動器具 ピンク",
+        "reasons": [
+          "not_app_or_bluetooth",
+          "jump_rope_machine_excluded_for_app_theme"
+        ]
+      },
+      {
+        "asin": "B0GYG17MJJ",
+        "title": "【KPONE】縄跳びマシン 自動縄跳び機 充電式可変速ポータブル縄跳びマシン スマートリモコン付き 自動電子カウント 小学生用 大人用 運動器具 室内 エクササイズ 外遊び トレーニング用 親子活動 ファミリーオフィスジムパーティー用 (Blue a)",
+        "reasons": [
+          "not_app_or_bluetooth",
+          "jump_rope_machine_excluded_for_app_theme",
+          "duplicate_model_of:B0H7RBL92D"
+        ]
+      },
+      {
+        "asin": "B0H2VTP14Y",
+        "title": "【KPONE】縄跳びマシン 縄跳びましーん 自動縄跳び機 まるパンダ跳 充電式可変速 スマートリモコン付き 自動カウント機能搭載 小学生から大人まで対応 室内外兼用 エクササイズ トレーニング 親子活動 ファミリー オフィス パーティー用 運動器具 (orange)",
+        "reasons": [
+          "not_app_or_bluetooth",
+          "jump_rope_machine_excluded_for_app_theme",
+          "duplicate_model_of:B0H7RBL92D"
+        ]
+      },
+      {
+        "asin": "B0BF72GHV5",
+        "title": "スマート縄跳びマシン - 自動カウント インテリジェント電動スキッピングマシン エクササイズ 縄跳び 家族 オフィス ジム パーティー用(ピンク)",
+        "reasons": [
+          "jump_rope_machine_excluded_for_app_theme"
+        ]
+      },
+      {
+        "asin": "B0H471676T",
+        "title": "Matybobe 自動ロープマシン 電動縄跳びマシン スマートジャンプ リモコン インテリジェントカウント マルチパーソンインタラクション 子供向け簡単組み立て (黄色)",
+        "reasons": [
+          "not_app_or_bluetooth",
+          "jump_rope_machine_excluded_for_app_theme"
+        ]
+      },
+      {
+        "asin": "B07TCNBG5Y",
+        "title": "Amazonベーシック なわとび ジャンプロープ 標準タイプ グレー 300cm",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0GLNN93W3",
+        "title": "【Amazon.co.jp限定】バトルロープ 自宅 静音 高負荷 縄なし縄跳び ロープ 筋トレ トレーニング ダイエット コードレス バラック",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B075V1TLCZ",
+        "title": "LINDSPORTS ウェイトジャンプロープ トレーニング用縄跳び (【赤】0.5kg)",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B07RQKHCL2",
+        "title": "PROIRON 縄跳び トレーニング用 大人用 なわとび スピードロープ 高速回転 もつれ防止 特別なダブルボールベアリング 競技用 練習用 収納袋付 長さ調整可能",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0D7SPTDZZ",
+        "title": "Cluoling 縄跳び トレーニング用 なわとび フィットネス ジャンプロープ 長さ調整可 エクササイズ フィットネス 大人/子供用 ジャンプロープ フィットネス 縄跳び 人間工学設計 消費カロリー 健康維持 超軽量 ジュニア用 室内/屋外",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0F8Z19JPM",
+        "title": "【 世界のトップアスリートが愛用 】 エリート・ジャンプス (Elite Jumps：PVC) 初心者用 トレーニング用 縄跳び 大人用 ジャンプロープ フィットネス 有酸素運動 筋トレ 長さ調整可能 155g (ホワイト)",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0FSCY3RD9",
+        "title": "AORTD 縄跳び エア縄跳び 2WAY 重い 无绳跳绳 有酸素運動 カウント機能 カロリー表示 ダイエット用 長さ調節可能 大人 子供 男女兼用",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0DQK87WD3",
+        "title": "Sugarello エア縄跳び なわとび 室内 2way ダイエット 縄跳び 縄なし縄跳び ロープ調整可 カロリーカウンター 有酸素運動 エアなわとび タイマーカウント 取説付き",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0FNJF4HH7",
+        "title": "縄跳び エア縄跳び 縄跳び 大人用 なわとび エア縄跳び 有酸素運動 カウント機能 縄跳び ダイエット 縄跳び トレーニング用 大人用 縄跳び 小学生 縄跳び 子供 エクササイズ トレーニング 縄跳び エア縄跳び 防滑グリップ 長さ調節可能 耐久性 折れない 絡まない ダイエットグッズ 室内室外兼用 静音設計 収納袋付き (青色)",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B09YQFWG61",
+        "title": "MaT store 縄なし縄跳び ダイエット エア縄跳び なわとび トレーニング 室内 有酸素運動 (ピンク)",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0DG86L3XP",
+        "title": "HAPPY SUGAR 縄なし縄跳び エア縄跳び なわとび トレーニング 大人用 ダイエット 室内 有酸素運動 エクササイズ 筋トレ コードレス",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0G1M7GVNT",
+        "title": "【Amazon.co.jp限定】バトルロープ 自宅 静音 高負荷 縄なし縄跳び ロープ 筋トレ トレーニング ダイエット コードレス グレー",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0DG888DGG",
+        "title": "HAPPY SUGAR 縄なし縄跳び エア縄跳び なわとび トレーニング 大人用 ダイエット 室内 有酸素運動 エクササイズ 筋トレ コードレス",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0DZ65KD7B",
+        "title": "KOOPRO 縄跳び トレーニング用 大人用 エア縄跳び 2way なわとび",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0BJFBYW5C",
+        "title": "Bluetoothスマート縄跳びマシン、自動カウント電動縄跳びマシン、音楽、ワークアウト、ジムロープ、家族、ジム、オフィス、パーティー用の10スピードとリモートコントロール付き",
+        "reasons": [
+          "jump_rope_machine_excluded_for_app_theme"
+        ]
+      },
+      {
+        "asin": "B0DQRHTK36",
+        "title": "ブルートゥース機能搭載のスピード調節可能なスマートジャンプロープ機械持続バッテリーバッテリー内蔵の連続20時間使用可能材料Abs For Music Lovers (青)",
+        "reasons": [
+          "jump_rope_machine_excluded_for_app_theme"
+        ]
+      },
+      {
+        "asin": "B0GYTY7CZM",
+        "title": "【 跳んだ回数が一目でわかる！】 カウンター付なわとび 日々のトレーニング成果を数値で実感 運動不足解消やダイエットに最適 ロープ2.7m",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B0FSCTVLZ1",
+        "title": "AORTD 縄跳び エア縄跳び 2WAY 重い 无绳跳绳 有酸素運動 カウント機能 カロリー表示 ダイエット用 長さ調節可能 大人 子供 男女兼用",
+        "reasons": [
+          "not_app_or_bluetooth",
+          "duplicate_model_of:B0FSCY3RD9"
+        ]
+      },
+      {
+        "asin": "B0FSCWHV6P",
+        "title": "AORTD 縄跳び エア縄跳び 2WAY 重い 无绳跳绳 有酸素運動 カウント機能 カロリー表示 ダイエット用 長さ調節可能 大人 子供 男女兼用",
+        "reasons": [
+          "not_app_or_bluetooth",
+          "duplicate_model_of:B0FSCY3RD9"
+        ]
+      },
+      {
+        "asin": "B0FGJFDL4F",
+        "title": "JIFTON エア縄跳び コードレス 2WAY 静音 デジタルカウンター 回数・カロリー・時間表示 室内外兼用 長さ調整 収納袋付 NT-01",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      },
+      {
+        "asin": "B07D58VRBJ",
+        "title": "ZooooM カウンター 付き トレーニング 用 縄跳び 跳んだ 回数 計測 なわとび 大人 子供 用 トレーニング用 長さ 調節 可 2.9m 有酸素 運動 筋トレ ダイエット フィットネス (グリーン) ZM-JR3879-GR",
+        "reasons": [
+          "not_app_or_bluetooth"
+        ]
+      }
+    ]
+  },
+  "filtered_count": 10
+}
