@@ -30,11 +30,13 @@
 1.  `03_schedule/schedule_2026.md` から、本日または指定日の投稿予定タイトルを取得する。
 2.  **Stage 1 候補収集**: 親ワークスペースルートから `search_amazon_creators.py --mode pool` を実行し、候補プールJSONを取得する。
     -   クエリは**ジャンル・用途キーワードで書く**（例:「モバイルバッテリー 軽量 大容量」）。**商品名の直指定は禁止**（例:「Anker PowerCore 10000」のような書き方は候補が1件しか返らず、後続の多様性制約・件数決定が成立しない）。
+    -   対象テーマが `shared/research_knowledge/categories.json` の共通カテゴリに該当する場合は、`--knowledge-category <id>` を付けて定番ブランド・定番クエリを候補プールに混ぜる。ナレッジは採用強制ではなく候補確認の強制であり、最終採用はStage 3の機械選抜に任せる。
+    -   利用可能カテゴリは `python3 shared/scripts/search_amazon_creators.py --account daily_gadget --list-knowledge-categories` で確認する。
     -   目標候補数は最終採用数の4〜6倍を目安に、複数クエリで母集団を広げる。
     ```bash
     python3 shared/scripts/search_amazon_creators.py --account daily_gadget \
       "<ジャンル・用途キーワード1>" "<ジャンル・用途キーワード2>" \
-      --item-count 10 --label <ラベル>
+      --knowledge-category <カテゴリID> --item-count 10 --label <ラベル>
     ```
 3.  **Stage 2 実測 + Stage 3 機械選抜**: `select_products.py --refresh-reviews` を実行する。Amazon Creators APIはレビュー件数・星評価をほぼ返さない（実測なしではTier判定ができない）ため、必ず `--refresh-reviews` を付ける。Tier判定・多様性制約・件数決定・掲載順・URL整合性ゲートはすべてスクリプトが機械実行する。
     ```bash
