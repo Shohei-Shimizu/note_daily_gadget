@@ -1,0 +1,42 @@
+{
+ "_schema": {
+  "source": "graphql.note.com — note dashboard GraphQL API (queries: Dashboard_StatsLayoutSummaryQuery, Dashboard_ReferrerSectionQuery)",
+  "account": "daily_gadget",
+  "collected_at": "2026-09-08",
+  "note": "M_YYYY-MM = that calendar month only. ALL / LAST_* = cumulative over the window. impressionCount is new in the 2026-09-08 dashboard update."
+ },
+ "summary": {
+  "ALL":           {"label":"全期間 (〜2026年9月8日)","start":"1970-01-01","end":"2026-09-08","pageViewCount":100595,"impressionCount":413582,"likeCount":1183,"commentCount":3,"salesAmount":0},
+  "LAST_7_DAYS":   {"label":"2026年9月1日〜9月7日","start":"2026-09-01","end":"2026-09-07","pageViewCount":4016,"impressionCount":6727,"likeCount":15,"commentCount":0,"salesAmount":0},
+  "LAST_28_DAYS":  {"label":"2026年8月11日〜9月7日","start":"2026-08-11","end":"2026-09-07","pageViewCount":14393,"impressionCount":25101,"likeCount":95,"commentCount":0,"salesAmount":0},
+  "LAST_365_DAYS": {"label":"2025年9月8日〜9月7日","start":"2025-09-08","end":"2026-09-07","pageViewCount":104611,"impressionCount":420309,"likeCount":1198,"commentCount":3,"salesAmount":0},
+  "M_2025-11": {"label":"2025年11月","pageViewCount":696,"impressionCount":17631,"likeCount":108,"commentCount":0,"salesAmount":0},
+  "M_2025-12": {"label":"2025年12月","pageViewCount":18587,"impressionCount":58110,"likeCount":190,"commentCount":0,"salesAmount":0},
+  "M_2026-01": {"label":"2026年1月","pageViewCount":16036,"impressionCount":72371,"likeCount":188,"commentCount":1,"salesAmount":0},
+  "M_2026-02": {"label":"2026年2月","pageViewCount":3947,"impressionCount":46243,"likeCount":135,"commentCount":0,"salesAmount":0},
+  "M_2026-03": {"label":"2026年3月","pageViewCount":4326,"impressionCount":41952,"likeCount":105,"commentCount":1,"salesAmount":0},
+  "M_2026-04": {"label":"2026年4月","pageViewCount":4371,"impressionCount":33892,"likeCount":89,"commentCount":0,"salesAmount":0},
+  "M_2026-05": {"label":"2026年5月","pageViewCount":6058,"impressionCount":36422,"likeCount":116,"commentCount":1,"salesAmount":0},
+  "M_2026-06": {"label":"2026年6月","pageViewCount":14606,"impressionCount":37066,"likeCount":83,"commentCount":0,"salesAmount":0},
+  "M_2026-07": {"label":"2026年7月","pageViewCount":17506,"impressionCount":43467,"likeCount":72,"commentCount":0,"salesAmount":0},
+  "M_2026-08": {"label":"2026年8月","pageViewCount":14462,"impressionCount":26428,"likeCount":97,"commentCount":0,"salesAmount":0},
+  "M_2026-09": {"label":"2026年9月","pageViewCount":4455,"impressionCount":7868,"likeCount":16,"commentCount":0,"salesAmount":0}
+ },
+ "referrers": {
+  "ALL": {"Google":65623,"note.com":14936,"no referrer":10580,"search.yahoo.co.jp":4379,"www.bing.com":3755,"duckduckgo.com":450,"notification":297,"service.smt.docomo.ne.jp":135,"websearch.rakuten.co.jp":86,"www.perplexity.ai":44,"other":300},
+  "LAST_7_DAYS": {"Google":2702,"no referrer":625,"search.yahoo.co.jp":339,"note.com":252,"www.bing.com":59,"duckduckgo.com":11,"service.smt.docomo.ne.jp":10,"www.perplexity.ai":5,"search.fenrir-inc.com":3,"websearch.rakuten.co.jp":3,"other":7},
+  "LAST_28_DAYS": {"Google":9508,"no referrer":2335,"search.yahoo.co.jp":1164,"note.com":994,"www.bing.com":245,"service.smt.docomo.ne.jp":42,"duckduckgo.com":39,"websearch.rakuten.co.jp":13,"search.fenrir-inc.com":8,"chatgpt.com":7,"other":38},
+  "LAST_365_DAYS": {"Google":68325,"note.com":15188,"no referrer":11205,"search.yahoo.co.jp":4718,"www.bing.com":3814,"duckduckgo.com":461,"notification":297,"service.smt.docomo.ne.jp":145,"websearch.rakuten.co.jp":89,"www.perplexity.ai":49,"other":310},
+  "M_2025-11": {"note.com":476,"Google":97,"no referrer":62,"www.bing.com":33,"Facebook":8,"search.yahoo.co.jp":7,"copilot.microsoft.com":5,"duckduckgo.com":2,"l.threads.com":2,"www.ecosia.org":1},
+  "M_2025-12": {"Google":14450,"note.com":2556,"no referrer":1092,"www.bing.com":359,"search.yahoo.co.jp":70,"duckduckgo.com":33,"notification":8,"b.hatena.ne.jp":5,"copilot.microsoft.com":3,"www.ecosia.org":2,"other":9},
+  "M_2026-01": {"Google":11841,"note.com":2769,"no referrer":809,"www.bing.com":358,"search.yahoo.co.jp":144,"duckduckgo.com":41,"notification":19,"websearch.rakuten.co.jp":11,"chatgpt.com":8,"X":5,"other":24},
+  "M_2026-02": {"note.com":1788,"Google":994,"www.bing.com":386,"no referrer":363,"notification":225,"search.yahoo.co.jp":128,"duckduckgo.com":42,"www.perplexity.ai":6,"service.smt.docomo.ne.jp":3,"www.ecosia.org":3,"other":9},
+  "M_2026-03": {"Google":1727,"note.com":1485,"www.bing.com":424,"no referrer":422,"search.yahoo.co.jp":186,"duckduckgo.com":43,"www.perplexity.ai":8,"search.fenrir-inc.com":5,"websearch.rakuten.co.jp":5,"chatgpt.com":3,"other":18},
+  "M_2026-04": {"Google":1862,"note.com":1014,"no referrer":620,"www.bing.com":556,"search.yahoo.co.jp":217,"duckduckgo.com":65,"websearch.rakuten.co.jp":6,"copilot.microsoft.com":5,"service.smt.docomo.ne.jp":4,"chatgpt.com":3,"other":19},
+  "M_2026-05": {"Google":3249,"note.com":1062,"no referrer":833,"www.bing.com":429,"search.yahoo.co.jp":375,"duckduckgo.com":47,"ratingintent.com":19,"websearch.rakuten.co.jp":10,"service.smt.docomo.ne.jp":9,"search.fenrir-inc.com":6,"other":19},
+  "M_2026-06": {"Google":10280,"no referrer":1661,"note.com":1259,"search.yahoo.co.jp":822,"www.bing.com":431,"duckduckgo.com":57,"service.smt.docomo.ne.jp":27,"websearch.rakuten.co.jp":13,"www.perplexity.ai":10,"chatgpt.com":7,"other":39},
+  "M_2026-07": {"Google":11657,"no referrer":2341,"note.com":1493,"search.yahoo.co.jp":1270,"www.bing.com":503,"duckduckgo.com":81,"service.smt.docomo.ne.jp":47,"notification":34,"websearch.rakuten.co.jp":23,"www.ecosia.org":6,"other":51},
+  "M_2026-08": {"Google":9466,"no referrer":2377,"search.yahoo.co.jp":1160,"note.com":1034,"www.bing.com":276,"duckduckgo.com":39,"service.smt.docomo.ne.jp":39,"websearch.rakuten.co.jp":15,"search.fenrir-inc.com":11,"chatgpt.com":5,"other":40},
+  "M_2026-09": {"Google":3008,"no referrer":681,"search.yahoo.co.jp":370,"note.com":283,"www.bing.com":72,"duckduckgo.com":11,"service.smt.docomo.ne.jp":11,"www.perplexity.ai":5,"search.fenrir-inc.com":3,"websearch.rakuten.co.jp":3,"other":8}
+ }
+}
