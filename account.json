@@ -26,7 +26,8 @@
     },
     {
       "name": "🏡 スマートホーム・生活改善",
-      "magazine_url": "https://www.amazon.co.jp/shop/zanetti/list/3PE57JTNNDNGZ"
+      "magazine_url": "https://www.amazon.co.jp/shop/zanetti/list/3PE57JTNNDNGZ?linkCode=spc&tag=daily-gadget-22&domainId=influencer&asc_contentid=amzn1.ideas.3PE57JTNNDNGZ",
+      "_note": "2026-09-10までアフィリエイトタグ無しの生URLだったため、このカテゴリのアイデアリスト誘導は成果が計上されていなかった。他4カテゴリのSiteStripe発行リンク（amzn.to）が展開される形と同じ構造で組み直した。着地ページに daily-gadget-22 が30回出現することを確認済み（参照リンクは24回）。"
     },
     {
       "name": "🤖 AI・生産性ツール",

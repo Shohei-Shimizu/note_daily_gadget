@@ -14,17 +14,18 @@
       "title": "カフェも車内も。外出先で仕事を進めるモバイルガジェット"
     },
     "🏡 スマートホーム・生活改善": {
-      "url": "https://www.amazon.co.jp/shop/zanetti/list/3PE57JTNNDNGZ",
-      "title": "家事も健康も自動化。スマートホーム＆ライフ改善ガジェット"
+      "url": "https://www.amazon.co.jp/shop/zanetti/list/3PE57JTNNDNGZ?linkCode=spc&tag=daily-gadget-22&domainId=influencer&asc_contentid=amzn1.ideas.3PE57JTNNDNGZ",
+      "title": "家事も健康も自動化。スマートホーム＆ライフ改善ガジェット",
+      "_note": "2026-09-10 修正。それまでアフィリエイトタグ無しの生URLで、このカテゴリのアイデアリスト誘導は成果が計上されていなかった。他4カテゴリのSiteStripe発行リンクが展開される形と同じ構造に揃えた。"
     },
     "🤖 AI・生産性ツール": {
       "url": "https://amzn.to/4tdkjuu",
       "title": "創作と集中を加速する。クリエイター向け生産性ガジェット"
     },
     "🎉 Amazonプライムデー特集": {
-      "url": "",
+      "url": "https://amzn.to/4pg03YY",
       "title": "プライムデー特集：狙い目のお得ガジェットまとめ",
-      "_note": "2026-07-10号外記事用に新規作成予定のアイデアリスト。作成後、このurlと記事内の【要URL挿入】箇所を更新すること。"
+      "_note": "2026-09-10 記入。2026-07-10号外記事の本文に入っていた実URLから確定した。展開先は .../shop/zanetti/list/30F78N2LYB78F?...&tag=daily-gadget-22 で、タグは付いている。category_to_magazine からは参照されない号外専用。"
     }
   },
   "category_to_magazine": {
