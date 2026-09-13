@@ -1,0 +1,313 @@
+{
+  "generated_at": "2026-09-13T23:47:53+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261007_8902b40c",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261007_scanner"
+  ],
+  "fetched_count": 10,
+  "dedup_count": 9,
+  "candidates": [
+    {
+      "asin": "B07HGG2HGM",
+      "title": "エプソン スキャナー ES-50 (モバイル/A4/USB対応/ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B07HGG2HGM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07HGG2HGM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "読取方式:手差し給紙1枚(ADF)",
+        "読み取り:片面",
+        "原稿サイズ: A4",
+        "インターフェイス:USB",
+        "外形寸法:272×47×33.8mm(突起物・ゴム足含まず)",
+        "「Epson ScanSmart」を標準同梱"
+      ],
+      "maker": "Epson",
+      "query": "dg_20261007_scanner",
+      "queries_matched": [
+        "dg_20261007_scanner"
+      ],
+      "review_count": 337,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "scanner_doc",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-30",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B07HG9JLKG",
+      "title": "エプソン スキャナー ES-60WB (モバイル/A4/USB対応/Wi-Fi対応/ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B07HG9JLKG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07HG9JLKG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "読取方式:手差し給紙1枚(ADF)",
+        "読み取り:片面",
+        "原稿サイズ: A4",
+        "インターフェイス:USB、無線LAN",
+        "リチウムイオンバッテリー搭載で電源の心配が不要",
+        "外形寸法:272×47×33.8mm(突起物・ゴム足含まず)",
+        "「Epson ScanSmart」を標準同梱",
+        "コネクタタイプ:: Wi-Fi"
+      ],
+      "maker": "Epson",
+      "query": "dg_20261007_scanner",
+      "queries_matched": [
+        "dg_20261007_scanner"
+      ],
+      "review_count": 337,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "scanner_doc",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-05",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0C23RFQNM",
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX100 (最新/A4/片面読取/Wi-Fi対応/USB接続/モバイル/書類/レシート/名刺/写真) (Black)",
+      "url": "https://www.amazon.co.jp/dp/B0C23RFQNM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C23RFQNM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "軽量コンパクトボディーにモバイルバッテリーとWi-Fiを搭載し、パソコンはもちろんスマートフォンやタブレットにコードレスで接続できるモバイルスキャナーです。",
+        "身の周りのドキュメント、名刺、写真などを手元のスマートフォンやタブレットでスピーディーに電子化、クラウドサービスなどでスマート活用。軽量コンパクト・コードレスにより、外出先やオフィスはもとより、リビングや書斎など、様々な場所に持ち運んで自由にお使いいただけます。",
+        "高性能薄型バッテリーを搭載。ケーブル接続による給電の必要がなく、好きな場所ですぐに使うことができます。",
+        "オフィスや周囲のWi-Fi環境に応じて、アクセスポイント接続モード、ダイレクト接続方法、接続方法・接続先を自動的に切り替えます。Wi-Fi環境の有無によらず、iX100をいつでもご利用いただけるようになります。",
+        "大きいサイズの原稿読み取りの見開きページの自動合成、名刺やレシートなどの小さい紙は2枚並べて同時に読み取るデュアルスキャンなどの便利機能ですばやい電子化をサポートします。"
+      ],
+      "maker": "RICOH",
+      "query": "dg_20261007_scanner",
+      "queries_matched": [
+        "dg_20261007_scanner"
+      ],
+      "review_count": 235,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-30",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B083VZHDGZ",
+      "title": "ブラザー工業(Brother Industries) ドキュメントスキャナー MDS-940DW (モバイルスタイル/両面スキャン/無線LAN/スマホ接続)",
+      "url": "https://www.amazon.co.jp/dp/B083VZHDGZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B083VZHDGZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "無線LAN対応・充電池搭載で、PCレスでも使えるモバイルスキャナー",
+        "両面読取対応",
+        "読取速度(A4縦/300dpi/片面・両面)：カラー約4秒/枚、モノクロ約4秒/枚",
+        "インターフェイス：Micro USB 3.0、無線LAN。液晶：LED（PICT）",
+        "サイズ自動検出、傾き補正機能、スキャンtoSDカード、電源：リチウムイオン充電池、USBバスパワー"
+      ],
+      "maker": "Brother",
+      "query": "dg_20261007_scanner",
+      "queries_matched": [
+        "dg_20261007_scanner"
+      ],
+      "review_count": 217,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "scanner_doc",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-30",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B09LD2SXWC",
+      "title": "Plustek モバイルスキャナー S410 Plus - ポータブルシートフィードドキュメントスキャナー - Windows 7/8 / 10/11用 OCRソフトウェア付属ボタンフリースキャン",
+      "url": "https://www.amazon.co.jp/dp/B09LD2SXWC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09LD2SXWC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "ボタンフリースキャン - S410 plusは自動スキャンデバイスで、ボタンを押したり画面をクリックしたりする必要はありません。",
+        "外出先でデジタル化 - USB電源でコンピューターに接続。バッテリーや外部電源は必要ありません。",
+        "超コンパクト – わずか約410gの重さで、このデバイスは事実上どこにでも収まります",
+        "万能な紙の取り扱い - A4サイズまでの書類、名刺、プラスチックIDカード、請求書、領収書を簡単にスキャンできます。",
+        "Plustek Docactionでよりスマートに作業 - 内蔵のOCRにより、ファイルを検索可能なPDF、Excel、Wordなどの編集可能なファイルに変換できます。 ローカルコンピューター、FTP、さらには共有フォルダーにシームレスに保存できます。ほとんどのソフトウェアソリューションと互換性があります。TWAINドライバーが付属しているため、ほとんどのドキュメント管理ソフトウェアにデータを簡単に組み込むことができます。"
+      ],
+      "maker": "Plustek",
+      "query": "dg_20261007_scanner",
+      "queries_matched": [
+        "dg_20261007_scanner"
+      ],
+      "review_count": 213,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-30",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0FX36NZNT",
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX110 (A4 片面読取 Wi-Fi対応 USB Type-C モバイル) 書類 レシート 名刺 写真 (Black)",
+      "url": "https://www.amazon.co.jp/dp/B0FX36NZNT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FX36NZNT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "軽量・コンパクトながら高性能を誇るモバイルスキャナーが、USB Type‑Cポート（USBポート）を新搭載してリニューアル。バッテリーとWi‑Fiを内蔵し、PCはもちろんスマートフォンやタブレットにもコードレス接続が可能です。",
+        "ドキュメント、名刺、レシート、写真などをスピーディーに電子化し、クラウドサービスと連携してスマートに活用。省スペースでスキャンでき、小さな紙なら2枚同時スキャンが可能な「デュアルスキャン」機能も搭載。外出先やオフィスはもちろん、リビングや書斎など様々な場所へ持ち運んで利用できます。プラスチックカードにも対応。",
+        "わずか約400gの軽量ボディに高性能薄型バッテリーを内蔵。USB Type‑Cからの充電やPCへの安定した有線接続に対応し、Wi‑Fi環境に合わせてアクセスポイント接続モード／ダイレクト接続を自動切り替えるため、ネットワークの有無にかかわらず快適にスキャンできます。",
+        "専用ソフト「ScanSnap Home」が、原稿の閲覧・整理・情報抽出・検索・タグ付け・各種アプリ連携までトータルにサポート。さらに「ScanSnap Cloud」を使えば、原稿種の自動判別からクラウドサービス（Evernote、Google Drive、OneDrive、Dropboxなど）への直接保存までPCやスマートフォンを介さずに完結可能です。",
+        "見開きページの自動合成や多彩なスキャンモードなど便利機能も充実。Windows/Mac/iOS/iPadOS/Android/ChromeOS対応で、在宅ワークからビジネス外出まで、どこでも効率的な書類整理ができます。"
+      ],
+      "maker": "RICOH",
+      "query": "dg_20261007_scanner",
+      "queries_matched": [
+        "dg_20261007_scanner"
+      ],
+      "review_count": 82,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "scanner_doc",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-19",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0C23XJGCW",
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX1600 (最新/高速毎分40枚/両面読取/ADF/4.3インチタッチパネル/Wi-Fi対応/USB接続/フラグシップ/書類/レシート/名刺/写真) (White)",
+      "url": "https://www.amazon.co.jp/dp/B0C23XJGCW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C23XJGCW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "ScanSnap史上最速の毎分40枚の高速スキャン。パソコンはもちろん、スマートデバイス接続時も安定した高速大量スキャンを実現します。",
+        "簡単操作のタッチパネルを搭載。目的に応じたアイコン（プロファイル）を選んでスキャンするだけの直観操作。アイコンは保存先やファイル形式などユーザーにあわせてカスタマイズできます。そのためチームで使用するときも簡単便利。タッチパネル上でユーザーを簡単に切り替えることができ、自分だけのプロファイルを迷わず選べ快適にお使いいただけます。",
+        "クラウド保存もワンタッチ！Wi-Fi(2.4/5GHz帯)対応でスキャナーがPCやスマートデバイスとワイヤレスでつながるだけでなく、インターネットにも直結。文書管理、名刺管理、経費精算や家計簿などの多彩なクラウドサービスへの保存もタッチパネルからワンタッチ。",
+        "テレワークとオフィス業務のメンバーが混在する中でも、クラウド保存で簡単に共有でき、時間や場所にとらわれないフレキシブルな働き方・さらなる業務効率化を支援します。",
+        "ドキュメント読み取りからデータ整理・活用まで一元管理ができるソフトウェア「ScanSnap Home」に対応。原稿の読み取りから、閲覧、編集管理、検索やアプリケーションへの連携、学習機能によりデータの生成や管理を効果的にアシストしてくれます。"
+      ],
+      "maker": "RICOH",
+      "query": "dg_20261007_scanner",
+      "queries_matched": [
+        "dg_20261007_scanner"
+      ],
+      "review_count": 377,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "scanner_doc",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B09FSC61GM",
+      "title": "Canon キヤノン ドキュメントスキャナー imageFORMULA R10 JPN",
+      "url": "https://www.amazon.co.jp/dp/B09FSC61GM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09FSC61GM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "プラグ&amp;スキャン(USB接続)",
+        "USBバスパワー駆動",
+        "カードスキャン対応",
+        "コンパクト設計",
+        "コネクタタイプ:USB",
+        "スキャナータイプ: ドキュメント"
+      ],
+      "maker": "Canon",
+      "query": "dg_20261007_scanner",
+      "queries_matched": [
+        "dg_20261007_scanner"
+      ],
+      "review_count": 32,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "scanner_doc",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B01IALGUZY",
+      "title": "エプソン スキャナー DS-310 (シートフィード/A4両面)",
+      "url": "https://www.amazon.co.jp/dp/B01IALGUZY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01IALGUZY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "カードスキャンにも対応。カウンター業務でも活躍",
+        "両面同時スキャンで50面/分を実現",
+        "棚や引き出しにすっきり収納できるコンパクトサイズ。",
+        "使用環境に合わせて様々な接続方法で使える",
+        "オフィスでの大量文書のスキャン業務にも耐える20万スキャンの高耐久性を実現。"
+      ],
+      "maker": "Epson",
+      "query": "dg_20261007_scanner",
+      "queries_matched": [
+        "dg_20261007_scanner"
+      ],
+      "review_count": 33,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": [
+      "type:scanner"
+    ],
+    "asins_explicit": false,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": "2026-09-01",
+    "exclude_asins": [
+      "B0F7Y1LZL3"
+    ],
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  },
+  "measurement_source": "dg_20261007_dryrun.log; Amazon商品ページ実測 2026-09-14"
+}

@@ -1,0 +1,56 @@
+🚫 --exclude-asin により 13 件を選抜対象から外しました: B07MFPMQPD, B08TG9FH9G, B0CKQGX8YS, B0CQ291DCW, B0D33D3WVJ, B0DHXCRRZT, B0FC2YYPKQ, B0FQ1X5R8C, B0GXYM654Z, B0GXYSM2ML, B0GY56NL92, B0H73LPFNK, B0H94983WV
+📦 候補読み込み: 15 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/dg_20261002_tablet_stand.json)
+🔎 実測: 15 件の ASIN を Amazon 商品ページから取得します...
+  [1/15] B0CFH63L6S review=529 star=4.2 stock=in_stock OK
+  [2/15] B0DFGTR792 review=532 star=4.4 stock=in_stock OK
+  [3/15] B0CCJKPT28 review=649 star=4.5 stock=in_stock OK
+  [4/15] B0BV9TJVZH review=1707 star=4.4 stock=in_stock OK
+  [5/15] B0DBVFK22W review=91 star=4.3 stock=in_stock OK
+  [6/15] B0CGD6BX73 review=282 star=4.1 stock=in_stock OK
+  [7/15] B0D7ZWYSDD review=174 star=4.2 stock=in_stock OK
+  [8/15] B09BC4KD33 review=292 star=4.1 stock=in_stock OK
+  [9/15] B0BD4J84RK review=802 star=4.6 stock=in_stock OK
+  [10/15] B0BTDHQJ6X review=12582 star=4.3 stock=in_stock OK
+  [11/15] B0D33BZCFS review=102 star=4.1 stock=in_stock OK
+  [12/15] B0CC1CTVZB review=664 star=4.5 stock=in_stock OK
+  [13/15] B0F8Q49MCX review=100 star=4.0 stock=in_stock OK
+  [14/15] B0F1MYJJHY review=19 star=4.1 stock=in_stock OK
+  [15/15] B08MLM6G1T review=119 star=4.3 stock=in_stock OK
+🗄️  DB書き込み: run=9f5922cb-ac82-4c13-bacc-244c49264b6d status=ok (今回 attempted=15 succeeded=15 failed=0 / run累積 attempted=15 succeeded=15 failed=0) product新規=9 product更新=6 metric行=15 verification行=0 (topic_idが無いためverificationは書き込みません)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 14 / 15
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 7
+
+-- 採用 --
+1. [Tier1] LISEN / B0BTDHQJ6X / review=12582 star=4.3 
+   LISEN iPad スタンド タブレット スタンド 【最高の安定性】角度調整可能 滑り止めマット スマホスタンド アイパッド モバイルモニ
+2. [Tier1] タブレットスタンド / B0BV9TJVZH / review=1707 star=4.4 
+   【76CM 初登場】 タブレットスタンド タブレット&スマートフォン 両用 寝ながら アームスタンド 360自由回転 土台強化 安定性
+3. [Tier1] Ugreen / B0BD4J84RK / review=802 star=4.6 ★有名ブランド
+   UGREEN タブレット スタンド 折りたたみ式 iPad スタンド 高さ角度調整可能 アルミ＋鉄合金製 姿勢改善 持ち運びに便利
+4. [Tier1] タブレットアーム / B0CC1CTVZB / review=664 star=4.5 
+   タブレットアーム アルミ製 iPadスタンド ブラック AboveTEK スマホ対応 角度調整 360°回転 縦横置き両用 寝ながら ベッド
+5. [Tier1] スマホスタンド / B0CCJKPT28 / review=649 star=4.5 
+   スマホスタンド iPhone&iPad 両用 全機種対応 仰向け ごろ寝 タブレットスタンド アーム 寝ながらスマホ 携帯 安定性
+6. [Tier1] Panovol / B0DFGTR792 / review=532 star=4.4 
+   Panovol タブレットスタンド【両手を解放！家具に傷がつかない！】隠し式台座 多機種対応 4-12.9インチ iPad 360°回転 折
+7. [Tier1] CACENCAN / B0CFH63L6S / review=529 star=4.2 
+   CACENCAN S01 タブレット スタンド タブレット アーム 寝ながら ベッド用 スマホスタンド アーム 横/縱き/仰向け 4～13.
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 7 件 --
+  - [Tier3] まちの波 / B0DBVFK22W: 多様性制約または件数上限のため非選抜
+  - [Tier2] ELECOM / B0CGD6BX73: 多様性制約または件数上限のため非選抜
+  - [Tier2] CHENLONB / B0D7ZWYSDD: 多様性制約または件数上限のため非選抜
+  - [Tier2] ELECOM / B09BC4KD33: 多様性制約または件数上限のため非選抜
+  - [Tier2] Hitata / B0D33BZCFS: 多様性制約または件数上限のため非選抜
+  - [Tier2] Yuesin / B0F8Q49MCX: 多様性制約または件数上限のため非選抜
+  - [Tier2] woleyi / B08MLM6G1T: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 1 件 --
+  - B0F1MYJJHY / WORLDLIFT タブレット/iPad スタンド 4.7-12.9インチ対応 : Tier3未満のため除外（レビュー19件・星4.1）
+============================================================
+
+(--dry-run のためファイルは書き出しません)

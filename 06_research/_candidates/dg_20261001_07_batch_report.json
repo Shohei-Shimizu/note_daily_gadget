@@ -1,0 +1,76 @@
+{
+  "session_date": "2026-09-14",
+  "limit": 80,
+  "measurement_accounting": {
+    "canary": 1,
+    "tablet_interrupted_completed": 3,
+    "tablet_interrupted_inflight_reserve": 1
+  },
+  "themes": {
+    "2026-10-02": {
+      "title": "ベッドやソファで使う。タブレットアーム・スタンド",
+      "manual_exclusions": {
+        "same_model_color": [
+          "B0CQ291DCW",
+          "B0D33D3WVJ"
+        ],
+        "off_theme": {
+          "B08TG9FH9G": "スマホ用卓上スタンド（ユーザー指定カテゴリ除外）",
+          "B0DHXCRRZT": "フィットネス機器・ベビーカーのハンドルバー用マウント"
+        },
+        "brand_unidentified": [
+          "B0FC2YYPKQ",
+          "B07MFPMQPD",
+          "B0GY56NL92",
+          "B0H94983WV",
+          "B0H73LPFNK",
+          "B0GXYSM2ML",
+          "B0GXYM654Z",
+          "B0FQ1X5R8C",
+          "B0CKQGX8YS"
+        ]
+      },
+      "brand_evidence": {
+        "Trywon": "B0CCJKPT28/B0BV9TJVZHのAPI featuresにブランド明記",
+        "AboveTEK": "B0CC1CTVZBのAPI titleにブランド明記"
+      },
+      "thumbnail": "accounts/daily_gadget/04_thumbnail/2026-10/2026-10-02_tablet_stand.png",
+      "thumbnail_scene": "ソファ脇の丸い木製サイドテーブルに置いた汎用タブレットスタンド。横からの生活写真。",
+      "image_tool": "built-in imagegen",
+      "thumbnail_visual_check": "文字・数字・ロゴ・人物なし。接地と端末の支持を目視確認。",
+      "status": "完了",
+      "adopted": 7,
+      "tiers": {
+        "Tier1": 7,
+        "Tier2": 0,
+        "Tier3": 0
+      },
+      "measurements_completed": 33,
+      "measurements_budget": 34,
+      "cumulative_budget": 35,
+      "research": "accounts/daily_gadget/06_research/2026-10/2026-10-02_ベッドやソファで使う。タブレットアーム・スタンド.md"
+    },
+    "2026-10-07": {
+      "title": "書類をデータにして片づける。ドキュメントスキャナー",
+      "status": "完了",
+      "adopted": 5,
+      "tiers": {
+        "Tier1": 0,
+        "Tier2": 5,
+        "Tier3": 0
+      },
+      "manual_exclusions": {
+        "B0F7Y1LZL3": "翻訳ペン。テーマ外",
+        "B07HG9JLKG": "B07HGG2HGMと同一親ASIN B08T2G44M4。候補順で後を除外"
+      },
+      "measurements_completed": 17,
+      "measurements_budget": 17,
+      "cumulative_budget": 52,
+      "research": "accounts/daily_gadget/06_research/2026-10/2026-10-07_書類をデータにして片づける。ドキュメントスキャナー.md",
+      "thumbnail": "accounts/daily_gadget/04_thumbnail/2026-10/2026-10-07_scanner.png",
+      "thumbnail_scene": "白い作業台に置いた汎用スキャナーと無地の書類。斜め上からの構図。",
+      "thumbnail_visual_check": "文字・数字・ロゴ・人物なし。給排紙と接地を目視確認。",
+      "image_tool": "built-in imagegen"
+    }
+  }
+}

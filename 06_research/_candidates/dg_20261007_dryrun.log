@@ -1,0 +1,42 @@
+📦 候補読み込み: 9 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/dg_20261007_scanner.json)
+🔎 実測: 9 件の ASIN を Amazon 商品ページから取得します...
+  [1/9] B07HGG2HGM review=337 star=3.8 stock=in_stock OK
+  [2/9] B07HG9JLKG review=337 star=3.8 stock=in_stock OK
+  [3/9] B0C23RFQNM review=235 star=4.3 stock=in_stock OK
+  [4/9] B083VZHDGZ review=217 star=3.9 stock=in_stock OK
+  [5/9] B09LD2SXWC review=213 star=4.2 stock=in_stock OK
+  [6/9] B0FX36NZNT review=82 star=4.3 stock=in_stock OK
+  [7/9] B0C23XJGCW review=377 star=4.5 stock=in_stock OK
+  [8/9] B09FSC61GM review=32 star=3.8 stock=in_stock OK
+  [9/9] B01IALGUZY review=33 star=3.9 stock=in_stock OK
+🗄️  DB書き込み: run=9f5922cb-ac82-4c13-bacc-244c49264b6d status=ok (今回 attempted=9 succeeded=9 failed=0 / run累積 attempted=24 succeeded=24 failed=0) product新規=0 product更新=9 metric行=9 verification行=6
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 9 / 9
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier2 / 緩和: あり
+採用件数: 6
+
+-- 採用 --
+1. [Tier2] リコー / B0C23XJGCW / review=377 star=4.5 
+   リコー PFU ドキュメントスキャナー ScanSnap iX1600 (最新/高速毎分40枚/両面読取/ADF/4.3インチタッチパネル/
+2. [Tier2] Epson / B07HGG2HGM / review=337 star=3.8 ★有名ブランド
+   エプソン スキャナー ES-50 (モバイル/A4/USB対応/ブラック)
+3. [Tier2] Epson / B07HG9JLKG / review=337 star=3.8 ★有名ブランド
+   エプソン スキャナー ES-60WB (モバイル/A4/USB対応/Wi-Fi対応/ブラック)
+4. [Tier2] RICOH / B0C23RFQNM / review=235 star=4.3 
+   リコー PFU ドキュメントスキャナー ScanSnap iX100 (最新/A4/片面読取/Wi-Fi対応/USB接続/モバイル/書類/レ
+5. [Tier2] Brother / B083VZHDGZ / review=217 star=3.9 ★有名ブランド
+   ブラザー工業(Brother Industries) ドキュメントスキャナー MDS-940DW (モバイルスタイル/両面スキャン/無線LA
+6. [Tier2] Plustek / B09LD2SXWC / review=213 star=4.2 
+   Plustek モバイルスキャナー S410 Plus - ポータブルシートフィードドキュメントスキャナー - Windows 7/8 / 
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 3 件 --
+  - [Tier3] リコー / B0FX36NZNT: 多様性制約または件数上限のため非選抜
+  - [Tier3] Canon / B09FSC61GM: 多様性制約または件数上限のため非選抜
+  - [Tier3] Epson / B01IALGUZY: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+(--dry-run のためファイルは書き出しません)
