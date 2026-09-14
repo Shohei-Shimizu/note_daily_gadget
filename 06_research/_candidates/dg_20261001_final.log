@@ -1,0 +1,44 @@
+🚫 --exclude-asin により 2 件を選抜対象から外しました: B0BVLYPYT1, B0DDXSYRXR
+📦 候補読み込み: 10 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/dg_20261001_thermo_hygrometer.json)
+🔎 実測: 10 件の ASIN を Amazon 商品ページから取得します...
+  [1/10] B07TYN8584 review=23810 star=4.1 stock=in_stock OK
+  [2/10] B081ZW3X48 review=5367 star=4.2 stock=in_stock OK
+  [3/10] B07L4QNZVF review=15490 star=4.2 stock=in_stock OK
+  [4/10] B09PYKJ6CS review=6337 star=4.4 stock=in_stock OK
+  [5/10] B0DBLDKVDW review=1033 star=4.4 stock=in_stock OK
+  [6/10] B0BWCL335L review=470 star=4.5 stock=in_stock OK
+  [7/10] B083348J3X review=1456 star=4.2 stock=in_stock OK
+  [8/10] B09PVDQ8SS review=51 star=4.0 stock=in_stock OK
+  [9/10] B0DB18WL6Z review=190 star=4.1 stock=in_stock OK
+  [10/10] B07DVJ1P6J review=130 star=3.7 stock=in_stock OK
+🗄️  DB書き込み: run=11dbeb04-d626-44b3-bf17-ee8148bc27c9 status=partial (今回 attempted=10 succeeded=10 failed=0 / run累積 attempted=35 succeeded=34 failed=1) product新規=0 product更新=10 metric行=10 verification行=5
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 10 / 10
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 5
+
+-- 採用 --
+1. [Tier1] ThermoPro / B07TYN8584 / review=23810 star=4.1 
+   ThermoProサーモプロ 湿度計 温度計 温湿度計 室内 大画面 コンパクト 顔マーク 壁掛け 卓上スタンド マグネット TP-49 (
+2. [Tier1] SwitchBot / B07L4QNZVF / review=15490 star=4.2 ★有名ブランド
+   【Works with Alexa認定】SwitchBot 温湿度計 デジタル スマート家電 高精度 スイス製センサー スマホで温度湿度管理
+3. [Tier1] SwitchBot / B09PYKJ6CS / review=6337 star=4.4 ★有名ブランド
+   SwitchBot 温湿度計プラス Alexa 温度計 湿度計 - スイッチボット スマホで温度湿度管理 デジタル 高精度 コンパクト 大画
+4. [Tier1] タニタ / B081ZW3X48 / review=5367 star=4.2 
+   タニタ 温湿度計 時計 温度 湿度 デジタル 卓上 マグネット ホワイト TT-585 WH
+5. [Tier1] Govee / B083348J3X / review=1456 star=4.2 
+   Govee 温湿度計 Bluetooth デジタル スマホ管理 高精度 大画面 コンパクト
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 5 件 --
+  - [Tier1] SwitchBot / B0DBLDKVDW: 多様性制約または件数上限のため非選抜
+  - [Tier2] TP-Link / B0BWCL335L: 多様性制約または件数上限のため非選抜
+  - [Tier3] JJ / B09PVDQ8SS: 多様性制約または件数上限のため非選抜
+  - [Tier2] TempPro / B0DB18WL6Z: 多様性制約または件数上限のため非選抜
+  - [Tier2] Inkbird / B07DVJ1P6J: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md

@@ -1,25 +1,3 @@
-🔧 Initializing Amazon Creators API (Partner Tag: daily-gadget-22, version: 3.3 / LWA)...
-🔍 [pool mode] Searching for 9 queries (item_count=10)...
-
-📚 knowledge: sensing_home / 見守りセンサー・ネットワークカメラ (must-consider brands: SwitchBot, TP-Link Tapo, Aqara, ATOM Cam, Panasonic)
-[1/9] Searching: 開閉センサー 窓 ドア スマホ通知
-  ✅ 10/10 candidates passed filters for: 開閉センサー 窓 ドア スマホ通知
-[2/9] Searching: 窓 防犯 開閉アラーム
-  ✅ 10/10 candidates passed filters for: 窓 防犯 開閉アラーム
-[3/9] Searching: 開閉センサー 窓 スマホ 通知
-  ✅ 10/10 candidates passed filters for: 開閉センサー 窓 スマホ 通知
-[4/9] Searching: ネットワークカメラ 屋内 見守り
-  ✅ 10/10 candidates passed filters for: ネットワークカメラ 屋内 見守り
-[5/9] Searching: 温湿度計 記録 スマホ
-  ✅ 10/10 candidates passed filters for: 温湿度計 記録 スマホ
-[6/9] Searching: CO2センサー 換気 測定
-  ✅ 10/10 candidates passed filters for: CO2センサー 換気 測定
-[7/9] Searching: SwitchBot 開閉センサー
-  ✅ 10/10 candidates passed filters for: SwitchBot 開閉センサー
-[8/9] Searching: Tapo ネットワークカメラ
-  ✅ 10/10 candidates passed filters for: Tapo ネットワークカメラ
-[9/9] Searching: SwitchBot 温湿度計
-  ✅ 10/10 candidates passed filters for: SwitchBot 温湿度計
 {
   "generated_at": "2026-09-14T11:51:07",
   "account_id": "daily_gadget",
@@ -424,7 +402,9 @@
       "star_rating": null,
       "queries_matched": [
         "窓 防犯 開閉アラーム"
-      ]
+      ],
+      "maker": "ELPA",
+      "brand_verification_url": "https://item.rakuten.co.jp/plays23/b003hk5s84/"
     },
     {
       "asin": "B01J2NQ3R4",
@@ -530,7 +510,8 @@
       "star_rating": null,
       "queries_matched": [
         "窓 防犯 開閉アラーム"
-      ]
+      ],
+      "maker": "KIYIWIN"
     },
     {
       "asin": "B0DPQCXHG8",
@@ -1680,6 +1661,3 @@
     }
   ]
 }
-✅ fetched=90 dedup_removed=18 candidates=72
-📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/dg_20261005.json
-

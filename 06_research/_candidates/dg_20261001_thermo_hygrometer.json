@@ -1,0 +1,343 @@
+{
+  "generated_at": "2026-09-14T03:02:14+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261001_f6063627",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261001_thermo_hygrometer"
+  ],
+  "fetched_count": 19,
+  "dedup_count": 12,
+  "candidates": [
+    {
+      "asin": "B07TYN8584",
+      "title": "ThermoProサーモプロ 湿度計 温度計 温湿度計 室内 大画面 コンパクト 顔マーク 壁掛け 卓上スタンド マグネット TP-49 (ホワイト*1個)",
+      "url": "https://www.amazon.co.jp/dp/B07TYN8584?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07TYN8584?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "ThermoPro",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": 23389,
+      "star_rating": 4.2,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-28",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B081ZW3X48",
+      "title": "タニタ 温湿度計 時計 温度 湿度 デジタル 卓上 マグネット ホワイト TT-585 WH",
+      "url": "https://www.amazon.co.jp/dp/B081ZW3X48?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B081ZW3X48?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "タニタ",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": 22048,
+      "star_rating": 4.3,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-28",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B07L4QNZVF",
+      "title": "【Works with Alexa認定】SwitchBot 温湿度計 デジタル スマート家電 高精度 スイス製センサー スマホで温度湿度管理 梅雨 熱中症対策 アラーム付き グラフ記録 Alexa、Google home、HomePod、IFTTT に対応(ハブ必要) 熱中症対策",
+      "url": "https://www.amazon.co.jp/dp/B07L4QNZVF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07L4QNZVF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "SwitchBot",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": 15448,
+      "star_rating": 4.2,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": "sensing_home",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-28",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B09PYKJ6CS",
+      "title": "SwitchBot 温湿度計プラス Alexa 温度計 湿度計 - スイッチボット スマホで温度湿度管理 デジタル 高精度 コンパクト 大画面 温度 湿度 アラーム 顔マーク グラフ記録 スマートホーム 梅雨 Alexa Google Home IFTTT イフト Siriに対応(ハブ必要)",
+      "url": "https://www.amazon.co.jp/dp/B09PYKJ6CS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09PYKJ6CS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "SwitchBot",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": 6306,
+      "star_rating": 4.4,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": "sensing_home",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-22",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0BVLYPYT1",
+      "title": "SwitchBot 防水温湿度計 Alexa 温度計 湿度計 - スイッチボット ワイヤレス 室内 屋外用 温湿度計 スマホで温度湿度管理 デジタル 高精度 コンパクト 温度 湿度 絶対湿度 異常通知 グラフ記録 スマートホーム Alexa Google Home IFTTT イフト Siriに対応(ハブ必要)",
+      "url": "https://www.amazon.co.jp/dp/B0BVLYPYT1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BVLYPYT1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "SwitchBot",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": 6119,
+      "star_rating": 4.3,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": "sensing_home",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-05-15",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0DBLDKVDW",
+      "title": "【冬の乾燥対策】SwitchBot 温湿度計 プロ スマホで管理 アレクサ - スイッチボット 温度計 湿度計 快適指数 大画面 デジタル 天気予報 時計 カレンダー アラート通知 高精度 コンパクト グラフ記録 スマートホーム Alexa Google Home Siriに対応",
+      "url": "https://www.amazon.co.jp/dp/B0DBLDKVDW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DBLDKVDW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41MDoga-0dL._SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "【大画面多機能温湿度計！必要な情報がすべてひと目で分かる】温湿度、快適指数、天気予報※、日時を一括表示。ディスプレイには乾燥、快適、湿潤という3つの指標で湿度の快適指数を表示し、お部屋の体感をより直感的に把握できます。快適度はアプリからお好みで自由にカスタマイズ可能。※天気予報機能はハブ製品が必要です。",
+        "【複数カ所の温度&amp;湿度を同時に把握】同時に2つの部屋の温湿度を表示することができます。例えば子ども部屋と植物の温室など、2つの異なる部屋またはエリアの温湿度を同時に把握可能です。※すべてのSwitchBot温湿度計製品に対応。",
+        "【12時間先までの天気が分かる】SwitchBotハブ製品と連携し、位置情報に基づいて、現在地の12時間先までのお天気がアイコン表示されるので、お出かけする際や、キャンプなど屋外イベントを楽しむ時の参考にしてみてください。",
+        "【アラート通知機能&amp;遠隔確認】3種類のアラート「本体の警告音、ディスプレイの数値が点滅、アプリ通知※」で、気温や湿度の変化を随時お知らせ。外出先にいてもお部屋の温湿度を確認し、アラート通知に基づいた乾燥対策が可能に！※SwitchBotハブ製品が必要",
+        "【スイス製の高精度センサー搭載】高精度センサーで信頼性の高い温湿度データを提供し、より素早く正確なリアルタイムデータを閲覧することができます。データの更新は4秒間隔で、感度と精度ともに優れています。",
+        "【データの保存とエクスポート】データはローカルに最大68日間分、アプリに最大2年間分保存できます。温度・湿度をグラフ表示することでより見やすく、グラフの折れ線をタップして特定時刻のデータ履歴を閲覧可能です。データ（CSVファイル）はエクスポートも可能で、過去の温湿度履歴を確認できます。",
+        "【声をかけて温湿度を確認】アレクサやGoogle アシスタントなどのスマートスピーカーと連携させると、手が離せないときでも「アレクサ、温度を教えて」と声をかけるだけで温度や湿度の確認ができて便利です。",
+        "【SwitchBotデバイスとの連動】SwitchBotハブ製品や加湿器製品と併用すれば、予め指定した温湿度の快適数値を上回る、または下回ると加湿器が自動でON/OFF。温湿度に基づいた自動化で、秋・冬の乾燥からお肌やのどを守ります。"
+      ],
+      "maker": "SwitchBot",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": 1033,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "sensing_home",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0BWCL335L",
+      "title": "TP-Link Tapo スマートホーム コンパクト 電子ペーパー 大型画面 温湿度計 温度計 スイス 高精度 温度 湿度 アラーム スマート温湿度計 Tapo T315",
+      "url": "https://www.amazon.co.jp/dp/B0BWCL335L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BWCL335L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "TP-Link",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B083348J3X",
+      "title": "Govee 温湿度計 Bluetooth デジタル スマホ管理 高精度 大画面 コンパクト",
+      "url": "https://www.amazon.co.jp/dp/B083348J3X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B083348J3X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Govee",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": "sensing_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B09PVDQ8SS",
+      "title": "JJ JULIE JAPAN 温湿度計 デジタル 高精度 スマホ連動 アプリ通知 液晶付き 世界最小級 コンパクト 異常アラート（音/光/スマホ） ログ記録 爬虫類 ペット 観葉植物 デスク JJWS08(1個)",
+      "url": "https://www.amazon.co.jp/dp/B09PVDQ8SS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09PVDQ8SS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "JJ",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": "sensing_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0DB18WL6Z",
+      "title": "TempPro デジタル温湿度計 Bluetooth スマホ連動 ワイヤレス 室内 温度計 湿度計 小型 高精度 見やすい 大画面 顔マーク",
+      "url": "https://www.amazon.co.jp/dp/B0DB18WL6Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DB18WL6Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "TempPro",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": "sensing_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B07DVJ1P6J",
+      "title": "Inkbird 温湿度計 Bluetooth対応 データロガー デジタル 温度計 湿度計 スマホで温度湿度管理 グラフ記録 プローブ付き マグネット付き °Cと°Fの切り替え 温度管理 (IBS-TH1 PLUS)",
+      "url": "https://www.amazon.co.jp/dp/B07DVJ1P6J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07DVJ1P6J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Inkbird",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": "sensing_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0DDXSYRXR",
+      "title": "【室内外の温湿度を簡単に管理セット】SwitchBot 温湿度計プロ1点+防水温湿度計1点 スイッチボット 快適指数 スマートホーム Alexa Google Home Siriに対応",
+      "url": "https://www.amazon.co.jp/dp/B0DDXSYRXR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDXSYRXR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "SwitchBot",
+      "query": "dg_20261001_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261001_thermo_hygrometer"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": "sensing_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": [
+      "type:thermo_hygrometer"
+    ],
+    "asins_explicit": false,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": "2026-09-01",
+    "exclude_asins": [
+      "B0BM8VS13P",
+      "B0FJXTBNXB",
+      "B07YLW9F3J",
+      "B0DBLKNYPY",
+      "B081ZW51Q5",
+      "B099RRN1J3",
+      "B09BYYS7X5"
+    ],
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  }
+}

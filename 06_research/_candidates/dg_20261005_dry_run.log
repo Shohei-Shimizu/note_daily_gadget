@@ -1,0 +1,63 @@
+🚫 --exclude-asin により 54 件を選抜対象から外しました: B01J2NQ3ME, B07C4JQRYG, B07L4QNZVF, B07YG7RNF2, B07YLW9F3J, B082HXNJT7, B083348J3X, B08GM64R84, B08L7953HZ, B08YDQWV3Y, B091Y85DBP, B094DM9LZQ, B094W18WZM, B094YDG7ZV, B099RRN1J3, B09BYYS7X5, B09F9N8GLY, B09FLL9M58, B09PYKJ6CS, B0BFDRWHJB, B0BM8VS13P, B0BVLYPYT1, B0BWCM6JFN, B0C616M1KJ, B0CBPQVRNN, B0CDCL38KZ, B0CDLJQV35, B0CKWS1VWR, B0CKYMQ1Q7, B0CQ1Y57ZX, B0CQ4H25DX, B0CW5DTSSF, B0DB18WL6Z, B0DBLDKVDW, B0DBLKNYPY, B0DDXSYRXR, B0DK7GPYPG, B0DMV8ZR4V, B0DMV9TL7G, B0DRNBL37H, B0F475DWS3, B0F4J6RLP7, B0FDGNMKDF, B0FDKHYK3B, B0FJXTBNXB, B0FMX375ZM, B0FN77WBSK, B0FNMMGV7F, B0GDWJPXBQ, B0GRV1N3FF, B0H7RDQ212, B0H8B4BCG7, B0H8B8BHMH, B0H8DV9JQC
+📦 候補読み込み: 18 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/dg_20261005.json)
+🔎 実測: 18 件の ASIN を Amazon 商品ページから取得します...
+  [1/18] B094VZQ1RT review=2285 star=4.1 stock=in_stock OK
+  [2/18] B07D37VDM3 review=5981 star=4.4 stock=in_stock OK
+  [3/18] B0BFDQBN1P review=129 star=3.9 stock=in_stock OK
+  [4/18] B0BX4ZJYFB review=24 star=3.6 stock=in_stock OK
+  [5/18] B0H29L54F1 review=2 star=2.5 stock=in_stock OK
+  [6/18] B0BTL8B72D review=1096 star=3.9 stock=in_stock OK
+  [7/18] B0GRYZ9Q89 review=24 star=4.2 stock=in_stock OK
+  [8/18] B0H8D2LF4G review=None star=None stock=in_stock NG(review_count_or_star_not_found)
+  [9/18] B0DZXWLFKX review=35 star=3.6 stock=in_stock OK
+  [10/18] B003HK5S84 review=995 star=4.0 stock=in_stock OK
+  [11/18] B01J2NQ3R4 review=1853 star=4.1 stock=in_stock OK
+  [12/18] B0GQGTY172 review=7 star=3.2 stock=in_stock OK
+  [13/18] B0CQ8132XT review=5 star=4.7 stock=in_stock OK
+  [14/18] B08R8B9XKX review=681 star=3.7 stock=in_stock OK
+  [15/18] B0GYDL9L85 review=11 star=4.6 stock=in_stock OK
+  [16/18] B0DPQCXHG8 review=37 star=4.2 stock=in_stock OK
+  [17/18] B089LN67PB review=15 star=2.5 stock=in_stock OK
+  [18/18] B0FWKGMY7B review=2 star=3.1 stock=in_stock OK
+⚠️  レビュー数を取得できなかった商品が 1/18 件あります（絞りではなく、レビュー0件の新規出品の可能性が高い）。候補プールごと空振りしていないか確認してください。
+🗄️  DB書き込み: run=11dbeb04-d626-44b3-bf17-ee8148bc27c9 status=partial (今回 attempted=18 succeeded=17 failed=1 / run累積 attempted=18 succeeded=17 failed=1) product新規=5 product更新=12 metric行=17 verification行=0 (topic_idが無いためverificationは書き込みません)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 9 / 18
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier2 / 緩和: あり
+採用件数: 7
+
+-- 採用 --
+1. [Tier1] Aqara / B07D37VDM3 / review=5981 star=4.4 ★有名ブランド
+   Aqara 開閉センサー ドア 開閉センサー アカラ Alexa対応 HomeKit対応 窓 玄関 防犯セキュリティ 遠隔対応
+2. [Tier1] SwitchBot / B094VZQ1RT / review=2285 star=4.1 ★有名ブランド
+   SwitchBot 開閉センサー スイッチボット Alexa セキュリティ - Google Home IFTTT イフト Siri LIN
+3. [Tier1] リーベックス / B01J2NQ3R4 / review=1853 star=4.1 
+   リーベックス(Revex) チャイム ドア 窓用 窓ドア開閉センサー アラーム 選べる16種類の音・音量調整 防犯 ブラウン HSA-M4B
+4. [Tier2] Aqara / B0BTL8B72D / review=1096 star=3.9 ★有名ブランド
+   Aqara ドア開閉センサー P2 Matter対応 開閉センサー Threadボーダールーター必要
+5. [Tier1] ELPA / B003HK5S84 / review=995 star=4.0 
+   薄型スリムアラーム
+6. [Tier2] CallToU / B08R8B9XKX / review=681 star=3.7 
+   CallToU ドアベルセンサー ワイヤレスチャイム 開閉センサー 玄関・ガレージ・店舗用 受信機1台・マグネットセンサー1個 来客通知・防
+7. [Tier2] エジソンスマート / B0BFDQBN1P / review=129 star=3.9 
+   エジソンスマート ドアセンサー (ホワイト) アプリで通知をおとどけ スマート家電と連携 Alexa対応 開閉センサー DDS-MC400D
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 2 件 --
+  - [Tier3] stellar / B0DZXWLFKX: 多様性制約または件数上限のため非選抜
+  - [Tier3] UJHOSLD【1個セット・新登場】防犯ブザー / B0DPQCXHG8: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 9 件 --
+  - B0BX4ZJYFB / サンワダイレクト ドアセンサー 開閉センサー 防犯 スマホ通知 Wi-Fi ワイ: Tier3未満のため除外（レビュー24件・星3.6）
+  - B0H29L54F1 / CallToU ドアセンサー WiFi 開閉センサー ドアチャイム スマホ通知 : Tier3未満のため除外（レビュー2件・星2.5）
+  - B0GRYZ9Q89 / CallToU 防犯アラーム 窓 ドア 開閉センサー ドア 窓開閉通知アラーム : Tier3未満のため除外（レビュー24件・星4.2）
+  - B0H8D2LF4G / カシムラ スマート開閉センサー アラーム スマホ通知 スマートカメラ連動 防犯対: レビューデータ欠損のため除外（推測禁止）
+  - B0GQGTY172 / DAYTECH ドア開閉センサー 防犯アラーム 窓・ドア用 110dB 27音・: Tier3未満のため除外（レビュー7件・星3.2）
+  - B0CQ8132XT / アーテック(Artec) 窓用 防犯センサー 開閉検知タイプ セキュリティ 警告: Tier3未満のため除外（レビュー5件・星4.7）
+  - B0GYDL9L85 / 防犯アラーム ドア窓用 2個入り 【振動検知+開放検知】 高精度センサー 130: Tier3未満のため除外（レビュー11件・星4.6）
+  - B089LN67PB / TOLIGO ドアセンサー インテリアに馴染む木目調デザイン スマートセンサー : Tier3未満のため除外（レビュー15件・星2.5）
+  - B0FWKGMY7B / [AOKOWN]スイッチボット 開閉センサー【強化版】switchbot 人感セ: Tier3未満のため除外（レビュー2件・星3.1）
+============================================================
+
+(--dry-run のためファイルは書き出しません)

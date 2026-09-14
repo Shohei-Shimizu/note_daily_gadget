@@ -1,0 +1,37 @@
+📦 候補読み込み: 7 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/dg_20261003_smart_ring.json)
+🔎 実測: 7 件の ASIN を Amazon 商品ページから取得します...
+  [1/7] B0DG2QKMFX review=5622 star=4.0 stock=in_stock OK
+  [2/7] B0D9WT1S2T review=3324 star=4.2 stock=in_stock OK
+  [3/7] B0GQ3WPDRG review=829 star=4.0 stock=in_stock OK
+  [4/7] B0F189RKD1 review=556 star=4.4 stock=in_stock OK
+  [5/7] B0F59W82K1 review=117 star=3.7 stock=in_stock OK
+  [6/7] B0H4S6DWCS review=59 star=4.7 stock=in_stock OK
+  [7/7] B0DJNVNVP2 review=43 star=3.6 stock=in_stock OK
+🗄️  DB書き込み: run=11dbeb04-d626-44b3-bf17-ee8148bc27c9 status=partial (今回 attempted=7 succeeded=7 failed=0 / run累積 attempted=25 succeeded=24 failed=1) product新規=0 product更新=7 metric行=7 verification行=7
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 7 / 7
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier2 / 緩和: あり
+採用件数: 5
+
+-- 採用 --
+1. [Tier1] RingConn / B0DG2QKMFX / review=5622 star=4.0 
+   RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリー持続最長12日、睡眠・心拍・ストレ
+2. [Tier1] Oura / B0D9WT1S2T / review=3324 star=4.2 
+   Oura Ring 第4世代 スマートリング – シルバー – サイズ10 |iPhone/Android対応 |まずはサイズ確認:専用サイ
+3. [Tier1] Geekin / B0GQ3WPDRG / review=829 star=4.0 
+   Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類データ測定機能 IP68防水 Iphon
+4. [Tier1] POBOViスマートリング / B0F189RKD1 / review=556 star=4.4 
+   POBOViスマートリング 睡眠/ストレス/心拍数トラッカー 睡眠管理 健康管理 女性の健康管理 最大5～7日間のバッテリー持続 ワイヤレス
+5. [Tier2] SOXAI / B0F59W82K1 / review=117 star=3.7 
+   SOXAI RING 1.1 日本製スマートリング ソクサイリング 健康管理 睡眠管理 メーカー保証1年 歩数計 100m防水 チタン製 サ
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 2 件 --
+  - [Tier3] SOXAI / B0H4S6DWCS: 多様性制約または件数上限のため非選抜
+  - [Tier3] Amazfit / B0DJNVNVP2: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md
