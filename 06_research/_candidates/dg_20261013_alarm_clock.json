@@ -1,0 +1,220 @@
+{
+  "generated_at": "2026-09-15T23:04:05+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261013_0c1d4c71",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261013_alarm_clock"
+  ],
+  "fetched_count": 15,
+  "dedup_count": 7,
+  "candidates": [
+    {
+      "asin": "B0DRHXLQM9",
+      "title": "blonbar 目覚まし時計 光 目覚ましライト LED置き時計 スヌーズ機能付き ホワイトノイズ & 多機能ナイトライト（間接照明/タイマー/授乳灯）メモリー機能搭載 重睡者・子供向け 出産祝いギフト AC電源接続式",
+      "url": "https://www.amazon.co.jp/dp/B0DRHXLQM9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DRHXLQM9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71tcaY0pMhL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "ご購入前のご注意: 本品は電池式ではございません。電源に接続してお使いください。",
+        "絶対に起きられる光目覚まし: アラーム1モードでは、日の出を模した光が徐々に明るくなり、優しい光の中で自然に目覚められます。起床が苦手な方に最適です！",
+        "15種類の目覚まし音＋12段階の音量調整: 好みに合わせて、あなただけのオリジナルアラームを設定できます。",
+        "スヌーズ機能: アラーム鳴動中に「スヌーズ」キーを押すと、10分間の再スヌーズが可能です（最大3回まで）。もう遅刻の心配はありません。",
+        "やさしい常夜灯: 繊細な月のデザインと複数のライトモードで、寝室の雰囲気を自由に演出できます。",
+        "自然音と睡眠タイマー: 鳥のさえずりや波の音など10種類の自然音から選べ、30/60/90分のタイマー設定で心地よい眠りへと導きます。",
+        "贈り物にも最適: おしゃれで多機能なナイトライトは、誕生日・出産祝い・結婚祝い・敬老の日・新築祝い・クリスマスなど、さまざまな贈り物シーンに喜ばれる一品です。"
+      ],
+      "maker": "blonbar",
+      "query": "dg_20261013_alarm_clock",
+      "queries_matched": [
+        "dg_20261013_alarm_clock"
+      ],
+      "review_count": 922,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B07SJYNPPZ",
+      "title": "moonmoon inti4s 光 目覚まし時計 ( ライト / アラーム ) めざまし時計 デジタル時計 スマホ連動 スヌーズ機能 光目覚まし 睡眠 快眠 安眠",
+      "url": "https://www.amazon.co.jp/dp/B07SJYNPPZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07SJYNPPZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "moonmoon",
+      "query": "dg_20261013_alarm_clock",
+      "queries_matched": [
+        "dg_20261013_alarm_clock"
+      ],
+      "review_count": 366,
+      "star_rating": 3.9,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-05-21",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0FQBN4DTK",
+      "title": "目覚まし時計 光 目覚ましライト（Bluetooth対応）",
+      "url": "https://www.amazon.co.jp/dp/B0FQBN4DTK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FQBN4DTK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "JALL",
+      "query": "dg_20261013_alarm_clock",
+      "queries_matched": [
+        "dg_20261013_alarm_clock"
+      ],
+      "review_count": 100,
+      "star_rating": 4.2,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-30",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0FQTKVGQN",
+      "title": "光目覚まし時計 ホワイトノイズマシン Bluetooth 自動時刻同期 26種癒し音 目覚まし時計 光 【スヌーズ・アラーム・音楽】 日出＆日没シミュレーション 17種ライト 虹色RGBライト 20段階調光 光で起きる ベッドサイド 授乳 間接照明 安眠 癒しグッズ めざまし時計 大音量 重睡者・高齢者・子供向け E60A 目覚ましライト 置き時計 木目デザイン ecozy",
+      "url": "https://www.amazon.co.jp/dp/B0FQTKVGQN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FQTKVGQN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/01MKUOLsA5L._AC_QL70_ML2_.gif",
+      "features": [
+        "自然で光で起きる"
+      ],
+      "maker": "ecozy",
+      "query": "dg_20261013_alarm_clock",
+      "queries_matched": [
+        "dg_20261013_alarm_clock"
+      ],
+      "review_count": 51,
+      "star_rating": 4.1,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0C65D8SKC",
+      "title": "moonmoon トトノエライト 光 目覚まし時計 トトノエライトプレーン",
+      "url": "https://www.amazon.co.jp/dp/B0C65D8SKC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C65D8SKC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "moonmoon",
+      "query": "dg_20261013_alarm_clock",
+      "queries_matched": [
+        "dg_20261013_alarm_clock"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0D6V9Y882",
+      "title": "TITIROBA 目覚まし時計 光 めざまし時計 YABAE Wake Up Light ウェイクアップ ライト 置き時計 光目覚まし スリープタイマー スヌーズ ラジオ ナイトライト イルミネーション 光目覚まし時計 FZ-06-L",
+      "url": "https://www.amazon.co.jp/dp/B0D6V9Y882?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D6V9Y882?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "TITIROBA",
+      "query": "dg_20261013_alarm_clock",
+      "queries_matched": [
+        "dg_20261013_alarm_clock"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0FSJRZSPW",
+      "title": "ADESSO(アデッソ) 光 目覚まし時計 Shizen Flow シゼンフロー 【日本メーカー】 サンライズライト 5500K 自然光 ⽇の出シミュレーション ⾃然音27種搭載 冬の朝 日光不足 ホワイトノイズ 子守唄 リラックス音 ジャズ 瞑想 ⽬覚まし ライト 快眠サポート リカバリー 睡眠回復 朝日再現 冬の目覚め対策 スマホ不要 デジタル置き時計 ギフト SZF-01",
+      "url": "https://www.amazon.co.jp/dp/B0FSJRZSPW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FSJRZSPW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "ADESSO",
+      "query": "dg_20261013_alarm_clock",
+      "queries_matched": [
+        "dg_20261013_alarm_clock"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": [
+      "type:alarm_clock"
+    ],
+    "asins_explicit": false,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": "2026-09-01",
+    "exclude_asins": [
+      "B0G2RLRKRT",
+      "B0GHN9SVR6",
+      "B0GGBS8P5W",
+      "B0CN2X8M7K",
+      "B07SPJJ17F",
+      "B01AKWDNDS",
+      "B07SLXLVMB",
+      "B0DRHWDT7Y"
+    ],
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  }
+}

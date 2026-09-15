@@ -1,0 +1,261 @@
+{
+  "generated_at": "2026-09-15T23:04:05+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261012_bbe51cea",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261012_label_printer"
+  ],
+  "fetched_count": 10,
+  "dedup_count": 9,
+  "candidates": [
+    {
+      "asin": "B08M3K411P",
+      "title": "ラベルプリンター Phomemo D30 ラベルライター スマホ対応 Bluetooth 超小型シールプリンター 6mm～15mm 幅テープ対応 ポータブル感熱プリンター Android iOS 専用 APP 日本語対応 収納整理 キッチン 名前ラベル 値札 贈り物",
+      "url": "https://www.amazon.co.jp/dp/B08M3K411P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08M3K411P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Phomemo",
+      "query": "dg_20261012_label_printer",
+      "queries_matched": [
+        "dg_20261012_label_printer"
+      ],
+      "review_count": 15818,
+      "star_rating": 4.0,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-30",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0BCW4YMR8",
+      "title": "NIIMBOT B1 ラベルメーカー ラベルプリンター 感熱ラベルライター 値札プリンター DIY 商業プリンター 宛名ラベルメーカー 20-50mm対応 Bluetooth ポータブル 名前ラベル 郵便宛名 価値のある食品の表示 梱包などに使いやすい 冷蔵庫保管 配送ラベル 整理 充電式 Android iOS対応 (ラベル用紙付属) ブルー",
+      "url": "https://www.amazon.co.jp/dp/B0BCW4YMR8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BCW4YMR8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "NIIMBOT",
+      "query": "dg_20261012_label_printer",
+      "queries_matched": [
+        "dg_20261012_label_printer"
+      ],
+      "review_count": 8810,
+      "star_rating": 4.2,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-30",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B079FLYBQ9",
+      "title": "ブラザー ラベルライター ピータッチキューブ PT-P710BT (スマホPC対応/3.5mm~24mm幅/TZeテープ/サンプルテープ2本付き) 【日本子育て支援大賞2025】",
+      "url": "https://www.amazon.co.jp/dp/B079FLYBQ9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B079FLYBQ9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Brother",
+      "query": "dg_20261012_label_printer",
+      "queries_matched": [
+        "dg_20261012_label_printer"
+      ],
+      "review_count": 7147,
+      "star_rating": 4.4,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-27",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0DHWX7B1V",
+      "title": "ブラザー ラベルライター ピータッチキューブ ラテ PT-P300BTLT (スマホ専用/3.5mm~12mm幅/TZeテープ/サンプルテープ2本付き) 【日本子育て支援大賞2025】",
+      "url": "https://www.amazon.co.jp/dp/B0DHWX7B1V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DHWX7B1V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61uzx5fr1NL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "毎日をちょっと楽しくするラベルライター。スマートフォンから気軽にラベルを印刷できる、コンパクトなラベルライター「P-TOUCH CUBE」。スマートフォン専用アプリ「P-touch Design&amp;Print 2」を使って、いつでもどこでもラベル作りが始められます。"
+      ],
+      "maker": "Brother",
+      "query": "dg_20261012_label_printer",
+      "queries_matched": [
+        "dg_20261012_label_printer"
+      ],
+      "review_count": 5276,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0BRZ1QB74",
+      "title": "キングジム ラベルプリンター スマホ専用 「テプラ」PRO SR-R2500P (対応ラベル幅:4-18mm幅)",
+      "url": "https://www.amazon.co.jp/dp/B0BRZ1QB74?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BRZ1QB74?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "キングジム",
+      "query": "dg_20261012_label_printer",
+      "queries_matched": [
+        "dg_20261012_label_printer"
+      ],
+      "review_count": 1175,
+      "star_rating": 4.2,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-11",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0895JCJKM",
+      "title": "Phomemo M110 ラベルライター ラベルプリンター スマホ・PC対応 食品表示ラベルプリンター 値札プリンター 業務用プリンター ラベルメーカー 宛名ラベルプリンター シールプリンター バーコードプリンター 感熱プリンター モバイルプリンター 配送ラベルプリンター Bluetooth接続 郵便宛名/値札/梱包発送/ラッピング/DIYラベル/作業/冷蔵庫収納/配送ラベル/整理収納に適用",
+      "url": "https://www.amazon.co.jp/dp/B0895JCJKM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0895JCJKM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Phomemo",
+      "query": "dg_20261012_label_printer",
+      "queries_matched": [
+        "dg_20261012_label_printer"
+      ],
+      "review_count": 1123,
+      "star_rating": 4.1,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-27",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B07J6SYY95",
+      "title": "キングジム(Kingjim) ラベルライター 「テプラ」PRO SR370 (対応ラベル幅:4-24mm幅)",
+      "url": "https://www.amazon.co.jp/dp/B07J6SYY95?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07J6SYY95?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "キングジム",
+      "query": "dg_20261012_label_printer",
+      "queries_matched": [
+        "dg_20261012_label_printer"
+      ],
+      "review_count": 736,
+      "star_rating": 4.4,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-05",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B07RN7MMQC",
+      "title": "キングジム ラベルライター 「テプラ」PRO SR-R680 (対応ラベル幅:4-24mm幅)",
+      "url": "https://www.amazon.co.jp/dp/B07RN7MMQC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07RN7MMQC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "キングジム",
+      "query": "dg_20261012_label_printer",
+      "queries_matched": [
+        "dg_20261012_label_printer"
+      ],
+      "review_count": 408,
+      "star_rating": 4.3,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-05",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0CD7K75W8",
+      "title": "キングジム(Kingjim) ラベルプリンター スマホ専用 「テプラ」PRO MARK SR-MK1-BK (対応ラベル幅:4-24mm幅)",
+      "url": "https://www.amazon.co.jp/dp/B0CD7K75W8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CD7K75W8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/312sYPGZf9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "スマホで手軽にラベル作成",
+        "【本体寸法】約55（W）×133（D）×146（H）mm",
+        "【質量】約470g（電池、テープ除く）",
+        "【プリンタ：サーマルヘッド】(360dpi/256dot)熱転写PRO印刷方式",
+        "【最大印刷可能幅】18.1mm【テープカートリッジ】PRO テープカートリッジ4、6、9、12、18、24mm"
+      ],
+      "maker": "キングジム",
+      "query": "dg_20261012_label_printer",
+      "queries_matched": [
+        "dg_20261012_label_printer"
+      ],
+      "review_count": 164,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      }
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": [
+      "type:label_printer"
+    ],
+    "asins_explicit": false,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": "2026-09-01",
+    "exclude_asins": [
+      "B0FQ5266PC"
+    ],
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  }
+}

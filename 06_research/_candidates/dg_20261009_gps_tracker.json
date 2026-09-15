@@ -1,0 +1,589 @@
+{
+  "generated_at": "2026-09-15T23:04:05+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261009_b39167d8",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261009_gps_tracker"
+  ],
+  "fetched_count": 48,
+  "dedup_count": 18,
+  "candidates": [
+    {
+      "asin": "B0936FGTX5",
+      "title": "Apple AirTag 紛失防止タグ 置き忘れ防止 耐水 防塵 iPhone/iPad「探す」ネットワーク対応 CR2032コイン型バッテリー",
+      "url": "https://www.amazon.co.jp/dp/B0936FGTX5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0936FGTX5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Apple",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 17238,
+      "star_rating": 4.5,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-24",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0D53RXMB1",
+      "title": "UGREEN FineTrack 紛失防止タグ 探し物Appleの「探す」に対応 (iOS端末のみ) スマートトラッカー 1個 鍵/バッグ/財布用 黒",
+      "url": "https://www.amazon.co.jp/dp/B0D53RXMB1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D53RXMB1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61LBwV9r3QL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "なくしたモノも、ピピっと発見！ 【Apple「探す」認証（iOSのみ）】: UGREENスマートトラッカー はアップルの認証を受けています。アップルデバイスがオフラインの状態でも、「探す」アプリがあれば簡単に把握できます。iPhone、iPad、Macのホーム画面でお客様のデバイスを一目で追跡できる「探す」で、デバイスを見つけましょう。",
+        "【超大音量&amp;より見つけやすい】 UGREENトラッカーは、内蔵ブザーにより、物が見つからない場合、最大80dBの音で位置を確認しやすくしてくれます。「探す」アプリまたはSiriを起動して検索をサポートします。",
+        "【置き去り警報】AppleデバイスのBluetooth接続から切断された場合、すぐに通知を受け取ることができます。うっかりジムにバッグを置き忘れたり、オフィスに鍵を忘れたりしても、「置き去り警報」があれば、すぐにアイテムを取り戻すことができます。",
+        "【電池交換可能、電池寿命2年】UGREENトラッカーは、交換可能なバッテリーと2年間の長時間の稼働時間です：225mAhの内蔵バッテリーと低消費電力チップを採用しており、CR2032ボタン電池を使用しているため、「探す」アプリで電力を簡単に確認できます。そして、UL4200A認証を取得しており、安全で頑丈な構造になっているため、子供が簡単にカバーを開けてボタン電池を誤飲することを防ぐことができます。",
+        "【全地球測位-距離無制限】UGREENトラッカーは全体的な精確な位置を持っており、Apple「探す」ネットワークを介して、物品が世界のどこに置いてあっても、周囲にAppleデバイス(iPhone/iPad/mac)があれば、位置を容易に追跡することができます。もはや物品を失くして戻れないことを心配する必要はありません。",
+        "【小さくて薄い】 Finder製品のサイズは36*36*7.4mmで、他のタグと比べても薄いです。さらに、最大5台のiPhoneデバイスと情報を共有することができます。1台のスマホで最大32個のtagを接続でき、複数の物品を簡単に管理できます。Finder製品は便利さをもたらし、あなたの生活をより便利にします。",
+        "UGREEN スマートトラッカーはさまざまなシーンで使用できます。開孔デザインが付いており、鍵やバッグ、スーツケースなどの重要なアイテムに簡単に付けることができます。おまけのステッカー付きで、各tagの用途を記録しやすく、アイテム管理をサポートします。旅行や日常生活に便利なFinder製品は、お客様の生活をより快適にすることでしょう。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 11071,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0DWMPNCLC",
+      "title": "Anker Eufy SmartTrack Card E30（充電式紛失防止トラッカー）",
+      "url": "https://www.amazon.co.jp/dp/B0DWMPNCLC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DWMPNCLC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Anker",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 7203,
+      "star_rating": 4.1,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": "gps_tracker",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-18",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0D9VTLK47",
+      "title": "Anker Eufy (ユーフィ) SmartTrack Link (Android用) (紛失防止タグ) 【 Googleの「検索ハブ」に対応 (Android端末のみ) / なくしものが、無くなる/探し物/スマホが見つかる/スマホ鳴らす】 Bluetooth",
+      "url": "https://www.amazon.co.jp/dp/B0D9VTLK47?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9VTLK47?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71ldVhrQRzL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "なくしものが、無くなる：約3.7cm四方の小さなタグ型です。穴が空いているので、そのままキーチェーン等に取り付けできます。※リングは付属していません。",
+        "Googleの「Find Hub」に対応：Android端末の「Find Hub」ネットワークで、落とし物の位置を特定できます。※AndroidはGoogle LLCの商標です。※ご使用機種により旧名称の「デバイスを探す」、「検索ハブ」と表示される場合がございます。",
+        "紛失を未然に防ぐ：スマホからSmarTrackを鳴らして持ち物の置き場所を確認したり、逆に、SmartTrackを押すことで、スマホの置き場所を確認することもできます。※位置情報の利用許可を「常に」設定する必要があります。",
+        "拾った人から連絡をもらう: 裏面のQRコードをスキャンすると持ち主に連絡できます。※「Eufy 」アプリでの登録と紛失モードをオンにする必要があります",
+        "パッケージ内容：Eufy SmartTrack Link、クイックスタートガイド、安全マニュアル、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 6926,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "gps_tracker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0FRLWSGPW",
+      "title": "UGREEN Finder Duo Android/iOS対応 紛失防止タグ USB-C充電式電池 財布/鍵/荷物/かばん用 4個セット",
+      "url": "https://www.amazon.co.jp/dp/B0FRLWSGPW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FRLWSGPW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/617bRi2T2LL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "iOSまたはAndroidデバイスとの簡単検索＆家族共有：FineTrack DuoタグをiPhoneやAndroid携帯電話とワンタップで素早くペアリング。Appleの「探す」アプリまたはGoogleの「Find Hub」アプリで、Air Trackerタグを「アイテム」タブに追加すれば、鍵や財布、その他の貴重品を即座に検索・追跡可能。家族とトラッカーの位置情報を共有すれば、皆でアイテムの安全を守れます。（※注：iOSとAndroid端末への同時ペアリングはできません。）",
+        "スマートトラッキングが簡単に：Bluetooth Smart Tracker Tagが近くにあっても遠くにあっても、「探す」または「Find Hub」アプリで簡単に見つけられます。Bluetooth通信範囲内なら、音を鳴らして素早くアイテムトラッカータグを見つけられます。範囲外の場合は、アプリがiOSやAndroidデバイスの広大なエコシステムを活用し、アイテムファインダーの最新位置情報を提供します。Appleの「探す」やGoogleの「Find Hub」アプリで、サブスクリプション料金なしで世界中どこでも追跡を楽しめます。",
+        "紛失通知＆紛失モード：Smart Tracker Tagが通信範囲外に移動すると、アプリは最終位置情報を伴う紛失通知を送信します。紛失が確認された場合、紛失モードを起動し連絡先情報を残すことで、近くにあるiOSまたはAndroidデバイスがリモートアクセスし、トラッカーの場所を特定する手助けができます。これにより迅速かつ簡単に回収が可能です。（Androidデバイスでの上記機能利用には、紛失モードの事前起動が必要です。）",
+        "USB-C充電対応365日バッテリー：トラッカータグは汎用USB-Cポートで充電可能。磁気充電器や使い捨て電池は不要です。この充電式スマートトラッカータグは、長期的な信頼性と持続可能性を考慮して設計されています。1回のフル充電で最大1年間の連続使用が可能。頻繁な充電や電池交換とはお別れです。USB-C充電ポートを密封する保護用ダストプラグ付属。埃や湿気の侵入を防ぎ、スマートタグの耐久性と信頼性をあらゆる環境下で確保します。",
+        "プライバシーを完全に保護：AppleとGoogleの認証を受けたこのBluetoothエアトラッカータグは、エンドツーエンド暗号化により位置情報を安全に保護します。通信はすべて匿名かつ暗号化され、端末には位置データが一切保存されません。万が一紛失しても、Apple、Google、メーカー、第三者を問わず、許可なく情報にアクセスされることはありません。",
+        "ヒント：1. トラッカーはクロスプラットフォーム対応しておらず、一度に1つのプラットフォーム（iOSまたはAndroid）にしか接続できません。iOSとAndroidアプリ間で位置情報の共有や同期はできません。2. 位置情報共有などの特定の機能にはシステムバージョンが必要です。iOSデバイスはiOS 17以降、AndroidデバイスはAndroid 9.0以降が必要です。ご購入前にデバイスのシステムバージョンをご確認ください。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 2817,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0CY9Q1BDJ",
+      "title": "Dyoac 1.6mm GPS紛失防止タグ iOS専用 MFi認証",
+      "url": "https://www.amazon.co.jp/dp/B0CY9Q1BDJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CY9Q1BDJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Dyoac",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 2027,
+      "star_rating": 4.5,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-18",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0FBW976L9",
+      "title": "UGREEN FineTrack USB-C充電式 紛失防止タグ Appleの「探す」に対応 (iOSのみ) ミニ型 鍵/バッグなど用 2個セット",
+      "url": "https://www.amazon.co.jp/dp/B0FBW976L9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FBW976L9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61a6l6s7ypL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "◆◆UGREEN正規品に関するご確認のお願い◆◆ UGREEN正規品は、メーカー直轄の販売元「Ugreen Japan Co., Ltd」により出品・販売されています。 正規品をご購入いただくことで、日本国内におけるメーカー保証、安全性確認済みの品質、およびカスタマーサポートをご提供できます。 お客様が正規品の完全なサービスをお受けいただくため、ご購入前には、商品ページの「販売元」情報が「Ugreen Japan Co., Ltd」となっていることをご確認いただけますと幸いです。",
+        "なくしたモノも、ピピっと発見！ Apple公式認証・探す対応（iOSのみ）：Apple公式「探す」ネットワークに完全対応。高い信頼性と耐久性を実現。特別なアプリ不要で、iPhoneの「検索」アプリからすぐに使用開始可能。プライバシーもApple IDで保護され、安心してお使いいただけます。",
+        "USB-C充電式で長持ち：充電式だから電池交換不要。USB-C充電で1回フル充電すれば最大1年間使える便利なスマートタグ。",
+        "大音量&amp;全世界追跡：最大80dBの強力ブザー音で落とし物をすぐ発見。世界中のAppleデバイス網を活用し、距離無制限で位置情報を更新。国内外を問わず、高精度な位置把握が可能です。",
+        "遺失防止通知&amp;共有機能：アイテムから離れると即時通知で忘れ物を防止。最大5台のAppleデバイスで位置を共有可能。家族での荷物管理の見守りに最適です。",
+        "簡単設定&amp;超薄型・軽量デザイン：「探す」アプリとシームレス連携。タップ一つで簡単設定。薄型設計で、財布・鍵・バッグに入れても邪魔にならない忘れ物防止トラッカー。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 2003,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0D99ZHVD2",
+      "title": "Tile Slim (2024) 薄いカード型スマートトラッカー",
+      "url": "https://www.amazon.co.jp/dp/B0D99ZHVD2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D99ZHVD2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/613Ptnrmn1L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "探し物を「音」で見つけるスマートトラッカー薄いカードタイプ： 財布や定期入れなど日常的に使うものに取り付けてください。",
+        "Life360アプリ連携：Life360アプリでTileの位置情報も加えることができ、SOSアラートも送信可能です。",
+        "持ち物を探す：どこかに置き忘れてしまったら、Tileを鳴らすか無料のアプリで探しましょう。",
+        "スマホを探す ：Tileを使用すると、スマホがマナーモードになっていても鳴らすことができます。",
+        "iOSおよびAndroidに対応：無料のTileアプリは、すべてスマホでご利用いただけます。",
+        "高いスペック：最大105mのBluetooth通信距離。寿命が最大3年間のバッテリー。IP68防水。",
+        "ギフトにも最適：Tileは家族や友人への手軽で便利な贈り物として最適です。",
+        "GPS ・ Air Tag ( エアタグ ) 非対応です。"
+      ],
+      "maker": "Life360",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 895,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "gps_tracker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0FKT2JBDN",
+      "title": "VOCOlinc エアタグ カード型 （2枚セット）財布用 超薄(0.16cm) （Apple「探す」のみ対応 ）",
+      "url": "https://www.amazon.co.jp/dp/B0FKT2JBDN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FKT2JBDN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61KdRVvybJL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【忘れ物を簡単に見つける】VOCOlinc air カードを使用しているアイテムを Bluetooth 範囲内 (Bluetooth 範囲最大 60 m) で紛失した場合は、「探す」アプリで音を鳴らすか、Siri に助けを求めてください。",
+        "[長距離追跡] 「デバイスを探す」ネットワークは、世界中の何百万台もの Apple デバイスを接続し、Bluetooth の範囲外にあるアイテムの位置を特定できるようにします。",
+        "【技術仕様】：カード型(1.6mm)、薄くて軽いので収納に便利です。 防水（IP67等級）。内蔵バッテリーは最大3年間使用でき、安全で耐久性があります。鍵、財布、携帯電話、バックパック、荷物など、失くしたくないものに内蔵することで、紛失を防ぎます。",
+        "【簡単ペアリング】VOCOlincのSlim TAGとエアタグのペアリング方法は同じです。Appleの アプリ「探す」とBluetoothを開き、「持ち物を探す」と「その他の持ち物を追加」をクリックすると、30秒以内にペアリングが完了します。注：iOS端末のみ対応で、Androidは非対応です。",
+        "【プライバシー保護】お客様のプライバシーを保護するために、Find My ネットワーク上のすべての通信は匿名で暗号化されています。 VOCOlinc タグは位置データと履歴を保存しません。",
+        "【取得規格】:電波法　MIC認証、工事設計認証、Mfi認証、RoHS指令準拠（10物質）；正規販売ですので、日本の規格に準拠しておりますので、ご安心してお買い求めください。 グローバル認証情報もございますので、日本の認証を確認する場合は、正しい番号xxx-xxxxxxを選択してください。",
+        "【カスタマーサービス】高品質の製品と申し分のないサービスを提供することに専念しています。 さらに、このトラッカーは友人への素晴らしいプレゼントにもなります。 ご不明な点がございましたら、お気軽にお問い合わせください。"
+      ],
+      "maker": "VOCOlinc",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 595,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0FWJYNGXT",
+      "title": "VOCOlinc エアタグ カード型（ios/Android 用）ワイヤレス充電式 紛失防止タグ",
+      "url": "https://www.amazon.co.jp/dp/B0FWJYNGXT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FWJYNGXT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61h38LRHUbL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "[iOS/Android対応]：VOCOlincエアタグ 強化版 は、iOS（「探す」アプリ経由）およびAndroid（Google Find Hub経由）に対応した、新たにアップグレードされたBluetoothトラッカーです。注：Huawei HarmonyOSには対応していません。VOCOlincタグ 強化版はAppleとGoogleの認定チップを搭載していますが、システムの制限により、一度に1つのシステムにしか接続できません。iOSとAndroidをデュアルスイッチするには、トラッカーのペアリングを解除し、新しいスマートフォンに再接続するだけです。",
+        "[近くを探す]：Google Find Hub または Apple の「探す」アプリと連携し、内蔵スピーカーから大きな着信音（80～100 デシベル）を鳴らしてアイテムを探すことができます。また、Siri に直接頼むこともできます。（注：UWB 機能は利用できません。）",
+        "[遠くを探す]：VOCOlinc スマートエアタグトラッカーは、Google Find HubまたはFind Appネットワークに登録された数億台のAndroidまたはAppleデバイスを使って、遠くにあるものを探すことができます。（月額料金や年会費は不要です）",
+        "[現在地]：VOCOlinc トラッカーのBluetooth有効範囲は、障害物のない状況で最大約60メートルです。追跡距離がBluetooth範囲を超えた場合は、Google Find Hubまたは「探す」アプリを使用して地図上でVOCOlinc の位置を確認したり、ナビゲーション機能を使ってVOCOlinc まで誘導したりできます。",
+        "[紛失アラートと紛失モード]：Appleの「探す」アプリからすぐに紛失アラートを受け取ることができるため、紛失を未然に防ぐことができます。（この機能はGoogleのシステムではまだご利用いただけません。）VOCOlinc の位置タグを紛失した場合は、Google Find HubまたはAppleの「探す」アプリで紛失モードをオンにしてください。Appleの「探す」ネットワークがタグを検出すると、自動的に通知が届きます。",
+        "【IP67防水＆ワイヤレス充電対応】：VOCOlincキーファインダータグはIP67防水性能と耐久性を備えています。VOCOlinc Slim Air Bluetoothトラッカーはワイヤレス充電に対応しています。70分の充電で3～6ヶ月間使用できるため、毎週の充電やカード全体の交換、新しいカードの購入は不要です。充電中は赤色のLEDインジケーターが点灯し、フル充電になると消灯します。ご注意：本製品にはワイヤレス充電器は付属していません。バッテリーの寿命は使用状況、環境条件、その他の要因によって異なります。",
+        "[プライバシー保護]: プライバシー保護のため、Google Find Hub または Find My アプリ ネットワークは暗号化と匿名性を使用し、位置データと履歴は VOCOlinc 無線追跡タグに保存されません。"
+      ],
+      "maker": "VOCOlinc",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 579,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B08LGLRNHF",
+      "title": "MAMORIO RE（マモリオ 電池交換対応）【3個セット】紛失防止タグ・忘れ物防止タグ【電池交換可能】キーファインダー トラッカー｜鍵・財布・パスケース・バッグ対応｜iOS/Android対応・スマホで紛失位置を確認・置き忘れ防止｜落とし物防止グッズ Bluetoothスマートタグ｜法人向け備品管理・ギフトにも",
+      "url": "https://www.amazon.co.jp/dp/B08LGLRNHF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08LGLRNHF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61WjDG4-8cL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "電池交換で長く使える安心設計: 大切な持ち物をしっかり見守る紛失防止タグ。電池交換ができて長期間使える安心仕様で、財布・バッグ・名刺入れなど幅広く対応。小型・軽量で持ち物の邪魔になりません。電池交換に対応した「MAMORIO RE」は、長く安心して使える紛失防止タグ。バッグや仕事用カバン、財布、名刺入れなどなくしたくない大切なモノに取り付けるだけで、日常の紛失リスクをしっかり軽減できます。",
+        "置き忘れを未然に防ぐ自動通知機能: 一定距離でアラート発動し、約60m圏内でしっかり見守ります。MAMORIOから一定距離以上離れると、スマートフォンへ置き忘れ注意の通知を自動送信。外出時の置き忘れを事前に防止し、約60m圏内の見守りで安心感を高めます。GPS非搭載のためリアルタイム追跡は不可。",
+        "最後にあった場所と時間をアプリで確認: 最後に検知した場所を表示し、マップで即チェック可能。スマートフォンと連携するだけで、MAMORIOが最後にあった場所と時刻をアプリで簡単確認。どこで落としたか分からないを防ぎ、鍵・財布・バッグなど紛失しやすい持ち物の探索時間を大幅に削減します。",
+        "みんなでさがす機能で発見精度アップ: MAMORIO Spot搭載施設で自動検知し、全国ユーザーが協力するネットワークで紛失物の発見率が大幅向上。駅・商業施設などのMAMORIO Spotでタグを自動検知したり、他ユーザーがあなたのMAMORIOを見つけた場合にスマホへ通知。特許取得のクラウドトラッキング技術で、紛失物の発見率が大幅にアップします。",
+        "電池寿命は約1.2年で長持ち: 約14ヶ月長持ちする電池を搭載。本製品の電池寿命は約1.2年と長持ち。ユーザーによる電池交換はできませんが、180日以上使用したMAMORIOは専用サービス「OTAKIAGE」でお得に新品へ交換可能。長期間安心して使えて、買い替え時もコストを抑えられます。",
+        "全国のお忘れ物センター連携で発見率UP: 鉄道・バス・商業施設と連携し、独自アンテナ（MAMORIO Spot）で自動検知。MAMORIO Spotが設置された全国の鉄道・バス・商業施設のお忘れ物センターにあなたの大切なモノが届けられると、自動で検知してスマホにだけ場所を通知。紛失時の見つかる確率が大幅に向上します。",
+        "スマホを紛失しても場所通知が可能: スマホ紛失時でもメールで通知し、PCから場所確認が可能。スマホをなくしても、MAMORIO Spotで検知されれば登録メールアドレスへ位置情報を自動送信。パソコンから場所を確認できるため、紛失時もスムーズにリカバリーできます。スマホの電源が入っている場合のみ有効。",
+        "使い方は近づけるだけの簡単セットアップ: アプリにスマホ登録後、MAMORIOを近づけるだけで接続完了。初心者でも迷わないシンプル接続。スマホにアプリを入れ、MAMORIO本体を近づけるだけでセットアップ完了。初めての方でも迷わずスムーズに使い始められる、直感的でシンプルな設計です。"
+      ],
+      "maker": "MAMORIO",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 475,
+      "star_rating": 3.7,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "gps_tracker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T23:26:58+00:00",
+        "content_observed_at": "2026-09-12T23:26:58+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0D9BR32JL",
+      "title": "Dyoac エアタグ カード【超薄1.6ｍｍ×ワイヤレス充電 最大10年使用】iOS専用 GPS 財布 紛失防止タグ Apple「探す」 IP68防水",
+      "url": "https://www.amazon.co.jp/dp/B0D9BR32JL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9BR32JL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71rKqsqQF3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "👑👑【★強度×質感アップ！丸面取り加工も】軽量と強度を両立する素材を採用した小型 gps！従来品より折れにくくなり、耐摩耗性も更に上がりました。また、カードの縁にも丸面取り加工が行われており、鋭利な縁の部分が滑らかに加工されました。細かいところだが、質感と使い心地がより一層上がります！👑👑【シンプルデザイン！ストラップホールも付き】ムダな装飾や要素が一切なく、必要最低限のマークのみ印刷され、スッキリとしたデザインです。便利なストラップホールも付きますので、お財布やポケットなど決まった場所だけでなく、キーホルダーや鞄に付けたりするなど、使用シーンが広がります。子供や高齢者のお見守り、ペットの迷子防止、車や自転車の盗難防止、お財布やカードケースの置き忘れ防止、貴重品の追跡、落とし物防止など、様々なシーンで活躍します。",
+        "💳💳【厚さ僅か1.6mm！超薄い紛失防止タグ】超コンパクトなスマートタグです。厚さは約クレジットカード2枚分。お財布、ポケットに入れてもかさばりません。💳💳【ワイヤレス充電対応！繰り返し使えるgpsタグ】ワイヤレス充電器に置くと充電が始まるので電池交換の手間がかかりません。1時間の充電で最大3~4ヶ月使えます。電池交換不可・充電不可の使い捨てタイプよりもっと長持ちします。ご注意：※バッテリーの消耗は使用環境、音を鳴らす頻度などによって異なる場合があります。※ご注意：ワイヤレス充電器を付属しておりません。市販のDC5V 0.5A以上のワイヤレス充電器をご使用ください。",
+        "🔍🔍【探し物が上手！】地図で一発で見つける！探し物の位置情報を地図で特定し、そこまでの経路、距離、時間を一発で確認することができます。海外においても位置特定が可能です。落とし物、貴重品の追跡、紛失防止、盗難防止に大変役立ちます。伝統的な小型 GPS タグと違い、消耗電力が少なく、電池が長持ちします。🔍🔍【音を鳴らして見つける！忘れ物防止 タグ】近くに隠れていれば、「探す」アプリで「サウンドを再生」ボタンを押すと音が鳴り、所在を知らせます。Siriにも対応しており「Hey Siri、お財布を探して」など声をかけるだけ。また、手元から離れるとプッシュ通知が来ます！置き忘れた場合はすぐに取り戻しに行きます。万一紛失したとしても、「紛失モード」をオンにすればカードがロックされ、拾った人が「探す」アプリで識別すると持ち主の電話番号またはメールアドレスが表示され、拾得者から連絡をもらうことができます。",
+        "💙💙【安心のMFi認証品】apple社が定めている性能基準を満たし、iOSデバイスとの互換性が確保されます。Apple製品のために開発されたスマートトラッカーですので、iOSデバイスにかんたん３ステップでスムーズに接続できます。Apple IDと紐付けるので、iPhone/iPad/Macなど複数のiOSデバイスに同期できます。💙💙【安定した接続】Appleのエアタグと同じ「探す」ネックワードにサポートされているため安定した接続が可能で、日本だけでなく世界中のどこでも使えます。技適認証も取得済み。第三社のアプリのダウンロードは不要です。💙💙【ほかのiOSユーザーにもシェア可能】ご家族同士でお子様や高齢者を見守ることができます。 ※iOS 14.5またはiPad OS 14.5以降を搭載したiOS端末に対応。※Androidには対応しておりません。",
+        "💧💧【本格の防水！水洗いOK】「IP68」という最高級レベルの本格防水・防塵を実現！雨の影響を受けやすい屋外にも安心です。汚れやほこりが付いたら丸洗い可能で、いつも清潔な状態に保ちます。💎💎【1年安心保障】本品は1年安心保障がつきます。初期不良の場合は開封した後でも、30日の返品期限が過ぎても、当店までご連絡頂ければすぐに対応可能です。🙋🙋【お問合せ方法】取扱説明書に記載したメールアドレスまでご連絡ください（返信がない場合は迷惑メールフォルダをご確認ください）。または「注文履歴」→「該当する注文を探す」→「注文に関する問題」→「出品者に問い合わせる」からご連絡ください。24時間以内に返信させていただきます。"
+      ],
+      "maker": "Dyoac",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 300,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "gps_tracker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T23:26:58+00:00",
+        "content_observed_at": "2026-09-12T23:26:58+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0BZYH8X2W",
+      "title": "まもサーチ3 + ソフトカバー ライム こどもGPS 子供や高齢者を見守り 大切な家族やモノの居場所を確認 迷子防止 GPSトラッカー 防水防塵 スマートトラッカー ケース",
+      "url": "https://www.amazon.co.jp/dp/B0BZYH8X2W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BZYH8X2W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61hgxpIWJmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【通信料金最安級】【月額/年額選べる】月額528円または年額5,500円(税込)にて利用可能。月額利用で使用感をお試しのうえ、切り替えることも可能です。利用料は自動更新契約のためお支払い方法はクレジットカードのみとなります。",
+        "【丈夫でバッテリー長持ち】1回の充電で、最大で8週間の見守りが可能。（現在地更新間隔3分）。バッテリー残量が少なくなるとスマホに通知して、バッテリー切れを防ぎます。※本体1年間の保証付き。ケーブルは付属しておりません。出力5V/1AのUSB ACアダプターおよびType-A to Type-Cのケーブルをご用意ください。",
+        "【子どもやご高齢者の行動がわかる】お子さまやご高齢者がどこにいるのか、どんな経路を通ったのか、アプリの地図上に表示します。移動履歴は、過去90日前まで保存されます。",
+        "【居場所をスマホに通知】よく行くスポットをエリア登録すれば、設定したエリアへの到着・出発した時、保護者のスマホに通知します。【現在地発信】+Style まもサーチ 3本体のボタンを長押しすれば、「いまここ！」と保護者のスマホへ現在地を発信することもできます。",
+        "【大切な家族やモノを同時に見守れる】複数人のスマホから見守ることができます。（別途料金不要）【高精度で安定した位置情報】GPS衛星から取得した位置情報やWi-Fiアクセスポイント、通信基地局情報から測位するので、市街地や地下でも位置情報が取得できます。",
+        "※GPSの特性上、位置情報にズレや遅延が生じることがございます。(リアルタイム更新ではございません。)トラッキングの更新間隔を短くすることで改善される場合がございます。※GPSの電波が届きにくい場合他の通信方法により位置情報の取得を行いますが、切り替えの際に一時的に位置情報の取得が停止し、ランプが停止/点滅することがあります。 ※ランプが点灯しない場合は、バッテリー切れの可能性がございます。まもサーチアプリで充電量を確認のうえ残量が少ない場合、または本体のボタンを押した際に赤く点灯する場合は充電してください。"
+      ],
+      "maker": "まもサーチ3",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 110,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "gps_tracker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T23:26:58+00:00",
+        "content_observed_at": "2026-09-12T23:26:58+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0F5X62C2K",
+      "title": "MAMORIO（マモリオ）1個入り 第4世代 スマートトラッカー キーホルダー型 紛失防止タグ",
+      "url": "https://www.amazon.co.jp/dp/B0F5X62C2K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F5X62C2K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51FQigNEHiL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "2025年最新版・第4世代: 電池寿命20％UPでさらに長持ちするMAMORIOタグ | 電池寿命約20％UP・薄型＆軽量・置き忘れ防止通知・最後にあった場所をスマホで確認 | 世界最小級の紛失防止タグが2025年モデルでパワーアップ。定番MAMORIOが第4世代モデルとなり、電池寿命がさらに向上。鍵・財布・自転車など毎日持ち歩く大切な持ち物を、スマホ連携でしっかり守ります。",
+        "置き忘れを未然に防ぐ自動通知機能: 一定距離でスマホに自動通知 | 一定距離でアラート発動・約60m圏内でしっかり見守り・GPS非搭載のためリアルタイム追跡は不可 | MAMORIOから一定距離以上離れると、スマートフォンへ置き忘れ注意の通知を自動送信。外出時の置き忘れを事前に防止し、約60m圏内の見守りで安心感を高めます。GPSは搭載していないため、リアルタイム追跡機能はありません。",
+        "最後にあった場所と時間をアプリで確認: 最後に検知した場所を表示・マップで即チェック・外出時も安心 | スマートフォンと連携するだけで、MAMORIOが最後にあった場所と時刻をアプリで簡単確認。どこで落としたか分からないを防ぎ、鍵・財布・バッグなど紛失しやすい持ち物の探索時間を大幅に削減します。",
+        "みんなでさがす機能で発見精度アップ: 特許取得済のクラウドトラッキング技術 | MAMORIO Spot搭載施設で自動検知・全国ユーザーが協力するネットワーク・紛失物の発見率が大幅向上 | 駅・商業施設などのMAMORIO Spotでタグを自動検知したり、他ユーザーがあなたのMAMORIOを見つけた場合にスマホへ通知。特許取得のクラウドトラッキング技術で、紛失物の発見率が大幅にアップします。",
+        "電池寿命は約1.2年: 14ヶ月長持ち・交換はOTAKIAGEでお得に | 約14ヶ月長持ち・電池交換は非対応・OTAKIAGEでセール価格交換 | 本製品の電池寿命は約1.2年と長持ち。ユーザーによる電池交換はできませんが、180日以上使用したMAMORIOは専用サービスOTAKIAGEでお得に新品へ交換可能。長期間安心して使えて、買い替え時もコストを抑えられます。",
+        "世界最小級のコンパクト設計: 100円玉2枚分の薄さで財布や鍵にスッキリ収まる超小型タグ | 薄型軽量設計により、財布・パスケース・鍵・バッグなど様々な持ち物に取り付けても邪魔にならず、日常生活でストレスなく使用できます。Bluetoothスマートタグとして持ち物管理を簡単にします。"
+      ],
+      "maker": "MAMORIO",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": 53,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "gps_tracker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T23:26:58+00:00",
+        "content_observed_at": "2026-09-12T23:26:58+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0GJTW9CL8",
+      "title": "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
+      "url": "https://www.amazon.co.jp/dp/B0GJTW9CL8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GJTW9CL8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Apple",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": "gps_tracker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0D9B21YQP",
+      "title": "Life360 Tile Pro 電池交換可 ハイスペックモデル ブラック スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 音を鳴らして場所をお知らせ 防水機能Bluetooth接続範囲外でも探せる 縦長 iOS Android 対応 カギやバッグに",
+      "url": "https://www.amazon.co.jp/dp/B0D9B21YQP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9B21YQP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Life360",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0FHP92TQ9",
+      "title": "エレコム スマートトラッカー 忘れ物防止タグ 紛失防止 IP65設計 Android対応 電池交換タイプ ブラック LGT-ELBETG1BKG",
+      "url": "https://www.amazon.co.jp/dp/B0FHP92TQ9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FHP92TQ9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "ELECOM",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0D9B1QB38",
+      "title": "Life360 Tile Mate スタンダードモデル ホワイト スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 3年間電池交換不要 音を鳴らして場所をお知らせ 長距離接続 防水機能 Bluetooth接続範囲外でも探せる 小型 iOS Android 対応 カギやバッグに",
+      "url": "https://www.amazon.co.jp/dp/B0D9B1QB38?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9B1QB38?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Life360",
+      "query": "dg_20261009_gps_tracker",
+      "queries_matched": [
+        "dg_20261009_gps_tracker"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": "gps_tracker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": [
+      "type:gps_tracker"
+    ],
+    "asins_explicit": false,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": "2026-09-01",
+    "exclude_asins": [
+      "B0DGXVMNWY",
+      "B0F82HR8QZ",
+      "B0CSDGGTGK",
+      "B0BJCQCQ7Z",
+      "B0G5YJ5TGD",
+      "B0FWK42FWG",
+      "B0GJTXZHDX",
+      "B0D99ZQG51",
+      "B0D99ZL9DM",
+      "B08KT1L8D8",
+      "B0F5X5KK5C",
+      "B0BZYJ14ZP",
+      "B0BZYH2VWJ",
+      "B0D99Y2DPL",
+      "B0B6ZQJXW8",
+      "B0DM9GJP5R",
+      "B0F5HSHQ83",
+      "B0FCMVS326",
+      "B0HDJ6FMPP",
+      "B0FJ8273WX",
+      "B0F5VLY4GV",
+      "B0F5WMV8L9",
+      "B0F29G9GPQ",
+      "B0GCNFJLWB",
+      "B0GX9PVJRK",
+      "B0GX9QB54P",
+      "B0GSZLJ32D",
+      "B0FD8TF6LG",
+      "B0HH936X4K"
+    ],
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  }
+}
