@@ -1,0 +1,540 @@
+{
+  "generated_at": "2026-09-15T03:11:53+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261010_b6682983",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261010_circulator"
+  ],
+  "fetched_count": 25,
+  "dedup_count": 20,
+  "candidates": [
+    {
+      "asin": "B079LWYC17",
+      "title": "アイリスオーヤマ サーキュレーター アイ PCF-SC15T",
+      "url": "https://www.amazon.co.jp/dp/B079LWYC17?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B079LWYC17?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "IRIS OHYAMA",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": 12678,
+      "star_rating": 4.4,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-15",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B07PQVRSP6",
+      "title": "【Amazon.co.jp限定】[山善] サーキュレーター 静音 10畳 左右首振り 上下角度調節 風量3段階調節 (換気/空気循環) ホワイト×グレー AAS-KW15(WH)",
+      "url": "https://www.amazon.co.jp/dp/B07PQVRSP6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07PQVRSP6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "山善",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": 6638,
+      "star_rating": 4.2,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-31",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B088H738GX",
+      "title": "アイリスオーヤマ サーキュレーター PCF-MKM15-W",
+      "url": "https://www.amazon.co.jp/dp/B088H738GX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B088H738GX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "IRIS OHYAMA",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": 6163,
+      "star_rating": 4.2,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-15",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B07R5FJYS5",
+      "title": "Umimileユミマイル サーキュレーター 首振り 静音 壁掛け 扇風機 小型 卓上 dcモーター 6畳 羽根径17cm 風量3段階調節 省エネ 5枚羽根 USB電源 グレー",
+      "url": "https://www.amazon.co.jp/dp/B07R5FJYS5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07R5FJYS5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Umimileユミマイル",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": 4301,
+      "star_rating": 3.9,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-01",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B087RJLZMR",
+      "title": "アイリスオーヤマ サーキュレーター 静音 8畳 マカロン マットデザイン 首振り固定 パワフル送風 コンパクト PCF-MKM15N-B ブラック",
+      "url": "https://www.amazon.co.jp/dp/B087RJLZMR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B087RJLZMR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "IRIS OHYAMA",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": 4078,
+      "star_rating": 4.1,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-31",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0BZYJGZ31",
+      "title": "サーキュレーター DCモーター 360°強風 上下左右首振り 静音 扇風機",
+      "url": "https://www.amazon.co.jp/dp/B0BZYJGZ31?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BZYJGZ31?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "YONA",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": 2185,
+      "star_rating": 4.6,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-15",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0CB127PGQ",
+      "title": "Amazonベーシック サーキュレーター 扇風機 8畳",
+      "url": "https://www.amazon.co.jp/dp/B0CB127PGQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CB127PGQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71LzNz6ridL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【パワフル送風】部屋の隅々まで風を届けるサーキュレーター。エアコンとの併用で、冬は暖かい空気を足元へ、夏は涼しい冷気を部屋全体へ。空気循環から部屋干しまで、1年中使える",
+        "【小型】コンパクトながら8畳 (13m2)まで対応。さらに1.4kgだから、女性でも簡単に設置場所を変更することができる。持ち運びに便利なハンドル付き",
+        "【上下角度調整】手動で上下に90°まで調節可能。エアコンや部屋干し衣類に直接風を送る事ができる",
+        "【風量3段階】背面のダイヤルで、電源オフ、弱、中、強(0、1、2、3)の操作が簡単にできる",
+        "【お手入れ方法】ドライバーを使用しバックカバーのネジを外し、反時計回りに回すとをフロントカバーを取り外せます。湿らせた柔らかな布でブレードの汚れを落とし、完全に乾かしてください。",
+        "適用床面積(目安): 8畳 (13m2) 電源コード:約1.8m 消費電力:35W (強設定時)",
+        "サイズ: 15.49 x 27.3 x 27.69 cm (長さ(L) x 幅(W) x 高さ(H))"
+      ],
+      "maker": "Amazon",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": 955,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B00V7QD7II",
+      "title": "ボルネード サーキュレーター タフモーター 35畳 静音 パワフル 省エネ 4段階風量 3年保証 24時間365日使える 花粉対策 梅雨対策 部屋干し 衣類乾燥 プロペラ丸洗い 植物向き 白 660-JP",
+      "url": "https://www.amazon.co.jp/dp/B00V7QD7II?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B00V7QD7II?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Vornado",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": 691,
+      "star_rating": 4.4,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-15",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0DZCQWL3P",
+      "title": "COMFEE' サーキュレーター 扇風機 兼用 静音 18畳 左右自動首振り 上下角度調節 風量3段階調節 1~3h 強力送風 省エネ 小型 卓上/洗面所 一台多役 換気/空気循環/部屋干し/冷房",
+      "url": "https://www.amazon.co.jp/dp/B0DZCQWL3P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DZCQWL3P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "COMFEE'",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": 415,
+      "star_rating": 4.3,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-30",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0DXNYLJ4Y",
+      "title": "[山善] 洗える サーキュレーター 静音 12畳 左右 首振り 上下角度調節 風量3段階調節 お手入れ簡単 ホワイト YAS-CFKW15(W)",
+      "url": "https://www.amazon.co.jp/dp/B0DXNYLJ4Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DXNYLJ4Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "山善",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": 265,
+      "star_rating": 4.1,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-30",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0758JSX4V",
+      "title": "アイリスオーヤマ サーキュレーター 衣類乾燥機能付き 静音 左右首振り パワフル送風 風量3段階調節 タイマー機能 部屋干し カラリエ IK-C500",
+      "url": "https://www.amazon.co.jp/dp/B0758JSX4V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0758JSX4V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "IRIS OHYAMA",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0CW1JK2WR",
+      "title": "[山善] サーキュレーター DCモーター 静音 20畳 (換気/空気循環) 上下左右自動首振り 風量7段階調節 入切タイマー リモコン付き ホワイトグレー YAR-ND15E(WH)",
+      "url": "https://www.amazon.co.jp/dp/B0CW1JK2WR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CW1JK2WR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "山善",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0C9TKSP8V",
+      "title": "【節電対策】SwitchBot サーキュレーター 静音 首振り Alexa - コードレス スイッチボット 扇風機 ~30畳 DCモーター 省エネ 充電式バッテリー搭載 無段階風量調整 リモコン付き 梅雨対策",
+      "url": "https://www.amazon.co.jp/dp/B0C9TKSP8V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C9TKSP8V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "SwitchBot",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0D9896MPY",
+      "title": "SwitchBot サーキュレーター Lite 静音 首振り - スイッチボット 扇風機 ~30畳 DCモーター 省エネ 無段階風量調整 リモコン付き Alexa Google Home Siriに対応",
+      "url": "https://www.amazon.co.jp/dp/B0D9896MPY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9896MPY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "SwitchBot",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0F28FDSD7",
+      "title": "cocono 扇風機 静音 360度首振り おしゃれ スマホ操作 airy fan Basic CF-B271SR-GR (グレー) - DCモーター サーキュレーター アプリ操作 インテリア家電 エアリーファン ベーシック ココノ",
+      "url": "https://www.amazon.co.jp/dp/B0F28FDSD7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F28FDSD7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "cocono",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B08BZJZVW1",
+      "title": "アイリスオーヤマ サーキュレーター 扇風機 AI操作 18畳 上下左右首振り サーキュレーターアイ ホワイト PCF-SCAI15T",
+      "url": "https://www.amazon.co.jp/dp/B08BZJZVW1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08BZJZVW1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "IRIS OHYAMA",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0CVVXGHMJ",
+      "title": "DREO サーキュレーター DCモーター 上下左右自動首振り 静音 空気循環 風量8段階調節 省エネ パワフル送風 コンパクト 高さ調整可能 ペデスタルファン リモコン付き",
+      "url": "https://www.amazon.co.jp/dp/B0CVVXGHMJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CVVXGHMJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "DREO",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B07QP882VF",
+      "title": "アイリスオーヤマ サーキュレーター アイ 静音 上下左右首振り 24畳 パワフル送風 DCモーター リモコン付き ホワイト PCF-SDC15T",
+      "url": "https://www.amazon.co.jp/dp/B07QP882VF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07QP882VF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "IRIS OHYAMA",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0DZGWBN8H",
+      "title": "[山善] サーキュレーター DCモーター 静音 22畳 (換気/空気循環) 上下左右自動首振り 風量7段階調節 入切タイマー リモコン付き ホワイト YAR-MD18(WH)",
+      "url": "https://www.amazon.co.jp/dp/B0DZGWBN8H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DZGWBN8H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "サーキュレーター",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0D4M9YFW8",
+      "title": "無印良品 360度首振り機能付きサーキュレーター18畳 MJ-OCF18 LA1SBA3A",
+      "url": "https://www.amazon.co.jp/dp/B0D4M9YFW8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D4M9YFW8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "無印良品",
+      "query": "dg_20261010_circulator",
+      "queries_matched": [
+        "dg_20261010_circulator"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": [
+      "type:circulator"
+    ],
+    "asins_explicit": false,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": "2026-09-01",
+    "exclude_asins": [
+      "B08L518WBM",
+      "B08G1G1DVT",
+      "B0H32KRLLB",
+      "B0GT8MD4K1",
+      "B07RVT4BK3"
+    ],
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "session_date": "2026-09-15",
+  "measurement_limit": 80,
+  "measurements_total": 51,
+  "selection_measurements": 50,
+  "canary": {
+    "asin": "B083348J3X",
+    "provenance": "蔵書のmeasured観測あり。last_verified_at=2026-09-14T03:05:56+00:00",
+    "measurements": 1,
+    "ok": true
+  },
+  "count_definition": "実測対象ASINの試行数。スクリプト内のHTTPリトライ回数とは別。select_products.py各テーマ1回、本番のみ。",
+  "stop_reason": "10/11の候補35件で累計86件となるため、残枠29件では次テーマに入らず停止。",
+  "qa": "完了4本それぞれcheck_research_quality.pyでerrors=0 warnings=0。サムネイルは保存後に1枚ずつ開いて目視確認。",
+  "results": [
+    {
+      "date": "2026-10-06",
+      "status": "完了",
+      "count": 9,
+      "tiers": [
+        9,
+        0,
+        0
+      ],
+      "measured": 12,
+      "cumulative": 13,
+      "thumbnail": "2026-10-06_wireless_charger.png",
+      "scene": "朝食用キッチンカウンターでスマホを立てて充電する黒いスタンド。",
+      "notes": [
+        "B0CVNB7LCC／B07RFFYN2Dは同一親B0CW95QGZ2（DB照合）。選抜維持。",
+        "B0H4FCKJD4（TEPNICAL）・B0GCB58RFD（FEEKI）・B0DW2SYD5H（Anker Zolo）は薄型充電パッドでスタンドではない。",
+        "TEPNICALの厚みはタイトル4.9mm／features 5.2mmと不一致。UGREENはタイトルZapix／features MagFlowと名称揺れ。充電器の認証・最大出力は販売元記載で、認証機関との独立照合は未実施。"
+      ],
+      "title": "置くだけで充電。ワイヤレス充電スタンド",
+      "research_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+      "thumbnail_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-06_wireless_charger.png",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/dg_20261006_wireless_charger.json"
+    },
+    {
+      "date": "2026-10-04",
+      "status": "完了",
+      "count": 10,
+      "tiers": [
+        10,
+        0,
+        0
+      ],
+      "measured": 10,
+      "cumulative": 23,
+      "thumbnail": "2026-10-04_laptop_stand.png",
+      "scene": "合板壁の作業室でノートPCを持ち上げる銀色スタンドを側面から撮影。",
+      "notes": [
+        "B09G8JS637（HumanCentric）は閉じたMacBook用の縦置きホルダー。内蔵画面の目線を上げる用途と異なる。選抜維持。",
+        "MOFT B0CPHX4R58は対応サイズがタイトル16インチ／features 15.6インチと不一致。",
+        "採用10件の親ASINはDB上で別々。"
+      ],
+      "title": "目線を上げる。ノートPCスタンド",
+      "research_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+      "thumbnail_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-04_laptop_stand.png",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/dg_20261004_laptop_stand.json"
+    },
+    {
+      "date": "2026-10-10",
+      "status": "完了",
+      "count": 9,
+      "tiers": [
+        9,
+        0,
+        0
+      ],
+      "measured": 20,
+      "cumulative": 43,
+      "thumbnail": "2026-10-10_circulator.png",
+      "scene": "暖房用エアコンのある部屋で、床から上向きに送風する白いサーキュレーター。",
+      "notes": [
+        "上位3件はアイリスオーヤマ2件と山善のサーキュレーター。4位YONA、5・6位SwitchBot、7位Amazon、9位COMFEEは扇風機表現・兼用訴求を含むが選抜維持。",
+        "SwitchBot B0C9TKSP8V／B0D9896MPYは同一親B0H73MSDPS。通常版とLiteの別モデルだが親重複として報告。",
+        "3件在庫切れで機械除外。20件のレビュー・在庫取得は全件成功。"
+      ],
+      "title": "暖房の空気を部屋に回す。サーキュレーター",
+      "research_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-10/2026-10-10_暖房の空気を部屋に回す。サーキュレーター.md",
+      "thumbnail_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-10_circulator.png",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/dg_20261010_circulator.json"
+    },
+    {
+      "date": "2026-10-08",
+      "status": "完了",
+      "count": 5,
+      "tiers": [
+        3,
+        0,
+        2
+      ],
+      "measured": 8,
+      "cumulative": 51,
+      "thumbnail": "2026-10-08_smart_lock.png",
+      "scene": "青灰色の金属製玄関ドアの内側に取り付けた黒い後付けスマートロック。",
+      "notes": [
+        "Yale B0CYMXSM6Rは米国標準ドアのデッドボルト交換型。日本の賃貸への工事不要の取り付けは保証できず、テーマ外の混入として報告。メーカー確認 https://shopyalehome.com/products/yale-assure-lock-2-touch-with-z-wave",
+        "SwitchBot B0CK2CB93H／B09KCHLWH4は同一親B0H1HGW5LH（Pro／通常版）。選抜維持。",
+        "B0CJCG4Q4Jはタイトル「セサミ6＋タッチ2Pro」に対してfeaturesにはセサミ5の記述と「出荷品が5または6」の注記、カード登録上限1000／100の矛盾がある。",
+        "キャンディハウス／Candyのメーカー名が分離しているが、合算しても2件以内。B0C5HWMRN7の取得featuresは認証方式のみで設置寸法などは未確認。"
+      ],
+      "title": "賃貸でも付く。スマートロック",
+      "research_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-10/2026-10-08_賃貸でも付く。スマートロック.md",
+      "thumbnail_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-08_smart_lock.png",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/dg_20261008_smart_lock.json"
+    },
+    {
+      "date": "2026-10-11",
+      "status": "未着手",
+      "count": null,
+      "tiers": null,
+      "measured": 0,
+      "cumulative": 51,
+      "thumbnail": null,
+      "scene": null,
+      "notes": [
+        "候補JSON書き出しのみ完了（35件）。残枠29件に収まらないためselect_products.py未実行。スマホへの直接接続モデルが採用に残るかは未判定。"
+      ],
+      "title": "スマホの容量不足を解消する。外付けSSD",
+      "research_path": null,
+      "thumbnail_path": null,
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/dg_20261011_external_ssd.json"
+    },
+    {
+      "date": "2026-10-13",
+      "status": "未着手",
+      "count": null,
+      "tiers": null,
+      "measured": 0,
+      "cumulative": 51,
+      "thumbnail": null,
+      "scene": null,
+      "notes": [
+        "実測上限を守り指定順で停止したため未着手。"
+      ],
+      "title": "暗くなる朝に。光目覚まし",
+      "research_path": null,
+      "thumbnail_path": null,
+      "candidate_path": null
+    },
+    {
+      "date": "2026-10-14",
+      "status": "未着手",
+      "count": null,
+      "tiers": null,
+      "measured": 0,
+      "cumulative": 51,
+      "thumbnail": null,
+      "scene": null,
+      "notes": [
+        "実測上限を守り指定順で停止したため未着手。"
+      ],
+      "title": "留守中の部屋を記録する。見守りカメラ",
+      "research_path": null,
+      "thumbnail_path": null,
+      "candidate_path": null
+    },
+    {
+      "date": "2026-10-12",
+      "status": "未着手",
+      "count": null,
+      "tiers": null,
+      "measured": 0,
+      "cumulative": 51,
+      "thumbnail": null,
+      "scene": null,
+      "notes": [
+        "実測上限を守り指定順で停止したため未着手。"
+      ],
+      "title": "手書きの表示をラベルにする。ラベルプリンター",
+      "research_path": null,
+      "thumbnail_path": null,
+      "candidate_path": null
+    },
+    {
+      "date": "2026-10-09",
+      "status": "未着手",
+      "count": null,
+      "tiers": null,
+      "measured": 0,
+      "cumulative": 51,
+      "thumbnail": null,
+      "scene": null,
+      "notes": [
+        "実測上限を守り指定順で停止したため未着手。"
+      ],
+      "title": "子どもや荷物の居場所を記録する。GPSトラッカー",
+      "research_path": null,
+      "thumbnail_path": null,
+      "candidate_path": null
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "generated_at": "2026-09-15T03:16:31+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261008_7c3e2540",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261008_smart_lock"
+  ],
+  "fetched_count": 10,
+  "dedup_count": 8,
+  "candidates": [
+    {
+      "asin": "B0CK2CB93H",
+      "title": "SwitchBot スマートロック プロ 鍵 スマートキー - スイッチボット オートロック ドアロック 玄関 スマートホーム スマホで操作 Alexa Google Home Siriに対応 遠隔対応 工事不要 取付カンタン 後付け 防犯対策助成金あり",
+      "url": "https://www.amazon.co.jp/dp/B0CK2CB93H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CK2CB93H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61zWkaWoB1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【売上No.1のスマートロックさらに進化】「ただドアロックをスマート化する」だけではなく、より細かなニーズにアプローチするとともに、「スマートロックでいかに安全を守れるか」という点にも着目し、暮らしをワンランク上へと導くようなスマートロックの開発に努めました。SwitchBot渾身の技術と開発への思いが込められた結晶が、「ロックPro」です。",
+        "【適応性がPro】市販の約99%のサムターンに対応。無段階可変構造（対応範囲0～23mm）で手のようにしっかりとドアロックを掴み、より多様なニーズを満たします。また、プレートの高さ（最大62mm）は自由に調整可能で、どのような形の鍵にもしっかりフィットします。",
+        "【バッテリー寿命がPro】9～12ヶ月間の長寿命バッテリーを搭載。さらに、メイン/サブ二系統充電式バッテリー（別売り）を利用すれば、メインバッテリーが切れた場合でも自動的にサブバッテリーから給電されます。完全なバッテリー切れによる締め出しの確率を格段に下げることができます。バッテリー切れの悩みを解消したい方におすすめです。",
+        "【設計がPro】ワンタッチで鍵を開閉できるクイックキーの搭載で、毎年約3650回（※1日あたり10回鍵の開け閉めを行なう場合）行なっている鍵の開閉から解放されます。また、航空宇宙産業レベルのアルミニウム合金を使用します。マグネット式の電池カバーを採用しているため、簡単に電池交換ができます。また、専用マグネット（別売り）を利用すれば、強力な磁力でしっかり鉄製ドアに固定できます。設置をもっと簡単に。引越の際は取り外しOK！",
+        "【解錠スタイルがPro】15種類の解錠方法で、どんな人でもキーレス生活を実現。指紋認証パッドを併用することで、指紋が鍵に。精確率は98%以上で、お年寄りや子供の指紋でもしっかり認証します。友人が遊びに来る時には期間限定パスワード、家事代行サービスなどにはワンタイムパスワード、手ぶらでの外出にはApple Watchを、デリバリーのお届けには「アレクサ、鍵を開けて」で音声解錠をお使いいただくと便利です。",
+        "【防犯対策がPro】SwitchBotアプリを通じて、どこにいても一括でドアとロックの状態を管理。「オートロック」「ドアロック」それぞれの状態を手元で把握できます。",
+        "【粘着テープが進化】パワーアップした「3M粘着テープV2.0」が強力にドアに固定され、設置は相変わらず簡単さを保ちつつ、安全性を飛躍的に向上させています。",
+        "【スマート連動がPro】SwitchBotエコシステムと連動し、究極の「キーレス生活」を実現。ハブ2やボットに繋いでロックProを遠隔操作したり、ボットでエントランスオートロックの解錠を自動化したりできます。また、ロックProによる鍵の開け閉めをトリガーに、エアコンや照明、テレビなどの赤外線家電が自動でON/OFFするようにも設定可能です。"
+      ],
+      "maker": "SwitchBot",
+      "query": "dg_20261008_smart_lock",
+      "queries_matched": [
+        "dg_20261008_smart_lock"
+      ],
+      "review_count": 5433,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "smart_home",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B09KCHLWH4",
+      "title": "SwitchBot スマートロック Alexa スマートキー スマートホーム - スイッチボット 玄関 オートロック 鍵 スマホで操作 Alexa Google Home Siriに対応 遠隔対応 工事不要 取付カンタン 防犯対策",
+      "url": "https://www.amazon.co.jp/dp/B09KCHLWH4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09KCHLWH4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61tUags16zL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【取付カンタン】工事不要の後付け型スマートロックで、粘着テープを外し設置完了、取り外すのも簡単です。3つのサムターンアダプターが付属され、土台アダプターも調節でき、様々なドアに対応可能。",
+        "【音声コントロール】「アレクサ、玄関の鍵を開けて」という一言でドアを解錠できます。アレクサのほか、Google Home、SiriやIFTTTなどにも対応。アレクサ、Google Homeでドアを解錠する時、登録した暗証番号が必要で、ご不在の時、不審者の侵入も防止できます。Siriで施錠のみをサポートします。SwitchBotハブミニが必要。",
+        "【オートロック】指定時間内に自動で施錠可能。外出際にカギの閉め忘れが心配ありません。",
+        "【6つの解施錠方法】アプリ操作だけで施解錠できます。度々鍵を取り出す必要がありません。アプリ以外、ウィジェット、Apple Watch、SwitchBot NFCタグ、音声でもロックの施解錠ができます。物理キーにも対応。",
+        "【通知機能&amp;履歴確認】SwitchBotロックはドアの状態が検知可能。アプリでカギの開閉記録を閲覧できます。SwitchBotハブミニと併用し、ドアが開くと、すぐにスマホに通知が届きます。電池残量が20%を下回ると、12時間ごとにプッシュ通知、解施錠時に赤いランプが点灯し、ビープ音で電池交換を促します。",
+        "【SwitchBotシリーズと連携】SwitchBotシリーズ製品と一緒に使用し、ご自宅をもっと安全に、かつスマートにしましょう! 帰宅時に解錠した瞬間にテレビ、エアコンや照明など自動でオン。SwitchBotハブミニが必要。",
+        "【遠隔操作可能】SwitchBotハブミニと併用し、外出先からドアを解錠できます。家族がカギの持ち忘れ、友達などが家に来た場合は役に立ちます。遠隔操作の際に誤操作を避けるため、二段階確認が必要です。"
+      ],
+      "maker": "SwitchBot",
+      "query": "dg_20261008_smart_lock",
+      "queries_matched": [
+        "dg_20261008_smart_lock"
+      ],
+      "review_count": 5433,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "smart_home",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0DSPZL959",
+      "title": "SwitchBot スマートロック Ultra 鍵 スマートキー - スイッチボット ドアロック スマホで操作 Alexa Google Home Siriに対応 遠隔対応 工事不要 取付カンタン 後付け ブラック 防犯対策助成金あり",
+      "url": "https://www.amazon.co.jp/dp/B0DSPZL959?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DSPZL959?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71qsNWsy1dL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【防犯対策助成金】防犯対策を考えているなら、助成制度を活用しましょう！防犯対策助成金は、地域住民や事業者が防犯設備を導入する際に、その費用の一部を支援する制度です。これは一部の自治体が提供しており、防犯カメラやセンサーライト、鍵の交換など、犯罪抑止を目的とした設備が対象となることが多いです。各自治体によって申請期間や必要書類が異なるため、必ず申請予定の自治体のWebサイトでご確認ください。",
+        "【Ultra Design - ドアに溶け込む一体型デザイン】サムターンや高さ調節プレートをすっぽりと覆い隠す「一体型カバーデザイン」で、後付け特有の違和感を無くし、動作の安定性を向上させました。また、木目調のドアにも馴染むよう、ライトブラウン、ブラウン、ダークブラウン計3色の貼り替え可能な「着せ替えシール」をご用意。航空機にも使われるアルミニウム合金を使用し、傷や衝撃にも強いです。さらに「クイックキー」がパワーアップ！両手が塞がっている時でも、肘で軽く触れるだけで鍵を開けられます。マグネット式電池カバーを採用し、バッテリーの交換もより便利に。",
+        "【Ultra Power - トリプル給電システムで締め出しのリスクをゼロに】1度の充電で1年使える大容量「メインバッテリー」に、電池寿命約5年で最大1,000回緊急解錠を行えるCR123Aリチウム電池、バッテリー内に残った微量な電力をかき集めて「いざという時の頼みの綱」に変える微電流解錠機能。給電システムを三重に装備することで、電池切れによる締め出しリスクを確実に無くします。メインバッテリーの充電中や、-20℃以下の極寒でも、予備電池でいつも通り鍵を開けられ、メインバッテリーの充電や予備電池の交換を忘れていてどうしようも無い時も、微電流解錠技術で5回までの緊急解錠が可能。",
+        "【Ultra Experience - 解錠がより早く、より静かに】モーターの全面アップグレードで、解錠スピードは78.6%、モーターの回転動力は50%（ロックProと比較）向上し、玄関先で鍵が開くまでの待ち時間を「ゼロ」へ。デバイスが常に連携されている状態で、接続や応答を待つことなく、ドアの前に立つだけでスムーズな瞬間解錠が可能です。また、日本初（2024年時点自社調べ）の静音モード搭載。作動音はわずか20dB以下で、毎晩指定した時間に自動で施錠し、モーター音を静音モードに切り替えます。鍵の閉め忘れに対する不安を無くし、夜間の動作も気になりません。",
+        "【Ultra Unlock Methods - 十人十色の解錠スタイル】別売りの顔認証パットや指紋解錠パッドなどと連携すれば、最新の3D顔認証や指紋認証、手ぶら解錠、交通系ICカード（Suica/PASMO）を用いた解錠などが可能になります。解錠スタイルは20パターン。雨の日に傘を持っていたり指が濡れていたりしたら顔認証、荷物で手が塞がっていたら肘で「ピッ」として解錠するなど、使う人やシーンに合わせてお好きな方法で鍵を開けられます。指紋認証は100人まで登録可能なので、オフィスでの導入もおすすめです。"
+      ],
+      "maker": "SwitchBot",
+      "query": "dg_20261008_smart_lock",
+      "queries_matched": [
+        "dg_20261008_smart_lock"
+      ],
+      "review_count": 5433,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "smart_home",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0D3QT5RP2",
+      "title": "【エントリーモデル】SwitchBot スマートロック Lite 指紋認証パッド 暗証番号 - スイッチボット 鍵 スマートキー ドアロック 玄関 スマートホーム Alexa Google Home Siriに対応 遠隔対応 工事不要 取付カンタン 防犯対策 後付け 黒",
+      "url": "https://www.amazon.co.jp/dp/B0D3QT5RP2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D3QT5RP2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71discsv4tL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【エントリーモデル】スマートホームNo.1ブランドのSwitchBotが手掛けるスマートロックシリーズから「ロックLite」が登場。見守りカメラ、開閉センサー、人感センサーなどセキュリティシリーズの製品と連動して、お家の防犯対策を万全に。",
+        "【多様な解錠スタイル】偽指紋対策技術を搭載し、指紋認証にかかる時間はわずか0.3秒。指紋は最大100個まで登録可能で、自宅での利用からオフィスへの導入にも◎。また、SuicaやPASMOなどの交通系ICをカードキーとして使うことができ、スマホやスマートWatchに交通カードが登録されていれば、さらにスマートな解錠が叶います。パスワードは、日常使いのパスワードをはじめ、期間限定&amp;ワンタイムパスワード、危険が迫る時にのみ使用する緊急パスワード、計4種類のパスワードを設定可能。家族との同居、友人の短期滞在、家事代行サービスなどあらゆるシーンで活躍します。",
+        "【絶対的な安心を】警報・通知/オートロック設定/緊急指紋・パスワード/データの保護・保存/閉め出し防止と、あらゆる方面のセキュリティ対策と防犯対策で絶対的な安心を実感していただけます。また、アプリからドアロックの開閉状態や履歴、バッテリーの残量などを随時確認でき、ドアが開閉されるとアプリに通知を送信、半ドア状態になると警報が鳴ります。さらに、予め設定しておいた緊急指紋/緊急パスワードで鍵を開けると、アプリ通知で家族に危険をお知らせ。バッテリー残量が低下すると、充電を促す通知がアプリに届きます。",
+        "【電池切れ・閉め出しのリスク対策】寒さに強いCR123A単3リチウム電池を採用し、氷点下20℃になる極寒地方でも、スムーズに動作し鍵を開け閉めできます。CR123A単3リチウム電池2つを使用し、電池寿命は約半年（解錠・施錠を1日に各10回ずつ行なった場合で算出）。電池残量が低下すると、本体から音が鳴り、アプリへお知らせします。さらに、業界初の「微電流解錠機能」で、電池残量が著しく低下し、残りの電力がロックLiteを起動するのに満たない場合でも、緊急で鍵を開けることができ、閉め出しを防止。",
+        "【工事不要で99.9％の鍵に対応】自宅のドアロックに後付けするだけでOK！S/M/L（3サイズ）の「サムターンアダプター」と、ドアロックの厚みに合わせて調節できる「高さ調節プレート」で約99.9%の鍵に設置可能。面付箱錠でもプッシュブル錠でも取り付けられます。また、特殊なサムターンの場合でも、SwitchBotのサポートチームまでご相談いただければ、アタッチメントをオーダーメイドできる3Dプリンター部品サービスを提供しております。"
+      ],
+      "maker": "SwitchBot",
+      "query": "dg_20261008_smart_lock",
+      "queries_matched": [
+        "dg_20261008_smart_lock"
+      ],
+      "review_count": 2161,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "smart_home",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0DSPXZQ9M",
+      "title": "SwitchBot スマートロック 指紋認証パッド 暗証番号 スイッチボット - 鍵 スマートキー ドアロック オートロック スマホで操作 Suica/Alexa/Google Home/Siri対応 遠隔対応 工事不要 取付カンタン 防犯対策 後付け",
+      "url": "https://www.amazon.co.jp/dp/B0DSPXZQ9M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DSPXZQ9M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71vpTVHRa5L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【金属のカギを使わず、解錠も楽々に】スマートロックと指紋認証パッドを設置すれば、重たい金属のカギを使わず、ドアを解錠できます。スマホで解錠、パスワードで解錠、指紋認証で解錠、カードキーで解錠、室内で音声コントロールで解錠など、多数の方法でドアを簡単に解錠できます。今までのカギのわずらわしさから開放されて、ドアの解錠はもっと安全に、もっと便利になります。",
+        "【音声コントロール】家に家事に手一杯で、玄関まで足を運んでドアを開ける余裕もない時は「アレクサ、玄関の鍵を開けて」一言で十分。アレクサのほか、Google Home、SiriやIFTTTなどにも対応。アレクサ、Google Homeでドアを解錠する時、登録した暗証番号が必要で、ご不在の時、不審者の侵入も防止できます。（※Siriで音声コントロールはスマートロックの施錠のみ。SwitchBotシリーズが必要。）",
+        "【指紋解錠で解錠は安全·安心】指紋認証パッドは、一般のパスワード以外、指紋認証で解錠にも可能。備えているスウェーデンのPRECISE BIOMETRICSより開発された指紋認識アルゴリズムと生体認証装置は、汗かき·磨耗した指紋でもお子様の細い指でも素早く認識できます。指紋データはキーパッド本体ローカルログのみに保存、安全で信頼できます。",
+        "【交通系ICカードで解錠】SuicaやPASMOなどのFelica交通系IC、NFCカードなどを使った解錠にも対応します。また、交通系ICカードをスマホやスマートWatchに登録すれば、スキャンするだけで解錠できます。",
+        "【オートロック】指定時間内にオートロックします。外出時のカギの閉め忘れを確実に防げます。出勤時やお出かけ時、ふと、カギの閉め忘れへの心配がなくなります。",
+        "【アプリ通知機能&amp;履歴確認】誰が、いつ、どんな方法でドアを開けるのか、専用のアプリ「SwitchBot」で簡単に確認できます。SwitchBotハブミニと併用し、ドアが開くと、すぐにスマホに通知が届きます。お子様、ご高齢の方の安全帰宅の時点も、ホテル·民泊の入居者の退室時間も簡単に確認取れます。",
+        "【バッテリー残量をカンタン把握】ドアを開けるたびに、指紋認証パッドのパネルに電源が表示されます。スマートロックまたは指紋認証パッドのバッテリー残量不足になったら、アプリより通知されます。バッテリーの残量がゼロになる前に、バッテリー交換を促します。",
+        "【取付カンタン、様々なドアに対応】工事不要の後付け型スマートロックで、粘着テープを外し設置完了。3つのサムターンアダプターが付属され、土台アダプターも調節できます。指紋認証パッドは3M粘着テープでドアまたは壁に取り付けるだけで設置完了です。両方とも配線、工事不要で、ドアの外観と構造を破壊せず、楽に取り外すことができます。（※指紋認証パッドの方はネジで壁に固定することも可能。）",
+        "【SwitchBotシリーズ製品と連携】SwitchBotシリーズ製品と併用すると、ドアの解錠だけではなく、おうちのスマートホーム化が簡単に実現！帰宅時に、ドアを解錠した瞬間テレビ、エアコンやシーリングライトなど自動でオンします。（※SwitchBotシリーズが必要。）"
+      ],
+      "maker": "SwitchBot",
+      "query": "dg_20261008_smart_lock",
+      "queries_matched": [
+        "dg_20261008_smart_lock"
+      ],
+      "review_count": 2161,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "smart_home",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0CJCG4Q4J",
+      "title": "キャンディハウス(Candy House) セサミ6+セサミタッチ2Pro スマートロック ブラック 後付け 指紋 ICカード 暗証番号",
+      "url": "https://www.amazon.co.jp/dp/B0CJCG4Q4J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CJCG4Q4J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71MMEsLWe4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "🔓【セサミに新しい3種の開錠方法】指紋認証・カードリーダー・暗証番号、3つの開錠方法が使用可能。使用方法も簡単で小さなお子様でも使用できます。",
+        "✍️【解錠・施錠How To】解錠:🔓：登録済みカードまたは登録済みの指紋、施錠:🔒：未登録の指紋",
+        "☝【指紋認証/最大100個登録可能】最大100個の指紋を登録可能。家族だけでなく、親戚や友人も登録することができます。登録後の削除も簡単。",
+        "🔧【取付簡単】3Mテープでの貼り付けで設置が簡単。賃貸でも工事不要で取付け・取り外し可能。テープも３回分入っているので失敗してもすぐにやり直しが可能。",
+        "🔑【99%の鍵に対応】対応する鍵の種類がより一層広がりました。3Dプリンターによるアダプター作成も依頼できるので、一度スマートロックを諦めた鍵にも対応可能。特殊アダプターのご依頼は鍵のお写真と共にお問合せください。",
+        "💳【カードリーダー/最大1000個登録可能】スマホの登録だけでなく、FeliCa(Suica、PASMOなど)やMIFARE搭載のカードが使用可能。NFCタグもカード代わりに使用可能。最大100個まで登録が可能。 登録後の削除も簡単。",
+        "⌚📱【スマートウォッチ・おサイフケータイ対応】改札を通るように、お財布ケータイはもちろん、スマートウォッチ内のSuicaもご利用可能です。Apple Wacthに限らず、使用可能なICカードを搭載したスマートウォッチでご利用可能です。",
+        "🙆‍♀️【スマート家電との連携】 セサミ５はWiFiモジュールとの併用でAmazon AlexaやGoogle Homeからの操作ももちろん可能です。",
+        "※ ご購入タイミングによって、出荷される商品は「セサミ5」または「セサミ6」のいずれかになる可能性がございます。"
+      ],
+      "maker": "キャンディハウス",
+      "query": "dg_20261008_smart_lock",
+      "queries_matched": [
+        "dg_20261008_smart_lock"
+      ],
+      "review_count": 1199,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "smart_home",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0C5HWMRN7",
+      "title": "キャンディハウス(Candy House) セサミ5 Pro+セサミタッチPro スマートロック ブラック 後付け型 ブラシレスモーター搭載 静音 指紋認証 ICカードリーダー",
+      "url": "https://www.amazon.co.jp/dp/B0C5HWMRN7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C5HWMRN7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Candy",
+      "query": "dg_20261008_smart_lock",
+      "queries_matched": [
+        "dg_20261008_smart_lock"
+      ],
+      "review_count": 40,
+      "star_rating": 4.3,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": "smart_home",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-19",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    },
+    {
+      "asin": "B0CYMXSM6R",
+      "title": "Yale Assure Lock 2 Touch with Z-Wave - 指紋スマートロック ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CYMXSM6R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CYMXSM6R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Yale",
+      "query": "dg_20261008_smart_lock",
+      "queries_matched": [
+        "dg_20261008_smart_lock"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": "smart_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": [
+      "type:smart_lock"
+    ],
+    "asins_explicit": false,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": "2026-09-01",
+    "exclude_asins": [
+      "B0DB53DF7J",
+      "B08BLSLWH4"
+    ],
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  }
+}
