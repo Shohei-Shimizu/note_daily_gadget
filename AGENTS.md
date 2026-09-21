@@ -47,7 +47,7 @@
 >
 > **切り替えはまだ行わない。** `select_products.py` は `--candidates` 必須のままで、下記の手順をそのまま実行すること。移行は設計書8章の Phase 5.5 / Phase 7 で行い、そのとき本ファイルも更新する。
 >
-> 実測結果をDBにも残したい場合のみ、`select_products.py` に `--write-db` を付けられる（オプトイン。付けなければ挙動は完全に従来どおり）。
+> `select_products.py --refresh-reviews` の実測結果は `shared/db/product.sqlite` へ自動保存され、全アカウントで再利用される。記事固有の採用理由・掲載順・要約は従来どおり `06_research/YYYY-MM/` のMarkdownに残す。一時的な診断でDB保存を止める場合だけ `--no-write-db` を使う。
 
 
 `06_research/RESEARCH_GUIDE.md`（`../../../shared/docs/research-guide-core.md` + `PROFILE.md`）に定義された **3段階フロー** に従う。人間もCodex自身も商品の選定・順序・件数の判断には介入しない（スクリプトが機械的に決定する）。
