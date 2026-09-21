@@ -1,0 +1,1366 @@
+{
+  "generated_at": "2026-09-21T20:32:22",
+  "account_id": "daily_gadget",
+  "partner_tag": "daily-gadget-22",
+  "mode": "pool",
+  "queries": [
+    {
+      "query": "体組成計 スマホ連動 自動記録",
+      "source": "manual",
+      "include": [],
+      "exclude": [
+        "電池のみ",
+        "マットのみ"
+      ]
+    },
+    {
+      "query": "スマート体重計 Wi-Fi Bluetooth",
+      "source": "manual",
+      "include": [],
+      "exclude": [
+        "電池のみ",
+        "マットのみ"
+      ]
+    },
+    {
+      "query": "体重計 アプリ連携 健康管理",
+      "source": "manual",
+      "include": [],
+      "exclude": [
+        "電池のみ",
+        "マットのみ"
+      ]
+    },
+    {
+      "query": "体組成計 スマホ連動 アプリ",
+      "source": "knowledge_generic",
+      "include": [],
+      "exclude": [
+        "電池のみ",
+        "マットのみ"
+      ]
+    },
+    {
+      "query": "体重計 記録 自動",
+      "source": "knowledge_generic",
+      "include": [],
+      "exclude": [
+        "電池のみ",
+        "マットのみ"
+      ]
+    },
+    {
+      "query": "血圧計 アプリ 記録",
+      "source": "knowledge_generic",
+      "include": [],
+      "exclude": [
+        "電池のみ",
+        "マットのみ"
+      ]
+    },
+    {
+      "query": "スマート体重計 Bluetooth",
+      "source": "knowledge_generic",
+      "include": [],
+      "exclude": [
+        "電池のみ",
+        "マットのみ"
+      ]
+    },
+    {
+      "query": "タニタ 体組成計 スマホ",
+      "source": "knowledge_brand",
+      "include": [],
+      "exclude": [
+        "電池のみ",
+        "マットのみ"
+      ]
+    },
+    {
+      "query": "オムロン 体重体組成計",
+      "source": "knowledge_brand",
+      "include": [],
+      "exclude": [
+        "電池のみ",
+        "マットのみ"
+      ]
+    },
+    {
+      "query": "Eufy スマートスケール",
+      "source": "knowledge_brand",
+      "include": [],
+      "exclude": [
+        "電池のみ",
+        "マットのみ"
+      ]
+    }
+  ],
+  "knowledge": {
+    "category_id": "body_composition",
+    "label": "体組成計・健康計測",
+    "must_consider_brands": [
+      "タニタ",
+      "オムロン",
+      "Withings",
+      "エレコム",
+      "Anker Eufy"
+    ],
+    "generic_queries": [
+      "体組成計 スマホ連動 アプリ",
+      "体重計 記録 自動",
+      "血圧計 アプリ 記録",
+      "スマート体重計 Bluetooth"
+    ],
+    "brand_queries": [
+      "タニタ 体組成計 スマホ",
+      "オムロン 体重体組成計",
+      "Eufy スマートスケール"
+    ],
+    "exclude_keywords": [
+      "電池のみ",
+      "マットのみ"
+    ]
+  },
+  "fetched_count": 100,
+  "dedup_count": 41,
+  "candidates": [
+    {
+      "asin": "B0CN93P2GB",
+      "title": "arboleaf 体重計 スマホ連動 14項目 体組成計・体脂肪計 乗るだけデータ あすけん連携 自動転送 同期 WiFi/Bluetooth接続",
+      "url": "https://www.amazon.co.jp/dp/B0CN93P2GB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CN93P2GB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41tZiI3c4-L._SL500_.jpg",
+      "features": [
+        "【スマホ連動・本格的の乗るだけ】WiFiまたはBluetoothを使用して専用アプリに接続することで、体重計に乗るだけで測定者を自動認識します。一度wifi接続した後、毎回に乗るだけ測定完了します。測定者のデータを認識し、スマホを開ける必要なくに登録者のデータに自動同期され、日々の変化が記録します。※無線LAN2.4GHz帯対応、 5GHz帯非対応。",
+        "【14項目測定・体サイズの記録】体重計はアプリでみえるだけじゃなく、Applehealth/GoogleFit/Fitbitと連携可、アプリでユーザー登録すると、14項目指標が見えます。本体表示は「体重・BMI」のみ、その他項目はアプリで表示されます。筋トレする方には、ボディサイズの記録ができます【簡単に健康管理】アプリは友達追加と飲食記録など測定結果をシェアできます。",
+        "【誰でも使える＆登録者数制限なし】体重計は5kg-150kgまで対応、子供から大人各種体型に対応、乗るだけで14項目(体重、BMI、体脂肪率、ボディタイプ、除脂肪体重、皮下脂肪、水分率、骨格筋、筋肉量、骨量、タンパク質、基礎代謝量、体内年齢)のデータをそれぞれのスマホで閲覧可能のヘルスメーター。登録人数の制限なしあらゆるの人数がご使用いただけます。",
+        "【測定週間レポート＆体脂肪・体組成など】arboleafアプリはApp StoreやGoogle Playでをダウンロードできます。AndroidとiOS対応。4つの精密なセンサーと最先端BIA技術を採用しており、誤差わずか0.2kg未満。体重計を乗るだけ体重/体脂肪率/筋肉量など14項目のカラダ全体を測定、データを自動的にセーブします。測定するたび、測定値の変更レポートが見えます。",
+        "【健康管理、パッケージ内容、保証期間】置き場所をとらない薄型コンパクトで収納便利。バックライトLED付き、隅丸型でキズ防止、下部滑り止めゴム付き、軽量安定の体組成計です。パッケージ内容：体重計、単4電池(AAA 1.5V＊3)、取扱説明書。ご購入日より一年間の保証つき、商品使用に何か質問あるなら、説明書での連絡先にご問合せください。【 人気アプリの接続方法はお問い合わせください】"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 自動記録",
+        "スマート体重計 Wi-Fi Bluetooth",
+        "体重計 アプリ連携 健康管理",
+        "体組成計 スマホ連動 アプリ",
+        "体重計 記録 自動",
+        "スマート体重計 Bluetooth",
+        "Eufy スマートスケール"
+      ]
+    },
+    {
+      "asin": "B0GRQRDXZ6",
+      "title": "【2026新登場】体重計 ヘルスメーター 体組成計 スマホ連動 Bluetooth対応 24項目測定 体脂肪率 BMI 筋肉量 内臓脂肪 自動記録 乗るだけ簡単測定 薄型 軽量 高精度0.1kg単位 最大180kg対応 バックライト付き 強化ガラス 家族共有8人対応 健康管理 日本語取扱説明書付き(ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0GRQRDXZ6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GRQRDXZ6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31N1LsM2c9L._SL500_.jpg",
+      "features": [
+        "【スマホ連動・自動記録】Bluetooth対応でスマートフォンアプリと連携し、測定データを自動で記録できます。日々の体重や体組成の変化をグラフで確認でき、健康管理やダイエットのサポートに便利です。",
+        "【24項目測定対応】体重、体脂肪率、BMI、筋肉量、基礎代謝、体水分率、骨量、内臓脂肪レベルなどの体組成データを測定できます。毎日の健康状態を手軽にチェックできます。",
+        "【乗るだけ簡単測定】本体に乗るだけで自動電源ON、測定後は自動で電源OFFになるため、面倒な操作は不要です。バックライト付き表示で、数値も見やすく快適に使用できます。",
+        "【家族共有8人対応】最大8人まで登録可能で、家族それぞれのデータを個別に管理できます。自動認識機能により、毎回設定する手間を減らし、スムーズに測定できます。",
+        "【薄型・高精度設計】0.1kg単位で測定でき、最大180kgまで対応。強化ガラスを採用した薄型・軽量・コンパクト設計で、洗面所や寝室などにも置きやすく、収納にも便利です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 自動記録",
+        "体組成計 スマホ連動 アプリ"
+      ]
+    },
+    {
+      "asin": "B07Q2WW8FM",
+      "title": "タニタ(Tanita) 体重計 体組成計 スマホ連動 ヘルスメーター BC-768 ホワイト【体脂肪率/内臓脂肪レベル/筋肉量/基礎代謝量/体内年齢/推定骨量/BMI/スマホ連動/乗るピタ】",
+      "url": "https://www.amazon.co.jp/dp/B07Q2WW8FM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07Q2WW8FM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31-+-Rc1-HL._SL500_.jpg",
+      "features": [
+        "※iPad、iPod touchは動作保証の対象外です。",
+        "※Androidタブレットには対応しておりません。",
+        "本体重量(kg):1.5",
+        "セット内容・付属品:本体、お試し用電池(単4乾電池×4本)",
+        "電源:DC6V 単4乾電池×4本"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 自動記録",
+        "体重計 アプリ連携 健康管理",
+        "体組成計 スマホ連動 アプリ",
+        "体重計 記録 自動",
+        "スマート体重計 Bluetooth",
+        "タニタ 体組成計 スマホ"
+      ]
+    },
+    {
+      "asin": "B07Q2WYL77",
+      "title": "タニタ 体重計 体組成計 スマホ連動 ヘルスメーター BC-768 ブラック 【体脂肪率/内臓脂肪レベル/筋肉量/基礎代謝量/体内年齢/推定骨量/BMI/スマホ連動/乗るピタ】",
+      "url": "https://www.amazon.co.jp/dp/B07Q2WYL77?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07Q2WYL77?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41QwL6adBtL._SL500_.jpg",
+      "features": [
+        "【✅スマートフォン対応モデル！】Bluetooth通信に対応し、対応のiPhone・Android端末にデータを転送。アプリでデータ管理ができる ※「対応スマートフォン」を必ずご確認ください ※BluetoothはBluetooth SIG, Inc.の登録商標です ※iPhoneは米国および他の国々で登録されたApple Inc.の商標です ※Android は Google LLC の商標です",
+        "【✅コンパクトながら薄型ワイドタイプ】安心して乗りやすく、置き場所も省スペース。",
+        "【✅8つの項目で健康管理】体重、BMI、体脂肪率、内臓脂肪レベル、基礎代謝量、筋肉量、体内年齢、推定骨量。1台で健康状態を見える化。",
+        "【✅誰が乗ったか自動認識”乗るピタ搭載”】最大5人登録可能。乗るだけであなたを自動で認識し、健康管理がよりスムーズに。",
+        "【✅\"マイサポ”機能で継続測定を応援】測定の継続状況に合わせて画面上の表情が変わり、測定を継続することを応援。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 自動記録",
+        "体重計 アプリ連携 健康管理",
+        "体組成計 スマホ連動 アプリ",
+        "体重計 記録 自動",
+        "タニタ 体組成計 スマホ"
+      ]
+    },
+    {
+      "asin": "B0H2D8Z8W4",
+      "title": "DYKL AI×8電極 体重計 体組成計 スマホ連動 データ自動転送【体脂肪率/BMI/心拍数/筋肉量/基礎代謝量/水分量/体脂肪量/骨量/内臓脂肪/タンパク質/骨格筋量/皮下脂肪/3Dモデル】など56項目測定可能 カラダスキャン 自動ON/OFF ルスメーター Bluetooth ヘルスメーター 高精度 強化ガラス iOS/Android対応 日本語対応APP＆日本語説明書付き",
+      "url": "https://www.amazon.co.jp/dp/B0H2D8Z8W4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H2D8Z8W4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41kRWPYtyaL._SL500_.jpg",
+      "features": [
+        "【最先端の BIA 技術と E 型高感度センサーを組み合わせ】4 個の「E タイプ」高感度センサー搭載で力学レイアウトを最適化！世界トップ水準の成熟技術・生体電気インピーダンス法（BIA）を採用し、人体成分比率を高精度に分析。身体の変化傾向をリアルタイムで正確に把握できます。",
+        "【独自のアプリ「A&P Health」によるデータ自動同期】製品専用 APP「A&P Health」を開発！スマホとデータを同期・共有できるようになりました。Bluetooth 接続後、測定データがアプリで自動集計され、可視化レポートがすぐに確認できる！最大 200 名まで登録可能！（※APP は検索不要！製品の説明書・外箱にある専用 QR コードをスキャンすれば簡単ダウンロード可能、超便利! ）",
+        "【データ次元が豊富＆表示方法が多様】専用 APP「A&P Health」に登録すれば、測定データから最大 56 項目の身体成分指標を自動集計！BMI・体脂肪率・除脂肪体重・筋肉量・内臓脂肪レベルなど核心指標を網羅した可視化レポートがスマホですぐ確認できる！多维度データと多彩なグラフで身体の細かな変化も逃さず、ボディメイク計画を科学的にサポート！",
+        "【充電式デザイン・耐久性と省エネルギー】本製品は充電式デザインを採用し、大容量リチウム電池を内蔵して繰り返し充電して使用できます。満充電ごとに 180 日間の連続使用が可能で、手間がかからず安心です。また、製品は自動的にオン / オフし、秤に立つだけで測定が自動開始され、操作がない場合、約 10 秒後に自動的に電源が切れるため、真の意味でのスマート省エネを実現しています。",
+        "【シンプルで薄型、LED 表示が鮮明】製品はシンプルでファッショナブルなデザインスタイルを踏襲し、板面に強化ガラスを採用しているため、傷がつきにくく透光性が良く、大きなサイズの明るく鮮明な LED デジタル表示画面と組み合わせています。パネルのデジタル表示画面だけでも自分の身体の重要な指標を一目了然でき、簡単で便利です。",
+        "【至高の品質サービス保証】製品は12ヶ月の保証期間を提供し、保証期間内に使用上の問題が発生した場合、心よりご連絡いただけることを歓迎し、私たちは誠心誠意ごサービスいたします。",
+        "[注意事項]：1、各指標は保健レベルの参考情報としてのみ提供され、臨床診断に使用することはできません。",
+        "2、体組成計は心臓ペースメーカーその他の体内埋め込み式医療機器と同時に使用しないでください。",
+        "3、妊婦はこの機器を使用しないでください。",
+        "4、測定時に立ち姿が正しくない、足の裏が金属電極板またはパネルに正確にフィットしていない場合、測定結果の正確性に影響を与えます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 自動記録",
+        "Eufy スマートスケール"
+      ]
+    },
+    {
+      "asin": "B079DGC4M8",
+      "title": "オムロン 体重 体組成計 HBF-230T-SW スマホ連動 体脂肪率 BMI 骨格筋率 OMRON connect対応 自動認識 シャイニーホワイト",
+      "url": "https://www.amazon.co.jp/dp/B079DGC4M8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B079DGC4M8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31qD8sRsljL._SL500_.jpg",
+      "features": [
+        "外形寸法:幅 約285 × 奥行き 約280 × 厚さ 約28 mm",
+        "本体重量(kg):1.6",
+        "Bluetooth通信で測定データをスマートフォンのOmron Connectアプリへ自動転送",
+        "乗るだけで電源ONする「ステップオン」機能と、自動的にユーザーを認識する「自動認識」機能搭載で簡単に計測",
+        "厚さ28mmで狭いスペースにも置ける薄型設計",
+        "測定結果が見やすい、大きな文字表示",
+        "付属品・お試し用電池(単4形アルカリ乾電池4本)・取扱説明書(品質保証書付き)・セットアップガイド・コーションシート"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 自動記録",
+        "体組成計 スマホ連動 アプリ",
+        "オムロン 体重体組成計"
+      ]
+    },
+    {
+      "asin": "B0FS1457BV",
+      "title": "エレコム 体組成計 50g単位 Bluetooth/Wi-Fi通信機能搭載 13項目 [体重・体脂肪率・BMI・基礎代謝量・骨格筋率・内臓脂肪レベル・骨量・皮下脂肪率・FFMI・ボディタイプ・前回体重差・体脂肪量・骨格筋量] 自動電源オン LED表示 人数制限なし ホワイト EFSBTW01WH",
+      "url": "https://www.amazon.co.jp/dp/B0FS1457BV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FS1457BV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31WyJpVVfyL._SL500_.jpg",
+      "features": [
+        "測定データをアプリにかんたん転送、毎日の健康管理をもっと正確でスマートに。Bluetooth(R)で簡単にアプリに接続して初期設定ができ、Wi-Fi通信でデータを自動転送する、Bluetooth+Wi-Fi通信機能搭載体組成計です。専用アプリ「ELECOM Healthcare」でBMIや体脂肪率、内臓脂肪レベル、基礎代謝などの13項目を確認できます。",
+        "専用アプリ「ELECOM Healthcare」で13項目(体重・体脂肪率・BMI・基礎代謝量・骨格筋率・内臓脂肪レベル・骨量・皮下脂肪率・FFMI・ボディタイプ・前回体重差・体脂肪量・骨格筋量)を確認できます。",
+        "専用アプリ「ELECOM Healthcare」は、カスタマイズ機能、視覚的な分析機能、アプリ連携などを備え、様々なヘルスデータを記録可能。日々の健康状態を可視化して、簡単に一括管理できます。",
+        "OS標準のヘルスケアを介してスマートウォッチでの健康チェックや、食事管理アプリ・運動アプリなどと連携して組み合わせることで、より広域に健康管理ができます。",
+        "専用アプリの登録さえ行えば、測定・記録データの登録人数に制限はありません。家族など複数人でご使用する際に便利です。",
+        "本製品は 2.4GHz 帯の Wi-Fi（11b/g/n）で利用してください。※ 5GHz 帯の Wi-Fi には対応していません。",
+        "測定値は時間帯や体内の水分量によって異なります。毎日、同じ時間帯に測定しましょう。推奨時間帯： 起床時・朝食前・昼食前・昼食２時間後～夕食前・入浴前・入浴 2 時間後～就寝前…など",
+        "体重の変化をより詳細に把握できるように、50g単位の精密な測定を行います。※3kg以上～10kg以下：50g単位、10kg超え～100kg以下：100g単位、100kg超え～：200g単位"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 自動記録",
+        "スマート体重計 Wi-Fi Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0C2J6BX53",
+      "title": "オムロン 体重 体組成計 カラダスキャン ブラック KRD-603T2-BK スマホ連動 データ自動転送 自動認識 乗るだけで測定開始 50g単位 BMI 骨格筋率 体脂肪率",
+      "url": "https://www.amazon.co.jp/dp/B0C2J6BX53?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C2J6BX53?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31NgdCimNtL._SL500_.jpg",
+      "features": [
+        "本体重量：約1.7 kg（電池含む）",
+        "付属品：お試し用電池（単4形アルカリ乾電池4個）、取扱説明書（本書：品質保証書付き）",
+        "サイズ：幅 約327× 奥行き 約249× 厚さ 約30 mm",
+        "電源：単4形アルカリ乾電池4個（LR03）",
+        "4秒高速測定/自動データ転送/表示項目カスタマイズ　時短・効率的でストレスフリーな体重管理"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 自動記録",
+        "オムロン 体重体組成計"
+      ]
+    },
+    {
+      "asin": "B0DDQ3RGSB",
+      "title": "オムロン 体重 体組成計 カラダスキャン アイスブルー KRD-403T-B スマホ連動 データ自動転送 自動認識 乗るだけで測定開始 A4サイズのコンパクト設計 体脂肪率 BMI 骨格筋率",
+      "url": "https://www.amazon.co.jp/dp/B0DDQ3RGSB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDQ3RGSB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21sHnM-wk4L._SL500_.jpg",
+      "features": [
+        "本体重量：約1.3 kg（電池含む）",
+        "付属品：単4形アルカリ乾電池4個（お試し用）、取扱説明書（本書：品質保証書付き）",
+        "サイズ：幅 約285 × 奥行き 約210 × 厚さ 約28 mm",
+        "電源：単4形アルカリ乾電池4個（LR03）",
+        "オムロンコネクト対応（Bluetooth通信）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 自動記録",
+        "体組成計 スマホ連動 アプリ",
+        "オムロン 体重体組成計"
+      ]
+    },
+    {
+      "asin": "B0DDQ687GS",
+      "title": "オムロン 体重 体組成計 カラダスキャン ブラック KRD-503T-BK スマホ連動 データ自動転送 自動認識 乗るだけで測定開始 内臓脂肪レベル 体脂肪率 BMI 骨格筋率",
+      "url": "https://www.amazon.co.jp/dp/B0DDQ687GS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDQ687GS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21sM6+mOTzL._SL500_.jpg",
+      "features": [
+        "本体重量：約1.8 kg（電池含む）",
+        "付属品：単4形アルカリ乾電池4個（お試し用）、取扱説明書（本書：品質保証書付き）",
+        "サイズ：幅 約323 × 奥行き 約249 × 厚さ 約28 mm",
+        "電源：単4形アルカリ乾電池4個（LR03）",
+        "オムロンコネクト対応（Bluetooth通信）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 自動記録"
+      ]
+    },
+    {
+      "asin": "B0F5WNJ26N",
+      "title": "HUAWEI Scale 3 Pro スマート体組成計 8電極式両手両足測定 Wi-Fi/Bluetooth接続 12項目＋部位別測定（10項目） ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0F5WNJ26N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F5WNJ26N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/11d6lyho9qL._SL500_.jpg",
+      "features": [
+        "【両手両足測定タイプの8電極式】 4電極式の体重計は、足裏で下肢のデータを測定し、アルゴリズムで全身の脂肪量や骨格筋量などを推定しています。HUAWEI Scale 3 Proは足と手の両方から計測し、8つの電極で下肢と上肢を測定するため、より正確に全身のデータを得ることができます。",
+        "【より正確に計測が可能なデュアル周波数測定】スマート体組成計は、からだのインピーダンス（電気抵抗値）を計測し、体脂肪や水分量を算出します。汎用的な低周波のみで測定している体組成計と比べ、HUAWEI Scale 3 Proは、低周波と高周波の両方を使用することで、より正確に筋肉と脂肪の測定が可能です。",
+        "【12項目＋部位別体脂肪・骨格筋量測定】HUAWEI Scale 3 ProをHUAWEI Health アプリでスマホと同期すると、ワンタップで総合体組成計レポートの作成が可能です。また、12種類の一般的な身体指標と部位別（右腕・左腕・胴・右脚・左脚）の体脂肪量と骨格筋量、計22項目のデータを知ることが可能です",
+        "【Wi-Fi+Bluetooth接続により自動でスマホに記録】Wi-FiとBluetoothの両方で接続することで、より便利に使用できます。Wi-Fiで接続すれば、アプリを開かなくても自動で体重が記録されます。また、過去のデータに基づいて、家族を自動で識別。すべての記録は自動的にクラウドにアップロードされ、好きな時にスマホで確認できます。（2.4GHzのみ対応）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマート体重計 Wi-Fi Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0B1VJNWJD",
+      "title": "Anker Eufy (ユーフィ) Smart Scale P2 Pro（体重体組成計）【アプリ対応 / Fitbit連携 / 体脂肪率 / BMI / 心拍数 / 筋肉量 / 基礎代謝量 / 水分量 / 体脂肪量 / 骨量 / 内臓脂肪 / タンパク質 / 骨格筋量 / 皮下脂肪 / 体内年齢 / ボディタイプ】",
+      "url": "https://www.amazon.co.jp/dp/B0B1VJNWJD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B1VJNWJD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/318EIYK9lOL._SL500_.jpg",
+      "features": [
+        "16の項目でカラダ全体を測定：体重やBMI、体脂肪率などの基本情報のみでなく、心拍数、筋肉量、骨量、体年齢、皮下脂肪率などのカラダに関する16の項目を測定できます。",
+        "Wi-Fi / Bluetooth接続に対応：Wi-FiまたはBluetoothを使用して専用アプリに接続することで、データを自動的にアップロード。登録人数の制限なくご使用いただけます。",
+        "アプリへのデータ連携：専用アプリ内のデータは、AppleのヘルスケアやGoogle Fit、Fitbitと連携することができるため、体型管理に役立つデータをまとめて管理できます。",
+        "高感度センサーを搭載：高感度センサーにより最小50g単位での測定が可能で、赤ちゃんやペットなどの体重管理にも最適。表面に ITOコーティングを施しているため、どの位置に乗っても測定が可能です。",
+        "パッケージ内容：Smart Scale P2 Pro、測定テープ、単4形アルカリ乾電池x4、取扱説明書、最大24ヶ月保証",
+        "※快適にご使用いただくために、アプリとファームウェアの更新をこまめに行なってください",
+        "※2025年9月に発生しておりましたFitbitとの連携における一時的なエラーは、2025年9月30日現在解消しております。 お客様にはご不便をおかけしましたことをお詫び申し上げます。 うまく接続ができない場合は、以下の方法をお試しください。 ・アプリのアンインストールと再インストール ・「サードパーティサービス」からFitbitとの再接続",
+        "※Googleより2025年6月30日をもって、サードパーティーアプリによるGoogle Fitとの連携サービスが終了することが発表されました。今後Google Fitに接続するにはヘルスコネクトアプリを使用する必要があります",
+        "本製品の電源がつかない場合は、以下をお試しください：1. 乾電池を入れ直す。2. 新しい電池に交換する。3. 底面にある起動ボタンを10秒間長押して工場出荷時の状態にリセット(※)する。※他のユーザーとの共有が解除されます。",
+        "Wi-Fiに接続できない場合は、以下をお試しください：1. Wi-Fiが2.4GHzであるかどうか確認してください。2.4GHzでない場合、Wi-Fiは接続できません。2. Wi-Fiの電波が正常かどうかご確認ください。3. 底面にある起動ボタンを10秒間長押して工場出荷時の状態にリセット(※)する。※他のユーザーとの共有が解除されます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマート体重計 Wi-Fi Bluetooth",
+        "体重計 記録 自動",
+        "Eufy スマートスケール"
+      ]
+    },
+    {
+      "asin": "B0H9QMV2X3",
+      "title": "体重計 bluetooth 体組成計 体脂肪計 スマート体重計 ヘルスメーター スマホ連携 健康管理 登録人数無制限",
+      "url": "https://www.amazon.co.jp/dp/B0H9QMV2X3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H9QMV2X3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31PSKv3OK5L._SL500_.jpg",
+      "features": [
+        "【高精度測定】最大180kg対応・50g細かい単位で変化をキャッチ。4つの高感度電極センサーを搭載し、体重の微小な変化まで正確に検知。ダイエットや筋トレの日々の進捗管理に最適です。体重計に乗るだけで自動的に電源がオン。測定者を自動認識し、測定完了後約5秒で自動的に電源がオフになる省エネ設計。",
+        "【便利に健康管理＆登録者数無制限】登録人数に制限がない、家族全員で利用できます。素足で乗るだけで体組成を正確に測定し、測定範囲は2kg～180kgです。体重、体脂肪率、筋肉量、基礎代謝量など複数の健康指標を測定可能。毎日の測定で体の変化を可視化し、健康維持や体重コントロールの習慣づくりを強力にサポートします。",
+        "【正しい測定方法で誤差を最小限に】平らな硬い床で使用し、カーペットや畳の上での測定を避けてください。素足で本体にしっかり乗り、体を動かさずに測定することで、体重や体脂肪の誤差を大幅に抑えられます。また、毎日同じ時間帯に測定すると、より正確なデータを記録できます。",
+        "【体重計スマホ連動＆iOS/Android対応】Bluetooth接続で、体重計に乗るだけで体重・体脂肪率・筋肉量など項目を測定と分析、測定データがスマホ連動します（アプリで事前登録が必要）。iOSとAndroidの両方に対応でアプリ\"AiLinkをApp StoreまたはGoogle Playから無料ダウンロードできます。",
+        "【簡単操作・日本語完全対応】初心者でも迷わず使える。体重計はLCD発光大表示、強化ガラスを采用し、最大荷重180kg、滑らかな表面、お掃除簡単、スタイリッシュで耐久性があります。日本語説明書付きで、使い方や注意点をしっかり確認できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマート体重計 Wi-Fi Bluetooth",
+        "体重計 アプリ連携 健康管理",
+        "スマート体重計 Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0CQ26C7XP",
+      "title": "Withings Body Smart フランス生まれのスマート体重計 ブラック Wi-Fi/Bluetooth対応 進化した体組成測定 【日本正規代理店品】 WBS13-Black-All-JP",
+      "url": "https://www.amazon.co.jp/dp/B0CQ26C7XP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CQ26C7XP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31YgyOBnBgL._SL500_.jpg",
+      "features": [
+        "専門家と共同開発",
+        "世界で初めてスマート体重計を世に出したパイオニアメーカーとしての強みを活かし、さまざまな健康指標を正確に測定できるスマートデバイスとしての仕上がり",
+        "業界最高峰のプライバシー - Withingsは、ヨーロッパGDPRへの準拠や、すべての健康データを保護するための追加のセキュリティ対策など、最高水準のプライバシーを実装",
+        "より高度化した体組成モニタリング - 健康状態をより完全に把握するために、水分率や筋肉量などの8つの正確な指標に加え、内臓脂肪などの新しい健康データを長期にわたって追跡。",
+        "途切れることのない進化 - 新機能を含むアプリとデバイスのアップデートにより、お客様の体験を長期にわたって改善し、製品の満足度と長期にわたる健康効果を維持",
+        "家族全員をサポート - 最大8人のユーザーを自動的に認識し、さらに赤ちゃん、妊娠中、アスリートなど多彩なモードに加え、体重測定の際に数値を見ずに体重を記録したい人向けの専用モードも搭載。",
+        "Withingsの体重計特徴 - 高解像度のカラー画面、最大15ヶ月の電池寿命、Wi-FiもしくはBluetoothでシームレスにアプリにデータを同期。このデータはApple HealthやGoogle Fitなどのパートナーアプリとも同期可能。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマート体重計 Wi-Fi Bluetooth"
+      ]
+    },
+    {
+      "asin": "B071LNJTVH",
+      "title": "Withings Body + フランス生まれのスマート体重計 ブラック Wi-Fi/Bluetooth対応 体組成計 【日本正規代理店品】 WBS05-BLACK-ALL-JP",
+      "url": "https://www.amazon.co.jp/dp/B071LNJTVH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B071LNJTVH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31fMRO2SmWS._SL500_.jpg",
+      "features": [
+        "【体重体組成計】 体重(200g単位)、BMI、体脂肪、体水分率、骨量、筋密度を測定",
+        "【クラス最高の正確さ】Position Control技術により、体の位置を記録し正確に測定可能",
+        "【食事を記録】目標体重を設定し、フードロギング機能によって一日の摂取カロリーを管理",
+        "【マルチユーザー】最大8人までのユーザーを同時に管理可能 ※初めて体重計を使用する場合、Body+は最初にマニュアルで入力されたユーザーの体重データからユーザーを識別します。 アプリに「不明な測定値」が記録されていないかご確認ください。",
+        "【自動同期】Wi-Fi や Bluetooth 経由で自動的にスマートフォンと連携 ※Bluetoothでペアリングを行った場合は、アプリの入っているデバイスのBluetooth設定がオンになっていることを確認し、Body+の近くに置いてから測定を行ってください。",
+        "【接続】Body+への接続はWi-Fiの場合2.4GHzのみに対応しています。 5GHzや2.4と5Ghzを同時に接続に使うルーターではルーター側の設定変更が必要になる場合があります。 ※使用しているスマートフォン、タブレットのWi-Fiがオンになっている必要があります。また、ルーターの設定で新規のデバイス接続に許可が必要な場合はご使用のルーターの設定で体重計が接続できるよう設定してください。ルーターには同時に接続できる機器の上限が設定されている場合があります。こちらの上限に達していないかご確認をお願いいたします"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマート体重計 Wi-Fi Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0D49XB8BR",
+      "title": "Withings Body Segment フランス生まれのスマート体重計 ホワイト Wi-Fi/Bluetooth対応 最上位モデルのスマート体重計 【日本正規代理店品】 WBS08-WHITE-ALL-ROW",
+      "url": "https://www.amazon.co.jp/dp/B0D49XB8BR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D49XB8BR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31x23BOUU9L._SL500_.jpg",
+      "features": [
+        "・究極の体組成計：Body Segmentは最高精度の測定能力を持ち、より早い運動能力向上を後押しするスマート体重計です。 ・筋肉量をより早く増やす：筋肉のバランスの乱れや余分な脂肪の部位を正確に特定することで、筋肉量をより早く増やすことができます。",
+        "フィットネス目標をスピーディーに達成: 精密な体重測定 を行い、体重の変動傾向を見やすいカラー液晶画面またはアプリで確認できます。 心血管の健康状態をモニター: 血管年齢を推定し、心臓と血管の健康状態を把握することで、心疾患リスクの理解を深めることができます。",
+        "心拍数をチェック: 日々の体重測定時に立位心拍数を計測、これは心血管系の総合的な健康状態の指標となります。 皮膚の免疫力をチェック : 足裏の汗腺活動 (汗をかくことで体表を清潔に保ち、細菌の繁殖を防ぐ機能) を測定・評価します。",
+        "スマート体重計のオリジナルであるWithings : 高評価の無料アプリ 、Wi-Fiによるスムーズなデータ同期、見やすいカラー液晶画面、1年間充電不要のバッテリー寿命で、パワフルな体験をお楽しみください。",
+        "付属アクセサリー : Body Segmentには、壁掛けハンドル、ストップケーブル、USB-Cケーブル、取扱説明書が付属しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマート体重計 Wi-Fi Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0C48ZD1XK",
+      "title": "RENPHO Elis Aspire - スマート体組成計 - ホワイト 体重計 レンフォ 体組成計 WiFi/Bluetooth対応 スマホ連動 ITO技術採用 高精度 13項目測定可能 体重/体脂肪率/BMIの本体表示 乗るだけで電源ON データ自動同期 自動認識 iPhone/Android アプリ対応 体脂肪計 強化ガラス コンパクト 日本語取扱説明書 ES-BR001",
+      "url": "https://www.amazon.co.jp/dp/B0C48ZD1XK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C48ZD1XK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31OhpZHT-+L._SL500_.jpg",
+      "features": [
+        "【ITOコーティング技術を採用したスマート体組成計】緻密かつ均一に電気を通す「ITOコーティング」技術を採用。従来の電極式よりも、さらに精度の高い測定ができるスマート体組成計です。体重や体調管理に重要な13種類の項目を測定します。",
+        "【Wi-FiとBluetoothどちらでも接続可能】BluetoothかWi-Fiで、専用アプリ「Renpho Health」と連携して、測定結果をスマホに記録。グラフが自動生成され、標準値や過去データと比較できるので、改善のヒントに繋がります。Apple Health、Google Healthなどの他社アプリともリンク可能です。",
+        "【13項目から健康を測定】ボディマス指数（BMI）や体脂肪率はもちろん、内臓脂肪、体内水分率、筋肉量、基礎代謝など13種類の項目を測定。日々のダイエットやトレーニングの成果を記録するのに役立ちます。",
+        "【1台で個々のデータを記録】家族で一緒に使うなど、1台を複数人で共有してもプロフィールとデータは個別に記録できます。赤ちゃん測定モードでは、赤ちゃんを抱えた状態で測定することで、アプリ内で自動的に赤ちゃんの重量を算出します。",
+        "【コンパクト&強化ガラス】表面はITOコーティングが施された強化ガラスで、丈夫なうえにお手入れも簡単。サイズは28cmｘ28cmとコンパクトなので持ち運びにも便利です。ちょっとした部屋の隙間にも収納できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマート体重計 Wi-Fi Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0DYTMVMHC",
+      "title": "【2026新登場】体重計 体脂肪計 体組成計 Bluetooth スマホ連動 ヘルスメーター 高精度 軽量 収納 ボディスケール 多機能測定 体重 体脂肪率 筋肉率 体水分率 BMI など測定 iOS/Android対応 日本語取扱説明書 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0DYTMVMHC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DYTMVMHC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41FgzDLWIKL._SL500_.jpg",
+      "features": [
+        "【新登場&高精度センサー】四つの高精密センサーを内蔵し、誤差を低限度に抑え、より体重を正確に測定できます。最小の表示単位は100gです。測定範囲0.2~180kg。※固く、平な床や地面で計測してください。柔らかい床面に置くと、数値の安定に影響を与えます。",
+        "【iOS/Android 対応·日本語専用アプリ】Google playまたはアプリストアで無料でダウンロードします:okok.international; このアプリはAndroidとiOSの両方に対応しています。データを同期することができるため、体型管理に役立つデータをまとめて管理できます。※測定するときはbluetoothをオンにしてください。",
+        "【16種類の指標測定】体脂肪計は体重/BMI/体脂肪率/筋肉量/内臓脂肪レベル/水分率/骨格筋率/体年齢/ボディタイプなどの16種類の身体状態を測定することができます。測定結果に基づいて、体重管理をより良く行うことができます。",
+        "【長持ち・省エネ】表は強化ガラスパネルを採用し、長く使っても傷つきにくく、お手入れも簡単です。単4形乾電池が付属され、毎日5回使うに計算すると、約一年間使え、省エネを実現します。シンプルで飽きない設計でデザイン性と実用性を両立させ、贈り物としても適しています。",
+        "【薄型で収納便利】サイズ：26ｘ26ｘ2.2cm。軽くてコンパクトで場所を取らなず、キャビネットや本棚またはベットの下など家具の隙間に楽に収納できます。",
+        "【家族全員登録可能・自動認識】家族や複数人のグループでも登録人数を気にすることなく測定データを管理できます。自動認識機能を搭載し、乗るだけで自動に測定がスタートし、2秒後に測定結果を表示します。操作がない場合9秒以内自動的に電源オフにし、操作便利でいつでも体重管理を行えます。",
+        "【パッケージ内容·品質保証】体重計本体*1 + 単4形乾電池*2 +日本語取扱説明書*1。本商品をご購入後、保証期間内に品質上の問題については、直接弊店のカスタマサービスまでご連絡ください。弊店に連絡して無償で交換を承ります。ご安心してください。必ず最善を尽くし、保証サービスをご対応いたします。",
+        "注意：お客様のご要望に応じて、アプリを更新し、広告なしの使用体験を実現できます。新バージョンのアプリ【Scalefit】は、アプリストアから無料でダウンロード・インストールが可能です。 注：新バージョンのアプリにログインする際は、メールアドレスでログインしてください。電話番号でのログインには対応しておりません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマート体重計 Wi-Fi Bluetooth",
+        "体重計 アプリ連携 健康管理",
+        "体重計 記録 自動",
+        "スマート体重計 Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0GTFM27YL",
+      "title": "体重計 bluetooth 体組成計 体脂肪計 スマート体重計 ヘルスメーター スマホ連携 2026新 家庭用 高精度 BMI/基礎代謝/内臓脂肪/体脂肪率/筋肉量など測定 日本アプリ対応 日本語説明書付き 薄型 ダイエット 健康管理 登録人数無制限 iOS/Android対応",
+      "url": "https://www.amazon.co.jp/dp/B0GTFM27YL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GTFM27YL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/413jhw-OABL._SL500_.jpg",
+      "features": [
+        "【高精度測定】最大180kg対応・50g細かい単位で変化をキャッチ。4つの高感度電極センサーを搭載し、体重の微小な変化まで正確に検知。ダイエットや筋トレの日々の進捗管理に最適です。体重計に乗るだけで自動的に電源がオン。測定者を自動認識し、測定完了後約5秒で自動的に電源がオフになる省エネ設計。",
+        "【便利に健康管理＆登録者数無制限】登録人数に制限がない、家族全員で利用できます。素足で乗るだけで体組成を正確に測定し、測定範囲は2kg～180kgです。体重、体脂肪率、筋肉量、基礎代謝量など複数の健康指標を測定可能。毎日の測定で体の変化を可視化し、健康維持や体重コントロールの習慣づくりを強力にサポートします。",
+        "【正しい測定方法で誤差を最小限に】平らな硬い床で使用し、カーペットや畳の上での測定を避けてください。素足で本体にしっかり乗り、体を動かさずに測定することで、体重や体脂肪の誤差を大幅に抑えられます。また、毎日同じ時間帯に測定すると、より正確なデータを記録できます。",
+        "【体重計スマホ連動＆iOS/Android対応】Bluetooth接続で、体重計に乗るだけで体重・体脂肪率・筋肉量など項目を測定と分析、測定データがスマホ連動します（アプリで事前登録が必要）。iOSとAndroidの両方に対応でアプリ\"AiLinkをApp StoreまたはGoogle Playから無料ダウンロードできます。",
+        "【簡単操作・日本語完全対応】初心者でも迷わず使える。体重計はLCD発光大表示、強化ガラスを采用し、最大荷重180kg、滑らかな表面、お掃除簡単、スタイリッシュで耐久性があります。日本語説明書付きで、使い方や注意点をしっかり確認できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体重計 アプリ連携 健康管理",
+        "スマート体重計 Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0F3P4S5KB",
+      "title": "Bluetooth 体重計 ヘルスメーター スマホ連携 体組成計 体脂肪計 スマート体重計 iOS/Android対応",
+      "url": "https://www.amazon.co.jp/dp/B0F3P4S5KB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F3P4S5KB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31vZZgb1SKL._SL500_.jpg",
+      "features": [
+        "【高精度測定】最大180kg対応・50g細かい単位で変化をキャッチ。4つの高感度電極センサーを搭載し、体重の微小な変化まで正確に検知。ダイエットや筋トレの日々の進捗管理に最適です。体重計に乗るだけで自動的に電源がオン。測定者を自動認識し、測定完了後約5秒で自動的に電源がオフになる省エネ設計。",
+        "【便利に健康管理＆登録者数無制限】登録人数に制限がない、家族全員で利用できます。素足で乗るだけで体組成を正確に測定し、測定範囲は2kg～180kgです。体重、体脂肪率、筋肉量、基礎代謝量など複数の健康指標を測定可能。毎日の測定で体の変化を可視化し、健康維持や体重コントロールの習慣づくりを強力にサポートします。",
+        "【正しい測定方法で誤差を最小限に】平らな硬い床で使用し、カーペットや畳の上での測定を避けてください。素足で本体にしっかり乗り、体を動かさずに測定することで、体重や体脂肪の誤差を大幅に抑えられます。また、毎日同じ時間帯に測定すると、より正確なデータを記録できます。",
+        "【体重計スマホ連動＆iOS/Android対応】Bluetooth接続で、体重計に乗るだけで体重・体脂肪率・筋肉量など項目を測定と分析、測定データがスマホ連動します（アプリで事前登録が必要）。iOSとAndroidの両方に対応でアプリ\"AiLinkをApp StoreまたはGoogle Playから無料ダウンロードできます。",
+        "【簡単操作・日本語完全対応】初心者でも迷わず使える。体重計はLCD発光大表示、強化ガラスを采用し、最大荷重180kg、滑らかな表面、お掃除簡単、スタイリッシュで耐久性があります。日本語説明書付きで、使い方や注意点をしっかり確認できます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体重計 アプリ連携 健康管理",
+        "スマート体重計 Bluetooth"
+      ]
+    },
+    {
+      "asin": "B082SQX6TD",
+      "title": "体重計 INSMART 体組成計 体脂肪計 24項目測定 体重計 スマホ連動 ヘルスメーター 人気 Bluetooth対応 高精度センサー 自動電源ON/OFF 体重/BMI/体脂肪率/筋肉量/基礎代謝量/骨量など測定 健康管理 ダイエット 家庭用 登録人数無制限 日本語対応APP＆取扱説明書 iOS/Android対応",
+      "url": "https://www.amazon.co.jp/dp/B082SQX6TD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B082SQX6TD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41QooBbHT5L._SL500_.jpg",
+      "features": [
+        "【最先端BIA測定技術 ＆ 高精度センサー体重・体組成計】高精度の四つのセンサーが搭載され、BIA生物抵抗技術を利用して、素早く正確な体組成分析が可能。乗るだけで電源が入り、各数値の測定ができます。測定範囲:3kg-180kgまで、測定誤差は100g以内に制御されました。測定した数値、結果は全部スマホのアプリと連携して、正しい身体管理が行います。",
+        "【専用アプリ「Insmart Health」＆データ同期体組成計】スマホ連動*データ同期、Bluetooth経由で体組成計をスマホと連携して、測定データがアプリへ自動転送＆記録され、充実な測定データ、体測定値の変動傾向により、体調管理やダイエットにも最適な体組成計です！App store、Google Playから無料専用アプリ「Insmart Health」インストールできます。",
+        "【操作簡単、16種多項指標測定】専用アプリ「Insmart Health」に自分のデータで登録すると、体重計に乗るだけで、16種類の健康項目が見えます（体重とBMI、体脂肪率、標準重量、肥満度 、身体年齢 、皮下脂肪、内臓脂肪、筋肉量、推定骨量、骨格筋、除脂肪体重、体内水分率、タンパク質、基礎代謝、ボディタイプなど）",
+        "【電池入り式/使用簡単】体組成計に乗るだけで自動的に電源をオンにします、そこからう降り、無作業により約8秒で自動的にオフします。素早くデータを表示した上、省エネです。過去の測定データから、乗るだけで誰が乗ったかを推定する自動認識機能も搭載します。",
+        "【コンパクト、パッケージ内容、保証期間】シンプル＆おしゃれなデザイン、コンパクトなサイズで収納にとても便利です。パッケージ内容：本体、3*AAA 電池、日本語取扱説明書。ご購入した日より一年間、商品の品質の問題だけではなく、ご使用する時、何かご質問があるなら、メッセージより、お気軽に連絡してください、必ず迅速にご対応致します（12時間以内)"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体重計 アプリ連携 健康管理",
+        "体重計 記録 自動",
+        "スマート体重計 Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0D12HTZ55",
+      "title": "arboleaf 体重計 スマホ連動 体脂肪計 体組成計 3.5インチ大画面 本体7項目表示 アプリ15項目測定 Bluetooth対応 充電式",
+      "url": "https://www.amazon.co.jp/dp/B0D12HTZ55?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D12HTZ55?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41VhLQY2ItL._SL500_.jpg",
+      "features": [
+        "【高精度体組成計・スマホ連動】iOS/Android対応、App StoreやGoogle Playで「arboleaf」をダウンロードできます。4つの精密なセンサーと最先端BIA技術を利用、誤差わずか50g～150g。体重計を乗るだけBluetoothで専用アプリに接続すること、体重/体脂肪率/筋肉量/基礎代謝量/水分量など15項目の体の全体を測定、データを自動的にアップロードします。",
+        "【体脂肪測定付き体重計＆測定項目がディスプレイに表示】体重計に乗る自動ON/OFF、体重計画面7項目＆アプリ15項目（体重、体脂肪率、BMI、筋肉量、体内年齢など）が自動記録され、スマホでグラフで体の変化が見えるダイエットの励みになります。本体画面3.5インチのディスプレイを搭載、アプリを開かなくても、様々な項目の計測値を体重計で見えます。（※初回ご利用の際はアプリで初期設定を行ってください。）",
+        "【多役なヘルスメーター＆様々なアプリ連携】体重計は5kg-150kgまで対応、子供から大人各種体型に対応、専用アプリに連動だけでなく、apple watch/Appleヘルスケア/Google Fit/Fitbitにも連携で体の変化を追跡できる、体型管理に役立つデータをまとめて管理できます。専用アプリに登録するだけで友達の追加や飲食記録などの機能が使える体組成計。",
+        "【BIA測定技術＆家族の健康管理】精密なセンサーと最先端のBIA技術を採用で、誤差はわずか50g～150gです。登録人数の制限なし、素足で乗るだけ体の体組成を正確に測定し、家族全員の健康状態をわかる体脂肪計です。（※正確な数値を得るには、平らで硬めの床で姿勢を整えて測定してください）",
+        "【収納簡単、パッケージ内容】シンプルでコンパクトサイズな設計で便利に収納できます。バックライトLEDが付いており、隅丸型でキズ防止、下部には滑り止めゴムがついています。パッケージ内容：体重計、Type-C充電ケーブル、取扱説明書。",
+        "「認証あり」JIS認証済み/丸正マーク認証済み/滑り止め加工・測定項目：15種類・登録人数:無制限/自動認識・保証期間:1年間（返金、交換対応）と24時間以内返信対応（※充電が5V/1.5Aまたは5V/2Aアダプターの使用が推奨です）",
+        "【1年メーカー保証】ご購入日から一年間、体組成計の何が問題があった場合や、使用上の疑問があれば、説明書に記載された連絡先にお問い合わせください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体重計 アプリ連携 健康管理",
+        "体組成計 スマホ連動 アプリ",
+        "Eufy スマートスケール"
+      ]
+    },
+    {
+      "asin": "B0GWGSK46D",
+      "title": "【2026新登場】体重計 ヘルスメーター 体組成計 スマホ連動 Bluetooth対応 24項目測定 体脂肪率 BMI 筋肉量 内臓脂肪 自動記録 乗るだけ簡単測定 薄型 軽量 高精度0.1kg単位 最大180kg対応 バックライト付き 強化ガラス 家族共有8人対応 健康管理 日本語取扱説明書付き(ホワイト)",
+      "url": "https://www.amazon.co.jp/dp/B0GWGSK46D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GWGSK46D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31WXFFwGE7L._SL500_.jpg",
+      "features": [
+        "【スマホ連動・自動記録】Bluetooth対応でスマートフォンアプリと連携し、測定データを自動で記録できます。日々の体重や体組成の変化をグラフで確認でき、健康管理やダイエットのサポートに便利です。",
+        "【24項目測定対応】体重、体脂肪率、BMI、筋肉量、基礎代謝、体水分率、骨量、内臓脂肪レベルなどの体組成データを測定できます。毎日の健康状態を手軽にチェックできます。",
+        "【乗るだけ簡単測定】本体に乗るだけで自動電源ON、測定後は自動で電源OFFになるため、面倒な操作は不要です。バックライト付き表示で、数値も見やすく快適に使用できます。",
+        "【家族共有8人対応】最大8人まで登録可能で、家族それぞれのデータを個別に管理できます。自動認識機能により、毎回設定する手間を減らし、スムーズに測定できます。",
+        "【薄型・高精度設計】0.1kg単位で測定でき、最大180kgまで対応。強化ガラスを採用した薄型・軽量・コンパクト設計で、洗面所や寝室などにも置きやすく、収納にも便利です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体重計 アプリ連携 健康管理"
+      ]
+    },
+    {
+      "asin": "B0DWXBLF3D",
+      "title": "タニタ 体重計 体組成計 ヘルスメーター BC-705XL【体脂肪率/内臓脂肪レベル/筋肉量/基礎代謝量/体内年齢/BMI/スマホ連動/乗るピタ】",
+      "url": "https://www.amazon.co.jp/dp/B0DWXBLF3D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DWXBLF3D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31BllkIbGkL._SL500_.jpg",
+      "features": [
+        "【✅スマートフォン対応モデル！】Bluetooth通信に対応し、対応のiPhone・Android端末にデータを転送。アプリでデータ管理ができる ※「対応スマートフォン」を必ずご確認ください ※BluetoothはBluetooth SIG, Inc.の登録商標です ※iPhoneは米国および他の国々で登録されたApple Inc.の商標です ※Android は Google LLC の商標です",
+        "【✅薄型で乗り降り・収納もらくらく】高さ約2.6cmの薄型。安心して乗り降りできます。",
+        "【✅7つの項目で健康管理】体重、BMI、体脂肪率、内臓脂肪レベル、基礎代謝量、筋肉量、体内年齢。1台で健康状態を見える化。",
+        "【✅誰が乗ったか自動認識”乗るピタ搭載”】最大5人登録可能。乗るだけであなたを自動で認識し、健康管理がよりスムーズに。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 アプリ",
+        "タニタ 体組成計 スマホ"
+      ]
+    },
+    {
+      "asin": "B0DYV878CQ",
+      "title": "【2026新登場】体重計 体脂肪計 体組成計 Bluetooth スマホ連動 ヘルスメーター 高精度 軽量 収納 ボディスケール 多機能測定 体重 体脂肪率 筋肉率 体水分率 BMI など測定 iOS/Android対応 日本語取扱説明書 (ホワイト)",
+      "url": "https://www.amazon.co.jp/dp/B0DYV878CQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DYV878CQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31xbaqhwWUL._SL500_.jpg",
+      "features": [
+        "【新登場&高精度センサー】四つの高精密センサーを内蔵し、誤差を低限度に抑え、より体重を正確に測定できます。最小の表示単位は100gです。測定範囲0.2~180kg。※固く、平な床や地面で計測してください。柔らかい床面に置くと、数値の安定に影響を与えます。",
+        "【iOS/Android 対応·日本語専用アプリ】Google playまたはアプリストアで無料でダウンロード:okok.international; このアプリはAndroidとiOSの両方に対応しています。データを同期することができるため、体型管理に役立つデータをまとめて管理できる。注：新バージョンアプリ【Scalefit】はメールアドレスでログインしてください。電話番号は対応しておりません。",
+        "【16種類の指標測定】体脂肪計は体重/BMI/体脂肪率/筋肉量/内臓脂肪レベル/水分率/骨格筋率/体年齢/ボディタイプなどの16種類の身体状態を測定することができます。測定結果に基づいて、体重管理をより良く行うことができます。",
+        "【長持ち・省エネ】表は強化ガラスパネルを採用し、長く使っても傷つきにくく、お手入れも簡単です。単4形乾電池が付属され、毎日5回使うに計算すると、約一年間使え、省エネを実現します。シンプルで飽きない設計でデザイン性と実用性を両立させ、贈り物としても適しています。",
+        "【薄型で収納便利】サイズ：26ｘ26ｘ2.2cm。軽くてコンパクトで場所を取らなず、キャビネットや本棚またはベットの下など家具の隙間に楽に収納できます。",
+        "【家族全員登録可能・自動認識】家族や複数人のグループでも登録人数を気にすることなく測定データを管理できます。自動認識機能を搭載し、乗るだけで自動に測定がスタートし、2秒後に測定結果を表示します。操作がない場合9秒以内自動的に電源オフにし、操作便利でいつでも体重管理を行えます。",
+        "【パッケージ内容·品質保証】体重計本体*1 + 単4形乾電池*2 +日本語取扱説明書*1。本商品をご購入後、保証期間内に品質上の問題については、直接弊店のカスタマサービスまでご連絡ください。弊店に連絡して無償で交換を承ります。ご安心してください。必ず最善を尽くし、保証サービスをご対応いたします。",
+        "注意：お客様のご要望に応じて、アプリを更新し、広告なしの使用体験を実現できます。新バージョンのアプリ【Scalefit】は、アプリストアから無料でダウンロード・インストールが可能です。 注：新バージョンのアプリにログインする際は、メールアドレスでログインしてください。電話番号でのログインには対応しておりません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 アプリ",
+        "スマート体重計 Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0CSS7D8YQ",
+      "title": "【アプリ連動】 アイリスオーヤマ 体重計 体組成計 健康家電 健康 ヘルスケア 体調管理 スマホ連動 IBCM-B212-H グレー",
+      "url": "https://www.amazon.co.jp/dp/B0CSS7D8YQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CSS7D8YQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41qxZInYbLL._SL500_.jpg",
+      "features": [
+        "商品サイズ（cm）：幅約30×奥行約30×高さ約2.4●製品重量：約1.5kg●電源：単4形乾電池（1.5V）×2本(別売)※充電式電池は使用できません。",
+        "計量範囲：2～150kg●最小表示／2～100kgまで：目量100g／100～150kgまで：目量200g",
+        "体重計精度／2～75kgまで：±200g／75～100kgまで：±300g／100～150kgまで：±600g",
+        "設定項目【登録人数】10名（本体6名、アプリ4名）【性別】男性／女性【身長】130～200cm【年齢】18～99歳",
+        "測定項目：体重、体脂肪率、体水分率、筋肉率、推定骨量、内臓脂肪レベル、基礎代謝、BMI※アプリのみでの表示：皮下脂肪率、除脂肪体重、筋肉量、骨格筋率、タンパク質、体年齢"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体組成計 スマホ連動 アプリ"
+      ]
+    },
+    {
+      "asin": "B09L42VBH5",
+      "title": "オムロン 体重計 ホワイト HN-300T2-JTW スマホ連動 データ自動転送 自動認識 乗るだけで測定開始 シンプルでおしゃれなデザイン",
+      "url": "https://www.amazon.co.jp/dp/B09L42VBH5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09L42VBH5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31SZwQOTCoL._SL500_.jpg",
+      "features": [
+        "測定した体重値をスマートフォンで簡単にデータ管理できる通信機能付き体重計",
+        "色:ホワイト",
+        "原産国:中国",
+        "梱包サイズ:312 x 285 x 38 mm"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体重計 記録 自動"
+      ]
+    },
+    {
+      "asin": "B0CQTFWYX3",
+      "title": "体重計 デジタル 電子スケール ヘルスメーター 乗るだけ 自動電源ON/OFF バックライト付 180kgまで対応 高精度ボディースケール コンパクト 軽量収納 日本語説明書付 (ホワイト)",
+      "url": "https://www.amazon.co.jp/dp/B0CQTFWYX3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CQTFWYX3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Ypy+qm6aL._SL500_.jpg",
+      "features": [
+        "【パッケージ内容】体重計本体*1 + 日本語取扱説明書*1 + 単4形乾電池*2が含まれています。この製品は2本の単4形乾電池で動作しますので、注意が必要です。製品の背面にある黒いボタンは重量単位を設定するためのものであり、KGやlb、lb stで表示され、LCD画面の背面の黒いボタンで調整できます。",
+        "【高精度】4つの高精度センサーを搭載しており、革新的な技術を使用して体重を正確に測定します。0.05kg/0.1lbの増分で高精度を保証しています。ただし、硬い表面で使用する必要があります。",
+        "【2本の単4形電池で使用/使いやすい】体重計に乗ると自動的に電源が入りますが、使用しない場合は15秒後に自動的に電源が切れるようになっています。エネルギーを節約するためです。",
+        "【滑り止めデザイン-単位切り替え】本体は強化ガラス製で、最大180kgまで耐えることができます。厚さは30mmで、狭いスペースに収納することができます。本体の重さは約1kgで、持ち運びが便利です。四隅にゴムバンドが付いておりズレにくいのもポイントで、床を傷つける心配はありません。単位切り替え：この体重計は、kg、LB、ST:LBの3つの単位で使用できます。",
+        "【包装内容と保証期間】パッケージ内容：体重計、2本の単4形電池、日本語のユーザーマニュアル。初期不良に対しては、購入後180日以内に返金または交換を提供します。製品に問題がある場合や、製品自体に問題がある場合（初期不良など）、すぐにお問い合わせください。連絡先の取り方については、以下の手順に従ってください：「アカウントサービス」→「注文履歴」→「販売者に連絡する」"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体重計 記録 自動"
+      ]
+    },
+    {
+      "asin": "B0DF78D991",
+      "title": "オムロン 体重 体組成計 カラダスキャン ホワイト KRD-203-W 自動認識 乗るだけで測定開始 薄型設計",
+      "url": "https://www.amazon.co.jp/dp/B0DF78D991?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DF78D991?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31+XpihmQJL._SL500_.jpg",
+      "features": [
+        "本体重量：約1.6 kg（電池含む）",
+        "付属品：お試し用電池（単4 形マンガン乾電池4 個）、取扱説明書（本書：品質保証書付き）",
+        "サイズ：幅 約285 × 奥行き 約280 × 厚さ 約28 mm",
+        "電源：単4 形マンガン乾電池4 個（R03）［単4 形アルカリ乾電池（LR03）もご使用になれます］"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体重計 記録 自動",
+        "オムロン 体重体組成計"
+      ]
+    },
+    {
+      "asin": "B0BG5FJ33T",
+      "title": "Anker Eufy (ユーフィ) Smart Scale P2 Pro ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0BG5FJ33T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BG5FJ33T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41eQHUsM1qL._SL500_.jpg",
+      "features": [
+        "16の項目でカラダ全体を測定：体重やBMI、体脂肪率などの基本情報のみでなく、心拍数、筋肉量、骨量、体年齢、皮下脂肪率などのカラダに関する16の項目を測定できます。",
+        "Wi-Fi / Bluetooth接続に対応：Wi-FiまたはBluetoothを使用して専用アプリに接続することで、データを自動的にアップロード。登録人数の制限なくご使用いただけます。",
+        "アプリへのデータ連携：専用アプリ内のデータは、AppleのヘルスケアやGoogle Fit、Fitbitと連携することができるため、体型管理に役立つデータをまとめて管理できます。",
+        "高感度センサーを搭載：高感度センサーにより最小50g単位での測定が可能で、赤ちゃんやペットなどの体重管理にも最適。表面に ITOコーティングを施しているため、どの位置に乗っても測定が可能です。",
+        "パッケージ内容：Smart Scale P2 Pro、測定テープ、単4形アルカリ乾電池x4、取扱説明書、最大24ヶ月保証",
+        "※快適にご使用いただくために、アプリとファームウェアの更新をこまめに行なってください",
+        "※2025年9月に発生しておりましたFitbitとの連携における一時的なエラーは、2025年9月30日現在解消しております。 お客様にはご不便をおかけしましたことをお詫び申し上げます。 うまく接続ができない場合は、以下の方法をお試しください。 ・アプリのアンインストールと再インストール ・「サードパーティサービス」からFitbitとの再接続",
+        "※Googleより2025年6月30日をもって、サードパーティーアプリによるGoogle Fitとの連携サービスが終了することが発表されました。今後Google Fitに接続するにはヘルスコネクトアプリを使用する必要があります",
+        "本製品の電源がつかない場合は、以下をお試しください：1. 乾電池を入れ直す。2. 新しい電池に交換する。3. 底面にある起動ボタンを10秒間長押して工場出荷時の状態にリセット(※)する。※他のユーザーとの共有が解除されます。",
+        "Wi-Fiに接続できない場合は、以下をお試しください：1. Wi-Fiが2.4GHzであるかどうか確認してください。2.4GHzでない場合、Wi-Fiは接続できません。2. Wi-Fiの電波が正常かどうかご確認ください。3. 底面にある起動ボタンを10秒間長押して工場出荷時の状態にリセット(※)する。※他のユーザーとの共有が解除されます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "体重計 記録 自動",
+        "スマート体重計 Bluetooth",
+        "Eufy スマートスケール"
+      ]
+    },
+    {
+      "asin": "B0D9NSJ9PZ",
+      "title": "オムロン 上腕式血圧計 HEM-7140シリーズ HCR-7204T",
+      "url": "https://www.amazon.co.jp/dp/B0D9NSJ9PZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9NSJ9PZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31dY6zjvcmL._SL500_.jpg",
+      "features": [
+        "管理医療機器",
+        "304AABZX00082000",
+        "●本体（カフを除く）：約 幅 103 ×高さ 82 ×奥行き 140 mm カフ：約 幅 125 ×長さ 470 mm、チューブ長さ 610 mm",
+        "●電源：単 3 形アルカリ乾電池 4 個（DC6 V 4 W） 専用 AC アダプタ（別売）（入力：AC100 V、50-60 Hz、10 VA）",
+        "●専用カフ（型式 HEM-FM31-B）、単 3 形アルカリ乾電池 4 個（お試し用）、収納ソフトケース、取扱説明書（品質保証書付き）、医療機器添付文書、OMRON connect セットアップガイド"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "血圧計 アプリ 記録"
+      ]
+    },
+    {
+      "asin": "B0FWC76KK2",
+      "title": "シチズン 上腕式血圧計 CHUN シリーズ CHUN2701",
+      "url": "https://www.amazon.co.jp/dp/B0FWC76KK2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FWC76KK2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41wnXTRXMDL._SL500_.jpg",
+      "features": [
+        "医療機器区分:特定管理医療機器",
+        "医療機器認証(承認)番号:307AHBZX00028000"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "血圧計 アプリ 記録"
+      ]
+    },
+    {
+      "asin": "B0GTQCJQ9J",
+      "title": "シチズン上腕式血圧計 CHUNシリーズ CHUN3901C",
+      "url": "https://www.amazon.co.jp/dp/B0GTQCJQ9J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GTQCJQ9J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41cjF6z3THL._SL500_.jpg",
+      "features": [
+        "医療機器区分:特定管理医療機器",
+        "医療機器認証(承認)番号:307AHBZX00028000"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "血圧計 アプリ 記録"
+      ]
+    },
+    {
+      "asin": "B081GLYKCD",
+      "title": "タニタ 手首式血圧計 ホワイト BP-A11",
+      "url": "https://www.amazon.co.jp/dp/B081GLYKCD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B081GLYKCD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41H3u344QYL._SL500_.jpg",
+      "features": [
+        "【✅メモリー機能は60回分】測定結果を過去60回分まで自動に記録。",
+        "【✅手首固定できるケース付き】正しい測定姿勢が保ちにくい手首式でも、正しい姿勢をサポート。",
+        "【✅ワンプッシュ操作の簡単測定】測定は「開始／終了」を押すだけ。",
+        "【✅直近2回の平均値を表示】血圧は変動しやすいため、日本高血圧学会の発行する高血圧症治療ガイドラインで平均値を取る方法が推奨されています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "血圧計 アプリ 記録"
+      ]
+    },
+    {
+      "asin": "B08Y599YPC",
+      "title": "オムロン 電子体温計 MC-6800B 予測式 15秒 アプリ連携 簡単データ転送 OMRON connect対応",
+      "url": "https://www.amazon.co.jp/dp/B08Y599YPC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08Y599YPC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31i-fGkajSL._SL500_.jpg",
+      "features": [
+        "体温の手入力による転記が必要なく、簡単に転送/記録できる。予測式で15秒で素早く検温ができる。外出前の検温をわざわざ記録したり、メモすることがなく、手元のスマートフォンでOMRON connect連携。医療機器認証番号:302AGBZX00125000",
+        "医療機器認証番号:302AGBZX00125000",
+        "原産国:中国",
+        "色:ホワイト"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "血圧計 アプリ 記録"
+      ]
+    },
+    {
+      "asin": "B0BDDHBNJM",
+      "title": "オムロン 手首式血圧計 HEM-6230 シリーズ HEM-6231T2-JE",
+      "url": "https://www.amazon.co.jp/dp/B0BDDHBNJM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BDDHBNJM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/317wismC6kL._SL500_.jpg",
+      "features": [
+        "特定管理医療機器 医療機器認証番号:230AGBZX00003000",
+        "サイズ：幅91mm×奥行13.4mm×高さ63.4mm（カフ含まず）",
+        "付属品：お試し用電池（単4 形アルカリ乾電池2 個）、収納ケース、取扱説明書（品質保証書付き）、医療機器添付文書、OMRON connect セットアップガイド",
+        "対象手首周：13.5 ～ 21.5 cm"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "血圧計 アプリ 記録"
+      ]
+    },
+    {
+      "asin": "B089W4Z1X7",
+      "title": "オムロン 上腕式血圧計 スタンダード19シリーズ HCR-7106",
+      "url": "https://www.amazon.co.jp/dp/B089W4Z1X7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B089W4Z1X7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/419JBFa4grL._SL500_.jpg",
+      "features": [
+        "医療機器区分:特定管理医療機器",
+        "医療機器認証(承認)番号:301AABZX00022000"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "血圧計 アプリ 記録"
+      ]
+    },
+    {
+      "asin": "B0HJYKG897",
+      "title": "血圧記録手帳 5冊セット B6サイズ 朝夜1日2回 血圧・脈拍・体温・体重記録 SnapVitals記録アプリ案内付き",
+      "url": "https://www.amazon.co.jp/dp/B0HJYKG897?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0HJYKG897?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31NssBmow0L._SL500_.jpg",
+      "features": [
+        "【朝・夜1日2回、血圧と脈拍を見やすく記録】 ご家庭で測定した朝・夜の最高血圧、最低血圧、脈拍を1日2回記録できる血圧手帳です。日付・曜日ごとに整理でき、毎日の記録や通院時の確認にも役立ちます。",
+        "実物の手帳5冊＋デジタル記録アプリ案内付き】 本商品は書き込みやすい実物の血圧記録手帳5冊セットです。さらに、血圧記録アプリ「SnapVitals」の案内カードを付属。紙に手書きで残す方法と、スマートフォンで保存する方法を、生活スタイルに合わせて使い分けられます。",
+        "【SnapVitalsで血圧計の表示数値をスマホに保存】 SnapVitalsは、家庭用血圧計の表示画面を撮影し、表示された最高血圧・最低血圧・脈拍を記録・保存できるアプリです。手動入力にも対応。血圧計そのものではなく、血圧計に表示された数値を記録するためのアプリです。※対応端末・利用条件は案内先をご確認ください。",
+        "【体温・体重・服薬・体調メモも一冊に】 血圧・脈拍だけでなく、体温、体重、服薬の有無、体調、睡眠、食事、運動などの生活メモもまとめて記入できます。数値と日々の状態を一緒に残せるため、後から振り返りやすい設計です。",
+        "【週間グラフ付き・約30週間分×5冊セット】 数値記入欄に加えて、血圧の変化を確認しやすい週間グラフ欄を用意しました。1冊あたり約30週間分、5冊で約150週間分の記録に対応。B6サイズ（約128×182mm）で、自宅保管にも持ち運びにも便利です。※本品およびアプリは医療機器ではありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "血圧計 アプリ 記録"
+      ]
+    },
+    {
+      "asin": "B07ZK8VZMG",
+      "title": "オムロン 上腕式血圧計 プレミアム19シリーズ HCR-7502T",
+      "url": "https://www.amazon.co.jp/dp/B07ZK8VZMG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07ZK8VZMG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41AvesilirL._SL500_.jpg",
+      "features": [
+        "医療機器区分:特定管理医療機器 医療機器認証(承認)番号:301AABZX00021000",
+        "仕様外形寸法:約191(幅)× 85(高さ)× 120(奥行)mm",
+        "質量:HCR-7601T、HCR-7602T : 約470g(電池含まず)、HCR-750AT、HCR-7502T : 約460g(電池含まず)",
+        "対象腕周:17 ~ 36 cm",
+        "使用環境条件:+10~+40 ℃/15~90 %RH( 結露なきこと)/800 ~ 1060 hPa"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "血圧計 アプリ 記録"
+      ]
+    },
+    {
+      "asin": "B0DV97DCHF",
+      "title": "オムロン 手首式血圧計 HEM-6230 シリーズ HEM-6231T",
+      "url": "https://www.amazon.co.jp/dp/B0DV97DCHF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DV97DCHF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41JWYvYHvcL._SL500_.jpg",
+      "features": [
+        "管理医療機器 医療機器認証番号：230AGBZX00003000",
+        "外形寸法：約91（幅）× 63.4（高さ）× 13.4（奥行き）mm（カフ含まず）",
+        "質量：約90 g（電池含まず）",
+        "対象手首周：13.5 ～ 21.5 cm",
+        "付属品：単４形アルカリ乾電池　2 個、取扱説明書（品質保証書付き）、収納ケース"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "血圧計 アプリ 記録"
+      ]
+    },
+    {
+      "asin": "B0BS3R5B1P",
+      "title": "HUAWEI Scale 3 Bluetooth Edition フロスティホワイト iOS&Android対応",
+      "url": "https://www.amazon.co.jp/dp/B0BS3R5B1P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BS3R5B1P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21XyWiM-M4L._SL500_.jpg",
+      "features": [
+        "【12項目測定】:12種類(体重/BMI/体脂肪率/除脂肪体重/骨格筋量/体内水分率/タンパク質/骨塩量/内臓脂肪/基礎代謝量/身体年齢/体格) の身体指標を計測可能",
+        "【100gから測定可能※1】:最小測定重量100g、測定表示単位100g（体重計を起動するには5㎏以上が必要です。起動後100gから測定可能）",
+        "【専用アプリ対応】:「HUAWEI Health」アプリとBluetooth接続し、週、月、年単位で体重、体脂肪率、骨格筋量の変動推移をグラフで確認可能",
+        "【安定＆堅牢】:表面は280mm×280mm※2の強化ガラス、底部はABS材質を採用し、多数の転落試験を通過した堅牢性を備えた耐衝撃構造す。体重体組成計の表面と一体化した、数字表示が分かり易く美しいLEDディスプレイ",
+        "【ゲストモード搭載】:「HUAWEI Health」アプリを開いて、ゲストモードを起動し、ゲスト情報を入力し測定可能、測定データは登録済みユーザーのアプリからゲストへ共有可能"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマート体重計 Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0GK6VRBT1",
+      "title": "タニタ(Tanita) 左右部位別体組成計 体組成計 ヘルスメーター スマホ連携 日本製 BCｰ1K01-BL",
+      "url": "https://www.amazon.co.jp/dp/B0GK6VRBT1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GK6VRBT1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ffOtBGA3L._SL500_.jpg",
+      "features": [
+        "【✅11個の項目で健康管理】体重、筋肉量、体脂肪率、筋肉量判定、体脂肪率判定、BMIｍ内臓脂肪レベル、基礎代謝量、推定骨量、体内年齢、体水分率。1台で健康状態を見える化。",
+        "【✅全身を部位別で測定可能】右腕・左腕・右脚・左脚・体幹部の各筋肉量や脂肪率が分かる。",
+        "【✅アプリで測定結果を管理できる】アプリ「TANITA Record」「Health Planet」で登録から測定ができ、からだの変化を把握できる"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タニタ 体組成計 スマホ"
+      ]
+    },
+    {
+      "asin": "B08R3B8CSM",
+      "title": "タニタ 体重計 体組成計 スマホ連動 50g単位 バックライト BC-332L WH ホワイト 子供の成長を見守る",
+      "url": "https://www.amazon.co.jp/dp/B08R3B8CSM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08R3B8CSM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31EJbvDKSaL._SL500_.jpg",
+      "features": [
+        "【✅スマートフォン対応モデル！】Bluetooth通信に対応し、対応のiPhone・Android端末にデータを転送。アプリでデータ管理ができる ※「対応スマートフォン」を必ずご確認ください ※BluetoothはBluetooth SIG, Inc.の登録商標です ※iPhoneは米国および他の国々で登録されたApple Inc.の商標です ※Android は Google LLC の商標です",
+        "【✅「おさぼり番号表示」機能付き】自分の測定時に8日以上計測していない家族の個人番号を表示。毎日の継続した測定をサポートします！",
+        "【✅\"マイサポ”機能で継続測定を応援】測定の継続状況に合わせて画面上の表情が変わり、測定を継続することを応援。",
+        "【✅8つの項目で健康管理】体重、BMI、体脂肪率、内臓脂肪レベル、基礎代謝量、筋肉量、体内年齢、推定骨量。1台で健康状態を見える化。",
+        "【✅誰が乗ったか自動認識”乗るピタ搭載”】最大5人登録可能。乗るだけであなたを自動で認識し、健康管理がよりスムーズに。",
+        "【✅MAID IN JAPAN】日本生まれの高品質。タニタの秋田工場で製造しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タニタ 体組成計 スマホ"
+      ]
+    },
+    {
+      "asin": "B081GQK3R9",
+      "title": "タニタ(Tanita) 体組成計 ヘルスメーター スマホ 日本製 ホワイト RD-912 WH 医療分野の技術搭載/筋肉の質がわかる/スマホ連携 インナースキャンデュアル",
+      "url": "https://www.amazon.co.jp/dp/B081GQK3R9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B081GQK3R9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31URIN1izKL._SL500_.jpg",
+      "features": [
+        "・体重(計量範囲0~180kg/最小表示100g)・体脂肪率(0.1%単位)・BMI(0.1単位)・推定骨量(100g単位 ・筋肉量(100g単位)・筋質点数(1点単位)・内臓脂肪レベル(0.5レベル単位)・脈拍数(1/min単位)・アスリートモード ・登録人数4人+ゲストモード ※基礎代謝量、体内年齢、体水分率はアプリでのみ表示",
+        "デュアル周波数測定でより正確に",
+        "運動のモチベーションアップに役立つ",
+        "休息の目安にも",
+        "暗い場所でも見やすいバックライト付き"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タニタ 体組成計 スマホ"
+      ]
+    },
+    {
+      "asin": "B081GJJCYW",
+      "title": "タニタ 体組成計 ヘルスメーター スマホ 日本製 ブラック RD-912 BK 医療分野の技術搭載/筋肉の質が分かる/スマホ連携 インナースキャンデュアル",
+      "url": "https://www.amazon.co.jp/dp/B081GJJCYW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B081GJJCYW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31cGFvGjvPL._SL500_.jpg",
+      "features": [
+        "・体重(計量範囲0~180kg/最小表示100g)・体脂肪率(0.1%単位)・BMI(0.1単位)・推定骨量(100g単位 ・筋肉量(100g単位)・筋質点数(1点単位)・内臓脂肪レベル(0.5レベル単位)・脈拍数(1/min単位)・アスリートモード ・登録人数4人+ゲストモード ※基礎代謝量、体内年齢、体水分率はアプリでのみ表示",
+        "デュアル周波数測定でより正確に",
+        "運動のモチベーションアップに役立つ",
+        "休息の目安にも",
+        "暗い場所でも見やすいバックライト付き"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タニタ 体組成計 スマホ"
+      ]
+    },
+    {
+      "asin": "B0F8Q3T3PC",
+      "title": "タニタ 体重計 体組成計 スマホ連動【業界初 脚点判定（体重を支える足の筋肉量を点数化）】体脂肪率/筋肉量/内臓脂肪レベル/体重/体内年齢/基礎代謝量/BMI/乗るピタ/マイサポ 立て掛け収納OK ヘルスメーター BC-774L-BK",
+      "url": "https://www.amazon.co.jp/dp/B0F8Q3T3PC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F8Q3T3PC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31tPoaEvYKL._SL500_.jpg",
+      "features": [
+        "【「ビデオ」に脚点の解説動画 ロングver.を載せています。是非ご覧ください 】■ 体重を支えるだけの脚の筋肉量があるかを「脚点」として点数化・「脚点」は50～150 ポイントで表示され、点数に応じて「良い」「やや低い」「低い」の３段階で判定 ■ 測定項目 体脂肪率/筋肉量/内臓脂肪レベル/体重/体内年齢/基礎代謝量/BMI ■ 乗るだけで測定ができる「乗るピタ」を搭載 立てかけ収納OK"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タニタ 体組成計 スマホ"
+      ]
+    },
+    {
+      "asin": "B01N47453Z",
+      "title": "タニタ 体重計 体組成計【50g単位で測定可能/細かい変化も直ぐに分かる/スマホ必要無し】体脂肪率/内臓脂肪レベル/筋肉量/基礎代謝量/体内年齢/推定骨量/BMI/立掛け収納OK/乗るピタ ヘルスメーター BC-315 グリーン",
+      "url": "https://www.amazon.co.jp/dp/B01N47453Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01N47453Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31H2Woh8TNL._SL500_.jpg",
+      "features": [
+        "【8つの項目で健康管理】体重、BMI、体脂肪率、内臓脂肪レベル、基礎代謝量、筋肉量、体内年齢、推定骨量。1台で健康状態を見える化。",
+        "【誰が乗ったか自動認識”乗るピタ搭載”】最大5人登録可能。乗るだけであなたを自動で認識し、健康管理がよりスムーズに。",
+        "【薄型で乗り降り・収納もらくらく】高さ約2.7cmの薄型。安心して乗り降りできます。",
+        "【体重50g測定】体重測定は高精度の50g単位。小さな変化もわかるからモチベーションUP！"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タニタ 体組成計 スマホ"
+      ]
+    },
+    {
+      "asin": "B0C8D5WBJ7",
+      "title": "タニタ 体重計 体組成計【業界初 脚点判定（体重を支える足の筋肉量を点数化）】体脂肪率/筋肉量/内臓脂肪レベル/体重/体内年齢/基礎代謝量/BMI/乗るピタ/マイサポ 立て掛け収納OK スマホ必要なし ヘルスメーター BC-772",
+      "url": "https://www.amazon.co.jp/dp/B0C8D5WBJ7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C8D5WBJ7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ls8sdEERL._SL500_.jpg",
+      "features": [
+        "【「ビデオ」に脚点の解説動画 ロングver.を載せています。是非ご覧ください 】■ 体重を支えるだけの脚の筋肉量があるかを「脚点」として点数化・「脚点」は50～150 ポイントで表示され、点数に応じて「良い」「やや低い」「低い」の３段階で判定 ■ 測定項目 体脂肪率/筋肉量/内臓脂肪レベル/体重/体内年齢/基礎代謝量/BMI ■ 乗るだけで測定ができる「乗るピタ」を搭載 立てかけ収納OK"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "タニタ 体組成計 スマホ"
+      ]
+    },
+    {
+      "asin": "B07YLPHPHB",
+      "title": "オムロン 体重 体組成計 カラダスキャン ブラック KRD-703T スマホ連動 データ自動転送 全身測定方式 部位別測定 BMI 骨格筋率 体脂肪率 OMRON connect対応",
+      "url": "https://www.amazon.co.jp/dp/B07YLPHPHB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07YLPHPHB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ITDUof1pL._SL500_.jpg",
+      "features": [
+        "サイズ:幅30×奥行32.5×高さ5.1cm",
+        "色:ブラック",
+        "スタイル:スマホアプリ対応・部位別計測",
+        "原産国:中国"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "オムロン 体重体組成計"
+      ]
+    },
+    {
+      "asin": "B0DDQ63CZZ",
+      "title": "オムロン 体重 体組成計 カラダスキャン ホワイト KRD-503T-W スマホ連動 データ自動転送 自動認識 乗るだけで測定開始 内臓脂肪レベル 体脂肪率 BMI 骨格筋率",
+      "url": "https://www.amazon.co.jp/dp/B0DDQ63CZZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDQ63CZZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31bSn+cJEpL._SL500_.jpg",
+      "features": [
+        "本体重量：約1.8 kg（電池含む）",
+        "付属品：単4形アルカリ乾電池4個（お試し用）、取扱説明書（本書：品質保証書付き）",
+        "サイズ：幅 約323 × 奥行き 約249 × 厚さ 約28 mm",
+        "電源：単4形アルカリ乾電池4個（LR03）",
+        "オムロンコネクト対応（Bluetooth通信）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "オムロン 体重体組成計"
+      ]
+    },
+    {
+      "asin": "B0DF777SZ1",
+      "title": "オムロン 体重 体組成計 カラダスキャン ダークブルー KRD-203-DB 自動認識 乗るだけで測定開始 薄型設計",
+      "url": "https://www.amazon.co.jp/dp/B0DF777SZ1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DF777SZ1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31O70olkiYL._SL500_.jpg",
+      "features": [
+        "本体重量：約1.6 kg（電池含む）",
+        "付属品：お試し用電池（単4 形マンガン乾電池4 個）、取扱説明書（本書：品質保証書付き）",
+        "サイズ：幅 約285 × 奥行き 約280 × 厚さ 約28 mm",
+        "電源：単4 形マンガン乾電池4 個（R03）［単4 形アルカリ乾電池（LR03）もご使用になれます］"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "オムロン 体重体組成計"
+      ]
+    },
+    {
+      "asin": "B0DF782GT9",
+      "title": "オムロン 体重 体組成計 カラダスキャン ホワイト KRD-103-W 自動認識 乗るだけで測定開始 A4サイズのコンパクト設計",
+      "url": "https://www.amazon.co.jp/dp/B0DF782GT9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DF782GT9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31oLH+GNTmL._SL500_.jpg",
+      "features": [
+        "本体重量：約1.3 kg（電池含む）",
+        "付属品：お試し用電池（単4 形マンガン乾電池4 個）、取扱説明書（本書：品質保証書付き）",
+        "サイズ：幅 約285 × 奥行き 約210 × 厚さ 約28 mm",
+        "電源：単4 形マンガン乾電池4 個（R03）［単4 形アルカリ乾電池（LR03）もご使用になれます］"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "オムロン 体重体組成計"
+      ]
+    },
+    {
+      "asin": "B0C2J48K8X",
+      "title": "オムロン 体重 体組成計 カラダスキャン ホワイト KRD-603T2-W スマホ連動 データ自動転送自動認識 乗るだけで測定開始 50g単位 BMI 骨格筋率 体脂肪率",
+      "url": "https://www.amazon.co.jp/dp/B0C2J48K8X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C2J48K8X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31nD7akai7L._SL500_.jpg",
+      "features": [
+        "本体重量：約1.7 kg（電池含む）",
+        "付属品：お試し用電池（単4形アルカリ乾電池4個）、取扱説明書（本書：品質保証書付き）",
+        "サイズ：幅 約327× 奥行き 約249× 厚さ 約30 mm",
+        "電源：単4形アルカリ乾電池4個（LR03）",
+        "4秒高速測定/自動データ転送/表示項目カスタマイズ　時短・効率的でストレスフリーな体重管理"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "オムロン 体重体組成計"
+      ]
+    },
+    {
+      "asin": "B005JVBDE2",
+      "title": "オムロン 体重・体組成計 カラダスキャン ブラウン HBF-214-BW",
+      "url": "https://www.amazon.co.jp/dp/B005JVBDE2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B005JVBDE2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41bX91tmd-S._SL500_.jpg",
+      "features": [
+        "サイズ:約幅285×高さ28×奥行280mm",
+        "本体重量:約1.6kg(電池含む)",
+        "素材・材質:ABSガラス、ABS樹脂",
+        "原産国:中国",
+        "電源:単4形マンガン乾電池4個(R03)(単4形アルカリ乾電池(LR03)もご使用になれます。)Bluetoothが対応していません。",
+        "付属品:お試し用電池(単4形マンガン乾電池4個)、取扱説明書(品質保証書付き)",
+        "体重:0~100kgまで/100g単位、100~135kgまで/200g単位",
+        "表示:BMI、体脂肪率/体脂肪率判定/基礎代謝/骨格筋率/骨格筋率判定/基礎代謝/骨格筋率/骨格筋率判定(対象年齢10才以上80才以下)、内臓脂肪レベル/内臓脂肪レベル判定/体年齢(対象年齢18才以上80才以下)",
+        "メモリ:前回値表示",
+        "電池寿命:約1年(単4形マンガン乾電池使用、室温23度、1日4回測定時)"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "オムロン 体重体組成計"
+      ]
+    },
+    {
+      "asin": "B0CPYCRHFN",
+      "title": "Anker Eufy (ユーフィ) Smart Scale A1 ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0CPYCRHFN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CPYCRHFN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31esyVdXtwL._SL500_.jpg",
+      "features": [
+        "コンパクトサイズで簡単収納：わずか1.1kg、26cm正方でスペースを取らないコンパクトサイズ。脱衣所やリビングなど簡単に収納が可能。",
+        "12の項目を測定可能：体重や体脂肪率、BMI、筋肉量など、カラダに関する基本的な12の項目が測定可能です。",
+        "Bluetooth接続に対応：Bluetoothによるアプリへの接続が可能で、アプリ内で測定データをすぐに確認いただけます。",
+        "アプリへのデータ連携：AppleのヘルスケアやGoogle Fit、Fitbitと同期することで、データをまとめて管理できます。専用アプリではデータのグラフ表示や、目標に対しての進捗を管理できます。",
+        "パッケージ内容：Smart Scale A1、お試し用乾電池 (単4形乾電池×3)※、取扱説明書",
+        "※付属の乾電池はお試し用です。寿命が早く切れることがあります。",
+        "電池残量が少なくなると\"Lo\"や\"0.0\"と表示されます。電池を取り出して、3本とも交換してください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Eufy スマートスケール"
+      ]
+    },
+    {
+      "asin": "B0CPYDZ316",
+      "title": "Anker Eufy (ユーフィ) Smart Scale A1 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CPYDZ316?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CPYDZ316?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Yuau7ts+L._SL500_.jpg",
+      "features": [
+        "コンパクトサイズで簡単収納：わずか1.1kg、26cm正方でスペースを取らないコンパクトサイズ。脱衣所やリビングなど簡単に収納が可能。",
+        "12の項目を測定可能：体重や体脂肪率、BMI、筋肉量など、カラダに関する基本的な12の項目が測定可能です。",
+        "Bluetooth接続に対応：Bluetoothによるアプリへの接続が可能で、アプリ内で測定データをすぐに確認いただけます。",
+        "アプリへのデータ連携：AppleのヘルスケアやGoogle Fit、Fitbitと同期することで、データをまとめて管理できます。専用アプリではデータのグラフ表示や、目標に対しての進捗を管理できます。",
+        "パッケージ内容：Smart Scale A1、お試し用乾電池 (単4形乾電池×3)※、取扱説明書",
+        "※付属の乾電池はお試し用です。寿命が早く切れることがあります。",
+        "電池残量が少なくなると\"Lo\"や\"0.0\"と表示されます。電池を取り出して、3本とも交換してください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Eufy スマートスケール"
+      ]
+    },
+    {
+      "asin": "B0FCYDRPF9",
+      "title": "arboleaf 体重計 体組成計 体脂肪計 8電極 カラダスキャン スマホ連動 データ自動転送 部位別測定 全身測定方式 Bluetooth対応",
+      "url": "https://www.amazon.co.jp/dp/B0FCYDRPF9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FCYDRPF9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41+K8XzeQXL._SL500_.jpg",
+      "features": [
+        "「精密な全身測定」arboleafの8電極体重計は、手と足に配置された電極を使用して、全身のデータを高精度で取得します。進化したデュアルBIA技術により、上半身、下半身、躯幹の詳細な測定を行い、従来の4電極型体重計と比較して、より包括的かつ精度の高い体組成分析を提供します。さらに、ハンドルは自動的に収納可能で、使用後の収納も簡単で便利です。",
+        "「大画面LEDディスプレイ搭載」このスマート体脂肪計は、スマホ連動、LEDディスプレイを備えており、BMI、体脂肪率、筋肉量など、7つの主要な体組成データを一目で確認できます。Arboleafアプリをインストールし、初期設定を行うと、測定結果は体重計に直接表示され、アプリを毎回開かなくてもすぐに確認できます。体重管理がよりスムーズかつ簡単になり、個人の使用はもちろん、ジムでの利用にも最適です。",
+        "「50項目の体組成分析」この体重計は高度な精度を誇るセンサーを搭載し、体重、BMI、体脂肪率、除脂肪体重、皮下脂肪、内臓脂肪、水分量、筋肉量、骨量、タンパク質、基礎代謝率、体年齢など、合計50項目にわたる重要な体組成データを精密に測定します。Arboleafのスマート体重計は、これらのデータに基づいた詳細な健康分析と、個別に最適化されたフィットネスプランを提供し、体重管理に理想的です。",
+        "「身体データの追跡と同期機能」Arboleafアプリは、スマホ連動、毎回の測定データを詳細に記録し、週次、月次、年次で視覚的なグラフとして分析結果を表示します。また、Apple Health、Google Fit、Health Connect、Fitbitなどの主要なフィットネスプラットフォームとの同期が可能で、アプリ内では、印刷可能な詳細な体組成分析レポートも作成できます。",
+        "「広い天板と大型電極パッド」このアプリ連携型体脂肪計は、31×31 cmの広い測定面を備え、5mm厚の強化ガラスを採用しており、測定の安全性と信頼性を確保しています。大型電極パッドにより、足との接触面積が広がり、測定精度が向上します。また、全ての家族メンバーがより快適に、そして便利に使用できる設計です。",
+        "「使用方法」心臓ペースメーカーを使用している方や妊娠中の方は、この体脂肪計の使用を避けてください。初回設定時に、スマートフォンと体重計をペアリングし、個人プロフィールを作成してください。その後は、アプリを開かなくても、体重計に直接7項目の身体データが表示されます。",
+        "「1年メーカー保証」ご購入から一年間、体組成計の品質に問題があった場合や、使用上の疑問があれば、説明書に記載された連絡先にお問い合わせください。ユーザー数に制限がなく、家族全員、フィットネス愛好者、自分の体調管理を重視する方々に最適です。【 人気アプリの接続方法はお問い合わせください】",
+        "※本製品は医療機器ではありません。BIAによる測定値は、体重・体組成の長期的な変化傾向を確認するための参考値です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Eufy スマートスケール"
+      ]
+    },
+    {
+      "asin": "B0GX16KYPB",
+      "title": "arboleaf 体重計 体組成計 体脂肪計 スマホ連動 8電極 ハンドル一体型大画面ディスプレイ 部位別測定 全身測定 Bluetooth対応",
+      "url": "https://www.amazon.co.jp/dp/B0GX16KYPB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GX16KYPB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41EC4emlVEL._SL500_.jpg",
+      "features": [
+        "「8電極で全身をより詳しく測定」Arboleafの8電極スマート体重計は、両手・両足から測定するデュアルBIA技術を採用。一般的な4電極体脂肪計より多くの測定ポイントから全身を捉え、上半身・下半身・体幹まで詳しく測定します。アプリでは体脂肪率、内臓脂肪、筋肉量、骨格筋率、BMI、体水分率など50項目以上の詳細データを確認できます。",
+        "「ハンドル一体型大画面LEDディスプレイ」このスマート体脂肪計は、見やすい大画面LEDディスプレイをハンドル部に搭載。体重、BMI、体脂肪率、筋肉量など7つの主要な体組成データを、足元をのぞき込まず、かがまずに確認できます。カラー表示で結果を直感的に把握しやすく、毎日の体重管理や体組成管理を快適にサポートします。",
+        "「アプリを毎回開かなくてもOK」初回にArboleafアプリでユーザー情報を登録して一度測定すれば、その後は体組成計が登録済みユーザーを正しく認識した場合、アプリを開かなくても体重、体脂肪率、筋肉量などを本体画面で確認できます。測定データはユーザーごとに最大20件まで本体に一時保存され、次回アプリに接続して一度測定すると同期されます。※識別できない場合はアプリでユーザーを確認してください。",
+        "「身体データの追跡とアプリ連携」Arboleafアプリとスマホ連動し、体重や体組成の測定データを記録・管理。週次・月次・年次のグラフで変化を確認できます。Apple Health、Google Fit、Health Connect、Fitbitなど、普段お使いの健康管理アプリとの連携にも対応し、対応する測定データをまとめて管理できます。印刷可能な体組成分析レポートも作成できます。",
+        "「広い天板と自動収納ハンドル」この体重計は30×30cmの広い測定面と5mm厚の強化ガラスを採用。大型電極パッドで足を置きやすく、安定した姿勢で測定できます。使用後はハンドルを本体にすっきり収納でき、ケーブルも邪魔になりにくい設計。家族で使える8電極体組成計として、毎日の使用と収納をより快適にします。",
+        "「1年メーカー保証」ご購入から一年間、体組成計の品質に問題があった場合や、使用上の疑問があれば、説明書に記載された連絡先にお問い合わせください。ユーザー数に制限がなく、家族全員、フィットネス愛好者、自分の体調管理を重視する方々に最適です。【 人気アプリの接続方法はお問い合わせください】",
+        "本製品は医療機器ではありません。BIAによる測定値は、体重・体組成の長期的な変化傾向を確認するための参考値です。測定条件により誤差が生じる場合があります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Eufy スマートスケール"
+      ]
+    },
+    {
+      "asin": "B0H7BVQ3N4",
+      "title": "arboleaf 体重計 体組成計 体脂肪計 8電極 カラダスキャン スマホ連動 データ自動転送 部位別測定 全身測定方式 Bluetooth対応",
+      "url": "https://www.amazon.co.jp/dp/B0H7BVQ3N4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H7BVQ3N4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/414K1bv8WkL._SL500_.jpg",
+      "features": [
+        "【8電極BIAで全身をより詳しく測定】arboleafの8電極体重計は、両手・両足の8つの電極からデータを取得するBIA技術を採用。一般的な足部4電極タイプの体脂肪計とは異なり、手と足の両方から測定することで、上半身・下半身・体幹を含む全身の体組成をより細かく把握できます。毎日の体重管理はもちろん、体脂肪率や筋肉量など、身体の変化を継続的に確認したい方におすすめです。",
+        "【7項目表示のLED画面】見やすいLEDディスプレイを搭載したスマホ連動体脂肪計で、体重、BMI、体脂肪率、筋肉量など7つの主要データを本体画面に表示。初回にArboleafアプリで登録・測定後、登録済みユーザーを認識すれば、毎回アプリを開かずに測定結果を確認できます。スマホを取り出す手間を減らし、毎日の体重・体脂肪管理を手軽に続けられます。※識別できない場合はアプリでユーザーを確認してください。",
+        "【50項目以上の体組成分析】体重、BMI、体脂肪率、内臓脂肪、筋肉量、骨量、基礎代謝量、体年齢など、50項目以上の体組成データをArboleafアプリで確認できます。体重だけでは分かりにくい身体の変化を多角的に把握でき、毎日の健康管理やトレーニングの成果確認をサポート。測定データはレポートの作成・印刷にも対応。日々の変化や長期的な傾向を手軽に振り返れます。",
+        "【アプリ連携＆グラフ管理】Arboleafアプリとスマホ連動し、体重や体組成の測定データを記録・管理。週次・月次・年次のグラフで変化を確認できます。Apple Health、Google Fit、Health Connect、Fitbitなどの健康管理アプリとの連携にも対応。ユーザー登録数に制限がなく、家族それぞれの体組成データを分けて管理できるため、家族で使えるスマート体組成計としても便利です。",
+        "【広い天板・自動収納式ハンドル・充電式】28×28cmの広い測定面と5mm厚の強化ガラスを採用した体重計。本体重量は約1.6kgで、従来品より軽量です。大型電極で足を置きやすく、安定した姿勢で測定できます。使用後はハンドルを本体にすっきり収納でき、ケーブルも邪魔になりにくい設計。充電式デザインで繰り返し使用でき、毎日の体重・体組成管理を快適にサポートします。",
+        "【1年メーカー保証】ご購入から一年間、体組成計の品質に問題があった場合や、使用上の疑問があれば、説明書に記載された連絡先にお問い合わせください。【 人気アプリの接続方法はお問い合わせください】※本製品は医療機器ではありません。BIAによる測定値は、体重・体組成の長期的な変化傾向を確認するための参考値です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Eufy スマートスケール"
+      ]
+    }
+  ]
+}
