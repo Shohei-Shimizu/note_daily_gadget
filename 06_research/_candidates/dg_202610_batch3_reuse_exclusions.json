@@ -1,0 +1,621 @@
+{
+ "_note": "daily_gadget が過去に掲載済みのASIN（同一親ASINの色違い含む）。候補プールに出現したものだけを --exclude-asin に渡すこと。プールに無いASINを渡すと select_products.py が停止する。",
+ "_generated": "2026-09-21 by Claude (親ASIN照合込み)",
+ "_source": "shared/db/product.sqlite article_product × product_tag",
+ "days": {
+  "2026-10-15": {
+   "theme": "体重と体組成を自動で記録する。スマート体組成計",
+   "tag": "type:body_scale",
+   "published": {
+    "B07Q2WW8FM": {
+     "published_date": "2026-09-08",
+     "title": "タニタ(Tanita) 体重計 体組成計 スマホ連動 ヘルスメーター BC-768 ホワイト【体脂肪率/内臓脂肪レベル/",
+     "reason": "daily_gadget 2026-09-08 に掲載済み"
+    },
+    "B0B1VJNWJD": {
+     "published_date": "2026-09-08",
+     "title": "Anker Eufy (ユーフィ) Smart Scale P2 Pro（体重体組成計）【アプリ対応 / Fitbit連",
+     "reason": "daily_gadget 2026-09-08 に掲載済み"
+    },
+    "B0C48ZD1XK": {
+     "published_date": "2026-09-08",
+     "title": "RENPHO Elis Aspire - スマート体組成計 - ホワイト 体重計 レンフォ 体組成計 WiFi/Blue",
+     "reason": "daily_gadget 2026-09-08 に掲載済み"
+    },
+    "B0CN93P2GB": {
+     "published_date": "2026-09-08",
+     "title": "arboleaf 体重計 スマホ連動 14項目 体組成計・体脂肪計 乗るだけデータ あすけん連携 自動転送 同期 WiF",
+     "reason": "daily_gadget 2026-09-08 に掲載済み"
+    },
+    "B0D12HTZ55": {
+     "published_date": "2026-09-08",
+     "title": "arboleaf 体重計 スマホ連動 体脂肪計 体組成計 3.5インチ大画面 本体7項目表示 アプリ15項目測定 Blu",
+     "reason": "daily_gadget 2026-09-08 に掲載済み"
+    }
+   },
+   "same_parent_variants": {
+    "B07Q2WYL77": {
+     "title": "タニタ 体重計 体組成計 スマホ連動 ヘルスメーター BC-768 ブラック 【体脂肪率/内臓脂肪レベル/筋肉量/基礎代",
+     "reason": "掲載済みASINと同一親ASIN(B0FWJ6ZH1T)の色・サイズ違い"
+    },
+    "B00E37SO0Y": {
+     "title": "タニタ 体重計 体組成計 ヘルスメーター BC-705N【体脂肪率/内臓脂肪レベル/筋肉量/基礎代謝量/体内年齢/BMI",
+     "reason": "掲載済みASINと同一親ASIN(B0FWJ6ZH1T)の色・サイズ違い"
+    },
+    "B0DWXBLF3D": {
+     "title": "タニタ 体重計 体組成計 ヘルスメーター BC-705XL【体脂肪率/内臓脂肪レベル/筋肉量/基礎代謝量/体内年齢/BM",
+     "reason": "掲載済みASINと同一親ASIN(B0FWJ6ZH1T)の色・サイズ違い"
+    },
+    "B0BG5FJ33T": {
+     "title": "Anker Eufy Smart Scale P2 Pro",
+     "reason": "掲載済みASINと同一親ASIN(B0C9SX4YNC)の色・サイズ違い"
+    }
+   }
+  },
+  "2026-10-16": {
+   "theme": "集中を守る。ノイズキャンセリングヘッドホン",
+   "tag": "type:headphone",
+   "published": {
+    "B0GGJY5D2D": {
+     "published_date": "2026-03-19",
+     "title": "MUSICOZY スリープヘッドホン Bluetooth 5.4 ヘッドバンド ワイヤレスイヤホン 音楽スリープイヤホン",
+     "reason": "daily_gadget 2026-03-19 に掲載済み"
+    },
+    "B09Z2QYYD1": {
+     "published_date": "2026-08-06",
+     "title": "ソニー(SONY) ワイヤレスノイズキャンセリングステレオヘッドホン WH-1000XM5:【VGP殿堂入り】 / ノイ",
+     "reason": "daily_gadget 2026-08-06 に掲載済み"
+    },
+    "B0B6GHW1SX": {
+     "published_date": "2026-08-06",
+     "title": "Sennheiser ゼンハイザー MOMENTUM 4 Wireless ワイヤレスノイズキャンセリングヘッドホン -",
+     "reason": "daily_gadget 2026-08-06 に掲載済み"
+    },
+    "B0CHB31V44": {
+     "published_date": "2026-04-18",
+     "title": "JBL TOUR ONE M2 ハイブリッドノイズキャンセリング/Bluetooth対応/マルチポイント/オーバーイヤー",
+     "reason": "daily_gadget 2026-04-18 に掲載済み"
+    },
+    "B0D32WJK6L": {
+     "published_date": "2026-04-18",
+     "title": "Sonos Ace 【VGP2026 金賞】【家電批評 年間BEST BUY 2024】 完全ワイヤレス オーバーイヤー",
+     "reason": "daily_gadget 2026-04-18 に掲載済み"
+    },
+    "B0D4VMVCFX": {
+     "published_date": "2026-08-06",
+     "title": "Anker Soundcore Space One Pro (Bluetooth 5.3 ワイヤレス ヘッドホン)【最大",
+     "reason": "daily_gadget 2026-08-06 に掲載済み"
+    },
+    "B0FL2HYBGJ": {
+     "published_date": "2026-08-06",
+     "title": "Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オー",
+     "reason": "daily_gadget 2026-08-06 に掲載済み"
+    },
+    "B0CGLZJMD5": {
+     "published_date": "2026-08-06",
+     "title": "JBL TOUR ONE M2 ワイヤレス オーバーイヤー ヘッドホン リアルタイム補正 ハイブリッドノイズキャンセリン",
+     "reason": "daily_gadget 2026-08-06 に掲載済み"
+    },
+    "B0CXX8DWDG": {
+     "published_date": "2026-06-19",
+     "title": "SHANLING UA4 シャンリン 4.4mmバランス ポータブルDAC/AMP ESS ES9069Q搭載 3.5m",
+     "reason": "daily_gadget 2026-06-19 に掲載済み"
+    },
+    "B0FPGDR96T": {
+     "published_date": "2026-06-19",
+     "title": "iFi audio hip dac 3 Black IFI-HIP-DAC3-B【日本正規店より発送】アンプ ヘッドホン",
+     "reason": "daily_gadget 2026-06-19 に掲載済み"
+    },
+    "B0F77PMC1P": {
+     "published_date": "2026-08-06",
+     "title": "ソニー(SONY)WH-1000XM6 ブラック:ワイヤレスヘッドホン 世界最高クラスノイズキャンセリング Blueto",
+     "reason": "daily_gadget 2026-08-06 に掲載済み"
+    },
+    "B0BVVX5FBD": {
+     "published_date": "2026-07-23",
+     "title": "FIFINE XLR/USB接続 ダイナミックマイク ゲーミング 配信用 単一指向性 ノイズ低減 プラグ＆プレイ PC ",
+     "reason": "daily_gadget 2026-07-23 に掲載済み"
+    }
+   },
+   "same_parent_variants": {}
+  },
+  "2026-10-17": {
+   "theme": "活動量と睡眠を記録する。スマートウォッチ",
+   "tag": "type:smartwatch",
+   "published": {
+    "B0B75RC9C3": {
+     "published_date": "2026-03-03",
+     "title": "Fitbit Inspire 3 フィットネストラッカ― ミッドナイトゼン／ブラック スマートウォッチ/iPhone対応",
+     "reason": "daily_gadget 2026-03-03 に掲載済み"
+    },
+    "B0DFZPR9Z4": {
+     "published_date": "2026-08-22",
+     "title": "シャオミ(Xiaomi) スマートウォッチ Redmi Watch 5 Active 2インチ大画面ディスプレイ 18日",
+     "reason": "daily_gadget 2026-08-22 に掲載済み"
+    },
+    "B0DZHFRKQD": {
+     "published_date": "2026-08-22",
+     "title": "HUAWEI Band 10 Aluminum Edition アルミニウムケース スマートウォッチ 快適な付け心地 情",
+     "reason": "daily_gadget 2026-08-22 に掲載済み"
+    },
+    "B0DFGDW4Y3": {
+     "published_date": "2026-03-03",
+     "title": "【テストする女性誌「LDK」ベストバイ受賞】 MONOMAM Primo スマートウォッチ レディース 小さめ iPho",
+     "reason": "daily_gadget 2026-03-03 に掲載済み"
+    },
+    "B0DYF82545": {
+     "published_date": "2026-03-03",
+     "title": "Xiaomi Smart Band 10 スマートウォッチ 1.72大画面体験 21日間連続使用 輝度1500nits ",
+     "reason": "daily_gadget 2026-03-03 に掲載済み"
+    },
+    "B0DZH1XVYN": {
+     "published_date": "2026-03-03",
+     "title": "HUAWEI Band 10 スマートウォッチ 快適な付け心地 情緒モニタリング 24時間睡眠管理 14日間持続バッテリ",
+     "reason": "daily_gadget 2026-03-03 に掲載済み"
+    },
+    "B0FC28SGXF": {
+     "published_date": "2026-03-03",
+     "title": "Amazfit Active 2 Square スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ A",
+     "reason": "daily_gadget 2026-03-03 に掲載済み"
+    },
+    "B0B75W8FH2": {
+     "published_date": "2026-08-26",
+     "title": "【Suica対応】Fitbit Sense 2スマートウォッチ シャドーグレー／グラファイト iPhone対応/アンドロ",
+     "reason": "daily_gadget 2026-08-26 に掲載済み"
+    },
+    "B0C3VD828Z": {
+     "published_date": "2026-05-04",
+     "title": "ガーミン(GARMIN) Instinct 2X Dual Power Moss タフネスGPSスマートウォッチ Sui",
+     "reason": "daily_gadget 2026-05-04 に掲載済み"
+    },
+    "B0DZGZSVYR": {
+     "published_date": "2026-05-04",
+     "title": "HUAWEI Band 10 スマートウォッチ 快適な付け心地 情緒モニタリング 24時間睡眠管理 14日間持続バッテリ",
+     "reason": "daily_gadget 2026-05-04 に掲載済み"
+    },
+    "B0F1XCKZYW": {
+     "published_date": "2026-08-22",
+     "title": "Amazfit Bip 6 スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡",
+     "reason": "daily_gadget 2026-08-22 に掲載済み"
+    },
+    "B0BY37JNXX": {
+     "published_date": "2026-08-14",
+     "title": "スント(SUUNTO) スント バーティカル(SUUNTO VERTICAL) BLACK LIME 長時間バッテリー ",
+     "reason": "daily_gadget 2026-08-14 に掲載済み"
+    },
+    "B0DDCR5WYQ": {
+     "published_date": "2026-08-14",
+     "title": "ガーミン(GARMIN) フラッグシップモデル fenix 8 Sapphire AMOLED 47mm Ti Carb",
+     "reason": "daily_gadget 2026-08-14 に掲載済み"
+    },
+    "B0DGQ9S3GQ": {
+     "published_date": "2026-08-14",
+     "title": "Amazfit T-Rex 3 48mm スマートウォッチ 登山 ヤマレコ ヤマップ アウトドア iPhone Andr",
+     "reason": "daily_gadget 2026-08-14 に掲載済み"
+    },
+    "B0CJB8RYWK": {
+     "published_date": "2026-08-28",
+     "title": "【Suica対応】Fitbit Charge 6 トラッカー オブシディアン／ブラック スマートウォッチ/防水/iPho",
+     "reason": "daily_gadget 2026-08-28 に掲載済み"
+    },
+    "B0DPWHD2DM": {
+     "published_date": "2026-08-22",
+     "title": "Samsung Galaxy Fit3｜グレー｜スマートウォッチ｜Samsung純正 国内正規品｜2025年発売｜バッテ",
+     "reason": "daily_gadget 2026-08-22 に掲載済み"
+    },
+    "B0CGJDW7T6": {
+     "published_date": "2026-08-26",
+     "title": "GARMIN(ガーミン) Venu 3 Black/Slate AMOLEDディスプレイ搭載 美麗液晶スマートウォッチ ",
+     "reason": "daily_gadget 2026-08-26 に掲載済み"
+    },
+    "B0BWF14TBL": {
+     "published_date": "2026-08-31",
+     "title": "GARMIN（ガーミン）GPSランニングウォッチ Forerunner 265 Music Black 【日本正規品】",
+     "reason": "daily_gadget 2026-08-31 に掲載済み"
+    },
+    "B0F5WR3KP9": {
+     "published_date": "2026-08-28",
+     "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位シス",
+     "reason": "daily_gadget 2026-08-28 に掲載済み"
+    },
+    "B0CFQQ9FDL": {
+     "published_date": "2026-08-30",
+     "title": "COROS（カロス）PACE 3 ランニングウォッチ スポーツウォッチ 30g超軽量 2周波高精度GPS搭載 17日間日",
+     "reason": "daily_gadget 2026-08-30 に掲載済み"
+    },
+    "B0DJGS6875": {
+     "published_date": "2026-08-30",
+     "title": "POLAR (ポラール) ヴァンテージ M3 (Polar Vantage M3) バッテリー7日間 2周波数GPS マ",
+     "reason": "daily_gadget 2026-08-30 に掲載済み"
+    },
+    "B0DZCPRYJF": {
+     "published_date": "2026-08-30",
+     "title": "スント SUUNTO RUN ランニングウォッチ AMOLEDディスプレイ 軽量 高精度GPS 心拍計 アプリ連携 体調",
+     "reason": "daily_gadget 2026-08-30 に掲載済み"
+    },
+    "B0F9L4VGQZ": {
+     "published_date": "2026-08-30",
+     "title": "GARMIN(ガーミン) GPSランニングウォッチ Forerunner 970 Black 【地図/ロングバッテリー/",
+     "reason": "daily_gadget 2026-08-30 に掲載済み"
+    },
+    "B0GX8CN73B": {
+     "published_date": "2026-08-30",
+     "title": "Amazfit Cheetah 2 Pro 48mm ランナー向け スマートウォッチ HYROX Strava Runt",
+     "reason": "daily_gadget 2026-08-30 に掲載済み"
+    }
+   },
+   "same_parent_variants": {
+    "B0B75STB24": {
+     "title": "Fitbit Inspire 3 フィットネストラッカー モーニンググロウ／ブラック スマートウォッチ/iPhone対応",
+     "reason": "掲載済みASINと同一親ASIN(B0CT8X4Z67)の色・サイズ違い"
+    },
+    "B0B75WHSGR": {
+     "title": "Fitbit Inspire 3 フィットネストラッカー ライラックブリス／ブラック スマートウォッチ/iPhone対応",
+     "reason": "掲載済みASINと同一親ASIN(B0CT8X4Z67)の色・サイズ違い"
+    },
+    "B0B75WWC8F": {
+     "title": "【Suica対応】Fitbit Sense 2スマートウォッチ ブルーミスト／ソフトゴールド iPhone対応/アンドロ",
+     "reason": "掲載済みASINと同一親ASIN(B0BFZSTCV2)の色・サイズ違い"
+    }
+   }
+  },
+  "2026-10-18": {
+   "theme": "作業中のBGMを流す。Bluetoothスピーカー",
+   "tag": "type:speaker",
+   "published": {
+    "B0DCVH2LH6": {
+     "published_date": "2026-09-20",
+     "title": "Aladdin X2 Light プロジェクター 700 ANSIルーメン フルHD Harman Kardonスピーカ",
+     "reason": "daily_gadget 2026-09-20 に掲載済み"
+    },
+    "B08CXJ3HMF": {
+     "published_date": "2026-03-17",
+     "title": "Anker Soundcore 3 Bluetoothスピーカー IPX7防水/24時間再生/デュアルドライバー",
+     "reason": "daily_gadget 2026-03-17 に掲載済み"
+    },
+    "B0C3Q65R9P": {
+     "published_date": "2026-03-17",
+     "title": "ソニー SONY ワイヤレスポータブルスピーカー SRS-XB100 IP67防水防塵/最大16時間再生/ストラップ内蔵",
+     "reason": "daily_gadget 2026-03-17 に掲載済み"
+    },
+    "B0CZDP1V8S": {
+     "published_date": "2026-03-17",
+     "title": "JBL GO 4 Bluetoothスピーカー IP67防水防塵/最大7時間再生/超コンパクト",
+     "reason": "daily_gadget 2026-03-17 に掲載済み"
+    },
+    "B0CZTTF16G": {
+     "published_date": "2026-03-17",
+     "title": "JBL CLIP 5 Bluetoothスピーカー IP67防水防塵/最大12時間再生/ポータブル/カラビナ付",
+     "reason": "daily_gadget 2026-03-17 に掲載済み"
+    },
+    "B0CBF1BVXH": {
+     "published_date": "2026-05-01",
+     "title": "LITSPED 目覚まし時計 光 目覚ましライト Wake Up Light Bluetoothスピーカー 日出 RGB",
+     "reason": "daily_gadget 2026-05-01 に掲載済み"
+    },
+    "B0B49DJ74K": {
+     "published_date": "2026-05-15",
+     "title": "iieco 多機能 卓上アロマディフューザー bluetooth スピーカー 目覚まし時計 ルームライト 超音波式 静音",
+     "reason": "daily_gadget 2026-05-15 に掲載済み"
+    },
+    "B0CQQ29K2W": {
+     "published_date": "2026-05-26",
+     "title": "Google Nest Mini本体 第2世代 小さくても便利なスマートスピーカー Googleアシスタント 声だけで家",
+     "reason": "daily_gadget 2026-05-26 に掲載済み"
+    },
+    "B0DXFC2WC9": {
+     "published_date": "2026-07-10",
+     "title": "Xiaomi Pad 7 8G+128G ブルー 3.2K 144Hz高精細ディスプレイ 800nits Snapdra",
+     "reason": "daily_gadget 2026-07-10 に掲載済み"
+    },
+    "B0GR4VMWQF": {
+     "published_date": "2026-06-09",
+     "title": "Dell U4025QW 39.7インチ 曲面Thunderboltハブ モニター(無輝点3年保証/WUHD/IPS B",
+     "reason": "daily_gadget 2026-06-09 に掲載済み"
+    },
+    "B07GC4CJ8Y": {
+     "published_date": "2026-06-16",
+     "title": "Bose Smart Speaker 500 スマートスピーカー Bluetooth, Wi-Fi接続 マイク付 タッチ",
+     "reason": "daily_gadget 2026-06-16 に掲載済み"
+    },
+    "B085R7TSN6": {
+     "published_date": "2026-06-16",
+     "title": "バング・アンド・オルフセン (Bang & Olufsen) ポータブルスピーカー Beosound A1 2nd Bl",
+     "reason": "daily_gadget 2026-06-16 に掲載済み"
+    },
+    "B0B1QPMNYR": {
+     "published_date": "2026-06-16",
+     "title": "Marshall ワイヤレススピーカー Bluetoothスピーカー ACTON III BLACK (ブラック) 【国",
+     "reason": "daily_gadget 2026-06-16 に掲載済み"
+    },
+    "B0BXPHJR47": {
+     "published_date": "2026-06-30",
+     "title": "Sonos Era 300 【VGP2026 SUMMER 受賞】 Dolby Atmos 空間オーディオ対応 スマート",
+     "reason": "daily_gadget 2026-06-30 に掲載済み"
+    },
+    "B0BXSVN86C": {
+     "published_date": "2026-06-16",
+     "title": "Anker Soundcore Motion X600 Bluetoothスピーカー【空間オーディオ/ハイレゾ音源再生 ",
+     "reason": "daily_gadget 2026-06-16 に掲載済み"
+    },
+    "B0CL4GY3KB": {
+     "published_date": "2026-06-16",
+     "title": "JBL AUTHENTICS 300 オーセンティックス 300 Wi-Fi Bluetoothスピーカー 自動音質補正",
+     "reason": "daily_gadget 2026-06-16 に掲載済み"
+    },
+    "B0D5HS9YK1": {
+     "published_date": "2026-08-21",
+     "title": "Bose SoundLink Max Portable Speaker 大型 Bluetooth ポータブル スピーカー",
+     "reason": "daily_gadget 2026-08-21 に掲載済み"
+    },
+    "B0DFHH1N33": {
+     "published_date": "2026-06-23",
+     "title": "Marshall ワイヤレスポータブル防水スピーカー Emberton III ブラック&ブラス 連続再生32時間/IP",
+     "reason": "daily_gadget 2026-06-23 に掲載済み"
+    },
+    "B0DQ59DMNP": {
+     "published_date": "2026-06-23",
+     "title": "Anker Soundcore Motion X600 Bluetoothスピーカー【空間オーディオ/ハイレゾ音源再生 ",
+     "reason": "daily_gadget 2026-06-23 に掲載済み"
+    },
+    "B0F1MZ88ML": {
+     "published_date": "2026-06-23",
+     "title": "JBL CHARGE 6 / ポータブルスピーカー/Bluetooth対応 / IP68 防塵防水/USB-C/アプリ対",
+     "reason": "daily_gadget 2026-06-23 に掲載済み"
+    },
+    "B0F32D3NPX": {
+     "published_date": "2026-06-23",
+     "title": "ソニー(SONY) ULT FIELD 3 Bluetoothスピーカー パワフル重低音 クリアなボーカル ロングバッテ",
+     "reason": "daily_gadget 2026-06-23 に掲載済み"
+    },
+    "B0FFS2ZTNP": {
+     "published_date": "2026-06-23",
+     "title": "バング・アンド・オルフセン (Bang & Olufsen) ポータブルスピーカー Beosound A1 3rd Ge",
+     "reason": "daily_gadget 2026-06-23 に掲載済み"
+    },
+    "B087QNRXWT": {
+     "published_date": "2026-06-25",
+     "title": "【TBSテレビ「がっちりマンデー」で紹介】【anan掲載】 睡眠 安眠 快眠 不眠 睡眠グッズ 安眠グッズ 快眠グッズ ",
+     "reason": "daily_gadget 2026-06-25 に掲載済み"
+    },
+    "B094VD37YW": {
+     "published_date": "2026-06-25",
+     "title": "Dreamegg ホワイトノイズマシン ナイトライト 睡眠の質向上 【24種癒し音×32段階音量調節×イヤホン対応】タイ",
+     "reason": "daily_gadget 2026-06-25 に掲載済み"
+    },
+    "B0DR2PNSBN": {
+     "published_date": "2026-08-21",
+     "title": "Anker Soundcore Boom 2 Pro bluetooth スピーカー【最大140W出力 / IP68 防",
+     "reason": "daily_gadget 2026-08-21 に掲載済み"
+    },
+    "B0D13TBD9B": {
+     "published_date": "2026-08-16",
+     "title": "ソニー(SONY) ワイヤレススピーカー SRS-ULT10 :防水 IP67/ ULT FIELD 1/パワフル重低音",
+     "reason": "daily_gadget 2026-08-16 に掲載済み"
+    },
+    "B0F1MZJTB7": {
+     "published_date": "2026-08-31",
+     "title": "JBL FLIP 7 / ポータブルスピーカー/Bluetooth対応 / IP68 防塵防水/USB-C/アプリ対応/",
+     "reason": "daily_gadget 2026-08-31 に掲載済み"
+    },
+    "B0BB17YBC3": {
+     "published_date": "2026-08-21",
+     "title": "JBL BOOMBOX 3 Bluetoothスピーカー IP67防塵水/3way 5スピーカー/ ブラック JBLBO",
+     "reason": "daily_gadget 2026-08-21 に掲載済み"
+    },
+    "B0D145NHH1": {
+     "published_date": "2026-08-21",
+     "title": "ソニー(SONY) ワイヤレススピーカー SRS-ULT70 :防水 IP67/ ULT FIELD 7/パワフル重低音",
+     "reason": "daily_gadget 2026-08-21 に掲載済み"
+    },
+    "B0F96FWCDF": {
+     "published_date": "2026-08-21",
+     "title": "Marshall ワイヤレスポータブルスピーカー Kilburn III ブラック&ブラス 連続再生50時間/IP54防",
+     "reason": "daily_gadget 2026-08-21 に掲載済み"
+    },
+    "B0F9L4VGQZ": {
+     "published_date": "2026-08-30",
+     "title": "GARMIN(ガーミン) GPSランニングウォッチ Forerunner 970 Black 【地図/ロングバッテリー/",
+     "reason": "daily_gadget 2026-08-30 に掲載済み"
+    },
+    "B0GD5JXCLC": {
+     "published_date": "2026-09-10",
+     "title": "【カーナビ・音楽・動画】VANBAR 超薄型設計 8.1インチ ポータブルディスプレイオーディオ タッチパネル Appl",
+     "reason": "daily_gadget 2026-09-10 に掲載済み"
+    },
+    "B0GCZXVHLW": {
+     "published_date": "2026-09-13",
+     "title": "プロジェクター 家庭用 小型【2026業界注目 Android TV 14・HDR高ダイナミック画質】30000LM 天",
+     "reason": "daily_gadget 2026-09-13 に掲載済み"
+    },
+    "B0GTYWMCN2": {
+     "published_date": "2026-09-13",
+     "title": "プロジェクター4K【公式Google TV＆1200ASNI高輝度】 プロジェクター 家庭用［オートフォーカス＆自動台形",
+     "reason": "daily_gadget 2026-09-13 に掲載済み"
+    },
+    "B0D1N3DTG9": {
+     "published_date": "2026-09-16",
+     "title": "ソニー(SONY) サウンドバー HT-A9000 BRAVIA Theatre Bar9【Dolby Atmos・DT",
+     "reason": "daily_gadget 2026-09-16 に掲載済み"
+    },
+    "B0DFMCKCTW": {
+     "published_date": "2026-09-20",
+     "title": "JMGO PicoFlix コンパクトモバイルプロジェクター【Google TV搭載/Netflix公式APP使用可 /",
+     "reason": "daily_gadget 2026-09-20 に掲載済み"
+    }
+   },
+   "same_parent_variants": {
+    "B0GD12KTVG": {
+     "title": "プロジェクター 家庭用 小型【2026業界注目 Android TV 14・HDR高ダイナミック画質】33000LM 天",
+     "reason": "掲載済みASINと同一親ASIN(B0HHWR7S1R)の色・サイズ違い"
+    },
+    "B0936D3NVM": {
+     "title": "ソニー ポータブルスピーカー SRS-XB13",
+     "reason": "掲載済みASINと同一親ASIN(B0DNYFVGKV)の色・サイズ違い"
+    },
+    "B0CZDCWM48": {
+     "title": "JBL GO4 Bluetoothスピーカー",
+     "reason": "掲載済みASINと同一親ASIN(B0CZXYT6GZ)の色・サイズ違い"
+    },
+    "B0CZD87HWR": {
+     "title": "JBL GO4 Bluetoothスピーカー USB C充電/IP67防塵防水/アプリ対応/パッシブラジエーター搭載/ポ",
+     "reason": "掲載済みASINと同一親ASIN(B0CZXYT6GZ)の色・サイズ違い"
+    },
+    "B07MGWM3V3": {
+     "title": "Dreamegg ホワイトノイズマシン ナイトライト 睡眠の質向上 【24種癒し音×32段階音量×イヤホン対応】 タイマ",
+     "reason": "掲載済みASINと同一親ASIN(B0GFWBY5DV)の色・サイズ違い"
+    }
+   }
+  },
+  "2026-10-19": {
+   "theme": "写真を手元に残す。スマホ対応プリンター",
+   "tag": "type:photo_printer",
+   "published": {
+    "B09HZKZFKJ": {
+     "published_date": "2026-02-27",
+     "title": "FUJIFILM instax Link WIDE",
+     "reason": "daily_gadget 2026-02-27 に掲載済み"
+    },
+    "B0DDSRDBT7": {
+     "published_date": "2026-02-27",
+     "title": "FUJIFILM instax mini Link 3",
+     "reason": "daily_gadget 2026-02-27 に掲載済み"
+    }
+   },
+   "same_parent_variants": {}
+  },
+  "2026-10-20": {
+   "theme": "手書きメモをデータに残す。電子ノート・スマートペン",
+   "tag": "type:digital_notebook",
+   "published": {
+    "B0CZ9SM25P": {
+     "published_date": "2026-01-14",
+     "title": "Kindle Scribe (10.2インチ, ノート機能付き)",
+     "reason": "daily_gadget 2026-01-14 に掲載済み"
+    },
+    "B0DHGDV8F8": {
+     "published_date": "2026-01-14",
+     "title": "BOOX Note Air 4 C (10.3インチ, カラーE Ink)",
+     "reason": "daily_gadget 2026-01-14 に掲載済み"
+    },
+    "B0F15K3S3H": {
+     "published_date": "2026-01-14",
+     "title": "iFLYTEK AINOTE Air 2 (8.2インチ, 携帯性重視)",
+     "reason": "daily_gadget 2026-01-14 に掲載済み"
+    },
+    "B0FNRLQGY1": {
+     "published_date": "2026-01-14",
+     "title": "VIWOODS AiPaper Carta 1300 (10.65インチ, 紙の質感重視)",
+     "reason": "daily_gadget 2026-01-14 に掲載済み"
+    },
+    "B0FYDSPDSW": {
+     "published_date": "2026-01-14",
+     "title": "iFLYTEK AINOTE 2 (10.65インチ, AI搭載)",
+     "reason": "daily_gadget 2026-01-14 に掲載済み"
+    },
+    "B0FDKSL6QW": {
+     "published_date": "2026-01-31",
+     "title": "Neo Smartpen R1",
+     "reason": "daily_gadget 2026-01-31 に掲載済み"
+    },
+    "B0GLFZFQ97": {
+     "published_date": "2026-04-06",
+     "title": "Neo smartpen〈書いてデジタル〉ネオスマートペン M1＋ エムワンプラス スマホと即連動 [Type-Cリニュ",
+     "reason": "daily_gadget 2026-04-06 に掲載済み"
+    },
+    "B0CZ9SX1GW": {
+     "published_date": "2026-06-30",
+     "title": "Kindle Scribe Notebook Design - 10.2インチディスプレイ、64GBストレージ、ノート機",
+     "reason": "daily_gadget 2026-06-30 に掲載済み"
+    },
+    "B00524DLZ0": {
+     "published_date": "2026-04-06",
+     "title": "Livescribe 2 GB Echo Smartpen - APX-00008",
+     "reason": "daily_gadget 2026-04-06 に掲載済み"
+    },
+    "B07ZHZFZG8": {
+     "published_date": "2026-06-20",
+     "title": "Rocketbook 再利用可能デジタルノートブック - スマートメモ帳 A5 オレンジ ワイヤー綴じノート To Do",
+     "reason": "daily_gadget 2026-06-20 に掲載済み"
+    },
+    "B09G6CW53M": {
+     "published_date": "2026-04-06",
+     "title": "【LAMY × Neo smartpen】〈書いてデジタル〉LAMY safari all black ncode ラミ",
+     "reason": "daily_gadget 2026-04-06 に掲載済み"
+    },
+    "B0F7LLXBWS": {
+     "published_date": "2026-05-23",
+     "title": "NEWYES sync pen 4 電子ノート スマートペン 手書きメモ即デジタル化 電子メモパッド インク消せる 電子",
+     "reason": "daily_gadget 2026-05-23 に掲載済み"
+    },
+    "B0CCV6XVX6": {
+     "published_date": "2026-05-23",
+     "title": "Ophaya smartpen スマートペン 電子ノート ライティングセット ペーパーノートのデジタル化 電子メモパッド",
+     "reason": "daily_gadget 2026-05-23 に掲載済み"
+    },
+    "B0F13GMDWS": {
+     "published_date": "2026-04-08",
+     "title": "【XPPen新登場】タブレット 手書き ノート 11インチ 充電不要 X3 Proペン付 16384筆圧 カラーノートパ",
+     "reason": "daily_gadget 2026-04-08 に掲載済み"
+    },
+    "B00MGCE2VS": {
+     "published_date": "2026-05-23",
+     "title": "コクヨ デジタルノート CamiApp S メモパッドタイプ Android版 替芯付タイプ NST-CAS-PA5-A",
+     "reason": "daily_gadget 2026-05-23 に掲載済み"
+    },
+    "B01KUH0CE6": {
+     "published_date": "2026-05-23",
+     "title": "ワコム Wacom Bamboo Slate S A5対応 ミディアムグレー スマートパッド 電子ノート ボールペンで紙",
+     "reason": "daily_gadget 2026-05-23 に掲載済み"
+    },
+    "B07ZHYZ32M": {
+     "published_date": "2026-05-23",
+     "title": "Rocketbook Fusion Smart Reusable Notebook - Calendar, To-Do ",
+     "reason": "daily_gadget 2026-05-23 に掲載済み"
+    },
+    "B0DP3HZX4D": {
+     "published_date": "2026-05-31",
+     "title": "Rocketbook New Core 再利用可能スパイラルノート エグゼクティブサイズ 6x8.8 ネイビーブルー -",
+     "reason": "daily_gadget 2026-05-31 に掲載済み"
+    },
+    "B0DWMVW8RS": {
+     "published_date": "2026-07-17",
+     "title": "iFLYTEK AINOTE Air 2 電子ノート 8.2インチ E-Ink タブレット ChatGPT連携 音声文字",
+     "reason": "daily_gadget 2026-07-17 に掲載済み"
+    },
+    "B0DX1TFTY1": {
+     "published_date": "2026-09-21",
+     "title": "iFLYTEK AINOTE Air 2 電子ノート 8.2インチ E-Ink タブレット 黒色保護ケース付き Chat",
+     "reason": "daily_gadget 2026-09-21 に掲載済み"
+    },
+    "B0FY2Q49WD": {
+     "published_date": "2026-09-21",
+     "title": "iFLYTEK AINOTE 2 電子ノート 10.65インチ 超薄型4.2mm E-Ink タブレット ChatGPT",
+     "reason": "daily_gadget 2026-09-21 に掲載済み"
+    }
+   },
+   "same_parent_variants": {
+    "B0FHGXG7SN": {
+     "title": "iFLYTEK AINOTE Air 2 電子ノート ChatGPT搭載 手書きタブレット 紺色保護ケース付き 音声文字",
+     "reason": "掲載済みASINと同一親ASIN(B0G6Z3WYB3)の色・サイズ違い"
+    },
+    "B0DYV8YZZT": {
+     "title": "NEWYES SyncPen3 スマートペン 電子ノート リアルタイム即デジタル化 デジタルパッドセット 66言語対応 ",
+     "reason": "掲載済みASINと同一親ASIN(B0FCXSC8V6)の色・サイズ違い"
+    }
+   }
+  },
+  "2026-10-21": {
+   "theme": "出先で画面を増やす。モバイルモニター",
+   "tag": "type:mobile_monitor",
+   "published": {
+    "B0FB37MB8K": {
+     "published_date": "2026-05-07",
+     "title": "ASUS ポータブルモニター/ZenScreen MB169CK-J/ポータブルUSBモニター -15.6インチ / フ",
+     "reason": "daily_gadget 2026-05-07 に掲載済み"
+    }
+   },
+   "same_parent_variants": {}
+  }
+ }
+}
