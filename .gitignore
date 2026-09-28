@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 temp_products.json
 .venv/
+
+# Local Amazon Deals Hub source registrations (Amazon Confidential)
+06_research/_sources/deals_hub_*.md
