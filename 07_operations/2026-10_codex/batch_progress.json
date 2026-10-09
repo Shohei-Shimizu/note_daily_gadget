@@ -1,0 +1,129 @@
+{
+  "account": "daily_gadget",
+  "sample_approved": true,
+  "scheduling_authorized": true,
+  "dates": [
+    {
+      "date": "2026-10-18",
+      "status": "reserved",
+      "note_url": "https://note.com/daily_gadget/n/n2171e481fe50"
+    },
+    {
+      "date": "2026-10-19",
+      "status": "reserved",
+      "note_url": "https://note.com/daily_gadget/n/n217f570ba2d9"
+    },
+    {
+      "date": "2026-10-20",
+      "status": "writing",
+      "note_url": ""
+    },
+    {
+      "date": "2026-10-21",
+      "status": "article_qa",
+      "note_url": ""
+    },
+    {
+      "date": "2026-10-22",
+      "status": "writing",
+      "note_url": ""
+    },
+    {
+      "date": "2026-10-23",
+      "status": "research_pending",
+      "note_url": ""
+    },
+    {
+      "date": "2026-10-24",
+      "status": "research_pending",
+      "note_url": ""
+    },
+    {
+      "date": "2026-10-25",
+      "status": "research_pending",
+      "note_url": ""
+    },
+    {
+      "date": "2026-10-26",
+      "status": "research_pending",
+      "note_url": ""
+    },
+    {
+      "date": "2026-10-27",
+      "status": "research_pending",
+      "note_url": ""
+    },
+    {
+      "date": "2026-10-28",
+      "status": "research_pending",
+      "note_url": ""
+    },
+    {
+      "date": "2026-10-29",
+      "status": "research_pending",
+      "note_url": ""
+    },
+    {
+      "date": "2026-10-30",
+      "status": "research_pending",
+      "note_url": ""
+    },
+    {
+      "date": "2026-10-31",
+      "status": "research_pending",
+      "note_url": ""
+    }
+  ],
+  "publish_time": "20:00",
+  "timezone": "Asia/Tokyo",
+  "parallel_team": {
+    "integration": "main",
+    "writer_a": {
+      "worktree": "/private/tmp/daily-gadget-202610-writer-a",
+      "dates": [
+        18,
+        21,
+        22,
+        23,
+        25,
+        29,
+        30
+      ]
+    },
+    "writer_b": {
+      "worktree": "/private/tmp/daily-gadget-202610-writer-b",
+      "dates": [
+        19,
+        20,
+        24,
+        26,
+        27,
+        28,
+        31
+      ],
+      "currently": "writing"
+    },
+    "images": {
+      "worktree": "/private/tmp/daily-gadget-202610-images",
+      "dates": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    "base_account_sha": "dab8a28ff19bd37f36b0586afef1d148cf9dcbbd",
+    "shared_ui_editor": "main",
+    "measurement_writer": "main"
+  }
+}
