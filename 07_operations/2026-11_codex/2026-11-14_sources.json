@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-14",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B0DG2QKMFX",
+      "official_urls": [
+        "https://ringconn.com/products/ringconn-gen-2"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DG2QKMFX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-14_smart_ring_candidates.json",
+        "path": "candidates[asin=B0DG2QKMFX].features"
+      },
+      "verified_article_specs": [
+        "外装素材：チタン合金",
+        "幅・厚み：6.8mm・2mm",
+        "重量：2〜3g（サイズによる）",
+        "駆動時間：10〜12日（使用条件による）",
+        "対応OS：iOS 17以降／Android 10以降"
+      ],
+      "model_notes": "RingConnはGen2本体公式のFuture Silverとサイズ10に対応。キット案内は本体の事前サイズ確認。最終Amazon GUIの本体SKUは主担当が入稿時に照合する。Gen2 AirやGen3仕様を転用しない。現行対応OS17/10を使用し旧14/8を転用しない。",
+      "amazon_gui_identity_gate": "pending_main_task"
+    },
+    {
+      "order": 2,
+      "asin": "B0D9WT1S2T",
+      "official_urls": [
+        "https://support.ouraring.com/hc/en-us/articles/33045011508115-Oura-Ring-4",
+        "https://support.ouraring.com/hc/en-us/articles/360058634153-Set-Up-the-Oura-App",
+        "https://ouraring.com/ja/membership"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D9WT1S2T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-14_smart_ring_candidates.json",
+        "path": "candidates[asin=B0D9WT1S2T].features"
+      },
+      "verified_article_specs": [
+        "素材：チタン（内側・外側）",
+        "幅・厚み：7.9mm・2.88mm",
+        "駆動時間：通常5〜8日（設定・サイズなどによる）",
+        "対応OS：iOS 16以降／Android 11以降",
+        "詳細機能：Ouraメンバーシップ対象"
+      ],
+      "model_notes": "Oura4はキット説明がFeaturesに混入しているが本体候補。詳細機能にはメンバーシップが必要。日本料金は月999円/年11800円を公式で確認したが本文に価格数値は掲載しない。通常5〜8日はサイズ/設定/経年などで変動。"
+    },
+    {
+      "order": 3,
+      "asin": "B0F59W7RGH",
+      "official_urls": [
+        "https://support.soxai.co.jp/hc/ja/articles/12484075980303-製品仕様",
+        "https://support.soxai.co.jp/hc/ja/articles/12776654176911-SOXAI-RINGアプリの更新"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0F59W7RGH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-14_smart_ring_candidates.json",
+        "path": "candidates[asin=B0F59W7RGH].features"
+      },
+      "verified_article_specs": [
+        "外装素材：チタン",
+        "通信：Bluetooth Low Energy 5.0",
+        "駆動時間：最大9日（サイズ・使用状況による理論値）",
+        "充電時間：通常60〜120分",
+        "アプリ：SOXAI RINGアプリ"
+      ],
+      "model_notes": "SOXAI1.1のBLE4.0は誤抽出で、公式BLE5.0に訂正。最大9日はサイズ/使用による理論値。後継2のサイズ・日数を転用しない。公式に非医療機器と明記。"
+    },
+    {
+      "order": 4,
+      "asin": "B0H4RH1L21",
+      "official_urls": [
+        "https://support.soxai.co.jp/hc/ja/articles/14555366416143-製品仕様",
+        "https://soxai.co.jp/products/soxai-ring-2"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0H4RH1L21?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-14_smart_ring_candidates.json",
+        "path": "candidates[asin=B0H4RH1L21].features"
+      },
+      "verified_article_specs": [
+        "外装素材：チタン合金",
+        "選択候補：シルバー・22号",
+        "駆動時間：最大15日（20〜26号・省電力モード時の理論値）",
+        "充電時間：最大約2時間",
+        "充電ケーブル：別途用意"
+      ],
+      "model_notes": "SOXAI2最大15日は2026-08-19更新の20〜26号・省電力モードの理論値。採用品22号だが通常設定の15日を保証しない。1.1のキットと互換にしない。ケーブル別途必要。"
+    },
+    {
+      "order": 5,
+      "asin": "B0DJNVNVP2",
+      "official_urls": [
+        "https://www.amazfit.jp/products/amazfit-helioring",
+        "https://www.amazfit.jp/blogs/news/helio-ring"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DJNVNVP2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-14_smart_ring_candidates.json",
+        "path": "candidates[asin=B0DJNVNVP2].features"
+      },
+      "verified_article_specs": [
+        "サイズ・重量：US10・3.75g",
+        "幅・厚み：8mm・2.6mm",
+        "充電方法：ワイヤレス充電",
+        "アプリ：Zepp（タブレット未対応）",
+        "対応OS：iOS 14以降／Android 7以降"
+      ],
+      "model_notes": "Helioは国内公式US10の重量3.75g、幅8/厚さ2.6mm。最大4日/試験条件の細部は本文に不採用。発売告知サブスク不要と現行商品ページZepp Aura有料注記の食い違いがあるため全機能無料とは書かず追加サービス条件確認を案内。"
+    }
+  ],
+  "research_notes": [
+    "採用5品の順序・URL・機械基準メモを維持。本文にレビュー数値や口コミ原文を使用しない。",
+    "RingConnはGen2本体公式のFuture Silverとサイズ10に対応。キット案内は本体の事前サイズ確認。最終Amazon GUIの本体SKUは主担当が入稿時に照合する。Gen2 AirやGen3仕様を転用しない。現行対応OS17/10を使用し旧14/8を転用しない。",
+    "Oura4はキット説明がFeaturesに混入しているが本体候補。詳細機能にはメンバーシップが必要。日本料金は月999円/年11800円を公式で確認したが本文に価格数値は掲載しない。通常5〜8日はサイズ/設定/経年などで変動。",
+    "SOXAI1.1のBLE4.0は誤抽出で、公式BLE5.0に訂正。最大9日はサイズ/使用による理論値。後継2のサイズ・日数を転用しない。公式に非医療機器と明記。",
+    "SOXAI2最大15日は2026-08-19更新の20〜26号・省電力モードの理論値。採用品22号だが通常設定の15日を保証しない。1.1のキットと互換にしない。ケーブル別途必要。",
+    "SOXAIアプリFAQのiOS12/Android6は旧アプリと現行アプリの文脈を分離できないので本文に最低OS数値を掲載せず、最新端末条件の購入前確認に留める。無料ダウンロードと全機能永久無料を同一視しない。",
+    "Helioは国内公式US10の重量3.75g、幅8/厚さ2.6mm。最大4日/試験条件の細部は本文に不採用。発売告知サブスク不要と現行商品ページZepp Aura有料注記の食い違いがあるため全機能無料とは書かず追加サービス条件確認を案内。",
+    "全モデルで診断/治療/改善効果を断言せず、記録と傾向確認の用途に限定。IP68/10ATMから潜水用途を推測しない。"
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n236dd21b2c06",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/ne0c134563e5c",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n106fe0a6041f",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "article_evidence_gate_passed": true,
+  "official_gate_passed": false,
+  "ui_gate": "not_performed",
+  "required_ui_identity_check": {
+    "asin": "B0DG2QKMFX",
+    "check": "Amazon GUIでGen2本体・シルバー・サイズ10を確認（キット単体でないこと）",
+    "owner": "main_task_before_publication"
+  },
+  "unresolved_omitted_specs": [
+    "SOXAI現行アプリ最低OS数値",
+    "Helio追加サービス費用/全機能無料の断定",
+    "Helio最大4日の試験条件数値",
+    "RingConn国内当該SKUの最終GUI同定は未実施"
+  ],
+  "official_specification_gate_passed": true,
+  "official_gate_pending_reason": "RingConn当該ASINの本体SKU最終GUI確認は主担当が入稿前に実施"
+}
