@@ -1,0 +1,1029 @@
+{
+  "date": "2026-11-27",
+  "topic_id": "daily_gadget_20261127_f633f513",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 24,
+  "parent_groups": {
+    "B09ZQNQ69V": [
+      "B09XF3HRGW",
+      "B09XF23WY2"
+    ],
+    "B0D1FYCHVR": [
+      "B07KKC7M1Q"
+    ],
+    "B08WWY7RJW": [
+      "B08MJR93YJ"
+    ],
+    "B0CH4HQGHB": [
+      "B09Z9X46PW"
+    ],
+    "B0CZTHX9VZ": [
+      "B08LG1JS2M",
+      "B08LGK55H8"
+    ],
+    "B0963VNSP8": [
+      "B0963VVG77"
+    ],
+    "B0GYCPBV45": [
+      "B0GD7KC1QZ"
+    ],
+    "B096Y945HR": [
+      "B096Y945HR"
+    ],
+    "B0DSGGJLCC": [
+      "B0CZ3L2DKP"
+    ],
+    "B0GZLHDHG8": [
+      "B0FM3NXDVN"
+    ],
+    "B0BXPNWNQD": [
+      "B09LTPW2P5"
+    ],
+    "B089GR4CVK": [
+      "B0821D2TVV"
+    ],
+    "B0D7HC65Y6": [
+      "B0D7HC65Y6"
+    ],
+    "B077XHJPHF": [
+      "B077XHJPHF"
+    ],
+    "B0H2D43PM6": [
+      "B0GZNK7T45"
+    ],
+    "B09X2NFLM7": [
+      "B082PWV4L7"
+    ],
+    "B08JM1NWGL": [
+      "B08JM1NWGL"
+    ],
+    "B0HFRBBL68": [
+      "B09KGQFPL2"
+    ],
+    "B0FKGK6FHQ": [
+      "B09N8TVSJD"
+    ],
+    "B0BGXPXQSQ": [
+      "B0BGXPXQSQ"
+    ],
+    "B0DSFM93W1": [
+      "B0DSFRQSCX"
+    ],
+    "B0HKGMR2JF": [
+      "B0H51R1KLF"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B077XHJPHF",
+      "title": "オリジナルXiaomi LEDデスクランプ スマートリモコン 調光機能付きテーブルランプ デスクライト 携帯電話アプリコントロール 4つの照明モード ちらつきのないライト",
+      "maker": "Xiaomi",
+      "maker_source": "商品名Xiaomiからブランドを正規化。公式SKU/正規品は未確認",
+      "maker_live_verified": false,
+      "db_brand": "オリジナルXiaomi",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0785D93KD",
+      "title": "BenQ ScreenBar スクリーンバー モニター掛け式ライト [デスクライト monitor lamp モニターライト]",
+      "maker": "BenQ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "BenQ",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07KKC7M1Q",
+      "title": "アイリスオーヤマ LEDデスクライト 調色3段階 調光無段階 簡単操作 自由可動 フレキシブルアーム 角度調節可能 省エネ ホワイト PDL-101-W",
+      "maker": "IRIS OHYAMA",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "アイリスオーヤマ",
+      "historical_tier": 1,
+      "parent_asin": "B0D1FYCHVR",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-29",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-29",
+          "title": "夜の作業を快適に。目に優しい「調光・調色ライト」 6 選",
+          "asin": "B07KKC7M1Q"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0821D2TVV",
+      "title": "共同照明 クリップライト E26 デスクライト 電気スタンド クリップ式 GT-TD-BLACK LED電球対応 屋内用 スイッチ付き おしゃれ コンセント式 ブラック インテリア照明 作業ライト 読書 仕事 リビング 寝室照明",
+      "maker": "共同照明",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "共同照明",
+      "historical_tier": 2,
+      "parent_asin": "B089GR4CVK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B082PWV4L7",
+      "title": "山田照明(Yamada Shomei) Z-LIGHT LEDデスクライト 合金鋼 ブラック E26LED電球 昼白色 Z-108NB",
+      "maker": "山田照明",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B09X2NFLM7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08JM1NWGL",
+      "title": "クリップライト led デスクライト テーブルランプ LED 電気スタンド LEDブックライト 3段階調色 無段階調光 デスクライト スタンドライト テーブルランプ 譜面ライト USB充電式 記憶機能 仕事 勉強 卓上 読書灯 寝室 子供 在宅勤務",
+      "maker": "tuoleda",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "tuoleda",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08LG1JS2M",
+      "title": "アイリスオーヤマ(IRIS OHYAMA) 【置くだけでスマホ充電】 デスクライト 置くだけで充電 Qiワイヤレス充電 画面の見やすいスタンドタイプ USB給電ポート付 調色3段階 調光無段階 高演色性 LDL-QLDL-W ホワイト",
+      "maker": "IRIS OHYAMA",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "IRIS OHYAMA",
+      "historical_tier": 1,
+      "parent_asin": "B0CZTHX9VZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08LGK55H8",
+      "title": "【置くだけでスマホ充電】アイリスオーヤマ デスクライト Qiワイヤレス充電 調光4段階 高演色性 LDL-QFD-W ホワイト",
+      "maker": "IRIS OHYAMA",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0CZTHX9VZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08MJR93YJ",
+      "title": "Lepro デスクライト led 目に優しい DCアダプター付き 電気スタンド 800lm超高輝度 卓上ライト おしゃれ テーブルライト【5段階色温度・明るさ/調光調色/タッチセンサー操作/多角度調整/コンセント付き】 人気 省エネ 学習机 台灯 勉強 机 明るい ブックライト 読書灯 (ホワイト)",
+      "maker": "Lepro",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Lepro",
+      "historical_tier": 1,
+      "parent_asin": "B08WWY7RJW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08W2C5W59",
+      "title": "Xiaomi Miモニター掛け式ライト USB Type-Cポート デスクライト 非対称な配光 反射防止 Ra95高演色 マグネットで回転 メタルボディ 2.4GHzワイヤレスリモコン 色温度と輝度無段階調整 湾曲モニター対応 省スペース 仕事/エンターテイメント/デザイン作業/勉強",
+      "maker": "Xiaomi",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Xiaomi",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08WT889V3",
+      "title": "BenQ ScreenBar Halo モニターライト スクリーンバー ハロー USBライト デスクライト [無線リモコン 自動調光 間接照明モード 高演色性]",
+      "maker": "BenQ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "BenQ",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B094NCN8CG",
+      "title": "OOWOLF モニターライト バー パソコンライト 3段階調色 無段階調光 背面ライト付き Ra95+ 高演色 目に優しい 記憶機能 USB給電 モニタ掛け式 デスクライト 在宅勤務/pc作業/勉強/ゲーミング タッチ式 41cm",
+      "maker": "OOWOLF",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "OOWOLF",
+      "historical_tier": 1,
+      "parent_asin": "B0GWQSD4XJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0963VVG77",
+      "title": "Lepro デスクライト led 目に優しい 電気スタンド DCアダプター付き 明るさ700ルーメン スタンドライト 卓上ライト おしゃれ 【5段階色温度・明るさ/タッチセンサー操作/照明とデバイス充電を両立/多角度調整/コンセント付き】 卓上 勉強",
+      "maker": "Lepro",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0963VNSP8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B096Y945HR",
+      "title": "【2026年最新改良】SATADA クリップ ライト デスクライト コードレス 目に優しい 明るい デスクスタンドライト led 卓上ライト ブックライト 読書灯 三段階調色 無段階調光 USB充電",
+      "maker": "SATADA",
+      "maker_source": "商品名SATADA。年次宣伝文字列を除去",
+      "maker_live_verified": false,
+      "db_brand": "2026年最新改良】SATADA",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09KGQFPL2",
+      "title": "オーム電機 LEDデスクランプ デスクライト 学習スタンド 昼白色 ブラウン木目調 DS-LS20-T 06-3831 OHM",
+      "maker": "オーム電機",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HFRBBL68",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09LTPW2P5",
+      "title": "オーム電機 LEDクリップライト ホワイト 昼白色 LED スタイリッシュ 細身 おしゃれ デスクライト 机 読書灯 学習スタンド デスクランプ 白 LTC-LC36-W 06-0985 OHM",
+      "maker": "オーム電機",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "オーム電機",
+      "historical_tier": 2,
+      "parent_asin": "B0BXPNWNQD",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09N8TVSJD",
+      "title": "卓上ライト, 3600mAh 充電式ライト,デスクライト おしゃれ,読書灯,ポータブル | デスクライト コードレス,10段階の明るさ調整,小サイズ,折りたたみ式デザイン,タッチ操作, クラフト用、オフィス用、旅行用、緊急用",
+      "maker": "kufire",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "kufire",
+      "historical_tier": 1,
+      "parent_asin": "B0FKGK6FHQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09XF23WY2",
+      "title": "Lepro クランプライト デスクライト",
+      "maker": "Lepro",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Lepro",
+      "historical_tier": 1,
+      "parent_asin": "B09ZQNQ69V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09XF3HRGW",
+      "title": "Lepro デスクライト クランプ led 目に優しい クリップライト クランプライト スタンドライト 電気スタンド 卓上ライト (ホワイト) | 卓上照明 勉強机 学習机 読書灯 テーブル 台灯【電球色・白色・昼光色/10段階明るさ/5W省エネ/R",
+      "maker": "Lepro",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Lepro",
+      "historical_tier": 1,
+      "parent_asin": "B09ZQNQ69V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09Z9X46PW",
+      "title": "オーム電機 LEDデスクランプ デスクライト デスクスタンド USB電源 昼白色 スマホスタンド付き DS-LS12USB-W 06-3704 OHM",
+      "maker": "オーム電機",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "オーム電機",
+      "historical_tier": 1,
+      "parent_asin": "B0CH4HQGHB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BG53FCXF",
+      "title": "「MIGABER 新型モデル」LEDリングライト 女優ライト 卓上 自撮り【50段階調光】面接 ウェブ会議 zoom用 ライト スマホスタンド付き 生放送用ライト 配信 ライト 5色モード USBライト 読書灯 電気スタンドライト 合金製台座付き 安定性 高輝度120個LEDチップを採用 照明撮影用 美容化粧/LIVE生放送/LINE/TikTok/Youtubeビデオ/META/WEB会議",
+      "maker": "MIGABER",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "MIGABER",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-10-31",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-31",
+          "title": "撮影する顔を明るく映す「リングライト」7選",
+          "asin": "B0BG53FCXF"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-31_撮影する顔を明るく映す「リングライト」.md",
+          "date": "2026-10-31",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない",
+        "30日窓内のローカル研究票言及が採用品か除外/参考か要確認"
+      ],
+      "exclusion_reason": "30日窓内の同ASIN/親掲載: 2026-10-31",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BGXPXQSQ",
+      "title": "Adoric クリップライト LEDデスクライト 読書灯 卓上ライト USB給電式 3色4段階調光 40LED 折り畳み式 タイマー付 | 40LED・3色4段階調光で目に優しい。USB給電で在宅ワーク・勉強・読書・メイク・ベッドサイドに。360°グ",
+      "maker": "Adoric",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BQ71L6R9",
+      "title": "【2026革新モデル】 デスクライト LED スタンドライト 目に優しい 電気スタンド 省エネ 卓上 調色5段階 無段階調光 明るい ブックライト タッチセンサー 多角度調整 読書灯 折り畳み式 コンパクト 簡単操作 USB給電式 メモリー機能 タイ",
+      "maker": "デスクライト",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HFZ8QV8Z",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない",
+        "メーカー名称を公式確認するまでメーカー多様性へ数えない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C1MJ6TC8",
+      "title": "デスクライト LED 【照明士推奨】 目に優しい 自然光デスクライト ワイド 高演色Ra95 クランプ 5段階調光 モニターライト | 自然光ワイドホワイト(クランプタイプ)",
+      "maker": "デスクライト",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0C1MKQLGD",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "メーカー名称を公式確認するまでメーカー多様性へ数えない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CZ3L2DKP",
+      "title": "BeaNet デスクライト LED 「無線リモコン・ダブル光源・幅800mm・24W・2000Lx」 5段階調光調色 電気スタンド クランプ「PSE認証済」 幅広 スタンドライト 多角度調節 卓上ライト 目に優しい 読書/勉強/仕事 ブラック BNT",
+      "maker": "BeaNet",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0DSGGJLCC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CZ9P1QW9",
+      "title": "BenQ ScreenBar Pro モニターライト モニター掛け式ライト デスクライト【 アップグレードモデル 】広範囲照明 自動点灯 自動消灯 高演色 LED (在宅勤務 デスクワーク デザイナー 省スペース 湾曲/ワイドモニター) ブラック",
+      "maker": "BenQ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "BenQ",
+      "historical_tier": 1,
+      "parent_asin": "B0D2D2Q4Y5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-06",
+          "title": "自分だけの秘密基地。デスクを彩る「モニターライト」 6 選",
+          "asin": "B0CZ9P1QW9"
+        },
+        {
+          "published_date": "2026-02-26",
+          "title": "デスクの色を統一。理想の「モノトーンガジェット」特集 8 選",
+          "asin": "B0CZ9P1QW9"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D5CSCHM1",
+      "title": "【2026新登場・省エネ＆目に優しい】 デスクライト 明るい ledライト 照明 無段階調光 5段階調色 タイマー・記憶機能 高輝度 スタンドライト USB給電式 電気スタンド 卓上 ledデスクライト 折り畳み式 収納簡単 卓上 led 軽量 机 読書 寝室 学習机 スマホ給電可能 タイマー機能 おしゃれ 目に優しい 読書灯",
+      "maker": "【2026新登場・省エネ＆目に優しい】",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "【2026新登場・省エネ＆目に優しい】",
+      "historical_tier": 2,
+      "parent_asin": "B0HJ8DWCMJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-26",
+          "title": "デスクを明るく。充電式で置き場所を選ばない「デスクライト」 3 選",
+          "asin": "B0D5CSCHM1"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない",
+        "メーカー名称を公式確認するまでメーカー多様性へ数えない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D7HC65Y6",
+      "title": "サンワダイレクト デスクライト コードレス LED 充電式 390lm 調光 調色 タイマー付き Type-C コンパクト ホワイト",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": "サンワダイレクト",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-09-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-26",
+          "title": "デスクを明るく。充電式で置き場所を選ばない「デスクライト」 3 選",
+          "asin": "B0D7HC65Y6"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DFYFJZGJ",
+      "title": "【Amazon.co.jp限定】スタンドライト デスクライト ダブルライトバー 超高輝度 5段階調光・調色 タッチセンサー 多角度調整 タイマー機能 省エネ 学習机用 LEDライト 読書灯 (ホワイト)",
+      "maker": "スタンドライト",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "【Amazon.co.jp限定】スタンドライト",
+      "historical_tier": 1,
+      "parent_asin": "B0GVSS2M5X",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": "メーカー推定に照明の種別が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DK6VJKLQ",
+      "title": "デスクライト LED 卓上ライト スタンドライト ダブルライト 超高輝度 800lm 5段階調光調色 目に優しい タイマー機能 電気スタンド 読書灯 | スマホ給電可能 アダプター付き タッチセンサー 多角度調整 省エネ 収納簡単 学習机 勉強机 寝",
+      "maker": "デスクライト",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0H5C7JT12",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない",
+        "メーカー名称を公式確認するまでメーカー多様性へ数えない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DMT4BGZS",
+      "title": "クリップライト E26 ソケット スポットライト 卓上 角度調整可能 金属製 読書 仕事 PC電気スタンド作業デスク 卓上ランプ 寝室照明 に適用 LED電球付属 コード長1.8m ホワイト",
+      "maker": "クリップライト",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B077KM7ZG9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DSFRQSCX",
+      "title": "クリップライト LED 調光 調色 卓上ライト クリップ USB 読書灯 クリップ 充電式 3段階調色 10段階調光 省エネ 目に優しい 簡単操作 360度角度調節 LED 読書/勉強/仕事/卓上/ベッドサイド 在宅ワーク ブラック",
+      "maker": "ZEEWELL",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ZEEWELL",
+      "historical_tier": 3,
+      "parent_asin": "B0DSFM93W1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FKN78QNN",
+      "title": "クリップライト LED充電式 デスクライト コードレス 卓上照明 3段階調色 無段階調光 小型 スタンドライト 読書灯 勉強用 | 2500mAh大容量 Type-C充電 最大12時間連続使用 32LED 500lm高輝度 360°自由回転 電気スタ",
+      "maker": "クリップライト",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "クリップライト",
+      "historical_tier": 2,
+      "parent_asin": "B0HF43V2F2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": "メーカー推定に照明の種別が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FM3NXDVN",
+      "title": "Hoxhyon デスクライト LED クランプ式「PSE認証済」卓上ライト 電気スタンド 目に優しい デスクスタンド デスクランプ テーブルライト | 【ダブル光源 広範囲・高均一照明・無線リモコン・5段階調色調光・角度自由調節・タイマー】読書/勉強",
+      "maker": "Hoxhyon",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Hoxhyon",
+      "historical_tier": 2,
+      "parent_asin": "B0GZLHDHG8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0G5YPH9SG",
+      "title": "Quntis モニターライト バーライト 40cm モニター掛け式 デスクライト 昼白/昼光/電球色 演色性Ra≥98 照度≥700Lux 無段階色温度と輝度調整 目に優しい 省スペース USB 厚さ0.7-3.5cmのモニター対応 Basic L205-QU",
+      "maker": "Quntis",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Quntis",
+      "historical_tier": 1,
+      "parent_asin": "B0HBQ4KP26",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GD79PPWN",
+      "title": "【Amazon.co.jp限定】LEDデスクライト 目に優しい 高輝度 卓上ライト｜5段階調光・調色 タッチ操作 メモリー・タイマー機能 USB給電 多角度調整 折りたたみ式 省エネ 学習・読書用（ホワイト＆シルバー）",
+      "maker": "LEDデスクライト",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "【Amazon.co.jp限定】LEDデスクライト",
+      "historical_tier": 2,
+      "parent_asin": "B0HF3LQQBK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": "メーカー推定に照明の種別が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GD7KC1QZ",
+      "title": "ReinHoo クリップライト 充電式 【9輝度+5光色＋記憶機能】 卓上ライト コードレス 【4000mAh大容量電池】デスクライト 充電式 【450ルーメン明るい+目に優しい】48 LEDスタンドライト 卓上 【CRI(Ra)演色性≥90】 読書",
+      "maker": "Zhongmei",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Zhongmei Shanyao (Jiangmen) E-commerce Co., Ltd",
+      "historical_tier": 1,
+      "parent_asin": "B0GYCPBV45",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GQT29JKT",
+      "title": "LEDクリップ式デスクライト ホワイト 目に優しい 3色調色 10段階調光 | 360°角度調整可能クリップライト,USB給電,学習机,読書灯,作業灯対応,卓上照明,ベッドサイド用usb給電, デスク用ライト,枕元ライトクリップ",
+      "maker": "LEDクリップ式デスクライト",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0H5VZ4FN7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": "メーカー推定に照明の種別が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GZNK7T45",
+      "title": "Lepro デスクライト クランプ グリップライト クランプライト T型 led 750lm超高輝度 目に優しい 電気スタンド スタンドライト DCアダプター付き【一体型LED光源/5段階色温度・明るさ/調光調色/明るい/Ra80演色/360°角度調整可能/独立タッチボタン制御/1.8Mケーブル/コンセント付き】卓上照明 卓上ライト アームライト 台灯 学習机 勉強机 読書灯 (ホワイト)",
+      "maker": "Lepro",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0H2D43PM6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H24ZYM8F",
+      "title": "クリップライト LED デスクライト 高輝度 目に優しい 【3段階調色 10段階調光】 卓上ライト USB給電式 360度回転 メモリー機能付き 読書灯 電気スタンド 省エネ 勉強 仕事 寝室 ベッドサイド パソコン台 日本語説明書付（ブラック）",
+      "maker": "クリップライト",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0H8CJR772",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": "メーカー推定に照明の種別が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H51R1KLF",
+      "title": "【2026革新モデル】デスクライト 充電式 クリップライト 電気スタンド LED 卓上ライト 読書灯 取り外し可能クリップ 着脱式スタンド 8000mAh大容量 Type-C コードレス 最大180時間 3段階調色 無段階調光 RG0無ブルーライト",
+      "maker": "CityCom",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "CityCom",
+      "historical_tier": 3,
+      "parent_asin": "B0HKGMR2JF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-28",
+      "scope_pending": [
+        "電源/調光/設置方式・照射範囲は公式照合。明るさを疲労改善の断定へ転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B0785D93KD",
+      "title": "BenQ ScreenBar スクリーンバー モニター掛け式ライト [デスクライト monitor lamp モニターライト]",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08W2C5W59",
+      "title": "Xiaomi Miモニター掛け式ライト USB Type-Cポート デスクライト 非対称な配光 反射防止 Ra95高演色 マグネットで回転 メタルボディ 2.4GHzワイヤレスリモコン 色温度と輝度無段階調整 湾曲モニター対応 省スペース 仕事/エンターテイメント/デザイン作業/勉強",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08WT889V3",
+      "title": "BenQ ScreenBar Halo モニターライト スクリーンバー ハロー USBライト デスクライト [無線リモコン 自動調光 間接照明モード 高演色性]",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B094NCN8CG",
+      "title": "OOWOLF モニターライト バー パソコンライト 3段階調色 無段階調光 背面ライト付き Ra95+ 高演色 目に優しい 記憶機能 USB給電 モニタ掛け式 デスクライト 在宅勤務/pc作業/勉強/ゲーミング タッチ式 41cm",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BG53FCXF",
+      "title": "「MIGABER 新型モデル」LEDリングライト 女優ライト 卓上 自撮り【50段階調光】面接 ウェブ会議 zoom用 ライト スマホスタンド付き 生放送用ライト 配信 ライト 5色モード USBライト 読書灯 電気スタンドライト 合金製台座付き 安定性 高輝度120個LEDチップを採用 照明撮影用 美容化粧/LIVE生放送/LINE/TikTok/Youtubeビデオ/META/WEB会議",
+      "reason": "30日窓内の同ASIN/親掲載: 2026-10-31"
+    },
+    {
+      "asin": "B0BQ71L6R9",
+      "title": "【2026革新モデル】 デスクライト LED スタンドライト 目に優しい 電気スタンド 省エネ 卓上 調色5段階 無段階調光 明るい ブックライト タッチセンサー 多角度調整 読書灯 折り畳み式 コンパクト 簡単操作 USB給電式 メモリー機能 タイ",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0C1MJ6TC8",
+      "title": "デスクライト LED 【照明士推奨】 目に優しい 自然光デスクライト ワイド 高演色Ra95 クランプ 5段階調光 モニターライト | 自然光ワイドホワイト(クランプタイプ)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CZ9P1QW9",
+      "title": "BenQ ScreenBar Pro モニターライト モニター掛け式ライト デスクライト【 アップグレードモデル 】広範囲照明 自動点灯 自動消灯 高演色 LED (在宅勤務 デスクワーク デザイナー 省スペース 湾曲/ワイドモニター) ブラック",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0D5CSCHM1",
+      "title": "【2026新登場・省エネ＆目に優しい】 デスクライト 明るい ledライト 照明 無段階調光 5段階調色 タイマー・記憶機能 高輝度 スタンドライト USB給電式 電気スタンド 卓上 ledデスクライト 折り畳み式 収納簡単 卓上 led 軽量 机 読書 寝室 学習机 スマホ給電可能 タイマー機能 おしゃれ 目に優しい 読書灯",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0DK6VJKLQ",
+      "title": "デスクライト LED 卓上ライト スタンドライト ダブルライト 超高輝度 800lm 5段階調光調色 目に優しい タイマー機能 電気スタンド 読書灯 | スマホ給電可能 アダプター付き タッチセンサー 多角度調整 省エネ 収納簡単 学習机 勉強机 寝",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0DMT4BGZS",
+      "title": "クリップライト E26 ソケット スポットライト 卓上 角度調整可能 金属製 読書 仕事 PC電気スタンド作業デスク 卓上ランプ 寝室照明 に適用 LED電球付属 コード長1.8m ホワイト",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0G5YPH9SG",
+      "title": "Quntis モニターライト バーライト 40cm モニター掛け式 デスクライト 昼白/昼光/電球色 演色性Ra≥98 照度≥700Lux 無段階色温度と輝度調整 目に優しい 省スペース USB 厚さ0.7-3.5cmのモニター対応 Basic L205-QU",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DFYFJZGJ",
+      "title": "【Amazon.co.jp限定】スタンドライト デスクライト ダブルライトバー 超高輝度 5段階調光・調色 タッチセンサー 多角度調整 タイマー機能 省エネ 学習机用 LEDライト 読書灯 (ホワイト)",
+      "reason": "メーカー推定に照明の種別が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0FKN78QNN",
+      "title": "クリップライト LED充電式 デスクライト コードレス 卓上照明 3段階調色 無段階調光 小型 スタンドライト 読書灯 勉強用 | 2500mAh大容量 Type-C充電 最大12時間連続使用 32LED 500lm高輝度 360°自由回転 電気スタ",
+      "reason": "メーカー推定に照明の種別が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GD79PPWN",
+      "title": "【Amazon.co.jp限定】LEDデスクライト 目に優しい 高輝度 卓上ライト｜5段階調光・調色 タッチ操作 メモリー・タイマー機能 USB給電 多角度調整 折りたたみ式 省エネ 学習・読書用（ホワイト＆シルバー）",
+      "reason": "メーカー推定に照明の種別が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0H24ZYM8F",
+      "title": "クリップライト LED デスクライト 高輝度 目に優しい 【3段階調色 10段階調光】 卓上ライト USB給電式 360度回転 メモリー機能付き 読書灯 電気スタンド 省エネ 勉強 仕事 寝室 ベッドサイド パソコン台 日本語説明書付（ブラック）",
+      "reason": "メーカー推定に照明の種別が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GQT29JKT",
+      "title": "LEDクリップ式デスクライト ホワイト 目に優しい 3色調色 10段階調光 | 360°角度調整可能クリップライト,USB給電,学習机,読書灯,作業灯対応,卓上照明,ベッドサイド用usb給電, デスク用ライト,枕元ライトクリップ",
+      "reason": "メーカー推定に照明の種別が混入。実在メーカー未確認として保留"
+    }
+  ],
+  "historical_tier_distribution": {
+    "1": 11,
+    "2": 8,
+    "3": 5
+  },
+  "maker_count_upper_bound_before_parent": 19,
+  "variant_policy": "同親の色/サイズ候補を残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "親違いの同モデルも公式照合が必要、親群数を商品数とみなさない"
+  ]
+}
