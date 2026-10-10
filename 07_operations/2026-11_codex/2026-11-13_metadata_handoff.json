@@ -1,0 +1,31 @@
+{
+  "published_date": "2026-11-13",
+  "filename": "2026-11-13_PCと小物をまとめて持ち歩く。「ビジネスリュック」5選.md",
+  "title": "PCと小物をまとめて持ち歩く。「ビジネスリュック」5選",
+  "category": "モバイル・電源・周辺機器",
+  "tags": "おすすめガジェット ビジネスリュック PCバッグ 通勤 収納",
+  "product_count": 5,
+  "product_asins": [
+    "B07HX6KWBR",
+    "B07H5RMC5Z",
+    "B0DVBDHK5T",
+    "B0BRZBN96C",
+    "B0DSZVQ6M1"
+  ],
+  "related_urls": [
+    "https://note.com/daily_gadget/n/n5ae5865b8f47",
+    "https://note.com/daily_gadget/n/n09d55fbb8dc4",
+    "https://note.com/daily_gadget/n/nc8ed3beb4597"
+  ],
+  "research_file": "06_research/2026-11/2026-11-13_PCと小物をまとめて持ち歩く。「ビジネスリュック」5選.md",
+  "status": "local_draft_qa_only",
+  "scheduled_time": "20:00 JST",
+  "unresolved_specs": [],
+  "integration_required": [
+    "monthly_metadata",
+    "schedule_ledger",
+    "shared_db",
+    "thumbnail",
+    "note_saved_preview"
+  ]
+}
