@@ -1,0 +1,32 @@
+{
+  "published_date": "2026-11-16",
+  "filename": "2026-11-16_小物の場所をラベルで揃える。「ラベルプリンター」6選.md",
+  "title": "小物の場所をラベルで揃える。「ラベルプリンター」6選",
+  "category": "生産性向上・クリエイティブ・入力機器",
+  "tags": "おすすめガジェット ラベルプリンター ラベルライター 収納整理 テプラ",
+  "product_count": 6,
+  "product_asins": [
+    "B08M3K411P",
+    "B0BCW4YMR8",
+    "B0DHWX7B1V",
+    "B0895JCJKM",
+    "B0BRZ1QB74",
+    "B07J6SYY95"
+  ],
+  "related_urls": [
+    "https://note.com/daily_gadget/n/n48428c64a7f6",
+    "https://note.com/daily_gadget/n/na550b03346d5",
+    "https://note.com/daily_gadget/n/nb56841d4aeaf"
+  ],
+  "research_file": "06_research/2026-11/2026-11-16_小物の場所をラベルで揃える。「ラベルプリンター」6選.md",
+  "status": "local_draft_qa_only",
+  "scheduled_time": "20:00 JST",
+  "unresolved_specs": [],
+  "integration_required": [
+    "monthly_metadata",
+    "schedule_ledger",
+    "shared_db",
+    "thumbnail",
+    "note_saved_preview"
+  ]
+}

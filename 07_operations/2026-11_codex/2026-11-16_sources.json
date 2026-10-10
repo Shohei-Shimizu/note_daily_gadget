@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-16",
+  "checked_at": "2026-10-10",
+  "products": [
+    {
+      "asin": "B08M3K411P",
+      "name": "Phomemo D30",
+      "source": "https://phomemo.com/en-ca/products/d30-label-maker?variant=45798388465893",
+      "points": [
+        "スマホのPrint Masterアプリからラベルを作れる。",
+        "細幅の対応感熱ラベルを使える。",
+        "充電式で置き場所を移しやすい。"
+      ],
+      "specs": [
+        "接続：Bluetooth・Print Masterアプリ",
+        "対応ラベル幅：6・12・14・15mm",
+        "印刷方式：感熱式",
+        "解像度：203dpi",
+        "PC印刷：非対応"
+      ],
+      "body": "引き出しやケーブルに小さな名前ラベルを付けたい人向けの候補です。スマホのPrint Masterアプリで文字を編集し、アプリ内からBluetooth接続して印刷する構成。PC印刷には対応せず、対応する感熱ラベルとスマホを用意して使うモデルです。",
+      "cautions": [
+        "公式紙幅と印字幅は別。機械抽出155gは公式153gと差があるため重量不使用。Micro USB充電をUSB-Cと誤記しない。専用アプリと対応感熱ラベルが必要。アプリの全機能無料を保証しない。"
+      ],
+      "official_confirmation": "confirmed",
+      "supporting_sources": [
+        "https://phomemo.com/en-ca/pages/d30-thermal-printing-general-questions-connect-bluetooth-video",
+        "https://phomemo.com/pages/download-center-d30"
+      ]
+    },
+    {
+      "asin": "B0BCW4YMR8",
+      "name": "NIIMBOT B1",
+      "source": "https://www.niimbot.com/es/hardware/detail?productCode=HPC250522074010000007",
+      "points": [
+        "幅の広いラベルに対応する。",
+        "スマホアプリからBluetoothで印刷できる。",
+        "充電式の感熱プリンターとして使える。"
+      ],
+      "specs": [
+        "接続：Bluetooth・USB",
+        "対応ラベル幅：20〜50mm",
+        "最大有効印刷幅：48mm",
+        "印刷方式：感熱式",
+        "解像度：203dpi"
+      ],
+      "body": "収納箱の中身や宛名など、少し大きなラベルを作りたい人向けに選びました。スマホアプリからBluetoothで印刷でき、紙幅よりも実際に印字できる幅は狭くなります。対応ラベルとアプリの動作条件を確認し、必要な文字量を収められるか検討したい一台です。",
+      "cautions": [
+        "Bluetooth/USBと携帯・PC対応は同型公式で確認。PCの個別OSバージョンは本文で保証しない。RFID識別に対応するラベルを確認。機械抽出5時間を稼働保証として不使用。アプリ全機能無料は断言しない。"
+      ],
+      "official_confirmation": "confirmed",
+      "supporting_sources": [
+        "https://www.niimbot.com/us/downloadCenter?showDetail=true"
+      ]
+    },
+    {
+      "asin": "B0DHWX7B1V",
+      "name": "ブラザー P-TOUCH CUBE PT-P300BTLT",
+      "source": "https://www.brother.co.jp/product/labelwriter/ptp300btlt/spec/index.aspx",
+      "points": [
+        "スマホ専用でラベルを編集・印刷できる。",
+        "TZe規格の複数のテープ幅に対応する。",
+        "本体の手動カッターでラベルを切れる。"
+      ],
+      "specs": [
+        "接続：Bluetooth・スマホ専用",
+        "対応テープ幅：3.5・6・9・12mm（TZe規格）",
+        "印刷方式：熱転写式",
+        "最大印刷高：9mm",
+        "カッター：手動"
+      ],
+      "body": "収納ラベルの書体や配置をスマホで整えたい人向けの候補です。P-touch Design&Print 2アプリで編集し、TZe規格のテープへ印刷します。テープ幅と印刷高には違いがあり、電池や別売ACアダプターも必要になるため、対応する消耗品と電源を揃えて使いたい構成。",
+      "cautions": [
+        "スマホ専用でPC非対応。単4アルカリ/ニッケル水素6本またはACアダプターは別売。アプリ対応OSは購入時確認。最大印刷高9mmをテープ幅12mmと混同しない。"
+      ],
+      "official_confirmation": "confirmed",
+      "supporting_sources": [
+        "https://www.brother.co.jp/product/labelwriter/ptp300btlt/index.aspx"
+      ]
+    },
+    {
+      "asin": "B0895JCJKM",
+      "name": "Phomemo M110",
+      "source": "https://phomemo.com/en-ca/products/m110-label-maker",
+      "points": [
+        "幅の広い対応感熱ラベルを使える。",
+        "スマホのPrint Masterアプリで編集できる。",
+        "Windows PCからUSBで印刷できる。"
+      ],
+      "specs": [
+        "スマホ接続：Bluetooth・Print Masterアプリ",
+        "PC接続：USB（Windows用ドライバーが必要）",
+        "対応ラベル幅：20〜50mm",
+        "印刷方式：感熱式",
+        "解像度：203dpi"
+      ],
+      "body": "小物の分類名だけでなく、宛名や管理用のラベルも作りたい人向けの候補です。スマホはPrint Masterアプリ内から接続し、Windows PCではドライバーを入れてUSBで印刷できます。作業する端末と対応する感熱ラベルを先に確認し、作りたい表示に合わせて選びたいモデルです。",
+      "cautions": [
+        "公式PC接続説明にUSB/Windowsドライバーあり。Mac等の幅広いOS保証は本文に転用しない。D30のラベル幅を混同しない。感熱ラベルは熱や環境の影響を受ける。アプリ全機能無料は断言しない。"
+      ],
+      "official_confirmation": "confirmed",
+      "supporting_sources": [
+        "https://phomemo.com/pages/m110-support-center/",
+        "https://eu.phomemo.com/blogs/guides/m110-setup-guide-from-unboxing-to-printing-in-5-minutes"
+      ]
+    },
+    {
+      "asin": "B0BRZ1QB74",
+      "name": "キングジム「テプラ」PRO SR-R2500P",
+      "source": "https://kingjim.com/products/sr-r2500p",
+      "points": [
+        "スマホアプリで文字や配置を作れる。",
+        "PROテープの複数の幅に対応する。",
+        "印刷後のラベルを自動でカットできる。"
+      ],
+      "specs": [
+        "接続：Bluetooth・スマホ専用",
+        "対応テープ幅：4・6・9・12・18mm（PRO規格）",
+        "印刷方式：熱転写式",
+        "カッター：自動",
+        "電源：単3アルカリ／ニッケル水素電池6本（別売）"
+      ],
+      "body": "スマホでラベルを作り、印刷後のカットまで任せたい人向けに選びました。HelloやTEPRA LINK 2の対応アプリから操作する、スマホ専用のテプラです。PC接続用とは区別し、対応OSやPROテープ、別売の電池を確認して、収納場所の表示を揃える用途に検討してみてください。",
+      "cautions": [
+        "公式スマホ専用Bluetooth、4〜18mmPRO、熱転写、自動カット、単3電池6本。最大印刷幅13.5mmと18mmテープ幅は別。対応アプリ/OS要確認。無料全機能やPC接続を断言しない。"
+      ],
+      "official_confirmation": "confirmed",
+      "supporting_sources": []
+    },
+    {
+      "asin": "B07J6SYY95",
+      "name": "キングジム「テプラ」PRO SR370",
+      "source": "https://www.kingjim.co.jp/products/tepra/sr370.html",
+      "points": [
+        "本体のキーボードでラベルを作れる。",
+        "PROテープの広い幅まで対応する。",
+        "付属ACアダプターで机に置いて使える。"
+      ],
+      "specs": [
+        "入力：本体キーボード",
+        "対応テープ幅：4〜24mm（PRO規格）",
+        "印刷方式：熱転写式",
+        "カッター：自動",
+        "電源：付属ACアダプター／単3電池6本（電池別売）"
+      ],
+      "body": "スマホやPCを接続せず、その場で名前を入力して印刷したい人向けの候補です。本体キーボードと画面で操作でき、付属ACアダプターを使えば机に置いて作業できます。対応するPROテープを選び、幅広の収納ラベルも含めて作り分けたいときに検討したい構成。",
+      "cautions": [
+        "PCリンク非対応。スマホBluetooth編集印刷機ではない。PRO熱転写方式は同型製品仕様表、給電と同梱品は取扱説明書111〜112頁で確認。共有比較表の上位機ハーフカット等を転用しない。乾電池別売。"
+      ],
+      "official_confirmation": "confirmed",
+      "supporting_sources": [
+        "https://www.kingjim.co.jp/resource-files/download/manual/tepra/sr370m.pdf"
+      ]
+    }
+  ],
+  "selection_preserved": true,
+  "jev": "not_used_no_review_analysis",
+  "related_public_evidence": [
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n48428c64a7f6_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_na550b03346d5_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_nb56841d4aeaf_live.html"
+  ],
+  "related_metadata_sources": [
+    "02_article/2026-04/_metadata.json",
+    "02_article/2026-05/_metadata.json"
+  ]
+}
