@@ -1,0 +1,632 @@
+{
+  "generated_at": "2026-10-10T01:11:45+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261121_00248fb1",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261121_monitor_light"
+  ],
+  "fetched_count": 5,
+  "dedup_count": 5,
+  "candidates": [
+    {
+      "asin": "B0G5YPH9SG",
+      "title": "Quntis モニターライト バーライト 40cm モニター掛け式 デスクライト 昼白/昼光/電球色 演色性Ra≥98 照度≥700Lux 無段階色温度と輝度調整 目に優しい 省スペース USB 厚さ0.7-3.5cmのモニター対応 Basic L205-QU",
+      "url": "https://www.amazon.co.jp/dp/B0G5YPH9SG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G5YPH9SG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61EfDcODr7L._AC_SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "【 スクリーン反射ゼロで、長時間作業も目が疲れない 】 Quntis L205 LED モニター掛け式ライトは、従来のモニターライトの対称光源によるモニター反射と目の直接刺激を解消。独自の45°非対称光学設計により、光をデスク面に集中させるため、モニター表面に光が反射せず、長時間使用による眼精疲労を大幅に軽減します。OL、プログラマー、ゲーマーなど、長時間スクリーンに向かうすべてのユーザーに、快適な視環境を提供する理想的なライトです",
+        "【 Ra95高演色・ブルーライト低減で、色彩も目の健康も守る 】 Ra95という高演色性LEDが太陽光に近い自然光を実現。デザイン、画像編集、読書など、色の正確性が求められる作業を忠実にサポートします。同時に、ブルーライトを低減し、ちらつきのない快適な光を提供。長時間の作業や娯楽でも、頭痛や目の乾きを防ぎ、集中を持続させます",
+        "【自動調光・3モード切り替えで、シーンにぴったりの光環境を】　Quntis Basic L205のLEDデスクライトは、内蔵光センサーが周囲の明るさを感知し、自動で最適な輝度に調整。このPCライトは手動での無段階調光も可能です。3種類の色温度モードを搭載：昼白色（6400K-明るい） で集中力アップ、昼光色（4200K-中性色） で長時間作業も快適、電球色（3100K-柔らかい光） でゲームやリラックスタイムに。特にムード照明機能により、光をデスク作業領域に集中させ、周囲を暗く保つことで专注なパソコン使用環境を提供します。お好みの設定はメモリー機能で記憶され、次回はワンタッチで呼び出せます",
+        "【1秒簡単設置・USB-C給電で、スッキリとしたデスクへ】重力回転軸クリップで、厚さ0.7〜3.5cmのモニター（フラット/曲面対応）に、掛けるだけで1秒で設置完了。工具不要でスクリーンを傷つけず、デスクスペースも占有しません。USB-C給電なので、PCやスマホ充電器に接続するだけで使用可能。余計なコンセントや配線がなく、整理整頓されたクリーンなデスク環境を実現します。フラットスクリーン・曲面スクリーン問わず対応可能で、汎用性に優れます",
+        "【パッケージ内容と保証】 パッケージには、Quntis ScreenLinear L205 ライト本体、USB-Cケーブル、取扱説明書、固定ベース×2、六角レンチ（アーレンキー）×1が含まれます。六角レンチはクリップの取り付け強度を調整する際にご使用ください。製品保証期間は18ヶ月です。保証対応をご希望の場合は、購入時に発行される注文番号が必要となります",
+        "Quntis モニターライト ScreenLinear Focus L205 40cm (15.7 inch) ブラック"
+      ],
+      "maker": "Quntis",
+      "query": "dg_20261121_monitor_light",
+      "queries_matched": [
+        "dg_20261121_monitor_light"
+      ],
+      "review_count": 13785,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "desk_light",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "モニター上端への取付条件・湾曲対応・カメラとの干渉を公式確認"
+      ],
+      "parent_asin": "B0HBQ4KP26",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:12:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0785D93KD",
+      "title": "BenQ ScreenBar スクリーンバー モニター掛け式ライト [デスクライト monitor lamp モニターライト]",
+      "url": "https://www.amazon.co.jp/dp/B0785D93KD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0785D93KD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41BDbSCu9QL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "デスクを均一に照らすモニター掛け式ライト：ScreenBar はスクリーン閲覧に最適な照明です。モニターに簡単設置でデスクスペースを節約しながら、画面の反射を抑えた均一な光をデスクにお届け。ワークスペースやオフィスデスクでの作業を快適にします。",
+        "第1世代ASYM-LIGHT非対称光学技術：ScreenBarシリーズ独自の非対称光学技術により光線を制御することで、画面への映り込みやまぶしさを軽減。930ルクスの明るい中央照度と、60cm x 30cmの範囲に均一で自然な光を届けることで、目に優しい環境をつくります。",
+        "8段階の色温度と15段階の明るさ調節：自動調光機能で推奨される500ルクスの照明環境を維持するほか、2700Ｋから6500Ｋまで集中やリラックスしたいタイミングに合わせて色温度と明るさを調節できます。",
+        "安定性の高いクランプ設計：スタンダードなモニターをサポートしています。適合するモニターの厚さは1cmから3 cmを参照してください。上部ベゼルの幅が8mm以上のモニターに対応しています。",
+        "シンプルな操作：本体をワンタッチで電源、自動調光、色温度、明るさの調整が出来ます。USB Type-Aポートで給電を行えます。電圧が5V、最低1A以上の電流を供給できる電源を使用してください。",
+        "【保証・サポートについて】BenQの保証・サポート対象は、公式正規販売元が販売する新品製品のみとなります。それ以外の販売（マーケットプレイス出品及び中古販売）については、各販売元/出品元へお問い合わせください。"
+      ],
+      "maker": "BenQ",
+      "query": "dg_20261121_monitor_light",
+      "queries_matched": [
+        "dg_20261121_monitor_light"
+      ],
+      "review_count": 4598,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "desk_light",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-30",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "モニター上端への取付条件・湾曲対応・カメラとの干渉を公式確認"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T12:12:31+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08WT889V3",
+      "title": "BenQ ScreenBar Halo モニターライト スクリーンバー ハロー USBライト デスクライト [無線リモコン 自動調光 間接照明モード 高演色性]",
+      "url": "https://www.amazon.co.jp/dp/B08WT889V3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08WT889V3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51TVzOs05eL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "【無線リモコン搭載】：ScreenBar Haloは無線リモコンで自由自在に照度と色温度（2700-6500K）を調整できます。",
+        "【間接照明モード】：新たな背面照明機能により、モニター画面とその周辺の光のコントラストを調整します。アップグレードした非対称配光デザインで、画面への映り込みを軽減いたします。デスク周りの明るさに応じて自動的に500ルクスに調整いたします。※同時点灯モード起動時、正面ライトが背面ライトの明るさに合わせて光を調整し、視覚の明暗差のバランスを取ります。",
+        "【曲面モニター対応】：一般のモニターは厚さ0.7cmから6cmまで適用可能。曲面モニターは厚さ1.6㎝から3.8㎝まで適用可能。",
+        "【お気に入り機能】：好きな光環境をワンタッチで登録可能です。Ra&gt;95の高演色性で本来の色を再現します。※5Vに最低1.5Aの電源の使用を推奨しています。USB充電ポートの使用時には、電圧不足による点滅が発生する可能性があります。",
+        "【1年間安心保証】12か月間日本国内安心保証が付き、ご使用中になにか不明な点などがございましたら、ご遠慮なくお問い合わせください。"
+      ],
+      "maker": "BenQ",
+      "query": "dg_20261121_monitor_light",
+      "queries_matched": [
+        "dg_20261121_monitor_light"
+      ],
+      "review_count": 2947,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "desk_light",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-27",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "モニター上端への取付条件・湾曲対応・カメラとの干渉を公式確認"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T12:12:41+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B094NCN8CG",
+      "title": "OOWOLF モニターライト バー パソコンライト 3段階調色 無段階調光 背面ライト付き Ra95+ 高演色 目に優しい 記憶機能 USB給電 モニタ掛け式 デスクライト 在宅勤務/pc作業/勉強/ゲーミング タッチ式 41cm",
+      "url": "https://www.amazon.co.jp/dp/B094NCN8CG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B094NCN8CG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51kK52k4kYL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "【フルスペクトルランプを採用】モニタ掛け式ライトが採用しているのは、フルスペクトルランプです。太陽光のように連続的でバランスの良い波長分布の、穏やかで柔らかい光を再現した。通常の蛍光灯と比べ、目に負担がかからないことが大きな特徴です。",
+        "【無段階調光調色】モニタ掛け式ライトには調光機能・調色機能は搭載されています。太陽光にもっとも近い光品質で、目にとって最適に調整が可能なので、あらゆるシーンで快適に使用できます。メモリー機能も搭載しているため、電源OFF前の色温度と明るさを記憶し、次の点灯時に記憶したモードで点灯します。",
+        "【目に優しい】高演色（Ra95）で色の再現性が高いので、細かな色の違いも分かりやすく、対象物が見えやすく、目が疲れにくい明かりです。",
+        "【背面ライト付き】独自開発の背面照明機能により、モニター画面とその周辺の光のコントラストを調整し、目の疲れを軽減します。背面ライトを点灯すると、上方への光を加わり明るい空間が広がり、目の快適さが向上、仕事や勉強の効率アップ。",
+        "【広い照射範囲】モニターライトバーは光源が一直線に長いため、照射範囲が非常に広いのも特徴です。机の上の隅々まで明るく照らすことができます。また、光が均一でムラがないため、長時間のデスクワークや読書も、ストレスなく快適に進みます。"
+      ],
+      "maker": "OOWOLF",
+      "query": "dg_20261121_monitor_light",
+      "queries_matched": [
+        "dg_20261121_monitor_light"
+      ],
+      "review_count": 2240,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "desk_light",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-27",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "モニター上端への取付条件・湾曲対応・カメラとの干渉を公式確認"
+      ],
+      "parent_asin": "B0GWQSD4XJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:12:51+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CZ9P1QW9",
+      "title": "BenQ ScreenBar Pro モニターライト モニター掛け式ライト デスクライト【 アップグレードモデル 】広範囲照明 自動点灯 自動消灯 高演色 LED (在宅勤務 デスクワーク デザイナー 省スペース 湾曲/ワイドモニター) ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CZ9P1QW9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CZ9P1QW9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41TAzUt61kL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "ワイドなデスクを照らすモニターライト：ScreenBar Proはより広範囲で、よりスムースな照明体験をサポートするモニターライトです。超ワイドな照明範囲と強化されたクランプ構造で、デュアルモニターやワイドモニター環境など広いデスクスペースに最適です。",
+        "スマートで便利な明るさ調節：色温度と明るさを調節できるほか、自動調光機能で500ルクスの照明環境を維持。直径60±10cm内の動きを検知し自動点灯・5分間感知がないと、自動消灯する機能が備わっています。",
+        "第３世代ASYM-LIGHT非対称光学技術：ScreenBarシリーズ独自の非対称光学技術により光線を制御することで、画面への映り込みやまぶしさを軽減。1000ルクス以上の明るい中央照度を発揮しながら、85cm x 50cmの広い範囲に均一な光を届け、正確かつ目に優しい環境をつくります。",
+        "強化されたクランプ設計：平面モニターのほか、湾曲型・ウルトラワイド・デュアルモニター・厚みのあるモニターに対応します。付属のアタッチメントでウェブカメラも設置可能で、スマートなデスクを実現します。",
+        "スムースな操作：本体のタッチバーで調節することができます。インジケータで明るさ・色温度を視覚的に確認できます。USB Type-Cポートまたは同梱のアダプターで給電を行えます。"
+      ],
+      "maker": "BenQ",
+      "query": "dg_20261121_monitor_light",
+      "queries_matched": [
+        "dg_20261121_monitor_light"
+      ],
+      "review_count": 1296,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "desk_light",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "モニター上端への取付条件・湾曲対応・カメラとの干渉を公式確認"
+      ],
+      "parent_asin": "B0D2D2Q4Y5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:13:02+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08W2C5W59",
+      "title": "Xiaomi モニター掛け式ライト USB Type-C 非対称配光 Ra95高演色 無段階調光対応 反射防止 色温度調整対応 ワイヤレスリモコン付属",
+      "url": "https://www.amazon.co.jp/dp/B08W2C5W59?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08W2C5W59?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/517T8oAN8qL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "【画面反射がなく、より快適な使用感を実現】カスタムメイドの光学ガラスと精密なテクスチャーのカバーにより、まぶしさに悩まされることなく長時間の作業が可能です。",
+        "【Ra95の高い演色評価数】演色評価数は最高Ra95*に達し、本来の自然な色とディテールをしっかりと映します。フリッカーフリーで、長時間の使用による目の疲れを軽減します。",
+        "【2.4GHzワイヤレスリモコン】便利なリモコンは2.4GHzワイヤレス接続で、お好みに合わせて色温度や輝度を調整できます。制約が少なく、自由度が高い色温度と輝度を調整可能です。",
+        "【組み立ても分解も簡単】磁気で吸着まぶしさを効果的に防ぐため、最大25度まで調整可能です。広角旋回軸40度調整可能な軸により、ベゼルの有無にかかわらず、厚さ1～32mmの曲面スクリーンに対応します。メタルボディスタイリッシュなブラックメタルボディです。",
+        "【USB Type-Cポート】コンピューターへの接続時、コンピューターの電源を入れると魔法のように自動的にライトが点灯します。また他にもさまざまな入力が可能です。"
+      ],
+      "review_count": 6244,
+      "star_rating": 4.0,
+      "queries_matched": [
+        "Xiaomi Mi モニター掛け式ライト MJGJD01YL"
+      ],
+      "maker": "Xiaomi",
+      "model_candidate": "MJGJD01YL",
+      "primary_urls": [
+        "https://www.mi.com/jp/product/mi-computer-monitor-light-bar/",
+        "https://www.mi.com/jp/product/mi-computer-monitor-light-bar/specs/"
+      ],
+      "scope_note": "メーカー上辺掛け式、ワイヤレスリモコン。ASIN同型ラベルを確認しMi別モデルと混ぜない。",
+      "scope_status": "manufacturer_model_scope_confirmed_ASIN_mapping_pending",
+      "db_readonly_result": {
+        "asin": "B08W2C5W59",
+        "parent_asin": null,
+        "parent_resolution_status": "no_parent",
+        "tier": 1,
+        "brand": "Xiaomi"
+      },
+      "parent_status": "no_parent",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "required_gate": [
+        "対象ASIN型番/JANとメーカー資料の同型照合",
+        "parent解決/no_parent確定",
+        "同一親/色/セット統合",
+        "maker最大2",
+        "最新Tier/レビュー/価格/在庫実測",
+        "親確定後の30日再掲載窓再照合"
+      ],
+      "stock_status": "in_stock",
+      "parent_asin": null,
+      "measurement_observed_at": "2026-10-10T12:13:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GLWW8CRS",
+      "title": "エレコム モニターライト USB-C PD給電可能 モニター掛け式 タッチボタン式 反射防止 目に優しい 明るさ10段階調整 色温度6段階調整 約55～480lm ブラック DEWML03BK",
+      "url": "https://www.amazon.co.jp/dp/B0GLWW8CRS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GLWW8CRS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41kC9pimtRL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "モニター上から手元を明るく照らし、テレワーク時や夜間でも、部屋の明るさを気にせず快適に作業できます。",
+        "LEDの光が直接目に入りにくい設計で、目の負担を軽減します。",
+        "輝度は10段階で調節でき、好みの明るさに設定可能です。",
+        "色温度は、電球色・昼白色・昼光色をベースにした3000K～6000Kの6段階から選択可能。お部屋の照明やシーンに合わせて、色味を調整できます。",
+        "太陽光(Ra100)に非常に近い高演色Ra93の明かりで、手元の色をより正しく、鮮やかに表現します。"
+      ],
+      "review_count": 47,
+      "star_rating": 3.9,
+      "queries_matched": [
+        "エレコム DEWML03BK モニターライト",
+        "エレコム DE-ML01BK モニター掛け式LEDライト"
+      ],
+      "maker": "ELECOM",
+      "model_candidate": "DEWML03BK",
+      "primary_urls": [
+        "https://www.elecom.co.jp/products/DEWML03BK.html"
+      ],
+      "scope_note": "モニター上辺掛け式。厚み5～33mm、ノートPC非対応の公式条件を確認済み。タイトルPD給電は公式電源条件と同型照合し、USB-CというだけでPD必須と書かない。",
+      "scope_status": "manufacturer_model_scope_confirmed_ASIN_mapping_pending",
+      "db_readonly_result": {
+        "asin": "B0GLWW8CRS",
+        "parent_asin": null,
+        "parent_resolution_status": "unresolved",
+        "tier": null,
+        "brand": "ELECOM"
+      },
+      "parent_status": "no_parent",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "required_gate": [
+        "対象ASIN型番/JANとメーカー資料の同型照合",
+        "parent解決/no_parent確定",
+        "同一親/色/セット統合",
+        "maker最大2",
+        "最新Tier/レビュー/価格/在庫実測",
+        "親確定後の30日再掲載窓再照合"
+      ],
+      "stock_status": "in_stock",
+      "parent_asin": null,
+      "measurement_observed_at": "2026-10-10T12:13:21+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B11Q33HP",
+      "title": "エレコム モニターライト スクリーンバー LED 49cm 掛け式 USB ( USB-C ) 最大920ルーメン 無段階輝度調節 調色3段階 自動調光機能 反射光抑制設計 メモリー機能 ブラック DE-ML01BK",
+      "url": "https://www.amazon.co.jp/dp/B0B11Q33HP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B11Q33HP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/417L3hyUXxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "デスクトップパソコンのディスプレイに引っ掛けて設置するだけで、手元を明るく照らす、モニター用LEDライトです。",
+        "自動調光機能により、部屋の明るさに合わせて自動的に輝度を調節します。",
+        "約250lmから920lm(理論値)まで無段階に輝度を調節できるため、好みの明るさを自在に設定できます。",
+        "色温度は、部屋の照明に合わせて昼光色、電球色、昼白色の3色を選ぶことができます。",
+        "太陽の下での光(Ra100)と非常に近い演色性を持つRa92~95の明かりで、手元の色がより正しく鮮やかに表現されます。",
+        "LEDの光りがモニターに写り込まないように、LEDの光の方向性を制御した設計になっています。",
+        "操作はライト左右のスイッチで行えるため、リモコンの置き場所を取りません。",
+        "電源をOFFにした際の色温度・輝度・自動調光設定を記憶するメモリー機能を搭載し、毎回起動時に調節する手間をなくします。",
+        "ディスプレイ上部のフレームに引っ掛けるだけで簡単に取り付けられます。",
+        "※ノートパソコン・タブレットパソコンにはご使用できません。"
+      ],
+      "review_count": 167,
+      "star_rating": 3.5,
+      "queries_matched": [
+        "エレコム DEWML03BK モニターライト",
+        "エレコム DE-ML01BK モニター掛け式LEDライト"
+      ],
+      "maker": "ELECOM",
+      "model_candidate": "DE-ML01BK",
+      "primary_urls": [
+        "https://www.elecom.co.jp/products/DE-ML01BK.html"
+      ],
+      "scope_note": "モニター掛け式の同型メーカー資料。DEWML03BKと別型番だが親未解決なので別採用の最終判断は親確認後。",
+      "scope_status": "manufacturer_model_scope_confirmed_ASIN_mapping_pending",
+      "db_readonly_result": {
+        "asin": "B0B11Q33HP",
+        "parent_asin": null,
+        "parent_resolution_status": "unresolved",
+        "tier": null,
+        "brand": "ELECOM"
+      },
+      "parent_status": "resolved",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "required_gate": [
+        "対象ASIN型番/JANとメーカー資料の同型照合",
+        "parent解決/no_parent確定",
+        "同一親/色/セット統合",
+        "maker最大2",
+        "最新Tier/レビュー/価格/在庫実測",
+        "親確定後の30日再掲載窓再照合"
+      ],
+      "stock_status": "in_stock",
+      "parent_asin": "B0B3VR8QCQ",
+      "measurement_observed_at": "2026-10-10T12:13:31+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09RFM7PKX",
+      "title": "オーム電機 モニターLEDライト ノートPC用 モニターライト クリップライト USB給電 OA-SML01-K 01-3623 OHM",
+      "url": "https://www.amazon.co.jp/dp/B09RFM7PKX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09RFM7PKX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61JMGHeEKwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【 特 長 】● 厚さ10mmまでのモニターに対応● クリップ式で簡単設置● 10段階（約100～10％）調光、3段階（電球色/白色/昼光色）調色機能付き● 90°角度調節可能● USB給電（Type-A）● ウェブカメラが隠れない設計● コントローラー、収納ポーチ付",
+        "【 仕 様 】■ 材質：ABS■ 製品サイズ：（約）幅260×高さ50×奥行43mm■ 質量：約81g■ LED個数：白色LED27個、暖色LED27個（交換不可）■ 定格消費電力：5W■ 定格入力：5V /1A（USBより給電）■ 色温度：約3000K/4400K/6400K",
+        "■ 平均演色評価数：Ra86（最大）■ 内容物：本体（USBケーブル約550mm）、収納ポーチ、保証書付取扱説明書",
+        "≪ご注意≫※ USB3.0以上またはDC5V/1A以上のUSB充電器の使用を推奨します。※ モニター先端部の形状によっては設置が不安定になることがあります。"
+      ],
+      "review_count": 100,
+      "star_rating": 4.1,
+      "queries_matched": [
+        "エレコム DEWML03BK モニターライト",
+        "エレコム DE-ML01BK モニター掛け式LEDライト"
+      ],
+      "maker": "オーム電機",
+      "model_candidate": "OA-SML01-K / 01-3623",
+      "primary_urls": [
+        "https://www.ohm-electric.co.jp/pdf/manual/013623Manual.pdf",
+        "https://www.ohm-electric.co.jp/movie/"
+      ],
+      "scope_note": "メーカー同型説明書とノートPC用商品動画あり。上辺クリップ型。デスクトップ用と対応厚さを混同しない。",
+      "scope_status": "manufacturer_model_scope_confirmed_ASIN_mapping_pending",
+      "db_readonly_result": null,
+      "parent_status": "resolved",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "required_gate": [
+        "対象ASIN型番/JANとメーカー資料の同型照合",
+        "parent解決/no_parent確定",
+        "同一親/色/セット統合",
+        "maker最大2",
+        "最新Tier/レビュー/価格/在庫実測",
+        "親確定後の30日再掲載窓再照合"
+      ],
+      "stock_status": "in_stock",
+      "parent_asin": "B0CP5LLDZL",
+      "measurement_observed_at": "2026-10-10T12:13:40+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BNKCD9H9",
+      "title": "エルパ(ELPA) USBモニターライト LED一体型 調光3段階 調色3段階 目に優しい デスクライト クリップ式 スペース節約 テレワーク EML-DP01(CG)",
+      "url": "https://www.amazon.co.jp/dp/B0BNKCD9H9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BNKCD9H9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/511HaSruroL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "PC作業時の照明: LEDで手元を明るく照らし、快適な作業環境を提供します",
+        "省スペース設計: モニター上に簡単に設置でき、デスクのスペースが広く使えます",
+        "操作性の向上: 操作パネルが前面にあるので簡単に調整できます",
+        "目の疲れを軽減: モニターの写り込み反射防止機能により、モニター画面を直接照らさないから目が疲れにくい設計です",
+        "簡単設置と調整機能: 上に乗せるだけの簡単設置で、2ヶ所可動するので様々な形のモニターに対応できます",
+        "3段階調光・調色機能: 明るさと光色をそれぞれ3段階で調節可能、シーンに合わせて最適な照明環境を選択できます",
+        "USB給電対応: 付属のUSB Type-CケーブルでパソコンやUSBタップから給電でき、配線もスッキリまとまります"
+      ],
+      "review_count": 5,
+      "star_rating": 3.8,
+      "queries_matched": [
+        "エレコム DEWML03BK モニターライト",
+        "エレコム DE-ML01BK モニター掛け式LEDライト"
+      ],
+      "maker": "ELPA / 朝日電器",
+      "model_candidate": "EML-DP01(CG)",
+      "primary_urls": [
+        "https://www.elpa.co.jp/product/li98/elpa1442.html"
+      ],
+      "scope_note": "モニター上に置く可動ホールドアーム、厚み10～28mm。机上据置にも使えるが上辺取付が公式に成立するため用途外ではない。",
+      "scope_status": "manufacturer_model_scope_confirmed_ASIN_mapping_pending",
+      "db_readonly_result": null,
+      "parent_status": "no_parent",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "required_gate": [
+        "対象ASIN型番/JANとメーカー資料の同型照合",
+        "parent解決/no_parent確定",
+        "同一親/色/セット統合",
+        "maker最大2",
+        "最新Tier/レビュー/価格/在庫実測",
+        "親確定後の30日再掲載窓再照合"
+      ],
+      "stock_status": "in_stock",
+      "parent_asin": null,
+      "measurement_observed_at": "2026-10-10T12:13:47+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DMZQ3S8S",
+      "title": "サンワサプライ モニターライト（センサーON/OFF機能付き） LED-CLP5UBK",
+      "url": "https://www.amazon.co.jp/dp/B0DMZQ3S8S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DMZQ3S8S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/5195tGTfF2L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "モニター上部に引っ掛けるだけで設置でき、手元を明るく照らすモニターライトです。",
+        "赤外線センサー搭載で、センサー部に手をかざすだけで電源ON/OFFができます。",
+        "最大約190ルーメンで、無段階に輝度を調節できるため、好みの明るさに設定できます。",
+        "色温度は、使用シーンに応じて、電球色、白色、昼白色の3色で設定できます。",
+        "電源OFF時の明るさや色温度を記憶するメモリー機能を搭載し、電源ON時に調節する手間をなくします。"
+      ],
+      "review_count": 3,
+      "star_rating": 3.0,
+      "queries_matched": [
+        "エレコム DEWML03BK モニターライト",
+        "エレコム DE-ML01BK モニター掛け式LEDライト"
+      ],
+      "maker": "サンワサプライ",
+      "model_candidate": "LED-CLP5UBK",
+      "primary_urls": [
+        "https://www.sanwa.co.jp/product/syohin?code=LED-CLP5UBK",
+        "https://cdn.sanwa.co.jp/support/setsumeisyo/pdf/L/LED-CLP5UBK_ver1-1.pdf"
+      ],
+      "scope_note": "USBモニター上辺掛け式、湾曲対応。赤外線ON/OFFを自動調光センサーと混同しない。",
+      "scope_status": "manufacturer_model_scope_confirmed_ASIN_mapping_pending",
+      "db_readonly_result": null,
+      "parent_status": "no_parent",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "required_gate": [
+        "対象ASIN型番/JANとメーカー資料の同型照合",
+        "parent解決/no_parent確定",
+        "同一親/色/セット統合",
+        "maker最大2",
+        "最新Tier/レビュー/価格/在庫実測",
+        "親確定後の30日再掲載窓再照合"
+      ],
+      "stock_status": "in_stock",
+      "parent_asin": null,
+      "measurement_observed_at": "2026-10-10T12:13:55+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BNKCWC3Z",
+      "title": "エルパ (ELPA) USBモニターライト ノートパソコン用 LED 調光 3段階調色 目に優しい クリップ式 コンパクト 在宅勤務 テレワーク EML-NP01(CG)",
+      "url": "https://www.amazon.co.jp/dp/B0BNKCWC3Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BNKCWC3Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51QY2f7oG9L._AC_SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "PC作業時にLEDで手元を明るく照らす",
+        "モニターに簡単に設置、デスクスペースが広く使える",
+        "モニターの写り込み反射防止、モニター画面を直接照らさないから目が疲れにくい",
+        "クリップで挟むだけの簡単設置",
+        "PCから直接給電できるので配線もスッキリ"
+      ],
+      "review_count": 1,
+      "star_rating": 3.0,
+      "queries_matched": [
+        "エレコム DEWML03BK モニターライト"
+      ],
+      "maker": "ELPA / 朝日電器",
+      "model_candidate": "EML-NP01(CG)",
+      "primary_urls": [
+        "https://www.elpa.co.jp/product/li98/elpa1441.html"
+      ],
+      "scope_note": "ノートPC上辺クリップ、最大約6.5mm。EML-DP01と構造/対応厚さが別。テーマ上辺取付に合致するがデスクトップ用と分けて説明。",
+      "scope_status": "manufacturer_model_scope_confirmed_ASIN_mapping_pending",
+      "db_readonly_result": null,
+      "parent_status": "no_parent",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "required_gate": [
+        "対象ASIN型番/JANとメーカー資料の同型照合",
+        "parent解決/no_parent確定",
+        "同一親/色/セット統合",
+        "maker最大2",
+        "最新Tier/レビュー/価格/在庫実測",
+        "親確定後の30日再掲載窓再照合"
+      ],
+      "stock_status": "in_stock",
+      "parent_asin": null,
+      "measurement_observed_at": "2026-10-10T12:14:05+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09M71LQMR",
+      "title": "プリンストン モニター掛け式 LEDライト (簡単取付/USB給電/省スペース/角度調節/調光機能) PMA-SCBAR ブラック",
+      "url": "https://www.amazon.co.jp/dp/B09M71LQMR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09M71LQMR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41SRpgWR-5L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "LED 灯数 : 66 個（白とオレンジ：各33 個） | 輝度 : 700 lux（高さ40cm の時） | 色温度 : 3000K(電球色) /3800K(白色) /5700K(昼光色)",
+        "取付可能幅 : ベゼル幅5mm～50mm | ケーブル長 : 150cm | 電源 : USB給電(5V) | 消費電力 : 4.5W",
+        "安全基準 : IEC/EN62471 準拠、「光出力フリッカー」「ブルーライト光障害」対策製品",
+        "タッチセンサー搭載 : 電源・調光(明るさ変更)・色温度変更の操作が可能",
+        "外形寸法 : 460×53×105mm | 質量 : 約390g | 同梱品 : 本体×1,USB 給電用ケーブル×1,ユーザーズマニュアル／保証書×1 | 保証期間 : １年間"
+      ],
+      "review_count": 64,
+      "star_rating": 4.3,
+      "queries_matched": [
+        "エレコム DE-ML01BK モニター掛け式LEDライト"
+      ],
+      "maker": "プリンストン",
+      "model_candidate": "PMA-SCBAR",
+      "primary_urls": [
+        "https://www.princeton.co.jp/product/accessory/pmascbar.html",
+        "https://www.princeton.co.jp/information/2021/11/202111261100.html"
+      ],
+      "scope_note": "液晶ディスプレイ取付型スクリーンバー。発売が古いことだけでは除外しない。型番と現在新品供給を実測で確認。",
+      "scope_status": "manufacturer_model_scope_confirmed_ASIN_mapping_pending",
+      "db_readonly_result": null,
+      "parent_status": "no_parent",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "required_gate": [
+        "対象ASIN型番/JANとメーカー資料の同型照合",
+        "parent解決/no_parent確定",
+        "同一親/色/セット統合",
+        "maker最大2",
+        "最新Tier/レビュー/価格/在庫実測",
+        "親確定後の30日再掲載窓再照合"
+      ],
+      "stock_status": "in_stock",
+      "parent_asin": null,
+      "measurement_observed_at": "2026-10-10T12:14:12+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:monitor_light"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-21",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:monitor_light",
+    "theme": "画面の下の手元を照らす。モニターライト",
+    "exclude_used_since": "2026-10-22",
+    "current_stock_verified": false
+  },
+  "supplement_scope_source": "2026-11-21_supplement_scope.json",
+  "measurement_checkpointed_at": "2026-10-10T12:14:12+09:00"
+}
