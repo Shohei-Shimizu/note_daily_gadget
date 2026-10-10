@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-26",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B0B7SBVGP6",
+      "official_urls": [
+        "https://vasco-translator.jp/translators/vasco-translator-v4/",
+        "https://vasco-translator.jp/wp/wp-content/uploads/2023/02/V4_PressRelease_JP.pdf"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0B7SBVGP6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-26_translator_candidates.json",
+        "path": "candidates[asin=B0B7SBVGP6].features"
+      },
+      "verified_article_specs": [
+        "画面：5インチタッチスクリーン",
+        "重量：134g",
+        "接続：内蔵SIM／Wi-Fi",
+        "SIMデータ通信料：メーカー表示で永久無料",
+        "翻訳：音声／カメラ／テキスト（対応言語は機能別）"
+      ],
+      "check": "国内公式V4同型。音声86/カメラ113/テキスト108を一律108言語としない。内蔵SIMはオンライン通信でありオフラインではない。一部発声有料（ブルガリア/クロアチア/ヘブライ等）を通信料無料と区別。"
+    },
+    {
+      "order": 2,
+      "asin": "B07ZP695PB",
+      "official_urls": [
+        "https://pocketalk.jp/pages/pocketalk-warranty",
+        "https://manual.pocketalk.com/pts/en/index.html",
+        "https://pocketalk.jp/pocketalk/sim-extension"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B07ZP695PB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-26_translator_candidates.json",
+        "path": "candidates[asin=B07ZP695PB].features"
+      },
+      "verified_article_specs": [
+        "型番：PTSGK",
+        "画面：2.8インチ",
+        "重量：約75g",
+        "翻訳時の接続：モバイル通信／Wi-Fi",
+        "付属グローバル通信：2年（初期設定の有効化から）"
+      ],
+      "check": "公式型番表PTSGK黒2年と当該Features一致。S/SPlus共通manual初期表示言語OKで有効化、2年開始。S2仕様を転用せず。現SIM延長対象S、期限後WiFi/テザリング継続。延長手続き期間・方式別費用は本文数値省略。"
+    },
+    {
+      "order": 3,
+      "asin": "B0FQPF59WR",
+      "official_urls": [
+        "https://vasco-translator.jp/translators/vasco-translator-q1/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0FQPF59WR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-26_translator_candidates.json",
+        "path": "candidates[asin=B0FQPF59WR].features"
+      },
+      "verified_article_specs": [
+        "画面：3.54インチ",
+        "重量：147g",
+        "接続：内蔵SIM／Wi-Fi",
+        "SIMデータ通信料：メーカー表示で永久無料",
+        "電話翻訳：最初の10分無料／追加は有料"
+      ],
+      "check": "国内Q1 PhantomBlack同型。音声86/カメラ113/テキスト108・MyVoice54と電話対応を混同しない。国内公式電話最初10分無料、その後900円10分パッケージをサポートで購入（原稿費用数値省略）。E1同梱を付与せず。"
+    },
+    {
+      "order": 4,
+      "asin": "B0CT378Q1M",
+      "official_urls": [
+        "https://wooask.jp/lineup/W12/",
+        "https://wooask.jp/",
+        "https://wooask.jp/support/userguide/",
+        "https://wooask.jp/wp-content/uploads/W12-User-manual-1.pdf"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0CT378Q1M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-26_translator_candidates.json",
+        "path": "candidates[asin=B0CT378Q1M].features"
+      },
+      "verified_article_specs": [
+        "画面：3.7インチタッチスクリーン",
+        "重量：103g",
+        "オンライン接続：Wi-Fi／テザリング",
+        "国内オフライン音声：日本語・英語など10言語",
+        "写真翻訳：オンライン専用"
+      ],
+      "check": "国内W12とASIN Features同じ10言語/写真オンライン限定。国内10は英日西中アラビア露仏独韓タイ、ダウンロード不要は当該Features。海外16言語版/事前DLを転用しない。144は74言語+70アクセント、オフライン144ではない。国内ページ途中の写真オフライン矛盾は冒頭注意と当該Featuresのオンライン専用で解消。接続先回線費を無料としない。"
+    },
+    {
+      "order": 5,
+      "asin": "B08BP1912B",
+      "official_urls": [
+        "https://pocketalk.jp/pages/pocketalk-warranty",
+        "https://manual.pocketalk.com/pts/en/index.html",
+        "https://pocketalk.jp/pocketalk/sim-extension"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B08BP1912B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-26_translator_candidates.json",
+        "path": "candidates[asin=B08BP1912B].features"
+      },
+      "verified_article_specs": [
+        "型番：PTSPGW",
+        "画面：3.97インチ",
+        "重量：約125g",
+        "付属グローバル通信：2年（初期設定の有効化から）",
+        "期限後：Wi-Fi／テザリング利用または有料延長"
+      ],
+      "check": "国内PTSPGW白SPlusとFeatures通信2年一致。公式同型番6ヶ月版もあり型番だけで付属期間を推定しない。S/SPlus共通manual起算・現延長資料・公式型番表照合。S2Plusと別世代、W翻訳終了はS/SPlus対象外。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n3d83ccce7e3e",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/nb99adca17a30",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n8d03aae390f1",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "official_gate_passed": true,
+  "unresolved_omitted_specs": [
+    "POCKETALK現行言語数は音声/テキスト別件数の確認を原稿で省略",
+    "Wooask国内10言語と海外16言語版を分離、国内のみ採用",
+    "通信無料はSIMデータ通信料のメーカー表示。Q1通話翻訳追加課金、V4一部発声有料を分離"
+  ],
+  "selection_changed": false,
+  "service_audit": {
+    "pocketalk_start": "S/SPlus共通公式manual L29-32: 初期表示言語を選びOKを押すとグローバル通信有効化、2年起算。購入日としない。",
+    "pocketalk_end": "現公式SIM延長はS/S2対象。期限後WiFi/テザリング継続。オンライン/serial延長は期限1年前〜期限後363日、新SIM交換は随時。価格は省略。",
+    "q1_phone": "国内公式最初10分無料、追加900円/10分はサポート購入。月ごとの無料回復とは記載しない。",
+    "w12_offline": "当該Featuresと国内公式10言語一致（英/日/西/中/アラビア/露/仏/独/韓/タイ）。写真オンライン専用。国内Featuresダウンロード不要。海外改版16言語の数値を転用しない。",
+    "pocketalk_bundle": "PTSPGWに6ヶ月版もある。今回当該候補Featuresに2年モデル明記、型番のみで期限を固定しない。入稿通常GUIで通信付属プラン照合。"
+  }
+}
