@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-30",
+  "checked_at": "2026-10-10",
+  "products": [
+    {
+      "asin": "B07H774Q42",
+      "name": "BoYata N21",
+      "source": "https://boyatajp.com/product/boyata-n21/",
+      "points": [
+        "高さと角度を無段階に調整",
+        "折り畳んで収納できるアルミ合金製",
+        "PC側と接地面に滑り止め"
+      ],
+      "specs": [
+        "対応目安：11〜17インチ",
+        "支持面の幅：29.5cm",
+        "耐荷重：20kg",
+        "重量：1.15kg",
+        "方式：折り畳み・高さと角度の無段階調整"
+      ],
+      "body": "画面の高さと角度を細かく合わせたいなら、二つのヒンジで調整するN21。PC側と接地面に滑り止めパッドを備え、使わないときは折り畳めます。ただし重さは1.15kgあるため、毎日の移動ではPCと合わせた荷物の重さも確認したいところ。対応インチ数に加え、底面の形と支持面、バッグに収まるかも見て選びましょう。",
+      "cautions": [
+        "重量1.15kgで軽量と断言しない。折畳可能と日常持運びの負担は別。",
+        "公式N21の奥行21cmと画像22cmに差があり奥行数値不使用。",
+        "17.3inch画像より本文上限17inchを優先。"
+      ],
+      "official_confirmation": "same_model_core_confirmed",
+      "source_evidence": "メーカーN21本文で折畳/無段階調整/20kg/1.15kg/支持面幅295mm。ASIN選抜タイトルN21と候補特徴を照合。梱包サイズらしき追加情報54×32×34cmは本体寸法に転用しない。"
+    },
+    {
+      "asin": "B08TLVKBMJ",
+      "name": "UGREEN 折り畳みノートPCスタンド 40289",
+      "source": "https://item.rakuten.co.jp/ugreen-gear/40289/",
+      "points": [
+        "5段階の高さ調整",
+        "折り畳んで付属ケースに収納",
+        "アルミ合金とシリコン保護"
+      ],
+      "specs": [
+        "対応目安：8〜17.3インチ",
+        "耐荷重：5kg",
+        "重量：220g",
+        "調整：5段階",
+        "素材：アルミ合金・シリコン"
+      ],
+      "body": "移動先でスタンドを広げて使うなら、付属のケースに収められるUGREENの40289。高さは5段階で選べ、本体は220gです。PCを支える部分と接地面にはシリコンを備えています。17.3インチまでが対応の目安ですが、重さは5kg以内で、底面の足や端の形が支えに合うかも確かめておきましょう。",
+      "cautions": [
+        "メーカー国内公式40289と5段階/220g/携帯収納の候補Features同文一致。",
+        "耐荷重5kg・8〜17.3inchは同SKUメーカーEU/TR公式で補完。",
+        "国内公式寸法40.64×24×15cmは折畳寸法と不整合のため本文不使用。"
+      ],
+      "official_confirmation": "same_model_japan_and_global_confirmed",
+      "additional_primary_sources": [
+        "https://www.ugreen.com/tr-tr/products/tr-40289",
+        "https://eu.ugreen.com/products/ugreen-laptop-stand-for-desk-adjustable"
+      ],
+      "source_evidence": "国内UGREEN公式楽天SKU40289に5段階/携帯収納/220gと候補同文Features一致。メーカーグローバル同40289で最大5kg/17.3inch補完。候補底面27×5.5×1cmと公式詳細欄40.64×24×15cmは一致せず寸法数値は不使用。"
+    },
+    {
+      "asin": "B0B5DRS12W",
+      "name": "エレコム PCA-LTSH8WH",
+      "source": "https://www.elecom.co.jp/products/PCA-LTSH8WH.html",
+      "points": [
+        "8段階の角度調整",
+        "折り畳み脚で高さを9.5cm追加",
+        "左右にスマートフォンを置ける"
+      ],
+      "specs": [
+        "対応目安：15.6インチまで",
+        "折り畳み時：約280×280×26mm",
+        "耐荷重：10kg",
+        "重量：約840g",
+        "角度：23〜53度の8段階／高さアップ脚：9.5cm"
+      ],
+      "body": "PCの角度に加えて、高さも上げたいならエレコムの脚付きモデル。8段階の角度調整と、高さを9.5cm追加する折り畳み脚を備えています。左右のスマートフォンスタンドも使えますが、収納時の面積は約28cm角、重さは約840g。バッグに入る広さを確認し、画面を高くする使い方では外付けキーボードを置く場所も考えておきましょう。",
+      "cautions": [
+        "公式が幅280×厚み280×高さ26mmと記載。本文は約280×280×26mm折畳時表記にし端末厚さと混同しない。",
+        "外付けキーボードは一般的な使い方の提案、付属とは書かない。",
+        "脚追加9.5cmを作業面絶対高さと混同しない。"
+      ],
+      "official_confirmation": "exact_model_official_confirmed",
+      "source_evidence": "メーカー同型PCA-LTSH8WH。HのないPCA-LTS8WHとは別。脚9.5cm/8段階23〜53度/折畳280×280×26mm/840g/10kg/15.6inchを確認。"
+    },
+    {
+      "asin": "B095W9HP4N",
+      "name": "BoYata N31 ミニスタンド",
+      "source": "https://boyatajp.com/product/boyata-n31/",
+      "points": [
+        "7〜14インチ向けの支持面",
+        "高さと角度を無段階に調整",
+        "折り畳んでバッグに収納"
+      ],
+      "specs": [
+        "対応目安：7〜14インチ",
+        "支持面：約250×210mm",
+        "耐荷重：5kg",
+        "素材：アルミ合金",
+        "方式：折り畳み・高さと角度の無段階調整"
+      ],
+      "body": "小さめのPCを使い、画面位置を細かく調整したい人にはN31。支持面は約250×210mmで、14インチまでのPCやタブレットが対応の目安です。折り畳んでバッグに入れられ、使用中は下の空間を小物の置き場所にできます。手前のフックとPCの厚みが合うかを確認し、腕に当たる場合は外付けキーボードで作業する配置も考えましょう。",
+      "cautions": [
+        "メーカー公式に商品コードB095W9HP4Nを明記。N21mini別製品仕様転用なし。",
+        "本文0.8kgと追加情報0.91kgは相違のため本体重量は不使用。",
+        "鉛筆挿入/逆向き推奨を本文に流用しない。外付けキーボードは購入判断の一般提案。"
+      ],
+      "official_confirmation": "exact_asin_official_confirmed",
+      "source_evidence": "メーカーN31ページの商品コードB095W9HP4Nが完全一致。7〜14inch/支持面250×210mm/5kg/折畳バッグ収納を確認。重量0.8と0.91差は本文不使用。"
+    },
+    {
+      "asin": "B0D637HRT5",
+      "name": "SODI 314",
+      "source": "https://sodigear.com/products/314-portable-laptop-stand",
+      "points": [
+        "折り畳み幅12.7cmの携帯モデル",
+        "6段階で15〜30度を選べる",
+        "185gの本体と収納袋"
+      ],
+      "specs": [
+        "対応目安：10〜15.6インチ",
+        "折り畳み時：12.7×4.4cm",
+        "重量：185g",
+        "耐荷重：最大5kg",
+        "角度：15〜30度の6段階"
+      ],
+      "body": "バッグの中でスタンドの場所を小さくしたいなら、折り畳むと12.7×4.4cmになるSODI 314。185gの本体に収納袋が付き、角度は15〜30度の6段階で調整できます。PCを支える部分にはシリコンパッドを備えています。対応インチ数だけで決めず、PCの重さや底面の形が支持部分に合うか、設置前に確認して使いましょう。",
+      "cautions": [
+        "商品Featuresの231gは比較対象iPhoneの重量、スタンド185gと区別。",
+        "公式冒頭180g表記は仕様表185gを優先。",
+        "国内タイトル10〜16inchよりメーカー仕様10〜15.6inchを保守的に使用。",
+        "315/回転式/縦置きSMS300の仕様混入なし。"
+      ],
+      "official_confirmation": "exact_model314_official_confirmed",
+      "source_evidence": "メーカーSODI314ページと候補Featuresモデル314一致。仕様表185g/5kg/15〜30度6段階/折畳12.7×4.4cm。候補231gは比較対象スマートフォン、本体重量にしない。"
+    },
+    {
+      "asin": "B0CPHX4R58",
+      "name": "MOFT 超薄型ノートパソコンスタンド 粘着タイプ",
+      "source": "https://www.moftjapan.com/products/moft-pc-stand",
+      "points": [
+        "PC底面に貼り付けて一緒に運ぶ",
+        "15度と25度の2段階を選ぶ",
+        "折り畳み厚さ3mmの通常粘着タイプ"
+      ],
+      "specs": [
+        "対応目安：11.6〜15.6インチ",
+        "本体：224×170×3mm",
+        "重量：89g",
+        "耐荷重：最大5kg",
+        "角度：15度・25度"
+      ],
+      "body": "PCとスタンドを一緒に持ち運びたいなら、底面に貼り付けるMOFTの粘着タイプ。畳んだ厚さは3mmで、展開すると15度と25度を選べます。貼り付けには224×170mm以上の平らな面が必要です。底面の通気口をふさがない位置に取り付けられるかを確認し、貼り付けずに使うモデルとの違いも見て選びましょう。",
+      "cautions": [
+        "通常粘着89g/224×170×3mmとAirflow65g/224×135×2.5mm、非粘着160g/250×180×4mmを区別。",
+        "選択タイトル放熱穴付きだけでAirflowと断定しない。",
+        "SurfacePro非対応、底面はヒンジ寄りの平らな面が必要。",
+        "候補同ASINの89g/3mm/5kg/リムーバブルグルーと国内メーカー通常粘着仕様が一致、同型確定。対応上限は候補Features15.6inchと公式16inchの狭い方15.6を使用。"
+      ],
+      "official_confirmation": "same_model_normal_adhesive_confirmed",
+      "source_evidence": "日本メーカー通常粘着タイプ仕様224×170×3mm/89g/5kgと候補同ASIN89g/3mm/リムーバブルグルー一致。通常粘着15/25度、上限は実測Features15.6inchを採用。Airflow65g/2.5mm、非粘着160g/4mmは転用しない。"
+    }
+  ],
+  "selection_preserved": true,
+  "jev": "not_used_no_review_analysis",
+  "related_public_evidence": [
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n48428c64a7f6_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_na550b03346d5_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_nb56841d4aeaf_live.html"
+  ],
+  "related_metadata_sources": [
+    "02_article/2026-04/_metadata.json",
+    "02_article/2026-05/_metadata.json"
+  ],
+  "baseline_commit": "2ada38b",
+  "excluded_official_gate_asins": [
+    "B0BZ8CBD36",
+    "B0BCK3V2X6",
+    "B0BBTTFQWT",
+    "B097HL2V8Q"
+  ],
+  "optional_specs_omitted": [
+    "N21奥行21cm/画像22cmと追加情報梱包寸法",
+    "UGREEN資料間相違の本体/折畳寸法",
+    "N31重量0.8kg/0.91kg",
+    "SODI仕様表にない折畳厚さ",
+    "MOFT通常粘着の放熱穴形状"
+  ]
+}

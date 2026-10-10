@@ -1,0 +1,29 @@
+{
+  "article": "02_article/2026-11/2026-11-30_画面の高さと収納を見直す。「ノートPCスタンド」6選.md",
+  "title_length": 26,
+  "checks": {
+    "six_products": true,
+    "selected_urls_order": true,
+    "two_intro_paragraphs": true,
+    "six_spec_quotes": true,
+    "no_placeholder": true,
+    "no_reviews_prices_claims": true,
+    "related_urls_only": true,
+    "no_new_sections_or_tables": true,
+    "paragraphs_under_200": true,
+    "research_title_sync": true,
+    "selected_raw_fields_and_machine_memo_vs_2ada38b": true,
+    "one_canonical_article_and_research": true,
+    "no_omitted_asins_reintroduced": true
+  },
+  "official_gate_passed": true,
+  "saved_preview": "pending_main_publisher",
+  "unresolved_specs": [],
+  "optional_specs_omitted": [
+    "N21奥行21cm/画像22cmと追加情報梱包寸法",
+    "UGREEN資料間相違の本体/折畳寸法",
+    "N31重量0.8kg/0.91kg",
+    "SODI仕様表にない折畳厚さ",
+    "MOFT通常粘着の放熱穴形状"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "published_date": "2026-11-30",
+  "filename": "2026-11-30_画面の高さと収納を見直す。「ノートPCスタンド」6選.md",
+  "title": "画面の高さと収納を見直す。「ノートPCスタンド」6選",
+  "category": "ワークスペース・デスク環境の最適化",
+  "tags": "おすすめガジェット ノートPCスタンド デスク環境 収納 テレワーク",
+  "product_count": 6,
+  "product_asins": [
+    "B07H774Q42",
+    "B08TLVKBMJ",
+    "B0B5DRS12W",
+    "B095W9HP4N",
+    "B0D637HRT5",
+    "B0CPHX4R58"
+  ],
+  "related_urls": [
+    "https://note.com/daily_gadget/n/n48428c64a7f6",
+    "https://note.com/daily_gadget/n/na550b03346d5",
+    "https://note.com/daily_gadget/n/nb56841d4aeaf"
+  ],
+  "research_file": "06_research/2026-11/2026-11-30_画面の高さと収納を見直す。「ノートPCスタンド」6選.md",
+  "status": "local_draft_qa_only",
+  "scheduled_time": "20:00 JST",
+  "unresolved_specs": [],
+  "integration_required": [
+    "monthly_metadata",
+    "schedule_ledger",
+    "shared_db",
+    "thumbnail",
+    "note_saved_preview"
+  ]
+}
