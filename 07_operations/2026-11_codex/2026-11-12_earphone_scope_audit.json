@@ -1,0 +1,2086 @@
+{
+  "date": "2026-11-12",
+  "topic_id": "daily_gadget_20261112_731daa9a",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 35,
+  "parent_groups": {
+    "B0H3WGCRTT": [
+      "B0CT857V89"
+    ],
+    "B0H8R252PB": [
+      "B0CP4RHK7X",
+      "B0CP4RQZ3L"
+    ],
+    "B0H83QM9R7": [
+      "B0FRSCXWSV"
+    ],
+    "B0H8R21Q7W": [
+      "B0DRVB48LJ"
+    ],
+    "B0D73C6Q6B": [
+      "B0CBKQZXT7"
+    ],
+    "B0FTZ8XV4Y": [
+      "B0FQFQDN6K"
+    ],
+    "B0FF4M74VK": [
+      "B0BZGTFF9L"
+    ],
+    "B0CDQ263BV": [
+      "B0BXKX64HG"
+    ],
+    "B0HJZGWLSK": [
+      "B0F3X9RLT6"
+    ],
+    "B0FGXNDD19": [
+      "B0F7QZZS1S"
+    ],
+    "B0FH6PC131": [
+      "B0DJNXX51D"
+    ],
+    "B0FQQ7YH8Z": [
+      "B0CGDX3F63"
+    ],
+    "B0DJLYK6TQ": [
+      "B0CRVN23LP"
+    ],
+    "B0HBQKTV51": [
+      "B0CSKFY1Q2"
+    ],
+    "B0FZ531B71": [
+      "B0CXPSBKVR"
+    ],
+    "B0D9FBP15N": [
+      "B0D2D67257"
+    ],
+    "B0GX63TNVN": [
+      "B0D2RGPTKM"
+    ],
+    "B0DBLXZ6HS": [
+      "B0D4Z8KJXY"
+    ],
+    "B0G4RC8JH6": [
+      "B0D4Z8NPH7"
+    ],
+    "B0DJBMYTHW": [
+      "B0D7ZMNRFY"
+    ],
+    "B0GWMP8561": [
+      "B0D7ZZCHFV"
+    ],
+    "B0GS2FCRFY": [
+      "B0DBHRWRKC"
+    ],
+    "B0FGCSP1B3": [
+      "B0DHZYMCH8"
+    ],
+    "B0FQ5B8L81": [
+      "B0DJCWXJKB"
+    ],
+    "B0CK4V2WCW": [
+      "B0DJNXH5KV"
+    ],
+    "B0DJQKP9RJ": [
+      "B0DJQH79Q7"
+    ],
+    "B0GY85RDW4": [
+      "B0DK53QZ8J"
+    ],
+    "B0F5W6RH7K": [
+      "B0DLGJCTPK"
+    ],
+    "B0FLNWNNXG": [
+      "B0DQ9N9S5V"
+    ],
+    "B0FG2XCMNF": [
+      "B0FCSGGHLL"
+    ],
+    "B0H3P4R6LC": [
+      "B0FPQN7DBD"
+    ],
+    "B0H414M9JW": [
+      "B0FWC7ZSTK"
+    ],
+    "B0HJQD4YDP": [
+      "B0GLGJTQ7C"
+    ],
+    "B0H8PG9JJN": [
+      "B0H8P9N9W7"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B07MGWM3V3",
+      "title": "Dreamegg ホワイトノイズマシン ナイトライト 睡眠の質向上 【24種癒し音×32段階音量×イヤホン対応】 タイマー付き Classic D1",
+      "maker": "Dreamegg",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Dreamegg",
+      "historical_tier": 1,
+      "parent_asin": "B0GFWBY5DV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-24",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-24",
+          "title": "眠る前の音を整える「ホワイトノイズマシン」5選",
+          "asin": "B094VD37YW"
+        },
+        {
+          "published_date": "2026-06-25",
+          "title": "自然音で集中. 焚き火や川の音を再現する「癒やしマシン」 5 選",
+          "asin": "B094VD37YW"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-24_眠る前の音を整える「ホワイトノイズマシン」.md",
+          "date": "2026-10-24",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "30日窓内のローカル研究票言及が採用品か除外/参考か要確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外; 30日窓内の同ASIN/親掲載: 2026-10-24",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08BNRF1PN",
+      "title": "【テレビでご紹介】Dreamegg ホワイトノイズマシン バッテリー内蔵 29種癒し音 イヤホン対応 高 音質 騒音対策 Classic D3 Pro",
+      "maker": "Dreamegg",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "【テレビでご紹介】Dreamegg",
+      "historical_tier": 1,
+      "parent_asin": "B0C2TK8PM3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-11",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-11",
+          "title": "自然音で集中。集中力を高める「ホワイトノイズマシン」 4 選",
+          "asin": "B08BNRF1PN"
+        },
+        {
+          "published_date": "2026-06-05",
+          "title": "低気圧頭痛をケア。心身を癒す「リラックスガジェット」 6 選",
+          "asin": "B0C58BNLP1"
+        },
+        {
+          "published_date": "2026-03-19",
+          "title": "睡眠負債を返済。心地よい入眠を誘う「快眠デバイス」 5 選",
+          "asin": "B0C58BNLP1"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B094VD37YW",
+      "title": "Dreamegg ホワイトノイズマシン ナイトライト 睡眠の質向上 【24種癒し音×32段階音量調節×イヤホン対応】タイマー付き USB給電 赤ちゃん 寝かしつけ ブラウンノイズ ホワイトノイズ 発生器 胎内音 オルゴール 睡眠/作業/仕事/勉強用 BGM 安眠グッズ 集中力を高める 騒音対策 耳鳴り緩和 睡眠導入 スピーカー Classic D1（ホワイト）",
+      "maker": "Dreamegg",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Dreamegg",
+      "historical_tier": 1,
+      "parent_asin": "B0GFWBY5DV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-24",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-24",
+          "title": "眠る前の音を整える「ホワイトノイズマシン」5選",
+          "asin": "B094VD37YW"
+        },
+        {
+          "published_date": "2026-06-25",
+          "title": "自然音で集中. 焚き火や川の音を再現する「癒やしマシン」 5 選",
+          "asin": "B094VD37YW"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-24_眠る前の音を整える「ホワイトノイズマシン」.md",
+          "date": "2026-10-24",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "30日窓内のローカル研究票言及が採用品か除外/参考か要確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外; 30日窓内の同ASIN/親掲載: 2026-10-24",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B097TVLB4F",
+      "title": "【OWC直営】 OWC Thunderbolt Dock（サンダーボルト ドック）TB4対応 11ポートドッキングステーション / iPhoneやiPadにも対応/独立型デイジーチェーン ×3 / Thunderbolt 4 ×4 / USB-A ×4 / SDカードスロット/イヤホンジャック/ギガビット・イーサネット / 4K-8K接続 / 96W給電",
+      "maker": "【OWC直営】",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "【OWC直営】",
+      "historical_tier": 1,
+      "parent_asin": "B0GJZ6JDXN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-30",
+          "title": "9 月のベストバイ。秋のデスクを整える「USB-C ドック」 6 選",
+          "asin": "B097TVLB4F"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09K74SRXM",
+      "title": "オーディオテクニカ ATH-202USB ヘッドセット USB 有線 ノイズキャンセリング マイク付き インナーイヤー イヤホン 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 web会議 テレワーク windows mac Chrome",
+      "maker": "オーディオテクニカ",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "オーディオテクニカ",
+      "historical_tier": 2,
+      "parent_asin": "B0BR3Z9K27",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0B74752CR",
+      "title": "イヤホン翻訳機 通訳機 公式 Wooask M6 PLUS ウーアスク プラス 【オフライン対応版】 イヤホン型 AI翻訳機 オフライン 翻訳機 127言語対応 高精度 通話 音楽再生可能 Bluetooth ハンズフリートーク 英語 中国語 フランス語 イタリア語 日本語",
+      "maker": "Wooask",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Wooask",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0B74752CR"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0B823S1NR",
+      "title": "オーディオテクニカ AT2020USB-X コンデンサーマイク ミュートボタン付き 音量調整 イヤホン出力 USB-Type-C ドライバー不要 ゲーミング 配信用 USB マイク テレワーク/ストリーマー/コンテンツクリエーター/ゲーマー向け/ PC PS4 PS5 国内正規品",
+      "maker": "オーディオテクニカ",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "オーディオテクニカ",
+      "historical_tier": 1,
+      "parent_asin": "B0FRLX599C",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-22",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-22",
+          "title": "声をクリアに届ける「USBマイク」7選",
+          "asin": "B0B823S1NR"
+        },
+        {
+          "published_date": "2026-07-23",
+          "title": "旅日記を声で書く。高精度な「音声入力マイク」 6 選",
+          "asin": "B0B823S1NR"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-22_声をクリアに届ける「USBマイク」7選.md",
+          "date": "2026-10-22",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "30日窓内のローカル研究票言及が採用品か除外/参考か要確認"
+      ],
+      "exclusion_reason": "ワイヤレス接続をローカル仕様で確認できない; 30日窓内の同ASIN/親掲載: 2026-10-22",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0B9X1RY8G",
+      "title": "UGREEN Zapix Magsafe充電器 2 in 1マグネット 充電スタンド Qi認証 ワイヤレス充電器 7.5W/5W 2台同時急速充電 横向き・縦向きで角度調整 イヤホン iPhone 17/16/15/14/13/12シリーズAirPods Pro/3/2/1など適用 LED表示 USB-Cケーブル付き",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": "B0B9X1RY8G",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-06",
+          "title": "置くだけで充電。スタンドとマグネットパッドの「ワイヤレス充電器」 8 選",
+          "asin": "B0B9X1RY8G"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BK49VSMD",
+      "title": "FIFINE ダイナミックポットキャストマイク USB/XLR接続可能 カーディオイドパターン単一指向性 USBケーブル付属 PC/プレステ/サウンドカード/ミキサー対応 イヤホン出力端子付き ワンタッチミュート グレイ風防付き ゲーム実況 ボイスチャット ライブ配信 ポッドキャスト テレワーク ナレーション録音に最適 AmpliTank K688",
+      "maker": "FIFINE",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "FIFINE",
+      "historical_tier": 2,
+      "parent_asin": "B0HCN6ZC51",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-28",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-28",
+          "title": "ポッドキャストを始める。高音質「ダイナミックマイク」 6 選",
+          "asin": "B0BK49VSMD"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "ワイヤレス接続をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BRC9V334",
+      "title": "Timekettle M3 イヤホン翻訳機 オフライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ブラック",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0BRCB6L44",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0BRCDYNXS"
+        },
+        {
+          "published_date": "2026-04-05",
+          "title": "海外会議も怖くない。リアルタイムで話せる「AI 翻訳機」 6 選",
+          "asin": "B0BVBMY745"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BRCDYNXS",
+      "title": "Timekettle M3 イヤホン翻訳機 オフライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ホワイト",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0BRCB6L44",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0BRCDYNXS"
+        },
+        {
+          "published_date": "2026-04-05",
+          "title": "海外会議も怖くない。リアルタイムで話せる「AI 翻訳機」 6 選",
+          "asin": "B0BVBMY745"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BVBMY745",
+      "title": "Timekettle M3 イヤホン翻訳機 オンライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ホワイト",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Timekettle",
+      "historical_tier": 3,
+      "parent_asin": "B0BRCB6L44",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0BRCDYNXS"
+        },
+        {
+          "published_date": "2026-04-05",
+          "title": "海外会議も怖くない。リアルタイムで話せる「AI 翻訳機」 6 選",
+          "asin": "B0BVBMY745"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BVBPJ91Z",
+      "title": "Timekettle M3 イヤホン翻訳機 オンライン式 43言語96アクセント タイムケトル 音楽・通話可能 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ブラック",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0BRCB6L44",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0BRCDYNXS"
+        },
+        {
+          "published_date": "2026-04-05",
+          "title": "海外会議も怖くない。リアルタイムで話せる「AI 翻訳機」 6 選",
+          "asin": "B0BVBMY745"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BXKX64HG",
+      "title": "オーディオテクニカ ATH-SQ1TW2 PBW ワイヤレスイヤホン bluetooth/小型 軽量 / 最大20時間再生 / 低遅延/外音取込み/マルチポイント/マルチペアリング/防水 IPX5",
+      "maker": "audio-technica",
+      "maker_source": "商品名audio-technica/オーディオテクニカ正規化",
+      "maker_live_verified": false,
+      "db_brand": "オーディオテクニカ",
+      "historical_tier": 1,
+      "parent_asin": "B0CDQ263BV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BZGTFF9L",
+      "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電",
+      "maker": "SONY",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SONY",
+      "historical_tier": 2,
+      "parent_asin": "B0FF4M74VK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0C2G4PGYS",
+      "title": "オーディオテクニカ AT2040USB ダイナミックマイク 単一指向性/ノイズ抑制/ワンタッチミュート/イヤホン出力端子付き ゲーミング 配信用 USB マイク ゲーム実況 ボイスチャット ライブ配信 ポッドキャスト テレワーク ナレーション録音 PC PS4 PS5 【国内正規品】",
+      "maker": "オーディオテクニカ",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "オーディオテクニカ",
+      "historical_tier": 1,
+      "parent_asin": "B0H3JMLGMJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-22",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-22",
+          "title": "声をクリアに届ける「USBマイク」7選",
+          "asin": "B0C2G4PGYS"
+        },
+        {
+          "published_date": "2026-06-28",
+          "title": "ポッドキャストを始める。高音質「ダイナミックマイク」 6 選",
+          "asin": "B0C2G4PGYS"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-22_声をクリアに届ける「USBマイク」7選.md",
+          "date": "2026-10-22",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "30日窓内のローカル研究票言及が採用品か除外/参考か要確認"
+      ],
+      "exclusion_reason": "ワイヤレス接続をローカル仕様で確認できない; 30日窓内の同ASIN/親掲載: 2026-10-22",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C58BNLP1",
+      "title": "Dreamegg ホワイトノイズマシン バッテリー内蔵 29種癒し音 無段階音量調節 イヤホン対応 騒音対策 快眠グッズ 不眠対策 赤ちゃん 泣き止め 寝かしつけ D3 Pro（ホワイト）",
+      "maker": "Dreamegg",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Dreamegg",
+      "historical_tier": 1,
+      "parent_asin": "B0C2TK8PM3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-11",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-11",
+          "title": "自然音で集中。集中力を高める「ホワイトノイズマシン」 4 選",
+          "asin": "B08BNRF1PN"
+        },
+        {
+          "published_date": "2026-06-05",
+          "title": "低気圧頭痛をケア。心身を癒す「リラックスガジェット」 6 選",
+          "asin": "B0C58BNLP1"
+        },
+        {
+          "published_date": "2026-03-19",
+          "title": "睡眠負債を返済。心地よい入眠を誘う「快眠デバイス」 5 選",
+          "asin": "B0C58BNLP1"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CBJF4XLV",
+      "title": "イヤホン 有線イヤホン 3.5mmジャック HIFI音質 音量調整 重低音 ノイズキャンセリング マイク付き 通話可能 ハイレゾ クリア通話 音量調節 ステレオイヤフォン ヘッドホン",
+      "maker": "イヤホン",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HGRMZ5MN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CBKQZXT7",
+      "title": "ソニー(SONY)ワイヤレスノイズキャンセリングイヤホン WF-1000XM5 :【VGP2025金賞】 / 完全ワイヤレス/圧倒的ノイズキャンセリング性能/小型軽量設計/高性能マイク通話品質/Amazon Alexa搭載/Bluetooth/LDAC対応 / 最大8時間連続再生 / IPX4防滴性能 / マルチポイント対応/ブラック/WF-1000XM5 BC",
+      "maker": "SONY",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SONY",
+      "historical_tier": 1,
+      "parent_asin": "B0D73C6Q6B",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-22",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-22",
+          "title": "会議も音楽もこれ一台。マルチポイント対応「イヤホン」 6 選",
+          "asin": "B0CBKQZXT7"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CGDX3F63",
+      "title": "Jabra Elite 8 Active 完全ワイヤレスイヤホン ダークグレー [国内正規品] ハイブリッドアクティブノイズキャンセリング (ANC) 搭載 IP68 防塵 防水 Dolby Audio 空間サウンド 風切り音抑制ヒアスルー 高性能6マイク通話テクノロジー スポーツ マルチポイント 2台同時接続 Bluetooth 5.3 ジャブラ",
+      "maker": "Jabra",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Jabra",
+      "historical_tier": 2,
+      "parent_asin": "B0FQQ7YH8Z",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-28",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-28",
+          "title": "スポーツの秋に向けて。ジムで使いたい「時計とイヤホン」 7 選",
+          "asin": "B0CGDX3F63"
+        },
+        {
+          "published_date": "2026-07-03",
+          "title": "汗や雨に強い。防水性能に優れた「完全ワイヤレス」 6 選",
+          "asin": "B0CGDX3F63"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CMFQTT2X",
+      "title": "エルニュート RECO-PEN ボイスレコーダー ペン型 ICレコーダー 32GB ワンタッチ録音 イヤホン再生可能 LN-0901VR-K (ブラック)",
+      "maker": "エルニュート",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0DQY4267Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CP4RHK7X",
+      "title": "Anker Soundcore P40i オフホワイト | （Bluetooth 5.3） 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 2.0 / マルチポイント接続 / 最大60時間再生 / PSE技術基準適合】",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0H8R252PB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-27",
+          "title": "旅行中も電池切れなし。長時間再生の「タフイヤホン」 6 選",
+          "asin": "B0CP4RQZ3L"
+        },
+        {
+          "published_date": "2026-01-28",
+          "title": "【Anker徹底比較】コスパ最強「Soundcore」オーディオ10選",
+          "asin": "B0CP4RQZ3L"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CP4RQZ3L",
+      "title": "Anker Soundcore P40i (Bluetooth 5.3) 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 2.0 / マルチポイント接続 / 最大60時間再生 / PSE技術基準適合】ブラック",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0H8R252PB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-27",
+          "title": "旅行中も電池切れなし。長時間再生の「タフイヤホン」 6 選",
+          "asin": "B0CP4RQZ3L"
+        },
+        {
+          "published_date": "2026-01-28",
+          "title": "【Anker徹底比較】コスパ最強「Soundcore」オーディオ10選",
+          "asin": "B0CP4RQZ3L"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CRVN23LP",
+      "title": "Anker Soundcore Sport X20（Bluetooth 5.3）【完全ワイヤレスイヤホン/カナル型/耳掛け/フック型/アクティブノイズキャンセリング/外音取り込み/音声通話 / IP68防塵防水規格/ 完全防塵・防水/最大48時間音楽再生 / 専用アプリ対応/PSE技術基準適合】ブラック",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0DJLYK6TQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-28",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-28",
+          "title": "スポーツの秋に向けて。ジムで使いたい「時計とイヤホン」 7 選",
+          "asin": "B0CRVN23LP"
+        },
+        {
+          "published_date": "2026-07-03",
+          "title": "汗や雨に強い。防水性能に優れた「完全ワイヤレス」 6 選",
+          "asin": "B0CRVN23LP"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CSKFY1Q2",
+      "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック",
+      "maker": "Bose",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Bose",
+      "historical_tier": 1,
+      "parent_asin": "B0HBQKTV51",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-29",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-29",
+          "title": "耳を塞がない快適さ。骨伝導＆「オープンイヤー」最新版 7 選",
+          "asin": "B0CSKFY1Q2"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CT857V89",
+      "title": "【2026年アップグレード版】AOKIMI ワイヤレスイヤホン bluetooth イヤホン V12 小型軽量 ブルートゥースHi-Fi 最大36時間再生 ぶるーとゅーす コードレス ENCノイズキャンセリング 自動ペアリング Type-C充電 マイ",
+      "maker": "AOKIMI",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0H3WGCRTT",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CXPSBKVR",
+      "title": "Nothing (ナッシング) ワイヤレスイヤホン Nothing Ear【VGP 2025 金賞】ノイズキャンセリング/ChatGPT対応/Bluetooth / 最大40.5時間使用可能 / 軽量/外音取り込み/急速充電/ハイレゾオーディオ/iPhone&Android対応/ホワイト",
+      "maker": "Nothing",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Nothing",
+      "historical_tier": 2,
+      "parent_asin": "B0FZ531B71",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-22",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-22",
+          "title": "会議も音楽もこれ一台。マルチポイント対応「イヤホン」 6 選",
+          "asin": "B0CXPSBKVR"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D2D67257",
+      "title": "SOUNDPEATS Capsule3 Pro Plus ワイヤレスイヤホン【ノイズキャンセリング イヤホン／ハイレゾ／LDAC／MEMSドライバー／マルチポイント対応／最大43時間再生】完全ワイヤレスイヤホン Bluetooth5.3／イヤホン／専用アプリ サウンドピーツ 技適認証取得",
+      "maker": "SOUNDPEATS",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOUNDPEATS",
+      "historical_tier": 2,
+      "parent_asin": "B0D9FBP15N",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-27",
+          "title": "旅行中も電池切れなし。長時間再生の「タフイヤホン」 6 選",
+          "asin": "B0D2D67257"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D2RGPTKM",
+      "title": "Anker Soundcore K20i ホワイト | （Bluetooth 5.3）【完全ワイヤレスイヤホン/インナーイヤーイヤホン / IPX5防水規格 / 最大36時間再生 / 専用アプリ対応/PSE技術基準適合】",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0GX63TNVN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D4Z8KJXY",
+      "title": "【VGP 2025 金賞】EarFun Air Pro 4 ワイヤレスイヤホン Bluetooth 5.4/50dBアダプティブ式 ハイブリッドANC/最先端SoC「QCC3091」aptX Losslessに対応/ハイレゾ LDAC対応/Snapdragon Sound™ に対応/Auracast™に対応/最大52時間再生【6マイクAI 通話/PSE認証済み】 装着検出機能 (ブラック)",
+      "maker": "EarFun",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "EarFun",
+      "historical_tier": 1,
+      "parent_asin": "B0DBLXZ6HS",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-03",
+          "title": "汗や雨に強い。防水性能に優れた「完全ワイヤレス」 6 選",
+          "asin": "B0D4Z8KJXY"
+        },
+        {
+          "published_date": "2026-06-27",
+          "title": "旅行中も電池切れなし。長時間再生の「タフイヤホン」 6 選",
+          "asin": "B0D4Z8KJXY"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D4Z8NPH7",
+      "title": "Anker Soundcore V20i ブラック | （Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン / IP55防塵防水規格/ 最大36時間再生 / マルチポイント接続】",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0G4RC8JH6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D7ZMNRFY",
+      "title": "Anker Soundcore Liberty 4 Pro（Bluetooth 5.3）【カナル型完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 3.5 / A.C.A.A 4.0 / ハイレゾ/感圧 & スワイプセンサー搭載/PSE技術基準適合】パールホワイト",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0DJBMYTHW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-22",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-22",
+          "title": "会議も音楽もこれ一台。マルチポイント対応「イヤホン」 6 選",
+          "asin": "B0D7ZMNRFY"
+        },
+        {
+          "published_date": "2026-01-28",
+          "title": "【Anker徹底比較】コスパ最強「Soundcore」オーディオ10選",
+          "asin": "B0D7ZLPSJG"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D7ZZCHFV",
+      "title": "Anker Soundcore AeroFit 2 (Bluetooth 5.4)【オープンイヤー型ワイヤレスイヤホン / IP55防塵防水規格/ 最大42時間再生 / マルチポイント接続/PSE技術基準適合】 ミッドナイトブラック",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 2,
+      "parent_asin": "B0GWMP8561",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-29",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-29",
+          "title": "耳を塞がない快適さ。骨伝導＆「オープンイヤー」最新版 7 選",
+          "asin": "B0D7ZZCHFV"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DBHRWRKC",
+      "title": "Xiaomi Redmi Buds 6 Play ワイヤレスイヤホン ノイズリダクション 超軽量 36時間再生 低遅延 急速充電 クリアな通話 | AI通話時ノイズリダクション Google Fast Pair対応 急速充電 軽量デザイン",
+      "maker": "Xiaomi",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Xiaomi",
+      "historical_tier": 2,
+      "parent_asin": "B0GS2FCRFY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DHZYMCH8",
+      "title": "ソニー(SONY) オープンイヤー LinkBudsOpen Bluetooth ワイヤレスイヤホン 防滴 ロングバッテリー最大8時間連続再生 マイク付 迫力の音質 軽量 コンパクト カラフルケースカバー WF-L910 ブラック",
+      "maker": "SONY",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SONY",
+      "historical_tier": 2,
+      "parent_asin": "B0FGCSP1B3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-29",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-29",
+          "title": "耳を塞がない快適さ。骨伝導＆「オープンイヤー」最新版 7 選",
+          "asin": "B0DHZYMCH8"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DJCWXJKB",
+      "title": "audio-technica ATH-CKS50TW2 BG 完全ワイヤレスイヤホン bluetooth マグネティックスイッチ機能 最大約65時間再生 IP55 防水防塵 マルチポイント対応 置き忘れアラート ヒアスルー 低遅延モード 急速充電 Qiワイヤレス充電対応 ベージュ",
+      "maker": "audio-technica",
+      "maker_source": "商品名audio-technica/オーディオテクニカ正規化",
+      "maker_live_verified": false,
+      "db_brand": "audio-technica",
+      "historical_tier": 2,
+      "parent_asin": "B0FQ5B8L81",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-29",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-29",
+          "title": "【Amazonスマイルセール】充電器・PC周辺機器・梅雨対策家電の狙い目 10 選",
+          "asin": "B0DJCWXJKB"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DJNXH5KV",
+      "title": "JBL SOUNDGEAR SENSE 完全ワイヤレスイヤホン/オープンイヤー/マルチポイント / IP54防水 / Bluetooth5.3 / 耳を塞がない/音漏れ防止/ブルー/JBLSNDGEARSNSBLU",
+      "maker": "JBL",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "JBL",
+      "historical_tier": 1,
+      "parent_asin": "B0CK4V2WCW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-29",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-29",
+          "title": "耳を塞がない快適さ。骨伝導＆「オープンイヤー」最新版 7 選",
+          "asin": "B0DJNXH5KV"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DJNXX51D",
+      "title": "JBL WAVE BUDS 2 完全ワイヤレスイヤホン Bluetooth/アクティブノイズキャンセリング/マルチポイント / IP54防水防塵 / アプリ対応/USB Type-C/ブラック",
+      "maker": "JBL",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "JBL",
+      "historical_tier": 2,
+      "parent_asin": "B0FH6PC131",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DJQH79Q7",
+      "title": "JBL ENDURANCE RACE 2 完全ワイヤレスイヤホン 防水・防塵 スポーツモード 急速充電 ノイズキャンセリング 外音取込 マルチポイント対応 軽量 コンパクト スポーツ (ブラック)",
+      "maker": "JBL",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "JBL",
+      "historical_tier": 2,
+      "parent_asin": "B0DJQKP9RJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-28",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-28",
+          "title": "スポーツの秋に向けて。ジムで使いたい「時計とイヤホン」 7 選",
+          "asin": "B0DJQH79Q7"
+        },
+        {
+          "published_date": "2026-07-03",
+          "title": "汗や雨に強い。防水性能に優れた「完全ワイヤレス」 6 選",
+          "asin": "B0DJQH79Q7"
+        },
+        {
+          "published_date": "2026-06-27",
+          "title": "旅行中も電池切れなし。長時間再生の「タフイヤホン」 6 選",
+          "asin": "B0DJQH79Q7"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DJXZ55CR",
+      "title": "bluetooth ヘッドセット ワイヤレス イヤホン 【2025年新登場 Bluetooth5.3+EDR】 片耳タイプ 耳掛け型 左右耳兼用 最大180待受時間 500mAh充電ケース付き マイク内蔵 ハンズフリー通話 CVC8.0ノイズリダクション",
+      "maker": "ノーブランド",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ノーブランド",
+      "historical_tier": 3,
+      "parent_asin": "B0F9XXTV74",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DK53QZ8J",
+      "title": "【VGP 2026 受賞】TOZO NC9 イヤホン bluetooth ワイヤレスイヤホン アクティブノイズキャンセリング 45dB低減 小型軽量 中低音域 暖色系音質 カスタムEQ アプリ対応 外音取り込み/AIチャット/音声通訳会議記録/カスタムタッチ操作 IPX8防水 最大約60時間の再生 ぶるーとゅーす イヤフォン USB-C急速充電（ブラック",
+      "maker": "TOZO",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "TOZO",
+      "historical_tier": 1,
+      "parent_asin": "B0GY85RDW4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-27",
+          "title": "旅行中も電池切れなし。長時間再生の「タフイヤホン」 6 選",
+          "asin": "B0DK53QZ8J"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DK71JL4Z",
+      "title": "Vasco Translator E1 | イヤホン型AI翻訳機 | 50言語以上に対応、ハンズフリーで自然な会話",
+      "maker": "Vasco",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0DK71JL4Z"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "ワイヤレス接続をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DLGC2G5C",
+      "title": "【新装発売通話専用G2】 Bluetooth ヘッドセット Earaku(イアラク) 2026版 マイク付き 通話専用 耳を塞がない 日本語音声ガイド ワイヤレス イヤホン ブルートゥース ENCノイズキャンセリング オープンイヤー Bluetooth 5.3 軽量 約28g 両耳 耳掛け式 無線 【ネイビー】",
+      "maker": "Bluetooth",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Bluetooth",
+      "historical_tier": 1,
+      "parent_asin": "B0B27V6XLB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DLGJCTPK",
+      "title": "Anker Soundcore AeroClip ミッドナイトブラック | （Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン/イヤーカフ / IP55 防塵・防水規格 / 最大32時間再生 / マルチポイント接続】",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0F5W6RH7K",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DNSZPZF8",
+      "title": "【音質強化バージョン】タイプc イヤホン TYPE-Cイヤホン 有線 【iphone15,16対応】 USB-Cイヤホン有線 TYPE-Cジャック HIFI音質 音量調整 重低音 高密着遮音設計 マイク付き 通話可能 ハイレゾ クリア通話 音量調節",
+      "maker": "タイプc",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HGB64FG1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DPML49WJ",
+      "title": "【2025新版 iPhone15対応】イヤホン 有線 タイプC 有線ヘッドセットマイク内蔵 有線HiFi 騒音低減 クリア通話 リモコン付き 快適な装着感 type-c 人間工学 通話対応 音量調整 遅延なし 重低音 小型·軽量 防水 usb c i",
+      "maker": "イヤホン",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HH4M1WLR",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DQ9N9S5V",
+      "title": "テクニクス Technics ワイヤレスイヤホン EAH-AZ100-K ブラック ノイズキャンセリング 3台マルチポイント ハイレゾ音質再生",
+      "maker": "Technics",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Technics",
+      "historical_tier": 1,
+      "parent_asin": "B0FLNWNNXG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-22",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-22",
+          "title": "会議も音楽もこれ一台。マルチポイント対応「イヤホン」 6 選",
+          "asin": "B0DQ9N9S5V"
+        },
+        {
+          "published_date": "2026-06-06",
+          "title": "静寂の中で仕事。最強の「ノイズキャンセリング」 6 選",
+          "asin": "B0DQ9N9S5V"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DRD697NV",
+      "title": "【ビジネスに最適！スムーズな通話を実現！】Bluetooth ヘッドセット マイク付き Bluetooth5.4+EDR イヤホンマイク オープンイヤー イヤホン ビジネスイヤホン ENCノイズキャンセリング技術 35g超軽量 究極のフィット感 最大20時間連続再生 耳を塞がない 自動ペアリング クリアな通話体験 ハンズフリー通話/テレワーク/Web会議/zoom (ブラック)",
+      "maker": "Bluetooth",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Bluetooth",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DRVB48LJ",
+      "title": "Anker Soundcore Liberty 5 ミッドナイトブラック | 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 3.5 / 3Dオーディオ / Dolby Audio対応/ワイヤレス充電/マルチポイント接続/外音取り込み / 最",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0H8R21Q7W",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DXDVLV4W",
+      "title": "UGREEN 6個セット マグネット式 ケーブルホルダー 小型 ケーブルクリップ 配線止め 配線整理 貼り付け 強力粘着 USB配線収納 コード・ケーブルオーガナイザー 卓上 デスク 机 壁 車 ナイトテーブル 固定 type-c 充電ケーブル lanケーブル 電源コード キーボードライン マウス イヤホン ヘッドホンコード などに対応 黒",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F3X9RLT6",
+      "title": "ソニー(SONY) WF-C710N グラスブルー ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+      "maker": "SONY",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SONY",
+      "historical_tier": 2,
+      "parent_asin": "B0HJZGWLSK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F7QZZS1S",
+      "title": "JVCケンウッド Victor HA-A22T-B ワイヤレスイヤホン Bluetooth Ver.5.4 合計26時間再生 ノイズキャンセリング マイク付き 小型 軽量 防滴 シアーデザイン ブラック",
+      "maker": "JVCケンウッド",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "JVCケンウッド",
+      "historical_tier": 2,
+      "parent_asin": "B0FGXNDD19",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F9L766K2",
+      "title": "Chamequinho イヤホン翻訳機 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語対応",
+      "maker": "Chamequinho",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJM4S66K",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FCLXMC5F",
+      "title": "イヤホン bluetooth ワイヤレスイヤホン【2026最新ブルートゥースイヤホン】Bluetooth5.4 ENC通話ノイズキャンセリング 接続瞬時 タッチ操作 HiFi音質 iphone イヤフォン 自動ペアリング 最大40時間再生 超快適設計",
+      "maker": "イヤホン",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0FFYGNYCD",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FCSGGHLL",
+      "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
+      "maker": "Bose",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Bose",
+      "historical_tier": 1,
+      "parent_asin": "B0FG2XCMNF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-22",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-22",
+          "title": "会議も音楽もこれ一台。マルチポイント対応「イヤホン」 6 選",
+          "asin": "B0FCSGGHLL"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FDGK5C23",
+      "title": "Timekettle W4 Pro AI通訳機 翻訳機能付きイヤホン 通話翻訳 動画翻訳 音楽·通話対応 双方向同時通訳 オフライン翻訳 52言語106アクセント対応 音声翻訳機 AI翻訳機 高精度 指向性ノイズ低減 ハンズフリートーク Bluetooth接続 iOS15.0&Android7.0以上対応 専用アプリが必要 海外旅行 出張 タイムケトル グレイ",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0G1BZVPVH",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0FDGK5C23"
+        },
+        {
+          "published_date": "2026-07-17",
+          "title": "旅行の相談を AI に。音声入力に強い「AI デバイス」 5 選",
+          "asin": "B0FDGK5C23"
+        },
+        {
+          "published_date": "2026-06-07",
+          "title": "夏休みの海外準備。翻訳機と SIM、変換プラグ 6 選",
+          "asin": "B0GHY547M3"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FGX9C7S4",
+      "title": "Timekettle W4 翻訳機能付きイヤホン 骨声紋センサー内蔵 98％精度 52ヶ国語と106アクセント AI通訳機 AIによる自動誤り訂正 翻訳イヤホン 専用アプリが必要 ビジネス商談 海外出張 翻訳機 タイムケトル ブルー",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FRG6GSFC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FL1BH9VM",
+      "title": "【ドイツ レッド•ドット賞受賞】耳栓 みみせん 完全遮音【認定聴覚保護具】DJcong(ディージェーコング) ノイズキャンセリング イヤホン アイマスク 睡眠用と併用 いびき防止グッズ イヤーピース ホワイトノイズ 飛行機 快適グッズ ノイズ キャンセリングヘッドホン 日用品",
+      "maker": "DJcong",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "DJcong",
+      "historical_tier": 1,
+      "parent_asin": "B0HHSP537S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FPQN7DBD",
+      "title": "【Amazon.co.jp 限定】JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/ネイビー /JBLTOURPRO3BLU",
+      "maker": "JBL",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "JBL",
+      "historical_tier": 1,
+      "parent_asin": "B0H3P4R6LC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-22",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-22",
+          "title": "会議も音楽もこれ一台。マルチポイント対応「イヤホン」 6 選",
+          "asin": "B0FPQN7DBD"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FQBYRSP1",
+      "title": "UGREEN Zapix Qi2 15W ワイヤレス充電器 2 in 1 Magsafe対応 イヤホン iPhone充電器 90°調整可能 磁気 無線 ワイヤレス急速 iPhone 17/16/15/14/13/12シリーズ & AirPods対応 LED表示 USB-Cケーブル付き",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-07-10",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-10",
+          "title": "【Amazonプライムデー】期間中に狙いたいお得ガジェット 20 選",
+          "asin": "B0FQBYRSP1"
+        },
+        {
+          "published_date": "2026-04-10",
+          "title": "充電ケーブルを廃止。MagSafe で整う「ワイヤレスデスク」 7 選",
+          "asin": "B0FQBYRSP1"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FQFQDN6K",
+      "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース",
+      "maker": "Apple",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Apple",
+      "historical_tier": 1,
+      "parent_asin": "B0FTZ8XV4Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FRSCXWSV",
+      "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生 | iPhone/Android対応 アクティブノイズキャンセリング 外音取り込みモード マルチポ",
+      "maker": "Xiaomi",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Xiaomi",
+      "historical_tier": 1,
+      "parent_asin": "B0H83QM9R7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FWC7ZSTK",
+      "title": "SOUNDPEATS(サウンドピーツ) C30 ノイズキャンセリング ワイヤレスイヤホン ブラックグレー | 【VGP2026 金賞】 -52dBハイブリッドANC/LDAC&Hi-Res対応/最大52時間再生/Bluetooth6.0/6マイク通話",
+      "maker": "SOUNDPEATS",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOUNDPEATS",
+      "historical_tier": 1,
+      "parent_asin": "B0H414M9JW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FWZWY2BW",
+      "title": "HiDock P1 AI ボイスレコーダー 【世界初ワイヤレスイヤホンで録音可能】文字起こし 要約 先端LLM利用 ECMマイク搭載 パソコン対応 アプリ連動 仕事効率化AIツール ワンタッチ録音 通話/対面/呟き録音モード 75言語対応 クラウドストレージ無制限 64GB 大容量 議事録/ボイスメモ/講義ノート スペースグレー",
+      "maker": "HiDock",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "HiDock",
+      "historical_tier": 2,
+      "parent_asin": "B0H8XM6GXZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-29",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-29",
+          "title": "会話を文字で振り返る「AIボイスレコーダー」6選",
+          "asin": "B0FWZWY2BW"
+        },
+        {
+          "published_date": "2026-03-25",
+          "title": "AI 議事録の決定版。Zoom 連携から「単体機」まで 7 選",
+          "asin": "B0FWZWY2BW"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-29_会話を文字で振り返る「AIボイスレコーダー」6選.md",
+          "date": "2026-10-29",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "30日窓内のローカル研究票言及が採用品か除外/参考か要確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外; 30日窓内の同ASIN/親掲載: 2026-10-29",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GGJY5D2D",
+      "title": "MUSICOZY スリープヘッドホン Bluetooth 5.4 ヘッドバンド ワイヤレスイヤホン 音楽スリープイヤホン 睡眠アイマスク HDステレオスピーカー付き ワークアウト ランニング 旅行 ヨガに最適 ギフトに最適 両面ブラック",
+      "maker": "MUSICOZY",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GPRKLN6S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-19",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-19",
+          "title": "睡眠負債を返済。心地よい入眠を誘う「快眠デバイス」 5 選",
+          "asin": "B0GGJY5D2D"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GHMTVSMW",
+      "title": "イヤホン bluetooth 【イヤーカフ感覚でおしゃれ+最大35時間使用可能】Open Wearable Stereo 耳を塞がない オープンイヤー ワイヤレスイヤホン 空気伝導 骨伝導風 耳挟み式 超軽量5g 快適装着 誤操作防止 LEDディスプ",
+      "maker": "イヤホン",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HLWSBWQ2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GHY547M3",
+      "title": "Timekettle W4 Pro AI通訳機 翻訳機能付きイヤホン 通話翻訳 動画翻訳 音楽·通話対応 双方向同時通訳 オフライン翻訳 52言語106アクセント対応 音声翻訳機 AI翻訳機 高精度 指向性ノイズ低減 ハンズフリートーク Bluetooth接続 iOS15.0&Android7.0以上対応 専用アプリが必要 海外旅行 出張 タイムケトル (パープル, W4 Pro)",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0G1BZVPVH",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0FDGK5C23"
+        },
+        {
+          "published_date": "2026-07-17",
+          "title": "旅行の相談を AI に。音声入力に強い「AI デバイス」 5 選",
+          "asin": "B0FDGK5C23"
+        },
+        {
+          "published_date": "2026-06-07",
+          "title": "夏休みの海外準備。翻訳機と SIM、変換プラグ 6 選",
+          "asin": "B0GHY547M3"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GLGJTQ7C",
+      "title": "SOUNDPEATS(サウンドピーツ) UU2イヤーカフ イヤホン LDAC対応/ハイレゾ/最大42時間再生/Bluetooth6.0 | 12mm径チタンコーティング振動板/ デュアルマグネット/物理ボタン/アプリSOUNDPEATS対応 3Dオーディオ マルチポイント接続 IPX5防水 耳挟み式 開放型 ワイヤレスイヤホン オープンイヤーイヤホン POPClip2（ブラック）",
+      "maker": "SOUNDPEATS",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOUNDPEATS",
+      "historical_tier": 1,
+      "parent_asin": "B0HJQD4YDP",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GRVBWVST",
+      "title": "イヤホン翻訳機 Chamequinho 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語 音声翻訳機 Bluetooth接続 専用アプリ iOS&Android対応 海外旅行 出張 音楽·通話 （オンライン式、オフライン式）",
+      "maker": "イヤホン翻訳機",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJLYBHXV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GVSMPQT6",
+      "title": "ワイヤレスイヤホン Bluetoothイヤホン 4つのシリコンマイク搭載 AIスマート ENC通話 最大60時間再生 Bluetooth6.0 ERD | 2026年最新 ブルートゥースイヤホン 全音域HI-FI音質 低遅延 接続瞬時 WEB会議/運",
+      "maker": "ワイヤレスイヤホン",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HGMRBZ61",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GW97QRTP",
+      "title": "イヤホン bluetooth ワイヤレスイヤホン Aetyt 耳掛け式 ぶるーとゅーす イヤフォン オープンイヤー Type-C急速充電 空気伝導 耳塞がず快適 LEDディスプレイ 落ちない 快適装着感 ランニング スポーツ 片耳/両耳モード 通勤通",
+      "maker": "イヤホン",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0H7T4CKM2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H3ZLP6K9",
+      "title": "Bluetoothイヤホン ワイヤレスイヤホン IPX7防水 最大60時間再生 低遅延 iPhone/Android対応 | Bluetooth 6.0の安定した低遅延接続とHiFi音質を楽しめるワイヤレスイヤホン IPX7防水 最大60時間再生 片",
+      "maker": "Bluetoothイヤホン",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HFJ96RWP",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H8P9N9W7",
+      "title": "SOUNDPEATS Air6 Pro ワイヤレスイヤホン ハイレゾ ノイズキャンセリング（ブラック）【VGP2026 SUMMER 金賞】 | 最大52時間再生／Dolby Audio対応/aptX Lossless／LDAC対応/bluetooth6.0／QCC3091／急速充電対応／マルチポイント／ワイヤレス充電／8マイク AI ENC／装着検知／専用アプリ／IPX5防水防塵",
+      "maker": "SOUNDPEATS",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOUNDPEATS",
+      "historical_tier": 2,
+      "parent_asin": "B0H8PG9JJN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H8RP48N4",
+      "title": "イヤホンAI翻訳機 骨伝導イヤホン ワイヤレス Bluetooth 6.1 オープンイヤーヘッドホン双方向同時通訳 [並行輸入品]",
+      "maker": "イヤホンAI翻訳機",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJGHSH1X",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-13",
+      "scope_pending": [
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B07MGWM3V3",
+      "title": "Dreamegg ホワイトノイズマシン ナイトライト 睡眠の質向上 【24種癒し音×32段階音量×イヤホン対応】 タイマー付き Classic D1",
+      "reason": "別用途・アクセサリ・別構造の本体を除外; 30日窓内の同ASIN/親掲載: 2026-10-24"
+    },
+    {
+      "asin": "B08BNRF1PN",
+      "title": "【テレビでご紹介】Dreamegg ホワイトノイズマシン バッテリー内蔵 29種癒し音 イヤホン対応 高 音質 騒音対策 Classic D3 Pro",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B094VD37YW",
+      "title": "Dreamegg ホワイトノイズマシン ナイトライト 睡眠の質向上 【24種癒し音×32段階音量調節×イヤホン対応】タイマー付き USB給電 赤ちゃん 寝かしつけ ブラウンノイズ ホワイトノイズ 発生器 胎内音 オルゴール 睡眠/作業/仕事/勉強用 BGM 安眠グッズ 集中力を高める 騒音対策 耳鳴り緩和 睡眠導入 スピーカー Classic D1（ホワイト）",
+      "reason": "別用途・アクセサリ・別構造の本体を除外; 30日窓内の同ASIN/親掲載: 2026-10-24"
+    },
+    {
+      "asin": "B097TVLB4F",
+      "title": "【OWC直営】 OWC Thunderbolt Dock（サンダーボルト ドック）TB4対応 11ポートドッキングステーション / iPhoneやiPadにも対応/独立型デイジーチェーン ×3 / Thunderbolt 4 ×4 / USB-A ×4 / SDカードスロット/イヤホンジャック/ギガビット・イーサネット / 4K-8K接続 / 96W給電",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B09K74SRXM",
+      "title": "オーディオテクニカ ATH-202USB ヘッドセット USB 有線 ノイズキャンセリング マイク付き インナーイヤー イヤホン 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 web会議 テレワーク windows mac Chrome",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0B74752CR",
+      "title": "イヤホン翻訳機 通訳機 公式 Wooask M6 PLUS ウーアスク プラス 【オフライン対応版】 イヤホン型 AI翻訳機 オフライン 翻訳機 127言語対応 高精度 通話 音楽再生可能 Bluetooth ハンズフリートーク 英語 中国語 フランス語 イタリア語 日本語",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0B823S1NR",
+      "title": "オーディオテクニカ AT2020USB-X コンデンサーマイク ミュートボタン付き 音量調整 イヤホン出力 USB-Type-C ドライバー不要 ゲーミング 配信用 USB マイク テレワーク/ストリーマー/コンテンツクリエーター/ゲーマー向け/ PC PS4 PS5 国内正規品",
+      "reason": "ワイヤレス接続をローカル仕様で確認できない; 30日窓内の同ASIN/親掲載: 2026-10-22"
+    },
+    {
+      "asin": "B0B9X1RY8G",
+      "title": "UGREEN Zapix Magsafe充電器 2 in 1マグネット 充電スタンド Qi認証 ワイヤレス充電器 7.5W/5W 2台同時急速充電 横向き・縦向きで角度調整 イヤホン iPhone 17/16/15/14/13/12シリーズAirPods Pro/3/2/1など適用 LED表示 USB-Cケーブル付き",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BK49VSMD",
+      "title": "FIFINE ダイナミックポットキャストマイク USB/XLR接続可能 カーディオイドパターン単一指向性 USBケーブル付属 PC/プレステ/サウンドカード/ミキサー対応 イヤホン出力端子付き ワンタッチミュート グレイ風防付き ゲーム実況 ボイスチャット ライブ配信 ポッドキャスト テレワーク ナレーション録音に最適 AmpliTank K688",
+      "reason": "ワイヤレス接続をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0BRC9V334",
+      "title": "Timekettle M3 イヤホン翻訳機 オフライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ブラック",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BRCDYNXS",
+      "title": "Timekettle M3 イヤホン翻訳機 オフライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ホワイト",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BVBMY745",
+      "title": "Timekettle M3 イヤホン翻訳機 オンライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ホワイト",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BVBPJ91Z",
+      "title": "Timekettle M3 イヤホン翻訳機 オンライン式 43言語96アクセント タイムケトル 音楽・通話可能 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ブラック",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0C2G4PGYS",
+      "title": "オーディオテクニカ AT2040USB ダイナミックマイク 単一指向性/ノイズ抑制/ワンタッチミュート/イヤホン出力端子付き ゲーミング 配信用 USB マイク ゲーム実況 ボイスチャット ライブ配信 ポッドキャスト テレワーク ナレーション録音 PC PS4 PS5 【国内正規品】",
+      "reason": "ワイヤレス接続をローカル仕様で確認できない; 30日窓内の同ASIN/親掲載: 2026-10-22"
+    },
+    {
+      "asin": "B0C58BNLP1",
+      "title": "Dreamegg ホワイトノイズマシン バッテリー内蔵 29種癒し音 無段階音量調節 イヤホン対応 騒音対策 快眠グッズ 不眠対策 赤ちゃん 泣き止め 寝かしつけ D3 Pro（ホワイト）",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CBJF4XLV",
+      "title": "イヤホン 有線イヤホン 3.5mmジャック HIFI音質 音量調整 重低音 ノイズキャンセリング マイク付き 通話可能 ハイレゾ クリア通話 音量調節 ステレオイヤフォン ヘッドホン",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CMFQTT2X",
+      "title": "エルニュート RECO-PEN ボイスレコーダー ペン型 ICレコーダー 32GB ワンタッチ録音 イヤホン再生可能 LN-0901VR-K (ブラック)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DJXZ55CR",
+      "title": "bluetooth ヘッドセット ワイヤレス イヤホン 【2025年新登場 Bluetooth5.3+EDR】 片耳タイプ 耳掛け型 左右耳兼用 最大180待受時間 500mAh充電ケース付き マイク内蔵 ハンズフリー通話 CVC8.0ノイズリダクション",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DK71JL4Z",
+      "title": "Vasco Translator E1 | イヤホン型AI翻訳機 | 50言語以上に対応、ハンズフリーで自然な会話",
+      "reason": "ワイヤレス接続をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0DLGC2G5C",
+      "title": "【新装発売通話専用G2】 Bluetooth ヘッドセット Earaku(イアラク) 2026版 マイク付き 通話専用 耳を塞がない 日本語音声ガイド ワイヤレス イヤホン ブルートゥース ENCノイズキャンセリング オープンイヤー Bluetooth 5.3 軽量 約28g 両耳 耳掛け式 無線 【ネイビー】",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DNSZPZF8",
+      "title": "【音質強化バージョン】タイプc イヤホン TYPE-Cイヤホン 有線 【iphone15,16対応】 USB-Cイヤホン有線 TYPE-Cジャック HIFI音質 音量調整 重低音 高密着遮音設計 マイク付き 通話可能 ハイレゾ クリア通話 音量調節",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DPML49WJ",
+      "title": "【2025新版 iPhone15対応】イヤホン 有線 タイプC 有線ヘッドセットマイク内蔵 有線HiFi 騒音低減 クリア通話 リモコン付き 快適な装着感 type-c 人間工学 通話対応 音量調整 遅延なし 重低音 小型·軽量 防水 usb c i",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DRD697NV",
+      "title": "【ビジネスに最適！スムーズな通話を実現！】Bluetooth ヘッドセット マイク付き Bluetooth5.4+EDR イヤホンマイク オープンイヤー イヤホン ビジネスイヤホン ENCノイズキャンセリング技術 35g超軽量 究極のフィット感 最大20時間連続再生 耳を塞がない 自動ペアリング クリアな通話体験 ハンズフリー通話/テレワーク/Web会議/zoom (ブラック)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DXDVLV4W",
+      "title": "UGREEN 6個セット マグネット式 ケーブルホルダー 小型 ケーブルクリップ 配線止め 配線整理 貼り付け 強力粘着 USB配線収納 コード・ケーブルオーガナイザー 卓上 デスク 机 壁 車 ナイトテーブル 固定 type-c 充電ケーブル lanケーブル 電源コード キーボードライン マウス イヤホン ヘッドホンコード などに対応 黒",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0F9L766K2",
+      "title": "Chamequinho イヤホン翻訳機 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語対応",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FCLXMC5F",
+      "title": "イヤホン bluetooth ワイヤレスイヤホン【2026最新ブルートゥースイヤホン】Bluetooth5.4 ENC通話ノイズキャンセリング 接続瞬時 タッチ操作 HiFi音質 iphone イヤフォン 自動ペアリング 最大40時間再生 超快適設計",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0FDGK5C23",
+      "title": "Timekettle W4 Pro AI通訳機 翻訳機能付きイヤホン 通話翻訳 動画翻訳 音楽·通話対応 双方向同時通訳 オフライン翻訳 52言語106アクセント対応 音声翻訳機 AI翻訳機 高精度 指向性ノイズ低減 ハンズフリートーク Bluetooth接続 iOS15.0&Android7.0以上対応 専用アプリが必要 海外旅行 出張 タイムケトル グレイ",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FGX9C7S4",
+      "title": "Timekettle W4 翻訳機能付きイヤホン 骨声紋センサー内蔵 98％精度 52ヶ国語と106アクセント AI通訳機 AIによる自動誤り訂正 翻訳イヤホン 専用アプリが必要 ビジネス商談 海外出張 翻訳機 タイムケトル ブルー",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FL1BH9VM",
+      "title": "【ドイツ レッド•ドット賞受賞】耳栓 みみせん 完全遮音【認定聴覚保護具】DJcong(ディージェーコング) ノイズキャンセリング イヤホン アイマスク 睡眠用と併用 いびき防止グッズ イヤーピース ホワイトノイズ 飛行機 快適グッズ ノイズ キャンセリングヘッドホン 日用品",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FQBYRSP1",
+      "title": "UGREEN Zapix Qi2 15W ワイヤレス充電器 2 in 1 Magsafe対応 イヤホン iPhone充電器 90°調整可能 磁気 無線 ワイヤレス急速 iPhone 17/16/15/14/13/12シリーズ & AirPods対応 LED表示 USB-Cケーブル付き",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FWZWY2BW",
+      "title": "HiDock P1 AI ボイスレコーダー 【世界初ワイヤレスイヤホンで録音可能】文字起こし 要約 先端LLM利用 ECMマイク搭載 パソコン対応 アプリ連動 仕事効率化AIツール ワンタッチ録音 通話/対面/呟き録音モード 75言語対応 クラウドストレージ無制限 64GB 大容量 議事録/ボイスメモ/講義ノート スペースグレー",
+      "reason": "別用途・アクセサリ・別構造の本体を除外; 30日窓内の同ASIN/親掲載: 2026-10-29"
+    },
+    {
+      "asin": "B0GGJY5D2D",
+      "title": "MUSICOZY スリープヘッドホン Bluetooth 5.4 ヘッドバンド ワイヤレスイヤホン 音楽スリープイヤホン 睡眠アイマスク HDステレオスピーカー付き ワークアウト ランニング 旅行 ヨガに最適 ギフトに最適 両面ブラック",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GHMTVSMW",
+      "title": "イヤホン bluetooth 【イヤーカフ感覚でおしゃれ+最大35時間使用可能】Open Wearable Stereo 耳を塞がない オープンイヤー ワイヤレスイヤホン 空気伝導 骨伝導風 耳挟み式 超軽量5g 快適装着 誤操作防止 LEDディスプ",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GHY547M3",
+      "title": "Timekettle W4 Pro AI通訳機 翻訳機能付きイヤホン 通話翻訳 動画翻訳 音楽·通話対応 双方向同時通訳 オフライン翻訳 52言語106アクセント対応 音声翻訳機 AI翻訳機 高精度 指向性ノイズ低減 ハンズフリートーク Bluetooth接続 iOS15.0&Android7.0以上対応 専用アプリが必要 海外旅行 出張 タイムケトル (パープル, W4 Pro)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GRVBWVST",
+      "title": "イヤホン翻訳機 Chamequinho 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語 音声翻訳機 Bluetooth接続 専用アプリ iOS&Android対応 海外旅行 出張 音楽·通話 （オンライン式、オフライン式）",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GW97QRTP",
+      "title": "イヤホン bluetooth ワイヤレスイヤホン Aetyt 耳掛け式 ぶるーとゅーす イヤフォン オープンイヤー Type-C急速充電 空気伝導 耳塞がず快適 LEDディスプレイ 落ちない 快適装着感 ランニング スポーツ 片耳/両耳モード 通勤通",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0H8RP48N4",
+      "title": "イヤホンAI翻訳機 骨伝導イヤホン ワイヤレス Bluetooth 6.1 オープンイヤーヘッドホン双方向同時通訳 [並行輸入品]",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GVSMPQT6",
+      "title": "ワイヤレスイヤホン Bluetoothイヤホン 4つのシリコンマイク搭載 AIスマート ENC通話 最大60時間再生 Bluetooth6.0 ERD | 2026年最新 ブルートゥースイヤホン 全音域HI-FI音質 低遅延 接続瞬時 WEB会議/運",
+      "reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0H3ZLP6K9",
+      "title": "Bluetoothイヤホン ワイヤレスイヤホン IPX7防水 最大60時間再生 低遅延 iPhone/Android対応 | Bluetooth 6.0の安定した低遅延接続とHiFi音質を楽しめるワイヤレスイヤホン IPX7防水 最大60時間再生 片",
+      "reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留"
+    }
+  ],
+  "variant_policy": "同親の色/サイズ/バンドルを候補群として残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "候補に残る未確認事項は公式照合前の採用根拠としない"
+  ],
+  "historical_tier_distribution": {
+    "1": 22,
+    "2": 13
+  }
+}

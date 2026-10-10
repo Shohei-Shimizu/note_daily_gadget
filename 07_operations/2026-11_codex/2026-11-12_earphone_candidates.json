@@ -1,0 +1,1399 @@
+{
+  "generated_at": "2026-10-10T01:08:10+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261112_731daa9a",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261112_earphone"
+  ],
+  "fetched_count": 37,
+  "dedup_count": 35,
+  "candidates": [
+    {
+      "asin": "B0CT857V89",
+      "title": "【2026年アップグレード版】AOKIMI ワイヤレスイヤホン bluetooth イヤホン V12 小型軽量 ブルートゥースHi-Fi 最大36時間再生 ぶるーとゅーす コードレス ENCノイズキャンセリング 自動ペアリング Type-C充電 マイ",
+      "url": "https://www.amazon.co.jp/dp/B0CT857V89?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CT857V89?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51DrOzVhYqL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "本製品は技術基準適合認証を取得しています（周波数帯域：2.40-2.48GHz）。認証番号は219-239064です。技適マークと技適番号は充電ケースの蓋にありますので、ケースを開けるとご覧いただけます。",
+        "最新のBluetooth 5.4と高忠実な音質：このワイヤレスイヤホンは先進的なBluetooth 5.4技術とアンテナ技術を採用し、15mのBluetooth範囲で高速かつ安定した伝送を提供します。内蔵の高音質オーディオチップが音楽の細部まで捉え、鮮明な高音と適度な低音のある豊かなサウンドを実現します。また、ENC通話ノイズキャンセリング技術により、通話中の環境ノイズやエコーを低減し、クリアなBluetoothイヤホンのHi-Fi音質を実現します。これらの特長により、ユーザーは優れた音響体験を得ることができます。",
+        "自動ペアリングとスマートタッチコントロール：ワイヤレスイヤホンをマグネット充電ケースから取り出すだけで、Bluetoothイヤホンが自動的にオンになり、お使いのデバイスに接続されます。スマートタッチコントロールを採用した設計により、タッチ操作がストレスなく行え、簡単なタッチコントロールでで曲送り/曲戻し、音楽再生/停止、電話応答/終了/拒否、電源オン/オフ、音量調整、など基本的な操作が実現です。",
+        "Type-C急速充電&amp;36時間再生： 超軽量で大容量の3200mAhリチウム電池を搭載したポータブル充電ケースは、1回の充電で5～6時間以上途切れることなく音楽や通話を楽しむことができます。充電ケースとの合計で最大36時間使用できるので、使用時にバッテリー切れの心配がありません。急速充電対応のType-Cポートを搭載しているので、充電もさらにスピーディーに行えます。万が一、イヤホンの電池が切れても、10分間充電して60分間再生することが可能です。",
+        "わずか32gの軽さ、携常便利：ワイヤレスヘッドホン全体でも32gと、小型で繊細、手のひらやポケットに収まるサイズで、外出先でもバッグに入れて簡単に持ち運べ、全く邪魔になりません。人間工学に基づいて設計されたワイヤレスイヤホンは、耳にしっかりとフィットし、簡単に落ちることはありません。",
+        "防水性能と優れたアフターサービス：優れた防水設計により、日常生活での防水性を完全に実現できることを示しています。外出中、突然雨に降られてもイヤホンが濡れても壊れる心配はありません。ジョギング、ランニング、ヨガ、スポーツ、ジム、サイクリングなどの使用も相性抜群。さらに、商品のご購入から2年間の保証がついております。製品に関してお困りな事や不具合等がございましたら、弊社は全力で対応させていただきます。是非お気軽にお問い合わせください。連絡方法：「アカウントサービス」＞「注文履歴」＞「販売元」＞「質問する」。"
+      ],
+      "maker": "AOKIMI",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 5611,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0HGR2Z43M",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:14:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CP4RHK7X",
+      "title": "Anker Soundcore P40i オフホワイト | （Bluetooth 5.3） 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 2.0 / マルチポイント接続 / 最大60時間再生 / PSE技術基準適合】",
+      "url": "https://www.amazon.co.jp/dp/B0CP4RHK7X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CP4RHK7X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61bXdMEoojL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ウルトラノイズキャンセリング 2.0: 周囲の騒音レベルに応じてノイズキャンセリングの強さを自動で調節。環境に左右されず音楽への没入感を極限まで高めます。",
+        "最大60時間の長時間再生：イヤホン本体が満充電の状態で最大12時間、充電ケースを合わせて使うと、最大60時間の音楽再生が可能。また10分間の充電で約5時間分の再生が可能な短時間充電にも対応しました。",
+        "大迫力のサウンド：Anker独自技術のBassUp技術と大型の11mmドライバーにより、深みのある低音と迫力のサウンドを実現しました。またSoundcoreアプリでお好みの音質に調整いただけます。",
+        "マルチポイント接続対応: スマートフォンで音楽、PCでWeb会議等、2台の端末に同時に接続できるストレスフリーなマルチポイント接続にも対応しました。",
+        "パッケージ内容：本体、充電ケース、イヤーチップ(5種)、USB-C&amp;USB-A ケーブル、安全マニュアル、クイックスタートガイド、技適マーク認証済み商品(周波数帯：2.40～2.48GHz)"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 333,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0H8R252PB",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:14:22+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CP4RQZ3L",
+      "title": "Anker Soundcore P40i (Bluetooth 5.3) 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 2.0 / マルチポイント接続 / 最大60時間再生 / PSE技術基準適合】ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CP4RQZ3L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CP4RQZ3L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61iR7cSGeKL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ウルトラノイズキャンセリング 2.0: 周囲の騒音レベルに応じてノイズキャンセリングの強さを自動で調節。環境に左右されず音楽への没入感を極限まで高めます。",
+        "最大60時間の長時間再生：イヤホン本体が満充電の状態で最大12時間、充電ケースを合わせて使うと、最大60時間の音楽再生が可能。また10分間の充電で約5時間分の再生が可能な短時間充電にも対応しました。",
+        "大迫力のサウンド：Anker独自技術のBassUp技術と大型の11mmドライバーにより、深みのある低音と迫力のサウンドを実現しました。またSoundcoreアプリでお好みの音質に調整いただけます。",
+        "マルチポイント接続対応: スマートフォンで音楽、PCでWeb会議等、2台の端末に同時に接続できるストレスフリーなマルチポイント接続にも対応しました。",
+        "パッケージ内容：本体、充電ケース、イヤーチップ(5種)、USB-C&amp;USB-A ケーブル、安全マニュアル、クイックスタートガイド、技適マーク認証済み商品(周波数帯：2.40～2.48GHz)"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 9220,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0H8R252PB",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:14:29+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FRSCXWSV",
+      "title": "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生 | iPhone/Android対応 アクティブノイズキャンセリング 外音取り込みモード マルチポ",
+      "url": "https://www.amazon.co.jp/dp/B0FRSCXWSV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FRSCXWSV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51MLg8bN61L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【最大42dBのアクティブノイズキャンセリング】ハイブリッドANCにより最大42dBのノイズを低減。完全ワイヤレスイヤホンとして、騒がしい電車や街中でも快適なリスニング環境を実現します。ノイズキャンセリングイヤホンとして、ノイズキャンセリング・標準・外音取り込みモードをシーンに合わせて切り替えられます。",
+        "【12.4mm大型ドライバーによる高音質サウンド】迫力ある重低音からクリアな高音までバランスよく再現。SBC/AACコーデック対応で高音質なサウンドを楽しめます。さらに、Xiaomi EarbudsアプリではカスタムEQ設定にも対応しています。",
+        "【AI通話ノイズリダクション】デュアルマイクとAIアルゴリズムにより、周囲の雑音や風切り音を低減。Bluetoothイヤホンとして、6m/sの風の中でもクリアな音声通話を実現し、通勤・通学はもちろんオンライン会議にも快適です。",
+        "【最大36時間再生＆USB Type-C急速充電】充電ケースとの併用で最大36時間再生を実現。USB Type-C充電に対応し、10分の急速充電で約2時間の音楽再生が可能です。長時間でも安心して使用できます。",
+        "【マルチポイント接続＆Google Fast Pair対応】マルチポイント接続に対応し、スマートフォン・タブレット・PCなど2台のデバイスをスムーズに切り替え可能。Google Fast Pairにより対応Android端末と簡単にペアリングできます。iPhone・Android対応で幅広いデバイスに対応。S・M・Lの3サイズイヤーピースを付属し、耳にフィットして耳が痛くなりにくい快適な装着感を実現します。"
+      ],
+      "maker": "Xiaomi",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 4987,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0HKHX9HV2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:14:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DRVB48LJ",
+      "title": "Anker Soundcore Liberty 5 ミッドナイトブラック | 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 3.5 / 3Dオーディオ / Dolby Audio対応/ワイヤレス充電/マルチポイント接続/外音取り込み / 最",
+      "url": "https://www.amazon.co.jp/dp/B0DRVB48LJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DRVB48LJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61+AmwttHaL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "進化したウルトラノイズキャンセリング3.5：Liberty 4のウルトラノイズキャンセリング 2.0から、ウルトラノイズキャンセリング 3.5に進化。環境に左右されず様々なシーンで圧倒的な静けさと没入感を提供します。",
+        "原音に忠実なハイレゾ再生：高音質コーデックLDACに対応し、従来のコーデック※と比較して3倍の情報量を伝送できるため、原音に忠実に音楽を再現します。",
+        "Dolby︎ Audio対応：Soundcoreの完全ワイヤレスイヤホンとして初めて対応。迫力あるサウンドを実現し、没入感のある音楽体験を提供します。",
+        "豊かでクリアな中高音域：9.2mmのダイナミックドライバーを搭載。歪みをおさえながら豊かで クリアなサウンドを実現。",
+        "迫力ある低音：Soundcoreの完全ワイヤレスイヤホンとして初めてバスレフ構造を採用。内部に設けられた2本のダクトが低音の共鳴を高めることで、リアルで迫力ある低音を実現。",
+        "外音取り込み性能も進化：Liberty 4から左右1基ずつマイクが増加し、外音をよりクリアかつ自然に取り込むことができます。",
+        "LDACとDolby Audioを併用できるマルチポイント接続：新たにLDACやDolby Audioとの併用にも対応。高音質のままマルチポイント接続ができます。",
+        "パッケージ内容：イヤホン本体、充電ケース、イヤーチップ (6種)、USB-C&amp;USB-A ケーブル、クイックスタートガイド、安全マニュアル、技適マーク認証済み商品(周波数帯：2.40〜2.48GHz)"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 4125,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0H8R21Q7W",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:14:44+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CBKQZXT7",
+      "title": "ソニー(SONY)ワイヤレスノイズキャンセリングイヤホン WF-1000XM5 :【VGP2025金賞】 / 完全ワイヤレス/圧倒的ノイズキャンセリング性能/小型軽量設計/高性能マイク通話品質/Amazon Alexa搭載/Bluetooth/LDAC対応 / 最大8時間連続再生 / IPX4防滴性能 / マルチポイント対応/ブラック/WF-1000XM5 BC",
+      "url": "https://www.amazon.co.jp/dp/B0CBKQZXT7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CBKQZXT7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41b9k9u3L+L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "世界最高クラスノイズキャンセリング（＊） 統合プロセッサーV2と、高音質ノイズキャンセリングプロセッサーQN2eにより、ハイレベルなノイズキャンセリング処理、音質信号処理を可能にしました。 また「マルチノイズセンサーテクノロジー」によりデュアルフィードバックマイクとフィードフォワードマイク、片耳３つずつのノイズキャンセリングマイクを搭載し圧倒的ノイズキャンセリング性能を実現しました。 これによりWF-1000XM4比でさらに20%のノイズ低減を可能にし、いまだかつてない静寂の中で再現性の高い音質をお楽しみいただけます。＊ 左右独立型ワイヤレスノイズキャンセリングヘッドホン市場において。2023年4月10日時点、ソニー調べ、電子情報技術産業協会（JEITA）基準に則る",
+        "心奪われる究極の音体感ソニー独自開発8.4ｍｍの新ドライバーユニット「ダイナミックドライバーX」。ドーム部とエッジ部に異なる素材を組み合わせた振動板構造で、柔らかいエッジが沈み込む低音域を、軽量高剛性のドームが伸びのある高音域を再生します。信号処理から再生まで高品位な処理で歪を抑え、再現性の高い圧倒的な高音質を実現します。",
+        "小型化・軽量化により実現した高い装着性とミニマルデザインソニー独自開発の薄型の新ドライバーユニットとメイン基板のSiP化により小型化を実現。前モデルWF-1000XM4では7.3gだった装着部はWF-1000XM5で5.9gまで軽量化しました。イヤホン本体の体積を従来機種より約25%小型化することで、耳との干渉を軽減し、快適な装着性を実現しています。装着部の内側は、イヤホン本体を耳との接触面で支える「エルゴノミック・サーフェス・デザイン」により、耳の内側にフィットする曲線形状を採用しています。さらに高さも抑えた形状設計により、耳から飛び出す部分が小さくなっているため、優れた装着安定性を実現しています。マイク部は金属に微細孔加工を施した凹凸のないデザインを採用することで、風ノイズを低減します。",
+        "ソニー完全ワイヤレス史上最高通話品質（＊）小型化を実現しながらも高い通話品質を実現。風ノイズ低減構造を採用すると共に、高精度ボイスピックアップテクノロジー、骨伝導センサーを採用することでソニー完全ワイヤレス史上最高通話品質を実現しました。",
+        "OSを選ばずに２台の機器に同時接続が可能で、Bluetooth接続の切り替え作業が不要です。 例えばプライベートスマホと会社のパソコンに接続しておけば、通勤中はスマホで音楽やコンテンツを視聴し、出社後はパソコンを開けば、イヤホンのBluetooth接続をし直す必要がなく、そのまま同じイヤホンでオンライン会議のイヤホンマイクとして通話が可能です。"
+      ],
+      "maker": "SONY",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 2830,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0D73C6Q6B",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:14:55+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FQFQDN6K",
+      "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース",
+      "url": "https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61kX+MI8wvL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "世界最高のインイヤーアクティブノイズキャンセリング ̶ AirPods Pro 2 と比べて最大2 倍の不要な雑音を低減*。聴いているものに完全に集中していられます*。",
+        "驚異的なオーディオパフォーマンス ̶ AirPods Pro 3 の息をのむような3D サウンドをどうぞ。新しい音響アーキテクチャが、低音をこれまでになく豊かに、一つひとつの楽器の音色を細部までクリアに再現。声は驚くほどあざやかに聞こえます。",
+        "心拍数センサー ̶ 50 種類ものワークアウトで心拍数と消費カロリーを把握できる心拍数センサーを搭載*。iPhone でムーブリングや歩数などもチェックできます。",
+        "ライブ翻訳 ̶ 様々な言語でのコミュニケーションをサポートするライブ翻訳*。AppleIntelligence によって実現しました*。",
+        "一段と長く使えるバッテリー ̶ 1 回の充電で、アクティブノイズキャンセリングを有効にした場合は最大8 時間*、外部音取り込みモードでヒアリング補助機能を使用した場合は最大10 時間駆動します*。",
+        "耳にしっかりフィット ̶ まったく新しいイヤーチップは、5 つのサイズを用意。着け心地がさらに安定し、あなたの耳にぴったりフィットします。オーディオパフォーマンスも全体的に向上しました*。",
+        "聴覚の健康 ̶ 大きな音の低減は、サイレンや工事などの周囲の耳障りな音のレベルを自動的に下げ、毎日を耳により心地よいものにする機能です。",
+        "パーソナルなリスニング体験 ̶ 次世代のアダプティブイコライゼーションが、あなたの耳の形状や装着状態に合わせて音の特徴をカスタマイズ*。内向きのマイクであなたの耳に届いている音を測定し、リアルタイムで調整します。",
+        "魔法のような体験 ̶ 自動切り替え機能により、接続するApple 製デバイスをシームレスに切り替えられます*。オーディオ共有を使えば、iPhone、iPad、Apple TV の音楽や番組を2 組のAirPods で共有することもできます*。",
+        "*免責事項 ̶ これらは製品の主な機能の概要です。詳しくは以下をご覧ください。"
+      ],
+      "maker": "Apple",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 2023,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FTZ8XV4Y",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:15:05+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BZGTFF9L",
+      "title": "ソニー(SONY) 完全ワイヤレスイヤホン WF-C700N :高性能ノイズキャンセリング搭載/軽量・小型設計/音質アップスケール機能搭載/連続音楽再生時間最長 7.5時間/IPX4防滴性能/急速充電",
+      "url": "https://www.amazon.co.jp/dp/B0BZGTFF9L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BZGTFF9L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41BqGVGEmsL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "左右に搭載したマイクを最適に制御し、騒音を打ち消す効果のある逆位相の音を高精度に生成。高いノイズキャンセリングで、電車やバスなどの騒音環境下、また街中やカフェなどの人の声が多い環境でも、音楽だけに没入できます。さらに、自然な外音取り込みも搭載しています",
+        "高音から低音までバランスが良く、特にボーカルや楽器の音を自然でクリアにお楽しみいただけます。さらに、ソニーの独自開発技術「DSEE」（＊）により、圧縮された音源で失われがちな高音域をCD音質相当までヘッドホン内で補完します。ストリーミング再生やMP3、Bluetoothの伝送コーデックなどにより圧縮された音源を、広がりのあるいい音で再生します。＊ DSEEは『Headphones Connect』アプリから機能を有効にすることでお楽しみいただけます",
+        "本体及びケースをコンパクトに設計。耳からの出っ張りを抑えることで装着感を高め、スマートな装着姿を実現します。長時間のリスニングでも疲れにくい快適な装着性を実現しています。さらにトレンドのくすみカラーを採用した、ラベンダー、セージグリーンとベーシックなホワイト・ブラックからファッションに合わせてお選びいただけます。",
+        "&#34;ノイズキャンセリングON時は本体最長7.5時間、ケース充電込で合計最長15時間（＊1）使用出来ます。また、10分充電で60分再生可能（＊2）のクイック充電にも対応。さらにIPX4の防滴性能（＊3）も搭載し、突然の雨や汗でも問題なく使用できます。 ＊1 完全ワイヤレスモデルはケース充電を含む。コーデックはAAC。DSEE/イコライザーの搭載モデルはOFF設定時、またその他機能は全て初期設定時 ＊2 コーデックはAAC、ノイズキャンセリング機能ON時、DSEE /イコライザー搭載モデルはOFF設定時、またその他機能は全て初期設定時 ＊3 ケースを除くヘッドホン本体のみ。あらゆる方向からの飛沫に対して本体機能を保護するものです。本機の音導管（音出口の筒部）、通気孔、マイク穴を除く&#34;",
+        "スマートフォンやiPhone、PCでのハンズフリー通話（＊）が可能。通話時に周囲のノイズを抑えて集音するノイズサプレッションにより、騒がしい環境でもノイズを抑え高い通話性能を実現します。さらに、風切り音を低減する構造によって、通話時時の風によるノイズを抑制して集音します。発話者の声をよりクリアに通話相手に届けることができます。＊ iPhoneやスマートフォン、PCがBluetooth機能を搭載し、HFPまたはHSPに対応している必要があります。お使いのソフトや環境により、対応しない場合がございます"
+      ],
+      "maker": "SONY",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 1301,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-07",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FF4M74VK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:15:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BXKX64HG",
+      "title": "オーディオテクニカ ATH-SQ1TW2 PBW ワイヤレスイヤホン bluetooth/小型 軽量 / 最大20時間再生 / 低遅延/外音取込み/マルチポイント/マルチペアリング/防水 IPX5",
+      "url": "https://www.amazon.co.jp/dp/B0BXKX64HG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BXKX64HG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61rJfUnYA8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "技適マーク認証済み商品 (周波数帯:2.4GHz帯)",
+        "■多彩な機能をさらに小さなボディに凝縮",
+        "■最小のカタチを追い求めた、アイコニックなスクエアデザイン",
+        "■前モデルと比較して体積約10％ダウンに成功。 イヤホン単体の重さは4.4gと、圧倒的なミニサイズ感を実現。",
+        "■人間工学に基づいた設計で快適な装着感をキープ"
+      ],
+      "maker": "audio-technica",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 871,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-07",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名audio-technica/オーディオテクニカ正規化",
+      "scope_pending": [],
+      "parent_asin": "B0CDQ263BV",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:15:22+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F3X9RLT6",
+      "title": "ソニー(SONY) WF-C710N グラスブルー ワイヤレスイヤホン 高性能ノイズキャンセリング Bluetoothロングバッテリー 外音取り込み IPX4防滴性能 軽量 コンパクト マルチポイント接続",
+      "url": "https://www.amazon.co.jp/dp/B0F3X9RLT6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F3X9RLT6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/519JZPgW7OL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "さらに進化した高性能ノイズキャンセリング",
+        "コンパクトながら一日中使えるロングバッテリー",
+        "AI技術を活用し、クリアな通話品質を実現",
+        "外音取り込み機能の向上",
+        "毎日使いたくなる、選べる４色のカラーバリエーション"
+      ],
+      "maker": "SONY",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 618,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-11",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0HJZGWLSK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:15:32+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F7QZZS1S",
+      "title": "JVCケンウッド Victor HA-A22T-B ワイヤレスイヤホン Bluetooth Ver.5.4 合計26時間再生 ノイズキャンセリング マイク付き 小型 軽量 防滴 シアーデザイン ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0F7QZZS1S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F7QZZS1S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51CzA+olvCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "本機は、シアーなデザインが特長のノイキャン搭載ワイヤレスイヤホンです。",
+        "✅透け感のあるシアーなデザイン___コンパクトで丸みのあるフォルムの充電ケースはストラップ付き。透け感のあるシアーなデザインは、ケースを開けなくても中身が見えて便利。カラーはモカ、アイスブルー、パープル、ホワイト、ブラックの5色。",
+        "✅スフレマットな質感と左右非対称カーブデザイン___イヤホン本体は耳へのフィット感と、着脱するとき指でつまみやすさを両立するデザイン。スイーツのような質感がユニークです。",
+        "✅いつでもクリアなサウンド___ノイズキャンセリング機能で周囲音を低減しクリアなサウンドを楽しむことができます。施設内アナウンスを聞き逃したくないときは、ワンタッチで外音取り込み機能をオンに。",
+        "✅最大26時間※の長時間再生___10分の充電で最大60分※の再生が可能なクイック充電にも対応しています。　　※使用条件により変わります。",
+        "✅雨や水しぶきに強い___外出中の急な天候の変化時などに雨や水しぶきが飛んでも使用が可能なIPX4相当の防滴仕様。　 ※JIS 保護等級4 級（IPX4）相当。イヤホン本体のみ対応。",
+        "✅選べる3つのサウンドモード___好みやシチュエーションに合わせて切り替えが可能な3つのサウンドモード（FLAT/BASS/CLEAR）を搭載。",
+        "✅付属品___イヤーピースXS,S,M,L各2個、充電用USBケーブル、充電ケース、ロゴステッカー"
+      ],
+      "maker": "JVCケンウッド",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 253,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-11",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FGXNDD19",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:15:41+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DJNXX51D",
+      "title": "JBL WAVE BUDS 2 完全ワイヤレスイヤホン Bluetooth/アクティブノイズキャンセリング/マルチポイント / IP54防水防塵 / アプリ対応/USB Type-C/ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DJNXX51D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DJNXX51D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51RRiy8LDiL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "技適マーク認証済み商品。 周波数帯:2.4 GHz – 2.4835 GHz",
+        "シリーズ初アクティブノイズキャンセリング搭載",
+        "前モデルから踏襲、“フタ無し”アイコニックなデザインの充電ケース",
+        "オーバルシェイプデザインによる快適な装着感と低音から高音までもれなく届くJBL PURE BASSサウンド",
+        "合計4つの通話マイクでクリアな音声通話を実現"
+      ],
+      "maker": "JBL",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 312,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-11",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FH6PC131",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:15:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CGDX3F63",
+      "title": "Jabra Elite 8 Active 完全ワイヤレスイヤホン ダークグレー [国内正規品] ハイブリッドアクティブノイズキャンセリング (ANC) 搭載 IP68 防塵 防水 Dolby Audio 空間サウンド 風切り音抑制ヒアスルー 高性能6マイク通話テクノロジー スポーツ マルチポイント 2台同時接続 Bluetooth 5.3 ジャブラ",
+      "url": "https://www.amazon.co.jp/dp/B0CGDX3F63?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CGDX3F63?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51FHiYxI64L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "耐久性を検証済み。イヤホンがIP68準拠、充電ケースがIP54準拠の高い防塵防水性能。 加速腐食試験による汗に対する耐久性も検証済み。",
+        "Dolby Audioによる空間サウンド。パワフルな6mmスピーカー搭載で、トレーニング中も立体的で迫力のあるサウンド。",
+        "さらに改良されたJabraシェークグリップテクノロジー。 耳の形にフィットする筐体と、全体をリキッドシリコンラバーでコーティングすることで、激しいトレーニング中もしっかり固定され安定した装着感。",
+        "アダプティブハイブリッドアクティブノイズキャンセリング搭載。 耳内の形状と周囲の状況に合わせて、ANC強度を自動調整。 風切り音抑制ヒアスルーにより、屋外でのジョギングにも。",
+        "ANCオンの状態で最長32時間、オフの状態で最長56時間使用可能(ケース充電と併用)"
+      ],
+      "maker": "Jabra",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 230,
+      "star_rating": 4.3,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FQQ7YH8Z",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:15:58+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CRVN23LP",
+      "title": "Anker Soundcore Sport X20（Bluetooth 5.3）【完全ワイヤレスイヤホン/カナル型/耳掛け/フック型/アクティブノイズキャンセリング/外音取り込み/音声通話 / IP68防塵防水規格/ 完全防塵・防水/最大48時間音楽再生 / 専用アプリ対応/PSE技術基準適合】ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CRVN23LP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CRVN23LP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/614W4nlr3OL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "伸縮可能なイヤーフックでぴったりフィット：柔らかい質感のイヤーフックにより、激しい運動中も外れにくく、快適で軽い付け心地を実現。耳に合わせ、イヤーフックの角度や伸縮の調整が可能です。",
+        "スポーツやアウトドアシーンでも安心なIP68の完全防塵・完全防水規格： IP68防塵防水規格とSweatGuardテクノロジーにより、雨や運動時の汗などを気にせず安心してスポーツやアウトドアにご活用いただけます。",
+        "アクティブノイズキャンセリング搭載：トレーニングジムでの使用時に嬉しいノイズキャンセリング機能を搭載。搭載されたマイクが周囲の雑音を低減。外音取り込みにも対応。",
+        "長時間再生・短時間充電：イヤホン本体が満充電の状態で最大12時間、付属の充電ケースを合わせて使えば最大48時間の音楽再生が可能です。また、5分間の充電で約2時間の音楽再生が可能です。",
+        "パッケージ内容：本体、充電ケース、イヤーチップ5種、USB-C &amp; USB-A ケーブル、クイックスタートガイド＆安全マニュアル、技適マーク認証済み商品（周波数帯：2.40～2.48GHz）"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 1115,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0DJLYK6TQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:16:06+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CSKFY1Q2",
+      "title": "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CSKFY1Q2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CSKFY1Q2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51LyCgwzz9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "外の世界にも耳を澄ませる： 豊かな空間オーディオを楽しみながら、周囲とのつながりも保つリスニング体験。オープンイヤーの開放型デザインのワイヤレスイヤホンは、「周りとのつながりも大切にしている」というメッセージを発信する一方で、OpenAudioテクノロジーが高品質のプライベートサウンドを実現します。",
+        "どこででも音楽を満喫：ボーズのイマーシブオーディオを搭載した立体感のある空間オーディオを実現するこのBluetoothイヤホンは、快適な着け心地とスタイリッシュなデザインを両立。サウンドに包まれているような、よりリアルなリスニング体験を実現します。",
+        "心地よく、しっかりフィット： Bose Ultra Open Earbudsのジョイント部分は柔軟かつ超軽量設計。この快適なイヤホンのオープンイヤーの耳かけを耳にさっとかけるだけで、周りとのつながりを保ちながら音楽も楽しむことができます。",
+        "IPX4防滴規格に準拠： 多少の水しぶきや汗、雨なら ご心配なく。IPX4環境規格準拠の防滴仕様を備えたBose Ultra Open Earbudsにお任せください。さらに湿気やほこりはアコースティックメッシュがシャットアウト。極上のリスニング体験を快適に、途切れることなくお楽しみいただけます。",
+        "長時間再生バッテリー：最長7.5時間の連続再生時間 （イマーシブオーディオ設定がオンの場合は最長4.5時間）*と、最長48時間スタンバイ***の長時間バッテリー。付属の充電ケース**を使用すると、さらに19.5時間再生可能。オープンイヤホンで音質の良いリスニングを長時間お楽しみいただけます。",
+        "ボタン操作で簡単にリスニングを調整：このマイク内蔵イヤホンのボタン操作はとてもシンプル。ステレオモードやイマージョンモードの切り替え、音楽の再生・一時停止、着信への応答など、ボタンを押すだけで素早く簡単に操作できます。",
+        "他のボーズ製品と併用してさらに楽しく便利に： Bose SimpleSyncテクノロジーで、オープンイヤーワイヤレスイヤホンをボーズのスマートサウンドバーやスピーカーとBluetoothでペアリングすれば、お好みの音量でテレビ鑑賞もお楽しみいただけます。",
+        "ハンズフリーで手間のかからない切り替え: Bluetooth マルチポイントは、シームレスで中断のないリスニングを提供します。携帯電話、ノートパソコン、その他のデバイスを簡単に切り替えることができるので、すべての瞬間を逃しません。"
+      ],
+      "maker": "Bose",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 1240,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0HBQKTV51",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:16:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CXPSBKVR",
+      "title": "Nothing (ナッシング) ワイヤレスイヤホン Nothing Ear【VGP 2025 金賞】ノイズキャンセリング/ChatGPT対応/Bluetooth / 最大40.5時間使用可能 / 軽量/外音取り込み/急速充電/ハイレゾオーディオ/iPhone&Android対応/ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0CXPSBKVR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CXPSBKVR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51VpusZ1eSL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【すべての音楽をノイズなしで楽しもう - ANC】最大45dBのアクティブノイズキャンセリング（ANC）機能を備えたEarは、これまでで最も効果的かつインテリジェントなノイズキャンセリング能力を誇ります。専用のスマートANCアルゴリズムは、イヤホンと外耳道の間にあるノイズ漏れを検知し、その結果に応じてノイズキャンセリング強度を自動調整します。また、アダプティブANCは、周囲の雑音を考慮してさらに効果を高め、集中できる音楽体験を提供します。",
+        "【進化したイコライザー調整と共有機能】高音域や低音域を自由に調整し、音楽を理想的なサウンドに仕上げましょう。進化したイコライザーのシンプルで直感的なグラフィックインターフェースを使って、さらにカスタマイズが可能です。Qファクターや周波数制御を駆使して、音質を一歩進化させましょう。また、異なる音楽ジャンルに対して個別のプロファイルを作成し、完璧な設定をQRコードで友人と共有することができます。",
+        "【Bassエンハンス】Earは、音楽の中の低周波数をリアルタイムで強化し、重低音を際立たせます。音楽のディテールを逃すことなく、ビート一つ一つをしっかり感じ取ることができます。当社のアルゴリズムは、音楽中の低周波数を絶えず探し出し、それに応じて低音を強化するため、ビートがより深く、力強く響きます。この機能はNothing Xアプリでオン・オフの切り替えが可能です。",
+        "【パーソナルサウンドプロファイル】Mimiとの提携により、Earは個人の聴力に応じて音楽を調整します。すべての人が同じ聴こえ方をするわけではないため、個々の聴力に基づいたパーソナルサウンドプロファイルを作成できます。Nothing Xアプリを使用して、専用プロファイルを作成し、そのデータを元にEarがリアルタイムでイコライザーを調整し、最適な音質を提供します。",
+        "【ビート一つも聞き逃さないパフォーマンス】Ear は一日中、そしてそれ以上、あなたと共に過ごすために設計されています。フル充電で最大40.5時間使用でき、連続再生では8.5時間の長時間使用が可能です。外出先で素早く充電できるよう、Earは2.5Wのワイヤレス充電をサポート。さらに、10分間の急速充電でケースを使用すれば、最大10時間の再生が可能です。"
+      ],
+      "maker": "Nothing",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 4810,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FZ531B71",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:16:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D2D67257",
+      "title": "SOUNDPEATS Capsule3 Pro Plus ワイヤレスイヤホン【ノイズキャンセリング イヤホン／ハイレゾ／LDAC／MEMSドライバー／マルチポイント対応／最大43時間再生】完全ワイヤレスイヤホン Bluetooth5.3／イヤホン／専用アプリ サウンドピーツ 技適認証取得",
+      "url": "https://www.amazon.co.jp/dp/B0D2D67257?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D2D67257?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61YHoVjtz9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【オーディオ技術の革命! MEMSド ライバーで始まる聴覚体験の再定義】SOUNDPEATS Capsule3 Pro+は、MEMSドライバーと12mmダイナミックドライバーを組み合わせたハイブリッド構成を採用しています。xMEMS製「Cowell」MEMSドライバーが高音域を駆動、シリコン振動板の硬さと軽さを活かして高域の再生周波数帯域を広げ、音の歪みを抑えます。低音域には12mm径バイオセルロース製ダイナミックドライバーを使用、振幅の大きさを生かした躍動感と迫力があるサウンドを実現します。Capsule3 Pro+の洗練されたオーディオ体験をお楽しみください！",
+        "【ハイレゾワイヤレス対応、微妙な音のニュアンスも逃さない！】ハイレゾワイヤレス認証を取得し、20Hz～40kHz（従来のコーデックは20Hz～20kHz）という広い再生帯域をカバーすることで、ボーカルや楽器の音を繊細に描き出します。ハイレゾ相当の高音質を誇る「LDAC」に対応し、標準のBluetoothオーディオコーデックSBCと比べて最大約3倍の情報量を伝送します。原音を忠実にトレースし、ハイレゾ音源の繊細なニュアンスを描き出します。※マルチポイント接続時にLDACは使用できません。",
+        "【「Adaptive ANC」対応、リアルタイムでノイキャン効果を最適化】SOUNDPEATS Capsule3 Pro+は、アクティブノイズキャンセリングにハイブリッド方式を採用、左右2つずつのマイクで的確にノイズを拾い出します。さらに最大1.8kHzの超広帯域ノイズ周波数に対応し、可聴域で最大45dB（当社による測定値）というノイズ低減効果を実現しました。周囲の雑音や装着状態、耳の形状に応じてノイズキャンセリング効果を自動調整することができます。効果的に騒音をカットしつつ、ノイズキャンセル時の閉塞感を低減し、長時間の利用に耐えられる快適性も備 えています。※ANCをオンにすると、外耳道の構造と装着状態に適したノイズキャンセルレベルを検出するアルゴリズムのため、音楽が再開するまで約2秒かかります。",
+        "※ご使用になる前に、イヤホン充電端子に貼り付けてある絶縁シールを剥がしてください。【最大43時間再生可能、コンパクトながら圧倒的な再生時間】イヤホン単体約6.5時間（ANCとAAC有効時約5時間）、ケースと併用すれば最大43時間というパワフルなバッテリーを搭載しました。オンラインミーティングや旅行先など、長時間の使用でも充電残量が気になりません。",
+        "【専用アプリ「PeatsAudio」で 可能性を引き出す】最新アプリ 「PeatsAudio」に 対応、Capsule3 Pro+を細かく設定できます。 タッチ操作の機能アサインや、10バンドイコライザーによる音質調整、ノイズキャンセリングや外音取込モードのON/OFF、音声通知の切り替えなど、 Capsule3 Pro+を自分好みにカスタマイズできます。▼【マルチポイント機能】アプリでマルチポイント機能をオンにすると、同時に2台のデバイスに接続可能。片方からの着信でも接続を切り替えることなく通話が可能です。※マルチポイント接続時にLDACはご利用いただけません。※マルチポイント接続をご使用の際は「PeatsAudio」アプリ上で機能をオンにしてください。",
+        "【高性能マイクで通話をよりクリアに】 左右合わせて6基の高性能マイクを内蔵し、通話中に周囲の音を検出してノイズを軽減。騒がしい環境でも通話相手の声がクリアに聞こえ、自分の声もノイズのないクリアな音質で相手に届けます。▼さらに、ゲームモードをオンにすると、遅延を 0.07sまで減らし、動画視聴やゲームプレイの体験を向上させます。"
+      ],
+      "maker": "SOUNDPEATS",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 477,
+      "star_rating": 4.3,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0D9FBP15N",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:16:30+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D2RGPTKM",
+      "title": "Anker Soundcore K20i ホワイト | （Bluetooth 5.3）【完全ワイヤレスイヤホン/インナーイヤーイヤホン / IPX5防水規格 / 最大36時間再生 / 専用アプリ対応/PSE技術基準適合】",
+      "url": "https://www.amazon.co.jp/dp/B0D2RGPTKM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D2RGPTKM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41GnCbcMNHL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "最大36時間の長時間再生：イヤホン本体が満充電の状態で最大6時間、充電ケースを合わせて使うと、最大36時間の音楽再生が可能。また10分間の充電で約2時間の再生が可能な短時間充電にも対応しました。",
+        "快適なインナーイヤー型：片耳約3.3gの軽さとイヤーチップのないインナーイヤー設計。長時間の使用でも疲れにくく、オンライン会議や授業など長時間利用のシーンでも快適にご利用いただけます。",
+        "インナーイヤー型でも力強い低音： 13mmドライバーとAnker独自技術のBassUp技術により、深みのある低音を実現しました。",
+        "クリアな音声通話： AIノイズリダクション機能を搭載。周囲のノイズを除去し、クリアな音声を通話相手に届けます。",
+        "パッケージ内容：本体、充電ケース、USB-C&amp;USB-A ケーブル、安全マニュアル＆クイックスタートガイド、技適マーク認証済み商品（周波数帯：2.40～2.48GHz）"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 1579,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0GX63TNVN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:16:39+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D4Z8KJXY",
+      "title": "【VGP 2025 金賞】EarFun Air Pro 4 ワイヤレスイヤホン Bluetooth 5.4/50dBアダプティブ式 ハイブリッドANC/最先端SoC「QCC3091」aptX Losslessに対応/ハイレゾ LDAC対応/Snapdragon Sound™ に対応/Auracast™に対応/最大52時間再生【6マイクAI 通話/PSE認証済み】 装着検出機能 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0D4Z8KJXY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D4Z8KJXY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61GwcoocYHL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "🏅【先進の技術ソリューション&amp; aptX Losslessロスレス音声伝送】EarFun Air Pro 4は、2024年・2025年と2年連続で『VGP金賞』を受賞、さらに2025年『コスパ大賞』を獲得しました。クアルコムの最先端チップ『QCC3091』を搭載し、最新Bluetooth規格（v5.4）とオーディオソリューション『Snapdragon Sound』に対応。高音質と超低遅延を両立しています。「aptX Lossless」に対応し、安定した無線通信環境で最大96kHz/24bit(約1.1～1.2Mbps)の高音質な音楽ワイヤレス再生が楽しめます。 また、LDACに対応し、CD（44.1kHz/16bit）の約3倍の圧倒的な情報量を最大990kbpsのビットレートで伝送し、音楽の細部を保存し、真のオリジナルサウンドを聞くことができます。※ ご注意：LDAC、aptX Lossless、LE AudioはiOS端末ではご利用できません。対応デバイスが必要です。iOSのアプリから他デバイスでコーデックを利用したい場合は、弊社サポートまでお問い合わせください。",
+        "🏅【進化したノイズキャンセリング/ インテリジェントな装着検知機能】独自のノイズキャンセリング技術が「QuietSmart 3.0」に進化しました。周囲のノイズレベルに応じてノイズ低減レベルが変動する「アダプティブ（適応型）ノイズキャンセリングテクノロジーも新たに導入、最大50dB ものノイズ低減を実現します。インテリジェントな装着検知機能も装備、イヤホンを外すと自動的に音楽が一時停止され、再び装着するとすぐに再生を再開します。※ 装着検知機能について：会話・飲食・首の動きでイヤホンが動くと誤検知で再生停止やANCオフになる場合があります。再装着・最適なサイズのイヤーピース交換・アプリでの検知オフをお試しください。",
+        "🏅 【6つのマイク+AI技術で高品質な通話を実現/ 低遅延ゲームモード】 左右に各3基搭載された高性能マイクを活用し、集音した声に対してノイズ除去を行う「cVc 8.0」に対応しました。騒がしい環境でも、聞き取りやすい声を通話相手に届けることができます。「EarFun Audio」アプリでゲームモードをオンにすると、ワイヤレスオーディオの遅延を最大50ms（0.05秒）に 短縮でき、音と映像の同期ズレが気にならなくなります。",
+        "🏅【最大52時間の長時間再生/IPX5 防水性能】Qualcommの最新 S3 第 3 世代高性能 QCC3091 Bluetooth チップの極めて低い消費電力に基づいて、Air Pro 4はフル充電で 最大11 時間使用でき、充電ボックス込みで最大 52 時間使用できます。ワイヤレス充電とUSB-C充電の2つの充電方法に対応しており。急速充電にも対応しており、10分の充電で2時間使用可能。イヤホンはIPX5の防水性能を備えており、不意の水濡れや運動中の発汗などにも安心して対応できます。ご注意：充電ボックスは防水ではないため、充電ボックスを乾燥した状態に保ってください。",
+        "🏅【新技術のLE AudioとAuracastに対応】新世代の Bluetooth 標準 LE Audio と AURACAST ワイヤレス共有リスニング技術をサポートし、世界とつながる新しい方法を開きます。 AURACASTブロードキャストを導入すると、Wi-Fiネットワークを探す感覚で参加し、デバイスを接続してブロードキャスト（搭乗ブロードキャストや待機ブロードキャストなど）を受信できるので、ブロードキャストを見逃す心配がありません。 【ご注意】 LE Audioのご利用にはLE Audio対応スマホとEarFunアプリでの有効化が必要です。Auracast受信には周囲に送信中の機器が必要です。お使いのスマホにAuracast放送を探す（スキャンする）画面が無い場合は、EarFunアプリの「LEオーディオ」ページから接続ください。",
+        "🏅【マルチポイント接続とGoogle Fast Pair 対応】最新のBluetooth 5.4に対応し、接続がより速く、より安定しました。 2台同時接続が可能なマルチポイント機能に加え、Android端末と素早く快適にペアリングできるGoogle Fastペアにも対応しています。",
+        "ご注意：①定期的にアルコールを含んだ綿棒でイヤホンと充電ケースの充電端子をしっかり拭き、汗や汚れの付着による充電不良を防いでください。②イヤホンと充電ケースは精密な電子部品ですので、衝撃や落下にご注意ください。③充電ケースは防水仕様ではありませんので、水に濡らしたり、湿気の多い場所に置いたりしないでください。④付属のイヤーピースをご使用ください。別途購入したイヤーピースを使用する場合は、サイズが合っていることを確認し、充電ケースに収めた際にイヤホンがぐらつかないようにしてください。または、充電時にイヤーピースを外してから充電ケースに入れて充電してください。",
+        "⑤aptX LosslessおよびLDACコーデックを使用するには、それらのコーデックに対応したデバイスが必要です。また、Android スマートフォンに EarFun Audio アプリをインストールし、そのアプリを使って LDAC を有効にする必要があります（aptX Lossless はデフォルトで有効です）。iPhone、iPadなどのiOSシステムでは、LDACおよびaptX Losslessは使用できません。⑥LDACは技術的な制限により、シグナルの詰まりが起こりやすいため、デバイスとイヤホンを1メートルの範囲以内に控えて使用し、障害物を除去してください。また、デバイスの開発者オプションでLDACのビットレートを330kbpsに設定変更することもできます。それでも詰まりが厳しい場合は、aptXなどの他のコーデックを使ってください。",
+        "⑦イヤホンは清潔で乾燥した状態を保ち、定期的に汗や汚れなどの異物を清掃してください。⑧複数端末接続時、イヤホン音量は接続端末のいずれかに同期される場合があります。切り替え時の不快感を防ぐため、端末間の音量差が大きくなりすぎないようご注意ください。⑨イヤホンご使用時は、人混みの多い環境やWi-Fiルーター・電子レンジなど電波干渉の強い環境を避けてご使用ください。⑩イヤホンに不具合が生じた場合は、ファームウェアの更新・イヤホンのリセットを行い、古いBluetoothペアリング記録を削除した上で再接続してください。"
+      ],
+      "maker": "EarFun",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 5132,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0DBLXZ6HS",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:16:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D4Z8NPH7",
+      "title": "Anker Soundcore V20i ブラック | （Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン / IP55防塵防水規格/ 最大36時間再生 / マルチポイント接続】",
+      "url": "https://www.amazon.co.jp/dp/B0D4Z8NPH7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D4Z8NPH7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/517WiAmP8qL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "耳を塞がないオープンイヤーイヤホン：外出時や家事中に周囲の音を取り込みたい場面でも、安心してご使用いただけます。突然の会話にもイヤホンを外さずに対応可能です。",
+        "角度調整可能なイヤーフック：イヤーフックが4段階に角度調整可能なため、高い安定性と装着感を実現。しっかりと耳の形に沿わせることで、音漏れも軽減します。",
+        "カスタマイズ可能なライトを搭載：夜間のランニングなど使用シーンに合わせて、カラフルに光るライトをカスタマイズ可能。気分に合わせてライトをお楽しみいただけます。",
+        "豊富な機能：IP55防塵防水規格、マルチポイント接続、アプリでのイコライザー設定機能など様々な便利な機能を搭載。また、短時間充電にも対応し、約10分間の充電で最大1時間の音楽再生が可能です。",
+        "パッケージ内容：パッケージ内容：本体、充電ケース、USB-C ケーブル、クイックスタートガイド、技適マーク認証済み商品（周波数帯：2.40～2.48GHz）"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 2598,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0G4RC8JH6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:16:56+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D7ZMNRFY",
+      "title": "Anker Soundcore Liberty 4 Pro（Bluetooth 5.3）【カナル型完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 3.5 / A.C.A.A 4.0 / ハイレゾ/感圧 & スワイプセンサー搭載/PSE技術基準適合】パールホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0D7ZMNRFY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D7ZMNRFY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41lcDsftmNL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "進化したウルトラノイズキャンセリング 3.5：7つのセンサーが環境音やノイズを1分間に180回検知し、シーンごとに最適なノイズキャンセリングを行います。",
+        "A.C.A.A 4.0による究極の音質：低音域用と中高音域用のアップグレードされた2基ドライバーを搭載。それぞれのドライバーに最適な音の信号を送る技術により、高音から低音まで明瞭で歪みの少ない音質を追求しました。",
+        "直感的な操作：イヤホン本体に感圧&amp;スワイプセンサーを実装。またケースに搭載されたタッチバーとスクリーンで各種モード設定が可能に。アプリを介さず直感的に操作いただけます。",
+        "長時間再生：イヤホン単体で最大10時間、ケース込みで最大40時間の音楽再生が可能 (通常モードの場合) 。また5分間の充電で約4時間分の再生が可能な短時間充電にも対応しました。",
+        "パッケージ内容：イヤホン本体、充電ケース、イヤーチップ (6種)、USB-C &amp; USB-A ケーブル、クイックスタートガイド &amp; 安全マニュアル、技適マーク認証済み商品(周波数帯：2.40〜2.48GHz)"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 2093,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0DJBMYTHW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:17:05+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D7ZZCHFV",
+      "title": "Anker Soundcore AeroFit 2 (Bluetooth 5.4)【オープンイヤー型ワイヤレスイヤホン / IP55防塵防水規格/ 最大42時間再生 / マルチポイント接続/PSE技術基準適合】 ミッドナイトブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D7ZZCHFV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D7ZZCHFV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61lrtXbDKRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "どんな耳にも、感動のフィット感と心地よさを：4段階の角度調節可能なイヤーフックで、どんな耳にもフィット。曲線設計で耳に当たる部分の圧力を均等に分散し、快適なつけ心地に。",
+        "イヤホン単体で最大10時間の長時間再生で、一日中使える：一日中つけっぱなしでいられて、つけ外しの手間も不要です。また、約10分間の短時間充電で、最大4時間再生可能。ワイヤレス充電にも対応。",
+        "ハイレゾにも対応、超高音質へのこだわり： 20mm × 11.5mmの大型ドライバーで、全ての音域を緻密に再現。ハイレゾ再生、高音質コーデックLDACにも対応。",
+        "深みのある、重低音：Anker独自のBassTurbo構造が振動板の振動を増幅させることで、音を増強させ、より迫力のある重低音に。",
+        "パッケージ内容：本体、充電ケース、USB-C &amp; USB-A ケーブル、クイックスタートガイド、技適マーク認証済み商品（周波数帯：2.40～2.48GHz）"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 357,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0GWMP8561",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:17:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DBHRWRKC",
+      "title": "Xiaomi Redmi Buds 6 Play ワイヤレスイヤホン ノイズリダクション 超軽量 36時間再生 低遅延 急速充電 クリアな通話 | AI通話時ノイズリダクション Google Fast Pair対応 急速充電 軽量デザイン",
+      "url": "https://www.amazon.co.jp/dp/B0DBHRWRKC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DBHRWRKC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51hgEktDwlL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【最大36時間の再生時間】イヤホン単体で1回の充電で最大7.5時間、充電ケースを使用すれば最大36時間の再生を持続。昼も夜も良質な音楽を楽しめます。そして、10分間の充電で最大３時間再生が可能となる急速充電も搭載。",
+        "【10mmのダイナミックドライバーでパワフルなサウンド】10mmの大型ダイナミックドライバーは、Xiaomi Acoustic Labにより精密にチューニングされており、素晴らしいオーディオ体験をもたらします。そして5種類のプリセットイコライザーにより、豊かでパワフルかつ魅力的なサウンドが細部まで聴こえます。優れた音質を表現しながら、好みに合わせて調整が可能です。",
+        "【AIノイズリダクションでクリアな通話】AIボイスアルゴリズムが人間の声と周囲の雑音を正確に区別し、騒音の多い環境でも周囲の雑音を効果的に軽減します。どこにいても会話が大きく明瞭に聞こえます。",
+        "【持ち歩きやすいコンパクトケース、耳に負担をかけない軽量デザイン】充電ケースには4面曲線デザインを採用。シンプルで、エレガントな外観で、手のひらにぴったりとフィットするサイズ感。また、イヤホン単体はわずか3.6gのため、まるで何もつけてないような装着感を実現。",
+        "【Bluetooth5.4高速で安定した接続】低遅延で接続の安定度が高い、アップグレードされたBluetooth5.4プロトコルに対応。低遅延モードをサポートしており、さらに臨場感あふれるユーザー体験が実現します。"
+      ],
+      "maker": "Xiaomi",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 27855,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0GS2FCRFY",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:17:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DHZYMCH8",
+      "title": "ソニー(SONY) オープンイヤー LinkBudsOpen Bluetooth ワイヤレスイヤホン 防滴 ロングバッテリー最大8時間連続再生 マイク付 迫力の音質 軽量 コンパクト カラフルケースカバー WF-L910 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DHZYMCH8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DHZYMCH8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/512sl5svaLL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "WF-L910 BZ"
+      ],
+      "maker": "SONY",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 166,
+      "star_rating": 3.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FGCSP1B3",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:17:27+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DJCWXJKB",
+      "title": "audio-technica ATH-CKS50TW2 BG 完全ワイヤレスイヤホン bluetooth マグネティックスイッチ機能 最大約65時間再生 IP55 防水防塵 マルチポイント対応 置き忘れアラート ヒアスルー 低遅延モード 急速充電 Qiワイヤレス充電対応 ベージュ",
+      "url": "https://www.amazon.co.jp/dp/B0DJCWXJKB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DJCWXJKB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/613OdysaQBL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "圧巻の重低音を堪能できる、φ10mm SOLID BASS HD TWSドライバー：完全ワイヤレスで重要な装着感を追求しながら、圧巻の重低音を再生する大口径ドライバーを搭載。高い密閉性により低音を逃さず、また、高精度なハイブリッドノイズキャンセリング機能を掛け合わせることで、大好きな音楽を心ゆくまで堪能することができます。",
+        "ケースは自宅待機、イヤホンだけで使える「マグネティックスイッチ 」機 能：イヤホンを取り出して左右に離すと電源ON 、マグネットでくっつけると電源OFFできる機能を搭載しました。これまでの完全ワイヤレスイヤホンで感じる「充電ケースに入れないと電池切れ が心配」「毎回ケースから取り出すのが面倒」といったストレスから解放され、使いたいときにすぐ使えます。",
+        "1日中使える、業界最高クラスバッテリー：ノイズキャンセリングOFF時では、イヤホンだけで最大25時間の連続再生が可能なため、 電池切れを心配することなく音楽や動画やSNSを1日中楽しむことができます。また、ノイズキャンセリングON時でも最大15時間、充電ケースを併用すれば最大66時間の連続再生が可能です。",
+        "外音取込のヒアスルー機能とトークスルー機能：音楽を流しながら散歩やスポーツ、家事やテレワークをする際や、電車やバスでの通勤・通学時に周囲の音を気にしながらリスニングしたいときに便利です。",
+        "水で洗える防水・防じん性能：IS保護等級：IP56相当(イヤホンのみ)。日常のさまざまなシーンでイヤホンが使える高い防水性能と、砂ぼこりなどの環境下でも使える防じん性能を採用。スポーツしているときに雨で濡れたり、イヤホンに汗が付いたりしてもOK。使い終えたら水で洗い流すことができます。"
+      ],
+      "maker": "audio-technica",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 107,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名audio-technica/オーディオテクニカ正規化",
+      "scope_pending": [],
+      "parent_asin": "B0FQ5B8L81",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:17:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DJNXH5KV",
+      "title": "JBL SOUNDGEAR SENSE 完全ワイヤレスイヤホン/オープンイヤー/マルチポイント / IP54防水 / Bluetooth5.3 / 耳を塞がない/音漏れ防止/ブルー/JBLSNDGEARSNSBLU",
+      "url": "https://www.amazon.co.jp/dp/B0DJNXH5KV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DJNXH5KV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71-Q7xOE+dL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "国内正規品 新品のみメーカー保証1年",
+        "技適マーク認証済み商品。 周波数帯:2402 MHz − 2480 MHz",
+        "耳をふさがない2ウェイのオープンスタイル",
+        "装着感もパーソナライズ。角度調整可能なイヤーフック構造を採用",
+        "極限まで音漏れを軽減し音質も妥協しない&#34;OpenSoundテクノロジー&#34;"
+      ],
+      "maker": "JBL",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 1105,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0CK4V2WCW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:17:45+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DJQH79Q7",
+      "title": "JBL ENDURANCE RACE 2 完全ワイヤレスイヤホン 防水・防塵 スポーツモード 急速充電 ノイズキャンセリング 外音取込 マルチポイント対応 軽量 コンパクト スポーツ (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0DJQH79Q7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DJQH79Q7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51WauoL7n3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "IP68防水・防塵規格に対応。（充電ケースはIPX2）",
+        "ツイストロック構造やウィング付きエンハンサー、外耳道内のより高い安定性を提供するオーバルシェイプデザインで、確実な装着性と遮音性を得られます。",
+        "アクティブノイズキャンセリング、外音取込機能搭載。",
+        "マルチポイント対応。",
+        "持ち歩きやすい軽量コンパクト設計。"
+      ],
+      "maker": "JBL",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 138,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0DJQKP9RJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:17:55+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DK53QZ8J",
+      "title": "【VGP 2026 受賞】TOZO NC9 イヤホン bluetooth ワイヤレスイヤホン アクティブノイズキャンセリング 45dB低減 小型軽量 中低音域 暖色系音質 カスタムEQ アプリ対応 外音取り込み/AIチャット/音声通訳会議記録/カスタムタッチ操作 IPX8防水 最大約60時間の再生 ぶるーとゅーす イヤフォン USB-C急速充電（ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DK53QZ8J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DK53QZ8J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61xTrG38zAL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "パッケージ内容： イヤホン本体、充電ケース、イヤーチップ（ 5サイズ ）、充電ケーブル、取扱説明書を同梱しています。 📣 ご購入日から1年間の保証付き→ 製品に関するご不明点や不具合がございましたら、迅速かつ丁寧にサポートいたしますので、お気軽にお問い合わせください。 ※お問い合わせ方法： 「アカウントサービス」＞「注文履歴」＞「販売元」＞「質問する」",
+        "どこでも静かな音楽空間へ・ハイブリッドANC＆外音取り込みモード対応： TOZO NC9は、外側と内側のマイクを使用したハイブリッドアクティブノイズキャンセリング（ANC）技術を搭載。周囲の環境音を検知し、電車やバスの走行音、カフェやオフィスの雑音など、日常生活で気になるノイズを低減します。 お気に入りの音楽に集中したい時や、移動中・作業中に落ち着いた環境を作りたい時など、さまざまなシーンで快適なリスニング体験を提供します。イヤホンを装着するだけで、周囲の騒音を気にせず、自分だけの音楽空間を楽しめます。 さらに、耳にフィットするカナル型デザインとイヤーチップによる物理的な遮音効果により、外部からの音の侵入を抑え、音楽や動画をよりクリアに楽しめます。 また、外音取り込みモードにも対応しており、イヤホンを装着したまま周囲の音を確認可能。通勤中や移動時、会話が必要な場面でもイヤホンを外す手間なく安心して使用できます。",
+        "Bluetooth 5.3対応＆高音質サウンド・クリアな通話品質： 最新Bluetooth 5.3技術と高性能アンテナを搭載し、安定したワイヤレス接続を実現。音切れや接続の不安定さを抑え、音楽や動画を快適に楽しめるワイヤレス体験を提供します。 高性能オーディオチップにより、音楽の細かなニュアンスまで丁寧に再現。クリアで伸びやかな高音と、深みのある迫力ある低音をバランスよく楽しめます。お気に入りの音楽はもちろん、映画や動画、ゲームなど幅広いコンテンツで臨場感のあるサウンドを体験できます。 さらに、ENC通話ノイズキャンセリング技術により、通話時の周囲の雑音やエコーを低減し、相手にクリアな声を届けます。音楽鑑賞からスマートフォンでの通話、オンライン会議まで、さまざまなシーンで快適に使用できるワイヤレスイヤホンです。",
+        "USB Type-C急速充電対応＆最大60時間再生（※音量60％で測定・ANC OFF時）： 軽量コンパクトな充電ケースには大容量バッテリーを搭載し、イヤホン本体はANC機能OFF時、音量60％の条件で最大14時間の連続再生が可能です。充電ケースと合わせて最大60時間使用でき、外出時でもバッテリー残量を気にせず、音楽や通話を長時間楽しめます。また、ANC機能ON時でも、イヤホン単体最大10時間、充電ケースと合わせて最大40時間の再生が可能。ノイズキャンセリングを使用しながらでも、長時間快適なリスニング体験を提供します。 USB Type-C急速充電に対応しているため、充電もスムーズ。万が一バッテリーが切れても、わずか10分の充電で約60分の再生が可能です。",
+        "高い防水性能・汗や雨を気にせず快適に使用： TOZO NC9は、高い防水性能を備え、日常のさまざまなシーンで安心して使用できるワイヤレスイヤホンです。 実験環境において、イヤホン本体を静止水（水深1.5m～3m）に30分間浸漬するテストを実施し、正常に動作することを確認しました。汗や突然の雨などによる水濡れにも配慮した設計で、スポーツやアウトドアなどのアクティブなシーンでも快適に使用できます。 ジムでのトレーニング、ランニング、通勤・通学中の急な雨など、さまざまな場面で音楽を楽しめます。 📣※ご注意： 充電ケースは防水仕様ではありませんので、水に濡れないよう十分ご注意ください。また、サウナや浴室などの高温・高湿度環境での長時間使用は避けてください。使用後は乾燥した場所で保管することで、イヤホンの性能を長く維持できます",
+        "コンパクト設計＆快適なフィット感： TOZO NC9は、耳への負担を考慮した人間工学デザインを採用。片耳約4.9g、充電ケース込みでも約45gの軽量設計により、長時間使用時の耳への負担を軽減し、快適な装着感を実現します。 人間工学に基づいたカナル型デザインで、耳の形状に自然にフィット。5 サイズのイヤーチップを付属しているため、自分の耳に合ったサイズを選択でき、安定した装着感と快適なフィット感を提供します。 長時間の音楽鑑賞やノイズキャンセリング使用時でも快適に装着でき、通勤・通学、仕事、リラックスタイムなど、さまざまなシーンで活躍します。 また、耳にしっかりフィットする設計により、移動中や軽い運動時でもズレにくく、日常のさまざまな場面で安心して使用できます。 ＃充電ケースにはLEDディスプレイを搭載し、イヤホンとケースのバッテリー残量をひと目で確認できます。コンパクトで持ち運びやすいサイズ感により、ポケットやバッグにも収納しやすく、外出先でも気軽に音楽や通話を楽しめます。シンプルでスタイリッシュなデザインは、日常のさまざまなスタイルに自然になじみます。",
+        "専用アプリ対応・音質を自由にカスタマイズ： 高音質サウンドをさらに自分好みに楽しめるよう、TOZO NC9は専用アプリに対応しています。音質設定やタッチ操作など、さまざまな機能を自由にカスタマイズでき、自分だけの快適なリスニング環境を実現します。 「TOZO」アプリでは、左右それぞれのイヤホンのバッテリー残量をパーセント表示で確認できるほか、タッチ操作の機能も自由に設定可能です。 32種類のEQモードから好みのサウンドを選択でき、さらに細かな音域調整にも対応。低音を楽しめるウォームなサウンドから、クリアで明瞭感のあるサウンドまで、音楽ジャンルや好みに合わせて自分だけの音質へ調整できます。 お気に入りのEQ設定はアプリ内で簡単に共有でき、多数のユーザーが作成したEQプリセットから好みに合ったサウンドをワンタップで再現することも可能です。 さらに、100種類以上のホワイトノイズを搭載。リラックスしたい時や集中したい場面にも活用でき、音楽以外のシーンでも快適なサウンド体験を提供します。",
+        "自分好みに設定できるタッチ操作・快適なワイヤレス体験：高感度タッチセンサーを搭載し、イヤホンに触れるだけで、再生・一時停止、曲送り・曲戻し、音量調整などの操作をスムーズに行えます。 初回のみデバイスとのペアリング設定が必要ですが、一度設定すれば、次回からはイヤホンを取り出すだけで簡単に接続できます。通勤中や移動中でもスマートフォンを取り出すことなく、直感的な操作が可能です。 さらに、「TOZO」アプリでは、シングルタップ・ダブルタップ・長押しなどの操作ごとに機能を自由に割り当てられます。再生／停止、音量調整、音声アシスタント起動など、使用スタイルに合わせて設定でき、不要な機能を無効化することで誤操作の防止にも役立ちます。 高音質・安定した接続性能に加え、自由なカスタマイズ機能を備えたTOZO NC9は、日常の音楽体験をより快適で自分らしいものへ進化させます。"
+      ],
+      "maker": "TOZO",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 8818,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0GY85RDW4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:18:04+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DLGJCTPK",
+      "title": "Anker Soundcore AeroClip ミッドナイトブラック | （Bluetooth 5.4）【オープンイヤー型ワイヤレスイヤホン/イヤーカフ / IP55 防塵・防水規格 / 最大32時間再生 / マルチポイント接続】",
+      "url": "https://www.amazon.co.jp/dp/B0DLGJCTPK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DLGJCTPK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61CLvIvURiL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "どんな耳でも快適な装着感：片耳約5.9gの小型軽量設計と、人間工学に基づく曲線デザインでストレスフリーなつけ心地を実現。装着感の調整が可能なイヤーカフキャップ付き。",
+        "アクセサリーのような、ミニマルデザイン：どんなスタイルにもマッチする、シンプルで洗練されたデザインと3つのカラーバリエーション。",
+        "一日中つけていられる、長時間再生：イヤホン本体のみで最大8時間、充電ケースと合わせて使用すると最大32時間の長時間再生が可能。",
+        "バランスの取れた豊かなサウンド：12mmのダイナミックドライバーにより、オープンイヤーながら迫力のある重低音を実現しました。",
+        "音漏れを防止する設計：あらゆる耳にフィットするよう設計された形状により、スピーカーが耳に正確に音を届けるので、音漏れを最小限に抑えます。",
+        "クリアな音声通話：4つのマイクとAIノイズ低減により周囲のノイズを効率的に除去し、通話相手にクリアな音声を届けます。",
+        "パッケージ内容：Soundcore AeroClip、充電ケース、イヤーカフキャップ (2種)、USB-C &amp; USB-A ケーブル、技適マーク認証済み商品（周波数帯：2.40～2.48GHz）"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 1274,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0F5W6RH7K",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:18:12+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DQ9N9S5V",
+      "title": "テクニクス Technics ワイヤレスイヤホン EAH-AZ100-K ブラック ノイズキャンセリング 3台マルチポイント ハイレゾ音質再生",
+      "url": "https://www.amazon.co.jp/dp/B0DQ9N9S5V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DQ9N9S5V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/712npClZeNL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ありのままの音が生きるテクニクスだけの&#34;生&#34;音質】",
+        "【業界最高クラス（※２）のノイズキャンセリング】",
+        "【自分の声も、相手の声も、すべてがクリアに届く】",
+        "【小型・軽量デザインで、誰でも使いやすい】",
+        "【外出時も安心な連続再生10時間バッテリー】"
+      ],
+      "maker": "Technics",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 745,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FLNWNNXG",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:18:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FCSGGHLL",
+      "title": "Bose QuietComfort Ultra Earbuds (第2世代) ワイヤレス ノイズキャンセリング Bluetooth イヤホン 最長6時間連続再生 IPX4規格準拠 イマーシブオーディオ 迫力の重低音 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0FCSGGHLL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FCSGGHLL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/513LCPDEWKL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ワールドクラスのノイズキャンセリング : ボーズイヤホン史上最高のノイズキャンセリングがさらにグレードアップ。ActiveSenseテクノロジーが環境音の変化に合わせてノイズキャンセリングを最適なレベルに調整するので、アウェアモードでも雑音に邪魔されることなく音楽を楽しめます。",
+        "CustomTuneテクノロジー : CustomTuneテクノロジーがリスナーの耳を分析して、形状に合わせてインイヤーイヤホンを調整。ボーズならではのワールドクラスのノイズキャンセリングとパーソナライズオーディオが、心が震える極上サウンドを届けます。",
+        "インイヤー シネマサウンド: シネマモードが、お気に入りの動画コンテンツに新しい息吹を吹き込みます。この新機能は、背景音と音響効果のバランスを取りながら音を立体的に再現するため、まるで映画館にいるような臨場感をイヤホンで楽しめます。",
+        "ノイズコントロール: モードを変えずにノイズキャンセレーションレベルを素早く調整。バッテリーを温存するために完全にオフにすることもできます。",
+        "イマーシブオーディオ : ボーズイマーシブオーディオは、まるで音響のスイートスポットで聴いているかのような広がりのあるサウンドを実現。これまでにない自然なリスニングを体感できます。",
+        "安定したフィット感 : 9通りの組み合わせが可能なイヤーチップとスタビリティバンドで、快適な装着感に調整。柔らかい傘型の先端が耳を密閉して外部の騒音を軽減、スタビリティバンドが安定したフィット感を実現します。",
+        "ノイズを遮断: ボーズ史上最高の通話品質で、あなたの声をよりクリアに届けます。ノイズキャンセリングマイクで外音や風の音を遮断するSpeechClarityテクノロジーにより、相手の声もより明瞭に聞こえます。状況に合わせて、両耳、または片耳だけワイヤレスイヤホンを使用して通話できます。",
+        "ワイヤレス充電ケース : クワイエットまたはアウェアモード時には、最長6時間の連続再生 (イマーシブオーディオ使用時は最長4時間)* を提供する長寿命バッテリーが、継続したリスニング体験を実現します。バッテリー残量が少なくなった場合は、ケースで最大3回分のフル充電**が可能。新しいワイヤレス充電機能により、充電がこれまで以上に簡単になりました。",
+        "Bluetoothマルチポイント接続 : Bluetoothマルチポイントテクノロジーにより、デバイス間のシームレスな切り替えが可能です。スマートフォンやノートパソコンなどと接続したまま、他のデバイスを簡単に使用できます。",
+        "Boseアプリ : Boseアプリをダウンロードして、ソフトウェアをアップデートすることで、最適な機能性を確保し、最新機能と最先端テクノロジーを利用できます。"
+      ],
+      "maker": "Bose",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 751,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FG2XCMNF",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:18:30+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FPQN7DBD",
+      "title": "【Amazon.co.jp 限定】JBL TOUR PRO 3 ワイヤレスイヤホン bluetooth/ハイブリッドノイズキャンセリング/ハイレゾワイヤレスLDAC/デュアルドライバー/マルチポイント/防塵・防水/ワイヤレス充電対応/スマートタッチディスプレイ搭載/ネイビー /JBLTOURPRO3BLU",
+      "url": "https://www.amazon.co.jp/dp/B0FPQN7DBD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FPQN7DBD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71JLKQhXIqL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【Amazon.co.jp 限定カラー】",
+        "技適マーク認証済み商品。 周波数帯：2.4GHz - 2.4835GHz",
+        "感性を揺さぶる完全ワイヤレスイヤホン：ブランド初デュアルドライバー搭載",
+        "新リアルタイム補正機能付ハイブリッドノイズキャンセリング",
+        "スクリーンが大きく、使える機能も増えた新スマート充電ケース"
+      ],
+      "maker": "JBL",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 969,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0H3P4R6LC",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:18:38+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FWC7ZSTK",
+      "title": "SOUNDPEATS(サウンドピーツ) C30 ノイズキャンセリング ワイヤレスイヤホン ブラックグレー | 【VGP2026 金賞】 -52dBハイブリッドANC/LDAC&Hi-Res対応/最大52時間再生/Bluetooth6.0/6マイク通話",
+      "url": "https://www.amazon.co.jp/dp/B0FWC7ZSTK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FWC7ZSTK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61W4lBVlWcL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【次のレベルへ ― 耳を識別するインテリジェントANC】C30は、装着した瞬間に耳道の形状を解析し、あなた専用のノイズ制御を自動生成する“耳道自動適応ANC”を搭載します。さらに4種類のANCモード＋外音取り込みモードを備え、同クラスでは珍しい多機能性を実現しました。電車・カフェ・オフィスなど、ワンタップで理想の静けさに切り替え。外音取り込みでは、イヤホンを着けたまま会話もスムーズ。どんなシーンも、あなたに最適化された静けさへ。（※デフォルト設定は「耳道自動適応モード」。）",
+        "【最大-52dBの静寂空間 ― ノイズが消える快適さ】SOUNDPEATS独自のAIハイブリッドANCにより、環境ノイズをリアルタイムで分析し、最大-52dBの強力な減衰性能を発揮し、日常的な使用環境では平均約-38dBの効果を実現しました。ザワつく電車も、雑音の多いカフェも、音楽だけが際立つクリアな世界へ。さらに6マイク＋AI通話ノイズリダクションで、声だけを的確にピックアップ。45km/hの風の中でも声がブレない、驚きの通話品質を実現しました。通話も音楽も、一切の妥協なし。※すべてのデータはSOUNDPEATS実験室に基づきます。",
+        "【ハイレゾ × LDAC 新基準 ― ひとつ上の“聴こえ方”へ】C30は、同価格帯では非常に稀な“ハイレゾ認証 × LDAC”に対応。最大96kHz/24bit・990kbps の高解像度伝送により、CDを超える圧倒的な情報量で音のディテールを余すことなく再現します。12mmチタン複合ドライバーが描く深い低音、鮮明な高音、広がる空気感――クラスを超えた高解像度サウンドを実現します。※1「PeatsAudio」アプリにてマルチポイント機能をオフにすると、LDACコーデックをご利用いただけます。※2マルチポイント接続時にLDACは利用できません。※3 LDAC利用には対応端末が必要。iPhoneは非対応です。",
+        "【最小54ms低遅延 × 最大52時間再生 ― 毎日を止めないパフォーマンス】最新Bluetooth 6.0チップで、ゲームでも映像でも快適な最小54ms低遅延を実現。電池持ちも強化し、イヤホン単体10時間・ケース併用で最大52時間のロングバッテリー。さらに10分の急速充電で約3時間再生可能。「使いたい時に充電がない」――そんなストレスを、C30が解決します。",
+        "【アプリ連動で変わる音体験 ― 空間オーディオもEQも自由自在】専用アプリ「PeatsAudio」で音の世界が一新。ワンタップで没入型の空間オーディオが起動し、まるで音に包まれるような立体体験が得られます。EQイコライザーで自分好みに音を作り込み、マルチポイント接続でスマホとPCを同時に操作可能。オンライン会議→音楽→通話もスムーズに切替。仕事も趣味も、C30ひとつで自在にコントロール。",
+        "【日本技適認証取得＆充実の付属品、信頼の証が、すべてに宿る】 本製品は、日本の電波法および電気通信事業法に定める技術基準に適合し、総務省の技術基準適合証明（技適マーク）取得済み。電波法技適認証番号：220-JP9986。付属品にも抜かりはありません。【パッケージ内容】：SOUNDPEATS C30 Bluetoothイヤホン本体、充電ケース、3サイズのイヤーピース(S･M･L、Mサイズは初期装着)、Type-C充電ケーブル、日本語取扱説明書。もしご使用中に何かご不明な点がございましたら、迅速かつ誠意を持って対応いたしますので、いつでもお気軽にご連絡ください。"
+      ],
+      "maker": "SOUNDPEATS",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 1392,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0H414M9JW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:18:48+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GLGJTQ7C",
+      "title": "SOUNDPEATS(サウンドピーツ) UU2イヤーカフ イヤホン LDAC対応/ハイレゾ/最大42時間再生/Bluetooth6.0 | 12mm径チタンコーティング振動板/ デュアルマグネット/物理ボタン/アプリSOUNDPEATS対応 3Dオーディオ マルチポイント接続 IPX5防水 耳挟み式 開放型 ワイヤレスイヤホン オープンイヤーイヤホン POPClip2（ブラック）",
+      "url": "https://www.amazon.co.jp/dp/B0GLGJTQ7C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GLGJTQ7C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ZMYB8WN6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【オープンイヤーなのに、想像を超える低音体験】 チタンコーティングが施された大口径12mmデュアルマグネットドライバーを搭載、深く力強い低音を実現します。この技術により音の歪みを抑え、繊細な表現力と力強い低音を両立し、原音に忠実な再生を可能にしました。独自開発の低音強化アルゴリズムも、従来オープンイヤーでは難しいとされてきた低域描写力向上に寄与しています。さらにLDACコーデック対応により、ワイヤレスでもハイレゾ相当の高音質再生が可能に。音の厚み・解像度・臨場感すべてにおいて、ワンランク上のリスニング体験を提供します。アプリ「SOUNDPEATS」対応",
+        "【進化したU字型デザイン｜極上装着感のイヤーカフ】 耳掛け部分のU字型設計により耳への負荷を最小限に抑え、通勤・通学、運動、仕事など、いつでもどこでも安心して使用できす。A級のニッケルチタン合金ワイヤーを使用しているため、柔軟性に優れさまざまな耳の形にフィットします。しかもズレにくく、長時間装着しても痛みや疲れがありません。さらに、片耳わずか約5gの軽量設計により、着けていることを忘れるほど自然な装着感を実現しました。＊本商品は UU イヤーカフの後継機 POP Clip2 で、形状が U 字型のため「UU2」と呼称を統一しております。Bluetooth 名・外箱には「POP Clip2」と記載されている点、ご了承ください。",
+        "【前モデル比最大音量2.57%（3.17dB）アップ! オープンイヤーでも大迫力】 圧迫感のない広々とした音場で人気のオープンイヤー型イヤホンですが、その構造上音量を稼げないことがウイークポイントとされてきました。そこで、SOUNDPEATS POPClip2ではアンプなど細部を徹底的に見直し、前モデルPOPClipに比べ最大音量を2.57%（3.17dB）向上させることに成功しました。音楽再生を開始したその瞬間、これまでにないオープンイヤー型イヤホンだと実感いただけます。",
+        "【長時間再生＆物理ボタンで、毎日がもっと使いやすく】 タッチ式ではなく物理ボタンを採用したことで、誤操作を減らし、音量調整や再生停止などの操作を確実に行うことができ、どんなシーンでも簡単にコントロールできます。フル充電で最大10時間、充電ケース併用で最大42時間の再生が可能です。さらに、急速充電にも対応しており、10分の充電で最大2時間の音楽再生を実現しました。日常生活での使用はもちろん、長距離移動やアウトドアで利用するときにも、バッテリー残量の心配がありません。＊音楽再生時。使用条件により異なります。",
+        "【Bluetooth 6.0 &amp; アプリ「SOUNDPEATS」対応、スムーズな使用体験】 最新規格のBluetooth6.0によって、屋外の混雑した電波環境にも負けない、通信環境が実現されます。イヤホンの接続安定性が大幅に向上し、音飛び・音途切れが起きにくくなりました。マルチポイント機能にも対応、最大2台のデバイスに同時接続できます。iOS、Android、Windowsのいずれのデバイスでも、音楽や通話をシームレスに切り替えることができます。専用アプリ「SOUNDPEATS」をダウンロードして、さらに多くの実用的な機能を体験しよう！ダイナミック EQ、プライバシーモード、空間オーディオなど多彩な機能を体験できます。※専用アプリは「SOUNDPEATS」をご利用ください。",
+        "【左右を気にしない！自由に収納できる】 イヤホンの左右チャンネル割り当ては固定ではなく、充電ケースの格納位置と取り出し順により決定されます。だから充電ケースに収めるときは、左右を意識せず適当に置い てかまいません。従来のように「L/Rを確認してから収納する」といった手間は一切不要 で、どちらでも気にせずサッと入れるだけでOKです。忙しい朝の外出前や、急いでいる通勤・移動中でもスムーズに使え、ストレスフリー。使うときには、蓋を閉じて約10秒経過後に取り出すと左右チャンネルが適切に再設定される仕組みなので、心配はいりません。",
+        "【AI 通話ノイズキャンセリング×AeroVoice風切り音低減テクノロジー】 最新のAI 通話ノイズキャンセリングとデュアルマイクにより、通話中の周囲ノイズを効果的に低減し、クリアで聞き取りやすい音声を実現しました。騒がしい環境でも、相手に聞き取りやすい声を届け、ストレスなくコミュニケーションを取ることができます。さらに、弊社独自開発で特許出願中の「SOUNDPEATS AeroVoice」風切り音低減テクノロジーにより、空気が流れる方向を変えることで、一般的なイヤホンに比べて風切り音低減性能を25％※向上させています（弊社ラボにおける測定結果）",
+        "【Comfort Ear Bean×指向性サウンド~快適さと高音質を両立】 SOUNDPEATS独自のエルゴノミック・コンフォートイヤービーン設計と高弾性A級形状記憶合金によるC形ブリッジを採用し、耳の形状に沿って自然にフィット。耳輪への立体的なフィットと双方向バランス設計により、動いてもズレにくく、長時間でも快適な装着感を実現します。さらに、偏心式音導構造と最適化された音波入射角度による指向性音響伝送システムで、音を耳元へ効率よく届け、クリアで力強いサウンドを実現。耳穴をふさがないオープンイヤー構造で、通勤・通学やスポーツなど、さまざまなシーンで快適な音楽体験を楽しめます。"
+      ],
+      "maker": "SOUNDPEATS",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 1146,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0HJQD4YDP",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:18:56+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H8P9N9W7",
+      "title": "SOUNDPEATS Air6 Pro ワイヤレスイヤホン ハイレゾ ノイズキャンセリング（ブラック）【VGP2026 SUMMER 金賞】 | 最大52時間再生／Dolby Audio対応/aptX Lossless／LDAC対応/bluetooth6.0／QCC3091／急速充電対応／マルチポイント／ワイヤレス充電／8マイク AI ENC／装着検知／専用アプリ／IPX5防水防塵",
+      "url": "https://www.amazon.co.jp/dp/B0H8P9N9W7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H8P9N9W7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61DYhlZameL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【Air Series Tuning Gen2｜聴くたびに新たな音のディテールを発見】 SOUNDPEATS Air6 Pro完全ワイヤレスイヤホンは、SOUNDPEATS独自の音質向上技術「Air Series Tuning Gen2」と11mmPU+PMI複合振動板ドライバーを搭載。PUの柔軟性とPMIの軽量性を組み合わせることで、低音の力強さから高音の繊細な表現まで、幅広い音域を自然かつバランスよく再現します。ボーカルは厚みと温かみのある自然な響きを、楽器は一音一音の細かなニュアンスまでクリアに描き出し、複雑な楽曲でもそれぞれの音の存在感を鮮明に表現。さらに、長時間のリスニングでも刺さりにくく疲れにくい、心地よく聴き続けられるサウンドを実現し、音楽への没入感を高める上質なリスニング体験を提供します。",
+        "【最大52時間×ワイヤレス充電｜充電切れの不安を解消！】 イヤホン単体で最大12時間、充電ケース併用で最大52時間※の再生が可能。通勤や旅行など長時間の使用でも、音楽を快適に楽しめます。さらに10分の急速充電で約4時間再生（AAC/ANC OFF）に対応。ワイヤレス充電と有線充電の両方に対応し、シーンに合わせた充電が可能です。※AACコーデック、音量60%、標準モード、ANC OFF条件で測定。実際の再生時間は使用環境などにより異なる場合があります。",
+        "【最大58dBノイズキャンセリング｜静寂の中で楽しむ没入サウンド】 アクティブノイズキャンセリング（ANC）には、フィードフォワード＋フィードバックのハイブリッド方式と片側4基・合計8基の高性能マイクを搭載し、弊社歴代ANC対応製品でもトップクラスの最大58dBというノイズ低減を実現。街中の騒音や電車の走行音、飛行機のエンジン音などを効果的に抑え、音楽への没入感を高めます。さらに、外音取り込みモードや風切り音低減モード、CVC8.0通話ノイズキャンセリング、SWR防風に対応し、さまざまな環境で快適な通話体験を提供します。",
+        "【LDAC×aptX Lossless×LC3｜聴けば違い がわかる音】 ワイヤレスイヤホンAir6 Proは、先進のSnapdragon Soundに対応。LDAC・aptX Lossless・aptX Adaptive・LC3という高音質コーデックを搭載し、最大96kHz/24bitの高音質再生を実現、ハイレゾワイヤレス認証も取得しました。細部まで忠実に再現し、まるで目の前で演奏しているかのようなリアルな音楽体験を楽しめます。高音域はクリアで繊細に伸びやかに、中音域はボーカルの温かみや厚みを自然に表現。低音域は力強く心地よい響きで、音楽全体を包み込むような深みを再現します。さらに、優れた楽器分離により一つひとつの音を鮮明に描き出し、全音域のバランスが整った、長時間でも聴き疲れしにくい高品質なサウンドを届けます。※LDACはマルチポイント接続と同時に使用できません。※iOS はLE‑AudioおよびaptXコーデックに対応しておりません。",
+        "【Dolby Audio｜より立体感あふれる音楽体験へ】 Dolby Audioにより、臨場感あふれるサウンド体験を実現。コンテンツに合わせて音の表現力を高め、映画・動画・ゲームなどでは、より広がりのある立体的な音場を再現します。セリフ、人の声、効果音、BGMなどの細かな音まで自然かつクリアに表現し、よりリアルで没入感のある影音体験を楽しめます。※Dolby AudioはLDAC/AptX Adaptiveとの同時使用に対応しています。LE AudioモードではDolby Audioを使用できません。",
+        "【マルチポイント｜日常と世界をつなぐ、新しい体験へ】 Bluetoothマルチポイント接続に対応し、2台のデバイスを同時接続可能。スマートフォンとPC間の切り替えもスムーズに行え、再接続の手間なく仕事からエンターテインメントまで快適に対応します。※マルチポイント接続使用時は、LDACは利用できません。",
+        "【SOUNDPEATS アプリ×装着検出｜無限に広がる、あなただけの音体験へ】 専用アプリ「SOUNDPEATS」により、オンラインカスタマーサポートでのお問い合わせ対応、ノイズキャンセリングモードの切り替え、パーソナライズ設定などが可能。さらに、ファームウェアアップデートにも対応し、常に最新の機能で快適なサウンド体験を楽しめます。また、装着検出機能を搭載し、内蔵センサーがイヤホンの装着状態をリアルタイムで感知。イヤホンを外すと自動で再生を一時停止し、再装着すると自動で再生を再開することで、より自然でスマートなリスニング体験を提供します。※装着検知モードでは、ANCのオン・オフが自動的に切り替わります。装着検知でイヤホンを外している状態では、アプリから手動でANCをオンにすることはできません。",
+        "【より快適な使用体験のため、イヤホン到着後にSOUNDPEATS APPをダウンロードし、ファームウェアをV0.2.5以降へアップデートしてください。さらに進化した音質をお楽しみいただけます。】"
+      ],
+      "maker": "SOUNDPEATS",
+      "query": "dg_20261112_earphone",
+      "queries_matched": [
+        "dg_20261112_earphone"
+      ],
+      "review_count": 247,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B0H8PG9JJN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:19:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:earphone"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-12",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:earphone",
+    "theme": "移動中と仕事で使う。ワイヤレスイヤホン",
+    "exclude_used_since": "2026-10-13",
+    "current_stock_verified": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T11:19:03+09:00"
+}
