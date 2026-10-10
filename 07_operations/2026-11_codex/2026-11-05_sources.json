@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-05",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B0DBY8JCQ5",
+      "official_urls": [
+        "https://www.dretec.co.jp/stationary/timer/t-587"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DBY8JCQ5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-05_timer_candidates.json",
+        "path": "candidates[asin=B0DBY8JCQ5].features"
+      },
+      "check": "T-587PK3公式一致。ラーニングタイマーを正式見出し採用。"
+    },
+    {
+      "order": 2,
+      "asin": "B07X2QHVDW",
+      "official_urls": [
+        "https://www.sonic-s.co.jp/product/lv-3062"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B07X2QHVDW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-05_timer_candidates.json",
+        "path": "candidates[asin=B07X2QHVDW].features"
+      },
+      "check": "型番/アイボリー一致。最大60分。0時間誤抽出削除。"
+    },
+    {
+      "order": 3,
+      "asin": "B08HWCWY6Z",
+      "official_urls": [
+        "https://ticktime.com/collections"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B08HWCWY6Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-05_timer_candidates.json",
+        "path": "candidates[asin=B08HWCWY6Z].features"
+      },
+      "check": "現行公式に別モデル混在。当該Featuresにある3/5/10/15/25/30分・52g・寸法・Type-Cだけ使用。振動機能は転用しない。"
+    },
+    {
+      "order": 4,
+      "asin": "B00DAM5L1S",
+      "official_urls": [
+        "https://www.tanita.co.jp/support/manual/TD-370N/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B00DAM5L1S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-05_timer_candidates.json",
+        "path": "candidates[asin=B00DAM5L1S].features"
+      },
+      "check": "公式説明書で23時間59分59秒、ブザー/振動、25gを確認。"
+    },
+    {
+      "order": 5,
+      "asin": "B0BK2J71M1",
+      "official_urls": [
+        "https://www.timetimer.com/products/time-timer-mod-home-edition"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0BK2J71M1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-05_timer_candidates.json",
+        "path": "candidates[asin=B0BK2J71M1].features"
+      },
+      "check": "TTM9-HFG-W公式一致。60分とアラームOFF、単3一本を照合。"
+    },
+    {
+      "order": 6,
+      "asin": "B0BB5WSKPF",
+      "official_urls": [
+        "https://www.dretec.co.jp/kitchen_goods/timer/t-615"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0BB5WSKPF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-05_timer_candidates.json",
+        "path": "candidates[asin=B0BB5WSKPF].features"
+      },
+      "check": "候補タイトル/Featuresにモデル不一致。公式との共通機能のみ使用。型番・最大時間・電池・10キーは不採用。"
+    },
+    {
+      "order": 7,
+      "asin": "B004KSRN3K",
+      "official_urls": [
+        "https://www.tanita.co.jp/product/timer/3640/",
+        "https://www.tanita.co.jp/support/manual/TD-395/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B004KSRN3K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-05_timer_candidates.json",
+        "path": "candidates[asin=B004KSRN3K].features"
+      },
+      "check": "TD-395公式と説明書。TD-431抗菌を転用しない。"
+    },
+    {
+      "order": 8,
+      "asin": "B07KGH6B81",
+      "official_urls": [
+        "https://www.datexx.jp/timer1.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B07KGH6B81?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-05_timer_candidates.json",
+        "path": "candidates[asin=B07KGH6B81].features"
+      },
+      "check": "白の5/15/30/60分は旧公式と一致。Plus付加機能は当該Featuresのみ。"
+    },
+    {
+      "order": 9,
+      "asin": "B087S3YKH7",
+      "official_urls": [
+        "https://www.muji.net/manual/4550182248296/01_4550182248296_00001.pdf"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B087S3YKH7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-05_timer_candidates.json",
+        "path": "candidates[asin=B087S3YKH7].features"
+      },
+      "check": "商品コード4550182248296/82248296に対応する公式説明書。旧LR44モデルは除外。"
+    },
+    {
+      "order": 10,
+      "asin": "B08KRMQT5S",
+      "official_urls": [
+        "https://www.sonic-s.co.jp/product/lv-3521"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B08KRMQT5S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-05_timer_candidates.json",
+        "path": "candidates[asin=B08KRMQT5S].features"
+      },
+      "check": "LV-3521-MB公式一致。時計プラスと静音作動を確認。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/nb4bb727ad140",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n5fc5895da192",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n2f32776dd6f3",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "unresolved_omitted_specs": [
+    "シャボン6当該ASINのメーカー型番未確定・Features別モデル混入。共通機能限定",
+    "TickTime現行公式のモデルバリエーションと当該ASIN対応未確定。Features限定",
+    "TimeCube旧公式にPlus表記なし。追加機能はFeatures限定"
+  ],
+  "removed_bad_auto_extractions": [
+    "LV-3062 0時間",
+    "TickTime 12時間は初回充電説明"
+  ]
+}
