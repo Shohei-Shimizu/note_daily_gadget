@@ -1,0 +1,988 @@
+{
+  "generated_at": "2026-10-10T00:58:06+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261101_5d60a8d4",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261101_keyboard"
+  ],
+  "fetched_count": 27,
+  "dedup_count": 27,
+  "candidates": [
+    {
+      "asin": "B00U260UR0",
+      "title": "Anker ウルトラスリム Bluetooth ワイヤレスキーボード iOS/Android/Mac/Windows対応/長時間稼働 ホワイト テレワーク リモート 在宅勤務",
+      "url": "https://www.amazon.co.jp/dp/B00U260UR0?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B00U260UR0?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61eED+cmsnL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "優れた互換性：本製品は、iOS、およびAndroid、Mac、Windowsに使用可能。ショートカットキーも、それぞれご使用いただけます。※本製品はUSキーボード配列となります。",
+        "軽量かつコンパクト：本製品は、従来のキーボードの3分の2のサイズです。重さも約200gと非常に軽量です。",
+        "快適なキーボード：タイピング音が静かなキーを採用しました。",
+        "長期間使用可能：省電力モードにより3ヶ月以上お使いいただけます。(一日に2時間連続使用する場合）※別途単4形電池2本をお買い求めください。",
+        "パッケージ内容：Anker ウルトラスリム Bluetooth ワイヤレスキーボード、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 11647,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "keyboard",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T09:59:06+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B015H5YHEM",
+      "title": "ロジクール ワイヤレスキーボード K275 ワイヤレス キーボード 無線 薄型 テンキー USB接続 Unifying windows 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B015H5YHEM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B015H5YHEM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51if2WrgqOL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "付属の単四電池2本で最大24か月の電池寿命を実現",
+        "サイズ(H×W×D)mm:約18×450×155mm、本体重量:約キーボード(電池含む):約470g、レシーバー重量:約2g",
+        "キー言語:日本語",
+        "対応OS:【Windows】Vista/7/8/10以降、【Chrome】OS、対応機種:USBポート",
+        "国内正規品3年間の保証"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 3418,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-14",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0BHZ4HCLB",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T09:59:15+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08K2CHMWK",
+      "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B08K2CHMWK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08K2CHMWK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61t1h-+MvfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "従来モデルより90%の操作音を削減した静音キーボード。",
+        "接続はUnifying USBレシーバーに対応し、最大10mのワイヤレス接続を可能にします。",
+        "8つのショートカットキーとテンキーを搭載した耐水設計です。",
+        "単4電池2本で24ヶ月間*の長期間使用できます。*使用環境によって異なります。",
+        "対応OS：Windows 10 、 11 以降、Chrome OS / 保証：2年間の長期保証",
+        "SilentTouch technologyでタイピング音を従来モデルより90%以上軽減し、オフィスでも快適に作業可能。テンキー付きフルサイズレイアウトと8個のショートカットキーで業務効率を向上、最大24ヶ月駆動のバッテリーで交換の手間も削減します。",
+        "耐久性と快適性の融合。耐水設計*、丈夫なキー、および高さを調節可能なティルトレッグにより、タイピングの有用性と快適性がさらに高まります。*最大60mlの液体（水）量の試験条件による結果です。キーボードは液体に浸さないでください。"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 11251,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H798GHGL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T09:59:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FDQL8KNL",
+      "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品 | コンパクト、耐水、テンキー、電池式（単4型乾電池 x 2）、12ヶ月の電池寿命、Windows、macOS、ChromeOS、Linux、iPadOS、iOS、Android対応、壁紙ダウンロード付き",
+      "url": "https://www.amazon.co.jp/dp/B0FDQL8KNL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FDQL8KNL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61MJ52CiKjL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Bluetoothで簡単に接続できるテンキー付きのコンパクトなワイヤレスキーボード",
+        "K250GRd ／ 保証期間1年間のAmazon.co.jp限定モデル ※Amazon.co.jp限定 壁紙ダウンロード付き",
+        "品質を追求して設計されたK250はキーが長持ちし、さらに耐水設計*が施されており、耐久性と信頼性があります。*最大60mlの液体（水）量の試験条件による結果です。キーボードを液体に浸さないでください。",
+        "テンキー、矢印キー、便利なFキーショートカットを搭載しながらも、コンパクトなレイアウトでスペースを取りません",
+        "単4電池2本で12ヶ月間*の長期間使用できます。*使用環境によって異なります。"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 11251,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H798GHGL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T09:59:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07PJW2X2F",
+      "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
+      "url": "https://www.amazon.co.jp/dp/B07PJW2X2F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07PJW2X2F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61EKR1NXCrL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "サクサクと軽い打ち心地を実現したキー設計を採用した薄型キーボードです。",
+        "キーを押した際の重さが、当社従来品と比較して約18%軽くなっており、小さい力でキー入力することができます。※TK-FCM075TBKと比較",
+        "キーストローク2.5mmの薄型キーを採用し、素早いキー入力を実現します。",
+        "最薄部は約12.7mmで、スタイリッシュな薄型設計です。",
+        "タイピングしやすい、JIS規格準拠の標準日本語配列を採用しています。",
+        "大型のエンターキーや、独立して配置されたDeleteやInsertなどの特殊キーにより、誤入力しにくく快適なキータイピングが行えます。",
+        "ボリューム操作やメディアプレーヤーの操作などを専用キーを押すだけで実行できる12種類のマルチファンクションキーを搭載しています。",
+        "1円玉サイズのマイクロレシーバーを採用しており、パソコンのUSBポートに挿すだけで、すぐに使用することができる無線接続タイプです。",
+        "対応OS:Windows 10、Windows 8.1、Windows 7、Windows XP ※各OSの最新バージョンへのアップデートや、サービスパックのインストールが必要になる場合があります。対応機種:USBポートを装備したWindows OS搭載機",
+        "付属品:ユーザーズマニュアル×1、動作確認用単4形アルカリ乾電池×1、レシーバーユニット×1"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 5714,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-15",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0CT338MNK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T09:59:41+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01HGGWZMG",
+      "title": "エレコム 有線キーボード メンブレン ブラック TK-FFCM01BK",
+      "url": "https://www.amazon.co.jp/dp/B01HGGWZMG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01HGGWZMG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ae4VWeN4L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "極限まで筐体を小さくしたコンパクトサイズのフルキーボードです。",
+        "デスク周りのスペースを有効に使える省スペースデザインです。",
+        "キートップをラバードームで支えるメンブレン方式を採用しています。",
+        "キートップにはスタイリッシュで見やすいオリジナルフォントを使用しています。",
+        "文字は長時間使用しても薄くなりにくいレーザー刻印を施しています。",
+        "打鍵しやすいキーピッチ19mmと日本語109キー配列を採用し、快適なタイピングが可能です。",
+        "誤って水などの液体をキーボード上にこぼしても、本体裏面の水抜き穴からすぐに液体を排出できる排水機能を装備しています。※防水設計ではありません。",
+        "傾斜角を2段階で調整できる傾斜角度調節スタンドが付いています。",
+        "対応機種: USBポートを装備したPC/AT互換機、対応OS: Windows 10、Windows 8.1、Windows 8、Windows 7、Windows Vista、Windows XP ※各OSの最新バージョンへのアップデートや、サービスパックのインストールが必要になる場合があります。",
+        "外形寸法:幅435.0mm×奥行128.0mm×高さ23.7mm(スタンド含まず)/幅435.0mm×奥行128.0mm×高さ35.4mm(スタンド時)"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 5652,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T09:59:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BWDSC5ZB",
+      "title": "【Amazon.co.jp限定】ロジクール MX KEYS mini KX700GRd ミニマリスト ワイヤレス イルミネイテッド キーボード グラファイト 充電式 Bluetooth Logi Bolt Unifying非対応 USB-C-A 日本語配列 無線 KX700 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0BWDSC5ZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BWDSC5ZB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71lv30kG5PL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "MX KEYS(KX800)のテンキーレスモデル／70%のサイズで省スペース・持ち運びもらくらくのスタイリッシュな高機能キーボード [ Amazon.co.jp限定 壁紙ダウンロード付き ]",
+        "KX700GRd／メーカー保証期間1年間／メーカー保証期間をのぞく、機能やデザインは従来モデルKX700GRと同じです。",
+        "指先の形状にあった球状にくぼんだパーフェクト・ストロークキーを採用。／キーのどこを打ってもすべてのキーストロークが滑らかで精確。",
+        "変化する照明条件に合わせて自動的に明度を調整するバックライトキー、スマートイルミネーションを搭載／バッテリー電力を節約。",
+        "対応OS:Windows 10以降、macOS 10.15以降、iOS 13.4以降、Chrome OS、Android OS 5以降/USB-C接続による充電。",
+        "法人・ハイブリッドワークにも最適。省スペース設計と上質な打鍵感でデスク環境と作業効率を改善。テンキーレスのコンパクトデザインによりデスクスペースを有効活用し、マウスとの距離を縮めることで快適な作業姿勢をサポートします。指先にフィットする球状凹面キーが正確で静かなタイピングを実現し、作業疲労や誤入力を軽減。Bluetoothおよび高セキュリティのLogi Bolt接続に対応し、最大3台の端末をワンタッチで切り替えられるため、省スペースなオフィス、フリーアドレス、在宅勤務の標準備品として最適です。"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 1329,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-24",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GK6LZ36T",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T09:59:56+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08TMK8GSC",
+      "title": "エレコム ワイヤレスキーボード Bluetooth フルキーボード テンキー付 薄型 メンブレン 抗菌 最大3台マルチペアリング対応 iPad/Surface/テンキー付 ブラック TK-FBM120KBK/EC",
+      "url": "https://www.amazon.co.jp/dp/B08TMK8GSC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08TMK8GSC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61TnEbWf-hL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "こちらの製品は表面上における細菌の増殖を抑制、あるいは阻害する性能を有したもので、JIS(日本産業規格)が定める抗菌性試験に準拠したものです。",
+        "省電力を実現するBluetooth(R)5.0 Class2規格に適合しており、Bluetooth(R) 4.0以降に対応したパソコンやタブレットであれば、レシーバ無しで接続できます。※Bluetooth(R)に対応していないパソコンやタブレットでも、規格に適合したBluetooth(R)アダプタを用意することで使用可能です。(推奨Bluetooth(R)アダプタ:LBT-UAN05C2シリーズ(別売))",
+        "最大3台のマルチペアリングに対応し、切り替えボタンを押すことで登録したデバイスを瞬時に切り替えることができます。",
+        "WindowsやAndroid/macOS/iOSのそれぞれに最適化した入力モードを搭載しています。",
+        "サクサクと軽い打ち心地を実現したキー設計を採用した薄型キーボードです。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 1872,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "keyboard",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0CT39VLZZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:00:04+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CWKWXP37",
+      "title": "【最新型】Omikamo キーボード bluetooth 折り畳み式 ワイヤレス JIS標準日本語配列 ipad キーボード スマホ マルチペアリング タッチパッド付き iOS/Windows/Android/Mac/Google対応",
+      "url": "https://www.amazon.co.jp/dp/B0CWKWXP37?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CWKWXP37?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61xWMynjH8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "✅【JIS標準日本語配列Omikamo独家設計、高級な折り畳み式フルサイズキーボード】ipad キーボード bluetooth はJIS規格準拠の標準日本語配列を採用し、かな印字付きの折り畳みキーボードです。ipad mini キーボードはOmikamo独自が開発した折り畳み式のフルサイズキーボードで、使用感とコンパクトさを重視しながら高級感を追求したワイヤレスキーボードです。キーの大きさも通常のと変わらないためとても打ちやすくて、打った感覚がノートパソコンと同じです。",
+        "✅【5システム対応＆3台設備まで切替使用可能】薄型 軽量 ワイヤレス キーボードは iOS/Windows/Android/Mac/Googleの5個システムも対応しており、最大3台設備まで切替てマルチパリング可能です。ボタンを押すだけでスマホ、ipad、ipad mini、ipad air、タブレットPCの間で自由自在に切り替えます｡幅広い交換性で、Bluetoothが接続できる機器のほとんどが使用できる 無線 ブルートゥース キーボードです。",
+        "✅【14種類のファンクションキー付きbluetooth キーボード】スマホ キーボード タブレットはコピー、切り取りや音量調節など14種類のファンクションキーが搭載しています。それに、ファンクションキーは単独一行で、直接押すと機能でき、タブレット キーボードとしての操作効率がアップしました。",
+        "✅【接続簡単＆コンパクトな無線 キーボード】パンタグラフ キーボードのBluetooth接続も簡単で使いやすく、入力遅延もありません。折り畳めるため非常にコンパクトで持ち運びに便利です。使わない時は畳んで置いておけるので、邪魔になりませんし、キーボードが埃をかぶることもありません。",
+        "✅【大型かつ高精度のタッチパッド搭載】ipad mini6 キーボードは大型かつ高精度のタッチパッドを搭載して、左右クリック機能あり、マウスがなくても簡単に操作できます。また、タッチパッドがFnとスペースキーでオフできますのでタイピング中に触っても大丈夫です。",
+        "✅【技適認証取得済みと1年間品質保証】ipad 10世代 キーボードは技適認証を取得済みで、安心に使用できます。✅本商品は特許申請中です。また、ipad air 第5世代 キーボードは1年間の保証期間がついておりますので、ご不明な点がある場合、お気軽に弊社のカスタマーサポート（omikamo_no3@163.com）（L I - N E：@123blepn）にご連絡ください。✅【安心の日本語電話サポート対応】電話番号： 070-2819-3161受付時間：10:00〜12:00 / 14:00〜17:00（土日祝日を除く）"
+      ],
+      "maker": "Omikamo",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 1277,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0D3F3RTX9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:00:12+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CJR82M5M",
+      "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s オフホワイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0CJR82M5M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CJR82M5M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61qhLDuiziL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "薄型&amp;軽量(415g)&amp;コンパクト／ロングセラーのBluetoothキーボードK380がカラーと機能をアップデートして登場！",
+        "グラファイト、オフホワイト、ローズは2トーンカラーにリニューアル + 新色のグレージュ、ブルーが仲間入り",
+        "接続はBluetoothに加えLogicool独自のLogi Boltレシーバーに新たに対応 ※Logi Bolt USBレシーバーは別売となります。Unifyingは非対応です。",
+        "接続された3台までの対応デバイスを本体上部のキーを押すだけで切り替えられる／Logicool独自のEasy-Switchに対応",
+        "単四本で乾電池2本で36ケ月の長電池寿命 ※従来モデルは24ケ月／保証期間2年間",
+        "対応OS:[Bluetooth] Windows 10, 11以降、macOS 11以降、iPad OS 14以降、Android OS 9.0以降、Chrome OS"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 1080,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0FX2L8JJW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:00:21+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01MA23P3J",
+      "title": "iClever 折りたたみ Bluetooth キーボード- 多ペアリング対応 360度回転可能 超軽量薄型 レザー保護カバー付き 折れない設計 iPad/iPhone/Mac/Android/Windows対応",
+      "url": "https://www.amazon.co.jp/dp/B01MA23P3J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01MA23P3J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/717p4Yhht7L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【人間工学・タイピング・フット感】人間工学に基づいたV字型のスプレッド形状は、手の自然な動きに合わせて7°傾き、快適なタイピングポジションを提供します。パンタグラフ方式は、フルサイズのキーボードと同等の19mmのキーピッチで明瞭な入力を可能にする。静音設計なので、オフィスやカフェでも騒音に邪魔されることはありません。各キーは打ちやすく、その感触は文字入力にも反映されるので、入力が難しいスマートフォンやタブレットでも快適に文字入力ができます。",
+        "【マルチペアリング可能】 スリムでコンパクトなBluetoothキーボードで、最大3台のデバイスとペアリング可能です。ボタンを押すとデバイスの間で簡単に切り替えます｡iOS、Android 、Windowsが搭載されたすべてのBluetooth機能付きデバイスと接続できます。一度ペアリングしておけば、キーボードを使用するときに、前回ペアリングされたデバイスに自動的に接続されます。▲当製品は一度に一台のデバイスのみペアリングします。また、us配列のため、shift+機能キー対応は、お使い端末やOSバージョンによって機能が異なる場合がありますので、詳しくは取扱書を参考にしてください。",
+        "【折り畳み式キーボード】360度開閉可能で、本のように既定の方向に折り畳めることは勿論、逆側にも360度開きます。万が一、逆に開いてしまって故障するなどの心配はありません。閉じた周囲の外装がレザー製になっているため、手触りがとても滑らかです。折りたたむと158 x 102 x 13 mmというiPhone程のコンパクトサイズです。本体の重量はわずか176ｇで、持ち運びに最適です。",
+        "【省エネ設計】60時間の長時間バッテリー操作楽々なマグネット式で、開閉により電源が自動的にON/OFFになります。電源操作が不要なので快適に使用出来ます。USB標準オスフル充電で約60時間の長時間使用が可能となっており、外出先でも、出張等でもこれ一台で十分です。",
+        "【品質保証】本製品はご購入から18ヶ月の品質保証も付いております。ご購入後のご不明点等がございましたら、故障してしまった場合では、アマゾンの購入履歴より店までご連絡いただければ対応させて頂きます。"
+      ],
+      "maker": "iClever",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 906,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-18",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:00:31+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C3QXBTJP",
+      "title": "エレコム ワイヤレスキーボード 静音 テンキー付 薄型コンパクトサイズ Windows ChromeOS macOS対応 ブラック TK-QT30DMBK",
+      "url": "https://www.amazon.co.jp/dp/B0C3QXBTJP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C3QXBTJP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61FeW4LrJ-L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "本格静音設計でありながら、軽い打ち心地を実現したワイヤレスタイプの静音薄型キーボードです。デスク周りスペースを有効に使えるコンパクトサイズで、数字入力に便利なテンキー付きです。",
+        "各キートップに装着したシリコンラバーによって従来品と比べて打鍵音を9割以上低減。公共施設や会議室、夜中や朝方など音が気になる場所や時間帯での使用に最適です。",
+        "※本製品(約15dB)と従来モデルTK-FCM062BK(約45dB)の打鍵音の音圧レベルから算出した音エネルギーの大きさを比較した結果です。音エネルギーとは、測定した音圧レベル(ベル値)と基準値(人間が聞き取れる最小の音の大きさ)から算出した値です。",
+        "独自のファームウェアを搭載することにより、Windows、ChromeOS、macOSで使用可能です。",
+        "キーストローク1.4mmの薄型キーを採用し、素早いキー入力を実現します。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 815,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "keyboard",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0CT2YSJ1V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:00:40+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FDW68VH4",
+      "title": "【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (シルバー（かな印字なし）, JISレイアウト)",
+      "url": "https://www.amazon.co.jp/dp/B0FDW68VH4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FDW68VH4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71vLC3tJ6eL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Keychron B1 Proは、シザースイッチを採用し、軽量、超薄型のワイヤレスキーボードで、1,200時間の長時間駆動を実現。2.4GHzワイヤレス、Bluetooth、有線モードに対応し、スマートフォン、タブレット、PC、Macに簡単に接続できます。ZMKのカスタマイズ機能により、自宅、オフィス、旅行など、用途に合わせた設定が可能です。"
+      ],
+      "maker": "Keychron",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 512,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "keyboard",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GVHNRJVG",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:00:48+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B1Q6H9X5",
+      "title": "ロジクール KX850CL MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 赤軸 リニア テンキーレス 静かな打鍵感 Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+      "url": "https://www.amazon.co.jp/dp/B0B1Q6H9X5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B1Q6H9X5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/617XT98wzkL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "独自のロー・プロファイルキーを採用した静かな打鍵感のワイヤレスメカニカルキーボード／テンキーレスモデル／赤軸(リニア)",
+        "KX850CL／リニアスイッチ(赤軸)／とてもスムーズな感触、素早い反応のリニアで流れるようなタイピングを可能に",
+        "高さが低い独自のロー・プロファイル・キーを採用／手首をあまり曲げなくて済む／3.2ｍｍの短いキーストロークでタイピングの際の指の負荷が比較的小さい",
+        "スマートライティングを搭載／周囲の環境に合わせて光量が自動で変化／ライティングのエフェクトをカスタマイズ可能",
+        "Bluetooth／Logi boltで接続 ※Unifying非対応"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 241,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-03",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0B1V9LSM2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:00:58+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CT2T18PV",
+      "title": "Amazonベーシック 有線キーボード 日本語配列 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CT2T18PV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CT2T18PV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71vI0oDnVyL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "日本語キーボード。薄型仕様でデスクをすっきり整頓できます。タイピング音が静かで、キーの操作感は快適です。",
+        "時間節約効果につながるホットキー。ファンクションキーにより、メディア、マイコンピュータ、ミュート、音量を上げる/下げる、および電卓に簡単にアクセスできます。4つのファンクションキーにより、メディアプレイヤーの前のトラック、停止、再生/一次停止、次のトラックを制御します。",
+        "USB Type A有線接続。キーボードはさまざまなデバイスとの幅広い互換性があります。",
+        "Windows 2000、XP、Vista、7、8、10、11に対応。",
+        "本体寸法:44.2 x 12.7 x 2.5cm(長さx幅x高さ)。"
+      ],
+      "maker": "Amazon",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 364,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "keyboard",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:01:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D3HX423Y",
+      "title": "【WOBKEY Rainy 75キーボード】雨音のような打鍵音 メカニカルキーボード 3WAY接続 OS互換性 ホットスワップとVIAの対応 カスタマイズ性 ガスケットデザイン アルミニウム素材使用 RGBバックライト (Pro (ブラック 英字配列",
+      "url": "https://www.amazon.co.jp/dp/B0D3HX423Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D3HX423Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71JTnqL5ShL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "💧【Rainy75とは】Rainy75はアルミ合金を採用し、CNC加工を施し、高品質のキースイッチとキーキャップを装備したメカニカルキーボードです。 手ごろな価格でキーボードへの期待に応え、誰もが全く新しい打鍵音と打鍵感を体験することができます。Rainy75はマルチシステムと3WAY接続に対応し、様々なカラーとデザインが用意されています。大容量バッテリー、急速充電対応。国内外のクラウドファンディングにて100万ドルの支援金を達成したキーボードです。",
+        "💧【ガスケットマウントデザイン】Rainy75キーボードガスケットマウントデザインを採用し、打鍵時の衝撃を吸収し、反響音や不快音が解消します。ケース内には、複数な吸音フォームの隙間に貼り付けることで、「トントン」と心地よい、柔らかく、滑らかな打鍵感を体験できます。円筒形のガスケットデザインを採用し、接触面積を小さくすることで摩擦を減らし、よりソフトで柔軟な打鍵感を実現しています。",
+        "💧【キーキャプとキースイッチ】Rainy75はPBTキーキャップを使用しています。PBT素材は油汚れに強く、汚れにくく、お手入れがより便利となります。HMX社とKAILH社のリニアキースイッチは、タイピングのスムーズさ及びタイピング音の質を根本から向上します。 キースイッチは5000万回以上のトリガーテストに合格し、使用品質を保証します。搭載されるキースイッチはHMX社のVioletスイッチとKAILH社のCocoaスイッチとMangoスイッチ3種類を用意しています。",
+        "💧【自分らしくカスタマイズが可能】ホットスワップ対応でキースイッチの交換も可能。自分らしく打鍵感と打鍵音を求める方は自分の好きなキースイッチやキーキャップを取り付けることができ、個性的なカスタマイズを実現しています。（MXタイプキースイッチやキーキャップは別途購入が必要。VIAは2.4GワイヤレスとType-Cの有線ケーブルで連続対応可能。RGBは256段階の輝度調整、1,600万色の表示色、バックライト効果がさらにカラフルに。",
+        "💧【あらゆるシーンに対応できる交換性】3WAY低遅延接続：Type-Cの有線ケーブル、BT、2.4Gワイヤレス。有線遅延2ms /2,4G遅延3ms 　BT接続7ms。 この遅延は、仕事だけでなく、ゲームのシナリオにも対応しています。有線モードと2.4Gワイヤレスモードは2秒で設定でき、BTモードは30秒以内で接続できます。Windows、Mac、Linuxシステムと互換性があるマルチシステム対応で、キーボードの使用モードを簡単に変更可能----Fn+Mを同時に押すとMacモードに切り替えます。 iOSおよびiPad OSとワイヤレス互換性があり、BTよりデバイスに接続できます。"
+      ],
+      "maker": "WOBKEY",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 45,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "keyboard",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "https://wiki.wobkey.com/en/Products/Rainy-75",
+      "parent_asin": "B0CZRX5YX9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:01:16+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B00BJZ2JWC",
+      "title": "ロジクール 有線 キーボード 耐水 K120 USB接続 日本語配列 テンキー 薄型 有線キーボード 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B00BJZ2JWC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B00BJZ2JWC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71XsUWAQ9zL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "⼿⾸への負担が少ない薄型形状/フルサイズのテンキー付き有線キーボード",
+        "1000万回のキーストロークテストをクリアした丈夫なキー",
+        "耐⽔設計でデスクの飲み物をこぼしても心配しない ※60mlの液体(⽔)量の試験条件による結果。液体につけないでください。",
+        "パソコンのUSBポートに接続するだけで、すぐに使⽤することができる簡単接続",
+        "3年間のメーカー無償保証",
+        "対応OS:Windows 10,11以降"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 3563,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B07B7QWRD4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:01:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B081JSVYHQ",
+      "title": "Ewin キーボード ワイヤレス bluetooth 小型 キーボード JIS基準 日本語配列 ios android Windows mac対応 | iphone ipad パソコン スマホ タブレット 三つデバイス自由に切替え 軽量 薄型 日本語",
+      "url": "https://www.amazon.co.jp/dp/B081JSVYHQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B081JSVYHQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61-2o--GpiS._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "✅【3台のデバイスとマルチペアリング・最新Bluetooth5.1に対応】　　ご注意:本キーボードは全てのAndroid12の機種に対応できません。こちらは、bluetoothキーボードです。接続するデバイスにbluetoothがないと接続できません。ご確認ください。このワイヤレスキーボードは、パソコンやタブレット、スマートフォンなど、最大3台までのデバイスとペアリングできるマルチペアリング機能を新しく搭載しました。使用機器を切り替えはワンボタン。複数のデバイスを使っている方におすすめです。Bluetoothに対応したパソコンやタブレットであれば、レシーバー無しで接続できます。専用ドライバーなどのインストールは不要で、ペアリングするだけですぐに使用可能です。PC、iPad、iPhone、アンドロイド等に対応したBluetoothキーボードです。",
+        "✅【JIS日本語配列のキーボード＆マルチファンクションキーを搭載】 　JIS日本語配列レイアウトを採用したキーボードです。長年使っておられる「かな入力」がタブレットやスマートフォンでもお使い頂けます。もちろんローマ字での入力も英語の入力もできます。キータイプは、ノートパソコンのキーボードと同様に軽い力で打鍵できる「パンタグラフ方式」を採用。コンパクトながら19mmのキーピッチと、日本語79キーを採用し、快適にタイピングできるでしょう。さらに便利な、ボリューム調整やメディアプレーヤーの操作などが可能な専用のマルチファンクションキーが12種類搭載しています。離れた場所からボリュームを調整できると、とても快適です！",
+        "✅【安心の電池式で超長い時間使える＆電源スイッチ搭載とLEDランプ付き】 　ipad キーボードは、アルカリ単4乾電池で稼働し、使用しない時の電池の消耗を防止できる電源スイッチを搭載しています。連続使用時間は100時間以上で、頻繁な電池交換は不要です。 電源ON、ペアリング状況などが分かるLEDランプもついています。ペアリングした後の再接続は数秒でストレスもなく快適そのものです！ ※電池は付属していませんので、別途ご購入お願い致します。",
+        "✅【それぞれのOSに最適化】 　ipad 10.2 キーボードは軽く、薄く、持ち運びが便利です。Windows OS/Android OS/Macintosh OS/iOSのそれぞれに最適化して使えます。基本的にBluetooth搭載しているiPad、スマホ、PC等、各種の端末に対応します。遠隔勤務におすすめ！",
+        "✅【コンパクトで軽量設計＆広がる汎用性】 コンパクトサイズのBluetoothキーボードです。295x120x20mm、わずか290g。女性のバッグにも邪魔にならず、いつでも、どこでも持って行けます。カフェでのちょっとした時間でも、ぱっとメールに返信できますね！ 対応機種： ノートPC：dynabook AZ35/M、富士通 LIFEBOOK WA3/D1、WA2/D1、HP Pavilion 15-cu0000、レノボ ThinkPad E590、レノボ ideapad S540(15)、HP ENVY x360 15（AMD）、マウスコンピューター m-Book K、デル Dell G5 15、HP OMEN 15、ドスパラ GALLERIA GCR2070RGF-QC / GCR1660TGF-QC、マウス DAIV-NG5300シリーズなどに対応。 iPad:10.2インチiPad 2019（第7世代）、9.7インチiPad 2017（第5世代）、iPad mini(2019)（第5世代）、iPad mini 4（第4世代）、iPad Air(2019)、12.9インチiPad"
+      ],
+      "maker": "Ewin",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 4106,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:01:32+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08CRN2P44",
+      "title": "バッファロー キーボード ワイヤレス BSKBW125BK",
+      "url": "https://www.amazon.co.jp/dp/B08CRN2P44?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08CRN2P44?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61C4EQWktFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【省電力設計】単3電池1本でも約3年動作。(想定使用可能時間:最大1121日)",
+        "【疲れにくいカーブデザイン】スペースキー付近の面積が広く、親指への負担が軽減されるとともに親指の位置の自由度も高くなるため、快適なタイピングが可能。",
+        "【高耐久設計】打鍵試験1,000万回をクリアする高耐久設計のキーボード。",
+        "【簡単接続】レシーバーをUSBポートに挿し込むだけの簡単接続。ドライバーインストール不要、面倒な設定なし。",
+        "【対応機種】Windowsパソコン(USB Type-A搭載機)、PlayStation 4、Nintendo Switch",
+        "【使用乾電池】単3形アルカリ乾電池、単3形マンガン乾電池、単3形ニッケル水素充電池のいずれか1本",
+        "※想定使用可能時間は自然放電を考慮しないバッファロー計算値のため保証値ではありません。使用環境・状況によって異なります。",
+        "【保証期間】6か月間",
+        "【付属品】取扱説明書、レシーバー、単3形乾電池1本(動作確認用)",
+        "最大10mまで無線通信が可能な高性能2.4GHz周波数帯を採用。電波の飛びが違うので、安定したデータ通信でストレスなく使用でき、リビングなどでのパソコン操作や会議、プレゼンテーションに最適なワイヤレスキーボードです。"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 3555,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0F4QMQP61",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:01:42+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C65F55K5",
+      "title": "ロジクール MX KEYS S ワイヤレス キーボード KX800sGR Bluetooth Logi Bolt Unifying非対応 Smart Actions 対応 Windows Mac Chrome Android FLOW Easy-Switch 無線 薄型 充電式 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0C65F55K5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C65F55K5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71DLd4T61OL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "MXシリーズの薄型・高機能ワイヤレスキーボード「MX KEYS」が「MX KEYS S」にアップデートして登場！",
+        "Logi Options+に新しく搭載したマクロ登録機能「Smart Actions」対応／複雑なマウスやキー操作のショートカットやファンクションをひとつのボタンに割り当てて登録し作業効率を大幅アップ",
+        "指先の形状にあった球状にくぼんだパーフェクト・ストロークキー／キーのどこを打ってもすべてのキーストロークが滑らかで精確",
+        "手が近づいた瞬間に点灯するスマートバックライト／変化する照明条件に合わせて自動的に明度を調整し、バッテリー電力を節約するバックライトはLogi Options+でライティングの光量や時間をカスタマイズすることが可能",
+        "対応OS／(Bluetooth) Windows 10, 11以降、macOS 11以降、Chrome OS、Android　9.0以降 (Logi Bolt) Windows 10, 11以降、macOS 10.15以降、Chrome OS ※Logi Bolt USBは本製品に同梱されています",
+        "【法人・生産性向上に最適】業務自動化機能と上質な打鍵感でナレッジワーカーのパフォーマンスを最大化。ショートカット機能「Smart Actions」により、複雑な定型業務や複数アプリの起動をワンクリックで自動化し、作業時間を大幅に短縮します。指先にフィットする球状凹面キーと静かで確実なタイピング感により、誤入力を防ぎ長時間作業の疲労を軽減。Bluetoothおよび高度なセキュリティに対応したLogi Bolt接続で最大3台の端末を即座に切り替えられ、管理職や専門職の業務効率とセキュリティを両立します。"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 564,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0D8S9D359",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:01:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DBZNH3D3",
+      "title": "iClever ワイヤレスキーボード Bluetooth・2.4GHz JIS日本語配列 コンパクト パンタグラフ Type-C充電 DK02 | デュアルモード接続 最大3台マルチペアリング 静音パンタグラフ Windows・Mac・iPad・iP",
+      "url": "https://www.amazon.co.jp/dp/B0DBZNH3D3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DBZNH3D3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/719d7fkH9lL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【薄型＆軽量・持ち運びやすいコンパクト設計】 ワイヤレスキーボード DK02 は、約327gの軽量設計と超薄型の流線型デザインを採用。サイズは約28.5×11.7×2.2cmとコンパクトで、バッグに入れてもかさばりません。自宅・オフィスはもちろん、カフェや出張など外出先でも気軽に持ち運んで使用できます。",
+        "【デュアルモード＆最大3台マルチペアリング】 USBレシーバーを挿すだけの2.4GHz接続とBluetooth接続に対応したデュアルモードを搭載。PC・ノートPC・タブレット・スマートフォンなど、最大3台のデバイスを同時に接続可能です。fn＋Q／W／Eキーでワンタッチ切替ができ、デバイスを切り替えながらの作業もスムーズに行えます。",
+        "【Type-C急速充電・最長約100日使用可能】 低消費電力Bluetooth 5.0方式を採用し、300mAhリチウム電池とType-C充電ポートを搭載。1日約2時間の使用を想定した場合、最長約100日間使用可能です。約30分間操作がない場合は自動的に省電力モードへ移行し、いずれかのキーを押すことでスリープ解除。頻繁な充電が不要で、長期間快適に使用できます。",
+        "【快適な打鍵感・静音パンタグラフ構造】 パンタグラフ構造を採用し、スムーズで正確なタイピングを実現。最適化された約1.8mmのキーストロークと、人間工学に基づいた凹型キー設計により、長時間の入力作業でも指への負担を軽減します。タイピング音も抑えられており、オフィスや在宅ワークなど静かな環境にも適しています。",
+        "【日本語JIS配列・幅広いOS対応】 標準的な日本語JIS配列を採用した82キーのBluetoothキーボード。キーキャップサイズ約15mm、キー間隔約4mm、キーピッチ約19mmで、快適かつ安定したタイピングが可能です。Windows 7/8/10/11、Mac、iOS、Android、Chrome OSに対応（※一部非対応のデバイスや使用方法があります）。 パッケージ内容：ワイヤレスキーボード本体、2.4G USBレシーバー、Type-C充電ケーブル、日本語取扱説明書。最大18ヶ月保証付き。"
+      ],
+      "maker": "iClever",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 691,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "keyboard",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FHKV37WH",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:01:58+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CZ8X3DH8",
+      "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows",
+      "url": "https://www.amazon.co.jp/dp/B0CZ8X3DH8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CZ8X3DH8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71jra6avdOL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "スタイリッシュなデザインのテンキー付きフルサイズ／薄型のワイヤレスキーボード",
+        "薄型にもかかわらず頑丈な設計／高い耐久性で長期間の使用が可能",
+        "軽く静かなキータッチ／オフィスなどの静かな場所でも周囲を気にせずタイピング",
+        "軽すぎず重すぎない本体重量(685g)／打鍵時に安定性を保ち本体がズレにくい／8度の角度がつく底面のティルトレッグで高さ調整も可能",
+        "接続はBluetoothとLogicool独自のLogi Boltレシーバーに対応 ※Logi Bolt USBレシーバーは本製品に同梱されています",
+        "接続された3台までの対応デバイスを本体上部のキーを押すだけで切り替えられる／Logicool独自のEasy-Switchに対応",
+        "単四乾電池2本で36ケ月の長電池寿命／メーカー保証期間2年間",
+        "対応OS:[Bluetooth] Windows 10, 11以降、macOS 11以降、Chrome OS、Android OS 9.0以降 [Logi Bolt] Windows 10, 11以降、macOS 11以降、ChromeOS"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 402,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "keyboard",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0D1C14N5L",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:02:06+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F38B7W6P",
+      "title": "【2026革新版】Omikamo キーボード ワイヤレス 折りたたみ式 JIS標準日本語配列 ipad/iphone キーボード | Bluetooth マルチペアリング iOS/Mac/Windows/Android/Google対応 フルサイズ",
+      "url": "https://www.amazon.co.jp/dp/B0F38B7W6P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F38B7W6P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71WT6iAIEfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "✅【JIS標準日本語配列・2つ折りデザイン】折りたたみキーボード はJIS規格の標準日本語配列を採用した折りたたみ式Bluetoothキーボードです。大型Enterキー、左右Shiftキー、左右Altキーを搭載し、普段お使いのノートパソコンと同じ感覚で快適にタイピングできます。",
+        "✅【フルサイズ設計・便利な13種類のショートカットキー】 ipad キーボード は19mmのキーピッチを採用したフルサイズ設計で、長時間の入力でも快適。打ち間違いを減らし、スムーズにタイピングできます。また、ホーム・検索・音量調整など13種類のショートカットキーを搭載し、ワンタッチでさまざまな操作が可能です。",
+        "✅【最大3台までマルチペアリング・幅広いデバイスに対応】ブルートゥース キーボード は Windows・macOS・iOS・Android・ChromeOSに対応。最大3台のデバイスをBluetoothで登録でき、ボタンひとつでパソコン・タブレット・スマートフォンを簡単に切り替えて使用できます。",
+        "✅【USB Type-C充電式・最大90時間連続使用】無線 キーボード はUSB Type-C充電に対応し、約2時間でフル充電が可能です。満充電で最大約90時間の連続使用、最大約800時間の待機が可能。バッテリー残量表示やオートスリープ機能も搭載し、外出先でも安心して使用できます。",
+        "✅【コンパクトに折りたためる・6段階調整スタンド付き】モバイルキーボード 収納時は約15×12×1.8cmのコンパクトサイズで、バッグにすっきり収納できます。使用時は約28×12×0.9cmのフルサイズとなり、新幹線や飛行機など限られたスペースでも快適に作業できます。付属のスタンドは6段階の角度調整に対応し、スマートフォンやタブレットを見やすい位置に設置できます。",
+        "✅【技適認証取得済み・安心の1年間保証】本製品は日本の技術基準適合証明（技適）を取得しています。ご購入日より1年間の保証付き。万一、初期不良や破損・汚損、ご注文内容と異なる商品が届いた場合は、お気軽にお問い合わせください。迅速に交換・サポートいたします。"
+      ],
+      "maker": "Omikamo",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 363,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "keyboard",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GZNT6JYV",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:02:13+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GL26M6Z2",
+      "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK",
+      "url": "https://www.amazon.co.jp/dp/B0GL26M6Z2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GL26M6Z2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61nar7SmI8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "数字入力に便利なテンキー付き静音キーボードです。データ入力や集計などさまざまな作業を効率化できます。",
+        "キーの軸、内部空間、ラバーなどあらゆる要素の設計を見直し、優れた静音性としっかりとした打鍵感を両立しました。",
+        "Windows/macOS/ ChromeOS に対応。接続されたOSを識別し、自動で最適な入力モードに切り替えます。",
+        "誤って水などの液体をキーボード上にこぼしても、本体背面の水抜き穴からすばやく排出できる排水機構を採用しています。※防水設計ではありません。",
+        "メディアプレーヤーの起動、音量や明るさの調整などをワンタッチで実行できる独立した11種類のマルチファンクションキーを搭載しています。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 131,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "keyboard",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HFHG31N5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:02:21+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FCLQ5MM2",
+      "title": "SmackApe Impact 80 メカニカルキーボード 3WAY接続 無線 ワイヤレス 低遅延 テンキーレス TKL JIS 日本語配列 US 英字配列 ガスケットマウント ARGB ホットスワップ VIA 国内正規品 (Ultra(8000mA",
+      "url": "https://www.amazon.co.jp/dp/B0FCLQ5MM2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FCLQ5MM2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71R9hq-YzkL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "● 2ms台の超低遅延を実現する強力デュアルチップ構成 144MHzのメインMCUと72MHzの高速無線チップを搭載。低遅延で快適な操作性を誇り、VIA完全対応により、キー配列や機能を自分好みに自由にカスタマイズ可能。",
+        "● 接続方式：3WAY接続 有線（Type-C）、2.4GHzワイヤレス、BT（最大3台のデバイス切替対応）に対応。仕事からゲームまで、あらゆるシーンで即対応可能。",
+        "● 圧倒的なライティング体験：ARGB + 側面ライトバー搭載 上下ケースの間に厚さ1.4mmのフロスト調PCディフューザーを内蔵。32個のLEDが側面と背面から幻想的な間接照明のようなRGB演出を実現。明るさ・色・エフェクトの自由なカスタマイズが可能です。",
+        "● 高品質素材と自由度の高い構造 FR4プレートまたはPCプレートから選択可能。ホットスワップ対応でキースイッチの交換も簡単。キーキャップには原型成形のPBT製を採用し、指先に心地よい質感と耐久性を提供。",
+        "● 長時間駆動を可能にする超大容量バッテリー 8000mAh（または4000mAh）バッテリー搭載。低消費電力チップにより、長時間使用にも安心。頻繁な充電から解放されます。"
+      ],
+      "maker": "SmackApe",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 30,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "keyboard",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FCLQGDWW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:02:28+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GHR6W4VL",
+      "title": "ロジクール ガスケット ワイヤレス メカニカルキーボード 日本語配列 Alto Keys K98MGR グラファイト K98M 国内正規品 | タイピング体験を強化し、カスタマイズ性を提供するUniCushionガスケット構造、ホットスワップ、テンキ",
+      "url": "https://www.amazon.co.jp/dp/B0GHR6W4VL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GHR6W4VL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61v-oDFvNuL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "独自の「UniCushion ガスケット」と「Marble Switch」搭載で、心地良い打鍵感を実現：「UniCushion ガスケット」は、柔らかく優しいタイピングと「コトコト」とした心地よい打鍵音を叶える、ロジクール独自開発のガスケットです。さらに、メカニカルキースイッチには滑らかで安定したタイピングを実現する独自のホットスワップにも対応する「Marble Switch」を採用することで、キーを打ち込んだ瞬間の衝撃を抑制し、従来のメカニカルキーボードで感じやすかった底打ちの硬さや、鋭い打鍵音を軽減します。この2つの技術を組み合わせることで、指先に伝わる感触と打鍵音の心地良さを両立しました。",
+        "輝度の調節が可能な白色バックライトを搭載し、暗い環境でも視認性を確保：暗い中での作業時でも視認性を確保する白色バックライトを搭載しています。輝度の調節が可能で、作業場所の明るさや時間帯を問わず、自分好みの明るさに設定したバックライトでタイピングが可能です。フレックスやハイブリッド勤務により、場所や時間を選ばない自由な働き方が増加する傾向の中で、目や体への負荷を最小限に抑え、快適なタイピングをサポートします。",
+        "テンキー搭載ながらコンパクトな設計でワークスペースを有効に活用：業務効率を高める矢印キーとテンキーを搭載しながらもコンパクトな設計（98キーサイズ）により、狭いデスクや限られたワークスペースでもマウス操作や書類作業の余白を確保し、快適な作業環境を実現します。また、キーレイアウトは日本語配列（102キー）を採用しています。",
+        "最大3台のデバイスに簡単に接続可能、ボタン1つで切り替えができる「Easy-Switch」機能：接続したいデバイスのBluetoothをオンにし、キーボード上部の「Easy-Switch」ボタン(F1～F3キー部)を長押しするだけで、簡単にペアリングが可能です。ペアリング済みのパソコンやタブレット、スマートフォンなど、3台までのデバイスを「Easy-Switch」ボタン各種に割り当てることで、ボタン1つで簡単に接続先を変更可能です。",
+        "Bluetoothと同梱の「Logi Bolt USB レシーバー」の2種類に対応し、充電しながらも使用可能：Bluetoothと同梱のセキュリティ性の高い「Logi Bolt USBレシーバー」の2種類のワイヤレス接続方式に対応し、USB-C充電をしながらでも使用できるため充電切れの心配はありません。フル充電かつバックライトをオフにした設定の場合、1年間の連続使用が可能です。",
+        "業務の効率化による生産性を高める「Logi Options+」アプリ：無料の「Logi Options+」アプリを使用することで、キーの割当変更のカスタマイズや進化したマクロ機能「Smart Actions」を利用できます。「Smart Actions」を使用することにより複数のアクションを1回のクリックまたはキーストロークで自動化して、反復的なタスクをスキップできるため、作業を素早く完了し、重要なことに集中することができます。",
+        "法人・デスクワーク効率化にも最適です。上質な打鍵感と快適なタイピング性能を備え、長時間のデータ入力やデスクワークにおける疲労と誤入力を軽減します。Bluetoothおよび高セキュアなLogi Bolt接続に対応し、最大3台の端末をワンタッチでスムーズに切り替え可能。優れた耐久性と長寿命バッテリー設計により、トラブルやメンテナンスの手間を減らし、オフィスやテレワークの生産性向上と管理コスト削減を両立します。"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261101_keyboard",
+      "queries_matched": [
+        "dg_20261101_keyboard"
+      ],
+      "review_count": 104,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "keyboard",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GLP2H95K",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:02:35+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  },
+  "date": "2026-11-01",
+  "planning_status": "unmeasured_candidates_not_selected",
+  "measurement_checkpointed_at": "2026-10-10T10:02:35+09:00"
+}
