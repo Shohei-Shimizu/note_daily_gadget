@@ -1,0 +1,1450 @@
+{
+  "date": "2026-11-28",
+  "topic_id": "daily_gadget_20261128_f64d8613",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 21,
+  "parent_groups": {
+    "B0936FGTX5": [
+      "B0936FGTX5"
+    ],
+    "B0FMJR5Z91": [
+      "B0D53RXMB1",
+      "B0DGXVMNWY",
+      "B0F82HR8QZ"
+    ],
+    "B0H73W6Z4S": [
+      "B0DWMPNCLC",
+      "B0BJCQCQ7Z",
+      "B0CSDGGTGK"
+    ],
+    "B0GHQGTD7J": [
+      "B0D9VTLK47",
+      "B0B6ZQJXW8"
+    ],
+    "B0HDC525XR": [
+      "B0FRLWSGPW",
+      "B0FBW976L9"
+    ],
+    "B0DTJX5B2Y": [
+      "B0D9B1QB38",
+      "B0D99ZL9DM",
+      "B0D99ZQG51"
+    ],
+    "B0D9VFNMZT": [
+      "B0D99ZHVD2"
+    ],
+    "B0DZB9JC7T": [
+      "B0D9B21YQP"
+    ],
+    "B0HDHQRSVJ": [
+      "B0FWJYNGXT",
+      "B0FWK42FWG"
+    ],
+    "B0GJTW9CL8": [
+      "B0GJTW9CL8"
+    ],
+    "B0FKMQZZNS": [
+      "B0FHP92TQ9"
+    ],
+    "B0GJTXZHDX": [
+      "B0GJTXZHDX"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B08KT1L8D8",
+      "title": "MAMORIO RE（マモリオ 電池交換対応）【5個セット】紛失防止タグ・忘れ物防止タグ【電池交換可能】キーファインダー トラッカー｜鍵・財布・パスケース・バッグ対応｜iOS/Android対応・スマホで紛失位置を確認・置き忘れ防止｜落とし物防止グッズ Bluetoothスマートタグ｜法人向け備品管理・ギフトにも",
+      "maker": "MAMORIO",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B09BKXV7ZW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08LGLRNHF",
+      "title": "MAMORIO RE（マモリオ 電池交換対応）【3個セット】紛失防止タグ・忘れ物防止タグ【電池交換可能】キーファインダー トラッカー｜鍵・財布・パスケース・バッグ対応｜iOS/Android対応・スマホで紛失位置を確認・置き忘れ防止｜落とし物防止グッズ Bluetoothスマートタグ｜法人向け備品管理・ギフトにも",
+      "maker": "MAMORIO",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "MAMORIO",
+      "historical_tier": 2,
+      "parent_asin": "B09BKXV7ZW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0936FGTX5",
+      "title": "Apple AirTag 紛失防止タグ 置き忘れ防止 耐水 防塵 iPhone/iPad「探す」ネットワーク対応 CR2032コイン型バッテリー",
+      "maker": "Apple",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Apple",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B6ZQJXW8",
+      "title": "Anker Eufy Security SmartTrack Link (iPhone用) (紛失防止トラッカー)",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0GHQGTD7J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0D9VTLK47"
+        },
+        {
+          "published_date": "2026-04-25",
+          "title": "大事な機材を守る。盗難を防ぐ「最新 GPS トラッカー」 6 選",
+          "asin": "B0D9VTLK47"
+        },
+        {
+          "published_date": "2026-03-16",
+          "title": "忘れ物を完全防止。AirTag 対応「便利な探し物ツール」 6 選",
+          "asin": "B0B6ZQJXW8"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BJCQCQ7Z",
+      "title": "Anker Eufy (ユーフィ) Security SmartTrack Card (iPhone用) (紛失防止タグ) 【 Appleの「探す」に対応 (iOS端末のみ) / なくしものが、無くなる/スマートタグ/盗難防止タグ/探し物/スマホが見つかる/置き忘れ防止/スマホ鳴らす】",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0H73W6Z4S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0DWMPNCLC"
+        },
+        {
+          "published_date": "2026-04-25",
+          "title": "大事な機材を守る。盗難を防ぐ「最新 GPS トラッカー」 6 選",
+          "asin": "B0BJCQCQ7Z"
+        },
+        {
+          "published_date": "2026-03-16",
+          "title": "忘れ物を完全防止。AirTag 対応「便利な探し物ツール」 6 選",
+          "asin": "B0CSDGGTGK"
+        },
+        {
+          "published_date": "2026-02-02",
+          "title": "美しさは、軽さ。無駄を削ぎ落とした「ミニマリストのガジェット」 8 選",
+          "asin": "B0BJCQCQ7Z"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BZYH2VWJ",
+      "title": "まもサーチ3 + ソフトカバー ピスタチオ こどもGPS 子供や高齢者を見守り 大切な家族やモノの居場所を確認 迷子防止 GPSトラッカー 防水防塵 スマートトラッカー ケース",
+      "maker": "まもサーチ3",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0DDPCLM9M",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BZYH8X2W",
+      "title": "まもサーチ3 + ソフトカバー ライム こどもGPS 子供や高齢者を見守り 大切な家族やモノの居場所を確認 迷子防止 GPSトラッカー 防水防塵 スマートトラッカー ケース",
+      "maker": "まもサーチ3",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "まもサーチ3",
+      "historical_tier": 2,
+      "parent_asin": "B0DDPCLM9M",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BZYJ14ZP",
+      "title": "まもサーチ3 + ソフトカバー ライトブルー こどもGPS 子供や高齢者を見守り 大切な家族やモノの居場所を確認 迷子防止 GPSトラッカー 防水防塵 スマートトラッカー ケース",
+      "maker": "まもサーチ3",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0DDPCLM9M",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CSDGGTGK",
+      "title": "Anker Eufy Security SmartTrack Card 2個入り (紛失防止トラッカー)",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0H73W6Z4S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0DWMPNCLC"
+        },
+        {
+          "published_date": "2026-04-25",
+          "title": "大事な機材を守る。盗難を防ぐ「最新 GPS トラッカー」 6 選",
+          "asin": "B0BJCQCQ7Z"
+        },
+        {
+          "published_date": "2026-03-16",
+          "title": "忘れ物を完全防止。AirTag 対応「便利な探し物ツール」 6 選",
+          "asin": "B0CSDGGTGK"
+        },
+        {
+          "published_date": "2026-02-02",
+          "title": "美しさは、軽さ。無駄を削ぎ落とした「ミニマリストのガジェット」 8 選",
+          "asin": "B0BJCQCQ7Z"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CY9Q1BDJ",
+      "title": "Dyoac 1.6mm GPS紛失防止タグ iOS専用 MFi認証",
+      "maker": "Dyoac",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Dyoac",
+      "historical_tier": 1,
+      "parent_asin": "B0HJ281YVT",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0CY9Q1BDJ"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D53RXMB1",
+      "title": "UGREEN FineTrack 紛失防止タグ 探し物Appleの「探す」に対応 (iOS端末のみ) スマートトラッカー 1個 鍵/バッグ/財布用 黒",
+      "maker": "Ugreen",
+      "maker_source": "商品名UGREENと会社ブランド表記の正規化",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": "B0FMJR5Z91",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0D53RXMB1"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D99Y2DPL",
+      "title": "Life360 Tile エッセンシャルパック (Mateブラック2個+Slim+Stickerセット) スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 音を鳴らして場所をお知らせ 防水機能 Bluetooth接続範囲外でも探せる 小型 カード型 iOS Android 対応",
+      "maker": "Life360",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0DTHKTL83",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": "Mate/Slim/Stickerの異モデル混成パック。単体タグ比較に複数構造で水増ししない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D99ZHVD2",
+      "title": "Tile Slim (2024) 薄いカード型スマートトラッカー",
+      "maker": "Life360",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Life360",
+      "historical_tier": 1,
+      "parent_asin": "B0D9VFNMZT",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0D99ZHVD2"
+        },
+        {
+          "published_date": "2026-03-16",
+          "title": "忘れ物を完全防止。AirTag 対応「便利な探し物ツール」 6 選",
+          "asin": "B0D99ZHVD2"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D99ZL9DM",
+      "title": "Life360 Tile Mate スタンダードモデル ブラック 4個パック/スマートトラッカー/スマートタグ/紛失防止タグ/置き忘れ防止/3年間電池交換不要/音を鳴らして場所をお知らせ/長距離接続/防水機能/Bluetooth接続範囲外でも探せる/小型/iOSとAndroidの両方に対応/カギやバッグに",
+      "maker": "Life360",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0DTJX5B2Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-01",
+          "title": "実家のご両親へ。安心を贈る「見守り・簡単ガジェット」 7 選",
+          "asin": "B0D9B1QB38"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D99ZQG51",
+      "title": "Life360 Tile Mate スタンダードモデル カラー 4個パック スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 3年間電池交換不要 音を鳴らして場所をお知らせ 長距離接続/防水機能 Bluetooth接続範囲外でも探せる 小型 iOS Android 対応 カギやバッグに",
+      "maker": "Life360",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0DTJX5B2Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-01",
+          "title": "実家のご両親へ。安心を贈る「見守り・簡単ガジェット」 7 選",
+          "asin": "B0D9B1QB38"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D9B1QB38",
+      "title": "Life360 Tile Mate スタンダードモデル ホワイト スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 3年間電池交換不要 音を鳴らして場所をお知らせ 長距離接続 防水機能 Bluetooth接続範囲外でも探せる 小型 iOS Android 対応 カギやバッグに",
+      "maker": "Life360",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Life360",
+      "historical_tier": 2,
+      "parent_asin": "B0DTJX5B2Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-01",
+          "title": "実家のご両親へ。安心を贈る「見守り・簡単ガジェット」 7 選",
+          "asin": "B0D9B1QB38"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D9B21YQP",
+      "title": "Life360 Tile Pro 電池交換可 ハイスペックモデル ブラック スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 音を鳴らして場所をお知らせ 防水機能Bluetooth接続範囲外でも探せる 縦長 iOS Android 対応 カギやバッグに",
+      "maker": "Life360",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Life360",
+      "historical_tier": 1,
+      "parent_asin": "B0DZB9JC7T",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0D9B21YQP"
+        },
+        {
+          "published_date": "2026-04-25",
+          "title": "大事な機材を守る。盗難を防ぐ「最新 GPS トラッカー」 6 選",
+          "asin": "B0D9B21YQP"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D9BR32JL",
+      "title": "Dyoac エアタグ カード【超薄1.6ｍｍ×ワイヤレス充電 最大10年使用】iOS専用 GPS 財布 紛失防止タグ Apple「探す」 IP68防水",
+      "maker": "Dyoac",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Dyoac",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D9VTLK47",
+      "title": "Anker Eufy (ユーフィ) SmartTrack Link (Android用) (紛失防止タグ) 【 Googleの「検索ハブ」に対応 (Android端末のみ) / なくしものが、無くなる/探し物/スマホが見つかる/スマホ鳴らす】 Bluetooth",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0GHQGTD7J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0D9VTLK47"
+        },
+        {
+          "published_date": "2026-04-25",
+          "title": "大事な機材を守る。盗難を防ぐ「最新 GPS トラッカー」 6 選",
+          "asin": "B0D9VTLK47"
+        },
+        {
+          "published_date": "2026-03-16",
+          "title": "忘れ物を完全防止。AirTag 対応「便利な探し物ツール」 6 選",
+          "asin": "B0B6ZQJXW8"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DGXVMNWY",
+      "title": "UGREEN FineTrack Smart Finder 2個 スマートトラッカー Appleの「探す」に対応 (iOS端末のみ) スマートタグ SmartTrack 紛失防止タグ/探し物 鍵/バッグ/財布/荷物/ペットの首輪など用 置き忘れ防止 スマホ鳴らす/防水/軽量 2（個）セット",
+      "maker": "Ugreen",
+      "maker_source": "商品名UGREENと会社ブランド表記の正規化",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": "B0FMJR5Z91",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0D53RXMB1"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DM9GJP5R",
+      "title": "エアタグ airtag（2個セット）紛失防止タグ スマートタグ【2025最新 MFI認証品 Find Myタグ 安定保証＆全球GPS測位＆超強信号】忘れ物防止 gpsタグ airタグ スマートトラッカー 財布 超薄 超軽量 小型GPS発信機",
+      "maker": "商品ページ表記なし",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "商品ページ表記なし",
+      "historical_tier": 1,
+      "parent_asin": "B0HH4SS4PS",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "メーカー名称を公式確認するまでメーカー多様性へ数えない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DWMPNCLC",
+      "title": "Anker Eufy SmartTrack Card E30（充電式紛失防止トラッカー）",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0H73W6Z4S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0DWMPNCLC"
+        },
+        {
+          "published_date": "2026-04-25",
+          "title": "大事な機材を守る。盗難を防ぐ「最新 GPS トラッカー」 6 選",
+          "asin": "B0BJCQCQ7Z"
+        },
+        {
+          "published_date": "2026-03-16",
+          "title": "忘れ物を完全防止。AirTag 対応「便利な探し物ツール」 6 選",
+          "asin": "B0CSDGGTGK"
+        },
+        {
+          "published_date": "2026-02-02",
+          "title": "美しさは、軽さ。無駄を削ぎ落とした「ミニマリストのガジェット」 8 選",
+          "asin": "B0BJCQCQ7Z"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F29G9GPQ",
+      "title": "airtag エアタグ カード gpsタグ スマートタグ 紛失防止タグ【2026年最強 安全性・10年超長持ち!革新的Li-Po&極薄1.6mm&技適取得&全球追跡】スマートトラッカー 小型 MFi認証品 Apple「探す」対応 (iOS端末のみ) 置き忘れ防止 財布/荷物/鍵/車追跡 子供/高齢者/ペット 見守り IP68防水 超軽量 電池交換不要 敬老の日 誕生日 日本語説明書 HB10",
+      "maker": "airtag",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJMN9ND5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F5HSHQ83",
+      "title": "エアタグ【iOS・Android公式認証／米国製チップ／超薄1.6mm／最大10年使用】airtag カード gps 小型 apple エアタグ android gpsタグ 子供 財布 アップル スマートタグ アンドロイド 紛失防止タグ",
+      "maker": "商品ページ表記なし2",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "商品ページ表記なし2",
+      "historical_tier": 2,
+      "parent_asin": "B0HJ1W49SJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F5VLY4GV",
+      "title": "【Google公式認証！純正アプリ対応】エアタグ Android airtag アンドロイド gps 子供 スマートタグ gpsタグ 小型gps 紛失防止タグ air tag スマートトラッカー 見守りgps 月額なし gpsトラッカー 忘れ物防止 タグ 子ども 位置情報 財布 猫 高齢者 airタグ 自転車 盗難防止 車 母の日 父の日 敬老の日 プレゼント OTAG (Android専用)",
+      "maker": "エアタグ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJ22BB3T",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F5WMV8L9",
+      "title": "【Google公式認証！純正アプリ対応】エアタグ Android airtag アンドロイド gps 子供 スマートタグ gpsタグ 小型gps 紛失防止タグ air tag スマートトラッカー 見守りgps 月額なし gpsトラッカー 忘れ物防止 タグ 子ども 位置情報 財布 猫 高齢者 airタグ 自転車 盗難防止 車 母の日 父の日 敬老の日 プレゼント OTAG (Android専用)",
+      "maker": "エアタグ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJ22BB3T",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F5WN6HVZ",
+      "title": "2個入【Google公式認証！純正アプリ対応】エアタグ Android airtag アンドロイド gps 子供 スマートタグ gpsタグ 小型gps 紛失防止タグ air tag スマートトラッカー 見守りgps 月額なし gpsトラッカー 忘れ物防止 タグ 子ども 位置情報 財布 猫 高齢者 airタグ 自転車 盗難防止 車 母の日 父の日 敬老の日 プレゼント (Android専用)",
+      "maker": "2個入【Google公式認証！純正アプリ対応】エアタグ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "2個入【Google公式認証！純正アプリ対応】エアタグ",
+      "historical_tier": 1,
+      "parent_asin": "B0HGFHGNT3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-03",
+          "title": "居場所をスマホで確認。子供とモノを見守る「GPS・紛失防止タグ」 7 選",
+          "asin": "B0F5WN6HVZ"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F5X5KK5C",
+      "title": "MAMORIO（マモリオ）3個セット 第4世代 スマートトラッカー【超小型・長電池寿命】キーホルダー型 紛失防止タグ・忘れ物防止タグ｜鍵・財布・パスケース・自転車・バッグ対応｜スマホで場所確認・置き忘れ防止・紛失対策｜父の日・誕生日プレゼント・ギフトにも最適｜Bluetooth スマートタグ 落とし物防止グッズ",
+      "maker": "MAMORIO",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0F5X68PMD",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F5X62C2K",
+      "title": "MAMORIO（マモリオ）1個入り 第4世代 スマートトラッカー キーホルダー型 紛失防止タグ",
+      "maker": "MAMORIO",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "MAMORIO",
+      "historical_tier": 3,
+      "parent_asin": "B0F5X68PMD",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F82HR8QZ",
+      "title": "UGREEN FineTrack Smart Finder 4個 スマートトラッカー Appleの「探す」に対応 (iOS端末のみ) スマートタグ SmartTrack 紛失防止タグ/探し物 鍵/バッグ/財布/荷物/ペットの首輪など用 置き忘れ防止 スマホ鳴らす/防水/軽量 4（個）セット",
+      "maker": "Ugreen",
+      "maker_source": "商品名UGREENと会社ブランド表記の正規化",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": "B0FMJR5Z91",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0D53RXMB1"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FBW976L9",
+      "title": "UGREEN FineTrack USB-C充電式 紛失防止タグ Appleの「探す」に対応 (iOSのみ) ミニ型 鍵/バッグなど用 2個セット",
+      "maker": "Ugreen",
+      "maker_source": "商品名UGREENと会社ブランド表記の正規化",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": "B0HDC525XR",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0FRLWSGPW"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FCMVS326",
+      "title": "エアタグ airtag 2個セット【2026新登場&MFI認証品&GPS超強信号】紛失防止タグ Apple「探す」対応iOS専用 超薄軽量・超長持ち",
+      "maker": "エアタグ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJ557W3B",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FD8TF6LG",
+      "title": "(2個セット） エアタグ android 紛失防止タグ Google の「デバイスを探す」に対応(Android端末のみ-9.0以上のシステム) 小型 gps アンドロイド対応 忘れ物防止 盗難対策/財布忘れ物防止 タグ 追跡タグ 超軽量 スマホ/カバン/キー/荷物/電池交換可能 日本語説明書付き（ブラック）",
+      "maker": "エアタグ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0GFFGH5RX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FHP92TQ9",
+      "title": "エレコム スマートトラッカー 忘れ物防止タグ 紛失防止 IP65設計 Android対応 電池交換タイプ ブラック LGT-ELBETG1BKG",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 3,
+      "parent_asin": "B0FKMQZZNS",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-25",
+          "title": "大事な機材を守る。盗難を防ぐ「最新 GPS トラッカー」 6 選",
+          "asin": "B0FHP92TQ9"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FJ8273WX",
+      "title": "2個入 エアタグ Android 【超高性能！Google「Find Hub」対応】airtag アンドロイド gps 子供 gpsタグ 紛失防止タグ gpsトラッカー air tag 忘れ物防止 スマートトラッカー 財布 小型 鍵 猫 車 バイク 盗難防止 自転車 位置情報 タグ 高齢者 エアータグ airタグ 海外旅行 月額不要 技適認証 防水 耐久 キーホルダー付き 敬老の日",
+      "maker": "2個入",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJ1Y1J73",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FKT2JBDN",
+      "title": "VOCOlinc エアタグ カード型 （2枚セット）財布用 超薄(0.16cm) （Apple「探す」のみ対応 ）",
+      "maker": "VOCOlinc",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "VOCOlinc",
+      "historical_tier": 2,
+      "parent_asin": "B0H6B8WXF5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FRLWSGPW",
+      "title": "UGREEN Finder Duo Android/iOS対応 紛失防止タグ USB-C充電式電池 財布/鍵/荷物/かばん用 4個セット",
+      "maker": "Ugreen",
+      "maker_source": "商品名UGREENと会社ブランド表記の正規化",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": "B0HDC525XR",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0FRLWSGPW"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FWJYNGXT",
+      "title": "VOCOlinc エアタグ カード型（ios/Android 用）ワイヤレス充電式 紛失防止タグ",
+      "maker": "VOCOlinc",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "VOCOlinc",
+      "historical_tier": 1,
+      "parent_asin": "B0HDHQRSVJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0FWJYNGXT"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FWK42FWG",
+      "title": "VOCOlinc エアタグ カード型 2枚セット（ios/Android 用）ワイヤレス充電式 紛失防止タグ",
+      "maker": "VOCOlinc",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "VOCOlinc",
+      "historical_tier": 1,
+      "parent_asin": "B0HDHQRSVJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0FWJYNGXT"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0G5YJ5TGD",
+      "title": "Dyoac エアタグ カード 2枚【超長持ち！最大10年使える！極薄1.6ｍｍ】Airtag iOS用 GPS 財布 紛失防止タグ Apple「探す」",
+      "maker": "Dyoac",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Dyoac",
+      "historical_tier": 1,
+      "parent_asin": "B0HJ281YVT",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0CY9Q1BDJ"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GCNFJLWB",
+      "title": "エアタグ 4個入 airtag【iOS・Android公式認証／米国高性能チップ／純正アプリ】gps 小型 紛失防止タグ スマートタグ iphone アンドロイド対応 gpsタグ 子供 月額不要 忘れ物防止 鍵 財布 盗難防止 自転車 車 ペット 位置情報 犬 猫 スマートトラッカー Google Find hub Apple 探す Siri対応 技適認証済 キーホルダー付 Dyoac",
+      "maker": "エアタグ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HJ1ZM8VM",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GJTW9CL8",
+      "title": "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載",
+      "maker": "Apple",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Apple",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-10-09",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-09",
+          "title": "鍵とバッグの置き忘れを防ぐ。「紛失防止タグ」 9 選",
+          "asin": "B0GJTW9CL8"
+        },
+        {
+          "published_date": "2026-04-30",
+          "title": "4 月のベストバイ。買ってよかった「春のガジェット」 8 選",
+          "asin": "B0GJTW9CL8"
+        },
+        {
+          "published_date": "2026-04-25",
+          "title": "大事な機材を守る。盗難を防ぐ「最新 GPS トラッカー」 6 選",
+          "asin": "B0GJTW9CL8"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-09_子どもや荷物の居場所を記録する。GPSトラッカー.md",
+          "date": "2026-10-09",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GJTXZHDX",
+      "title": "Apple AirTag 4個入り (第2世代)",
+      "maker": "Apple",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-08-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-01",
+          "title": "実家のご両親へ。安心を贈る「見守り・簡単ガジェット」 7 選",
+          "asin": "B0GJTXZHDX"
+        },
+        {
+          "published_date": "2026-06-07",
+          "title": "夏休みの海外準備。翻訳機と SIM、変換プラグ 6 選",
+          "asin": "B0GJTXZHDX"
+        },
+        {
+          "published_date": "2026-03-16",
+          "title": "忘れ物を完全防止。AirTag 対応「便利な探し物ツール」 6 選",
+          "asin": "B0GJTXZHDX"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [
+        "Apple/Androidの対応ネットワーク、圏外/反映遅れ、GPS位置追跡との違いを公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GSZLJ32D",
+      "title": "エアタグ 紛失防止タグ 2個/2026最新/MFI認証品/Apple Find My対応/airtags/airタグ/小型GPS発信機/IOS専用",
+      "maker": "エアタグ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HJ5HKJL7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GX9PVJRK",
+      "title": "エアタグ Airtag GPS【iPhone/Android対応】スマートタグ 紛失防止タグ 小型 gps 子供 gpsタグ スマートトラッカー 黒",
+      "maker": "エアタグ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HHDSNRR8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GX9QB54P",
+      "title": "エアタグ Airtag GPS【iPhone/Android対応】スマートタグ 紛失防止タグ 小型 gps 子供 gpsタグ スマートトラッカー 2個",
+      "maker": "エアタグ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HHDSNRR8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0HDJ6FMPP",
+      "title": "エアタグ airtag 4個セット【2026新登場&MFI認証品&GPS超強信号】紛失防止タグ Apple「探す」対応iOS専用 超薄軽量・超長持ち",
+      "maker": "エアタグ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJ557W3B",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0HH936X4K",
+      "title": "gpsタグ 紛失防止タグ 【iOS/Android両対応】 スマートタグ 忘れ物防止器 高精度測位 GPSトラッカー 追跡タグ 月額料金なし IPX7防水 小型 軽量 鍵 財布 車 子ども 高齢者 ペット見守り キーホルダー付属 (1個セット：ブラック)",
+      "maker": "gpsタグ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0HHRF8RL5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-29",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B08KT1L8D8",
+      "title": "MAMORIO RE（マモリオ 電池交換対応）【5個セット】紛失防止タグ・忘れ物防止タグ【電池交換可能】キーファインダー トラッカー｜鍵・財布・パスケース・バッグ対応｜iOS/Android対応・スマホで紛失位置を確認・置き忘れ防止｜落とし物防止グッズ Bluetoothスマートタグ｜法人向け備品管理・ギフトにも",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08LGLRNHF",
+      "title": "MAMORIO RE（マモリオ 電池交換対応）【3個セット】紛失防止タグ・忘れ物防止タグ【電池交換可能】キーファインダー トラッカー｜鍵・財布・パスケース・バッグ対応｜iOS/Android対応・スマホで紛失位置を確認・置き忘れ防止｜落とし物防止グッズ Bluetoothスマートタグ｜法人向け備品管理・ギフトにも",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BZYH2VWJ",
+      "title": "まもサーチ3 + ソフトカバー ピスタチオ こどもGPS 子供や高齢者を見守り 大切な家族やモノの居場所を確認 迷子防止 GPSトラッカー 防水防塵 スマートトラッカー ケース",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0BZYH8X2W",
+      "title": "まもサーチ3 + ソフトカバー ライム こどもGPS 子供や高齢者を見守り 大切な家族やモノの居場所を確認 迷子防止 GPSトラッカー 防水防塵 スマートトラッカー ケース",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0BZYJ14ZP",
+      "title": "まもサーチ3 + ソフトカバー ライトブルー こどもGPS 子供や高齢者を見守り 大切な家族やモノの居場所を確認 迷子防止 GPSトラッカー 防水防塵 スマートトラッカー ケース",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0CY9Q1BDJ",
+      "title": "Dyoac 1.6mm GPS紛失防止タグ iOS専用 MFi認証",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0D9BR32JL",
+      "title": "Dyoac エアタグ カード【超薄1.6ｍｍ×ワイヤレス充電 最大10年使用】iOS専用 GPS 財布 紛失防止タグ Apple「探す」 IP68防水",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DM9GJP5R",
+      "title": "エアタグ airtag（2個セット）紛失防止タグ スマートタグ【2025最新 MFI認証品 Find Myタグ 安定保証＆全球GPS測位＆超強信号】忘れ物防止 gpsタグ airタグ スマートトラッカー 財布 超薄 超軽量 小型GPS発信機",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0F29G9GPQ",
+      "title": "airtag エアタグ カード gpsタグ スマートタグ 紛失防止タグ【2026年最強 安全性・10年超長持ち!革新的Li-Po&極薄1.6mm&技適取得&全球追跡】スマートトラッカー 小型 MFi認証品 Apple「探す」対応 (iOS端末のみ) 置き忘れ防止 財布/荷物/鍵/車追跡 子供/高齢者/ペット 見守り IP68防水 超軽量 電池交換不要 敬老の日 誕生日 日本語説明書 HB10",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0F5HSHQ83",
+      "title": "エアタグ【iOS・Android公式認証／米国製チップ／超薄1.6mm／最大10年使用】airtag カード gps 小型 apple エアタグ android gpsタグ 子供 財布 アップル スマートタグ アンドロイド 紛失防止タグ",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0F5VLY4GV",
+      "title": "【Google公式認証！純正アプリ対応】エアタグ Android airtag アンドロイド gps 子供 スマートタグ gpsタグ 小型gps 紛失防止タグ air tag スマートトラッカー 見守りgps 月額なし gpsトラッカー 忘れ物防止 タグ 子ども 位置情報 財布 猫 高齢者 airタグ 自転車 盗難防止 車 母の日 父の日 敬老の日 プレゼント OTAG (Android専用)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0F5WMV8L9",
+      "title": "【Google公式認証！純正アプリ対応】エアタグ Android airtag アンドロイド gps 子供 スマートタグ gpsタグ 小型gps 紛失防止タグ air tag スマートトラッカー 見守りgps 月額なし gpsトラッカー 忘れ物防止 タグ 子ども 位置情報 財布 猫 高齢者 airタグ 自転車 盗難防止 車 母の日 父の日 敬老の日 プレゼント OTAG (Android専用)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0F5WN6HVZ",
+      "title": "2個入【Google公式認証！純正アプリ対応】エアタグ Android airtag アンドロイド gps 子供 スマートタグ gpsタグ 小型gps 紛失防止タグ air tag スマートトラッカー 見守りgps 月額なし gpsトラッカー 忘れ物防止 タグ 子ども 位置情報 財布 猫 高齢者 airタグ 自転車 盗難防止 車 母の日 父の日 敬老の日 プレゼント (Android専用)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0F5X5KK5C",
+      "title": "MAMORIO（マモリオ）3個セット 第4世代 スマートトラッカー【超小型・長電池寿命】キーホルダー型 紛失防止タグ・忘れ物防止タグ｜鍵・財布・パスケース・自転車・バッグ対応｜スマホで場所確認・置き忘れ防止・紛失対策｜父の日・誕生日プレゼント・ギフトにも最適｜Bluetooth スマートタグ 落とし物防止グッズ",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0F5X62C2K",
+      "title": "MAMORIO（マモリオ）1個入り 第4世代 スマートトラッカー キーホルダー型 紛失防止タグ",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FCMVS326",
+      "title": "エアタグ airtag 2個セット【2026新登場&MFI認証品&GPS超強信号】紛失防止タグ Apple「探す」対応iOS専用 超薄軽量・超長持ち",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FD8TF6LG",
+      "title": "(2個セット） エアタグ android 紛失防止タグ Google の「デバイスを探す」に対応(Android端末のみ-9.0以上のシステム) 小型 gps アンドロイド対応 忘れ物防止 盗難対策/財布忘れ物防止 タグ 追跡タグ 超軽量 スマホ/カバン/キー/荷物/電池交換可能 日本語説明書付き（ブラック）",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FJ8273WX",
+      "title": "2個入 エアタグ Android 【超高性能！Google「Find Hub」対応】airtag アンドロイド gps 子供 gpsタグ 紛失防止タグ gpsトラッカー air tag 忘れ物防止 スマートトラッカー 財布 小型 鍵 猫 車 バイク 盗難防止 自転車 位置情報 タグ 高齢者 エアータグ airタグ 海外旅行 月額不要 技適認証 防水 耐久 キーホルダー付き 敬老の日",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FKT2JBDN",
+      "title": "VOCOlinc エアタグ カード型 （2枚セット）財布用 超薄(0.16cm) （Apple「探す」のみ対応 ）",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0G5YJ5TGD",
+      "title": "Dyoac エアタグ カード 2枚【超長持ち！最大10年使える！極薄1.6ｍｍ】Airtag iOS用 GPS 財布 紛失防止タグ Apple「探す」",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GCNFJLWB",
+      "title": "エアタグ 4個入 airtag【iOS・Android公式認証／米国高性能チップ／純正アプリ】gps 小型 紛失防止タグ スマートタグ iphone アンドロイド対応 gpsタグ 子供 月額不要 忘れ物防止 鍵 財布 盗難防止 自転車 車 ペット 位置情報 犬 猫 スマートトラッカー Google Find hub Apple 探す Siri対応 技適認証済 キーホルダー付 Dyoac",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GSZLJ32D",
+      "title": "エアタグ 紛失防止タグ 2個/2026最新/MFI認証品/Apple Find My対応/airtags/airタグ/小型GPS発信機/IOS専用",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GX9PVJRK",
+      "title": "エアタグ Airtag GPS【iPhone/Android対応】スマートタグ 紛失防止タグ 小型 gps 子供 gpsタグ スマートトラッカー 黒",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GX9QB54P",
+      "title": "エアタグ Airtag GPS【iPhone/Android対応】スマートタグ 紛失防止タグ 小型 gps 子供 gpsタグ スマートトラッカー 2個",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0HDJ6FMPP",
+      "title": "エアタグ airtag 4個セット【2026新登場&MFI認証品&GPS超強信号】紛失防止タグ Apple「探す」対応iOS専用 超薄軽量・超長持ち",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0HH936X4K",
+      "title": "gpsタグ 紛失防止タグ 【iOS/Android両対応】 スマートタグ 忘れ物防止器 高精度測位 GPSトラッカー 追跡タグ 月額料金なし IPX7防水 小型 軽量 鍵 財布 車 子ども 高齢者 ペット見守り キーホルダー付属 (1個セット：ブラック)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0D99Y2DPL",
+      "title": "Life360 Tile エッセンシャルパック (Mateブラック2個+Slim+Stickerセット) スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 音を鳴らして場所をお知らせ 防水機能 Bluetooth接続範囲外でも探せる 小型 カード型 iOS Android 対応",
+      "reason": "Mate/Slim/Stickerの異モデル混成パック。単体タグ比較に複数構造で水増ししない"
+    }
+  ],
+  "historical_tier_distribution": {
+    "1": 16,
+    "2": 4,
+    "3": 1
+  },
+  "maker_count_upper_bound_before_parent": 11,
+  "variant_policy": "同親の色/サイズ候補を残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "親違いの同モデルも公式照合が必要、親群数を商品数とみなさない"
+  ]
+}
