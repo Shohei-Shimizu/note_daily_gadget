@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-25",
+  "checked_at": "2026-10-10",
+  "status": "proposal_only_parent_measurement_required",
+  "search_queries": [
+    "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット",
+    "アイリスオーヤマ 電動昇降テーブル DST-1200",
+    "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H"
+  ],
+  "scope": "完成デスク本体。天板付きセットのみ、脚のみ/天板単品/卓上台を除外。色・サイズの同親variant重複を避ける。",
+  "candidates": [
+    {
+      "brand": "山善",
+      "models": [
+        "ELD-1270",
+        "ELD-1470",
+        "現行ELD-FSとT1200/T1400の完成セット"
+      ],
+      "primary_sources": [
+        "https://yamazenbizcom.jp/item/78309.html",
+        "https://yamazenbizcom.jp/client_info/YAMAZEN/itemimage/manual/78309.pdf"
+      ],
+      "confirmed": "国内メーカー公式の完成デスク/電動2モーター/天板奥行70cm/高さ71〜117cm/全体耐荷重80kg。",
+      "conditions": "ELD-FS脚単品、ELD-T1200天板単品を混ぜない。採用Amazonの商品がELD-1270等セットか同型構成か照合。サイズ版のみを複数独立採用しない。"
+    },
+    {
+      "brand": "アイリスオーヤマ",
+      "models": [
+        "DST-1200"
+      ],
+      "primary_sources": [
+        "https://www.irisohyama.co.jp/products/storage-furniture/desk-table/table-free-desk/lift-desk"
+      ],
+      "confirmed": "電動完成テーブル/天板120cm/商品幅120×奥行65×高さ72〜120cm/AC電源。",
+      "conditions": "静止耐荷重50kgと昇降時20kgを分ける。連続2分使用後18分停止の条件。天板奥行と脚含む本体奥行が別。"
+    },
+    {
+      "brand": "Bauhutte",
+      "models": [
+        "BHD-1000H",
+        "BHD-1200H"
+      ],
+      "primary_sources": [
+        "https://www.bauhutte.jp/product/bhd1000_1200h/",
+        "https://www.bauhutte.jp/support/manual/"
+      ],
+      "confirmed": "天板付きスタンディングデスク本体/手動ロックレバー式。",
+      "conditions": "現2026公式は高さ75.5〜117.5cm/スライド天板あり。旧製品ASINの高さ70〜120cm等と異なる場合、旧メーカーmanualを対応して使用し現仕様を転用しない。BHSラック/卓上BHD-970DT/脚のみを混ぜない。"
+    }
+  ],
+  "existing_confirmed_sources": {
+    "FLEXISPOT_E7": [
+      "https://www.flexispot.jp/e7-set.html?value=e7b"
+    ],
+    "Claiks_160x80": [
+      "https://item.rakuten.co.jp/claiks/cl-sd-bigjz-/"
+    ]
+  },
+  "excluded_same_model_gate_asins": [
+    "B0GYYSQB2F",
+    "B0FR9SY5MW",
+    "B0F9X3FDYY",
+    "B0F3Y4W4VP",
+    "B0GGZB9PGB"
+  ],
+  "no_api_measurement_or_db_changes": true
+}

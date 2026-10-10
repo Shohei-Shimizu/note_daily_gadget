@@ -1,0 +1,26 @@
+{
+  "article": "02_article/2026-11/2026-11-25_姿勢に合わせて高さを変える。「昇降デスク」6選.md",
+  "title_length": 23,
+  "checks": {
+    "six_products": true,
+    "selected_urls_order": true,
+    "two_intro_paragraphs": true,
+    "six_spec_quotes": true,
+    "no_placeholder": true,
+    "no_reviews_prices_claims": true,
+    "related_urls_only": true,
+    "no_new_sections_or_tables": true,
+    "paragraphs_under_200": true,
+    "research_title_sync": true,
+    "raw_fields_and_machine_memo_vs_4f37ce7": true,
+    "one_canonical_article_and_research": true
+  },
+  "official_gate_passed": true,
+  "saved_preview": "pending_main_publisher",
+  "unresolved_specs": [],
+  "optional_specs_omitted": [
+    "Claiksの分割枚数・段差・厚さ",
+    "BHD-1000H選択ASINの昇降高さ数値とスライダー有無",
+    "EF1選択ASINの旧新昇降高さ数値"
+  ]
+}
