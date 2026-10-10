@@ -1,0 +1,372 @@
+{
+  "date": "2026-11-18",
+  "topic_id": "daily_gadget_20261118_155b52cc",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 11,
+  "parent_groups": {
+    "B0FDGCRHC3": [
+      "B0BV5RHNM1"
+    ],
+    "B0FQJNPD56": [
+      "B0DJDZRW18",
+      "B0F4JDMFSX",
+      "B0F4JQCMBG",
+      "B0FDFFHVWD"
+    ],
+    "B0FB2H628K": [
+      "B0F6TSHGN9",
+      "B0GK5S77XX"
+    ],
+    "B0GWD5VSYW": [
+      "B0GC4TJDXL"
+    ],
+    "B0H1WNMLLD": [
+      "B0H1WNMLLD"
+    ],
+    "B0HJFV316S": [
+      "B0H4Q6P8DQ"
+    ],
+    "B0H6SDNHH9": [
+      "B0H6SDNHH9"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B0BV5RHNM1",
+      "title": "サンワダイレクト 電動エアダスター AC電源 強力 ノズル3種類付属 ケーブル長3m PC 掃除 200-CD079",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei 11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": "サンワダイレクト",
+      "historical_tier": 1,
+      "parent_asin": "B0FDGCRHC3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DD33CFL3",
+      "title": "【日本向け仕様】エアダスター 電動ブロワー ブロアー 洗車 4段階風量調整 Ciniffo 超強力 USB-C充電式 小型 PC掃除 空気入れ",
+      "maker": "エアダスター",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない",
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DJDZRW18",
+      "title": "エレコム 日本メーカー 電動エアダスター 充電式 強力 逆さ噴射可能 3段階風量調整 49000rpm高速回転 最大風速28m/s LEDライト付き 3種類ノズル付き ADWALBB01BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0FQJNPD56",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F4JDMFSX",
+      "title": "エレコム 日本メーカー 電動エアダスター ブロワー 2WAY 吹き飛ぶ/吸い込む 強力 充電式 3段階風量調整 50000rpm高速回転 最大風速22m/s 軽量 LEDライト付き ブラック ADWALCC01BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FQJNPD56",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F4JQCMBG",
+      "title": "エレコム 日本メーカー 電動エアダスター ブロワー 充電式 強力 小型 軽量 逆さ噴射可能 69000rpm高速回転 最大風速18m/s 3段階風量調整 3種類ノズル付き ブラック ADWALBB02BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FQJNPD56",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F53VKBJK",
+      "title": "エアダスター 電動エアダスター ブロワー 小型 ブロアー 250000RPM高速回転 強力 最大風速120m/s 無段階風量調整 5種類ノズル付き LEDライト付き Type-C充電式 PC掃除/エアコン/キーボード/車内/洗車用",
+      "maker": "商品ページ表記なし",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "商品ページ表記なし",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない",
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F6TSHGN9",
+      "title": "サンワダイレクト 電動エアダスター 充電式 USB-C 4段階風量調節 ガス不使用 軽量 200-CDADE002",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei 11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FB2H628K",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FDFFHVWD",
+      "title": "エレコム 電動エアダスター ハイパワー 超強力 130000rpm高速回転 60m/s最大風速 コンパクト 軽量 逆さ噴射可能 風量8段階調整 5種類ノズル付き 充電式 ブラック ADWALBB04BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FQJNPD56",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GC4TJDXL",
+      "title": "WOLFBOX エアダスター 電動ブロワー 洗車後の隙間の水滴飛ばし・日常掃除に 最大風速75m/s以上 204g超軽量 USB充電式",
+      "maker": "WOLFBOX",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GWD5VSYW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GFVKRRC9",
+      "title": "エアダスター 電動 ブロワー 洗車 2in1 エアダスター＆ハンディクリーナー 10000mAh大容量バッテリー 300000RMP 無段階風量調整",
+      "maker": "エアダスター",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0HFJQFBCZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GK5S77XX",
+      "title": "サンワダイレクト 電動エアダスター 充電式 Type-C 最大風速31m/s 風量4段階調整 ノズル5種類 LED 小型 200-CDADE006",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei 11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FB2H628K",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H1WNMLLD",
+      "title": "AAL エアダスター 電動エアダスター 【2026新登場· 圧倒的な風圧 ·LEDライト付き】小型 ブロワー 洗車 300000RPM高速回転 4段階風量調整 5種類ノズル付き ブロアー 充電式 車内/PC掃除/キーボード/洗車用/照明/空気入れ 収納ボックス 日本語取扱説明書",
+      "maker": "AAL",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H4Q6P8DQ",
+      "title": "Horumi エアダスター 電動エアダスター 強力ブロワー【120m/sの超強暴風· 吹くだけで完全清掃 · LEDライト】300000RPM高速回転",
+      "maker": "Horumi",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HJFV316S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H69LM4TG",
+      "title": "エアダスター 電動エアダスター 充電式【120m/s強力送風・LEDライト搭載】300000RPM高速モーター 4段階風量調整 多種類ノズル付き Type-C充電式 コードレス 小型軽量 ブロワー PC掃除 キーボード 車内清掃 洗車 空気入れ 家庭用 日本語取扱説明書付き",
+      "maker": "エアダスター",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HJG3FVMV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない",
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H6SDNHH9",
+      "title": "AAL エアダスター 電動エアダスター【圧巻の風速150m/s·LEDライト搭載】 ブロワー 小型 強力 300000RPM高速回転 5種類ノズル付き",
+      "maker": "AAL",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-19",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B0DD33CFL3",
+      "title": "【日本向け仕様】エアダスター 電動ブロワー ブロアー 洗車 4段階風量調整 Ciniffo 超強力 USB-C充電式 小型 PC掃除 空気入れ",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0F53VKBJK",
+      "title": "エアダスター 電動エアダスター ブロワー 小型 ブロアー 250000RPM高速回転 強力 最大風速120m/s 無段階風量調整 5種類ノズル付き LEDライト付き Type-C充電式 PC掃除/エアコン/キーボード/車内/洗車用",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GFVKRRC9",
+      "title": "エアダスター 電動 ブロワー 洗車 2in1 エアダスター＆ハンディクリーナー 10000mAh大容量バッテリー 300000RMP 無段階風量調整",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0H69LM4TG",
+      "title": "エアダスター 電動エアダスター 充電式【120m/s強力送風・LEDライト搭載】300000RPM高速モーター 4段階風量調整 多種類ノズル付き Type-C充電式 コードレス 小型軽量 ブロワー PC掃除 キーボード 車内清掃 洗車 空気入れ 家庭用 日本語取扱説明書付き",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    }
+  ],
+  "variant_policy": "同親の色/サイズ/バンドルを候補群として残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "候補に残る未確認事項は公式照合前の採用根拠としない"
+  ],
+  "historical_tier_distribution": {
+    "1": 2,
+    "2": 3,
+    "3": 6
+  }
+}

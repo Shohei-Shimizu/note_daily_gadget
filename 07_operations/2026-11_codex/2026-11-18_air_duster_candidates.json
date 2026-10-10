@@ -1,0 +1,481 @@
+{
+  "generated_at": "2026-10-10T01:08:11+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261118_155b52cc",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261118_air_duster"
+  ],
+  "fetched_count": 11,
+  "dedup_count": 11,
+  "candidates": [
+    {
+      "asin": "B0BV5RHNM1",
+      "title": "サンワダイレクト 電動エアダスター AC電源 強力 ノズル3種類付属 ケーブル長3m PC 掃除 200-CD079",
+      "url": "https://www.amazon.co.jp/dp/B0BV5RHNM1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BV5RHNM1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61rNsczA1yL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "✅【 超強力 】 強力 な風がほこりや隙間のゴミを吹き飛ばしてくれるAC電源タイプの 電動 エアダスター です。キーボードや PC のお掃除はもちろん、エアコンや掃除機のフィルターのお手入れや空気入れなど様々な場面で役立ちます。",
+        "✅【AC電源タイプはここが凄い！】①長寿命：充電式とは異なりバッテリーの劣化が問題にならず、長期間使用することができます。②連続使用時間が長い：充電式の場合は連続使用時間が10分弱なのに対し、本製品は最大15分の連続使用が可能です。③充電不要ですぐに使える＆充電切れの心配無用。",
+        "✅【3種類のノズル付き】場所に合わせて使い分けすることができる3種のノズル付きです。①ブラシ付きノズル（こびりついたごみを取りながら吹き飛ばせる）②ロングノズル（先端が細いのでピンポイントに吹き飛ばせる）③3連ノズル（浮き輪などの空気入れに便利）",
+        "✅持ちやすく、あらゆる方向に噴射しやすいガンタイプ形状の エアーダスター です。手元のスイッチで2段階風速調整が可能です。",
+        "✅高い場所でも対応できる約3mのロングケーブルを採用しています。",
+        "✅手でつまんで着脱できるフィルター付きで、交換フィルター2枚付属しています。"
+      ],
+      "maker": "サンワサプライ",
+      "query": "dg_20261118_air_duster",
+      "queries_matched": [
+        "dg_20261118_air_duster"
+      ],
+      "review_count": 978,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-26",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "ensei 11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "parent_asin": "B0FDGCRHC3",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:44:17+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DJDZRW18",
+      "title": "エレコム 日本メーカー 電動エアダスター 充電式 強力 逆さ噴射可能 3段階風量調整 49000rpm高速回転 最大風速28m/s LEDライト付き 3種類ノズル付き ADWALBB01BK",
+      "url": "https://www.amazon.co.jp/dp/B0DJDZRW18?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DJDZRW18?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61vEyqFbDSL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "パソコン画面やキーボードの隙間にあるホコリやゴミなどを強力な風で吹き飛ばし、パソコン周りをきれいに掃除できる電動エアダスターです。",
+        "用途に合わせて使い分けられる3種類のノズルを付属しています。",
+        "人間工学に基づいた斜めグリップで持ちやすく、長時間の掃除も楽にできます。",
+        "逆さ噴射もできるので、さまざまな角度で使用可能です。連続作動時間は約25分。長時間使用できるのでパソコン全体の掃除に便利です。 ※満充電で弱モードでの使用時",
+        "保管のしかた 下記の場所には保管しないでください。 – 直射日光のあたる場所 – 高温、多湿、水気の近く、ホコリが多い場所 – 振動の多い場所 – 化学薬品の保管場所や腐食性ガスが発生する場所 幼児の手が届かない場所に置いてください。 長時間ご使用にならないときは、満充電の状態でできるだけ常温（10～ 30℃）で保管してください。 3ヵ月から6ヵ月に一度は充電してください。完全放電（電池残量が0のまま 放置した状態）するとご使用できません。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261118_air_duster",
+      "queries_matched": [
+        "dg_20261118_air_duster"
+      ],
+      "review_count": 171,
+      "star_rating": 3.7,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "power_tools_light",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "parent_asin": "B0FQJNPD56",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:44:27+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F4JDMFSX",
+      "title": "エレコム 日本メーカー 電動エアダスター ブロワー 2WAY 吹き飛ぶ/吸い込む 強力 充電式 3段階風量調整 50000rpm高速回転 最大風速22m/s 軽量 LEDライト付き ブラック ADWALCC01BK",
+      "url": "https://www.amazon.co.jp/dp/B0F4JDMFSX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F4JDMFSX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61FUyCzgtNL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "パソコンの画面やキーボードの隙間にあるホコリやゴミなどを強力な風で吹き飛ばし、パソコン周りをきれいに掃除できる電動エアダスターです。",
+        "アタッチメントを付け換えるだけで、ハンディ掃除機としても使える2WAY仕様です。車内のエアコンなどの掃除にも便利です。",
+        "ダストボックス内のフィルターは水で洗えるため、いつでも清潔に使用できます。",
+        "モーターに負担がかかるなどの異常を感知すると、自動で停止する安心機能付きです。用途に合わせて使い分けられる6種類のノズルと、3種類のブラシが付属しています。",
+        "保管のしかた 下記の場所には保管しないでください。 – 直射日光のあたる場所 – 高温、多湿、水気の近く、ホコリが多い場所 – 振動の多い場所 – 化学薬品の保管場所や腐食性ガスが発生する場所 幼児の手が届かない場所に置いてください。 長時間ご使用にならないときは、満充電の状態でできるだけ常温（10～ 30℃）で保管してください。 3ヵ月から6ヵ月に一度は充電してください。完全放電（電池残量が0のまま 放置した状態）するとご使用できません。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261118_air_duster",
+      "queries_matched": [
+        "dg_20261118_air_duster"
+      ],
+      "review_count": 93,
+      "star_rating": 3.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "power_tools_light",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "parent_asin": "B0FQJNPD56",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:44:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F4JQCMBG",
+      "title": "エレコム 日本メーカー 電動エアダスター ブロワー 充電式 強力 小型 軽量 逆さ噴射可能 69000rpm高速回転 最大風速18m/s 3段階風量調整 3種類ノズル付き ブラック ADWALBB02BK",
+      "url": "https://www.amazon.co.jp/dp/B0F4JQCMBG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F4JQCMBG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Qw4v66CpL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "パソコンの画面やキーボードの隙間にあるホコリやゴミなどを強力な風で吹き飛ばし、パソコン周りをきれいに掃除できる電動エアダスターです。",
+        "コンパクト&amp;軽量設計で、どこでも気軽に使えます。",
+        "モーターに負担がかかるなどの異常を感知すると、自動で停止する安心機能付きです。",
+        "用途に合わせて使い分けられる5種類のノズルが付属しています。",
+        "狭い隙間などの使用に便利で、家の中から車内までさまざまなシーンで活躍します。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261118_air_duster",
+      "queries_matched": [
+        "dg_20261118_air_duster"
+      ],
+      "review_count": 69,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "power_tools_light",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "parent_asin": "B0FQJNPD56",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:44:44+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F6TSHGN9",
+      "title": "サンワダイレクト 電動エアダスター 充電式 USB-C 4段階風量調節 ガス不使用 軽量 200-CDADE002",
+      "url": "https://www.amazon.co.jp/dp/B0F6TSHGN9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F6TSHGN9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51kESjWR59L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【充電式・電動 エアダスター】 ガス を使用せず、繰り返し使える 充電式 電動 エアダスター。 プラスチック 素材を採用した 小型 ・ 軽量 設計で、持ち運び しやすい エアーダスター です。ガン タイプ形状で片手操作が可能です。",
+        "【風量調整＋ターボモード】 3段階の 風量調整 に加え、ボタンを押している間のみ風速が上がる 強力 なターボモードを搭載。合計4種類の 風速 を使い分けることができ、用途に応じた調整が可能です。",
+        "【小型サイズ・逆さ噴射対応】 缶タイプ の エア ダスター や iPhone 16 よりも縦の大きさが小さいコンパクトな筐体。本体はどの向きでも使用でき、逆さ噴射 にも対応しています。",
+        "【連続噴射で 掃除 】 一度電源を入れれば 連続噴射 が可能。 キーボード の隙間、 精密機器、 エアコン フィルター、 車 内、窓のサッシ、サーキュレーターなど、日常的な 掃除 に使用できます。",
+        "【ガス不使用で安全・経済的】 充電式 のため繰り返し使用でき、通常のエアダスターと比べて ガス の匂いや空き缶処理、火気による危険がありません。。",
+        "【保証・充電時の注意】 保証期間：ご購入日より6ヶ月 ※本製品を充電する際、USB PD対応AC充電器は非対応です。5V2A(10W)または5V1A(5W)で充電できる充電器をご利用ください。"
+      ],
+      "maker": "サンワサプライ",
+      "query": "dg_20261118_air_duster",
+      "queries_matched": [
+        "dg_20261118_air_duster"
+      ],
+      "review_count": 39,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "power_tools_light",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "ensei 11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "parent_asin": "B0FB2H628K",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:44:50+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FDFFHVWD",
+      "title": "エレコム 電動エアダスター ハイパワー 超強力 130000rpm高速回転 60m/s最大風速 コンパクト 軽量 逆さ噴射可能 風量8段階調整 5種類ノズル付き 充電式 ブラック ADWALBB04BK",
+      "url": "https://www.amazon.co.jp/dp/B0FDFFHVWD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FDFFHVWD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61TdmjuNdgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ハイパワー噴射で玄関まわりのゴミやホコリ、洗車後の細部に残った水滴などを一気に吹き飛ばし、手軽に掃除できます。",
+        "コンパクト&amp;軽量設計で、どこでも気軽に使えます。",
+        "モーターの負荷、電池の温度の異常、過充電・過放電などを自動で感知し停止する安心機能付き。大切なバッテリーをしっかり守り、長く使えます。",
+        "用途に合わせて使い分けられる5種類のノズルを付属しています。狭い隙間のホコリからベランダのゴミまで、家の中はもちろん車内や屋外でも幅広く活躍します。",
+        "保管のしかた 下記の場所には保管しないでください。 – 直射日光のあたる場所 – 高温、多湿、水気の近く、ホコリが多い場所 – 振動の多い場所 – 化学薬品の保管場所や腐食性ガスが発生する場所 幼児の手が届かない場所に置いてください。 長時間ご使用にならないときは、満充電の状態でできるだけ常温（10～ 30℃）で保管してください。 3ヵ月から6ヵ月に一度は充電してください。完全放電（電池残量が0のまま 放置した状態）するとご使用できません。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261118_air_duster",
+      "queries_matched": [
+        "dg_20261118_air_duster"
+      ],
+      "review_count": 49,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "power_tools_light",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "parent_asin": "B0FQJNPD56",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:44:57+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GC4TJDXL",
+      "title": "WOLFBOX エアダスター 電動ブロワー 洗車後の隙間の水滴飛ばし・日常掃除に 最大風速75m/s以上 204g超軽量 USB充電式",
+      "url": "https://www.amazon.co.jp/dp/B0GC4TJDXL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GC4TJDXL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71dslzZbjLL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "🏆【110,000RPM超高速モーター搭載＆≥75m/s風速】日本業界初のブラシレス高速ターボモーターを搭載。数値だけを追求せず、実使用における風の密度と安定性を重視した設計により、ピンポイントで力強い送風を生み出します。※大型台風クラスの最大瞬間風速は約70〜75m/sとされており、100m/sを超える過剰な風速は対象物を傷つける恐れがあります。本製品は清掃効率と安全性のバランスを追求した設計です。",
+        "🏆【省エネで最大240分連続使用・多様な充電方法に対応】省エネ性能に優れたバッテリーを採用し、従来のエアダスターと比べて消費電力を95％以上削減。最大240分の連続使用が可能で、長時間の清掃作業でも充電を気にせず使用できます。USB Type-C充電に対応し、ACアダプター、車載充電、PC、モバイルバッテリーなど、さまざまな給電方法で柔軟に充電可能。使用場所を選ばず、日常使いから外出先まで快適に対応します。",
+        "🏆【約204g軽量設計｜PC掃除・キーボード掃除におすすめ】約204gの超軽量設計で、片手操作がしやすく、長時間の使用でも手や腕が疲れにくい設計です。デスクトップPC・ノートPCの通気口やファン周り、キーボードやメカニカルキーボードのキー隙間に溜まったホコリや細かなゴミを、安定した強力風量で効率よく除去できます。使い捨てではなく、繰り返し使える充電式エアダスターのため、日常的なPC掃除・キーボード清掃に最適です。",
+        "🏆【4種類ノズル付属・繰り返し使えるエコ設計】用途に合わせて使い分けできる4種類の専用ノズルを付属。 PC内部やキーボード、カメラ、エアコン吹出口の清掃から、空気入れなど幅広いシーンに対応します。充電式で繰り返し使用できるため、使い捨てエアダスター缶のようなガス臭や空き缶ゴミが発生しません。ランニングコストを抑えながら、環境にも配慮した実用的なクリーニングツールです。",
+        "🏆【24ヶ月保証・新品交換対応】品質に自信があるからこそ、24ヶ月のメーカー保証をご用意。不具合が発生した場合は、修理ではなく新品交換で対応いたします。ご購入後の使い方や不明点にも日本語でサポート。初めて電動エアダスターをお使いの方にも、安心してお選びいただけます。 保証申請方法：商品ページ＞「この商品を販売している出品者」＞質問・メッセージを送信"
+      ],
+      "maker": "WOLFBOX",
+      "query": "dg_20261118_air_duster",
+      "queries_matched": [
+        "dg_20261118_air_duster"
+      ],
+      "review_count": 16157,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "power_tools_light",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "parent_asin": "B0GWD5VSYW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:45:04+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GK5S77XX",
+      "title": "サンワダイレクト 電動エアダスター 充電式 Type-C 最大風速31m/s 風量4段階調整 ノズル5種類 LED 小型 200-CDADE006",
+      "url": "https://www.amazon.co.jp/dp/B0GK5S77XX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GK5S77XX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ptRX1UUWL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ガス不使用で、繰り返し使える充電式の 電動 エアダスター です。ボタンを押すだけで、4段階の風量調整が可能です。最大風速31m/sのパワフル噴射で、こびりついた ホコリ や砂埃も一気に吹き飛ばせます。",
+        "LEDライトを搭載しており、暗い場所でも手元を明るく照らしながら作業できます。電池残量と風量が一目で分かる、液晶表示機能付きです。デジタル表示により、作業中でも風量・バッテリー残量を直感的に確認できます。",
+        "持ちやすく操作しやすい ガン タイプです。用途に応じて使い分けできる、5種類のアタッチメントが付属しています。ノズルを逆向きに取り付けることで、浮き輪などへの空気の吸引も可能です。",
+        "本体の向きを気にせず使用でき、上下逆さまでも問題なく使用できます。電源を入れたまま連続して送風できるため、好きな場所を効率よく掃除できます。キーボードの隙間、 精密機器 、 エアコン 、 車内 、窓のサッシ、 サーキュレーター など、さまざまな場所で使用可能です。",
+        "日常の掃除だけでなく、DIY作業やアウトドア用品のメンテナンスにも活躍します。充電式で繰り返し使えるため、経済的で安全な商品です。一般的なガス式エアダスターと比べて、買い替えの手間がなく、ガス臭や空き缶の処理、火気による危険もありません。",
+        "コンパクト かつ約210gの 軽量 ボディで、片手作業でも疲れにくく持ち運びにも便利です。約3時間で充電が完了するため、使いたい時にサッと準備してすぐ使える ミニエアダスター です。"
+      ],
+      "maker": "サンワサプライ",
+      "query": "dg_20261118_air_duster",
+      "queries_matched": [
+        "dg_20261118_air_duster"
+      ],
+      "review_count": 56,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "power_tools_light",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "ensei 11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "parent_asin": "B0FB2H628K",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:45:10+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H1WNMLLD",
+      "title": "AAL エアダスター 電動エアダスター 【2026新登場· 圧倒的な風圧 ·LEDライト付き】小型 ブロワー 洗車 300000RPM高速回転 4段階風量調整 5種類ノズル付き ブロアー 充電式 車内/PC掃除/キーボード/洗車用/照明/空気入れ 収納ボックス 日本語取扱説明書",
+      "url": "https://www.amazon.co.jp/dp/B0H1WNMLLD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H1WNMLLD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/614saKJ3o6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "🥇【常識を超える30万回転·非接触で安全清掃】一般の電動エアダスターの約3倍という超高回転数を実現。手に取った瞬間、「違う」と感じる圧倒的なパワーです。最大風速は150m/s。ブラシやエアダスター缶と違い、対象物に触れずに清掃できるため、精密基板の静電破損や、レンズ・フィギュアの表面キズを完全に防止。大切な機器も安心してお掃除できます。",
+        "🥇【4段階スマート風量調整】P1弱風モードは精密機器やインテリア小物に最適。優しく吹き飛ばし、表面を傷めません。P2中風モードは窓のレールや細かい隙間の日常的なホコリをしっかり除去。P3強風モード（ジェット風）はフィルターや放熱フィンにこびり付いた頑固な汚れを一瞬で吹き飛ばします。P4 の「暴風モード」 はさらなる限界シーンに対応。車に積もった落ち葉の吹き飛ばしから、キャンプファイヤーの火力をアップまで、幅広く活躍します。",
+        "🥇【圧巻の180分超長時間稼働】満充電1回で最大180分（P1弱風時）の連続使用が可能です。一般的なエアダスターの3～6倍という圧倒的な稼働時間を誇ります。自宅での丸一日清掃：家中のエアコン、PC複数台、車内、窓サッシ…全部やってもバッテリーは余裕。",
+        "🥇【5種ノズル＋1台＝無敵のマルチツール】作業台のホコリ吹き飛ばし、車のエアコン口清掃、キャンプでのエアマット空気入れ――エアダスターならシーンを選びません。5種類のノズルを状況に応じて瞬時に交換。掃除からDIY、アウトドア、バーベキューまで、一台で対応。用途に合わせてノズルを付け替えるだけで、さまざまなシーンで活躍します。一台持ち歩けば、いつでもどこでも対応可能です。",
+        "🥇【軽量設計！高輝度LEDライト搭載】従来のブロワーとは違い、本体はコンパクトで片手で楽々ホールド。重量もわずか約215g。使わない時は引き出しや工具箱にスッキリ収まります。さらに高輝度LEDライトが暗い隙間をくっきり照射。PCケースの中、サーバーラック裏、深夜の車内作業もストレスフリー。使わない時は引き出しにスッキリ収納。",
+        "🥇【安心のアフターサポート】メーカー保証付き。保証期間内にご不明な点がございましたら、取扱説明書記載の連絡先までお気軽にご連絡ください。 お客様のご要望に合わせ、24時間以内に返信いたします。"
+      ],
+      "maker": "AAL",
+      "query": "dg_20261118_air_duster",
+      "queries_matched": [
+        "dg_20261118_air_duster"
+      ],
+      "review_count": 321,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "keyboard",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T11:45:21+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H4Q6P8DQ",
+      "title": "Horumi エアダスター 電動エアダスター 強力ブロワー【120m/sの超強暴風· 吹くだけで完全清掃 · LEDライト】300000RPM高速回転",
+      "url": "https://www.amazon.co.jp/dp/B0H4Q6P8DQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H4Q6P8DQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/7199YyuWPNL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "🥇【エアダスター缶を卒業。プロ級の風力で、家中どこでも一掃】「缶タイプはパワー不足…すぐに空になる…」そんなお悩みを解決。Horumiは最大風速120m/s（時速432km相当）を実現。従来のエアダスター缶と比較して約1.6倍の風力で、車のエアコン奥のカビや、キッチンの水切りも一瞬で吹き飛ばします。300,000回転のブラシレスモーター搭載で耐久性も抜群。充電式だから、缶を買い続ける必要はありません。初期投資だけで長期的にコスト削減を実現します。",
+        "🥇【5種の専用ノズル。車・PC・キッチン・アウトドア、これ一台で】「場所によって道具を変えるのは面倒…」もうその必要はありません。単なるブロアーではなく、シーン別の徹底掃除キットです。細長ノズルはPC内部のほこりを、平型ノズルは車の隙間を、広口ノズルはキッチン台面水切りを、それぞれ解決。適切な道具があれば、どんな掃除も効率的に。面倒が「かんたん」に変わります。",
+        "🥇【エアダスター缶の約60倍·180分の長時間駆動！コードレスなのに途切れないパワー】充電式でコードの煩わしさがなく、どこでも自由に使用可能。大容量バッテリーを搭載しているため、強風モードでも十分な駆動時間を確保。安心してご使用いただくために、四重保護回路（過充電・過熱・過電圧・過電流）を搭載。高い安全性と耐久性を実現しています。ご注意：1.本品は強力な風力を発生する工具です。お子様の手の届かない場所で保管してください。2.最低風量（レベル1）なら最大180分間の連続使用が可能です（実測値）。使用風量や環境により駆動時間は変動します。3.本体底部には4つの放熱孔を搭載。使用中に微かな気流が発生しますが、これはモーターやバッテリーの温度上昇を抑えるための設計です。異常ではございませんので、ご安心ください。",
+        "。 🥇【4段階風量+LEDライト付きで、シーンに合わせて最強から微風まで】「弱」モードはカメラレンズなどの精密機器のホコリを優しい風で払え、「最強」モードでは庭仕事後のテラスの水たまりもあっという間に乾かせます。4つの風力から、そのシーンにぴったりな一押しを。さらにLEDライト付きで、暗い車のエンジンルームや部屋の隅っこまで、見逃しなく、きれいに。操作はシンプル：充電口下の電源ボタンを2秒長押しでON/OFF。電源ボタンを2回軽く押すと、照明ライ トが点灯します。LEDライト下のボタンを軽くタップするだけで、1→2→3→4段階と風力を切り替えられます。充電する際は、お手持ちの5V/2A出力対応のACアダプターに、同梱のType-C充電ケーブルを接続してご使用ください。※本体にはACアダプターは付属しておりません。予めご了承ください。",
+        "🥇【一台多役!強力ブロワーが、実は便利な空気入れに早変わり】付属の細長ノズルを取り付けるだけで、ビニールプールや浮き輪、エアーマットなどへの空気入れが簡単。別途ポンプを購入する必要はもうありません。一台で「吹き飛ばす」と「膨らませる」の二役をこなす、一家に一台あればあらゆるシーンで活躍する頼もしい相棒です。Horumiは「お客様満足度No.1」を目指し、安心の1年保証と、24時間以内に対応するカスタマーサポートをご提供しております。万が一商品にご満足いただけない場合は、「アカウントサービス」→「注文履歴」→「販売元」→「質問する」よりご連絡ください。お客様一人ひとりの声を大切に、迅速・丁寧に対応させていただきます。"
+      ],
+      "maker": "Horumi",
+      "query": "dg_20261118_air_duster",
+      "queries_matched": [
+        "dg_20261118_air_duster"
+      ],
+      "review_count": 688,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "power_tools_light",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "parent_asin": "B0HJFV316S",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:45:28+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H6SDNHH9",
+      "title": "AAL エアダスター 電動エアダスター【圧巻の風速150m/s·LEDライト搭載】 ブロワー 小型 強力 300000RPM高速回転 5種類ノズル付き",
+      "url": "https://www.amazon.co.jp/dp/B0H6SDNHH9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H6SDNHH9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81MnRle4rUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "💎【圧巻の30万回転・風速150m/s】電動エアダスターは、300,000 RPMのハイエンドブラシレスモーターを搭載し、毎秒150m（時速約540km）の超高速エアフローを実現します。これにより、さまざまな頑固なほこりを瞬時に吹き飛ばすことができます。従来の電動エアダスターやエアダスター缶と異なり、消耗品は一切不要。有害な噴射ガスも発生しないため、環境に優しく、かつ充電式で繰り返し使えるから、ランニングコストも大幅に抑えられます。",
+        "💎【4段階――あらゆるシーンに最適な風量を】1台でここまで幅広く使える――それがこのブロワーの真価です。P1（弱風）は、カメラレンズや液晶画面のデリケートなホコリを簡単に吹き飛ばせます。P2（中弱風）は、キーボードの隙間やフィギュアの細部まで優しくケア。P3（中強風）は、パソコン外装や窓枠に積もったホコリを一気に吹き飛ばします。P4（最大風速）は、エアコン内部や車内シートの隙間、さらには落ち葉までも簡単に一掃できる、圧倒的なパワーを発揮します。",
+        "💎【5種ノズルでオールシーン対応】強力な風速だけでは不十分です。狭い隙間や異形の表面の清掃には、より精密なアプローチが求められます。そこで本機は、5種類の交換可能なノズルを標準装備しており、シーンに応じて即座に付け替えが可能です。家庭内の掃除はもちろん、DIY作業や屋外での清掃に至るまで——缶スプレーや綿棒、ブラシなどを別途用意する必要はありません。この1台があれば、あらゆる場面をカバーする「万能クリーニングツール」としてお役に立ちます。",
+        "💎【ポケットサイズ&amp;高輝度LED搭載】本体重量はわずか約300g。女性やシニアの方でも片手で軽々持ち上げられ、長時間の掃除でも手が疲れません。さらに、高輝度LEDライトを内蔵。パソコン内部の奥や家具の裏側、夜間の車内など、暗がりに隠れたホコリも逃がしません。ライトでしっかり照らしながら吹き飛ばせば、目に見えない汚れまで徹底除去。※LEDライトは、電源ON時にオン/オフボタンを2度押しで点灯・消灯できます。",
+        "💎【長時間バッテリー・急速充電】1回のフル充電で、なんと最長180分（P1モード時）の連続使用が可能。これは一般的な製品のなんと3倍に相当します！週末の大掃除も、現場での終日作業も、バッテリー切れの心配は一切不要。さらに、Type-C急速充電に対応しているので、ちょっとした空き時間にサッと充電して、いつでもフルパワーで作業に集中できます。",
+        "💎【安心のアフターサポート】メーカー保証付き。保証期間内にご不明な点がございましたら、取扱説明書記載の連絡先までお気軽にご連絡ください。 お客様のご要望に合わせ、24時間以内に返信いたします。"
+      ],
+      "maker": "AAL",
+      "query": "dg_20261118_air_duster",
+      "queries_matched": [
+        "dg_20261118_air_duster"
+      ],
+      "review_count": 201,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "power_tools_light",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "PC向けノズルと帯電/機器清掃の注意。車洗い向け宣伝をPC安全性に転用しない"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T11:45:37+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:air_duster"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-18",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:air_duster",
+    "theme": "キーボードのほこりを吹き飛ばす。電動エアダスター",
+    "exclude_used_since": "2026-10-19",
+    "current_stock_verified": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T11:45:37+09:00"
+}
