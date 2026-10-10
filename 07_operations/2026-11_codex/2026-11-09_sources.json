@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-09",
+  "checked_at": "2026-10-10",
+  "products": [
+    {
+      "asin": "B06W55K9N6",
+      "name": "WD Elements Portable 2TB",
+      "source": "https://documents.westerndigital.com/content/dam/doc-library/th_th/assets/public/wd/product/external-storage/wd_elements/wd_elements_portable/wd-elements-portable-product-overview.pdf",
+      "points": [
+        "Windows PCのデータ保存に対応するポータブルHDD。",
+        "USB-Aケーブルを用いて接続できる。",
+        "他OSでの利用は再フォーマットが必要な場合がある。"
+      ],
+      "specs": [
+        "型番：WDBU6Y0020BBK-WESN",
+        "容量：2TB",
+        "接続規格：USB3.2 Gen1・USB3.0",
+        "形式：ポータブル"
+      ],
+      "body": "写真や文書をPCの外へ保存する用途に絞り、シンプルなポータブル型を探す人向けです。USBケーブルで接続してファイルを保存する構成で、手元に別の保存先を用意したい場合の候補。Windows以外で使う際は、対応OSや再フォーマットの必要性を確認しておきたいモデルです。",
+      "cautions": [
+        "採用WESN 2TBと日本JESE/他容量を混同しない。Mac等で再フォーマットが必要な場合、既存データの退避が必要。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B07VTFN6HM",
+      "name": "WD My Passport 2TB",
+      "source": "https://www.westerndigital.com/products/portable-drives/wd-my-passport-usb-3-0-hdd",
+      "points": [
+        "パスワード保護とハードウェア暗号化を備える。",
+        "ポータブル型でPCのファイル保存に対応。",
+        "バックアップソフトウェアの対応条件を確認して使える。"
+      ],
+      "specs": [
+        "型番：WDBYVG0020BBK-WESN",
+        "容量：2TB",
+        "接続規格：USB3.0",
+        "機能：パスワード保護・ハードウェア暗号化"
+      ],
+      "body": "保存したファイルの持ち出しと、アクセス保護も考えたい人向けの候補です。パスワード保護とハードウェア暗号化を備え、データを入れたドライブを管理する機能を重視して選びました。利用するOSや付属ソフトの条件を確認し、PC本体とは別の保存先として使う構成。",
+      "cautions": [
+        "新しいMy Passport USB-Cモデルの規格を転用しない。ソフトの要件/ダウンロードが必要。暗号化はデータ喪失防止や復元を保証しない。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B07BK6696F",
+      "name": "バッファロー HD-AD4U3 4TB",
+      "source": "https://www.buffalo.jp/product/detail/hd-ad4u3.html",
+      "points": [
+        "PC保存と対応テレビ録画の両用途に対応。",
+        "ACアダプターを使う据え置き型。",
+        "ファンレス構造と防振設計を採用。"
+      ],
+      "specs": [
+        "型番：HD-AD4U3",
+        "容量：4TB",
+        "接続規格：USB3.2 Gen1・USB3.1 Gen1・USB3.0",
+        "電源：ACアダプター",
+        "出荷時フォーマット：NTFS"
+      ],
+      "body": "机に置く保存先として、ACアダプターを使うタイプを探す人向けです。テレビ録画向けの案内もありますが、PCのデータ保存にも対応する据え置き型として候補に入れました。テレビ用に設定したドライブをPC保存用と兼ねる前提にはせず、用途を決めて使いたいモデル。",
+      "cautions": [
+        "候補0TB自動抽出誤りを4TBへ修正。PC対応公式https://www.buffalo.jp/product/taiou/search/?item_code=HD-AD4U3&lv1=1000___Windows&type=600。TV録画登録後のデータをPCへそのまま読めるとは書かない。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B08ZJG6TVT",
+      "name": "Seagate Expansion Portable 2TB",
+      "source": "https://www.seagate.com/jp/ja/support/external-hard-drives/portable-hard-drives/expansion-portable/",
+      "points": [
+        "USB接続でPCのファイル保存に使える。",
+        "USB給電で外部電源を用意せず使うポータブル型。",
+        "採用型番の容量とOS対応を確認できる。"
+      ],
+      "specs": [
+        "型番：STKM2000400",
+        "容量：2TB",
+        "接続規格：USB3.0",
+        "給電：USBバスパワー"
+      ],
+      "body": "電源アダプターを増やさず、PCの横に保存先を用意したい人向けの候補です。USB給電で動くポータブル型で、ケーブルをつないでファイルをコピーする用途に向きます。WindowsやMacの利用条件を確認し、必要に応じてフォーマットを整えてから使いたいモデルです。",
+      "cautions": [
+        "資料https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/datasheets/pdfs/expansion-portable-DS2060-1-2102JP-ja_JP.pdf。STKMとSTEA別型番、梱包重量0.257kgを本体重量として転用しない。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B07D7978NV",
+      "name": "バッファロー HD-PCFS2.0U3-BBA",
+      "source": "https://www.buffalo.jp/product/detail/hd-pcfs2.0u3-bba.html",
+      "points": [
+        "USB給電で使えるポータブル型。",
+        "PC向け故障予測サービスみまもり合図に対応。",
+        "設置場所を移しやすい小型の本体。"
+      ],
+      "specs": [
+        "型番：HD-PCFS2.0U3-BBA",
+        "容量：2TB",
+        "接続規格：USB3.1 Gen1・USB3.0",
+        "給電：USBバスパワー"
+      ],
+      "body": "PCの保存先を増やすだけでなく、ドライブの状態確認も考えたい人向けに選びました。対応ソフトをPCへ入れることで、故障予測サービス「みまもり合図」を利用できる構成です。USB給電のポータブル型なので、使うPCの対応OSとソフトの条件も確認しておきたい一台。",
+      "cautions": [
+        "故障予測は必ず故障検出/データ保護を保証しない。容量違いのサイズ・重量は転用しない。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B0BN8VZ22H",
+      "name": "エレコム ELD-HTV060UBK 6TB",
+      "source": "https://www.elecom.co.jp/products/ELD-HTV060UBK.html",
+      "points": [
+        "TV向け案内でも公式でWindows PC/Apple Mac対応を明示。",
+        "ACアダプターを使う据え置き型。",
+        "出荷時NTFSでOSに応じた準備が必要。"
+      ],
+      "specs": [
+        "型番：ELD-HTV060UBK",
+        "容量：6TB",
+        "接続規格：USB3.2 Gen1・USB3.1 Gen1・USB3.0",
+        "電源：ACアダプター",
+        "出荷時フォーマット：NTFS"
+      ],
+      "body": "保存容量を大きく確保し、机に固定して使うドライブを探す人向けです。テレビ録画用の製品として案内されていますが、公式仕様ではWindows PCとApple Macにも対応します。出荷時フォーマットはNTFSのため、Macで書き込みたい場合などはOSに合う準備を確認しておきたい構成。",
+      "cautions": [
+        "テレビ録画専用品ではない。公式PC/Mac対応を確認済み。TVとPCで録画/保存データを共用できるとは書かない。ハイブリッド表記をSSDキャッシュ/SSHD等と解釈しない。"
+      ],
+      "official_confirmation": "confirmed"
+    }
+  ],
+  "selection_preserved": true,
+  "jev": "not_used_no_review_analysis",
+  "related_public_evidence": [
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n5cabffd3351b_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n31e80512500d_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n5ae5865b8f47_live.html"
+  ],
+  "related_metadata_sources": [
+    "02_article/2026-09/_metadata.json",
+    "02_article/2026-05/_metadata.json"
+  ],
+  "superseded_archive": "07_operations/2026-11_codex/superseded/2026-11-09_8_items_before_official_gate"
+}

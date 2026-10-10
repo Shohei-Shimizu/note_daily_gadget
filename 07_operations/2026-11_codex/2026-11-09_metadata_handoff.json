@@ -1,0 +1,32 @@
+{
+  "published_date": "2026-11-09",
+  "filename": "2026-11-09_写真と作業データの保存先に。「外付けHDD」6選.md",
+  "title": "写真と作業データの保存先に。「外付けHDD」6選",
+  "category": "モバイル・電源・周辺機器",
+  "tags": "おすすめガジェット 外付けHDD バックアップ データ保存 パソコン",
+  "product_count": 6,
+  "product_asins": [
+    "B06W55K9N6",
+    "B07VTFN6HM",
+    "B07BK6696F",
+    "B08ZJG6TVT",
+    "B07D7978NV",
+    "B0BN8VZ22H"
+  ],
+  "related_urls": [
+    "https://note.com/daily_gadget/n/n5cabffd3351b",
+    "https://note.com/daily_gadget/n/n31e80512500d",
+    "https://note.com/daily_gadget/n/n5ae5865b8f47"
+  ],
+  "research_file": "06_research/2026-11/2026-11-09_写真と作業データの保存先に。「外付けHDD」6選.md",
+  "status": "local_draft_qa_only",
+  "scheduled_time": "20:00 JST",
+  "unresolved_specs": [],
+  "integration_required": [
+    "monthly_metadata",
+    "schedule_ledger",
+    "shared_db",
+    "thumbnail",
+    "note_saved_preview"
+  ]
+}
