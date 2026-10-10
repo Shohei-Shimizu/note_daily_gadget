@@ -1,0 +1,1289 @@
+{
+  "generated_at": "2026-10-10T01:04:14+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261105_5405bca5",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261105_timer"
+  ],
+  "fetched_count": 35,
+  "dedup_count": 33,
+  "candidates": [
+    {
+      "asin": "B0F6K1Q29G",
+      "title": "AVINIA デスクタイマー マグネット式デジタルキッチンタイマー 充電式ファブリックメッシュカバー 99分カウントダウン/カウントアップ Efficana Konah 調理用ホームタイマー(生地 ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0F6K1Q29G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F6K1Q29G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/91KR76BSJmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【高精度デュアルタイマー】外側のリングを回して、カウントダウンタイマー（デジタルアラーム付き）またはカウントアップタイマー（0～99分）を設定できます。触覚フィードバックによる振動で集中力を高めます。独自の安全スイッチが誤作動を防ぎます。2つのアラームモード：サイレントLED点滅（サイレントキッチンタイマー）またはビープ音。調理タイマー、ワークアウトストップウォッチ、お子様のグルーミングタイマーなどに最適です。",
+        "【スマートな生産性のためのスタイリッシュなデザイン】高品質のメッシュファブリックカバーが柔らかな手触りとエレガントな外観を実現。このデジタルキッチンタイマーは、キッチン、オフィス、リビングスペースにシームレスに溶け込み、時間管理を最適化するための必須のスマートホームガジェットです。",
+        "【マグネット式で見やすい】強力なマグネット（マグネット式キッチンタイマー）で、冷蔵庫や金属面にしっかりと固定できます。シンプルなディスプレイで見やすいキッチンタイマー。あらゆる家庭に最適なマグネット式デジタルキッチンタイマーです。",
+        "【長持ち＆超急速充電】1回の充電で数週間使用可能！USB-Cテクノロジーを採用したポータブルタイマーは、電池交換の手間がかかりません。エッグタイマー、料理、外出先での調理など、様々なシーンで活躍します。",
+        "【多機能集中ツール】単なるキッチンタイマーではありません。キッチン、オフィス、子供部屋など、あらゆる場面で生産性向上に役立ちます。LEDディスプレイによる視覚的なタイマー機能とサイレントモード（お子様の視覚的なタイマーとしても最適）を備えています。365日間保証付き。"
+      ],
+      "maker": "AVINIA",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 8110,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-14",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0BB8NRGL5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:22:42+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DBY8JCQ5",
+      "title": "dretec(ドリテック) 勉強タイマー タイムアップ2 タイマー式勉強法で自立学習 試験日までの日数設定でモチベアップ 消音&ランプで図書館でも使える タイマー 勉強 キッチン ストップウォッチ 学習 勉強用 勉強グッズ デジタル 学習用 無音 プレゼント 子供 キッズ T-587PK3 ピンク",
+      "url": "https://www.amazon.co.jp/dp/B0DBY8JCQ5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DBY8JCQ5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61mNuGuPJBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "学習用のタイマーです。"
+      ],
+      "maker": "dretec",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 4505,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0FQ2MJJSJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:22:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07YLQCW27",
+      "title": "ドリテック(dretec) 勉強タイマー タイムアップ2 消音 T-580WTDI ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B07YLQCW27?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07YLQCW27?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61mzjANVUIL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "押しやすい大きな「START/STOP」ボタン",
+        "カウントダウン設定時間を音とランプでお知らせ",
+        "テストや試験に役立つ、日にちカウントダウン機能付（デイカウント機能）",
+        "選べるアラーム鳴動時間（15秒、1秒、無音）",
+        "JAN：4536117033953"
+      ],
+      "maker": "dretec",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 4505,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-08",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0FQ2MJJSJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:22:58+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07ZNF656F",
+      "title": "ドリテック(dretec) 勉強タイマー タイムアップ2 消音 T-587GN グリーン",
+      "url": "https://www.amazon.co.jp/dp/B07ZNF656F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07ZNF656F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/619st49YwrL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "サイズ：W6×D8×H2.3cm"
+      ],
+      "maker": "dretec",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 4505,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-14",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0FQ2MJJSJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:23:05+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08HWCWY6Z",
+      "title": "【TickTime・新時代のデジタルタイマー】 正六角柱 ポモドーロタイマー キッチンタイマー キューブタイマー 勉強 会議 スポーツテスト",
+      "url": "https://www.amazon.co.jp/dp/B08HWCWY6Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08HWCWY6Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61-BQADyXRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【クリエイティブキューブデザイン】: Ticktimeタイマーには6つのプリセットタイミングモジュール、3/5/10/15/25/30分があります。 左右を自由にフリップして対応する期間のカウントダウンモードに素早く切り替えることができ、クイックスタートカウントダウンと便利な使用で、貴重な時間を節約できます。 ユニークなキューブデザイン、斬新で面白い、時間管理に夢中になります。",
+        "【タイミングモード】: このキューブタイマーはデュアルモードカウントとカウントダウンをサポートし、最大時間は99:59です。 6 プリセットカウントダウンのほかに、カスタムカウントダウン機能も備わっており、非常に柔軟で効果的で、さまざまなカウントダウンニーズを満たします。",
+        "【時間を効率的に管理】: 毎日の勉強、フィットネスヨガ、仕事会議、キッチン料理などに最適なポモドーロタイマー。 このタイマーは幅広く使用されており、生活のあらゆる場面に適しており、分と秒を無駄にすることなく時間をコントロールできます。",
+        "【クリアディスプレイ&amp;音量調整可能】: 当社の子供用タイマーは、HD LCDデジタルスクリーンを採用しており、クリアなインターフェース表示で、時間、音量、バッテリー残量、その他の情報を簡単に読み取ることができます。 5 段階の音量調整が可能で、様々な場面で適切な音量を選択して、様々なニーズを満たすことができます。",
+        "【コンパクト&amp;耐久性】: 41 x 47 x 45mm コンパクトサイズ + 52g 軽量、手のひらサイズ、ポケットに入れやすく、持ち運びやすい。 このティックタイムは、効率的に時間を利用し、管理するのに役立ちます。 電気メッキグレードのABS素材を使用しており、滑らかな質感で、滑り止めと耐摩耗性があり、より耐久性があり、長持ちします。 製品が十分な電力を持っていることを確認するために、最初の使用の前に10~12時間充電してください。",
+        "《新機能》 1.TYPE-C充電 2.【自動電源オフ機能】 誤触防止、節電になります。 3.【カスタムタイマー設定(メモリ機能)】 タイマーLED画面を上向きにした場合、いずれかのキーを押して、メモリー機能を起こて、最近設定したカスタムカウントダウンが表示されます。もう一度いずれかのキーを押すと をクリックすると、新しいカスタムカウントダウンが入力されます。"
+      ],
+      "maker": "TickTime",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 2092,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-17",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0GS12YBN2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:23:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B00DAM5L1S",
+      "title": "タニタ 勉強 学習 タイマー ストラップ付き バイブレーション機能 24時間 ホワイト TD-370N WH",
+      "url": "https://www.amazon.co.jp/dp/B00DAM5L1S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B00DAM5L1S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51p86O6ybGL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "サイズ:幅38×奥行55×高さ15mm",
+        "本体重量:約25g (電池含む、ストラップ除く)",
+        "素材・材質:ABS(アクリロニトリル・ブタジエン・スチレン)樹脂、AS(アクリロニトリルスチレン)樹脂、シリコンゴム",
+        "原産国:中国",
+        "付属品:ストラップ×1本、お試し用電池(CR-2032電池)×1個"
+      ],
+      "maker": "TANITA",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 1963,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-21",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B07L6QZS6H",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:23:21+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BK2J71M1",
+      "title": "Time Timer TIME TIMER MOD Home Edition 9cm 60分 タイムタイマー モッド フェルングリーン 時間管理 TTM9-HFG-W 正規品",
+      "url": "https://www.amazon.co.jp/dp/B0BK2J71M1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BK2J71M1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61LI3wAAi6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "世界30ヶ国以上、販売実績30年以上の歴史あるTime Timer社のオリジナル タイムタイマー。時間管理にピッタリ! お子さまの学習用アラームに、職場でのタスク管理に、キッチンタイマーとして、スクールタイマーとして、などマルチに活躍します。",
+        "スタイリッシュなカラーとデザインのタイムタイマーモッド限定カラー (フェルングリーン) です。売り上げの１％は、インクルーシブ教育への取り組みのサポートとして使われます。※カバー別売り (Time Timer MOD Home Edition 専用カバーをご利用ください)",
+        "集中した時間を作りたい時や、時間をキッチリ決めて行動したい時に活躍するTimeTimerは、時計が読めない子ども・時間管理が苦手な子供や発達障害の人・時間を有効に使いたい大人まで、あらゆる人の時間を管理してくれる見えるタイマーです。",
+        "自宅や学校、オフィス等、多様なシーンで活躍するタイムタイマーは、学習タイマー・スクールタイマー・会議タイマー・ゲームタイマー・キッチンタイマーなど、勉強や仕事だけでなく、あらゆる日常(食事・支度等)のタスクタイマーとして時間を管理することができます。",
+        "60分タイマー / アラームON OFF機能付き / パッケージサイズ : 約 幅 9.8cm x 高さ 9.8cm x 奥行き 6.2cm / 本体サイズ : 約 幅 8.8cm x 高さ 8.8cm x 奥行き 5.0cm / 電池種別 : 単3電池 x 1本 (電池は別途ご用意ください)"
+      ],
+      "maker": "TIME TIMER",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 1799,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名TIME TIMERの正規名（Timeへの途中切断を修正）",
+      "scope_pending": [],
+      "parent_asin": "B0DQ54CJLY",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:23:28+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BB5WSKPF",
+      "title": "ドリテック(dretec) 大画面タイマー 機能が豊富な6キー 時計表示の切り替えも可能 料理 キッチン マグネット デジタル シャボン6 ホワイト 卓上に置いても壁掛けでもマグネットでくっつけても使用可能 学習 勉強用",
+      "url": "https://www.amazon.co.jp/dp/B0BB5WSKPF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BB5WSKPF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51GetivRoRL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "【機能性に優れたタイマー】料理や勉強など時間を管理したい時に役立つdretec(ドリテック)のデジタルタイマー「シャボン10」。充実したタイマー機能に加えて、表示が見やすい大画面タイプ。さらに、独立した10キーボタンでタイマーセットもらくらく! 誰でも簡単に使えるので、子どもの学習用としてもおすすめです。",
+        "【充実した機能】カウントアップ、カウントダウン機能で時間の管理もお任せ! アラームを止めるとセットしていた時間に自動で戻るので、ストレッチなどの繰り返し使用したい場合に役立つ機能付き。",
+        "【マグネット付きで冷蔵庫にも】3wayで使えるスタンド、強力磁石、フック穴付き。用途に合わせて目のつく場所に置いたり、掛けたりすることができるため使いやすさ抜群!",
+        "【シンプルでおしゃれなデザイン】シンプルなフォルムですが、角が丸いので優しい印象に。飽きのこないおしゃれなデザインです。",
+        "■ 立てかけスタンド付 ■ 壁掛けフック付 ■ 取り付け便利な強力マグネット付"
+      ],
+      "maker": "dretec",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 1694,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-17",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0DVGH9VCB",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:23:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B004KSRN3K",
+      "title": "タニタ(Tanita) キッチン 勉強 学習 タイマー マグネット付き 大画面 100分 ホワイト TD-395 WH でか見えプラスタイマー",
+      "url": "https://www.amazon.co.jp/dp/B004KSRN3K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B004KSRN3K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51UpWdiTu8L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "サイズ:4.8×13.35×1.7cm",
+        "本体重量:約73g",
+        "素材・材質:ABS(アクリロニトリル・ブタジエン・スチレン)樹脂",
+        "原産国:中国",
+        "付属品:取扱説明書(保証書)、CR2032電池×1個(お試し用)"
+      ],
+      "maker": "TANITA",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 1516,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-08",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B07L6NYQ36",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:23:44+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07X2QHVDW",
+      "title": "ソニック 時っ感タイマー トキ・サポ 10cm 時間経過を実感 アイボリー LV-3062-I",
+      "url": "https://www.amazon.co.jp/dp/B07X2QHVDW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07X2QHVDW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51gJipxzg0S._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "じかんを意識してやる気・集中力を高められる。タイマー式学習法トキ・サポ!",
+        "めざせ! 集中力UP!タイマー式学習法はやわかりガイドブックつき。",
+        "カラーは3展開。それぞれのフィルムカラーは集中イメージの青! やる気イメージの赤! 落ち着きイメージの緑!",
+        "【電子アラーム】鳴動時間:最短3秒⇔最長60秒(2段階調節)",
+        "【設定可能時間】最大:60分 【音量】最小:約55dB⇔最大:約65dB(2段階調節)",
+        "0時間の経過とともにフィルムが回転、色面が減っていくので、時間の経過を視覚的に実感できます。 時計が読めない、時間感覚がまだ身についていないこどもにもおすすめ。 カウントダウン終了を「ピピピッ♪」の電子音でお知らせします。カウントダウン中はカチカチ音が気にならない静音作動設計。 ダイヤルを回してセットするだけ! こどもでもカンタン操作♪ 持ち運び、収納しやすいサイズのコンパクトタイプ。見やすい角度で自立します。"
+      ],
+      "maker": "SONIC",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 2978,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-05-12",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0CVQ6KS33",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:23:52+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B087S3YKH7",
+      "title": "無印良品 ダイヤル式キッチンタイマー TD‐393 82248296",
+      "url": "https://www.amazon.co.jp/dp/B087S3YKH7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B087S3YKH7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61vvTqUWpfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "原産国･地域:中国",
+        "仕様･混率:サイズ:φ62×23mm 使用電池:CR2032コイン形リチウム電池×1(付属)",
+        "外寸:約直径6.2×高さ2.3cm",
+        "容量:59g",
+        "部材ごとの素材:本体ケース:ABS、レンズ:PMMA"
+      ],
+      "maker": "無印良品",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 1077,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-14",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B08P5H7QN5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:24:00+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08K9FQ92S",
+      "title": "Time Timer タイムタイマー(TIME TIMER) 勉強タイマー MOD Home Edition モッド コットンホワイト 9cm 60分 学習アラーム TTM9-HCW-W",
+      "url": "https://www.amazon.co.jp/dp/B08K9FQ92S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08K9FQ92S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61mzqXmbKmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "世界30ヶ国以上、販売実績30年以上の歴史あるTime Timer社のオリジナル タイムタイマー。時間管理にピッタリ! お子さまの学習用アラームに、職場でのタスク管理に、キッチンタイマーとして、スクールタイマーとして、などマルチに活躍します。",
+        "スタイリッシュなカラーとデザインのタイムタイマーモッド限定カラー (コットンホワイト) です。売り上げの１％は、インクルーシブ教育への取り組みのサポートとして使われます。※カバー別売り (Time Timer MOD Home Edition 専用カバーをご利用ください)",
+        "集中した時間を作りたい時や、時間をキッチリ決めて行動したい時に活躍するTimeTimerは、時計が読めない子ども・時間管理が苦手な子供や発達障害の人・時間を有効に使いたい大人まで、あらゆる人の時間を管理してくれる見えるタイマーです。",
+        "自宅や学校、オフィス等、多様なシーンで活躍するタイムタイマーは、学習タイマー・スクールタイマー・会議タイマー・ゲームタイマー・キッチンタイマーなど、勉強や仕事だけでなく、あらゆる日常(食事・支度等)のタスクタイマーとして時間を管理することができます。",
+        "60分タイマー / アラームON OFF機能付き / 本体サイズ : 約 幅 8.8cm x 高さ 8.8cm x 奥行き 5.0cm / 電池種別 : 単3電池 x 1本 (電池は別途ご用意ください) ※ パッケージのイラストや写真と実際の商品は改良により多少異なる場合があります。あらかじめご了承ください。"
+      ],
+      "maker": "TIME TIMER",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 838,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-08",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名TIME TIMERの正規名（Timeへの途中切断を修正）",
+      "scope_pending": [],
+      "parent_asin": "B0DQ54CJLY",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:24:07+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08KRMQT5S",
+      "title": "ソニック 時っ感タイマー トキ・サポ 時計プラス LV-3521-MB",
+      "url": "https://www.amazon.co.jp/dp/B08KRMQT5S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08KRMQT5S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51TGnHczL3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "時間を意識してやる気・集中力を高められる！タイマー式学習法トキ・サポ！",
+        "時間経過を色で実感できる！",
+        "カウントダウン終了を「ピピピッ♪」の電子音でお知らせ！",
+        "タイマーのカチカチ音、時計の秒針音が気にならない、W静音作動設計。",
+        "タイマー式学習法はやわかりガイドブック、生活リズム表つき。"
+      ],
+      "maker": "SONIC",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 1031,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-22",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0F36VXW8G",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:24:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F1SDQQ83",
+      "title": "EooCoo ポモドーロタイマー小型 ビジュアルポモドーロタイマー 重力付き カウントアップタイマー5/10/25/50分 充電式生産性ツール搭載無音モード 勉強、仕事、キッチン、教室、ADHD、ジム、ヨガ、大学の学用品に 時間管理習慣 勉強道具 クールなガジェット、ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0F1SDQQ83?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F1SDQQ83?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ltlcafzIL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【お客様サポート】 - 1年間の保証サービスを提供し、品質に問題があった場合は、メールでご連絡いただければ、24時間以内に返信し、無料で返金または再発送の対応をいたします。お客様の問題が迅速に解決されるよう、カスタマーサポートチームは全力でサポート",
+        "【かざすだけ操作】ボタンいらずの簡単スタート： 重力センサーを搭載したコンパクトなタイマーです。勉強タイマー 置く向きを変えるだけで、すぐにスタート・一時停止・再開が可能。ポモドーロタイマー 4つのプリセット時間（5/10/25/50分）も簡単に切り替えられます。毎回ボタンを押したり設定し直す手間がなく、究極の便利さを実現。取扱説明書も付属しているので タイマー 勉強、お子様からご年配の方まで、どなたでも迷わずお使いいただけます",
+        "【USB-C充電式タイムタイマー】電池不要&amp;長期間の使用に安心： 高品質で耐衝撃性のある素材を使用。電池は不要で、付属のType-Cケーブル（お手持ちのスマートフォンと共有可）で充電できます。満充電後、通常の使用で数週間の連続使用が可能。0〜99分まで自由に設定できるほか、4つのデフォルトモードを搭載。無音タイマー1分間操作がないと自動でスタンバイ画面になり、うっかり消し忘れによる電池切れの心配もありません",
+        "【コンパクトで見やすい-ビジュアルタイマー】視覚的にわかるLED表示： インターバルタイマー 手のひらにすっぽり収まるコンパクトサイズで、スタンドなしでも安定して置けます。LEDディスプレイはカウントダウンとともに光のリングが縮んでいくので、暗い場所でも、音を出せない場所でも、一目で残り時間が把握できます。カウントダウンに加えて、ストップウォッチ（カウントアップ）機能も備えており、デジタル表示でわかりやすくお知らせします",
+        "【多彩なシーンで活躍実感タイマー】毎日のルーティンに役立つ多機能設計： オフィス、教室-学習タイマー、キッチン、ジムなど、あらゆる場面でご活用いただけます。会議、スポーツ、料理、タイマー作業に最適。最後に設定した時間は記憶されるので、日々のルーティン（仕事、学習、筋トレ、歯磨き、寝かしつけ、瞑想など）で毎回設定する手間が省けます。大人のADHD支援ツールとしても理想的で、シンプルな表示が集中力を妨げず、優しいアラームがスムーズなタスク切り替えをサポートします",
+        "【カウントアップ / カウントダウンこれ一台】集中とリセットを促すクールなガジェット： このキューブ型タイマーをひっくり返し、落ち着いた光の流れに目を向けるだけで、自然と心が整います。これは単なるタイマーではなく、ポケットサイズの「心のリセット空間」。必要な時にいつでも、手軽にマインドフルネスの時間を取り入れることができる、あなたのためのクールなガジェットです"
+      ],
+      "maker": "EooCoo",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 457,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-06",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0D6385QR6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:24:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H19Y9ZTG",
+      "title": "キングジム 残り時間が一目でわかる「ビジュアルバータイマー プラス」 カラー バックライト 黒 VBT20-BK",
+      "url": "https://www.amazon.co.jp/dp/B0H19Y9ZTG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H19Y9ZTG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51CFhjPM8KL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "●外寸：約W152×D28×H36㎜●質量：約110g●主な材質：ABS",
+        "●仕様 ・表示方法　液晶デジタル（ネガティブ液晶）、タイマー桁数：5桁、目盛り個数：20個 ・タイマー 　通常計測　　　　カウントダウン：最大計測時間199分50秒 　　　　　　　　　カウントアップ：最大計測時間199分59秒 リピート計測　　 カウントダウン：最大計測時間199分50秒 　　　　　　　　　リピート数：作業時間：最大99回、休憩時間：最大98回",
+        "・アラーム作動時間　通常計測：約10秒　 　　　　　　　　　　リピート計測：計測切り替わり時：約3秒 　　　　　　　　　　計測完了時：約10秒　※消音切換え可能",
+        "・電源※使用状況によって異なります。：リチウムイオンバッテリー（Type-C 給電）連続使用時間：約200日（1日10秒×3回アラーム作動時）充電時間：約3.5時間※バッテリーが空の状態から満充電までにかかる時間●動作環境：温度5～35℃ 湿度30～80%（非結露）●保存環境：温度-10～50℃ 湿度5～80%（非結露）●セット内容：VBT20本体、充電ケーブル1m（USB Type-A/Type-C）、取扱説明書（保証書付）",
+        "【ご使用上の注意】本製品は屋内専用です。屋外で使用しないでください。本製品は防水・防塵仕様ではありません。直接日光の当たる場所や、高温・多湿の場所での使用または保管はしないでください。本製品は日本国内専用です。商品の見直しなどのため、仕様・価格・デザインその他は予告なく変更する場合があります。商品の色は実際の色とは異なって見えることがあります。"
+      ],
+      "maker": "キングジム",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 371,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-06",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名キングジム/Kingjim正規化",
+      "scope_pending": [],
+      "parent_asin": "B0DMN7YBK9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:24:30+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H19Z1X5L",
+      "title": "キングジム 残り時間が一目でわかる「ビジュアルバータイマー プラス」 カラー バックライト 白 VBT20-W",
+      "url": "https://www.amazon.co.jp/dp/B0H19Z1X5L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H19Z1X5L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/519M3J4BVgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "●外寸：約W152×D28×H36㎜●質量：約110g●主な材質：ABS",
+        "●仕様 ・表示方法　液晶デジタル（ネガティブ液晶）、タイマー桁数：5桁、目盛り個数：20個 ・タイマー 　通常計測　　　　カウントダウン：最大計測時間199分50秒 　　　　　　　　　カウントアップ：最大計測時間199分59秒 リピート計測　　 カウントダウン：最大計測時間199分50秒 　　　　　　　　　リピート数：作業時間：最大99回、休憩時間：最大98回",
+        "・アラーム作動時間　通常計測：約10秒　 　　　　　　　　　　リピート計測：計測切り替わり時：約3秒 　　　　　　　　　　計測完了時：約10秒　※消音切換え可能",
+        "・電源※使用状況によって異なります。：リチウムイオンバッテリー（Type-C 給電）連続使用時間：約200日（1日10秒×3回アラーム作動時）充電時間：約3.5時間※バッテリーが空の状態から満充電までにかかる時間●動作環境：温度5～35℃ 湿度30～80%（非結露）●保存環境：温度-10～50℃ 湿度5～80%（非結露）●セット内容：VBT20本体、充電ケーブル1m（USB Type-A/Type-C）、取扱説明書（保証書付）",
+        "【ご使用上の注意】本製品は屋内専用です。屋外で使用しないでください。本製品は防水・防塵仕様ではありません。直接日光の当たる場所や、高温・多湿の場所での使用または保管はしないでください。本製品は日本国内専用です。商品の見直しなどのため、仕様・価格・デザインその他は予告なく変更する場合があります。商品の色は実際の色とは異なって見えることがあります。"
+      ],
+      "maker": "キングジム",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 371,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-14",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名キングジム/Kingjim正規化",
+      "scope_pending": [],
+      "parent_asin": "B0DMN7YBK9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:24:41+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CWR2368W",
+      "title": "キングジム(Kingjim) ビジュアルバータイマー 白 サイズ：約W13.2 D2.1 H2.9 VBT10-W",
+      "url": "https://www.amazon.co.jp/dp/B0CWR2368W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CWR2368W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51-+u8jjByL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "表示方法：液晶デジタル/タイマー桁数：4桁/目盛り個数：20個/【タイマー】（通常計測）カウントダウン：最大計測時間99分50秒、カウントアップ：最大計測時間99分59秒（リピート計測）カウントダウン：最大計測時間99分50秒、リピート数（作業時間）最大99回/（休憩時間）最大98回/【アラーム作動時間（※消音切り替え可能）】（通常計測）約10秒、（リピート計測）計測切り替わり時：約3秒・・計測完了時：約10秒/電源：単4形アルカリ乾電池×2本(別売)/電池寿命：約2年間(1日10秒×3回アラーム作動時)※使用状況により異なります/動作環境：温度5～35℃ 湿度30～80%(非結露)/外寸：約132(W)×21(D)×29(H)mm/質量：約56g(乾電池を含まず)/セット内容：VBT10 本体/ 取扱説明書(保証書付)/屋内専用です。屋外で使用しないでください。/防水・防塵仕様ではありません。/本製品は日本国内専用です。This product is for use only in Japan./直接日光の当たる場所や、高温・多湿の場所での使用または保管はしないでください。"
+      ],
+      "maker": "キングジム",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 371,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-17",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名キングジム/Kingjim正規化",
+      "scope_pending": [],
+      "parent_asin": "B0DMN7YBK9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:24:48+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08N69YXD5",
+      "title": "Canon クロックタイマー キッチンタイマー 抗菌 マグネット 大型液晶 白 CT-50-WH タイマー 学習/勉強",
+      "url": "https://www.amazon.co.jp/dp/B08N69YXD5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08N69YXD5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61CPd9fIBeL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "2.2センチ×6.4センチの大型液晶を搭載した、数字の見やすいクロックタイマー",
+        "細菌の増殖を抑制する抗菌仕様",
+        "操作音やアラーム音のオン・オフができ、音が出せない場所でも使いやすい",
+        "23時間59分までタイマー設定可能・カウントアップ機能・クロック機能",
+        "マグネット・スタンド・クリップ・ストラップと4種類の取り付け方法が可能"
+      ],
+      "maker": "Canon",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 269,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-05-12",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B08NXN5ZNS",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:24:57+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CTT1KPKM",
+      "title": "ソニック タイマー スティックルタイマー ダイヤル式 ホワイト SP-8327-W",
+      "url": "https://www.amazon.co.jp/dp/B0CTT1KPKM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CTT1KPKM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Ur6NV+9RL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "持ち運びやすいコンパクトなスティック型タイマー くるくる→ピッ！でスタートできる。",
+        "直感ダイヤル設定 ３つの角度で置けて、画面がはっきり見える。",
+        "商品:93×30×22mm パッケージ:155×47×28mm",
+        "主要材質＝本体＝ABS"
+      ],
+      "maker": "SONIC",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 297,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-17",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0FNKQXB3B",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:25:06+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CPHKY182",
+      "title": "MAG(マグ) タイマー キッチン 勉強 学習 会議 音量切り替え 消音 無音 ライト デジタル 時計表示 置き掛け兼用 マグネット 磁石 ブラック ヒカルン TM-608A BK-Z ノア精密",
+      "url": "https://www.amazon.co.jp/dp/B0CPHKY182?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CPHKY182?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51jR0QVxWXL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "機能:カウントダウン(最大99分50秒)、カウントアップ(最大99分59秒)、リピート機能、一時停止機能、アラーム音量切替(大・小・消音(ライトが点滅))、時刻表示、12/24時間表示切替、本体裏マグネット付き、ストラップホール、置き掛け兼用(自立スタンド内蔵)",
+        "推奨電池:単4アルカリ乾電池×2(別売)",
+        "本体サイズ:(約)高さ6.5×幅9.5×奥行き2.5cm",
+        "本体重量:(約)75g",
+        "液晶表示が大きく、カウントアップもダウンも計測できるデジタルタイマー"
+      ],
+      "maker": "MAG",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 251,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-14",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0F2S2F32K",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:25:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DPFZVF28",
+      "title": "ドリテック(dretec) 3ランプタイマー キッチンタイマー 無音 光る 光 シンプル 勉強 キッチン 子供 かわいい 強力マグネット 大音量 おしゃれ デジタルタイマー 学習 タイマー ピンク",
+      "url": "https://www.amazon.co.jp/dp/B0DPFZVF28?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DPFZVF28?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/619feZ2kT8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ランプでお知らせ】設定時は緑、1/3経過で青、3/2経過で赤へランプの色が変わります。見ただけですぐにどのくらい時間が経ったのかわかりやすい！耳が不自由な方や騒がしい場所で音だと聞こえずらい時に便利なタイマーです。"
+      ],
+      "maker": "dretec",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 225,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-14",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0DRNM3H24",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:25:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DM3CY7L6",
+      "title": "TIME TIMER MOD Home Edition 9cm 60分 タイムタイマー モッド メタリック ミッドナイト 時間管理 学習タイマー TTM9-HMM-W 正規品",
+      "url": "https://www.amazon.co.jp/dp/B0DM3CY7L6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DM3CY7L6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61t9+FZVbSL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "世界30ヶ国以上、販売実績30年以上の歴史あるTime Timer社のオリジナル タイムタイマー。時間管理にピッタリ! お子さまの学習用アラームに、職場でのタスク管理に、キッチンタイマーとして、スクールタイマーとして、などマルチに活躍します。",
+        "Time Timer MOD Home Editionから新カラーが登場！メタリックミッドナイト(Metallic Midnight)は、60分までセットできるタイムタイマーです。ディスク部分がメタリック調になっていておしゃれなデザインのタイムタイマー。落ち着いたダークなツートンカラーで、お仕事中のデスクの上や、お部屋のインテリアとしても最適です。また、売り上げの１％は、インクルーシブ教育への取り組みのサポートとして使われます。※カバー別売り (Time Timer MOD Home Edition 専用カバーをご利用ください)",
+        "集中した時間を作りたい時や、時間をキッチリ決めて行動したい時に活躍するTimeTimerは、時計が読めない子ども・時間管理が苦手な子供や発達障害の人・時間を有効に使いたい大人まで、あらゆる人の時間を管理してくれる見えるタイマーです。",
+        "自宅や学校、オフィス等、多様なシーンで活躍するタイムタイマーは、学習タイマー・スクールタイマー・会議タイマー・ゲームタイマー・キッチンタイマーなど、勉強や仕事だけでなく、あらゆる日常(食事・支度等)のタスクタイマーとして時間を管理することができます。",
+        "60分タイマー / アラームON OFF機能付き / パッケージサイズ : 約 幅 9.8cm x 高さ 9.8cm x 奥行き 6.2cm / 本体サイズ : 約 幅 8.8cm x 高さ 8.8cm x 奥行き 5.0cm / 電池種別 : 単3電池 x 1本 (電池は別途ご用意ください)"
+      ],
+      "maker": "TIME TIMER",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 226,
+      "star_rating": 3.7,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名TIME TIMERの正規名（Timeへの途中切断を修正）",
+      "scope_pending": [],
+      "parent_asin": "B0DQ54CJLY",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:25:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07X3TVTW8",
+      "title": "ソニック デジタルタイマー トキ・サポ 光ってお知らせ ホワイト LV-3051-W",
+      "url": "https://www.amazon.co.jp/dp/B07X3TVTW8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07X3TVTW8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/515Hkdxc3NL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "じかんを意識してやる気・集中力を高められる！タイマー式学習法トキ・サポ！",
+        "テスト勉強・受験勉強に使える！",
+        "【アラーム】電子音⇔LEDライトの切り替え式/アラーム鳴動時間 約60秒",
+        "【設定時間】〇カウントダウン時 最大99分50秒　最小10秒　〇カウントアップ時 最大99分59秒",
+        "【音量】約55dB～65dB"
+      ],
+      "maker": "SONIC",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 199,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-14",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "scope_pending": [],
+      "parent_asin": "B07X4F7T1R",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:25:42+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CNWXDFH5",
+      "title": "HATUSOKU サイレントモード搭載 光るタイマー キッチン 勉強 学習 マグネット スタンド 吊り下げ (ホワイト)",
+      "url": "https://www.amazon.co.jp/dp/B0CNWXDFH5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CNWXDFH5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/618txL2bAEL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "【機能的なタイマー】料理時のキッチンタイマーや勉強用・学習用のタイマーとして役立つ機能的なタイマーです。カウントアップとカウントダウンの2通りの計測ができます。",
+        "【サイレントモード搭載】光で時間お知らせするサイレントモード搭載で、勉強タイマーや学習タイマーとしての活用、静かな場所での利用におすすめです。サイレントモードで設定する際、設定音はしません。",
+        "【3通りの設置方法】設置方法は、キッチンでの利用に便利な「マグネット」、デスクに立てて置ける「スタンド」、壁掛けなどを可能にする「吊り下げ」の3通りに対応しています。",
+        "【シンプル＆スマートデザイン】シンプルデザインでインテリアになじみます。また、厚さ1.4cmとスマートな邪魔になりにくい薄型仕様です。",
+        "【仕様】サイズ：7.3×6.7×1.4cm 重量：51.5g 最長計測時間：99分59秒"
+      ],
+      "maker": "HATUSOKU",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 160,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-14",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0CNX5M97R",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:25:51+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FDJCMTH3",
+      "title": "GeeRic ビジュアルタイマー 60分タイマー 勉強用デスクタイマー 教室 キッチン用 カウントダウンタイマー 子供用タイムマネージャーツール アラーム",
+      "url": "https://www.amazon.co.jp/dp/B0FDJCMTH3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FDJCMTH3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61a83yNZ2DL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "商品仕様: 本体サイズ : 約 幅 9.5cm x 高さ 9.5cm x 奥行き 4.0cm / 電池種別 : 単3電池 x 1本 (電池は別途ご用意ください)",
+        "効率的な時間管理ツール: 視覚タイマーは理想的なツールです。色のついた円盤が消え、時間がはっきり消えるので、時間が目に見えるように感じられます。時間を感じることで、勉強や仕事を効率的に進めることができます。",
+        "簡単な操作: タイマーの中間つまみを回して、もう何もしません。カラーディスクが「0」になったら終了です。その後、ベルが鳴り、時間の終了を知らせます。",
+        "広い応用: 自宅や学校、オフィス等、多様なシーンで活躍するタイムタイマーは、学習(勉強)・ゲーム・スマホ・仕事・あらゆる日常(食事・支度等)の時間を管理することができます。",
+        "品質保証付き: 万が一商品に不具合がある場合はお気軽に当店までご連絡ください。自然故障の場合保証（交換、全額返金にて対応）いたします。"
+      ],
+      "maker": "GeeRic",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 160,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-18",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FKH5298V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:25:59+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FN72BY4W",
+      "title": "GeeRic ビジュアルタイマー 60分 勉強用デスクタイマー 教室 キッチン用 カウントダウンタイマー 子供用タイムマネージャーツール アラーム",
+      "url": "https://www.amazon.co.jp/dp/B0FN72BY4W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FN72BY4W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61aacz4GslL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "商品仕様: 本体サイズ : 約 幅 9.5cm x 高さ 9.5cm x 奥行き 4.0cm / 電池種別 : 単3電池 x 1本 (電池は別途ご用意ください)",
+        "効率的な時間管理ツール: 視覚タイマーは理想的なツールです。色のついた円盤が消え、時間がはっきり消えるので、時間が目に見えるように感じられます。時間を感じることで、勉強や仕事を効率的に進めることができます。",
+        "簡単な操作: タイマーの中間つまみを回して、もう何もしません。カラーディスクが「0」になったら終了です。その後、ベルが鳴り、時間の終了を知らせます。",
+        "広い応用: 自宅や学校、オフィス等、多様なシーンで活躍するタイムタイマーは、学習(勉強)・ゲーム・スマホ・仕事・あらゆる日常(食事・支度等)の時間を管理することができます。",
+        "品質保証付き: 万が一商品に不具合がある場合はお気軽に当店までご連絡ください。自然故障の場合保証（交換、全額返金にて対応）いたします。"
+      ],
+      "maker": "GeeRic",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 160,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-18",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FKH5298V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:26:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B001E1E96U",
+      "title": "セイコー クロック デジタル タイマー 分表示 薄茶 MT603B SEIKO",
+      "url": "https://www.amazon.co.jp/dp/B001E1E96U?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B001E1E96U?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/617+vH5XQKL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "本体サイズ:66×55×13mm",
+        "重量:25g",
+        "付属品:電池(LR44)/ひも",
+        "機能:電子音/分秒英語表示(99分計測)/アラームオートストップ機能(約16秒間)/ポーズ機能/リピート機能"
+      ],
+      "maker": "セイコー",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 134,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B07D1BJXW4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:26:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07KGH6B81",
+      "title": "TimeCube Plus プリセット タイマー LEDライト4つ/アラーム付き 時間の管理用 カウントダウン設定 (ホワイト - 5分 15分 30分 60分)",
+      "url": "https://www.amazon.co.jp/dp/B07KGH6B81?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07KGH6B81?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61zJ7mfTglL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "子供用タイマー： 勉強、宿題、画面を見ている時間、集中トレーニング、目で見る時間の学習に、またトイレトレーニングにも最適です。",
+        "使いやすいタイマー - Time Cubeの希望の時間面を上にして置くと、カウントダウンが始まります。一時停止機能とカウントダウン再開があり、使いやすいタイマーです。",
+        "3通りのアラームオプションやサイレント - 大きなブザーや小さなブザーのアラーム、4つの青色LEDライトのサイレントアラーム、またアラームとライトの併用からお選びいただけます。教室、オフィス、ジム、図書館、キッチンに最適です。",
+        "見て分かるLCDディスプレイ - 液晶ディスプレイの大きなカウントダウンウィンドウは、キューブの向きに合わせて回転します。これまでになくカウントダウンを確認しやすいディスプレイです。",
+        "流行のデザイン・色のセレクション - 8色、プリセットのカウントダウンからTimeCubeをお選びいただけます。ご家族全員、職場のチーム、ジムのパートナー、クラスの生徒の時間の計測ニーズに合わせてカスタマイズすることができます。"
+      ],
+      "maker": "TimeCube",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 1387,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0D2KVMDDH",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:26:26+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08K9FG8Y7",
+      "title": "TIME TIMER MOD Home Edition 9cm 60分 タイムタイマー モッド シルクオレンジ 時間管理 学習タイマー TTM9-HDO-W 正規品",
+      "url": "https://www.amazon.co.jp/dp/B08K9FG8Y7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08K9FG8Y7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61fW0CcpPQL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "世界30ヶ国以上、販売実績30年以上の歴史あるTime Timer社のオリジナル タイムタイマー。時間管理にピッタリ! お子さまの学習用アラームに、職場でのタスク管理に、キッチンタイマーとして、スクールタイマーとして、などマルチに活躍します。",
+        "スタイリッシュなカラーとデザインのタイムタイマーモッド限定カラー (シルクオレンジ) です。売り上げの１％は、インクルーシブ教育への取り組みのサポートとして使われます。※カバー別売り (Time Timer MOD Home Edition 専用カバーをご利用ください)",
+        "集中した時間を作りたい時や、時間をキッチリ決めて行動したい時に活躍するTimeTimerは、時計が読めない子ども・時間管理が苦手な子供や発達障害の人・時間を有効に使いたい大人まで、あらゆる人の時間を管理してくれる見えるタイマーです。",
+        "自宅や学校、オフィス等、多様なシーンで活躍するタイムタイマーは、学習タイマー・スクールタイマー・会議タイマー・ゲームタイマー・キッチンタイマーなど、勉強や仕事だけでなく、あらゆる日常(食事・支度等)のタスクタイマーとして時間を管理することができます。",
+        "60分タイマー / アラームON OFF機能付き / 本体サイズ : 約 幅 8.8cm x 高さ 8.8cm x 奥行き 5.0cm / 電池種別 : 単3電池 x 1本 (電池は別途ご用意ください) ※ パッケージのイラストや写真と実際の商品は改良により多少異なる場合があります。あらかじめご了承ください。"
+      ],
+      "maker": "TIME TIMER",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 1615,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名TIME TIMERの正規名（Timeへの途中切断を修正）",
+      "scope_pending": [],
+      "parent_asin": "B0DQ54CJLY",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:26:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BCJNNR2H",
+      "title": "ドリテック(dretec) スタディエッグ インターバルタイマー 勉強 繰り返し スポーツ トレーニング スポーツ 時計 消音 光でお知らせ T-601 ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0BCJNNR2H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BCJNNR2H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51+NziC1kCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "勉強と休憩の時間をそれぞれ設定できるインターバルタイマー機能を搭載。長時間勉強するよりも短時間で勉強と休憩を繰り返した方が集中を維持することができます。",
+        "インターバルタイマーは勉強だけでなく、筋トレやトレーニング、プレゼンなどの時間の管理にもおすすめです。",
+        "勉強時間を測定できるカウントアップ機能を搭載。受験や資格などのテスト本番を意識たトレーニングに最適です。",
+        "画面を見なくても、設定した時間になると光と音でお知らせします。図書館や自習室、夜間でも使えるように音量は消音にも切り替え可能です。",
+        "スタート/ストップボタンが上部にあるので、使用中も操作がしやすくなっています。現在の時刻を表示する時計モードやアラーム設定も可能です。"
+      ],
+      "maker": "dretec",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 473,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0FNPB6K8Y",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:26:45+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DYH2Q6N6",
+      "title": "ソニック タイマー トキ・サポ 時っ感タイマー 時計プラス 色で時間の経過を実感 エコ包装 バイオレット LVL-1898-V",
+      "url": "https://www.amazon.co.jp/dp/B0DYH2Q6N6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DYH2Q6N6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/512CU1YPe5L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "じかんを意識してやる気・集中力を高められる。タイマー式学習法トキ・サポ！ 時間経過を色で実感できる！",
+        "【サイズ】商品：192×102×51mm、パッケージ：107×197×56mm",
+        "主要材質＝ABS",
+        "カウントダウン終了を「ピピピッ！」の電子音でお知らせ！",
+        "タイマーのカチカチ音、時計の秒針音が気にならない、W静音作動設計。 限定カラー。"
+      ],
+      "maker": "SONIC",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 1031,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0F36VXW8G",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:26:53+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DYHWJ9Y2",
+      "title": "ソニック タイマー トキ・サポ 時っ感タイマー 時計プラス 色で時間の経過を実感 エコ包装 ホワイト LVL-1898-W",
+      "url": "https://www.amazon.co.jp/dp/B0DYHWJ9Y2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DYHWJ9Y2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Fw0DhzkgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "じかんを意識してやる気・集中力を高められる。タイマー式学習法トキ・サポ！ 時間経過を色で実感できる！",
+        "【サイズ】商品：192×102×51mm、パッケージ：107×197×56mm",
+        "主要材質＝ABS",
+        "カウントダウン終了を「ピピピッ！」の電子音でお知らせ！",
+        "タイマーのカチカチ音、時計の秒針音が気にならない、W静音作動設計。 限定カラー。"
+      ],
+      "maker": "SONIC",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 1031,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0F36VXW8G",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:27:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F3X42BWY",
+      "title": "ドリテック(dretec) 勉強タイマー タイムアップ2 消音 T-587 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0F3X42BWY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F3X42BWY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61xmxkLaxOL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "学習用のタイマーです。"
+      ],
+      "maker": "dretec",
+      "query": "dg_20261105_timer",
+      "queries_matched": [
+        "dg_20261105_timer"
+      ],
+      "review_count": 4505,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "scope_pending": [],
+      "parent_asin": "B0FQ2MJJSJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:27:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:timer"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "実在typeタグでreadonly gate照会。狭い用途は商品名と履歴Featuresで監査。未確認attrタグを推測で掛けない"
+  },
+  "date": "2026-11-05",
+  "planning_status": "historical_candidates_require_refresh",
+  "scope_conditions": {
+    "type_tag": "type:timer",
+    "tentative_theme": "作業時間を区切る。デスクタイマー",
+    "exclude_used_since": "2026-10-06",
+    "features_current": false
+  },
+  "parent_dedup_before_measure": false,
+  "measurement_checkpointed_at": "2026-10-10T10:27:14+09:00",
+  "parent_dedup_after_measure": {
+    "exclude_asins": [
+      "B07YLQCW27",
+      "B07ZNF656F",
+      "B0F3X42BWY",
+      "B08K9FQ92S",
+      "B0DM3CY7L6",
+      "B08K9FG8Y7",
+      "B0DYH2Q6N6",
+      "B0DYHWJ9Y2",
+      "B0H19Z1X5L",
+      "B0CWR2368W",
+      "B0FN72BY4W"
+    ],
+    "groups": 22,
+    "reason": "同一親ASINの重複掲載を防止。採用済み先頭候補を代表として残し、機械再選抜する。"
+  }
+}

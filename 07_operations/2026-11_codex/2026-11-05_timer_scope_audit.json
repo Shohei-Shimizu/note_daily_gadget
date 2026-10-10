@@ -1,0 +1,2016 @@
+{
+  "date": "2026-11-05",
+  "topic_id": "daily_gadget_20261105_5405bca5",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 33,
+  "parent_groups": {
+    "B0BB8NRGL5": [
+      "B0F6K1Q29G"
+    ],
+    "B0FQ2MJJSJ": [
+      "B0DBY8JCQ5",
+      "B07YLQCW27",
+      "B07ZNF656F",
+      "B0F3X42BWY"
+    ],
+    "B0GS12YBN2": [
+      "B08HWCWY6Z"
+    ],
+    "B07L6QZS6H": [
+      "B00DAM5L1S"
+    ],
+    "B0DQ54CJLY": [
+      "B0BK2J71M1",
+      "B08K9FQ92S",
+      "B0DM3CY7L6",
+      "B08K9FG8Y7"
+    ],
+    "B0DVGH9VCB": [
+      "B0BB5WSKPF"
+    ],
+    "B07L6NYQ36": [
+      "B004KSRN3K"
+    ],
+    "B0CVQ6KS33": [
+      "B07X2QHVDW"
+    ],
+    "B08P5H7QN5": [
+      "B087S3YKH7"
+    ],
+    "B0F36VXW8G": [
+      "B08KRMQT5S",
+      "B0DYH2Q6N6",
+      "B0DYHWJ9Y2"
+    ],
+    "B0D6385QR6": [
+      "B0F1SDQQ83"
+    ],
+    "B0DMN7YBK9": [
+      "B0H19Y9ZTG",
+      "B0H19Z1X5L",
+      "B0CWR2368W"
+    ],
+    "B08NXN5ZNS": [
+      "B08N69YXD5"
+    ],
+    "B0FNKQXB3B": [
+      "B0CTT1KPKM"
+    ],
+    "B0F2S2F32K": [
+      "B0CPHKY182"
+    ],
+    "B0DRNM3H24": [
+      "B0DPFZVF28"
+    ],
+    "B07X4F7T1R": [
+      "B07X3TVTW8"
+    ],
+    "B0CNX5M97R": [
+      "B0CNWXDFH5"
+    ],
+    "B0FKH5298V": [
+      "B0FDJCMTH3",
+      "B0FN72BY4W"
+    ],
+    "B07D1BJXW4": [
+      "B001E1E96U"
+    ],
+    "B0D2KVMDDH": [
+      "B07KGH6B81"
+    ],
+    "B0FNPB6K8Y": [
+      "B0BCJNNR2H"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B001E1E96U",
+      "title": "セイコー クロック デジタル タイマー 分表示 薄茶 MT603B SEIKO",
+      "maker": "セイコー",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B07D1BJXW4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-19",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B001E1E96U"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B004KSRN3K",
+      "title": "タニタ(Tanita) キッチン 勉強 学習 タイマー マグネット付き 大画面 100分 ホワイト TD-395 WH でか見えプラスタイマー",
+      "maker": "TANITA",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TANITA",
+      "historical_tier": 1,
+      "parent_asin": "B07L6NYQ36",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B00DAM5L1S",
+      "title": "タニタ 勉強 学習 タイマー ストラップ付き バイブレーション機能 24時間 ホワイト TD-370N WH",
+      "maker": "TANITA",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TANITA",
+      "historical_tier": 1,
+      "parent_asin": "B07L6QZS6H",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07B7NXV4R",
+      "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": "SwitchBot",
+      "historical_tier": 1,
+      "parent_asin": "B0GYNWY6KJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-25",
+          "title": "ルーティンを全自動化。IFTTT 対応の「スマート連携」 6 選",
+          "asin": "B07B7NXV4R"
+        },
+        {
+          "published_date": "2026-04-03",
+          "title": "【SwitchBot 徹底比較】家のスイッチを自動化する人気商品 10 選",
+          "asin": "B07B7NXV4R"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07KGH6B81",
+      "title": "TimeCube Plus プリセット タイマー LEDライト4つ/アラーム付き 時間の管理用 カウントダウン設定 (ホワイト - 5分 15分 30分 60分)",
+      "maker": "TimeCube",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0D2KVMDDH",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B07KGH6B81"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07RZJD2LC",
+      "title": "[山善] 衣類乾燥除湿機 除湿量 6.0L (木造7畳 / 鉄筋14畳まで) タイマー オートオフ機能付き ホワイト YDC-C60(W)",
+      "maker": "衣類乾燥除湿機",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B08XX2MTX2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-03",
+          "title": "布団をふかふかに。ジメジメを解消する「スマート除湿機」 6 選",
+          "asin": "B07RZJD2LC"
+        },
+        {
+          "published_date": "2026-06-01",
+          "title": "部屋干しを快適に。梅雨に負けない「衣類乾燥・除湿機」 7 選",
+          "asin": "B07RZJD2LC"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07X2QHVDW",
+      "title": "ソニック 時っ感タイマー トキ・サポ 10cm 時間経過を実感 アイボリー LV-3062-I",
+      "maker": "SONIC",
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "maker_live_verified": false,
+      "db_brand": "SONIC",
+      "historical_tier": 1,
+      "parent_asin": "B0CVQ6KS33",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07X3TVTW8",
+      "title": "ソニック デジタルタイマー トキ・サポ 光ってお知らせ ホワイト LV-3051-W",
+      "maker": "SONIC",
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "maker_live_verified": false,
+      "db_brand": "ソニック",
+      "historical_tier": 2,
+      "parent_asin": "B07X4F7T1R",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-14",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-14",
+          "title": "仕事モードへ。集中時間を区切る「デスクタイマー」 5 選",
+          "asin": "B07X3TVTW8"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07YLQCW27",
+      "title": "ドリテック(dretec) 勉強タイマー タイムアップ2 消音 T-580WTDI ホワイト",
+      "maker": "dretec",
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "maker_live_verified": false,
+      "db_brand": "dretec",
+      "historical_tier": 1,
+      "parent_asin": "B0FQ2MJJSJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-14",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-14",
+          "title": "仕事モードへ。集中時間を区切る「デスクタイマー」 5 選",
+          "asin": "B07ZNF656F"
+        },
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B0DBY8JCQ5"
+        },
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0F3X42BWY"
+        },
+        {
+          "published_date": "2026-03-15",
+          "title": "資格勉強を効率化。暗記を助ける「最新学習ガジェット」 6 選",
+          "asin": "B0F3X42BWY"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07ZNF656F",
+      "title": "ドリテック(dretec) 勉強タイマー タイムアップ2 消音 T-587GN グリーン",
+      "maker": "dretec",
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "maker_live_verified": false,
+      "db_brand": "ドリテック",
+      "historical_tier": 1,
+      "parent_asin": "B0FQ2MJJSJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-14",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-14",
+          "title": "仕事モードへ。集中時間を区切る「デスクタイマー」 5 選",
+          "asin": "B07ZNF656F"
+        },
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B0DBY8JCQ5"
+        },
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0F3X42BWY"
+        },
+        {
+          "published_date": "2026-03-15",
+          "title": "資格勉強を効率化。暗記を助ける「最新学習ガジェット」 6 選",
+          "asin": "B0F3X42BWY"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08767ZQG5",
+      "title": "MUSON(ムソン) 加湿器 卓上 超音波式 アロマディフューザー 500ML アロマ対応 花粉対策 静音 タイマー 大容量 上から給水 ナイトライト 間接照明 明るさ調整可 音楽内蔵 空焚き防止 お手入れ簡単 乾燥対策 おしゃれ 木目調 ホワイト 部屋/寝室/会社用",
+      "maker": "MUSON",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-05-15",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-15",
+          "title": "集中力を香りで整える。多機能な「アロマディフューザー」 6 選",
+          "asin": "B08767ZQG5"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B087S3YKH7",
+      "title": "無印良品 ダイヤル式キッチンタイマー TD‐393 82248296",
+      "maker": "無印良品",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "無印良品",
+      "historical_tier": 1,
+      "parent_asin": "B08P5H7QN5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-14",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-14",
+          "title": "仕事モードへ。集中時間を区切る「デスクタイマー」 5 選",
+          "asin": "B087S3YKH7"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08G1G1DVT",
+      "title": "TP-Link WiFi スマートプラグ タイマー コンセント 遠隔操作 直差し Echo シリーズ/Google ホーム 対応 音声コントロール サーキュレーター ハブ不要 3年保証 Tapo P105/A",
+      "maker": "TP-Link",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TP-Link",
+      "historical_tier": 1,
+      "parent_asin": "B0B51PFXVX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-26",
+          "title": "消し忘れを防ぐ「スマートプラグ」6選",
+          "asin": "B08G1G1DVT"
+        },
+        {
+          "published_date": "2026-04-09",
+          "title": "家電の消し忘れを防止。電源をスマホで操る「スマートプラグ」 7 選",
+          "asin": "B08G1G1DVT"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-26_消し忘れを防ぐ「スマートプラグ」.md",
+          "date": "2026-10-26",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [
+        "30日窓内にローカル研究票のASIN言及。採用ブロックか除外・参考言及か再確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08HWCWY6Z",
+      "title": "【TickTime・新時代のデジタルタイマー】 正六角柱 ポモドーロタイマー キッチンタイマー キューブタイマー 勉強 会議 スポーツテスト",
+      "maker": "TickTime",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TickTime",
+      "historical_tier": 1,
+      "parent_asin": "B0GS12YBN2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B08HWCWY6Z"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08HZ4LYHM",
+      "title": "iDiskk タイムロックボックス (99時間タイマー)",
+      "maker": "iDiskk",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "iDiskk",
+      "historical_tier": 1,
+      "parent_asin": "B0C49K59WL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-01-15",
+      "dg_use_history": [
+        {
+          "published_date": "2026-01-15",
+          "title": "スマホ疲れをリセット。デジタルデトックスの「専用箱」 5選",
+          "asin": "B08HZ4LYHM"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08K9FG8Y7",
+      "title": "TIME TIMER MOD Home Edition 9cm 60分 タイムタイマー モッド シルクオレンジ 時間管理 学習タイマー TTM9-HDO-W 正規品",
+      "maker": "TIME TIMER",
+      "maker_source": "商品名TIME TIMERの正規名（Timeへの途中切断を修正）",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0DQ54CJLY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-20",
+          "title": "下半期の目標を立てる。振り返りに役立つ「管理ツール」 6 選",
+          "asin": "B08K9FG8Y7"
+        },
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B0DM3CY7L6"
+        },
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0DM3CY7L6"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08K9FQ92S",
+      "title": "Time Timer タイムタイマー(TIME TIMER) 勉強タイマー MOD Home Edition モッド コットンホワイト 9cm 60分 学習アラーム TTM9-HCW-W",
+      "maker": "TIME TIMER",
+      "maker_source": "商品名TIME TIMERの正規名（Timeへの途中切断を修正）",
+      "maker_live_verified": false,
+      "db_brand": "Time Timer",
+      "historical_tier": 1,
+      "parent_asin": "B0DQ54CJLY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-20",
+          "title": "下半期の目標を立てる。振り返りに役立つ「管理ツール」 6 選",
+          "asin": "B08K9FG8Y7"
+        },
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B0DM3CY7L6"
+        },
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0DM3CY7L6"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08KRMQT5S",
+      "title": "ソニック 時っ感タイマー トキ・サポ 時計プラス LV-3521-MB",
+      "maker": "SONIC",
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "maker_live_verified": false,
+      "db_brand": "ソニック",
+      "historical_tier": 1,
+      "parent_asin": "B0F36VXW8G",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-19",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B0DYHWJ9Y2"
+        },
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0DYH2Q6N6"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08L518WBM",
+      "title": "TP-Link WiFi スマートプラグ タイマー コンセント 遠隔操作 直差し Echo シリーズ/Google ホーム 対応 音声コントロール サーキュレーター ハブ不要 メーカー保証3年 Tapo P105 2個セット",
+      "maker": "TP-Link",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TP-Link",
+      "historical_tier": 1,
+      "parent_asin": "B0B51PFXVX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-26",
+          "title": "消し忘れを防ぐ「スマートプラグ」6選",
+          "asin": "B08G1G1DVT"
+        },
+        {
+          "published_date": "2026-04-09",
+          "title": "家電の消し忘れを防止。電源をスマホで操る「スマートプラグ」 7 選",
+          "asin": "B08G1G1DVT"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-26_消し忘れを防ぐ「スマートプラグ」.md",
+          "date": "2026-10-26",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [
+        "30日窓内にローカル研究票のASIN言及。採用ブロックか除外・参考言及か再確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08N69YXD5",
+      "title": "Canon クロックタイマー キッチンタイマー 抗菌 マグネット 大型液晶 白 CT-50-WH タイマー 学習/勉強",
+      "maker": "Canon",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Canon",
+      "historical_tier": 2,
+      "parent_asin": "B08NXN5ZNS",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BB5WSKPF",
+      "title": "ドリテック(dretec) 大画面タイマー 機能が豊富な6キー 時計表示の切り替えも可能 料理 キッチン マグネット デジタル シャボン6 ホワイト 卓上に置いても壁掛けでもマグネットでくっつけても使用可能 学習 勉強用",
+      "maker": "dretec",
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "maker_live_verified": false,
+      "db_brand": "dretec",
+      "historical_tier": 1,
+      "parent_asin": "B0DVGH9VCB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BBRDHQK1",
+      "title": "Besince ディフューザー 加湿器 アロマディフューザー 卓上 アロマ 超音波式 卓上 静音 タイマー LEDライト7色 リモコン付 乾燥対策 300ml オフィス用 家庭用 保湿 (ウッド)",
+      "maker": "Besince",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0BTDP2QVT",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-05",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-05",
+          "title": "低気圧頭痛をケア。心身を癒す「リラックスガジェット」 6 選",
+          "asin": "B0BBRDHQK1"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BCJNNR2H",
+      "title": "ドリテック(dretec) スタディエッグ インターバルタイマー 勉強 繰り返し スポーツ トレーニング スポーツ 時計 消音 光でお知らせ T-601 ホワイト",
+      "maker": "dretec",
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "maker_live_verified": false,
+      "db_brand": "ドリテック(dretec)",
+      "historical_tier": 2,
+      "parent_asin": "B0FNPB6K8Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0BCJNNR2H"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BD7154F9",
+      "title": "BrownNoise サウンドマシン 30種類の心地よいサウンド 12色 ナイトライト ホワイトノイズマシン 大人 赤ちゃん 子供用 睡眠マシン 36のボリュームレベル メモリ機能 5タイマー 自宅 オフィス 旅行用",
+      "maker": "BrownNoise",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "BrownNoise",
+      "historical_tier": 1,
+      "parent_asin": "B0H3NZ73SV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-24",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-24",
+          "title": "眠る前の音を整える「ホワイトノイズマシン」5選",
+          "asin": "B0BD7154F9"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-24_眠る前の音を整える「ホワイトノイズマシン」.md",
+          "date": "2026-10-24",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [
+        "30日窓内にローカル研究票のASIN言及。採用ブロックか除外・参考言及か再確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-24",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BK2J71M1",
+      "title": "Time Timer TIME TIMER MOD Home Edition 9cm 60分 タイムタイマー モッド フェルングリーン 時間管理 TTM9-HFG-W 正規品",
+      "maker": "TIME TIMER",
+      "maker_source": "商品名TIME TIMERの正規名（Timeへの途中切断を修正）",
+      "maker_live_verified": false,
+      "db_brand": "Time Timer",
+      "historical_tier": 1,
+      "parent_asin": "B0DQ54CJLY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-20",
+          "title": "下半期の目標を立てる。振り返りに役立つ「管理ツール」 6 選",
+          "asin": "B08K9FG8Y7"
+        },
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B0DM3CY7L6"
+        },
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0DM3CY7L6"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BTH3KRF9",
+      "title": "SoundMe スリープサウンドマシン 30種類の心地よい自然音 36のボリュームコントロール コンパクトサイズ 旅行 ホワイトノイズマシン 赤ちゃん 子供 大人用 ACまたはUSBで給電 メモリー機能 スリープタイマー",
+      "maker": "SoundMe",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "SoundMe",
+      "historical_tier": 1,
+      "parent_asin": "B0H466HG93",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-24",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-24",
+          "title": "眠る前の音を整える「ホワイトノイズマシン」5選",
+          "asin": "B0BTH3KRF9"
+        },
+        {
+          "published_date": "2026-09-11",
+          "title": "自然音で集中。集中力を高める「ホワイトノイズマシン」 4 選",
+          "asin": "B0BTH3KRF9"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-24_眠る前の音を整える「ホワイトノイズマシン」.md",
+          "date": "2026-10-24",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [
+        "30日窓内にローカル研究票のASIN言及。採用ブロックか除外・参考言及か再確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-24",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C9PYJZJ7",
+      "title": "【Amazon.co.jp限定】 TP-Link Tapo Matter対応 スマートプラグ プラグミニ スマートコンセント 電力モニタリング コンセント 節電·省エネ スケジュール 電源タイマー 直差し 遠隔操作 音声コントロール かんたん設定【Amazon Alexa, Apple Siri, Google Assistant 対応】Tapo P110M(2-pack)",
+      "maker": "TP-Link",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TP-Link",
+      "historical_tier": 1,
+      "parent_asin": "B0CKWC62LT",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-26",
+          "title": "消し忘れを防ぐ「スマートプラグ」6選",
+          "asin": "B0C9PYJZJ7"
+        },
+        {
+          "published_date": "2026-07-25",
+          "title": "ルーティンを全自動化。IFTTT 対応の「スマート連携」 6 選",
+          "asin": "B0C9PYN7RN"
+        },
+        {
+          "published_date": "2026-07-10",
+          "title": "【Amazonプライムデー】期間中に狙いたいお得ガジェット 20 選",
+          "asin": "B0C9PYN7RN"
+        },
+        {
+          "published_date": "2026-05-09",
+          "title": "スマートホームの基本。アレクサ対応おすすめガジェット 7 選",
+          "asin": "B0C9PYN7RN"
+        },
+        {
+          "published_date": "2026-04-30",
+          "title": "4 月のベストバイ。買ってよかった「春のガジェット」 8 選",
+          "asin": "B0C9PYN7RN"
+        },
+        {
+          "published_date": "2026-04-22",
+          "title": "節電を可視化。消費電力をリアルタイムで知る「モニター」 5 選",
+          "asin": "B0C9PYN7RN"
+        },
+        {
+          "published_date": "2026-04-09",
+          "title": "家電の消し忘れを防止。電源をスマホで操る「スマートプラグ」 7 選",
+          "asin": "B0C9PYN7RN"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-26_消し忘れを防ぐ「スマートプラグ」.md",
+          "date": "2026-10-26",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [
+        "30日窓内にローカル研究票のASIN言及。採用ブロックか除外・参考言及か再確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C9PYN7RN",
+      "title": "TP-Link Tapo Matter 対応 スマートプラグ プラグミニ スマートコンセント 電力モニタリング コンセント 節電·省エネ スケジュール 電源タイマー 直差し 遠隔操作 音声コントロール かんたん設定【Amazon Alexa, Apple Siri, Google Assistant 対応】Tapo P110M(1-pack)(JP)/A",
+      "maker": "TP-Link",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TP-Link",
+      "historical_tier": 1,
+      "parent_asin": "B0CKWC62LT",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-26",
+          "title": "消し忘れを防ぐ「スマートプラグ」6選",
+          "asin": "B0C9PYJZJ7"
+        },
+        {
+          "published_date": "2026-07-25",
+          "title": "ルーティンを全自動化。IFTTT 対応の「スマート連携」 6 選",
+          "asin": "B0C9PYN7RN"
+        },
+        {
+          "published_date": "2026-07-10",
+          "title": "【Amazonプライムデー】期間中に狙いたいお得ガジェット 20 選",
+          "asin": "B0C9PYN7RN"
+        },
+        {
+          "published_date": "2026-05-09",
+          "title": "スマートホームの基本。アレクサ対応おすすめガジェット 7 選",
+          "asin": "B0C9PYN7RN"
+        },
+        {
+          "published_date": "2026-04-30",
+          "title": "4 月のベストバイ。買ってよかった「春のガジェット」 8 選",
+          "asin": "B0C9PYN7RN"
+        },
+        {
+          "published_date": "2026-04-22",
+          "title": "節電を可視化。消費電力をリアルタイムで知る「モニター」 5 選",
+          "asin": "B0C9PYN7RN"
+        },
+        {
+          "published_date": "2026-04-09",
+          "title": "家電の消し忘れを防止。電源をスマホで操る「スマートプラグ」 7 選",
+          "asin": "B0C9PYN7RN"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-26_消し忘れを防ぐ「スマートプラグ」.md",
+          "date": "2026-10-26",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [
+        "30日窓内にローカル研究票のASIN言及。採用ブロックか除外・参考言及か再確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CKWWZ7JM",
+      "title": "シロカ コーン式全自動コーヒーメーカー カフェばこPRO CM-6C261(K) ブラック｜ガラスサーバー 豆・粉対応 豆・水計量不要 ミル機能 挽き目無段階調節可能 最大6杯 タイマー予約機能 マグカップ直接抽出 ステンレスフィルター付き",
+      "maker": "シロカ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0H83SZLK9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-14",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-14",
+          "title": "アイスコーヒーを自宅で。スマホ連携から全自動まで「コーヒーメーカー」 6 選",
+          "asin": "B0CKWWZ7JM"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CLLR4TKV",
+      "title": "シロカ コーン式全自動コーヒーメーカー（2023年モデル） [ガラスサーバー/予約タイマー/豆自動計量/最大4杯/給水タンク取り外し可能] SC-C112 ブラック/ステンレスシルバー(K/SS)",
+      "maker": "siroca",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "siroca",
+      "historical_tier": 3,
+      "parent_asin": "B0DKT9C9CJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CNWXDFH5",
+      "title": "HATUSOKU サイレントモード搭載 光るタイマー キッチン 勉強 学習 マグネット スタンド 吊り下げ (ホワイト)",
+      "maker": "HATUSOKU",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "HATUSOKU",
+      "historical_tier": 2,
+      "parent_asin": "B0CNX5M97R",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CPHKY182",
+      "title": "MAG(マグ) タイマー キッチン 勉強 学習 会議 音量切り替え 消音 無音 ライト デジタル 時計表示 置き掛け兼用 マグネット 磁石 ブラック ヒカルン TM-608A BK-Z ノア精密",
+      "maker": "MAG",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "MAG",
+      "historical_tier": 2,
+      "parent_asin": "B0F2S2F32K",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CTT1KPKM",
+      "title": "ソニック タイマー スティックルタイマー ダイヤル式 ホワイト SP-8327-W",
+      "maker": "SONIC",
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "maker_live_verified": false,
+      "db_brand": "SONIC",
+      "historical_tier": 2,
+      "parent_asin": "B0FNKQXB3B",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CW1JK2WR",
+      "title": "[山善] サーキュレーター DCモーター 静音 20畳 (換気/空気循環) 上下左右自動首振り 風量7段階調節 入切タイマー リモコン付き ホワイトグレー YAR-ND15E(WH)",
+      "maker": "山善",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "山善",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-03-13",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-13",
+          "title": "部屋干しの悩みを解決。衣類乾燥と「サーキュレーター」 6 選",
+          "asin": "B0CW1JK2WR"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CWR2368W",
+      "title": "キングジム(Kingjim) ビジュアルバータイマー 白 サイズ：約W13.2 D2.1 H2.9 VBT10-W",
+      "maker": "キングジム",
+      "maker_source": "商品名キングジム/Kingjim正規化",
+      "maker_live_verified": false,
+      "db_brand": "KING JIM",
+      "historical_tier": 2,
+      "parent_asin": "B0DMN7YBK9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D5CSCHM1",
+      "title": "【2026新登場・省エネ＆目に優しい】 デスクライト 明るい ledライト 照明 無段階調光 5段階調色 タイマー・記憶機能 高輝度 スタンドライト USB給電式 電気スタンド 卓上 ledデスクライト 折り畳み式 収納簡単 卓上 led 軽量 机 読書 寝室 学習机 スマホ給電可能 タイマー機能 おしゃれ 目に優しい 読書灯",
+      "maker": "【2026新登場・省エネ＆目に優しい】",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "【2026新登場・省エネ＆目に優しい】",
+      "historical_tier": 2,
+      "parent_asin": "B0HJ8DWCMJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-26",
+          "title": "デスクを明るく。充電式で置き場所を選ばない「デスクライト」 3 選",
+          "asin": "B0D5CSCHM1"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [
+        "メーカー未確認。販促文字列をメーカーとして数えない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D6V9Y882",
+      "title": "TITIROBA 目覚まし時計 光 めざまし時計 YABAE Wake Up Light ウェイクアップ ライト 置き時計 光目覚まし スリープタイマー スヌーズ ラジオ ナイトライト イルミネーション 光目覚まし時計 FZ-06-L",
+      "maker": "TITIROBA",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TITIROBA",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-03-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-04",
+          "title": "朝の目覚めを確実に。強力振動と光で起こす「目覚まし」 6 選",
+          "asin": "B0D6V9Y882"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DBY8JCQ5",
+      "title": "dretec(ドリテック) 勉強タイマー タイムアップ2 タイマー式勉強法で自立学習 試験日までの日数設定でモチベアップ 消音&ランプで図書館でも使える タイマー 勉強 キッチン ストップウォッチ 学習 勉強用 勉強グッズ デジタル 学習用 無音 プレゼント 子供 キッズ T-587PK3 ピンク",
+      "maker": "dretec",
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "maker_live_verified": false,
+      "db_brand": "dretec",
+      "historical_tier": 1,
+      "parent_asin": "B0FQ2MJJSJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-14",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-14",
+          "title": "仕事モードへ。集中時間を区切る「デスクタイマー」 5 選",
+          "asin": "B07ZNF656F"
+        },
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B0DBY8JCQ5"
+        },
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0F3X42BWY"
+        },
+        {
+          "published_date": "2026-03-15",
+          "title": "資格勉強を効率化。暗記を助ける「最新学習ガジェット」 6 選",
+          "asin": "B0F3X42BWY"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DJXRYLHG",
+      "title": "エコチェッカー エコキーパー プログラムタイマー コンセント 電力計 節電 電力チェッカー チェッカー AC100V 1500W 大型LCD表示",
+      "maker": "Sibling",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Sibling",
+      "historical_tier": 2,
+      "parent_asin": "B0H6JQWWFF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DJY2KFNB",
+      "title": "KOZUMUWAN エコキーパー エコチェッカー コンセント プログラムタイマー 白 ボタン 簡易電力量計 大型LCD表示 電力計 節電",
+      "maker": "KOZUMUWAN",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "KOZUMUWAN",
+      "historical_tier": 2,
+      "parent_asin": "B0HJ2CWR33",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DM3CY7L6",
+      "title": "TIME TIMER MOD Home Edition 9cm 60分 タイムタイマー モッド メタリック ミッドナイト 時間管理 学習タイマー TTM9-HMM-W 正規品",
+      "maker": "TIME TIMER",
+      "maker_source": "商品名TIME TIMERの正規名（Timeへの途中切断を修正）",
+      "maker_live_verified": false,
+      "db_brand": "Time Timer",
+      "historical_tier": 2,
+      "parent_asin": "B0DQ54CJLY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-20",
+          "title": "下半期の目標を立てる。振り返りに役立つ「管理ツール」 6 選",
+          "asin": "B08K9FG8Y7"
+        },
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B0DM3CY7L6"
+        },
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0DM3CY7L6"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DPFZVF28",
+      "title": "ドリテック(dretec) 3ランプタイマー キッチンタイマー 無音 光る 光 シンプル 勉強 キッチン 子供 かわいい 強力マグネット 大音量 おしゃれ デジタルタイマー 学習 タイマー ピンク",
+      "maker": "dretec",
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "maker_live_verified": false,
+      "db_brand": "ドリテック",
+      "historical_tier": 2,
+      "parent_asin": "B0DRNM3H24",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DRHXLQM9",
+      "title": "blonbar 目覚まし時計 光 目覚ましライト LED置き時計 スヌーズ機能付き ホワイトノイズ & 多機能ナイトライト（間接照明/タイマー/授乳灯）メモリー機能搭載 重睡者・子供向け 出産祝いギフト AC電源接続式",
+      "maker": "blonbar",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "blonbar",
+      "historical_tier": 1,
+      "parent_asin": "B0F8QKLX7R",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DT6S7NZ8",
+      "title": "SwitchBot スマートプラグ プラグミニ スマートコンセント スイッチボット 消費電力モニター タイマー コンセント 節電·省エネ 直差し 遠隔操作 音声コントロール Bluetooth&Wi-Fi両方対応 スマートホーム Alexa, Google Home, Siri, IFTTT, SmartThings対応",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": "SwitchBot",
+      "historical_tier": 1,
+      "parent_asin": "B0H2H494MV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-26",
+          "title": "消し忘れを防ぐ「スマートプラグ」6選",
+          "asin": "B0DT6S7NZ8"
+        },
+        {
+          "published_date": "2026-04-22",
+          "title": "節電を可視化。消費電力をリアルタイムで知る「モニター」 5 選",
+          "asin": "B0DT6S7NZ8"
+        },
+        {
+          "published_date": "2026-04-09",
+          "title": "家電の消し忘れを防止。電源をスマホで操る「スマートプラグ」 7 選",
+          "asin": "B0DT6S7NZ8"
+        },
+        {
+          "published_date": "2026-04-09",
+          "title": "家電の消し忘れを防止。電源をスマホで操る「スマートプラグ」 7 選",
+          "asin": "B0DT6X8963"
+        },
+        {
+          "published_date": "2026-04-03",
+          "title": "【SwitchBot 徹底比較】家のスイッチを自動化する人気商品 10 選",
+          "asin": "B0DT6S7NZ8"
+        },
+        {
+          "published_date": "2026-03-07",
+          "title": "布団から出たくない冬に。スマホで操る「IoT 暖房ガジェット」 5 選",
+          "asin": "B0DT6S7NZ8"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-26_消し忘れを防ぐ「スマートプラグ」.md",
+          "date": "2026-10-26",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [
+        "30日窓内にローカル研究票のASIN言及。採用ブロックか除外・参考言及か再確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DT6VJ3K7",
+      "title": "SwitchBot スマートプラグ プラグミニ Appleデバイス対応 スマートコンセント スイッチボット 消費電力モニター HomeKit対応 タイマー コンセント Bluetooth&Wi-Fi両方対応 節電·省エネ 直差し 遠隔操作 音声コントロール スマートホーム Alexa, Google Home, Siri, IFTTT, SmartThings対応",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": "SwitchBot",
+      "historical_tier": 3,
+      "parent_asin": "B0H2BB2W6J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-26",
+          "title": "消し忘れを防ぐ「スマートプラグ」6選",
+          "asin": "B0DT6VJ3K7"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-26_消し忘れを防ぐ「スマートプラグ」.md",
+          "date": "2026-10-26",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [
+        "30日窓内にローカル研究票のASIN言及。採用ブロックか除外・参考言及か再確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DT6X8963",
+      "title": "SwitchBot スマートプラグ プラグミニ スマートコンセント スイッチボット 消費電力モニター タイマー コンセント 節電·省エネ 直差し 遠隔操作 音声コントロール Bluetooth&Wi-Fi両方対応 スマートホーム Alexa, Google Home, Siri, IFTTT, SmartThings対応 2個入り",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0H2H494MV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-26",
+          "title": "消し忘れを防ぐ「スマートプラグ」6選",
+          "asin": "B0DT6S7NZ8"
+        },
+        {
+          "published_date": "2026-04-22",
+          "title": "節電を可視化。消費電力をリアルタイムで知る「モニター」 5 選",
+          "asin": "B0DT6S7NZ8"
+        },
+        {
+          "published_date": "2026-04-09",
+          "title": "家電の消し忘れを防止。電源をスマホで操る「スマートプラグ」 7 選",
+          "asin": "B0DT6S7NZ8"
+        },
+        {
+          "published_date": "2026-04-09",
+          "title": "家電の消し忘れを防止。電源をスマホで操る「スマートプラグ」 7 選",
+          "asin": "B0DT6X8963"
+        },
+        {
+          "published_date": "2026-04-03",
+          "title": "【SwitchBot 徹底比較】家のスイッチを自動化する人気商品 10 選",
+          "asin": "B0DT6S7NZ8"
+        },
+        {
+          "published_date": "2026-03-07",
+          "title": "布団から出たくない冬に。スマホで操る「IoT 暖房ガジェット」 5 選",
+          "asin": "B0DT6S7NZ8"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-26_消し忘れを防ぐ「スマートプラグ」.md",
+          "date": "2026-10-26",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [
+        "30日窓内にローカル研究票のASIN言及。採用ブロックか除外・参考言及か再確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DXPG7LFN",
+      "title": "[山善] 除湿機 衣類乾燥 除湿器 コンプレッサー式 小型 強力除湿 除湿量 3.8L 切タイマー おやすみ運転 ホワイト YDC-J03(W)",
+      "maker": "山善",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "山善",
+      "historical_tier": 1,
+      "parent_asin": "B0H85YQFLC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-17",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-17",
+          "title": "梅雨の湿気を吹き飛ばす。小型「除湿機と靴乾燥機」 6 選",
+          "asin": "B0DXPG7LFN"
+        },
+        {
+          "published_date": "2026-03-13",
+          "title": "部屋干しの悩みを解決。衣類乾燥と「サーキュレーター」 6 選",
+          "asin": "B0DXPG7LFN"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DYH2Q6N6",
+      "title": "ソニック タイマー トキ・サポ 時っ感タイマー 時計プラス 色で時間の経過を実感 エコ包装 バイオレット LVL-1898-V",
+      "maker": "SONIC",
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0F36VXW8G",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-19",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B0DYHWJ9Y2"
+        },
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0DYH2Q6N6"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DYHWJ9Y2",
+      "title": "ソニック タイマー トキ・サポ 時っ感タイマー 時計プラス 色で時間の経過を実感 エコ包装 ホワイト LVL-1898-W",
+      "maker": "SONIC",
+      "maker_source": "商品名SONIC/ソニック正規化",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0F36VXW8G",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-19",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B0DYHWJ9Y2"
+        },
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0DYH2Q6N6"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DZ1T51KS",
+      "title": "除湿機 小型【2026梅雨対策・強力除湿・省エネ】衣類乾燥除湿機 除湿器 ダブルぺルチェ式 強力 じょしつき 24時間切タイマー 7色ナイトランプ 満水自動停止 LED表示画面 コンパクト",
+      "maker": "商品ページ表記なし",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "商品ページ表記なし",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [
+        "メーカー未確認。販促文字列をメーカーとして数えない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DZGWBN8H",
+      "title": "[山善] サーキュレーター DCモーター 静音 22畳 (換気/空気循環) 上下左右自動首振り 風量7段階調節 入切タイマー リモコン付き ホワイト YAR-MD18(WH)",
+      "maker": "サーキュレーター",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "サーキュレーター",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-05-11",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-11",
+          "title": "夏の節電対策。エアコン効率を上げる「サーキュレーター」 6 選",
+          "asin": "B0DZGWBN8H"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F1SDQQ83",
+      "title": "EooCoo ポモドーロタイマー小型 ビジュアルポモドーロタイマー 重力付き カウントアップタイマー5/10/25/50分 充電式生産性ツール搭載無音モード 勉強、仕事、キッチン、教室、ADHD、ジム、ヨガ、大学の学用品に 時間管理習慣 勉強道具 クールなガジェット、ブラック",
+      "maker": "EooCoo",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "EooCoo",
+      "historical_tier": 2,
+      "parent_asin": "B0D6385QR6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F3X42BWY",
+      "title": "ドリテック(dretec) 勉強タイマー タイムアップ2 消音 T-587 ブラック",
+      "maker": "dretec",
+      "maker_source": "商品名dretec/ドリテック正規化",
+      "maker_live_verified": false,
+      "db_brand": "ドリテック",
+      "historical_tier": 1,
+      "parent_asin": "B0FQ2MJJSJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-14",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-14",
+          "title": "仕事モードへ。集中時間を区切る「デスクタイマー」 5 選",
+          "asin": "B07ZNF656F"
+        },
+        {
+          "published_date": "2026-04-19",
+          "title": "集中と休憩を管理。作業リズムを作る「物理タイマー」 6 選",
+          "asin": "B0DBY8JCQ5"
+        },
+        {
+          "published_date": "2026-03-30",
+          "title": "月末のタスクを加速。集中時間を作る「ポモドーロタイマー」 6 選",
+          "asin": "B0F3X42BWY"
+        },
+        {
+          "published_date": "2026-03-15",
+          "title": "資格勉強を効率化。暗記を助ける「最新学習ガジェット」 6 選",
+          "asin": "B0F3X42BWY"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F6K1Q29G",
+      "title": "AVINIA デスクタイマー マグネット式デジタルキッチンタイマー 充電式ファブリックメッシュカバー 99分カウントダウン/カウントアップ Efficana Konah 調理用ホームタイマー(生地 ブラック)",
+      "maker": "AVINIA",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "AVINIA",
+      "historical_tier": 2,
+      "parent_asin": "B0BB8NRGL5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-14",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-14",
+          "title": "仕事モードへ。集中時間を区切る「デスクタイマー」 5 選",
+          "asin": "B0F6K1Q29G"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FB3827XP",
+      "title": "ポモドーロタイマー 5/10/25/50分 プリセット付き 視覚キューブ型タイマー 重力センサー搭載 無音モード 勉強・仕事・キッチン・ADHD対応 デスク用 学習タイマー (黒)",
+      "maker": "ポモドーロタイマー",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ポモドーロタイマー",
+      "historical_tier": 2,
+      "parent_asin": "B0FB2T9K39",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-14",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-14",
+          "title": "仕事モードへ。集中時間を区切る「デスクタイマー」 5 選",
+          "asin": "B0FB3827XP"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "メーカー推定に商品種別が混入。実在メーカー名未確認のため保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FBW8QM21",
+      "title": "Anycee アイウォーマー【世界初！全機能カスタム対応】 ホットアイマスク 充電式 3段階気圧・温度・音量調整 目元ケア 3Dアイホール構造 アイケア Bluetooth音楽再生 アイマスク ホット 折り畳み式・軽量 サイズ調節可能 男女兼用 自動オフタイマー 睡眠グッズ 静音設定可 簡単操作 冷却アイマスク 結婚記念日 母の日 父の日ギフト 誕生日 敬老の日 プレゼント バレンタイン ギフト",
+      "maker": "Anycee",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anycee",
+      "historical_tier": 2,
+      "parent_asin": "B0HJ28VXF1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-12",
+          "title": "夏の疲れ目をケア。ホットアイマスクと「マッサージャー」 6 選",
+          "asin": "B0FBW8QM21"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FDJCMTH3",
+      "title": "GeeRic ビジュアルタイマー 60分タイマー 勉強用デスクタイマー 教室 キッチン用 カウントダウンタイマー 子供用タイムマネージャーツール アラーム",
+      "maker": "GeeRic",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "GeeRic",
+      "historical_tier": 2,
+      "parent_asin": "B0FKH5298V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FHVXSJD3",
+      "title": "ポモドーロタイマー 5/10/25/50分プリセット付き デジタルキューブタイマー LED表示 フリップ式カウントダウン 重力センサー 静音モード USB充電式 勉強・仕事・キッチン・ADHD対応 学習タイマー (オレンジ)",
+      "maker": "ポモドーロタイマー",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ポモドーロタイマー",
+      "historical_tier": 1,
+      "parent_asin": "B0FRN83YT7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "メーカー推定に商品種別が混入。実在メーカー名未確認のため保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FM3NXDVN",
+      "title": "Hoxhyon デスクライト LED クランプ式「PSE認証済」卓上ライト 電気スタンド 目に優しい デスクスタンド デスクランプ テーブルライト | 【ダブル光源 広範囲・高均一照明・無線リモコン・5段階調色調光・角度自由調節・タイマー】読書/勉強",
+      "maker": "Hoxhyon",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Hoxhyon",
+      "historical_tier": 2,
+      "parent_asin": "B0GZLHDHG8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FN72BY4W",
+      "title": "GeeRic ビジュアルタイマー 60分 勉強用デスクタイマー 教室 キッチン用 カウントダウンタイマー 子供用タイムマネージャーツール アラーム",
+      "maker": "GeeRic",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "GeeRic",
+      "historical_tier": 2,
+      "parent_asin": "B0FKH5298V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0G4VW29T7",
+      "title": "TOKAIZ アロマディフューザー 水なし 車 静音 充電式 ネブライザー式 コードレス おしゃれ 噴霧式 ディフューザー タイマー コンパクト オイル漏れ防止 3段階調節 自動停止 車載 室内 TAD-005",
+      "maker": "TOKAIZ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TOKAIZ",
+      "historical_tier": 3,
+      "parent_asin": "B0G4VPR81V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-25",
+          "title": "香りでリラックス。水を使わない「アロマディフューザー」 3 選",
+          "asin": "B0G4VW29T7"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GHMVCX6D",
+      "title": "タイムロッキングコンテナ スマホ ロックボックス タイムコンテナ タイム ロッキング コンテナ タイムロッキングコンテリア スマホロック 携帯ロックボックス スマホ 封印 タイム ロック ボックス iphone タイマー 箱 スマホ依存症対策 電池式 時間を自由に設定 一年の連続使用時間 禁煙 お金 お菓子 スマホやゲームのやりすぎに最適 ベージュ Shlmnbo",
+      "maker": "タイムロッキングコンテナ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "タイムロッキングコンテナ",
+      "historical_tier": 1,
+      "parent_asin": "B0BTWZTXM8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-17",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-17",
+          "title": "スマホ断ちを支援。話題の「タイムロッキングコンテナ」 5 選",
+          "asin": "B099R9YPXK"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GK714MN4",
+      "title": "スマホおあずけくん タイマー式 スマホロックケース スマホロックボックス タイムロックコンテナ スマホロック スマホ依存症 禁欲 デジタルデトックス タイムロッキングコンテナ タイムロックボックス 受験対策 勉強タイマー 集中力向上 (ホワイト)",
+      "maker": "スマホおあずけくん",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "スマホおあずけくん",
+      "historical_tier": 3,
+      "parent_asin": "B0GK6WZ71F",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-21",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-21",
+          "title": "スマホを物理的に封印。デジタルデトックスの「専用箱」 5 選",
+          "asin": "B0GK714MN4"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H19Y9ZTG",
+      "title": "キングジム 残り時間が一目でわかる「ビジュアルバータイマー プラス」 カラー バックライト 黒 VBT20-BK",
+      "maker": "キングジム",
+      "maker_source": "商品名キングジム/Kingjim正規化",
+      "maker_live_verified": false,
+      "db_brand": "キングジム",
+      "historical_tier": 2,
+      "parent_asin": "B0DMN7YBK9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H19Z1X5L",
+      "title": "キングジム 残り時間が一目でわかる「ビジュアルバータイマー プラス」 カラー バックライト 白 VBT20-W",
+      "maker": "キングジム",
+      "maker_source": "商品名キングジム/Kingjim正規化",
+      "maker_live_verified": false,
+      "db_brand": "キングジム",
+      "historical_tier": 2,
+      "parent_asin": "B0DMN7YBK9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-06",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B07B7NXV4R",
+      "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B07RZJD2LC",
+      "title": "[山善] 衣類乾燥除湿機 除湿量 6.0L (木造7畳 / 鉄筋14畳まで) タイマー オートオフ機能付き ホワイト YDC-C60(W)",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B08767ZQG5",
+      "title": "MUSON(ムソン) 加湿器 卓上 超音波式 アロマディフューザー 500ML アロマ対応 花粉対策 静音 タイマー 大容量 上から給水 ナイトライト 間接照明 明るさ調整可 音楽内蔵 空焚き防止 お手入れ簡単 乾燥対策 おしゃれ 木目調 ホワイト 部屋/寝室/会社用",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B08G1G1DVT",
+      "title": "TP-Link WiFi スマートプラグ タイマー コンセント 遠隔操作 直差し Echo シリーズ/Google ホーム 対応 音声コントロール サーキュレーター ハブ不要 3年保証 Tapo P105/A",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26"
+    },
+    {
+      "asin": "B08HZ4LYHM",
+      "title": "iDiskk タイムロックボックス (99時間タイマー)",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B08L518WBM",
+      "title": "TP-Link WiFi スマートプラグ タイマー コンセント 遠隔操作 直差し Echo シリーズ/Google ホーム 対応 音声コントロール サーキュレーター ハブ不要 メーカー保証3年 Tapo P105 2個セット",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26"
+    },
+    {
+      "asin": "B0BBRDHQK1",
+      "title": "Besince ディフューザー 加湿器 アロマディフューザー 卓上 アロマ 超音波式 卓上 静音 タイマー LEDライト7色 リモコン付 乾燥対策 300ml オフィス用 家庭用 保湿 (ウッド)",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0BD7154F9",
+      "title": "BrownNoise サウンドマシン 30種類の心地よいサウンド 12色 ナイトライト ホワイトノイズマシン 大人 赤ちゃん 子供用 睡眠マシン 36のボリュームレベル メモリ機能 5タイマー 自宅 オフィス 旅行用",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-24"
+    },
+    {
+      "asin": "B0BTH3KRF9",
+      "title": "SoundMe スリープサウンドマシン 30種類の心地よい自然音 36のボリュームコントロール コンパクトサイズ 旅行 ホワイトノイズマシン 赤ちゃん 子供 大人用 ACまたはUSBで給電 メモリー機能 スリープタイマー",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-24"
+    },
+    {
+      "asin": "B0C9PYJZJ7",
+      "title": "【Amazon.co.jp限定】 TP-Link Tapo Matter対応 スマートプラグ プラグミニ スマートコンセント 電力モニタリング コンセント 節電·省エネ スケジュール 電源タイマー 直差し 遠隔操作 音声コントロール かんたん設定【Amazon Alexa, Apple Siri, Google Assistant 対応】Tapo P110M(2-pack)",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26"
+    },
+    {
+      "asin": "B0C9PYN7RN",
+      "title": "TP-Link Tapo Matter 対応 スマートプラグ プラグミニ スマートコンセント 電力モニタリング コンセント 節電·省エネ スケジュール 電源タイマー 直差し 遠隔操作 音声コントロール かんたん設定【Amazon Alexa, Apple Siri, Google Assistant 対応】Tapo P110M(1-pack)(JP)/A",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26"
+    },
+    {
+      "asin": "B0CKWWZ7JM",
+      "title": "シロカ コーン式全自動コーヒーメーカー カフェばこPRO CM-6C261(K) ブラック｜ガラスサーバー 豆・粉対応 豆・水計量不要 ミル機能 挽き目無段階調節可能 最大6杯 タイマー予約機能 マグカップ直接抽出 ステンレスフィルター付き",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0CLLR4TKV",
+      "title": "シロカ コーン式全自動コーヒーメーカー（2023年モデル） [ガラスサーバー/予約タイマー/豆自動計量/最大4杯/給水タンク取り外し可能] SC-C112 ブラック/ステンレスシルバー(K/SS)",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0CW1JK2WR",
+      "title": "[山善] サーキュレーター DCモーター 静音 20畳 (換気/空気循環) 上下左右自動首振り 風量7段階調節 入切タイマー リモコン付き ホワイトグレー YAR-ND15E(WH)",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0D5CSCHM1",
+      "title": "【2026新登場・省エネ＆目に優しい】 デスクライト 明るい ledライト 照明 無段階調光 5段階調色 タイマー・記憶機能 高輝度 スタンドライト USB給電式 電気スタンド 卓上 ledデスクライト 折り畳み式 収納簡単 卓上 led 軽量 机 読書 寝室 学習机 スマホ給電可能 タイマー機能 おしゃれ 目に優しい 読書灯",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0D6V9Y882",
+      "title": "TITIROBA 目覚まし時計 光 めざまし時計 YABAE Wake Up Light ウェイクアップ ライト 置き時計 光目覚まし スリープタイマー スヌーズ ラジオ ナイトライト イルミネーション 光目覚まし時計 FZ-06-L",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0DJXRYLHG",
+      "title": "エコチェッカー エコキーパー プログラムタイマー コンセント 電力計 節電 電力チェッカー チェッカー AC100V 1500W 大型LCD表示",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0DJY2KFNB",
+      "title": "KOZUMUWAN エコキーパー エコチェッカー コンセント プログラムタイマー 白 ボタン 簡易電力量計 大型LCD表示 電力計 節電",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0DRHXLQM9",
+      "title": "blonbar 目覚まし時計 光 目覚ましライト LED置き時計 スヌーズ機能付き ホワイトノイズ & 多機能ナイトライト（間接照明/タイマー/授乳灯）メモリー機能搭載 重睡者・子供向け 出産祝いギフト AC電源接続式",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0DT6S7NZ8",
+      "title": "SwitchBot スマートプラグ プラグミニ スマートコンセント スイッチボット 消費電力モニター タイマー コンセント 節電·省エネ 直差し 遠隔操作 音声コントロール Bluetooth&Wi-Fi両方対応 スマートホーム Alexa, Google Home, Siri, IFTTT, SmartThings対応",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26"
+    },
+    {
+      "asin": "B0DT6VJ3K7",
+      "title": "SwitchBot スマートプラグ プラグミニ Appleデバイス対応 スマートコンセント スイッチボット 消費電力モニター HomeKit対応 タイマー コンセント Bluetooth&Wi-Fi両方対応 節電·省エネ 直差し 遠隔操作 音声コントロール スマートホーム Alexa, Google Home, Siri, IFTTT, SmartThings対応",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26"
+    },
+    {
+      "asin": "B0DT6X8963",
+      "title": "SwitchBot スマートプラグ プラグミニ スマートコンセント スイッチボット 消費電力モニター タイマー コンセント 節電·省エネ 直差し 遠隔操作 音声コントロール Bluetooth&Wi-Fi両方対応 スマートホーム Alexa, Google Home, Siri, IFTTT, SmartThings対応 2個入り",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-26"
+    },
+    {
+      "asin": "B0DXPG7LFN",
+      "title": "[山善] 除湿機 衣類乾燥 除湿器 コンプレッサー式 小型 強力除湿 除湿量 3.8L 切タイマー おやすみ運転 ホワイト YDC-J03(W)",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0DZ1T51KS",
+      "title": "除湿機 小型【2026梅雨対策・強力除湿・省エネ】衣類乾燥除湿機 除湿器 ダブルぺルチェ式 強力 じょしつき 24時間切タイマー 7色ナイトランプ 満水自動停止 LED表示画面 コンパクト",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0DZGWBN8H",
+      "title": "[山善] サーキュレーター DCモーター 静音 22畳 (換気/空気循環) 上下左右自動首振り 風量7段階調節 入切タイマー リモコン付き ホワイト YAR-MD18(WH)",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0FBW8QM21",
+      "title": "Anycee アイウォーマー【世界初！全機能カスタム対応】 ホットアイマスク 充電式 3段階気圧・温度・音量調整 目元ケア 3Dアイホール構造 アイケア Bluetooth音楽再生 アイマスク ホット 折り畳み式・軽量 サイズ調節可能 男女兼用 自動オフタイマー 睡眠グッズ 静音設定可 簡単操作 冷却アイマスク 結婚記念日 母の日 父の日ギフト 誕生日 敬老の日 プレゼント バレンタイン ギフト",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0FM3NXDVN",
+      "title": "Hoxhyon デスクライト LED クランプ式「PSE認証済」卓上ライト 電気スタンド 目に優しい デスクスタンド デスクランプ テーブルライト | 【ダブル光源 広範囲・高均一照明・無線リモコン・5段階調色調光・角度自由調節・タイマー】読書/勉強",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0G4VW29T7",
+      "title": "TOKAIZ アロマディフューザー 水なし 車 静音 充電式 ネブライザー式 コードレス おしゃれ 噴霧式 ディフューザー タイマー コンパクト オイル漏れ防止 3段階調節 自動停止 車載 室内 TAD-005",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0GHMVCX6D",
+      "title": "タイムロッキングコンテナ スマホ ロックボックス タイムコンテナ タイム ロッキング コンテナ タイムロッキングコンテリア スマホロック 携帯ロックボックス スマホ 封印 タイム ロック ボックス iphone タイマー 箱 スマホ依存症対策 電池式 時間を自由に設定 一年の連続使用時間 禁煙 お金 お菓子 スマホやゲームのやりすぎに最適 ベージュ Shlmnbo",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0GK714MN4",
+      "title": "スマホおあずけくん タイマー式 スマホロックケース スマホロックボックス タイムロックコンテナ スマホロック スマホ依存症 禁欲 デジタルデトックス タイムロッキングコンテナ タイムロックボックス 受験対策 勉強タイマー 集中力向上 (ホワイト)",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0FHVXSJD3",
+      "title": "ポモドーロタイマー 5/10/25/50分プリセット付き デジタルキューブタイマー LED表示 フリップ式カウントダウン 重力センサー 静音モード USB充電式 勉強・仕事・キッチン・ADHD対応 学習タイマー (オレンジ)",
+      "reason": "メーカー推定に商品種別が混入。実在メーカー名未確認のため保留"
+    },
+    {
+      "asin": "B0FB3827XP",
+      "title": "ポモドーロタイマー 5/10/25/50分 プリセット付き 視覚キューブ型タイマー 重力センサー搭載 無音モード 勉強・仕事・キッチン・ADHD対応 デスク用 学習タイマー (黒)",
+      "reason": "メーカー推定に商品種別が混入。実在メーカー名未確認のため保留"
+    }
+  ],
+  "variant_policy": "色・サイズの候補を残し親群を提示。機械選抜は最新実測後に主担当が行う",
+  "notes": [
+    "履歴値を最新在庫/採用品として扱わない",
+    "公式メーカー/型番/狭い用途は未確認事項を明記",
+    "Amazon検索/実測/API/ブラウザ/DB書込みなし"
+  ],
+  "maker_normalization_note": "候補段階の手動正規化で別表記の同一メーカーを統一。採用品/掲載順/数は機械選抜で決める"
+}
