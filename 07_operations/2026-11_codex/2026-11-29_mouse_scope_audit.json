@@ -1,0 +1,2118 @@
+{
+  "date": "2026-11-29",
+  "topic_id": "daily_gadget_20261129_8393c396",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 21,
+  "parent_groups": {
+    "B06X3TWF4T": [
+      "B06WRN4VGJ"
+    ],
+    "B0GK6W2KTW": [
+      "B0956X785M"
+    ],
+    "B07S8VWT5B": [
+      "B07S8VWT5B"
+    ],
+    "B0FKLZF9FW": [
+      "B08LMK3L5C"
+    ],
+    "B0DW2V6Z4V": [
+      "B088P8QYWN"
+    ],
+    "B0GK66NLWM": [
+      "B09J46WG5D"
+    ],
+    "B09QKNS92W": [
+      "B09Q5SHDR3"
+    ],
+    "B0BLGQC3L4": [
+      "B0BKPL1VKW"
+    ],
+    "B0CL3TY9TF": [
+      "B0956BPVC7"
+    ],
+    "B0GK6QPGNT": [
+      "B0C2YK1CS6"
+    ],
+    "B0FX2P89K6": [
+      "B0CJR5HBMN"
+    ],
+    "B09X74W2B2": [
+      "B09WV6D7SM"
+    ],
+    "B0D21S5SPG": [
+      "B0D21S5SPG"
+    ],
+    "B0CT2YTCJC": [
+      "B09KRQYKL4"
+    ],
+    "B0C6JVSPXP": [
+      "B0C65MQZ65"
+    ],
+    "B07J6ZVXHL": [
+      "B01G54TY1K"
+    ],
+    "B0DW4B174H": [
+      "B01G54NODO"
+    ],
+    "B08PQTF8LL": [
+      "B01HO0W4SE"
+    ],
+    "B0F8GPGNCG": [
+      "B09Y8G6FJJ"
+    ],
+    "B0GK72P1D9": [
+      "B0BKP2XWY5"
+    ],
+    "B0HHJ6FJQ3": [
+      "B0FJRCJ1SN"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B005EJH6RW",
+      "title": "Amazonベーシック マウス USB有線 ブラック",
+      "maker": "Amazon",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B07ZYV7QHZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": "無線接続をローカル仕様で確認できない（有線専用機を除外）",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B00OPOCCNA",
+      "title": "バッファロー マウス 有線 USB 5ボタン 静音 BlueLED BSMBU19BK",
+      "maker": "バッファロー",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B01NBB5U6Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": "無線接続をローカル仕様で確認できない（有線専用機を除外）",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B016QCPNUW",
+      "title": "エレコム ワイヤレス トラックボールマウス EX-G 握りの極み 6ボタン チルトホイール（左右スクロール） ブラック M-XT3DRBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": "B0CHYHN8CS",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B016QCPO0G",
+      "title": "エレコム USB 有線 トラックボールマウス 6ボタン チルトホイール（左右スクロール） ブラック M-XT3URBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": "B0CHYG5W78",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B016QCPRBM",
+      "title": "エレコム ワイヤレス トラックボールマウス EX-G 左手用 6ボタン チルトホイール（左右スクロール） ブラック M-XT4DRBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 1,
+      "parent_asin": "B0BDJL7N1T",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-25",
+          "title": "省スペースで操作する「トラックボール」9選",
+          "asin": "B016QCPRBM"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-25_省スペースで操作する「トラックボール」9選.md",
+          "date": "2026-10-25",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0171QQ7IY",
+      "title": "エレコム USB マウス 有線 トラックボール 人差し指用 8ボタン ブラック M-DT2URBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 1,
+      "parent_asin": "B0G11Y4828",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B01G54NODO",
+      "title": "エレコム マウス ワイヤレス (レシーバー付属) Lサイズ 5ボタン (戻る・進むボタン搭載) 静音 BlueLED 握りの極み ブラック M-XGL10DBSBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0DW4B174H",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B01G54TY1K",
+      "title": "エレコム ワイヤレスマウス 静音 握りの極み Mサイズ 5ボタン ブラック M-XGM10DBSBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": "B07J6ZVXHL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-15",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-15",
+          "title": "深夜の作業も安心。静かな「キーボードとマウス」 7 選",
+          "asin": "B01G54TY1K"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B01HO0W4SE",
+      "title": "エレコム マウス ワイヤレス (レシーバー付属) Mサイズ 3ボタン IRセンサー 省電力 ブラック M-IR07DRBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B08PQTF8LL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B06WRN4VGJ",
+      "title": "バッファロー マウス ワイヤレス 静音 5ボタン dpi切替 BlueLED ブラック BSMBW325BK",
+      "maker": "バッファロー",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B06X3TWF4T",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B079FDQZXQ",
+      "title": "エレコム マウス ワイヤレス (レシーバー付属) トラックボール 大玉 8ボタン チルト機能 ブラック M-HT1DRXBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 1,
+      "parent_asin": "B0G123MT46",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-25",
+          "title": "省スペースで操作する「トラックボール」9選",
+          "asin": "B079FDQZXQ"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-25_省スペースで操作する「トラックボール」9選.md",
+          "date": "2026-10-25",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07DVC25R2",
+      "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファ",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0FWB24GVS",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07PFGDZD7",
+      "title": "エレコム ワイヤレスキーボード マウスセット メンブレン 薄型 フルキーボード ブラック TK-FDM110MBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0CT2ZQSHP",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07RR94VQT",
+      "title": "Logicool G ゲーミングマウス G502WL LIGHTSPEED ワイヤレス ゲーミング マウス HERO 25K センサー LIGHTSYNC RGB 11個プログラムボタン POWERPLAY 無線 充電 対応 ブラック PC wind",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07S8VWT5B",
+      "title": "バッファロー マウス ワイヤレス 5ボタン 最大584日使用可能 BlueLED ブラック BSMBW315BK",
+      "maker": "バッファロー",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07SYKKP47",
+      "title": "Logicool G ワイヤレス ゲーミングマウス G703h LIGHTSPEED HERO 25Kセンサー エルゴノミクス LIGHTSYNC RGB POWERPLAY 無線 充電 対応 ゲーミング マウス 充電式 無線 PC windows",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07T4BHZ7J",
+      "title": "【Amazon.co.jp限定】 Logicool G ゲーミングマウス G403h HERO 有線 軽量 87g ゲーミング マウス 有線マウス 25Kセンサー エルゴノミクス LIGHTSYNC RGB PC windows mac G403 ブラック 国内正規品 ※Amazon限定 壁紙ダウンロード付き",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0G2BZQ8QC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0843QXWWZ",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 旅行 出張 便利グッズ マウス ケーブル モバイルバッテリー 収納ポーチ トラベルポーチ Sサイズ ブラック 200-BAGIN014BK",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": "サンワダイレクト",
+      "historical_tier": 1,
+      "parent_asin": "B0843SLFT1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0843RKFPJ",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 旅行 出張 便利グッズ マウス ケーブル モバイルバッテリー 収納ポーチ トラベルポーチ Lサイズ ブラック 200-BAGIN016BK",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": "サンワダイレクト",
+      "historical_tier": 1,
+      "parent_asin": "B0843SLFT1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0843WY8RR",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 マウス ケーブル モバイルバッテリー Mサイズ ブラック 200-BAGIN015BK",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": "サンワサプライ",
+      "historical_tier": 1,
+      "parent_asin": "B0843SLFT1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B087BTXHX4",
+      "title": "Logicool G ゲーミングマウス G203 有線 ゲーミング マウス USB 接続 G203-BK 軽量 85g LIGHTSYNC RGB 6個プログラムボタン ブラック PC windows mac 国内正規品 【 ファイナルファンタジー",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0CNRQ2KJH",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B088P8QYWN",
+      "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0DW2V6Z4V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08CKZ9TSY",
+      "title": "Logicool G ゲーミングマウス G502 有線 USB 接続 マウス HERO 25Kセンサー G502RGBhr LIGHTSYNC RGB 11個プログラムボタン FPS / MMO / RPG ブラック PC windows mac 国",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GWFKXPJZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08GSCC8RX",
+      "title": "エレコム トラックボールマウス ハンディタイプ Relacon メディアコントロールボタン搭載 スタンド付 静音 Bluetooth ブラック M-RT1BRXBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": "B0F9P5QZWG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08LMK3L5C",
+      "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "エレコム",
+      "historical_tier": 1,
+      "parent_asin": "B0FKLZF9FW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0956BPVC7",
+      "title": "バッファロー ワイヤレス モバイルマウス Bluetooth FLEXUS 薄型軽量 3ボタン 無線 静音 BlueLED MIL規格準拠 dpi切替(600/1200) プレゼンテーションモード搭載 節電モデル 最大972日使用可能",
+      "maker": "バッファロー",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "バッファロー",
+      "historical_tier": 1,
+      "parent_asin": "B0CL3TY9TF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0956X785M",
+      "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GK6W2KTW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09J46WG5D",
+      "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 静音 M220CG 小型 電池寿命最大18ケ月 左右対称 M220 マウス 無線マウス 静音マウス グレー 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ロジクール",
+      "historical_tier": 1,
+      "parent_asin": "B0GK66NLWM",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09KRQYKL4",
+      "title": "エレコム マウス ワイヤレスマウス Bluetooth 静音 3ボタン Sサイズ 抗菌 ブラック M-BY10BRSKBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 1,
+      "parent_asin": "B0CT2YTCJC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09Q5SHDR3",
+      "title": "ロジクール Signature M650MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ロジクール",
+      "historical_tier": 1,
+      "parent_asin": "B09QKNS92W",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09WV6D7SM",
+      "title": "ロジクール ワイヤレス 縦型 静音 エルゴノミック マウス LIFT M800GR Logi Bolt Bluetooth Unifying非対応 smartwheel ワイヤレスマウス 無線 windows mac chrome iPad Android OS M800 グラファイト 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Logicool",
+      "historical_tier": 1,
+      "parent_asin": "B09X74W2B2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09Y8G6FJJ",
+      "title": "エレコム ワイヤレスマウス Bluetooth EX-G 握りの極み 静音設計 5ボタン マルチペアリング Mサイズ ガンメタリック M-XGM15BBSGM/EC",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0F8GPGNCG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BG9VR34L",
+      "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音",
+      "maker": "Ewin",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ewin",
+      "historical_tier": 1,
+      "parent_asin": "B0FHVWWS82",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-25",
+          "title": "省スペースで操作する「トラックボール」9選",
+          "asin": "B0BG9VR34L"
+        },
+        {
+          "published_date": "2026-09-15",
+          "title": "深夜の作業も安心。静かな「キーボードとマウス」 7 選",
+          "asin": "B0BG9VR34L"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-25_省スペースで操作する「トラックボール」9選.md",
+          "date": "2026-10-25",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BHL3B2VF",
+      "title": "Logicool G ゲーミングマウス G502 X LIGHTSPEED ワイヤレス マウス G502XWL-CRBK LIGHTFORCE ハイブリッドスイッチ HERO 25K センサー 13個プログラムボタン USB Type-C 充電 PO",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0D4TTDJML",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BKP2XWY5",
+      "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品 | レギュラーサイズ、3ボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M550、M550M、壁紙ダウンロード付き",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GK72P1D9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BKPL1VKW",
+      "title": "Logicool Signature M750MGR ワイヤレスマウス 静音 レギュラー グラファイト ワイヤレス マウス 無線 Bluetooth Logi Bolt Unifying非対応 windows mac iPad Android Chrome",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Logicool",
+      "historical_tier": 1,
+      "parent_asin": "B0BLGQC3L4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0C2YK1CS6",
+      "title": "ロジクール 静音 ワイヤレスマウス M240GR Silent Bluetooth マウス グラファイト 無線 ワイヤレス 小型 左右対称 logi bolt windows mac iPad OS Chrome Android M240 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Logicool",
+      "historical_tier": 1,
+      "parent_asin": "B0GK6QPGNT",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0C3LCSQBW",
+      "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音 エルゴノミクスマウス 腱鞘炎対策 手首が疲れにくい 長時間作業 5段階DPI調整 7ボタン 戻る・進むボタン 在宅勤務 テレワーク Windows Mac iPad Android対応 (パープル)",
+      "maker": "Ewin",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ewin",
+      "historical_tier": 1,
+      "parent_asin": "B0FHW6KQ46",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C5XNRVWM",
+      "title": "Razer(レイザー) Cobra ゲーミングマウス 58g 軽量 コンパクト つかみ持ち/つまみ持ちにフィット 有線 第3世代 オプティカルマウススイッチ 没入感を高めるアンダーグロー Chroma ライティング 8500 DPI オプティカルセン",
+      "maker": "Razer",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C65MQZ65",
+      "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Logicool",
+      "historical_tier": 1,
+      "parent_asin": "B0C6JVSPXP",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-04",
+          "title": "【ロジクール徹底比較】MX シリーズ人気ガジェット 10 選",
+          "asin": "B0C65MQZ65"
+        },
+        {
+          "published_date": "2026-03-31",
+          "title": "3 月のベストバイ。新生活を彩る「買ってよかったギア」 8 選",
+          "asin": "B0C65MQZ65"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0C7B6VD99",
+      "title": "サンワダイレクト トラックボール エルゴノミクス マウス 静音 無線 Bluetooth 2.4GHz 充電式 400-MAWBTTB190BK",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": "サンワダイレクト",
+      "historical_tier": 2,
+      "parent_asin": "B0CV394W6F",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CFL9BVKX",
+      "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音 エルゴノミクスマウス 腱鞘炎対策 手首が疲れにくい 長時間作業 5段階DPI調整 7ボタン 戻る・進むボタン 在宅勤務 テレワーク Windows Mac iPad Android対応 (グレー)",
+      "maker": "Ewin",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ewin",
+      "historical_tier": 1,
+      "parent_asin": "B0FHW8G37T",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CHY6NNZZ",
+      "title": "GTPLAYER ゲーミングデスク パソコンデスク「メーカー二年保証」pcデスク机 テレワーク デスクマット付き ゲーミングマウスマット 作業机 オフィスデスク モニターアーム取付対応 幅140cm×奥行60cm 耐荷重100kg 炭素繊維天板 頑丈",
+      "maker": "GTPLAYER",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0F62DC8YJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CJR5HBMN",
+      "title": "Logicool Pebble M350s 薄型ワイヤレスマウス",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Logicool",
+      "historical_tier": 1,
+      "parent_asin": "B0FX2P89K6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-02-02",
+      "dg_use_history": [
+        {
+          "published_date": "2026-02-02",
+          "title": "美しさは、軽さ。無駄を削ぎ落とした「ミニマリストのガジェット」 8 選",
+          "asin": "B0CJR5HBMN"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CRQWQRMT",
+      "title": "ProtoArc EM04 トラックボールマウス 静音 無線 Bluetooth/2.4GHz 3台同時接続 手首負担軽減 人間工学 親指操作 充電式 | 省スペース 在宅勤務 オフィス Windows Mac iOS Android対応 黒+オレン",
+      "maker": "ProtoArc",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ProtoArc",
+      "historical_tier": 1,
+      "parent_asin": "B0FP9MXJJ7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CVRTT6L1",
+      "title": "Razer Viper V3 Pro White Edition ゲーミングマウス ワイヤレス 無線 Focus Pro 35Kセンサー 35000DPI 高速応答 オプティカルスイッチ 6ボタン",
+      "maker": "Razer",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CWHKJ79R",
+      "title": "QSPEC PTFEマウスソール SURUGA Logicool G PRO X SUPERLIGHT2用,G PRO X2 SUPERSTRIKE用 | ゲーミング用,ゲーミングマウス,滑らかな滑走面,マウススピード向上,ラウンドエッジ加工,マウス",
+      "maker": "QSPEC",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0F9K6YS65",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CY57DPW5",
+      "title": "tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテリー マウス収納 出張 お出掛け オフィス 旅行 便利グッズ バックインバッグ 二層 自立 撥水 軽量 ブラック",
+      "maker": "tomtoc",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "tomtoc",
+      "historical_tier": 1,
+      "parent_asin": "B0F18BF9VZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-03",
+          "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+          "asin": "B0CY57DPW5"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CYGYNB3K",
+      "title": "【極薄型モデル＆Type-C充電式】マウス 無線 Bluetooth 5.2 ワイヤレスマウス 静音 瞬時接続 小型 高感度 ブルートゥース 2.4GHz 3段階DPI切替 省エネ 7色ライト 光学式 高耐久性 Mac/Windows/Surface",
+      "maker": "マウス",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HKVZNJBP",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認",
+        "メーカー名称を公式確認するまでメーカー多様性へ数えない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CYH3GC38",
+      "title": "【極薄型モデル＆Type-C充電式】マウス 無線 Bluetooth 5.2 ワイヤレスマウス 静音 瞬時接続 小型 高感度 ブルートゥース 2.4GHz 3段階DPI切替 省エネ 7色ライト 光学式 高耐久性 Mac/Windows/Surface/パソコン/Mac 対応 TELEC認証取得済み (white)",
+      "maker": "極薄型モデル＆Type-C充電式】マウス",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "極薄型モデル＆Type-C充電式】マウス",
+      "historical_tier": 1,
+      "parent_asin": "B0H5PTQM5K",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": "メーカー推定に販促語または商品種別が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CZKNNNXJ",
+      "title": "エレコム ワイヤレス トラックボールマウス Bluetooth IST (アイエスティー) シリーズ 5ボタン 親指操作 ベアリング支持 Windows Mac Chromebook ブラック 2 M-IT11BRABK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": "B0DTHFHLB9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D1X5B9PC",
+      "title": "【8000Hzドングル同梱・超軽量55g】Razer Viper V3 Pro White Edition ゲーミングマウス ワイヤレス 無線 Focus Pro 35Kセンサー 35000DPI 高速応答 オプティカルスイッチ 6ボタン",
+      "maker": "Razer",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0FNC6QS3M",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D21Q6QG4",
+      "title": "【Amazon.co.jp限定】 Logicool G PRO X SUPERLIGHT 2 ゲーミングマウス G-PPD-004WL-BKd | 8000Hz ポーリングレート ワイヤレス 軽量 60g LIGHTFORCE ハイブリッドスイッチ HERO2 センサー USB Type-C 充電 POWERPLAY 対応 ゲーミング マウス ブラック 国内正規品 壁紙ダウンロード付き",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HCTJ92FR",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D21S5SPG",
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレスマウス 無線 Silent Bluetooth M240GRd グラファイト 国内正規品 | 静音、小型、左右対称、電池式（単3乾電池 x 1）、電池寿命18ヶ月、Bluetooth、Lo",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D3QJ66DH",
+      "title": "ProtoArc EM01 NL トラックボールマウス 静音 20°角度調整 無線 2.4G Bluetooth対応 3台同時接続 手首負担軽減 | 人間工学設計 長時間PC作業 5段階DPI USB-C充電式 自宅/オフィス用 Windows/Ma",
+      "maker": "ProtoArc",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ProtoArc",
+      "historical_tier": 1,
+      "parent_asin": "B0H98T8QK9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-25",
+          "title": "省スペースで操作する「トラックボール」9選",
+          "asin": "B0D3QJ66DH"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-25_省スペースで操作する「トラックボール」9選.md",
+          "date": "2026-10-25",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D8HRRBKH",
+      "title": "EWiN マウス トラックボール 無線 Bluetooth&2.4GHz両対応 3台同時接続 5段階DPI調節 Type-C充電式 ワイヤレス",
+      "maker": "Ewin",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ewin",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D9VWPG1T",
+      "title": "【Amazon.co.jp限定】Logicool G PRO X SUPERLIGHT 2 DEX ゲーミングマウス GPROXSL-WLDEXBKd | 8000Hz ポーリングレート 右手 44K DPI ワイヤレス ゲーミング マウス エルゴノミクス 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED USB Type-C 充電 壁紙ダウンロード 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0G2BYDCHH",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D9Y1J4NH",
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品",
+      "maker": "【Amazon.co.jp限定】",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "【Amazon.co.jp限定】",
+      "historical_tier": 1,
+      "parent_asin": "B0H8XVRBYV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-25",
+          "title": "省スペースで操作する「トラックボール」9選",
+          "asin": "B0D9Y1J4NH"
+        },
+        {
+          "published_date": "2026-09-15",
+          "title": "深夜の作業も安心。静かな「キーボードとマウス」 7 選",
+          "asin": "B0D9Y1J4NH"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-25_省スペースで操作する「トラックボール」9選.md",
+          "date": "2026-10-25",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "メーカー名称を公式確認するまでメーカー多様性へ数えない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D9Y1SNQT",
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MXTB2d MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品 ※Amazon.co.jp限定 壁紙ダウンロード付き",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Logicool",
+      "historical_tier": 1,
+      "parent_asin": "B0GK73K8RY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-25",
+          "title": "省スペースで操作する「トラックボール」9選",
+          "asin": "B0D9Y1SNQT"
+        },
+        {
+          "published_date": "2026-04-04",
+          "title": "【ロジクール徹底比較】MX シリーズ人気ガジェット 10 選",
+          "asin": "B0D9Y1SNQT"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-25_省スペースで操作する「トラックボール」9選.md",
+          "date": "2026-10-25",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DC5WQQ2J",
+      "title": "ロジクール 静音 ワイヤレス トラックボール マウス M575SPGR Bluetooth Logibolt 無線 windows mac iPad OS Chrome トラックボールマウス グラファイト M575 M575SP 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Logicool",
+      "historical_tier": 1,
+      "parent_asin": "B0H8XVRBYV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-25",
+          "title": "省スペースで操作する「トラックボール」9選",
+          "asin": "B0D9Y1J4NH"
+        },
+        {
+          "published_date": "2026-09-15",
+          "title": "深夜の作業も安心。静かな「キーボードとマウス」 7 選",
+          "asin": "B0D9Y1J4NH"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-25_省スペースで操作する「トラックボール」9選.md",
+          "date": "2026-10-25",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DC5WZLY2",
+      "title": "ロジクール 静音 ワイヤレス トラックボール マウス M575SPOW Bluetooth Logibolt 無線 windows mac iPad OS Chrome トラックボールマウス オフホワイト M575 M575SP 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ロジクール",
+      "historical_tier": 1,
+      "parent_asin": "B0H8XVRBYV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-25",
+          "title": "省スペースで操作する「トラックボール」9選",
+          "asin": "B0D9Y1J4NH"
+        },
+        {
+          "published_date": "2026-09-15",
+          "title": "深夜の作業も安心。静かな「キーボードとマウス」 7 選",
+          "asin": "B0D9Y1J4NH"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-25_省スペースで操作する「トラックボール」9選.md",
+          "date": "2026-10-25",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DC5X912P",
+      "title": "ロジクール 静音 ワイヤレス トラックボール マウス MXTB2 MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GK73K8RY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-25",
+          "title": "省スペースで操作する「トラックボール」9選",
+          "asin": "B0D9Y1SNQT"
+        },
+        {
+          "published_date": "2026-04-04",
+          "title": "【ロジクール徹底比較】MX シリーズ人気ガジェット 10 選",
+          "asin": "B0D9Y1SNQT"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-25_省スペースで操作する「トラックボール」9選.md",
+          "date": "2026-10-25",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DDTK1M4F",
+      "title": "ProtoArc EM05 NL トラックボールマウス 縦型62° 静音 無線 2.4GHz Bluetooth 3台同時接続 人間工学 手首疲れ軽減 | 親指操作 省スペース エルゴノミクスマウス USB充電式 大容量バッテリー 5段階DPI 右利",
+      "maker": "ProtoArc",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ProtoArc",
+      "historical_tier": 1,
+      "parent_asin": "B0HC1Z4V98",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-25",
+          "title": "省スペースで操作する「トラックボール」9選",
+          "asin": "B0DDTK1M4F"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-25_省スペースで操作する「トラックボール」9選.md",
+          "date": "2026-10-25",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DQ5XKH9Y",
+      "title": "tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテリー マウス収納 出張 お出掛け オフィス 旅行 便利グッズ",
+      "maker": "tomtoc",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "tomtoc",
+      "historical_tier": 1,
+      "parent_asin": "B0F18BF9VZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-03",
+          "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+          "asin": "B0CY57DPW5"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DT6NRWDX",
+      "title": "エレコム トラックボールマウス IST PRO マルチ接続 Bluetooth 無線2.4GHz 有線 ベアリング支持 10ボタン ブラック M-IPT10MRSBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DXDVLV4W",
+      "title": "UGREEN 6個セット マグネット式 ケーブルホルダー 小型 ケーブルクリップ 配線止め 配線整理 貼り付け 強力粘着 USB配線収納 コード・ケーブルオーガナイザー 卓上 デスク 机 壁 車 ナイトテーブル 固定 type-c 充電ケーブル lanケーブル 電源コード キーボードライン マウス イヤホン ヘッドホンコード などに対応 黒",
+      "maker": "Ugreen",
+      "maker_source": "商品名UGREENと会社ブランド表記の正規化",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FG6M4DFP",
+      "title": "【Amazon.co.jp限定】Logicool G PRO SUPERLIGHT ワイヤレス ゲーミングマウス G-PPD-004WLSE-BKd | 軽量 Type-C 充電 POWERPLAY 対応 ゲーミング マウス 充電式 無線 ブラック 壁紙ダウンロード付き 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0G2BW9RX5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FG74B2PC",
+      "title": "【Amazon.co.jp限定】Logicool G 8000Hz ポーリングレート PRO X SUPERLIGHT 2c コンパクト ワイヤレス ゲーミングマウス G-PPD-004WLCO-BKd 軽量 51g LIGHTSPEED HERO2 センサー USB Type-C 充電 POWERPLAY ブラック 国内正規品 ※Amazon.co.jp限定 壁紙ダウンロード付き",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0G2BZ399H",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FJRCJ1SN",
+      "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HHJ6FJQ3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FPRQPGT7",
+      "title": "Logicool G PRO X SUPERLIGHT 2 SE 44K DPI ワイヤレス ゲーミングマウス G-PPD-004WLSE-BK 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED HERO2 センサー U",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0G2BW9RX5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0G4R81TR9",
+      "title": "フィリップス トラックボールマウス 静音 Bluetooth/USBレシーバー対応 無線 最大3台接続 手首が疲れにくい 3200DPI エルゴノミクスマウス 6ボタン 進む/戻るボタン搭載 5段階DPI切替 親指操作 windows/Android",
+      "maker": "Philips",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Philips",
+      "historical_tier": 3,
+      "parent_asin": "B0GYRRN55Q",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GF7HQXRN",
+      "title": "Pulsar Gaming Gears CrazyLight Series ワイヤレス ゲーミングマウス 超軽量 38グラム 1ms 32000 DPI Optical swhich XS-1 Flagship Sensor 国内正規品(X2N CrazyLight, Mini, Uyuni White)",
+      "maker": "Pulsar",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0H79VSPRJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GGWQ7HZ2",
+      "title": "Logicool G ラピッドトリガー PRO X2 SUPERSTRIKE LIGHTSPEED ゲーミングマウス G-PPD-004WL-STRK | 8000Hz ポーリングレート 軽量 61g ハプティック誘導トリガーシステム HITS 90",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0GHLJCNTN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GGX35X72",
+      "title": "【Amazon.co.jp限定】 Logicool G PRO X2 SUPERSTRIKE ゲーミングマウス G-PPD-004WL-STRKd | ラピッドトリガー 8000Hz ポーリングレート 軽量 61g ハプティック誘導トリガーシステム HITS 90時間 HERO2 USB Type-C 充電 POWERPLAY ワイヤレス ゲーミング マウス 壁紙ダウンロード付き 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0GHLJCNTN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GLM7WKVH",
+      "title": "Razer レイザー Viper V4 Pro ゲーミングマウス 49g 超軽量 8,000Hzドングル同梱 ワイヤレス HyperSpeed Wireless 第3世代 Razer Focus Pro オプティカルセンサー 50,000DPI 第4",
+      "maker": "Razer",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0H9PQ6T5D",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GNXCXQH1",
+      "title": "サンワダイレクト トラックボールマウス 無線 静音 チルトホイール 高速スクロール Bluetooth ブラック 400-MAWBTB230BK | 充電式,エルゴノミクス,5ボタン,マルチペアリング,ワイヤレス",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": "サンワダイレクト",
+      "historical_tier": 3,
+      "parent_asin": "B0GTQFXQ1X",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GRTXGV6C",
+      "title": "【予約商品：2026年8月28日発売】「国内正規品」Keychron Nape Pro トラックボールマウス 25mmボール 8方向対応 ブラック | OctaShift ZMK搭載 3台同時接続",
+      "maker": "「国内正規品」Keychron",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "「国内正規品」Keychron",
+      "historical_tier": 3,
+      "parent_asin": "B0GS1TDLXC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GSDZTC65",
+      "title": "Nulea トラックボールマウス ワイヤレス チルトスタンド付き Bluetooth/2.4G/USB 3台同時接続 充電式 4段階DPI 人間工学 親指操作 右利き 6ボタン 進む/戻るボタン搭載 PC/ノート/Windows/Mac/iPad対応",
+      "maker": "Nulea",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Nulea",
+      "historical_tier": 1,
+      "parent_asin": "B0H45RLKRK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-25",
+          "title": "省スペースで操作する「トラックボール」9選",
+          "asin": "B0GSDZTC65"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-25_省スペースで操作する「トラックボール」9選.md",
+          "date": "2026-10-25",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GZP4CVXP",
+      "title": "【最新型】ProtoArc EM02 トラックボールマウス 静音 2段階角度調整 Bluetooth 2.4GHz 3台同時接続 人間工学 手首が楽 | 無線 親指操作 省スペース 充電式 5段階DPI切替 進む/戻るボタン搭載 在宅勤務 オフィス",
+      "maker": "ProtoArc",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "【最新型】ProtoArc",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H1W2NG3L",
+      "title": "エレコム ワイヤレス トラックボール マウス IST PLUS (アイエスティー プラス) ボールローラー Bluetooth×2 無線2.4GHz×1 マルチ接続 Windows/mac/iPad/Chrome/Android ブラック M-IT1",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": "B0H1W4MPCP",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H2N5HS5J",
+      "title": "エレコム トラックボールマウス ISTシリーズ用 交換パーツ ボールローラー支持ユニット×3個、取り外しツール×1個 M-TU03SS",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0H2MWKDNJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H8T6V98L",
+      "title": "ProtoArc EM04 トラックボールマウス 静音 Bluetooth 2.4GHz 3台同時接続 人間工学 手首負担軽減 親指操作 省スペース | 無線 USB-C充電式 高精度 5段階DPI 進む/戻るボタン搭載 Mac Windows An",
+      "maker": "ProtoArc",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ProtoArc",
+      "historical_tier": 1,
+      "parent_asin": "B0H8T7H8Y5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-30",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B005EJH6RW",
+      "title": "Amazonベーシック マウス USB有線 ブラック",
+      "reason": "無線接続をローカル仕様で確認できない（有線専用機を除外）"
+    },
+    {
+      "asin": "B00OPOCCNA",
+      "title": "バッファロー マウス 有線 USB 5ボタン 静音 BlueLED BSMBU19BK",
+      "reason": "無線接続をローカル仕様で確認できない（有線専用機を除外）"
+    },
+    {
+      "asin": "B016QCPNUW",
+      "title": "エレコム ワイヤレス トラックボールマウス EX-G 握りの極み 6ボタン チルトホイール（左右スクロール） ブラック M-XT3DRBK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B016QCPO0G",
+      "title": "エレコム USB 有線 トラックボールマウス 6ボタン チルトホイール（左右スクロール） ブラック M-XT3URBK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B016QCPRBM",
+      "title": "エレコム ワイヤレス トラックボールマウス EX-G 左手用 6ボタン チルトホイール（左右スクロール） ブラック M-XT4DRBK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0171QQ7IY",
+      "title": "エレコム USB マウス 有線 トラックボール 人差し指用 8ボタン ブラック M-DT2URBK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B079FDQZXQ",
+      "title": "エレコム マウス ワイヤレス (レシーバー付属) トラックボール 大玉 8ボタン チルト機能 ブラック M-HT1DRXBK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B07DVC25R2",
+      "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファ",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B07PFGDZD7",
+      "title": "エレコム ワイヤレスキーボード マウスセット メンブレン 薄型 フルキーボード ブラック TK-FDM110MBK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B07RR94VQT",
+      "title": "Logicool G ゲーミングマウス G502WL LIGHTSPEED ワイヤレス ゲーミング マウス HERO 25K センサー LIGHTSYNC RGB 11個プログラムボタン POWERPLAY 無線 充電 対応 ブラック PC wind",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B07SYKKP47",
+      "title": "Logicool G ワイヤレス ゲーミングマウス G703h LIGHTSPEED HERO 25Kセンサー エルゴノミクス LIGHTSYNC RGB POWERPLAY 無線 充電 対応 ゲーミング マウス 充電式 無線 PC windows",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B07T4BHZ7J",
+      "title": "【Amazon.co.jp限定】 Logicool G ゲーミングマウス G403h HERO 有線 軽量 87g ゲーミング マウス 有線マウス 25Kセンサー エルゴノミクス LIGHTSYNC RGB PC windows mac G403 ブラック 国内正規品 ※Amazon限定 壁紙ダウンロード付き",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0843QXWWZ",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 旅行 出張 便利グッズ マウス ケーブル モバイルバッテリー 収納ポーチ トラベルポーチ Sサイズ ブラック 200-BAGIN014BK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0843RKFPJ",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 旅行 出張 便利グッズ マウス ケーブル モバイルバッテリー 収納ポーチ トラベルポーチ Lサイズ ブラック 200-BAGIN016BK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0843WY8RR",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 マウス ケーブル モバイルバッテリー Mサイズ ブラック 200-BAGIN015BK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B087BTXHX4",
+      "title": "Logicool G ゲーミングマウス G203 有線 ゲーミング マウス USB 接続 G203-BK 軽量 85g LIGHTSYNC RGB 6個プログラムボタン ブラック PC windows mac 国内正規品 【 ファイナルファンタジー",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08CKZ9TSY",
+      "title": "Logicool G ゲーミングマウス G502 有線 USB 接続 マウス HERO 25Kセンサー G502RGBhr LIGHTSYNC RGB 11個プログラムボタン FPS / MMO / RPG ブラック PC windows mac 国",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08GSCC8RX",
+      "title": "エレコム トラックボールマウス ハンディタイプ Relacon メディアコントロールボタン搭載 スタンド付 静音 Bluetooth ブラック M-RT1BRXBK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BG9VR34L",
+      "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BHL3B2VF",
+      "title": "Logicool G ゲーミングマウス G502 X LIGHTSPEED ワイヤレス マウス G502XWL-CRBK LIGHTFORCE ハイブリッドスイッチ HERO 25K センサー 13個プログラムボタン USB Type-C 充電 PO",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0C3LCSQBW",
+      "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音 エルゴノミクスマウス 腱鞘炎対策 手首が疲れにくい 長時間作業 5段階DPI調整 7ボタン 戻る・進むボタン 在宅勤務 テレワーク Windows Mac iPad Android対応 (パープル)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0C5XNRVWM",
+      "title": "Razer(レイザー) Cobra ゲーミングマウス 58g 軽量 コンパクト つかみ持ち/つまみ持ちにフィット 有線 第3世代 オプティカルマウススイッチ 没入感を高めるアンダーグロー Chroma ライティング 8500 DPI オプティカルセン",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0C7B6VD99",
+      "title": "サンワダイレクト トラックボール エルゴノミクス マウス 静音 無線 Bluetooth 2.4GHz 充電式 400-MAWBTTB190BK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CFL9BVKX",
+      "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音 エルゴノミクスマウス 腱鞘炎対策 手首が疲れにくい 長時間作業 5段階DPI調整 7ボタン 戻る・進むボタン 在宅勤務 テレワーク Windows Mac iPad Android対応 (グレー)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CHY6NNZZ",
+      "title": "GTPLAYER ゲーミングデスク パソコンデスク「メーカー二年保証」pcデスク机 テレワーク デスクマット付き ゲーミングマウスマット 作業机 オフィスデスク モニターアーム取付対応 幅140cm×奥行60cm 耐荷重100kg 炭素繊維天板 頑丈",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CRQWQRMT",
+      "title": "ProtoArc EM04 トラックボールマウス 静音 無線 Bluetooth/2.4GHz 3台同時接続 手首負担軽減 人間工学 親指操作 充電式 | 省スペース 在宅勤務 オフィス Windows Mac iOS Android対応 黒+オレン",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CVRTT6L1",
+      "title": "Razer Viper V3 Pro White Edition ゲーミングマウス ワイヤレス 無線 Focus Pro 35Kセンサー 35000DPI 高速応答 オプティカルスイッチ 6ボタン",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CWHKJ79R",
+      "title": "QSPEC PTFEマウスソール SURUGA Logicool G PRO X SUPERLIGHT2用,G PRO X2 SUPERSTRIKE用 | ゲーミング用,ゲーミングマウス,滑らかな滑走面,マウススピード向上,ラウンドエッジ加工,マウス",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CY57DPW5",
+      "title": "tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテリー マウス収納 出張 お出掛け オフィス 旅行 便利グッズ バックインバッグ 二層 自立 撥水 軽量 ブラック",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CYGYNB3K",
+      "title": "【極薄型モデル＆Type-C充電式】マウス 無線 Bluetooth 5.2 ワイヤレスマウス 静音 瞬時接続 小型 高感度 ブルートゥース 2.4GHz 3段階DPI切替 省エネ 7色ライト 光学式 高耐久性 Mac/Windows/Surface",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0CZKNNNXJ",
+      "title": "エレコム ワイヤレス トラックボールマウス Bluetooth IST (アイエスティー) シリーズ 5ボタン 親指操作 ベアリング支持 Windows Mac Chromebook ブラック 2 M-IT11BRABK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0D1X5B9PC",
+      "title": "【8000Hzドングル同梱・超軽量55g】Razer Viper V3 Pro White Edition ゲーミングマウス ワイヤレス 無線 Focus Pro 35Kセンサー 35000DPI 高速応答 オプティカルスイッチ 6ボタン",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0D21Q6QG4",
+      "title": "【Amazon.co.jp限定】 Logicool G PRO X SUPERLIGHT 2 ゲーミングマウス G-PPD-004WL-BKd | 8000Hz ポーリングレート ワイヤレス 軽量 60g LIGHTFORCE ハイブリッドスイッチ HERO2 センサー USB Type-C 充電 POWERPLAY 対応 ゲーミング マウス ブラック 国内正規品 壁紙ダウンロード付き",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0D3QJ66DH",
+      "title": "ProtoArc EM01 NL トラックボールマウス 静音 20°角度調整 無線 2.4G Bluetooth対応 3台同時接続 手首負担軽減 | 人間工学設計 長時間PC作業 5段階DPI USB-C充電式 自宅/オフィス用 Windows/Ma",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0D8HRRBKH",
+      "title": "EWiN マウス トラックボール 無線 Bluetooth&2.4GHz両対応 3台同時接続 5段階DPI調節 Type-C充電式 ワイヤレス",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0D9VWPG1T",
+      "title": "【Amazon.co.jp限定】Logicool G PRO X SUPERLIGHT 2 DEX ゲーミングマウス GPROXSL-WLDEXBKd | 8000Hz ポーリングレート 右手 44K DPI ワイヤレス ゲーミング マウス エルゴノミクス 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED USB Type-C 充電 壁紙ダウンロード 国内正規品",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0D9Y1J4NH",
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0D9Y1SNQT",
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MXTB2d MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品 ※Amazon.co.jp限定 壁紙ダウンロード付き",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DC5WQQ2J",
+      "title": "ロジクール 静音 ワイヤレス トラックボール マウス M575SPGR Bluetooth Logibolt 無線 windows mac iPad OS Chrome トラックボールマウス グラファイト M575 M575SP 国内正規品",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DC5WZLY2",
+      "title": "ロジクール 静音 ワイヤレス トラックボール マウス M575SPOW Bluetooth Logibolt 無線 windows mac iPad OS Chrome トラックボールマウス オフホワイト M575 M575SP 国内正規品",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DC5X912P",
+      "title": "ロジクール 静音 ワイヤレス トラックボール マウス MXTB2 MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DDTK1M4F",
+      "title": "ProtoArc EM05 NL トラックボールマウス 縦型62° 静音 無線 2.4GHz Bluetooth 3台同時接続 人間工学 手首疲れ軽減 | 親指操作 省スペース エルゴノミクスマウス USB充電式 大容量バッテリー 5段階DPI 右利",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DQ5XKH9Y",
+      "title": "tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテリー マウス収納 出張 お出掛け オフィス 旅行 便利グッズ",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DT6NRWDX",
+      "title": "エレコム トラックボールマウス IST PRO マルチ接続 Bluetooth 無線2.4GHz 有線 ベアリング支持 10ボタン ブラック M-IPT10MRSBK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DXDVLV4W",
+      "title": "UGREEN 6個セット マグネット式 ケーブルホルダー 小型 ケーブルクリップ 配線止め 配線整理 貼り付け 強力粘着 USB配線収納 コード・ケーブルオーガナイザー 卓上 デスク 机 壁 車 ナイトテーブル 固定 type-c 充電ケーブル lanケーブル 電源コード キーボードライン マウス イヤホン ヘッドホンコード などに対応 黒",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FG6M4DFP",
+      "title": "【Amazon.co.jp限定】Logicool G PRO SUPERLIGHT ワイヤレス ゲーミングマウス G-PPD-004WLSE-BKd | 軽量 Type-C 充電 POWERPLAY 対応 ゲーミング マウス 充電式 無線 ブラック 壁紙ダウンロード付き 国内正規品",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FG74B2PC",
+      "title": "【Amazon.co.jp限定】Logicool G 8000Hz ポーリングレート PRO X SUPERLIGHT 2c コンパクト ワイヤレス ゲーミングマウス G-PPD-004WLCO-BKd 軽量 51g LIGHTSPEED HERO2 センサー USB Type-C 充電 POWERPLAY ブラック 国内正規品 ※Amazon.co.jp限定 壁紙ダウンロード付き",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FPRQPGT7",
+      "title": "Logicool G PRO X SUPERLIGHT 2 SE 44K DPI ワイヤレス ゲーミングマウス G-PPD-004WLSE-BK 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED HERO2 センサー U",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0G4R81TR9",
+      "title": "フィリップス トラックボールマウス 静音 Bluetooth/USBレシーバー対応 無線 最大3台接続 手首が疲れにくい 3200DPI エルゴノミクスマウス 6ボタン 進む/戻るボタン搭載 5段階DPI切替 親指操作 windows/Android",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GF7HQXRN",
+      "title": "Pulsar Gaming Gears CrazyLight Series ワイヤレス ゲーミングマウス 超軽量 38グラム 1ms 32000 DPI Optical swhich XS-1 Flagship Sensor 国内正規品(X2N CrazyLight, Mini, Uyuni White)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GGWQ7HZ2",
+      "title": "Logicool G ラピッドトリガー PRO X2 SUPERSTRIKE LIGHTSPEED ゲーミングマウス G-PPD-004WL-STRK | 8000Hz ポーリングレート 軽量 61g ハプティック誘導トリガーシステム HITS 90",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GGX35X72",
+      "title": "【Amazon.co.jp限定】 Logicool G PRO X2 SUPERSTRIKE ゲーミングマウス G-PPD-004WL-STRKd | ラピッドトリガー 8000Hz ポーリングレート 軽量 61g ハプティック誘導トリガーシステム HITS 90時間 HERO2 USB Type-C 充電 POWERPLAY ワイヤレス ゲーミング マウス 壁紙ダウンロード付き 国内正規品",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GLM7WKVH",
+      "title": "Razer レイザー Viper V4 Pro ゲーミングマウス 49g 超軽量 8,000Hzドングル同梱 ワイヤレス HyperSpeed Wireless 第3世代 Razer Focus Pro オプティカルセンサー 50,000DPI 第4",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GNXCXQH1",
+      "title": "サンワダイレクト トラックボールマウス 無線 静音 チルトホイール 高速スクロール Bluetooth ブラック 400-MAWBTB230BK | 充電式,エルゴノミクス,5ボタン,マルチペアリング,ワイヤレス",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GRTXGV6C",
+      "title": "【予約商品：2026年8月28日発売】「国内正規品」Keychron Nape Pro トラックボールマウス 25mmボール 8方向対応 ブラック | OctaShift ZMK搭載 3台同時接続",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GSDZTC65",
+      "title": "Nulea トラックボールマウス ワイヤレス チルトスタンド付き Bluetooth/2.4G/USB 3台同時接続 充電式 4段階DPI 人間工学 親指操作 右利き 6ボタン 進む/戻るボタン搭載 PC/ノート/Windows/Mac/iPad対応",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GZP4CVXP",
+      "title": "【最新型】ProtoArc EM02 トラックボールマウス 静音 2段階角度調整 Bluetooth 2.4GHz 3台同時接続 人間工学 手首が楽 | 無線 親指操作 省スペース 充電式 5段階DPI切替 進む/戻るボタン搭載 在宅勤務 オフィス",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0H1W2NG3L",
+      "title": "エレコム ワイヤレス トラックボール マウス IST PLUS (アイエスティー プラス) ボールローラー Bluetooth×2 無線2.4GHz×1 マルチ接続 Windows/mac/iPad/Chrome/Android ブラック M-IT1",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0H2N5HS5J",
+      "title": "エレコム トラックボールマウス ISTシリーズ用 交換パーツ ボールローラー支持ユニット×3個、取り外しツール×1個 M-TU03SS",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0H8T6V98L",
+      "title": "ProtoArc EM04 トラックボールマウス 静音 Bluetooth 2.4GHz 3台同時接続 人間工学 手首負担軽減 親指操作 省スペース | 無線 USB-C充電式 高精度 5段階DPI 進む/戻るボタン搭載 Mac Windows An",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CYH3GC38",
+      "title": "【極薄型モデル＆Type-C充電式】マウス 無線 Bluetooth 5.2 ワイヤレスマウス 静音 瞬時接続 小型 高感度 ブルートゥース 2.4GHz 3段階DPI切替 省エネ 7色ライト 光学式 高耐久性 Mac/Windows/Surface/パソコン/Mac 対応 TELEC認証取得済み (white)",
+      "reason": "メーカー推定に販促語または商品種別が混入。実在メーカー未確認として保留"
+    }
+  ],
+  "historical_tier_distribution": {
+    "1": 19,
+    "2": 2
+  },
+  "maker_count_upper_bound_before_parent": 6,
+  "variant_policy": "同親の色/サイズ候補を残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "親違いの同モデルも公式照合が必要、親群数を商品数とみなさない"
+  ]
+}

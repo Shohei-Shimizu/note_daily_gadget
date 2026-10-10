@@ -1,0 +1,887 @@
+{
+  "generated_at": "2026-10-10T01:11:45+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261129_8393c396",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261129_mouse"
+  ],
+  "fetched_count": 22,
+  "dedup_count": 21,
+  "candidates": [
+    {
+      "asin": "B06WRN4VGJ",
+      "title": "バッファロー マウス ワイヤレス 静音 5ボタン dpi切替 BlueLED ブラック BSMBW325BK",
+      "url": "https://www.amazon.co.jp/dp/B06WRN4VGJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B06WRN4VGJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61eXWAv2OxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【対応機種】USB Type-A端子をもつパソコン,タブレット,ゲーム機",
+        "■インターネットが快適な「戻る」「進む」ブラウジングボタン",
+        "■握り心地を追求した、長時間の使用でも疲れにくい形状",
+        "■クリック音が静かな場所でも気にならない静音設計",
+        "■快適操作を実現するカーソル速度切り替えスイッチ搭載■高感度「BlueLED」方式センサー搭載",
+        "BSMBW325BKとBSMBW320BKは同等製品です。ご了承ください。 ※レシーバーは電池ボックスの中に収納されております。"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 23018,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0HHF2YMLV",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:48:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0956X785M",
+      "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 | 小型、軽量、2.4GHzワイヤレス接続、電池式（単3形乾電池 x 1）、電池寿命最大12ケ月、windows10、11以降、",
+      "url": "https://www.amazon.co.jp/dp/B0956X785M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0956X785M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41gi5BVUmDS._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【シンプル&amp;快適なワイヤレスマウス】自然な手のカーブに従う快適な曲線形状で、長時間生産性を維持する使いやすい小型ワイヤレスマウスです。",
+        "【複数OSに対応】対応OS: Windows 10 / Windows 11 以降、 Mac OS 10.5以降、 ChromeOS 、Linux カーネル 2.6+ 以降",
+        "【プラグ&amp;プレイ接続】付属のUSBをパソコンに差し込むだけの簡単接続 / Unifying非対応 ※製品お届け時、USBレシーバーはマウス裏面に格納されています。",
+        "【左右対称型】左利きの方にも使いやすい左右対称型。",
+        "【安心の操作距離】最大10mワイヤレス接続が可能です。",
+        "【法人・大量導入にも最適】シンプル設定と高耐久性で初期導入＆管理コストを最小化。差し込むだけで即座に使えるプラグ＆プレイのUSBレシーバーと、利き手を選ばない左右対称デザインにより、キッティング（初期設定）作業や配布の手間を削減します。単三形乾電池1本で最大12ヶ月の省電力バッテリー設計と優れた耐久性を備え、オフィスやテレワーク用の全社標準PC備品として、低予算かつ手軽に一括導入が可能です。"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 21587,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0GK6W2KTW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:48:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07S8VWT5B",
+      "title": "バッファロー マウス ワイヤレス 5ボタン 最大584日使用可能 BlueLED ブラック BSMBW315BK",
+      "url": "https://www.amazon.co.jp/dp/B07S8VWT5B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07S8VWT5B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61C70UoulvL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【対応機種】USB Type-A端子をもつパソコン,タブレット,ゲーム機",
+        "■ブラウザの操作に便利な「戻る」「進む」ボタン搭載",
+        "■収納できるレシーバー",
+        "■高感度BlueLED搭載",
+        "■最大10mの操作距離を実現する2.4GHzワイヤレス",
+        "【ボタン割り当てソフト対応】Windows用無料ソフトウェア「マウスカスタム+」で、ボタン・ホイールにお好みの機能を割り当てて作業を効率化。管理者権限不要で、ダウンロードしてすぐに使えます。 ※Windows11 / 10(64bit)に対応。※詳細はバッファローWebページをご確認ください。"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 23157,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0HHD8SXJ4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:48:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08LMK3L5C",
+      "title": "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC",
+      "url": "https://www.amazon.co.jp/dp/B08LMK3L5C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08LMK3L5C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61o0STtVJLL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "カバンに入れて持ち運びしやすい厚み28mmの薄型マウスです。",
+        "マウスのクリック時のカチカチ音がしない静音スイッチを採用し、音が気になる場所でも使えます。",
+        "対応機種:Bluetooth(R)HOGPに対応したWindows OS、macOS、Android、iOS、iPadOS、FireOS搭載機器",
+        "ネットの閲覧などの操作に便利な「戻る」ボタンが付いた4ボタンタイプです。",
+        "スムーズな操作を実現する分解能1600カウントを採用しています。",
+        "適合規格 Bluetooth 4.2 Class2 / profile:HOGP(HID Over GATT Profile) 電波到達距離 磁性体(鉄の机など)の上で使用する場合:3m、非磁性体(木の机など)の上で使用する場合:10m ※当社環境でのテスト値であり保証値ではありません。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 11055,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-02",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0FKLZF9FW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:48:28+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B088P8QYWN",
+      "title": "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC",
+      "url": "https://www.amazon.co.jp/dp/B088P8QYWN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B088P8QYWN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/6116Qrs1wgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "手の形状から生まれたデザインにより、ありそうでなかった「握りやすさ」を実現した5ボタンマウス“EX-G”です。",
+        "手になじみやすくしっかりとフィットするミディアムサイズです。",
+        "マウス操作時に最も使用頻度の高い親指と薬指に着目し、基節骨、母指球筋、中節骨、中手骨の4つのポイントになじむ形状に設計しています。",
+        "本体側面にレザー調のサイドグリップを採用することで、手の滑りを防ぐとともに、道具としての上質感を高めています。",
+        "小さな凹凸やホコリでもより正確に光が反射し、場所を選ばずに快適に使用できるBlueLEDを搭載しています。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 7211,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0DW2V6Z4V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:48:38+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09J46WG5D",
+      "title": "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 静音 M220CG 小型 電池寿命最大18ケ月 左右対称 M220 マウス 無線マウス 静音マウス グレー 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B09J46WG5D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09J46WG5D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41x3WC0AdFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "従来モデルより90%以上クリック音を削減した静音マウス",
+        "利き手を選ばない左右対称型",
+        "差し込むだけの超小型レシーバーで簡単接続／最長10mのワイヤレス接続",
+        "最長18ケ月の長電池寿命",
+        "対応OS:Windows 10 / 11 以降、macOS 10.5以降、ChromeOS、Linux カーネル2.6以降"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 5632,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-28",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0GK66NLWM",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:48:46+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09Q5SHDR3",
+      "title": "ロジクール Signature M650MGR ワイヤレスマウス 静音 Bluetooth レギュラー グラファイト ワイヤレス マウス 無線 Logi Bolt Unifying非対応 windows mac iPad Android Chrome",
+      "url": "https://www.amazon.co.jp/dp/B09Q5SHDR3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09Q5SHDR3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61eJpr77qIL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "勢いよく回すと高速スクロールに切り替わる／独自のSmartWheelを搭載したフィット感抜群の静音ワイヤレスマウス 【レギュラーサイズ】",
+        "独自のSmartWheelは1行ごとのスクロールで長い文書やWebページを素早く移動することが可能／仕事の生産性を大幅に向上",
+        "独自の静音技術SilentTouchを用いてクリック感はそのままに、クリック音を従来比90％軽減した静音モデル",
+        "手になじむ形状とラバーサイドグリップを採用／レギュラーサイズと手の大きな方のためのラージサイズの2種類をご用意 ※ラージサイズモデル(M650LGR／M650LOW／M650LRO)",
+        "Bluetoothまたはロジクール独自の「Logi Bolt」で接続 ※「Logi Bolt」はUSBを使ってのワイヤレス接続方式となり本製品にこのUSBは同梱されています。",
+        "法人・全社標準に最適／手のサイズで選べるフィット感と静音性で快適な業務環境を実現：レギュラーサイズ（M650M）とラージサイズ（M650 L）から従業員の手の大きさに合わせて最適なモデルを選択でき、長時間のPC作業による疲労を軽減します。高速＆精密を自動で切り替えるSmartWheelと静音クリック技術「SilentTouch」により、Web会議や共有スペースでも周囲を気にせず効率的な操作が可能。Bluetoothと高セキュリティのLogi Boltのデュアル接続対応、単三形乾電池1本で最大24ヶ月の長寿命バッテリーにより、オフィス備品の運用管理負荷を大幅に削減します。"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 4467,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-28",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B09QKNS92W",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:48:54+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BKPL1VKW",
+      "title": "Logicool Signature M750MGR ワイヤレスマウス 静音 レギュラー グラファイト ワイヤレス マウス 無線 Bluetooth Logi Bolt Unifying非対応 windows mac iPad Android Chrome",
+      "url": "https://www.amazon.co.jp/dp/B0BKPL1VKW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BKPL1VKW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61iT5-R21uL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Signature M750／レギュラーサイズ／勢いよく回すと高速スクロールに自動で切り替わる／独自のSmartWheelを搭載したフィット感抜群の静音ワイヤレスマウス。",
+        "M750／標準モデルSignature M650の機能に加えて3台までの接続デバイスをボタンのみで切り替えられるEasy-switchとカーソル速度が調整可能なDPI切り替えスイッチを搭載したアップグレードモデル。",
+        "独自のSmartWheelは1行ごとのスクロールで長い文書やWebページを素早く移動することが可能／仕事の生産性を大幅に向上。",
+        "独自の静音技術SilentTouchを用いてクリック感はそのままに、クリック音を従来比90％軽減した静音モデル。",
+        "Bluetoothまたはロジクール独自の「Logi Bolt」で接続 ※「Logi Bolt」はUSBを使ってのワイヤレス接続方式となり本製品にこのUSBは同梱されています。",
+        "法人・オフィス導入にも最適／作業効率向上と備品管理コスト削減を両立／高速スクロールと精密スクロールが自動で切り替わるSmartWheelと独自の静音クリック技術により、オフィスやWeb会議中も静かでスピーディな業務処理を実現します。BluetoothおよびセキュアなLogi Bolt接続に対応し、最大3台のPC・タブレットをワンタッチで切替可能。さらに 単三形乾電池1本で最大24ヶ月*の長寿命バッテリー設計により、電池交換の手間や備品管理コストを大幅に削減します。*Logi Boltによる接続の場合。Bluetooth接続の場合は最大20ヶ月"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 3168,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-18",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0BLGQC3L4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:49:04+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0956BPVC7",
+      "title": "バッファロー ワイヤレス モバイルマウス Bluetooth FLEXUS 薄型軽量 3ボタン 無線 静音 BlueLED MIL規格準拠 dpi切替(600/1200) プレゼンテーションモード搭載 節電モデル 最大972日使用可能",
+      "url": "https://www.amazon.co.jp/dp/B0956BPVC7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0956BPVC7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/616oX3kTjML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【対応機種】Bluetoothに対応したパソコン,タブレット,スマートフォン,ゲーム機",
+        "■レシーバー不要のBluetooth接続でスマートに使える",
+        "■持ち運びに便利なスリムボディー",
+        "■スリムでも操作しやすいデザイン",
+        "■持ち運びのリスクを軽減する耐衝撃ボディー 米国MIL規格「MIL-STD-810G 516.6 procedure IV」準拠■ 擦れや指紋汚れに強い表面コーティング■ パワーポイントのスライド操作ができるプレゼンテーションモード搭載■"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 1274,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-25",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0CL3TY9TF",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:49:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C2YK1CS6",
+      "title": "ロジクール 静音 ワイヤレスマウス M240GR Silent Bluetooth マウス グラファイト 無線 ワイヤレス 小型 左右対称 logi bolt windows mac iPad OS Chrome Android M240 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0C2YK1CS6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C2YK1CS6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51ERDFYFbZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Bluetoothで瞬時にペアリング／クリック感はそのままに従来モデルの90％の操作音を削減したBluetooth静音ワイヤレスマウス",
+        "M240GR／保証期間2年間の通常モデル",
+        "曲線的な形状が手のカーブにフィット／持ちやすいコンパクトサイズ オートスリープ機能搭載／18ケ月の長電池寿命",
+        "対応OS:[Bluetooth] Windows 10, 11以降、macOS 11以降、iPadOS 14以降、ChromeOS、Android 9.0以降 ※Logi Boltの接続にも対応／USBレシーバー別売",
+        "法人・モバイルワークに最適／レシーバー不要のBluetooth接続により、USBポート数の少ない薄型ノートPCでもスマートに導入できます。独自技術「SilentTouch」によりクリック音を従来比90%削減し、オープンオフィスやWeb会議中、移動先でも周囲に配慮した作業を実現。軽量・コンパクトな左右対称デザインで持ち運びに優れ、単三形乾電池1本で最大18ヶ月の長寿命バッテリーにより電池交換の手間と備品管理コストを削減します。テレワークや全社配給用の標準備品に最適な高コスパモデルです。"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 1257,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0GK6QPGNT",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:49:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CJR5HBMN",
+      "title": "Logicool Pebble M350s 薄型ワイヤレスマウス",
+      "url": "https://www.amazon.co.jp/dp/B0CJR5HBMN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CJR5HBMN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51smG0GkGYL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "クリック感覚はそのままにクリック音を従来マウスの90％削減／人気のスタイリッシュな薄型の静音ワイヤレスマウスが機能を大幅アップデートして登場！",
+        "グラファイト、オフホワイト、ローズは2トーンカラーにリニューアル + 新色のグレージュ、ブルーが仲間入り",
+        "接続はBluetoothに加えLogicool独自のLogi Boltレシーバーに新たに対応 ※Logi Bolt USBレシーバーは別売となります。Unifyingは非対応です。",
+        "接続された3台までの対応デバイスを裏面のボタン1つで切り替えられる／Logicool独自のEasy-Switchに新たに対応",
+        "単三乾電池1本で24ケ月の長電池寿命 ※従来モデルは18ケ月／保証期間2年間",
+        "対応OS:[Bluetooth] Windows 10, 11以降、macOS 11以降、iPad OS 14以降、Android OS 9.0以降、Chrome OS"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 1112,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0FX2P89K6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:49:29+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09WV6D7SM",
+      "title": "ロジクール ワイヤレス 縦型 静音 エルゴノミック マウス LIFT M800GR Logi Bolt Bluetooth Unifying非対応 smartwheel ワイヤレスマウス 無線 windows mac chrome iPad Android OS M800 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B09WV6D7SM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09WV6D7SM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61TePJwVTZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "スタイリッシュなデザインの静音・縦型エルゴノミックマウス",
+        "「自然な握手の位置」のように自然な手首の角度のまま本体を握れるので作業時の手首と肩の負担が軽減",
+        "ロジクールの定番縦型マウスMXV1sと比較し約22%サイズダウン/様々な手の大きさの方でも持ちやすいサイズ",
+        "ロジクール独自のSmartWheel搭載／高速スクロールモードと精確スクロールモードを自動で切り替え",
+        "接続はBluetoothとロジクール独自のLogi Boltに対応/Logi Bolt USBは本製品には同梱されています/Unifying非対応"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 1117,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-26",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B09X74W2B2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:49:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D21S5SPG",
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレスマウス 無線 Silent Bluetooth M240GRd グラファイト 国内正規品 | 静音、小型、左右対称、電池式（単3乾電池 x 1）、電池寿命18ヶ月、Bluetooth、Lo",
+      "url": "https://www.amazon.co.jp/dp/B0D21S5SPG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D21S5SPG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51ERDFYFbZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Bluetoothで瞬時にペアリング／クリック感はそのままに従来モデルの90％の操作音を削減したBluetooth静音ワイヤレスマウス　※Amazon.co.jp限定 壁紙ダウンロード付き",
+        "M240GRd／保証期間1年間のAmazon.co.jp限定モデル",
+        "曲線的な形状が手のカーブにフィット／持ちやすいコンパクトサイズ オートスリープ機能搭載／18ケ月の長電池寿命",
+        "対応OS:[Bluetooth] Windows 10, 11以降、macOS 11以降、iPadOS 14以降、ChromeOS、Android 9.0以降 ※Logi Boltの接続にも対応／USBレシーバー別売"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 1047,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T12:49:46+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09KRQYKL4",
+      "title": "エレコム マウス ワイヤレスマウス Bluetooth 静音 3ボタン Sサイズ 抗菌 ブラック M-BY10BRSKBK",
+      "url": "https://www.amazon.co.jp/dp/B09KRQYKL4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09KRQYKL4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61SoXJB9z9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "わずか約59gと軽量ながら約10カ月電池交換不要。 Bluetooth(R)5.0規格に対応したSサイズの3ボタンIR LEDマウス。クリック音が静かで、会議中や夜間の使用にもおすすめ。さらに、抗菌加工で本体を清潔に保ちます。",
+        "Bluetooth(R)HOGPに対応したパソコンなどの端末で、USBポートをふさがずに接続できます。レシーバが不要なため、USBポートが少ない薄型パソコンやタブレットをスマートに使いこなせます。※1",
+        "※1 Bluetooth(R)HOGPに対応していないパソコンでも、規格に適合したBluetooth(R)アダプターを用意することで使用可能です。(推奨Bluetooth(R)アダプター:LBT-UAN05C2 series(別売))",
+        "消費電力の小さな“IR LED(赤外線LED)&#34;を搭載し、他のLEDに比べて電池が長持ち。単4電池1本で約10カ月間の電池交換が不要です。(1日8時間のパソコン操作中5%をマウス操作に割り当てた場合)",
+        "電池を入れてもわずか約59gの軽量設計。軽い力で操作できるため長時間の操作も快適で、持ち運びにも便利です。握る力に自信のない方や長時間マウスを操作される方に適しています。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 811,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0CT2YTCJC",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:49:55+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C65MQZ65",
+      "title": "ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi Bolt Unifying非対応 コンパクト Smart Actions 対応 高速スクロールホイール 充電式 ワイヤレスマウス 無線 Windows Mac Chrome iPad OS Android MX1800 グラファイト 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0C65MQZ65?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C65MQZ65?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51dXMJYWGVL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "超高速スクロールホイールを搭載したMXシリーズの持ち運びやすいスタイリッシュな高機能ワイヤレスマウスが静音モデル&amp;8000dpiの高トラッキング精度にパワーアップして登場!",
+        "Logi Options+に新しく搭載したマクロ登録機能「Smart Actions」対応／複雑なマウスやキー操作のショートカットやファンクションをひとつのボタンに割り当てて登録し作業効率を大幅アップ",
+        "1秒間に1000行のスクロールが可能／超高速かつ精確。さらに驚くほど静かなMagSpeed電磁気スクロールホイールを搭載",
+        "あらゆる表面に対応できるダークフィールド8000dpiセンサーを搭載／ガラスなどの表面でも精確にトラッキング",
+        "Bluetoothおよびロジクール独自のLogi Bolt接続に対応／対応OS:（Bluetooth） Windows 10, 11以降、macOS 11以降、Chrome OS、iPad OS 14以降、Android9.0以降 ※Logi Bolt　USBは別売です。"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 590,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0C6JVSPXP",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:50:06+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01G54TY1K",
+      "title": "エレコム ワイヤレスマウス 静音 握りの極み Mサイズ 5ボタン ブラック M-XGM10DBSBK",
+      "url": "https://www.amazon.co.jp/dp/B01G54TY1K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01G54TY1K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51rpzlce+nL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "音が気になる場所でも静かに使える静音スイッチを採用。手の形状から生まれたデザインで、さらなる「握り心地」の良さを実現。場所を選ばず快適に操作できるBlueLEDを搭載した、2.4GHzワイヤレスタイプの5ボタンマウス“静音EX-G&#34;。",
+        "[接続方式]無線2.4GHｚ帯",
+        "[ボタン数]5ボタン ※ホイールボタン含む",
+        "[サイズ]Mサイズ、エルゴノミクスデザイン",
+        "単3形アルカリ乾電池、単3形マンガン乾電池、単3形ニッケル水素電池のいずれか1本",
+        "[センサー]光学センサー方式(BlueLED)",
+        "[保証期間]6ヶ月",
+        "対応機種:USBインターフェイスを装備したWindowsパソコン、Macintosh"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 134,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B07J6ZVXHL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:50:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01G54NODO",
+      "title": "エレコム マウス ワイヤレス (レシーバー付属) Lサイズ 5ボタン (戻る・進むボタン搭載) 静音 BlueLED 握りの極み ブラック M-XGL10DBSBK",
+      "url": "https://www.amazon.co.jp/dp/B01G54NODO?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01G54NODO?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61H1TS5s0AL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "左右ボタンとホイールボタンに加え、「進む」、「戻る」を含めた5ボタンに静音スイッチを採用し、クリックのカチカチ音が気にならず、静かに使用できる静音マウスです。",
+        "手の形状から生まれたデザインにより、ありそうでなかった「握りやすさ」を実現した5ボタンマウス“EX-G&#34;です。",
+        "安定感がありしっかりとフィットするラージサイズです。",
+        "マウス操作時に最も使用頻度の高い親指と薬指に着目し、基節骨、母指球筋、中節骨、中手骨の4つのポイントになじむ形状に設計しています。",
+        "本体側面にレザー調のサイドグリップを採用することで、手の滑りを防ぐとともに、道具としての上質感を高めています。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 801,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0DW4B174H",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:50:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01HO0W4SE",
+      "title": "エレコム マウス ワイヤレス (レシーバー付属) Mサイズ 3ボタン IRセンサー 省電力 ブラック M-IR07DRBK",
+      "url": "https://www.amazon.co.jp/dp/B01HO0W4SE?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01HO0W4SE?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ZV+DEL5YL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "消費電力の小さな赤外線LEDを使用したIR LEDマウスです。",
+        "Blue LEDやレーザーを使用したマウスよりも消費電力が小さいため、約2.5年間電池を取り替えずに使用することが可能です。",
+        "左右対称で持ち方を選ばないシンメトリーデザインを採用しています。",
+        "スムーズな操作を実現する分解能1200カウントです。",
+        "無線方式は2.4GHz帯を採用し、非磁性体で約10m、スチールデスクなど磁性体上でも約3mの範囲で使用可能です。(当社調べ)"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 5189,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B08PQTF8LL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:50:31+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09Y8G6FJJ",
+      "title": "エレコム ワイヤレスマウス Bluetooth EX-G 握りの極み 静音設計 5ボタン マルチペアリング Mサイズ ガンメタリック M-XGM15BBSGM/EC",
+      "url": "https://www.amazon.co.jp/dp/B09Y8G6FJJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09Y8G6FJJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ZX7flRtML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "左右ボタンとホイールボタンに加え、「進む」、「戻る」を含めた5ボタンに静音スイッチを採用し、クリックのカチカチ音が気にならず、静かに使用できる静音マウスです。",
+        "手の形状から生まれたデザインにより、ありそうでなかった「握りやすさ」を実現した5ボタンマウス“EX-G&#34;です。",
+        "手になじみやすくしっかりとフィットするミディアムサイズです。",
+        "マウス操作時に最も使用頻度の高い親指と薬指に着目し、基節骨、母指球筋、中節骨、中手骨の4つのポイントになじむ形状に設計しています。",
+        "本体側面にレザー調のサイドグリップを採用することで、手の滑りを防ぐとともに、道具としての上質感を高めています。",
+        "製品サイズ :10.96 x 7.38 x 4.08 cm; 81 g"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 2646,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0F8GPGNCG",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:50:39+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BKP2XWY5",
+      "title": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内正規品 | レギュラーサイズ、3ボタン、電池式（単3形乾電池x1）、Bluetooth、Logi Bolt、Windows10、Windows11、macOS、iPadOS、Android、ChromeOS、M550、M550M、壁紙ダウンロード付き",
+      "url": "https://www.amazon.co.jp/dp/B0BKP2XWY5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BKP2XWY5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/618q9UO6GIL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Signature M550／レギュラーサイズ／勢いよく回すと高速スクロールに自動で切り替わる／独自のSmartWheelを搭載したフィット感抜群の静音ワイヤレスマウス",
+        "M550／標準モデルのM650からカスタマイズ可能なサイドボタンを取り除いてシンプルにしたモデル",
+        "独自のSmartWheelは1行ごとのスクロールで長い文書やWebページを素早く移動することが可能／仕事の生産性を大幅に向上",
+        "独自の静音技術SilentTouchを用いてクリック感はそのままに、クリック音を従来比90％軽減した静音モデル",
+        "Bluetoothまたはロジクール独自の「Logi Bolt」で接続 ※「Logi Bolt」はUSBを使ってのワイヤレス接続方式となり本製品にこのUSBは同梱されています。Unifying接続には非対応です。",
+        "M550MBKs／保証期間1年間のAmazon.co.jp限定モデル ※Amazon.co.jp限定 壁紙ダウンロード付き"
+      ],
+      "maker": "Logicool",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 1922,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0GK72P1D9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:50:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FJRCJ1SN",
+      "title": "【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線2.4GHz両対応 2台まで接続 マルチペアリング 6ボタン ブラック M-MY35MBSABK",
+      "url": "https://www.amazon.co.jp/dp/B0FJRCJ1SN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FJRCJ1SN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/510RpntLBuL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "どんな人でも、どんな機器でも、どんなシーンでも。左右対称のなだらかな形状に本当にほしい機能だけを詰め込んだ、シンプルで使いやすいマウスシリーズ・OSMOD(オスモッド)です。",
+        "左右ボタンとホイールに加えて、Webサイトやフォルダの操作時に便利な「進む」「戻る」ボタン、ファンクションボタンと計6つのボタンを搭載しています。",
+        "ファンクションボタンは、好きな機能を割り当てて便利に使える6つ目のボタン。無料でダウンロードできるソフトウェア「エレコム マウスアシスタント」を利用してよく使う機能などを割り当てられ、マウスを使った作業を効率化できます。",
+        "※「エレコム マウスアシスタント」はWindows/macOSのみの対応となります。",
+        "利き手や持ち方を問わずどんな人にもフィットする、左右対称の楕円形デザイン。長時間の作業でもストレスなく使えます。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261129_mouse",
+      "queries_matched": [
+        "dg_20261129_mouse"
+      ],
+      "review_count": 223,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途の重量/寸法、接続先切替とUSBレシーバーの要否を公式確認"
+      ],
+      "parent_asin": "B0HHJ6FJQ3",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:50:58+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:mouse"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-29",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:mouse",
+    "theme": "移動の多い仕事で使う。ワイヤレスマウス",
+    "exclude_used_since": "2026-10-30",
+    "current_stock_verified": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T12:50:58+09:00"
+}
