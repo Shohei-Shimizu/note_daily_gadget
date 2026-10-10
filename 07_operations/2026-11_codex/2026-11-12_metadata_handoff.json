@@ -1,0 +1,36 @@
+{
+  "published_date": "2026-11-12",
+  "filename": "2026-11-12_会議も音楽も持ち歩く。「ワイヤレスイヤホン」10選.md",
+  "title": "会議も音楽も持ち歩く。「ワイヤレスイヤホン」10選",
+  "category": "コミュニケーション・会議・音声",
+  "tags": "おすすめガジェット ワイヤレスイヤホン Web会議 Bluetooth 音楽",
+  "product_count": 10,
+  "product_asins": [
+    "B0CP4RQZ3L",
+    "B0DK53QZ8J",
+    "B0D4Z8KJXY",
+    "B0FRSCXWSV",
+    "B0DRVB48LJ",
+    "B0CBKQZXT7",
+    "B0FQFQDN6K",
+    "B0FWC7ZSTK",
+    "B0CSKFY1Q2",
+    "B0GLGJTQ7C"
+  ],
+  "related_urls": [
+    "https://note.com/daily_gadget/n/nce409c61ed07",
+    "https://note.com/daily_gadget/n/n7b8221e33ca9",
+    "https://note.com/daily_gadget/n/n5b247e8a0c1a"
+  ],
+  "research_file": "06_research/2026-11/2026-11-12_会議も音楽も持ち歩く。「ワイヤレスイヤホン」10選.md",
+  "status": "local_draft_qa_only",
+  "scheduled_time": "20:00 JST",
+  "unresolved_specs": [],
+  "integration_required": [
+    "monthly_metadata",
+    "schedule_ledger",
+    "shared_db",
+    "thumbnail",
+    "note_saved_preview"
+  ]
+}
