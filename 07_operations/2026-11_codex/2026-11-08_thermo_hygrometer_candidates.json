@@ -1,0 +1,450 @@
+{
+  "generated_at": "2026-10-10T01:04:14+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261108_5512daf8",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261108_thermo_hygrometer"
+  ],
+  "fetched_count": 10,
+  "dedup_count": 10,
+  "candidates": [
+    {
+      "asin": "B09PYKJ6CS",
+      "title": "SwitchBot 温湿度計プラス Alexa 温度計 湿度計 - スイッチボット スマホで温度湿度管理 デジタル 高精度 コンパクト 大画面 温度 湿度 アラーム 顔マーク グラフ記録 スマートホーム 梅雨 Alexa Google Home IFTTT イフト Siriに対応(ハブ必要)",
+      "url": "https://www.amazon.co.jp/dp/B09PYKJ6CS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09PYKJ6CS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【6WAYタイプ、取付】本体はコンパクトで、画面が大きめのデザイン。6種類の設置方法で、どこからでも温湿度が一目で分かります。浴室、キッチン、リビング、寝室、植物室、ペットの部屋など好きな場所に設置できます(浴室等では水に濡れないところに設置してください)。",
+        "【スイス製高精度センサー搭載】0.1℃の温度差、1%RHの湿度差を感知できます。4秒ごとに温湿度を測定し、感度と精度の両方とも優れています。",
+        "【スマートスピーカーと連携】SwitchBotハブミニとアレクサ、Googleアシスタント、AppleSiri、LINE CLOVAなどと連携し、声で温度・湿度を確認できます。IFTTTにも対応可能。",
+        "【アラート通知機能&amp;遠隔確認】アプリで設定した温度・湿度に達すると、Bluetoothの通信範囲でアプリからアラート通知が届きます。SwitchBotハブミニと併用すれば、外出先でも部屋の温湿度を確認し、アラート通知が受け取れます。",
+        "【SwitchBotシリーズと連携】SwitchBotハブミニ、SwitchBot加湿器と連携し、湿度が40%より低くなると加湿器の電源が自動で入る、というパターンをアプリで設定が可能です。部屋をいつでも自動で心地よい環境に保ちます。",
+        "【快適度が顔マークで分かる】SwitchBot温湿度計のデフォルト設定は顔マークの快適度で、乾燥、快適、湿潤という3つの指標で部屋の状況をより分かりやすく把握できます。利用対象(ペット、植物など)によって、アプリで快適度を自由にカスタマイズできます。温度、湿度、顔マークのほか、電池残量も表示されます。",
+        "【データ保存&amp;データエクスポート】ローカルストレージでデータを68日間保存でき、SwitchBotハブシリーズと連携して2年間保存できます。温度・湿度がグラフで可視化し、グラフの折れ線をタップすれば、特定時刻の履歴データを確認可能。データ(CSVファイル)をエクスポートでき、過去の温湿度変化を確認できます。",
+        "【SwitchBotシリーズと連携】リビングの湿度が40%以下になったら、SwitchBot加湿器を「オートモード」「湿度55%」で起動させることができます。留守中のペットの室温管理用の設定です。スマホから温湿度のアラート通知が来たら、SwitchBot見守りカメラですぐペットの状況を確認することができます。",
+        "高精度センサーで信頼性の高い温湿度測定を実現し、より正確な温度や湿度を管理できます。4秒ごとにデータが更新され、感度と精度両方とも優れています。 ※グラフ記録:温度の変化が±0.5°C以上/湿度の変化が±10%以上の場合は2分以内に更新されます。温度の変化が±0.5°C以下/湿度の変化が±10%以下の場合は30分ごとに更新されます。"
+      ],
+      "maker": "SwitchBot",
+      "query": "dg_20261108_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261108_thermo_hygrometer"
+      ],
+      "review_count": 6342,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "sensing_home",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-10-01",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "parent_asin": "B0GGB2H5HZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:53:09+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B083348J3X",
+      "title": "Govee 温湿度計 Bluetooth デジタル スマホ管理 高精度 大画面 コンパクト",
+      "url": "https://www.amazon.co.jp/dp/B083348J3X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B083348J3X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41M6GdmU0CL._SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "【高精度センサー搭載】スイス製のSHT30センサーを内蔵し、温度は最大±0.3°C、湿度は最大±3％RHの誤差で 、高精度で信頼性の高い温湿度測定を実現できます。また、2秒ごとにデータを更新し、精度と感度両方とも優れているデジタル温湿度計です。（ご注 意：本製品は防水機能を備えておりません。使用温度範囲は-20℃～60℃です。湿気の多い環境、冷蔵庫内、または雨天時の屋外での使用はお控えください）",
+        "【温湿度アラート通知機能】アプリで設定された温湿度範囲を超えると、Bluetoothの通信範囲でアプリからアラート通知が届きます 。乾燥や熱中症などの予防目安として活躍して、老人や赤ちゃんがいる家庭だけではなく、ペット(犬、猫、うさぎ、爬虫類など)のいる家庭にもおすすめです。",
+        "【Bluetooth接続・遠隔確認】Govee Bluetooth温湿度計は「Govee Home」アプリで温湿度を最大 50m遠隔確認できます。温湿度計に近づく必要はなく、気軽に温度と湿度の情報がスマホで読取れます。また、熱中症や乾燥、インフルエンザなどの予防にも役に立ちます。（Bluetooth接続距離は50メートルのみ対応）",
+        "【コンパクト・LCD画面】LCD画面にリアルタイムの温度・湿度測定値と最大・最小記録が示され、快適度も3段階で表示でき、一目でお部屋の温湿度と快適さが把握できます。熱中症対策や老人、赤ちゃんなどご家族の健康管理に役に立ちます。",
+        "【履歴データ記録・データエクスポート】アプリに過去60日間のデータが保存できます。また、温度・湿度がグラフで可視化し、アプリで特定時刻の履歴データを確認できます。データ(CSVファイル)をエクスポートでき、お自宅の温湿度変化も確認できます。",
+        "この温湿度計の電池寿命は12ヶ月です。適時に交換してください。電池残量が不足すると、表示異常や温湿度測定値の不正確さが生じる可能性があります。"
+      ],
+      "maker": "Govee",
+      "query": "dg_20261108_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261108_thermo_hygrometer"
+      ],
+      "review_count": 1464,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "sensing_home",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-10-01",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "parent_asin": "B09D3PX1CZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:53:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DBLDKVDW",
+      "title": "【冬の乾燥対策】SwitchBot 温湿度計 プロ スマホで管理 アレクサ - スイッチボット 温度計 湿度計 快適指数 大画面 デジタル 天気予報 時計 カレンダー アラート通知 高精度 コンパクト グラフ記録 スマートホーム Alexa Google Home Siriに対応",
+      "url": "https://www.amazon.co.jp/dp/B0DBLDKVDW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DBLDKVDW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41MDoga-0dL._SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "【大画面多機能温湿度計！必要な情報がすべてひと目で分かる】温湿度、快適指数、天気予報※、日時を一括表示。ディスプレイには乾燥、快適、湿潤という3つの指標で湿度の快適指数を表示し、お部屋の体感をより直感的に把握できます。快適度はアプリからお好みで自由にカスタマイズ可能。※天気予報機能はハブ製品が必要です。",
+        "【複数カ所の温度&amp;湿度を同時に把握】同時に2つの部屋の温湿度を表示することができます。例えば子ども部屋と植物の温室など、2つの異なる部屋またはエリアの温湿度を同時に把握可能です。※すべてのSwitchBot温湿度計製品に対応。",
+        "【12時間先までの天気が分かる】SwitchBotハブ製品と連携し、位置情報に基づいて、現在地の12時間先までのお天気がアイコン表示されるので、お出かけする際や、キャンプなど屋外イベントを楽しむ時の参考にしてみてください。",
+        "【アラート通知機能&amp;遠隔確認】3種類のアラート「本体の警告音、ディスプレイの数値が点滅、アプリ通知※」で、気温や湿度の変化を随時お知らせ。外出先にいてもお部屋の温湿度を確認し、アラート通知に基づいた乾燥対策が可能に！※SwitchBotハブ製品が必要",
+        "【スイス製の高精度センサー搭載】高精度センサーで信頼性の高い温湿度データを提供し、より素早く正確なリアルタイムデータを閲覧することができます。データの更新は4秒間隔で、感度と精度ともに優れています。",
+        "【データの保存とエクスポート】データはローカルに最大68日間分、アプリに最大2年間分保存できます。温度・湿度をグラフ表示することでより見やすく、グラフの折れ線をタップして特定時刻のデータ履歴を閲覧可能です。データ（CSVファイル）はエクスポートも可能で、過去の温湿度履歴を確認できます。",
+        "【声をかけて温湿度を確認】アレクサやGoogle アシスタントなどのスマートスピーカーと連携させると、手が離せないときでも「アレクサ、温度を教えて」と声をかけるだけで温度や湿度の確認ができて便利です。",
+        "【SwitchBotデバイスとの連動】SwitchBotハブ製品や加湿器製品と併用すれば、予め指定した温湿度の快適数値を上回る、または下回ると加湿器が自動でON/OFF。温湿度に基づいた自動化で、秋・冬の乾燥からお肌やのどを守ります。"
+      ],
+      "maker": "SwitchBot",
+      "query": "dg_20261108_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261108_thermo_hygrometer"
+      ],
+      "review_count": 1049,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "sensing_home",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:53:27+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BLRQ5HTT",
+      "title": "TP-Link Wi-Fi Tapo スマートホーム コンパクト 温湿度計 スイス高精度 アラーム Tapoスマートハブ必須 Sub-1GHz T310",
+      "url": "https://www.amazon.co.jp/dp/B0BLRQ5HTT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BLRQ5HTT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31pQ2Wtk4oL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "[特徴] Tapoのコンパクトな温湿度計が登場。スペースが少ない場所の設置に最適。",
+        "[スイス製センサー搭載] スイス製の高精度なセンサー。+-0.3°C/ +-3%RHに対応。",
+        "[コンパクトボディ] 縦x横x奥行 : 46mm x 46mm x 12.3mm",
+        "[Tapoアプリ対応] ひとつのアプリで全てのTapoスマートホーム製品を管理できます。",
+        "[省電力＆長寿命]超低電力無線規格Sub-1GHZで通信するため、 コイン電池(CR2450)ひとつで長寿命",
+        "[Tapo スマートハブ必須] 本製品をお使いいただくためにはTapo スマートハブ が必要です。"
+      ],
+      "maker": "TP-Link",
+      "query": "dg_20261108_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261108_thermo_hygrometer"
+      ],
+      "review_count": 396,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-22",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "parent_asin": "B0C7FTFXC4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:53:34+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07DVJ1P6J",
+      "title": "Inkbird 温湿度計 Bluetooth対応 データロガー デジタル 温度計 湿度計 スマホで温度湿度管理 グラフ記録 プローブ付き マグネット付き °Cと°Fの切り替え 温度管理 (IBS-TH1 PLUS)",
+      "url": "https://www.amazon.co.jp/dp/B07DVJ1P6J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07DVJ1P6J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41qWXevQDVL._SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "【高精度センサー】温度範囲：-40°C〜60°C（内部センサー）-40°C〜100°C（外部プローブ）湿度範囲：0〜99％RH。フランス製温湿度センサーを搭載しており、 高精度で信頼性の高い温湿度測定を実現します。",
+        "【アプリ対応】Bluetooth検知範囲：30メートル（障害物なし）電池を入れると、温度・湿度測定値はLCDに表示されます。専用アプリ「Engbird」とペアリングして、計測している温湿度がアプリに表示されます。",
+        "【グラフ記録】温湿度を記録して、アプリにグラフを作成して表示します。一日の温湿度変化をチェックできます。設定した温度、湿度になったらアプリからアラームします。",
+        "【プローブ付き】外部プローブが付属しています。外部プローブを使用すると、温度はプローブで測定して、湿度は本体センサーで測定されます。",
+        "【データロガー】温湿度データをCSVファイルとしてダウンロードできます。Inkbird IBS-M1（別売）と組み合わせると、外出先からも温度湿度を確認できます。"
+      ],
+      "maker": "Inkbird",
+      "query": "dg_20261108_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261108_thermo_hygrometer"
+      ],
+      "review_count": 130,
+      "star_rating": 3.7,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "sensing_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "parent_asin": "B0B35YJTH4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:53:42+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B099RRN1J3",
+      "title": "Govee 温湿度計 Bluetooth デジタル 高精度 大画面 スマホ連携",
+      "url": "https://www.amazon.co.jp/dp/B099RRN1J3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B099RRN1J3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41dgfk58grL._SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "【Bluetooth接続・遠隔確認】Govee Bluetooth温湿度計は「Govee Home」アプリで温湿度を最大 80m遠隔確認できます。温湿度計に近づく必要はなく、気軽に温湿度情報がスマホで読取れます。また、インフルエンザや乾燥、梅雨時期のカビ予防にもお役に立ちます。",
+        "【コンパクト・LCD画面】LCD画面にリアルタイムの温度・湿度測定値と最大・最小記録が示され、快適度も3段階で表示でき、一目でお部屋の温湿度と快適さが把握できます。梅雨季節のカビ対策や赤ちゃんの健康管理、熱中・カビ対策にとって頼もしい相棒です。",
+        "【高精度センサー搭載】スイス製のSHT30センサーを内蔵し、温度は最大±0.3°C、湿度は最大±3％RHの誤差で 、高精度で信頼性の高い温湿度測定を実現できます。また、2秒ごとにデータを更新し、精度と感度両方とも優れているデジタル温湿度計です。",
+        "【温湿度アラート通知機能】アプリで設定された温湿度範囲を超えると、Bluetoothの通信範囲でアプリからアラート通知が届きます 。風邪や乾燥、カビなどの予防目安として活躍して、赤ちゃんがいる家庭やペット(犬、猫、うさぎ、爬虫類など)のいる家庭におすすめです。",
+        "【履歴データ記録・データエクスポート】アプリに過去60日間（二ヶ月）のデータは保存できます。また、温度・湿度がグラフで可視化し、特定時刻の履歴データの確認が可能です。データ(CSVファイル)をエクスポートでき、お自宅の温湿度変化を確認できます。"
+      ],
+      "maker": "Govee",
+      "query": "dg_20261108_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261108_thermo_hygrometer"
+      ],
+      "review_count": 1464,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "sensing_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "parent_asin": "B09D3PX1CZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:53:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09BYYS7X5",
+      "title": "Govee 温湿度計 Bluetooth デジタル 高精度 大画面 2個セット",
+      "url": "https://www.amazon.co.jp/dp/B09BYYS7X5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09BYYS7X5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41p0rpEh2pL._SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "【Bluetooth接続・遠隔確認】Govee Bluetooth温湿度計は「Govee Home」アプリで温湿度を最大 80m遠隔確認できます。温湿度計に近づく必要はなく、気軽に温湿度情報がスマホで読取れます。また、インフルエンザや乾燥、梅雨時期のカビ予防にもお役に立ちます。",
+        "【コンパクト・LCD画面】LCD画面にリアルタイムの温度・湿度測定値と最大・最小記録が示され、快適度も3段階で表示でき、一目でお部屋の温湿度と快適さが把握できます。梅雨季節のカビ対策や赤ちゃんの健康管理、熱中・カビ対策にとって頼もしい相棒です。",
+        "【高精度センサー搭載】スイス製のSHT30センサーを内蔵し、温度は最大±0.3°C、湿度は最大±3％RHの誤差で 、高精度で信頼性の高い温湿度測定を実現できます。また、2秒ごとにデータを更新し、精度と感度両方とも優れているデジタル温湿度計です。",
+        "【温湿度アラート通知機能】アプリで設定された温湿度範囲を超えると、Bluetoothの通信範囲でアプリからアラート通知が届きます 。風邪や乾燥、カビなどの予防目安として活躍して、赤ちゃんがいる家庭やペット(犬、猫、うさぎ、爬虫類など)のいる家庭におすすめです。",
+        "【履歴データ確認&amp;データエクスポート】アプリに過去60日間（二ヶ月）のデータは保存できます。また、温度・湿度がグラフで可視化し、特定時刻の履歴データの確認が可能です。データ(CSVファイル)をエクスポートでき、お自宅の温湿度変化を確認できます。"
+      ],
+      "maker": "Govee",
+      "query": "dg_20261108_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261108_thermo_hygrometer"
+      ],
+      "review_count": 1464,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "sensing_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "parent_asin": "B09D3PX1CZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:54:00+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09PVDQ8SS",
+      "title": "JJ JULIE JAPAN 温湿度計 デジタル 高精度 スマホ連動 アプリ通知 液晶付き 世界最小級 コンパクト 異常アラート（音/光/スマホ） ログ記録 爬虫類 ペット 観葉植物 デスク JJWS08(1個)",
+      "url": "https://www.amazon.co.jp/dp/B09PVDQ8SS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09PVDQ8SS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41uJKVBnFfL._SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "1. 【液晶付きの超コンパクト設計】 液晶画面を搭載しながら、本体は約4.9cmと極めて小さな設計を実現。小型ペットケージ、デスク周り、車内など、限られたスペースでも場所を取らずに設置できます。視認性に優れたデジタル表示により、スマートフォンを介さずその場で現在の温度と湿度を素早く確認できる利便性を備えています。",
+        "2. 【音と光で異常を通知する二重警報】 設定した温湿度範囲を超えると、本体の「アラート音」と「光」で即座にお知らせ。アプリ通知だけでなく現場で直接異常を伝えるため、爬虫類や小動物の熱中症対策、冬場の乾燥防止に役立ちます。スマートフォンが手元にない時でも、現場の異変にいち早く気付けるJJWS08ならではの安心機能です。",
+        "3. 【スマホで遠隔管理とデータ保存】 アプリ連動により、約50mの通信距離で室内の温湿度をモニタリング。約12ヶ月間のデータを本体に保存し、グラフ形式で過去の推移を詳細に確認できます。CSV出力にも対応しているため、自由なデータ解析が可能。10分間隔の精密な記録で、目に見えない環境変化をしっかりと可視化します。",
+        "4. 【高精度センサーによる精密計測】 計測精度にこだわり、0.5℃刻みの温度変化を捉える精密センサーを採用。マイナス20℃から65℃までの広範囲をカバーし、湿度は微細な変化を検知します。楽器ケース、カメラの防湿庫、ワインセラーなど、厳格な温湿度管理が求められるデリケートな環境でも、信頼性の高い計測データを提供します。",
+        "【簡単設置と長期間の電池寿命】 大容量のボタン電池（CR2477）を採用し、約12ヶ月の長期稼働を実現。頻繁な電池交換の手間を軽減します。背面のマグネットや付属のストラップ等で、壁掛け・貼り付け・置き型など設置方法は自由自在。JJ JULIE JAPANが提案する、使いやすさと機能美を追求した温湿度計です。"
+      ],
+      "maker": "JJ",
+      "query": "dg_20261108_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261108_thermo_hygrometer"
+      ],
+      "review_count": 51,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "sensing_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "parent_asin": "B0GR1DMCTN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:54:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BWCL335L",
+      "title": "TP-Link Tapo スマートホーム コンパクト 電子ペーパー 大型画面 温湿度計 温度計 スイス 高精度 温度 湿度 アラーム スマート温湿度計 Tapo T315",
+      "url": "https://www.amazon.co.jp/dp/B0BWCL335L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BWCL335L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41foyX7VH1L._SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "[特徴] 電子ペーパーLCDディスプレイで見やすいTapo スマート温湿度計。",
+        "[スイス製センサー搭載] スイス製の高精度なセンサー。+-0.3°C/ +-3%RHに対応。",
+        "[電子ペーパー] どの角度からでもみやすくて大画面",
+        "[Tapoアプリ対応] ひとつのアプリで全てのTapoスマートホーム製品を管理できます。",
+        "[省電力＆長寿命]超低電力無線規格Sub-1GHZで通信するため、 少ない消費電力で長持ち",
+        "[Tapo スマートハブ必須] 本製品をお使いいただくためにはTapo スマートハブ が必要です。"
+      ],
+      "maker": "TP-Link",
+      "query": "dg_20261108_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261108_thermo_hygrometer"
+      ],
+      "review_count": 472,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "parent_asin": "B0F6YLZ9D6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:54:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DB18WL6Z",
+      "title": "TempPro デジタル温湿度計 Bluetooth スマホ連動 ワイヤレス 室内 温度計 湿度計 小型 高精度 見やすい 大画面 顔マーク",
+      "url": "https://www.amazon.co.jp/dp/B0DB18WL6Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DB18WL6Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41ABCmRB5YL._SX342_SY445_QL70_ML2_.jpg",
+      "features": [
+        "【スマホ連携・複数台管理／アラーム機能】専用アプリと接続すれば、離れた場所からでも各部屋の温度・湿度をスマホで確認できるブルートゥースデジタル温湿度計。複数台をまとめてリモート管理でき、測定値は約10秒ごとに更新、通信距離は障害物のない環境で約80m。温湿度が設定範囲を超えると、スマホアプリにアラーム通知でお知らせ。室温計・湿度計として室内環境や空調管理の目安づくりに役立ちます。",
+        "【アプリで記録・グラフ管理】専用アプリでは無線温湿度計の過去1年分の温湿度履歴データをグラフ表示し、時間・曜日・月ごとの変化を直感的に把握できます。最大2年分の履歴データはCSVでエクスポート可能。ユーザー情報の登録が不要で、プライバシーに配慮した安心設計のアプリです。※テンププロ温度湿度計本体もアプリも、温度表示を℃/℉で切り替え可能。",
+        "【高精度センサー搭載】ワイヤレス温度計・湿度計は温度精度±0.5℃、湿度精度±2%RHのセンサーを採用。測定範囲は温度-20℃～60℃、湿度10%～99%RHと広く、リビング・寝室・オフィス・ベービールーム・キッチンなど幅広い室内で使えます。梅雨の結露やカビ、冬の乾燥、夏の熱中症対策の目安として一年中活躍します。※湿度温度計を温湿度差の大きい場所へ移動した直後は、30〜60分ほど置いてからご確認。",
+        "【顔マークとデカ文字の大画面で見やすい】コンパクトな本体に温度と湿度を大きな文字で表示。離れた場所やベッドからでも数値が読み取りやすく、高齢者やお子様のいるご家庭でも安心。お部屋の快適さを「乾燥・快適・多湿」の3段階の顔マークで表示。数値が分からなくても、室内が乾いているか快適か、じめじめしているかを直感的に判断できます。温湿度の変化や室内環境の快適度がひと目でわかります。",
+        "【3WAY設置・ミニサイズ】ワイヤレス湿度温度計は強力マグネット（磁石）・壁掛け（フック穴）・自立スタンドの3通りに対応。冷蔵庫などの金属面、壁、卓上など好きな場所に設置できます。シンプルでおしゃれなデザインとミニサイズで、置き場所を選びません。ひとり暮らしのお部屋や書斎、ベビー用品の近くにもなじみます。",
+        "【日本の四季の室内対策に】じめじめする梅雨や結露・カビが気になる季節、空気が乾燥してウイルスや風邪やインフルエンザが心配な冬、熱中症対策が必要な夏まで、温度と湿度の両方をひと目で確認。エアコンや暖房、加湿器・除湿機の調整の目安になり、季節に合わせた快適な室内環境づくりにお役立ていただけます。",
+        "【赤ちゃん・ペット・大切なものの見守りに】温度・湿度の管理が大切な赤ちゃんやお子様の部屋、犬・猫・うさぎ・爬虫類などペットの飼育、インキュベーター、観葉植物の育成、ワインセラー、カメラの防湿庫、ギターなど楽器の保管まで、幅広いシーンの環境チェックに活躍します。",
+        "【電池付属・日本語説明書付きですぐ使える】単4形乾電池（AAA・1.5V）×1本付属で、届いてすぐにお使いいただけます。分かりやすい日本語説明書付きで初めての方でも安心。新生活・引っ越し祝い・母の日・父の日・敬老の日・クリスマスなどのギフトにもおすすめです。",
+        "【ブランド名変更のお知らせ】ThermoProはTempProへブランド名を変更いたしました。TempProはThermoProの理念・運営体制・製品をそのまま引き継いでおります。ブランド移行期間中につき、ThermoProまたはTempProいずれかのロゴ入り商品をランダムでお届けいたします。仕様・品質は全く同じですのでご安心ください。"
+      ],
+      "maker": "TempPro",
+      "query": "dg_20261108_thermo_hygrometer",
+      "queries_matched": [
+        "dg_20261108_thermo_hygrometer"
+      ],
+      "review_count": 196,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "sensing_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "parent_asin": "B0HBBVS5XF",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:54:29+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:thermo_hygrometer"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "実在typeタグでreadonly gate照会。狭い用途は商品名と履歴Featuresで監査。未確認attrタグを推測で掛けない"
+  },
+  "date": "2026-11-08",
+  "planning_status": "historical_candidates_require_refresh",
+  "scope_conditions": {
+    "type_tag": "type:thermo_hygrometer",
+    "tentative_theme": "離れた部屋の温湿度を確認する。スマホ連携温湿度計",
+    "exclude_used_since": "2026-10-09",
+    "features_current": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T10:54:29+09:00"
+}

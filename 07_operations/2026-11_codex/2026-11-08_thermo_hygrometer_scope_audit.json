@@ -1,0 +1,747 @@
+{
+  "date": "2026-11-08",
+  "topic_id": "daily_gadget_20261108_5512daf8",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 10,
+  "parent_groups": {
+    "B0GGB2H5HZ": [
+      "B09PYKJ6CS"
+    ],
+    "B09D3PX1CZ": [
+      "B083348J3X",
+      "B099RRN1J3",
+      "B09BYYS7X5"
+    ],
+    "B0DBLDKVDW": [
+      "B0DBLDKVDW"
+    ],
+    "B0C7FTFXC4": [
+      "B0BLRQ5HTT"
+    ],
+    "B0B35YJTH4": [
+      "B07DVJ1P6J"
+    ],
+    "B0GR1DMCTN": [
+      "B09PVDQ8SS"
+    ],
+    "B0F6YLZ9D6": [
+      "B0BWCL335L"
+    ],
+    "B0HBBVS5XF": [
+      "B0DB18WL6Z"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B07DVJ1P6J",
+      "title": "Inkbird 温湿度計 Bluetooth対応 データロガー デジタル 温度計 湿度計 スマホで温度湿度管理 グラフ記録 プローブ付き マグネット付き °Cと°Fの切り替え 温度管理 (IBS-TH1 PLUS)",
+      "maker": "Inkbird",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Inkbird",
+      "historical_tier": 2,
+      "parent_asin": "B0B35YJTH4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07L4QNZVF",
+      "title": "【Works with Alexa認定】SwitchBot 温湿度計 デジタル スマート家電 高精度 スイス製センサー スマホで温度湿度管理 梅雨 熱中症対策 アラーム付き グラフ記録 Alexa、Google home、HomePod、IFTTT に対応(ハブ必要) 熱中症対策",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": "SwitchBot",
+      "historical_tier": 1,
+      "parent_asin": "B0GRV6SL2W",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B07L4QNZVF"
+        },
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B07L4QNZVF"
+        },
+        {
+          "published_date": "2026-04-03",
+          "title": "【SwitchBot 徹底比較】家のスイッチを自動化する人気商品 10 選",
+          "asin": "B0BVLYPYT1"
+        },
+        {
+          "published_date": "2026-03-28",
+          "title": "食材管理をスマートに。保存・見える化に役立つキッチンガジェット 5 選",
+          "asin": "B0BVLYPYT1"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md",
+          "date": "2026-10-01",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": "30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07TYN8584",
+      "title": "ThermoProサーモプロ 湿度計 温度計 温湿度計 室内 大画面 コンパクト 顔マーク 壁掛け 卓上スタンド マグネット TP-49 (ホワイト*1個)",
+      "maker": "ThermoPro",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ThermoPro",
+      "historical_tier": 1,
+      "parent_asin": "B0HBBVS5XF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B07TYN8584"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md",
+          "date": "2026-10-01",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [],
+      "exclusion_reason": "スマホ連携を履歴仕様でも確認できない（卓上単独機を穴埋めにしない）",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07YLW9F3J",
+      "title": "SwitchBot ハブミニ 温湿度計 2個セット スイッチボット スマートホーム 学習リモコン スマートリモコン 赤外線家電を管理 家電を遠隔操作 家電自動化 スマホで温度湿度管理 Alexa Google Home Siriに対応 (ハブミニ 1点+温湿度計 1点)",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GGH198JW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-02-18",
+      "dg_use_history": [
+        {
+          "published_date": "2026-02-18",
+          "title": "声だけで家電操作！おすすめスマートリモコン 6 選",
+          "asin": "B07TTH5TMW"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B081ZW3X48",
+      "title": "タニタ 温湿度計 時計 温度 湿度 デジタル 卓上 マグネット ホワイト TT-585 WH",
+      "maker": "タニタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "タニタ",
+      "historical_tier": 1,
+      "parent_asin": "B0FBR97SRX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B081ZW3X48"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md",
+          "date": "2026-10-01",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [],
+      "exclusion_reason": "スマホ連携を履歴仕様でも確認できない（卓上単独機を穴埋めにしない）",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B081ZW51Q5",
+      "title": "タニタ 温湿度計 時計 温度 湿度 デジタル 卓上 マグネット ライトブルー TT-585 BL",
+      "maker": "タニタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "タニタ",
+      "historical_tier": 1,
+      "parent_asin": "B0FBR97SRX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B081ZW3X48"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md",
+          "date": "2026-10-01",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [],
+      "exclusion_reason": "スマホ連携を履歴仕様でも確認できない（卓上単独機を穴埋めにしない）",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B083348J3X",
+      "title": "Govee 温湿度計 Bluetooth デジタル スマホ管理 高精度 大画面 コンパクト",
+      "maker": "Govee",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Govee",
+      "historical_tier": 1,
+      "parent_asin": "B09D3PX1CZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B083348J3X"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md",
+          "date": "2026-10-01",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B099RRN1J3",
+      "title": "Govee 温湿度計 Bluetooth デジタル 高精度 大画面 スマホ連携",
+      "maker": "Govee",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Govee",
+      "historical_tier": 1,
+      "parent_asin": "B09D3PX1CZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B083348J3X"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md",
+          "date": "2026-10-01",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09BYYS7X5",
+      "title": "Govee 温湿度計 Bluetooth デジタル 高精度 大画面 2個セット",
+      "maker": "Govee",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B09D3PX1CZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B083348J3X"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md",
+          "date": "2026-10-01",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09PVDQ8SS",
+      "title": "JJ JULIE JAPAN 温湿度計 デジタル 高精度 スマホ連動 アプリ通知 液晶付き 世界最小級 コンパクト 異常アラート（音/光/スマホ） ログ記録 爬虫類 ペット 観葉植物 デスク JJWS08(1個)",
+      "maker": "JJ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "JJ",
+      "historical_tier": 3,
+      "parent_asin": "B0GR1DMCTN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09PYKJ6CS",
+      "title": "SwitchBot 温湿度計プラス Alexa 温度計 湿度計 - スイッチボット スマホで温度湿度管理 デジタル 高精度 コンパクト 大画面 温度 湿度 アラーム 顔マーク グラフ記録 スマートホーム 梅雨 Alexa Google Home IFTTT イフト Siriに対応(ハブ必要)",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": "SwitchBot",
+      "historical_tier": 1,
+      "parent_asin": "B0GGB2H5HZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B09PYKJ6CS"
+        },
+        {
+          "published_date": "2026-05-16",
+          "title": "帰宅前に部屋を涼しく。外出先から操る「スマートリモコン」 7 選",
+          "asin": "B0DSPXKDP8"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md",
+          "date": "2026-10-01",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BLRQ5HTT",
+      "title": "TP-Link Wi-Fi Tapo スマートホーム コンパクト 温湿度計 スイス高精度 アラーム Tapoスマートハブ必須 Sub-1GHz T310",
+      "maker": "TP-Link",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TP-Link",
+      "historical_tier": 2,
+      "parent_asin": "B0C7FTFXC4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BM8VS13P",
+      "title": "SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": "SwitchBot",
+      "historical_tier": 1,
+      "parent_asin": "B0HFHW4RYC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-08-01",
+          "title": "実家のご両親へ。安心を贈る「見守り・簡単ガジェット」 7 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-07-25",
+          "title": "ルーティンを全自動化。IFTTT 対応の「スマート連携」 6 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-07-10",
+          "title": "【Amazonプライムデー】期間中に狙いたいお得ガジェット 20 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-05-31",
+          "title": "5 月の振り返り。改めて気になった「最新ガジェット」 8 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-05-29",
+          "title": "【Amazonスマイルセール】充電器・PC周辺機器・梅雨対策家電の狙い目 10 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-05-16",
+          "title": "帰宅前に部屋を涼しく。外出先から操る「スマートリモコン」 7 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-05-09",
+          "title": "スマートホームの基本。アレクサ対応おすすめガジェット 7 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-04-03",
+          "title": "【SwitchBot 徹底比較】家のスイッチを自動化する人気商品 10 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-03-31",
+          "title": "3 月のベストバイ。新生活を彩る「買ってよかったギア」 8 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-03-07",
+          "title": "布団から出たくない冬に。スマホで操る「IoT 暖房ガジェット」 5 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-02-18",
+          "title": "声だけで家電操作！おすすめスマートリモコン 6 選",
+          "asin": "B0BM8VS13P"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BVLYPYT1",
+      "title": "SwitchBot 防水温湿度計 Alexa 温度計 湿度計 - スイッチボット ワイヤレス 室内 屋外用 温湿度計 スマホで温度湿度管理 デジタル 高精度 コンパクト 温度 湿度 絶対湿度 異常通知 グラフ記録 スマートホーム Alexa Google Home IFTTT イフト Siriに対応(ハブ必要)",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": "SwitchBot",
+      "historical_tier": 1,
+      "parent_asin": "B0GRV6SL2W",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B07L4QNZVF"
+        },
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B07L4QNZVF"
+        },
+        {
+          "published_date": "2026-04-03",
+          "title": "【SwitchBot 徹底比較】家のスイッチを自動化する人気商品 10 選",
+          "asin": "B0BVLYPYT1"
+        },
+        {
+          "published_date": "2026-03-28",
+          "title": "食材管理をスマートに。保存・見える化に役立つキッチンガジェット 5 選",
+          "asin": "B0BVLYPYT1"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md",
+          "date": "2026-10-01",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": "30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BWCL335L",
+      "title": "TP-Link Tapo スマートホーム コンパクト 電子ペーパー 大型画面 温湿度計 温度計 スイス 高精度 温度 湿度 アラーム スマート温湿度計 Tapo T315",
+      "maker": "TP-Link",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TP-Link",
+      "historical_tier": 2,
+      "parent_asin": "B0F6YLZ9D6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-28",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-28",
+          "title": "食材管理をスマートに。保存・見える化に役立つキッチンガジェット 5 選",
+          "asin": "B0BWCL335L"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DB18WL6Z",
+      "title": "TempPro デジタル温湿度計 Bluetooth スマホ連動 ワイヤレス 室内 温度計 湿度計 小型 高精度 見やすい 大画面 顔マーク",
+      "maker": "TempPro",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TempPro",
+      "historical_tier": 2,
+      "parent_asin": "B0HBBVS5XF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B07TYN8584"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md",
+          "date": "2026-10-01",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DBLDKVDW",
+      "title": "【冬の乾燥対策】SwitchBot 温湿度計 プロ スマホで管理 アレクサ - スイッチボット 温度計 湿度計 快適指数 大画面 デジタル 天気予報 時計 カレンダー アラート通知 高精度 コンパクト グラフ記録 スマートホーム Alexa Google Home Siriに対応",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": "SwitchBot Pro",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-04-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-03",
+          "title": "【SwitchBot 徹底比較】家のスイッチを自動化する人気商品 10 選",
+          "asin": "B0DBLDKVDW"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [
+        "履歴/通知/遠隔確認に必要なハブと通信到達範囲を公式確認。Bluetooth単独を外出先遠隔と断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DBLKNYPY",
+      "title": "【冬の換気・乾燥対策】SwitchBot CO2センサー 二酸化炭素濃度計 温湿度計 アラーム - スイッチボット デジタル 大画面 高精度 CO2測定器 快適指数 天気予報 時計 卓上 カレンダー スマホ連動 アラート通知 グラフ記録 スマートホーム Alexa Google Home Siriに対応",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": "SwitchBot",
+      "historical_tier": 1,
+      "parent_asin": "B0GXJXDTH8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-04",
+          "title": "雨の日は在宅ワーク。集中力を高める「デスク環境ガジェット」 6 選",
+          "asin": "B0DBLKNYPY"
+        },
+        {
+          "published_date": "2026-04-15",
+          "title": "集中力を維持。眠気を防ぐ「二酸化炭素モニター」 6 選",
+          "asin": "B0DBLKNYPY"
+        },
+        {
+          "published_date": "2026-01-20",
+          "title": "風邪対策に空気を可視化。「スマートCO2モニター」 6選",
+          "asin": "B0DBLKNYPY"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DDXSYRXR",
+      "title": "【室内外の温湿度を簡単に管理セット】SwitchBot 温湿度計プロ1点+防水温湿度計1点 スイッチボット 快適指数 スマートホーム Alexa Google Home Siriに対応",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FJXTBNXB",
+      "title": "SwitchBot 温湿度管理 パネル エアコン操作 温湿度計 - スイッチボット 温度計 湿度計 人感センサー搭載 LED バックライト付き 室温計 物理ボタン 複数デバイス操作 グラフ記録 アラート通知 スマートホーム Alexa Google Home Siri Matter対応（ハブ必要）",
+      "maker": "SwitchBot",
+      "maker_source": "商品名SwitchBot/スイッチボット表記の統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0GGB2H5HZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B09PYKJ6CS"
+        },
+        {
+          "published_date": "2026-05-16",
+          "title": "帰宅前に部屋を涼しく。外出先から操る「スマートリモコン」 7 選",
+          "asin": "B0DSPXKDP8"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md",
+          "date": "2026-10-01",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-09",
+      "scope_pending": [],
+      "exclusion_reason": "スマホ連携を履歴仕様でも確認できない（卓上単独機を穴埋めにしない）",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B07L4QNZVF",
+      "title": "【Works with Alexa認定】SwitchBot 温湿度計 デジタル スマート家電 高精度 スイス製センサー スマホで温度湿度管理 梅雨 熱中症対策 アラーム付き グラフ記録 Alexa、Google home、HomePod、IFTTT に対応(ハブ必要) 熱中症対策",
+      "reason": "30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B07TYN8584",
+      "title": "ThermoProサーモプロ 湿度計 温度計 温湿度計 室内 大画面 コンパクト 顔マーク 壁掛け 卓上スタンド マグネット TP-49 (ホワイト*1個)",
+      "reason": "スマホ連携を履歴仕様でも確認できない（卓上単独機を穴埋めにしない）"
+    },
+    {
+      "asin": "B07YLW9F3J",
+      "title": "SwitchBot ハブミニ 温湿度計 2個セット スイッチボット スマートホーム 学習リモコン スマートリモコン 赤外線家電を管理 家電を遠隔操作 家電自動化 スマホで温度湿度管理 Alexa Google Home Siriに対応 (ハブミニ 1点+温湿度計 1点)",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B081ZW3X48",
+      "title": "タニタ 温湿度計 時計 温度 湿度 デジタル 卓上 マグネット ホワイト TT-585 WH",
+      "reason": "スマホ連携を履歴仕様でも確認できない（卓上単独機を穴埋めにしない）"
+    },
+    {
+      "asin": "B081ZW51Q5",
+      "title": "タニタ 温湿度計 時計 温度 湿度 デジタル 卓上 マグネット ライトブルー TT-585 BL",
+      "reason": "スマホ連携を履歴仕様でも確認できない（卓上単独機を穴埋めにしない）"
+    },
+    {
+      "asin": "B0BM8VS13P",
+      "title": "SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B0BVLYPYT1",
+      "title": "SwitchBot 防水温湿度計 Alexa 温度計 湿度計 - スイッチボット ワイヤレス 室内 屋外用 温湿度計 スマホで温度湿度管理 デジタル 高精度 コンパクト 温度 湿度 絶対湿度 異常通知 グラフ記録 スマートホーム Alexa Google Home IFTTT イフト Siriに対応(ハブ必要)",
+      "reason": "30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B0DBLKNYPY",
+      "title": "【冬の換気・乾燥対策】SwitchBot CO2センサー 二酸化炭素濃度計 温湿度計 アラーム - スイッチボット デジタル 大画面 高精度 CO2測定器 快適指数 天気予報 時計 卓上 カレンダー スマホ連動 アラート通知 グラフ記録 スマートホーム Alexa Google Home Siriに対応",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0DDXSYRXR",
+      "title": "【室内外の温湿度を簡単に管理セット】SwitchBot 温湿度計プロ1点+防水温湿度計1点 スイッチボット 快適指数 スマートホーム Alexa Google Home Siriに対応",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0FJXTBNXB",
+      "title": "SwitchBot 温湿度管理 パネル エアコン操作 温湿度計 - スイッチボット 温度計 湿度計 人感センサー搭載 LED バックライト付き 室温計 物理ボタン 複数デバイス操作 グラフ記録 アラート通知 スマートホーム Alexa Google Home Siri Matter対応（ハブ必要）",
+      "reason": "スマホ連携を履歴仕様でも確認できない（卓上単独機を穴埋めにしない）"
+    }
+  ],
+  "variant_policy": "色・サイズの候補を残し親群を提示。機械選抜は最新実測後に主担当が行う",
+  "notes": [
+    "履歴値を最新在庫/採用品として扱わない",
+    "公式メーカー/型番/狭い用途は未確認事項を明記",
+    "Amazon検索/実測/API/ブラウザ/DB書込みなし"
+  ],
+  "maker_normalization_note": "候補段階の手動正規化で別表記の同一メーカーを統一。採用品/掲載順/数は機械選抜で決める"
+}
