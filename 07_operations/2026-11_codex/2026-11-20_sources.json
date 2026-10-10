@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-20",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B08HDL3XJR",
+      "official_urls": [
+        "https://remarkable.com/products/remarkable-2",
+        "https://support.remarkable.com/articles/Knowledge/importing-and-exporting-files",
+        "https://support.remarkable.com/articles/Knowledge/Here-s-how-reMarkable-rolls-out-software-updates"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B08HDL3XJR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-20_digital_notebook_candidates.json",
+        "path": "candidates[asin=B08HDL3XJR].features"
+      },
+      "verified_article_specs": [
+        "画面：10.3インチ・モノクロ",
+        "ストレージ：8GB",
+        "本体重量：約403.5g",
+        "書き出し：PDF／PNG／SVG",
+        "選択セット：Marker Plus付き"
+      ],
+      "check": "公式reMarkable2販売終了ページとソフト更新継続を確認。Starter MarkerPlus付きは当該タイトル/Features。Pure/Proの色画面/ペン機能を転用しない。Connectなしの書出しと有料クラウド/アプリ編集を区別。"
+    },
+    {
+      "order": 2,
+      "asin": "B0DG9VSBLS",
+      "official_urls": [
+        "https://remarkable.com/products/remarkable-paper/pro/details/features"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DG9VSBLS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-20_digital_notebook_candidates.json",
+        "path": "candidates[asin=B0DG9VSBLS].features"
+      },
+      "verified_article_specs": [
+        "画面：11.8インチ・カラー電子ペーパー",
+        "ストレージ：64GB",
+        "機能：調整可能な読書用ライト",
+        "書き出し：PDF／PNG／SVG",
+        "選択セット：Marker Plus・ブラックレザーBook Folio"
+      ],
+      "check": "Pro公式11.8/64GB/PDFPNGSVG。Move7.3/Pureモノクロと混同しない。セットは当該タイトル、Pro専用Markerで2用は互換なし。クラウドConnect条件あり。"
+    },
+    {
+      "order": 3,
+      "asin": "B09988GM1B",
+      "official_urls": [
+        "https://www.fmworld.net/digital-paper/support/download/pdf/B6FK5121.pdf",
+        "https://www.fmworld.net/digital-paper/support/download/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B09988GM1B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-20_digital_notebook_candidates.json",
+        "path": "candidates[asin=B09988GM1B].features"
+      },
+      "verified_article_specs": [
+        "画面：13.3型・モノクロ",
+        "ファイル形式：PDF",
+        "PCアプリ：QUADERNO PC App",
+        "対応Windows：11／10（64bit・ARM非対応）",
+        "対応macOS：13／14／15／26"
+      ],
+      "check": "FMVDP41同型13.3は2021取説確認。現行QUADERNO PC AppはWindows11/10 64bit非ARM、mac13/14/15/26、macBT不可、起動時ネット接続必要。カラー後継仕様を転用しない。"
+    },
+    {
+      "order": 4,
+      "asin": "B08BP625V6",
+      "official_urls": [
+        "https://www.fmworld.net/digital-paper/gen1/product.html",
+        "https://www.fmworld.net/digital-paper/support/download/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B08BP625V6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-20_digital_notebook_candidates.json",
+        "path": "candidates[asin=B08BP625V6].features"
+      },
+      "verified_article_specs": [
+        "画面：13.3型・モノクロ",
+        "ファイル形式：PDF",
+        "PCアプリ：Digital Paper PC App",
+        "対応Windows：11（64bit・ARM非対応、設定条件あり）",
+        "対応macOS：10.14／10.15／11／12／13"
+      ],
+      "check": "DPP03同型旧公式製品で13.3/350g/microUSB/PDF。現行Digital Paper PC AppでWin11 WMIC有効/Smart App Controlオン不可/ARM不可。mac14以上は掲載対応外、12/13もBT不可。新PC App対象のDP41とは別。"
+    },
+    {
+      "order": 5,
+      "asin": "B0DX1TFTY1",
+      "official_urls": [
+        "https://iflytek.co.jp/products/iflytek-ainote-air-2",
+        "https://www.iflytek.com/en/Public/Uploads/uploadfile/files/20250514/iFLYTEKAINOTEAir2UserManualJapan-856.pdf"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DX1TFTY1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-20_digital_notebook_candidates.json",
+        "path": "candidates[asin=B0DX1TFTY1].features"
+      },
+      "verified_article_specs": [
+        "画面：8.2インチ・E Ink",
+        "ストレージ：32GB",
+        "本体重量：約230g",
+        "ノート共有：PDF／Wordなど",
+        "選択セット：ブラック保護ケース付き"
+      ],
+      "check": "国内Air2公式の黒ケースvariantと日本語公式マニュアル2.1.9でweb/Word/PDFのQR/メール/書棚export確認。AINOTE2の10.65/GooglePlay機能を転用しない。AI連携はAPIキー等条件があるため無料無条件断言不採用。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n1ffbde3cf8b6",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n3c59fec7b45d",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n07974d0c1e08",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "official_gate_passed": true,
+  "unresolved_omitted_specs": [
+    "reMarkable有料Connect機能の全部無料断定",
+    "Air2のAPI連携/オンライン機能を無条件無料としない",
+    "旧QUADERNOでmacOS14以降の対応保証"
+  ],
+  "excluded_unconfirmed_before_latest_selection": [
+    "B0GZVHF79R"
+  ]
+}
