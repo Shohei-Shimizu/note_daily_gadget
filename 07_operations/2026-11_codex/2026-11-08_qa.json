@@ -1,0 +1,21 @@
+{
+  "article": "02_article/2026-11/2026-11-08_部屋の変化をスマホで確認。「温湿度計」7選.md",
+  "title_length": 21,
+  "checks": {
+    "seven_products": true,
+    "selected_urls_order": true,
+    "two_intro_paragraphs": true,
+    "seven_spec_quotes": true,
+    "no_placeholder": true,
+    "no_reviews_prices_claims": true,
+    "related_urls_only": true,
+    "no_new_sections_or_tables": true,
+    "paragraphs_under_200": true,
+    "research_title_sync": true
+  },
+  "official_gate_passed": true,
+  "saved_preview": "pending_main_publisher",
+  "unresolved_specs": [
+    "GoveeとTempProは研究票に型番がなく、型番/地域通信距離を記事へ追加していない。公式同機能モデルと照合済み。"
+  ]
+}

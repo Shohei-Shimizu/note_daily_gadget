@@ -1,0 +1,35 @@
+{
+  "published_date": "2026-11-08",
+  "filename": "2026-11-08_部屋の変化をスマホで確認。「温湿度計」7選.md",
+  "title": "部屋の変化をスマホで確認。「温湿度計」7選",
+  "category": "スマートホーム・ライフスタイル・健康管理",
+  "tags": "おすすめガジェット 温湿度計 スマートホーム 室内環境 乾燥対策",
+  "product_count": 7,
+  "product_asins": [
+    "B09PYKJ6CS",
+    "B083348J3X",
+    "B0DBLDKVDW",
+    "B0BWCL335L",
+    "B0BLRQ5HTT",
+    "B0DB18WL6Z",
+    "B07DVJ1P6J"
+  ],
+  "related_urls": [
+    "https://note.com/daily_gadget/n/nf2d5d04244d0",
+    "https://note.com/daily_gadget/n/nb727d58b3370",
+    "https://note.com/daily_gadget/n/naa8f89132514"
+  ],
+  "research_file": "06_research/2026-11/2026-11-08_部屋の変化をスマホで確認。「温湿度計」7選.md",
+  "status": "local_draft_qa_only",
+  "scheduled_time": "20:00 JST",
+  "unresolved_specs": [
+    "GoveeとTempProは研究票に型番がなく、型番/地域通信距離を記事へ追加していない。公式同機能モデルと照合済み。"
+  ],
+  "integration_required": [
+    "monthly_metadata",
+    "schedule_ledger",
+    "shared_db",
+    "thumbnail",
+    "note_saved_preview"
+  ]
+}
