@@ -1,0 +1,558 @@
+{
+  "generated_at": "2026-10-10T01:11:45+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261122_ed8999ae",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261122_laptop_case"
+  ],
+  "fetched_count": 13,
+  "dedup_count": 13,
+  "candidates": [
+    {
+      "asin": "B089SYBGDL",
+      "title": "LANDICI 360°保護 パソコンケース 13 14インチ pcケース 衝撃吸収防水 ノートパソコン ケース 13.3/13.6 MacBook Air M4/M3/M2/M1 2025-2018",
+      "url": "https://www.amazon.co.jp/dp/B089SYBGDL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B089SYBGDL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81p-VgHEhLL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【360°保護耐衝撃】パソコンケースの開口部にある保護ストリップは、ジッパーが使用中にパソコンの表面を傷つけるのを防ぎ、パソコンを長期間新品のように美しく保護します。パソコンケースの表面は防水性と耐摩耗性に優れた高品質な素材で作られており、内部にはふわふわのベルベット裏地が厚いクッションとして使用され、優れた衝撃吸収性能を持っています。通勤や学校での予期しない衝撃や傷つけから守り、非常に頑丈で耐久性に優れています。",
+        "【2つの広々としたフロント·ポケット 十分な収納スペース】pcケースはシンプルなデザインで、収納スペースが十分にあります！ 精巧な縫製技術を採用し、特に2つの収納スペースを追加しました。345*220MMのサイドポケットは、タブレット、スマートフォン、ドッキングステーション、書類などを収納するために使用できます。180*190MMのアクセサリーポケットには、電源アダプター、マウス、イヤホンなどのアクセサリーを収納することができます。2つのアクセサリーポケットは使いやすく、幅広い用途があります。",
+        "【使いやすさ】ノートパソコンケースは軽薄なデザインで、パソコンにしっかりとフィットして保護します。流線型でコンパクトなデザインにより、ノートパソコンケースは収納や持ち運びのスペースを節約します。ハンドルがあり、軽量で持ち運びが簡単です。また、他のバッグやスーツケースに収納することもできます。モダンでスタイリッシュなノートパソコンケースは、通勤やビジネス旅行、日常のお出かけなど、さまざまな場面で使用することができます。",
+        "【多機種対応】ノートPCパソコンケースは、ほとんどの13-14インチのコンピュータに対応しています。内寸：345x248x30MM，外寸：355x265x30MM。様々な機種に対応しており、例えば：MacBook Air 2025-2018（M4/A3240, M3/A3113, M2/A2681,M1/A2337 A2179 A1932)、MacBook Pro M2/A2686, M1/A2338、Surface Laptop 5/4/3/2/1、Surface Laptop Studio 2021、Surface Book 3/2/1、Lenovo ThinkPad T-Series/X1 Carbon 1-9世代/X1 Yoga 1-3、Dell Inspiron 14 AMD/XPS 15、ASUS ZenBook/VivoBook 14/M413DA/L410MA 14、Acer Chromebook、IdeaPad Slim 360、Jumper X3-8256、NEC LAVIE N14、HPなどの機種に対応しており、同じサイズの他のノートパソコンにも使用できます。",
+        "【アフター保証】全ての13〜14インチのノートパソコンが完璧にフィットするわけではありません。適切なノートパソコンバッグを簡単に購入できるように、ご注文前にご使用のコンピューターのサイズを確認いただければ幸いです。"
+      ],
+      "maker": "LANDICI",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 2238,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-19",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B08FHPLX7B",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:18:37+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FLQ33529",
+      "title": "エレコム パソコンケース PC用インナーバッグ ネオプレン 14インチ スリップイン ブラック BM-IBTHNPV14BK",
+      "url": "https://www.amazon.co.jp/dp/B0FLQ33529?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FLQ33529?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51IszKJU74L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "伸縮性とクッション性を兼ね備えた素材を採用し、端末本体に無駄なくフィットします。",
+        "スリム&amp;軽量設計で、持ち運びに便利です。",
+        "ポケットを省いたシンプルな設計で、かばんの中でも邪魔になりません。",
+        "ファスナーレスのスリップイン方式を採用し、端末を簡単に出し入れ可能です。",
+        "収納した端末が不意に滑り落ちないよう、フタ構造を備えています。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 105,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-02",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B0FMDQJB4Q",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:18:45+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B00CD8AFFW",
+      "title": "Amazonベーシック PCケース ノートパソコンバッグ スリーブ 14.0インチ ブラック",
+      "url": "https://www.amazon.co.jp/dp/B00CD8AFFW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B00CD8AFFW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71vYTtpjq9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "この商品は、Amazonフラストレーションフリーパッケージ (FFP)で発送されます。",
+        "生産国: 中国",
+        "ノートパソコンやタブレットの保護、持ち運びに便利。取り出し易い開口部。",
+        "本体素材名称: ネオプレン ラップトップスリーブ",
+        "商品画像ではamazonロゴ内の矢印とbasicsの文字がオレンジ色となっておりますが、ロットにより、色が変更される場合がございます。",
+        "内寸: 13.9インチ x 0.6インチ x 10.4インチ (長さx幅x高さ)",
+        "MacBook Pro 14インチ 2021-2023 A2779 M2 A2442 M1 Pro/Max Touch IDに対応、MacBook Air 13インチ A1369 A1466 2010-2017に対応、MacBook Pro 13インチ A1425 A1502 A1278 2008-2015に対応、Surface Book 3/2/1 13.5に対応、Surface Laptop 4/3/2/1 13.5に対応、Dell Latitude 14に対応、HP Elitebook 13.3/Spectre X360 13.3/Envy 13/Stream 13/Stream 14/Pavilion 14に対応、Lenovo ThinkPad X1 Carbonに対応、Lenovo IdeaPad 13/14インチに対応。"
+      ],
+      "maker": "Amazon",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 121753,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B0CD3X1NNK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:18:54+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B00CD8AFT8",
+      "title": "Amazonベーシック PCケース ノートパソコンバッグ スリーブ 15.6インチ ブラック",
+      "url": "https://www.amazon.co.jp/dp/B00CD8AFT8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B00CD8AFT8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/718QD8RiMDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "この商品は、Amazonフラストレーションフリーパッケージ (FFP)で発送されます。",
+        "生産国: 中国",
+        "ノートパソコンやタブレットの保護、持ち運びに便利。取り出し易い開口部。",
+        "本体素材名称: ネオプレン ラップトップスリーブ 黒いベルベット(天鵞絨(てんがじゅう)) DS887 ナイロン",
+        "製品サイズ:39.88 x 2.03 x 29.46 cm;263.08 g",
+        "MacBook Pro 16インチ 2023-2021 M2 A2780 M1 A2485 Pro/Max Touch IDに対応、MacBook Pro 16 A2141 2019 2020に対応、MacBook Pro Retina 15.4 A1398に対応、Surface Book 3/2/1 15に対応、Asus ZenBook/VivoBook 15に対応、Acer Swift 3 14/Swift 5 15.6に対応、Acer Aspire 3/5/7 15.6に対応、HP ProBook/Spectre x360/Envy x360 15.6に対応、HP Omen/Pavilion x360 15.6に対応、Dell XPS/Precision/Vostro/Latitude 15に対応。"
+      ],
+      "maker": "Amazon",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 121753,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B0CD3X1NNK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:19:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B06XXB9G8G",
+      "title": "tomtoc 360°耐衝撃 パソコンケース 14インチ MacBook Pro 2026-2021 M5/M4/M3/M2/M1 Pro/Max対応",
+      "url": "https://www.amazon.co.jp/dp/B06XXB9G8G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B06XXB9G8G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71i+QGH8ywL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ピッタリフィット】内寸：314 × 223 × 22mm。14インチ MacBook Pro M5/M4/M3/M2/M1 Pro/Max モデルA3427 A3426 A3434 A3112 A3401 A3185 A2992 A2918 A2779 A2442 2026-2021 専用ケース。13.8インチ Surface Laptop 7 Copilot+ PC 2024 、ThinkPad E14 Gen 6 / ThinkBook 14 Gen 7、Dell Inspiron 14 14型、14型 NEC LAVIE NEXTREME Carbonにも対応。必ずご利用のPCの寸法が本製品の内寸より小さいであることをご確認の上お買い上げください。他のラップトップが入るかのにお迷う場合、お気軽にお問い合わせください。",
+        "【軍用規格の360°全面保護】tomtocは、パソコンケースで初めて、PCをあらゆる方向から守る「360°全面保護」を実現。四隅に配置した特許取得ゴムクッション「CornerArmor」、本体周囲を包み込む厚手で高弾性でのフレーム、そしてふわふわとしてフランネル裏地を組み合わせることで、超強耐衝撃力で、落下や衝撃からパソコンを保護します。2025年4月30日に米軍規格MIL-STD-810Hの落下試験をクリアしました。この規格を満たしたPCケースは、史上初となります。",
+        "【サステナビリティ】GRS（グローバル・リサイクル・スタンダード）認証を取得した環境配慮型ノートPCケースです。何百万本もの廃棄プラスチックボトルを再生原料として活用しています。環境に優しい素材を採用し、高品質なクラフトマンシップとサステナブルなものづくりを実現しています。",
+        "【使いやすいフロントポケット】PC以外の持ち歩き周辺小物もまとめて収納。ジッパー式のフロントポケットには、Kindleやアダプター、ケーブル、マウス、ハブ、USBメモリ、イヤホンなど、パソコン周辺機器をすっきり収納可能。AirTagや鍵を取り付けられるストラップも備えています。この軽量コンパクトな設計のパソコンケースは、ショルダーバッグやバックパックにもすっきり収まり、持ち運びがより快適になります。",
+        "【機能性と品質の両立】開閉部には信頼性の高いYKKファスナーを使用し、快適に開閉でき、毎日の出し入れもスムーズです。日常生活に安心な撥水表面は、さっと拭ける撥水加工で、ちょっとした水やこぼれにも対応します。内側には手触りの良いふわふわのフランネル素材を施し、擦り傷防止し、PCをやさしく包み込むように保護するPCケース。tomtoc製品は全て12ヶ月間安心保証付きます。"
+      ],
+      "maker": "tomtoc",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 9419,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B0D5R13ZXB",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:19:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B076DWWQ31",
+      "title": "Voova パソコンケース 15.6 16インチ PCケース ノート パソコンカバー PCバッグ，グレー",
+      "url": "https://www.amazon.co.jp/dp/B076DWWQ31?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B076DWWQ31?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81o-uAHl-hL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "❤【全面保護】外部からの衝撃を吸収する厚みを保ちながら、体積を少なくして軽量化を実現しています。パソコンケース表面は撥水性に優れ、耐久性と高級感のあるオックスフォード布を採用しております。pcケースの内部が手触りの柔らかい天鵞絨で覆われていて、厚いクッション材が入っております。不意な落下や衝撃を吸収し、ラップトップが傷つかないように保護します。",
+        "❤【大容量】パソコンカバンのデザインはシンプルですが収納が充実しています。外側に2つのポケットも付き、携帯電話、充電器、イヤホン、ケーブルやノートブックなどの小物をしっかり整理整頓でき、外出先でもご安心いただけます。側面には手提げ付いてから、持ち運びに便利です。男女問わず幅広い年齢層でご使用いただけます。",
+        "❤【高品質な素材】当社のパソコン保護ケースは開閉しやすい上質のファスナーを採用しており、 パソコンを出し入れしやすいです。単品でのご使用はもちろん、インナーケースとしてもご使用可能です。通学、通勤、出張、家庭用、オフィス用など様々な場合で使用できます。また、撮影や環境より、実物の色はアマゾンのページで掲載された写真と少し違う場合もあります。ご理解の程よろしくお願い申し上げます。",
+        "❤【多機種対応】内寸：395 x 280 x 20mm。16インチ MacBook Pro M3/M2/M1 Pro/Max 2023-2019 (モデルA2991 A2780 A2485 A2141)にピッタリ対応。15.6型 富士通 FMV Lifebook AHシリーズ 2020-2023発売モデルにも対応。Dell Inspiron 15 3501 / Inspiron 16 Plus | NEC LAVIE N15 (S/R/A) | ASUS VivoBook 15 OLED / TUF Gaming A15 | dynabook C8 C7 Y4 CZ/MV | 富士通 FMV Lite WA1/F3 | Lenovo IdeaPad L360i | Acer Aspire 3/5などに対応。人工計測となります為、 誤差が生じる場合がございます。また、同じ画面サイズのノートパソコンであっても、本体の長さ、幅、高さに違いがある場合がございます。ご購入の際は必ず型番だけではなく本体のサイズをお調べの上お買い求めください。",
+        "❤【Voova品質保証】弊社は万全なアフターサービスを提供しております。安心してご購入いただけます。ご使用中何か不具合がある場合、ご遠慮なく『注文履歴』→『出品者に連絡する』からお問い合わせください。お客様に満足させていただきますように12時間内迅速に対応いたします。"
+      ],
+      "maker": "Voova",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 5524,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B08K4MMQXX",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:19:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BLNGGDQG",
+      "title": "bagasin 耐衝撃 パソコンケース 13.3インチ",
+      "url": "https://www.amazon.co.jp/dp/B0BLNGGDQG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BLNGGDQG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71iWvL0mq6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "内部寸法：32×3×23cm（縦、幅、高さ）。ご購入前にノートPCのサイズを測定し、適合するかご確認ください。",
+        "MacBook Pro 14インチ 2021～2026年モデル（M5 M4 M3 M2 M1 A3427 A3426 A3434 A3112 A3185 A3401 A2918 A2992 A2779 A2442）、MacBook Air 13 2010～2017年モデル A1369 A1466 / Pro 13インチ 2008～2015年モデル A1425 A1502 A1278、Surface Book 3/2/1 13.5インチ / Surface Laptop 6/5/4/3 13.5インチ / Surface Laptop 13.8インチ、Dell Latitude/Chromebook 13.3インチ、HP Elitebook/Spectre/Envy/Stream 13.3インチ、Lenovo IdeaPad/ThinkPad Yoga 13.3インチ、Acer Chromebook Spin 13.3インチに対応。",
+        "【4層保護】: Bagasinラップトップスリーブケースは、あなたのラップトップを4層で保護することを特徴としています:1. 最も外側の防水性と傷に強い生地; 2.スリムで滑らかな形状のための弾性EVAパディング；3.EPEフォームで衝撃吸収を実現します; 4.余分なソフト層",
+        "【十分なスペース】: ノートパソコン用コンパートメントはノートパソコンをよりよく保護します。余分な 2 つのメッシュポケットには、iPad、携帯電話、アダプター、マウス、ペン、充電器、ケーブル、ヘッドフォンなどラップトップアクセサリーやほかの小型デバイスを収納するのに十分なスペースを提供します",
+        "【TSAフレンドリー】: 改良されたより快適なハンドルと双方向ジッパーのデザインにより、内部のデバイスに簡単にアクセスでき、ラップトップバッグの持ち運びにも便利です。 軽量でスリムなラップトップスリーブは、貴方のバックパックの中に簡単に収納できます。"
+      ],
+      "maker": "bagasin",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 15085,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B0BS48ZZDN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:19:26+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BLNHG168",
+      "title": "bagasin 耐衝撃 パソコンケース 15 15.6 16インチ",
+      "url": "https://www.amazon.co.jp/dp/B0BLNHG168?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BLNHG168?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71iWvL0mq6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "内部寸法：36.58×3×26cm（縦、幅、高さ）。ご購入前にノートPCのサイズを測定し、適合するかご確認ください。",
+        "MacBook Pro 16インチ 2019～2026年モデル（M5 A3429 A3428 M4 A3403 A3186 M3 A2991 M2 A2780 M1 A2485 A2141）/ Pro Retina 15.4インチ A1398、Surface Book 3/2/1 15インチ、ASUS ZenBook/VivoBook Go 15.6インチ、Lenovo Essential IdeaPad/IdeaPad 3i Chromebook/IdeaPad 1/V15 15.6インチ、Acer Aspire Go 15.6インチ、NIMO 15.6インチ、HP Victus/ProBook/Spectre/Envy/Omen/Pavilion 15.6インチ、Dell Inspiron/XPS/Vostro/Latitude 15.6インチに対応。",
+        "【4層保護】: Bagasinラップトップスリーブケースは、あなたのラップトップを4層で保護することを特徴としています:1. 最も外側の防水性と傷に強い生地; 2.スリムで滑らかな形状のための弾性EVAパディング；3.EPEフォームで衝撃吸収を実現します; 4.余分なソフト層",
+        "【十分なスペース】: ノートパソコン用コンパートメントはノートパソコンをよりよく保護します。余分な 2 つのメッシュポケットには、iPad、携帯電話、アダプター、マウス、ペン、充電器、ケーブル、ヘッドフォンなどラップトップアクセサリーやほかの小型デバイスを収納するのに十分なスペースを提供します",
+        "【TSAフレンドリー】: 改良されたより快適なハンドルと双方向ジッパーのデザインにより、内部のデバイスに簡単にアクセスでき、ラップトップバッグの持ち運びにも便利です。 軽量でスリムなラップトップスリーブは、貴方のバックパックの中に簡単に収納できます。"
+      ],
+      "maker": "bagasin",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 15085,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B0BS48ZZDN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:19:34+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D33FB2GW",
+      "title": "ベルモンド ふわサラ ノートパソコンケース 14インチ 2way PCケース 軽量 衝撃吸収 かわいい オシャレ ビジネス 通勤 ブルー B1072",
+      "url": "https://www.amazon.co.jp/dp/B0D33FB2GW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D33FB2GW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81EFuCVl6WL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "▶▶▶【サイズ】14インチ 用 外寸：約 W39.5 cm × H28.5 cm 内寸 (PCポケット)：約 W36.5 cm × H27 cm 厚さ：約 3 cm 重さ：約 290 g　 ▶▶▶【3層構造で徹底保護】・厚手のしっかりクッションが衝撃を吸収・ふわふわでサラサラの生地がPC表面への擦り傷を防止・水を弾き、傷ややぶれにも強い生地",
+        "▶▶▶【高撥水生地】水の浸入を防ぎ、急な雨などから大切なPCを守ります。※防水ではありません。塗れた場合はすぐに乾いた布などで拭き取ってください。 ▶▶▶【耐久性の高い生地】カッターの刃でも傷がつきにくいほど耐久性に優れた生地を採用。 ▶▶▶【しっかり縫製】ポケットや持ち手部分もしっかり縫製し、丈夫さを実現しました。",
+        "▶▶▶【どんなシーンでも活躍する2way仕様】持ち手を収納すれば、スリーブケースに早変わり！バッグでもスリーブケース、インナーケースとしても大活躍です。 ▶▶▶【使いやすく、たくさん入る】こだわりのダブルファスナー 両側から開け閉めできる便利なダブルファスナー。外側から目立たないコンシールタイプを採用。",
+        "▶▶▶【カバーライン構造】ファスナーがPCに当たらない設計。PCを傷から守るために細部までこだわりました。",
+        "▶▶▶【豊富な4つの収納ポケット】スマホ・タブレットや手帳など、大切なものを収納できる豊富なポケットが4つも装着で、より快適に生活ができます。"
+      ],
+      "maker": "ベルモンド",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 99,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B0D33NMQ5B",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:19:43+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D33H8XSV",
+      "title": "ベルモンド ふわサラ ノートパソコンケース 15インチ 2way PCケース 軽量 衝撃吸収 かわいい オシャレ ビジネス 通勤 ブラック B1072",
+      "url": "https://www.amazon.co.jp/dp/B0D33H8XSV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D33H8XSV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81BJ-ac0v4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "▶▶▶【サイズ】15.6インチ 用 外寸：約 W42 cm × H31 cm 内寸 (PCポケット)：約 W39 cm × H29.5 cm 厚さ：約 3 cm 重さ：約 325 g　 ▶▶▶【3層構造で徹底保護】・厚手のしっかりクッションが衝撃を吸収・ふわふわでサラサラの生地がPC表面への擦り傷を防止・水を弾き、傷ややぶれにも強い生地",
+        "▶▶▶【高撥水生地】水の浸入を防ぎ、急な雨などから大切なPCを守ります。※防水ではありません。塗れた場合はすぐに乾いた布などで拭き取ってください。 ▶▶▶【耐久性の高い生地】カッターの刃でも傷がつきにくいほど耐久性に優れた生地を採用。 ▶▶▶【しっかり縫製】ポケットや持ち手部分もしっかり縫製し、丈夫さを実現しました。",
+        "▶▶▶【どんなシーンでも活躍する2way仕様】持ち手を収納すれば、スリーブケースに早変わり！バッグでもスリーブケース、インナーケースとしても大活躍です。 ▶▶▶【使いやすく、たくさん入る】こだわりのダブルファスナー 両側から開け閉めできる便利なダブルファスナー。外側から目立たないコンシールタイプを採用。",
+        "▶▶▶【カバーライン構造】ファスナーがPCに当たらない設計。PCを傷から守るために細部までこだわりました。",
+        "▶▶▶【豊富な4つの収納ポケット】スマホ・タブレットや手帳など、大切なものを収納できる豊富なポケットが4つも装着で、より快適に生活ができます。"
+      ],
+      "maker": "ベルモンド",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 99,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B0D33NMQ5B",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:19:53+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D33JGH4G",
+      "title": "ベルモンド ふわサラ ノートパソコンケース 14インチ 2way PCケース 軽量 衝撃吸収 かわいい オシャレ ビジネス ライトグレー B1071",
+      "url": "https://www.amazon.co.jp/dp/B0D33JGH4G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D33JGH4G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81ErgePYwgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "▶▶▶【サイズ】14インチ 用 外寸：約 W38 cm × H27.5 cm 内寸 (PCポケット)：約 W36.5 cm × H26 cm 厚さ：約 2.5 cm 重さ：約 205 g ▶▶▶【3層構造で徹底保護】・厚手のしっかりクッションが衝撃を吸収・ふわふわでサラサラの生地がPC表面への擦り傷を防止・水を弾き、傷ややぶれにも強い生地",
+        "▶▶▶【高撥水生地】水の浸入を防ぎ、急な雨などから大切なPCを守ります。※防水ではありません。塗れた場合はすぐに乾いた布などで拭き取ってください。 ▶▶▶【耐久性の高い生地】カッターの刃でも傷がつきにくいほど耐久性に優れた生地を採用。 ▶▶▶【しっかり縫製】ポケットや持ち手部分もしっかり縫製し、丈夫さを実現しました。",
+        "▶▶▶【どんなシーンでも活躍する2way仕様】持ち手を収納すれば、スリーブケースに早変わり！バッグでもスリーブケース、インナーケースとしても大活躍です。▶▶▶【使いやすく、たくさん入る】こだわりのダブルファスナー 両側から開け閉めできる便利なダブルファスナー。外側から目立たないコンシールタイプを採用。",
+        "▶▶▶【カバーライン構造】ファスナーがPCに当たらない設計。PCを傷から守るために細部までこだわりました。▶▶▶【豊富な4つの収納ポケット】スマホ・タブレットや手帳など、大切なものを収納できる豊富なポケットが4つも装着で、より快適に生活ができます。"
+      ],
+      "maker": "ベルモンド",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 57,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B0D33RMD5P",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:20:01+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F23BX5NB",
+      "title": "エレコム パソコンケース PCインナーバッグ 横型 13.3/14インチ ZEROSHOCK 衝撃吸収 MacBook Pro 14対応 ブラック ZSB-IBPRLU14BK",
+      "url": "https://www.amazon.co.jp/dp/B0F23BX5NB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F23BX5NB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71d2nPfCTRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "大切なノートパソコンを衝撃から守る&#34;ZEROSHOCK&#34;インナーバッグです。",
+        "本体内装パソコン収納部には、軽量化と衝撃吸収を両立する低反発ウェーブカットウレタンフォームを内蔵しています。",
+        "表面生地はシーンを選ばず気軽に使えるカジュアルな風合いです。",
+        "表面生地には撥水加工を施しています。",
+        "※内部への水の浸入を完全に防ぐものではありません。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 777,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B0H9X6MP83",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:20:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FLQ4KLSM",
+      "title": "Arvok パソコンケース 13 13.3 14インチ 360°保護 衝撃吸収 薄型 軽量 撥水 ノートパソコンケース",
+      "url": "https://www.amazon.co.jp/dp/B0FLQ4KLSM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FLQ4KLSM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/813igbQ-VPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【13.3インチ対応・毎日持ち歩ける薄型設計】ARVOK ノートパソコンケースは、内寸約34×23×2cmで13.3インチ前後のノートPCやタブレットに対応。約280gの軽量ボディと約0.4cmのスリム設計で、リュックやビジネスバッグにもすっきり収納できます。通勤・通学・出張など、毎日の持ち運びを快適にサポートします。※ご購入前に必ずお使いのPCサイズをご確認ください。",
+        "【衝撃・キズ・水滴からしっかり保護】外側には撥水加工を施したオックスフォード生地を採用し、水滴や汚れが付いてもサッと拭き取れる仕様。内側には厚手の柔らかなフランネル素材を使用し、PCをやさしく包み込みます。移動中の衝撃や擦り傷、ホコリなどから大切なノートパソコンをしっかり守ります。",
+        "【開閉しやすいダブルファスナー】滑らかなダブルファスナーを採用し、ノートパソコンの出し入れもスムーズ。左右どちらからでも開閉しやすく、急いでいる通勤時や会議前でもストレスなく使用できます。",
+        "【さまざまなシーンで使える多機能PCケース】滑らかなダブルファスナーでノートPCの出し入れがスムーズ。単体で持ち運べるほか、インナーケースとしてリュック・ビジネスバッグ・スーツケースにも収納できます。通勤・通学・テレワーク・出張・旅行まで、幅広いシーンで活躍するシンプルで使いやすいPCケースです。",
+        "【幅広いノートPCに対応】MacBook Air 13.6インチ（M1/M2/M3/M4）、MacBook Pro 14インチ、Lenovo ThinkPad X1 Carbon、ThinkPad X13、Dell Latitude・Inspiron、HP Pavilion Aero・EliteBook、ASUS Zenbook、Acer Swift、NEC LAVIE、富士通 LIFEBOOK、dynabook、Panasonic Let&#39;s note、VAIOなど、13〜14インチクラスのノートパソコンに対応。"
+      ],
+      "maker": "Arvok",
+      "query": "dg_20261122_laptop_case",
+      "queries_matched": [
+        "dg_20261122_laptop_case"
+      ],
+      "review_count": 2544,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "parent_asin": "B0FMJVYV62",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:20:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:laptop_case"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-22",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:laptop_case",
+    "theme": "PCをバッグに入れて持ち運ぶ。ノートPCケース",
+    "exclude_used_since": "2026-10-23",
+    "current_stock_verified": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T12:20:18+09:00"
+}

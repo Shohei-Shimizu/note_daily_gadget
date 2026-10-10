@@ -1,0 +1,317 @@
+{
+  "date": "2026-11-22",
+  "topic_id": "daily_gadget_20261122_ed8999ae",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 13,
+  "parent_groups": {
+    "B08FHPLX7B": [
+      "B089SYBGDL"
+    ],
+    "B0FMDQJB4Q": [
+      "B0FLQ33529"
+    ],
+    "B0CD3X1NNK": [
+      "B00CD8AFFW",
+      "B00CD8AFT8"
+    ],
+    "B0D5R13ZXB": [
+      "B06XXB9G8G"
+    ],
+    "B08K4MMQXX": [
+      "B076DWWQ31"
+    ],
+    "B0BS48ZZDN": [
+      "B0BLNGGDQG",
+      "B0BLNHG168"
+    ],
+    "B0D33NMQ5B": [
+      "B0D33FB2GW",
+      "B0D33H8XSV"
+    ],
+    "B0D33RMD5P": [
+      "B0D33JGH4G"
+    ],
+    "B0H9X6MP83": [
+      "B0F23BX5NB"
+    ],
+    "B0FMJVYV62": [
+      "B0FLQ4KLSM"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B00CD8AFFW",
+      "title": "Amazonベーシック PCケース ノートパソコンバッグ スリーブ 14.0インチ ブラック",
+      "maker": "Amazon",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Amazon",
+      "historical_tier": 1,
+      "parent_asin": "B0CD3X1NNK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B00CD8AFT8",
+      "title": "Amazonベーシック PCケース ノートパソコンバッグ スリーブ 15.6インチ ブラック",
+      "maker": "Amazon",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Amazon",
+      "historical_tier": 1,
+      "parent_asin": "B0CD3X1NNK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B06XXB9G8G",
+      "title": "tomtoc 360°耐衝撃 パソコンケース 14インチ MacBook Pro 2026-2021 M5/M4/M3/M2/M1 Pro/Max対応",
+      "maker": "tomtoc",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "tomtoc",
+      "historical_tier": 1,
+      "parent_asin": "B0D5R13ZXB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B076DWWQ31",
+      "title": "Voova パソコンケース 15.6 16インチ PCケース ノート パソコンカバー PCバッグ，グレー",
+      "maker": "Voova",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Voova",
+      "historical_tier": 1,
+      "parent_asin": "B08K4MMQXX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B089SYBGDL",
+      "title": "LANDICI 360°保護 パソコンケース 13 14インチ pcケース 衝撃吸収防水 ノートパソコン ケース 13.3/13.6 MacBook Air M4/M3/M2/M1 2025-2018",
+      "maker": "LANDICI",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "LANDICI",
+      "historical_tier": 1,
+      "parent_asin": "B08FHPLX7B",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BLNGGDQG",
+      "title": "bagasin 耐衝撃 パソコンケース 13.3インチ",
+      "maker": "bagasin",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "bagasin",
+      "historical_tier": 1,
+      "parent_asin": "B0BS48ZZDN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BLNHG168",
+      "title": "bagasin 耐衝撃 パソコンケース 15 15.6 16インチ",
+      "maker": "bagasin",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "bagasin",
+      "historical_tier": 1,
+      "parent_asin": "B0BS48ZZDN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D33FB2GW",
+      "title": "ベルモンド ふわサラ ノートパソコンケース 14インチ 2way PCケース 軽量 衝撃吸収 かわいい オシャレ ビジネス 通勤 ブルー B1072",
+      "maker": "ベルモンド",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ベルモンド",
+      "historical_tier": 3,
+      "parent_asin": "B0D33NMQ5B",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D33H8XSV",
+      "title": "ベルモンド ふわサラ ノートパソコンケース 15インチ 2way PCケース 軽量 衝撃吸収 かわいい オシャレ ビジネス 通勤 ブラック B1072",
+      "maker": "ベルモンド",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ベルモンド",
+      "historical_tier": 3,
+      "parent_asin": "B0D33NMQ5B",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D33JGH4G",
+      "title": "ベルモンド ふわサラ ノートパソコンケース 14インチ 2way PCケース 軽量 衝撃吸収 かわいい オシャレ ビジネス ライトグレー B1071",
+      "maker": "ベルモンド",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ベルモンド",
+      "historical_tier": 3,
+      "parent_asin": "B0D33RMD5P",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F23BX5NB",
+      "title": "エレコム パソコンケース PCインナーバッグ 横型 13.3/14インチ ZEROSHOCK 衝撃吸収 MacBook Pro 14対応 ブラック ZSB-IBPRLU14BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 1,
+      "parent_asin": "B0H9X6MP83",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FLQ33529",
+      "title": "エレコム パソコンケース PC用インナーバッグ ネオプレン 14インチ スリップイン ブラック BM-IBTHNPV14BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": "B0FMDQJB4Q",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FLQ4KLSM",
+      "title": "Arvok パソコンケース 13 13.3 14インチ 360°保護 衝撃吸収 薄型 軽量 撥水 ノートパソコンケース",
+      "maker": "Arvok",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Arvok",
+      "historical_tier": 1,
+      "parent_asin": "B0FMJVYV62",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-23",
+      "scope_pending": [
+        "対応インチではなくPC実寸とケース内寸を照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [],
+  "historical_tier_distribution": {
+    "1": 9,
+    "2": 1,
+    "3": 3
+  },
+  "maker_count_upper_bound_before_parent": 12,
+  "variant_policy": "同親の色/サイズ候補を残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "親違いの同モデルも公式照合が必要、親群数を商品数とみなさない"
+  ]
+}
