@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-14",
+  "checked_at": "2026-10-10",
+  "phase": "premeasurement_official_recovery_check",
+  "asin": "B0DG2QKMFX",
+  "input_scope": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_smart_ring_scope_audit.json",
+  "input_title_identity": {
+    "model": "RingConn Gen 2",
+    "color": "シルバー",
+    "size": "10",
+    "kit_phrase": "まずサイジングキットでサイズ確認"
+  },
+  "primary_source": "https://ringconn.com/products/ringconn-gen-2",
+  "official_checks": {
+    "model_heading": "RingConn Gen 2",
+    "matching_color_option": "Future Silver",
+    "matching_size_option": "10",
+    "kit_role": "本体注文後、本体発送前に送付されるサイズ確認用キット。サイズが分かる購入者は本体サイズを直接指定できる。",
+    "generation_separation": "Gen 2 Air と Gen 3 の別製品リンクが存在し、確認対象は Gen 2 本体ページに限定。"
+  },
+  "conclusion": "タイトル内のサイズ確認案内をキット商品そのものと扱った可能性が高い。サイズキット理由による自動除外を解除し、当該 ASIN を本体候補として最新測定へ戻す根拠がある。",
+  "identity_limit": "公式モデルと色・サイズの対応は確認できるが、公式から Amazon ASIN へのリンクは確認できない。最終採用前に主担当が Amazon 当該画面の本体 SKU・モデル・色・サイズを照合する。",
+  "final_selection_done": false,
+  "measurement_done": false,
+  "article_written": false,
+  "scope_mutated": false,
+  "avoid_claims": [
+    "新世代または Gen 2 Air の仕様を転用しない",
+    "睡眠指標から診断・治療効果を断言しない",
+    "海外公式の在庫表示を Amazon 国内在庫と混同しない"
+  ],
+  "supplement_query_needed": "現時点で追加候補検索は不要。5つの親候補成立は主担当の最新測定後に判定。"
+}
