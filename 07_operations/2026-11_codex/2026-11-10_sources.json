@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-10",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B08X11GD52",
+      "official_urls": [
+        "https://www.ankerjapan.com/products/a2663"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B08X11GD52?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-10_charger_candidates.json",
+        "path": "candidates[asin=B08X11GD52].features"
+      },
+      "check": "A2663 65W単ポート112g。A2665や735とは別。"
+    },
+    {
+      "order": 2,
+      "asin": "B0B38TWKVR",
+      "official_urls": [
+        "https://us.ugreen.com/products/ugreen-nexode-45w-dual-c-port-wall-charger?variant=39915631083582"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0B38TWKVR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-10_charger_candidates.json",
+        "path": "candidates[asin=B0B38TWKVR].features"
+      },
+      "check": "Nexode45W2Cの45W単独/25+20W同時をFeaturesと一致。US重量は転用しない。"
+    },
+    {
+      "order": 3,
+      "asin": "B0C6DX66TN",
+      "official_urls": [
+        "https://ugreen.jp/products/uno-charger-65w?from=blog"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0C6DX66TN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-10_charger_candidates.json",
+        "path": "candidates[asin=B0C6DX66TN].features"
+      },
+      "check": "CD361 Uno65W2C1A公式構成とFeatures一致。各同時出力の値は未採用。"
+    },
+    {
+      "order": 4,
+      "asin": "B0B2QR8HN9",
+      "official_urls": [
+        "https://www.ankerjapan.com/products/a2147"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0B2QR8HN9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-10_charger_candidates.json",
+        "path": "candidates[asin=B0B2QR8HN9].features"
+      },
+      "check": "A2147白30W/40g/PPS/折り畳み一致。5W比較・24h管理はスペック不採用。"
+    },
+    {
+      "order": 5,
+      "asin": "B0D53VJJ7F",
+      "official_urls": [
+        "https://connectinternationalone.co.jp/cioproduct/adapter/novaport/cio-g67w2c1a-n2/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D53VJJ7F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-10_charger_candidates.json",
+        "path": "candidates[asin=B0D53VJJ7F].features"
+      },
+      "check": "CIO-G67W2C1A-N2 67W単独、2C合計65W、3台合計60W、109g。"
+    },
+    {
+      "order": 6,
+      "asin": "B0CMCD9DY3",
+      "official_urls": [
+        "https://tamadenco.co.jp/product/pr-ap146uc2w/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0CMCD9DY3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-10_charger_candidates.json",
+        "path": "candidates[asin=B0CMCD9DY3].features"
+      },
+      "check": "PR-AP146UC2W 65W単独・2C45+20、3台45+共用15W、123g。170gは箱。"
+    },
+    {
+      "order": 7,
+      "asin": "B0CTJDLWV4",
+      "official_urls": [
+        "https://www.elecom.co.jp/products/EC-AC8565BK.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0CTJDLWV4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-10_charger_candidates.json",
+        "path": "candidates[asin=B0CTJDLWV4].features"
+      },
+      "check": "型番完全一致。65W単ポートPD/PPS98g。"
+    },
+    {
+      "order": 8,
+      "asin": "B0F43N4Z21",
+      "official_urls": [
+        "https://www.elecom.co.jp/products/EC-AC10367WF.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0F43N4Z21?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-10_charger_candidates.json",
+        "path": "candidates[asin=B0F43N4Z21].features"
+      },
+      "check": "型番完全一致。67W単独、2C合計65W、3台合計60W。USB-A単独12W。"
+    },
+    {
+      "order": 9,
+      "asin": "B0B5QKMCZD",
+      "official_urls": [
+        "https://www.belkin.com/uk/support-article?articleNum=333637",
+        "https://www.belkin.com/jp/support-product?sku=WCH013dqWH"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0B5QKMCZD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-10_charger_candidates.json",
+        "path": "candidates[asin=B0B5QKMCZD].features"
+      },
+      "check": "WCH0132C65W/PPSの国内サポート型番あり。上下45+20WがFeatures一致。地域セット重量は不採用。"
+    },
+    {
+      "order": 10,
+      "asin": "B0D53VKL36",
+      "official_urls": [
+        "https://connectinternationalone.co.jp/cioproduct/adapter/novaport/cio-g67w2c-n2/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D53VKL36?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-10_charger_candidates.json",
+        "path": "candidates[asin=B0D53VKL36].features"
+      },
+      "check": "CIO-G67W2C-N2 67W単独・同時合計65W・104g。SLIMと区別。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n09d55fbb8dc4",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/na82122e0c47a",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n31e80512500d",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "unresolved_omitted_specs": [
+    "UGREEN Uno同時各ポート詳細は掲載せず",
+    "UGREEN NexodeとBelkinの日本当該品の付属ケーブル/地域別重量は未採用"
+  ],
+  "official_gate_passed": true
+}
