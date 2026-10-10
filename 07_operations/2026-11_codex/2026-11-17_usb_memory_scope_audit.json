@@ -1,0 +1,522 @@
+{
+  "date": "2026-11-17",
+  "topic_id": "daily_gadget_20261117_1a758de7",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 13,
+  "parent_groups": {
+    "B0CB41LT1Z": [
+      "B00TMYO5EM",
+      "B00TMYO5LK"
+    ],
+    "B0HCT9LFC8": [
+      "B0GVM2MRRY",
+      "B0GVLW2VSK"
+    ],
+    "B0FL1181DN": [
+      "B0FFM7SRGC"
+    ],
+    "B0GWZM7J9P": [
+      "B0BHWB3T1Q",
+      "B0BHW8PRDM"
+    ],
+    "B0BJQ6FHLX": [
+      "B073JFMPPT"
+    ],
+    "B07L9DFZQC": [
+      "B00KDS908C"
+    ],
+    "B0FPCSWKF3": [
+      "B0FPC9RQB4"
+    ],
+    "B0BGXSWCQ4": [
+      "B087CHMKR4"
+    ],
+    "B0D17F3X5K": [
+      "B0CZP2VL6C"
+    ],
+    "B0FNQBMWPK": [
+      "B0FLDPF1K3"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B00KDS908C",
+      "title": "エレコム USBメモリ 32GB USB3.0 情報漏洩対策 パスワードロック ハードウェア暗号化機能搭載 ブラック MF-ENU3A32GBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "エレコム",
+      "historical_tier": 2,
+      "parent_asin": "B07L9DFZQC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B00TMYO5EM",
+      "title": "バッファロー USBメモリ 16GB USB3.2(Gen1)/3.1(Gen 1)/3.0/2.0 充実サポート RUF3-K16GA-BK/N",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定を製造元と誤認しない",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0CB41LT1Z",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B00TMYO5LK",
+      "title": "バッファロー USBメモリ 32GB USB3.2(Gen1)/3.1(Gen 1)/3.0/2.0 充実サポート RUF3-K32GA-BK/N",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定を製造元と誤認しない",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0CB41LT1Z",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B073JFMPPT",
+      "title": "エレコム USBメモリ 32GB USB2.0 セキュリティ機能対応 ブラック MF-MSU2B32GBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "エレコム",
+      "historical_tier": 1,
+      "parent_asin": "B0BJQ6FHLX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B087CHMKR4",
+      "title": "バッファロー USBメモリ 32GB ノックスライド式 USB3.2Gen1 RUF3-KS32GA-BK/N",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定を製造元と誤認しない",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0BGXSWCQ4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08FM7CDNC",
+      "title": "Maktar Qubii Pro ホワイト (microSD 128GB付) 充電しながら自動バックアップ iphone usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証",
+      "maker": "Maktar",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0CSN36VZL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-21",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-21",
+          "title": "スマホの容量不足を解消。写真を「自動保存」するツール 6 選",
+          "asin": "B08FM7CDNC"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08KFVJN6X",
+      "title": "サンワダイレクト サウンドバー 幅45cm 20W Bluetooth/有線 3.5mm / microSD・USBメモリ 充電式 パッシブラジエーター搭載 PCスピーカー 1個 400-SP092",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei 11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0F3HY1BRP",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08PBL57JM",
+      "title": "Maktar Qubii Duo USB Type A ホワイト 充電しながら自動バックアップ SDロック機能搭載 iphone バックアップ usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証 (microSD別売)",
+      "maker": "Maktar",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B09DSSRMCY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-21",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-21",
+          "title": "スマホの容量不足を解消。写真を「自動保存」するツール 6 選",
+          "asin": "B08PBL57JM"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BHW8PRDM",
+      "title": "Patianco【MFi認証品 セキュリティ機能付】iPhone用 USBメモリ 128GB 3in1 Lightning/USB/Type-C搭載 高速データ移行 バックアップ 大容量 iPhone/iPad/PC/Android/Mac対応 写真",
+      "maker": "Patianco",
+      "maker_source": "商品名Patianco。MFi宣伝表記はメーカー名から除く",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GWZM7J9P",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BHWB3T1Q",
+      "title": "Patianco【MFi認証品 セキュリティ機能付】iPhone用 USBメモリ 128GB 3in1 Lightning/USB/Type-C搭載 高速データ移行 バックアップ 大容量 iPhone/iPad/PC/Android/Mac対応 写真・動画保存 スマホ容量不足解消 回転式 ゴールド",
+      "maker": "Patianco",
+      "maker_source": "商品名Patianco。MFi宣伝表記はメーカー名から除く",
+      "maker_live_verified": false,
+      "db_brand": "Patianco",
+      "historical_tier": 1,
+      "parent_asin": "B0GWZM7J9P",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CZP2VL6C",
+      "title": "【 サンディスク 正規品 】SanDisk Ultra Dual Drive Luxe 読出最大400MB/秒 SDDDC4-128G-J35 | メーカー5年保証 USBメモリ 128GB USB Type-C & USB Type-A iPhon",
+      "maker": "SanDisk",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0D17F3X5K",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DDSTQHQ6",
+      "title": "【アプリ不要・令和8年限定版 】128GB usbメモリ 写真保存 直接usbに写真を移す４in1 フラッシュドラメモリ IOS Android PC 人気 USB 両面挿しスマホ USB メモリー phoneの写真 を パソコン に 取り込む 容量",
+      "maker": "128GB",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HGX2PZF6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FFM7SRGC",
+      "title": "Acer UT300 USBメモリ 32GB USB 3.2 最大読出速度150MB/s USB-A/C両対応 高速 フラッシュメモリドライブ 金属筐体 - BL.9BWWA.588",
+      "maker": "Acer",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Acer",
+      "historical_tier": 1,
+      "parent_asin": "B0FL1181DN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FLDPF1K3",
+      "title": "Amazon限定 バッファロー USBメモリ 256GB Type-C Type-A 両対応 USB3.2Gen1 RUF3-ACR256G-B/N",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定を製造元と誤認しない",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0FNQBMWPK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FPC9RQB4",
+      "title": "エレコム USBメモリ 128GB USB3.2 Gen1 Type-C 回転式 iPhone対応 対応OS(Windows/MacOS/iOS/Android/iPadOS) しろちゃん MF-CEU3128GWHF",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0FPCSWKF3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GD5WHXQW",
+      "title": "【アプリ不要・正規認証品 】256GB Phone対応usbメモリ写真保存 直接usbに写真を移す４in1 フラッシュドラメモリ人気 USB 両面挿しスマホ USB メモリー フラッシュドライブ Android パソコン対応 USBメモリ phoneの写真 を パソコン に 取り込む 容量不足解消(256GB-パープル)",
+      "maker": "256GB",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HJ223ZYC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GVLW2VSK",
+      "title": "エレコム USBメモリ 256GB USB3.2（Gen1）ノック式 ブラック MF-PKU3256GBK/E",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 1,
+      "parent_asin": "B0HCT9LFC8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GVM2MRRY",
+      "title": "エレコム USBメモリ 256GB USB3.2（Gen1）ノック式 ホワイト しろちゃん MF-PKU3256GWHF",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HCT9LFC8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GWCQZK26",
+      "title": "512GB【アプリ不要/アダプター不要】3in1 Phone対応 USBメモリ Phone用端子/Type-C/USB-A本体搭載 写真・動画直接保存 | Androidスマホ・タブレット・MacBook・PCに幅広く対応。3端子一体型で変換不要、写",
+      "maker": "512GB【アプリ不要/アダプター不要】3in1",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "512GB【アプリ不要/アダプター不要】3in1",
+      "historical_tier": 1,
+      "parent_asin": "B0GV3PN6N4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GZ3JRLLY",
+      "title": "512GB【アプリ不要】4in1プッシュ式 USBメモリ Phone/Android/PC対応 USB3.0高速転送 写真・動画・データ保存 | Type-C機器・タブレット・MacBookにも幅広く対応。プッシュ式で端子を切替え、各種ファイルを簡単",
+      "maker": "512GB【アプリ不要】4in1プッシュ式",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HCTSZ97V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H2V7R7Q2",
+      "title": "Bluetoothスピーカー 20W 大音量 24時間連続再生 DSPサウンド処理 RGBライト搭載 消灯可能 バッテリー残量・音量デジタル表示 2種類EQモード USB Type-C充電 AUX入力 USBメモリ TFカード再生対応 IPX6防水",
+      "maker": "Bluetoothスピーカー",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0H7BKHCQ7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-18",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "exclusion_reason": "USBメモリ再生対応のBluetoothスピーカー。USBメモリ本体ではない",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B08FM7CDNC",
+      "title": "Maktar Qubii Pro ホワイト (microSD 128GB付) 充電しながら自動バックアップ iphone usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08KFVJN6X",
+      "title": "サンワダイレクト サウンドバー 幅45cm 20W Bluetooth/有線 3.5mm / microSD・USBメモリ 充電式 パッシブラジエーター搭載 PCスピーカー 1個 400-SP092",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08PBL57JM",
+      "title": "Maktar Qubii Duo USB Type A ホワイト 充電しながら自動バックアップ SDロック機能搭載 iphone バックアップ usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証 (microSD別売)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GWCQZK26",
+      "title": "512GB【アプリ不要/アダプター不要】3in1 Phone対応 USBメモリ Phone用端子/Type-C/USB-A本体搭載 写真・動画直接保存 | Androidスマホ・タブレット・MacBook・PCに幅広く対応。3端子一体型で変換不要、写",
+      "reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GZ3JRLLY",
+      "title": "512GB【アプリ不要】4in1プッシュ式 USBメモリ Phone/Android/PC対応 USB3.0高速転送 写真・動画・データ保存 | Type-C機器・タブレット・MacBookにも幅広く対応。プッシュ式で端子を切替え、各種ファイルを簡単",
+      "reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0DDSTQHQ6",
+      "title": "【アプリ不要・令和8年限定版 】128GB usbメモリ 写真保存 直接usbに写真を移す４in1 フラッシュドラメモリ IOS Android PC 人気 USB 両面挿しスマホ USB メモリー phoneの写真 を パソコン に 取り込む 容量",
+      "reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GD5WHXQW",
+      "title": "【アプリ不要・正規認証品 】256GB Phone対応usbメモリ写真保存 直接usbに写真を移す４in1 フラッシュドラメモリ人気 USB 両面挿しスマホ USB メモリー フラッシュドライブ Android パソコン対応 USBメモリ phoneの写真 を パソコン に 取り込む 容量不足解消(256GB-パープル)",
+      "reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0H2V7R7Q2",
+      "title": "Bluetoothスピーカー 20W 大音量 24時間連続再生 DSPサウンド処理 RGBライト搭載 消灯可能 バッテリー残量・音量デジタル表示 2種類EQモード USB Type-C充電 AUX入力 USBメモリ TFカード再生対応 IPX6防水",
+      "reason": "USBメモリ再生対応のBluetoothスピーカー。USBメモリ本体ではない"
+    }
+  ],
+  "variant_policy": "同親の色/サイズ/バンドルを候補群として残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "候補に残る未確認事項は公式照合前の採用根拠としない"
+  ],
+  "historical_tier_distribution": {
+    "1": 9,
+    "2": 4
+  }
+}

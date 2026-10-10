@@ -1,0 +1,563 @@
+{
+  "generated_at": "2026-10-10T01:08:11+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261117_1a758de7",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261117_usb_memory"
+  ],
+  "fetched_count": 18,
+  "dedup_count": 13,
+  "candidates": [
+    {
+      "asin": "B00TMYO5EM",
+      "title": "バッファロー USBメモリ 16GB USB3.2(Gen1)/3.1(Gen 1)/3.0/2.0 充実サポート RUF3-K16GA-BK/N",
+      "url": "https://www.amazon.co.jp/dp/B00TMYO5EM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B00TMYO5EM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51KbFr5AACL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "USB3.0対応 USBメモリ バリューモデル 16GB ブラック",
+        "対応するパソコン:USBインターフェース搭載のWindowsパソコン、Mac",
+        "対応するデジタル家電:USBインターフェースを搭載するデジタル家電(USBマスストレージクラス対応)",
+        "インターフェース:USB3.0/2.0ポート数:1ポートコネクター形状:USB Aソケット",
+        "電源:USBバスパワー定格電圧:5.0V±5%最大消費電力:2.5W",
+        "外形寸法(幅×高さ×奥行):20×9×55mm本体のみ(突起部除く)質量:約10g",
+        "動作保証環境:温度:0~40℃、湿度:20~80%結露なきこと保証期間:1年RoHS指令準拠:対応",
+        "LED部:LED色:青色、アクセス時:点滅、アイドル時:消灯",
+        "Windowsの回復ドライブとして使用する場合は、32GBまでしか利用できません。",
+        "出荷時フォーマット：FAT32　 ※1データあたり4GB以上のデータは保存できません。 保存する場合は、前もってexFATにフォーマットしてください。"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 23295,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名バッファロー。Amazon限定を製造元と誤認しない",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0CB41LT1Z",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:40:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B00TMYO5LK",
+      "title": "バッファロー USBメモリ 32GB USB3.2(Gen1)/3.1(Gen 1)/3.0/2.0 充実サポート RUF3-K32GA-BK/N",
+      "url": "https://www.amazon.co.jp/dp/B00TMYO5LK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B00TMYO5LK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51KbFr5AACL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "USB3.0対応 USBメモリ バリューモデル 32GB ブラック",
+        "対応するパソコン:USBインターフェース搭載のWindowsパソコン、Mac",
+        "対応するデジタル家電:USBインターフェースを搭載するデジタル家電(USBマスストレージクラス対応)",
+        "インターフェース:USB3.0/2.0ポート数:1ポートコネクター形状:USB Aソケット",
+        "電源:USBバスパワー定格電圧:5.0V±5%最大消費電力:2.5W",
+        "動作保証環境:温度:0~40℃、湿度:20~80%結露なきこと保証期間:1年RoHS指令準拠:対応",
+        "LED部:LED色:青色、アクセス時:点滅、アイドル時:消灯",
+        "Windowsの回復ドライブとして使用する場合は、32GBまでしか利用できません。",
+        "出荷時フォーマット：FAT32　 ※1データあたり4GB以上のデータは保存できません。 保存する場合は、前もってexFATにフォーマットしてください。"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 23295,
+      "star_rating": 4.2,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名バッファロー。Amazon限定を製造元と誤認しない",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0CB41LT1Z",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:40:27+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GVM2MRRY",
+      "title": "エレコム USBメモリ 256GB USB3.2（Gen1）ノック式 ホワイト しろちゃん MF-PKU3256GWHF",
+      "url": "https://www.amazon.co.jp/dp/B0GVM2MRRY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GVM2MRRY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51MtaA33RFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "片手でワンプッシュのラクラク接続!ノックで出して自動で収納できる、ボールペンのようについつい押したくなるUSB 5Gbps(USB3.2(Gen1))対応ノック式USBメモリです。",
+        "キャップレスでキャップを紛失する心配がないノック式のUSBメモリです。",
+        "USB 5Gbps(USB3.2(Gen1))対応で、読み込み時の最大データ転送速度100MB/sを実現しています。",
+        "※最大転送速度は当社環境による実測値であり、すべての環境において保証するものではありません。",
+        "本体をUSBポートから抜くと自動でUSB部分を収納できます。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 4667,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0HCT9LFC8",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:40:35+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GVLW2VSK",
+      "title": "エレコム USBメモリ 256GB USB3.2（Gen1）ノック式 ブラック MF-PKU3256GBK/E",
+      "url": "https://www.amazon.co.jp/dp/B0GVLW2VSK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GVLW2VSK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61JN3zpaNDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "片手でワンプッシュのラクラク接続!ノックで出して自動で収納できる、ボールペンのようについつい押したくなるUSB 5Gbps(USB3.2(Gen1))対応ノック式USBメモリです。",
+        "キャップレスでキャップを紛失する心配がないノック式のUSBメモリです。",
+        "USB 5Gbps(USB3.2(Gen1))対応で、読み込み時の最大データ転送速度100MB/sを実現しています。",
+        "※最大転送速度は当社環境による実測値であり、すべての環境において保証するものではありません。",
+        "本体をUSBポートから抜くと自動でUSB部分を収納できます。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 4667,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0HCT9LFC8",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:40:44+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FFM7SRGC",
+      "title": "Acer UT300 USBメモリ 32GB USB 3.2 最大読出速度150MB/s USB-A/C両対応 高速 フラッシュメモリドライブ 金属筐体 - BL.9BWWA.588",
+      "url": "https://www.amazon.co.jp/dp/B0FFM7SRGC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FFM7SRGC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51zMI51k1YL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【USB 3.2高速USB】USB 3.2 Gen1最大読取り150MB/sの高速転送。",
+        "【USB-A/C両対応】USB Type-A、Type-Cコネクター搭載；Windows PCからMacbook、スマホなど幅広く対応。",
+        "【32G～1TBラインアップ】32GB、64GB、128GB、256GB、512GB、1TBモデル；ニーズに合わせて選択可能。",
+        "【金属製・耐衝撃】金属筐体で耐久性アップ；キャップ式でデータをしっかり保護。",
+        "【日本国内5年保証】5年間のメーカー保証。"
+      ],
+      "maker": "Acer",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 1865,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0FL1181DN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:40:53+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BHWB3T1Q",
+      "title": "Patianco【MFi認証品 セキュリティ機能付】iPhone用 USBメモリ 128GB 3in1 Lightning/USB/Type-C搭載 高速データ移行 バックアップ 大容量 iPhone/iPad/PC/Android/Mac対応 写真・動画保存 スマホ容量不足解消 回転式 ゴールド",
+      "url": "https://www.amazon.co.jp/dp/B0BHWB3T1Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BHWB3T1Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61xf+--M56L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "🌟【MFi認証取得】弊社のUSBメモリーはMFi認証品であり、iPhone/iPad/iPod/との互換性を保証することを示すものです。MFi認証のある製品はApple社に認定されていると同義であり、互換性も保障されていて、安全に利用できることを証明しています。ご購入の際は、MFi認証のあるiPhone用USBメモリをご確認ください。",
+        "🍃【多機能搭載・iCloud課金対策】本製品はLightning、Type-C、USBコネクタを搭載し、持続的なテストとアップグレードにより、単一端子から複数の端子へのブレークスルーを実現しました。💡こちらのUSBメモリは、スマホ容量不足解消、データ管理に加え、友人とのデータ共有、ファイルの移動、データ暗号化、連絡先バックアップなどの機能も備えております。パソコンを起動せず、USBケーブルも使用せず、スマホやiPadにUSBメモリを軽く挿入するだけで写真データをUSBメモリに移行し保存できます。⚡iCloudは、無料で利用する場合には5GBの上限があり、iCloud+で容量を増やすには有料です。今は、iCloud の料金を払い続けずに、スマホの容量を減らすことができるようになりました。",
+        "🍃【高い互換性】弊社のUSBメモリはすべてのiOS機種に対応し、タイプＣアダプターも付属しておるので、Type-CコネクタのiPhone、iPad、Type-C機種とも互換性があります。対応機種：iPhone 15 Pro Max/15 Pro/15 Plus/15/iPhone 14 Pro Max/14 Pro/14 Plus/14/SE 3/13 Pro Max/13 Pro /13/13 mini /12 Pro Max/12 Pro/12 /SE 2 /11 Pro Max/11 Pro/11 /XR/XS Max/XS /X /8 Plus/8/7 Plus/7/SE 1/6s Plus /6s/6 Plus/6/ iPad Pro（第1/2/3/4/5/6世代）/ iPad Air（第1/2/3/4/5世代）/ MacBook（Pro/Air）/ iPad mini（第1/2/3/4/5世代）/ iPad（第5/6/7/8/9/10世代）/ PC /ノートパソコン/ Type-C機種などと互換性があります。",
+        "🚀【高速データ移行・セキュリティ機能付】USB 3.0技術を採用し、写真、動画などのデータを短時間でバックアップできて、USB 2.0と比べて、データ転送時間を大幅に削減します。写真や動画の保存のほか、ファイルや連絡先、スキャンデータ、音楽データ、書籍資料なども保存できて、対応データ形式はさまざまです。🔒専用アプリ内でパスワードを設定しデータを暗号化できるので、データ漏洩を効果的に防止できます。（セキュリティ機能はiOS機種にのみ適用されますので、予めご了承ください。）本製品には日本語図解取扱説明書も付属され、機械が苦手な方でも簡単にデータ移行できます。",
+        "🍃【多シーン適用・耐久性抜群】こちらのUSBメモリは、コンパクトで持ち運びやすいので、仕事や生活、出先、旅先などにも便利で、飛行機でもUSBメモリを使って保存された動画を見ることができます。💎小さくデザインもシンプルで360度回転して差し込み口が変えられるので、無駄なスペースを使わず便利です。高い鋳造性や良好な機械的性質をもっておる亜鉛合金を採用し、高級感たっぷりで、磨耗や色落ちがしにくく、耐久性にも優れます。💌初期不良および使用中の故障がございましたら、新品の再発送など各種対応をさせて頂きますのでお気軽にご連絡ください。"
+      ],
+      "maker": "Patianco",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 1413,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-02",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名Patianco。MFi宣伝表記はメーカー名から除く",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0GWZM7J9P",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:41:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B073JFMPPT",
+      "title": "エレコム USBメモリ 32GB USB2.0 セキュリティ機能対応 ブラック MF-MSU2B32GBK",
+      "url": "https://www.amazon.co.jp/dp/B073JFMPPT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B073JFMPPT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61AomszC3AL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "■シンプルなデザインで使用シーンを選ばない、シンプルUSB2.0メモリです。",
+        "■ELECOMWebサイトからダウンロードすることで、パスワード自動認証機能付暗号化セキュリティソフトを利用可能です。",
+        "■使用時に紛失しやすいキャップを本体後部に取付可能な「キャップ紛失防止機能」が付いています。ストラップを装着したままでもキャップを取付可能です。",
+        "■Windowsのユーザー権限でも使用可能なので、企業での導入にもお勧めです。",
+        "■Macintoshにも対応しており、WindowsパソコンとMacintoshパソコン間でのデータのやり取りが可能です。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 854,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-02",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0BJQ6FHLX",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:41:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B00KDS908C",
+      "title": "エレコム USBメモリ 32GB USB3.0 情報漏洩対策 パスワードロック ハードウェア暗号化機能搭載 ブラック MF-ENU3A32GBK",
+      "url": "https://www.amazon.co.jp/dp/B00KDS908C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B00KDS908C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/718PVWdnqBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "色：ブラック 横(mm)：20.8 縦(mm)：60.0 縦(mm)：60.0 厚さ(mm)：7.8 横(mm)：20.8 色：ブラック 容量(GB)：32",
+        "インターフェース：USB3.0/2.0/1.1 コネクタ形状：USB タイプA オス 容量：16GB セキュリティ機能：パスワード、HW暗号化(AES256bit)機能 外形寸法：全長60.0mm×幅20.8mm×高さ7.8mm (USBコネクタ収納時) 重量：約10g 電源：USBバスパワー接続 カラー：ブラック 保証期間：1年"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 149,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B07L9DFZQC",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:41:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FPC9RQB4",
+      "title": "エレコム USBメモリ 128GB USB3.2 Gen1 Type-C 回転式 iPhone対応 対応OS(Windows/MacOS/iOS/Android/iPadOS) しろちゃん MF-CEU3128GWHF",
+      "url": "https://www.amazon.co.jp/dp/B0FPC9RQB4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FPC9RQB4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41MloYUIFUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "回転収納式でキャップを紛失する心配がない、USB Type-C(TM)コネクターのUSBメモリです。",
+        "USB Type-Cポートを搭載しているiPhone・iPad・Androidスマートフォン・パソコンなどに直接挿して、動画や画像などのデータを移動できます。",
+        "※本製品はUSB Type-Cコネクターのみ搭載しています。USB Type-Cポート搭載機器でご使用ください。",
+        "スマホケースをつけたままのスマートフォンに挿して使えるので、すぐにデータ移動して簡単に空き容量を確保できます。",
+        "※2023年以降に発売されたエレコムのすべてのスマホケースに対応しています。他社製ケースの場合、コネクター周りに厚みがあるなど特殊な形状には対応しない場合があります。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 120,
+      "star_rating": 4.2,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0FPCSWKF3",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:41:28+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B087CHMKR4",
+      "title": "バッファロー USBメモリ 32GB ノックスライド式 USB3.2Gen1 RUF3-KS32GA-BK/N",
+      "url": "https://www.amazon.co.jp/dp/B087CHMKR4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B087CHMKR4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Q9y1FxBDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【対応機種】USB 3.2(Gen 1)/3.1(Gen 1)/3.0/2.0 Type-A端子を搭載するWindowsパソコン、USB 3.2(Gen 1)/3.1(Gen 1)/3.0/2.0 Type-A端子を搭載するMac、USBインターフェースを搭載するデジタル家電(USBマスストレージクラス対応)",
+        "【容量】32GB【インターフェース】USB 3.2(Gen 1)/3.1(Gen 1)/3.0/2.0【端子形状】USB Type-A【端子数】1",
+        "【電源】バスパワー【定格電圧】5.0V±5%【消費電力】最大2.5W",
+        "【外形寸法(幅×高さ×奥行)】19.8×10×66mm※本体のみ(突起部除く)【質量】約12g",
+        "【動作保証環境 結露なきこと】【温度】0~40℃【湿度】0~90%【保証期間】1年間【主な付属品】取扱説明書※ユーティリティーはダウンロードで配布 (DiskFormatter2)",
+        "ボールペンのように、片手でノックするだけでUSB端子の出し入れができるUSBメモリーです。 両手で持ち替える煩わしさも、キャップ紛失の心配もありません。"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 5478,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名バッファロー。Amazon限定を製造元と誤認しない",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0BGXSWCQ4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:41:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BHW8PRDM",
+      "title": "Patianco【MFi認証品 セキュリティ機能付】iPhone用 USBメモリ 128GB 3in1 Lightning/USB/Type-C搭載 高速データ移行 バックアップ 大容量 iPhone/iPad/PC/Android/Mac対応 写真",
+      "url": "https://www.amazon.co.jp/dp/B0BHW8PRDM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BHW8PRDM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ENarUcmPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "🌟【MFi認証取得】弊社のUSBメモリーはMFi認証品であり、iPhone/iPad/iPod/との互換性を保証することを示すものです。MFi認証のある製品はApple社に認定されていると同義であり、互換性も保障されていて、安全に利用できることを証明しています。ご購入の際は、MFi認証のあるiPhone用USBメモリをご確認ください。",
+        "🍃【多機能搭載・iCloud課金対策】本製品はLightning、Type-C、USBコネクタを搭載し、持続的なテストとアップグレードにより、単一端子から複数の端子へのブレークスルーを実現しました。💡こちらのUSBメモリは、スマホ容量不足解消、データ管理に加え、友人とのデータ共有、ファイルの移動、データ暗号化、連絡先バックアップなどの機能も備えております。パソコンを起動せず、USBケーブルも使用せず、スマホやiPadにUSBメモリを軽く挿入するだけで写真データをUSBメモリに移行し保存できます。⚡iCloudは、無料で利用する場合には5GBの上限があり、iCloud+で容量を増やすには有料です。今は、iCloud の料金を払い続けずに、スマホの容量を減らすことができるようになりました。",
+        "🍃【高い互換性】弊社のUSBメモリはすべてのiOS機種に対応し、タイプＣアダプターも付属しておるので、Type-CコネクタのiPhone、iPad、Type-C機種とも互換性があります。対応機種：iPhone 15 Pro Max/15 Pro/15 Plus/15/iPhone 14 Pro Max/14 Pro/14 Plus/14/SE 3/13 Pro Max/13 Pro /13/13 mini /12 Pro Max/12 Pro/12 /SE 2 /11 Pro Max/11 Pro/11 /XR/XS Max/XS /X /8 Plus/8/7 Plus/7/SE 1/6s Plus /6s/6 Plus/6/ iPad Pro（第1/2/3/4/5/6世代）/ iPad Air（第1/2/3/4/5世代）/ MacBook（Pro/Air）/ iPad mini（第1/2/3/4/5世代）/ iPad（第5/6/7/8/9/10世代）/ PC /ノートパソコン/ Type-C機種などと互換性があります。",
+        "🚀【高速データ移行・セキュリティ機能付】USB 3.0技術を採用し、写真、動画などのデータを短時間でバックアップできて、USB 2.0と比べて、データ転送時間を大幅に削減します。写真や動画の保存のほか、ファイルや連絡先、スキャンデータ、音楽データ、書籍資料なども保存できて、対応データ形式はさまざまです。🔒専用アプリ内でパスワードを設定しデータを暗号化できるので、データ漏洩を効果的に防止できます。（セキュリティ機能はiOS機種にのみ適用されますので、予めご了承ください。）本製品には日本語図解取扱説明書も付属され、機械が苦手な方でも簡単にデータ移行できます。",
+        "🍃【多シーン適用・耐久性抜群】こちらのUSBメモリは、コンパクトで持ち運びやすいので、仕事や生活、出先、旅先などにも便利で、飛行機でもUSBメモリを使って保存された動画を見ることができます。💎小さくデザインもシンプルで360度回転して差し込み口が変えられるので、無駄なスペースを使わず便利です。高い鋳造性や良好な機械的性質をもっておる亜鉛合金を採用し、高級感たっぷりで、磨耗や色落ちがしにくく、耐久性にも優れます。💌初期不良および使用中の故障がございましたら、新品の再発送など各種対応をさせて頂きますのでお気軽にご連絡ください。"
+      ],
+      "maker": "Patianco",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 1413,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名Patianco。MFi宣伝表記はメーカー名から除く",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0GWZM7J9P",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:41:46+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CZP2VL6C",
+      "title": "【 サンディスク 正規品 】SanDisk Ultra Dual Drive Luxe 読出最大400MB/秒 SDDDC4-128G-J35 | メーカー5年保証 USBメモリ 128GB USB Type-C & USB Type-A iPhon",
+      "url": "https://www.amazon.co.jp/dp/B0CZP2VL6C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CZP2VL6C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61cLSo4ZotL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "iPhone 15/Plus/Pro/Pro MaxでiOSファイルアプリ経由でのファイル転送に対応",
+        "Android 11以降 / iOS 10.0.2 以降 / Windows 10以降 /macOS 10.15以降",
+        "写真・音楽・動画・ドキュメントファイルをまとめて保存",
+        "便利なキーリング穴を使って、キーホルダーやバッグなどに付けて簡単に持ち運び",
+        "回転収納式コネクター、おしゃれなメタル筺体採用"
+      ],
+      "maker": "SanDisk",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 245,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0D17F3X5K",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:41:57+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FLDPF1K3",
+      "title": "Amazon限定 バッファロー USBメモリ 256GB Type-C Type-A 両対応 USB3.2Gen1 RUF3-ACR256G-B/N",
+      "url": "https://www.amazon.co.jp/dp/B0FLDPF1K3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FLDPF1K3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/713PhNARthL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【Type-C&amp;A両対応のUSBメモリー】スマホでもPCでも使える回転式USBメモリーです。",
+        "【スマホデータの保存に】iPhone・Androidの写真や動画を手軽に保存。バックアップや容量対策におすすめです。※iPhone14 シリーズ以前のLightning 端子搭載モデルではご利用いただけません。",
+        "【ケースを付けたまま使える】厚みのあるスマホケースを付けたままでもご使用いただけます。",
+        "【exFATでフォーマット済み】USB Type-C、Type-Aを搭載した iPhone / Android / Windows / Mac / Chromebook など幅広いデバイスで、挿すだけですぐにお使いいただけます。",
+        "【Amazon限定】壁紙ダウンロード付き"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261117_usb_memory",
+      "queries_matched": [
+        "dg_20261117_usb_memory"
+      ],
+      "review_count": 142,
+      "star_rating": 3.7,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名バッファロー。Amazon限定を製造元と誤認しない",
+      "scope_pending": [
+        "USB-A/USB-C/Lightningとアプリ要否・対応OSを区別"
+      ],
+      "parent_asin": "B0FNQBMWPK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:42:07+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:usb_memory"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-17",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:usb_memory",
+    "theme": "PC間のファイルを持ち運ぶ。USBメモリ",
+    "exclude_used_since": "2026-10-18",
+    "current_stock_verified": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T11:42:07+09:00"
+}
