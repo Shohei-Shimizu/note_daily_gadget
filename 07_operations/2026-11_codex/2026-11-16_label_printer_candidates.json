@@ -1,0 +1,471 @@
+{
+  "generated_at": "2026-10-10T01:08:11+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261116_bbfd27fe",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261116_label_printer"
+  ],
+  "fetched_count": 11,
+  "dedup_count": 11,
+  "candidates": [
+    {
+      "asin": "B08M3K411P",
+      "title": "ラベルプリンター Phomemo D30 ラベルライター スマホ対応 Bluetooth 超小型シールプリンター 6mm～15mm 幅テープ対応 ポータブル感熱プリンター Android iOS 専用 APP 日本語対応 収納整理 キッチン 名前ラベル 値札 贈り物",
+      "url": "https://www.amazon.co.jp/dp/B08M3K411P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08M3K411P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61e2h0OZC-L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "「コンパクトで持ち運びやすい設計」Phomemo D30 は手のひらサイズの携帯ラベルプリンターで、スッキリとしたデザインで使い勝手が良好です。ワンタッチで開閉でき、感熱ラベルをセットするだけで簡単に印刷可能です。カッターを内蔵しているため安全に使用でき、重さわずか 155g と軽量。持ち運びや収納に便利で、家庭やオフィス、外出先でもスムーズに活用できます",
+        "「シンプル操作」D30 ラベルライターは Android・iOS 機器に対応。Google Play または App Store より「Print Master」アプリをダウンロードするだけで、Bluetooth 接続して簡単に印刷でき、初心者でもスムーズに操作できます。（注：パソコンとの接続・印刷には対応しておりません）",
+        "「様々な場合で活躍」D30 シールプリンターは、日常生活からビジネスシーンまで幅広く活用できます。家庭では食品の分類・薬の賞味期限管理・収納ラベルとして、学校では持ち物マーキングやネームシールに、オフィスでは書類分類・備品管理・小規模店舗の値札作成などに最適です。さらに、誕生日・子供の日・入学シーズン・母の日・バレンタインデーなど、各種イベントや記念日のギフトとしても最適です",
+        "「クリアで鮮明な印刷」スマホプリンター先進の感熱印刷技術を採用し、インクやトナーが不要なため、長期的なランニングコストを削減できます。203DPI の高精細解像度により、印刷の鮮明さを実現しています。テープライターからの出力は黒文字のみとなりますが、カラーや柄付きのラベルテープを使用することで、カラフルな仕上がりを実現できます",
+        "「豊富な APP テンプレート」専用アプリを使えば、豊富なラベルデザインが可能です。ラベルメーカー 3000 種類以上のアイコン・300 種類以上の装飾フレーム・各種フォントを標準搭載。アイコン挿入、文字編集、表作成、ロゴ印刷、バーコード・QR コード作成、タイムスタンプ、Excel データ取り込み、スキャン、OCR 文字認識、音声入力など、多機能をスマホで簡単に操作できます。（注：ピンクのダイヤモンドマークが付いた機能は、より高度な印刷コンテンツを利用可能です。会員サブスクリプションに加入することで使用できるようになります。）"
+      ],
+      "maker": "Phomemo",
+      "query": "dg_20261116_label_printer",
+      "queries_matched": [
+        "dg_20261116_label_printer"
+      ],
+      "review_count": 22252,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "parent_asin": "B0GZQ4J7WC",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:35:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BCW4YMR8",
+      "title": "NIIMBOT B1 ラベルメーカー ラベルプリンター 感熱ラベルライター 値札プリンター DIY 商業プリンター 宛名ラベルメーカー 20-50mm対応 Bluetooth ポータブル 名前ラベル 郵便宛名 価値のある食品の表示 梱包などに使いやすい 冷蔵庫保管 配送ラベル 整理 充電式 Android iOS対応 (ラベル用紙付属) ブルー",
+      "url": "https://www.amazon.co.jp/dp/B0BCW4YMR8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BCW4YMR8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71WGCWL9HgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【感熱印刷】感熱印刷品質も高く、203dpiの高解像度で鮮明な印刷が可能です。サーマルプリンターで、インク印刷は不要です。 リボンを使用する必要がないため、消耗品の需要が減り、コストが節約されます。このラベルプリンターは、幅20mmから50mmのダイカット形専用ラベルシールに対応しています。ラベルシールの表面には保護コーティングが施されており、耐水性や耐油性、耐久性に優れています。",
+        "【強力な機能】様々なテキスト、数字、グラフィック、記号、ロゴ、バーコード、QR コードなどの印刷をサポートします。音声と画像をインテリジェントに認識。自分だけのラベルテープをカスタマイズできます。日本語の説明書も付属しているので、日本での使用に最適です。Excel一括印刷に対応し、作業効率が向上します。",
+        "【充電式&amp;お金の節約】充電式で、1回のバッテリー充電で5時間の作業をサポートできるため、長期的なバッテリーの購入や交換の手間が省け、また非常に環境に優しいです。サーマルプリンターで、インク印刷は不要です。 リボンを使用する必要がないため、消耗品の需要が減り、コストが節約されます。 白黒のみを印刷します。",
+        "【使いやすい】アプリNIIMBOTは、アプリ内でラベルを作成し、自動テンプレートマッチング、画像認識、バッチ印刷などの機能を提供し、20種類以上のフォントと数千の画像素材も含まれています。 スマホアプリと連携することで、従来のテプラよりも賢く便利な新しいラベルプリンターが使えます。 初心者でも簡単にさまざまなラベルを印刷できます。さらに、ラベルの内容や位置を調整して、ニーズに合わせたラベルを作成できます。",
+        "【サプライズギフト&amp;幅広い用途】高品質のABS製で、品質が保証されています。 理想的なギフト選びです。 日常生活で幅広くお使いいただけます。また、コンパクトで洗練された外観デザインは、幼稚園や小学校の命名、家庭の整理整頓、ショッピングセンター、スーパーマーケット、倉庫、オフィスなど、さまざまなシーンで使用できます。 このラベルライターは日常生活やビジネスに欠かせないサポートアイテムです。バレンタインデー、ハロウィーン、感謝祭、クリスマス、家族や友人へのホリデープレゼントに最適です。注: 購入したマシンは日本国内でのみ使用できます。"
+      ],
+      "maker": "NIIMBOT",
+      "query": "dg_20261116_label_printer",
+      "queries_matched": [
+        "dg_20261116_label_printer"
+      ],
+      "review_count": 9759,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "parent_asin": "B0CM3G5KX6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:35:31+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DHWX7B1V",
+      "title": "ブラザー ラベルライター ピータッチキューブ ラテ PT-P300BTLT (スマホ専用/3.5mm~12mm幅/TZeテープ/サンプルテープ2本付き) 【日本子育て支援大賞2025】",
+      "url": "https://www.amazon.co.jp/dp/B0DHWX7B1V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DHWX7B1V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61uzx5fr1NL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "毎日をちょっと楽しくするラベルライター。スマートフォンから気軽にラベルを印刷できる、コンパクトなラベルライター「P-TOUCH CUBE」。スマートフォン専用アプリ「P-touch Design&amp;Print 2」を使って、いつでもどこでもラベル作りが始められます。"
+      ],
+      "maker": "Brother",
+      "query": "dg_20261116_label_printer",
+      "queries_matched": [
+        "dg_20261116_label_printer"
+      ],
+      "review_count": 5284,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "parent_asin": "B0FNW2H4QJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:35:39+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0895JCJKM",
+      "title": "Phomemo M110 ラベルライター ラベルプリンター スマホ・PC対応 食品表示ラベルプリンター 値札プリンター 業務用プリンター ラベルメーカー 宛名ラベルプリンター シールプリンター バーコードプリンター 感熱プリンター モバイルプリンター 配送ラベルプリンター Bluetooth接続 郵便宛名/値札/梱包発送/ラッピング/DIYラベル/作業/冷蔵庫収納/配送ラベル/整理収納に適用",
+      "url": "https://www.amazon.co.jp/dp/B0895JCJKM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0895JCJKM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71ft3Vpl2+L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Phomemoのラベルプリンター「M110」は、スマホやタブレット、PCから接続して印刷できる多機能サーマルプリンターです。郵便宛名、値札、食品表示、梱包発送、アドレス、ラッピング、DIYラベル、作業、冷蔵庫収納、FBAラベル、配送ラベル、整理収納、名前ラベル、葉書等を印刷できます。生活と仕事に役に立ちます",
+        "フリーな多機能アプリ：App storeやGoogle Playで「Print Master」を検索して、専用アプリをダウンロードしてください。「Print Master」アプリにはすでに20種類フレーム、36種類フォント、100種類なテンプレート、500以上種類なアイコンが用意されており、また定期的に新しい素材のをリリースする予定です。テキスト、QRコード、バーコード、アイコン、表、画像、線、時間、Excelインポートの機能で自由に作りましょう",
+        "USBでPCと接続可能：感熱ラベルプリンター「Phomemo M110」は、iOS、Android搭載のスマホだけでなく、USB接続でMac OS、Windows 10にも対応し、ラベルの編集方法が多様になります。ダウンロード方法：フォメモ公式サイトへ「サポート」ー「ダウンロードセンター」より、M110を選択後、ドライバをダウンロードします。 (注：Linux、Chromebookシステムには対応していません）",
+        "持ち運びやすい：Phomemo M110ラベルプリンターはどのファッションにも合うシンプルで可愛いデザインに仕上げています。そして手のひらサイズでどこにても簡単に持ち込むことができるので、出張先や旅行先に向かう飛行機内での使用も可能になります。家庭やオフィスなど、どこでも持ち運んで、ラベルシールに印刷を楽しめそうだ。コンパクトサイズのラベルライター「M110」は多機能ので、整理収納や作業好きな家族、友人、同僚、子供にクリスマス、ハロウィーン、感謝祭、正月や誕生日のプレゼントにおすすめです",
+        "幅20-50 mmラベルシールに対応：このラベルプリンターは、幅20-50 mmのダイカット形専用ラベルシールに対応いたします。そのラベルシールの表面に保護コーティングが施されており、耐水性、耐油性、 耐久性があります。アプリでセットしたラベルサイズを選択し、印刷したいテキスト、アイコン、バーコードなどを自由に入力するだけで、アプリでの効果をプレビューできます。初めての方でも手軽にラベルシールが作れるのが魅力です",
+        "パッゲージリスト: Phomemo M110 プリンター ×1 プリンター用のロール紙：40*30mm-100 枚 ×1 クイックスタートガイド ×1 USB タイプ C ケーブル ×1 ロール紙シャフト ×1 ロール紙とロール紙シャフトはプリンター本体に事前に取り付けられています。"
+      ],
+      "maker": "Phomemo",
+      "query": "dg_20261116_label_printer",
+      "queries_matched": [
+        "dg_20261116_label_printer"
+      ],
+      "review_count": 4028,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "parent_asin": "B0HDSH6FTQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:35:48+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B079FLYBQ9",
+      "title": "ブラザー ラベルライター ピータッチキューブ PT-P710BT (スマホPC対応/3.5mm~24mm幅/TZeテープ/サンプルテープ2本付き) 【日本子育て支援大賞2025】",
+      "url": "https://www.amazon.co.jp/dp/B079FLYBQ9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B079FLYBQ9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/617VKjAVXKL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "&lt;B&gt;製品概要:&lt;/B&gt;スマホ・PC接続専用。キーボードのないラベルライター"
+      ],
+      "maker": "Brother",
+      "query": "dg_20261116_label_printer",
+      "queries_matched": [
+        "dg_20261116_label_printer"
+      ],
+      "review_count": 1643,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "parent_asin": "B0FNW2H4QJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:35:58+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BRZ1QB74",
+      "title": "キングジム ラベルプリンター スマホ専用 「テプラ」PRO SR-R2500P (対応ラベル幅:4-18mm幅)",
+      "url": "https://www.amazon.co.jp/dp/B0BRZ1QB74?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BRZ1QB74?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41+jRC0S2OL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "本体とスマートフォンをBluetoothで接続し、アプリを使って簡単にラベルが作成できるラベルプリンターです。「テプラ」PRO用iOS/Androidアプリ「TEPRA LINK2」と「Hello」の2種類のアプリが使用できるので、用途に合わせてラベル作成を楽しむことができます。",
+        "【本体寸法】約54(W)×134(D)×145(H)mm",
+        "【質量】約420g(電池、テープ除く)",
+        "【プリンタ】サーマルヘッド(180dpi/96dot)熱転写PRO印刷方式",
+        "【最大印刷可能幅】13.5mm",
+        "4~18mm幅の「テプラ」PROテープカートリッジに対応。豊富なバリエーションを取り揃えているカートリッジから自分好みのラベルを作ることができます。"
+      ],
+      "maker": "キングジム",
+      "query": "dg_20261116_label_printer",
+      "queries_matched": [
+        "dg_20261116_label_printer"
+      ],
+      "review_count": 1259,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "parent_asin": "B0BXJHVPLX",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:36:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07J6SYY95",
+      "title": "キングジム(Kingjim) ラベルライター 「テプラ」PRO SR370 (対応ラベル幅:4-24mm幅)",
+      "url": "https://www.amazon.co.jp/dp/B07J6SYY95?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07J6SYY95?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61F42bzCj9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【対応テープ幅】PROテープカートリッジ4・6・9・12・18・24mm",
+        "【書体】漢字3書体、かな5書体、英数5書体",
+        "【文字サイズ】6段階",
+        "【電源】付属ACアダプタ、単3形アルカリ乾電池×6本(別売) 又は 単3形充電式ニッケル水素電池×6本(別売)",
+        "【辞書・文字数】学習機能付き熟語変換、約63,000語、5,598文字"
+      ],
+      "maker": "キングジム",
+      "query": "dg_20261116_label_printer",
+      "queries_matched": [
+        "dg_20261116_label_printer"
+      ],
+      "review_count": 744,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "parent_asin": "B0CPDRQ859",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:36:15+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07RN7MMQC",
+      "title": "キングジム ラベルライター 「テプラ」PRO SR-R680 (対応ラベル幅:4-24mm幅)",
+      "url": "https://www.amazon.co.jp/dp/B07RN7MMQC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07RN7MMQC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51BcekkdDOL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【本体寸法】W193×D238×H66mm",
+        "【対応ラベル幅】4,6,9,12,18,24mm",
+        "【書体】漢字8書体、かな12書体、英字14書体",
+        "【電源】ACアダプタ(同梱)、又は単3アルカリ乾電池×6本、単3充電式ニッケル乾電池×6本(いずれも別売)",
+        "【同梱品】専用アダプタ、試用PROテープカートリッジ×1本"
+      ],
+      "maker": "キングジム",
+      "query": "dg_20261116_label_printer",
+      "queries_matched": [
+        "dg_20261116_label_printer"
+      ],
+      "review_count": 412,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "parent_asin": "B07ZJ1G554",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:36:25+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CT3216P6",
+      "title": "Phomemo P12 Pro ラベルライター グリーン",
+      "url": "https://www.amazon.co.jp/dp/B0CT3216P6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CT3216P6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71fvJLvekrL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ラベルプリンターを更新しました： Phomemo P12 Proラベルライター、わずか7.7オンスのコンパクトで軽量。マニュアルカッターを内蔵しており、外出先でもラベルを印刷することができます。感熱式と熱転写式のデュアル印刷モードをサポートするだけでなく、カラーテキストも印刷できます。(カラーテキストはカラーラベルでのみ使用されます）",
+        "充電式＆あなたのコストを節約： P12 Pro ラベルプリンターは充電式で、インク、トナー、リボンの手間を省きながら、電池の購入と交換の必要性をなくします。P12プロラベルメーカーは、コスト削減と環境に優しい",
+        "複数のラベルタイプを選択できます： 50種類以上のカラーラベルテープと4種類の素材、経済的なバッチ印刷用のサーマルラベル、長持ちするクリア熱転写ラベル、さらに遊び心のあるホットスタンピングラベルやリボンラベルなど、さまざまなテープを使用して、お好きなものを印刷できます！",
+        "テクニカルで簡単な印刷： 12種類の言語、1096種類のシンボル、62種類のフレーム、3種類の文字サイズオプション。ワンクリックで使用：何百ものアイコンと、商業用および家庭用の多くの既製テンプレート。手作業によるラベリングに別れを告げ、簡単に整理作業を合理化しましょう",
+        "自信を持って整理整頓： P12 Pro ラベルプリンター スマホ対応は多用途でクリエイティブなため、ステッカーを簡単に作成でき、家庭の収納、キッチンの整理、ギフトの装飾、衣類のラベリング、オフィスの仕分け、中小企業の小売店など、あらゆる場所で使用できます",
+        "お祝いの贈り物に最適 – クリスマス、誕生日、バレンタインデーの家族や友人へのプレゼントにぴったりです。"
+      ],
+      "maker": "Phomemo",
+      "query": "dg_20261116_label_printer",
+      "queries_matched": [
+        "dg_20261116_label_printer"
+      ],
+      "review_count": 222,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-05-23",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "parent_asin": "B0GZQ4NMGP",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:36:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CD7K75W8",
+      "title": "キングジム(Kingjim) ラベルプリンター スマホ専用 「テプラ」PRO MARK SR-MK1-BK (対応ラベル幅:4-24mm幅)",
+      "url": "https://www.amazon.co.jp/dp/B0CD7K75W8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CD7K75W8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/312sYPGZf9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "スマホで手軽にラベル作成",
+        "【本体寸法】約55（W）×133（D）×146（H）mm",
+        "【質量】約470g（電池、テープ除く）",
+        "【プリンタ：サーマルヘッド】(360dpi/256dot)熱転写PRO印刷方式",
+        "【最大印刷可能幅】18.1mm【テープカートリッジ】PRO テープカートリッジ4、6、9、12、18、24mm"
+      ],
+      "maker": "キングジム",
+      "query": "dg_20261116_label_printer",
+      "queries_matched": [
+        "dg_20261116_label_printer"
+      ],
+      "review_count": 169,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_observed_at": "2026-09-15T23:23:44+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "parent_asin": "B0CDFHYWSJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:36:43+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FQ5266PC",
+      "title": "NIIMBOT B1 ラベルメーカー スマホ ラベルライター本体+3巻ラベル付き 感熱ラベルライター 値札プリンター Bluetooth接続 商業プリンター 宛名印刷 ポータブル 名前ラベル ラベルシール 使いやすい 宛名/食品/DIYラベル/手書き/値札/バーコードに適用 Android iOS対応 ラベル用紙付属（50*30mm/40*30mm/34*34mm） ブルーホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0FQ5266PC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FQ5266PC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71YIxMfBulL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ラベルメーカー】高品質のABS製で、品質が保証されています。このラベルプリンターは、幅20mmから50mmのダイカット形専用ラベルシールに対応しています。B1ラベルメーカーは3ロールラベル紙、50x30mm白ラベル/40x30mm透明ラベル/34x34カラフルラベル付き、ラベル紙のロールの1つはラベルマシンの紙コンパートメント内にあります。",
+        "【感熱印刷】感熱印刷品質も高く、203DPIの高解像度で鮮明な印刷が可能です。サーマルプリンターで、インク印刷は不要です。リボンを使用する必要がないため、消耗品の需要が減り、コストが節約されます。ラベルシールの表面には保護コーティングが施されており、耐水性や耐油性、耐久性に優れています。",
+        "【使いやすい】アプリNIIMBOTは、アプリ内でラベルを作成し、自動テンプレートマッチング、画像認識、バッチ印刷などの機能を提供し、20種類以上のフォントと数千の画像素材も含まれています。スマホアプリと連携することで、従来のテプラよりも賢く便利な新しいラベルプリンターが使えます。初心者でも簡単にさまざまなラベルを印刷できます。さらに、ラベルの内容や位置を調整して、ニーズに合わせたラベルを作成できます。",
+        "【充電式&amp;お金の節約】充電式で、1回のバッテリー充電で5時間の作業をサポートできるため、長期的なバッテリーの購入や交換の手間が省け、また非常に環境に優しいです。サーマルプリンターで、インク印刷は不要です。リボンを使用する必要がないため、消耗品の需要が減り、コストが節約されます。白黒のみを印刷します。",
+        "【幅広い用途】コンパクトで洗練された外観デザインは、幼稚園や小学校の命名、家庭の整理整頓、ショッピングセンター、スーパーマーケット、倉庫、オフィスなど、さまざまなシーンで使用できます。このラベルライターは日常生活やビジネスに欠かせないサポートアイテムです。バレンタインデー、ハロウィーン、感謝祭、クリスマス、家族や友人へのホリデープレゼントに最適です。注:購入したマシンは日本国内でのみ使用できます。"
+      ],
+      "maker": "NIIMBOT",
+      "query": "dg_20261116_label_printer",
+      "queries_matched": [
+        "dg_20261116_label_printer"
+      ],
+      "review_count": 51,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "parent_asin": "B0CM3G5KX6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:36:52+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:label_printer"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-16",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:label_printer",
+    "theme": "配線と書類の表示を印刷する。ラベルプリンター",
+    "exclude_used_since": "2026-10-17",
+    "current_stock_verified": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T11:36:52+09:00"
+}

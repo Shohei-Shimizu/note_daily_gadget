@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-16",
+  "topic_id": "daily_gadget_20261116_bbfd27fe",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 11,
+  "parent_groups": {
+    "B0GZQ4J7WC": [
+      "B08M3K411P"
+    ],
+    "B0CM3G5KX6": [
+      "B0BCW4YMR8",
+      "B0FQ5266PC"
+    ],
+    "B0FNW2H4QJ": [
+      "B0DHWX7B1V",
+      "B079FLYBQ9"
+    ],
+    "B0HDSH6FTQ": [
+      "B0895JCJKM"
+    ],
+    "B0BXJHVPLX": [
+      "B0BRZ1QB74"
+    ],
+    "B0CPDRQ859": [
+      "B07J6SYY95"
+    ],
+    "B07ZJ1G554": [
+      "B07RN7MMQC"
+    ],
+    "B0GZQ4NMGP": [
+      "B0CT3216P6"
+    ],
+    "B0CDFHYWSJ": [
+      "B0CD7K75W8"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B079FLYBQ9",
+      "title": "ブラザー ラベルライター ピータッチキューブ PT-P710BT (スマホPC対応/3.5mm~24mm幅/TZeテープ/サンプルテープ2本付き) 【日本子育て支援大賞2025】",
+      "maker": "Brother",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ブラザー",
+      "historical_tier": 1,
+      "parent_asin": "B0FNW2H4QJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-12",
+          "title": "手書きの表示をラベルにする。「ラベルプリンター」 7 選",
+          "asin": "B079FLYBQ9"
+        },
+        {
+          "published_date": "2026-10-12",
+          "title": "手書きの表示をラベルにする。「ラベルプリンター」 7 選",
+          "asin": "B0DHWX7B1V"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-12_手書きの表示をラベルにする。ラベルプリンター.md",
+          "date": "2026-10-12",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-12_手書きの表示をラベルにする。ラベルプリンター.md",
+          "date": "2026-10-12",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-17",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07J6SYY95",
+      "title": "キングジム(Kingjim) ラベルライター 「テプラ」PRO SR370 (対応ラベル幅:4-24mm幅)",
+      "maker": "キングジム",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "キングジム",
+      "historical_tier": 1,
+      "parent_asin": "B0CPDRQ859",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-12",
+          "title": "手書きの表示をラベルにする。「ラベルプリンター」 7 選",
+          "asin": "B07J6SYY95"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-12_手書きの表示をラベルにする。ラベルプリンター.md",
+          "date": "2026-10-12",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-17",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07RN7MMQC",
+      "title": "キングジム ラベルライター 「テプラ」PRO SR-R680 (対応ラベル幅:4-24mm幅)",
+      "maker": "キングジム",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "キングジム",
+      "historical_tier": 2,
+      "parent_asin": "B07ZJ1G554",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-17",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0895JCJKM",
+      "title": "Phomemo M110 ラベルライター ラベルプリンター スマホ・PC対応 食品表示ラベルプリンター 値札プリンター 業務用プリンター ラベルメーカー 宛名ラベルプリンター シールプリンター バーコードプリンター 感熱プリンター モバイルプリンター 配送ラベルプリンター Bluetooth接続 郵便宛名/値札/梱包発送/ラッピング/DIYラベル/作業/冷蔵庫収納/配送ラベル/整理収納に適用",
+      "maker": "Phomemo",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Phomemo",
+      "historical_tier": 1,
+      "parent_asin": "B0HDSH6FTQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-12",
+          "title": "手書きの表示をラベルにする。「ラベルプリンター」 7 選",
+          "asin": "B0895JCJKM"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-12_手書きの表示をラベルにする。ラベルプリンター.md",
+          "date": "2026-10-12",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-17",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08M3K411P",
+      "title": "ラベルプリンター Phomemo D30 ラベルライター スマホ対応 Bluetooth 超小型シールプリンター 6mm～15mm 幅テープ対応 ポータブル感熱プリンター Android iOS 専用 APP 日本語対応 収納整理 キッチン 名前ラベル 値札 贈り物",
+      "maker": "Phomemo",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Phomemo",
+      "historical_tier": 1,
+      "parent_asin": "B0GZQ4J7WC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-12",
+          "title": "手書きの表示をラベルにする。「ラベルプリンター」 7 選",
+          "asin": "B08M3K411P"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-12_手書きの表示をラベルにする。ラベルプリンター.md",
+          "date": "2026-10-12",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-17",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BCW4YMR8",
+      "title": "NIIMBOT B1 ラベルメーカー ラベルプリンター 感熱ラベルライター 値札プリンター DIY 商業プリンター 宛名ラベルメーカー 20-50mm対応 Bluetooth ポータブル 名前ラベル 郵便宛名 価値のある食品の表示 梱包などに使いやすい 冷蔵庫保管 配送ラベル 整理 充電式 Android iOS対応 (ラベル用紙付属) ブルー",
+      "maker": "NIIMBOT",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "NIIMBOT",
+      "historical_tier": 1,
+      "parent_asin": "B0CM3G5KX6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-12",
+          "title": "手書きの表示をラベルにする。「ラベルプリンター」 7 選",
+          "asin": "B0BCW4YMR8"
+        },
+        {
+          "published_date": "2026-03-28",
+          "title": "食材管理をスマートに。保存・見える化に役立つキッチンガジェット 5 選",
+          "asin": "B0FQ5266PC"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-12_手書きの表示をラベルにする。ラベルプリンター.md",
+          "date": "2026-10-12",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-17",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BRZ1QB74",
+      "title": "キングジム ラベルプリンター スマホ専用 「テプラ」PRO SR-R2500P (対応ラベル幅:4-18mm幅)",
+      "maker": "キングジム",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "キングジム",
+      "historical_tier": 1,
+      "parent_asin": "B0BXJHVPLX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-12",
+          "title": "手書きの表示をラベルにする。「ラベルプリンター」 7 選",
+          "asin": "B0BRZ1QB74"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-12_手書きの表示をラベルにする。ラベルプリンター.md",
+          "date": "2026-10-12",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-17",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CD7K75W8",
+      "title": "キングジム(Kingjim) ラベルプリンター スマホ専用 「テプラ」PRO MARK SR-MK1-BK (対応ラベル幅:4-24mm幅)",
+      "maker": "キングジム",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "キングジム",
+      "historical_tier": 2,
+      "parent_asin": "B0CDFHYWSJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-17",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CT3216P6",
+      "title": "Phomemo P12 Pro ラベルライター グリーン",
+      "maker": "Phomemo",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Phomemo",
+      "historical_tier": 2,
+      "parent_asin": "B0GZQ4NMGP",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-17",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DHWX7B1V",
+      "title": "ブラザー ラベルライター ピータッチキューブ ラテ PT-P300BTLT (スマホ専用/3.5mm~12mm幅/TZeテープ/サンプルテープ2本付き) 【日本子育て支援大賞2025】",
+      "maker": "Brother",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ブラザー",
+      "historical_tier": 1,
+      "parent_asin": "B0FNW2H4QJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-12",
+          "title": "手書きの表示をラベルにする。「ラベルプリンター」 7 選",
+          "asin": "B079FLYBQ9"
+        },
+        {
+          "published_date": "2026-10-12",
+          "title": "手書きの表示をラベルにする。「ラベルプリンター」 7 選",
+          "asin": "B0DHWX7B1V"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-12_手書きの表示をラベルにする。ラベルプリンター.md",
+          "date": "2026-10-12",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-12_手書きの表示をラベルにする。ラベルプリンター.md",
+          "date": "2026-10-12",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-17",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FQ5266PC",
+      "title": "NIIMBOT B1 ラベルメーカー スマホ ラベルライター本体+3巻ラベル付き 感熱ラベルライター 値札プリンター Bluetooth接続 商業プリンター 宛名印刷 ポータブル 名前ラベル ラベルシール 使いやすい 宛名/食品/DIYラベル/手書き/値札/バーコードに適用 Android iOS対応 ラベル用紙付属（50*30mm/40*30mm/34*34mm） ブルーホワイト",
+      "maker": "NIIMBOT",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0CM3G5KX6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-12",
+          "title": "手書きの表示をラベルにする。「ラベルプリンター」 7 選",
+          "asin": "B0BCW4YMR8"
+        },
+        {
+          "published_date": "2026-03-28",
+          "title": "食材管理をスマートに。保存・見える化に役立つキッチンガジェット 5 選",
+          "asin": "B0FQ5266PC"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-12_手書きの表示をラベルにする。ラベルプリンター.md",
+          "date": "2026-10-12",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-17",
+      "scope_pending": [
+        "配線向けラベル素材・ラベル幅・耐水性は機種仕様と別売媒体を区別"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [],
+  "variant_policy": "同親の色/サイズ/バンドルを候補群として残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "候補に残る未確認事項は公式照合前の採用根拠としない"
+  ],
+  "historical_tier_distribution": {
+    "1": 7,
+    "2": 3,
+    "3": 1
+  }
+}
