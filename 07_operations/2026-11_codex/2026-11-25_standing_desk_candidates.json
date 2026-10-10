@@ -1,0 +1,436 @@
+{
+  "generated_at": "2026-10-10T01:11:45+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261125_68d577dc",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261125_standing_desk"
+  ],
+  "fetched_count": 10,
+  "dedup_count": 10,
+  "candidates": [
+    {
+      "asin": "B0GYYSQB2F",
+      "title": "ErGear 電動 オフィスワークテーブル 昇降式デスク スタンディングデスク 幅160cm 耐荷重80kg 4段階高さメモリー機能 上下自動昇降",
+      "url": "https://www.amazon.co.jp/dp/B0GYYSQB2F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GYYSQB2F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61toGV1b+-L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "【5万回の耐久性試験済み！長く使える電動昇降デスク】より高い耐久性が求められるErGear昇降式デスクは宇宙航空等級の昇降支柱コネクタを備えた頑丈なフレームを使用しています。デスク全体を安定させ、上限位置でも机の揺れを防ぎます。5万回の昇降耐久性試験もクリアしました（弊社試験基準にて実施）。",
+        "【立ち・座りがこの1台で切り替え！】ErGear昇降式デスクは無段階に高さ72~118cmまで稼働することができます。子供から大人まで、身長や姿勢、お使いの椅子の高さなどに合わせてピッタリのな高さに設定できます。長時間の座り作業による健康リスクを考慮し、立ち作業に切り替えるのがおすすめです。",
+        "【高性能モーター搭載で80KG高耐荷重を実現】 頑丈なフレームかつ強化されたモーターを搭載されることにより、耐荷重・上下昇降駆動力に優れています。天板は80kgまで耐える高耐荷重仕様で、ディスプレイを２枚を載せてもまとめて上下昇降できます。稼働音も約55dBと同程度の静かさで、オフィスや自宅での作業を邪魔しません。",
+        "【4パターンメモリー機能付き】ErGearスタンディングデスクは、最大4ヶ所の使用高さを記憶可能。家族それぞれの好みや、作業・読書・リラックスなどシーン別の理想の高さを登録すれば、ボタンひとつで瞬時に切り替えが可能です。一日の中で何度も変化する姿勢とニーズに、手軽に応えられるスマートなデスク環境を実現できます。",
+        "【低VOC塗装で安全な室内空間を作る】ErGearスタンディングデスクはホルムアルデヒドなどの室内空気汚染物質（VOC）の排出量が少なく、EPA および CARB の排ガス基準を満たしています。より安心して健康に暮らせる空間づくりをお手伝いします。",
+        "【幅広いワークスペースと便利な収納機能】幅160cm×奥行き80cmの広々とした天板で、複数のモニターや書類を配置できます。収納フック付きで、ヘッドフォンやバッグなどの小物を整理整頓できます。"
+      ],
+      "maker": "ErGear",
+      "query": "dg_20261125_standing_desk",
+      "queries_matched": [
+        "dg_20261125_standing_desk"
+      ],
+      "review_count": 6294,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "standing_desk",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "parent_asin": "B0BDTV4KZD",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:30:09+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FR9SY5MW",
+      "title": "FEZIBO 電動 昇降式デスク スタンディングデスク 幅120cm 奥行60cm 高さ72-118cm 上下昇降デスク 高さメモリー機能 スタンドデスク 静音 pc オフィスデスク テレワーク ホワイトフレーム/ホワイト天板",
+      "url": "https://www.amazon.co.jp/dp/B0FR9SY5MW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FR9SY5MW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61HDkf3R+aL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【安定性アップデザイン】FEZIBO 昇降デスクは、競合他社と比較して約1.2倍の太さのフレーム脚と、1.2倍の長さのサイドウィングを採用しており、より安定した昇降操作を実現します。安心・快適な使用感を追求した高品質な商品提供いたします。",
+        "【3つのメモリー機能＆チャイルドロック付き手元コントローラー】スタンディングデスクの操作パネルには3つの高さメモリーを登録可能。仕事用・ゲーム用・お子様用など、用途に応じて理想の高さをワンタッチで切り替えられます。さらに、誤操作を防ぐチャイルドロック機能付きで、小さなお子様がいるご家庭でも安心してお使いいただけます。",
+        "【静音モーター＆プロ仕様フレームで安定した昇降】電動昇降デスクは高性能モーターと業務用レベルのフレーム構造により、昇降時の動作はスムーズかつ静音。オフィスや深夜の作業でも音を気にせずご利用いただけます。また、デスクの揺れを最小限に抑える設計で、最上昇位置でも安心して作業に集中できます。",
+        "【初心者でも安心の簡単組立＆安心サポート】FEZIBO昇降式デスクは分かりやすい日本語説明書に加え、動画マニュアルもご用意。ネジやパーツもわかりやすく整理されており、組立作業は約30分程度で完了します。万が一お困りごとがあった際も、丁寧なカスタマーサポートが迅速に対応いたしますので、安心してお買い求めください。",
+        "【洗練されたデザインと機能性で、あなたの空間にぴったり】FEZIBO電動デスクは落ち着いた色味とモダンなデザインで、どんなインテリアにもマッチ。スタンディングワークからゲーミング環境まで、幅広いライフスタイルに対応できる設計です。機能性だけでなく、美しさにもこだわった一台で、毎日のデスクワークをより快適に演出します。"
+      ],
+      "maker": "FEZIBO",
+      "query": "dg_20261125_standing_desk",
+      "queries_matched": [
+        "dg_20261125_standing_desk"
+      ],
+      "review_count": 3423,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "standing_desk",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "parent_asin": "B0GWMCG5G8",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:30:16+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DBLJLK75",
+      "title": "Claiks 昇降デスク 大きめ 電動 パソコンデスク 昇降式 スタンディングデスク 在宅ワーク オフィスデスク 高さ調節 メモリ機能 幅160cm*奥行き80cm 高さ72~118cm ホワイトフレーム/ホワイト天板",
+      "url": "https://www.amazon.co.jp/dp/B0DBLJLK75?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DBLJLK75?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71r1jkZphDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【大型デスク】従来のデスクより大きい奥行きが20cm増！ワークスペースもかなり増やされたため、キーボード置いたり、ノートの収納だったりしても大丈夫、広い天板だから何でも置きましょう。",
+        "【長時間座っている方へ】 電動昇降デスク は、最近では多くのIT大手企業でも導入されています。座ったままのPC作業が多い方にとって、座ったり立ったりの作業姿勢を交互に切り替えるだけで、腰やお尻の痛みを軽減し、眠気も抑えることができます。リモートワークが進んでいる今こそ、健康と業務効率向上のために座ったり立ったりの作業を体験してみましょう！",
+        "【高さ調節可能】昇降範囲：72〜118cm、昇降速度：20mm/s。ゲーミングデスク、オフィスデスク、勉強机など、使い方に合わせて高さを自由に調整することができます。また、よく使う高さを3つまで記憶することができますので、お気に入りの高さにワンタッチで戻ることができます。",
+        "【安全安心な天板】Claiksの昇降式テーブルは、室内空気汚染物の排出が少なく、環境に優しい天板を使用しています。メラミン樹脂を利用したため、水や熱、汚れに強く、お手入れも簡単です。ホワイト/ブラック/ブラウン/ナチュラルの4色の天板をご用意しておりますので、お部屋に合わせてお好みの色をお選びください。",
+        "【メーカー直営・日本語対応】Claiksの昇降式デスクは、メーカー直営で中間業者を省き、余計な費用を削減したため、お客様に高品質な製品をお手頃な価格で提供することができました。カスタマーサポートでは、日本語や英語等複数の言語に対応しておりますので、いつでもお気軽にお問い合わせください。"
+      ],
+      "maker": "Claiks",
+      "query": "dg_20261125_standing_desk",
+      "queries_matched": [
+        "dg_20261125_standing_desk"
+      ],
+      "review_count": 996,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "standing_desk",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "parent_asin": "B0DBLFJ1G8",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:30:26+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F9X3FDYY",
+      "title": "HUANUO(ファーノー) 電動 昇降式デスク 幅80cm スタンディングデスク 4メモリ高さ調節 上下自動昇降 小さめ 静音 収納フック付き",
+      "url": "https://www.amazon.co.jp/dp/B0F9X3FDYY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F9X3FDYY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71lc1i5c8mL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ワークスタイルをもっと自由に】一日中、同じ姿勢でデスクに向かっていませんか？電動昇降デスクは、高さを72～118cmまでシーンに合わせた高さに調節可能。 集中したい時はスタンディングで気分をリフレッシュし、落ち着いて作業したい時はシッティングで。「坐りっぱなし」による身体の疲れを軽減し、在宅ワークの生産性と快適さをアップしよう。",
+        "【コンパクト設計の電動昇降デスク】幅80cm、奥行き50cmとスリム設計の小さめ天板は、限られた空間にぴったりです。一般的なデスクよりもコンパクトな設計で、作業がしやすい実用的なサイズながら場所を取りすぎないので、ワンルームや限られたスペースでも圧迫感なく設置できます。",
+        "【4メモリ高度調節でワンタッチで理想の姿勢へ】ボタンひとつで、デスクがあなたに合わせます。ご家族やシェアオフィスでの複数人利用はもちろん、「集中作業」「リラックス閲覧」「読書スタイル」 など、シーンに合わせた4つまで高さを登録可能。面倒な調整の手間から、あなたを解放します。",
+        "【産業用スチールフレームによる抜群の安定性】 分厚い天板を支えるのは、自動車部品に採用されるSPCC冷間圧延鋼材を使用した剛性の高いフレーム。たとえ満杯の状態でも、ガタつきや揺れを感じさせない、圧倒的な安定性が自慢です。細かい作業や力の入る作業にも、しっかりと応えます。当社の昇降デスクは満載状態で5万回の昇降試験を実施。長期使用における信頼性を保証いたします。",
+        "【便利な追加機能】コード管理システム、ダブル収納フック、衝突防止機能など、利便性の高い付属機能を完備。パソコン、モニター、スマホのコードが絡まる「蜘蛛の巾状態」を解消。スッキリ整理されたデスクで、創造性と生産性をアップします。カバンやヘッドフォンなど、よく使う小物をサッと掛けられるので、デスク上が散らかりません。"
+      ],
+      "maker": "HUANUO",
+      "query": "dg_20261125_standing_desk",
+      "queries_matched": [
+        "dg_20261125_standing_desk"
+      ],
+      "review_count": 1042,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "standing_desk",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "parent_asin": "B0F7RW4TC2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:30:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F3Y4W4VP",
+      "title": "YIHAYO 昇降デスク 高さ70-115cm 幅120cm 奥行き60cm 電動 スタンディングデスク 昇降式デスク 高さメモリー機能 上下自動昇降 静音 収納フック付き 組み立て簡単 パソコンデスク ブラックフレーム/ブラック天板",
+      "url": "https://www.amazon.co.jp/dp/B0F3Y4W4VP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F3Y4W4VP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71GpYd2elgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【本体サイズと耐荷重】YIHAYO昇降式デスクは十分優雅な作業台を提供します:幅120cm ×奥行60cm。優れた負荷能力と垂直昇降駆動力を持ち、天板は70kgという高い負荷能力を持ち、2つのディスプレイを載せても同時に昇降することができます",
+        "【ワンタッチで座り方と立ち方が切り替える】YIHAYO スタンディングデスクの高さは70 ~115 cmで自由に調整できます。子どもから大人まで、身長や姿勢に合わせて設置できます。また、メモリー機能があり、最大3つの高さを保存できるので、ワンタッチで座り方と立ち方を切り替えて、好きな高さに調整することができます",
+        "【簡単に組み立てられる電動昇降デスク】デスクトッププラットフォームは2つに分かれております。昇降デスクは簡単な取付設計を採用し、分かりやすい取付説明書を備えており、すぐに取付を完了することができます",
+        "【50,000回耐久試験】優れた安定性、この自動昇降デスクは、頑丈なスチールフレームと航空段昇降柱コネクタを備えており、50,000回の試験後も安定安全で、全高時でもしっかりと働作できます",
+        "【カスタマーサービス】当社は電動昇降式デスク製品の安全性と耐久性を保証し、この昇降式デスクには3年間の保証を提供します。何か質問がある場合は、お気軽にご連絡ください。24時間以内に解決策を提供いたします。YIHAYOの昇降オフィスデスクを安心してお選びいただき、お仕事を快適に"
+      ],
+      "maker": "YIHAYO",
+      "query": "dg_20261125_standing_desk",
+      "queries_matched": [
+        "dg_20261125_standing_desk"
+      ],
+      "review_count": 647,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "standing_desk",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "parent_asin": "B0C9CBS492",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:30:43+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GGZB9PGB",
+      "title": "STARY L字型 電動昇降デスク スタンディング対応 幅140cm 静音モーター 高さ72～120cm メモリー機能付き 耐荷重80kg パソコンデスク オフィスデスク 作業机 テレワーク【幅140 x 奥行き70 x 高さ72-122cm】ナチュラルオーク(天板) /ホワイト(足)",
+      "url": "https://www.amazon.co.jp/dp/B0GGZB9PGB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GGZB9PGB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61nr9XW6Y9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【L字型レイアウトで快適な作業空間】L字型デザインにより、作業エリアを効率よく分けて使用可能。モニター、ノートPC、周辺機器を整理して配置でき、在宅ワーク・オフィス作業・ゲーム環境まで幅広いシーンに対応します。作業中の動線もスムーズで。",
+        "【ボタン操作で立ち・座りをスムーズに切替】電動昇降システムにより、高さ72～122cmまで無段階で調整可能。立ち作業と座り作業をワンタッチで切り替えられます。よく使う高さはメモリー機能で最大3段階まで登録でき、毎回の調整もスムーズです。",
+        "【静音モーター＆高耐荷重設計】安定性に優れたスチールフレームと高性能モーターを採用。昇降時の動作音を抑えた静音設計で、集中力を妨げません。耐荷重は約80kgで、デュアルモニターや周辺機器を載せても安心して使用できます。",
+        "【お手入れ簡単・耐久性に優れた天板】天板には耐久性に配慮した素材を採用。傷や汚れが付きにくく、熱や水にも強いため、日常使用でも安心です。飲み物をこぼしてもサッと拭くだけで清潔を保て、忙しい毎日のお手入れも簡単。長く快適に使える設計です。",
+        "【5万回耐久テスト済み・安心のサポート】昇降動作は5万回の耐久試験をクリア。長期間安心して使用できます。日本語説明書付きで、初めての方でも安心。万が一、初期不良や部品不足があった場合も、迅速に対応いたします。"
+      ],
+      "maker": "STARY",
+      "query": "dg_20261125_standing_desk",
+      "queries_matched": [
+        "dg_20261125_standing_desk"
+      ],
+      "review_count": 603,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "standing_desk",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "parent_asin": "B0D6QNGJJK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:30:52+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B092VX5RK7",
+      "title": "FLEXISPOT スタンディングデスク メーカー5年保証 電動式昇降デスク 高さ調節 パソコンデスク E7セット (フレーム(黒)+天板(マホガニー), 140×70cm)",
+      "url": "https://www.amazon.co.jp/dp/B092VX5RK7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B092VX5RK7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71RMA+OoLTL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【基本情報】昇降範囲：58-123cm；昇降速度：38mm/s；シリーズ中、一番大きな耐荷重125kgを誇っています。3段式ピラミット型の脚フレームで耐久性と安定性を向上させ、しっかりとしたデザインが机の揺れを最大限防いでくれます。モーターが2本あり、シングルモーターと比べて上下に昇降するための駆動力や運転スピートが速くなりました。",
+        "【ワンタッチで高さ調整】メモリー機能で天板の高さの位置を予め複数メモリーし、必要なシーンに応じてすばやく設定を呼び出せます。",
+        "【セーフティモーション(障害物検知機能)】昇降時に障害物を検知するセンサーが内蔵されており、異物にぶつかったら自動的に操作を停止してもとの位置に戻ります。この機能は敏感度が三段階調節することができます。",
+        "【ロック機能】大人なら片手でも簡単に操作することができます。安全のために備えたロック機能で、好奇心の強い子供たちが触っても安心。大切な人を予期せぬ危険から守ります。"
+      ],
+      "maker": "FLEXISPOT",
+      "query": "dg_20261125_standing_desk",
+      "queries_matched": [
+        "dg_20261125_standing_desk"
+      ],
+      "review_count": 559,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "standing_desk",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "parent_asin": "B0GX5GK3XF",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:31:02+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08F7MQL3S",
+      "title": "FLEXISPOT スタンディングデスク 電動式昇降デスク 高さ調節 メーカー5年保証 人間工学 パソコンデスク ブラック ゲーミングデスク E7B",
+      "url": "https://www.amazon.co.jp/dp/B08F7MQL3S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08F7MQL3S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51ubK2FPbXL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【基本情報】昇降範囲：58-123cm；昇降速度：38mm/s；シリーズ中、一番大きな耐荷重125kgを誇っています。3段式ピラミット型の脚フレームで耐久性と安定性を向上させ、しっかりとしたデザインが机の揺れを最大限防いでくれます。モーターが2本あり、シングルモーターと比べて上下に昇降するための駆動力や運転スピートが速くなりました。",
+        "【ワンタッチで高さ調整】メモリー機能で天板の高さの位置を予め複数メモリーし、必要なシーンに応じてすばやく設定を呼び出せます。",
+        "【セーフティモーション(障害物検知機能)】昇降時に障害物を検知するセンサーが内蔵されており、異物にぶつかったら自動的に操作を停止してもとの位置に戻ります。この機能は敏感度が三段階調節することができます。",
+        "【ロック機能】大人なら片手でも簡単に操作することができます。安全のために備えたロック機能で、好奇心の強い子供たちが触っても安心。大切な人を予期せぬ危険から守ります。",
+        "【安心の保証】メーカー無料長期保証5年（保証期間中の対応回数が無制限なのでとっても安心です）。「日本国内のサポート体制」あり。FLEXISPOTはお客様により良いアフターサービスを提供するために日本国内にコールセンターを新設しました。万が一のサポート対応時も日本語で対応しますので心配がありません。"
+      ],
+      "maker": "FLEXISPOT",
+      "query": "dg_20261125_standing_desk",
+      "queries_matched": [
+        "dg_20261125_standing_desk"
+      ],
+      "review_count": 766,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "standing_desk",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "parent_asin": "B0GX53PYFF",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:31:10+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08QCP1WC3",
+      "title": "FLEXISPOT スタンディングデスクEF1 (幅120×奥行60,メモリー機能付き) 電動式 昇降デスク 高さ調節デスク 人間工学 メモリー機能付き オフィスワークテーブル パソコンデスク ゲーミングデスク 学習机 勉強机(フレーム(黒)+天板(ブラック),EF1セット,120x60cm)",
+      "url": "https://www.amazon.co.jp/dp/B08QCP1WC3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08QCP1WC3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61NUxfDDycL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【明日への健やかさを、足元から支える】 座りっぱなしだった身体を、そっと解き放つ心地よさ。人間工学に基づいた優しい設計が、無理なく自然な姿勢へと導き、心までふんわりと軽くなるような毎日を支えます。ミミニマルで洗練されたデザインは、あらゆるインテリアに溶け込みながら、健康的なライフスタイルへの無理のないシフトをサポート。",
+        "【凛とした佇まいと、揺るぎない安定感】 高強度の鋼製フレームを採用し、最大 70kg の荷重をしっかりと支えます。複数のモニターやデバイスを設置しても揺るぎない安定感を保ち、作業の手を止めることなく、流れるような操作感で理想の高さへ。精密な構造設計により昇降時の振動を最小限に抑え、天板の上の大切な機材を優しく守りながら稼働します。",
+        "【ミリ単位で叶える、理想のワークスタイル】 昇降範囲は69.5cmから112cmまで、ミリ単位で調整が可能。少し背筋を伸ばしたい時、ゆったり座り直したい時。身体の声に合わせて、その瞬間に一番心地よいポジションを見つけられます。お気に入りの高さを保存できる「メモリー機能（4つ）」により、ワンタッチで理想の姿勢へ。",
+        "【集中力を妨げない静音設計】 深夜の作業や静かなオフィス、Web会議中でも気兼ねなく使用できる50dB以下の動作音を実現しました。独自の駆動制御技術により、昇降時のモーター音を極限まで抑制。周囲の静寂を守りながら、流れるようにスムーズな高さ調節を可能にし、あなたの集中力を途切れさせません。",
+        "【日常に寄り添う、安心のセーフティ機能】 昇降中に障害物を感知すると、自動で動作を停止し戻る安全を確保する「障害物検知機能」を標準装備。デスク下にある家具や、小さなお子様、ペットがいるご家庭でも安心してお使いいただけます。予期せぬ動きから、大切な家族と作業環境をそっと守ります。"
+      ],
+      "maker": "FLEXISPOT",
+      "query": "dg_20261125_standing_desk",
+      "queries_matched": [
+        "dg_20261125_standing_desk"
+      ],
+      "review_count": 190,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "standing_desk",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "parent_asin": "B0HL8HF1V2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:31:16+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FLGZVNLL",
+      "title": "タンスのゲン 昇降デスク 電動 幅100㎝ メモリ機能 静音昇降 USB付き モニターアーム対応 パソコンデスク 45400146(110923)",
+      "url": "https://www.amazon.co.jp/dp/B0FLGZVNLL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FLGZVNLL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71s4RkfwvNL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【サイズ】外寸：幅100x奥行60x高さ72~118cm",
+        "【重量】 約22kg【耐荷重】天板：約80kg / ドリンクホルダー：約1kg / フック：約5kg",
+        "【素材】天板：低圧メラミン化粧繊維版 / スチール（粉体塗装） 【昇降スピード】23mm/s",
+        "【梱包サイズ】107x36x14cm(梱包重量：約23kg) 【生産国】中国",
+        "【備考】【組立品（大人2人で約1時間）】 ※天板は1枚板ではなく、分割仕様となっております。継ぎ目が生じますが、強度や安定性には問題ございません。 ※長時間ボタンを押すと軽微な揺れや操作盤の傾きを感知し、エラーが発生する可能性がございます。調整の際は、ボタンの押下時間を１～２秒程度にしていただくことをおすすめします。"
+      ],
+      "maker": "タンスのゲン",
+      "query": "dg_20261125_standing_desk",
+      "queries_matched": [
+        "dg_20261125_standing_desk"
+      ],
+      "review_count": 58,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "standing_desk",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "parent_asin": "B0FLJSLLX1",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:31:22+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:standing_desk"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-25",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:standing_desk",
+    "theme": "立つ時間を取り入れる。電動昇降デスク",
+    "exclude_used_since": "2026-10-26",
+    "current_stock_verified": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T12:31:22+09:00"
+}

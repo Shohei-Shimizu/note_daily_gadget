@@ -1,0 +1,314 @@
+{
+  "date": "2026-11-25",
+  "topic_id": "daily_gadget_20261125_68d577dc",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 10,
+  "parent_groups": {
+    "B0BDTV4KZD": [
+      "B0GYYSQB2F"
+    ],
+    "B0GWMCG5G8": [
+      "B0FR9SY5MW"
+    ],
+    "B0DBLFJ1G8": [
+      "B0DBLJLK75"
+    ],
+    "B0F7RW4TC2": [
+      "B0F9X3FDYY"
+    ],
+    "B0C9CBS492": [
+      "B0F3Y4W4VP"
+    ],
+    "B0D6QNGJJK": [
+      "B0GGZB9PGB"
+    ],
+    "B0GX5GK3XF": [
+      "B092VX5RK7"
+    ],
+    "B0GX53PYFF": [
+      "B08F7MQL3S"
+    ],
+    "B0GYRYZYS9": [
+      "B08QCP1WC3"
+    ],
+    "B0FLJSLLX1": [
+      "B0FLGZVNLL"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B08F7MQL3S",
+      "title": "FLEXISPOT スタンディングデスク 電動式昇降デスク 高さ調節 メーカー5年保証 人間工学 パソコンデスク ブラック ゲーミングデスク E7B",
+      "maker": "FLEXISPOT",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GX53PYFF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-26",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08QCP1WC3",
+      "title": "FLEXISPOT スタンディングデスクEF1 (幅120×奥行60,メモリー機能付き) 電動式 昇降デスク 高さ調節デスク 人間工学 メモリー機能付き オフィスワークテーブル パソコンデスク ゲーミングデスク 学習机 勉強机(フレーム(黒)+天板(ブラック),EF1セット,120x60cm)",
+      "maker": "FLEXISPOT",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0GYRYZYS9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-26",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B092VX5RK7",
+      "title": "FLEXISPOT スタンディングデスク メーカー5年保証 電動式昇降デスク 高さ調節 パソコンデスク E7セット (フレーム(黒)+天板(マホガニー), 140×70cm)",
+      "maker": "FLEXISPOT",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GX5GK3XF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-26",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DBLJLK75",
+      "title": "Claiks 昇降デスク 大きめ 電動 パソコンデスク 昇降式 スタンディングデスク 在宅ワーク オフィスデスク 高さ調節 メモリ機能 幅160cm*奥行き80cm 高さ72~118cm ホワイトフレーム/ホワイト天板",
+      "maker": "Claiks",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Claiks",
+      "historical_tier": 1,
+      "parent_asin": "B0DBLFJ1G8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-28",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-28",
+          "title": "座りすぎを防止。電動の「スタンディングデスク」 6 選",
+          "asin": "B0DBLJLK75"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-26",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DGQ51DMN",
+      "title": "ErGear 電動昇降式デスク ロータイプ 48-72cm高さ調節 コンセント&USBポート付き 幅120cm ローデスク 4段階高さメモリー | 座椅子机 静音 収納フック付き 低い pc パソコンデスク テーブル 電動机 ゲーミングデスク 在宅ワーク【幅120 x 奥行き60 x 高さ48-72cm】（ブラック）",
+      "maker": "ErGear",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0DMLT1PQX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-26",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F3Y4W4VP",
+      "title": "YIHAYO 昇降デスク 高さ70-115cm 幅120cm 奥行き60cm 電動 スタンディングデスク 昇降式デスク 高さメモリー機能 上下自動昇降 静音 収納フック付き 組み立て簡単 パソコンデスク ブラックフレーム/ブラック天板",
+      "maker": "YIHAYO",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "YIHAYO",
+      "historical_tier": 1,
+      "parent_asin": "B0C9CBS492",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-28",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-28",
+          "title": "座りすぎを防止。電動の「スタンディングデスク」 6 選",
+          "asin": "B0F3Y4W4VP"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-26",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F9X3FDYY",
+      "title": "HUANUO(ファーノー) 電動 昇降式デスク 幅80cm スタンディングデスク 4メモリ高さ調節 上下自動昇降 小さめ 静音 収納フック付き",
+      "maker": "HUANUO",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "HUANUO",
+      "historical_tier": 1,
+      "parent_asin": "B0F7RW4TC2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-28",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-28",
+          "title": "座りすぎを防止。電動の「スタンディングデスク」 6 選",
+          "asin": "B0F9X3FDYY"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-26",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FLGZVNLL",
+      "title": "タンスのゲン 昇降デスク 電動 幅100㎝ メモリ機能 静音昇降 USB付き モニターアーム対応 パソコンデスク 45400146(110923)",
+      "maker": "タンスのゲン",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FLJSLLX1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-26",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FR9SY5MW",
+      "title": "FEZIBO 電動 昇降式デスク スタンディングデスク 幅120cm 奥行60cm 高さ72-118cm 上下昇降デスク 高さメモリー機能 スタンドデスク 静音 pc オフィスデスク テレワーク ホワイトフレーム/ホワイト天板",
+      "maker": "FEZIBO",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "FEZIBO",
+      "historical_tier": 1,
+      "parent_asin": "B0GWMCG5G8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-28",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-28",
+          "title": "座りすぎを防止。電動の「スタンディングデスク」 6 選",
+          "asin": "B0FR9SY5MW"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-26",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GGZB9PGB",
+      "title": "STARY L字型 電動昇降デスク スタンディング対応 幅140cm 静音モーター 高さ72～120cm メモリー機能付き 耐荷重80kg パソコンデスク オフィスデスク 作業机 テレワーク【幅140 x 奥行き70 x 高さ72-122cm】ナチュラルオーク(天板) /ホワイト(足)",
+      "maker": "STARY",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "STARY",
+      "historical_tier": 1,
+      "parent_asin": "B0D6QNGJJK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-28",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-28",
+          "title": "座りすぎを防止。電動の「スタンディングデスク」 6 選",
+          "asin": "B0GGZB9PGB"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-26",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GYYSQB2F",
+      "title": "ErGear 電動 オフィスワークテーブル 昇降式デスク スタンディングデスク 幅160cm 耐荷重80kg 4段階高さメモリー機能 上下自動昇降",
+      "maker": "ErGear",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ErGear",
+      "historical_tier": 1,
+      "parent_asin": "B0BDTV4KZD",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-28",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-28",
+          "title": "座りすぎを防止。電動の「スタンディングデスク」 6 選",
+          "asin": "B0GYYSQB2F"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-26",
+      "scope_pending": [
+        "高さ範囲/天板の有無/完成サイズ/組立方法は公式照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B0DGQ51DMN",
+      "title": "ErGear 電動昇降式デスク ロータイプ 48-72cm高さ調節 コンセント&USBポート付き 幅120cm ローデスク 4段階高さメモリー | 座椅子机 静音 収納フック付き 低い pc パソコンデスク テーブル 電動机 ゲーミングデスク 在宅ワーク【幅120 x 奥行き60 x 高さ48-72cm】（ブラック）",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    }
+  ],
+  "historical_tier_distribution": {
+    "1": 8,
+    "2": 1,
+    "3": 1
+  },
+  "maker_count_upper_bound_before_parent": 9,
+  "variant_policy": "同親の色/サイズ候補を残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "親違いの同モデルも公式照合が必要、親群数を商品数とみなさない"
+  ]
+}
