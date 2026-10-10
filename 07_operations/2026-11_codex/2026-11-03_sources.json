@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-03",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B01HE6L6BY",
+      "official_urls": [
+        "https://direct.sanwa.co.jp/ItemPage/200-BAGIN005GY"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B01HE6L6BY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-03_gadget_pouch_candidates.json",
+        "path": "candidates[asin=B01HE6L6BY].features",
+        "content_observed_at": null
+      },
+      "check": "型番一致。寸法は外寸、85g・ポケット構造を照合。"
+    },
+    {
+      "order": 2,
+      "asin": "B07XFVCW1S",
+      "official_urls": [
+        "https://www.elecom.co.jp/products/BMA-F01XGY.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B07XFVCW1S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-03_gadget_pouch_candidates.json",
+        "path": "candidates[asin=B07XFVCW1S].features",
+        "content_observed_at": null
+      },
+      "check": "型番一致。220×60×120mm・105g・起毛内生地・ポケット4+1を照合。"
+    },
+    {
+      "order": 3,
+      "asin": "B0CY57DPW5",
+      "official_urls": [
+        "https://www.tomtoc.com/es/products/light-t12-electronic-accessory-pouch-m"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0CY57DPW5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-03_gadget_pouch_candidates.json",
+        "path": "candidates[asin=B0CY57DPW5].features",
+        "content_observed_at": "2026-09-11T00:33:26+00:00"
+      },
+      "check": "公式Light-T12 Mの構造とFeaturesの外寸が一致。ASIN対応の確定はないためシリーズ型番・180g・1.8Lは転用しない。"
+    },
+    {
+      "order": 4,
+      "asin": "B0843QXWWZ",
+      "official_urls": [
+        "https://direct.sanwa.co.jp/ItemPage/200-BAGIN014BK?refdisp_no=001004063"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0843QXWWZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-03_gadget_pouch_candidates.json",
+        "path": "candidates[asin=B0843QXWWZ].features",
+        "content_observed_at": null
+      },
+      "check": "S型番一致。170×125×52mm・133g・可動仕切りを照合。"
+    },
+    {
+      "order": 5,
+      "asin": "B08DCYD9LD",
+      "official_urls": [
+        "https://www.elecom.co.jp/products/BMA-GP14BK.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B08DCYD9LD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-03_gadget_pouch_candidates.json",
+        "path": "candidates[asin=B08DCYD9LD].features",
+        "content_observed_at": null
+      },
+      "check": "型番一致。240×90×130mm・185g・自立構造とポケットを照合。"
+    },
+    {
+      "order": 6,
+      "asin": "B0H2F6R341",
+      "official_urls": [],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0H2F6R341?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-03_gadget_pouch_candidates.json",
+        "path": "candidates[asin=B0H2F6R341].features",
+        "content_observed_at": null
+      },
+      "check": "独立公式の同一ASINを同定できず当該Features限定。WiFi誤抽出を削除。グレーの寸法は使わない。"
+    },
+    {
+      "order": 7,
+      "asin": "B0D8TJJGNJ",
+      "official_urls": [
+        "https://www.ankerjapan.com/products/a70a1",
+        "https://corp.ankerjapan.com/posts/492"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D8TJJGNJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-03_gadget_pouch_candidates.json",
+        "path": "candidates[asin=B0D8TJJGNJ].features",
+        "content_observed_at": "2026-09-11T00:33:26+00:00"
+      },
+      "check": "公式Smart PouchとFeatures構造一致。23×16×5cm・165gを補完。"
+    },
+    {
+      "order": 8,
+      "asin": "B07Q9K2QHV",
+      "official_urls": [
+        "https://item.rakuten.co.jp/ugreen-gear/50903/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B07Q9K2QHV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-03_gadget_pouch_candidates.json",
+        "path": "candidates[asin=B07Q9K2QHV].features",
+        "content_observed_at": null
+      },
+      "check": "UGREEN公式楽天50903のグレー・203×129×72mmとFeaturesが一致。防水との商品名はあるが水没耐性を示す根拠はなく記事では断言しない。"
+    },
+    {
+      "order": 9,
+      "asin": "B0BMTRNQ43",
+      "official_urls": [
+        "https://de.tomtoc.com/products/accordion-a01-accessory-pouch"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0BMTRNQ43?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-03_gadget_pouch_candidates.json",
+        "path": "candidates[asin=B0BMTRNQ43].features",
+        "content_observed_at": null
+      },
+      "check": "公式Navigator-T13の外寸26×15×10cm・分類構造をFeaturesと照合。重量は転用しない。"
+    },
+    {
+      "order": 10,
+      "asin": "B08L35V3R5",
+      "official_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000164.000033523.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B08L35V3R5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-03_gadget_pouch_candidates.json",
+        "path": "candidates[asin=B08L35V3R5].features",
+        "content_observed_at": null
+      },
+      "check": "メーカー旧リリースとFeaturesで素材一致。M寸法の3通り不一致につき寸法省略。プラス版は別製品として除外。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n09d55fbb8dc4",
+      "copied_from_monthly_metadata": true,
+      "public_page_title_and_date_confirmed_by_web": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/na82122e0c47a",
+      "copied_from_monthly_metadata": true,
+      "public_page_title_and_date_confirmed_by_web": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n31e80512500d",
+      "copied_from_monthly_metadata": true,
+      "public_page_title_and_date_confirmed_by_web": true
+    }
+  ],
+  "jev_used": false,
+  "unresolved_omitted_specs": [
+    "aso M寸法の資料矛盾",
+    "tomtoc公式シリーズと当該ASIN対応は未確定。重量・容量・正式シリーズ名不採用",
+    "UGREENブルーM同一ASINの独立メーカー資料未確認。Features限定"
+  ],
+  "removed_bad_auto_extractions": [
+    "UGREEN WiFiは収納例でありポーチ機能ではない"
+  ]
+}
