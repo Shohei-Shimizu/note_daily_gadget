@@ -1,0 +1,411 @@
+{
+  "date": "2026-11-07",
+  "topic_id": "daily_gadget_20261107_e7642028",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 11,
+  "parent_groups": {
+    "B0CMZQJPQB": [
+      "B09MHPFV4Q"
+    ],
+    "B0D21FZ5KN": [
+      "B0D21FZ5KN"
+    ],
+    "B0CW5MTC49": [
+      "B0CVZW78XW"
+    ],
+    "B098NF6K7G": [
+      "B098NF6K7G"
+    ],
+    "B0F2FVSCZK": [
+      "B0C2CFW1QV"
+    ],
+    "B0H34L5TYG": [
+      "B0C3B6ZR1V"
+    ],
+    "B0CCY8RBJD": [
+      "B0CCY8RBJD"
+    ],
+    "B0CZ6XY78Y": [
+      "B0CZ6XY78Y"
+    ],
+    "B0F37Z6L49": [
+      "B0DDTH3HX8"
+    ],
+    "B0GLFKLXMF": [
+      "B0DMF4GLR8"
+    ],
+    "B0G3T1QKWL": [
+      "B0G3T1QKWL"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B07QNJ2YQD",
+      "title": "ロジクール Webカメラ C922n フルHD 1080P ストリーミング 撮影用 三脚 スタンド 付き オートフォーカス ステレオ マイク ウェブカメラ ウェブカム PC Mac ノートパソコン Zoom Skype 国内正規品 2年間メーカー保証",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Logicool(ロジクール)",
+      "historical_tier": 1,
+      "parent_asin": "B0GK6YRB58",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B07QQR6G5N"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": "30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07QQR6G5N",
+      "title": "【Amazon.co.jp限定】 ロジクール Webカメラ C920n フルHD 1080P ストリーミング オートフォーカス ステレオ マイク ブラック ウェブカメラ ウェブカム PC Mac ノートパソコン Zoom Skype 国内正規品 [Amazon.co.jp 限定壁紙ダウンロード付き]",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Logicool",
+      "historical_tier": 1,
+      "parent_asin": "B0GK6YRB58",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B07QQR6G5N"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": "30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B098NF6K7G",
+      "title": "Dell デジタル Webカメラ WB7022 4K 800万画素 HDR 3D/2Dノイズリダクション AIオートフレーミング 3年保証",
+      "maker": "Dell",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Dell",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-06-18",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-18",
+          "title": "画質で差をつける。4K 対応の「ハイエンド Web カメラ」 6 選",
+          "asin": "B098NF6K7G"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09MHPFV4Q",
+      "title": "Anker PowerConf C200 / 2K コンパクトウェブカメラ/ノイズリダクション/オートゲインコントロール/オートフォーカス/画角調整/プライバシーカバー",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0CMZQJPQB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0C2CFW1QV",
+      "title": "Insta360 Link Webカメラ 公式ステッカー集付き 4K PTZウェブカメラ 1/2インチセンサー AI追跡 3軸ジンバル ジェスチャー制御 HDR 位相差オートフォーカス 自動露出技術 自動ズーム プライバシー保護機能 ノイズキャンセリングマイク 多彩なモード 小型 ウェブカム 1080P/60fps対応 簡単操作 ビデオ会議 オンライン授業 ライブ配信",
+      "maker": "Insta360",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Insta360",
+      "historical_tier": 2,
+      "parent_asin": "B0F2FVSCZK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-16",
+          "title": "ビデオ会議を鮮明に。顔を自動追尾する「AI カメラ」 6 選",
+          "asin": "B0C2CFW1QV"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0C3B6ZR1V",
+      "title": "OBSBOT TINY 2 webカメラ AI自動追跡 ウェブカメラ HDR 4K 5000万画素 全画素AF ジェスチャー 音声制御 ノイキャンマイク 会議 ライブ配信 ビデオ通話 PC Mac Windows",
+      "maker": "OBSBOT",
+      "maker_source": "商品名OBSBOT本体。Remo/Remo TechはNature Remoと混同しない",
+      "maker_live_verified": false,
+      "db_brand": "Remo",
+      "historical_tier": 1,
+      "parent_asin": "B0H34L5TYG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-16",
+          "title": "ビデオ会議を鮮明に。顔を自動追尾する「AI カメラ」 6 選",
+          "asin": "B0C3B6ZR1V"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CCY8RBJD",
+      "title": "Anker AnkerWork C310 ウェブカメラ、4Kウェブカメラ、1200万画素、AIオートフォーカス、AIフレーミング、AIノイズキャンセリングマイク、内蔵プライバシーカバー、調節可能なFOV、1080p@60FPS HDR、ビデオ通話やライブストリーム用",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-06-18",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-18",
+          "title": "画質で差をつける。4K 対応の「ハイエンド Web カメラ」 6 選",
+          "asin": "B0CCY8RBJD"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CVZW78XW",
+      "title": "ロジクール ウェブカメラ MX BRIO 700 C1100GR 4K Webカメラ usbカメラ 自動光補正 プライバシーシャッター USB Type-C ノイズ軽減ステレオマイク Sony Starvis センサー搭載 パソコン カメラ マイク PC Windows Mac Chrome C1100 グラファイト 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Logicool",
+      "historical_tier": 3,
+      "parent_asin": "B0CW5MTC49",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-18",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-18",
+          "title": "画質で差をつける。4K 対応の「ハイエンド Web カメラ」 6 選",
+          "asin": "B0CVZW78XW"
+        },
+        {
+          "published_date": "2026-04-04",
+          "title": "【ロジクール徹底比較】MX シリーズ人気ガジェット 10 選",
+          "asin": "B0CVZW78XW"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CZ6XY78Y",
+      "title": "OBSBOT TINY 2 Lite Webカメラ 4K ウェブカメラ AI搭載 自動追跡 4800万画素 HDR 位相差検出AF フィルター加工 ノイズ低減 会議 ライブ配信 ビデオ通話 PC Mac Windows",
+      "maker": "OBSBOT",
+      "maker_source": "商品名OBSBOT本体。Remo/Remo TechはNature Remoと混同しない",
+      "maker_live_verified": false,
+      "db_brand": "OBSBOT",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-06-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-30",
+          "title": "上半期ベストバイ。2026 年「買ってよかったもの」 10 選",
+          "asin": "B0CZ6XY78Y"
+        },
+        {
+          "published_date": "2026-06-18",
+          "title": "画質で差をつける。4K 対応の「ハイエンド Web カメラ」 6 選",
+          "asin": "B0CZ6XY78Y"
+        },
+        {
+          "published_date": "2026-04-30",
+          "title": "4 月のベストバイ。買ってよかった「春のガジェット」 8 選",
+          "asin": "B0CZ6XY78Y"
+        },
+        {
+          "published_date": "2026-04-16",
+          "title": "ビデオ会議を鮮明に。顔を自動追尾する「AI カメラ」 6 選",
+          "asin": "B0CZ6XY78Y"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D21FZ5KN",
+      "title": "【Amazon.co.jp限定】 ロジクール ウェブカメラ C270nd HD 720P 小型 Webカメラ usbカメラ 自動光補正 カメラ ノイズリダクション マイク付 パソコン PC Windows Mac Chrome 国内正規品 ※Amazon.co.jp限定 壁紙ダウンロード付き",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Logicool",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DDTH3HX8",
+      "title": "Insta360 Link 2 Webカメラ 4K ウェブカメラ PTZ 1/2インチセンサー AI追跡 ジンバル搭载 HDR AIノイズキャンセリング マイク付き 配信 ビデオ通話 会議用 Zoom Teams Twitchに対応 PC/Windows/Mac用",
+      "maker": "Insta360",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Insta360",
+      "historical_tier": 1,
+      "parent_asin": "B0F37Z6L49",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-18",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-18",
+          "title": "画質で差をつける。4K 対応の「ハイエンド Web カメラ」 6 選",
+          "asin": "B0DDTH3HX8"
+        },
+        {
+          "published_date": "2026-04-16",
+          "title": "ビデオ会議を鮮明に。顔を自動追尾する「AI カメラ」 6 選",
+          "asin": "B0DDTH3HX8"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DMF4GLR8",
+      "title": "OBSBOT TINY SE Webカメラ 1080P 100FPS 60PFS フルHD ウェブカメラ AI搭載 自動追跡 1/2.8 CMOS HDR 位相差検出AF フィルター加工 ノイズ低減 会議 ライブ配信 ビデオ通話 PC Mac Windows",
+      "maker": "OBSBOT",
+      "maker_source": "商品名OBSBOT本体。Remo/Remo TechはNature Remoと混同しない",
+      "maker_live_verified": false,
+      "db_brand": "Remo Tech",
+      "historical_tier": 1,
+      "parent_asin": "B0GLFKLXMF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-16",
+          "title": "ビデオ会議を鮮明に。顔を自動追尾する「AI カメラ」 6 選",
+          "asin": "B0DMF4GLR8"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FRRCLN9Z",
+      "title": "Netum 公式直営店 ドキュメントスキャナー A3対応 スキャナー 小型 1500万画素 4K解像度 スキャン 192言語OCR搭載 Webカメラ USB 書画カメラ 折りたたみスキャナー Mac/Win両対応 (ブラック)",
+      "maker": "Netum",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FWJS9FLW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0G3T1QKWL",
+      "title": "Insta360 Link 2 Pro Webカメラ 4K ウェブカメラ PTZ 1/1.3インチセンサー、低照度、AIトラッキング、HDR、マイク付き 指向性ノイズキャンセリングマイク、ストリームデッキ、会議用 Zoom Teams Twitchに対応、配信・オンラインミーティングに最適 PC/Windows/Mac用",
+      "maker": "Insta360",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Insta360",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-04-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-16",
+          "title": "ビデオ会議を鮮明に。顔を自動追尾する「AI カメラ」 6 選",
+          "asin": "B0G3T1QKWL"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-08",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B07QNJ2YQD",
+      "title": "ロジクール Webカメラ C922n フルHD 1080P ストリーミング 撮影用 三脚 スタンド 付き オートフォーカス ステレオ マイク ウェブカメラ ウェブカム PC Mac ノートパソコン Zoom Skype 国内正規品 2年間メーカー保証",
+      "reason": "30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B07QQR6G5N",
+      "title": "【Amazon.co.jp限定】 ロジクール Webカメラ C920n フルHD 1080P ストリーミング オートフォーカス ステレオ マイク ブラック ウェブカメラ ウェブカム PC Mac ノートパソコン Zoom Skype 国内正規品 [Amazon.co.jp 限定壁紙ダウンロード付き]",
+      "reason": "30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B0FRRCLN9Z",
+      "title": "Netum 公式直営店 ドキュメントスキャナー A3対応 スキャナー 小型 1500万画素 4K解像度 スキャン 192言語OCR搭載 Webカメラ USB 書画カメラ 折りたたみスキャナー Mac/Win両対応 (ブラック)",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    }
+  ],
+  "variant_policy": "色・サイズの候補を残し親群を提示。機械選抜は最新実測後に主担当が行う",
+  "notes": [
+    "履歴値を最新在庫/採用品として扱わない",
+    "公式メーカー/型番/狭い用途は未確認事項を明記",
+    "Amazon検索/実測/API/ブラウザ/DB書込みなし"
+  ],
+  "maker_normalization_note": "候補段階の手動正規化で別表記の同一メーカーを統一。採用品/掲載順/数は機械選抜で決める"
+}
