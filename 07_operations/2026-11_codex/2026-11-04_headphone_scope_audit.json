@@ -1,0 +1,1323 @@
+{
+  "date": "2026-11-04",
+  "topic_id": "daily_gadget_20261104_a6fa15ce",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 14,
+  "parent_groups": {
+    "B0GCHHKLYK": [
+      "B08HYX5NS9"
+    ],
+    "B0DPT5FL3S": [
+      "B09Z2QYYD1"
+    ],
+    "B0CTT9VLV7": [
+      "B0BVPNJP1C"
+    ],
+    "B0CHM99MR5": [
+      "B0CGLZJMD5",
+      "B0CHB31V44"
+    ],
+    "B0HC9TS3L4": [
+      "B0CQKFTYW5"
+    ],
+    "B0FHPYXJ88": [
+      "B0CWNQP4RG"
+    ],
+    "B0D7W1M5Z1": [
+      "B0D32WJK6L"
+    ],
+    "B0G4R5YRVC": [
+      "B0D4VMVCFX"
+    ],
+    "B0GHQ2M7CJ": [
+      "B0DBR13335"
+    ],
+    "B0FP474BN6": [
+      "B0F77PMC1P"
+    ],
+    "B0HBQ7GHF9": [
+      "B0FL2HYBGJ"
+    ],
+    "B0GMXW4RHB": [
+      "B0GMXW4RHB"
+    ],
+    "B0DBVSQ2DK": [
+      "B0GXYWTMPN"
+    ]
+  },
+  "variant_policy": "候補段階では色サイズ違いを残し親群を提示。採用は主担当の最新実測・機械選抜が決める。異なる型番が同一親なら再監査",
+  "rows": [
+    {
+      "asin": "B00LXPAWG8",
+      "title": "JVCケンウッド JVC HA-RZ510 ヘッドホン 有線 密閉型 ステレオ ブラック 室内用(テレビ・ゲーム向け) 1.2m+延長2.3mコード付き",
+      "maker": "JVCケンウッド",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "JVCケンウッド",
+      "tier_history": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B079PTGNTW",
+      "title": "【Amazon.co.jp限定】 ロジクール ヘッドセット H340r ノイズキャンセリング マイク付き ブラック 国内正規品",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Logicool",
+      "tier_history": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "オーバーイヤーヘッドホン本体を確認できない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B079QCVKW1",
+      "title": "ロジクール ヘッドセット H540r ノイズキャンセリング マイク付き ステレオ USB 接続 マイク 軽量 ヘッドホン ヘッドフォン ブラック windows mac Chrome テレワーク リモートワーク Web会議 国内正規品 2年間無償保証",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Logicool",
+      "tier_history": 2,
+      "parent_asin": "B0GK6VDJXJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "通話用ヘッドセット。音楽用オーバーイヤーANC機の比較から除外",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B08HYX5NS9",
+      "title": "Anker Soundcore Life Q30【第2世代】(Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/NFC・Bluetooth対応/ハイレゾ対応(AUX接続時) / 最大50時間音楽再生 / マイク内蔵/専用アプリ対応】ブラック",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Anker",
+      "tier_history": 1,
+      "parent_asin": "B0GCHHKLYK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B097DBSJ1F",
+      "title": "Logicool G ゲーミングヘッドセット G335 ゲーミング ヘッドセット G335BK 軽量 222g 3.5mm 有線 立体音響 ステレオ 2.1ch フリップミュート マイク付き PS5 PS4 PC Switch Xbox スマホ 対応",
+      "maker": "Logicool",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Logicool",
+      "tier_history": 1,
+      "parent_asin": "B0GS5B1V5Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "オーバーイヤーヘッドホン本体を確認できない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0989G91PY",
+      "title": "オーディオテクニカ ヘッドセット USB 有線 片耳 ノイズキャンセリング マイク付き ヘッドホン 軽量 ソフトイヤーパッド 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 windows mac Chrome web会議 テレワーク ATH-101USB",
+      "maker": "オーディオテクニカ",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "オーディオテクニカ",
+      "tier_history": 2,
+      "parent_asin": "B0BR3YDTQK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "通話用ヘッドセット。音楽用オーバーイヤーANC機の比較から除外",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0989HTQ32",
+      "title": "オーディオテクニカ ヘッドセット USB 有線 ノイズキャンセリング マイク付き ヘッドホン ステレオ 軽量 ソフトイヤーパッド 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 windows mac Chrome web会議 テレワーク ATH-102USB",
+      "maker": "オーディオテクニカ",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "オーディオテクニカ",
+      "tier_history": 1,
+      "parent_asin": "B0BR3YDTQK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "通話用ヘッドセット。音楽用オーバーイヤーANC機の比較から除外",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B09HC1LCX3",
+      "title": "KVIDIO ヘッドホン Bluetooth ワイヤレス - 65h再生 - 折りたたみ マイク付き",
+      "maker": "KVIDIO",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "KVIDIO",
+      "tier_history": 1,
+      "parent_asin": "B0CF2CMZYZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B09HC28X3Y",
+      "title": "KVIDIO ヘッドホン Bluetooth ワイヤレス - 65h再生 - 折りたたみ マイク付き",
+      "maker": "KVIDIO",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "KVIDIO",
+      "tier_history": 1,
+      "parent_asin": "B0CF2CMZYZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B09K74SRXM",
+      "title": "オーディオテクニカ ATH-202USB ヘッドセット USB 有線 ノイズキャンセリング マイク付き インナーイヤー イヤホン 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 web会議 テレワーク windows mac Chrome",
+      "maker": "オーディオテクニカ",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "オーディオテクニカ",
+      "tier_history": 2,
+      "parent_asin": "B0BR3Z9K27",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "オーバーイヤーヘッドホン本体を確認できない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B09Z2QYYD1",
+      "title": "ソニー(SONY) ワイヤレスノイズキャンセリングステレオヘッドホン WH-1000XM5:【VGP殿堂入り】 / ノイキャン性能向上 / Amazon Alexa搭載 / 通話性能向上 / ソフトフィットレザーによる高い遮音性 / ブラック / WH1000XM5 BM",
+      "maker": "SONY",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "SONY",
+      "tier_history": 1,
+      "parent_asin": "B0DPT5FL3S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-06",
+          "title": "帰省の騒音をカット。最強の「ノイキャンヘッドホン」 6 選",
+          "asin": "B09Z2QYYD1"
+        },
+        {
+          "published_date": "2026-06-06",
+          "title": "静寂の中で仕事。最強の「ノイズキャンセリング」 6 選",
+          "asin": "B09Z2QYYD1"
+        },
+        {
+          "published_date": "2026-04-30",
+          "title": "4 月のベストバイ。買ってよかった「春のガジェット」 8 選",
+          "asin": "B09Z2QYYD1"
+        },
+        {
+          "published_date": "2026-04-18",
+          "title": "GW 旅行を快適に。機内で役立つ「ノイキャンヘッドホン」 6 選",
+          "asin": "B09Z2QYYD1"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B6GHW1SX",
+      "title": "Sennheiser ゼンハイザー MOMENTUM 4 Wireless ワイヤレスノイズキャンセリングヘッドホン - クリアな通話を実現するBluetoothヘッドセット、アダプティブノイズキャンセリング搭載、オーバーイヤータイプ、60時間のバッテリー持続時間、専用収納ケース、ブラック",
+      "maker": "ゼンハイザー",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "ゼンハイザー(Sennheiser)",
+      "tier_history": 1,
+      "parent_asin": "B0HCNGWV7V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B0B6GHW1SX"
+        },
+        {
+          "published_date": "2026-08-06",
+          "title": "帰省の騒音をカット。最強の「ノイキャンヘッドホン」 6 選",
+          "asin": "B0B6GHW1SX"
+        },
+        {
+          "published_date": "2026-06-06",
+          "title": "静寂の中で仕事。最強の「ノイズキャンセリング」 6 選",
+          "asin": "B0B6GHW1SX"
+        },
+        {
+          "published_date": "2026-04-18",
+          "title": "GW 旅行を快適に。機内で役立つ「ノイキャンヘッドホン」 6 選",
+          "asin": "B0B6GHW1SX"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": false,
+      "exclusion_reason": "予定日の30日再掲載窓に同ASIN/親の掲載あり: 2026-10-16",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0B7B9NGVH",
+      "title": "ヘッドセットUSB接続 片耳 マイク付きPC用ヘッドセット ノイズキャンセリング 音量調節とミュート機能付きヘッドホン PC Mac対応",
+      "maker": "ヘッドセットUSB接続",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "ヘッドセットUSB接続",
+      "tier_history": 1,
+      "parent_asin": "B0HCTXX8L8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "通話用ヘッドセット。音楽用オーバーイヤーANC機の比較から除外",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0BFGBXR7V",
+      "title": "エレコム 有線ヘッドセット USB マイク付き ネックバンド ミュート機能 ボリューム調整 軽量 【テレワーク リモートワーク Web会議】 ブラック HS-NB03SUBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "ELECOM",
+      "tier_history": 2,
+      "parent_asin": "B0H8GVDWBB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "オーバーイヤーヘッドホン本体を確認できない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0BPLVLQPG",
+      "title": "【ビジネス/オンライン会議最適】【気候フレンドリー認定取得】Boytond YYK-520 ヘッドセット Bluetooth5.3 片耳 ワイヤレス 耳掛け型 物理操作ボタン 2台同時接続 ANC+ENCノイズキャンセリングマイク ハンズフリー通話 ミュート/SIRI 左右耳兼用 メガネ併用 運転/宅配/営業/外出先（ブラック）",
+      "maker": "Boytond",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Boytond",
+      "tier_history": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "オーバーイヤーヘッドホン本体を確認できない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0BVPNJP1C",
+      "title": "ソニー(SONY) ワイヤレスノイズキャンセリングヘッドホン WH-CH720N: ノイズキャンセリング搭載/Bluetooth対応/軽量設計/マイク搭載/外音取り込み搭載/360Reality Audio対応/ブラック WH-CH720N B",
+      "maker": "SONY",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "SONY",
+      "tier_history": 1,
+      "parent_asin": "B0CTT9VLV7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BVVX5FBD",
+      "title": "FIFINE XLR/USB接続 ダイナミックマイク ゲーミング 配信用 単一指向性 ノイズ低減 プラグ＆プレイ PC パソコン PS4 PS5対応 ライブ配信 ゲーム実況 録音用 マイク 音量調節 ミュート機能 RGBライト ヘッドホン端子 USBケーブル付き(Type-Cアタブターあり) XLR機材対応 黒 AmpliGame AM8",
+      "maker": "FIFINE",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "FIFINE",
+      "tier_history": 2,
+      "parent_asin": "B0CFVFV2YP",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-23",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-23",
+          "title": "旅日記を声で書く。高精度な「音声入力マイク」 6 選",
+          "asin": "B0BVVX5FBD"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0C6MXC1DD",
+      "title": "【技適マーク認証済】ワイヤレスマイク Oulou 無線マイク ヘッドセットマイク UHF 50メートル伝送範囲 自動ペア 音量調整 耳掛式 ステージポータブル拡声器 軽量 拡声器に対応 録音機能なし モノラル ブラック",
+      "maker": "Oulou",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Oulou",
+      "tier_history": 3,
+      "parent_asin": "B0HG9TYXL5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "オーバーイヤーヘッドホン本体を確認できない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0CBJF4XLV",
+      "title": "イヤホン 有線イヤホン 3.5mmジャック HIFI音質 音量調整 重低音 ノイズキャンセリング マイク付き 通話可能 ハイレゾ クリア通話 音量調節 ステレオイヤフォン ヘッドホン",
+      "maker": "イヤホン",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": null,
+      "tier_history": 1,
+      "parent_asin": "B0HGRMZ5MN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0CGHX62BF",
+      "title": "オーディオテクニカミミオ MIMIO SOUND CUBE お手元テレビ用スピーカー 有線接続 はっきり音声 モノラル かんたん操作 抗菌仕様 再生プラスチック配合 5.0mロングケーブル USB給電(USB Type-A ) アンプ内蔵 ヘッドホン端子付き 小型 軽量 AT-MSP70TV",
+      "maker": "オーディオテクニカミミオ",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": null,
+      "tier_history": 2,
+      "parent_asin": "B0CK4V6PJ8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0CGHYL5BY",
+      "title": "オーディオテクニカミミオ MIMIO SOUND BOX お手元テレビ用スピーカー 有線接続 はっきり音声 ステレオ かんたん操作 抗菌仕様 再生プラスチック配合 5.0mロングケーブル USB給電(USB Type-A ) アンプ内蔵 ヘッドホン端",
+      "maker": "オーディオテクニカミミオ",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": null,
+      "tier_history": 1,
+      "parent_asin": "B0CK4V6PJ8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0CGLZJMD5",
+      "title": "JBL TOUR ONE M2 ワイヤレス オーバーイヤー ヘッドホン リアルタイム補正 ハイブリッドノイズキャンセリング 40mmドライバー ハイレゾ 折りたたみ (シャンパンゴールド)",
+      "maker": "JBL",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": null,
+      "tier_history": 2,
+      "parent_asin": "B0CHM99MR5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-06",
+          "title": "帰省の騒音をカット。最強の「ノイキャンヘッドホン」 6 選",
+          "asin": "B0CGLZJMD5"
+        },
+        {
+          "published_date": "2026-06-06",
+          "title": "静寂の中で仕事。最強の「ノイズキャンセリング」 6 選",
+          "asin": "B0CGLZJMD5"
+        },
+        {
+          "published_date": "2026-04-18",
+          "title": "GW 旅行を快適に。機内で役立つ「ノイキャンヘッドホン」 6 選",
+          "asin": "B0CHB31V44"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CHB31V44",
+      "title": "JBL TOUR ONE M2 ハイブリッドノイズキャンセリング/Bluetooth対応/マルチポイント/オーバーイヤーヘッドホン/ツワーワンエムツー/ブラック/JBLTOURONEM2BLK",
+      "maker": "JBL",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "JBL（ジェービーエル）",
+      "tier_history": 2,
+      "parent_asin": "B0CHM99MR5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-06",
+          "title": "帰省の騒音をカット。最強の「ノイキャンヘッドホン」 6 選",
+          "asin": "B0CGLZJMD5"
+        },
+        {
+          "published_date": "2026-06-06",
+          "title": "静寂の中で仕事。最強の「ノイズキャンセリング」 6 選",
+          "asin": "B0CGLZJMD5"
+        },
+        {
+          "published_date": "2026-04-18",
+          "title": "GW 旅行を快適に。機内で役立つ「ノイキャンヘッドホン」 6 選",
+          "asin": "B0CHB31V44"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CHFF9NF1",
+      "title": "CALLEZヘッドセットUSB接続 両耳 ミュート機能付きPC用ヘッドセット ノイズキャンセリングマイクと音量調節付きオフィス用ヘッドフォン 軽量 Skype Zoom Web会議 在宅勤務 テレワーク オンライン通話 ビデオチャット適用",
+      "maker": "CALLEZ",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "CALLEZ",
+      "tier_history": 1,
+      "parent_asin": "B0HBQKKGFR",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "通話用ヘッドセット。音楽用オーバーイヤーANC機の比較から除外",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0CQKFTYW5",
+      "title": "ゼンハイザー(Sennheiser) ワイヤレスヘッドホン ACCENTUM Plus Wireless ホワイト高性能ドライバー 50時間再生 ハイブリッドアダプティブノイズキャンセリング 外音取り込み マルチポイント対応 タッチコントロール クリアな通話 【国内正規品】",
+      "maker": "ゼンハイザー",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "ゼンハイザー",
+      "tier_history": 1,
+      "parent_asin": "B0HC9TS3L4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CWNQP4RG",
+      "title": "HAYLOU S30 Pro ワイヤレスヘッドホン ANC 43dB Bluetooth5.4 低遅延 80時間再生",
+      "maker": "HAYLOU",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "HAYLOU",
+      "tier_history": 1,
+      "parent_asin": "B0FHPYXJ88",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CXX8DWDG",
+      "title": "SHANLING UA4 シャンリン 4.4mmバランス ポータブルDAC/AMP ESS ES9069Q搭載 3.5mm / 4.4mm usb dac Tyep-C タイプC 小型 ヘッドホンアンプ オペアンプ ハイレゾ ケーブル着脱式 ボリューム調整機能 ゲーミング PS5 SWITCH UAC1.0対応【国内正規品】【VGP2025R受賞】 (シルバー)",
+      "maker": "SHANLING",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": null,
+      "tier_history": 3,
+      "parent_asin": "B0CXXYYL2C",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-19",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-19",
+          "title": "最高の音質で聴く。ハイレゾ対応「ヘッドホンアンプ」 5 選",
+          "asin": "B0CXX8DWDG"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0D32WJK6L",
+      "title": "Sonos Ace 【VGP2026 金賞】【家電批評 年間BEST BUY 2024】 完全ワイヤレス オーバーイヤーヘッドホン Bluetooth ノイズキャンセリング 空間オーディオ ドルビーアトモス ヘッドトラッキング ロスレスオーディオ再生 最大30時間再生 USB-C 急速充電 ブラック",
+      "maker": "SONOS",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "SONOS",
+      "tier_history": 3,
+      "parent_asin": "B0D7W1M5Z1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-18",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-18",
+          "title": "GW 旅行を快適に。機内で役立つ「ノイキャンヘッドホン」 6 選",
+          "asin": "B0D32WJK6L"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D4VMVCFX",
+      "title": "Anker Soundcore Space One Pro (Bluetooth 5.3 ワイヤレス ヘッドホン)【最大60時間音楽再生 / ウルトラノイズキャンセリング 3.5 / LDAC/ハイレゾ対応 (ワイヤレス/有線) / マルチポイント対応/外音取り込み/マイク内蔵】 ミッドナイトブラック",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Anker",
+      "tier_history": 1,
+      "parent_asin": "B0G4R5YRVC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-06",
+          "title": "帰省の騒音をカット。最強の「ノイキャンヘッドホン」 6 選",
+          "asin": "B0D4VMVCFX"
+        },
+        {
+          "published_date": "2026-06-06",
+          "title": "静寂の中で仕事。最強の「ノイズキャンセリング」 6 選",
+          "asin": "B0D4VMVCFX"
+        },
+        {
+          "published_date": "2026-04-18",
+          "title": "GW 旅行を快適に。機内で役立つ「ノイキャンヘッドホン」 6 選",
+          "asin": "B0D4VMVCFX"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D4YFDG5H",
+      "title": "OneOdio Pro C ワイヤレスヘッドホン 最大110時間連続再生 マルチポイント対応 内蔵マイク ブルー",
+      "maker": "OneOdio",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "OneOdio",
+      "tier_history": 1,
+      "parent_asin": "B0FTYNRGTG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0D93LP3TJ",
+      "title": "「VGP2025受賞」Edifier MR3 スタジオモニタースピーカー 36W Bluetooth 5.4 ルーム補正 ハイレゾ 専用アプリ TRSバランス/RCA/AUX入力 3.5mm/ヘッドホン端子出力 52Hz-40kHz スタジオ/作曲/",
+      "maker": "「VGP2025受賞」Edifier",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": null,
+      "tier_history": 1,
+      "parent_asin": "B0DJCZHGJN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0DBR13335",
+      "title": "Bose QuietComfort Headphones LE 完全 ワイヤレス ヘッドホン ノイズキャンセリング Bluetooth接続 マイク付 最大24時間再生 急速充電 サンドストーン",
+      "maker": "Bose",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Bose",
+      "tier_history": 2,
+      "parent_asin": "B0GHQ2M7CJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DJXZ55CR",
+      "title": "bluetooth ヘッドセット ワイヤレス イヤホン 【2025年新登場 Bluetooth5.3+EDR】 片耳タイプ 耳掛け型 左右耳兼用 最大180待受時間 500mAh充電ケース付き マイク内蔵 ハンズフリー通話 CVC8.0ノイズリダクション",
+      "maker": "ノーブランド",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "ノーブランド",
+      "tier_history": 3,
+      "parent_asin": "B0F9XXTV74",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "オーバーイヤーヘッドホン本体を確認できない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0DLGC2G5C",
+      "title": "【新装発売通話専用G2】 Bluetooth ヘッドセット Earaku(イアラク) 2026版 マイク付き 通話専用 耳を塞がない 日本語音声ガイド ワイヤレス イヤホン ブルートゥース ENCノイズキャンセリング オープンイヤー Bluetooth 5.3 軽量 約28g 両耳 耳掛け式 無線 【ネイビー】",
+      "maker": "Bluetooth",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Bluetooth",
+      "tier_history": 1,
+      "parent_asin": "B0B27V6XLB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "オーバーイヤーヘッドホン本体を確認できない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0DPML49WJ",
+      "title": "【2025新版 iPhone15対応】イヤホン 有線 タイプC 有線ヘッドセットマイク内蔵 有線HiFi 騒音低減 クリア通話 リモコン付き 快適な装着感 type-c 人間工学 通話対応 音量調整 遅延なし 重低音 小型·軽量 防水 usb c i",
+      "maker": "イヤホン",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": null,
+      "tier_history": 1,
+      "parent_asin": "B0HH4M1WLR",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "オーバーイヤーヘッドホン本体を確認できない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0DRD697NV",
+      "title": "【ビジネスに最適！スムーズな通話を実現！】Bluetooth ヘッドセット マイク付き Bluetooth5.4+EDR イヤホンマイク オープンイヤー イヤホン ビジネスイヤホン ENCノイズキャンセリング技術 35g超軽量 究極のフィット感 最大20時間連続再生 耳を塞がない 自動ペアリング クリアな通話体験 ハンズフリー通話/テレワーク/Web会議/zoom (ブラック)",
+      "maker": "Bluetooth",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Bluetooth",
+      "tier_history": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "オーバーイヤーヘッドホン本体を確認できない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0DXDVLV4W",
+      "title": "UGREEN 6個セット マグネット式 ケーブルホルダー 小型 ケーブルクリップ 配線止め 配線整理 貼り付け 強力粘着 USB配線収納 コード・ケーブルオーガナイザー 卓上 デスク 机 壁 車 ナイトテーブル 固定 type-c 充電ケーブル lanケーブル 電源コード キーボードライン マウス イヤホン ヘッドホンコード などに対応 黒",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "UGREEN",
+      "tier_history": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0F77PMC1P",
+      "title": "ソニー(SONY)WH-1000XM6 ブラック:ワイヤレスヘッドホン 世界最高クラスノイズキャンセリング Bluetooth ロングバッテリー 折りたたみ 外音取り込み",
+      "maker": "SONY",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "ソニー（SONY）",
+      "tier_history": 2,
+      "parent_asin": "B0FP474BN6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-06",
+          "title": "帰省の騒音をカット。最強の「ノイキャンヘッドホン」 6 選",
+          "asin": "B0F77PMC1P"
+        },
+        {
+          "published_date": "2026-06-30",
+          "title": "上半期ベストバイ。2026 年「買ってよかったもの」 10 選",
+          "asin": "B0F77PMC1P"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FGJMK7PZ",
+      "title": "【雑音軽減・音楽集中】Earaku Bluetooth ヘッドホン J137 最大60時間再生 有線/無線両用 軽量265g (ブラック)",
+      "maker": "Earaku",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "【雑音軽減・音楽集中】Earaku",
+      "tier_history": 2,
+      "parent_asin": "B0FJXDGPPG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0FJ285HT1",
+      "title": "【Amazon.co.jp限定】 業界初Bluetooth5.4 ヘッドホン bluetooth ワイヤレスヘッドホン ANCノイズキャンセリング 有線 無線 両用 最大35時間再生 マイク内蔵 ハンズフリー通話 マルチポイント対応 快適装着 軽量",
+      "maker": "【Amazon.co.jp限定】",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "【Amazon.co.jp限定】",
+      "tier_history": 1,
+      "parent_asin": "B0HC9L3VMJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "実在メーカー名をローカル資料で確認できない。Amazon限定等の販促文字列をメーカーにしない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0FL1BH9VM",
+      "title": "【ドイツ レッド•ドット賞受賞】耳栓 みみせん 完全遮音【認定聴覚保護具】DJcong(ディージェーコング) ノイズキャンセリング イヤホン アイマスク 睡眠用と併用 いびき防止グッズ イヤーピース ホワイトノイズ 飛行機 快適グッズ ノイズ キャンセリングヘッドホン 日用品",
+      "maker": "DJcong",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "DJcong",
+      "tier_history": 1,
+      "parent_asin": "B0HHSP537S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0FL2HYBGJ",
+      "title": "Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 ブラック",
+      "maker": "Bose",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Bose",
+      "tier_history": 1,
+      "parent_asin": "B0HBQ7GHF9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-06",
+          "title": "帰省の騒音をカット。最強の「ノイキャンヘッドホン」 6 選",
+          "asin": "B0FL2HYBGJ"
+        },
+        {
+          "published_date": "2026-06-06",
+          "title": "静寂の中で仕事。最強の「ノイズキャンセリング」 6 選",
+          "asin": "B0FL2HYBGJ"
+        },
+        {
+          "published_date": "2026-04-18",
+          "title": "GW 旅行を快適に。機内で役立つ「ノイキャンヘッドホン」 6 選",
+          "asin": "B0FL2HYBGJ"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FQFQDN6K",
+      "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース",
+      "maker": "Apple",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Apple",
+      "tier_history": 1,
+      "parent_asin": "B0FTZ8XV4Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0FX3S9NN8",
+      "title": "LC-dolida アイマスク 睡眠マスク 睡眠ヘッドホン",
+      "maker": "LC-dolida",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "LC-dolida",
+      "tier_history": 1,
+      "parent_asin": "B0G4GJ1GTS",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0G1C1Q8M3",
+      "title": "BERIBES ヘッドホン bluetooth 65 時間再生 6つのEQモード ワイヤレスヘッドフォン Bluetooth 6.0 内蔵マイク付き",
+      "maker": "BERIBES",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "BERIBES",
+      "tier_history": 1,
+      "parent_asin": "B09KTY175N",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0G1XMK96H",
+      "title": "LC-dolida スリープヘッドホン Bluetooth ワイヤレスバンドスリープヘッドホン",
+      "maker": "LC-dolida",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "LC-dolida",
+      "tier_history": 1,
+      "parent_asin": "B0G8JHTYVG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0GGJY5D2D",
+      "title": "MUSICOZY スリープヘッドホン Bluetooth 5.4 ヘッドバンド ワイヤレスイヤホン 音楽スリープイヤホン 睡眠アイマスク HDステレオスピーカー付き ワークアウト ランニング 旅行 ヨガに最適 ギフトに最適 両面ブラック",
+      "maker": "MUSICOZY",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": null,
+      "tier_history": 1,
+      "parent_asin": "B0GPRKLN6S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-19",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-19",
+          "title": "睡眠負債を返済。心地よい入眠を誘う「快眠デバイス」 5 選",
+          "asin": "B0GGJY5D2D"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0GMXW4RHB",
+      "title": "【Amazon.co.jp 限定】【VGP2026金賞】final(ファイナル) UX1000 ハイブリッドノイズキャンセリング ワイヤレスヘッドホン 外音取り込み マルチポイント 最大70時間再生 折りたたみ マット塗装 BLACK",
+      "maker": "final",
+      "maker_source": "商品名のfinal(ファイナル)",
+      "maker_verified_live": false,
+      "db_brand": "【Amazon.co.jp",
+      "tier_history": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GS1ZHN5W",
+      "title": "KVIDIO ヘッドホン Bluetooth ワイヤレス - 65h再生 - 折りたたみ マイク付き",
+      "maker": "KVIDIO",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "KVIDIO",
+      "tier_history": 1,
+      "parent_asin": "B0CF2CMZYZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0GXYWTMPN",
+      "title": "UGREEN HiTune Max5c Bluetooth5.4 オーバーイヤーヘッドホン 最大75時間再生 LDACハイレゾ ノイキャン ブルー",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Ugreen",
+      "tier_history": 1,
+      "parent_asin": "B0DBVSQ2DK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H2TZNQXR",
+      "title": "【Amazon.co.jp限定】 ヘッドホン bluetooth5.4 ワイヤレスヘッドホン アクティブノイズキャンセリング(ANC)搭載 最大50時間再生 TFカード&有線&無線対応 40mmドライバー Hi-Fi音質 密閉型 音漏れ防止 軽量198g 折りたたみ可能 IPX5防水 マイク内蔵 3.5mmケーブル付き",
+      "maker": "【Amazon.co.jp限定】",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "【Amazon.co.jp限定】",
+      "tier_history": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "実在メーカー名をローカル資料で確認できない。Amazon限定等の販促文字列をメーカーにしない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0H8RP48N4",
+      "title": "イヤホンAI翻訳機 骨伝導イヤホン ワイヤレス Bluetooth 6.1 オープンイヤーヘッドホン双方向同時通訳 [並行輸入品]",
+      "maker": "イヤホンAI翻訳機",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": null,
+      "tier_history": 1,
+      "parent_asin": "B0HJGHSH1X",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-05",
+      "30_day_allowed": true,
+      "exclusion_reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる",
+      "selection_status": "excluded_from_scope"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B00LXPAWG8",
+      "title": "JVCケンウッド JVC HA-RZ510 ヘッドホン 有線 密閉型 ステレオ ブラック 室内用(テレビ・ゲーム向け) 1.2m+延長2.3mコード付き",
+      "reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）"
+    },
+    {
+      "asin": "B079PTGNTW",
+      "title": "【Amazon.co.jp限定】 ロジクール ヘッドセット H340r ノイズキャンセリング マイク付き ブラック 国内正規品",
+      "reason": "オーバーイヤーヘッドホン本体を確認できない"
+    },
+    {
+      "asin": "B079QCVKW1",
+      "title": "ロジクール ヘッドセット H540r ノイズキャンセリング マイク付き ステレオ USB 接続 マイク 軽量 ヘッドホン ヘッドフォン ブラック windows mac Chrome テレワーク リモートワーク Web会議 国内正規品 2年間無償保証",
+      "reason": "通話用ヘッドセット。音楽用オーバーイヤーANC機の比較から除外"
+    },
+    {
+      "asin": "B097DBSJ1F",
+      "title": "Logicool G ゲーミングヘッドセット G335 ゲーミング ヘッドセット G335BK 軽量 222g 3.5mm 有線 立体音響 ステレオ 2.1ch フリップミュート マイク付き PS5 PS4 PC Switch Xbox スマホ 対応",
+      "reason": "オーバーイヤーヘッドホン本体を確認できない"
+    },
+    {
+      "asin": "B0989G91PY",
+      "title": "オーディオテクニカ ヘッドセット USB 有線 片耳 ノイズキャンセリング マイク付き ヘッドホン 軽量 ソフトイヤーパッド 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 windows mac Chrome web会議 テレワーク ATH-101USB",
+      "reason": "通話用ヘッドセット。音楽用オーバーイヤーANC機の比較から除外"
+    },
+    {
+      "asin": "B0989HTQ32",
+      "title": "オーディオテクニカ ヘッドセット USB 有線 ノイズキャンセリング マイク付き ヘッドホン ステレオ 軽量 ソフトイヤーパッド 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 windows mac Chrome web会議 テレワーク ATH-102USB",
+      "reason": "通話用ヘッドセット。音楽用オーバーイヤーANC機の比較から除外"
+    },
+    {
+      "asin": "B09HC1LCX3",
+      "title": "KVIDIO ヘッドホン Bluetooth ワイヤレス - 65h再生 - 折りたたみ マイク付き",
+      "reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）"
+    },
+    {
+      "asin": "B09HC28X3Y",
+      "title": "KVIDIO ヘッドホン Bluetooth ワイヤレス - 65h再生 - 折りたたみ マイク付き",
+      "reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）"
+    },
+    {
+      "asin": "B09K74SRXM",
+      "title": "オーディオテクニカ ATH-202USB ヘッドセット USB 有線 ノイズキャンセリング マイク付き インナーイヤー イヤホン 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 web会議 テレワーク windows mac Chrome",
+      "reason": "オーバーイヤーヘッドホン本体を確認できない"
+    },
+    {
+      "asin": "B0B6GHW1SX",
+      "title": "Sennheiser ゼンハイザー MOMENTUM 4 Wireless ワイヤレスノイズキャンセリングヘッドホン - クリアな通話を実現するBluetoothヘッドセット、アダプティブノイズキャンセリング搭載、オーバーイヤータイプ、60時間のバッテリー持続時間、専用収納ケース、ブラック",
+      "reason": "予定日の30日再掲載窓に同ASIN/親の掲載あり: 2026-10-16"
+    },
+    {
+      "asin": "B0B7B9NGVH",
+      "title": "ヘッドセットUSB接続 片耳 マイク付きPC用ヘッドセット ノイズキャンセリング 音量調節とミュート機能付きヘッドホン PC Mac対応",
+      "reason": "通話用ヘッドセット。音楽用オーバーイヤーANC機の比較から除外"
+    },
+    {
+      "asin": "B0BFGBXR7V",
+      "title": "エレコム 有線ヘッドセット USB マイク付き ネックバンド ミュート機能 ボリューム調整 軽量 【テレワーク リモートワーク Web会議】 ブラック HS-NB03SUBK",
+      "reason": "オーバーイヤーヘッドホン本体を確認できない"
+    },
+    {
+      "asin": "B0BPLVLQPG",
+      "title": "【ビジネス/オンライン会議最適】【気候フレンドリー認定取得】Boytond YYK-520 ヘッドセット Bluetooth5.3 片耳 ワイヤレス 耳掛け型 物理操作ボタン 2台同時接続 ANC+ENCノイズキャンセリングマイク ハンズフリー通話 ミュート/SIRI 左右耳兼用 メガネ併用 運転/宅配/営業/外出先（ブラック）",
+      "reason": "オーバーイヤーヘッドホン本体を確認できない"
+    },
+    {
+      "asin": "B0BVVX5FBD",
+      "title": "FIFINE XLR/USB接続 ダイナミックマイク ゲーミング 配信用 単一指向性 ノイズ低減 プラグ＆プレイ PC パソコン PS4 PS5対応 ライブ配信 ゲーム実況 録音用 マイク 音量調節 ミュート機能 RGBライト ヘッドホン端子 USBケーブル付き(Type-Cアタブターあり) XLR機材対応 黒 AmpliGame AM8",
+      "reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）"
+    },
+    {
+      "asin": "B0C6MXC1DD",
+      "title": "【技適マーク認証済】ワイヤレスマイク Oulou 無線マイク ヘッドセットマイク UHF 50メートル伝送範囲 自動ペア 音量調整 耳掛式 ステージポータブル拡声器 軽量 拡声器に対応 録音機能なし モノラル ブラック",
+      "reason": "オーバーイヤーヘッドホン本体を確認できない"
+    },
+    {
+      "asin": "B0CBJF4XLV",
+      "title": "イヤホン 有線イヤホン 3.5mmジャック HIFI音質 音量調整 重低音 ノイズキャンセリング マイク付き 通話可能 ハイレゾ クリア通話 音量調節 ステレオイヤフォン ヘッドホン",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    },
+    {
+      "asin": "B0CGHX62BF",
+      "title": "オーディオテクニカミミオ MIMIO SOUND CUBE お手元テレビ用スピーカー 有線接続 はっきり音声 モノラル かんたん操作 抗菌仕様 再生プラスチック配合 5.0mロングケーブル USB給電(USB Type-A ) アンプ内蔵 ヘッドホン端子付き 小型 軽量 AT-MSP70TV",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    },
+    {
+      "asin": "B0CGHYL5BY",
+      "title": "オーディオテクニカミミオ MIMIO SOUND BOX お手元テレビ用スピーカー 有線接続 はっきり音声 ステレオ かんたん操作 抗菌仕様 再生プラスチック配合 5.0mロングケーブル USB給電(USB Type-A ) アンプ内蔵 ヘッドホン端",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    },
+    {
+      "asin": "B0CHFF9NF1",
+      "title": "CALLEZヘッドセットUSB接続 両耳 ミュート機能付きPC用ヘッドセット ノイズキャンセリングマイクと音量調節付きオフィス用ヘッドフォン 軽量 Skype Zoom Web会議 在宅勤務 テレワーク オンライン通話 ビデオチャット適用",
+      "reason": "通話用ヘッドセット。音楽用オーバーイヤーANC機の比較から除外"
+    },
+    {
+      "asin": "B0CXX8DWDG",
+      "title": "SHANLING UA4 シャンリン 4.4mmバランス ポータブルDAC/AMP ESS ES9069Q搭載 3.5mm / 4.4mm usb dac Tyep-C タイプC 小型 ヘッドホンアンプ オペアンプ ハイレゾ ケーブル着脱式 ボリューム調整機能 ゲーミング PS5 SWITCH UAC1.0対応【国内正規品】【VGP2025R受賞】 (シルバー)",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    },
+    {
+      "asin": "B0D4YFDG5H",
+      "title": "OneOdio Pro C ワイヤレスヘッドホン 最大110時間連続再生 マルチポイント対応 内蔵マイク ブルー",
+      "reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）"
+    },
+    {
+      "asin": "B0D93LP3TJ",
+      "title": "「VGP2025受賞」Edifier MR3 スタジオモニタースピーカー 36W Bluetooth 5.4 ルーム補正 ハイレゾ 専用アプリ TRSバランス/RCA/AUX入力 3.5mm/ヘッドホン端子出力 52Hz-40kHz スタジオ/作曲/",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    },
+    {
+      "asin": "B0DJXZ55CR",
+      "title": "bluetooth ヘッドセット ワイヤレス イヤホン 【2025年新登場 Bluetooth5.3+EDR】 片耳タイプ 耳掛け型 左右耳兼用 最大180待受時間 500mAh充電ケース付き マイク内蔵 ハンズフリー通話 CVC8.0ノイズリダクション",
+      "reason": "オーバーイヤーヘッドホン本体を確認できない"
+    },
+    {
+      "asin": "B0DLGC2G5C",
+      "title": "【新装発売通話専用G2】 Bluetooth ヘッドセット Earaku(イアラク) 2026版 マイク付き 通話専用 耳を塞がない 日本語音声ガイド ワイヤレス イヤホン ブルートゥース ENCノイズキャンセリング オープンイヤー Bluetooth 5.3 軽量 約28g 両耳 耳掛け式 無線 【ネイビー】",
+      "reason": "オーバーイヤーヘッドホン本体を確認できない"
+    },
+    {
+      "asin": "B0DPML49WJ",
+      "title": "【2025新版 iPhone15対応】イヤホン 有線 タイプC 有線ヘッドセットマイク内蔵 有線HiFi 騒音低減 クリア通話 リモコン付き 快適な装着感 type-c 人間工学 通話対応 音量調整 遅延なし 重低音 小型·軽量 防水 usb c i",
+      "reason": "オーバーイヤーヘッドホン本体を確認できない"
+    },
+    {
+      "asin": "B0DRD697NV",
+      "title": "【ビジネスに最適！スムーズな通話を実現！】Bluetooth ヘッドセット マイク付き Bluetooth5.4+EDR イヤホンマイク オープンイヤー イヤホン ビジネスイヤホン ENCノイズキャンセリング技術 35g超軽量 究極のフィット感 最大20時間連続再生 耳を塞がない 自動ペアリング クリアな通話体験 ハンズフリー通話/テレワーク/Web会議/zoom (ブラック)",
+      "reason": "オーバーイヤーヘッドホン本体を確認できない"
+    },
+    {
+      "asin": "B0DXDVLV4W",
+      "title": "UGREEN 6個セット マグネット式 ケーブルホルダー 小型 ケーブルクリップ 配線止め 配線整理 貼り付け 強力粘着 USB配線収納 コード・ケーブルオーガナイザー 卓上 デスク 机 壁 車 ナイトテーブル 固定 type-c 充電ケーブル lanケーブル 電源コード キーボードライン マウス イヤホン ヘッドホンコード などに対応 黒",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    },
+    {
+      "asin": "B0FGJMK7PZ",
+      "title": "【雑音軽減・音楽集中】Earaku Bluetooth ヘッドホン J137 最大60時間再生 有線/無線両用 軽量265g (ブラック)",
+      "reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）"
+    },
+    {
+      "asin": "B0FJ285HT1",
+      "title": "【Amazon.co.jp限定】 業界初Bluetooth5.4 ヘッドホン bluetooth ワイヤレスヘッドホン ANCノイズキャンセリング 有線 無線 両用 最大35時間再生 マイク内蔵 ハンズフリー通話 マルチポイント対応 快適装着 軽量",
+      "reason": "実在メーカー名をローカル資料で確認できない。Amazon限定等の販促文字列をメーカーにしない"
+    },
+    {
+      "asin": "B0FL1BH9VM",
+      "title": "【ドイツ レッド•ドット賞受賞】耳栓 みみせん 完全遮音【認定聴覚保護具】DJcong(ディージェーコング) ノイズキャンセリング イヤホン アイマスク 睡眠用と併用 いびき防止グッズ イヤーピース ホワイトノイズ 飛行機 快適グッズ ノイズ キャンセリングヘッドホン 日用品",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    },
+    {
+      "asin": "B0FQFQDN6K",
+      "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    },
+    {
+      "asin": "B0FX3S9NN8",
+      "title": "LC-dolida アイマスク 睡眠マスク 睡眠ヘッドホン",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    },
+    {
+      "asin": "B0G1C1Q8M3",
+      "title": "BERIBES ヘッドホン bluetooth 65 時間再生 6つのEQモード ワイヤレスヘッドフォン Bluetooth 6.0 内蔵マイク付き",
+      "reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）"
+    },
+    {
+      "asin": "B0G1XMK96H",
+      "title": "LC-dolida スリープヘッドホン Bluetooth ワイヤレスバンドスリープヘッドホン",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    },
+    {
+      "asin": "B0GGJY5D2D",
+      "title": "MUSICOZY スリープヘッドホン Bluetooth 5.4 ヘッドバンド ワイヤレスイヤホン 音楽スリープイヤホン 睡眠アイマスク HDステレオスピーカー付き ワークアウト ランニング 旅行 ヨガに最適 ギフトに最適 両面ブラック",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    },
+    {
+      "asin": "B0GS1ZHN5W",
+      "title": "KVIDIO ヘッドホン Bluetooth ワイヤレス - 65h再生 - 折りたたみ マイク付き",
+      "reason": "アクティブノイズキャンセリングを商品名で確認できない（未確認機を穴埋めに使わない）"
+    },
+    {
+      "asin": "B0H2TZNQXR",
+      "title": "【Amazon.co.jp限定】 ヘッドホン bluetooth5.4 ワイヤレスヘッドホン アクティブノイズキャンセリング(ANC)搭載 最大50時間再生 TFカード&有線&無線対応 40mmドライバー Hi-Fi音質 密閉型 音漏れ防止 軽量198g 折りたたみ可能 IPX5防水 マイク内蔵 3.5mmケーブル付き",
+      "reason": "実在メーカー名をローカル資料で確認できない。Amazon限定等の販促文字列をメーカーにしない"
+    },
+    {
+      "asin": "B0H8RP48N4",
+      "title": "イヤホンAI翻訳機 骨伝導イヤホン ワイヤレス Bluetooth 6.1 オープンイヤーヘッドホン双方向同時通訳 [並行輸入品]",
+      "reason": "インイヤー・スピーカー・睡眠バンド・アクセサリ等で構造が異なる"
+    }
+  ],
+  "note": "全て履歴値。メーカー正規化はローカル根拠であり公式ライブ再確認は未実施。",
+  "manufacturer_gate_note": "名称は販促文字列を排除して正規化。Nature/Nature Remo、SwitchBot表記、サンワダイレクト/サンワサプライは同一メーカーとして扱う。未確認メーカー品は除外。候補であり選抜結果ではない"
+}

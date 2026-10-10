@@ -1,0 +1,563 @@
+{
+  "generated_at": "2026-10-10T01:00:57+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261104_a6fa15ce",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261104_headphone"
+  ],
+  "fetched_count": 14,
+  "dedup_count": 14,
+  "candidates": [
+    {
+      "asin": "B08HYX5NS9",
+      "title": "Anker Soundcore Life Q30【第2世代】(Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/NFC・Bluetooth対応/ハイレゾ対応(AUX接続時) / 最大50時間音楽再生 / マイク内蔵/専用アプリ対応】ブラック",
+      "url": "https://www.amazon.co.jp/dp/B08HYX5NS9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08HYX5NS9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/6196rZicy2L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ウルトラノイズキャンセリング：環境に合わせてモード選択可能なウルトラノイズキャンセリングが音楽への没入感を極限まで高めます。",
+        "専用アプリでカスタマイズ：周囲の環境に応じて3つのノイズキャンセリングモードから選択可能です。交通機関モードは乗り物音を最小限に、屋外モードは車の音や風の音を、屋内モードは会話や足音を低減します。",
+        "ハイレゾ対応の高解像度サウンド：40mmのダイナミックドライバーが、ハイレゾ音源のクリアで繊細なサウンドを実現します。(※ハイレゾ対応はAUXケーブル接続時)",
+        "ハンズフリー通話：電話がかかってきた時も内蔵マイクでハンズフリー通話が可能です。通話応答もヘッドホンのボタン操作によって可能です。(※Bluetooth接続時のみ)",
+        "パッケージ内容：本体、3.5mm AUXケーブル、USB-C &amp; USB-Aケーブル、トラベルケース、クイックスタートガイド、安全マニュアル、技適マーク認証済み商品"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 9095,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-17",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0GCHHKLYK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:17:07+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GXYWTMPN",
+      "title": "UGREEN HiTune Max5c Bluetooth5.4 オーバーイヤーヘッドホン 最大75時間再生 LDACハイレゾ ノイキャン ブルー",
+      "url": "https://www.amazon.co.jp/dp/B0GXYWTMPN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GXYWTMPN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61X5KW7Zs5L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【40mmライバー搭載・重低音が暴れだす】ヘッドホンに新たに搭載された40mmライバーが史上最高の重低音体感に誘います。ライブ会場のような臨場感や身体に響きわたるような迫力に加え、クリアなボーカルや高音までバランス良く楽しめます。",
+        "【LDAC対応でワイヤレスでもハイレゾ音質】UGREEN ワイヤレスヘッドホンはハイレゾオーディオ＆ハイレゾワイヤレス認証を取得して、LDACのコーデックで最快転送速度990kbpsでBluetooth再生する際、96kHz/24bitまで拡張！",
+        "【最高のノイズキャンセリング性能・周りのノイズから解放】⾃宅や通勤通学など⽇常⽣活のあらゆるシーンで不要なノイズを抑え、今いる環境を変えたいときや⼼を落ち着かせたいときなどに、「ノイズキャンセリング」モードに切り替えます。周りの喧騒から離れ、静かな空間の中で⾳楽/動画鑑賞に没⼊したり、作業に集中したりするための時間を⽣み出すことができます。",
+        "【耳を優しく包み込むイヤパッド・長時間でも疲れにくい】快適性を追求してデザインや内部構造も見直しました。⽿を包み込むようにフィットする、厚めで⽿触りの良いイヤパッドを採⽤して⻑時間でも安⼼して使うことができる、優しい装着感を実現。質量僅か264g軽量デザインにより、着けていることを忘れるような軽さ快適な装着性を楽しめます。",
+        "【一度の充電でたっぷり使えるロングバッテリーライフ】600mAh大容量バッテリー内蔵して、1⽇5時間連続でヘッドホンを使⽤した場合、約半月間は充電する必要がありません。ノイズキャンセルOFF時で最⼤約75時間、ノイズキャンセルON時でも最⼤約45時間の再⽣が可能。",
+        "【AI技術による騒音下でも正確かつクリアな通話品質を実現】AI技術搭載で周囲の環境ノイズを抑え、騒がしい場所でもあなたの声をクリアに抽出します。又はマイクを最適に制御し、高度な音声信号処理を行う高精度ボイスピックアップテクノロジーにより、仕事でのオンライン会議や友⼈との通話などにクリアな⾳声でコミュニケーションが取れます。マイクに風ノイズ低減構造のおかげで、風が強い中でもクリアな音楽と通話が楽しめます",
+        "【専用アプリ対応・さまざまな機能をアプリ上でカスタマイズ可能】ノイズキャンセリングモードの切り替えや外音取り込みレベル、音質設定などヘッドホンの設定を一括で調整、管理できる専用スマートフォンアプリに対応。USB Cオーディオケーブルも付属して、電池残量が少ないときや有線接続での⾳楽・動画鑑賞に切り替えたい場合に便利です。",
+        "【2台の機器へ同時に接続、マルチポイント対応】毎⽇使うスマートフォンと、仕事で使うPC・タブレットなどから2台の機器と同時接続し、それぞれで通話も音楽も受信できるマルチポイント接続に対応。2台の機器でヘッドホンを使う場面で接続の切り替えがいらず、快適に使用できます。スマートフォンやタブレットでゲームプレイや動画視聴の際に、⾳と映像の遅延を気にせずに、好きなコンテンツに没頭できます。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 3130,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0DBVSQ2DK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:17:15+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09Z2QYYD1",
+      "title": "ソニー(SONY) ワイヤレスノイズキャンセリングステレオヘッドホン WH-1000XM5:【VGP殿堂入り】 / ノイキャン性能向上 / Amazon Alexa搭載 / 通話性能向上 / ソフトフィットレザーによる高い遮音性 / ブラック / WH1000XM5 BM",
+      "url": "https://www.amazon.co.jp/dp/B09Z2QYYD1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09Z2QYYD1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51XfJ5EK19L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ソニー史上最高のノイズキャンセリング搭載 WH-1000XM4からノイズ除去率がUP ヘッドバンド1000Xシリーズ史上最大の進化を遂げたノイズキャンセリング性能",
+        "ドライバーユニット進化 新開発ドライバーユニットにより低音域~高音域まで豊かな音を生み出す Walkmanの技術も活用し微細音の再現、広がりや定位感の向上を実現",
+        "オンライン会議・授業に最適な通話性能 AIで進化した高精度ボイスピックアップテクノジーにより、騒音下でも正確かつクリアな通話品質を実現 さらには風ノイズが入ってくることを防ぐ構造も採用",
+        "快適な装着性 洗練されたデザインに加え、高い付け心地で快適に長時間使用できる装着性を実現",
+        "マイク性能進化 左右4つのマイクを用いたビームフォーミング技術とAIによる高性能ハンズフリー通話実現"
+      ],
+      "maker": "SONY",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 2422,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-17",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0DPT5FL3S",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:17:25+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BVPNJP1C",
+      "title": "ソニー(SONY) ワイヤレスノイズキャンセリングヘッドホン WH-CH720N: ノイズキャンセリング搭載/Bluetooth対応/軽量設計/マイク搭載/外音取り込み搭載/360Reality Audio対応/ブラック WH-CH720N B",
+      "url": "https://www.amazon.co.jp/dp/B0BVPNJP1C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BVPNJP1C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51t35+ah6yL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "1000Xシリーズと同様の統合プロセッサーV1を搭載したことでチップの処理能力が向上し、ノイズに対して低遅延でのノイキャン処理が可能になり、より低遅延な処理が必要な高音域でのノイキャン性能が向上しました。",
+        "高精度ボイスピックアップテクノロジーがあなたの声をクリアに届け、テレワークにも最適な高い通話品質を実現しました。",
+        "音楽を聴きながら、周囲の音も聴ける「アンビエントサウンド（外音取り込み）モード」を搭載。信号処理における外音取り込み量を増やすことで、より自然な外音取り込みを実現します。さらに「ボイスフォーカス」をONにすることで、ノイズを抑えつつ人の声を取り込むことも可能です（＊）。＊「Headphones Connect」アプリからON/OFFの切り替えが可能です",
+        "2台の機器と同時接続し、それぞれで通話も音楽も受信できるマルチポイント機能に対応。ノイズキャンセリングON時で最長35時間（＊）、OFF時で最長50時間（＊）音楽再生可能なロングバッテリーライフ、さらには3分充電で約1時間再生可能なクイック充電（＊）にも対応しています。 ＊ コーデックはAAC。DSEE/イコライザーの搭載モデルはOFF設定時、またその他機能は全て初期設定時"
+      ],
+      "maker": "SONY",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 1806,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-15",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0CTT9VLV7",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:17:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CQKFTYW5",
+      "title": "ゼンハイザー(Sennheiser) ワイヤレスヘッドホン ACCENTUM Plus Wireless ホワイト高性能ドライバー 50時間再生 ハイブリッドアダプティブノイズキャンセリング 外音取り込み マルチポイント対応 タッチコントロール クリアな通話 【国内正規品】",
+      "url": "https://www.amazon.co.jp/dp/B0CQKFTYW5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CQKFTYW5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61JCweOF9mL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "急速充電 &amp; 長時間バッテリー:このbluetooth ヘッドホンで最大50時間の再生をお楽しみください。わずか10分の急速充電で5時間の使用が可能で、外出先でのバッテリー切れを心配することなく音楽を体験。",
+        "没入感のあるHDサウンド:精密設計されたSennheiser Bluetoothヘッドホンは、ノイズキャンセリング ヘッドホンとして5バンドイコライザー、カスタマイズ可能なサウンドモード、適応型ハイブリッドアクティブノイズキャンセリングを搭載し、豊かでノイズのないリスニング体験を提供します",
+        "一日中快適:軽量で人間工学に基づく設計のSennheiserノイズキャンセリングヘッドホンは、ゼンハイザー ヘッドホンとしてクッション性のあるイヤーカップと調整可能なヘッドバンドにより、安全で快適な装着感を実現します。",
+        "直感的なタッチコントロール:このオーバーイヤーヘッドホンはbluetooth ヘッドホンとしてタップ、スワイプ、スライドジェスチャーで音楽と通話を簡単に管理でき、手軽な操作を提供します",
+        "ハイブリッドANC &amp; 外音取り込み機能搭載ノイズキャンセリング ヘッドホン:Sennheiser ACCENTUM wirelessは、周囲の騒音をブロックすることも、周囲の音を取り入れることもでき、カスタマイズされたリスニング体験を実現。"
+      ],
+      "maker": "ゼンハイザー",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 1687,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0HC9TS3L4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:17:42+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CWNQP4RG",
+      "title": "HAYLOU S30 Pro ワイヤレスヘッドホン ANC 43dB Bluetooth5.4 低遅延 80時間再生",
+      "url": "https://www.amazon.co.jp/dp/B0CWNQP4RG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CWNQP4RG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61aAoaPV67L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【高音質・没入型オーディオ体験】ワイヤレスヘッドホン40mm口径のドライバー搭載により、ハイレゾ音源を損失なくワイヤレス再生。伸びやかな高音域と深みのある低音域が織りなす、自然でクリアなサウンドで、音楽・映画・ゲーミングすべてに没入！",
+        "【ANCアクティブノイズキャンセリング・密閉型】ヘッドホンは周囲の喧騒や電車の騒音を自動で調節し、最大43dBのノイズキャンセリングで「静寂空間」を実現し、伸縮性のある高遮音イヤーカップを追加し、どこでも集中力を維持。更に、専用アプリ「Haylou Sound」からは、ノイズキャンセリングモードの切替やカスタムイコライザー設定も可能です。",
+        "【Bluetooth 5.4搭載・無線有線両方対応】ヘッドホンは、Bluetooth 5.4を採用し、スマホ、PC、タブレットなど最大2台のデバイスと同時接続可能なマルチポイント対応​​により、通話や音楽再生をスムーズに楽しめます。また、付属の3.5mmオーディオケーブルの有線接続でパソコン、楽器や音響機器などのデバイスと接続して使用できます。バッテリーが切れた場合や、Bluetooth機能を持たないデバイスとも接続が可能です。",
+        "【80時間の連続再生・急速充電】ヘッドフォンの再生時間は80時間を実現（ANCノイズキャンセリングON時でも約50時間）！さらに、わずか10分の急速充電で5時間使用可能​​な超高速充電機能搭載。急な外出時でも短時間で充電が可能です。",
+        "【フィット感抜群・折り畳み】イヤークッションにはやわらかく軽い素材を採用しているので、長時間の使用でも快適な装着感を得られます。コンパクトに折りたたむことができ、手軽に持ち運べます。通勤・通学時の電車やバス内​、図書館などの静かな場所でも、音漏れせず集中して音楽や通話が楽しめます。パッケージ内容：ヘッドホン、USB C充電ケーブル、3.5mmオーディオケーブル、着脱式マイク、日本語取扱説明書。"
+      ],
+      "maker": "HAYLOU",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 1672,
+      "star_rating": 4.7,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0FHPYXJ88",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:17:51+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DBR13335",
+      "title": "Bose QuietComfort Headphones LE 完全 ワイヤレス ヘッドホン ノイズキャンセリング Bluetooth接続 マイク付 最大24時間再生 急速充電 サンドストーン",
+      "url": "https://www.amazon.co.jp/dp/B0DBR13335?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DBR13335?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61C5t1ltM5L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "定評のあるノイズキャンセリングテクノロジーを搭載：高度な計算と物理的な遮音を組み合わせ、周囲のノイズから切り離された静かな環境でサイレントなワイヤレスヘッドホンを実現。ノイズキャンセリング機能により、全身で音楽を楽しめるような瞬間を生み出します。",
+        "プレミアムな装着感：優しく耳にフィットする柔らかいイヤークッションは、長時間のリスニングにもぴったり。しっかりとした装着感と快適な着け心地を提供するヘッドバンドの一部にはスチールを使用し、強度と使用感を最適化しています。バンド下部にはソフトなプロテインレザー加工のフォームを採用し、心地よい装着感のヘッドホンをワイヤレスでおしゃれに楽しむことができます。",
+        "2つのリスニングモード：このワイヤレスBluetoothヘッドホンは、クワイエットモードとアウェアモードを搭載し、完全なノイズキャンセリングから外音も認識できるレベルまで簡単に切り替えられる調整可能なヘッドホンです。",
+        "ハイ・フィデリティオーディオ ＋調節可能なイコライザー：このワイヤレスヘッドホンは、ハイ・フィデリティ（Hi-Fi）オーディオと、調整可能なイコライザーにより、低音の強調や高音の微調整、中音のバランスを取ることができ、思い通りのサウンドを実現できます。",
+        "1日中使えるバッテリー寿命：Bose QuietComfort ワイヤレスヘッドホンは、1回の充電で最大24時間の連続再生が可能です。さらに、15分間の急速充電で最大 2.5時間再生できます。",
+        "インラインマイク付きオーディオケーブル：Bluetooth接続が使えない時やバッテリー残量が減った時でも、このインラインマイク付きオーディオケーブルを使えば、QuietComfort ノイズキャンセリングヘッドホンで高音質な音楽を楽しめます。",
+        "デバイスとの接続をキープ： マルチポイントを採用することで、毎回接続や再接続を繰り返すことなく、ヘッドホンが高音質の状態のまま複数のワイヤレス接続が簡単に切り替え可能です。",
+        "マイク付きBluetoothヘッドホンで高音質な通話を実現：このマイク付きBluetoothヘッドホンは、マイクがあなたの声に集中し、バックグラウンドノイズをフィルタリング。Boseのワイヤレスヘッドホンの中で最もクリアな通話を楽しめます。"
+      ],
+      "maker": "Bose",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 464,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0GHQ2M7CJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:18:00+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CGLZJMD5",
+      "title": "JBL TOUR ONE M2 ワイヤレス オーバーイヤー ヘッドホン リアルタイム補正 ハイブリッドノイズキャンセリング 40mmドライバー ハイレゾ 折りたたみ (シャンパンゴールド)",
+      "url": "https://www.amazon.co.jp/dp/B0CGLZJMD5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CGLZJMD5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51WlZw7ye7L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "JBL PROサウンドを再現するハイレゾ40mmドライバー",
+        "最大約3倍進化したリアルタイム補正機能付ハイブリッドノイズキャンセリング。カスタマイズ可能な外音取込機能",
+        "独自開発の「JBL空間サウンド」、サウンドのパーソナライズ「Personi-Fi 2.0」。専用アプリでオリジナルイコライザーの作成が可能",
+        "マルチポイント接続対応。Bluetooth接続がなくてもノイズキャンセリングが使える「サイレントナウ」。",
+        "Bluetooth 5.3 LE Audio LC3+（対応予定）"
+      ],
+      "maker": "JBL",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 151,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0CHM99MR5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:18:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CHB31V44",
+      "title": "JBL TOUR ONE M2 ハイブリッドノイズキャンセリング/Bluetooth対応/マルチポイント/オーバーイヤーヘッドホン/ツワーワンエムツー/ブラック/JBLTOURONEM2BLK",
+      "url": "https://www.amazon.co.jp/dp/B0CHB31V44?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CHB31V44?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81tGUlJYRZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "正規販売店購入の新品のみメーカー保証1年。 二次販売品（JBL認定店以外での販売商品）、中古品は購入から1年のメーカー保証対象外",
+        "技適マーク認証済み商品。 周波数帯:2402 MHz − 2480 MHz",
+        "自分に合ったサウンド体験を可能にする進化したパーソナライズ機能",
+        "ハイレゾ対応の高性能なサウンドテクノロジーで絶対音質を実現",
+        "上質な静寂を生むノイズキャンセリング機能"
+      ],
+      "maker": "JBL",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 151,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0CHM99MR5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:18:20+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D32WJK6L",
+      "title": "Sonos Ace 【VGP2026 金賞】【家電批評 年間BEST BUY 2024】 完全ワイヤレス オーバーイヤーヘッドホン Bluetooth ノイズキャンセリング 空間オーディオ ドルビーアトモス ヘッドトラッキング ロスレスオーディオ再生 最大30時間再生 USB-C 急速充電 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D32WJK6L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D32WJK6L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/513zhkvTfQL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "完全ワイヤレスのオーバーイヤーヘッドフォンで、ノイズキャンセリングと外音取り込みをワンタッチで切り替え",
+        "Dolby Atmos空間オーディオとヘッドトラッキングを融合、頭の向を変えてもを常に画面の方向から音が聞こえます",
+        "業界最高クラスのアクティブノイズキャンセリング機能が周りの雑音を遮断、サウンドに深く没入できます",
+        "BluetoothまたはUSB-C経由でロスレスオーディオ再生に対応、スタジオ品質のサウンドをそのまま忠実に再現",
+        "ノイズキャンセリング使用でも最長30時間連続再生。USB-C急速充電により3分の充電で約3時間使えます"
+      ],
+      "maker": "SONOS",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 68,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0D7W1M5Z1",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:18:29+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D4VMVCFX",
+      "title": "Anker Soundcore Space One Pro (Bluetooth 5.3 ワイヤレス ヘッドホン)【最大60時間音楽再生 / ウルトラノイズキャンセリング 3.5 / LDAC/ハイレゾ対応 (ワイヤレス/有線) / マルチポイント対応/外音取り込み/マイク内蔵】 ミッドナイトブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D4VMVCFX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D4VMVCFX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51wSBU-8BaL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "製品本体と専用ケースを同時購入いただきました一部の注文におきまして、ケースと本体が別で届く可能性があります。",
+        "ウルトラノイズキャンセリング3.5：周囲の騒音レベルに応じてノイズキャンセリングの強さを自動で調節します。電車内やカフェなど、コンサートホールを独り占めしたかのような、没入感を。",
+        "リッチで歪みの少ない、クリアなサウンド： 三層構造の複合振動板を採用した大型ドライバーが忠実に音を再現します。3Dオーディオで、臨場感のあるサウンドを。ハイレゾ再生、LDACにも対応。",
+        "ずっとつけていたくなる、心地良さ： なめらかな触れ心地の低反発クッションと、細部まで調整可能な独自構造のヘッドバンドで、快適なつけ心地を。",
+        "新世代のコンパクトさ： 独自のFlexiCurve構造で、折りたたみが可能。従来のヘッドホンの約50%のコンパクト設計を実現しました。※折りたたみ機能がないヘッドホンと比較した場合の自社調べ",
+        "パッケージ内容：本体、3.5mm AUXケーブル、トラベルポーチ、USB-C &amp; USB-A ケーブル、クイックスタートガイド、技適マーク認証済み商品（周波数帯：2.40～2.48GHz）"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 562,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0G4R5YRVC",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:18:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F77PMC1P",
+      "title": "ソニー(SONY)WH-1000XM6 ブラック:ワイヤレスヘッドホン 世界最高クラスノイズキャンセリング Bluetooth ロングバッテリー 折りたたみ 外音取り込み",
+      "url": "https://www.amazon.co.jp/dp/B0F77PMC1P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F77PMC1P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41aRyTb8uPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "アーティストの意図した音をありのままに届ける高音質",
+        "世界最高クラスのノイズキャンセリング性能",
+        "360 Upmix for Cinemaで動画視聴に臨場感をプラス",
+        "AIで進化した通話機能によるクリアな通話音声",
+        "持ち運びに便利な折りたたみ機構",
+        "【ポイントアップキャンペーン対象外商品】こちらの商品は、ポイントアップキャンペーンによるポイント付与の対象外です。あらかじめご了承ください。"
+      ],
+      "maker": "SONY",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 351,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0FP474BN6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:18:44+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FL2HYBGJ",
+      "title": "Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0FL2HYBGJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FL2HYBGJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51revx-zToL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "目覚めよ、真のサウンド : 世界にひとつの臨場感、新次元ヘッドホン。ボーズが誇る最高水準のノイズキャンセリング機能と臨場感あふれる空間オーディオ。あらゆるコンテンツや音源を楽しめます。上質な素材を採用したヘッドホン。比類なき快適性と高級感のあるデザインを兼ね備えており、お気に入りの曲やサウンドを存分に堪能できます。",
+        "圧倒的な臨場感。まるで映画館にいる気分 : ボーズイマーシブオーディオは、リスニングの限界を押し広げ、サウンドが目の前で展開されているかのような、没入感を生み出すリスニング体験を実現。まるでコンサート会場でVIP席に座ったかのような気分を味わえます。",
+        "新機能シネマモード : 新しく加わったシネマモードが、お気に入りの動画コンテンツに新しい息吹を吹き込みます。この最新機能は、お好きなデバイスに接続するだけで利用できます。背景音と音響効果を空間に広げてバランスを整え、どこにいても映画館のような視聴体験を楽しめます。",
+        "ノイズが静かに : ボーズが誇る最高水準のヘッドホン向けノイズキャンセリング機能があれば、作業を中断せずに続けられます。飛行機の爆音。オフィスでのおしゃべり。別室のテレビの音。もう気になりません。",
+        "パーソナライズされた、リッチなサウンド : CustomTuneテクノロジーの魔法。耳の形状を自動分析し、その形状に合わせてQC Ultra Headphonesのサウンドパフォーマンスを適応させます。いわば、あなた用に作り出されたサウンドの誕生です。また、USB-C接続時に内蔵マイクを使ったUSB音声で、電話やビデオ会議で高品質な双方向通話を楽しむことができます。"
+      ],
+      "maker": "Bose",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 589,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0HBQ7GHF9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:18:54+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GMXW4RHB",
+      "title": "【Amazon.co.jp 限定】【VGP2026金賞】final(ファイナル) UX1000 ハイブリッドノイズキャンセリング ワイヤレスヘッドホン 外音取り込み マルチポイント 最大70時間再生 折りたたみ マット塗装 BLACK",
+      "url": "https://www.amazon.co.jp/dp/B0GMXW4RHB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GMXW4RHB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51VKzMgvIfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【どんなジャンルの楽曲も楽しめるクリアな音質】 ドライバー（スピーカー部）の音響特性を徹底的に追求したのち、Bluetoothに起因する高音域の気になる部分のみ僅かにイコライザーで補正するという独自の方法を採用。聴き疲れしやすい音質を抑え、重たく響く低音とエッジを効かせた高音が特長。音楽をライブのような臨場感で楽しめるサウンドです。",
+        "【音の心地よさを妨げないハイブリッドノイズキャンセリング搭載】 フィードフォワード方式とフィードバック方式を組み合わせた「ハイブリッドノイズキャンセリング」を搭載しました。音質への影響の少ない独自アルゴリズムを採用し、ご自宅での使用はもちろん、外出先でも音の心地よさを妨げず、静寂な空間で音楽をじっくりと楽しむことができます。 また、ヘッドホンを装着中、歩行時に周りの状況を確認したいときや電車のなかで車内アナウンスを確認したいときなどには「アンビエントモード」に切り替えることで、周囲の音が聞き取りやすくなります。",
+        "【手に馴染み、滑りにくい「マット塗装仕上げ」】 本体表面は加水分解しにくい「マット塗装仕上げ」を施しました。皮脂や指紋が付きにくく、汚れも気になりません。",
+        "【最大70時間の音楽再生が可能】 1回の充電で最大70時間（ANC OFF時）の音楽再生が可能なロングバッテリー仕様。充電を気にせずにご使用いただけます。",
+        "【マルチポイント接続に対応】 最大2台まで同時にBluetooth 接続ができるマルチポイント接続に対応。端末を2台同時に接続して、接続を切り替える操作をすることなく、シームレスにそれぞれを操作することが可能です。例えばPCとスマホをペアリングしておいて、PCで音楽を聴きながらスマホの着信を受けることもできます。",
+        "【折りたたみ式コンパクト収納】 ヘッドバンド部を折りたたんでコンパクトに収納することが可能なため、持ち運びに便利です。"
+      ],
+      "maker": "final",
+      "query": "dg_20261104_headphone",
+      "queries_matched": [
+        "dg_20261104_headphone"
+      ],
+      "review_count": 41,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名のfinal(ファイナル)",
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:19:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:headphone"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "explicit-ASIN export前に同type・active・tier<=3・resolved/no_parentをread-only照合。テーマの狭い構造は商品名で追加監査しattrタグを推測して掛けていない"
+  },
+  "date": "2026-11-04",
+  "planning_status": "historical_candidates_require_refresh",
+  "scope_conditions": {
+    "type_tag": "type:headphone",
+    "title_scope": "over-ear ANC headphone",
+    "exclude_used_since": "2026-10-05",
+    "parent_gate_audited": true
+  },
+  "measurement_checkpointed_at": "2026-10-10T10:19:03+09:00"
+}
