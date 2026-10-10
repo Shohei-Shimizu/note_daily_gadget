@@ -1,0 +1,281 @@
+{
+  "generated_at": "2026-10-10T01:08:10+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261111_9e1adf8e",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261111_scanner"
+  ],
+  "fetched_count": 5,
+  "dedup_count": 5,
+  "candidates": [
+    {
+      "asin": "B0C23XJGCW",
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX1600 (最新/高速毎分40枚/両面読取/ADF/4.3インチタッチパネル/Wi-Fi対応/USB接続/フラグシップ/書類/レシート/名刺/写真) (White)",
+      "url": "https://www.amazon.co.jp/dp/B0C23XJGCW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C23XJGCW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51RZtZ6Np1L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "ScanSnap史上最速の毎分40枚の高速スキャン。パソコンはもちろん、スマートデバイス接続時も安定した高速大量スキャンを実現します。",
+        "簡単操作のタッチパネルを搭載。目的に応じたアイコン（プロファイル）を選んでスキャンするだけの直観操作。アイコンは保存先やファイル形式などユーザーにあわせてカスタマイズできます。そのためチームで使用するときも簡単便利。タッチパネル上でユーザーを簡単に切り替えることができ、自分だけのプロファイルを迷わず選べ快適にお使いいただけます。",
+        "クラウド保存もワンタッチ！Wi-Fi(2.4/5GHz帯)対応でスキャナーがPCやスマートデバイスとワイヤレスでつながるだけでなく、インターネットにも直結。文書管理、名刺管理、経費精算や家計簿などの多彩なクラウドサービスへの保存もタッチパネルからワンタッチ。",
+        "テレワークとオフィス業務のメンバーが混在する中でも、クラウド保存で簡単に共有でき、時間や場所にとらわれないフレキシブルな働き方・さらなる業務効率化を支援します。",
+        "ドキュメント読み取りからデータ整理・活用まで一元管理ができるソフトウェア「ScanSnap Home」に対応。原稿の読み取りから、閲覧、編集管理、検索やアプリケーションへの連携、学習機能によりデータの生成や管理を効果的にアシストしてくれます。"
+      ],
+      "maker": "PFU",
+      "query": "dg_20261111_scanner",
+      "queries_matched": [
+        "dg_20261111_scanner"
+      ],
+      "review_count": 377,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "scanner_doc",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-13T23:50:59+00:00",
+        "content_observed_at": "2026-09-13T23:50:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名PFU/ScanSnap。販売時の富士通/リコー表記差を同じPFUで統合",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "parent_asin": "B0FG26KGT8",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:10:41+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B083VZHDGZ",
+      "title": "ブラザー工業(Brother Industries) ドキュメントスキャナー MDS-940DW (モバイルスタイル/両面スキャン/無線LAN/スマホ接続)",
+      "url": "https://www.amazon.co.jp/dp/B083VZHDGZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B083VZHDGZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41pddm7xCEL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "無線LAN対応・充電池搭載で、PCレスでも使えるモバイルスキャナー",
+        "両面読取対応",
+        "読取速度(A4縦/300dpi/片面・両面)：カラー約4秒/枚、モノクロ約4秒/枚",
+        "インターフェイス：Micro USB 3.0、無線LAN。液晶：LED（PICT）",
+        "サイズ自動検出、傾き補正機能、スキャンtoSDカード、電源：リチウムイオン充電池、USBバスパワー"
+      ],
+      "maker": "brother",
+      "query": "dg_20261111_scanner",
+      "queries_matched": [
+        "dg_20261111_scanner"
+      ],
+      "review_count": 219,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "scanner_doc",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-13T23:50:59+00:00",
+        "content_observed_at": "2026-09-13T23:50:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名brother/ブラザー",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "parent_asin": "B08D3Y2PP4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:10:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01IALGUZY",
+      "title": "エプソン スキャナー DS-310 (シートフィード/A4両面)",
+      "url": "https://www.amazon.co.jp/dp/B01IALGUZY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01IALGUZY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51--yp9umKL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "カードスキャンにも対応。カウンター業務でも活躍",
+        "両面同時スキャンで50面/分を実現",
+        "棚や引き出しにすっきり収納できるコンパクトサイズ。",
+        "使用環境に合わせて様々な接続方法で使える",
+        "オフィスでの大量文書のスキャン業務にも耐える20万スキャンの高耐久性を実現。"
+      ],
+      "maker": "EPSON",
+      "query": "dg_20261111_scanner",
+      "queries_matched": [
+        "dg_20261111_scanner"
+      ],
+      "review_count": 33,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-13T23:50:59+00:00",
+        "content_observed_at": "2026-09-13T23:50:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名EPSON/エプソン統合",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "parent_asin": "B08T2HMDPL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:10:57+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01IALGUYA",
+      "title": "EPSON スキャナー DS-360W (シートフィード/A4両面/Wi-Fi対応 コードレス)",
+      "url": "https://www.amazon.co.jp/dp/B01IALGUYA?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01IALGUYA?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61J-dErJzML._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "バッテリー内臓",
+        "カードスキャンにも対応",
+        "両面同時スキャンで50面/分を実現",
+        "カウンター業務でも活躍"
+      ],
+      "maker": "EPSON",
+      "query": "dg_20261111_scanner",
+      "queries_matched": [
+        "dg_20261111_scanner"
+      ],
+      "review_count": 43,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名EPSON/エプソン統合",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "parent_asin": "B08T2HMDPL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:11:04+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08HYKSYRJ",
+      "title": "エプソン スキャナー DS-531(シートフィード/A4両面)",
+      "url": "https://www.amazon.co.jp/dp/B08HYKSYRJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08HYKSYRJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Fwx1Htt-L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "読取速度;35枚/分 (A4 横、カラー片面、300dpi)",
+        "カードから薄紙まで対応、サイズ違いの原稿も混在スキャン",
+        "原稿保護機能搭載で、原稿破損を防止",
+        "スキャナータイプ:ドキュメント",
+        "コネクタタイプ:USB"
+      ],
+      "maker": "EPSON",
+      "query": "dg_20261111_scanner",
+      "queries_matched": [
+        "dg_20261111_scanner"
+      ],
+      "review_count": 54,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "scanner_doc",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名EPSON/エプソン統合",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T11:11:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09FRYGKLR",
+      "title": "Canon キヤノン ドキュメントスキャナー imageFORMULA R10 PG",
+      "url": "https://www.amazon.co.jp/dp/B09FRYGKLR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09FRYGKLR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31DmQe+ti2L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "プラグ&amp;スキャン(USB接続)",
+        "USBバスパワー駆動",
+        "カードスキャン対応",
+        "コンパクト設計",
+        "スキャナータイプ: ドキュメント",
+        "コネクタタイプ:: USB"
+      ],
+      "maker": "Canon",
+      "query": "dg_20261111_canon_supplement",
+      "queries_matched": [
+        "dg_20261111_canon_supplement"
+      ],
+      "review_count": 33,
+      "star_rating": 3.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "scanner_doc",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "メーカー公式imageFORMULA R10照合",
+      "scope_pending": [],
+      "scope_verified": "Canon公式ADF20枚・両面読み取り。2026-11-11_scanner_replenishment_proposal.json参照",
+      "parent_asin": "B09G6NJBNL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:11:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:scanner"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-11",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:scanner",
+    "theme": "両面の紙資料を取り込む。ドキュメントスキャナー",
+    "exclude_used_since": "2026-10-12",
+    "current_stock_verified": false
+  },
+  "supplement_note": "公式仕様確認で保留解除したCanon R10 1親を補充。手差し両面MDS940DWも対象。最新実測必須。",
+  "measurement_checkpointed_at": "2026-10-10T11:11:18+09:00"
+}

@@ -1,0 +1,807 @@
+{
+  "date": "2026-11-11",
+  "topic_id": "daily_gadget_20261111_9e1adf8e",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 5,
+  "parent_groups": {
+    "B0FG26KGT8": [
+      "B0C23XJGCW"
+    ],
+    "B08D3Y2PP4": [
+      "B083VZHDGZ"
+    ],
+    "B08T2HMDPL": [
+      "B01IALGUZY",
+      "B01IALGUYA"
+    ],
+    "B08HYKSYRJ": [
+      "B08HYKSYRJ"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B00K757KRY",
+      "title": "エプソン スキャナー DS-40 (モバイル/乾電池駆動/Wi-Fi対応)",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": "エプソン",
+      "historical_tier": 3,
+      "parent_asin": "B085XTWWM4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B00N9L6IH6",
+      "title": "エプソン スキャナー GT-X830 (フラットベッド/A4/6400dpi)",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B09PDZYCK1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B00N9L6J02",
+      "title": "エプソン スキャナー GT-X980 (フラットベッド/A4/6400dpi)",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B09PDZYCK1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B00S9AOCHK",
+      "title": "エプソン スキャナー GT-S650 (フラットベッド/A4/4800dpi)",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0BX4JGTJL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B00T2B5L84",
+      "title": "富士通 PFU ドキュメントスキャナー ScanSnap SV600 (A3 非接触モデル 片面読取 オーバーヘッドスキャン /USB 接続 書類 レシート 名刺 写真 アルバム 本 新聞 非破壊タイプ )",
+      "maker": "PFU",
+      "maker_source": "商品名PFU/ScanSnap。販売時の富士通/リコー表記差を同じPFUで統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B01FADCQHG",
+      "title": "NETUM NT-2012 USBバーコードリーダー POSレジ 1D レーザー ハンドヘルドスキャナー",
+      "maker": "NETUM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B01IALGUYA",
+      "title": "EPSON スキャナー DS-360W (シートフィード/A4両面/Wi-Fi対応 コードレス)",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": "エプソン",
+      "historical_tier": 3,
+      "parent_asin": "B08T2HMDPL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-26",
+          "title": "書類をスマホで管理。名刺もデジタル化する「スキャナー」 5 選",
+          "asin": "B01IALGUZY"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B01IALGUZY",
+      "title": "エプソン スキャナー DS-310 (シートフィード/A4両面)",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": "Epson",
+      "historical_tier": 3,
+      "parent_asin": "B08T2HMDPL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-26",
+          "title": "書類をスマホで管理。名刺もデジタル化する「スキャナー」 5 選",
+          "asin": "B01IALGUZY"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07HG9JLKG",
+      "title": "エプソン スキャナー ES-60WB (モバイル/A4/USB対応/Wi-Fi対応/ブラック)",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": "Epson",
+      "historical_tier": 2,
+      "parent_asin": "B08T2G44M4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-07",
+          "title": "書類をデータにして片づける。「ドキュメントスキャナー」 5 選",
+          "asin": "B07HGG2HGM"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-07_書類をデータにして片づける。ドキュメントスキャナー.md",
+          "date": "2026-10-07",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07HGCDQST",
+      "title": "エプソン スキャナー ES-60WW (モバイル/A4/USB対応/Wi-Fi対応/ホワイト)",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B08T2G44M4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-07",
+          "title": "書類をデータにして片づける。「ドキュメントスキャナー」 5 選",
+          "asin": "B07HGG2HGM"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-07_書類をデータにして片づける。ドキュメントスキャナー.md",
+          "date": "2026-10-07",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07HGG2HGM",
+      "title": "エプソン スキャナー ES-50 (モバイル/A4/USB対応/ブラック)",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": "EPSON",
+      "historical_tier": 2,
+      "parent_asin": "B08T2G44M4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-07",
+          "title": "書類をデータにして片づける。「ドキュメントスキャナー」 5 選",
+          "asin": "B07HGG2HGM"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-07_書類をデータにして片づける。ドキュメントスキャナー.md",
+          "date": "2026-10-07",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B083VZHDGZ",
+      "title": "ブラザー工業(Brother Industries) ドキュメントスキャナー MDS-940DW (モバイルスタイル/両面スキャン/無線LAN/スマホ接続)",
+      "maker": "brother",
+      "maker_source": "商品名brother/ブラザー",
+      "maker_live_verified": false,
+      "db_brand": "brother",
+      "historical_tier": 2,
+      "parent_asin": "B08D3Y2PP4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-07",
+          "title": "書類をデータにして片づける。「ドキュメントスキャナー」 5 選",
+          "asin": "B083VZHDGZ"
+        },
+        {
+          "published_date": "2026-03-26",
+          "title": "書類をスマホで管理。名刺もデジタル化する「スキャナー」 5 選",
+          "asin": "B083VZHDGZ"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-07_書類をデータにして片づける。ドキュメントスキャナー.md",
+          "date": "2026-10-07",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08HYKSYRJ",
+      "title": "エプソン スキャナー DS-531(シートフィード/A4両面)",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08V8PXVL1",
+      "title": "iOCHOW スキャナー S1 ドキュメントスキャナー 800万画素 非破壊 USB書画カメラ OCR 最大A3サイズ LEDライト オフィス 教室 Windows OSシステム対応",
+      "maker": "iOCHOW",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0FS68783H",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09FRYGKLR",
+      "title": "Canon キヤノン ドキュメントスキャナー imageFORMULA R10 PG",
+      "maker": "Canon",
+      "maker_source": "商品名Canon/キヤノン",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B09G6NJBNL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-26",
+          "title": "書類をスマホで管理。名刺もデジタル化する「スキャナー」 5 選",
+          "asin": "B09FSC61GM"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09FSC61GM",
+      "title": "Canon キヤノン ドキュメントスキャナー imageFORMULA R10 JPN",
+      "maker": "Canon",
+      "maker_source": "商品名Canon/キヤノン",
+      "maker_live_verified": false,
+      "db_brand": "Canon",
+      "historical_tier": 3,
+      "parent_asin": "B09G6NJBNL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-26",
+          "title": "書類をスマホで管理。名刺もデジタル化する「スキャナー」 5 選",
+          "asin": "B09FSC61GM"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09LD2SXWC",
+      "title": "Plustek モバイルスキャナー S410 Plus - ポータブルシートフィードドキュメントスキャナー - Windows 7/8 / 10/11用 OCRソフトウェア付属ボタンフリースキャン",
+      "maker": "Plustek",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Plustek",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-10-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-07",
+          "title": "書類をデータにして片づける。「ドキュメントスキャナー」 5 選",
+          "asin": "B09LD2SXWC"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-07_書類をデータにして片づける。ドキュメントスキャナー.md",
+          "date": "2026-10-07",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09R96NXWK",
+      "title": "富士通 PFU ドキュメントスキャナー ScanSnap iX100 (最新/A4/片面読取/Wi-Fi対応/USB接続/モバイル/書類/レシート/名刺/写真) (White)",
+      "maker": "PFU",
+      "maker_source": "商品名PFU/ScanSnap。販売時の富士通/リコー表記差を同じPFUで統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0CK7HC79M",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BTNLHBNC",
+      "title": "エプソン ドキュメント フラットベッドスキャナー GT-S660 A4カラー 4800dpi",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0BX4JGTJL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C23RFQNM",
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX100 (最新/A4/片面読取/Wi-Fi対応/USB接続/モバイル/書類/レシート/名刺/写真) (Black)",
+      "maker": "PFU",
+      "maker_source": "商品名PFU/ScanSnap。販売時の富士通/リコー表記差を同じPFUで統合",
+      "maker_live_verified": false,
+      "db_brand": "RICOH PFU",
+      "historical_tier": 2,
+      "parent_asin": "B0C7QSMT2G",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-07",
+          "title": "書類をデータにして片づける。「ドキュメントスキャナー」 5 選",
+          "asin": "B0C23RFQNM"
+        },
+        {
+          "published_date": "2026-03-26",
+          "title": "書類をスマホで管理。名刺もデジタル化する「スキャナー」 5 選",
+          "asin": "B0C23RFQNM"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-07_書類をデータにして片づける。ドキュメントスキャナー.md",
+          "date": "2026-10-07",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C23XJGCW",
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX1600 (最新/高速毎分40枚/両面読取/ADF/4.3インチタッチパネル/Wi-Fi対応/USB接続/フラグシップ/書類/レシート/名刺/写真) (White)",
+      "maker": "PFU",
+      "maker_source": "商品名PFU/ScanSnap。販売時の富士通/リコー表記差を同じPFUで統合",
+      "maker_live_verified": false,
+      "db_brand": "リコー",
+      "historical_tier": 2,
+      "parent_asin": "B0FG26KGT8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-07",
+          "title": "書類をデータにして片づける。「ドキュメントスキャナー」 5 選",
+          "asin": "B0C23XJGCW"
+        },
+        {
+          "published_date": "2026-03-26",
+          "title": "書類をスマホで管理。名刺もデジタル化する「スキャナー」 5 選",
+          "asin": "B0C23XJGCW"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-07_書類をデータにして片づける。ドキュメントスキャナー.md",
+          "date": "2026-10-07",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0C4SLLQJV",
+      "title": "エプソン A4ドキュメントスキャナー DS-C480W (A4シートフィード/毎分30枚/Uターン/2way給紙/PCレス/2.4型タッチパネル/Wi-Fi対応/e-文書モード搭載)",
+      "maker": "EPSON",
+      "maker_source": "商品名EPSON/エプソン統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0D6RCP6BL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F7Y1LZL3",
+      "title": "翻訳機翻訳ペン/ペン型スキャナー失読症用読書ペン142言語即時双方向音声翻訳ペン、OCRスキャンペン、テキスト音声変換、録音翻訳、Bluetooth、WIFI接続をサポートし、言語学習、国際旅行、ビジネスパーソンに適している",
+      "maker": "翻訳機翻訳ペン/ペン型スキャナー失読症用読書ペン142言語即時双方向音声翻訳ペン、OCRスキャンペン、テキスト音声変換、録音翻訳、Bluetooth、WIFI接続をサポートし、言語学習、国際旅行、ビジネスパーソンに適している",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-04-02",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-02",
+          "title": "メモを即デジタル化。OCR と録音に対応する「スキャンペン・ペン型レコーダー」 6 選",
+          "asin": "B0F7Y1LZL3"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FR4Q8QG1",
+      "title": "iCODIS ドキュメントスキャナー A3サイズ コンパクト設計 1300万画素: 書類スキャナ USB接続 自動連続スキャン OCR文字認識",
+      "maker": "iCODIS",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0HFWS5VND",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [
+        "自動両面か手動裏返しか公式確認",
+        "ADFの有無/容量とモバイルシートフィードの違いを確認"
+      ],
+      "exclusion_reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FRRCLN9Z",
+      "title": "Netum 公式直営店 ドキュメントスキャナー A3対応 スキャナー 小型 1500万画素 4K解像度 スキャン 192言語OCR搭載 Webカメラ USB 書画カメラ 折りたたみスキャナー Mac/Win両対応 (ブラック)",
+      "maker": "Netum",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FWJS9FLW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FX2TJBHX",
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX110 (A4 片面読取 Wi-Fi対応 USB Type-C モバイル) 書類 レシート 名刺 写真 (White)",
+      "maker": "PFU",
+      "maker_source": "商品名PFU/ScanSnap。販売時の富士通/リコー表記差を同じPFUで統合",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FYQNRW85",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FX36NZNT",
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX110 (A4 片面読取 Wi-Fi対応 USB Type-C モバイル) 書類 レシート 名刺 写真 (Black)",
+      "maker": "PFU",
+      "maker_source": "商品名PFU/ScanSnap。販売時の富士通/リコー表記差を同じPFUで統合",
+      "maker_live_verified": false,
+      "db_brand": "リコー",
+      "historical_tier": 3,
+      "parent_asin": "B0FYQNRW85",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-12",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B00K757KRY",
+      "title": "エプソン スキャナー DS-40 (モバイル/乾電池駆動/Wi-Fi対応)",
+      "reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い"
+    },
+    {
+      "asin": "B00N9L6IH6",
+      "title": "エプソン スキャナー GT-X830 (フラットベッド/A4/6400dpi)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B00N9L6J02",
+      "title": "エプソン スキャナー GT-X980 (フラットベッド/A4/6400dpi)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B00S9AOCHK",
+      "title": "エプソン スキャナー GT-S650 (フラットベッド/A4/4800dpi)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B00T2B5L84",
+      "title": "富士通 PFU ドキュメントスキャナー ScanSnap SV600 (A3 非接触モデル 片面読取 オーバーヘッドスキャン /USB 接続 書類 レシート 名刺 写真 アルバム 本 新聞 非破壊タイプ )",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B01FADCQHG",
+      "title": "NETUM NT-2012 USBバーコードリーダー POSレジ 1D レーザー ハンドヘルドスキャナー",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B07HG9JLKG",
+      "title": "エプソン スキャナー ES-60WB (モバイル/A4/USB対応/Wi-Fi対応/ブラック)",
+      "reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い"
+    },
+    {
+      "asin": "B07HGCDQST",
+      "title": "エプソン スキャナー ES-60WW (モバイル/A4/USB対応/Wi-Fi対応/ホワイト)",
+      "reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い"
+    },
+    {
+      "asin": "B07HGG2HGM",
+      "title": "エプソン スキャナー ES-50 (モバイル/A4/USB対応/ブラック)",
+      "reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い"
+    },
+    {
+      "asin": "B08V8PXVL1",
+      "title": "iOCHOW スキャナー S1 ドキュメントスキャナー 800万画素 非破壊 USB書画カメラ OCR 最大A3サイズ LEDライト オフィス 教室 Windows OSシステム対応",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B09FRYGKLR",
+      "title": "Canon キヤノン ドキュメントスキャナー imageFORMULA R10 PG",
+      "reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い"
+    },
+    {
+      "asin": "B09FSC61GM",
+      "title": "Canon キヤノン ドキュメントスキャナー imageFORMULA R10 JPN",
+      "reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い"
+    },
+    {
+      "asin": "B09LD2SXWC",
+      "title": "Plustek モバイルスキャナー S410 Plus - ポータブルシートフィードドキュメントスキャナー - Windows 7/8 / 10/11用 OCRソフトウェア付属ボタンフリースキャン",
+      "reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い"
+    },
+    {
+      "asin": "B09R96NXWK",
+      "title": "富士通 PFU ドキュメントスキャナー ScanSnap iX100 (最新/A4/片面読取/Wi-Fi対応/USB接続/モバイル/書類/レシート/名刺/写真) (White)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BTNLHBNC",
+      "title": "エプソン ドキュメント フラットベッドスキャナー GT-S660 A4カラー 4800dpi",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0C23RFQNM",
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX100 (最新/A4/片面読取/Wi-Fi対応/USB接続/モバイル/書類/レシート/名刺/写真) (Black)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0C4SLLQJV",
+      "title": "エプソン A4ドキュメントスキャナー DS-C480W (A4シートフィード/毎分30枚/Uターン/2way給紙/PCレス/2.4型タッチパネル/Wi-Fi対応/e-文書モード搭載)",
+      "reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い"
+    },
+    {
+      "asin": "B0F7Y1LZL3",
+      "title": "翻訳機翻訳ペン/ペン型スキャナー失読症用読書ペン142言語即時双方向音声翻訳ペン、OCRスキャンペン、テキスト音声変換、録音翻訳、Bluetooth、WIFI接続をサポートし、言語学習、国際旅行、ビジネスパーソンに適している",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FR4Q8QG1",
+      "title": "iCODIS ドキュメントスキャナー A3サイズ コンパクト設計 1300万画素: 書類スキャナ USB接続 自動連続スキャン OCR文字認識",
+      "reason": "両面読み取りをローカル商品名/履歴Featuresで確認できない。未確認機は補充扱い"
+    },
+    {
+      "asin": "B0FRRCLN9Z",
+      "title": "Netum 公式直営店 ドキュメントスキャナー A3対応 スキャナー 小型 1500万画素 4K解像度 スキャン 192言語OCR搭載 Webカメラ USB 書画カメラ 折りたたみスキャナー Mac/Win両対応 (ブラック)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FX2TJBHX",
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX110 (A4 片面読取 Wi-Fi対応 USB Type-C モバイル) 書類 レシート 名刺 写真 (White)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FX36NZNT",
+      "title": "リコー PFU ドキュメントスキャナー ScanSnap iX110 (A4 片面読取 Wi-Fi対応 USB Type-C モバイル) 書類 レシート 名刺 写真 (Black)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    }
+  ],
+  "variant_policy": "同親の色/サイズ/バンドルを候補群として残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "候補に残る未確認事項は公式照合前の採用根拠としない",
+    "両面テーマとADF一括テーマを混同しない。Tier1供給/メーカー制約後の成立を未確認、追加収集を用意",
+    "親群が5未満。未実測の供給段階で不足、追加収集またはテーマ見直しが必須",
+    "5ASINが4親、EPSON3機はメーカー上限2。Tier1ゼロの可能性を含め成立未確認。未確認片面・書画機で埋めない",
+    "候補の歴史Tier分布: {'2': 2, '3': 3}。最新実測前にTier1比率の成立を保証しない"
+  ],
+  "historical_tier_distribution": {
+    "2": 2,
+    "3": 3
+  }
+}

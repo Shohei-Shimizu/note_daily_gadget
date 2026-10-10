@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-11",
+  "topic_id": "daily_gadget_20261111_9e1adf8e",
+  "theme": "両面スキャンで書類をPDF化",
+  "checked_at": "2026-10-10T11:05:54.162250+09:00",
+  "scope": "補充先メーカー/機種と検索条件の提案のみ。正本テーマは両面スキャンで書類をPDF化（ADF必須ではない）。Amazon実測・API・DB・UI操作なし。採用・順序・件数未確定。",
+  "baseline": {
+    "source": "2026-11-11_scanner_scope_audit.json",
+    "asins": 5,
+    "parents": 4,
+    "makers": "EPSON 3 ASIN/2親、PFU 1 ASIN/1親、brother 1 ASIN/1親",
+    "historical_tiers": "Tier2=2、Tier3=3。今回公式照合はレビューTier・在庫・最新親を検証しない。",
+    "maker_constraint": "同一メーカー最大2。EPSON追加のみでは不足を解消できない。PFU/リコー/富士通の販売表記差を別メーカーとして数えない。",
+    "after_scope_confirmation": "brother MDS-940DWは公式手差し1枚・両面同時読み取りなのでテーマ対象に維持。本文ではADF機との違いを明示。既存4親を維持し、EPSON2機種群の公式同型確認を続ける。"
+  },
+  "priority_models": [
+    {
+      "priority": 1,
+      "maker": "Canon",
+      "model": "imageFORMULA R10",
+      "status": "既存保留を構造確認により再照合可能",
+      "existing_asins": [
+        "B09FRYGKLR",
+        "B09FSC61GM"
+      ],
+      "existing_parent": "B09G6NJBNL",
+      "proof": [
+        "公式のADF搭載20枚、片面/両面読取を確認",
+        "R10 PGは色違いで独立商品件数に数えない"
+      ],
+      "sources": [
+        "https://canon.jp/biz/product/office-device/imageformula/lineup/r10/features-design",
+        "https://canon.jp/biz/product/office-device/imageformula/lineup/r10/spec",
+        "https://canon.jp/biz/product/office-device/imageformula/lineup/r10"
+      ],
+      "unverified": [
+        "最新在庫/ASINの日本仕様同型一致",
+        "現行OS・PDF保存の該当ソフト条件",
+        "Tier基準"
+      ]
+    },
+    {
+      "priority": 2,
+      "maker": "brother",
+      "model": "ADS-1800W",
+      "status": "不足メーカーの新規親モデル収集対象",
+      "proof": [
+        "公式ラインアップ掲載",
+        "ADF・両面同時読取・20枚搭載"
+      ],
+      "sources": [
+        "https://www.brother.co.jp/product/scanner/index.aspx",
+        "https://www.brother.co.jp/product/scanner/ads1800w/spec/index.aspx"
+      ],
+      "unverified": [
+        "日本仕様ASIN",
+        "最新親/在庫/レビューTier",
+        "PDF保存形式とOS別ソフト条件"
+      ]
+    },
+    {
+      "priority": 3,
+      "maker": "brother",
+      "model": "ADS-4300N",
+      "status": "不足メーカーの新規親モデル収集対象",
+      "proof": [
+        "公式ラインアップ掲載",
+        "ADF・両面同時読取・80枚搭載"
+      ],
+      "sources": [
+        "https://www.brother.co.jp/product/scanner/index.aspx",
+        "https://www.brother.co.jp/product/scanner/ads4300n/spec/index.aspx"
+      ],
+      "unverified": [
+        "日本仕様ASIN",
+        "最新親/在庫/レビューTier",
+        "PDF保存形式とOS別ソフト条件"
+      ]
+    },
+    {
+      "priority": 4,
+      "maker": "PFU",
+      "model": "ScanSnap iX2500",
+      "status": "既存iX1600とは機種が異なる新規親収集対象。ただしAmazon親を確認するまで別親とは断定しない",
+      "proof": [
+        "国内公式現行ページ・購入導線掲載",
+        "ADF両面・100枚搭載・PDF出力"
+      ],
+      "sources": [
+        "https://www.pfu.ricoh.com/scansnap/products/ix2500/",
+        "https://www.pfu.ricoh.com/global/scanners/scansnap/ix2500/"
+      ],
+      "unverified": [
+        "色/保証/バンドルとiX1600を含む最新親関係",
+        "日本仕様ASIN",
+        "最新在庫/レビューTier"
+      ]
+    },
+    {
+      "priority": 5,
+      "maker": "EPSON",
+      "model": "DS-C480W / DS-C420W",
+      "status": "構造確認済みの代替・保留解除。EPSON枠は2品以内なので単純追加で件数を増やさない",
+      "existing_asins": [
+        "B0C4SLLQJV"
+      ],
+      "proof": [
+        "公式両面同時読み取り・ADF仕様表・PDF出力"
+      ],
+      "sources": [
+        "https://www.epson.jp/products/scanner/dsc480w_dsc420w/spec.htm"
+      ],
+      "unverified": [
+        "現行国内ASINと同親関係",
+        "最新在庫/レビューTier",
+        "DS-310/DS-360W/DS-531との枠内比較"
+      ]
+    }
+  ],
+  "proposed_collection_queries": [
+    "Canon imageFORMULA R10 ドキュメントスキャナー ADF 両面",
+    "brother ADS-1800W ドキュメントスキャナー",
+    "brother ADS-4300N ドキュメントスキャナー",
+    "PFU ScanSnap iX2500 両面 ADF",
+    "EPSON DS-C480W DS-C420W ドキュメントスキャナー"
+  ],
+  "query_count": 5,
+  "eligibility": [
+    "日本向け本体でメーカー公式の該当機種に自動両面/両面同時読取がある。ADF複数枚給紙と手差し1枚は両方対象にできるが、本文で明示して比較する。手動裏返しによる両面PDF化は対象外。",
+    "通常書類をPDF保存できるソフト/OS条件を公式確認し、PCレス保存とPCソフト保存を区別",
+    "最新ASIN・色/保証/バンドル・親を再測定し、resolved/no_parentの確定群だけ採用候補へ",
+    "レビューTier/在庫/URL整合と30日窓を通常ゲートで確認。歴史Tier3を公式構造確認だけで採用品に昇格させない",
+    "11/11時点30日窓の基準は2026-10-12。既存10/7掲載は日付上窓外だが新規ASIN/親も履歴照合",
+    "EPSON/PFU/Canon/brotherメーカーを独立して正規化し最大2品、色違いは増数しない"
+  ],
+  "exclusions": [
+    {
+      "models": [
+        "ScanSnap iX100",
+        "ScanSnap iX110",
+        "ScanSnap SV600"
+      ],
+      "reason": "片面モバイル/オーバーヘッド機をADF自動両面の穴埋めに使用しない"
+    },
+    {
+      "models": [
+        "EPSON ES-50",
+        "EPSON ES-60W",
+        "EPSON DS-40",
+        "フラットベッドGT-X/GT-S",
+        "書画カメラ",
+        "OCR翻訳ペン",
+        "バーコードスキャナ"
+      ],
+      "reason": "別構造・片面・自動両面未確認の本体を対象へ混ぜない。非ADFだけを理由に除外しない。"
+    },
+    {
+      "model": "Canon EOS R10",
+      "reason": "同じR10名称でもカメラ。imageFORMULA R10と混同しない"
+    },
+    {
+      "model": "保証延長/消耗品/キャリアシート/中古輸入",
+      "reason": "国内本体候補と区別。親数補充として数えない"
+    }
+  ],
+  "decision": "日程と両面PDF用途を維持。既存4親にCanon R10保留1親を公式構造確認して加える案が最小補充。brother ADS新規2機種とPFU iX2500を追加収集すればメーカーmax2とレビューTierの供給不足に備えられる。既存MDS-940DWは手差しを明示して維持。最新在庫・Tier・Amazon親未確認なので5商品成立は保証しない。",
+  "confirmed_existing_models": [
+    {
+      "asin": "B083VZHDGZ",
+      "maker": "brother",
+      "model": "MDS-940DW",
+      "eligibility": "対象維持",
+      "feeding": "手差し・原稿搭載1枚",
+      "duplex": "Dual CIS両面同時読み取り",
+      "source": "https://www.brother.co.jp/product/scanner/mds940dw/spec/index.aspx",
+      "article_condition": "ADF一括処理として紹介しない。手差し1枚ずつでも両面を同時取得できると明示。"
+    }
+  ],
+  "parent_clarification": "主担当の補充依頼にADFとあったが、正本テーマはADF必須ではないとの修正を受け反映。"
+}
