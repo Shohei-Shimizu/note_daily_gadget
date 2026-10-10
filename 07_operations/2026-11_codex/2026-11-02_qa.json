@@ -1,0 +1,26 @@
+{
+  "article": "02_article/2026-11/2026-11-02_家電操作をスマホにまとめる。「スマートリモコン」5選.md",
+  "title_length": 26,
+  "checks": {
+    "five_products": true,
+    "selected_urls_order": true,
+    "two_intro_paragraphs": true,
+    "five_spec_quotes": true,
+    "no_placeholder": true,
+    "no_reviews_prices_claims": true,
+    "related_urls_only": true,
+    "no_new_sections_or_tables": true,
+    "paragraphs_under_200": true
+  },
+  "saved_preview": "pending_main_publisher",
+  "unresolved_specs": [
+    "採用ASIN商品名は温湿度センサー搭載だがメーカー一般ページは非搭載表記。世代・ケーブル同梱差が未解決。温湿度機能と本体寸法/重量は記事に不使用。"
+  ],
+  "not_modified": [
+    "monthly_metadata",
+    "schedule",
+    "shared_db",
+    "note",
+    "images"
+  ]
+}

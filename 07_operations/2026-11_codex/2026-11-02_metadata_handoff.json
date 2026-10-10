@@ -1,0 +1,33 @@
+{
+  "published_date": "2026-11-02",
+  "filename": "2026-11-02_家電操作をスマホにまとめる。「スマートリモコン」5選.md",
+  "title": "家電操作をスマホにまとめる。「スマートリモコン」5選",
+  "category": "スマートホーム・ライフスタイル・健康管理",
+  "tags": "おすすめガジェット スマートリモコン スマートホーム 家電操作 Matter",
+  "product_count": 5,
+  "product_asins": [
+    "B0DSPXKDP8",
+    "B08P6ZSXWZ",
+    "B0C6V1CJB7",
+    "B08BN8WSGZ",
+    "B0B44WTLHT"
+  ],
+  "related_urls": [
+    "https://note.com/daily_gadget/n/nf2d5d04244d0",
+    "https://note.com/daily_gadget/n/nf9b0445fddd4",
+    "https://note.com/daily_gadget/n/na84a30ae3914"
+  ],
+  "research_file": "06_research/2026-11/2026-11-02_赤外線リモコンをスマホにまとめる。スマートリモコン.md",
+  "status": "local_draft_qa_only",
+  "scheduled_time": "20:00 JST",
+  "unresolved_specs": [
+    "採用ASIN商品名は温湿度センサー搭載だがメーカー一般ページは非搭載表記。世代・ケーブル同梱差が未解決。温湿度機能と本体寸法/重量は記事に不使用。"
+  ],
+  "integration_required": [
+    "monthly_metadata",
+    "schedule_ledger",
+    "shared_db",
+    "thumbnail",
+    "note_saved_preview"
+  ]
+}
