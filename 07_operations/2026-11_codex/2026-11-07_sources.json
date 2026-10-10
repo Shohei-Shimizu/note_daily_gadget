@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-07",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B0CZ6XY78Y",
+      "official_urls": [
+        "https://www.obsbot.com/obsbot-tiny-2-lite-4k-webcam"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0CZ6XY78Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-07_webcam_candidates.json",
+        "path": "candidates[asin=B0CZ6XY78Y].features"
+      },
+      "check": "Tiny 2 Lite固有のPDAF・ジンバル・映像出力を確認。Tiny 2の音声制御を転用しない。"
+    },
+    {
+      "order": 2,
+      "asin": "B0DDTH3HX8",
+      "official_urls": [
+        "https://www.insta360.com/us/product/insta360-link2?from=nav",
+        "https://onlinemanual.insta360.com/link2/en-us/faq/specs/shooting"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DDTH3HX8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-07_webcam_candidates.json",
+        "path": "candidates[asin=B0DDTH3HX8].features"
+      },
+      "check": "Link 2の可動ジンバルとDeskViewをLink 2Cと区別。Pro型番のセンサーサイズは転用しない。"
+    },
+    {
+      "order": 3,
+      "asin": "B09MHPFV4Q",
+      "official_urls": [
+        "https://www.ankerjapan.com/products/a3369",
+        "https://lp.ankerjapan.com/hubfs/aoos/manual/A3369Manual.pdf"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B09MHPFV4Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-07_webcam_candidates.json",
+        "path": "candidates[asin=B09MHPFV4Q].features"
+      },
+      "check": "C200 2K・83g・AF一致。会議アプリの出力保証はしない。"
+    },
+    {
+      "order": 4,
+      "asin": "B0C3B6ZR1V",
+      "official_urls": [
+        "https://www.obsbot.com/obsbot-tiny-2-4k-webcam"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0C3B6ZR1V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-07_webcam_candidates.json",
+        "path": "candidates[asin=B0C3B6ZR1V].features"
+      },
+      "check": "Tiny 2全画素AFと英語/中国語音声制御を確認。センサー画素数と動画出力を混同しない。"
+    },
+    {
+      "order": 5,
+      "asin": "B0D21FZ5KN",
+      "official_urls": [
+        "https://www.logicool.co.jp/ja-jp/shop/p/c270-hd-webcam"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D21FZ5KN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-07_webcam_candidates.json",
+        "path": "candidates[asin=B0D21FZ5KN].features"
+      },
+      "check": "C270ndは公式型番欄に明記。720p30fps・55度・モノラル・光補正一致。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n3f3977cb8d22",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/ne815e4ca30ae",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n5b247e8a0c1a",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "unresolved_omitted_specs": [],
+  "not_claimed": [
+    "48MP/50MPが4K動画出力の画素数という記述",
+    "全アプリで4K出力",
+    "Link 2のARM Windows/Windows Hello対応",
+    "Tiny 2の日本語音声操作"
+  ]
+}
