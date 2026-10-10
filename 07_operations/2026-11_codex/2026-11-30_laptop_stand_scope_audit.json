@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-30",
+  "topic_id": "daily_gadget_20261130_4283a16e",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 19,
+  "parent_groups": {
+    "B0HC6Y7K9N": [
+      "B07H774Q42"
+    ],
+    "B0GWPR338Q": [
+      "B0BZ8CBD36",
+      "B0B2WPJ6GJ"
+    ],
+    "B0FC27S245": [
+      "B0B5DRS12W",
+      "B0845RFFHN"
+    ],
+    "B09C81Y41D": [
+      "B095W9HP4N"
+    ],
+    "B0D83GLH9N": [
+      "B0BBTTFQWT"
+    ],
+    "B0DRRSJX4Q": [
+      "B097HL2V8Q"
+    ],
+    "B0DWS6L84M": [
+      "B0D637HRT5",
+      "B0F9YHQR7M"
+    ],
+    "B07GB67P9V": [
+      "B0F8BWQD33"
+    ],
+    "B0FM7HKJVW": [
+      "B0CPHX4R58",
+      "B0BHWPXHTY",
+      "B0B15B32NV"
+    ],
+    "B08TLVKBMJ": [
+      "B08TLVKBMJ"
+    ],
+    "B09QCRDRRS": [
+      "B09QCRDRRS"
+    ],
+    "B0CTFFMHPM": [
+      "B0BCK3V2X6"
+    ],
+    "B0HC6TB3PS": [
+      "B0BNPYF86Y"
+    ],
+    "B0DDPTF1KG": [
+      "B0DT9PS7QP"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B07H774Q42",
+      "title": "BoYata ノートパソコンスタンド N21",
+      "maker": "BoYata",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "BoYata",
+      "historical_tier": 1,
+      "parent_asin": "B0HC6Y7K9N",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B07H774Q42"
+        },
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B07H774Q42"
+        },
+        {
+          "published_date": "2026-02-03",
+          "title": "首こりを解消。自宅デスクを快適にする「PC スタンド」 7 選",
+          "asin": "B07H774Q42"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0845RFFHN",
+      "title": "エレコム ノートPCスタンド 折りたたみ 8段階 9.5cm高さアップ脚 スマホスタンド付 ~15.6インチノートPC対応 折りたたみ時サイズ:幅280×奥行280×高さ26mm 耐荷重:10kg ブラック PCA-LTSH8BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 1,
+      "parent_asin": "B0FC27S245",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B0B5DRS12W"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08TG9FH9G",
+      "title": "スマホスタンド ホルダー角度、幅と高さ調整可能な携帯電話卓上スタンド PCスタンド【滑り止め/充電便利/折りたたみ式】 iPhone/iPad/Android/Nintendo Switch Lite/Kindleなど携帯電話 タブレット ゲーム機 電子書籍 ホワイト (白) (白)",
+      "maker": "スマホスタンド",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "スマホスタンド",
+      "historical_tier": 1,
+      "parent_asin": "B098PVVRS4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "メーカー名称を公式確認するまでメーカー多様性へ数えない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08TLVKBMJ",
+      "title": "UGREEN ノートパソコンスタンド PC 折りたたみ式 コンパクト 持ち運びやすい",
+      "maker": "Ugreen",
+      "maker_source": "商品名UGREENと会社ブランド表記の正規化",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN GROUP LIMITED",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B095W9HP4N",
+      "title": "BoYata ノートパソコン スタンド ミニ スタンド PCスタンド パソコンスタンド タブレットスタンド 無段階高さ調整 人間工学 姿勢改善 猫背解消 滑り止め付き 放熱対策 折りたたみ式 軽量 在宅勤務・リモートワーク Macbook/Macbook Air/Macbook Pro/iPad/ノートPCなど14インチまでに対応 シルバー",
+      "maker": "BoYata",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "BoYata",
+      "historical_tier": 1,
+      "parent_asin": "B09C81Y41D",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B095W9HP4N"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B097HL2V8Q",
+      "title": "ZEEKK ノートパソコンスタンド PCスタンド アルミ合金 タブレットスタンド 折りたたみ 軽量 安定 放熱 滑り止め 人間工学設計 高さ 角度6段階調整 収納可能 在宅/出勤勤務 持ち運びに便利 10.5-17インチまで対応",
+      "maker": "ZEEKK",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ZEEKK",
+      "historical_tier": 1,
+      "parent_asin": "B0DRRSJX4Q",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B097HL2V8Q"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09G8JS637",
+      "title": "HumanCentric 縦型ノートパソコンスタンド MacBook用 MacBook Proスタンド、MacBook Airスタンド、Appleノートパソコンデスクスタンド用ノートパソコンホルダー、ノートパソコン垂直スタンド、MacBookスタンド スペースグレー",
+      "maker": "HumanCentric",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "HumanCentric",
+      "historical_tier": 1,
+      "parent_asin": "B0D2ZRVTP5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09QCRDRRS",
+      "title": "サンワダイレクト ノートパソコンスタンド 折りたたみ 軽量 10段階角度調整 斜め 液タブ iPad スタンド ホワイト 200-STN062W",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": "サンワダイレクト",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B15B32NV",
+      "title": "MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【中空デザイン】 持ち運び簡単 折りたたみ式 超薄型 安定性 15°&25°二段階調整可能 16インチまで対応 コンパクト PC/MacBook/ラップトップ/iPadタブレットに対応 パソコンスタンド 「貼り付け」 AirFlow (ジェットブラック)",
+      "maker": "MOFT",
+      "maker_source": "商品名MOFT。公式直営店等の販促文字列を除去",
+      "maker_live_verified": false,
+      "db_brand": "MOFT【公式直営店】ノートパソコンスタンド",
+      "historical_tier": 1,
+      "parent_asin": "B0FM7HKJVW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B0CPHX4R58"
+        },
+        {
+          "published_date": "2026-05-07",
+          "title": "どこでも仕事。ワーケーションに必須の「モバイルセット」 5 選",
+          "asin": "B0B15B32NV"
+        },
+        {
+          "published_date": "2026-02-03",
+          "title": "首こりを解消。自宅デスクを快適にする「PC スタンド」 7 選",
+          "asin": "B0B15B32NV"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B2WPJ6GJ",
+      "title": "iVoler ノートパソコンスタンド 【6段階高さ角度調整】PCスタンド 折りたたみ式 パソコン台 アルミ合金製 人間工学 腰痛・肩こり改善 姿勢改善 滑り止め 放熱 軽量 持ち運びに便利 各種PC/MacBook/ラップトップ/iPad/タブレット対応",
+      "maker": "iVoler",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "iVoler",
+      "historical_tier": 1,
+      "parent_asin": "B0GWPR338Q",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B0BZ8CBD36"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B5DRS12W",
+      "title": "エレコム ノートPCスタンド 折りたたみ8段階 9.5cm 折りたたみ時サイズ:幅280×厚み280×高さ26mm 耐荷重:10kg ホワイト PCA-LTSH8WH",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "エレコム",
+      "historical_tier": 1,
+      "parent_asin": "B0FC27S245",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B0B5DRS12W"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BBTTFQWT",
+      "title": "KKaMM ノートパソコンスタンド タブレット スタンド パソコンスタンド パソコン台 pcスタンド ノートpc スタンド macbook スタンド pc台 折りたたみ式 磁石内蔵 腰痛 肩凝り 姿勢改善 持ち運び 高さ調整可能 アルミ合金製 人間工学(黒)",
+      "maker": "KKaMM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "KKaMM",
+      "historical_tier": 1,
+      "parent_asin": "B0D83GLH9N",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B0BBTTFQWT"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BCK3V2X6",
+      "title": "Aoviho ノートパソコンスタンド",
+      "maker": "Aoviho",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Aoviho",
+      "historical_tier": 1,
+      "parent_asin": "B0CTFFMHPM",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-02-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-02-03",
+          "title": "首こりを解消。自宅デスクを快適にする「PC スタンド」 7 選",
+          "asin": "B0BCK3V2X6"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "携帯用途に合う折畳構造/寸法/重量を公式未確認。机上据置台として採用しない",
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BHWPXHTY",
+      "title": "MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【放熱穴付き】 持ち運び簡単 折りたたみ式 超薄型 安定性 15°&25°二段階調整可能 16インチまで対応 コンパクト PC/MacBook/ラップトップ/iPadタブレット に対応 パソコンスタンド 「貼り付け」（スターグレー）",
+      "maker": "MOFT",
+      "maker_source": "商品名MOFT。公式直営店等の販促文字列を除去",
+      "maker_live_verified": false,
+      "db_brand": "MOFT",
+      "historical_tier": 1,
+      "parent_asin": "B0FM7HKJVW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B0CPHX4R58"
+        },
+        {
+          "published_date": "2026-05-07",
+          "title": "どこでも仕事。ワーケーションに必須の「モバイルセット」 5 選",
+          "asin": "B0B15B32NV"
+        },
+        {
+          "published_date": "2026-02-03",
+          "title": "首こりを解消。自宅デスクを快適にする「PC スタンド」 7 選",
+          "asin": "B0B15B32NV"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BNPYF86Y",
+      "title": "BoYata ノートパソコンスタンド (ブラック)",
+      "maker": "BoYata",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "BoYata",
+      "historical_tier": 1,
+      "parent_asin": "B0HC6TB3PS",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-02-26",
+      "dg_use_history": [
+        {
+          "published_date": "2026-02-26",
+          "title": "デスクの色を統一。理想の「モノトーンガジェット」特集 8 選",
+          "asin": "B0BNPYF86Y"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "携帯用途に合う折畳構造/寸法/重量を公式未確認。机上据置台として採用しない",
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BZ8CBD36",
+      "title": "iVoler ノートパソコンスタンド 【6段階高さ角度調整】PCスタンド 折りたたみ式 軽量 パソコン台 アルミ合金製 人間工学 腰痛・肩こり改善 姿勢改善 滑り止め 放熱 持ち運びに便利 各種PC/MacBook/ラップトップ/iPad/タブレット対応(青)",
+      "maker": "iVoler",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "iVoler",
+      "historical_tier": 1,
+      "parent_asin": "B0GWPR338Q",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B0BZ8CBD36"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CPHX4R58",
+      "title": "MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【放熱穴付き】 持ち運び簡単 折りたたみ式 超薄型 安定性 15°&25°二段階調整可能 16インチまで対応 コンパクト PC/MacBook/ラップトップ/iPadタブレット に対応 一体型パソコンスタンド 「貼り付け」（ジェットブラック）",
+      "maker": "MOFT",
+      "maker_source": "商品名MOFT。公式直営店等の販促文字列を除去",
+      "maker_live_verified": false,
+      "db_brand": "MOFT",
+      "historical_tier": 1,
+      "parent_asin": "B0FM7HKJVW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B0CPHX4R58"
+        },
+        {
+          "published_date": "2026-05-07",
+          "title": "どこでも仕事。ワーケーションに必須の「モバイルセット」 5 選",
+          "asin": "B0B15B32NV"
+        },
+        {
+          "published_date": "2026-02-03",
+          "title": "首こりを解消。自宅デスクを快適にする「PC スタンド」 7 選",
+          "asin": "B0B15B32NV"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D637HRT5",
+      "title": "【革新的・極コンパクト】 SODI ノートパソコンスタンド PCスタンド 折りたたみ式 安定感 超軽量 角度調整 姿勢改善 おしゃれ laptop stand パソコン台 卓上 持ち運び 外出 自宅 リモートワーク オフィス 10-16インチ 収納ポーチ 日本語取扱説明書 スペースグレイ",
+      "maker": "SODI",
+      "maker_source": "商品名SODI。革新的・極コンパクトの販促文字列を除去",
+      "maker_live_verified": false,
+      "db_brand": "SODI",
+      "historical_tier": 1,
+      "parent_asin": "B0DWS6L84M",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B0D637HRT5"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DT9PS7QP",
+      "title": "MOFT ノートパソコンスタンド 非粘着式",
+      "maker": "MOFT",
+      "maker_source": "商品名MOFT。公式直営店等の販促文字列を除去",
+      "maker_live_verified": false,
+      "db_brand": "MOFT",
+      "historical_tier": 3,
+      "parent_asin": "B0DDPTF1KG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-02-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-02-03",
+          "title": "首こりを解消。自宅デスクを快適にする「PC スタンド」 7 選",
+          "asin": "B0DT9PS7QP"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "携帯用途に合う折畳構造/寸法/重量を公式未確認。机上据置台として採用しない",
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F8BWQD33",
+      "title": "【国内正規品】ONED Majextand・人間工学に基づくノートパソコンスタンド (スペースブラック)",
+      "maker": "ONED",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ONED",
+      "historical_tier": 1,
+      "parent_asin": "B07GB67P9V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B0F8BWQD33"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F9YHQR7M",
+      "title": "【革新的・極コンパクト】 SODI ノートパソコンスタンド PCスタンド 折りたたみ式 安定感 超軽量 角度調整 腰痛 猫背 姿勢改善 おしゃれ laptop stand パソコン台 卓上 持ち運び 外出 自宅 リモートワーク 10-16インチ 収納ポーチ 日本語取扱説明書 ブラック",
+      "maker": "SODI",
+      "maker_source": "商品名SODI。革新的・極コンパクトの販促文字列を除去",
+      "maker_live_verified": false,
+      "db_brand": "革新的・極コンパクト",
+      "historical_tier": 1,
+      "parent_asin": "B0DWS6L84M",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-04",
+          "title": "画面を目線に近づける。据え置きと持ち運びの「ノートPCスタンド」 9 選",
+          "asin": "B0D637HRT5"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-04_目線を上げる。ノートPCスタンド.md",
+          "date": "2026-10-04",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-31",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B08TG9FH9G",
+      "title": "スマホスタンド ホルダー角度、幅と高さ調整可能な携帯電話卓上スタンド PCスタンド【滑り止め/充電便利/折りたたみ式】 iPhone/iPad/Android/Nintendo Switch Lite/Kindleなど携帯電話 タブレット ゲーム機 電子書籍 ホワイト (白) (白)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B09G8JS637",
+      "title": "HumanCentric 縦型ノートパソコンスタンド MacBook用 MacBook Proスタンド、MacBook Airスタンド、Appleノートパソコンデスクスタンド用ノートパソコンホルダー、ノートパソコン垂直スタンド、MacBookスタンド スペースグレー",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    }
+  ],
+  "historical_tier_distribution": {
+    "1": 17,
+    "3": 2
+  },
+  "maker_count_upper_bound_before_parent": 16,
+  "variant_policy": "同親の色/サイズ候補を残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "親違いの同モデルも公式照合が必要、親群数を商品数とみなさない"
+  ]
+}

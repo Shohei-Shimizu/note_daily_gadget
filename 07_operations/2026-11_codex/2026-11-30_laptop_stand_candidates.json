@@ -1,0 +1,806 @@
+{
+  "generated_at": "2026-10-10T01:11:45+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261130_4283a16e",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261130_laptop_stand"
+  ],
+  "fetched_count": 19,
+  "dedup_count": 19,
+  "candidates": [
+    {
+      "asin": "B07H774Q42",
+      "title": "BoYata ノートパソコンスタンド N21",
+      "url": "https://www.amazon.co.jp/dp/B07H774Q42?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07H774Q42?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61SD-+LxQQL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【無段階角度・高さ調整可能】●人間工学に基づいて設計により、PC作業時、角度・高度を無段階調整可能で自分に最適な高度まで調整できるパソコンスタンド！●デスクが低いためデスクワークの際に腰に負担がかかってしまっていたが、Boyataスタンドを使うことによってパソコンを目線と同じ高さにする事で背筋が伸び、猫背などを有効に防止、背中が丸まりにくくなって、リモートワーク時代の必需品 !!",
+        "【安定感抜群・耐重20kg】●Boyata PCスタンドの角度調節は多少力がいりますが、成人女性でも問題ない程度です。逆に、調節に力が必要な分しっかりしているので、使用中に下がってくるようなことは無い、頑丈で安定しています。●安心の両足構造で傾きがなく、安定性が抜群で、20kgまで耐えられます。",
+        "【液タプ用スタンドとしても機能】Boyata ノートパソコンスタンド の使い方としてはタブレット スタンドですが、液タブ/板タプを載せても非常に使いやすいです。ヒンジがとても硬いので、重い液タブをおいても全然角度ががたついたりしませんし、結構角度が自由に設定できて、自分の体に負担がかからない角度で絵を描くことができます。",
+        "【放熱対策・滑り止め】●肉厚でしっかりとした造りながら、中央に大きな穴が開いているのでノートPCなどの放熱が気になるものを載せても平気です。●シリコンゴム製の滑り止めパッドが上下両面(接地側およびパソコン側)の接地面に付いているので、滑りにくく安定して使えます。また、構造上、pc スタンドの下に空間ができるので、書類を広げたり、使わない時はキーボードをしまっておけたりできるのが助かっています。",
+        "【パソコン スタンド 折りたたみ式】●折りたたみ仕様で、省スペース収納可能です。アルミニウム合金のシルバーでデザインが統一されているのもクールで、 タブレットとの相性はバッチリです。●17インチまでのノートPCやタブレットに幅広くに対応可能です。"
+      ],
+      "maker": "BoYata",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 15381,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0HC6Y7K9N",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:52:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BZ8CBD36",
+      "title": "iVoler ノートパソコンスタンド 【6段階高さ角度調整】PCスタンド 折りたたみ式 軽量 パソコン台 アルミ合金製 人間工学 腰痛・肩こり改善 姿勢改善 滑り止め 放熱 持ち運びに便利 各種PC/MacBook/ラップトップ/iPad/タブレット対応(青)",
+      "url": "https://www.amazon.co.jp/dp/B0BZ8CBD36?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BZ8CBD36?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71+MU+1gaxL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "【高級アルミ合金素材・堅牢な金属ヒンジ】 本ノートパソコンスタンドは従来のプラスチック製や重厚な合金素材を改良し、回転軸部分に全て金属素材を採用しています。特殊な中空デザインにより放熱面積を拡大し、耐久性に優れ長時間使用にも対応可能です。本体表面はアルミニウム合金製で、ひんやりとした金属の質感と滑らかな手触り、高級感あふれる仕上がりのパソコン台です。",
+        "【人間工学設計・6 段階自由高さ角度調整】 人間工学に基づいて設計されたPC スタンドは、高さ 5～15.5cm、傾斜角度 0～43° の範囲で自由に調整できます。回転軸はアルマイト処理を施し耐食性・耐摩耗性に優れ、調整後の安定感が抜群です。自身に合わせて最適な姿勢を整え、長時間の PC 作業による首や肩、背中への負担を軽減し、集中力と作業効率を向上させます。",
+        "【通風穴構造・高い放熱性能】 熱伝導性に優れたアルミ合金製のノートパソコンスタンドは、パソコンとの接触面に通風穴を備えています。空気の循環を促し効率よく放熱を行い、熱による機器の熱暴走や強制終了を防止します。パソコン本体への負担を抑え、デバイスの使用寿命を延ばし、夏場の高温問題にもしっかり対応します。",
+        "【245g 超軽量・コンパクト折りたたみで持ち運び便利】 わずか 245g の超軽量設計で、スッキリと折りたたみ可能なパソコン台です。バッグに簡単に収納でき、在宅勤務はもちろん、カフェ・出張・移動中など様々なシーンで手軽に使用できます。下部の空きスペースにキーボードを収納でき、デスクスペースを有効に活用し、未使用時も場所を取りません。",
+        "【全面滑り止め保護・幅広い機種対応】 本体各所に計 10 個のシリコン製滑り止めパッドを配置し、パソコンのズレや落下を防止し機器を傷つけずに保護します。7～17.6 インチのノート PC・タブレットに幅広く対応し、Macbook シリーズ・Surface・iPad Pro など多くの機種で活用できる汎用性の高いPC スタンドです。学生から社会人まで幅広い方におすすめです。"
+      ],
+      "maker": "iVoler",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 14654,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0GWPR338Q",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:52:32+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B2WPJ6GJ",
+      "title": "iVoler ノートパソコンスタンド 【6段階高さ角度調整】PCスタンド 折りたたみ式 パソコン台 アルミ合金製 人間工学 腰痛・肩こり改善 姿勢改善 滑り止め 放熱 軽量 持ち運びに便利 各種PC/MacBook/ラップトップ/iPad/タブレット対応",
+      "url": "https://www.amazon.co.jp/dp/B0B2WPJ6GJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B2WPJ6GJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71+MU+1gaxL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "【高級アルミ合金素材・堅牢な金属ヒンジ】 本ノートパソコンスタンドは従来のプラスチック製や重厚な合金素材を改良し、回転軸部分に全て金属素材を採用しています。特殊な中空デザインにより放熱面積を拡大し、耐久性に優れ長時間使用にも対応可能です。本体表面はアルミニウム合金製で、ひんやりとした金属の質感と滑らかな手触り、高級感あふれる仕上がりのパソコン台です。",
+        "【人間工学設計・6 段階自由高さ角度調整】 人間工学に基づいて設計されたPC スタンドは、高さ 5～15.5cm、傾斜角度 0～43° の範囲で自由に調整できます。回転軸はアルマイト処理を施し耐食性・耐摩耗性に優れ、調整後の安定感が抜群です。自身に合わせて最適な姿勢を整え、長時間の PC 作業による首や肩、背中への負担を軽減し、集中力と作業効率を向上させます。",
+        "【通風穴構造・高い放熱性能】 熱伝導性に優れたアルミ合金製のノートパソコンスタンドは、パソコンとの接触面に通風穴を備えています。空気の循環を促し効率よく放熱を行い、熱による機器の熱暴走や強制終了を防止します。パソコン本体への負担を抑え、デバイスの使用寿命を延ばし、夏場の高温問題にもしっかり対応します。",
+        "【245g 超軽量・コンパクト折りたたみで持ち運び便利】 わずか 245g の超軽量設計で、スッキリと折りたたみ可能なパソコン台です。バッグに簡単に収納でき、在宅勤務はもちろん、カフェ・出張・移動中など様々なシーンで手軽に使用できます。下部の空きスペースにキーボードを収納でき、デスクスペースを有効に活用し、未使用時も場所を取りません。",
+        "【全面滑り止め保護・幅広い機種対応】 本体各所に計 10 個のシリコン製滑り止めパッドを配置し、パソコンのズレや落下を防止し機器を傷つけずに保護します。7～17.6 インチのノート PC・タブレットに幅広く対応し、Macbook シリーズ・Surface・iPad Pro など多くの機種で活用できる汎用性の高いPC スタンドです。学生から社会人まで幅広い方におすすめです。"
+      ],
+      "maker": "iVoler",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 14654,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-04",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0GWPR338Q",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:52:39+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B5DRS12W",
+      "title": "エレコム ノートPCスタンド 折りたたみ8段階 9.5cm 折りたたみ時サイズ:幅280×厚み280×高さ26mm 耐荷重:10kg ホワイト PCA-LTSH8WH",
+      "url": "https://www.amazon.co.jp/dp/B0B5DRS12W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B5DRS12W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61GOL85nK-L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "8段階角度調整機能と高さアップ脚付の折りたたみ式ノートパソコンスタンドです。 ノートパソコンスタンドの左右にあるスマートフォンスタンド機能により、パソコンとスマートフォンの画面を並べて見ることができます。",
+        "傾斜角度を23度・27度・31度・36度・40度・47度・50度・53度の8段階に調整可能です。 設置することでディスプレイを見る際の目線を上げられるため、パソコン作業の際の姿勢を改善することができます。",
+        "高さを9.5cmアップできる折りたたみ式の脚付です。 高さアップ脚を利用すればノートパソコンスタンドの下のスペースを有効活用でき、ノートパソコンスタンドの下のスペースにキーボードを収納することができます。",
+        "ノートパソコンにあわせて台座のお好みの位置に排熱用ゴム脚を取り付けることで、ノートパソコンを台座に密着させずにおくことが出来るのでノートパソコンの排熱にも効果的です。 底部にはゴム脚がついているので、滑りにくく安定してご使用いただけます。",
+        "使用しない時には薄くたたんで収納することができます。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 4275,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0FC27S245",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:52:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0845RFFHN",
+      "title": "エレコム ノートPCスタンド 折りたたみ 8段階 9.5cm高さアップ脚 スマホスタンド付 ~15.6インチノートPC対応 折りたたみ時サイズ:幅280×奥行280×高さ26mm 耐荷重:10kg ブラック PCA-LTSH8BK",
+      "url": "https://www.amazon.co.jp/dp/B0845RFFHN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0845RFFHN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/715YgY5gAPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "8段階角度調整機能と高さアップ脚付の折りたたみ式ノートPCスタンドです。",
+        "ノートPCの画面部分を上げることで目線をあげることができ、PC作業時の姿勢を改善することができます。",
+        "傾斜角度を23°・27°・31°・36°・40°・47°・50°・53°の8段階に調整可能です。",
+        "高さを9.5cmアップできる折りたたみ式の脚付です。",
+        "高さアップ脚を利用すればノートPCスタンドの下のスペースを有効活用でき、ノートPCスタンドの下のスペースにキーボードを収納することができます。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 4275,
+      "star_rating": 4.2,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-30",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0FC27S245",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:52:59+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B095W9HP4N",
+      "title": "BoYata ノートパソコン スタンド ミニ スタンド PCスタンド パソコンスタンド タブレットスタンド 無段階高さ調整 人間工学 姿勢改善 猫背解消 滑り止め付き 放熱対策 折りたたみ式 軽量 在宅勤務・リモートワーク Macbook/Macbook Air/Macbook Pro/iPad/ノートPCなど14インチまでに対応 シルバー",
+      "url": "https://www.amazon.co.jp/dp/B095W9HP4N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B095W9HP4N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61k9PDhkQLS._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【姿勢改善＆無段階高さ・角度調整可能】BoYata ノートパソコンスタンドは人間工学に基づいて設計されて、PC作業時、 視線が高くなり姿勢が正されることで、肩や腰や首など負担を軽減してくれて、猫背なども有効に防止できます。最小高度2.9cm～最大高度30cmまで自分に最適な高度に調整可能、机と椅子の不便な高さから解放され、デスクワークがもっと快適になります。",
+        "【滑り止めパッド・安定性抜群】パソコンスタンドの爪の内側・表面・底部共に10個滑り止めパッド付き、パソコンの落下とパソコンスタンドの移動の心配はありません。タイピングしても揺れません。回転軸部分は耐腐食性を高めるアルマイト処理で、摩擦に強く、5kgまでに支持可能。Boyata スタンドの角度調節は多少力かかりますがが、成人女性でも問題ない程度です。逆に、調節に力が必要な分しっかりしているので、使用中に下がってくるようなことは無い、安定性抜群。",
+        "【放熱性優秀&amp;折りたたみ式】冷却しやすいアルミ合金材料を採用し、PCスタンドの天板に美しさと耐久性を兼ね備えた花隙間を設けて、空気の流動性と放熱性を向上させて、デバイスの自然放熱を実現し、ラップトップのバッテリーの使用寿命を延ばすことができます。熱暴走しやすい夏場には特に役に立つでしょう。折りたたみ式ノートパソコンスタンドなので、折りたためば、カバンの中に収納して持ち運べてでかけて、カフェや新幹線、飛行機移動中、出張、展示会など様々シーンに活躍できます。",
+        "【軽量化の設計・デスク環境を改善】PCスタンドとタブレットの接触面のサイズ：約250mm×210mm；底板のサイズ：237mm×199mm。0.8kgの重量はBoyata 従来の同シリーズのノートパソコンスタンドより大幅に軽量化！年齢問わず、学生から高齢者まで、在宅勤務、リモート授業、勉強、読書など幅広く活用できます。PC作業で目が疲れやすい、猫背、肩こり、首周りが痛みがち、集中力低下などに心当たりのある方におススメです。",
+        "【キーボード収納・幅広い対応機種】アルミ合金素材から全体的な構造まで、どこに触れてもシルクのような滑らかな手触りと感じられます。Z字型の構造で、pc スタンドの下に空間ができるので、使わない時はUSBハブ、キーボードなどを収納できるのが助かります。Macbook/Macbook Air/ Macbook Proシリーズ/Surface/Surface Proシリーズ/Surface Book/iPad Pro/Sony/HPなどのすべての7－14インチのノートPCやタブレットを幅広くに対応可能です。"
+      ],
+      "maker": "BoYata",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 2890,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B09C81Y41D",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:53:07+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BBTTFQWT",
+      "title": "KKaMM ノートパソコンスタンド タブレット スタンド パソコンスタンド パソコン台 pcスタンド ノートpc スタンド macbook スタンド pc台 折りたたみ式 磁石内蔵 腰痛 肩凝り 姿勢改善 持ち運び 高さ調整可能 アルミ合金製 人間工学(黒)",
+      "url": "https://www.amazon.co.jp/dp/B0BBTTFQWT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BBTTFQWT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61d3VRi2PlL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "✅【人間工学設計スタイリッシュデザイン】👍KKaMM(カム) ノートパソコンスタンドを使用することにより、目線を上げ正しい姿勢を保ち、首の疲れや肩凝りや腰痛の改善をサポートします。本パソコンスタンドは６段階高さ調整ができ、お好みの高さに合わせることで、猫背を防ぎ長時間のデスクワークでも体への負担を低減します。KKaMM最新設計のpcスタンドはパソコン台に無駄な穴を全て省きスタイリッシュ美しい外観に仕上げました。surface スタンドはもちろんapple社のipadスタンドやmacbook スタンドやmac スタンドとしてもとてもマッチしています。",
+        "✅【世界初磁石内蔵＆手首が当たりにくい】👍KKaMM(カム) パソコン スタンドは世界初の磁石内蔵ノートpc スタンドです。よりスムーズに収納ができ、隙間なくよりコンパクトに収納できるpc スタンドです。他社のノートパソコン　スタンドはホールダー先端の角度が高くかつシリコンは全面を覆っていないため、タイピングの際はストッパーの先端は手首に当たり痛いのですが、KKaMM ノート パソコンスタンドはストッパーの先端の角度と高さを最適化し、シリコンを縁まで覆っているため、手首の痛みを改善し、直接タイピングをしても快適に使用することができます。",
+        "✅【17型PCまで対応＆軽量持ち運び楽々】👍KKaMM(カム) ノートパソコン スタンドの設置最大幅は18.2㎝のため、17インチまでのノートパソコンを快適にサポートすることができます。他社スタンドよりも対応可能デバイス範囲が多くなっております。ワイド幅ノート パソコン スタンドでありながら最軽量設計となっており、わずか245gです。またパソコン　スタンドをコンパクトに折りたためることができ、かさばらず簡単便利に収納/持ち運びすることができます。収納袋を一個同梱しております。収納袋にスタンドをしまっておけば収納と持ち運びをさらに便利にサポートします。",
+        "✅【多種多様な用途＆豊富な使用シーン】👍ノートパソコン用スタンドのみならず、タブレット スタンド、液タブ スタンド、pc 台、ノートpcスタンド、ノートパソコン 台、パソコン 台、パソコン置き台、傾斜台、書見台、譜面台、ブックスタンド、本立てとしても使用可能です。コンパクト折りたたみ式laptop standのため、さまざまなシーンで大活躍、オフィス、自宅、外出先、出張先、新幹線、飛行機、展示会等々。性別年齢を問わず、テレワーク、在宅勤務、リモートワーク、勉強、読書、演奏時も活用することができます。Macbook/Macbook Air/ Macbook Proシリーズ/Surface/Surface Proシリーズ/Surface Book/iPad Pro/Sony/HP/Kindle/HUAWEI等のノートPCやタブレットを幅広く対応しております。",
+        "✅【選りすぐり素材＆安心の３年保証】👍KKaMMノートパソコンスタンド 折りたたみ式はADC12アルミダイカスト鋳造製法で製造しています。耐久性も安定性もとても高いです。従来のラップトップスタンドより大きいシリコンゴムを採用しており、傷防止効果、デバイスをpc台に載せた時の安定性を向上しました。またデバイスのキズ防止にも効果的です。本パソコンスタンドはpcとの接触面は少なく高い排熱効果があり、デバイスのフリーズ対策にもなります。購入後もずっとご安心頂けますよう本スタンドは最大3年保証が付いております。詳細は商品同梱ガイドをご確認下さい。",
+        "Item weight : 245.0 grams"
+      ],
+      "maker": "KKaMM",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 2156,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0D83GLH9N",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:53:17+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B097HL2V8Q",
+      "title": "ZEEKK ノートパソコンスタンド PCスタンド アルミ合金 タブレットスタンド 折りたたみ 軽量 安定 放熱 滑り止め 人間工学設計 高さ 角度6段階調整 収納可能 在宅/出勤勤務 持ち運びに便利 10.5-17インチまで対応",
+      "url": "https://www.amazon.co.jp/dp/B097HL2V8Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B097HL2V8Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71rviP25pjL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【人間工学設計＆6段階高さ調節可能】ノートパソコンスタンドは人間工学デザインにより、視線が高くなり適正な姿勢に、肩や腰や首など負担を軽減してくれて、猫背などを有効に防止できます。長時間のノートパソコン作業時に傾斜角度約15°～45°の6段階を調整可能、自身に合わせて最適な姿勢で気楽に仕事場を作り、デスクワークがもっと快適になります。注意:パソコンスタンドを最大の角度まで伸ばしてから使用します。",
+        "【滑り止め＆安定性抜群】滑り止めシリコンパットはスタンドの上と下に付いているので、PCを全面的な保護できるではなく、デスクなどの接触する面も保護できます。高品質連結金具スムーズに引っ張れる、安定性が高い。様々なパソコンの重量を耐えられます。",
+        "【優れた放熱性】ノートパソコンスタンドは熱伝導率の高いアルミ合金とシリコン素材で作られています、特別な中空設計により、放熱面積が最大限度に広げて、冷却スタンドとして放熱性も非常に良いです。熱い日にタブレットやノートパソコンを使いて長時間のテレワーク時に放熱重宝です。",
+        "【折り畳み式＆持ち運び便利】折りたためサイズは26cm*6cm、わずか220g超軽型で、収納バッグも付いていますので持ち運びに便利です。薄くて軽量なので、保管場所を選ばず、スタイリッシュで出張などにもバッグに入れて持ち運びできます。在宅勤務やオフィス、カフェー、新幹線、飛行機でのご利用も違和感がない。在宅でも出勤勤務でも、おススメできるアイテムです。",
+        "【幅広い機種対応】17インチ以下のノートPCやタブレットに幅広く対応可能です。自宅、旅行、出張、会社などにいろいろな場所にも使え、様々なシーンで大活躍。さらに、本や雑誌などのスタンドとして活用していただけます。"
+      ],
+      "maker": "ZEEKK",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 1885,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0DRRSJX4Q",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:53:25+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D637HRT5",
+      "title": "【革新的・極コンパクト】 SODI ノートパソコンスタンド PCスタンド 折りたたみ式 安定感 超軽量 角度調整 姿勢改善 おしゃれ laptop stand パソコン台 卓上 持ち運び 外出 自宅 リモートワーク オフィス 10-16インチ 収納ポーチ 日本語取扱説明書 スペースグレイ",
+      "url": "https://www.amazon.co.jp/dp/B0D637HRT5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D637HRT5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61buiKXwDZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "👍【革新的・極コンパクト】SODI 314PCスタンドの重さはわずか185g（iPhone 17 Pro Maxの重さ：231g）、折りたたみサイズは12.7*4.4*2cmで、スマホよりも小さくなります。手にすっぽり握れるサイズで持ち運びやすい。収納袋も付属しており、カバンに収める際に周囲のものへの傷つける心配もありません。フリーアドレスや出張、図書館、テレワークなど様々なシーンで活用できます。新社会人や大学生へのギフトにも最適。オフィス、オンライン授業、カフェでの作業もこれ一つで快適に。",
+        "👍【革新的・スプリング式】従来のPCスタンドとは異なり、調整アームはスプリング設計を採用しています。1秒で最適な視点に固定でき、グラグラすることもありません。また、さまざまな角度のニーズを満たすために6段階の高さ調整できます。人間工学に基づいた設計で、目線が上に向いて、肩が肘が楽になります。腰痛や猫背のやわらかにも役立ちます。",
+        "👍【放熱効果・安定性抜群】独特のH字型デザインにより、構造がシンプルで美しい。優れた放熱機能を備えており、長時間の使用でもノートパソコンの過熱を防ぎます。涼しく保ち、パフォーマンスと寿命を向上させます。さらに、本体は100%高品質のアルミ合金で作られており、頑丈で安定性が高い。強くタイピングしても揺らない。ゲームPCでも安定して使えます。",
+        "👍【超滑り止め・快適に使用】デバイスと接触するすべての領域はシリコン滑り止めパッドでできており、ラップトップを傷つけないだけでなく、滑る危険もなくノートPCをしっかりと固定します。また、スタンドの手前突起部分(ラバー部分)は折り曲げることが可能です。ちょうどいいサイズで出っ張りがなくタイピングの邪魔にならない。様々な形状のデバイスをしっかりと支えることができます。",
+        "⭐【対応機種】Macbook/Macbook Air/ Macbook Pro/MacBook Neoシリーズ/Surface/Surface Proシリーズ/Surface Book/iPad Pro/Sony/HP/Kindle/HUAWEIなど10-16インチのデバイスに対応しております。ipadや液タブを載せるのもよいです。パケージ内容：1*ノートパソコンスタンド、1*収納袋、1*日本語取扱説明書。",
+        "❤【2年間の長期保証付き】SODIでは2年間の長期保証と安心のカスタマーサポートに対応。ご購入にあたりご不明点等がございましたら、お気軽にお問い合わせください。"
+      ],
+      "maker": "SODI",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 1864,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名SODI。革新的・極コンパクトの販促文字列を除去",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0DWS6L84M",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:53:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F8BWQD33",
+      "title": "【国内正規品】ONED Majextand・人間工学に基づくノートパソコンスタンド (スペースブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0F8BWQD33?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F8BWQD33?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/5137t2WrrkL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ノートパソコンスタンドは通常、使用中の頚椎を保護するだけでなく、放熱を促進させる後があります。しかし、そのような効果を理解しつつも通常のスタンドはサイズや重量が大きく、日常の使い勝手に問題があることが多々あります。あるいは、デザイン、耐久性、または使用方法が複雑で満足できず、持ち出すことがほとんどないということもあるかもしれません。これら全ての問題を解決する最高のスタンドがMajextandです。",
+        "【硬貨よりも薄いデザイン・簡単な高さ調整】 わずか1.7mmの厚みで硬貨よりも薄いデザインで持ち運びも簡単です。しかも人間工学に基づく6段階の高さ調整がすぐにできます。",
+        "【正しい姿勢を保持・3D放熱構造】人間工学に基づいた正しい姿勢を保つことで頚椎を保護するとともに、快適なタイピングを実現します。さらにスタンドを使用することで空気の流れによりノートパソコンの熱を抑えます。",
+        "サイズ：L 141mm x W 140mm、厚み：1.7mm、重量：約136g、高さ調整：6段階（7cm ~ 12cm）",
+        "素材：ステンレスティール、亜鉛合金、POM製の脚部",
+        "適合性：全てのApple製MacBook / MacBook Pro 及び スクリーンサイズが18インチ以下のノートパソコン（ただし、底面がフラットであるもの）注：一部Windowsノートパソコンでは使用できない場合があります。",
+        "内容物：1 x Majextand、4 x ゴム足、1 x アルコールクリーナー、2 x 両面テープ"
+      ],
+      "maker": "ONED",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 228,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B07GB67P9V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:53:46+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F9YHQR7M",
+      "title": "【革新的・極コンパクト】 SODI ノートパソコンスタンド PCスタンド 折りたたみ式 安定感 超軽量 角度調整 腰痛 猫背 姿勢改善 おしゃれ laptop stand パソコン台 卓上 持ち運び 外出 自宅 リモートワーク 10-16インチ 収納ポーチ 日本語取扱説明書 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0F9YHQR7M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F9YHQR7M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61Y5XWT1AsL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "👍【革新的・極コンパクト】SODI 314PCスタンドの重さはわずか185g（iPhone 17 Pro Maxの重さ：231g）、折りたたみサイズは12.7*4.4*2cmで、スマホよりも小さくなります。手にすっぽり握れるサイズで持ち運びやすい。収納袋も付属しており、カバンに収める際に周囲のものへの傷つける心配もありません。出張や図書館、テレワークなど様々なシーンで活用できます。新社会人や大学生へのギフトにも最適。オフィス、オンライン授業、カフェでの作業もこれ一つで快適に。",
+        "👍【革新的・スプリング式】従来のPCスタンドとは異なり、調整アームはスプリング設計を採用しています。1秒で最適な視点に固定でき、グラグラすることもありません。また、さまざまな角度のニーズを満たすために6段階の高さ調整できます。人間工学に基づいた設計で、目線が上に向いて、肩が肘が楽になります。腰痛や猫背のやわらかにも役立ちます。",
+        "👍【放熱効果・安定性抜群】独特のH字型デザインにより、構造がシンプルで美しい。優れた放熱機能を備えており、長時間の使用でもノートパソコンの過熱を防ぎます。涼しく保ち、パフォーマンスと寿命を向上させます。さらに、本体は100%高品質のアルミ合金で作られており、頑丈で安定性が高い。強くタイピングしても揺らない。ゲームPCでも安定して使えます。",
+        "👍【超滑り止め・快適に使用】デバイスと接触するすべての領域はシリコン滑り止めパッドでできており、ラップトップを傷つけないだけでなく、滑る危険もなくノートPCをしっかりと固定します。また、スタンドの手前突起部分(ラバー部分)は折り曲げることが可能です。ちょうどいいサイズで出っ張りがなくタイピングの邪魔にならない。様々な形状のデバイスをしっかりと支えることができます。",
+        "⭐【対応機種】Macbook/Macbook Air/ Macbook Pro/MacBook Neoシリーズ/iPad Pro/Sony/HP/Kindle/HUAWEIなど10-16インチのデバイスに対応しております。ipadや液タブを載せるのもよいです。パケージ内容：1*ノートパソコンスタンド、1*収納袋、1*日本語取扱説明書。",
+        "❤【2年間の長期保証付き】SODIでは2年間の長期保証と安心のカスタマーサポートに対応。ご購入にあたりご不明点等がございましたら、お気軽にお問い合わせください。"
+      ],
+      "maker": "SODI",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 1864,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名SODI。革新的・極コンパクトの販促文字列を除去",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0DWS6L84M",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:53:53+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CPHX4R58",
+      "title": "MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【放熱穴付き】 持ち運び簡単 折りたたみ式 超薄型 安定性 15°&25°二段階調整可能 16インチまで対応 コンパクト PC/MacBook/ラップトップ/iPadタブレット に対応 一体型パソコンスタンド 「貼り付け」（ジェットブラック）",
+      "url": "https://www.amazon.co.jp/dp/B0CPHX4R58?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CPHX4R58?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61LHqJEFuxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【世界初・即刻開き】2019年にアメリカKickstarterで初デビューし、数百万ドルを調達したスター製品——世界最薄クラスのノートPCスタンド「 MOFT（モフト）」 オリジナル折りたたみ式デザインにより、一瞬で開いて使用できます。デビューして三年間、世界中100万人以上のユーザーに愛用され、人々のデジタルライフにサポートし続けました。",
+        "【角度二つ・快適に切り替え】ミニマムなデザインで、ハイモード、ローモードという2つの角度を調整することができます。座った姿勢での作業する時、視線をより高くして背筋を伸ばしたい方に是非おすすめです。体勢調整に気を付けるきっかけも作りましょう。",
+        "【極めた軽さ・幅広いに対応】重さ僅か89g、厚さも3mmとなっています。マグネット内蔵設計で、スタンドを収納する時はパソコンの下に隠れることができ、存在感が極めて薄くなります。一方で、立てるときは速くてスマートになり、一度使うと忘れ難いパソコンスタンドです。最大15.6インチまでに対応、底穴付きの放熱対策も採用しています。Macbook Pro/Air/タブレットはもちろん、他の平底ノートPCにも対応するので、MOFTスタンドを是非一度試してください！",
+        "【厳選素材・重さに耐久】特製したポレウリタンとファイバーグラス素材と巧みな折り畳みデザインと組み合わせ、超軽量・超薄型で高強度・高安定性を実現します。耐荷重は最大5kg、作業時の安定・安全な支えを提供いたします。＊ご注意：パソコンスタンドをご使用の際、キーボードの周りを叩くとパソコンが揺れるという意見を頂きました。この件について、実際に使用した場合を検討し、作業時両手を自然にキーボード上に置くと揺れることはないのでご安心ください。",
+        "【PCと一体化・究極の身軽さと機動力】 従来のPCスタンドのように「別々に持ち運ぶ」煩わしさはもうありません。ノートPCの背面に薄く密着し、まるでパソコンの一部になったかのような一体型設計。荷物を増やすことなく、これ一つで軽やかに外出できます。カフェや移動先でも、PCを開いて一瞬でセットアップするだけで、そこがあなただけの快適なワークスペースに。ミニマリストが求める「究極の軽装」と、プロが求める「瞬発力」を両立し、どこでもスマートな作業環境を実現します。",
+        "【取り外し簡単】本品は繰り返し接着可能なリムーバブルグルーを採用するため、場合による貼りながら調整することや、剥がしてまた貼ることも、思いのままにできます！ご注意：取り外す場合、無理な力を加えないよう、上部の任意の角から剥がし始めてください。スタンドの粘着面に埃がついた場合は粘着面を水洗いし、自然乾燥させてからご使用ください。また、装着時は上下の向きに注意し、スタンドをPC背面のヒンジ近くへ、ステッカーと一緒に貼り付ければ完了です。 何かご不明な点等がございましたら気軽にお問い合わせください。"
+      ],
+      "maker": "MOFT",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 1743,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_observed_at": "2026-09-15T03:10:07+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名MOFT。公式直営店等の販促文字列を除去",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0FM7HKJVW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:54:02+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BHWPXHTY",
+      "title": "MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【放熱穴付き】 持ち運び簡単 折りたたみ式 超薄型 安定性 15°&25°二段階調整可能 16インチまで対応 コンパクト PC/MacBook/ラップトップ/iPadタブレット に対応 パソコンスタンド 「貼り付け」（スターグレー）",
+      "url": "https://www.amazon.co.jp/dp/B0BHWPXHTY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BHWPXHTY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61zud2xXAkL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【世界初・即刻開き】2019年にアメリカKickstarterで初デビューし、数百万ドルを調達したスター製品——世界最薄クラスのノートPCスタンド「 MOFT（モフト）」 オリジナル折りたたみ式デザインにより、一瞬で開いて使用できます。デビューして三年間、世界中100万人以上のユーザーに愛用され、人々のデジタルライフにサポートし続けました。",
+        "【角度二つ・快適に切り替え】ミニマムなデザインで、ハイモード、ローモードという2つの角度を調整することができます。座った姿勢での作業する時、視線をより高くして背筋を伸ばしたい方に是非おすすめです。体勢調整に気を付けるきっかけも作りましょう。",
+        "【極めた軽さ・幅広いに対応】重さ僅か89g、厚さも3mmとなっています。マグネット内蔵設計で、スタンドを収納する時はパソコンの下に隠れることができ、存在感が極めて薄くなります。一方で、立てるときは速くてスマートになり、一度使うと忘れ難いパソコンスタンドです。最大15.6インチまでに対応、底穴付きの放熱対策も採用しています。Macbook Pro/Air/タブレットはもちろん、他の平底ノートPCにも対応するので、MOFTスタンドを是非一度試してください！",
+        "【厳選素材・重さに耐久】特製したポレウリタンとファイバーグラス素材と巧みな折り畳みデザインと組み合わせ、超軽量・超薄型で高強度・高安定性を実現します。耐荷重は最大5kg、作業時の安定・安全な支えを提供いたします。＊ご注意：パソコンスタンドをご使用の際、キーボードの周りを叩くとパソコンが揺れるという意見を頂きました。この件について、実際に使用した場合を検討し、作業時両手を自然にキーボード上に置くと揺れることはないのでご安心ください。",
+        "【PCと一体化・究極の身軽さと機動力】 従来のPCスタンドのように「別々に持ち運ぶ」煩わしさはもうありません。ノートPCの背面に薄く密着し、まるでパソコンの一部になったかのような一体型設計。荷物を増やすことなく、これ一つで軽やかに外出できます。カフェや移動先でも、PCを開いて一瞬でセットアップするだけで、そこがあなただけの快適なワークスペースに。ミニマリストが求める「究極の軽装」と、プロが求める「瞬発力」を両立し、どこでもスマートな作業環境を実現します。",
+        "【取り外し簡単】本品は繰り返し接着可能なリムーバブルグルーを採用するため、場合による貼りながら調整することや、剥がしてまた貼ることも、思いのままにできます！ご注意：取り外す場合、無理な力を加えないよう、上部の任意の角から剥がし始めてください。また、スタンドの粘着面に埃がついた場合は粘着面を水洗いし、自然乾燥させてからご使用ください。 何かご不明な点等がございましたら気軽にお問い合わせください。"
+      ],
+      "maker": "MOFT",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 1743,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-13",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名MOFT。公式直営店等の販促文字列を除去",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0FM7HKJVW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:54:10+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08TLVKBMJ",
+      "title": "UGREEN ノートパソコンスタンド PC 折りたたみ式 コンパクト 持ち運びやすい",
+      "url": "https://www.amazon.co.jp/dp/B08TLVKBMJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08TLVKBMJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61XXLkcBMyS._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "5段階高さ調整・姿勢改善：エルゴノミクスの設計により、机に対してキーボードが15度から35度まで変換できて、画面の高さも6～15cmほど高くすることができます。視線が高くなり姿勢も正されて長時間のデスクワークでも体の疲労が溜まりにくくなります。頸椎の疲れや肩こりを解消できリモートワーク時代の必要品としておすすめします。",
+        "安定性抜群 &amp; 耐荷重5KG：軽量で安定性のあるアルミ合金で作られ、表面にあるシリコン滑り止めに大きく、安定性が抜群の上にパソコンを傷つけません。また、開いた時の横幅が広くてタイピング・クリック・スクロールなどの操作で揺れはほとんど見られません。耐荷重は5kgに達し、17.3インチまでの幅広いデバイスに対応できます。",
+        "コンパクト＆携帯便利：折りたたみ式パソコンスタンドは27*5.5*1cmの小型のサイズで、開く長さは23.3cmです。わずか220gで、携帯電話のように軽量です。使用するときネジ不要、力を入れて調整する必要もなく、誰でも簡単に組み立ててすぐに使えるスタンドです。スーツケース、リュックはもちろん、コンパクトに折りたたんでカバンに収納、持ち運びが出来るポータブルノートPCスタンドで、外出先に持ち運んで使用することができます。",
+        "放熱性抜群＆耐久性抜群：PCスタンドは冷却しやすいアルミ合金材料を採用し、特別な中空デザインにより、空気が通りやすく、放熱性は非常に良いです。高品質のアルミ合金素材を採用されるため、全体的な構造からディテールに至るまで 精巧に作られ、耐久性も優れていて長時間使用可能です。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 5205,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名UGREENと会社ブランド表記の正規化",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T12:54:21+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09QCRDRRS",
+      "title": "サンワダイレクト ノートパソコンスタンド 折りたたみ 軽量 10段階角度調整 斜め 液タブ iPad スタンド ホワイト 200-STN062W",
+      "url": "https://www.amazon.co.jp/dp/B09QCRDRRS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09QCRDRRS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61T7kxph5DL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "軽量 で金属製スタンドに比べてキズを付けにくい樹脂製です。また、 持ち運び に便利な&#34;専用収納ポーチ付き&#34;です。",
+        "角度を10段階で調整することができるので、お好みの角度で使用することができます。",
+        "ノートパソコンを置いて使用することで、使用時の視線が高くなり姿勢が正され長時間のデスクワークでの体への負担を軽減します。",
+        "ノートパソコンとの接触面積が少なくノートパソコン下に空間ができることで放熱を促進します。"
+      ],
+      "maker": "サンワサプライ",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 33,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "ensei11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T12:54:30+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B15B32NV",
+      "title": "MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【中空デザイン】 持ち運び簡単 折りたたみ式 超薄型 安定性 15°&25°二段階調整可能 16インチまで対応 コンパクト PC/MacBook/ラップトップ/iPadタブレットに対応 パソコンスタンド 「貼り付け」 AirFlow (ジェットブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0B15B32NV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B15B32NV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61AMAYIiywL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【放熱効果革新・中空デザイン】あらゆる種類のノートパソコンに互換性のある通気孔付きノートパソコン用スタンド -- MOFT Airflow Standが新登場！ 研究し尽くされた中空デザインとコンパクトなサイズは、空気の流れを促すことで溜まった熱を解消し、ノートパソコンの効率を上げながら、自然と正しい姿勢で作業することができます。",
+        "【折り畳み式・2段階調整】MOFT Airflow Standは、MOFT歴代のパソコンスタンドのデザインを踏襲し、一秒開きで15°&amp; 25°二段階の角度があらゆるシーンで調整可能、快適な使用角度を提供し、仕事の効率を向上させることができます。",
+        "【驚きの軽さ· ミニマリズムへのこだわり】重さわずか65g，サイズは約224*135*2.5mm。AirFlow Standは薄さ・軽さの限界に挑み、レギュラーサイズを20％削減し、25％以上の軽量化を実現した製品です。 さらに、収納時はスタンドをしっかり固定できるように、スナップシール2枚付属しており、まさに見えない収納を実現しています。",
+        "【シンプルで効率的・変わらぬサポート】特殊なPU素材を使用し、思い通りに動く折りたたみ式デザインを採用し、軽量・小型・薄型でありながら、最大耐荷重5kgの日常使いのできるパソコンスタンドです。 ＊ご注意：パソコンスタンドをご使用の際、キーボードの周りを叩くとパソコンが揺れるという意見を頂きました。この件について、実際に使用した場合を検討し、作業時両手を自然にキーボード上に置くと揺れることはないのでご安心ください。",
+        "【PCと一体化・究極の身軽さと機動力】 従来のPCスタンドのように「別々に持ち運ぶ」煩わしさはもうありません。ノートPCの背面に薄く密着し、まるでパソコンの一部になったかのような一体型設計。荷物を増やすことなく、これ一つで軽やかに外出できます。カフェや移動先でも、PCを開いて一瞬でセットアップするだけで、そこがあなただけの快適なワークスペースに。ミニマリストが求める「究極の軽装」と、プロが求める「瞬発力」を両立し、どこでもスマートな作業環境を実現します。",
+        "【粘着式で取り外し簡単】本品は繰り返し接着可能なリムーバブルグルーを採用するため、場合による貼りながら調整することや、剥がしてまた貼ることも、思いのままにできます！ ご注意：取り外す場合、無理な力を加えないよう、上部の任意の角から剥がし始めてください。スタンドの粘着面に埃がついた場合は粘着面を水洗いし、自然乾燥させてからご使用ください。また、装着時は上下の向きに注意し、スタンドをPC背面のヒンジ近くへ、ステッカーと一緒に貼り付ければ完了です。 何かご不明な点等がございましたら気軽にお問い合わせください。"
+      ],
+      "maker": "MOFT",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 671,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名MOFT。公式直営店等の販促文字列を除去",
+      "scope_pending": [
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0FM7HKJVW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:54:42+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BCK3V2X6",
+      "title": "Aoviho ノートパソコンスタンド",
+      "url": "https://www.amazon.co.jp/dp/B0BCK3V2X6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BCK3V2X6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51qAU2BxTDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "１、【安定性優越＆滑り止め＆創意があったデザイン】弊社のノートパソコンスタンドは高品質な6系6063のアルミニウム合金素材を使用して特別のクラフトで製造し、複雑のアノード酸化されました。製品の表面にはとても繊细なアノード酸化顆粒をついて、良い肌触りです。本体が超耐用の上に頑丈で、底部に四つの滑り止めラバーをつけ、接触面にも四つの保護用ゴムがあり、六個の中空穴はまるでアニメのキャラみたい、とても可愛いく亜細亜人の笑顔というデザインです。、たま調整道具を付属したので、ノートパソコンはスタンドに載せて振動せずに作業でき、安定性は抜群です。",
+        "2、【角度調整可能＆人間工学＆無段階高度】人間工学デザインにより、高度と角度を無段階調整可能です。PC作業やタブレット用途等、お好みのまま、適当な高さやアングルを調整し、在宅ワークでも楽に。ノートパソコンスタンドを使用すると、パソコンと人の視線は一致し、それと姿勢が正しくなり、背筋が伸び、長い間のデスクトップ作業で、人の首と肩に負担を軽くでき、猫背や腰痛など有効に防止できます。",
+        "3、【放熱対策＆通風穴設計】載せる面の厚さは2ｍｍで、上部には三個の三角形冷却中空だけでなく、下にも三つの孔があります。金属業界の認識では、ノートパソコンスタンドは通り穴なくても、冷金属であれば、散熱性も甲斐があります。排気口とアルミ冷金属の組みあわせで、散熱性が最も優位です。",
+        "４、【持ち運び＆収納便利＆省スペース】弊社のノートパソコンスタンドは折り畳み式なので、二箇所の回転軸を折と、外出や出張等々に持ち運んで使用することができます。１４インチのカバンにいれても平気です。スタンドの底部にキーボードなどが収納でき、省スペースを有効に活用されます。",
+        "5、【対応機種】：MacBook, Acer, Lenovo, Sony ,東芝など最大15.6インチのノートパソコンが通用し、要注意：17インチのノートPCを使用する場合は外付けキーボードをお勧めです。iPad / Surface Pro / Samsungなどのタブレットにも対応できます。又はキーボード、本などのスタンドとしても広汎にご器用にこなしていただけます。Aoviho保証：お客様の気持ちは弊社にとってとても大切です。弊社は購入したお客様のため、最高のサービスをご承諾します。もしなにか問題あった場合、いつでもご連絡くださいませ。弊社は最大限の努力を尽くして最高なサービスご提供致します。二年間の保証期をお約束致します。"
+      ],
+      "maker": "Aoviho",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 5205,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途に合う折畳構造/寸法/重量を公式未確認。机上据置台として採用しない",
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0CTFFMHPM",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:54:53+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BNPYF86Y",
+      "title": "BoYata ノートパソコンスタンド (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0BNPYF86Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BNPYF86Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61B3vMykNLL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【360度回転&amp;180°角度調整2ヶ所】BoYata N33パソコンスタンドはお使いの使用状況に応じて、ツール不要で天板をくるっと自由に360度回転できます。180°調整が2ヶ所あり、高さ・角度も多段階調節可能です。★同僚とデータを議論する際にスタンドを移動する必要がなく、回転するだけで向かい合う相手と簡単に画面を共有できるので、家族で映画を見たり、オフィスでの会議やプレゼンテーション、在宅デスク作業などに最適なノートパソコンスタンドです。",
+        "【無段階高さ調整&amp;姿勢改善】BoYataパソコンスタンドは人間工学に基づいた設計により、高さが無段階調整（4CM-30CM）できます。PC作業時に自身を合わせて最適な高さと姿勢を整えて、首・肩・背中などへの負担が軽減されとともに猫背も有効に防止できます。 長時間のデスクワークが苦にならず、集中力も高まり作業効率UP！★注意：スタンドを高く上げた状態で、直接キーボードを打つと少し揺れる場合がありますので、別途キーボードをご用意することをおすすします。",
+        "【安定性抜群&amp;シリコーン保護】BoYata PCスタンドは美しさと強さを兼ね備えている炭素鋼を採用し、最大5kgまで耐えることができます。★Z型デザインに加え、使用中に下がってくるようなことは無く、頑丈で安定します。★スタンドの底部・パソコンを支える部分にシリコン製の滑り止めパッドが付いているため、安定性を高め、ノートパソコン・タブレットに傷がつく心配はありません。圧倒的な安定性と機能性を是非、実感ください！",
+        "【収納便利＆放熱性抜群】ノートPCスタンドの下に空きスペースを有効に活用して、書類を広げたり、使わない時のキーボート・USBハブ・メモ・ペン等を収納でき、デスク周りをスッキリ整頓します。★ノートパソコンとの接触面に通風穴を設けて、空気の流動性と放熱性を向上させているので夏場でも長時間作業しても熱が籠る心配が軽減されます。パソコンの使用寿命を延ばし、ノートパソコンはより速く運行することができます。",
+        "【高級感デザイン＆幅広く対応可能】スタイリッシュなシルバーと滑らかなエッジ処理や艶消しされたマットボディは高級感を演出、Macbookとの相性はバッチリで、どこにおいても室内インテリアと合わせやすいPCスタンドです。★対応機種：MacBook Air、Macbook Pro、Microsoft Surface、Google Pixelbook、Dell、HP、Acer、ASUS、Lenovo、Alienwareなどの11~17.3インチのノートパソコン。★オフィス、会議室、コンサートホールなどのシーンに大活躍、友人や家族へのギフトにも最適です。"
+      ],
+      "maker": "BoYata",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 1201,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "携帯用途に合う折畳構造/寸法/重量を公式未確認。机上据置台として採用しない",
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0HC6TB3PS",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:55:02+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DT9PS7QP",
+      "title": "MOFT ノートパソコンスタンド 非粘着式",
+      "url": "https://www.amazon.co.jp/dp/B0DT9PS7QP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DT9PS7QP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61IUcCtqTcL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "『一瞬で快適なワークスペースに』MOFTノートパソコンスタンドは、わずか一瞬でどこでも、どんな場所でも、快適なワークスペースを創出します。世界最薄クラスの折りたたみ式デザインは、カバンにすっぽり収まり、いつでもどこでも、あなたのオフィスへ変身。テレワーク、カフェ、移動中など、場所を選ばず、快適なタイピング体験をお届けします。",
+        "『軽くてスリム、持ち運び便利』このノートpcスタンドは紙のように薄く、コインのように軽く、重さ192g、厚さ4mmの超軽量設計でカバンに入れてもかさばらず、まるで持ち歩いていないかのような感覚です。会社や在宅でデスクワークをしても、外出先での作業も、快適にこなせます。あなたのワークスタイルをもっと自由に、もっと身軽に。",
+        "『非粘着タイプ、一台でマルチに活躍』ノートパソコンだけでなく、タブレット、本など、様々なデバイスに対応可能です。ノートパソコンに貼り付ける必要がなく、デバイスを傷つける心配もありません。一台でマルチに活躍するMOFTノートpcスタンドは、あなたのデジタルライフをより豊かにします。（ご注意：iPadとパソコンスタンドを併用する際、保護ケースの装着を推奨します。）",
+        "『2段階角度調整、簡単に切り替え』15°と25°の2段階角度調整で、あなたにぴったりの姿勢に。画面の高さを8cmまで上げられるので、猫背防止に役立ち、長時間作業による疲労を軽減します。取り付けが簡単、角度調整もスムーズで、1秒で作業モードに切り替えられ、快適な作業環境を整えられます。",
+        "『抜群の安定感と耐久性』さらに進化したMOFTパソコンスタンドは、独自開発のヴィーガンレザー「MOVAS」を採用し、高級感あふれる手触りと耐久性を両立。耐荷重はなんと12kg！アップグレードした表面のポリウレタン（PU）は劣化しにくく、高い防滑性と耐荷性を兼ね備えています。また15°モードではマグネット吸着機能を追加し、ワンタッチでしっかりデバイスを取り付けることが可能です。"
+      ],
+      "maker": "MOFT",
+      "query": "dg_20261130_laptop_stand",
+      "queries_matched": [
+        "dg_20261130_laptop_stand"
+      ],
+      "review_count": 88,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名MOFT。公式直営店等の販促文字列を除去",
+      "scope_pending": [
+        "携帯用途に合う折畳構造/寸法/重量を公式未確認。机上据置台として採用しない",
+        "端末の底面寸法・耐荷重・通気孔・装着方式を公式確認"
+      ],
+      "parent_asin": "B0DDPTF1KG",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:55:12+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:laptop_stand"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-30",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:laptop_stand",
+    "theme": "外出先でPCの目線を上げる。ノートPCスタンド",
+    "exclude_used_since": "2026-10-31",
+    "current_stock_verified": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T12:55:12+09:00"
+}
