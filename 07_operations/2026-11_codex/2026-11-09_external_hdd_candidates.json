@@ -1,0 +1,848 @@
+{
+  "generated_at": "2026-10-10T01:04:14+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261109_fd8499b3",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261109_external_hdd"
+  ],
+  "fetched_count": 21,
+  "dedup_count": 21,
+  "candidates": [
+    {
+      "asin": "B06W55K9N6",
+      "title": "ウエスタンデジタル(Western Digital) WD ポータブルHDD 2TB USB3.0 ブラック WD Elements Portable 外付けハードディスク / メーカー2年保証 WDBU6Y0020BBK-WESN 国内正規代理店品",
+      "url": "https://www.amazon.co.jp/dp/B06W55K9N6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B06W55K9N6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51wZUxvfHqL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "容量:2TB",
+        "対応OS: Windows 10, 8.1, 8(Mac OS Xで使用する場合はドライブの再フォーマットが必要)USB Aポートを搭載したMacであれば、本商品をフォーマットすることで使用可能でございます。",
+        "接続規格：USB3.0（USB3.2 Gen1 / USB3.1 Gen1 / USB 2.0との下位互換あり）",
+        "電源:USBバスパワー",
+        "主な付属品:USBケーブル(A-Micro B:長さ46cm)"
+      ],
+      "maker": "Western Digital",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 275151,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名WD/ウエスタンデジタル/Western Digitalの正規化",
+      "scope_pending": [],
+      "parent_asin": "B0F2HX3QSK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:58:25+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07VTFN6HM",
+      "title": "WD ポータブルHDD 2TB USB3.0 ブラック My Passport 暗号化 パスワード保護 外付けハードディスク / メーカー3年保証 WDBYVG0020BBK-WESN 国内正規代理店品",
+      "url": "https://www.amazon.co.jp/dp/B07VTFN6HM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07VTFN6HM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/510+J06fz0L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "容量: 2TB",
+        "対応OS (Windows): Windows10,8.1",
+        "対応OS (Mac): Mac OS X ※Macで使用する場合は再フォーマットが必要です。",
+        "接続規格/ドライブフォーマット形式: USB3.0（USB3.2 Gen1 / USB3.1 Gen1 / USB 2.0との下位互換あり）(USB-A to USB Micro-Bケーブル付属)/ NTFS",
+        "メーカー保証期間: 3年"
+      ],
+      "maker": "Western Digital",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 67590,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-01",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名WD/ウエスタンデジタル/Western Digitalの正規化",
+      "scope_pending": [],
+      "parent_asin": "B0F2HXD2GK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:58:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B091FV14V9",
+      "title": "UnionSine 1TB 外付けハードディスク超薄型外付けHDDポータブルハードディスク 2.5インチ USB3.0 | に対応 PC/Mac/PS4/XBox/テレビ録画(黒)HD2510",
+      "url": "https://www.amazon.co.jp/dp/B091FV14V9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B091FV14V9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61XbnUE8ipL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【アップグレード版】 - ミラーロゴストリップとストライプの滑り止めデザインを組み合わせることで、シェルの丸みを帯びた角はより保持に適しています。",
+        "【システム互換性】 - Ps4 / Xbox / Windows / Mac / Linux / Android / TV",
+        "【プラグアンドプレイ】 - ソフトウェアをインストールする必要はありません。プラグインするだけ。ドライブのすぐに使用できます。ハードディスクチップはアルミニウム混信防止層で包まれており、熱放散を向上させ、データを保護します",
+        "【超高速データ転送】- USB 3.0およびUSB 2.0ポートで動作し、超高速転送速度を提供します。理論上では、最大120MB/秒の書き込み速度は最大103MB/秒です。",
+        "【商品内容】 - ポータブルハードドライブ1個、USB 3.0ケーブル1本、ユーザーマニュアル1冊、ギフトタイプのシェルパッケージ。注：本物の保証サービスショップ-UnionSine-JP",
+        "当社はHD2510外付けハードディスクの公式ブランド販売店です。本製品は現在、KESHUO-JPストアでのみ販売しております。"
+      ],
+      "maker": "UnionSine",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 51809,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B093Y5WKXQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:58:42+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B091FS79T8",
+      "title": "UnionSine 500GB 外付け ハードディスク超薄型外付けHDDポータブルハードディスク2.5インチ USB3.0に対応 PC/Mac/PS4/XBox/テレビ録画(黒)HD2510 | に対応 PC/Mac/PS4/XBox/ テレビ録画(黒)HD2510",
+      "url": "https://www.amazon.co.jp/dp/B091FS79T8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B091FS79T8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61XbnUE8ipL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【アップグレード版】 - ミラーロゴストリップとストライプの滑り止めデザインを組み合わせることで、シェルの丸みを帯びた角はより保持に適しています。",
+        "【システム互換性】 - Ps4 / Xbox / Windows / Mac / Linux / Android / TV",
+        "【プラグアンドプレイ】 - ソフトウェアをインストールする必要はありません。プラグインするだけ。ドライブのすぐに使用できます。ハードディスクチップはアルミニウム混信防止層で包まれており、熱放散を向上させ、データを保護します",
+        "【超高速データ転送】- USB 3.0およびUSB 2.0ポートで動作し、超高速転送速度を提供します。理論上では、最大120MB/秒の書き込み速度は最大103MB/秒です。",
+        "【商品内容】 - ポータブルハードドライブ1個、USB 3.0ケーブル1本、ユーザーマニュアル1冊、ギフトタイプのシェルパッケージ。",
+        "当社はHD2510外付けハードディスクの公式ブランド販売店です。本製品は現在、KESHUO-JPストアでのみ販売しております。"
+      ],
+      "maker": "UnionSine",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 51809,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B093Y5WKXQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:58:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07BK6696F",
+      "title": "Amazon限定 バッファロー 外付けHDD 4TB テレビ録画 nasne 対応 静音 日本製 HD-AD4U3",
+      "url": "https://www.amazon.co.jp/dp/B07BK6696F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07BK6696F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61hdd3tMZBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "容量: 4.0TB",
+        "【対応機種】USB3.1(Gen1)/USB3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac、対応OS:Windows 10/8.1/7、Mac OS X 10.11以降",
+        "【対応TV】シャープ「アクオス」、ソニー「ブラビア」、パナソニック「ビエラ」、バッファロー「nasne」、Hisense、東芝「レグザ」、FUNAI、オリオン、三菱電機、LG Electronics、日立「Wooo」、ピクセラ、DXアンテナ、ディーオン(対応機種の詳細はメーカーHPを参照)",
+        "【接続規格】USB3.1(Gen1)/USB3.0/2.0",
+        "【サイズ】外形寸法(幅×高さ×奥行):114×33×171mm※本体のみ(突起部除く)、質量:約900g",
+        "電源:AC電源",
+        "【保証期間】1年 日本製",
+        "※データ復旧サービスは全て有償対応",
+        "付属品:USB3.1(Gen1)ケーブル(1m)、ACアダプター、取扱説明書(保証書) 【Amazon限定】簡易包装箱でお届けします。",
+        "熱伝導率の低い筐体内の空気層を減らし、ハードディスクからの発熱をより効果的に放熱するように設計しています。"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 50309,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-05",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "scope_pending": [],
+      "parent_asin": "B0FVKRLKK7",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:59:00+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07D7978NV",
+      "title": "バッファロー ポータブルHDD 2TB USB3.1(Gen1)/USB3.0用 HD-PCFS2.0U3-BBA",
+      "url": "https://www.amazon.co.jp/dp/B07D7978NV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07D7978NV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71TvSq5b8uL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "シンプル&amp;コンパクト。PCデータの保存に最適",
+        "容量:2TB",
+        "対応するパソコン:USB3.1(Gen1)/USB3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac、対応OS:Windows 10(64/32)/8.1(64/32)/7(64/32)、OS X 10.11以降",
+        "接続規格:USB3.1(Gen1)/USB3.0/2.0",
+        "サイズ:(幅×高さ×奥行):76×14×115mm※本体のみ(突起物除く)、質量:約175g※本体のみ",
+        "付属品:USB3.1(Gen1)ケーブル(50cm)、取扱説明書(保証書)※保証書はマニュアルに記載●保証期間:1年",
+        "ケーブル長: 50cm",
+        "※データ復旧サービスは全て有償対応",
+        "動作環境(結露なきこと):温度5〜35℃;湿度20〜80%",
+        "インターフェース:USB3.1(Gen1)/USB3.0/2.0、RoHS基準値:準拠"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 8309,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-05",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "scope_pending": [],
+      "parent_asin": "B08BZKCV79",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:59:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BN8VZ22H",
+      "title": "エレコム 外付けHDD ハードディスク ハイブリッドドライブ 6TB テレビ録画用/Mac/Windowsブラック ELD-HTV060UBK",
+      "url": "https://www.amazon.co.jp/dp/B0BN8VZ22H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BN8VZ22H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/414jrDJOW6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "テレビやレコーダーなどの機器に接続し、番組の録画ができるハードディスクです。",
+        "かんたん接続ガイドや国内スタッフによる充実したサポート体制により、はじめてHDDを購入される方でも心配ありません。",
+        "USB3.2(Gen1)/USB3.1(Gen1)/USB3.0対応で5Gbps(理論値)の高速転送が可能です。動画や写真などの大容量データを軽快に扱うことができます。",
+        "USB3.2(Gen1)/USB3.1(Gen1)/USB3.0対応のテレビに接続すれば、2番組同時録画などのさらに便利な機能も利用できます。",
+        "※機能の詳細、対応可否はテレビ側の仕様に依存します。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 1411,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FKGSRL2Y",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:59:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BMKPT7VC",
+      "title": "Amazon限定 バッファロー CMR HDD採用 外付けHDD 8TB テレビ録画対応 nasne対応 静音 日本製 HD-ACD8U3",
+      "url": "https://www.amazon.co.jp/dp/B0BMKPT7VC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BMKPT7VC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61YhicJvbmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "高性能CMR HDDを採用、テレビ／レコーダーに幅広く対応し同時録画に強い。",
+        "【対応機種】USB 3.2(Gen1)/USB 3.1(Gen1)/3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac、対応OS:Windows 11/10/8.1、Mac OS 10.15以降",
+        "【対応TV】シャープ「アクオス」、ソニー「ブラビア」、パナソニック「ビエラ」、バッファロー「nasne」、Hisense、東芝「レグザ」、FUNAI、三菱電機、LG Electronics、ピクセラ【対応レコーダー】シャープ「アクオス」、ソニー（対応機種の詳細はバッファローHPを参照。）",
+        "【サイズ】外形寸法(幅×高さ×奥行):114×33×171mm※本体のみ(突起部除く)、質量:約900g",
+        "【接続規格】USB 3.2(Gen1)/USB 3.1(Gen1)/3.0/2.0【保証期間】1年間",
+        "環境に配慮した簡易包装でお届けします",
+        "※データ復旧サービスは全て有償対応",
+        "【Amazon限定】壁紙ダウンロード付き"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 84,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "scope_pending": [],
+      "parent_asin": "B0BMKDZ8SP",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:59:28+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H5W5576J",
+      "title": "FFF 外付けHDD 2TB ポータブルHDD PC・テレビ録画対応 USB3.2 高速転送 Windows/Mac対応 MAL22000EX3-BK | 国内、神奈川県で組立作業を行っております。品質や信頼性を徹底的に管理。",
+      "url": "https://www.amazon.co.jp/dp/B0H5W5576J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H5W5576J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71BeZPaRF8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "▼IRIE、REGZAなど幅広いTV接続に対応 各社録画対応TVに対応しています。",
+        "▼USB3.2(Gen1)接続でデータを高速転送 動画や写真などの大きいデータも高速で転送が可能。従来のUSB2.0に比べて約10倍のスピードで転送します。",
+        "▼ドライバインストール・フォーマット不要 PC本体と接続するだけでお使いいただけます。",
+        "▼スタイリッシュなコンパクトボディ 光沢感のあるクールでスタイリッシュなボディを採用。コンパクトサイズで持ち運びしやすく手のひらに収まる大きさです。 強度の高い筐体設計で放熱性にも優れ長時間利用しても安心です。",
+        "▼電源不要・バスパワー駆動 USBバスパワー駆動対応。USBインターフェースからの電源供給だけで動作します。外部電源（ACアダプタなど）不要設計です。"
+      ],
+      "maker": "FFF",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 9,
+      "star_rating": 4.7,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0H68NJD2P",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:59:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B077Y87PPG",
+      "title": "アイ・オー・データ 外付けHDD ハードディスク 2TB ポータブル カクうす アルミボディ 超薄型 mac Time Machine対応 日本製 HDPX-UTS2S シルバー×グリーン",
+      "url": "https://www.amazon.co.jp/dp/B077Y87PPG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B077Y87PPG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/619XTEphq4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "約130gの軽さで持ち運びに最適",
+        "USB 3.0対応でバックアップもスピーディー(USB 2.0も使用可能)",
+        "2種類のカラーから選べる"
+      ],
+      "maker": "アイオーデータ",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 433,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B078G91LP2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:59:46+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07D79GJ9J",
+      "title": "バッファロー ポータブルHDD 1TB USB3.1(Gen.1) スタンダードモデル ブラック HD-PCG1.0U3-BBA",
+      "url": "https://www.amazon.co.jp/dp/B07D79GJ9J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07D79GJ9J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/710hOnEDLvL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "持ち運び安心設計。故障予測機能でデータを守る",
+        "容量:1TB",
+        "対応するパソコン:USB3.1(Gen1)/USB3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac、対応OS:Windows 10(64/32)/8.1(64/32)/7(64/32)、Mac 10.11～10.13",
+        "接続規格:USB3.1(Gen1)/USB3.0/2.0",
+        "サイズ:外形寸法(幅×高さ×奥行):75×14×117mm※本体のみ(突起物除く)、質量:約175g※本体のみ",
+        "付属品:USB3.1(Gen1)ケーブル(50cm)、取扱説明書※保証書は取扱説明書に記載",
+        "保証期間:1年"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 1363,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "scope_pending": [],
+      "parent_asin": "B07D9MDR16",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:59:56+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07NWQW5LC",
+      "title": "バッファロー ポータブルHDD 1TB USB3.1(Gen.1) ホワイト 耐衝撃 HD-PGF1.0U3-WHA",
+      "url": "https://www.amazon.co.jp/dp/B07NWQW5LC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07NWQW5LC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51nIq6UO2nL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "USB3.1(Gen.1)対応 耐衝撃ポータブルHDD 1TB ホワイト",
+        "容量:1TB",
+        "対応:USB3.1(Gen1)/3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac",
+        "接続規格:USB3.1(Gen1)/3.0/2.0",
+        "サイズ:(幅×高さ×奥行):79.5×13.5×119mm※本体のみ(突起物除く)、重量:150g※本体のみ",
+        "付属品:USB3.1(Gen1)ケーブル(50cm)、取扱説明書(保証書)",
+        "保証期間:1年間",
+        "対応するパソコン:USB3.1(Gen1)/3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 804,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "scope_pending": [],
+      "parent_asin": "B07P239S1H",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:00:04+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07TSYRWH7",
+      "title": "バッファロー 6TB 外付けHDD HD-NRLD6.0U3-BA",
+      "url": "https://www.amazon.co.jp/dp/B07TSYRWH7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07TSYRWH7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41dGS+Bt9sL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "静音設計, みまもり合図"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 321,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "scope_pending": [],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T11:00:12+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08ZJG6TVT",
+      "title": "Seagate Expansion 2.5インチ ポータブルHDD 2TB STKM2000400",
+      "url": "https://www.amazon.co.jp/dp/B08ZJG6TVT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08ZJG6TVT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/814SDu24dnL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【データ復旧】データ復旧サービス(Rescue)3年付で万一の備えも安心 ※テレビ録画、ゲームデータは復旧対象外となります。",
+        "【対応機種】PS5/PS4動作確認済み、PC用",
+        "【サポート】 seagate.japan.support@seagate.com",
+        "【特徴】大容量ポータブル・静音・省エネ・低振動 軽量コンパクト・高剛性で頑丈な外装設計・電源不要 持ち運びに最適",
+        "【商品サイズ】 横幅115.3mm, 高さ80mm,奥行12.6mm, 重量0.257kg　【付属品】USB3.0ケーブル46cm1本。USBケーブルから電源を供給。外付の電源供給装置は不要です。"
+      ],
+      "maker": "Seagate",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 33256,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名Seagate/シーゲイトの正規化",
+      "scope_pending": [],
+      "parent_asin": "B0DJVW8JSS",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:00:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B092VCK3J8",
+      "title": "バッファロー USB3.2(Gen.1)対応外付けHDD メカニカルハードデイスク 4TB ブラック HD-LE4U3-BB",
+      "url": "https://www.amazon.co.jp/dp/B092VCK3J8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B092VCK3J8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/618eeL9aotL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "USB3.2(Gen.1)対応外付けHDD 4TB ブラック",
+        "【容量】4TB",
+        "【対応】USB端子搭載のWindowsパソコン、USB端子搭載のMAC(Intelプロセッサー搭載機のみ)",
+        "【接続規格】USB 3.2(Gen 1)/3.1(Gen 1)/3.0/2.0",
+        "【サイズ(:幅×高さ×奥行)】114×33×171mm※本体のみ(突起部除く)　【質量】約900g"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 1459,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "scope_pending": [],
+      "parent_asin": "B093GT31VG",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:00:30+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09FJTYT4N",
+      "title": "バッファロー HD-EDS4U3-BE パソコン&テレビ録画用 外付けHDD 4TB",
+      "url": "https://www.amazon.co.jp/dp/B09FJTYT4N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09FJTYT4N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61q0GtCADEL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "バッファロー",
+        "HD-EDS4U3-BE",
+        "パソコン&amp;テレビ録画用"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 762,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "scope_pending": [],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T11:00:40+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B3XCH7DD",
+      "title": "バッファロー HD-EDS2U3-BE パソコン&テレビ録画用 外付けHDD 2TB",
+      "url": "https://www.amazon.co.jp/dp/B0B3XCH7DD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B3XCH7DD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/714syJY7dgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "インターフェース:USB 3.2(Gen1)/USB 3.1(Gen1)/3.0/2.0 容量 2TB 外形寸法(幅×高さ×奥行):114×33×171mm ※本体のみ(突起部除く)",
+        "質量:約900g 保証期間:1年間 主な付属品 :USB 3.2(Gen1)ケーブル(1m)、ACアダプター、取扱説明書(保証書)※保証書は取扱説明書に記載"
+      ],
+      "maker": "バッファロー",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 640,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "scope_pending": [],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T11:00:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CF4SQY1X",
+      "title": "AIOLO INNOVATION 500GB 外付け ハードディスク USB3.0超薄型ポータブル外付けHDD | ハードディスク- に対応PC/Mac/PS4/XBox/テレビ録画 A4",
+      "url": "https://www.amazon.co.jp/dp/B0CF4SQY1X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CF4SQY1X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81RoNL1vovL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "超高速データ転送：この外付けハードディスク・ドライブは、USB 3.0増粘銅線ケーブルで動作し、超高速転送速度を実現します。理論上の読み取り速度は110MB/秒-133MB/秒、書き込み速度は103MB/秒です。",
+        "超薄型・静音：マザーボードはノイズフリーソリューションを採用し、静かな作業環境を提供します。軽量で持ち運びやすいサイズ：ポケットに入るサイズで、持ち運びが簡単です。",
+        "互換性: PS4/xbox one/Windows/Linux/Mac/Android と互換性があり、ゲーム機で安定した高速ダウンロードが可能で、PCで使用する際の高速転送と変わりません。",
+        "プラグアンドプレイ：ソフトウェアをインストールする必要がありません。ハードドライブチップはアルミニウム抗干渉層で包まれ、放熱性を高め、データを保護します。",
+        "大容量ストレージ：500GBの容量で、写真、動画、音楽、ドキュメントなど大量のデータを安全に保存できます。",
+        "パッケージ内容 1*ポータブルハードドライブ、1 *USB 3.0ケーブル、1 *USBタイプCアダプタ、1 *ユーザーマニュアル、シェルパッケージング"
+      ],
+      "maker": "Aiolo",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 4735,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0CFL3VCMV",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:00:59+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D9H8ZMF7",
+      "title": "BIGBIGER 500G USB3.0 Type C HDD 2in1外付け ハードディスク 2.5インチ機械式 超薄型 ポータブルHDD ノートパソコン/PC/TV/Mac/PS4/XBox対応 テレビ録画 (黒) (黒, 500, GB) (黒",
+      "url": "https://www.amazon.co.jp/dp/B0D9H8ZMF7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9H8ZMF7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51qykcwPG2L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "【500GBの大容量】 HDD 500GB には、写真約10,200枚（1枚あたり50MB）、楽曲約51,200曲（1曲あたり10MB）、動画約250本（1本あたり2GB）を保存できます。",
+        "【アップグレード外付けハードドライブ】機械式ハードドライブ 超薄型、USB3.0 ケーブル33cm付属 - HDDはシンプルでコンパクト、PCデータの保存に最適です。対応携帯電話（OTG対応）",
+        "【プラグ＆プレイ】 - インストールするソフトウェアはありません。接続するだけです。ハードディスク・ドライブはすぐに使用できます。初心者は不要です。",
+        "【システム互換性】 - 外付ハードディスクドライブ対応USB3.0/USB2.0 Type-A 端子を搭載するWindowsパソコンおよびMac。外付けドライブ・ストレージ対応OS: Windows 11、Windows 10-7(64/32)、OS X 10.11以降",
+        "【品質保証を持っており、自信を持って購入します】ご満足いただけない場合は、購入から180日の保証期間内であればAmazon認定出品者より交換または返金が受けられます。"
+      ],
+      "maker": "BIGBIGER",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 72,
+      "star_rating": 3.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0GKZCM496",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:01:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DYJT6F51",
+      "title": "【高性能・ポータブル】外付けHDD 500GB/320GB｜2.5インチ機械式ハードディスク USB3.0超高速データ転送｜PC/TV/Mac/PS4/XBox互換｜テレビ録画・動画保存・バックアップ用｜持ち運びに最適 (500, GB)",
+      "url": "https://www.amazon.co.jp/dp/B0DYJT6F51?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DYJT6F51?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71WaUVverTL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【320GB/500GB・選べるストレージ容量】 写真・動画・音楽・書類など、日常的に増えていくデータをまとめて保存できる外付けHDD。パソコンの空き容量を確保したいときや、データの整理・バックアップ用ストレージとして便利に活用できます。320GB/500GBから用途に合わせて容量を選べ、普段使いのデータをすっきり管理できます。※容量表示について：ハードディスクメーカーとWindowsなどのOSでは、ストレージ容量の計算方法が異なるため、表示容量に差が生じる場合があります。メーカーは10進法で「1GB＝1,000MB」として容量を計算するため、320GBは320,000,000,000バイトとなります。一方、Windowsなどでは1,024を基準とした換算により、320GBのHDDが約298GBと表示される場合があります。これは容量不足や製品の不具合によるものではなく、メーカーとOSによる計算・表示方法の違いによるものです。",
+        "【簡単接続・すぐに使える】 USBケーブルでパソコンなどの機器に接続するだけで使用できるシンプル設計。面倒な設定をできるだけ省き、データの保存・コピー・移動を手軽に行えます。パソコン内の写真や動画、書類などを外付けHDDへ移して、パソコンの空き容量を増やしたい場合にも便利です。",
+        "【USB 3.0対応・スムーズなデータ転送】 USB 3.0インターフェースに対応し、写真・動画・音楽・各種ファイルなどのデータ転送をスムーズに行えます。大容量ファイルのコピーや移動にも対応し、日常のデータ管理を効率よくサポートします。※実際の転送速度は、接続する機器・ファイル容量・使用環境などによって異なります。",
+        "【コンパクト設計・省スペース】 2.5インチのコンパクトなポータブルタイプなので、デスクの上でも場所を取りにくく、収納にも便利。自宅でのデータ保存はもちろん、必要なデータを持ち運びたいときにも適しています。付属のUSBケーブルと一緒に持ち運びやすく、必要なときに手軽に使用できます。",
+        "【PCデータの保存・移行に】 パソコンに保存している写真、動画、音楽、仕事用ファイルなどを外付けHDDへ移動・保存できます。パソコンのストレージ容量を確保したいときや、複数のデータをまとめて管理したいときに便利です。日常的なデータ整理からバックアップ用途まで幅広く活用できます。",
+        "【テレビ録画にも対応】 対応するテレビと接続することで、テレビ番組の録画用ストレージとして使用できます。テレビ番組を録画して楽しみたい方にもおすすめです。※テレビ録画への対応状況、初期化方法、録画可能時間などはテレビ側の仕様によって異なります。ご購入前にお使いのテレビの対応機種・仕様をご確認ください。",
+        "【幅広い機器に対応】 Windowsパソコン、Macなどのパソコン周辺機器だけでなく、対応するテレビやゲーム機などにも使用できます。USB接続に対応したさまざまな機器で、データ保存用ストレージとして活用できます。※対応OS・機器・フォーマット形式などにより使用できない場合がありますので、接続機器の仕様をご確認ください。",
+        "【こんな方におすすめ】 ・パソコンの容量が不足している方 ・写真や動画をまとめて保存したい方 ・PCデータを外付けHDDへ移したい方 ・テレビ番組を録画したい方 ・コンパクトで持ち運びやすいHDDを探している方 ・日常使いしやすく、コストパフォーマンスの良いストレージを探している方"
+      ],
+      "maker": "VOKTECHGY",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 92,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0DYJQQ12P",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:01:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FHNZHC8V",
+      "title": "Amazon限定 Seagate 外付けHDD 2TB CMR テレビ録画/nasne 対応 静音 HD-SGDA2U3-B/NA",
+      "url": "https://www.amazon.co.jp/dp/B0FHNZHC8V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FHNZHC8V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/910GXrjWnBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【世界有数のHDDメーカーSeagate】40年の歴史と4ゼタバイト以上の出荷実績を持つアメリカのHDDメーカー「Seagate」が設計・開発したHDDを内蔵しています。",
+        "【同時録画に強いCMR方式採用】書き込み方式にCMR方式を採用。高速にデータを保存したり、高性能マルチ録画の監視カメラで選ばれている記録方式です。",
+        "【各社のテレビで動作確認済み】主要メーカーのテレビやレコーダーで動作確認を実施。テレビの録画用としてもお使いいただけます。※動作確認状況はバッファローWebをご確認ください。",
+        "【バッファローによる国内サポート】本商品のサポートはバッファローが対応します。電話はもちろん、LINEやチャットを活用した国内サポート体制で、万が一の時も安心です。",
+        "【データ復旧サービス対応】バッファロー正規データ復旧サービスに対応。保証期間内の軽度の論理障害の場合、無償でデータ復旧が可能です。※詳細はバッファローWebをご確認ください。",
+        "【Amazon限定】壁紙ダウンロード付き"
+      ],
+      "maker": "Seagate",
+      "query": "dg_20261109_external_hdd",
+      "queries_matched": [
+        "dg_20261109_external_hdd"
+      ],
+      "review_count": 93,
+      "star_rating": 4.2,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "storage_ssd",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名Seagate/シーゲイトの正規化",
+      "scope_pending": [],
+      "parent_asin": "B0FJRVCJFG",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:01:26+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:external_hdd"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "実在typeタグでreadonly gate照会。狭い用途は商品名と履歴Featuresで監査。未確認attrタグを推測で掛けない"
+  },
+  "date": "2026-11-09",
+  "planning_status": "historical_candidates_require_refresh",
+  "scope_conditions": {
+    "type_tag": "type:external_hdd",
+    "tentative_theme": "PCの写真と仕事ファイルを残す。外付けHDD",
+    "exclude_used_since": "2026-10-10",
+    "features_current": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T11:01:26+09:00"
+}

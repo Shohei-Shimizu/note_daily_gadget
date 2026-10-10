@@ -1,0 +1,519 @@
+{
+  "date": "2026-11-09",
+  "topic_id": "daily_gadget_20261109_fd8499b3",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 21,
+  "parent_groups": {
+    "B0F2HX3QSK": [
+      "B06W55K9N6"
+    ],
+    "B0F2HXD2GK": [
+      "B07VTFN6HM"
+    ],
+    "B093Y5WKXQ": [
+      "B091FV14V9",
+      "B091FS79T8"
+    ],
+    "B0FVKRLKK7": [
+      "B07BK6696F"
+    ],
+    "B08BZKCV79": [
+      "B07D7978NV"
+    ],
+    "B0FKGSRL2Y": [
+      "B0BN8VZ22H"
+    ],
+    "B0BMKDZ8SP": [
+      "B0BMKPT7VC"
+    ],
+    "B0H68NJD2P": [
+      "B0H5W5576J"
+    ],
+    "B078G91LP2": [
+      "B077Y87PPG"
+    ],
+    "B07D9MDR16": [
+      "B07D79GJ9J"
+    ],
+    "B07P239S1H": [
+      "B07NWQW5LC"
+    ],
+    "B07TSYRWH7": [
+      "B07TSYRWH7"
+    ],
+    "B0DJVW8JSS": [
+      "B08ZJG6TVT"
+    ],
+    "B093GT31VG": [
+      "B092VCK3J8"
+    ],
+    "B09FJTYT4N": [
+      "B09FJTYT4N"
+    ],
+    "B0B3XCH7DD": [
+      "B0B3XCH7DD"
+    ],
+    "B0CFL3VCMV": [
+      "B0CF4SQY1X"
+    ],
+    "B0GKZCM496": [
+      "B0D9H8ZMF7"
+    ],
+    "B0DYJQQ12P": [
+      "B0DYJT6F51"
+    ],
+    "B0FJRVCJFG": [
+      "B0FHNZHC8V"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B06W55K9N6",
+      "title": "ウエスタンデジタル(Western Digital) WD ポータブルHDD 2TB USB3.0 ブラック WD Elements Portable 外付けハードディスク / メーカー2年保証 WDBU6Y0020BBK-WESN 国内正規代理店品",
+      "maker": "Western Digital",
+      "maker_source": "商品名WD/ウエスタンデジタル/Western Digitalの正規化",
+      "maker_live_verified": false,
+      "db_brand": "ウエスタンデジタル(Western Digital)",
+      "historical_tier": 1,
+      "parent_asin": "B0F2HX3QSK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B077Y87PPG",
+      "title": "アイ・オー・データ 外付けHDD ハードディスク 2TB ポータブル カクうす アルミボディ 超薄型 mac Time Machine対応 日本製 HDPX-UTS2S シルバー×グリーン",
+      "maker": "アイオーデータ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "アイオーデータ",
+      "historical_tier": 2,
+      "parent_asin": "B078G91LP2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07BK6696F",
+      "title": "Amazon限定 バッファロー 外付けHDD 4TB テレビ録画 nasne 対応 静音 日本製 HD-AD4U3",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "maker_live_verified": false,
+      "db_brand": "Amazon",
+      "historical_tier": 1,
+      "parent_asin": "B0FVKRLKK7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-05",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-05",
+          "title": "バックアップを徹底。外付け HDD と「高速 SSD」比較 5 選",
+          "asin": "B07BK6696F"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07D7978NV",
+      "title": "バッファロー ポータブルHDD 2TB USB3.1(Gen1)/USB3.0用 HD-PCFS2.0U3-BBA",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "maker_live_verified": false,
+      "db_brand": "バッファロー",
+      "historical_tier": 1,
+      "parent_asin": "B08BZKCV79",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-05",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-05",
+          "title": "バックアップを徹底。外付け HDD と「高速 SSD」比較 5 選",
+          "asin": "B07D7978NV"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07D79GJ9J",
+      "title": "バッファロー ポータブルHDD 1TB USB3.1(Gen.1) スタンダードモデル ブラック HD-PCG1.0U3-BBA",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "maker_live_verified": false,
+      "db_brand": "バッファロー",
+      "historical_tier": 1,
+      "parent_asin": "B07D9MDR16",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07NWQW5LC",
+      "title": "バッファロー ポータブルHDD 1TB USB3.1(Gen.1) ホワイト 耐衝撃 HD-PGF1.0U3-WHA",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "maker_live_verified": false,
+      "db_brand": "バッファロー",
+      "historical_tier": 1,
+      "parent_asin": "B07P239S1H",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07TSYRWH7",
+      "title": "バッファロー 6TB 外付けHDD HD-NRLD6.0U3-BA",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07VTFN6HM",
+      "title": "WD ポータブルHDD 2TB USB3.0 ブラック My Passport 暗号化 パスワード保護 外付けハードディスク / メーカー3年保証 WDBYVG0020BBK-WESN 国内正規代理店品",
+      "maker": "Western Digital",
+      "maker_source": "商品名WD/ウエスタンデジタル/Western Digitalの正規化",
+      "maker_live_verified": false,
+      "db_brand": "Western Digital",
+      "historical_tier": 1,
+      "parent_asin": "B0F2HXD2GK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08ZJG6TVT",
+      "title": "Seagate Expansion 2.5インチ ポータブルHDD 2TB STKM2000400",
+      "maker": "Seagate",
+      "maker_source": "商品名Seagate/シーゲイトの正規化",
+      "maker_live_verified": false,
+      "db_brand": "シーゲイト(SEAGATE)",
+      "historical_tier": 1,
+      "parent_asin": "B0DJVW8JSS",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B091FS79T8",
+      "title": "UnionSine 500GB 外付け ハードディスク超薄型外付けHDDポータブルハードディスク2.5インチ USB3.0に対応 PC/Mac/PS4/XBox/テレビ録画(黒)HD2510 | に対応 PC/Mac/PS4/XBox/ テレビ録画(黒)HD2510",
+      "maker": "UnionSine",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B093Y5WKXQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B091FV14V9",
+      "title": "UnionSine 1TB 外付けハードディスク超薄型外付けHDDポータブルハードディスク 2.5インチ USB3.0 | に対応 PC/Mac/PS4/XBox/テレビ録画(黒)HD2510",
+      "maker": "UnionSine",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UnionSine",
+      "historical_tier": 1,
+      "parent_asin": "B093Y5WKXQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B092VCK3J8",
+      "title": "バッファロー USB3.2(Gen.1)対応外付けHDD メカニカルハードデイスク 4TB ブラック HD-LE4U3-BB",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B093GT31VG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09FJTYT4N",
+      "title": "バッファロー HD-EDS4U3-BE パソコン&テレビ録画用 外付けHDD 4TB",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B3XCH7DD",
+      "title": "バッファロー HD-EDS2U3-BE パソコン&テレビ録画用 外付けHDD 2TB",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BMKPT7VC",
+      "title": "Amazon限定 バッファロー CMR HDD採用 外付けHDD 8TB テレビ録画対応 nasne対応 静音 日本製 HD-ACD8U3",
+      "maker": "バッファロー",
+      "maker_source": "商品名バッファロー。Amazon限定はメーカーではない",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0BMKDZ8SP",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BN8VZ22H",
+      "title": "エレコム 外付けHDD ハードディスク ハイブリッドドライブ 6TB テレビ録画用/Mac/Windowsブラック ELD-HTV060UBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 1,
+      "parent_asin": "B0FKGSRL2Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CF4SQY1X",
+      "title": "AIOLO INNOVATION 500GB 外付け ハードディスク USB3.0超薄型ポータブル外付けHDD | ハードディスク- に対応PC/Mac/PS4/XBox/テレビ録画 A4",
+      "maker": "Aiolo",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Aiolo Innovation",
+      "historical_tier": 1,
+      "parent_asin": "B0CFL3VCMV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D7PYX5WB",
+      "title": "【整備済み品】Pasoul 外付けハードディスク 超薄型 ポータブル 外付けHDD PC/Mac/テレビ録画対応 コンパクト USB3.0 500GB | 初期化/検査済み商品 省スペース設計 仕事用データの持ち運びに ケーブル1本で簡単接続 写真・",
+      "maker": "Pasoul",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "【整備済み品】Pasoul",
+      "historical_tier": 1,
+      "parent_asin": "B0H9WZNM3J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D9H8ZMF7",
+      "title": "BIGBIGER 500G USB3.0 Type C HDD 2in1外付け ハードディスク 2.5インチ機械式 超薄型 ポータブルHDD ノートパソコン/PC/TV/Mac/PS4/XBox対応 テレビ録画 (黒) (黒, 500, GB) (黒",
+      "maker": "BIGBIGER",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "BIGBIGER",
+      "historical_tier": 3,
+      "parent_asin": "B0GKZCM496",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DYJT6F51",
+      "title": "【高性能・ポータブル】外付けHDD 500GB/320GB｜2.5インチ機械式ハードディスク USB3.0超高速データ転送｜PC/TV/Mac/PS4/XBox互換｜テレビ録画・動画保存・バックアップ用｜持ち運びに最適 (500, GB)",
+      "maker": "VOKTECHGY",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "VOKTECHGY",
+      "historical_tier": 3,
+      "parent_asin": "B0DYJQQ12P",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FHNZHC8V",
+      "title": "Amazon限定 Seagate 外付けHDD 2TB CMR テレビ録画/nasne 対応 静音 HD-SGDA2U3-B/NA",
+      "maker": "Seagate",
+      "maker_source": "商品名Seagate/シーゲイトの正規化",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FJRVCJFG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GVMNM8GR",
+      "title": "外付けHDD 外付けハードディスク 500GB テレビ録画 超高速データ転送 2.5インチ USB3.0に対応 Mac/PC/PS4/XBox 収納袋付属 超薄型 携帯便利",
+      "maker": "外付けHDD",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "外付けHDD",
+      "historical_tier": 3,
+      "parent_asin": "B0H137Q5R8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [
+        "メーカー未確認。販促文字列をメーカーとして数えない"
+      ],
+      "exclusion_reason": "実在メーカー名称をローカル資料で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H5W5576J",
+      "title": "FFF 外付けHDD 2TB ポータブルHDD PC・テレビ録画対応 USB3.2 高速転送 Windows/Mac対応 MAL22000EX3-BK | 国内、神奈川県で組立作業を行っております。品質や信頼性を徹底的に管理。",
+      "maker": "FFF",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "FFF SMART LIFE CONNECTED",
+      "historical_tier": 3,
+      "parent_asin": "B0H68NJD2P",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-10",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B0D7PYX5WB",
+      "title": "【整備済み品】Pasoul 外付けハードディスク 超薄型 ポータブル 外付けHDD PC/Mac/テレビ録画対応 コンパクト USB3.0 500GB | 初期化/検査済み商品 省スペース設計 仕事用データの持ち運びに ケーブル1本で簡単接続 写真・",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0GVMNM8GR",
+      "title": "外付けHDD 外付けハードディスク 500GB テレビ録画 超高速データ転送 2.5インチ USB3.0に対応 Mac/PC/PS4/XBox 収納袋付属 超薄型 携帯便利",
+      "reason": "実在メーカー名称をローカル資料で確認できない"
+    }
+  ],
+  "variant_policy": "色・サイズの候補を残し親群を提示。機械選抜は最新実測後に主担当が行う",
+  "notes": [
+    "履歴値を最新在庫/採用品として扱わない",
+    "公式メーカー/型番/狭い用途は未確認事項を明記",
+    "Amazon検索/実測/API/ブラウザ/DB書込みなし"
+  ],
+  "maker_normalization_note": "候補段階の手動正規化で別表記の同一メーカーを統一。採用品/掲載順/数は機械選抜で決める"
+}
