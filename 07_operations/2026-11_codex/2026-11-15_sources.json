@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-15",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B0BCTP8VJH",
+      "official_urls": [
+        "https://www.ankerjapan.com/products/d2426"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0BCTP8VJH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-15_projector_candidates.json",
+        "path": "candidates[asin=B0BCTP8VJH].features"
+      },
+      "verified_article_specs": [
+        "表示解像度：フルHD",
+        "明るさ：300 ANSIルーメン",
+        "OS：Google TV",
+        "機能：オートフォーカス・自動台形補正",
+        "電源：内蔵バッテリー／付属ACアダプター"
+      ],
+      "check": "Google TV版FeaturesとD2426N12公式が一致。旧N11へ転用しない。Netflixは直接アプリ、保護コンテンツのミラーリング不可。Wi-Fi使用約2.5時間は条件付きなので本文日数は省略。"
+    },
+    {
+      "order": 2,
+      "asin": "B0D1TYZSXV",
+      "official_urls": [
+        "https://jp.dangbei.com/products/dangbei-dbox02"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D1TYZSXV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-15_projector_candidates.json",
+        "path": "candidates[asin=B0D1TYZSXV].features"
+      },
+      "verified_article_specs": [
+        "表示解像度：4K",
+        "明るさ：2450 ISOルーメン",
+        "光源：ALPDレーザー",
+        "OS：Google TV",
+        "スピーカー：12W×2"
+      ],
+      "check": "国内DBOX02公式に4K/2450 ISO/Netflix公認/12W×2。Pro等の別型番やレビュー内ANSI換算は不採用。"
+    },
+    {
+      "order": 3,
+      "asin": "B0776TCTK2",
+      "official_urls": [
+        "https://www.benq.com/ja-jp/projector/cinema/th671st/spec.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0776TCTK2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-15_projector_candidates.json",
+        "path": "candidates[asin=B0776TCTK2].features"
+      },
+      "verified_article_specs": [
+        "表示解像度：1920×1080",
+        "明るさ：3000 ANSIルーメン",
+        "投写方式：DLP",
+        "入力：HDMI",
+        "設計：短焦点"
+      ],
+      "check": "TH671ST/TH671ST-JP国内仕様一致。実1080p、3000ANSI。投写距離1.5m100型は本文不採用、内蔵VODなし。"
+    },
+    {
+      "order": 4,
+      "asin": "B00PIM0PTG",
+      "official_urls": [
+        "https://www.epson.jp/products/back/bizprojector/eb535w/spec.htm"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B00PIM0PTG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-15_projector_candidates.json",
+        "path": "candidates[asin=B00PIM0PTG].features"
+      },
+      "verified_article_specs": [
+        "表示解像度：WXGA（1280×800）",
+        "投写方式：3LCD",
+        "有効光束：3400lm（メーカー公表値）",
+        "本体重量：約3.7kg",
+        "入力：HDMIなど"
+      ],
+      "check": "同型販売終了資料にWXGA1280×800×3、3400lm、有線HDMI、AC電源。298W抽出は不採用（国内ノーマル315W）。家庭専用/VOD内蔵とはしない。"
+    },
+    {
+      "order": 5,
+      "asin": "B01AUL0U8K",
+      "official_urls": [
+        "https://www.sony.jp/video-projector/products/LSPX-P1/spec.html",
+        "https://helpguide.sony.net/projector/lspxp1/v1/ja/contents/TP0000959009.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B01AUL0U8K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-15_projector_candidates.json",
+        "path": "candidates[asin=B01AUL0U8K].features"
+      },
+      "verified_article_specs": [
+        "表示画素数：1366×768",
+        "投写画面：22〜80型",
+        "光源：レーザーダイオード",
+        "電源：内蔵バッテリー",
+        "外部入力：付属ワイヤレスユニットのHDMI"
+      ],
+      "check": "国内LSPX-P1公式1366×768（フルHDではない）、22〜80型。専用アプリ必須。IFTTT連携終了を現行機能にしない。旧対応OSを最新対応保証に転用しない。"
+    },
+    {
+      "order": 6,
+      "asin": "B01N0EJD6I",
+      "official_urls": [
+        "https://www.epson.jp/products/bizprojector/eb1795f/spec.htm"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B01N0EJD6I?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-15_projector_candidates.json",
+        "path": "candidates[asin=B01N0EJD6I].features"
+      },
+      "verified_article_specs": [
+        "表示解像度：WXGA（1280×800）",
+        "投写方式：3LCD",
+        "有効光束：3200lm（メーカー公表値）",
+        "サイズ：292×213×44mm（突起部除く）",
+        "本体重量：約1.8kg"
+      ],
+      "check": "国内1795F/1785W/1780W比較表の1785W列でWXGA、3200lm、1.8kg、HDMI/MHL確認。1795FのフルHDを転用しない。4K入力非対応。内蔵VODなし。"
+    },
+    {
+      "order": 7,
+      "asin": "B0FH21C9P6",
+      "official_urls": [
+        "https://greenfunding.jp/tcljapan/projects/9037",
+        "https://www.tcl.com/jp/ja/support-mobile"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0FH21C9P6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-15_projector_candidates.json",
+        "path": "candidates[asin=B0FH21C9P6].features"
+      },
+      "verified_article_specs": [
+        "実表示解像度：フルHD（1080p）",
+        "対応入力：4K入力・デコード",
+        "明るさ：750 ISOルーメン",
+        "OS：Google TV",
+        "電源：内蔵バッテリー"
+      ],
+      "check": "TCL Japan国内プロジェクト一次説明でFHDネイティブと4K入力を分離、750 ISO。85Wを映像出力/バッテリー稼働値にしない。最大3hは省電力等詳細条件未採用。Netflix等サービス別契約必要。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n0654b94a8bd3",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n7b7d5bd31ed5",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/nfe7a1373d9ca",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "official_gate_passed": true,
+  "unresolved_omitted_specs": [
+    "未確認の各設置距離数値は記載せず",
+    "TCL最大3h再生の条件数値は未採用",
+    "Sony現行スマホ機種全対応は保証せず購入前確認"
+  ],
+  "excluded_before_latest_selection": [
+    "B0F5GQLNWP",
+    "B0CJVFJMVF",
+    "B0CJDV213W"
+  ]
+}
