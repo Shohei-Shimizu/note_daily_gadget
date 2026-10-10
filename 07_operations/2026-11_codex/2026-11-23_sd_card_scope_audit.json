@@ -1,0 +1,757 @@
+{
+  "date": "2026-11-23",
+  "topic_id": "daily_gadget_20261123_c7f865dc",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 5,
+  "parent_groups": {
+    "B07TWFZNT3": [
+      "B07N31KRZL"
+    ],
+    "B07RKL4L7Q": [
+      "B07RKL4L7Q"
+    ],
+    "B0DV86J63F": [
+      "B0DQX529CV"
+    ],
+    "B0F9FLXJ4L": [
+      "B0F29YZWSM"
+    ],
+    "B0F9P5J764": [
+      "B0F9P5J764"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B00FMM6Z4Q",
+      "title": "ソニー メモリーカードレコーダー SDカード対応/SDカード(8GB)付属 ICD-LX31",
+      "maker": "SONY",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B01HXFISS0",
+      "title": "Anker SoundCore mini【コンパクトBluetoothスピーカー】 | 15時間連続再生 / 内蔵マイク搭載/microSDカード & FMラジオ対応",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0BG3VV3DV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-18",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-18",
+          "title": "作業中のBGMを流す「Bluetoothスピーカー」10選",
+          "asin": "B01HXFISS0"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-18_作業中のBGMを流す「Bluetoothスピーカー」10選.md",
+          "date": "2026-10-18",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [
+        "対応機器/UHS/V規格/A規格/容量と国内保証、SD Express互換性を公式確認"
+      ],
+      "exclusion_reason": "microSD再生対応スピーカーでありmicroSDカード本体ではない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07976WN8G",
+      "title": "OLYMPUS ICレコーダー VoiceTrek DM-750 ブラック DM-750 BLK 内蔵メモリー4GB MicroSD対応(議事録、会議録音、商談、証拠録音、取材、インタビュー、録音) DM-750 BLK",
+      "maker": "OLYMPUS",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B081N7Z3JY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07D1J88CF",
+      "title": "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 スマホ タブレット MacBook Windows PCに適用",
+      "maker": "Ugreen",
+      "maker_source": "商品名UGREENと会社ブランド表記の正規化",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-03-05",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-05",
+          "title": "予算内でデスク整理。コスパ抜群「UGREEN」おすすめ 8 選",
+          "asin": "B07D1J88CF"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07LBJC2D9",
+      "title": "【5年データ復旧・無償交換保証】GIGASTONE マイクロsdカード 256GB 4K Camera Pro microSDXC UHS-I A2 V30 U3 C10 100MB/s Ultra HD 4K ビデオ録画 Gopro インスタ360 アクションカメラ スポーツカメラ SDアダプター1枚付き",
+      "maker": "Gigastone",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Gigastone",
+      "historical_tier": 1,
+      "parent_asin": "B0GWH6S6Q2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-08",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-08",
+          "title": "4K 動画を撮りまくる。高耐久・大容量「microSD カード」 7 選",
+          "asin": "B07LBJC2D9"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07N31KRZL",
+      "title": "Transcend マイクロSDカード 256GB UHS-I U3対応 Class10 Nintendo Switch 動作確認済 TS256GUSD300S-A",
+      "maker": "トランセンドジャパン",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "トランセンドジャパン",
+      "historical_tier": 1,
+      "parent_asin": "B07TWFZNT3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-08",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-08",
+          "title": "4K 動画を撮りまくる。高耐久・大容量「microSD カード」 7 選",
+          "asin": "B07N31KRZL"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [
+        "対応機器/UHS/V規格/A規格/容量と国内保証、SD Express互換性を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07P1XB7BG",
+      "title": "Anker USB-C 2-in-1 カードリーダー【SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSDHC/microSD/UHS-Iカード対応】",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-08-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-12",
+          "title": "デジタルノマドの装備。ポーチの中身「2026 夏」 7 選",
+          "asin": "B07P1XB7BG"
+        },
+        {
+          "published_date": "2026-07-11",
+          "title": "旅の写真を即保存。SD リーダーと「超高速 SSD」 6 選",
+          "asin": "B07P1XB7BG"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07RKL4L7Q",
+      "title": "マイクロSD 512GB サンディスク Extreme PRO microSDXC A2 SDSQXCZ-512G 海外パッケージ品",
+      "maker": "SanDisk",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "サンディスク",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-07-31",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-31",
+          "title": "7 月のベストバイ。買ってよかった「夏のガジェット」 8 選",
+          "asin": "B07RKL4L7Q"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [
+        "対応機器/UHS/V規格/A規格/容量と国内保証、SD Express互換性を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08FM7CDNC",
+      "title": "Maktar Qubii Pro ホワイト (microSD 128GB付) 充電しながら自動バックアップ iphone usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証",
+      "maker": "Maktar",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0CSN36VZL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-21",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-21",
+          "title": "スマホの容量不足を解消。写真を「自動保存」するツール 6 選",
+          "asin": "B08FM7CDNC"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08KFVJN6X",
+      "title": "サンワダイレクト サウンドバー 幅45cm 20W Bluetooth/有線 3.5mm / microSD・USBメモリ 充電式 パッシブラジエーター搭載 PCスピーカー 1個 400-SP092",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0F3HY1BRP",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08KH7T9MQ",
+      "title": "TOKAIZ ボイスレコーダー 小型 ICレコーダー 16GB 34時間連続録音 microSD 128GB対応 WAV MP3 予約録音 証拠記録 会議 授業 取材 TIC-V36",
+      "maker": "TOKAIZ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08PBL57JM",
+      "title": "Maktar Qubii Duo USB Type A ホワイト 充電しながら自動バックアップ SDロック機能搭載 iphone バックアップ usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証 (microSD別売)",
+      "maker": "Maktar",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B09DSSRMCY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-03-21",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-21",
+          "title": "スマホの容量不足を解消。写真を「自動保存」するツール 6 選",
+          "asin": "B08PBL57JM"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B097TVLB4F",
+      "title": "【OWC直営】 OWC Thunderbolt Dock（サンダーボルト ドック）TB4対応 11ポートドッキングステーション / iPhoneやiPadにも対応/独立型デイジーチェーン ×3 / Thunderbolt 4 ×4 / USB-A ×4 / SDカードスロット/イヤホンジャック/ギガビット・イーサネット / 4K-8K接続 / 96W給電",
+      "maker": "【OWC直営】",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "【OWC直営】",
+      "historical_tier": 1,
+      "parent_asin": "B0GJZ6JDXN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-30",
+          "title": "9 月のベストバイ。秋のデスクを整える「USB-C ドック」 6 選",
+          "asin": "B097TVLB4F"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [
+        "メーカー名称を公式確認するまでメーカー多様性へ数えない"
+      ],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0B6HM369H",
+      "title": "ProGrade Digital [SD/microSD UHS-II] ダブルスロットカードリーダー (PGM0.5) 本体端子USB-C プログレードデジタル 正規輸入品",
+      "maker": "ProGrade",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-07-11",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-11",
+          "title": "旅の写真を即保存。SD リーダーと「超高速 SSD」 6 選",
+          "asin": "B0B6HM369H"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BMVHC1N9",
+      "title": "UGREEN カードリーダー USB C 4in1 SD microSD CF MS 4枚カード同時に読書 2TB Max 高速転送 SD SDXC SDHC MM CRS-MMC UHS-Iカード Windows Mac OS Android 対応",
+      "maker": "Ugreen",
+      "maker_source": "商品名UGREENと会社ブランド表記の正規化",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BNBXVLZS",
+      "title": "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー",
+      "maker": "Ugreen",
+      "maker_source": "商品名UGREENと会社ブランド表記の正規化",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-07-11",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-11",
+          "title": "旅の写真を即保存。SD リーダーと「超高速 SSD」 6 選",
+          "asin": "B0BNBXVLZS"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BZR9RVNZ",
+      "title": "【300万画素・QRコードWIFI接続】COOAU 見守りカメラ ペットカメラ 人体検知 暗視機能 360°PTZ機能 H.265 双方向通話 WiFi強化 防犯カメラ Alexa対応 監視カメラペット用 接続簡単 24h常時録画 自動追尾 動体検知 警報通知 家族共有 複数カメラ同時接続 SDカード対応 ペット/ベビーモニター ネットワークカメラ 室内暗視カメラ 留守番 子供/犬/猫/老人",
+      "maker": "COOAU",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "【300万画素・QRコードWIFI接続】COOAU",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-10-14",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-14",
+          "title": "留守中の部屋を記録する。「見守りカメラ」 10 選",
+          "asin": "B0BZR9RVNZ"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-14_留守中の部屋を記録する。見守りカメラ.md",
+          "date": "2026-10-14",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CQ1Y57ZX",
+      "title": "【Amazon.co.jp限定】TP-Link Tapo ネットワークWi-Fiカメラ ペットカメラ 屋内/屋外 ホームセキュリティカメラ 2K QHD IP66防水防塵 防犯カメラ 高感度CMOSセンサー搭載/フルカラーナイトビジョン 赤外線撮影 音声通話 AI検知 microSD/クラウド保存 メーカー保証1年 Tapo C120",
+      "maker": "TP-Link",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "TP-Link",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DJW2QF43",
+      "title": "Insta360 Ace Pro 2 - デュアルバッテリー ライカとの共同開発による防水仕様の8Kアクションカメラ。1/1.3インチセンサー、デュアルAIチップ 暗所性能 オーディオ、フリップ式スクリーン＆AI編集でVlogやオートバイなどに最適 デュアルバッテリーキット-SDカードなし",
+      "maker": "Insta360",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Insta360",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-06-11",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-11",
+          "title": "雨の日の Vlog。防水性能に優れた「ジンバルとカメラ」 6 選",
+          "asin": "B0DJW2QF43"
+        },
+        {
+          "published_date": "2026-05-30",
+          "title": "夏の思い出を記録。最新「アクションカメラ」徹底比較 6 選",
+          "asin": "B0DJW2QF43"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DK2712XX",
+      "title": "HiDock H1 多機能11-in-1 ドッキングステーション AIボイスレコーダー マイクスピーカー付き ワンタッチ録音 双方向ノイズキャンセリング AI文字起こし 議事録作成 Dual 4K@Hz HDMI 最大118W PD同時充電 10Gbps高速データ転送 microSD＆SDカードスロット 2.5Gbpsイーサネットポート ワイヤレスイヤホン付属 パソコン/スマホ対応 スレートグレー",
+      "maker": "HiDock",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "HiDock",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-03-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-25",
+          "title": "AI 議事録の決定版。Zoom 連携から「単体機」まで 7 選",
+          "asin": "B0DK2712XX"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DQX529CV",
+      "title": "Samsung PRO Plus Sonic The Hedgehog + Adapter microSDXC 512GB メモリーカード 最大180MB/秒 UHS-I U3 C10 V30 A2 任天堂スイッチ Steam Deck タブレット Androidスマートフォン用 (MB-MD512SA/LC1)",
+      "maker": "Samsung",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SAMSUNG",
+      "historical_tier": 2,
+      "parent_asin": "B0DV86J63F",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-08",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-08",
+          "title": "4K 動画を撮りまくる。高耐久・大容量「microSD カード」 7 選",
+          "asin": "B0DQX529CV"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [
+        "対応機器/UHS/V規格/A規格/容量と国内保証、SD Express互換性を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DW8V4VMJ",
+      "title": "KIOXIA(キオクシア)【日本製】microSD 256GB 高耐久 ドラレコ・監視カメラ対応 UHS-I U3 V30 Class10 microSDXC 4K対応 最大読出速度100MB/s 最大書込50MB/s 国内サポート正規品 メーカー保証2年 KLMHB256G",
+      "maker": "KIOXIA",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "KIOXIA",
+      "historical_tier": 3,
+      "parent_asin": "B0BG1LZSD7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-08",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-08",
+          "title": "4K 動画を撮りまくる。高耐久・大容量「microSD カード」 7 選",
+          "asin": "B0DW8V4VMJ"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F29YZWSM",
+      "title": "Kingston キングストン 256GB microSDXC Canvas Go Plus Gen4 200MB/秒 A2 U3 V30 アダプタ付き SDCG4/256GB",
+      "maker": "Kingston",
+      "maker_source": "商品名Kingston",
+      "maker_live_verified": false,
+      "db_brand": "キングストンテクノロジー",
+      "historical_tier": 1,
+      "parent_asin": "B0F9FLXJ4L",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-08",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-08",
+          "title": "4K 動画を撮りまくる。高耐久・大容量「microSD カード」 7 選",
+          "asin": "B0F29YZWSM"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [
+        "対応機器/UHS/V規格/A規格/容量と国内保証、SD Express互換性を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F9P4719Q",
+      "title": "シャオミ(Xiaomi) タブレット Redmi Pad 2 4GB+128GB グラファイトグレー wi-fiモデル 2.5K 大型11インチディスプレ Dolby Atmos対応 9000mAh 大容量 バッテリー 高性能チップHelio G100-Ultra 2TBまでmicroSDカード拡張 Xiaomi相互接続機能対応 軽量 エンターテインメント 子供用にも 日本語版",
+      "maker": "Xiaomi",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Xiaomi",
+      "historical_tier": 1,
+      "parent_asin": "B0HGQ7T2F5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F9P5J764",
+      "title": "Lexar PLAY PRO microSDXC Expressカード 512GB 最大読込900MB/s 最大書込600MB/s Nintendo Switch 4K動画 ドローン対応 防水 耐衝撃 国内正規品",
+      "maker": "Lexar",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Lexar",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-07-08",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-08",
+          "title": "4K 動画を撮りまくる。高耐久・大容量「microSD カード」 7 選",
+          "asin": "B0F9P5J764"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [
+        "対応機器/UHS/V規格/A規格/容量と国内保証、SD Express互換性を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FFR5714G",
+      "title": "エレコム カードリーダー USB-C 2-in-1 5Gbps 【SDXC/SDHC/SD/microSDXC/microSDHC/microSD対応】 MR3C-D20EBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-24",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B00FMM6Z4Q",
+      "title": "ソニー メモリーカードレコーダー SDカード対応/SDカード(8GB)付属 ICD-LX31",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B07976WN8G",
+      "title": "OLYMPUS ICレコーダー VoiceTrek DM-750 ブラック DM-750 BLK 内蔵メモリー4GB MicroSD対応(議事録、会議録音、商談、証拠録音、取材、インタビュー、録音) DM-750 BLK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B07D1J88CF",
+      "title": "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 スマホ タブレット MacBook Windows PCに適用",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B07LBJC2D9",
+      "title": "【5年データ復旧・無償交換保証】GIGASTONE マイクロsdカード 256GB 4K Camera Pro microSDXC UHS-I A2 V30 U3 C10 100MB/s Ultra HD 4K ビデオ録画 Gopro インスタ360 アクションカメラ スポーツカメラ SDアダプター1枚付き",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B07P1XB7BG",
+      "title": "Anker USB-C 2-in-1 カードリーダー【SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSDHC/microSD/UHS-Iカード対応】",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08FM7CDNC",
+      "title": "Maktar Qubii Pro ホワイト (microSD 128GB付) 充電しながら自動バックアップ iphone usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08KFVJN6X",
+      "title": "サンワダイレクト サウンドバー 幅45cm 20W Bluetooth/有線 3.5mm / microSD・USBメモリ 充電式 パッシブラジエーター搭載 PCスピーカー 1個 400-SP092",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08KH7T9MQ",
+      "title": "TOKAIZ ボイスレコーダー 小型 ICレコーダー 16GB 34時間連続録音 microSD 128GB対応 WAV MP3 予約録音 証拠記録 会議 授業 取材 TIC-V36",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08PBL57JM",
+      "title": "Maktar Qubii Duo USB Type A ホワイト 充電しながら自動バックアップ SDロック機能搭載 iphone バックアップ usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証 (microSD別売)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B097TVLB4F",
+      "title": "【OWC直営】 OWC Thunderbolt Dock（サンダーボルト ドック）TB4対応 11ポートドッキングステーション / iPhoneやiPadにも対応/独立型デイジーチェーン ×3 / Thunderbolt 4 ×4 / USB-A ×4 / SDカードスロット/イヤホンジャック/ギガビット・イーサネット / 4K-8K接続 / 96W給電",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0B6HM369H",
+      "title": "ProGrade Digital [SD/microSD UHS-II] ダブルスロットカードリーダー (PGM0.5) 本体端子USB-C プログレードデジタル 正規輸入品",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BMVHC1N9",
+      "title": "UGREEN カードリーダー USB C 4in1 SD microSD CF MS 4枚カード同時に読書 2TB Max 高速転送 SD SDXC SDHC MM CRS-MMC UHS-Iカード Windows Mac OS Android 対応",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BNBXVLZS",
+      "title": "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BZR9RVNZ",
+      "title": "【300万画素・QRコードWIFI接続】COOAU 見守りカメラ ペットカメラ 人体検知 暗視機能 360°PTZ機能 H.265 双方向通話 WiFi強化 防犯カメラ Alexa対応 監視カメラペット用 接続簡単 24h常時録画 自動追尾 動体検知 警報通知 家族共有 複数カメラ同時接続 SDカード対応 ペット/ベビーモニター ネットワークカメラ 室内暗視カメラ 留守番 子供/犬/猫/老人",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0CQ1Y57ZX",
+      "title": "【Amazon.co.jp限定】TP-Link Tapo ネットワークWi-Fiカメラ ペットカメラ 屋内/屋外 ホームセキュリティカメラ 2K QHD IP66防水防塵 防犯カメラ 高感度CMOSセンサー搭載/フルカラーナイトビジョン 赤外線撮影 音声通話 AI検知 microSD/クラウド保存 メーカー保証1年 Tapo C120",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DJW2QF43",
+      "title": "Insta360 Ace Pro 2 - デュアルバッテリー ライカとの共同開発による防水仕様の8Kアクションカメラ。1/1.3インチセンサー、デュアルAIチップ 暗所性能 オーディオ、フリップ式スクリーン＆AI編集でVlogやオートバイなどに最適 デュアルバッテリーキット-SDカードなし",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0DK2712XX",
+      "title": "HiDock H1 多機能11-in-1 ドッキングステーション AIボイスレコーダー マイクスピーカー付き ワンタッチ録音 双方向ノイズキャンセリング AI文字起こし 議事録作成 Dual 4K@Hz HDMI 最大118W PD同時充電 10Gbps高速データ転送 microSD＆SDカードスロット 2.5Gbpsイーサネットポート ワイヤレスイヤホン付属 パソコン/スマホ対応 スレートグレー",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DW8V4VMJ",
+      "title": "KIOXIA(キオクシア)【日本製】microSD 256GB 高耐久 ドラレコ・監視カメラ対応 UHS-I U3 V30 Class10 microSDXC 4K対応 最大読出速度100MB/s 最大書込50MB/s 国内サポート正規品 メーカー保証2年 KLMHB256G",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0F9P4719Q",
+      "title": "シャオミ(Xiaomi) タブレット Redmi Pad 2 4GB+128GB グラファイトグレー wi-fiモデル 2.5K 大型11インチディスプレ Dolby Atmos対応 9000mAh 大容量 バッテリー 高性能チップHelio G100-Ultra 2TBまでmicroSDカード拡張 Xiaomi相互接続機能対応 軽量 エンターテインメント 子供用にも 日本語版",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FFR5714G",
+      "title": "エレコム カードリーダー USB-C 2-in-1 5Gbps 【SDXC/SDHC/SD/microSDXC/microSDHC/microSD対応】 MR3C-D20EBK",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B01HXFISS0",
+      "title": "Anker SoundCore mini【コンパクトBluetoothスピーカー】 | 15時間連続再生 / 内蔵マイク搭載/microSDカード & FMラジオ対応",
+      "reason": "microSD再生対応スピーカーでありmicroSDカード本体ではない"
+    }
+  ],
+  "historical_tier_distribution": {
+    "1": 3,
+    "2": 2
+  },
+  "maker_count_upper_bound_before_parent": 5,
+  "variant_policy": "同親の色/サイズ候補を残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "親違いの同モデルも公式照合が必要、親群数を商品数とみなさない",
+    "スピーカー混入を除くと5親のみ。在庫/多様性に余裕がなく補充候補を用意"
+  ]
+}
