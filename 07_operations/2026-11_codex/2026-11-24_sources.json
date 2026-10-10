@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-24",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B0DFZPR9Z4",
+      "official_urls": [
+        "https://www.mi.com/jp/product/redmi-watch-5-active/specs/",
+        "https://www.mi.com/jp/product/redmi-watch-5-active/",
+        "https://www.mi.com/jp/support/faq/details/KA-487305/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DFZPR9Z4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-24_smartwatch_candidates.json",
+        "path": "candidates[asin=B0DFZPR9Z4].features"
+      },
+      "verified_article_specs": [
+        "画面：2インチLCD",
+        "アプリ：Mi Fitness",
+        "GPS：スマートフォンの位置情報を利用",
+        "対応OS：Android 8以降／iOS 12以降",
+        "バッテリー：最大18日（メーカーの標準使用条件）"
+      ],
+      "check": "国内Active仕様/FAQ同型。無印5/LiteのGPSを付与しない。18日は標準テスト、ハード12日で区別。全OS同じ機能/単独回線通話不可。"
+    },
+    {
+      "order": 2,
+      "asin": "B0DYF82545",
+      "official_urls": [
+        "https://www.mi.com/jp/product/xiaomi-smart-band-10/specs/",
+        "https://www.mi.com/jp/support/faq/details/KA-580786/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DYF82545?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-24_smartwatch_candidates.json",
+        "path": "candidates[asin=B0DYF82545].features"
+      },
+      "verified_article_specs": [
+        "画面：1.72インチAMOLED",
+        "アプリ：Mi Fitness",
+        "GPS：スマートフォンの位置情報を利用",
+        "対応OS：Android 8以降／iOS 12以降",
+        "バッテリー：最大21日（メーカー試験条件）"
+      ],
+      "check": "国内Band10通常黒を確認。Ceramic/Proの内蔵GPS/重量を転用せず。21日は設定条件、AODや測定頻度で変化。FAQ内蔵GPSなし。機種別同期/返信を一律対応にしない。"
+    },
+    {
+      "order": 3,
+      "asin": "B0B75RC9C3",
+      "official_urls": [
+        "https://store.google.com/jp/product/fitbit_inspire_3?hl=ja",
+        "https://support.google.com/product-documentation/answer/14226283?hl=ja",
+        "https://support.google.com/googlehealth/answer/17068213?hl=ja",
+        "https://support.google.com/googlehealth/answer/14225688?hl=en"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0B75RC9C3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-24_smartwatch_candidates.json",
+        "path": "candidates[asin=B0B75RC9C3].features"
+      },
+      "verified_article_specs": [
+        "形状：バンド型トラッカー",
+        "アプリ：Google Health",
+        "アカウント：Googleアカウントが必要",
+        "対応OS：Android 11以降／iOS 16.4以降",
+        "GPS：接続するスマートフォンを利用"
+      ],
+      "check": "国内Inspire3ブラック同型。2026-05-19GoogleHealth移行/Googleアカウント必須、Android11/iOS16.4。旧Fitbitアプリ/6か月Premiumを転用せず。最大10日設定使用依存、AODで短縮なので原稿数値省略。スマホGPS。"
+    },
+    {
+      "order": 4,
+      "asin": "B0F1XCKZYW",
+      "official_urls": [
+        "https://www.amazfit.jp/products/amazfit-bip6"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0F1XCKZYW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-24_smartwatch_candidates.json",
+        "path": "candidates[asin=B0F1XCKZYW].features"
+      },
+      "verified_article_specs": [
+        "画面：AMOLED",
+        "GPS：内蔵・5衛星測位",
+        "アプリ：Zepp",
+        "対応OS：Android 7以降／iOS 14以降",
+        "バッテリー：最大14日（メーカーの標準使用条件）"
+      ],
+      "check": "国内Bip6黒公式。5衛星内蔵、標準14日/ヘビー6日/GPS連続32時間を分離。Android7/iOS14。返信Androidのみ、Bip5/Active別モデルの仕様を混同しない。"
+    },
+    {
+      "order": 5,
+      "asin": "B0CJFRY955",
+      "official_urls": [
+        "https://www.garmin.co.jp/products/wearables/vivoactive-5-ivory/",
+        "https://support.garmin.com/en-SG/?faq=pvL8aWsaLU2iKyvF8VrpP9"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0CJFRY955?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-24_smartwatch_candidates.json",
+        "path": "candidates[asin=B0CJFRY955].features"
+      },
+      "verified_article_specs": [
+        "国内商品番号：010-02862-41",
+        "画面：1.2インチAMOLED",
+        "GPS：内蔵",
+        "アプリ：Garmin Connect",
+        "決済：Suica対応（国内モデル）"
+      ],
+      "check": "国内Ivory公式010-02862-41とSuica一致。スマートウォッチ約11日/GPS約21h/音楽併用約8hを区別、記事数値省略。現行Connect最低OSは動的サポートテキスト未取得なので端末対応確認案内で数値不掲載。海外SKUへSuicaを転用しない。"
+    },
+    {
+      "order": 6,
+      "asin": "B09XGYX7JF",
+      "official_urls": [
+        "https://www.garmin.co.jp/products/intosports/vivosmart-5-black/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B09XGYX7JF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-24_smartwatch_candidates.json",
+        "path": "candidates[asin=B09XGYX7JF].features"
+      },
+      "verified_article_specs": [
+        "選択サイズ：S/M",
+        "本体サイズ：19.5×10.7×217mm",
+        "重量：24.5g（S/M）",
+        "GPS：スマートフォンを利用",
+        "アプリ：Garmin Connect"
+      ],
+      "check": "国内Black S/M公式。原抽出255mmはL、正本S/M217mm24.5gへ訂正。約7日通知/血中酸素等設定で変動、数値省略。コネクテッドGPSで内蔵ではない。Suica付与しない。"
+    },
+    {
+      "order": 7,
+      "asin": "B0DZHFRKQD",
+      "official_urls": [
+        "https://consumer.huawei.com/jp/wearables/band10/specs/",
+        "https://consumer.huawei.com/jp/support/content/ja-jp00736738/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DZHFRKQD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-24_smartwatch_candidates.json",
+        "path": "candidates[asin=B0DZHFRKQD].features"
+      },
+      "verified_article_specs": [
+        "画面：1.47インチAMOLED",
+        "ケース：アルミニウム合金",
+        "重量：約15g（ベルト除く）",
+        "アプリ：HUAWEI Health",
+        "対応OS：Android 9以降／iOS 13以降"
+      ],
+      "check": "当該FeaturesにAluminum/matteblack/15gで国内公式版一致。ポリマー黒14gと分離。最大14日TruSleepOFF条件/通常8日ON/AOD3日を分離し数値不採用。睡眠呼吸/情緒の診断断定しない。ルートはスマホGPS依存。"
+    },
+    {
+      "order": 8,
+      "asin": "B0DGQ9S3GQ",
+      "official_urls": [
+        "https://www.amazfit.jp/products/amazfit-t-rex-3"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DGQ9S3GQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-24_smartwatch_candidates.json",
+        "path": "candidates[asin=B0DGQ9S3GQ].features"
+      },
+      "verified_article_specs": [
+        "選択サイズ：48mm",
+        "画面：1.5インチAMOLED",
+        "GPS：内蔵・デュアルバンド／6衛星測位",
+        "アプリ：Zepp",
+        "対応OS：Android 7以降／iOS 14以降"
+      ],
+      "check": "国内T-Rex3オニキス48mm同型。Pro/Ultra/51mm別版を転用しない。一般27日/ヘビー13/GPS最大180hと精密42hを分離し本文稼働数値省略。10ATMを100m潜水保証にしない。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n106fe0a6041f",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/ne0c134563e5c",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n236dd21b2c06",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "official_gate_passed": true,
+  "unresolved_omitted_specs": [
+    "GarminConnect現行最低OS数値は未取得のため最新端末条件確認案内",
+    "Fitbit旧Premium6か月特典は未採用",
+    "各モードの長時間動作を通常実稼働に転用しない"
+  ],
+  "selection_changed": false
+}
