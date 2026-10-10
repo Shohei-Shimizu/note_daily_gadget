@@ -1,0 +1,1303 @@
+{
+  "generated_at": "2026-10-10T01:04:14+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261110_5bb157d8",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261110_charger"
+  ],
+  "fetched_count": 35,
+  "dedup_count": 31,
+  "candidates": [
+    {
+      "asin": "B08X11GD52",
+      "title": "Anker Nano II 65W (PD 充電器 USB-C)【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
+      "url": "https://www.amazon.co.jp/dp/B08X11GD52?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08X11GD52?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51p3xiAi7KL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "幅広い機器に急速充電可能: USB PowerDelivery (PD) 対応の65W出力で、スマートフォンからノートPCまで幅広い機器に急速充電できるUSB充電器です。利用機器毎に異なる充電器を持ち運ぶ必要はありません。",
+        "MacBookやPD対応のWindows PCにも対応: 最大65W出力を備え、MacBookだけでなく、PD対応のさまざまなWindows PCにも急速充電できます。一般的なWindows PCに同梱されているACアダプタに比べて非常に軽量かつコンパクトなため、カフェや自宅などでのリモートワークでも快適にご使用いただけます。",
+        "超コンパクト設計: 一般的な60W出力以上の充電器に比べ約60%小さく、折りたたみ式プラグで持ち運びに便利です。軽量かつコンパクトな設計に仕上げました。",
+        "独自技術「Anker GaN II」 採用：GaN(窒化ガリウム)搭載USB充電器が第二世代に進化。電源ICと回路設計に革新を起こすことで、スイッチング周波数を当社比で約2倍に高めて電子部品を省サイズ化するとともに、熱およびEMI(ノイズ)対策を施し厳しい安全基準を満たしながらさらなる小型軽量デザインを実現しました。",
+        "国際的な安全規格に準拠：電気用品安全法が定める技術基準への適合はもちろんのこと、国際的な安全規格であるIEC 62368-1の基準にも準拠しています。"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 18073,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-25",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0GP663HK3",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:04:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B38TWKVR",
+      "title": "UGREEN Nexode 45W PD充電器 タイプc USB-C*2 PD3.0/PPS急速充電器 PSE適合 GaNII",
+      "url": "https://www.amazon.co.jp/dp/B0B38TWKVR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B38TWKVR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51rTSbAeKkL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "●【1台であらゆるポータブルデバイスを充電】2つのUSB-Cポートがあり、各ポートを単独で使用すると45Wの高出力対応により、携帯から、タブレット、ノートPCまで、あらゆるポータブルデバイスの急速充電ニーズをカバーられます。また、PPS 45W 2.0バージョンの超急速充電規格にも対応し、他の充電器がPPS 25W出力でしか充電できないのに対し、Galaxy S22 Ultraでも最大速度で充電することができる45W PPS 充電器です！",
+        "●【2ポートで急速充電・複数の急速充電プロトコルをサポート】デュアルUSB-Cポートで2つのモバイルデバイスを同時にフルスピードで充電！25W+20W出力の組み合わせて2台のデバイスを同時急速充電できます。新しいオリジナルの35W充電器と比べ、UGREEN Nexode Mini 45W USB Type-C 充電器はもっと高出力で対応られます。また、PD3.0、PPS、QC4+(QC4.0/QC3.0)、FCP、AFC、BC1.2など、複数の急速充電プロトコルをサポートし、互換性抜群で、あらゆるデバイスに充電対応します。",
+        "●【次世代パワー半導体素材「GaN Fast II」採用】革新的な「GaN Fast II」テクノロジーと積層設計により、UGREEN Nexode Mini 45W Type C 充電アダプターはオリジナルの45W充電器より36%コンパクトサイズになっています。 従来品に比べて電力損失と発熱量が小さくなり、小型化・高効率化を実現したGaN充電器です。",
+        "●【賢く充電・マルチ安全保護システム搭載】UGREEN独自技術Power Dispenserシステムにより、接続されたデバイスに応じ、自動的に出力を判別し、機器が必要とする電力に賢く適応させてパワフルかつ安全に充電可能です。また、過充電保護、過熱防止、過電流防止、ショート防止など、複数の安全保護機能があり、安心してご利用いただけるタイプc アダプターです。",
+        "●【GaNだからエコに！】UGREEN Nexodeシリーズ充電器は、2020年から2,264トンの二酸化炭素排出量の削減に貢献し、将来的には年間5,503トンの二酸化炭素が大気中に出るのを防ぐと予想されています。 (GaNチップ1個を生産すると、従来のシリコンチップと比較して8.8ポンドのCO2を削減できます。）(※ 自社調べ)。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 7099,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0HKFSL5QJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:04:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C6DX66TN",
+      "title": "UGREEN Uno Robot Charger 65W",
+      "url": "https://www.amazon.co.jp/dp/B0C6DX66TN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C6DX66TN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51A+A9gxiML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ご注意】本製品にはモバイルバッテリー機能はございません。PD充電を行うためには、PD対応ケーブルとPD充電に対応したデバイスが必要となります。＊高精度ディスプレイ搭載のため、落下・強い衝撃にご注意ください",
+        "【ヤバッ！充電器がロボットに変身！？】UGREEN Uno充電器が、新世代のロボット型充電器として登場しました！独自のスタイルを突き進むユニークなロボットデザイン、他にはないインパクトの在るアイテムが揃います。 置物かと思いきや、実は有能な充電器なのです。ぜひテックファン・ハイテクファンにお勧めしたいアイテムです！【必須】充電には、USB PD対応のUSB-C to Cケーブルを使用してください。",
+        "【ロボットの表情で充電の状態をお知らせ】UGREEN Uno タイプc 充電器はLCDスクリーンを搭載、ロボットの表情で充電状態がわかります。充電中は目・口で笑顔を表現し、フル充電になると目だけの笑顔になるので、ひと目で充電状況を把握できます。さらにブーツ部分はマグネット付き、スチール家具に付けるなど便利にご利用いただけます。持ち運びやすいようデザインしているので、カバンに入れて引っかかったり折れたりなどの心配もありません。充電を行う前に、スマートフォンと充電ケーブルのコネクタ内部に異物が入っていないか確認し、正常に使用できるかご確認ください。　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【単ポート65Wまで、最新MacBook Airにも対応】Uno 65Wは2基のUSB-Cポートと1基のUSB-Aポートを搭載し、3台のデバイスを同時に充電できます。最大65Wの出力はMacBookシリーズからスマホまであらゆるUSB-Cデバイスに充電でき（2基のうち1基が65W対応）、自宅でも出張でもこれ1台でOK。AI検知機能により、接続されたデバイスに合わせて自動的に出力を調整、デバイスを保護したうえで可能な限り高速に充電を実行します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【エコなGaNFast採用・UGREEN独自Thermal Guard冷却技術】進化したGaNFastチップを採用、UGREEN独自のThermal Guard冷却技術との組み合わせにより、電力密度の限界を押し上げると同時に効率も向上、エネルギー使用量の低減とフットプリントの小型化を通じ発熱量を減らすことに成功しました。耐火PC素材を採用し、過電流、過電圧、過熱、短絡などをしっかり防ぎ、急速かつ安全な充電を実現しています。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【幅広い互換性】PD3.0/QC4+対応、スマートフォンからタブレット、ノートパソコンなどあらゆるType-C関連機器を効率よく急速充電できます。対応デバイス（一部）：MacBook Pro 14&#39;&#39; 2021 (M1 Pro)、MacBook Pro 13、Macbook Air 2020、iPad Pro、iPhone17、16、15、14、13、12 Pro、XS、XR、8、7 Plus、SE 2020、AirPods Pro、 Switch, Galaxy Note 20, Note 20 Ultra, S24，23, S20, S10, Note 10 Plus, S9, S8, A8 2018, A5 2017, A51, A71, Google Pixel 4A 4 XL 3A 3 XL；P60 Pro，P60，50 Pro，P50，P40 Pro，P40, P30, P20 Pro　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【24ヶ月間の保証】当店でご購入の製品には24ヶ月間保証サービスが付いております。 お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 5949,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0H9S49L1Q",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:04:29+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DG93MZCR",
+      "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 | iphone17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPods/タブレット",
+      "url": "https://www.amazon.co.jp/dp/B0DG93MZCR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DG93MZCR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51y+xbfhaHL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【1台であらゆるポータブルデバイスを充電】UGREEN 30W充電器には2*USB-C+1*USB-Aポートを搭載し、Cポートだけで最大30Wの出力電力を出力することができ、iPhoneシリーズを充電できるだけでなく、Macbookを充電することもできます。Aポートのみを使用する場合は最大22.5W、AポートとCポートの両方を使用する場合は合計15Wの出力が可能。",
+        "【PSE技術基準適合 PD3.0急速充電】 USB-C PD3.0の充電規格と互換性があり高速で効率的な充電が可能です。また、PSE認証を取得しており、デバイスのバッテリーが急速かつ安全に充電され、いつでも快適に使用できるようになります。PD3.0急速充電とPSE認証を備えたこのスマホ充電器は、iPhoneをわずか30分で0％から60％まで充電！",
+        "【コンパクトで持ち運び便利】： このスマートフォン充電器は、36*33*44mm、コンパクトで持ち運びに便利なサイズです。小さな本体に高効率の充電技術が詰め込まれており、外出先や旅行中でも手軽に利用できます。スマートフォンやタブレットなどのデバイスをいつでもどこでも快適に充電することができ、ユーザーの生活をサポートします。体積が小さいため、バッグやポケットに簡単に収納でき、持ち運び時の負担も軽減されます。",
+        "【知能的な電流配分・しっかりサポート】UGREEN独自技術Power Dispenserシステムにより、接続されたデバイスに応じ、自動的に出力を判別し、機器が必要とする電力に賢く適応させてパワフルかつ安全に充電可能です。過充電保護、過熱防止、過電流防止、ショート防止など複数の充電保護システムを備え、PSE認証をクリアし、安心してご利用可能。また、UGREEN独自技術による、接続されたデバイスに応じ、自動的に出力を判別し、最適な電流量でパワフルかつ安全に充電可能です。なお、耐火のPC素材を採用し、耐火レベルUL94-V0まで至ります。ACアダプターの耐久性と安全性を両立させます。（注意：電流を知能的な配分するときに、通電が一瞬止まることは正常現象です。ご安心ください。）",
+        "【複数充電規格に対応・小さいけど適用性が大きい】USB-C 充電器はこれ一台でガジェットライフがより自由に！PD3.0対応だけでなく、QC3.0、SCP、AFC、BC1.2など多種類の充電規格にも対応しており、iPad Pro/iPad　mini/iPhone/Androidスマホ/タブレット端末/iWatch/MacBook Air/AirPods Proなど、優れた互換性があり、あらゆるデバイスに急速充電できます。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 5563,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0GRGBTZ9G",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:04:37+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B2QR8HN9",
+      "title": "Anker 511 Charger (Nano 3, 30W) ホワイト | (充電器 USB-C)【USB PD 対応/PSE技術基準適合/PPS規格対応】MacBook Windows PC iPad iPhone 17シリーズ Galaxy A",
+      "url": "https://www.amazon.co.jp/dp/B0B2QR8HN9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B2QR8HN9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61wlSd52TyL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "超コンパクトかつ最大3倍速い急速充電器の新定番：3.5cm四方より小さい超コンパクト設計ながら最大30W出力でiPhoneやMacBook Airに充電が可能。 初めてでも買い替えでも選びやすいモデルです (本製品以外のカラーは別売りです) 。",
+        "折りたたみ式プラグ搭載の超コンパクト設計：一般的な30W出力の充電器と比較して約70%の小型化を実現。Anker最小の折りたたみ式プラグ搭載モデルで持ち運びにも最適です。",
+        "iPhoneシリーズに急速充電：USB PD対応の最大30W出力で、 iPhoneシリーズに急速充電が可能。一般的な5W出力の充電器に比べ、最大3倍速く充電できます (※iPhone 15を0%から50%まで充電した場合での比較 / Anker調べ。本製品にはモバイルバッテリー機能はございません) 。",
+        "幅広い対応機種：iPhoneなどのスマートフォンだけでなく、タブレット端末やノートPC、Apple Watchなど、幅広い機器に対応。",
+        "高い安全性：従来製品と同じ多重保護システムに加え、ActiveShield️ 2.0により優れた安全性を実現。独自の温度管理と接続端末の保護システムでお使いの機器を24時間守ります。また、電気用品安全法が定める技術基準への適合はもちろんのこと、国際的な安全規格であるIEC 62368-1の基準にも準拠しています。"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 3944,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0H2L63C1T",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:04:45+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B6N2ZPT4",
+      "title": "Anker 323 Charger (33W) (USB PD 充電器 USB-C USB-A 33W)【PSE技術基準適合/USB PD対応/折りたたみ式プラグ】MacBook USB PD対応Windows PC iPhone14 iPad",
+      "url": "https://www.amazon.co.jp/dp/B0B6N2ZPT4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B6N2ZPT4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51aJDZem-bL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "iPhoneやMacBook Airに充電可能：USB-C単ポート利用時は最大33Wの出力で、iPhoneシリーズだけでなくMacBook Airにも充電が可能です (本製品にはモバイルバッテリー機能はございません) 。",
+        "2台同時充電：USB-AポートとUSB-Cポートを搭載。2ポート利用時でもUSB-Aポートから最大12W、USB-Cポートから最大20Wの出力で、お使いのスマートフォンとタブレット端末などを同時に充電することが可能です。",
+        "超コンパクト設計：一般的な30W出力以上の充電器に比べ、約45%小さなコンパクトサイズを実現。折りたたみ式プラグを採用し、どこにでも気軽に持ち運ぶことができます (※ケーブルは別売りです) 。",
+        "高い安全性：ActiveShieldを搭載し、独自の温度管理と接続端末の保護システムであなたとお使いの機器を守ります。",
+        "パッケージ内容: Anker 323 Charger (33W) 、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 1808,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-21",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0BP667Q9C",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:04:54+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BF44GF6J",
+      "title": "Anker 523 Charger (Nano 3, 47W) ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0BF44GF6J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BF44GF6J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31jFAENQyjL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "2台同時急速充電：USB PD対応の2つのポートを搭載し、2ポート利用時にも最大27W＆20Wの出力が可能。 スマートフォンやタブレット端末などの幅広い機器へ2台同時に急速充電が可能です",
+        "ノートPCにも充電可能：USB PowerDelivery (PD) 対応の最大45W出力を備え、スマホやタブレット端末だけでなく、MacBook Airにも充電可能です",
+        "高い安全性： 従来製品と同じ多重保護システムに加え、ActiveShield️ 2.0により優れた安全性を実現。独自の温度管理と接続端末の保護システムでお使いの機器を24時間守ります。 また、電気用品安全法が定める技術基準への適合はもちろんのこと、国際的な安全規格であるIEC 62368-1の基準にも準拠しています。",
+        "超コンパクト設計：一般的な20Wの充電器と同じサイズの超コンパクト設計ながら、最大47W出力で2台同時に電が可能です (※最大47Wは2ポート同時利用時の合計出力となります。本製品以外のカラーは別売りです) 。",
+        "幅広い対応機種：iPhoneなどのスマートフォンだけでなく、タブレット端末やMacBook Airなどの幅広い機器に対応しています。"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 1739,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0BY7M35H4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:05:05+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D53VJJ7F",
+      "title": "CIO NovaPort TRIOⅡ 65W USB-C ×2+A 急速充電器 [世界最小級 NovaIntelligence NovaEngine搭載] ACアダプター 3ポート 2C1A USB type-C×2 + type-A ノートPC 充電器 コンセント PD iPhone 17 / Air / 16 / 15 Android Galaxy Macbook iPad向け (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0D53VJJ7F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D53VJJ7F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71YwAYb8uCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【世界最小級 3ポート67W充電器】これまでの3ポート、USB-C単ポート最大出力65WクラスのUSB充電器、ACアダプターでは考えられないほどの小型化を実現。コンセントに挿しても他の充電器に干渉しづらいサイズで、折り畳み式のコンセントプラグだからガジェットポーチやちょっとしたポケットに収まるコンパクトさ。出張先や旅行先などのあらゆるシーン、ビジネス用途から学生の方まであらゆるユーザーにおすすめです。",
+        "【3ポート搭載】複数デバイスご利用のユーザーに便利な3ポート(Cポート２，Aポート１)搭載 。USB-C1+USB-C2+USB-Aの合計出力は最大60Wの高出力。 USB-C1+USB-C2の合計出力は最大65Wの高出力。 USB-C1+USB-Aの合計出力は最大63Wの高出力。USB-C単ポート最大出力67Wでノートパソコンへの充電にも対応！ スマートフォン(iPhoneやAndroid)からタブレット(iPad)、ノートPC(Macbook、Windows PC等)まで幅広い機器に対応しており、これ一つでご自宅でも外出先でも快適にご利用いただけます。 ※USB-C2+USB-Aの合計出力は最大15Wとなりますので、USB-C1をご利用ください。 ※詳しくは急速充電早見表（画像）をご確認ください。",
+        "【電力を最適に振り分け NovaIntelligenceを搭載】接続された端末に合わせて電力を自動で調整する独自の技術 NovaIntelligence を搭載。ポートの出力を気にしながらデバイスを繋ぐ必要がなく、同時充電時もストレスなく快適に充電が可能です。",
+        "【新技術 NovaEngine搭載】次世代半導体のGaNチップをダブルで搭載するCIOの新技術NovaEngineを採用。エネルギーのロスを減らし、変換効率の向上を実現しました。充電器本体の発熱を抑制し、充電速度と安定性を追求した充電器です。",
+        "【進化した安全保護機能 NovaSafety2.0搭載】NovaPort TRIOⅡをより安心してご使用いただけるよう、CIO独自技術としてNova Safety2.0を搭載。製品温度を常に監視し、製品高負荷時に自動的に電力調整を行います。温度管理を行うことで、より安心して長くご使用いただけることを目指しました。さらにこれまでの急速充電器にありがちだった、端末接続時に一時的に充電が止まる「瞬断」を抑制する技術も搭載。より快適なスマホ、タブレット、ノートPCの充電が実現しています。※瞬断抑制機能は急速充電規格の違いがあるため、USB-Aポートを使用した際は作動しません。",
+        "【単ポート最大67W出力！超小型3ポート充電器】 USB-C単ポート最大出力67Wでノートパソコンへの充電にも対応！ スマートフォン(iPhoneやAndroid)からタブレット(iPad)、ノートPC(Macbook、Windows PC等)まで幅広い機器に対応しており、これ一つでご自宅でも外出先でも快適にご利用いただけます。",
+        "【PPS対応】 単ポート充電時は5AのPPS出力に対応しているため、最新のGalaxy S24 Ultraでは最大45WのSuper Fast Charging 2.0(超急速充電2.0) で充電が可能です。",
+        "【外観にも機能性をプラス】 製品をいつまでも長くご愛用いただきたい思いから、製品表面に一眼レフカメラのボディのようなザラザラとした傷がつきにくいシボ加工を実装致しました。 防傷加工で携帯する際にも傷がつきにくく、製品を綺麗な状態で保つことが可能です。洗練された所持欲満たされるオシャレなデザインを目指しました。",
+        "【CIO 安心保証対応】 日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はAmazonのご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+      ],
+      "maker": "CIO",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 1652,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0D8SD6PZY",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:05:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CMCD9DY3",
+      "title": "多摩電子工業 PD65W対応 AC充電器 USB x3ポート（USB-C x2、USB-A x1）Permier PR-AP146UC2W GaN採用 急速充電 ACアダプター",
+      "url": "https://www.amazon.co.jp/dp/B0CMCD9DY3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CMCD9DY3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61jC9IarBzL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "入力：AC100V～240V 50/60Hz 1.5A max",
+        "USBポート仕様 USB-C x 2ポート（PD65W対応）、USB-A x 1ポート ①USB-C1：PD65W（5V/3A,9V/3A,12V/3A,15V/3A,20V/3.25A） ②USB-C2：PD65W（5V/3A,9V/3A,12V/3A,15V/3A,20V/3.25A） ③USB-A1：18W（5V/3A,9V/2A,12V/1.5A） ④USB-C1+C2：PD45W＋PD20W ⑤USB-C1+A1：PD45W+18W ⑥USB-C2+A1：15W（5V/3A） ⑦USB-C1+(C2+A1)：PD45W＋15W（5V/3A）※3ポート同時使用時合計最大60Ｗ",
+        "サイズ：約W32×H54×D52mm（ACプラグを含まず）●質量：約123ｇ ●材質：本体ケース PC、ＡＣプラグ 銅合金 ●保証：1年保証",
+        "超急速充電が可能なPD（USBパワーデリバリー）に対応したコンセント充電器。新素材GaN（窒化ガリウム）を半導体（集積回路）に採用。従来のシリコン半導体に比べ低発熱と小型化を実現。最大出力65W給電でノートパソコン、スマホやタブレット、ゲーム機の充電に最適。Type-Cポート×2とUSB-Aポート×1を搭載。過電流・過電圧保護機能を搭載した安全設計。90°回転式プラグACプラグ採用で収納、持運びに便利。海外でも使用できるAC100V/240V対応。",
+        "※取扱説明書と保証書は付属されません。本体パッケージ裏面のQRコードからダウンロードをお願いいたします。※国や地域によって市販の変換プラグが必要になる場合があります。"
+      ],
+      "maker": "多摩電子工業",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 1542,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0CMC1G629",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:05:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B5QKMCZD",
+      "title": "Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 / PSE認証/折りたたみ式プラグ】65W",
+      "url": "https://www.amazon.co.jp/dp/B0B5QKMCZD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B5QKMCZD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41cuuzKCaeL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "【2台同時充電対応】USB PD 3.0およびPPS規格に対応したUSB-Cポートを2基搭載。単一ポート利用時は最大65W出力。2ポート同時利用時は、上部ポート最大45Wと下部ポート最大20WでノートPCやタブレット、スマートフォンなど幅広いデバイスに対応します。",
+        "【PD3.0/5段電圧対応】USB-C PD 3.0充電テクノロジーにより、幅広いデバイスを効率的に充電できます。BelkinのPD技術は5V/9V/12V/15V/20V、5段階の電圧に対応し、デバイスごとに細かく電流を調整します。",
+        "【PPS規格対応】PPS(Programmable Power Supply)テクノロジーは、接続されたデバイスに応じて充電器の出力電圧をダイナミックに調整し、ノートPCやスマホを安全に充電し、充電中の発熱または過充電を防ぎます。BelkinのPPS技術は3.3V-21Vまで対応し、MacBook Pro、Surface Pro、またはiPad Proなどの大型デバイスに適しています。",
+        "【超コンパクト設計】最新のGaN(窒化ガリウム)技術を採用し、小型化・軽量化を実現。効率的な電気回路設計によりパワフルな充電性能を発揮します。折りたたみ式プラグを採用し、持ち運びに便利です。",
+        "【幅広い互換性】MacBook Air/Pro、iPad Pro、iPhone、Androidスマートフォン、Switchなど、幅広いデバイスに対応します。"
+      ],
+      "maker": "Belkin",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 955,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-08",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0GVCC7LJL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:05:32+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CTJDLWV4",
+      "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック EC-AC8565BK",
+      "url": "https://www.amazon.co.jp/dp/B0CTJDLWV4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CTJDLWV4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61EupCOodOL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ノートパソコンからスマートフォンまでこれ1台で充電できる、高出力のUSB AC充電器です。デバイスごとに専用の充電器を持ち運ぶ必要はありません。※USB Power Delivery規格で65Wまで充電できる機器に限ります。",
+        "ノートパソコン付属のACアダプターと違い必要な長さのケーブルを選んで使えるから、長すぎるケーブルでごちゃつきがちなデスク周りもこれですっきり。スペースを広々使えます。",
+        "GaN II(窒化ガリウム)を採用し、高出力ながらコンパクトサイズを実現。プラグ部分も折り畳むことができるため、バッグの中でもスペースを取らず、ビジネスでの外出やリモートワーク、出張、旅行など持ち運びにも便利です。※GaN II(窒化ガリウム)はGaN第1世代より、製品の小型化および軽量化を実現することで、よりモバイル性を高めています。",
+        "USB Power Delivery、PPS(Programmable Power Supply)に対応しています。iPhoneを約30分で50%まで充電できるから、外出先でスピード充電が可能です。",
+        "※USB Power Deliveryとは、アダプターと接続機器間で情報をやり取りすることで、その機器間における最適な電力を選択し、高速充電を実現するUSB規格です。PPS(Programmable Power Supply)とは、0.2V単位で電圧を調整し、最適な電力で効率的に供給することができるUSB Power Delivery のオプション規格です。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 1273,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0CTK4HYW4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:05:39+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D53VKL36",
+      "title": "CIO NovaPort DUOⅡ 65W USB-C 2ポート 充電器 [世界最小級 NovaIntelligence NovaEngine搭載] ACアダプター type-c 67W PD 急速充電器 ノートPC Macbook iPhone 17 / Air / 16 / 15 Android Galaxy iPad向け (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0D53VKL36?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D53VKL36?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71Zi4tqVRdL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【世界最小級 2ポート67W充電器】これまでの2ポート、USB-C単ポート最大出力65WクラスのUSB充電器、ACアダプターでは考えられないほどの小型化を実現。コンセントに挿しても他の充電器に干渉しづらいサイズで、折り畳み式のコンセントプラグだからガジェットポーチやちょっとしたポケットに収まるコンパクトさ。出張先や旅行先などのあらゆるシーン、ビジネス用途から学生の方まであらゆるユーザーにおすすめです。",
+        "【Nova Intelligence搭載で電力を最適に振り分け】それぞれのUSB タイプC ポートにUSBケーブルを接続するだけで、スマホなどの端末に自動で最大67Wの出力を調整して充電が可能な急速充電器。これまでの充電器のように、接続するUSBポートを迷うことなく最速で充電が可能です。※Nova Intelligenceの仕様は急速充電早見表(画像)をご確認ください。",
+        "【新技術 NovaEngine搭載】次世代半導体のGaNチップをダブルで搭載するCIOの新技術NovaEngineを採用。エネルギーのロスを減らし、変換効率の向上を実現しました。充電器本体の発熱を抑制し、充電速度と安定性を追求した充電器です。",
+        "【進化した安全保護機能 NovaSafety2.0搭載】NovaPort DUOⅡにはCIO独自技術としてNova Safety2.0を搭載。製品温度を常に監視し、高負荷時、高温時に自動的に電力調整、温度管理を行います。さらにこれまでの急速充電器にありがちだった、端末接続時に一時的に充電が止まる「瞬断」を抑制する技術も搭載。より快適なスマホ、タブレット、ノートPCの充電が実現しています。",
+        "【外観にも機能性をプラス】 製品をいつまでも長くご愛用いただきたい思いから、表面に一眼レフカメラのボディのようなザラザラとした傷がつきにくいシボ加工を実装。いつまでも綺麗な状態で保つことが可能です。また、充電器のプラグ側を、壁にすき間なくピタッとささるフルフラットデザインに変更。壁コンセントに差し込んだ時の安定性が向上しております。機能性や安定性に加え、洗練された所持欲満たされるオシャレなデザインを目指しました。",
+        "【CIO 安心保証対応】 日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+      ],
+      "maker": "CIO",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 675,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0DJVNQVGM",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:05:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F99FCSX7",
+      "title": "Anker Nano Charger (70W, 3 Ports) ブラック USB PD対応 PSE技術基準適合 折りたたみ式プラグ iPhone/MacBook/Windows PC/iPad/Galaxy対応",
+      "url": "https://www.amazon.co.jp/dp/B0F99FCSX7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F99FCSX7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ty6FitB2L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "MacBook Airを急速充電：単ポート最大70W出力に対応。スマホやタブレットはもちろん、MacBook Airにも急速充電が可能です。",
+        "世界最小クラスの超コンパクト設計：複数枚のGaN搭載ICチップを内臓することで電力変換効率を高め、一般的な67W出力の充電器と比較して約55%の小型化を実現しました。",
+        "抜け落ちづらく安定した設計：重心位置の調整に加え、プラグ本体へ厚みを持たせて摩擦力を上げる構造を採用することで、プラグが落ちづらい設計を実現。",
+        "高出力でも安全性を実現：ActiveShield️ 4.0によりさらなる安全性を実現。常に温度を計測し制御するためお使いの機器を24時間守ります。",
+        "デザインと機能性を両立：表面の特殊加工により、放熱性の向上と指紋汚れのつきにくさを実現。デザイン性と機能性を両立しました。",
+        "幅広い対応機種：iPhoneなどのスマートフォンだけでなく、タブレット端末やノートPCなど、幅広い機器に対応。",
+        "パッケージ内容：Anker Nano Charger (70W, 3 Ports) 、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 742,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-30",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0HLGBYQVY",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:06:00+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C42HDMQW",
+      "title": "CIO NovaPort SLIM DUO 67W 2C 極薄14mm USB-C急速充電器",
+      "url": "https://www.amazon.co.jp/dp/B0C42HDMQW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C42HDMQW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71dvC0VT9OL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【極薄サイズ14mm】GaN（窒化ガリウム）テクノロジーとCIOの持つ技術力を組み合わせ、65W2ポート充電器の中でも世界最薄レベルを実現。それでいてクレジットカードよりも小さな小型化を実現しました。コンパクトでかつ、折り畳みプラグを搭載している為、どこでも持ち運びができ、カフェや新幹線、飛行機、出張や旅行にも最適です。また、ご自宅のリビング周りや、ベッド周りなどの狭く挿しづらい場所等でのご使用にも適しております。",
+        "【単ポート最大67W出力】USB-C単ポート最大出力67Wでノートパソコンへの充電に適した充電器です。 スマートフォン(iPhoneやGalaxy、Xperia等のAndroidスマホ)からタブレット(iPad / iPad mini / iPad Pro)、ノートPC(Macbook / Macbook Air / Macbook Pro、LenovoやHP、他あらゆるWindows PC等)、ゲーム機(Switch等)まで幅広い機器に対応しています。",
+        "【2ポート搭載】USB-C×2ポート搭載。2台同時充電時は最大65Wの中で最適に充電可能です。※詳しくは急速充電早見表（画像）をご確認ください。",
+        "【CIO独自制御技術 NovaIntelligenceを搭載】端末に合わせて電力を自動で調整してくれる為、ポートの出力を気にしながらデバイスを繋ぐ必要がなく、同時充電時もストレスなく快適に充電が可能です。",
+        "【安全機能 独自技術NovaSafety搭載】NovaPort SLIMをより安心して長くご使用いただきたい。そうした想いからCIO独自技術『Nova Safety』を搭載。製品温度を常に監視し、製品高負荷時に自動的に電力調整を行います。",
+        "【PPS対応】 単ポート充電時は5AのPPS出力に対応しているため、最新のGalaxy S22 Ultraでは最大45WのSuper Fast Charging 2.0(超急速充電2.0) で充電が可能です。",
+        "【外観にも機能性をプラス】 製品をいつまでも長くご愛用いただきたい。そんな思いから製品表面に一眼レフカメラのボディのようなザラザラとしたシボ加工を実装致しました。 折り畳み式プラグを搭載している事も相まって、携帯する際にも傷がつきにくく、製品を綺麗な状態で保つ事が可能です。 洗練された所持欲満たされるデザインを目指しました。"
+      ],
+      "maker": "CIO",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 534,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0CB7YLXJW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:06:07+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BF9ZYCQ5",
+      "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+      "url": "https://www.amazon.co.jp/dp/B0BF9ZYCQ5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BF9ZYCQ5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61BPJ9gQeTL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "【最大45Wのハイパワー】単一のポートを使用する場合は最大45WでMacBookやWindows PCを充電。",
+        "【25Wと20Wの2ポート使用で2つのデバイスを同時に充電】2つのポートを同時に使う場合は、25Wと20Wでスマートフォンやタブレットを同時に充電。",
+        "【PPS対応で安心】PPS(Programmable Power Supply)テクノロジーは、接続されたデバイスに応じて充電器の出力電圧をダイナミックに調整するので、ノートPCやスマホを高速かつ安全に充電し、充電中の発熱または過充電を防ぎます。",
+        "【iPhoneとSamsungを高速充電】USB-C PD 3.0およびPPS充電テクノロジーで、より幅広いデバイスをパワフルかつ効率的に充電できます。iPhone 13を28分で0%から50%の状態まで、Samsung S21を27分で0%から50%の状態まで充電できます。",
+        "【コンパクトなGaNパワー】最新のGaNテクノロジーを採用したことで、超コンパクトな設計で安全かつ効率的なハイパワー充電を実現し、充電中に発熱や過充電が起きません。"
+      ],
+      "maker": "Belkin",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 515,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0GVCC7LJL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:06:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D53S6T2B",
+      "title": "CIO NovaPort DUO Ⅱ 45W 急速充電器",
+      "url": "https://www.amazon.co.jp/dp/B0D53S6T2B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D53S6T2B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51yoeF-gewL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【世界最小級 2ポート45W出力充電器】圧倒的な小型・軽量のUSB-C 45W対応充電器。折り畳み式のコンセントプラグだからガジェットポーチやちょっとしたポケットに収まるコンパクトさ。出張先や旅行先などのあらゆるシーン、ビジネス用途から学生の方まであらゆるユーザーにおすすめです。",
+        "【Nova Intelligence搭載で電力を最適に振り分け】スマホなどの端末に自動で出力を調整して充電が可能な急速充電器。従来のAC充電器のように、接続するポートを迷うことなく最速で充電が可能です。",
+        "【新技術 NovaEngine搭載】次世代半導体のGaNチップを用いる事でエネルギーのロスを減らし、変換効率の向上を実現しました。充電器本体の発熱を抑制し、充電速度と安定性を追求した充電器です。",
+        "【進化した安全保護機能 NovaSafety2.0搭載】製品温度を常に監視し、高負荷時、高温時に自動的に電力調整、温度管理を行います。さらにこれまでの急速充電器にありがちだった、端末接続時に一時的に充電が止まる「瞬断」を抑制する技術も搭載。より快適なスマホ、タブレット、ノートPCの充電が実現しています。",
+        "【外観にも機能性をプラス】 製品をいつまでも長くご愛用いただきたい思いから、表面に一眼レフカメラのボディのようなザラザラとした傷がつきにくいシボ加工を実装。いつまでも綺麗な状態でお使いいただけます。また、プラグ側は、壁にすき間なくピタッとささるフルフラットデザインに変更。壁コンセントに挿し込んだ際の安定性が向上。機能性や安定性に加え、洗練された所持欲満たされるオシャレなデザインを目指しました。",
+        "【CIO 安心保証対応】 日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+      ],
+      "maker": "CIO",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 421,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0DH488813",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:06:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FWJK8GV9",
+      "title": "Anker Zolo Charger (50W, 4 Ports) ブラック | 充電器 / 50W / Type-C【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iPhone 17 / 16 / 15シリーズ / Air MacBook W",
+      "url": "https://www.amazon.co.jp/dp/B0FWJK8GV9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FWJK8GV9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61BISbYGneL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "4台同時に充電可能：USB-C / USB-Aポートをそれぞれ2つ搭載。これ1台で、スマートフォンやタブレット端末など4台同時に充電できます",
+        "合計最大50Wの高出力：2つのUSB-Cポートを使用した場合、それぞれ最大30Wと20W出力が可能。スマホやタブレットなどを2台同時に急速充電できます",
+        "安定して単ポート最大30W出力が可能：他のポートを同時に使用していても、USB-C1ポートの出力を落とさず安定して充電できます",
+        "持ち運びに便利なコンパクトサイズ：コンパクトかつ軽量な設計を実現。プラグは折りたたみ式のため、ポーチなどにも収納できるサイズで、持ち運びにも便利です",
+        "高出力でも高い安全性を実現：ActiveShield4.0によりさらなる安全性を実現。常に温度を計測し制御するためお使いの機器を24時間守ります",
+        "パッケージ内容：Anker Zolo Charger (50W, 4 Ports) ブラック 、クイックスタートガイド、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 467,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0GHLNV933",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:06:34+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DHTT13KN",
+      "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0DHTT13KN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DHTT13KN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31kWFtmIe-L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【最大45W・USB-C急速充電器】最大45W出力に対応したBelkinのUSB-C充電器。iPhone 17/16/15、Samsung Galaxy、Google Pixel、iPad、MacBook、Chromebookなど、幅広いUSB-C対応デバイスをすばやく充電できます。スマートフォンからタブレット、ノートPCまで使いやすいtype-c充電器です。",
+        "【USB-C PD3.2・PPS対応】USB-C PD3.2とPPSに対応し、接続した機器に合わせて効率よく電力を供給。iPhoneやGalaxyなどのスマートフォンはもちろん、iPad ProやMacBook AirなどのPD対応機器にも安定した急速充電が可能です。毎日の充電時間を短縮したい方におすすめです。",
+        "【iPhone・Galaxyを高速充電】iPhone 16 Proを約28分で0〜50%、Samsung Galaxy S23を約30分で0〜50%まで充電可能。iPhone充電器、Galaxy充電器、Androidスマホ充電器として使いやすく、外出前や仕事中など短時間で充電したい場面にも便利です。※充電時間は使用環境により異なります。",
+        "【折り畳みプラグ・コンパクト設計】折り畳みプラグを採用したコンパクトなPD充電器。バッグやポーチに入れてもかさばりにくく、自宅、オフィス、出張、旅行先でも持ち運びやすい設計です。壁コンセントにもすっきり挿せるため、デスク周りやベッドサイドでも快適に使用できます。",
+        "【安全設計・2年保証・CEW付き】Belkin SmartProtectにより、過電圧、過熱、短絡などに配慮した安全設計。PSE技術基準にも適合し、安心して毎日使用できます。さらに2年保証と、対象機器の損害を最大2,500米ドルまで補償する接続機器保証付きです。※保証・補償には適用条件があります。"
+      ],
+      "maker": "Belkin",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 327,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0FSQ2Y9FD",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:06:43+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F3CJRF4Y",
+      "title": "エレコム 充電器 45W 2ポート Type-C USB PD対応 PPS対応 GaN II採用 折りたたみ式プラグ ホワイト EC-AC10945WH",
+      "url": "https://www.amazon.co.jp/dp/B0F3CJRF4Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F3CJRF4Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41u64+VzDzL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "USB Type-C(TM)ポート×2を搭載し、対応するスマートフォン・タブレット・ノートパソコンなどを充電できるAC充電器です。",
+        "USB Power Delivery 45Wで充電可能。MacBook Airなどの対応するノートパソコンや、iPadなどのタブレットも充電できます。",
+        "iPhoneなどのスマートフォンを2台同時に高速充電できるモデルです。",
+        "GaN II(窒化ガリウム)を採用し、高出力ながらコンパクトサイズを実現しています。",
+        "プラグ部分を折り畳むこともできるため、ポケットや小さなバッグにも収まります。普段のお出かけ、ビジネスでの外出やリモートワーク、旅行など幅広いシーンで使えます。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 216,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0F5BB16L4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:06:52+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F3CMBP5L",
+      "title": "エレコム 充電器 45W 2ポート Type-C USB PD対応 PPS対応 GaN II採用 折りたたみ式プラグ ブラック EC-AC10945BK",
+      "url": "https://www.amazon.co.jp/dp/B0F3CMBP5L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F3CMBP5L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51YQAfsh+TL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "USB Type-C(TM)ポート×2を搭載し、対応するスマートフォン・タブレット・ノートパソコンなどを充電できるAC充電器です。",
+        "USB Power Delivery 45Wで充電可能。MacBook Airなどの対応するノートパソコンや、iPadなどのタブレットも充電できます。",
+        "iPhoneなどのスマートフォンを2台同時に高速充電できるモデルです。",
+        "GaN II(窒化ガリウム)を採用し、高出力ながらコンパクトサイズを実現しています。",
+        "プラグ部分を折り畳むこともできるため、ポケットや小さなバッグにも収まります。普段のお出かけ、ビジネスでの外出やリモートワーク、旅行など幅広いシーンで使えます。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 216,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0F5BB16L4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:07:00+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H3278SLM",
+      "title": "CIO NovaPort SLIM DUOII 45W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量70g (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0H3278SLM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H3278SLM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61t0Nb+j5wL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [],
+      "maker": "CIO",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 100,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-19",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0HLVMTR2N",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:07:09+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H8P4H5J7",
+      "title": "MOKiN 45W 急速充電器 USB-C GaN 採用・PD対応・PSE技術基準適合・折りたたみ式プラグ 小型 電源アダプター 2ポート同時充電 旅行/出張/オフィス用 MacBook/Windows/PC/iPad/iPhone/Galaxy Android対応",
+      "url": "https://www.amazon.co.jp/dp/B0H8P4H5J7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H8P4H5J7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51GFXEhw6XL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【多重安全保護機能｜PSE適合で安心】過電流・過電圧・過熱・短絡保護回路を内蔵。耐火PC素材を使用し、接続した機器の種類やバッテリー残量に応じて、適切な電圧・出力へ自動調整。必要以上の電力供給を抑えながら効率よく充電。。夜間の長時間充電も安心してお任せいただけます。日本のPSE技術基準にも適合済みです。",
+        "【進化版GaNII技術｜小型・低温・高効率】従来のGaN I世代比で約30%小型化。II世代GaN技術により、発熱を抑えながら安定した高出力を長時間維持。折り畳み式プラグ採用で持ち運びも簡単。自宅はもちろん、オフィスや出張先でも、毎日安心してお使いいただけます。",
+        "【45W高出力 Type-C 急速充電器】最大45W出力（USB-C単ポート使用時）で、ノートPCからスマートフォン、タブレット、イヤホンまで幅広い機器を充電可能。iPhoneとApple Watchをわずか30分で60%まで充電でき、純正の5W iPhone充電器に比べて3倍の速さです。",
+        "【2ポート搭載・日々の充電をこれ1台に】USB-Cポート×2（最大45W/45W）を搭載、複数のデバイスをまとめて充電。コンセントスペースを有効活用し、ケーブルの散らかりも解消。 出張先のホテルやカフェでも、機器ごとに充電器を持ち歩く必要がなく、荷物をすっきり軽量化。※接続する機器やポート数により出力は自動で分配されます。",
+        "【幅広い互換性】PD3.0・PPS・QC3.0・SCP・FCPに対応。iPhone、iPad、MacBook、Galaxy、Xperia、Switchなど、USB-C搭載のほとんどの機器を最適な速度で充電します。C1ポートはSam sung Galaxy Sシリーズへの最 大45W出力など、各デバイスの要求に応えます。"
+      ],
+      "maker": "MOKiN",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 40,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_observed_at": "2026-09-24T01:17:17+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0HJCGC3QJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:07:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BF43HS1G",
+      "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 17 / 16 / 15シリーズ / Air MacBook Air その",
+      "url": "https://www.amazon.co.jp/dp/B0BF43HS1G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BF43HS1G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31huxMX7r9L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "2台同時急速充電：USB PD対応の2つのポートを搭載し、2ポート利用時にも最大27W＆20W出力が可能。スマートフォンやタブレットなど、2台のデバイスを同時に充電することができます。",
+        "ノートPCも一緒に充電可能：45W出力のUSB PowerDelivery (PD) に対応。スマートフォンやタブレット端末だけでなく、MacBook Airになど、幅広い用途に対応します。",
+        "安全機能を搭載：ActiveShield️ 2.0の高度な多重保護システムにより、お使いの機器を24時間保護します。また、電気用品安全法が定める技術基準への適合はもちろんのこと、国際的な安全規格であるIEC 62368-1の基準にも準拠しています。",
+        "超コンパクト設計で急速充電可能：20W充電器と同じサイズでありながら、合計最大47W出力を実現。iPhoneを2台同時に充電が可能です（※47Wは2ポート同時利用時の合計出力。本製品以外のカラーは別売りです）。",
+        "幅広い対応機種：iPhoneなどのスマートフォンだけでなく、タブレット端末やMacBook Airなどの幅広い機器に対応しています。"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 1739,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0BY7M35H4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:07:25+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CLGZGXMD",
+      "title": "UGREEN NexodeX【当社比最小】 65W充電器 USB-C*2とUSB-A*1 新生代GaNInfinity™チップ 独自Airpyra技術 PD3.0/QC4+対応 自宅/出張/旅行用 ノートPC iPad iphone17/16/15/14 Galaxy S24 Pixel8 Xperia5以降対応 超急速45W対応 PSE技術基準適合 X754",
+      "url": "https://www.amazon.co.jp/dp/B0CLGZGXMD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CLGZGXMD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51ru6HB3+tL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【当社比最小・65W急速充電器】Nexode Xシリーズ充電器は最新のGaNInfinityチップを搭載、新世代スタッキング技術・Airpyraの活用により、65W急速充電器としては最小級のサイズを実現しました。充電スピードも従来比約2倍にアップ！iPhone 15 Proはわずか30分で0％から60％に充電できます。MacBook Air M2の0％- 51％充電も、わ ずか30分という速さです。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【独自の温度検知/制御技術 Thermal Guard】UGREENの独 自の温度検知/制御技術Thermal Guardは、ミリ秒単位の温度検出により過熱、過充電、過電流を制御します。温度変化をリアルタイムで検知し、適切な電流をデバイスにスマートに分配することで、デバイ スのバッテリー寿命の劣化を防ぎながら安心の高速充電を実現します。シェルは耐火性および難燃性に優れた高級PVC素材を採用、落下による衝撃から保護します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【3台のデバイスを同時に充電】 2つのUSB-Cポートと1つのUSB-Aポートを搭載し、最大3台のデバイスを同時に充 電で きます。合計で最大65Wの給電が可能なため、スマートフォ ンやスマートウォッチ、タブレット、ノートパソコンなどを急いで充電したいときに便利です。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【幅広い機器に対応】USB PD3.0のほか、QC4+、PPS、SCP 、FCPなど多様な充電規格をサポートします。対応機種（一部）：MacBook Pro 14&#39;&#39; 2021 (M1 Pro)、MacBook Pro 13、Macbook Air 2020、iPad Pro、iPhone17、16、15、14、13、12、11 Pro、XS、XR、8、7 Plus、SE 2020、AirPods Pro、 Switch, Galaxy Note 20, Note 20 Ultra, S24，S23，S22，S21, S20, S10, Note 10 Plus, S9, S8, A8 2018, A5 2017, A51, A71, Google Pixel 4A 4 XL 3A 3 XL；P60,P60, P60 Pro, P50, P50 Pro,P40 Pro，P40, P30, P20 Proなど　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【24ヶ月間の保証】当店でご購入の製品には24ヶ月間保証サービスが付いております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【ご注意】PD充電を行うためには、PD対応ケーブルとPD充電に対応したデバイスが必要となります。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 1331,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0HJZPKZXN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:07:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CMQK8CMJ",
+      "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/",
+      "url": "https://www.amazon.co.jp/dp/B0CMQK8CMJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CMQK8CMJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51ss1AawMRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【100W超小型急速充電器】Nexode Xシリーズ充電器は最新のGaNInfinityチップを搭載、単ポートでも100Wを出力でき、100W急速充電器としては最小級のサイズを実現しました。充電スピードも従来比約2倍にアップし、iPhone 17 Proをわずか30分で0％から68％に充電できます。MacBook Pro 14の0％- 50％充電も、わずか27分という速さです。",
+        "【3台のデバイスを同時に充電】 2つのUSB-Cポートと1つのUSB-Aポートを搭載し、3台のデバイスを同時に充電できます。最大100Wの給電が可能なため、スマートフォンやスマートウォッチはもちろん、タブレット、ノートパソコンなどの大容量力デバイスを急いで充電したいときに便利です。",
+        "【独自の温度検知/制御技術 Thermal Guard】UGREEN独自の温度検知/制御技術・Thermal Guardは、ミリ秒単位の温度検出により過熱、過充電、過電流を制御します。温度変化をリアルタイムで検知し、適切な電流をデバイスにスマートに分配することで、バッテリーの劣化を防ぎつつ安心の高速充電を実現します。シェルは耐火性および難燃性に優れた高級PVC素材を採用、落下による衝撃から保護します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．",
+        "【幅広い機器に対応】USB PD3.0のほか、QC4+、PPS、SCP 、FCPなど多様な充電規格をサポートします。対応機種（一部）：iPhone17/16/15/14/13/12/11 Pro、XS、XR、MacBook Pro 14&#39;&#39; 2021 (M1 Pro)、MacBook Pro 13、Macbook Air 2020、iPad Pro、AirPods Pro、 Switch, Galaxy Note 20, Note 20 Ultra, S24，S23，S22，S21, S20, S10, Note 10 Plus, S9, S8, A8 2018, A5 2017, A51, A71, Google Pixel 4A 4 XL 3A 3 XL；P60,P60, P60 Pro, P50, P50 Pro,P40 Pro，P40, P30, など。",
+        "【24ヶ月間の保証】当店でご購入の製品には24ヶ月間保証サービスが付いております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。　　　　　　　　．",
+        "【ご注意】PD65W/100W充電を行うためには、PD対応ケーブルとPD充電に対応したデバイスが必要となります。　　　　　　　　　　　　　　　　　　　．"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 764,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0HJZPKZXN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:07:41+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D53XL7GL",
+      "title": "CIO NovaPort QUADⅡ 65W 急速充電器 PD 4ポート [世界最小級] USB-C×3 + USB-A×1 ACアダプター コンセント 軽量 iPhone 17 / Air / 16 / 15 Android Galaxy Macbook iPad向け ノートPC (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0D53XL7GL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D53XL7GL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/716d7Y80qOL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【最大67W出力！超小型4ポート充電器】USB-C単ポート最大出力67Wでノートパソコンへの充電にも対応！ スマートフォン(iPhoneやAndroid)からタブレット(iPad向け)、ノートPC(Macbook、Windows PC等)まで幅広い機器に対応しており、これ一つでご自宅でも外出先でも快適にご利用いただけます。",
+        "【4ポート搭載】最大4台同時充電に対応し、スマホやタブレット、ゲーム機、モバイルバッテリー、電子タバコなど、さまざまなデバイスをこれ1台で充電可能。CIO独自技術 Nova Intelligenceを搭載し、複数充電時に最適な電力を自動で振り分けてくれます。※Nova Intelligenceの仕様は急速充電早見表(画像)をご確認ください。",
+        "【世界最小級サイズ】高出力でありながら、4ポート充電器の中でも極限まで小さいサイズに設計。持ち運びをされる際に、カバンやポーチに入れやすいサイズ感。コンセント干渉がなく、コンセント周りをスッキリすることができます。",
+        "【電力を最適に振り分け NovaIntelligenceを搭載】接続された端末に合わせて電力を自動で調整する独自の技術 NovaIntelligence を搭載。ポートの出力を気にしながらデバイスを繋ぐ必要がなく、同時充電時もストレスなく快適に充電が可能です。",
+        "【新技術 NovaEngine搭載】次世代半導体のGaNチップをダブルで搭載するCIOの新技術NovaEngineを採用。エネルギーのロスを減らし、変換効率の向上を実現しました。充電器本体の発熱を抑制し、充電速度と安定性を追求した充電器です。",
+        "【進化した安全保護機能 NovaSafety2.0搭載】 NovaPort QUAD2 をより安心してご使用いただけるよう、CIO独自技術としてNova Safety2.0を搭載。製品温度を常に監視し、製品高負荷時に自動的に電力調整を行います。温度管理を行うことで、より安心して長くご使用いただけることを目指しました。",
+        "【PPS対応】 単ポート充電時は5AのPPS出力に対応しているため、最新のGalaxy S24 Ultraでは最大45WのSuper Fast Charging 2.0(超急速充電2.0) で充電が可能です。",
+        "【外観にも機能性をプラス】 製品をいつまでも長くご愛用いただきたい思いから、製品表面に一眼レフカメラのボディのようなザラザラとした傷がつきにくいシボ加工を実装致しました。防傷加工で携帯する際にも傷がつきにくく、製品を綺麗な状態で保つことが可能です。洗練された所持欲満たされるオシャレなデザインを目指しました。",
+        "【CIO 安心保証対応】 日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はAmazonのご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+      ],
+      "maker": "CIO",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 593,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0D8TC5N64",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:07:48+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D73JBJ56",
+      "title": "Anker Prime Charger (100W, 3 Ports, GaN) | 急速充電器 100W type-c 3ポート【PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Gala",
+      "url": "https://www.amazon.co.jp/dp/B0D73JBJ56?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D73JBJ56?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51itDaLo7BL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "最大100Wの高出力：単ポート最大100W出力で、ノートPCやスマートフォンまでこれひとつで急速充電が可能。MacBook Pro (14インチ、M3 Pro) へは、わずか約60分で満充電が完了します。",
+        "世界最小クラス の小型設計：クレジットカードよりも小さく、 一般的な100W出力以上の充電器に比べ、約50%の小型化を実現。折りたたみ式プラグを採用し、持ち運びにも最適な小型設計です。※100W以上の出力に対応しているUSB-Cポートを2つ、USB-Aポートを1つ以上搭載している充電器において。2024年5月時点 / Anker調べ",
+        "スマホ、PC、タブレットまで3台同時に急速充電：これひとつで幅広い機器に充電が可能。お使いの機器に合わせた充電器を持ち運ぶ必要がありません。",
+        "抜け落ちづらい本体設計：重心位置の調整に加え、プラグ本体へ厚み持たせて摩擦力を上げる構造を採用することで、プラグが落ちづらい設計を実現しました。",
+        "更なる安全性の向上：従来の多重保護システムに加え、ActiveShield2.0によりさらなる安全性を実現。常に温度を計測し制御するためお使いの機器を24時間守ります。",
+        "パッケージ内容：Anker Prime Charger (100W, 3 Ports, GaN) 、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 751,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0HHR72P87",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:07:58+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F43N4Z21",
+      "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 しろちゃん EC-AC10367WF",
+      "url": "https://www.amazon.co.jp/dp/B0F43N4Z21?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F43N4Z21?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41x+wo11QIL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "3つの出力ポートを搭載。用途に合わせて接続先を使い分けられるから、ノートパソコンやスマートフォン、タブレット、ワイヤレスイヤホンなどを組み合わせて同時に充電できるAC充電器です。",
+        "USB Type-Cポートへの1ポート接続時は、USB Power Delivery 67Wを出力。ノートパソコンを十分な速度で充電できます。",
+        "2ポート同時接続時は10W～45W、3ポート同時接続時は10W～40Wでの出力が可能。スマートフォンやタブレット、ワイヤレスイヤホン、電子タバコなどのデバイスを同時に充電できます。",
+        "GaN II(窒化ガリウム)を採用し、高出力ながらコンパクトサイズを実現。プラグ部分も折り畳むことができるため、バッグの中でもスペースを取らず、ビジネスでの外出やリモートワーク、出張、旅行など持ち運びにも便利です。",
+        "MacBook付属のUSB-C - MagSafe 3ケーブルも使用可能。MacBookの充電をスムーズに行えます。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 1015,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0HGFS3ZYQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:08:05+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F43NCQ25",
+      "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
+      "url": "https://www.amazon.co.jp/dp/B0F43NCQ25?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F43NCQ25?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51GiFp77acL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "3つの出力ポートを搭載。用途に合わせて接続先を使い分けられるから、ノートパソコンやスマートフォン、タブレット、ワイヤレスイヤホンなどを組み合わせて同時に充電できるAC充電器です。",
+        "USB Type-Cポートへの1ポート接続時は、USB Power Delivery 100Wを出力。ハイスペックノートパソコン、ゲーミングPCなどを十分な速度で充電できます。",
+        "2ポート・3ポート同時接続時は12W～70Wでの出力が可能。ノートパソコンやスマートフォン、タブレット、ワイヤレスイヤホン、電子タバコなど、幅広いデバイスを同時に充電できます。",
+        "GaN II(窒化ガリウム)を採用し、高出力ながらコンパクトサイズを実現。プラグ部分も折り畳むことができるため、バッグの中でもスペースを取らず、ビジネスでの外出やリモートワーク、出張、旅行など持ち運びにも便利です。",
+        "MacBook付属のUSB-C - MagSafe 3ケーブルも使用可能。MacBookの充電をスムーズに行えます。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 373,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0HGFGRFJS",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:08:15+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GDCPBYHF",
+      "title": "UGREEN Air 65W PD 急速充電器 USB-C 超小型 GaNII Type-C充電器 100Wケーブル付き PSE技術基準適合 | 超小型 PD3.0/PPS/PSE認証済 iPhone17/16/15 MacBook/Galaxy/A",
+      "url": "https://www.amazon.co.jp/dp/B0GDCPBYHF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GDCPBYHF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/611JVFzJcfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【実測AVS対応】iPhone 18 Pro / Pro Max の最速有線充電に必要な「可変電圧供給（AVS）＋60W以上」条件を満たす65W充電器。USB PD 3.1系AVSを実機で確認。付属100W USB-Cケーブル（60W以上要件もクリア）で、別途ケーブルを買い足さず開封すぐ使える。※充電速度は電池残量・温度・使用状況により異なります。",
+        "【卵の2/3サイズなのに65W】本体わずか約33×31×40.4mm、折りたたみプラグ採用。GaNInfinity / GaNIIで高効率・低発熱。iPhoneはもちろん、MacBook Airも30分で約50%（従来PD実測目安）。出張・旅行・カフェに1台。TÜV SÜDコンパクト高出力 Sクラス認証取得。",
+        "【PD3.1 AVS / PD3.0 / PPS 対応】固定電圧（5/9/15/20V）だけでなく、0.1V刻みの可変電圧で端末が求める電圧に追従。発熱を抑えつつ出力を維持しやすい次世代充電。Galaxy / Xiaomi 等のPPS機器、UFCS対応機にも幅広く対応。",
+        "【PSE適合・12重保護・いたわり充電】日本PSE技術基準適合。過電圧・過電流・短絡・温度制御など12重保護。トリクル充電で就寝中の過充電を抑制し、バッテリー最大容量への負荷を軽減。接続機器と本体の両方を守る設計。",
+        "【これ1台で全て解決！圧倒的な幅広い互換性】 複数の充電器を持ち歩く煩わしさから解放されます。最新のiPhone 17/16/15/14シリーズ、iPad、MacBook Airをはじめ、GalaxyやXiaomiなどのAndroidスマホ、各種USB-C対応ノートPC、さらにはNintendo Switchなどのゲーム機器まで幅広く対応。ご家庭、オフィス、旅行先など、あらゆるシーンでこれ1台で対応可能です。",
+        "【幅広い互換性】これ一台でスマホ・タブレット・ノートPCをカバー。iPhone 17 / 16 / 15 / 14 / 13 / 12 シリーズ、iPad、MacBook Air、Galaxy、Xiaomi（小米）をはじめとするAndroidスマホ、タブレット、ゲーム機器（Nintendo Switchなど）、USB-C搭載のノートパソコンまで、幅広い機器に使用可能。複数の充電器を持ち歩く必要がなくなり、ご家庭でもオフィスでも旅行先でも使用できます。",
+        "【届いてすぐ使える！100W高品質Type-Cケーブル付属】 本製品には、高出力を最大限に活かせる「100W対応のUSB-C to USB-Cケーブル」が同梱されています。別途急速充電対応のケーブルを購入する必要がなく、開封後すぐにノートPCやスマホへの超高速充電を開始できます。ケーブルは耐久性に優れた断線しにくい設計で、長期間安心してご使用いただけます。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 841,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0HJZKWY1S",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:08:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GF26RSYQ",
+      "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック | 45W 充電器 USB PD USB-C 【PSE技術基準適合/約180度折りたたみ式プラグ】iPhone MacBook Air タブレット その他",
+      "url": "https://www.amazon.co.jp/dp/B0GF26RSYQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GF26RSYQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41CCrJKmCWL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Anker初iPhoneのモデル検知が可能：モデルごとに最適な出力で充電可能。 充電出力やiPhoneのバッテリー残量を表示します",
+        "充電状況が確認可能なディスプレイを搭載：出力や充電モードの状況や、本体の温度状況などが確認可能なディスプレイを搭載。 また本体側面のタッチ式ボタンで画面を切り替えることが可能です",
+        "リアルタイムなモニタリングで充電をスマートに：20種類を超える多彩な画面デザインを搭載 。電力、デバイス温度、 現在の充電モードを常にアップデートし、安全で効率的な充電を視覚的にサポート",
+        "折りたたみ可能なスイングプラグを搭載：二方向に調整可能なスイングプラグを搭載しコンセントの周囲と干渉しにくい設計。折りたたみ式のため、持ち運びにも最適です",
+        "最大45W出力で最新のiPhoneへ急速充電が可能：充電するiPhoneの本体充電残量に合わせ自動で3つの充電モードに切り替わり 本体を保護しながら約20分で50%まで充電可能",
+        "長時間の使用に優れた保護充電モードを搭載：就寝中など長時間の利用に適した保護充電モードを搭載。 充電器本体と充電する機器の温度上昇を防ぎお使いの機器のバッテリー寿命を保護します",
+        "パッケージ内容：Anker Nano Charger (45W, Display, スイングプラグ) ブラック、取扱説明書、カスタマーサービス"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261110_charger",
+      "queries_matched": [
+        "dg_20261110_charger"
+      ],
+      "review_count": 710,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "parent_asin": "B0HF7MSWCB",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:08:34+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:charger"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "実在typeタグでreadonly gate照会。狭い用途は商品名と履歴Featuresで監査。未確認attrタグを推測で掛けない"
+  },
+  "date": "2026-11-10",
+  "planning_status": "historical_candidates_require_refresh",
+  "scope_conditions": {
+    "type_tag": "type:charger",
+    "tentative_theme": "PCとスマホの充電をまとめる。USB充電器",
+    "exclude_used_since": "2026-10-11",
+    "features_current": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T11:08:34+09:00"
+}

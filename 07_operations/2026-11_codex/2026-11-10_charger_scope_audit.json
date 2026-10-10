@@ -1,0 +1,2772 @@
+{
+  "date": "2026-11-10",
+  "topic_id": "daily_gadget_20261110_5bb157d8",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 31,
+  "parent_groups": {
+    "B0GP663HK3": [
+      "B08X11GD52"
+    ],
+    "B0HKFSL5QJ": [
+      "B0B38TWKVR"
+    ],
+    "B0H9S49L1Q": [
+      "B0C6DX66TN"
+    ],
+    "B0GRGBTZ9G": [
+      "B0DG93MZCR"
+    ],
+    "B0H2L63C1T": [
+      "B0B2QR8HN9"
+    ],
+    "B0BP667Q9C": [
+      "B0B6N2ZPT4"
+    ],
+    "B0BY7M35H4": [
+      "B0BF44GF6J",
+      "B0BF43HS1G"
+    ],
+    "B0D8SD6PZY": [
+      "B0D53VJJ7F"
+    ],
+    "B0CMC1G629": [
+      "B0CMCD9DY3"
+    ],
+    "B0GVCC7LJL": [
+      "B0B5QKMCZD",
+      "B0BF9ZYCQ5"
+    ],
+    "B0CTK4HYW4": [
+      "B0CTJDLWV4"
+    ],
+    "B0DJVNQVGM": [
+      "B0D53VKL36"
+    ],
+    "B0HLGBYQVY": [
+      "B0F99FCSX7"
+    ],
+    "B0CB7YLXJW": [
+      "B0C42HDMQW"
+    ],
+    "B0DH488813": [
+      "B0D53S6T2B"
+    ],
+    "B0GHLNV933": [
+      "B0FWJK8GV9"
+    ],
+    "B0FSQ2Y9FD": [
+      "B0DHTT13KN"
+    ],
+    "B0F5BB16L4": [
+      "B0F3CJRF4Y",
+      "B0F3CMBP5L"
+    ],
+    "B0H321M164": [
+      "B0H3278SLM"
+    ],
+    "B0HJCGC3QJ": [
+      "B0H8P4H5J7"
+    ],
+    "B0HJZPKZXN": [
+      "B0CLGZGXMD",
+      "B0CMQK8CMJ"
+    ],
+    "B0D8TC5N64": [
+      "B0D53XL7GL"
+    ],
+    "B0HHR72P87": [
+      "B0D73JBJ56"
+    ],
+    "B0HGFS3ZYQ": [
+      "B0F43N4Z21"
+    ],
+    "B0HGFGRFJS": [
+      "B0F43NCQ25"
+    ],
+    "B0HJZKWY1S": [
+      "B0GDCPBYHF"
+    ],
+    "B0HF7MSWCB": [
+      "B0GF26RSYQ"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B01C5O7E2U",
+      "title": "Lepro ランタン ledランタン キャンプランタン 懐中電灯 2本分離できる 【充電式と乾電池併用/最大33～66時間点灯/昼光色/高輝度タイプ/防水防滴】 USBケーブルと車用充電器付き 車中泊用 バーベキュー キャンプ 夜釣り 台風 災害 常備灯 停電 緊急 非常用 防災 ライト",
+      "maker": "Lepro",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Lepro",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-09-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-01",
+          "title": "防災の日。今すぐ備えるべき「電気と情報の守り」 8 選",
+          "asin": "B01C5O7E2U"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B01IONKC16",
+      "title": "マキタ コードレス掃除機CL181 カプセル式 標準40分稼働 ハイパワー上位モデル 18Vバッテリ充電器別売 CL181FDZW",
+      "maker": "マキタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B08344TKCX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B01LWLI39X",
+      "title": "マキタ コードレス掃除機CL107 紙パック式 標準25分稼働/充電22分 軽量定番モデル 10.8Vバッテリ充電器付 CL107FDSHW",
+      "maker": "マキタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B08344TKCX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B06ZXXQGZ8",
+      "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート) | 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0H4L3LZQB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "履歴FeaturesにUSB PD非対応が明記。PC用充電テーマから除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07GWY3HYD",
+      "title": "マキタ コードレス掃除機CL108 カプセル式 標準25分稼働/充電22分 軽量定番モデル 10.8Vバッテリ充電器付 CL108FDSHW",
+      "maker": "マキタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B08344TKCX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07Q9K2QHV",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース トラベルポーチ 充電器ケーブルUSBハブなどの収納ポーチ 保護ケース 小物入れ 出張/旅行用 防水 グレー",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": "B0FY2TXK3B",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07RFFYN2D",
+      "title": "NANAMI ワイヤレス充電器 Qi認証 USB-Cポート Quick Charge 3.0 15W 急速 置くだけ充電 スマホスタンド",
+      "maker": "NANAMI",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "NANAMI",
+      "historical_tier": 1,
+      "parent_asin": "B0CW95QGZ2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B07RFFYN2D"
+        },
+        {
+          "published_date": "2026-10-06",
+          "title": "置くだけで充電。スタンドとマグネットパッドの「ワイヤレス充電器」 8 選",
+          "asin": "B0CVNB7LCC"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07S2WT1ZP",
+      "title": "NANAMI ワイヤレス充電器 (USB-C 20W出力の急速充電器に昇進) 置くだけ充電器 セット (Qi/PSE認証済み) | 7.5W/10W/15W iPhone 17/16/15/14/13/12シリーズ/SE第三世代/11(Pro)/XR",
+      "maker": "NANAMI",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "NANAMI",
+      "historical_tier": 1,
+      "parent_asin": "B09QHYCFPR",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08574ZQT5",
+      "title": "iHouse all 海外変換プラグ 2USBポート マルチアダプター A/O/BF/C対応 全世界対応 旅行用充電器 経済産業省承認 正規保証1年 (ホワイト)",
+      "maker": "iHouse",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "iHouse all",
+      "historical_tier": 1,
+      "parent_asin": "B0DXZXQ8QG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08BZLH13D",
+      "title": "USB充電器 2ポート 12W ACアダプター 充電ケーブル2本付き PSE認証済み コンパクト 海外対応 iPhone/iPad/Android対応",
+      "maker": "USB充電器",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "USB充電器",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-09-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-07",
+          "title": "出張の荷物を最適化。ポーチから「モバイルバッテリー」まで 5 選",
+          "asin": "B08BZLH13D"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08CKLHVSM",
+      "title": "マキタ(Makita) 充電式クリーナ 18V バッテリ・充電器別売・ソフトバッグ付 CL184DZ",
+      "maker": "マキタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B08W5PDTTD",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08X11GD52",
+      "title": "Anker Nano II 65W (PD 充電器 USB-C)【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0GP663HK3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B091BGMKYS",
+      "title": "UGREEN 65W 充電器 Type-C PD 【2C1A 3ポート】折り畳み式 GaNII 急速充電器 USB-C×2（65W）+USB-A×1（22.5W） PPS/QC3.0/SCP/FCP対応 iPhone16/15/14/MacBook/iPad/Galaxy/Android/その他USB-C機器 PSE技術基準適合·2022レッド・ドット・デザイン賞",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": "B0HDT23GP5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B091BGMKYS"
+        },
+        {
+          "published_date": "2026-08-12",
+          "title": "デジタルノマドの装備。ポーチの中身「2026 夏」 7 選",
+          "asin": "B091BGMKYS"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0982VFYYJ",
+      "title": "UGREEN Nexode 100W 充電器 急速 Type-C 4ポート【USB-C*3とUSB-A*1】PD3.0 PPS GaNII 折り畳み式iphone17/16/15/14/MacBook/Dell/iPad/S26 Ultra/Android対応 PSE適合 CD226",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": "B0HDT23GP5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B091BGMKYS"
+        },
+        {
+          "published_date": "2026-08-12",
+          "title": "デジタルノマドの装備。ポーチの中身「2026 夏」 7 選",
+          "asin": "B091BGMKYS"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B099ZNTRL5",
+      "title": "Anker Nano Charger (20W) USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】iPhone Android その他各種機器対応 (ホワイト)",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0HD9QXQVF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09FJKWL6Q",
+      "title": "マキタ(Makita) 充電式クリーナ（アイボリー）バッテリ内蔵式 10.8V2Ah 充電器付 CL115FDWI",
+      "maker": "マキタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09MJT5FQG",
+      "title": "マキタ(Makita) 充電式クリーナ（アイボリー）バッテリ内蔵式 10.8V2Ah 充電器付 CL116DWI",
+      "maker": "マキタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0DP6KMS5S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09SYV3P5B",
+      "title": "Anker 736 Charger (Nano II 100W) (USB急速充電器 ACアダプタ) (ブラック)",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0H4FD7G6T",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-07",
+          "title": "夏休みの海外準備。翻訳機と SIM、変換プラグ 6 選",
+          "asin": "B09SYV3P5B"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09W9M89WS",
+      "title": "Anker 735 Charger (GaNPrime 65W)",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0H3T2JKD7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09WHC6MRM",
+      "title": "マキタ(Makita) 充電式クリーナ（レッド）バッテリ内蔵式 10.8V2Ah 充電器付 CL116DWR",
+      "maker": "マキタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0DP6KMS5S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0B2QR8HN9",
+      "title": "Anker 511 Charger (Nano 3, 30W) ホワイト | (充電器 USB-C)【USB PD 対応/PSE技術基準適合/PPS規格対応】MacBook Windows PC iPad iPhone 17シリーズ Galaxy A",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0H2L63C1T",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B38TWKVR",
+      "title": "UGREEN Nexode 45W PD充電器 タイプc USB-C*2 PD3.0/PPS急速充電器 PSE適合 GaNII",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": "B0HKFSL5QJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B5QKMCZD",
+      "title": "Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 / PSE認証/折りたたみ式プラグ】65W",
+      "maker": "Belkin",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Belkin",
+      "historical_tier": 1,
+      "parent_asin": "B0GVCC7LJL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B6N2ZPT4",
+      "title": "Anker 323 Charger (33W) (USB PD 充電器 USB-C USB-A 33W)【PSE技術基準適合/USB PD対応/折りたたみ式プラグ】MacBook USB PD対応Windows PC iPhone14 iPad",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0BP667Q9C",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B9X1RY8G",
+      "title": "UGREEN Zapix Magsafe充電器 2 in 1マグネット 充電スタンド Qi認証 ワイヤレス充電器 7.5W/5W 2台同時急速充電 横向き・縦向きで角度調整 イヤホン iPhone 17/16/15/14/13/12シリーズAirPods Pro/3/2/1など適用 LED表示 USB-Cケーブル付き",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": "B0B9X1RY8G",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-06",
+          "title": "置くだけで充電。スタンドとマグネットパッドの「ワイヤレス充電器」 8 選",
+          "asin": "B0B9X1RY8G"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BF43HS1G",
+      "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 17 / 16 / 15シリーズ / Air MacBook Air その",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0BY7M35H4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BF44GF6J",
+      "title": "Anker 523 Charger (Nano 3, 47W) ブラック",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0BY7M35H4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BF9ZYCQ5",
+      "title": "【VGP受賞】Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 /PSE認証/折りたたみ式プラグ】45W(25W+20W) MacBook Windows PC Surface Pro iPad iPhone 17,16～12対応 Galaxy Android スマホ 各種ノートPC対応 WCH011dqWH",
+      "maker": "Belkin",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Belkin",
+      "historical_tier": 1,
+      "parent_asin": "B0GVCC7LJL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BKJPZXH3",
+      "title": "【新登場】RORRY apple watch 充電器 モバイルバッテリー 5000mAh 2本ケーブル内蔵 【iPhone用+Type-Cケーブル】 アップルウォッチ対応 最大4台同時充電 For Apple Watch ultra3/2/11/10/9全シリーズに対応 軽量 小型 コンパクト 持ち運び/PSE認証済 for iPhone 17/16/15/14/Android D2 ブラック",
+      "maker": "RORRY",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "RORRY",
+      "historical_tier": 1,
+      "parent_asin": "B0BYS8VRYL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-30",
+          "title": "外出先の電池切れに備える「モバイルバッテリー」10選",
+          "asin": "B0BKJPZXH3"
+        },
+        {
+          "published_date": "2026-04-29",
+          "title": "Apple Watch を便利に。毎日を変える「神アクセサリ」 7 選",
+          "asin": "B0BKJPZXH3"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-30_外出先の電池切れに備える「モバイルバッテリー」10選.md",
+          "date": "2026-10-30",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "30日窓内にローカル研究票のASIN言及。採用ブロックか除外・参考言及か再確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-30",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BXGPLPBF",
+      "title": "HOUOA ワイヤレス充電器 3in1 急速充電15W/10W/7.5W 同時にiPhone/iWatch/Airpodsに互換性 iPhone17/17Air/17Pro /17Pro Max /16/15/14/13/12Pro/ProMax/G",
+      "maker": "HOUOA",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "HOUOA",
+      "historical_tier": 1,
+      "parent_asin": "B0H12MG6PC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-06",
+          "title": "置くだけで充電。スタンドとマグネットパッドの「ワイヤレス充電器」 8 選",
+          "asin": "B0BXGPLPBF"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C1FD4RRF",
+      "title": "マキタ(Makita) 充電式クリーナ（オリーブ） 18V バッテリ・充電器別売 CL286FDZO",
+      "maker": "マキタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C1FDPWD2",
+      "title": "マキタ(Makita) 充電式クリーナ（白） 18Ｖ バッテリ・充電器別売 CL284FDZW",
+      "maker": "マキタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C1FHH8W8",
+      "title": "マキタ(Makita) 充電式クリーナ（白） 18V バッテリ・充電器別売 CL286FDZW",
+      "maker": "マキタ",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C2YZ3ZFS",
+      "title": "海外 変換プラグ コンセント 海外用電源プラ グ マルチ変換プラグ 2USBポート 全世界対応 変換器 海外旅行用充電器 A/O/BF/Cタイプ マルチアダプター 200ヶ国以上通用 Universal Travel Adapter 経済産業省承認済み 正規保証1年",
+      "maker": "VELIKE",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "VELIKE",
+      "historical_tier": 1,
+      "parent_asin": "B0HJ2VBJR5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C3B132D3",
+      "title": "UGREEN 65W USB C Charger, Nexode 3 Ports GaN Fast Charger Block, Compact Foldable Charger for MacBook Pro/Air, Dell XPS, iPhone 15 Pro Max/14/13, iPad Pro, Galaxy S24/S23, Pixel 8, Steam Deck (White)",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 2,
+      "parent_asin": "B0HDT23GP5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B091BGMKYS"
+        },
+        {
+          "published_date": "2026-08-12",
+          "title": "デジタルノマドの装備。ポーチの中身「2026 夏」 7 選",
+          "asin": "B091BGMKYS"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C42HDMQW",
+      "title": "CIO NovaPort SLIM DUO 67W 2C 極薄14mm USB-C急速充電器",
+      "maker": "CIO",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "CIO",
+      "historical_tier": 1,
+      "parent_asin": "B0CB7YLXJW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0C6DX66TN",
+      "title": "UGREEN Uno Robot Charger 65W",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": "B0H9S49L1Q",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-01-31",
+      "dg_use_history": [
+        {
+          "published_date": "2026-01-31",
+          "title": "仕事と生活をアップデートする「厳選ガジェット」10選",
+          "asin": "B0C6DX66TN"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0C6FFQLTN",
+      "title": "USB 充電器 ACアダプター iPhone 急速充電器【PSE認証2個セット】 ACコンセント 急速チャージャー スマホ充電器 12W 2ポート 2.4A急速充電 同時充電 2ポートUSB電源アダプター iPhone、 iPad 、Android、",
+      "maker": "USB",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HHNJ4G86",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CF99QL43",
+      "title": "【最新型】3in1ワイヤレス充電器 iPhone/AirPods/Apple watch対応 置くだけ充電可能 QC3.0アダプター付属(ホワイト) | 折り畳み式充電スタンド 角度調節可能 携帯便利 3台デバイス同時充電可能 部屋やディスク周りすっ",
+      "maker": "Shenzhen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Shenzhen Tianyin Electronics Co., Ltd",
+      "historical_tier": 2,
+      "parent_asin": "B0FMDY66KL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CH8H52T5",
+      "title": "iPhone 充電器 20W PD 急速充電 [MFi/PSE認証済み] USB-C USB C - Lightning ケーブル 2m付き Type C スマホ充電器 電源アダプター タイプC アイフォン iPhone/iPad/AirPods そ",
+      "maker": "iPhone",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJ68TXC9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CL8S8CS5",
+      "title": "Anker Charger (20W, 2-Port) with USB-C ＆ USB-C ケーブル ホワイト | 充電器 20W USB-C＆USB-Cケーブル付属 2ポート【PSE技術基準適合/USB PD対応/PowerIQ搭載/コンパクトサ",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJ4QLY4S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CLGZGXMD",
+      "title": "UGREEN NexodeX【当社比最小】 65W充電器 USB-C*2とUSB-A*1 新生代GaNInfinity™チップ 独自Airpyra技術 PD3.0/QC4+対応 自宅/出張/旅行用 ノートPC iPad iphone17/16/15/14 Galaxy S24 Pixel8 Xperia5以降対応 超急速45W対応 PSE技術基準適合 X754",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": "B0HJZPKZXN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-03",
+          "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+          "asin": "B0CLGZGXMD"
+        },
+        {
+          "published_date": "2026-02-26",
+          "title": "デスクの色を統一。理想の「モノトーンガジェット」特集 8 選",
+          "asin": "B0CYZQ8HVG"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CMCD9DY3",
+      "title": "多摩電子工業 PD65W対応 AC充電器 USB x3ポート（USB-C x2、USB-A x1）Permier PR-AP146UC2W GaN採用 急速充電 ACアダプター",
+      "maker": "多摩電子工業",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "多摩電子工業",
+      "historical_tier": 1,
+      "parent_asin": "B0CMC1G629",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CMQK8CMJ",
+      "title": "UGREEN NexodeX 100W GaNII充電器 USB-C*2+USB-A タイプC Type-C 急速充電器 PD3.0/PPS/QC4+ | PSE認証済/MacBook/iPhone17/16/15/Galaxy S26 ultra/",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": "B0HJZPKZXN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-03",
+          "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+          "asin": "B0CLGZGXMD"
+        },
+        {
+          "published_date": "2026-02-26",
+          "title": "デスクの色を統一。理想の「モノトーンガジェット」特集 8 選",
+          "asin": "B0CYZQ8HVG"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CTJDLWV4",
+      "title": "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック EC-AC8565BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "エレコム",
+      "historical_tier": 1,
+      "parent_asin": "B0CTK4HYW4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CVNB7LCC",
+      "title": "NANAMI ワイヤレス充電器 Qi認証 最大15W出力 急速 置くだけ充電 スマホスタンド | iPhone 17/16/15/14/13/12/11/SE/8シリーズ Galaxy S26/S25/S24/S23(Ultra) qi機種対応 US",
+      "maker": "NANAMI",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "NANAMI",
+      "historical_tier": 1,
+      "parent_asin": "B0CW95QGZ2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B07RFFYN2D"
+        },
+        {
+          "published_date": "2026-10-06",
+          "title": "置くだけで充電。スタンドとマグネットパッドの「ワイヤレス充電器」 8 選",
+          "asin": "B0CVNB7LCC"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CX4C1TVK",
+      "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ搭載/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 17 / 16 / 15 Android iPad その他各種機器対応",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0GWLTWYQ8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-30",
+          "title": "外出先の電池切れに備える「モバイルバッテリー」10選",
+          "asin": "B0CX4C1TVK"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-30_外出先の電池切れに備える「モバイルバッテリー」10選.md",
+          "date": "2026-10-30",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "30日窓内にローカル研究票のASIN言及。採用ブロックか除外・参考言及か再確認"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-30",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CYZQ8HVG",
+      "title": "UGREEN Nexode 100W 充電器 (ブラック)",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 2,
+      "parent_asin": "B0HJZPKZXN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-03",
+          "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+          "asin": "B0CLGZGXMD"
+        },
+        {
+          "published_date": "2026-02-26",
+          "title": "デスクの色を統一。理想の「モノトーンガジェット」特集 8 選",
+          "asin": "B0CYZQ8HVG"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CZNCLZKT",
+      "title": "エレコム 充電器 Type-C USB-C 20W USB PD対応 ケーブル一体型 1.5m PSE認証品 GaN採用 折りたたみ式プラグ しろちゃん 【 iPhone16 15 等対応】 EC-AC6920WF",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0CZTMJWZZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D53S6T2B",
+      "title": "CIO NovaPort DUO Ⅱ 45W 急速充電器",
+      "maker": "CIO",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "CIO",
+      "historical_tier": 2,
+      "parent_asin": "B0DH488813",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-02-02",
+      "dg_use_history": [
+        {
+          "published_date": "2026-02-02",
+          "title": "美しさは、軽さ。無駄を削ぎ落とした「ミニマリストのガジェット」 8 選",
+          "asin": "B0D53S6T2B"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D53VJJ7F",
+      "title": "CIO NovaPort TRIOⅡ 65W USB-C ×2+A 急速充電器 [世界最小級 NovaIntelligence NovaEngine搭載] ACアダプター 3ポート 2C1A USB type-C×2 + type-A ノートPC 充電器 コンセント PD iPhone 17 / Air / 16 / 15 Android Galaxy Macbook iPad向け (ブラック)",
+      "maker": "CIO",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "CIO",
+      "historical_tier": 1,
+      "parent_asin": "B0D8SD6PZY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-03",
+          "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+          "asin": "B0D53VJJ7F"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D53VKL36",
+      "title": "CIO NovaPort DUOⅡ 65W USB-C 2ポート 充電器 [世界最小級 NovaIntelligence NovaEngine搭載] ACアダプター type-c 67W PD 急速充電器 ノートPC Macbook iPhone 17 / Air / 16 / 15 Android Galaxy iPad向け (ブラック)",
+      "maker": "CIO",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "CIO",
+      "historical_tier": 1,
+      "parent_asin": "B0DJVNQVGM",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-12",
+          "title": "デジタルノマドの装備。ポーチの中身「2026 夏」 7 選",
+          "asin": "B0D53VKL36"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D53XL7GL",
+      "title": "CIO NovaPort QUADⅡ 65W 急速充電器 PD 4ポート [世界最小級] USB-C×3 + USB-A×1 ACアダプター コンセント 軽量 iPhone 17 / Air / 16 / 15 Android Galaxy Macbook iPad向け ノートPC (ブラック)",
+      "maker": "CIO",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "CIO",
+      "historical_tier": 1,
+      "parent_asin": "B0D8TC5N64",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-10",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-10",
+          "title": "【Amazonプライムデー】期間中に狙いたいお得ガジェット 20 選",
+          "asin": "B0D53XL7GL"
+        },
+        {
+          "published_date": "2026-05-29",
+          "title": "【Amazonスマイルセール】充電器・PC周辺機器・梅雨対策家電の狙い目 10 選",
+          "asin": "B0D53XL7GL"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D73JBJ56",
+      "title": "Anker Prime Charger (100W, 3 Ports, GaN) | 急速充電器 100W type-c 3ポート【PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Gala",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0HHR72P87",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D7D8JP6Q",
+      "title": "Anker Prime Power Bank (9600mAh, 65W, Fusion) (9600mAh 65W出力モバイルバッテリー搭載 USB充電器)【Power Delivery対応/PSE技術基準適合/USB-C入力】iPhone MacBook Android その他機器対応",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-06-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-30",
+          "title": "上半期ベストバイ。2026 年「買ってよかったもの」 10 選",
+          "asin": "B0D7D8JP6Q"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D8RSX6W2",
+      "title": "シンプルイズベスト。Anker MagGo Wireless Charger (Stand)",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0DJNQL84F",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-06",
+          "title": "置くだけで充電。スタンドとマグネットパッドの「ワイヤレス充電器」 8 選",
+          "asin": "B0D8S1G53W"
+        },
+        {
+          "published_date": "2026-02-06",
+          "title": "【Anker MagGo】MagSafe 充電アクセのおすすめ 10 選",
+          "asin": "B0D8RSX6W2"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0D8S1G53W",
+      "title": "Anker MagGo Wireless Charger (Stand) Qi2対応 マグネット式 ワイヤレス充電ステーション/ワイヤレス出力 MagSafe対応 iPhone 17 / 16 / 15 / 14 / 13 ホワイト",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0DJNQL84F",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-06",
+          "title": "置くだけで充電。スタンドとマグネットパッドの「ワイヤレス充電器」 8 選",
+          "asin": "B0D8S1G53W"
+        },
+        {
+          "published_date": "2026-02-06",
+          "title": "【Anker MagGo】MagSafe 充電アクセのおすすめ 10 選",
+          "asin": "B0D8RSX6W2"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DG914LY9",
+      "title": "LISEN車 充電器巻き取りしがーソケット usb【2026年・69W急速充電・最小4in1】シガーソケット USB-C+USB-L 80cmケーブル | PD3.1/QC3.0/PPS対応 カー用品 便利グッズ 車内 60プリウス・デリカd5・ジム",
+      "maker": "LISEN車",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HK3VDPDV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DG93MZCR",
+      "title": "UGREEN PD充電器 type-c 30W 2*USB-C+1*USB-A GaN PSE適合/PD3.0 | iphone17/16/15/14/13/iPad/GalaxyS25-S10/Google Pixel/AirPods/タブレット",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GRGBTZ9G",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DHTT13KN",
+      "title": "Belkin Cubic Charger 45W 充電器 type-c iphone18対応 充電器 急速充電 PD3.2 PPS対応 ホワイト",
+      "maker": "Belkin",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Belkin",
+      "historical_tier": 2,
+      "parent_asin": "B0FSQ2Y9FD",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DJLZMYR4",
+      "title": "【公式ストア限定】AI翻訳機 POCKETALK(ポケトーク)S2 Plus 1.85倍大型画面グローバル通信2年付90言語以上対応特別セット ホワイト 画面保護シール+ケース+ネックストラップ+ポーチ+海外用変換プラグ+ACアダプター PTS2P-W",
+      "maker": "AI翻訳機",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0HCBHMT7V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-07",
+          "title": "夏休みの海外準備。翻訳機と SIM、変換プラグ 6 選",
+          "asin": "B08BP1912B"
+        },
+        {
+          "published_date": "2026-04-27",
+          "title": "旅行前に揃えたい。世界で使える「翻訳機・充電器」 7 選",
+          "asin": "B0DJLZMYR4"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DMNYWBCS",
+      "title": "KEEPRO ワイヤレス充電器 3in1 折り畳み式 Magsafe充電器 同時に3つのデバイス充電 15W/10W/7.5W マルチ充電スタンド マグセーフ充·電器 マグネット式 iPhone/Apple Watch/Airpodsに対応 無線充·",
+      "maker": "KEEPRO",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "KEEPRO",
+      "historical_tier": 1,
+      "parent_asin": "B0GX16N1Q7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-06",
+          "title": "置くだけで充電。スタンドとマグネットパッドの「ワイヤレス充電器」 8 選",
+          "asin": "B0DMNYWBCS"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DTYSRSH2",
+      "title": "Cardill iPhone17 タイプc 充電器 type-c 20W PD 急速充電器 [正規MFi認証品/PSE認証済み] USB C-C 充電ケーブル 2M付き usb-c コンセント 対応 iPhone16/15/17/Pro/max/iP",
+      "maker": "Cardill",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HHXL2RM7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DW2SYD5H",
+      "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 16 / 16 Pro / 16",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0FDKC4Q6X",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-06",
+          "title": "置くだけで充電。スタンドとマグネットパッドの「ワイヤレス充電器」 8 選",
+          "asin": "B0DW2SYD5H"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F21VBXKK",
+      "title": "ワイヤレス充電器 Mag Safe充電器 マグネット式 【magsafe充電器＋magsafeスタンド+ 20W USB-Cアダプター】 USB-Cケーブル 1.5m付き マグセーフ充電器 スタンド/パッド くっつく iPhone17/16/15/1",
+      "maker": "ワイヤレス充電器",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GV5R1PK4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F3CJRF4Y",
+      "title": "エレコム 充電器 45W 2ポート Type-C USB PD対応 PPS対応 GaN II採用 折りたたみ式プラグ ホワイト EC-AC10945WH",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": "B0F5BB16L4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F3CMBP5L",
+      "title": "エレコム 充電器 45W 2ポート Type-C USB PD対応 PPS対応 GaN II採用 折りたたみ式プラグ ブラック EC-AC10945BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": "B0F5BB16L4",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F43N4Z21",
+      "title": "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 しろちゃん EC-AC10367WF",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 1,
+      "parent_asin": "B0HGFS3ZYQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F43NCQ25",
+      "title": "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": "B0HGFGRFJS",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F43XLHSM",
+      "title": "モバイルバッテリー 20000mAh大容量 【2026新設計・16ｍｍ超薄モデル】モバイルバッテリー 軽量 小型 急速充電 スマホ充電器 大容量 | 3台同時充電 Type-C入出力兼用 低電流対応 コンパクトで機内持ち込み可 旅行/出張/災害用 P",
+      "maker": "モバイルバッテリー",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HG8YPRS2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F99FCSX7",
+      "title": "Anker Nano Charger (70W, 3 Ports) ブラック USB PD対応 PSE技術基準適合 折りたたみ式プラグ iPhone/MacBook/Windows PC/iPad/Galaxy対応",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0HLGBYQVY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FCSRFQBJ",
+      "title": "Resewern タイプc 充電器 Type-C 20w【2026新型 PSE認証済み】PD 急速充電器 電源アダプター acアダプター USB コンセント タイプc アダプタ iPhone17/16/15//Android/iPad その他各種機器",
+      "maker": "Resewern",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HKT8RXXQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FHQDKX7G",
+      "title": "ESR 3-in-1充電器Qi2.2対応25W MagSafe充電器（CryoBoost搭載） 折りたたみ式スマホ冷却ワイヤレス充電器 iPhone 17e/17/16（iOS 26対応・50Wアダプター付属） AirPods Apple Watch用 ブラック",
+      "maker": "ESR",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ESR",
+      "historical_tier": 2,
+      "parent_asin": "B0G56CY1QQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-10",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-10",
+          "title": "充電ケーブルを廃止。MagSafe で整う「ワイヤレスデスク」 7 選",
+          "asin": "B0FHQDKX7G"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FJDNXRQL",
+      "title": "KEEZING 超薄型 モバイルバッテリー MagSafe対応 軽量 小型 8000mAh ワイヤレス充電器 マグネット式 まぐせーふ 対応 15W急速充電 PSE認証済み iPhone 17/16/15/ 14/ 13/ 12シリーズ 旅行/出張/災害用 機内持ち込み可",
+      "maker": "KEEZING",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "KEEZING",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FJQRJYJD",
+      "title": "Mukiya 3in1充電器 ワイヤレス充電器 MagSafe充電器 - 折り畳み式 雰囲気ライト付き iPhone/Apple Watch/Airpodsに対応 マグセーフ充電器 3台同時充電 角度調整可能 マルチ充電スタンド マグネット式 旅行用",
+      "maker": "JiangXi",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "JiangXi Kingtron Technology Co., Ltd.",
+      "historical_tier": 1,
+      "parent_asin": "B0DWKHD3Z5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FMHZ3KVP",
+      "title": "Philips モバイルバッテリー コンセント一体型 15000mAh 大容量 Apple Watch対応 PD 45W MagSafe対応 ブラック | マグネット式 ワイヤレス充電 アップルウォッチ 2.5W 急速充電 ACアダプター 折り畳み式 usb-c & lightning ケーブル内蔵 パススルー機能搭載 電源プラグ変換可能 PSE認証済",
+      "maker": "Philips",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Philips",
+      "historical_tier": 1,
+      "parent_asin": "B0FR54J1CH",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FN3Z641Y",
+      "title": "タイプC充電器 USB Type-C充電器 PD20W急速充電対応 USB-A＆Type-C 2ポート搭載 コンセント式電源アダプター iPhone 17 Air/17 Pro Max/16/15/14/13/SE3、iPad、Android、タブレ",
+      "maker": "タイプC充電器",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJBWGNKJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "メーカー推定に合計出力または商品種別が混入。実在メーカー未確認のため保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FPFD8NZ6",
+      "title": "【2026極薄設計・MagSafe急速充電（8000mAh）】 モバイルバッテリー マグセーフ 最大出力20W 充電器 薄型 ワイヤレス充電 マグネット 軽量 小型 大容量 まぐせーふモバイルバッテリー 3台同時充電 Type-C入/出力 多重安全保護 pse認証済 パススルー 急速充電 コンパクト Airpods/AppleWatch/iPhone12～17/Pro対応 旅行/出張/緊急用",
+      "maker": "】",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0H5WQ8R2Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FPR3F15G",
+      "title": "Mukiya 3in1 ワイヤレス充電器 MagSafe充電器 折りたたみ式 3in1充電器 【20W USB-C充電器＋1.5mケーブル付き】 iPhone/Apple Watch/AirPods対応 3台同時充電 角度調整可能 マグネット式 旅行",
+      "maker": "Shenzhen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Shenzhen Dixib Technology Co.,LTD",
+      "historical_tier": 1,
+      "parent_asin": "B0GD5JR64C",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FQBYRSP1",
+      "title": "UGREEN Zapix Qi2 15W ワイヤレス充電器 2 in 1 Magsafe対応 イヤホン iPhone充電器 90°調整可能 磁気 無線 ワイヤレス急速 iPhone 17/16/15/14/13/12シリーズ & AirPods対応 LED表示 USB-Cケーブル付き",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-07-10",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-10",
+          "title": "【Amazonプライムデー】期間中に狙いたいお得ガジェット 20 選",
+          "asin": "B0FQBYRSP1"
+        },
+        {
+          "published_date": "2026-04-10",
+          "title": "充電ケーブルを廃止。MagSafe で整う「ワイヤレスデスク」 7 選",
+          "asin": "B0FQBYRSP1"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FWJK8GV9",
+      "title": "Anker Zolo Charger (50W, 4 Ports) ブラック | 充電器 / 50W / Type-C【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iPhone 17 / 16 / 15シリーズ / Air MacBook W",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 2,
+      "parent_asin": "B0GHLNV933",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FYP1HG2S",
+      "title": "モバイルバッテリー Magsafe対応 【12000mAh大容量・360°回転スタンド付き・ 最大22.5W急速充電】 軽量 大容量 小型 3台同時充電可能 ワイヤレス充電器 マグセーフ マグネット式 USB-A出力ポート/Type-C出入力ポート LCD残量表示 コンパクト PSE安全認証済み iPhone 17/16/15/14/13シリーズ 旅行/出張/災害用 機内持ち込み可 プレゼント",
+      "maker": "モバイルバッテリー",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "モバイルバッテリー",
+      "historical_tier": 1,
+      "parent_asin": "B0HHF6J76J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0G3WLHTMQ",
+      "title": "【Amazon.co.jp限定】 モバイルバッテリー 小型 軽量 23600mAh大容量 22.5W/PD18W 4本ケーブル内蔵 203g | 手のひらサイズ 持ち運び便利 急速充電 スマホ充電器 5台同時充電 3WAY蓄電Type-C入出力兼用",
+      "maker": "モバイルバッテリー",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0H5W9H6TB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0G58TLCPL",
+      "title": "【超コンパクト】 3in1 ワイヤレス 充電器 折り畳み Lamicall : 15W 急速 マグセーフ対応 充電器 スマホ 卓上 充電 スタンド | 同時 じゅうでん ドック 磁石 縦 横 マグネット 置き 携帯 けいだい 持ち運び 机 出張 旅行",
+      "maker": "Lamicall",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Lamicall",
+      "historical_tier": 1,
+      "parent_asin": "B0H2LS2ZRN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0G5DT5LPM",
+      "title": "モバイルバッテリー MagSafe対応 16000ｍAh PD22.5W急速充電 3台同時充電可能 大容量 マグネット式 マグセーフ スマホ充電器 LCD電量残量表示 USB-A出力ポート/Type-C出入力ポート ワイヤレス充電器 スタンド付き 軽",
+      "maker": "モバイルバッテリー",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HL6FYKPR",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0G5L9MG9T",
+      "title": "Aioneus USB充電器 ACアダプター 4ポート 合計40W【QC3.0 急速充電 & PSE認証済み】 USBコンセント USBタップ電源アダプター スマートフォン充電器 携帯充電器 コンパクト設計 同時充電対応 iPhone 17/16/1",
+      "maker": "Aioneus",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GV7Q7F8Y",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "PC向けUSB PD出力をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0G64G321H",
+      "title": "合計40W 急速充電器 タイプc 充電器【4台同時充電・超低温・折畳み式】iPhone 充電器 PD 急速充電 PSE技術基準適合 GaNIII技術 PD3.0/PPS/SCP規格対応 超小型 軽量 iPhone/iPad/AirPods その他US",
+      "maker": "合計40W",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HGRH45CT",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "メーカー推定に合計出力または商品種別が混入。実在メーカー未確認のため保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GC5HPVJ5",
+      "title": "モバイルバッテリー 40000mAh大容量【2026新型・5台同時充電・22.5W急速充電】モバイルバッテリー 軽量 小型 スマホ充電器 携帯充電器 LCDディスプレイ残量表示 Type-C入出力兼用 2USB出力ポート 最大3A出力 PSE認証済",
+      "maker": "モバイルバッテリー",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0GQYRPMYN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GCB58RFD",
+      "title": "FEEKI Mag Safe充電器 25W Qi2認証 マグネット式 ワイヤレス充電器 急速充電 対応iPhone17/16シリーズ(iOS 26バージョン以降) 超薄軽量 過熱保護 短絡保護機能付き 対応 iPhone15/14/13/12シリーズ",
+      "maker": "FEEKI",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "FEEKI",
+      "historical_tier": 1,
+      "parent_asin": "B0HC38JKDF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-06",
+          "title": "置くだけで充電。スタンドとマグネットパッドの「ワイヤレス充電器」 8 選",
+          "asin": "B0GCB58RFD"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GDCPBYHF",
+      "title": "UGREEN Air 65W PD 急速充電器 USB-C 超小型 GaNII Type-C充電器 100Wケーブル付き PSE技術基準適合 | 超小型 PD3.0/PPS/PSE認証済 iPhone17/16/15 MacBook/Galaxy/A",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": "B0HJZKWY1S",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GF26RSYQ",
+      "title": "Anker Nano Charger (45W, Display, スイングプラグ) ブラック | 45W 充電器 USB PD USB-C 【PSE技術基準適合/約180度折りたたみ式プラグ】iPhone MacBook Air タブレット その他",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0HF7MSWCB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GSQS7SKC",
+      "title": "NANAMI M300 25W Qi2 ワイヤレス充電器 マグネット式 マグセーフ充電器",
+      "maker": "NANAMI",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "NANAMI",
+      "historical_tier": 1,
+      "parent_asin": "B0H3ZDSP4D",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GTQFX61X",
+      "title": "【Amazon.co.jp限定】モバイルバッテリー 20000mAh 大容量 1.6 cm極薄設計 カードサイズ 170g超軽量 小型 急速充電 スマホ充電器 大容量 3台同時充電 Type-C入出力兼用 低電流対応 コンパクトで機内持ち込み可 旅行",
+      "maker": "モバイルバッテリー",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HGBFM73M",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GVM6R1QG",
+      "title": "モバイルバッテリー 軽量 小型 30000mAh大容量 【2026新モデル 2.4A急速充電】 209g超軽量 22.5W/20W急速充電 モバイルバッテリー 大容量 4本ケーブル内蔵 急速充電 携帯充電器 USB-Type C入出力ポート 5台同時",
+      "maker": "モバイルバッテリー",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HKWH6671",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GXF5WHWN",
+      "title": "合計45W PD 急速充電器【4台同時充電・高出力】タイプc 充電器 4ポート（USB-C×2/USB-A×2）小型軽量 PD3.0/QC3.0/PPS/SCP対応 PSE認証済 MacBook/iPhone/Android/iPad/ノートPC対応 出張/旅行/自宅用",
+      "maker": "合計45W",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "合計45W",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": "メーカー推定に合計出力または商品種別が混入。実在メーカー未確認のため保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GXGNFNTH",
+      "title": "ワイヤレス充電器 qi2 充電器 MagSafe対応 マグネット式ワイヤレス充電器（スマホホルダー内蔵）Qi2認証取得済み、25W急速充電器 | グネット式折りたたみスタンド付き マ iPhone 17/16シリーズ iOS 26 以降対応 スマート",
+      "maker": "WOLUCK",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "WOLUCK",
+      "historical_tier": 2,
+      "parent_asin": "B0HGH7S4V1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GY8V24J6",
+      "title": "eazpower ワイヤレス充電器 3in1 充電スタンド Magsafe充電器 アップルウォッチ充電器 折り畳み式 マグネット式 同時に3つのデバイス充電 iPhone 17/16/15/14/13/12シリーズ 対応/Apple Watch/Airpodsに対応 環境光付き ナイトランプ付き ポータブル 置くだけ アダプター付き 出張、旅行用",
+      "maker": "eazpower",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "eazpower",
+      "historical_tier": 1,
+      "parent_asin": "B0H71NX8N3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H2F6R341",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー USB ハブなどの収納 レイヤー構造 スプラッシュ防止素材 保護ケース 収納バッグ 小物入れ 出張/旅行用 撥水素材 ブルー Mサイズ（24cm x 13cm x 7cm）",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": "B0HDCXWTL9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H3278SLM",
+      "title": "CIO NovaPort SLIM DUOII 45W2C PD急速充電器 USB-C×2 180°スイングプラグ 薄型軽量70g (ブラック)",
+      "maker": "CIO",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "CIO",
+      "historical_tier": 3,
+      "parent_asin": "B0H321M164",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "複数ポート/PCとスマホの同時充電可否は公式仕様確認が必要",
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H4FCKJD4",
+      "title": "TEPNICAL 充電器 【2026新登場モデル/WPC Qi2.2認証取得/25W 急速充電】マグネット式 ワイヤレス充電器 4.9mm極薄設計 過熱安全保護 対応iPhone17/16シリーズ(iOS 26バージョン以降) 短絡保護機能付き Ty",
+      "maker": "TEPNICAL",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "TEPNICAL",
+      "historical_tier": 1,
+      "parent_asin": "B0HHSM5H34",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-06",
+          "title": "置くだけで充電。スタンドとマグネットパッドの「ワイヤレス充電器」 8 選",
+          "asin": "B0H4FCKJD4"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-06_置くだけで充電。ワイヤレス充電スタンド.md",
+          "date": "2026-10-06",
+          "basis": "local_research_ASIN_mention_requires_selected_block_recheck"
+        }
+      ],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H8P4H5J7",
+      "title": "MOKiN 45W 急速充電器 USB-C GaN 採用・PD対応・PSE技術基準適合・折りたたみ式プラグ 小型 電源アダプター 2ポート同時充電 旅行/出張/オフィス用 MacBook/Windows/PC/iPad/iPhone/Galaxy Android対応",
+      "maker": "MOKiN",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "MOKiN",
+      "historical_tier": 3,
+      "parent_asin": "B0HJCGC3QJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [
+        "単ポート最大出力と合計出力を区別。PC/スマホ同時接続時の配分を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0HBLHNXMD",
+      "title": "ワイヤレス充電器 Qi2認証 25W 急速充電器 マグネット式 MagSafe対応 (ホワイト, 1.2M) | USB-C一体型 編み込みケーブル 薄型8mm 低発熱設計 iPhone 17/16/15/14/13/12シリーズ Galaxy S2",
+      "maker": "ワイヤレス充電器",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0HHGQZQL2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-11",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B01C5O7E2U",
+      "title": "Lepro ランタン ledランタン キャンプランタン 懐中電灯 2本分離できる 【充電式と乾電池併用/最大33～66時間点灯/昼光色/高輝度タイプ/防水防滴】 USBケーブルと車用充電器付き 車中泊用 バーベキュー キャンプ 夜釣り 台風 災害 常備灯 停電 緊急 非常用 防災 ライト",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B01IONKC16",
+      "title": "マキタ コードレス掃除機CL181 カプセル式 標準40分稼働 ハイパワー上位モデル 18Vバッテリ充電器別売 CL181FDZW",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B01LWLI39X",
+      "title": "マキタ コードレス掃除機CL107 紙パック式 標準25分稼働/充電22分 軽量定番モデル 10.8Vバッテリ充電器付 CL107FDSHW",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B07GWY3HYD",
+      "title": "マキタ コードレス掃除機CL108 カプセル式 標準25分稼働/充電22分 軽量定番モデル 10.8Vバッテリ充電器付 CL108FDSHW",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B07Q9K2QHV",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース トラベルポーチ 充電器ケーブルUSBハブなどの収納ポーチ 保護ケース 小物入れ 出張/旅行用 防水 グレー",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B07RFFYN2D",
+      "title": "NANAMI ワイヤレス充電器 Qi認証 USB-Cポート Quick Charge 3.0 15W 急速 置くだけ充電 スマホスタンド",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B07S2WT1ZP",
+      "title": "NANAMI ワイヤレス充電器 (USB-C 20W出力の急速充電器に昇進) 置くだけ充電器 セット (Qi/PSE認証済み) | 7.5W/10W/15W iPhone 17/16/15/14/13/12シリーズ/SE第三世代/11(Pro)/XR",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B08574ZQT5",
+      "title": "iHouse all 海外変換プラグ 2USBポート マルチアダプター A/O/BF/C対応 全世界対応 旅行用充電器 経済産業省承認 正規保証1年 (ホワイト)",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B08BZLH13D",
+      "title": "USB充電器 2ポート 12W ACアダプター 充電ケーブル2本付き PSE認証済み コンパクト 海外対応 iPhone/iPad/Android対応",
+      "reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合"
+    },
+    {
+      "asin": "B08CKLHVSM",
+      "title": "マキタ(Makita) 充電式クリーナ 18V バッテリ・充電器別売・ソフトバッグ付 CL184DZ",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B091BGMKYS",
+      "title": "UGREEN 65W 充電器 Type-C PD 【2C1A 3ポート】折り畳み式 GaNII 急速充電器 USB-C×2（65W）+USB-A×1（22.5W） PPS/QC3.0/SCP/FCP対応 iPhone16/15/14/MacBook/iPad/Galaxy/Android/その他USB-C機器 PSE技術基準適合·2022レッド・ドット・デザイン賞",
+      "reason": "30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B0982VFYYJ",
+      "title": "UGREEN Nexode 100W 充電器 急速 Type-C 4ポート【USB-C*3とUSB-A*1】PD3.0 PPS GaNII 折り畳み式iphone17/16/15/14/MacBook/Dell/iPad/S26 Ultra/Android対応 PSE適合 CD226",
+      "reason": "30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B099ZNTRL5",
+      "title": "Anker Nano Charger (20W) USB-C 急速充電器【PSE技術基準適合/PowerIQ 3.0 (Gen2)搭載】iPhone Android その他各種機器対応 (ホワイト)",
+      "reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合"
+    },
+    {
+      "asin": "B09FJKWL6Q",
+      "title": "マキタ(Makita) 充電式クリーナ（アイボリー）バッテリ内蔵式 10.8V2Ah 充電器付 CL115FDWI",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B09MJT5FQG",
+      "title": "マキタ(Makita) 充電式クリーナ（アイボリー）バッテリ内蔵式 10.8V2Ah 充電器付 CL116DWI",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B09SYV3P5B",
+      "title": "Anker 736 Charger (Nano II 100W) (USB急速充電器 ACアダプタ) (ブラック)",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B09W9M89WS",
+      "title": "Anker 735 Charger (GaNPrime 65W)",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B09WHC6MRM",
+      "title": "マキタ(Makita) 充電式クリーナ（レッド）バッテリ内蔵式 10.8V2Ah 充電器付 CL116DWR",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0B9X1RY8G",
+      "title": "UGREEN Zapix Magsafe充電器 2 in 1マグネット 充電スタンド Qi認証 ワイヤレス充電器 7.5W/5W 2台同時急速充電 横向き・縦向きで角度調整 イヤホン iPhone 17/16/15/14/13/12シリーズAirPods Pro/3/2/1など適用 LED表示 USB-Cケーブル付き",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0BKJPZXH3",
+      "title": "【新登場】RORRY apple watch 充電器 モバイルバッテリー 5000mAh 2本ケーブル内蔵 【iPhone用+Type-Cケーブル】 アップルウォッチ対応 最大4台同時充電 For Apple Watch ultra3/2/11/10/9全シリーズに対応 軽量 小型 コンパクト 持ち運び/PSE認証済 for iPhone 17/16/15/14/Android D2 ブラック",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-30"
+    },
+    {
+      "asin": "B0BXGPLPBF",
+      "title": "HOUOA ワイヤレス充電器 3in1 急速充電15W/10W/7.5W 同時にiPhone/iWatch/Airpodsに互換性 iPhone17/17Air/17Pro /17Pro Max /16/15/14/13/12Pro/ProMax/G",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0C1FD4RRF",
+      "title": "マキタ(Makita) 充電式クリーナ（オリーブ） 18V バッテリ・充電器別売 CL286FDZO",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0C1FDPWD2",
+      "title": "マキタ(Makita) 充電式クリーナ（白） 18Ｖ バッテリ・充電器別売 CL284FDZW",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0C1FHH8W8",
+      "title": "マキタ(Makita) 充電式クリーナ（白） 18V バッテリ・充電器別売 CL286FDZW",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0C2YZ3ZFS",
+      "title": "海外 変換プラグ コンセント 海外用電源プラ グ マルチ変換プラグ 2USBポート 全世界対応 変換器 海外旅行用充電器 A/O/BF/Cタイプ マルチアダプター 200ヶ国以上通用 Universal Travel Adapter 経済産業省承認済み 正規保証1年",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0C3B132D3",
+      "title": "UGREEN 65W USB C Charger, Nexode 3 Ports GaN Fast Charger Block, Compact Foldable Charger for MacBook Pro/Air, Dell XPS, iPhone 15 Pro Max/14/13, iPad Pro, Galaxy S24/S23, Pixel 8, Steam Deck (White)",
+      "reason": "30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B0C6FFQLTN",
+      "title": "USB 充電器 ACアダプター iPhone 急速充電器【PSE認証2個セット】 ACコンセント 急速チャージャー スマホ充電器 12W 2ポート 2.4A急速充電 同時充電 2ポートUSB電源アダプター iPhone、 iPad 、Android、",
+      "reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合"
+    },
+    {
+      "asin": "B0CF99QL43",
+      "title": "【最新型】3in1ワイヤレス充電器 iPhone/AirPods/Apple watch対応 置くだけ充電可能 QC3.0アダプター付属(ホワイト) | 折り畳み式充電スタンド 角度調節可能 携帯便利 3台デバイス同時充電可能 部屋やディスク周りすっ",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0CH8H52T5",
+      "title": "iPhone 充電器 20W PD 急速充電 [MFi/PSE認証済み] USB-C USB C - Lightning ケーブル 2m付き Type C スマホ充電器 電源アダプター タイプC アイフォン iPhone/iPad/AirPods そ",
+      "reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合"
+    },
+    {
+      "asin": "B0CL8S8CS5",
+      "title": "Anker Charger (20W, 2-Port) with USB-C ＆ USB-C ケーブル ホワイト | 充電器 20W USB-C＆USB-Cケーブル付属 2ポート【PSE技術基準適合/USB PD対応/PowerIQ搭載/コンパクトサ",
+      "reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合"
+    },
+    {
+      "asin": "B0CVNB7LCC",
+      "title": "NANAMI ワイヤレス充電器 Qi認証 最大15W出力 急速 置くだけ充電 スマホスタンド | iPhone 17/16/15/14/13/12/11/SE/8シリーズ Galaxy S26/S25/S24/S23(Ultra) qi機種対応 US",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B0CX4C1TVK",
+      "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ搭載/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 17 / 16 / 15 Android iPad その他各種機器対応",
+      "reason": "別用途・アクセサリ・別構造本体を除外; 30日窓内に同ASIN/親の掲載: 2026-10-30"
+    },
+    {
+      "asin": "B0CYZQ8HVG",
+      "title": "UGREEN Nexode 100W 充電器 (ブラック)",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0CZNCLZKT",
+      "title": "エレコム 充電器 Type-C USB-C 20W USB PD対応 ケーブル一体型 1.5m PSE認証品 GaN採用 折りたたみ式プラグ しろちゃん 【 iPhone16 15 等対応】 EC-AC6920WF",
+      "reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合"
+    },
+    {
+      "asin": "B0D7D8JP6Q",
+      "title": "Anker Prime Power Bank (9600mAh, 65W, Fusion) (9600mAh 65W出力モバイルバッテリー搭載 USB充電器)【Power Delivery対応/PSE技術基準適合/USB-C入力】iPhone MacBook Android その他機器対応",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0D8RSX6W2",
+      "title": "シンプルイズベスト。Anker MagGo Wireless Charger (Stand)",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0D8S1G53W",
+      "title": "Anker MagGo Wireless Charger (Stand) Qi2対応 マグネット式 ワイヤレス充電ステーション/ワイヤレス出力 MagSafe対応 iPhone 17 / 16 / 15 / 14 / 13 ホワイト",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0DG914LY9",
+      "title": "LISEN車 充電器巻き取りしがーソケット usb【2026年・69W急速充電・最小4in1】シガーソケット USB-C+USB-L 80cmケーブル | PD3.1/QC3.0/PPS対応 カー用品 便利グッズ 車内 60プリウス・デリカd5・ジム",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0DJLZMYR4",
+      "title": "【公式ストア限定】AI翻訳機 POCKETALK(ポケトーク)S2 Plus 1.85倍大型画面グローバル通信2年付90言語以上対応特別セット ホワイト 画面保護シール+ケース+ネックストラップ+ポーチ+海外用変換プラグ+ACアダプター PTS2P-W",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0DMNYWBCS",
+      "title": "KEEPRO ワイヤレス充電器 3in1 折り畳み式 Magsafe充電器 同時に3つのデバイス充電 15W/10W/7.5W マルチ充電スタンド マグセーフ充·電器 マグネット式 iPhone/Apple Watch/Airpodsに対応 無線充·",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0DTYSRSH2",
+      "title": "Cardill iPhone17 タイプc 充電器 type-c 20W PD 急速充電器 [正規MFi認証品/PSE認証済み] USB C-C 充電ケーブル 2M付き usb-c コンセント 対応 iPhone16/15/17/Pro/max/iP",
+      "reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合"
+    },
+    {
+      "asin": "B0DW2SYD5H",
+      "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 16 / 16 Pro / 16",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0F21VBXKK",
+      "title": "ワイヤレス充電器 Mag Safe充電器 マグネット式 【magsafe充電器＋magsafeスタンド+ 20W USB-Cアダプター】 USB-Cケーブル 1.5m付き マグセーフ充電器 スタンド/パッド くっつく iPhone17/16/15/1",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0F43XLHSM",
+      "title": "モバイルバッテリー 20000mAh大容量 【2026新設計・16ｍｍ超薄モデル】モバイルバッテリー 軽量 小型 急速充電 スマホ充電器 大容量 | 3台同時充電 Type-C入出力兼用 低電流対応 コンパクトで機内持ち込み可 旅行/出張/災害用 P",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0FCSRFQBJ",
+      "title": "Resewern タイプc 充電器 Type-C 20w【2026新型 PSE認証済み】PD 急速充電器 電源アダプター acアダプター USB コンセント タイプc アダプタ iPhone17/16/15//Android/iPad その他各種機器",
+      "reason": "商品名の出力が20W以下でPCを含む充電テーマに不適合"
+    },
+    {
+      "asin": "B0FHQDKX7G",
+      "title": "ESR 3-in-1充電器Qi2.2対応25W MagSafe充電器（CryoBoost搭載） 折りたたみ式スマホ冷却ワイヤレス充電器 iPhone 17e/17/16（iOS 26対応・50Wアダプター付属） AirPods Apple Watch用 ブラック",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0FJDNXRQL",
+      "title": "KEEZING 超薄型 モバイルバッテリー MagSafe対応 軽量 小型 8000mAh ワイヤレス充電器 マグネット式 まぐせーふ 対応 15W急速充電 PSE認証済み iPhone 17/16/15/ 14/ 13/ 12シリーズ 旅行/出張/災害用 機内持ち込み可",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0FJQRJYJD",
+      "title": "Mukiya 3in1充電器 ワイヤレス充電器 MagSafe充電器 - 折り畳み式 雰囲気ライト付き iPhone/Apple Watch/Airpodsに対応 マグセーフ充電器 3台同時充電 角度調整可能 マルチ充電スタンド マグネット式 旅行用",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0FMHZ3KVP",
+      "title": "Philips モバイルバッテリー コンセント一体型 15000mAh 大容量 Apple Watch対応 PD 45W MagSafe対応 ブラック | マグネット式 ワイヤレス充電 アップルウォッチ 2.5W 急速充電 ACアダプター 折り畳み式 usb-c & lightning ケーブル内蔵 パススルー機能搭載 電源プラグ変換可能 PSE認証済",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0FPFD8NZ6",
+      "title": "【2026極薄設計・MagSafe急速充電（8000mAh）】 モバイルバッテリー マグセーフ 最大出力20W 充電器 薄型 ワイヤレス充電 マグネット 軽量 小型 大容量 まぐせーふモバイルバッテリー 3台同時充電 Type-C入/出力 多重安全保護 pse認証済 パススルー 急速充電 コンパクト Airpods/AppleWatch/iPhone12～17/Pro対応 旅行/出張/緊急用",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0FPR3F15G",
+      "title": "Mukiya 3in1 ワイヤレス充電器 MagSafe充電器 折りたたみ式 3in1充電器 【20W USB-C充電器＋1.5mケーブル付き】 iPhone/Apple Watch/AirPods対応 3台同時充電 角度調整可能 マグネット式 旅行",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0FQBYRSP1",
+      "title": "UGREEN Zapix Qi2 15W ワイヤレス充電器 2 in 1 Magsafe対応 イヤホン iPhone充電器 90°調整可能 磁気 無線 ワイヤレス急速 iPhone 17/16/15/14/13/12シリーズ & AirPods対応 LED表示 USB-Cケーブル付き",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0FYP1HG2S",
+      "title": "モバイルバッテリー Magsafe対応 【12000mAh大容量・360°回転スタンド付き・ 最大22.5W急速充電】 軽量 大容量 小型 3台同時充電可能 ワイヤレス充電器 マグセーフ マグネット式 USB-A出力ポート/Type-C出入力ポート LCD残量表示 コンパクト PSE安全認証済み iPhone 17/16/15/14/13シリーズ 旅行/出張/災害用 機内持ち込み可 プレゼント",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0G3WLHTMQ",
+      "title": "【Amazon.co.jp限定】 モバイルバッテリー 小型 軽量 23600mAh大容量 22.5W/PD18W 4本ケーブル内蔵 203g | 手のひらサイズ 持ち運び便利 急速充電 スマホ充電器 5台同時充電 3WAY蓄電Type-C入出力兼用",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0G58TLCPL",
+      "title": "【超コンパクト】 3in1 ワイヤレス 充電器 折り畳み Lamicall : 15W 急速 マグセーフ対応 充電器 スマホ 卓上 充電 スタンド | 同時 じゅうでん ドック 磁石 縦 横 マグネット 置き 携帯 けいだい 持ち運び 机 出張 旅行",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0G5DT5LPM",
+      "title": "モバイルバッテリー MagSafe対応 16000ｍAh PD22.5W急速充電 3台同時充電可能 大容量 マグネット式 マグセーフ スマホ充電器 LCD電量残量表示 USB-A出力ポート/Type-C出入力ポート ワイヤレス充電器 スタンド付き 軽",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0G5L9MG9T",
+      "title": "Aioneus USB充電器 ACアダプター 4ポート 合計40W【QC3.0 急速充電 & PSE認証済み】 USBコンセント USBタップ電源アダプター スマートフォン充電器 携帯充電器 コンパクト設計 同時充電対応 iPhone 17/16/1",
+      "reason": "PC向けUSB PD出力をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0GC5HPVJ5",
+      "title": "モバイルバッテリー 40000mAh大容量【2026新型・5台同時充電・22.5W急速充電】モバイルバッテリー 軽量 小型 スマホ充電器 携帯充電器 LCDディスプレイ残量表示 Type-C入出力兼用 2USB出力ポート 最大3A出力 PSE認証済",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0GCB58RFD",
+      "title": "FEEKI Mag Safe充電器 25W Qi2認証 マグネット式 ワイヤレス充電器 急速充電 対応iPhone17/16シリーズ(iOS 26バージョン以降) 超薄軽量 過熱保護 短絡保護機能付き 対応 iPhone15/14/13/12シリーズ",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0GSQS7SKC",
+      "title": "NANAMI M300 25W Qi2 ワイヤレス充電器 マグネット式 マグセーフ充電器",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0GTQFX61X",
+      "title": "【Amazon.co.jp限定】モバイルバッテリー 20000mAh 大容量 1.6 cm極薄設計 カードサイズ 170g超軽量 小型 急速充電 スマホ充電器 大容量 3台同時充電 Type-C入出力兼用 低電流対応 コンパクトで機内持ち込み可 旅行",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0GVM6R1QG",
+      "title": "モバイルバッテリー 軽量 小型 30000mAh大容量 【2026新モデル 2.4A急速充電】 209g超軽量 22.5W/20W急速充電 モバイルバッテリー 大容量 4本ケーブル内蔵 急速充電 携帯充電器 USB-Type C入出力ポート 5台同時",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0GXGNFNTH",
+      "title": "ワイヤレス充電器 qi2 充電器 MagSafe対応 マグネット式ワイヤレス充電器（スマホホルダー内蔵）Qi2認証取得済み、25W急速充電器 | グネット式折りたたみスタンド付き マ iPhone 17/16シリーズ iOS 26 以降対応 スマート",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0GY8V24J6",
+      "title": "eazpower ワイヤレス充電器 3in1 充電スタンド Magsafe充電器 アップルウォッチ充電器 折り畳み式 マグネット式 同時に3つのデバイス充電 iPhone 17/16/15/14/13/12シリーズ 対応/Apple Watch/Airpodsに対応 環境光付き ナイトランプ付き ポータブル 置くだけ アダプター付き 出張、旅行用",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0H2F6R341",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー USB ハブなどの収納 レイヤー構造 スプラッシュ防止素材 保護ケース 収納バッグ 小物入れ 出張/旅行用 撥水素材 ブルー Mサイズ（24cm x 13cm x 7cm）",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0H4FCKJD4",
+      "title": "TEPNICAL 充電器 【2026新登場モデル/WPC Qi2.2認証取得/25W 急速充電】マグネット式 ワイヤレス充電器 4.9mm極薄設計 過熱安全保護 対応iPhone17/16シリーズ(iOS 26バージョン以降) 短絡保護機能付き Ty",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0HBLHNXMD",
+      "title": "ワイヤレス充電器 Qi2認証 25W 急速充電器 マグネット式 MagSafe対応 (ホワイト, 1.2M) | USB-C一体型 編み込みケーブル 薄型8mm 低発熱設計 iPhone 17/16/15/14/13/12シリーズ Galaxy S2",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B06ZXXQGZ8",
+      "title": "Anker PowerPort 2 Elite (USB充電器 24W 2ポート) | 【PSE認証済 / PowerIQ搭載 / 折りたたみ式プラグ搭載】iPhone&Android各種対応",
+      "reason": "履歴FeaturesにUSB PD非対応が明記。PC用充電テーマから除外"
+    },
+    {
+      "asin": "B0G64G321H",
+      "title": "合計40W 急速充電器 タイプc 充電器【4台同時充電・超低温・折畳み式】iPhone 充電器 PD 急速充電 PSE技術基準適合 GaNIII技術 PD3.0/PPS/SCP規格対応 超小型 軽量 iPhone/iPad/AirPods その他US",
+      "reason": "メーカー推定に合計出力または商品種別が混入。実在メーカー未確認のため保留"
+    },
+    {
+      "asin": "B0FN3Z641Y",
+      "title": "タイプC充電器 USB Type-C充電器 PD20W急速充電対応 USB-A＆Type-C 2ポート搭載 コンセント式電源アダプター iPhone 17 Air/17 Pro Max/16/15/14/13/SE3、iPad、Android、タブレ",
+      "reason": "メーカー推定に合計出力または商品種別が混入。実在メーカー未確認のため保留"
+    },
+    {
+      "asin": "B0GXF5WHWN",
+      "title": "合計45W PD 急速充電器【4台同時充電・高出力】タイプc 充電器 4ポート（USB-C×2/USB-A×2）小型軽量 PD3.0/QC3.0/PPS/SCP対応 PSE認証済 MacBook/iPhone/Android/iPad/ノートPC対応 出張/旅行/自宅用",
+      "reason": "メーカー推定に合計出力または商品種別が混入。実在メーカー未確認のため保留"
+    }
+  ],
+  "variant_policy": "色・サイズの候補を残し親群を提示。機械選抜は最新実測後に主担当が行う",
+  "notes": [
+    "履歴値を最新在庫/採用品として扱わない",
+    "公式メーカー/型番/狭い用途は未確認事項を明記",
+    "Amazon検索/実測/API/ブラウザ/DB書込みなし"
+  ],
+  "maker_normalization_note": "候補段階の手動正規化で別表記の同一メーカーを統一。採用品/掲載順/数は機械選抜で決める"
+}
