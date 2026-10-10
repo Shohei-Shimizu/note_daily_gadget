@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-19",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B07D1J88CF",
+      "official_urls": [
+        "https://www.ugreen.com/tr-tr/products/tr-50706"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B07D1J88CF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-19_card_reader_candidates.json",
+        "path": "candidates[asin=B07D1J88CF].features"
+      },
+      "verified_article_specs": [
+        "接続端子：USB-A／USB-C",
+        "スロット：SD／microSD",
+        "カード規格：UHS-I",
+        "USB規格：USB 3.0",
+        "構造：端子保護キャップ付き"
+      ],
+      "check": "公式50706の両端子/UHS-I/2カード同時使用がFeatures一致。80887の別構造・地域重量は転用しない。入力にSKUなし、入稿時ASIN画面で50706を最終確認。"
+    },
+    {
+      "order": 2,
+      "asin": "B07P1XB7BG",
+      "official_urls": [
+        "https://www.ankerjapan.com/products/a83700a2",
+        "https://www.ankerjapan.com/blogs/faq/anker-usb-c-2-in-1-カードリーダー"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B07P1XB7BG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-19_card_reader_candidates.json",
+        "path": "candidates[asin=B07P1XB7BG].features"
+      },
+      "verified_article_specs": [
+        "製品型番：A83700A2",
+        "接続端子：USB-C",
+        "スロット：SD／microSD",
+        "カード規格：UHS-I",
+        "構造：PCへの直挿し型"
+      ],
+      "check": "公式A83700A2商品/FAQとタイトルFeatures一致。SD側UHS-I最大104MB/sは規格上限で実速度保証ではない。SD4.0 PowerExpand別機種にしない。"
+    },
+    {
+      "order": 3,
+      "asin": "B0BNBXVLZS",
+      "official_urls": [
+        "https://eu.ugreen.com/it-it/products/15251-amz"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0BNBXVLZS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-19_card_reader_candidates.json",
+        "path": "candidates[asin=B0BNBXVLZS].features"
+      },
+      "verified_article_specs": [
+        "接続端子：USB-C",
+        "スロット：SD／microSD",
+        "カード規格：UHS-II／UHS-I",
+        "USB側規格：USB 3.1 Gen 1",
+        "素材：アルミニウム"
+      ],
+      "check": "公式15251-amzの構成/UHS-II/USB3.1 5Gbps/アルミがFeatures一致。312MB/sを全カード実速度保証にしない。新65024両端子やPDモデルに転用せず。入力SKUなしで入稿時15251最終確認。"
+    },
+    {
+      "order": 4,
+      "asin": "B0B6HM369H",
+      "official_urls": [
+        "https://progradedigital.com/prograde-digital-announces-a-new-super-portable-type-c-reader-for-mobile-creators/",
+        "https://progradedigital.com/comparison-group/card-readers/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0B6HM369H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-19_card_reader_candidates.json",
+        "path": "candidates[asin=B0B6HM369H].features"
+      },
+      "verified_article_specs": [
+        "製品型番：PGM0.5",
+        "接続端子：USB-C",
+        "スロット：SD／microSD",
+        "カード規格：UHS-II",
+        "USB側規格：USB 3.2 Gen 1"
+      ],
+      "check": "公式PGM0.5同型プレス/製品確認。PC両スロット同時、USB3.2Gen1。5Gbps/625MB/sはUSB帯域でカード実速度にしない。microSDUHS-IIは同型製品名も照合。"
+    },
+    {
+      "order": 5,
+      "asin": "B0D7PBX46R",
+      "official_urls": [
+        "https://www.ankerjapan.com/products/a83d1"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D7PBX46R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-19_card_reader_candidates.json",
+        "path": "candidates[asin=B0D7PBX46R].features"
+      },
+      "verified_article_specs": [
+        "製品型番：A83D1NA1（ブラック）",
+        "スロット：SD／microSD（UHS-II）",
+        "USB側規格：10Gbps対応",
+        "PDパススルー出力：最大42.5W（使用条件による）",
+        "接続：一体型USB-Cケーブル"
+      ],
+      "check": "公式黒A83D1NA1一致。3-in-1はSD/microSD/PD入力。USB側10Gbpsとカード側312MB/s分離。PDパススルー最大42.5W端末出力。外部PD充電器等の対応条件を確認。磁石給電/無線転送にしない。"
+    },
+    {
+      "order": 6,
+      "asin": "B0FFR5714G",
+      "official_urls": [
+        "https://www.elecom.co.jp/products/MR3C-D20EBK.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0FFR5714G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-19_card_reader_candidates.json",
+        "path": "candidates[asin=B0FFR5714G].features"
+      },
+      "verified_article_specs": [
+        "製品型番：MR3C-D20EBK",
+        "接続端子：USB-C",
+        "スロット：SD／microSD（同時利用対応）",
+        "カード転送規格：UHS-I",
+        "本体重量：約8g"
+      ],
+      "check": "同型公式一致。USB5Gbps/UHS-I104MB/sを分離。UHS-II/SDExpressカード対応はUHS-I速度読み書きでありUHS-II速度対応とはしない。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n3a9b1117d511",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n42c61862b347",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/ncd25d7bebee6",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "official_gate_passed": false,
+  "unresolved_omitted_specs": [
+    "UGREEN2品は入稿時ASIN画面で公式SKU50706/15251の最終同定",
+    "全カードで規格上限の実速度を保証しない"
+  ],
+  "ui_identity_checks": [
+    "B07D1J88CF:50706",
+    "B0BNBXVLZS:15251"
+  ],
+  "pending_gate": {
+    "status": "pending_main_task_before_ingestion",
+    "asins": [
+      "B07D1J88CF",
+      "B0BNBXVLZS"
+    ],
+    "check": "Amazon GUIでUGREENの当該SKU50706/15251に最終同定。記事に未確認SKU番号は断定記載しない。"
+  },
+  "official_specification_gate_passed": true,
+  "article_evidence_gate_passed": true
+}

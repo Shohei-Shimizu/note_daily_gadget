@@ -1,0 +1,54 @@
+{
+  "status": "pass_article_content_pending_sku_gate",
+  "checks": {
+    "product_count": true,
+    "asins_order_unchanged": true,
+    "affiliate_urls_unchanged": true,
+    "machine_memo_preserved": true,
+    "h1_filename_handoff_match": true,
+    "research_placeholders_resolved": true,
+    "related_urls_only": true,
+    "related_canonical_urls": true,
+    "two_intro_paragraphs": true,
+    "body_length_80_200": true,
+    "no_new_tables_sections_or_dividers": true,
+    "no_review_or_price_claims": true,
+    "usb_and_card_speed_separated": true,
+    "no_phone_compatibility_overclaim": true,
+    "active_one_article_research": true,
+    "not_scheduled_or_published": true
+  },
+  "title_chars": 25,
+  "product_count": 6,
+  "body_chars": [
+    123,
+    124,
+    124,
+    131,
+    129,
+    131
+  ],
+  "related_count": 3,
+  "official_gate_passed": false,
+  "main_task_required": [
+    "UGREEN2品ASIN/SKU同定GUI確認",
+    "月metadata/DB反映",
+    "画像と日付照合",
+    "GUIリンク発行・保存後表示確認",
+    "予約日時20:00確認"
+  ],
+  "unresolved_specs_not_in_article": [
+    "UGREEN2品は入稿時ASIN画面で公式SKU50706/15251の最終同定",
+    "全カードで規格上限の実速度を保証しない"
+  ],
+  "pending_gate": {
+    "status": "pending_main_task_before_ingestion",
+    "asins": [
+      "B07D1J88CF",
+      "B0BNBXVLZS"
+    ],
+    "check": "Amazon GUIでUGREENの当該SKU50706/15251に最終同定。記事に未確認SKU番号は断定記載しない。"
+  },
+  "official_specification_gate_passed": true,
+  "article_evidence_gate_passed": true
+}
