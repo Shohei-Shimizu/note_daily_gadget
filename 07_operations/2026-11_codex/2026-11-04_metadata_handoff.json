@@ -1,0 +1,38 @@
+{
+  "published_date": "2026-11-04",
+  "filename": "2026-11-04_会議と集中を切り替える。「ノイキャンヘッドホン」8選.md",
+  "title": "会議と集中を切り替える。「ノイキャンヘッドホン」8選",
+  "category": "コミュニケーション・会議・音声",
+  "tags": "おすすめガジェット ヘッドホン ノイズキャンセリング Web会議 テレワーク",
+  "product_count": 8,
+  "product_asins": [
+    "B08HYX5NS9",
+    "B0GXYWTMPN",
+    "B09Z2QYYD1",
+    "B0BVPNJP1C",
+    "B0CQKFTYW5",
+    "B0CWNQP4RG",
+    "B0FL2HYBGJ",
+    "B0D4VMVCFX"
+  ],
+  "related_urls": [
+    "https://note.com/daily_gadget/n/nce409c61ed07",
+    "https://note.com/daily_gadget/n/n5b247e8a0c1a",
+    "https://note.com/daily_gadget/n/n3f3977cb8d22"
+  ],
+  "research_file": "06_research/2026-11/2026-11-04_会議と集中を切り替える。「ノイキャンヘッドホン」8選.md",
+  "status": "local_draft_qa_only",
+  "scheduled_time": "20:00 JST",
+  "unresolved_specs": [
+    "HAYLOU Pro同梱マイク/ケース差未確定（本文不使用）",
+    "UGREEN日本ASINと地域SKU対応未確定（色・重量不使用）",
+    "Bose USB-C接続時マイク未確定（対応断定なし）"
+  ],
+  "integration_required": [
+    "monthly_metadata",
+    "schedule_ledger",
+    "shared_db",
+    "thumbnail",
+    "note_saved_preview"
+  ]
+}

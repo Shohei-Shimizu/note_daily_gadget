@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-04",
+  "checked_at": "2026-10-10",
+  "products": [
+    {
+      "asin": "B08HYX5NS9",
+      "name": "Anker Soundcore Life Q30（第2世代）",
+      "source": "https://www.ankerjapan.com/products/a3028",
+      "points": [
+        "環境に応じてアプリでANCモードを選べる。",
+        "外音取り込みとBluetooth接続時の内蔵マイク通話に対応。",
+        "現行第2世代はBluetooth 5.3で、旧版の通信規格を転記しない。"
+      ],
+      "specs": [
+        "Bluetooth：5.3",
+        "音楽再生：最大50時間（ANC時）・最大70時間（通常）",
+        "充電端子：USB-C",
+        "通話：内蔵マイク（Bluetooth接続時のみ）",
+        "重量：約260g"
+      ],
+      "body": "作業場所に合わせてノイズキャンセリングのモードを選びたい人向けの候補です。アプリで交通機関・屋外・屋内のモードを切り替えられ、外音取り込みにも対応します。内蔵マイクによる通話はBluetooth接続時のみなので、ケーブル接続で会議に使う予定なら注意したい一台。",
+      "cautions": [
+        "採用名と現行公式の第2世代/BT5.3が一致。旧版BT5.0等を不使用。再生50時間はANC時であり通常70時間と区別。"
+      ]
+    },
+    {
+      "asin": "B0GXYWTMPN",
+      "name": "UGREEN HiTune Max5c",
+      "source": "https://eu.ugreen.com/en-ch/products/35757-amz",
+      "points": [
+        "ANC・外音取り込み・通常モードを切り替えられる。",
+        "複数端末接続と通話用ノイズ低減マイクに対応。",
+        "LDACに対応し、アプリで音質設定を調整できる。"
+      ],
+      "specs": [
+        "Bluetooth：5.4",
+        "音楽再生：最大75時間（ANCオフ）・最大45時間（ANCオン）",
+        "対応コーデック：LDAC",
+        "通話：デュアルマイク・DNN AIノイズ低減",
+        "充電端子：USB-C"
+      ],
+      "body": "充電の頻度と端末の切り替えを重視して調べたモデルです。複数の端末への接続に対応し、通話ではマイクとAIによるノイズ低減を使う構成。アプリで音質やANCを調整できるため、作業中の音楽と音声通話を同じヘッドホンにまとめたい場合の候補になります。",
+      "cautions": [
+        "公式EUはMax5c。Max5のBT5.0等を転用しない。地域別公式にANC時間逆転誤記があるためEUの明示条件を採用。日本ASINの色別SKU対応は未確認、重量は不使用。"
+      ]
+    },
+    {
+      "asin": "B09Z2QYYD1",
+      "name": "ソニー WH-1000XM5",
+      "source": "https://www.sony.jp/headphone/products/WH-1000XM5/",
+      "points": [
+        "周囲の環境と装着状態に応じてANCを自動最適化する。",
+        "ビームフォーミングとAIを使うボイスピックアップに対応。",
+        "マルチポイントで端末の切り替えに対応。"
+      ],
+      "specs": [
+        "Bluetooth：5.2",
+        "音楽再生：最大30時間（NCオン）・最大40時間（NCオフ）",
+        "連続通話：最大24時間（NCオン）・最大32時間（NCオフ）",
+        "接続：マルチポイント",
+        "重量：約250g"
+      ],
+      "body": "周囲の音を抑える機能だけでなく、相手へ声を届ける仕組みも重視して候補に入れました。ボイスピックアップ機能はマイクの指向性とAIを活用する設計です。マルチポイント接続にも対応し、音楽を聴く端末と会議用の端末を切り替える使い方を考えやすいモデル。",
+      "cautions": [
+        "仕様出典はhttps://www.sony.jp/headphone/products/WH-1000XM5/spec.html。音楽再生時間と連続通話時間を区別。PC会議ではアプリ側の音声入出力設定も必要。"
+      ]
+    },
+    {
+      "asin": "B0BVPNJP1C",
+      "name": "ソニー WH-CH720N",
+      "source": "https://www.sony.jp/headphone/products/WH-CH720N/",
+      "points": [
+        "軽量設計とノイズキャンセリングを両立。",
+        "高精度ボイスピックアップで通話時の声を抽出する。",
+        "端末2台のマルチポイント接続と外音取り込みに対応。"
+      ],
+      "specs": [
+        "Bluetooth：5.2",
+        "音楽再生：最大35時間（NCオン）・最大50時間（NCオフ）",
+        "連続通話：最大35時間（NCオン）・最大40時間（NCオフ）",
+        "接続：2台同時マルチポイント",
+        "機能：ノイズキャンセリング・外音取り込み"
+      ],
+      "body": "長時間の作業で、軽さと通話機能を両方確認したい人向けの候補です。ノイズキャンセリングに加え、高精度ボイスピックアップと外音取り込みを搭載します。マルチポイントで会議用PCとスマホをつなぐ使い方にも対応するため、机の上で端末を使い分ける場合に検討したいモデル。",
+      "cautions": [
+        "メーカーの最軽量主張は2023年時点・限定カテゴリのため記事に最軽量と書かない。"
+      ]
+    },
+    {
+      "asin": "B0CQKFTYW5",
+      "name": "ゼンハイザー ACCENTUM Plus Wireless",
+      "source": "https://jp.sennheiser-hearing.com/ja/products/accentum-plus-wireless",
+      "points": [
+        "環境に合わせて調整するアダプティブ・ハイブリッドANCを搭載。",
+        "タッチ操作で音楽と通話を操作できる。",
+        "ビームフォーミングを使う通話マイクと外音取り込みに対応。"
+      ],
+      "specs": [
+        "Bluetooth：5.2",
+        "音楽再生：最大50時間（Bluetooth・ANC、iPhone中音量での試験）",
+        "通話マイク：2マイク・ビームフォーミング",
+        "機能：アダプティブ・ハイブリッドANC",
+        "重量：約227g"
+      ],
+      "body": "音楽と通話の操作をイヤーカップのタッチ操作にまとめたい人向けに選びました。周囲に合わせて調整するANCと、外音を取り込むモードを搭載した構成です。通話マイクにはビームフォーミングを用い、装着を外した際の音楽の自動一時停止にも対応します。",
+      "cautions": [
+        "再生時間は通話時間ではない。aptX系の利用には接続元対応が必要。"
+      ]
+    },
+    {
+      "asin": "B0CWNQP4RG",
+      "name": "HAYLOU S30 Pro",
+      "source": "https://www.haylou.cn/productview/729.html",
+      "points": [
+        "S30シリーズはANCとタッチ中の会話モードに対応。",
+        "Bluetooth 5.4と内蔵通話ノイズ低減機能を備える。",
+        "折りたたみ設計とUSB-C充電で持ち運びに対応。"
+      ],
+      "specs": [
+        "Bluetooth：5.4",
+        "音楽再生：約80時間（ANCオフ）・約50時間（ANCオン）",
+        "充電端子：USB-C",
+        "機能：ANC・会話モード",
+        "収納：折りたたみ式"
+      ],
+      "body": "作業の合間に周囲の声を聞く場面が多いなら、会話モードを確認したい候補です。イヤーパッドをタッチしている間、音楽の音量を下げて外音を取り込む仕組み。折りたたんで持ち運べるため、場所を変えて作業する人にも検討しやすい構成です。",
+      "cautions": [
+        "本国メーカーと日本公式はS30名、AmazonはS30 Pro。着脱マイク・ケースの同梱差を未確定として不使用。S30共通機能のみ記述。日本公式補足https://haylou-japan.jp/hl62030/及びhttps://haylou-japan.jp/p18/。"
+      ]
+    },
+    {
+      "asin": "B0FL2HYBGJ",
+      "name": "Bose QuietComfort Ultra Headphones（第2世代）",
+      "source": "https://www.bose.co.jp/p/headphones/bose-quietcomfort-ultra-headphones-2nd-gen/QCUH2-HEADPHONEARN.html",
+      "points": [
+        "クワイエットとアウェアのモードを切り替えられる。",
+        "内蔵マイクと本体ボタンで通話操作に対応。",
+        "第2世代はUSB-Cオーディオに対応し、音楽再生用の接続方法を選べる。"
+      ],
+      "specs": [
+        "Bluetooth：5.4",
+        "マイク：内蔵",
+        "機能：ノイズキャンセリング・アウェアモード",
+        "接続：Bluetooth・USB-Cオーディオ",
+        "重量：約260g"
+      ],
+      "body": "周囲の音を抑える時間と、外の音を聞く時間をモードで切り替えたい人向けの候補です。内蔵マイクを備え、本体のボタンで着信への応答やモード変更を操作できます。第2世代はUSB-Cオーディオにも対応しますが、会議で使う場合は接続方法ごとのマイク利用条件を確認しておきたい一台。",
+      "cautions": [
+        "初代24h/BT5.3と第2世代30h/BT5.4を混同しない。USB-C音声入力のマイク利用は未確認で断定禁止。30hのモード別条件を本文に使わず省略。"
+      ]
+    },
+    {
+      "asin": "B0D4VMVCFX",
+      "name": "Anker Soundcore Space One Pro",
+      "source": "https://www.ankerjapan.com/products/a3062",
+      "points": [
+        "ANCの強度を自動調整し、外音取り込みも段階調整できる。",
+        "マルチポイント接続でスマホと会議用PCを切り替えられる。",
+        "通話用マイクとAIノイズ低減、折りたたみ構造を搭載。"
+      ],
+      "specs": [
+        "Bluetooth：5.3",
+        "音楽再生：最大60時間（通常）・最大40時間（ANCオン）",
+        "通話：4マイク・AIノイズ低減",
+        "接続：マルチポイント",
+        "重量：約287g"
+      ],
+      "body": "持ち運びと会議用端末への切り替えを両立したい人向けに候補へ入れました。折りたたみ構造を備え、マルチポイントでスマホとPCを接続できる設計です。通話時はマイクとAIでノイズを低減し、作業中は周囲に合わせてANCの強度を自動調整します。",
+      "cautions": [
+        "LDAC対応でも接続元の対応が必要。最大60hは通常モード、ANCオンは40h。"
+      ]
+    }
+  ],
+  "selection_preserved": true,
+  "jev": "not_used_no_individual_review_analysis",
+  "related_public_evidence": [
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_nce409c61ed07_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n5b247e8a0c1a_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n3f3977cb8d22_live.html"
+  ],
+  "related_metadata_sources": [
+    "02_article/2026-06/_metadata.json",
+    "02_article/2026-09/_metadata.json",
+    "02_article/2026-04/_metadata.json"
+  ]
+}
