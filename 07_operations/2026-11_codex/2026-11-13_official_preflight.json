@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-13",
+  "checked_at": "2026-10-10",
+  "phase": "premeasurement_official_preflight",
+  "source_candidates": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_backpack_candidates.json",
+  "source_scope": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_backpack_scope_audit.json",
+  "candidate_count_inspected": 6,
+  "features_note": "6候補すべてFeatures空。別モデル混入は判断できず、同定済み公式に基づく補完が必要。",
+  "rows": [
+    {
+      "asin": "B07N3WQ6H7",
+      "status": "hold_exact_model_and_scope",
+      "finding": "MATEINメーカーの実在は確認。ただし当該ASINの独立型番一致なし。公式TSA Travelerは50L/厚み10.2inchで別モデルの可能性があり転用禁止。特大旅行向けタイトルは薄型PC通勤企画とずれる。",
+      "primary_sources": [
+        "https://www.matein.com/ar-gb/products/matein-tsa-travelers-backpack?variant=44230950617310"
+      ]
+    },
+    {
+      "asin": "B082VV36T8",
+      "status": "hold_exact_model_and_scope",
+      "finding": "MARK RYDENのメーカーサイトは実在するが、当該ASIN対応型番の一次根拠未確認。30L旅行型で薄型と断定不可。第三者のMR9031SJ表記を公式型番と扱わない。",
+      "primary_sources": [
+        "https://www.markrydenusa.com/collections/17-inch-large-backpacks"
+      ]
+    },
+    {
+      "asin": "B07ST5HS7G",
+      "status": "official_model_confirmed",
+      "finding": "62363はace.GENE/エース公式。15L、厚み10cm、15inchPC36×25×3cm。CBのコーデュラ素材をWR2へ転用しない。",
+      "primary_sources": [
+        "https://www.ace-dot.com/product/detail.php?id=62363"
+      ]
+    },
+    {
+      "asin": "B07H5RMC5Z",
+      "status": "official_model_confirmed_scope_caution",
+      "finding": "Crossover2 20L Dress Blue/3203839/C2BP114公式一致。31×19×43cm/1.09kg/20L。厚み19cmで薄型とは慎重に判断。現行黒3205260と混ぜない。",
+      "primary_sources": [
+        "https://www.thule.com/es-ni/backpacks/laptop-backpacks/thule-crossover-2-backpack-20l-_-3203839"
+      ]
+    },
+    {
+      "asin": "B07HX6KWBR",
+      "status": "official_model_confirmed_scope_caution",
+      "finding": "BM-OF02BK公式一致。販売終了表示、Amazon実測待ち。奥行16cm/1385gの3WAYで極薄・超軽量と断定不可。15.6インチとPC収納内寸を区別。",
+      "primary_sources": [
+        "https://www.elecom.co.jp/products/BM-OF02BK.html"
+      ]
+    },
+    {
+      "asin": "B0DSZVQ6M1",
+      "status": "official_model_confirmed",
+      "finding": "68664はエース公式WR2の19/23L拡張モデル。62363CBと素材/構造を混ぜない。候補19L表記を常に固定容量としない。",
+      "primary_sources": [
+        "https://item.rakuten.co.jp/ace-store/68664/",
+        "https://www.ace-dot.com/series/gadgetable_SP.pdf"
+      ]
+    }
+  ],
+  "selection_done": false,
+  "measurement_done": false,
+  "article_written": false,
+  "notes": [
+    "候補件数は入力の監査数であり最終商品数ではない",
+    "薄型の定義を勝手に数値化して機械選抜しない。厚みと用途の観点を主担当へ引継ぎ。"
+  ]
+}

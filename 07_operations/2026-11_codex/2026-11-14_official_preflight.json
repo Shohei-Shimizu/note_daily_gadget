@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-14",
+  "checked_at": "2026-10-10",
+  "phase": "premeasurement_official_preflight",
+  "source_candidates": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_smart_ring_candidates.json",
+  "source_scope": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_smart_ring_scope_audit.json",
+  "candidate_count_inspected": 21,
+  "model_groups": [
+    {
+      "model": "Oura Ring 4",
+      "asins": [
+        "B0D9WT1S2T",
+        "B0D9WWB3WX",
+        "B0D9WVKWXN"
+      ],
+      "status": "official_family_confirmed_features_contaminated",
+      "finding": "本体タイトルなのにFeatures先頭にサイジングキット購入クレジット説明が混入。本体3候補をキットと誤判定しない。現行Oura4公式の最大8日/サイズ基準/メンバーシップ要件を使い、キット説明やOura5仕様を転用しない。",
+      "primary_sources": [
+        "https://support.ouraring.com/hc/en-us/articles/33045011508115-Oura-Ring-4",
+        "https://support.ouraring.com/hc/en-us/articles/4408961184147-General-FAQs"
+      ]
+    },
+    {
+      "model": "Geekin",
+      "asins": [
+        "B0G6YHQ18J",
+        "B0GMH69RCK",
+        "B0GQ3VR6T2",
+        "B0GQ3WPDRG",
+        "B0GQ8WX3CZ",
+        "B0GQ98LC37"
+      ],
+      "status": "hold_exact_brand_model",
+      "finding": "Features冒頭がEvofitでブランド混入。重量センサーという文言や全機種対応・精密測定断言がある。Geekinとして独立公式メーカー/型番根拠を確認できないため最終採用根拠にできない。",
+      "primary_sources": []
+    },
+    {
+      "model": "POBOVi",
+      "asins": [
+        "B0F189RKD1"
+      ],
+      "status": "hold_exact_generation",
+      "finding": "独立メーカーShenzhen Pengbo/POBOViの存在とGen2サイトは確認。当該ASINがGen1/Gen2のどちらか未確定。IP68から100m深海ダイビングを断言するFeaturesは根拠不十分。サイズ9に11/12号向け最大7日を無条件に当てない。",
+      "primary_sources": [
+        "https://www.pobovielectronics.com/en/Product/detail-24.html",
+        "https://poboviring.com/"
+      ]
+    },
+    {
+      "model": "SOXAI RING 1.1",
+      "asins": [
+        "B0F59W7RGH",
+        "B0F59W82K1",
+        "B0F59WQ1TX"
+      ],
+      "status": "official_generation_confirmed",
+      "finding": "公式1.1仕様が独立して現存。最大9日はサイズ/使用依存、BLE5.0/充電60〜120分。同社2とサイズ規格・最大駆動を分離。旧store1.1URLは2へリダイレクトするため参照先モデルを確認。",
+      "primary_sources": [
+        "https://support.soxai.co.jp/hc/ja/articles/12484075980303-%E8%A3%BD%E5%93%81%E4%BB%95%E6%A7%98"
+      ]
+    },
+    {
+      "model": "SOXAI RING 2",
+      "asins": [
+        "B0H4RH1L21",
+        "B0H4RNLPBD",
+        "B0H4RPQC2R",
+        "B0H4RQ92V1",
+        "B0H4RW5Y8L",
+        "B0H4RX6Y2G",
+        "B0H4S6DWCS"
+      ],
+      "status": "official_generation_confirmed",
+      "finding": "2026-08-19更新公式で最大15日へ更新。20〜26号・省電力モード時の最大理論値なので8〜16号へ15日を当てない。旧LP最大14日より最新版仕様優先。1.1とはサイズ規格が異なりキットも専用。",
+      "primary_sources": [
+        "https://soxai.co.jp/products/soxai-ring-2",
+        "https://support.soxai.co.jp/hc/ja/articles/14555366416143-%E8%A3%BD%E5%93%81%E4%BB%95%E6%A7%98"
+      ]
+    },
+    {
+      "model": "Amazfit Helio Ring",
+      "asins": [
+        "B0DJNVNVP2"
+      ],
+      "status": "official_model_confirmed",
+      "finding": "HelioRing公式本体/ユーザーガイドあり。10ATMは深海潜水の保証ではない。医療診断・精度優位断言は本文に転用せず、Zeppアプリの傾向確認として扱う。",
+      "primary_sources": [
+        "https://www.amazfit.jp/products/amazfit-helioring",
+        "https://www.amazfit.jp/blogs/manual/amazfit-helioring"
+      ]
+    }
+  ],
+  "scope_misclassification_to_recheck": {
+    "asin": "B0DG2QKMFX",
+    "current_scope_reason": "サイズキットとして除外",
+    "finding": "入力タイトルはRingConn Gen2本体（シルバー、サイズ10）と読める。「まずサイジングキットでサイズ確認」の文は事前案内。公式Gen2本体ページが存在するので当該ASINの本体/キット同定を主担当の最新画面で確認して再判定。",
+    "official_model_source": "https://ringconn.com/products/ringconn-gen-2",
+    "action_done": "none_read_only_findings_only"
+  },
+  "selection_done": false,
+  "measurement_done": false,
+  "article_written": false,
+  "medical_claim_policy": "公式の機能を非医療的な記録・傾向確認に限定。診断・治療・改善効果の断言はしない。",
+  "jev_used": false
+}
