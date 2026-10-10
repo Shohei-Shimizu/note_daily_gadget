@@ -1,0 +1,284 @@
+{
+  "account": "daily_gadget",
+  "month": "2026-11",
+  "status": "in_progress",
+  "authorization": "2026-10-10 ユーザーが30本制作・毎日20:00予約計画を承認",
+  "publish_time": "20:00",
+  "timezone": "Asia/Tokyo",
+  "dates": [
+    {
+      "date": "2026-11-01",
+      "status": "measuring",
+      "note_url": "",
+      "theme": "文章入力の道具を見直す。仕事用キーボード",
+      "type": "keyboard",
+      "role": "D",
+      "revenue_path": "direct_product_cards",
+      "topic_id": "daily_gadget_20261101_5d60a8d4",
+      "candidate_file": "07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json"
+    },
+    {
+      "date": "2026-11-02",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "赤外線リモコンをスマホにまとめる。スマートリモコン",
+      "type": "smart_remote",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-03",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "出先の小物をひとまとめにする。ガジェットポーチ",
+      "type": "gadget_pouch",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-04",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "会議と集中作業を切り替える。ノイズキャンセリングヘッドホン",
+      "type": "headphone",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "作業時間を区切る。デスクタイマー",
+      "type": "timer",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "外出先で端子を増やす。USB-Cハブ",
+      "type": "usb_hub",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-07",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "オンライン会議の映像を整える。Webカメラ",
+      "type": "webcam",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-08",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "離れた部屋の温湿度を確認する。スマホ連携温湿度計",
+      "type": "thermo_hygrometer",
+      "role": "A",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-09",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "PCの写真と仕事ファイルを残す。外付けHDD",
+      "type": "external_hdd",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "PCとスマホの充電をまとめる。USB充電器",
+      "type": "charger",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "両面の紙資料を取り込む。ドキュメントスキャナー",
+      "type": "scanner",
+      "role": "A",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-12",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "移動中と仕事で使う。ワイヤレスイヤホン",
+      "type": "earphone",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-13",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "PCと仕事道具を持ち運ぶ。ビジネスリュック",
+      "type": "backpack",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-14",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "睡眠と活動の傾向を記録する。スマートリング",
+      "type": "smart_ring",
+      "role": "A",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-15",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "自宅の壁に映す。ホームプロジェクター",
+      "type": "projector",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-16",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "配線と書類の表示を印刷する。ラベルプリンター",
+      "type": "label_printer",
+      "role": "A",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-17",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "PC間のファイルを持ち運ぶ。USBメモリ",
+      "type": "usb_memory",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "キーボードのほこりを吹き飛ばす。電動エアダスター",
+      "type": "air_duster",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "スマホに触れない時間をつくる。タイムロックボックス",
+      "type": "time_locking_container",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-20",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "PDFと手書きメモを一台に残す。デジタルノート",
+      "type": "digital_notebook",
+      "role": "A",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-21",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "画面の下の手元を照らす。モニターライト",
+      "type": "monitor_light",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-22",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "PCをバッグに入れて持ち運ぶ。ノートPCケース",
+      "type": "laptop_case",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-23",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "カメラや端末の保存先を増やす。microSDカード",
+      "type": "sd_card",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "運動と日々の活動を記録する。スマートウォッチ",
+      "type": "smartwatch",
+      "role": "A",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-25",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "立つ時間を取り入れる。電動昇降デスク",
+      "type": "standing_desk",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-26",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "海外出張で会話を支える。音声翻訳機",
+      "type": "translator",
+      "role": "A",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-27",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "夜の机を照らす。デスクライト",
+      "type": "desk_light",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-28",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "鍵とバッグの場所を確認する。紛失防止タグ",
+      "type": "gps_tracker",
+      "role": "A",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-29",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "移動の多い仕事で使う。ワイヤレスマウス",
+      "type": "mouse",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    },
+    {
+      "date": "2026-11-30",
+      "status": "scope_audit_pending",
+      "note_url": "",
+      "theme": "外出先でPCの目線を上げる。ノートPCスタンド",
+      "type": "laptop_stand",
+      "role": "D",
+      "revenue_path": "direct_product_cards"
+    }
+  ],
+  "october_remaining": "completed_2026-10-31",
+  "base_account_sha": "e6b1e83133fb9693b1bbf31775cea427ed2ea8e1"
+}
