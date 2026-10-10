@@ -1,0 +1,69 @@
+{
+  "checked_on": "2026-10-09",
+  "source_scope": "official manufacturers only; no Amazon measurement or candidate mutations",
+  "products": [
+    {
+      "asins": [
+        "B01KUH0CE6"
+      ],
+      "model": "Wacom Bamboo Slate",
+      "decision": "exclude",
+      "reason": "データ転送アプリInkspaceの新規提供が終了。2025-12-18廃止、削除延期は2026年1月末。再インストール/更新/技術支援不可。既存端末での動作可能と新規導入を区別。",
+      "sources": [
+        "https://support.wacom.com/hc/en-us/articles/36070902398231-Bamboo-Paper-Inkspace-Wacom-Notes-application-End-of-Life-Notification",
+        "https://support.wacom.com/hc/en-us/articles/1500006340542-What-is-the-Bamboo-Slate-or-Bamboo-Folio-and-how-does-it-work"
+      ]
+    },
+    {
+      "asins": [
+        "B00MGCE2VS"
+      ],
+      "model": "KOKUYO CamiApp S",
+      "decision": "exclude",
+      "reason": "CamiApp/S設定アプリ2021-12-24公開終了、2023-09-30技術支援終了。公式Q3は新規利用/機種変更に対応不可と記載。",
+      "sources": [
+        "https://www.kokuyo-st.co.jp/en/stationery/camiapp/termination/"
+      ]
+    },
+    {
+      "asins": [
+        "B00524DLZ0"
+      ],
+      "model": "Livescribe Echo",
+      "decision": "hold_pending_modern_environment",
+      "reason": "公式EchoDesktopサポート/ダウンロード説明は存在し終了とは断定できない。しかしmacIntelのみ、旧OS説明、公開リリースノート最新Windows版2016年。Windows11/現行macOS新規導入を一次資料で確定できず、一般購入者向け候補として保留推奨。AppleSilicon対応を創作しない。",
+      "sources": [
+        "https://livescribe.helpscoutdocs.com/article/1364-80903-echo-pulse-system-requirements-for-echo-desktop",
+        "https://livescribe.helpscoutdocs.com/article/1367-80101-echo-pulse-operating-systems-compatible-with-echo-desktop",
+        "https://livescribe.helpscoutdocs.com/article/2078-echo-desktop-release-notes"
+      ]
+    },
+    {
+      "asins": [
+        "B077NSWLH2"
+      ],
+      "model": "reMarkable 1",
+      "decision": "not_exclude_for_app_termination",
+      "reason": "公式ソフト配信説明はreMarkable1/2並行配信を明記。終了による除外根拠なし。旧型本体の新品/販売状態はmain再実測で確認。新型専用機能を初代へ移植しない。",
+      "sources": [
+        "https://support.remarkable.com/articles/Knowledge/Here-s-how-reMarkable-rolls-out-software-updates",
+        "https://support.remarkable.com/articles/Knowledge/How-to-update-your-reMarkable"
+      ]
+    },
+    {
+      "asins": [
+        "B08K92WM6C",
+        "B09HQQRY6F"
+      ],
+      "model": "Neo smartpen dimo",
+      "decision": "not_exclude_current_app_exists",
+      "reason": "公式現行DIMOページとガイドはNeoStudio2対応を明記。旧NeoNotes/NeoStudio2022/PenManagerサポート終了だが後継への移行導線あり。専用Ncode紙が必要。現行for-mobileはAndroid10/iOS16以上、旧ガイドのAndroid6/iOS13と混在するので低い値を本文へ採らずストアで現行確認。",
+      "sources": [
+        "https://shop.neosmartpen.com/products/neo-smartpen-dimo?variant=50249648537878",
+        "https://shop.neosmartpen.com/pages/faqs",
+        "https://shop.neosmartpen.com/pages/for-mobile",
+        "https://shop.neosmartpen.com/pages/user-guide-1"
+      ]
+    }
+  ]
+}

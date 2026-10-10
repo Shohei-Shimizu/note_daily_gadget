@@ -1,0 +1,1584 @@
+- link "Amazonアソシエイト ツールバー":
+  - /url: https://affiliate.amazon.co.jp/home
+  - paragraph: Amazonアソシエイト
+  - heading "ツールバー" [level=2]
+- paragraph: カテゴリー
+- paragraph: 家電(含 キッチン家電、生活家電、理美容家電など)
+- paragraph: 販売手数料率
+- paragraph: 2.00%
+- paragraph:
+  - text: 【10/16(金)0時～】「プライム感謝祭」開催！10/13(火)からは先行セール。
+  - link "イベントページはこちら。":
+    - /url: https://www.amazon.co.jp/primeappreciation?ref=SiteStripe
+- button "リンク生成"
+- button "設定":
+- navigation "ショートカットメニュー":
+  - heading "次に移動" [level=2]
+  - list "次に移動":
+    - link "メインコンテンツ":
+      - /url: "#skippedLink"
+    - link "この商品について":
+      - /url: "#featurebullets_feature_div"
+    - link "購入オプションに移動":
+      - /url: "#buybox"
+      - text: 購入オプション
+    - link "レビュー":
+      - /url: "#customerReviews"
+  - separator
+  - heading "キーボードショートカット" [level=2]
+  - list "キーボードショートカット":
+    - link "検索、option、フォーワードスラッシュ(/)":
+      - /url: javascript:void(0)
+      - generic: 検索
+      - generic: opt
+      - generic: +
+      - generic: /
+    - link "カート、shift、option、c":
+      - /url: javascript:void(0)
+      - generic: カート
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: C
+    - link "ホーム、 shift、option、h":
+      - /url: javascript:void(0)
+      - generic: ホーム
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: H
+    - link "注文履歴、shift、option、o":
+      - /url: javascript:void(0)
+      - generic: 注文
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: O
+    - button "カートに入れる、シフト、option、K":
+      - generic: カートに入れる
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: K
+    - button "商品概要、シフトoption、d":
+      - generic: 商品概要
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: D
+    - button "ショートカットの表示/非表示、shift、option、z":
+      - generic: ショートカットの表示/非表示
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: Z
+  - generic: 商品間を移動するには、キーボードの上矢印または下矢印を使用します。
+- banner:
+  - navigation "プライマリ":
+    - link "Amazon.co.jp Prime":
+      - /url: /ref=nav_logo
+      - generic: .co.jp
+    - link:
+      - /url: /ref=nav_logo_prime
+    - button "お届け先 清水 翔平さん 812-0893‌":
+      - generic: お届け先 清水 翔平さん
+      - generic: 812-0893‌
+    - search:
+      - generic: エレクトロニクス&カメラ
+      - combobox "検索するカテゴリーを選択します。":
+        - option "すべてのカテゴリー"
+        - option "Amazon ふるさと納税"
+        - option "プライム感謝セール"
+        - option "Audibleオーディオブック"
+        - option "Amazon デバイス"
+        - option "Kindleストア"
+        - option "Prime Video"
+        - option "Alexaスキル"
+        - option "Amazon定期おトク便"
+        - option "デジタルミュージック"
+        - option "アプリ&ゲーム"
+        - option "本"
+        - option "洋書"
+        - option "音楽"
+        - option "クラシック"
+        - option "DVD"
+        - option "コンピューター&テレビゲーム"
+        - option "PCソフト"
+        - option "パソコン・周辺機器"
+        - option "エレクトロニクス&カメラ" [selected]
+        - option "文房具・オフィス用品"
+        - option "キッチン&家庭用品"
+        - option "ペット用品"
+        - option "ヘルスケア&パーソナルケア"
+        - option "ビューティー"
+        - option "食品・飲料・お酒"
+        - option "ベビー&マタニティ"
+        - option "ファッション"
+        - option "女性服、靴、ジュエリー"
+        - option "男性用服、靴、ジュエリー"
+        - option "ベビー服、靴、ジュエリー"
+        - option "玩具"
+        - option "ホビー"
+        - option "楽器"
+        - option "スポーツ&アウトドア"
+        - option "車＆バイク"
+        - option "DIY、工具、ガーデニング"
+        - option "大型家電"
+        - option "クレジットカード"
+        - option "ギフトカード"
+        - option "産業・研究開発用品"
+        - option "Amazonアウトレット"
+        - option "マルキョウ"
+        - option "Amazon Haul"
+        - option "Amazonインターナショナルダイレクト"
+      - searchbox "Amazon.co.jpを検索"
+      - generic "検索":
+        - button "検索"
+    - link "Amazon日本でのショッピングに使用する言語を選択します。現在の選択は日本語(JP)です。":
+      - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+      - img "日本"
+      - generic: JP
+    - link "清水翔平さん アカウント＆リスト":
+      - /url: https://www.amazon.co.jp/gp/css/homepage.html?ref_=nav_youraccount_btn
+      - generic: 清水翔平さん
+      - generic: アカウント＆リスト
+    - button "アカウントと購入品リストを展開"
+    - link "返品もこちら 注文履歴":
+      - /url: /gp/css/order-history?ref_=nav_orders_first
+      - generic: 返品もこちら
+      - generic: 注文履歴
+    - link "カート内の商品数：0":
+      - /url: /gp/cart/view.html?ref_=nav_cart
+      - generic: "0"
+      - generic: カート
+    - button "すべてのカテゴリーメニューを開く":
+      - generic: すべて
+    - button "Open Rufus panel":
+      - generic: Rufus
+    - list:
+      - link "Amazonポイント":
+        - /url: /Amazon%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/b/?ie=UTF8&node=2632478051&ref_=nav_cs_jppoints_rec
+      - link "ヘルプ":
+        - /url: /%E3%83%98%E3%83%AB%E3%83%97/b/?ie=UTF8&node=642938&ref_=nav_cs_help_wt_t2
+      - link "ふるさと納税":
+        - /url: /fmc/furusato?ref_=nav_cs_tatsumi_discobar
+      - link "プチプラHaul":
+        - /url: /haul/store?ref_=nav_cs_hul_disb
+      - link "Prime Video":
+        - /url: /gp/video/storefront?ref_=nav_cs_prime_video
+      - link "本":
+        - /url: /%E6%9C%AC-%E6%9B%B8%E7%B1%8D-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=465392&ref_=nav_cs_books
+      - link "Kindle本":
+        - /url: /Kindle-%E3%82%AD%E3%83%B3%E3%83%89%E3%83%AB-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D/b/?ie=UTF8&node=2275256051&ref_=nav_cs_kindle_books
+      - link "ランキング":
+        - /url: /ranking?type=top-sellers&ref_=nav_cs_bestsellers
+      - link "タイムセール":
+        - /url: /gp/goldbox?ref_=nav_cs_gb
+      - link "クーポン":
+        - /url: /coupons?ref_=nav_cs_coupons
+      - link "Amazon Basics":
+        - /url: /amazon_basic?ref_=nav_cs_amazonbasics
+      - link "定期おトク便":
+        - /url: /auto-deliveries?ref_=nav_cs_sns
+      - link "マルキョウ":
+        - /url: /alm/storefront?almBrandId=qg6iObTGYS&ref_=nav_cs_maruk
+      - link "食品＆飲料":
+        - /url: /%E9%A3%9F%E5%93%81-%E9%A3%B2%E6%96%99-%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84-%E3%81%8A%E8%8F%93%E5%AD%90-%E9%85%92/b/?ie=UTF8&node=57239051&ref_=nav_cs_grocery
+      - link "閲覧履歴":
+        - /url: /gp/history?ref_=nav_cs_timeline
+      - button "閲覧履歴詳細"
+      - link "ギフトカード":
+        - /url: /%E3%82%AE%E3%83%95%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/b/?ie=UTF8&node=2351652051&ref_=nav_cs_gc
+      - button "ギフトカード詳細"
+      - link "再び購入":
+        - /url: /gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again
+      - link "ショッピングを続ける":
+        - /url: /hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db
+      - link "Amazonビジネス":
+        - /url: /business/register/org/landing?ref_=nav_cs_business_flyout
+      - button "Amazonビジネス詳細"
+      - link "ミュージック":
+        - /url: /music/player?ref_=nav_cs_music
+      - link "プライム":
+        - /url: /prime?ref_=nav_cs_primelink_member
+      - button "プライム詳細"
+      - link "新着商品":
+        - /url: /ranking?type=new-releases&ref_=nav_cs_newreleases
+      - link "パソコン・周辺機器":
+        - /url: /PC%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2127209051&ref_=nav_cs_pc
+      - link "DIY・工具":
+        - /url: /DIY%E3%83%BB%E5%B7%A5%E5%85%B7-%E5%A4%A7%E5%B7%A5%E9%81%93%E5%85%B7-%E4%BD%9C%E6%A5%AD%E7%94%A8%E5%93%81%E3%83%BB%E5%AE%89%E5%85%A8%E7%94%A8%E5%93%81-%E9%9B%BB%E5%8B%95%E3%83%BB%E4%BD%9C%E6%A5%AD%E5%B7%A5%E5%85%B7-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2/b/?ie=UTF8&node=2016929051&ref_=nav_cs_hi
+      - link "ベビー&マタニティ":
+        - /url: /%E3%83%99%E3%83%93%E3%83%BC%E7%94%A8%E5%93%81-%E9%80%9A%E8%B2%A9-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E4%BA%BA%E6%B0%97-%E3%82%BB%E3%83%BC%E3%83%AB/b/?ie=UTF8&node=344845011&ref_=nav_cs_baby
+      - link "おもちゃ&ホビー":
+        - /url: /%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=13299531&ref_=nav_cs_toys
+      - link "Amazonファッション":
+        - /url: /%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/b/?ie=UTF8&node=2229202051&ref_=nav_cs_fashion
+      - link "ホーム&キッチン":
+        - /url: /%E3%83%9B%E3%83%BC%E3%83%A0-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%B6%88%E8%80%97%E5%93%81%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E7%94%9F%E6%B4%BB%E9%9B%91%E8%B2%A8/b/?ie=UTF8&node=3828871&ref_=nav_cs_home_kitchen
+      - link "ペットフード・ペット用品":
+        - /url: /%E3%83%9A%E3%83%83%E3%83%88%E3%83%95%E3%83%BC%E3%83%89-%E3%83%9A%E3%83%83%E3%83%88%E7%94%A8%E5%93%81/b/?ie=UTF8&node=2127212051&ref_=nav_cs_pets
+      - link "エクスプレスマート":
+        - /url: /gp/browse.html?node=203868164051&ref_=nav_cs_EE
+    - link "それ、アレクサにまかせよう":
+      - /url: /b/?_encoding=UTF8&node=213348487051&ref=ods_swm_AuCC&ref_=nav_swm_adbl_swm_bau&pf_rd_p=b7b2ed11-7bb8-4506-9a6c-d866a5b94744&pf_rd_s=nav-sitewide-msg&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A1VC38T7YXB528&pf_rd_r=PRV4DW4F7HH3QFRV9X7E
+      - img "それ、アレクサにまかせよう"
+    - link "家電・カメラ・AV機器":
+      - /url: /%E5%AE%B6%E9%9B%BB-%E3%82%AB%E3%83%A1%E3%83%A9-AV%E6%A9%9F%E5%99%A8-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E6%A9%9F%E5%99%A8/b/?ie=UTF8&node=3210981&ref_=topnav_storetab_e
+    - link "家電":
+      - /url: /%E7%94%9F%E6%B4%BB%E5%AE%B6%E9%9B%BB/b/?ie=UTF8&node=124048011&ref_=sv_e_1
+    - link "カメラ":
+      - /url: /%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9-%E3%83%93%E3%83%87%E3%82%AA-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E4%B8%80%E7%9C%BC%E3%83%AC%E3%83%95-%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AC%E3%82%B9%E4%B8%80%E7%9C%BC/b/?ie=UTF8&node=16462091&ref_=sv_e_2
+    - link "携帯電話・スマホ":
+      - /url: /%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3-%E3%82%B9%E3%83%9E%E3%83%9B/b/?ie=UTF8&node=128187011&ref_=sv_e_3
+    - link "テレビ・レコーダー":
+      - /url: /%E3%83%86%E3%83%AC%E3%83%93%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC-%E3%83%96%E3%83%AB%E3%83%BC%E3%83%AC%E3%82%A4-DVD-%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC/b/?ie=UTF8&node=3477381&ref_=sv_e_4
+    - link "オーディオ":
+      - /url: /%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA-%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC-%E3%82%A2%E3%83%B3%E3%83%97-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/b/?ie=UTF8&node=16462081&ref_=sv_e_5
+    - link "ヘッドホン":
+      - /url: /%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E3%83%BB%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3-%E3%82%AB%E3%83%8A%E3%83%AB-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%98%E3%83%83%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA/b/?ie=UTF8&node=3477981&ref_=sv_e_6
+    - link "アクセサリ":
+      - /url: /%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4/b/?ie=UTF8&node=3371421&ref_=sv_e_8
+    - link "Amazonランキング":
+      - /url: http://www.amazon.co.jp/gp/bestsellers/electronics/?ie=UTF8&ref_=sv_e_9
+    - dialog
+- heading "商品概要には、主要な商品情報が記載されています キーボードショートカット Shift + opt + D" [level=1]:
+  - button "商品概要には、主要な商品情報が記載されています":
+    - generic: 商品概要には、主要な商品情報が記載されています
+  - separator
+  - text: キーボードショートカット
+  - generic: Shift + opt + D
+- main:
+  - link "Amazonふるさと納税":
+    - /url: https://www.amazon.co.jp/fmc/furusato/?_encoding=UTF8&ref_=tatsu_ilm_gls&pd_rd_w=mVo0X&content-id=amzn1.sym.32b3378e-86b6-4213-a339-eeb3049b3dbd&pf_rd_p=32b3378e-86b6-4213-a339-eeb3049b3dbd&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=mYkAI&pd_rd_r=ab63e62b-4bbd-4eca-b22d-ba4fcd1ae44f
+    - img "Amazonふるさと納税"
+  - list:
+    - link "家電＆カメラ":
+      - /url: /%E5%AE%B6%E9%9B%BB-%E3%82%AB%E3%83%A1%E3%83%A9-AV%E6%A9%9F%E5%99%A8-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E6%A9%9F%E5%99%A8/b/ref=dp_bc_1?ie=UTF8&node=3210981
+    - listitem: ›
+    - link "携帯電話・スマートフォン":
+      - /url: /%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3-%E3%82%B9%E3%83%9E%E3%83%9B/b/ref=dp_bc_2?ie=UTF8&node=128187011
+    - listitem: ›
+    - link "携帯電話・スマートフォンアクセサリ":
+      - /url: /%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E3%83%BBIP%E3%83%95%E3%82%A9%E3%83%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA-%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E3%83%BBIP%E3%83%95%E3%82%A9%E3%83%B3-%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC%E5%88%A5/b/ref=dp_bc_3?ie=UTF8&node=128189011
+    - listitem: ›
+    - link "充電器・チャージャー":
+      - /url: /%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E5%85%85%E9%9B%BB%E5%99%A8-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E5%85%85%E9%9B%BB%E5%99%A8-%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E3%83%BB%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA/b/ref=dp_bc_4?ie=UTF8&node=128191011
+    - listitem: ›
+    - link "AC式充電器":
+      - /url: /%E5%85%85%E9%9B%BB%E5%99%A8%E3%83%BB%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC-AC%E5%BC%8F%E5%85%85%E9%9B%BB%E5%99%A8-%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E3%83%BB%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA/b/ref=dp_bc_5?ie=UTF8&node=2146170051
+  - generic: ￥6,589
+  - generic: ￥6,589
+  - text: 税込
+  - text: "ポイント: 2306pt (35%)"
+  - link "詳細はこちら":
+    - /url: /gp/help/customer/display.html?nodeId=200041560&pop-up=1
+  - img "prime"
+  - text: 本日
+  - text: 無料配送
+  - text: 本日
+  - generic: 17:00 - 20:59の間
+  - text: にお届け （3 時間 51 分以内にご注文の場合）
+  - link "配送料と配送方法の詳細":
+    - /url: /gp/help/customer/display.html?nodeId=201911210
+    - text: 詳細を見る
+  - button "清水 翔平 - 812-0893‌ にお届け":
+    - generic: 清水 翔平 - 812-0893‌ にお届け
+  - text: 在庫あり。
+  - link "在庫状況":
+    - /url: /gp/help/customer/display.html?&nodeId=201910280
+  - text: について
+  - generic: "数量:"
+  - combobox "数量:":
+    - option "1" [selected]
+    - option "2"
+    - option "3"
+    - option "4"
+    - option "5"
+    - option "6"
+    - option "7"
+    - option "8"
+    - option "9"
+    - option "10"
+    - option "11"
+    - option "12"
+    - option "13"
+    - option "14"
+    - option "15"
+    - option "16"
+    - option "17"
+    - option "18"
+    - option "19"
+    - option "20"
+    - option "21"
+    - option "22"
+    - option "23"
+    - option "24"
+    - option "25"
+    - option "26"
+    - option "27"
+    - option "28"
+    - option "29"
+    - option "30"
+  - generic: 数量:1
+  - button "カートに入れる"
+  - generic: カートに入れる
+  - button "今すぐ買う"
+  - generic: 今すぐ買う
+  - group "出品者、配送、購入オプションの詳細":
+    - heading "出荷元" [level=4]:
+      - generic: 出荷元
+    - generic: Amazon
+    - heading "販売元" [level=4]:
+      - generic: 販売元
+    - link "株式会社CIO":
+      - /url: /gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3SH5YQPQNRLHA&asin=B0D53VJJ7F&ref_=dp_merchant_link&isAmazonFulfilled=1
+    - generic: （8036件の評価）
+    - heading "ギフトオプション" [level=4]:
+      - generic: ギフトオプション
+    - button "レジで利用可能":
+      - generic: レジで利用可能
+    - heading "カスタマーサービス" [level=4]:
+      - generic: カスタマーサービス
+    - button "Amazon":
+      - generic: Amazon
+  - button "すべて見る": すべて見る
+  - separator
+  - button "リストに追加"
+  - generic: リストに追加
+  - button "ドロップダウンからリストを選択する"
+  - generic: Amazonの他の出品者
+  - separator
+  - button "新品 (5)件の出品： ￥5,590 prime 無料翌日配達":
+    - text: 新品 (5)件の出品：
+    - generic: ￥5,590
+    - generic: ￥5,590
+    - img "prime"
+    - text: 無料翌日配達
+  - button "シェアする":
+    - button "シェアする"
+  - button "ハートをクリックして、商品をリストに保存します":
+    - img "ハートをクリックして、商品をリストに保存します"
+  - radiogroup "画像サムネイル":
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image, 6+ その他の画像が対応可能 6+":
+      - img "Product Image, 6+ その他の画像が対応可能"
+      - generic: 6+
+    - radio "Product Video":
+      - img "Product Video"
+    - generic: 2 ビデオ
+  - list
+  - list:
+    - button "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分":
+      - img "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分"
+  - link "クリックしてフルビューを表示する":
+    - /url: "#"
+  - text:           
+  - heading "Rufusに尋ねる" [level=5]:
+    - text: Rufusに尋ねる
+  - list:
+    - button "ノートパソコンの充電に適していますか？":
+      - generic: ノートパソコンの充電に適していますか？
+    - button "この充電器は旅行に便利ですか？":
+      - generic: この充電器は旅行に便利ですか？
+    - button "どのデバイスに対応していますか？":
+      - generic: どのデバイスに対応していますか？
+    - button "他のことを聞いてください":
+      - generic: 他のことを聞いてください
+  - button
+  - heading "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）" [level=1]
+  - generic: ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分
+  - link "CIOのストアを表示":
+    - /url: /stores/CIO/page/F6313E8D-EBBD-4B75-9033-4D89951F1D23?lp_asin=B0D53VJJ7F&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto
+  - generic "5つ星のうち4.3":
+    - button "5つ星のうち4.3":
+      - text: "4.3"
+      - generic: 5つ星のうち4.3
+  - link "1,652 レビュー":
+    - /url: "#averageCustomerReviewsAnchor"
+    - text: (1,652)
+  - text: "|"
+  - link "このページを検索":
+    - /url: "#"
+  - generic: 過去1か月で500点以上購入されました
+  - separator
+  - generic: ￥6,589
+  - generic: ￥6,589
+  - text: 税込
+  - link "価格履歴":
+    - /url: "#"
+  - link "あと払い (ペイディ)で毎月のお買い物金額から最大5%ポイント還元 今すぐエントリー":
+    - /url: /gp/cobrandcard/redirect.html?sigauth=IRS_CUSTOM&signature=C7319B7FC3D1F9C8863BF15260A36DF9C2D0D9870ACD391DF51E125E29B2BDB8&location=%2Fb%3Fnode%3D8215625051%26RU%3D%252Fdp%252Fproduct%252FB0D53VJJ7F&imp=9500d495-c177-4fe8-95f9-407024a8f59e&mru=%2Fdp%2Fproduct%2FB0D53VJJ7F
+    - text: あと払い (ペイディ)で毎月のお買い物金額から最大5%ポイント還元
+    - strong: 今すぐエントリー
+  - img "prime"
+  - text: 本日
+  - text: "ポイント: 2306pt (35%)"
+  - link "詳細はこちら":
+    - /url: /gp/help/customer/display.html?nodeId=200041560&pop-up=1
+  - table
+  - generic: ダブルポイント
+  - link "詳細":
+    - /url: "#"
+  - button "dアカウント連携者限定" [disabled]
+  - generic: dアカウント連携者限定
+  - text: "[プライム感謝祭] dポイントを使うと最大10万ポイントが当たる"
+  - link "エントリーをする":
+    - /url: /b/?node=221362476051&ref_=jp_d_bbrlp_dpbadge_baseoffer_pas26&source=dp_cxcw
+  - button "入会キャンペーン" [disabled]
+  - generic: 入会キャンペーン
+  - text: Amazon Mastercard 新規入会 + 初回利用で4,000ポイント
+  - link "今すぐ申し込む >":
+    - /url: /dp/B08P4CFBK6?ref_=cbcc_jp_202610_janus_pas26&source=dp_cxcw
+  - paragraph:
+    - text: お仕事用のショッピングですか? Amazonビジネスのご注文で、最大¥9000までの30%割引が適用されます。
+    - link "無料のビジネスアカウントにご登録ください。":
+      - /url: /ab/incentives/reg/nt?campaignId=2f6984ec-01a5-40eb-8494-966d479d7b3f&ABevent=PBDD26&ref=ab_reg_inct_onsite_oth_dpx&returnToUrl=%2Fdp%2FB0D53VJJ7F%3FregistrationStatus%3DREGISTERED&client=abupsell
+  - button "Amazonによる発送"
+  - button "日本の中小企業"
+  - button "安心・安全への取り組み"
+  - button "お客様情報の保護"
+  - link "他の出品者":
+    - /url: /gp/offer-listing/B0D53VJJ7F/ref=dp_olp_pn
+  - text: ではより安い価格がありますが、無料のプライム配送が適用されない可能性があります。
+  - generic: "色: ブラック"
+  - list:
+    - rowgroup:
+      - listitem: ブランド CIO
+      - listitem: コネクタタイプ USB Type A, USB Type C
+      - listitem: 対応デバイス スマートウォッチ, スマートフォン, タブレット, ノートパソコン, モバイルバッテリー
+      - text: 対応電話モデル
+      - generic: Galaxy Zシリーズ / S25 / S24 / S23 / S22 / S21 / S20 / S10 / S10+ / S9 / S9+ / S8 / S8+ / Note 8 / Note 7 などのAndroidスマホ, MacBook Air 13インチ / MacBook 12インチ / MacBook Pro 13インチ / MacBook Pro 15インチ / Fujitsu Lifebook UH95 / Let's note SV7 CF-SV7RDAVS 他, iPhone17 / iPhone17 Pro / iPhone17 Pro Max / iPhone Air / iPhone 16 / 16 Plus / 16 Pro / 16 Pro Max / iPhone 15 / 15 Plus / 15 Pro / 15 Pro Max / iPhone 14 / 14 Plus / 14 Pro / 14 Pro Max / iPhone 13 / 13 mini / 13 Pro / 13 Pro Max / iPhone 12 / 12 mini / 12 Pro / 12 Pro Max / 11 / 11 Pro / 11 Pro Max / SE (第2世代) / XS / XS Max / XR / X / 8 / 8 Plus 他 / iPad (第9世代) / iPad (第8世代) / iPad (第7世代) / iPad (第6世代) / iPad mini (第5世代) / iPad (第5世代) / iPad mini 4 / iPad mini 3 / iPad mini 2 / iPad mini (第1世代) / iPad Pro (12.9インチ) (第2世代) / iPad Pro (12.9インチ) (第1世代) / iPad Pro (10.5インチ) / iPad Pro (9.7インチ) / iPad Air (第3世代) / iPad Air 2 / iPad Air (第1世代) 他
+      - generic: Galaxy Zシリーズ / S25 / S24 / S23 / S22 / S21 / S20 / S10 / S10+ / S9 / S9+ / S8 / S8+ / Note 8 / Note 7 などのAndroidスマホ, MacBook Air 13インチ / MacBook 12イ…
+      - button "表示を増やす": 表示を増やす
+      - listitem: 付属コンポーネント ユーザーマニュアル
+      - listitem: 特徴 トラベル, マルチデバイス充電, 格納式プラグ, 軽量デザイン, 高速充電
+      - listitem: 色 ブラック
+      - listitem: 入力電圧 240 ボルト
+      - listitem: アンペア数 2 アンペア
+      - listitem: USBポートの総数 3
+  - button "表示を増やす": 表示を増やす
+  - separator
+  - heading "この商品について" [level=2]
+  - list:
+    - listitem: 【世界最小級 3ポート67W充電器】これまでの3ポート、USB-C単ポート最大出力65WクラスのUSB充電器、ACアダプターでは考えられないほどの小型化を実現。コンセントに挿しても他の充電器に干渉しづらいサイズで、折り畳み式のコンセントプラグだからガジェットポーチやちょっとしたポケットに収まるコンパクトさ。出張先や旅行先などのあらゆるシーン、ビジネス用途から学生の方まであらゆるユーザーにおすすめです。
+    - listitem: 【3ポート搭載】複数デバイスご利用のユーザーに便利な3ポート(Cポート２，Aポート１)搭載 。USB-C1+USB-C2+USB-Aの合計出力は最大60Wの高出力。 USB-C1+USB-C2の合計出力は最大65Wの高出力。 USB-C1+USB-Aの合計出力は最大63Wの高出力。USB-C単ポート最大出力67Wでノートパソコンへの充電にも対応！ スマートフォン(iPhoneやAndroid)からタブレット(iPad)、ノートPC(Macbook、Windows PC等)まで幅広い機器に対応しており、これ一つでご自宅でも外出先でも快適にご利用いただけます。 ※USB-C2+USB-Aの合計出力は最大15Wとなりますので、USB-C1をご利用ください。 ※詳しくは急速充電早見表（画像）をご確認ください。
+    - listitem: 【電力を最適に振り分け NovaIntelligenceを搭載】接続された端末に合わせて電力を自動で調整する独自の技術 NovaIntelligence を搭載。ポートの出力を気にしながらデバイスを繋ぐ必要がなく、同時充電時もストレスなく快適に充電が可能です。
+    - listitem: 【新技術 NovaEngine搭載】次世代半導体のGaNチップをダブルで搭載するCIOの新技術NovaEngineを採用。エネルギーのロスを減らし、変換効率の向上を実現しました。充電器本体の発熱を抑制し、充電速度と安定性を追求した充電器です。
+    - listitem: 【進化した安全保護機能 NovaSafety2.0搭載】NovaPort TRIOⅡをより安心してご使用いただけるよう、CIO独自技術としてNova Safety2.0を搭載。製品温度を常に監視し、製品高負荷時に自動的に電力調整を行います。温度管理を行うことで、より安心して長くご使用いただけることを目指しました。さらにこれまでの急速充電器にありがちだった、端末接続時に一時的に充電が止まる「瞬断」を抑制する技術も搭載。より快適なスマホ、タブレット、ノートPCの充電が実現しています。※瞬断抑制機能は急速充電規格の違いがあるため、USB-Aポートを使用した際は作動しません。
+    - listitem: 【単ポート最大67W出力！超小型3ポート充電器】 USB-C単ポート最大出力67Wでノートパソコンへの充電にも対応！ スマートフォン(iPhoneやAndroid)からタブレット(iPad)、ノートPC(Macbook、Windows PC等)まで幅広い機器に対応しており、これ一つでご自宅でも外出先でも快適にご利用いただけます。
+    - listitem: 【PPS対応】 単ポート充電時は5AのPPS出力に対応しているため、最新のGalaxy S24 Ultraでは最大45WのSuper Fast Charging 2.0(超急速充電2.0) で充電が可能です。
+  - button "表示件数を増やす": 表示件数を増やす
+  - text: ›
+  - link "もっと見る":
+    - /url: "#productDetails"
+  - separator
+  - heading "その他の詳細" [level=1]
+  - generic: 日本の中小企業
+  - text: こちらは、日本の中小企業のブランドの商品です。
+  - link "詳細はこちら":
+    - /url: "#"
+  - text: こちらは、日本の中小企業のブランドの商品です。
+  - link:
+    - /url: "#"
+    - text: 詳細はこちら
+  - link "この商品に関する問題を報告する":
+    - /url: javascript:void(0)
+  - separator
+  - link:
+    - /url: /b/ref=bm266cio?_encoding=UTF8&node=217002370051&pf_rd_p=d7905aa2-5925-42bb-af01-a23fe85d718f&pf_rd_r=PRV4DW4F7HH3QFRV9X7E
+  - generic: ミッション達成で500ポイント獲得
+  - text: CIOの第三弾は10月31日(土)まで。
+  - link "ミッション達成で500ポイント":
+    - /url: /b/ref=bm266cio?_encoding=UTF8&node=217002370051&pf_rd_p=d7905aa2-5925-42bb-af01-a23fe85d718f&pf_rd_r=PRV4DW4F7HH3QFRV9X7E
+    - text: あなたのミッション・カードはこちら
+  - separator
+  - heading "お客様が一緒に購入したCIO商品" [level=2]
+  - checkbox [checked]
+  - img "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分"
+  - generic: "対象商品: CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分"
+  - text: "4.3"
+  - generic: 5つ星のうち4.3
+  - link "1,652":
+    - /url: /product-reviews/B0D53VJJ7F/ref=sspa_dk_detail_sbb_d_sccl_3_cr/356-4692360-8533037?pd_rd_w=zT1Mh&content-id=amzn1.sym.fff558db-c45c-420d-88fc-a6d7398c8ed4&pf_rd_p=fff558db-c45c-420d-88fc-a6d7398c8ed4&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pd_rd_i=B0D53VJJ7F
+  - generic: ￥6,589
+  - generic: ￥6,589
+  - link "2306ポイント(35%)":
+    - /url: "#"
+  - checkbox [checked]
+  - generic: +
+  - link "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分":
+    - /url: /sspa/click?ie=UTF8&spc=MTo1MjIwODAyMjgyNTc4MDIyOjE3OTE2MDE3MDI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDE2Mzc0NDU5MDM2Mjo6MDo6&url=%2FCIO-NovaPort-PD%25E6%2580%25A5%25E9%2580%259F%25E5%2585%2585%25E9%259B%25BB%25E5%2599%25A8-USB-C%25C3%25972-%25E4%25B8%2596%25E7%2595%258C%25E6%259C%2580%25E5%25B0%258F%25E7%25B4%259A%25EF%25BC%2588%25E3%2583%2596%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25EF%25BC%2589%2Fdp%2FB0D53VKL36%3Fpsc%3D1%26pd_rd_w%3DzT1Mh%26content-id%3Damzn1.sym.fff558db-c45c-420d-88fc-a6d7398c8ed4%26pf_rd_p%3Dfff558db-c45c-420d-88fc-a6d7398c8ed4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26ref_%3Dsspa_dk_detail_sbb_img_0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D
+    - img "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分"
+  - button "スポンサー広告にフィードバックを残す": スポンサー
+  - link:
+    - /url: /sspa/click?ie=UTF8&spc=MTo1MjIwODAyMjgyNTc4MDIyOjE3OTE2MDE3MDI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDE2Mzc0NDU5MDM2Mjo6MDo6&url=%2FCIO-NovaPort-PD%25E6%2580%25A5%25E9%2580%259F%25E5%2585%2585%25E9%259B%25BB%25E5%2599%25A8-USB-C%25C3%25972-%25E4%25B8%2596%25E7%2595%258C%25E6%259C%2580%25E5%25B0%258F%25E7%25B4%259A%25EF%25BC%2588%25E3%2583%2596%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25EF%25BC%2589%2Fdp%2FB0D53VKL36%3Fpsc%3D1%26pd_rd_w%3DzT1Mh%26content-id%3Damzn1.sym.fff558db-c45c-420d-88fc-a6d7398c8ed4%26pf_rd_p%3Dfff558db-c45c-420d-88fc-a6d7398c8ed4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26ref_%3Dsspa_dk_detail_sbb_0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D
+    - generic: CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分
+  - text: "4.5"
+  - generic: 5つ星のうち4.5
+  - link "675":
+    - /url: /product-reviews/B0D53VKL36/ref=sspa_dk_detail_sbb_d_sccl_1_cr/356-4692360-8533037?pd_rd_w=zT1Mh&content-id=amzn1.sym.fff558db-c45c-420d-88fc-a6d7398c8ed4&pf_rd_p=fff558db-c45c-420d-88fc-a6d7398c8ed4&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pd_rd_i=B0D53VKL36
+  - generic: ￥5,480
+  - generic: ￥5,480
+  - link "1589ポイント(29%)":
+    - /url: "#"
+  - img "Amazonプライム"
+  - checkbox [checked]
+  - generic: +
+  - link "CIO SMARTCOBY Pro SLIM SS モバイルバッテリー 半固体 35W USB-C×2 USB-A×1 10000mAh (ブラック) | 薄型軽量,MacBook対応, WindowsノートPC対応, iPhone対応, 機内持ち込":
+    - /url: /sspa/click?ie=UTF8&spc=MTo1MjIwODAyMjgyNTc4MDIyOjE3OTE2MDE3MDI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDIwOTU0NDg1NTU2Mjo6MTo6&url=%2FCIO-SMARTCOBY-%25E3%2583%25A2%25E3%2583%2590%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2590%25E3%2583%2583%25E3%2583%2586%25E3%2583%25AA%25E3%2583%25BC-USB-C%25C3%25972-10000mAh%2Fdp%2FB0GMX4WKYG%3Fpsc%3D1%26pd_rd_w%3DzT1Mh%26content-id%3Damzn1.sym.fff558db-c45c-420d-88fc-a6d7398c8ed4%26pf_rd_p%3Dfff558db-c45c-420d-88fc-a6d7398c8ed4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26ref_%3Dsspa_dk_detail_sbb_img_1%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D
+    - img "CIO SMARTCOBY Pro SLIM SS モバイルバッテリー 半固体 35W USB-C×2 USB-A×1 10000mAh (ブラック) | 薄型軽量,MacBook対応, WindowsノートPC対応, iPhone対応, 機内持ち込"
+  - button "スポンサー広告にフィードバックを残す": スポンサー
+  - link:
+    - /url: /sspa/click?ie=UTF8&spc=MTo1MjIwODAyMjgyNTc4MDIyOjE3OTE2MDE3MDI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDIwOTU0NDg1NTU2Mjo6MTo6&url=%2FCIO-SMARTCOBY-%25E3%2583%25A2%25E3%2583%2590%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2590%25E3%2583%2583%25E3%2583%2586%25E3%2583%25AA%25E3%2583%25BC-USB-C%25C3%25972-10000mAh%2Fdp%2FB0GMX4WKYG%3Fpsc%3D1%26pd_rd_w%3DzT1Mh%26content-id%3Damzn1.sym.fff558db-c45c-420d-88fc-a6d7398c8ed4%26pf_rd_p%3Dfff558db-c45c-420d-88fc-a6d7398c8ed4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26ref_%3Dsspa_dk_detail_sbb_1%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D
+    - generic: CIO SMARTCOBY Pro SLIM SS モバイルバッテリー 半固体 35W USB-C×2 USB-A×1 10000mAh (ブラック) | 薄型軽量,MacBook対応, WindowsノートPC対応, iPhone対応, 機内持ち込み, パススルー充電対応
+  - text: "4.5"
+  - generic: 5つ星のうち4.5
+  - link "344":
+    - /url: /product-reviews/B0GMX4WKYG/ref=sspa_dk_detail_sbb_d_sccl_2_cr/356-4692360-8533037?pd_rd_w=zT1Mh&content-id=amzn1.sym.fff558db-c45c-420d-88fc-a6d7398c8ed4&pf_rd_p=fff558db-c45c-420d-88fc-a6d7398c8ed4&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pd_rd_i=B0GMX4WKYG
+  - generic: ￥6,280
+  - generic: ￥6,280
+  - link "879ポイント(14%)":
+    - /url: "#"
+  - img "Amazonプライム"
+  - generic: 総額:￥18,349
+  - generic: "ポイントの合計: 4774pt"
+  - button "3をすべてカートに追加する, CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分"
+  - generic: 3をすべてカートに追加する
+  - separator
+  - region "この商品に関連する商品":
+    - heading "この商品に関連する商品" [level=2]
+    - link "スポンサー":
+      - /url: "#sp_detail_feedbackForm"
+      - text: スポンサー
+    - list:
+      - link "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2Mzc0NDU5MDM2Mjo6Ojo&url=%2Fdp%2FB0D53VKL36%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0D53VKL36%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラッ…
+      - link "星5つのうち4.5 675件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2Mzc0NDU5MDM2Mjo6Ojo&url=%2Fdp%2FB0D53VKL36%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0D53VKL36%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: "675"
+      - link "￥5,480":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2Mzc0NDU5MDM2Mjo6Ojo&url=%2Fdp%2FB0D53VKL36%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0D53VKL36%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ￥5,480
+        - generic: ￥5,480
+      - link "Prime 本日 無料配送 本日 17:00 - 20:59の間にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2Mzc0NDU5MDM2Mjo6Ojo&url=%2Fdp%2FB0D53VKL36%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0D53VKL36%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 本日
+        - generic: 無料配送 本日 17:00 - 20:59の間にお届け
+      - generic: 1589ポイント(29%)
+      - link "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワイト) | iPhone対応, Android対応, MacBook対応, iPad対応, 電力を自動最適配分":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2MzE5ODY3NzQ2Mjo6Ojo&url=%2Fdp%2FB0D53YVF2F%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0D53YVF2F%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワ…
+      - link "星5つのうち4.2 898件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2MzE5ODY3NzQ2Mjo6Ojo&url=%2Fdp%2FB0D53YVF2F%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0D53YVF2F%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: "898"
+      - link "￥6,688":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2MzE5ODY3NzQ2Mjo6Ojo&url=%2Fdp%2FB0D53YVF2F%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0D53YVF2F%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ￥6,688
+        - generic: ￥6,688
+      - link "Prime 本日 無料配送 本日 17:00 - 20:59の間にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2MzE5ODY3NzQ2Mjo6Ojo&url=%2Fdp%2FB0D53YVF2F%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0D53YVF2F%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 本日
+        - generic: 無料配送 本日 17:00 - 20:59の間にお届け
+      - generic: 2408ポイント(36%)
+      - link "CIO NovaPort QUADⅡ 65W 3C1A PD急速充電器 USB-C×3 USB-A×1 4台同時充電 軽量 世界最小級 (ブラック) | iPhone対応, Android対応, MacBook対応, iPad対応, 電力を自動最適配分":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2MzQxODE0NTA2Mjo6Ojo&url=%2Fdp%2FB0D53XL7GL%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0D53XL7GL%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: CIO NovaPort QUADⅡ 65W 3C1A PD急速充電器 USB-C×3 USB-A×1 4台同時充電 軽量 ...
+      - link "星5つのうち4.2 593件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2MzQxODE0NTA2Mjo6Ojo&url=%2Fdp%2FB0D53XL7GL%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0D53XL7GL%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: "593"
+      - link "￥6,900":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2MzQxODE0NTA2Mjo6Ojo&url=%2Fdp%2FB0D53XL7GL%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0D53XL7GL%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ￥6,900
+        - generic: ￥6,900
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE2MzQxODE0NTA2Mjo6Ojo&url=%2Fdp%2FB0D53XL7GL%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0D53XL7GL%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 2415ポイント(35%)
+      - link "Anker Nano II 65W | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI4NTk5OTA3OTY2Mjo6Ojo&url=%2Fdp%2FB08X11GD52%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB08X11GD52%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: Anker Nano II 65W | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/P...
+      - link "星5つのうち4.6 18,073件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI4NTk5OTA3OTY2Mjo6Ojo&url=%2Fdp%2FB08X11GD52%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB08X11GD52%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: 18,073
+      - link "Amazon おすすめ":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI4NTk5OTA3OTY2Mjo6Ojo&url=%2Fdp%2FB08X11GD52%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB08X11GD52%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: Amazon おすすめ
+      - 'link "-31% ￥3,090 参考: ￥4,490 参考: null"':
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI4NTk5OTA3OTY2Mjo6Ojo&url=%2Fdp%2FB08X11GD52%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB08X11GD52%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - text: "-31%"
+        - generic: ￥3,090
+        - generic: ￥3,090
+        - generic: "参考: ￥4,490"
+        - text: "参考:"
+        - generic: "null"
+        - text: ￥4,490
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI4NTk5OTA3OTY2Mjo6Ojo&url=%2Fdp%2FB08X11GD52%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB08X11GD52%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 31ポイント(1%)
+      - link "CIO NovaPort QUADⅡ 100W PD急速充電器 USB-C×3+USB-A×1 4台同時充電 世界最小級 （ブラック） | ノートPC対応, iPhone対応, iPad対応, Android対応, 電力を自動最適配分":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE0OTkyNDM2OTg2Mjo6Ojo&url=%2Fdp%2FB0DK7983YZ%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DK7983YZ%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: CIO NovaPort QUADⅡ 100W PD急速充電器 USB-C×3+USB-A×1 4台同時充電 世界最小級…
+      - link "星5つのうち4.4 176件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE0OTkyNDM2OTg2Mjo6Ojo&url=%2Fdp%2FB0DK7983YZ%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DK7983YZ%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: "176"
+      - link "￥9,990":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE0OTkyNDM2OTg2Mjo6Ojo&url=%2Fdp%2FB0DK7983YZ%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DK7983YZ%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ￥9,990
+        - generic: ￥9,990
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDE0OTkyNDM2OTg2Mjo6Ojo&url=%2Fdp%2FB0DK7983YZ%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DK7983YZ%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 1598ポイント(16%)
+      - link "Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電対応。USB-C3ポートとUSB-A1ポートを搭載しPCとスマホをまとめて充電。MacBook Pro MacBook Air iPhone iPad Galaxy対応 PSE技術基準適合":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI5NDg5OTU1NDY2Mjo6Ojo&url=%2Fdp%2FB0FL1S48XY%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FL1S48XY%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: Anker Zolo Charger (70W, 4 Ports) ブラック | 70W USB-C急速充電器 4台同時充電...
+      - link "星5つのうち4.5 278件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI5NDg5OTU1NDY2Mjo6Ojo&url=%2Fdp%2FB0FL1S48XY%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FL1S48XY%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: "278"
+      - link "ベストセラー1位":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI5NDg5OTU1NDY2Mjo6Ojo&url=%2Fdp%2FB0FL1S48XY%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FL1S48XY%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ベストセラー1位
+      - 'link "-39% ￥3,990 参考: ￥6,490 参考: null"':
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI5NDg5OTU1NDY2Mjo6Ojo&url=%2Fdp%2FB0FL1S48XY%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FL1S48XY%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - text: "-39%"
+        - generic: ￥3,990
+        - generic: ￥3,990
+        - generic: "参考: ￥6,490"
+        - text: "参考:"
+        - generic: "null"
+        - text: ￥6,490
+      - link "Prime 本日 無料配送 本日 17:00 - 20:59の間にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI5NDg5OTU1NDY2Mjo6Ojo&url=%2Fdp%2FB0FL1S48XY%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FL1S48XY%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 本日
+        - generic: 無料配送 本日 17:00 - 20:59の間にお届け
+      - generic: 40ポイント(1%)
+      - link "Anker Zolo Charger (50W, 4 Ports) ブラック | 充電器 / 50W / Type-C【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Windows PC iPad Galaxy Android スマートフォン":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI0NjAyODA4MTQ2Mjo6Ojo&url=%2Fdp%2FB0FWJK8GV9%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0FWJK8GV9%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: Anker Zolo Charger (50W, 4 Ports) ブラック | 充電器 / 50W / Type-C【 P...
+      - link "星5つのうち4.5 467件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI0NjAyODA4MTQ2Mjo6Ojo&url=%2Fdp%2FB0FWJK8GV9%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0FWJK8GV9%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: "467"
+      - link "￥2,990":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI0NjAyODA4MTQ2Mjo6Ojo&url=%2Fdp%2FB0FWJK8GV9%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0FWJK8GV9%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ￥2,990
+        - generic: ￥2,990
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo4MzM4NDY1NzQ5ODI2NjY3OjE3OTE2MDE3MDI6c3BfZGV0YWlsOjMwMDI0NjAyODA4MTQ2Mjo6Ojo&url=%2Fdp%2FB0FWJK8GV9%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0FWJK8GV9%26pd_rd_w%3D4L9hA%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 30ポイント(1%)
+  - link "amazonらくらくベビー":
+    - /url: /baby-reg?_encoding=UTF8&ref_=cct_cg_brdpacq_1a1&pf_rd_p=d50a7b52-f8a6-4498-a413-1750954e374d&pf_rd_r=PRV4DW4F7HH3QFRV9X7E
+    - img "amazonらくらくベビー"
+  - separator
+  - heading "ルーファスAI 特定の情報をお探しですか?" [level=3]:
+    - generic: ルーファスAI
+    - text: 特定の情報をお探しですか?
+  - textbox "特定の情報をお探しですか?":
+    - /placeholder: ルーファスに質問するか、レビューやQ＆Aを検索してください
+  - button "送信":
+    - img "送信"
+  - list:
+    - button "ノートパソコンの充電に適していますか？"
+    - generic: ノートパソコンの充電に適していますか？
+    - button "この充電器は旅行に便利ですか？"
+    - generic: この充電器は旅行に便利ですか？
+    - button "どのデバイスに対応していますか？"
+    - generic: どのデバイスに対応していますか？
+    - button "この充電器はコンパクトですか？"
+    - generic: この充電器はコンパクトですか？
+    - button "充電速度は速いですか？"
+    - generic: 充電速度は速いですか？
+  - separator
+  - heading "商品の説明" [level=2]
+  - img "NovaPort TRIOⅡ 67W 2C1A（ホワイト）"
+  - img "NovaPort TRIOⅡ 67W 2C1A（ブラック）"
+  - img "NovaPort TRIOⅡ 67W 2C1A（ブラック）"
+  - img "NovaPort TRIOⅡ 67W 2C1A（ブラック）"
+  - list:
+    - heading "Q 充電器の表面が熱いです。故障でしょうか？ クリックして質問と回答ブロックを開いたり閉じたりします" [level=3]:
+      - button "Q 充電器の表面が熱いです。故障でしょうか？ クリックして質問と回答ブロックを開いたり閉じたりします":
+        - paragraph: Q 充電器の表面が熱いです。故障でしょうか？
+        - generic "クリックして質問と回答ブロックを開いたり閉じたりします"
+    - heading "Q 複数のデバイスを充電した際、充電開始音が何度か鳴ったり、充電開始の通知が複数回表示されたりします。異常でしょうか？ クリックして質問と回答ブロックを開いたり閉じたりします" [level=3]:
+      - button "Q 複数のデバイスを充電した際、充電開始音が何度か鳴ったり、充電開始の通知が複数回表示されたりします。異常でしょうか？ クリックして質問と回答ブロックを開いたり閉じたりします":
+        - paragraph: Q 複数のデバイスを充電した際、充電開始音が何度か鳴ったり、充電開始の通知が複数回表示されたりします。異常でしょうか？
+        - generic "クリックして質問と回答ブロックを開いたり閉じたりします"
+    - heading "Q 複数のデバイスを接続した際、充電が一瞬止まることがあります。異常でしょうか？ クリックして質問と回答ブロックを開いたり閉じたりします" [level=3]:
+      - button "Q 複数のデバイスを接続した際、充電が一瞬止まることがあります。異常でしょうか？ クリックして質問と回答ブロックを開いたり閉じたりします":
+        - paragraph: Q 複数のデバイスを接続した際、充電が一瞬止まることがあります。異常でしょうか？
+        - generic "クリックして質問と回答ブロックを開いたり閉じたりします"
+    - heading "Q 複数ポートで充電すると充電が遅くなるのですが、異常でしょうか？ クリックして質問と回答ブロックを開いたり閉じたりします" [level=3]:
+      - button "Q 複数ポートで充電すると充電が遅くなるのですが、異常でしょうか？ クリックして質問と回答ブロックを開いたり閉じたりします":
+        - paragraph: Q 複数ポートで充電すると充電が遅くなるのですが、異常でしょうか？
+        - generic "クリックして質問と回答ブロックを開いたり閉じたりします"
+    - heading "Q 最大出力67Wとありますが、私のスマートフォンでは67Wで充電されません。 クリックして質問と回答ブロックを開いたり閉じたりします" [level=3]:
+      - button "Q 最大出力67Wとありますが、私のスマートフォンでは67Wで充電されません。 クリックして質問と回答ブロックを開いたり閉じたりします":
+        - paragraph: Q 最大出力67Wとありますが、私のスマートフォンでは67Wで充電されません。
+        - generic "クリックして質問と回答ブロックを開いたり閉じたりします"
+  - navigation:
+    - navigation "Navigate within the product detail page":
+      - navigation "Back to top jump link":
+        - generic: トップへ
+      - navigation "About this item widget jump link":
+        - generic: この商品について
+      - navigation "Similar widget jump link":
+        - generic: 類似商品
+      - navigation "Questions widget jump link":
+        - generic: 質問
+      - navigation "From the brand widget jump link":
+        - generic: このブランドから
+      - navigation "Product information widget jump link":
+        - generic: 商品情報
+      - navigation "Customer reviews widget jump link":
+        - generic: レビュー
+    - navigation "Back to top Image jump link":
+      - img "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）"
+    - navigation "Back to top title jump link":
+      - generic: CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）
+  - separator
+  - heading "商品情報" [level=1]
+  - button "機能と仕様":
+    - heading "機能と仕様" [level=5]
+  - button "その他の詳細":
+    - heading "その他の詳細" [level=5]
+  - heading "保証とサポート" [level=3]
+  - text: "返品:"
+  - text: Amazon.co.jpで購入した商品について、原則として未開封・未使用のものに限り商品到着後30日以内の返品を受け付けます（
+  - link "返品および交換不可の商品":
+    - /url: /gp/help/customer/display.html?nodeId=3494131
+  - text: を除く）。商品到着後は速やかに商品の状態をご確認ください。初期不良の商品については、お客様からのお問い合わせ内容に応じて返品期間を過ぎてからでも受け付ける場合があります。なお、返品条件は、Amazon.co.jpが発送する商品と、Amazonマーケットプレイス出品者が発送する場合で異なります。家電&カメラの返品について、くわしくは
+  - link "こちら":
+    - /url: /gp/help/customer/display.html/?ie=UTF8&nodeId=3494131
+  - text: 。
+  - heading "ご意見ご要望" [level=3]
+  - button "さらに安い価格について知らせる?": さらに安い価格について知らせる?
+  - button "商品詳細":
+    - heading "商品詳細" [level=5]
+  - button "サイズ":
+    - heading "サイズ" [level=5]
+  - separator
+  - heading "ブランド紹介" [level=2]
+  - heading "CIOが挑戦すること" [level=3]
+  - paragraph: 単なるモノの提供ではなく、多機能性と新しいテクノロジーを組み合わせること、こんなに便利でわくわくするんだ！ということをCIO製品を通じて体感いただきたい。そんな思いから「多機能と新しいテクノロジーでわくわくする未来を届ける」をコンセプトととし、日々尽力しています。
+  - region "おすすめコンテンツカルーセル":
+    - list:
+      - heading "小さいことへのこだわり" [level=3]
+      - paragraph: ガジェットは毎日使うもの。持ち運びしても自宅・オフィスで使っても、小さいことは使いやすさに直結します。CIO製品は常にコンパクトさを目指して設計をしています。
+      - heading "CIOのコンセプトに大きく共感いただきました" [level=3]
+      - paragraph: CIOはクラウドファンディングにも挑戦し、「これがまさにが欲しかったんだ」という製品作りを目標に日々奮闘しています。2022年に実施したプロジェクト「NovaPort DUO」は8263人の方に支援いただき、製品化しました。
+      - list:
+        - link "CIO モバイルバッテリー PD Type-C 30W 薄型 軽量 [薄さ16mm] 10000mAh 3ポート iPhone 15/ Android/Macbook/ノートPC/iPad用 U...":
+          - /url: /dp/B0CHVZHLZ1/ref=emc_bcc_2_i
+          - img "CIO モバイルバッテリー PD Type-C 30W 薄型 軽量 [薄さ16mm] 10000mAh 3ポート iPhone 15/ Android/Macbook/ノートPC/iPad用 U..."
+        - link "CIO モバイルバッテリー 100W ケーブル内蔵 大容量 20000mAh [脱着式ケーブル] PD 高出力 CIO独自技術 NovaIntelligence NovaSafety2.0搭載 ...":
+          - /url: /dp/B0F8V6K58S/ref=emc_bcc_2_i
+          - img "CIO モバイルバッテリー 100W ケーブル内蔵 大容量 20000mAh [脱着式ケーブル] PD 高出力 CIO独自技術 NovaIntelligence NovaSafety2.0搭載 ..."
+        - link "CIO SMARTCOBY TRIO 20000ｍAh 65W モバイルバッテリー 大容量 小型 急速充電 PD 3ポート iPhone 17 / 16 / 15 / Android/Macbo...":
+          - /url: /dp/B0DM8PKN5L/ref=emc_bcc_2_i
+          - img "CIO SMARTCOBY TRIO 20000ｍAh 65W モバイルバッテリー 大容量 小型 急速充電 PD 3ポート iPhone 17 / 16 / 15 / Android/Macbo..."
+        - link "CIO Qi2モバイルバッテリー 超薄型 [薄さ約12mm] MagSafe対応 8000mAh [スマホ1回分] 軽量 [約162g] ワイヤレス充電 マグネット モード切替 小型 タイプC ...":
+          - /url: /dp/B0FPLP95D3/ref=emc_bcc_2_i
+          - img "CIO Qi2モバイルバッテリー 超薄型 [薄さ約12mm] MagSafe対応 8000mAh [スマホ1回分] 軽量 [約162g] ワイヤレス充電 マグネット モード切替 小型 タイプC ..."
+      - heading "SMARTCOBYシリーズ" [level=3]
+      - paragraph:
+        - link "CIOのストアを表示":
+          - /url: /stores/page/B0339F58-AE29-4F26-8184-B4681651E629?store_ref=storeRecs_dp_aplus
+          - text: ストアにアクセス
+      - list:
+        - link "CIO Qi2 MagSafe対応 5000mAh 発熱抑制優先 モバイルバッテリー 超薄型 [薄さ8.7mm] マグネット ワイヤレス充電 軽量 小型 USB-C PD 20W iPhone ...":
+          - /url: /dp/B0FQJ1LWCQ/ref=emc_bcc_2_i
+          - img "CIO Qi2 MagSafe対応 5000mAh 発熱抑制優先 モバイルバッテリー 超薄型 [薄さ8.7mm] マグネット ワイヤレス充電 軽量 小型 USB-C PD 20W iPhone ..."
+        - link "CIO モバイルバッテリー 100W ケーブル内蔵 大容量 20000mAh [脱着式ケーブル] PD 高出力 CIO独自技術 NovaIntelligence NovaSafety2.0搭載 ...":
+          - /url: /dp/B0F8V6K58S/ref=emc_bcc_2_i
+          - img "CIO モバイルバッテリー 100W ケーブル内蔵 大容量 20000mAh [脱着式ケーブル] PD 高出力 CIO独自技術 NovaIntelligence NovaSafety2.0搭載 ..."
+        - link "CIO Portable Bath Speaker 【マグネット吸着するワイヤレス防水スピーカー】 Bluetooth IPX7 防水 お風呂 8時間再生 ワイヤレス充電 に対応 USB-C充電...":
+          - /url: /dp/B0FB41W5J7/ref=emc_bcc_2_i
+          - img "CIO Portable Bath Speaker 【マグネット吸着するワイヤレス防水スピーカー】 Bluetooth IPX7 防水 お風呂 8時間再生 ワイヤレス充電 に対応 USB-C充電..."
+        - link "CIO NovaWave SPOT PLUG +C Qi2 MagSafe ワイヤレス充電器 15W USB充電 30W iPhone 17 / 16 / 15 / 14 / 13 / 12 マ...":
+          - /url: /dp/B0D2DBG5ML/ref=emc_bcc_2_i
+          - img "CIO NovaWave SPOT PLUG +C Qi2 MagSafe ワイヤレス充電器 15W USB充電 30W iPhone 17 / 16 / 15 / 14 / 13 / 12 マ..."
+      - heading "新商品" [level=3]
+      - paragraph:
+        - link "CIOのストアを表示":
+          - /url: /stores/page/A040AAD3-DACF-4636-95BD-7FF412617C3B?store_ref=storeRecs_dp_aplus
+          - text: ストアにアクセス
+      - list:
+        - link "CIO NovaPort DUO 45W USB-C 2ポート GaN USB PD 充電器 【CIO独自技術 NovaIntelligence搭載】 CIO-G45W2C (ブラック) iPh...":
+          - /url: /dp/B0BHCH1BF9/ref=emc_bcc_2_i
+          - img "CIO NovaPort DUO 45W USB-C 2ポート GaN USB PD 充電器 【CIO独自技術 NovaIntelligence搭載】 CIO-G45W2C (ブラック) iPh..."
+        - link "CIO NovaPort TRIO 65W3C PD充電器 [CIO独自技術 NovaIntelligence搭載] 小型 3ポート USB-C 急速充電 ACアダプター コンセント 軽量 タイ...":
+          - /url: /dp/B0BR88GWTF/ref=emc_bcc_2_i
+          - img "CIO NovaPort TRIO 65W3C PD充電器 [CIO独自技術 NovaIntelligence搭載] 小型 3ポート USB-C 急速充電 ACアダプター コンセント 軽量 タイ..."
+        - link "CIO NovaPort SLIM 65W PD 薄型 充電器 2ポート 14ｍｍ GaN Type-C 高出力 小型 急速充電器 タイプc USB 同時充電 iPhone 13 / 14 / ...":
+          - /url: /dp/B0C42HDMQW/ref=emc_bcc_2_i
+          - img "CIO NovaPort SLIM 65W PD 薄型 充電器 2ポート 14ｍｍ GaN Type-C 高出力 小型 急速充電器 タイプc USB 同時充電 iPhone 13 / 14 / ..."
+        - link "CIO NovaPort SLIM 45W 充電器 USB-C PD 薄型 2ポート 13mm GaN 高出力 小型 急速充電器 タイプc Type-C 同時充電 iPhone 13 / 14 ...":
+          - /url: /dp/B0C42L9H78/ref=emc_bcc_2_i
+          - img "CIO NovaPort SLIM 45W 充電器 USB-C PD 薄型 2ポート 13mm GaN 高出力 小型 急速充電器 タイプc Type-C 同時充電 iPhone 13 / 14 ..."
+      - heading "AC充電器" [level=3]
+      - paragraph:
+        - link "CIOのストアを表示":
+          - /url: /stores/page/194040E3-3A6C-4918-8441-9E6306F73519?store_ref=storeRecs_dp_aplus
+          - text: ストアにアクセス
+      - list:
+        - link "CIO 柔らかいシリコンケーブル 液晶ディスプレイ搭載 USB type-C 充電ケーブル 100W対応 iphone15 タイプC usb type c to c ケーブル 【液晶部に保護フィ...":
+          - /url: /dp/B0CHW6G276/ref=emc_bcc_2_i
+          - img "CIO 柔らかいシリコンケーブル 液晶ディスプレイ搭載 USB type-C 充電ケーブル 100W対応 iphone15 タイプC usb type c to c ケーブル 【液晶部に保護フィ..."
+        - link "CIO マグネットシリコンケーブル [液晶ディスプレイ付きモデル] 100W対応 USB Type-C 磁石で脱着 防水規格 IPX5対応 iphone15 タイプC ケーブル (ストレート,ブ...":
+          - /url: /dp/B0CXHRNQ5C/ref=emc_bcc_2_i
+          - img "CIO マグネットシリコンケーブル [液晶ディスプレイ付きモデル] 100W対応 USB Type-C 磁石で脱着 防水規格 IPX5対応 iphone15 タイプC ケーブル (ストレート,ブ..."
+        - link "CIO 柔らかいシリコンケーブル C to C(Type-C/USB-C) 100W USB PD 急速 充電ケーブル 絡まない iPhone15 Macbook Pro/Air iPad ノー...":
+          - /url: /dp/B0B2PR2QD4/ref=emc_bcc_2_i
+          - img "CIO 柔らかいシリコンケーブル C to C(Type-C/USB-C) 100W USB PD 急速 充電ケーブル 絡まない iPhone15 Macbook Pro/Air iPad ノー..."
+        - link "CIO シリコンL字ケーブル USB Type-C ケーブル 240W L型 急速充電 絡まない 90度 USB-C 1m 直角 高速データ転送 20Gbps 4K 映像出力 USB4.0 Ge...":
+          - /url: /dp/B0C4P5XZ8X/ref=emc_bcc_2_i
+          - img "CIO シリコンL字ケーブル USB Type-C ケーブル 240W L型 急速充電 絡まない 90度 USB-C 1m 直角 高速データ転送 20Gbps 4K 映像出力 USB4.0 Ge..."
+      - heading "充電ケーブルシリーズ" [level=3]
+      - paragraph:
+        - link "CIOのストアを表示":
+          - /url: /stores/page/4D88903D-2AA3-42C9-9BD4-B2009A699EA1?store_ref=storeRecs_dp_aplus
+          - text: ストアにアクセス
+      - list:
+        - link "CIO カラビナ付きケーブルホルダー USBケーブル用 コネクターカバー (ブラック, USB Type-C)":
+          - /url: /dp/B0CNCPGYBC/ref=emc_bcc_2_i
+          - img "CIO カラビナ付きケーブルホルダー USBケーブル用 コネクターカバー (ブラック, USB Type-C)"
+        - link "CIO-CHD-WH":
+          - /url: /dp/B0CW5XZTQD/ref=emc_bcc_2_i
+          - img "CIO-CHD-WH"
+        - link "CIO ケーブルガイドクリップ 3個セット 角度が変わる ケーブルホルダー バネ式 ケーブルクリップ 壁 机 デスク下 デスク周り 車 配線隠し スマホ 充電 ケーブル マウス キーボード us...":
+          - /url: /dp/B0CHY8ZY6R/ref=emc_bcc_2_i
+          - img "CIO ケーブルガイドクリップ 3個セット 角度が変わる ケーブルホルダー バネ式 ケーブルクリップ 壁 机 デスク下 デスク周り 車 配線隠し スマホ 充電 ケーブル マウス キーボード us..."
+        - link "CIO ケーブルガイドクリップ 3個セット 角度が変わる ケーブルホルダー バネ式 ケーブルクリップ 壁 机 デスク下 デスク周り 車 配線隠し スマホ 充電 ケーブル マウス キーボード us...":
+          - /url: /dp/B0CHY6JG6D/ref=emc_bcc_2_i
+          - img "CIO ケーブルガイドクリップ 3個セット 角度が変わる ケーブルホルダー バネ式 ケーブルクリップ 壁 机 デスク下 デスク周り 車 配線隠し スマホ 充電 ケーブル マウス キーボード us..."
+      - heading "アクセサリー" [level=3]
+  - heading "人気のブランド CIO" [level=2]:
+    - paragraph: 人気のブランド
+    - paragraph: CIO
+  - list:
+    - paragraph: 89%の高評価を2万人以上から取得
+    - paragraph: 10万人以上が直近3カ月にこのブランドの商品を購入
+  - heading "商品動画" [level=2]
+  - link:
+    - /url: /vdp/2c62ba89150142878c1f808e73162d05?aci=amzn1.productreview.R2ZZZUQ1M1X6C2&ref=dp_ive_vftp_hero
+  - button "Play"
+  - button "Share":
+    - button "Share":
+  - link "ふみちん":
+    - /url: /gp/profile/amzn1.account.AEVZZSZHTT7OCFZEQI672DDUYUNA
+    - img "ふみちん"
+  - link "ふみちん":
+    - /url: /gp/profile/amzn1.account.AEVZZSZHTT7OCFZEQI672DDUYUNA
+  - generic "重量はありますがコンパクトです◎ 67W出力確認とれました"
+  - link "See Full Review":
+    - /url: /gp/customer-reviews/R2ZZZUQ1M1X6C2?ref=va_cr_lb
+  - button "More options":
+  - button "Full screen":
+  - region "Related products"
+  - separator
+  - region "無料配送になる関連商品":
+    - heading "無料配送になる関連商品" [level=2]
+    - link "スポンサー":
+      - /url: "#sp_detail2-prime_feedbackForm"
+      - text: スポンサー
+    - list:
+      - link "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC10367BK":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAwOTc3NzAzOTY5NjI6Ojo6&url=%2Fdp%2FB0F43M6SBB%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0F43M6SBB%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブ…
+      - link "星5つのうち4.4 1,015件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAwOTc3NzAzOTY5NjI6Ojo6&url=%2Fdp%2FB0F43M6SBB%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0F43M6SBB%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: 1,015
+      - link "タイムセール":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAwOTc3NzAzOTY5NjI6Ojo6&url=%2Fdp%2FB0F43M6SBB%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0F43M6SBB%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: タイムセール
+      - 'link "-20% ￥2,790 過去: ￥3,490 過去: null"':
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAwOTc3NzAzOTY5NjI6Ojo6&url=%2Fdp%2FB0F43M6SBB%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0F43M6SBB%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - text: "-20%"
+        - generic: ￥2,790
+        - generic: ￥2,790
+        - generic: "過去: ￥3,490"
+        - text: "過去:"
+        - generic: "null"
+        - text: ￥3,490
+      - link "Prime 本日 無料配送 本日 17:00 - 20:59の間にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAwOTc3NzAzOTY5NjI6Ojo6&url=%2Fdp%2FB0F43M6SBB%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0F43M6SBB%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 本日
+        - generic: 無料配送 本日 17:00 - 20:59の間にお届け
+      - generic: 28ポイント(1%)
+      - link "Anker Zolo Charger (50W, 4 Ports) ブラック | 充電器 / 50W / Type-C【 PD対応/PSE技術基準適合/折りたたみ式プラグ】iPhone 18 / 17 / 16シリーズ / Air MacBook Windows PC iPad Galaxy Android スマートフォン":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyNDYwMjgwODE0NjI6Ojo6&url=%2Fdp%2FB0FWJK8GV9%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FWJK8GV9%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: Anker Zolo Charger (50W, 4 Ports) ブラック | 充電器 / 50W / Type-C【 P...
+      - link "星5つのうち4.5 467件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyNDYwMjgwODE0NjI6Ojo6&url=%2Fdp%2FB0FWJK8GV9%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FWJK8GV9%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: "467"
+      - link "￥2,990":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyNDYwMjgwODE0NjI6Ojo6&url=%2Fdp%2FB0FWJK8GV9%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FWJK8GV9%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: ￥2,990
+        - generic: ￥2,990
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyNDYwMjgwODE0NjI6Ojo6&url=%2Fdp%2FB0FWJK8GV9%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FWJK8GV9%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 30ポイント(1%)
+      - link "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック | モバイルバッテリー 10000mAh (36Wh/10K) / 45W出力 / ディスプレイ搭載/巻取り式USB-Cケーブル一体型/iPhone 18 / 17 / 16 / 15シリーズ Android iPad その他各種機器対応":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxOTU4NzUyNTE3NjI6Ojo6&url=%2Fdp%2FB0DNLVY85L%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DNLVY85L%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック | モ...
+      - link "星5つのうち4.5 1,174件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxOTU4NzUyNTE3NjI6Ojo6&url=%2Fdp%2FB0DNLVY85L%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DNLVY85L%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: 1,174
+      - link "￥7,990":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxOTU4NzUyNTE3NjI6Ojo6&url=%2Fdp%2FB0DNLVY85L%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DNLVY85L%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: ￥7,990
+        - generic: ￥7,990
+      - link "Prime 本日 無料配送 本日 17:00 - 20:59の間にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxOTU4NzUyNTE3NjI6Ojo6&url=%2Fdp%2FB0DNLVY85L%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DNLVY85L%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 本日
+        - generic: 無料配送 本日 17:00 - 20:59の間にお届け
+      - generic: 1358ポイント(17%)
+      - link "LaPO 急速充電器 acアダプター 30W Type-C USB-A 2ポート 【PD3.0対応/PSE認証済/折りたたみ式】 | GaN (窒化ガリウム) 採用 USB コンセント 軽量 小型 旅行 出張 ブラック":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyMDQyMzc3ODExNjI6Ojo6&url=%2Fdp%2FB0G33N8X85%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0G33N8X85%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: LaPO 急速充電器 acアダプター 30W Type-C USB-A 2ポート 【PD3.0対応/PSE認証…
+      - link "星5つのうち5.0 9件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyMDQyMzc3ODExNjI6Ojo6&url=%2Fdp%2FB0G33N8X85%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0G33N8X85%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: "9"
+      - link "￥2,600":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyMDQyMzc3ODExNjI6Ojo6&url=%2Fdp%2FB0G33N8X85%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0G33N8X85%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: ￥2,600
+        - generic: ￥2,600
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyMDQyMzc3ODExNjI6Ojo6&url=%2Fdp%2FB0G33N8X85%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0G33N8X85%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 26ポイント(1%)
+      - link "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxNjM3NDQ1OTAzNjI6Ojo6&url=%2Fdp%2FB0D53VKL36%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0D53VKL36%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラッ…
+      - link "星5つのうち4.5 675件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxNjM3NDQ1OTAzNjI6Ojo6&url=%2Fdp%2FB0D53VKL36%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0D53VKL36%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: "675"
+      - link "￥5,480":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxNjM3NDQ1OTAzNjI6Ojo6&url=%2Fdp%2FB0D53VKL36%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0D53VKL36%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: ￥5,480
+        - generic: ￥5,480
+      - link "Prime 本日 無料配送 本日 17:00 - 20:59の間にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxNjM3NDQ1OTAzNjI6Ojo6&url=%2Fdp%2FB0D53VKL36%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0D53VKL36%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 本日
+        - generic: 無料配送 本日 17:00 - 20:59の間にお届け
+      - generic: 1589ポイント(29%)
+      - link "CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワイト) | iPhone対応, Android対応, MacBook対応, iPad対応, 電力を自動最適配分":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxNjMxOTg2Nzc0NjI6Ojo6&url=%2Fdp%2FB0D53YVF2F%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0D53YVF2F%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: CIO NovaPort TRIOⅡ 65W 3C PD急速充電器 USB-C×3 3台同時充電 軽量 世界最小級 (ホワ…
+      - link "星5つのうち4.2 898件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxNjMxOTg2Nzc0NjI6Ojo6&url=%2Fdp%2FB0D53YVF2F%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0D53YVF2F%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: "898"
+      - link "￥6,688":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxNjMxOTg2Nzc0NjI6Ojo6&url=%2Fdp%2FB0D53YVF2F%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0D53YVF2F%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: ￥6,688
+        - generic: ￥6,688
+      - link "Prime 本日 無料配送 本日 17:00 - 20:59の間にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAxNjMxOTg2Nzc0NjI6Ojo6&url=%2Fdp%2FB0D53YVF2F%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0D53YVF2F%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 本日
+        - generic: 無料配送 本日 17:00 - 20:59の間にお届け
+      - generic: 2408ポイント(36%)
+      - link "Anker Nano II 65W | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りたたみ式プラグ】MacBook PD対応Windows PC iPad iPhone Galaxy Android":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyODU5OTkwNzk2NjI6Ojo6&url=%2Fdp%2FB08X11GD52%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08X11GD52%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: Anker Nano II 65W | 65W 充電器 USB-C PD【独自技術Anker GaN II採用/PD対応/P...
+      - link "星5つのうち4.6 18,073件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyODU5OTkwNzk2NjI6Ojo6&url=%2Fdp%2FB08X11GD52%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08X11GD52%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: 18,073
+      - link "Amazon おすすめ":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyODU5OTkwNzk2NjI6Ojo6&url=%2Fdp%2FB08X11GD52%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08X11GD52%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: Amazon おすすめ
+      - 'link "-31% ￥3,090 参考: ￥4,490 参考: null"':
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyODU5OTkwNzk2NjI6Ojo6&url=%2Fdp%2FB08X11GD52%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08X11GD52%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - text: "-31%"
+        - generic: ￥3,090
+        - generic: ￥3,090
+        - generic: "参考: ￥4,490"
+        - text: "参考:"
+        - generic: "null"
+        - text: ￥4,490
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MDMzMTc0NzQ1MDAzNTA0OjE3OTE2MDE3MDI6c3BfZGV0YWlsMjozMDAyODU5OTkwNzk2NjI6Ojo6&url=%2Fdp%2FB08X11GD52%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08X11GD52%26pd_rd_w%3DKFdoe%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3DPRV4DW4F7HH3QFRV9X7E%26pd_rd_wg%3DoA0Ub%26pd_rd_r%3De7f06788-ec70-4f81-8e43-b6fbbf105cee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 31ポイント(1%)
+  - heading "Amazonでの類似ブランド" [level=2]
+  - button "スポンサー広告にフィードバックを残す": スポンサー
+  - list:
+    - link "スポンサー動画の場合、クリックすると特集ページに移動します。":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JE2mtdUYxnA_1GfJEgj-u_IAAAGhI8h27AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICD0WXaj/clv1c_ek-ww_fTLcbWDonNX00pzYLaPqVZHMLFXBP9-TMOX5vpz5ZQkLXNzHt0V9sAPXMhK1I-7RcJsgmATwv_uqHFCxdEzyTZxXKmNj_cfslHzUTx7x12kb-H15yo4_hnpzjbX7bKfKRir1W4x_jMZz479MrLIN-ZomXGlPzU746q78SYSxDDKp3Rd9Fm0hAEdKn-ECw7RskIXUcm9Od738Ji3utbe5QHwa_-us-zeKuLCLZJ4ctRi7zlSdRUPD1A3OzokO2MlgbYyAPFJPCXk0LdKd2VzRsYtcdhX8SrOqifmnYP_gxhAGsFkzMyontROo2xaRT4Jx010Hs9Kcohc6m3qYdyBqew16_7laZbVAmCTZ08-XM2dHrcD3GaCua6LgJbKM8dHEJ9YYO3dulSi2lbXj1p0mPlcgjLaULRmqET_k2fESuR1Ba5USY-RLq4lCuSXyodafE4Xosef_TzqAZWskt7lbKOjd1bFjzBJ8oUhVNDWv0BmdVDWLJTgyLaZk3Nmm3_OWW4P5uHrvHPS_k2tfs2kseKtiLJt1vGGdrW46vPdq5lR0zYSqgXW6LLV8B2FufExhG5Kh26ACYW4sOHzWGEUB6-R8KjoQGcBUmC25DfPPIALoL_xuqLjsicdo_Zjcduk46YMZs7-QkQGKT8sYJyN3Kk-QBTNcXoWJSvOqLRNk88QBlQVUXlLNRaOO1MvxhkiqDgwk1-iAZisuiIkojpQBrvjJUfJIiNM-s6qxsaHCb6IaUNWu-7yybibSWIUJkQ2in97Z0etVK8xMwjaS8TrIXKQiL514gleCWvRn3FAvgPvBn8HrC39u3lBTlnL55pxZrrc1DA8-ojag-6CTRxF-9Y5Q_uiCnoXp67YK1mMD2KgO2xzm8dxHoDTa2iGnqqdAE3Pvkol3Z5xgGVi2hn0Y6bTUrqPTvDMPgsM-n_agxUirpDyJ1NvJlqSdiYPc9STnOdApO4OPw3cxbDRBo3aTzTz04Lm71tSFSDLswSDKV0P1_KEt7Fg6_J18IdgNM1orxLqCDpjw6rlo3dmJ_xmiTyags0y8V2qwRpJ0fD/https://www.amazon.co.jp/dp/B0D53VKL36/?_encoding=UTF8&pd_rd_i=B0D53VKL36&pd_rd_i=B0D53VKL36&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - generic "スポンサー動画の場合、クリックすると特集ページに移動します。"
+    - link "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JE2mtdUYxnA_1GfJEgj-u_IAAAGhI8h27AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICD0WXaj/clv1c_ek-ww_fTLcbWDonNX00pzYLaPqVZHMLFXBP9-TMOX5vpz5ZQkLXNzHt0V9sAPXMhK1I-7RcJsgmATwv_uqHFCxdEzyTZxXKmNj_cfslHzUTx7x12kb-H15yo4_hnpzjbX7bKfKRir1W4x_jMZz479MrLIN-ZomXGlPzU746q78SYSxDDKp3Rd9Fm0hAEdKn-ECw7RskIXUcm9Od738Ji3utbe5QHwa_-us-zeKuLCLZJ4ctRi7zlSdRUPD1A3OzokO2MlgbYyAPFJPCXk0LdKd2VzRsYtcdhX8SrOqifmnYP_gxhAGsFkzMyontROo2xaRT4Jx010Hs9Kcohc6m3qYdyBqew16_7laZbVAmCTZ08-XM2dHrcD3GaCua6LgJbKM8dHEJ9YYO3dulSi2lbXj1p0mPlcgjLaULRmqET_k2fESuR1Ba5USY-RLq4lCuSXyodafE4Xosef_TzqAZWskt7lbKOjd1bFjzBJ8oUhVNDWv0BmdVDWLJTgyLaZk3Nmm3_OWW4P5uHrvHPS_k2tfs2kseKtiLJt1vGGdrW46vPdq5lR0zYSqgXW6LLV8B2FufExhG5Kh26ACYW4sOHzWGEUB6-R8KjoQGcBUmC25DfPPIALoL_xuqLjsicdo_Zjcduk46YMZs7-QkQGKT8sYJyN3Kk-QBTNcXoWJSvOqLRNk88QBlQVUXlLNRaOO1MvxhkiqDgwk1-iAZisuiIkojpQBrvjJUfJIiNM-s6qxsaHCb6IaUNWu-7yybibSWIUJkQ2in97Z0etVK8xMwjaS8TrIXKQiL514gleCWvRn3FAvgPvBn8HrC39u3lBTlnL55pxZrrc1DA8-ojag-6CTRxF-9Y5Q_uiCnoXp67YK1mMD2KgO2xzm8dxHoDTa2iGnqqdAE3Pvkol3Z5xgGVi2hn0Y6bTUrqPTvDMPgsM-n_agxUirpDyJ1NvJlqSdiYPc9STnOdApO4OPw3cxbDRBo3aTzTz04Lm71tSFSDLswSDKV0P1_KEt7Fg6_J18IdgNM1orxLqCDpjw6rlo3dmJ_xmiTyags0y8V2qwRpJ0fD/https://www.amazon.co.jp/dp/B0D53VKL36/?_encoding=UTF8&pd_rd_i=B0D53VKL36&pd_rd_i=B0D53VKL36&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - img "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）"
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JE2mtdUYxnA_1GfJEgj-u_IAAAGhI8h27AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICD0WXaj/clv1c_ek-ww_fTLcbWDonNX00pzYLaPqVZHMLFXBP9-TMOX5vpz5ZQkLXNzHt0V9sAPXMhK1I-7RcJsgmATwv_uqHFCxdEzyTZxXKmNj_cfslHzUTx7x12kb-H15yo4_hnpzjbX7bKfKRir1W4x_jMZz479MrLIN-ZomXGlPzU746q78SYSxDDKp3Rd9Fm0hAEdKn-ECw7RskIXUcm9Od738Ji3utbe5QHwa_-us-zeKuLCLZJ4ctRi7zlSdRUPD1A3OzokO2MlgbYyAPFJPCXk0LdKd2VzRsYtcdhX8SrOqifmnYP_gxhAGsFkzMyontROo2xaRT4Jx010Hs9Kcohc6m3qYdyBqew16_7laZbVAmCTZ08-XM2dHrcD3GaCua6LgJbKM8dHEJ9YYO3dulSi2lbXj1p0mPlcgjLaULRmqET_k2fESuR1Ba5USY-RLq4lCuSXyodafE4Xosef_TzqAZWskt7lbKOjd1bFjzBJ8oUhVNDWv0BmdVDWLJTgyLaZk3Nmm3_OWW4P5uHrvHPS_k2tfs2kseKtiLJt1vGGdrW46vPdq5lR0zYSqgXW6LLV8B2FufExhG5Kh26ACYW4sOHzWGEUB6-R8KjoQGcBUmC25DfPPIALoL_xuqLjsicdo_Zjcduk46YMZs7-QkQGKT8sYJyN3Kk-QBTNcXoWJSvOqLRNk88QBlQVUXlLNRaOO1MvxhkiqDgwk1-iAZisuiIkojpQBrvjJUfJIiNM-s6qxsaHCb6IaUNWu-7yybibSWIUJkQ2in97Z0etVK8xMwjaS8TrIXKQiL514gleCWvRn3FAvgPvBn8HrC39u3lBTlnL55pxZrrc1DA8-ojag-6CTRxF-9Y5Q_uiCnoXp67YK1mMD2KgO2xzm8dxHoDTa2iGnqqdAE3Pvkol3Z5xgGVi2hn0Y6bTUrqPTvDMPgsM-n_agxUirpDyJ1NvJlqSdiYPc9STnOdApO4OPw3cxbDRBo3aTzTz04Lm71tSFSDLswSDKV0P1_KEt7Fg6_J18IdgNM1orxLqCDpjw6rlo3dmJ_xmiTyags0y8V2qwRpJ0fD/https://www.amazon.co.jp/dp/B0D53VKL36/?_encoding=UTF8&pd_rd_i=B0D53VKL36&pd_rd_i=B0D53VKL36&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JE2mtdUYxnA_1GfJEgj-u_IAAAGhI8h27AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICD0WXaj/clv1c_ek-ww_fTLcbWDonNX00pzYLaPqVZHMLFXBP9-TMOX5vpz5ZQkLXNzHt0V9sAPXMhK1I-7RcJsgmATwv_uqHFCxdEzyTZxXKmNj_cfslHzUTx7x12kb-H15yo4_hnpzjbX7bKfKRir1W4x_jMZz479MrLIN-ZomXGlPzU746q78SYSxDDKp3Rd9Fm0hAEdKn-ECw7RskIXUcm9Od738Ji3utbe5QHwa_-us-zeKuLCLZJ4ctRi7zlSdRUPD1A3OzokO2MlgbYyAPFJPCXk0LdKd2VzRsYtcdhX8SrOqifmnYP_gxhAGsFkzMyontROo2xaRT4Jx010Hs9Kcohc6m3qYdyBqew16_7laZbVAmCTZ08-XM2dHrcD3GaCua6LgJbKM8dHEJ9YYO3dulSi2lbXj1p0mPlcgjLaULRmqET_k2fESuR1Ba5USY-RLq4lCuSXyodafE4Xosef_TzqAZWskt7lbKOjd1bFjzBJ8oUhVNDWv0BmdVDWLJTgyLaZk3Nmm3_OWW4P5uHrvHPS_k2tfs2kseKtiLJt1vGGdrW46vPdq5lR0zYSqgXW6LLV8B2FufExhG5Kh26ACYW4sOHzWGEUB6-R8KjoQGcBUmC25DfPPIALoL_xuqLjsicdo_Zjcduk46YMZs7-QkQGKT8sYJyN3Kk-QBTNcXoWJSvOqLRNk88QBlQVUXlLNRaOO1MvxhkiqDgwk1-iAZisuiIkojpQBrvjJUfJIiNM-s6qxsaHCb6IaUNWu-7yybibSWIUJkQ2in97Z0etVK8xMwjaS8TrIXKQiL514gleCWvRn3FAvgPvBn8HrC39u3lBTlnL55pxZrrc1DA8-ojag-6CTRxF-9Y5Q_uiCnoXp67YK1mMD2KgO2xzm8dxHoDTa2iGnqqdAE3Pvkol3Z5xgGVi2hn0Y6bTUrqPTvDMPgsM-n_agxUirpDyJ1NvJlqSdiYPc9STnOdApO4OPw3cxbDRBo3aTzTz04Lm71tSFSDLswSDKV0P1_KEt7Fg6_J18IdgNM1orxLqCDpjw6rlo3dmJ_xmiTyags0y8V2qwRpJ0fD/https://www.amazon.co.jp/dp/B0D53VKL36/?_encoding=UTF8&pd_rd_i=B0D53VKL36&pd_rd_i=B0D53VKL36&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） | ノートPC対応, MacBook対応, iPhone対応, iPad対応, 電力を自動最適配分":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JE2mtdUYxnA_1GfJEgj-u_IAAAGhI8h27AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICD0WXaj/clv1c_ek-ww_fTLcbWDonNX00pzYLaPqVZHMLFXBP9-TMOX5vpz5ZQkLXNzHt0V9sAPXMhK1I-7RcJsgmATwv_uqHFCxdEzyTZxXKmNj_cfslHzUTx7x12kb-H15yo4_hnpzjbX7bKfKRir1W4x_jMZz479MrLIN-ZomXGlPzU746q78SYSxDDKp3Rd9Fm0hAEdKn-ECw7RskIXUcm9Od738Ji3utbe5QHwa_-us-zeKuLCLZJ4ctRi7zlSdRUPD1A3OzokO2MlgbYyAPFJPCXk0LdKd2VzRsYtcdhX8SrOqifmnYP_gxhAGsFkzMyontROo2xaRT4Jx010Hs9Kcohc6m3qYdyBqew16_7laZbVAmCTZ08-XM2dHrcD3GaCua6LgJbKM8dHEJ9YYO3dulSi2lbXj1p0mPlcgjLaULRmqET_k2fESuR1Ba5USY-RLq4lCuSXyodafE4Xosef_TzqAZWskt7lbKOjd1bFjzBJ8oUhVNDWv0BmdVDWLJTgyLaZk3Nmm3_OWW4P5uHrvHPS_k2tfs2kseKtiLJt1vGGdrW46vPdq5lR0zYSqgXW6LLV8B2FufExhG5Kh26ACYW4sOHzWGEUB6-R8KjoQGcBUmC25DfPPIALoL_xuqLjsicdo_Zjcduk46YMZs7-QkQGKT8sYJyN3Kk-QBTNcXoWJSvOqLRNk88QBlQVUXlLNRaOO1MvxhkiqDgwk1-iAZisuiIkojpQBrvjJUfJIiNM-s6qxsaHCb6IaUNWu-7yybibSWIUJkQ2in97Z0etVK8xMwjaS8TrIXKQiL514gleCWvRn3FAvgPvBn8HrC39u3lBTlnL55pxZrrc1DA8-ojag-6CTRxF-9Y5Q_uiCnoXp67YK1mMD2KgO2xzm8dxHoDTa2iGnqqdAE3Pvkol3Z5xgGVi2hn0Y6bTUrqPTvDMPgsM-n_agxUirpDyJ1NvJlqSdiYPc9STnOdApO4OPw3cxbDRBo3aTzTz04Lm71tSFSDLswSDKV0P1_KEt7Fg6_J18IdgNM1orxLqCDpjw6rlo3dmJ_xmiTyags0y8V2qwRpJ0fD/https://www.amazon.co.jp/dp/B0D53VKL36/?_encoding=UTF8&pd_rd_i=B0D53VKL36&pd_rd_i=B0D53VKL36&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link "675件のレビューから5つ星のうち4.5と評価されました":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JE2mtdUYxnA_1GfJEgj-u_IAAAGhI8h27AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICD0WXaj/clv1c_ek-ww_fTLcbWDonNX00pzYLaPqVZHMLFXBP9-TMOX5vpz5ZQkLXNzHt0V9sAPXMhK1I-7RcJsgmATwv_uqHFCxdEzyTZxXKmNj_cfslHzUTx7x12kb-H15yo4_hnpzjbX7bKfKRir1W4x_jMZz479MrLIN-ZomXGlPzU746q78SYSxDDKp3Rd9Fm0hAEdKn-ECw7RskIXUcm9Od738Ji3utbe5QHwa_-us-zeKuLCLZJ4ctRi7zlSdRUPD1A3OzokO2MlgbYyAPFJPCXk0LdKd2VzRsYtcdhX8SrOqifmnYP_gxhAGsFkzMyontROo2xaRT4Jx010Hs9Kcohc6m3qYdyBqew16_7laZbVAmCTZ08-XM2dHrcD3GaCua6LgJbKM8dHEJ9YYO3dulSi2lbXj1p0mPlcgjLaULRmqET_k2fESuR1Ba5USY-RLq4lCuSXyodafE4Xosef_TzqAZWskt7lbKOjd1bFjzBJ8oUhVNDWv0BmdVDWLJTgyLaZk3Nmm3_OWW4P5uHrvHPS_k2tfs2kseKtiLJt1vGGdrW46vPdq5lR0zYSqgXW6LLV8B2FufExhG5Kh26ACYW4sOHzWGEUB6-R8KjoQGcBUmC25DfPPIALoL_xuqLjsicdo_Zjcduk46YMZs7-QkQGKT8sYJyN3Kk-QBTNcXoWJSvOqLRNk88QBlQVUXlLNRaOO1MvxhkiqDgwk1-iAZisuiIkojpQBrvjJUfJIiNM-s6qxsaHCb6IaUNWu-7yybibSWIUJkQ2in97Z0etVK8xMwjaS8TrIXKQiL514gleCWvRn3FAvgPvBn8HrC39u3lBTlnL55pxZrrc1DA8-ojag-6CTRxF-9Y5Q_uiCnoXp67YK1mMD2KgO2xzm8dxHoDTa2iGnqqdAE3Pvkol3Z5xgGVi2hn0Y6bTUrqPTvDMPgsM-n_agxUirpDyJ1NvJlqSdiYPc9STnOdApO4OPw3cxbDRBo3aTzTz04Lm71tSFSDLswSDKV0P1_KEt7Fg6_J18IdgNM1orxLqCDpjw6rlo3dmJ_xmiTyags0y8V2qwRpJ0fD/https://www.amazon.co.jp/dp/B0D53VKL36/?_encoding=UTF8&pd_rd_i=B0D53VKL36&pd_rd_i=B0D53VKL36&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - text: "4.5"
+      - generic: 5つ星のうち4.5
+      - text: "675"
+    - link "￥5,480":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JE2mtdUYxnA_1GfJEgj-u_IAAAGhI8h27AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICD0WXaj/clv1c_ek-ww_fTLcbWDonNX00pzYLaPqVZHMLFXBP9-TMOX5vpz5ZQkLXNzHt0V9sAPXMhK1I-7RcJsgmATwv_uqHFCxdEzyTZxXKmNj_cfslHzUTx7x12kb-H15yo4_hnpzjbX7bKfKRir1W4x_jMZz479MrLIN-ZomXGlPzU746q78SYSxDDKp3Rd9Fm0hAEdKn-ECw7RskIXUcm9Od738Ji3utbe5QHwa_-us-zeKuLCLZJ4ctRi7zlSdRUPD1A3OzokO2MlgbYyAPFJPCXk0LdKd2VzRsYtcdhX8SrOqifmnYP_gxhAGsFkzMyontROo2xaRT4Jx010Hs9Kcohc6m3qYdyBqew16_7laZbVAmCTZ08-XM2dHrcD3GaCua6LgJbKM8dHEJ9YYO3dulSi2lbXj1p0mPlcgjLaULRmqET_k2fESuR1Ba5USY-RLq4lCuSXyodafE4Xosef_TzqAZWskt7lbKOjd1bFjzBJ8oUhVNDWv0BmdVDWLJTgyLaZk3Nmm3_OWW4P5uHrvHPS_k2tfs2kseKtiLJt1vGGdrW46vPdq5lR0zYSqgXW6LLV8B2FufExhG5Kh26ACYW4sOHzWGEUB6-R8KjoQGcBUmC25DfPPIALoL_xuqLjsicdo_Zjcduk46YMZs7-QkQGKT8sYJyN3Kk-QBTNcXoWJSvOqLRNk88QBlQVUXlLNRaOO1MvxhkiqDgwk1-iAZisuiIkojpQBrvjJUfJIiNM-s6qxsaHCb6IaUNWu-7yybibSWIUJkQ2in97Z0etVK8xMwjaS8TrIXKQiL514gleCWvRn3FAvgPvBn8HrC39u3lBTlnL55pxZrrc1DA8-ojag-6CTRxF-9Y5Q_uiCnoXp67YK1mMD2KgO2xzm8dxHoDTa2iGnqqdAE3Pvkol3Z5xgGVi2hn0Y6bTUrqPTvDMPgsM-n_agxUirpDyJ1NvJlqSdiYPc9STnOdApO4OPw3cxbDRBo3aTzTz04Lm71tSFSDLswSDKV0P1_KEt7Fg6_J18IdgNM1orxLqCDpjw6rlo3dmJ_xmiTyags0y8V2qwRpJ0fD/https://www.amazon.co.jp/dp/B0D53VKL36/?_encoding=UTF8&pd_rd_i=B0D53VKL36&pd_rd_i=B0D53VKL36&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - generic: ￥5,480
+      - generic: ￥5,480
+    - link "スポンサー動画の場合、クリックすると特集ページに移動します。":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JChtEZOtkSl07jd9WjtBiU8AAAGhI8h27QcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBFsWx9/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBJLOjip968mNftUNukaPBI6YRJ5piI7PXUgHTbt1Oeh207uNJl7c9UYZzwZNmzKIFmVzXO1zFQIuxF4Q8Wfvyx848GMrqKe_sJB4N7gYVqMwF5OtCfZ5bx7Id2KrrUL00V4yzu5_MKHiSLoUc4FrYjaxelwNahDLmiy_lvaD5ezvaTfXero3_pyaVYcn8LTd5vB81LhdcZLOaR5kx5KwxECrjEfd9weEtcPoaYpbRiYivEQiGlCSQ6WEzDK8psS3SZ3Fm5QR24EJrNIz9zGw28S5GRegfaV8kf1Sk8zqPCeY_rfkFU6dE6S4v9xrEsBgJ5H_Bh5Kz7vwy2iXjQVr5oB3PQ8jLSABIHdxoG9SFbFjfJGsffqvA1H_GpF5s34FHXg9ToexSE08zhCJje_ViPakfJSrLhmrfEPZDP1aLFIy1Iz0UCtqZ3R0QqTPQWBmGvlQdmLiXo0WJERJMxJjU656agRhfCVLx_osGEz9wo9MNLJvP9Nrljw6p7mGVAoCw0m5Go_-_UPtZbHePbc5ml57pX9ZctuExyb9SreQvdxmCbS7kVqZMz1kfWO_ym3ZIF3s8I1vSWpiazm7xLvMk5TJT3kpfCA3UlawY-3JUTCNq7JCsxybw7WBuy1jYqO1CxDAkmLTvFo_5lOVer1T3rXsCaQm3GO0qVG1PKWfJiPJMOVPcG-GZ3OOIH2Ihl1SCi22PWQ0dyK_Vb5ZtaFdPolN-5twoqYjwb2RTOhiBL-vSuFAX8pkRvW2lO07DX6mgdunsapn3iCw11EGlcVjbIhJX457_oKJu9-EQXjjQKrLYwF3NhWSRmQsw2WrpuiRyTxZg8jgzBKU3dFANarOtrEOvlGbKlqayEpp3Y-UlHGv1ikpiq4ykpAVb5pTY1rYGGzTVB38fpLyNczUTpC8rpp2PjH8k7NN2MggcpD9x925otxrTRSNpObzaixp96159A9Gh77lOCqzjlmXkGjErH21sHmHmvplvJyQIRERHGRJZExv2J8W0SqBHnR-jiOrZaGYA/https://www.amazon.co.jp/dp/B0FB7V2CPF/?_encoding=UTF8&pd_rd_i=B0FB7V2CPF&pd_rd_i=B0FB7V2CPF&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - generic "スポンサー動画の場合、クリックすると特集ページに移動します。"
+    - link "[山善] USB Type-C Type-A 充電器 65W PD対応 3ポート GaN スマホ タブレット ノートパソコン 小型軽量 折りたたみ収納プラグ PSE認証 高速充電 耐トラッキング対策 ブラック YPD-65CCA":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JChtEZOtkSl07jd9WjtBiU8AAAGhI8h27QcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBFsWx9/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBJLOjip968mNftUNukaPBI6YRJ5piI7PXUgHTbt1Oeh207uNJl7c9UYZzwZNmzKIFmVzXO1zFQIuxF4Q8Wfvyx848GMrqKe_sJB4N7gYVqMwF5OtCfZ5bx7Id2KrrUL00V4yzu5_MKHiSLoUc4FrYjaxelwNahDLmiy_lvaD5ezvaTfXero3_pyaVYcn8LTd5vB81LhdcZLOaR5kx5KwxECrjEfd9weEtcPoaYpbRiYivEQiGlCSQ6WEzDK8psS3SZ3Fm5QR24EJrNIz9zGw28S5GRegfaV8kf1Sk8zqPCeY_rfkFU6dE6S4v9xrEsBgJ5H_Bh5Kz7vwy2iXjQVr5oB3PQ8jLSABIHdxoG9SFbFjfJGsffqvA1H_GpF5s34FHXg9ToexSE08zhCJje_ViPakfJSrLhmrfEPZDP1aLFIy1Iz0UCtqZ3R0QqTPQWBmGvlQdmLiXo0WJERJMxJjU656agRhfCVLx_osGEz9wo9MNLJvP9Nrljw6p7mGVAoCw0m5Go_-_UPtZbHePbc5ml57pX9ZctuExyb9SreQvdxmCbS7kVqZMz1kfWO_ym3ZIF3s8I1vSWpiazm7xLvMk5TJT3kpfCA3UlawY-3JUTCNq7JCsxybw7WBuy1jYqO1CxDAkmLTvFo_5lOVer1T3rXsCaQm3GO0qVG1PKWfJiPJMOVPcG-GZ3OOIH2Ihl1SCi22PWQ0dyK_Vb5ZtaFdPolN-5twoqYjwb2RTOhiBL-vSuFAX8pkRvW2lO07DX6mgdunsapn3iCw11EGlcVjbIhJX457_oKJu9-EQXjjQKrLYwF3NhWSRmQsw2WrpuiRyTxZg8jgzBKU3dFANarOtrEOvlGbKlqayEpp3Y-UlHGv1ikpiq4ykpAVb5pTY1rYGGzTVB38fpLyNczUTpC8rpp2PjH8k7NN2MggcpD9x925otxrTRSNpObzaixp96159A9Gh77lOCqzjlmXkGjErH21sHmHmvplvJyQIRERHGRJZExv2J8W0SqBHnR-jiOrZaGYA/https://www.amazon.co.jp/dp/B0FB7V2CPF/?_encoding=UTF8&pd_rd_i=B0FB7V2CPF&pd_rd_i=B0FB7V2CPF&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - img "[山善] USB Type-C Type-A 充電器 65W PD対応 3ポート GaN スマホ タブレット ノートパソコン 小型軽量 折りたたみ収納プラグ PSE認証 高速充電 耐トラッキング対策 ブラック YPD-65CCA"
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JChtEZOtkSl07jd9WjtBiU8AAAGhI8h27QcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBFsWx9/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBJLOjip968mNftUNukaPBI6YRJ5piI7PXUgHTbt1Oeh207uNJl7c9UYZzwZNmzKIFmVzXO1zFQIuxF4Q8Wfvyx848GMrqKe_sJB4N7gYVqMwF5OtCfZ5bx7Id2KrrUL00V4yzu5_MKHiSLoUc4FrYjaxelwNahDLmiy_lvaD5ezvaTfXero3_pyaVYcn8LTd5vB81LhdcZLOaR5kx5KwxECrjEfd9weEtcPoaYpbRiYivEQiGlCSQ6WEzDK8psS3SZ3Fm5QR24EJrNIz9zGw28S5GRegfaV8kf1Sk8zqPCeY_rfkFU6dE6S4v9xrEsBgJ5H_Bh5Kz7vwy2iXjQVr5oB3PQ8jLSABIHdxoG9SFbFjfJGsffqvA1H_GpF5s34FHXg9ToexSE08zhCJje_ViPakfJSrLhmrfEPZDP1aLFIy1Iz0UCtqZ3R0QqTPQWBmGvlQdmLiXo0WJERJMxJjU656agRhfCVLx_osGEz9wo9MNLJvP9Nrljw6p7mGVAoCw0m5Go_-_UPtZbHePbc5ml57pX9ZctuExyb9SreQvdxmCbS7kVqZMz1kfWO_ym3ZIF3s8I1vSWpiazm7xLvMk5TJT3kpfCA3UlawY-3JUTCNq7JCsxybw7WBuy1jYqO1CxDAkmLTvFo_5lOVer1T3rXsCaQm3GO0qVG1PKWfJiPJMOVPcG-GZ3OOIH2Ihl1SCi22PWQ0dyK_Vb5ZtaFdPolN-5twoqYjwb2RTOhiBL-vSuFAX8pkRvW2lO07DX6mgdunsapn3iCw11EGlcVjbIhJX457_oKJu9-EQXjjQKrLYwF3NhWSRmQsw2WrpuiRyTxZg8jgzBKU3dFANarOtrEOvlGbKlqayEpp3Y-UlHGv1ikpiq4ykpAVb5pTY1rYGGzTVB38fpLyNczUTpC8rpp2PjH8k7NN2MggcpD9x925otxrTRSNpObzaixp96159A9Gh77lOCqzjlmXkGjErH21sHmHmvplvJyQIRERHGRJZExv2J8W0SqBHnR-jiOrZaGYA/https://www.amazon.co.jp/dp/B0FB7V2CPF/?_encoding=UTF8&pd_rd_i=B0FB7V2CPF&pd_rd_i=B0FB7V2CPF&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JChtEZOtkSl07jd9WjtBiU8AAAGhI8h27QcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBFsWx9/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBJLOjip968mNftUNukaPBI6YRJ5piI7PXUgHTbt1Oeh207uNJl7c9UYZzwZNmzKIFmVzXO1zFQIuxF4Q8Wfvyx848GMrqKe_sJB4N7gYVqMwF5OtCfZ5bx7Id2KrrUL00V4yzu5_MKHiSLoUc4FrYjaxelwNahDLmiy_lvaD5ezvaTfXero3_pyaVYcn8LTd5vB81LhdcZLOaR5kx5KwxECrjEfd9weEtcPoaYpbRiYivEQiGlCSQ6WEzDK8psS3SZ3Fm5QR24EJrNIz9zGw28S5GRegfaV8kf1Sk8zqPCeY_rfkFU6dE6S4v9xrEsBgJ5H_Bh5Kz7vwy2iXjQVr5oB3PQ8jLSABIHdxoG9SFbFjfJGsffqvA1H_GpF5s34FHXg9ToexSE08zhCJje_ViPakfJSrLhmrfEPZDP1aLFIy1Iz0UCtqZ3R0QqTPQWBmGvlQdmLiXo0WJERJMxJjU656agRhfCVLx_osGEz9wo9MNLJvP9Nrljw6p7mGVAoCw0m5Go_-_UPtZbHePbc5ml57pX9ZctuExyb9SreQvdxmCbS7kVqZMz1kfWO_ym3ZIF3s8I1vSWpiazm7xLvMk5TJT3kpfCA3UlawY-3JUTCNq7JCsxybw7WBuy1jYqO1CxDAkmLTvFo_5lOVer1T3rXsCaQm3GO0qVG1PKWfJiPJMOVPcG-GZ3OOIH2Ihl1SCi22PWQ0dyK_Vb5ZtaFdPolN-5twoqYjwb2RTOhiBL-vSuFAX8pkRvW2lO07DX6mgdunsapn3iCw11EGlcVjbIhJX457_oKJu9-EQXjjQKrLYwF3NhWSRmQsw2WrpuiRyTxZg8jgzBKU3dFANarOtrEOvlGbKlqayEpp3Y-UlHGv1ikpiq4ykpAVb5pTY1rYGGzTVB38fpLyNczUTpC8rpp2PjH8k7NN2MggcpD9x925otxrTRSNpObzaixp96159A9Gh77lOCqzjlmXkGjErH21sHmHmvplvJyQIRERHGRJZExv2J8W0SqBHnR-jiOrZaGYA/https://www.amazon.co.jp/dp/B0FB7V2CPF/?_encoding=UTF8&pd_rd_i=B0FB7V2CPF&pd_rd_i=B0FB7V2CPF&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link "[山善] USB Type-C Type-A 充電器 65W PD対応 3ポート GaN スマホ タブレット ノートパソコン 小型軽量 折りたたみ収納プラグ PSE認証 高速充電 耐トラッキング対策 ブラック YPD-65CCA":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JChtEZOtkSl07jd9WjtBiU8AAAGhI8h27QcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBFsWx9/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBJLOjip968mNftUNukaPBI6YRJ5piI7PXUgHTbt1Oeh207uNJl7c9UYZzwZNmzKIFmVzXO1zFQIuxF4Q8Wfvyx848GMrqKe_sJB4N7gYVqMwF5OtCfZ5bx7Id2KrrUL00V4yzu5_MKHiSLoUc4FrYjaxelwNahDLmiy_lvaD5ezvaTfXero3_pyaVYcn8LTd5vB81LhdcZLOaR5kx5KwxECrjEfd9weEtcPoaYpbRiYivEQiGlCSQ6WEzDK8psS3SZ3Fm5QR24EJrNIz9zGw28S5GRegfaV8kf1Sk8zqPCeY_rfkFU6dE6S4v9xrEsBgJ5H_Bh5Kz7vwy2iXjQVr5oB3PQ8jLSABIHdxoG9SFbFjfJGsffqvA1H_GpF5s34FHXg9ToexSE08zhCJje_ViPakfJSrLhmrfEPZDP1aLFIy1Iz0UCtqZ3R0QqTPQWBmGvlQdmLiXo0WJERJMxJjU656agRhfCVLx_osGEz9wo9MNLJvP9Nrljw6p7mGVAoCw0m5Go_-_UPtZbHePbc5ml57pX9ZctuExyb9SreQvdxmCbS7kVqZMz1kfWO_ym3ZIF3s8I1vSWpiazm7xLvMk5TJT3kpfCA3UlawY-3JUTCNq7JCsxybw7WBuy1jYqO1CxDAkmLTvFo_5lOVer1T3rXsCaQm3GO0qVG1PKWfJiPJMOVPcG-GZ3OOIH2Ihl1SCi22PWQ0dyK_Vb5ZtaFdPolN-5twoqYjwb2RTOhiBL-vSuFAX8pkRvW2lO07DX6mgdunsapn3iCw11EGlcVjbIhJX457_oKJu9-EQXjjQKrLYwF3NhWSRmQsw2WrpuiRyTxZg8jgzBKU3dFANarOtrEOvlGbKlqayEpp3Y-UlHGv1ikpiq4ykpAVb5pTY1rYGGzTVB38fpLyNczUTpC8rpp2PjH8k7NN2MggcpD9x925otxrTRSNpObzaixp96159A9Gh77lOCqzjlmXkGjErH21sHmHmvplvJyQIRERHGRJZExv2J8W0SqBHnR-jiOrZaGYA/https://www.amazon.co.jp/dp/B0FB7V2CPF/?_encoding=UTF8&pd_rd_i=B0FB7V2CPF&pd_rd_i=B0FB7V2CPF&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link "67件のレビューから5つ星のうち4.2と評価されました":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JChtEZOtkSl07jd9WjtBiU8AAAGhI8h27QcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBFsWx9/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBJLOjip968mNftUNukaPBI6YRJ5piI7PXUgHTbt1Oeh207uNJl7c9UYZzwZNmzKIFmVzXO1zFQIuxF4Q8Wfvyx848GMrqKe_sJB4N7gYVqMwF5OtCfZ5bx7Id2KrrUL00V4yzu5_MKHiSLoUc4FrYjaxelwNahDLmiy_lvaD5ezvaTfXero3_pyaVYcn8LTd5vB81LhdcZLOaR5kx5KwxECrjEfd9weEtcPoaYpbRiYivEQiGlCSQ6WEzDK8psS3SZ3Fm5QR24EJrNIz9zGw28S5GRegfaV8kf1Sk8zqPCeY_rfkFU6dE6S4v9xrEsBgJ5H_Bh5Kz7vwy2iXjQVr5oB3PQ8jLSABIHdxoG9SFbFjfJGsffqvA1H_GpF5s34FHXg9ToexSE08zhCJje_ViPakfJSrLhmrfEPZDP1aLFIy1Iz0UCtqZ3R0QqTPQWBmGvlQdmLiXo0WJERJMxJjU656agRhfCVLx_osGEz9wo9MNLJvP9Nrljw6p7mGVAoCw0m5Go_-_UPtZbHePbc5ml57pX9ZctuExyb9SreQvdxmCbS7kVqZMz1kfWO_ym3ZIF3s8I1vSWpiazm7xLvMk5TJT3kpfCA3UlawY-3JUTCNq7JCsxybw7WBuy1jYqO1CxDAkmLTvFo_5lOVer1T3rXsCaQm3GO0qVG1PKWfJiPJMOVPcG-GZ3OOIH2Ihl1SCi22PWQ0dyK_Vb5ZtaFdPolN-5twoqYjwb2RTOhiBL-vSuFAX8pkRvW2lO07DX6mgdunsapn3iCw11EGlcVjbIhJX457_oKJu9-EQXjjQKrLYwF3NhWSRmQsw2WrpuiRyTxZg8jgzBKU3dFANarOtrEOvlGbKlqayEpp3Y-UlHGv1ikpiq4ykpAVb5pTY1rYGGzTVB38fpLyNczUTpC8rpp2PjH8k7NN2MggcpD9x925otxrTRSNpObzaixp96159A9Gh77lOCqzjlmXkGjErH21sHmHmvplvJyQIRERHGRJZExv2J8W0SqBHnR-jiOrZaGYA/https://www.amazon.co.jp/dp/B0FB7V2CPF/?_encoding=UTF8&pd_rd_i=B0FB7V2CPF&pd_rd_i=B0FB7V2CPF&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - text: "4.2"
+      - generic: 5つ星のうち4.2
+      - text: "67"
+    - link "￥4,331":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JChtEZOtkSl07jd9WjtBiU8AAAGhI8h27QcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBFsWx9/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBJLOjip968mNftUNukaPBI6YRJ5piI7PXUgHTbt1Oeh207uNJl7c9UYZzwZNmzKIFmVzXO1zFQIuxF4Q8Wfvyx848GMrqKe_sJB4N7gYVqMwF5OtCfZ5bx7Id2KrrUL00V4yzu5_MKHiSLoUc4FrYjaxelwNahDLmiy_lvaD5ezvaTfXero3_pyaVYcn8LTd5vB81LhdcZLOaR5kx5KwxECrjEfd9weEtcPoaYpbRiYivEQiGlCSQ6WEzDK8psS3SZ3Fm5QR24EJrNIz9zGw28S5GRegfaV8kf1Sk8zqPCeY_rfkFU6dE6S4v9xrEsBgJ5H_Bh5Kz7vwy2iXjQVr5oB3PQ8jLSABIHdxoG9SFbFjfJGsffqvA1H_GpF5s34FHXg9ToexSE08zhCJje_ViPakfJSrLhmrfEPZDP1aLFIy1Iz0UCtqZ3R0QqTPQWBmGvlQdmLiXo0WJERJMxJjU656agRhfCVLx_osGEz9wo9MNLJvP9Nrljw6p7mGVAoCw0m5Go_-_UPtZbHePbc5ml57pX9ZctuExyb9SreQvdxmCbS7kVqZMz1kfWO_ym3ZIF3s8I1vSWpiazm7xLvMk5TJT3kpfCA3UlawY-3JUTCNq7JCsxybw7WBuy1jYqO1CxDAkmLTvFo_5lOVer1T3rXsCaQm3GO0qVG1PKWfJiPJMOVPcG-GZ3OOIH2Ihl1SCi22PWQ0dyK_Vb5ZtaFdPolN-5twoqYjwb2RTOhiBL-vSuFAX8pkRvW2lO07DX6mgdunsapn3iCw11EGlcVjbIhJX457_oKJu9-EQXjjQKrLYwF3NhWSRmQsw2WrpuiRyTxZg8jgzBKU3dFANarOtrEOvlGbKlqayEpp3Y-UlHGv1ikpiq4ykpAVb5pTY1rYGGzTVB38fpLyNczUTpC8rpp2PjH8k7NN2MggcpD9x925otxrTRSNpObzaixp96159A9Gh77lOCqzjlmXkGjErH21sHmHmvplvJyQIRERHGRJZExv2J8W0SqBHnR-jiOrZaGYA/https://www.amazon.co.jp/dp/B0FB7V2CPF/?_encoding=UTF8&pd_rd_i=B0FB7V2CPF&pd_rd_i=B0FB7V2CPF&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - generic: ￥4,331
+      - generic: ￥4,331
+    - link "スポンサー動画の場合、クリックすると特集ページに移動します。":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JJnoldJ-4oJMaGvz_VUt85IAAAGhI8h27gcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCIaaxf/clv1c_ek-ww_XTatbWTYnNbwucz4LaPqVZHOLNXKo4cDawHupN60Lrwcpqf5sqfjMBQbcpoBR5mStMcSvg_8oQxR_ISYty3SVKtojvHBvkEtH5P_0mly71rmVVGgpK85l1oFQjG28f6G9KqX0PNNn6z7sVA43UivlcF1fwioDgD5SqBYILQF1R0xJuYYj7a8VXiLj2me2IXQYT_1ZYhZ_l92jbcEoQ3YzWtuqqEmam_a6ohsH80aibM50AIkW2a0LXPljyjWR71XFP7P6-1bqmss7AQAGWxb_J_zoGtPzAwrWaxLaT3mAehMV2ry4eLozqNHNicWphVuSqi8sz9bg-_MKGlzil1NreWowAcfTAGiFRjVS8N8iZorOI5MvQJGiN1ivLEkZEiLB9Xps1Du7NVhjUlSvHU3VFK119-mWDc2JOr-pnZwvmPrxZo4ummZQlCV1NwDaggdOLQBO6tat8HDXzuUmnnuaCAUSIs-dk1Y5r-7EcbZgz6d2A11-ujfQsFATDsWk6TmAmb5OHrFWxp4T03xiDsNayjiclCRGemSPzUOkyXwguMF5TZZjL3JH_Loa3HE4ZE289mWIPUkjLQq64wd0lXGZnu5Hyhf9a9kxmEAcHw6YZOv8TyfxWdqzNU3thgIPCuQmPycXcG9tY7RI-Yhe_5wzirvSWXIz9Juft2O_fay436cv2nNJKqT4zwiOegc5Grn7lo8RdleaRopUHYmLLk7T8oy1v04Z5u-fVSoyVjBH7MmPT_oVj0J7vYeYrx4QTXLvJnKLRCXLda5u6XvArB_sgLEujbTG7OPYu9AuvB4_VDdkbV2jVn1P-21XyvtjUjb4pEem5KDjDLWnzo3gJpQES7byDOS-w4efVLmBtxM0pJPAmHYvE2mqFKj1D0L8sRyFCSi3QANaigqyZKB-1fM6hfKhPD7sxOCpUNtic_uKoWKJgWHQ1odoag4K0OGQl1UZQ5qcvMQBaiFa7jbxAOzohB6Z51gul050NJVoZP_NbfkC39ot5Od9d4o8D-KQgMgQ6TTZh5XcCtBNVvgKdttTOrFKgg3U/https://www.amazon.co.jp/dp/B0FG2W3ZCM/?_encoding=UTF8&pd_rd_i=B0FG2W3ZCM&pd_rd_i=B0FG2W3ZCM&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - generic "スポンサー動画の場合、クリックすると特集ページに移動します。"
+    - link "充電器-type-c (2個セット/2ポート) 20W usb タイプc 充電器 急速充電 USB-C+USB-A iPhone/Android【PSE認証&USB-C ケーブル 2m】 超低温·純正·小型 iPhone17/16/15/Pro/max/Pad Pro/AirPods/GalaxyS24-S10/Google Pixel などに対応":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JJnoldJ-4oJMaGvz_VUt85IAAAGhI8h27gcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCIaaxf/clv1c_ek-ww_XTatbWTYnNbwucz4LaPqVZHOLNXKo4cDawHupN60Lrwcpqf5sqfjMBQbcpoBR5mStMcSvg_8oQxR_ISYty3SVKtojvHBvkEtH5P_0mly71rmVVGgpK85l1oFQjG28f6G9KqX0PNNn6z7sVA43UivlcF1fwioDgD5SqBYILQF1R0xJuYYj7a8VXiLj2me2IXQYT_1ZYhZ_l92jbcEoQ3YzWtuqqEmam_a6ohsH80aibM50AIkW2a0LXPljyjWR71XFP7P6-1bqmss7AQAGWxb_J_zoGtPzAwrWaxLaT3mAehMV2ry4eLozqNHNicWphVuSqi8sz9bg-_MKGlzil1NreWowAcfTAGiFRjVS8N8iZorOI5MvQJGiN1ivLEkZEiLB9Xps1Du7NVhjUlSvHU3VFK119-mWDc2JOr-pnZwvmPrxZo4ummZQlCV1NwDaggdOLQBO6tat8HDXzuUmnnuaCAUSIs-dk1Y5r-7EcbZgz6d2A11-ujfQsFATDsWk6TmAmb5OHrFWxp4T03xiDsNayjiclCRGemSPzUOkyXwguMF5TZZjL3JH_Loa3HE4ZE289mWIPUkjLQq64wd0lXGZnu5Hyhf9a9kxmEAcHw6YZOv8TyfxWdqzNU3thgIPCuQmPycXcG9tY7RI-Yhe_5wzirvSWXIz9Juft2O_fay436cv2nNJKqT4zwiOegc5Grn7lo8RdleaRopUHYmLLk7T8oy1v04Z5u-fVSoyVjBH7MmPT_oVj0J7vYeYrx4QTXLvJnKLRCXLda5u6XvArB_sgLEujbTG7OPYu9AuvB4_VDdkbV2jVn1P-21XyvtjUjb4pEem5KDjDLWnzo3gJpQES7byDOS-w4efVLmBtxM0pJPAmHYvE2mqFKj1D0L8sRyFCSi3QANaigqyZKB-1fM6hfKhPD7sxOCpUNtic_uKoWKJgWHQ1odoag4K0OGQl1UZQ5qcvMQBaiFa7jbxAOzohB6Z51gul050NJVoZP_NbfkC39ot5Od9d4o8D-KQgMgQ6TTZh5XcCtBNVvgKdttTOrFKgg3U/https://www.amazon.co.jp/dp/B0FG2W3ZCM/?_encoding=UTF8&pd_rd_i=B0FG2W3ZCM&pd_rd_i=B0FG2W3ZCM&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - img "充電器-type-c (2個セット/2ポート) 20W usb タイプc 充電器 急速充電 USB-C+USB-A iPhone/Android【PSE認証&USB-C ケーブル 2m】 超低温·純正·小型 iPhone17/16/15/Pro/max/Pad Pro/AirPods/GalaxyS24-S10/Google Pixel などに対応"
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JJnoldJ-4oJMaGvz_VUt85IAAAGhI8h27gcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCIaaxf/clv1c_ek-ww_XTatbWTYnNbwucz4LaPqVZHOLNXKo4cDawHupN60Lrwcpqf5sqfjMBQbcpoBR5mStMcSvg_8oQxR_ISYty3SVKtojvHBvkEtH5P_0mly71rmVVGgpK85l1oFQjG28f6G9KqX0PNNn6z7sVA43UivlcF1fwioDgD5SqBYILQF1R0xJuYYj7a8VXiLj2me2IXQYT_1ZYhZ_l92jbcEoQ3YzWtuqqEmam_a6ohsH80aibM50AIkW2a0LXPljyjWR71XFP7P6-1bqmss7AQAGWxb_J_zoGtPzAwrWaxLaT3mAehMV2ry4eLozqNHNicWphVuSqi8sz9bg-_MKGlzil1NreWowAcfTAGiFRjVS8N8iZorOI5MvQJGiN1ivLEkZEiLB9Xps1Du7NVhjUlSvHU3VFK119-mWDc2JOr-pnZwvmPrxZo4ummZQlCV1NwDaggdOLQBO6tat8HDXzuUmnnuaCAUSIs-dk1Y5r-7EcbZgz6d2A11-ujfQsFATDsWk6TmAmb5OHrFWxp4T03xiDsNayjiclCRGemSPzUOkyXwguMF5TZZjL3JH_Loa3HE4ZE289mWIPUkjLQq64wd0lXGZnu5Hyhf9a9kxmEAcHw6YZOv8TyfxWdqzNU3thgIPCuQmPycXcG9tY7RI-Yhe_5wzirvSWXIz9Juft2O_fay436cv2nNJKqT4zwiOegc5Grn7lo8RdleaRopUHYmLLk7T8oy1v04Z5u-fVSoyVjBH7MmPT_oVj0J7vYeYrx4QTXLvJnKLRCXLda5u6XvArB_sgLEujbTG7OPYu9AuvB4_VDdkbV2jVn1P-21XyvtjUjb4pEem5KDjDLWnzo3gJpQES7byDOS-w4efVLmBtxM0pJPAmHYvE2mqFKj1D0L8sRyFCSi3QANaigqyZKB-1fM6hfKhPD7sxOCpUNtic_uKoWKJgWHQ1odoag4K0OGQl1UZQ5qcvMQBaiFa7jbxAOzohB6Z51gul050NJVoZP_NbfkC39ot5Od9d4o8D-KQgMgQ6TTZh5XcCtBNVvgKdttTOrFKgg3U/https://www.amazon.co.jp/dp/B0FG2W3ZCM/?_encoding=UTF8&pd_rd_i=B0FG2W3ZCM&pd_rd_i=B0FG2W3ZCM&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JJnoldJ-4oJMaGvz_VUt85IAAAGhI8h27gcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCIaaxf/clv1c_ek-ww_XTatbWTYnNbwucz4LaPqVZHOLNXKo4cDawHupN60Lrwcpqf5sqfjMBQbcpoBR5mStMcSvg_8oQxR_ISYty3SVKtojvHBvkEtH5P_0mly71rmVVGgpK85l1oFQjG28f6G9KqX0PNNn6z7sVA43UivlcF1fwioDgD5SqBYILQF1R0xJuYYj7a8VXiLj2me2IXQYT_1ZYhZ_l92jbcEoQ3YzWtuqqEmam_a6ohsH80aibM50AIkW2a0LXPljyjWR71XFP7P6-1bqmss7AQAGWxb_J_zoGtPzAwrWaxLaT3mAehMV2ry4eLozqNHNicWphVuSqi8sz9bg-_MKGlzil1NreWowAcfTAGiFRjVS8N8iZorOI5MvQJGiN1ivLEkZEiLB9Xps1Du7NVhjUlSvHU3VFK119-mWDc2JOr-pnZwvmPrxZo4ummZQlCV1NwDaggdOLQBO6tat8HDXzuUmnnuaCAUSIs-dk1Y5r-7EcbZgz6d2A11-ujfQsFATDsWk6TmAmb5OHrFWxp4T03xiDsNayjiclCRGemSPzUOkyXwguMF5TZZjL3JH_Loa3HE4ZE289mWIPUkjLQq64wd0lXGZnu5Hyhf9a9kxmEAcHw6YZOv8TyfxWdqzNU3thgIPCuQmPycXcG9tY7RI-Yhe_5wzirvSWXIz9Juft2O_fay436cv2nNJKqT4zwiOegc5Grn7lo8RdleaRopUHYmLLk7T8oy1v04Z5u-fVSoyVjBH7MmPT_oVj0J7vYeYrx4QTXLvJnKLRCXLda5u6XvArB_sgLEujbTG7OPYu9AuvB4_VDdkbV2jVn1P-21XyvtjUjb4pEem5KDjDLWnzo3gJpQES7byDOS-w4efVLmBtxM0pJPAmHYvE2mqFKj1D0L8sRyFCSi3QANaigqyZKB-1fM6hfKhPD7sxOCpUNtic_uKoWKJgWHQ1odoag4K0OGQl1UZQ5qcvMQBaiFa7jbxAOzohB6Z51gul050NJVoZP_NbfkC39ot5Od9d4o8D-KQgMgQ6TTZh5XcCtBNVvgKdttTOrFKgg3U/https://www.amazon.co.jp/dp/B0FG2W3ZCM/?_encoding=UTF8&pd_rd_i=B0FG2W3ZCM&pd_rd_i=B0FG2W3ZCM&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link "充電器-type-c (2個セット/2ポート) 20W usb タイプc 充電器 急速充電 USB-C+USB-A iPhone/Android【PSE認証&USB-C ケーブル 2m】 超低温·純正·小型 iPhone17/16/15/Pro/max/Pad Pro/AirPods/GalaxyS24-S10/Google Pixel などに対応":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JJnoldJ-4oJMaGvz_VUt85IAAAGhI8h27gcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCIaaxf/clv1c_ek-ww_XTatbWTYnNbwucz4LaPqVZHOLNXKo4cDawHupN60Lrwcpqf5sqfjMBQbcpoBR5mStMcSvg_8oQxR_ISYty3SVKtojvHBvkEtH5P_0mly71rmVVGgpK85l1oFQjG28f6G9KqX0PNNn6z7sVA43UivlcF1fwioDgD5SqBYILQF1R0xJuYYj7a8VXiLj2me2IXQYT_1ZYhZ_l92jbcEoQ3YzWtuqqEmam_a6ohsH80aibM50AIkW2a0LXPljyjWR71XFP7P6-1bqmss7AQAGWxb_J_zoGtPzAwrWaxLaT3mAehMV2ry4eLozqNHNicWphVuSqi8sz9bg-_MKGlzil1NreWowAcfTAGiFRjVS8N8iZorOI5MvQJGiN1ivLEkZEiLB9Xps1Du7NVhjUlSvHU3VFK119-mWDc2JOr-pnZwvmPrxZo4ummZQlCV1NwDaggdOLQBO6tat8HDXzuUmnnuaCAUSIs-dk1Y5r-7EcbZgz6d2A11-ujfQsFATDsWk6TmAmb5OHrFWxp4T03xiDsNayjiclCRGemSPzUOkyXwguMF5TZZjL3JH_Loa3HE4ZE289mWIPUkjLQq64wd0lXGZnu5Hyhf9a9kxmEAcHw6YZOv8TyfxWdqzNU3thgIPCuQmPycXcG9tY7RI-Yhe_5wzirvSWXIz9Juft2O_fay436cv2nNJKqT4zwiOegc5Grn7lo8RdleaRopUHYmLLk7T8oy1v04Z5u-fVSoyVjBH7MmPT_oVj0J7vYeYrx4QTXLvJnKLRCXLda5u6XvArB_sgLEujbTG7OPYu9AuvB4_VDdkbV2jVn1P-21XyvtjUjb4pEem5KDjDLWnzo3gJpQES7byDOS-w4efVLmBtxM0pJPAmHYvE2mqFKj1D0L8sRyFCSi3QANaigqyZKB-1fM6hfKhPD7sxOCpUNtic_uKoWKJgWHQ1odoag4K0OGQl1UZQ5qcvMQBaiFa7jbxAOzohB6Z51gul050NJVoZP_NbfkC39ot5Od9d4o8D-KQgMgQ6TTZh5XcCtBNVvgKdttTOrFKgg3U/https://www.amazon.co.jp/dp/B0FG2W3ZCM/?_encoding=UTF8&pd_rd_i=B0FG2W3ZCM&pd_rd_i=B0FG2W3ZCM&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link "737件のレビューから5つ星のうち4.3と評価されました":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JJnoldJ-4oJMaGvz_VUt85IAAAGhI8h27gcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCIaaxf/clv1c_ek-ww_XTatbWTYnNbwucz4LaPqVZHOLNXKo4cDawHupN60Lrwcpqf5sqfjMBQbcpoBR5mStMcSvg_8oQxR_ISYty3SVKtojvHBvkEtH5P_0mly71rmVVGgpK85l1oFQjG28f6G9KqX0PNNn6z7sVA43UivlcF1fwioDgD5SqBYILQF1R0xJuYYj7a8VXiLj2me2IXQYT_1ZYhZ_l92jbcEoQ3YzWtuqqEmam_a6ohsH80aibM50AIkW2a0LXPljyjWR71XFP7P6-1bqmss7AQAGWxb_J_zoGtPzAwrWaxLaT3mAehMV2ry4eLozqNHNicWphVuSqi8sz9bg-_MKGlzil1NreWowAcfTAGiFRjVS8N8iZorOI5MvQJGiN1ivLEkZEiLB9Xps1Du7NVhjUlSvHU3VFK119-mWDc2JOr-pnZwvmPrxZo4ummZQlCV1NwDaggdOLQBO6tat8HDXzuUmnnuaCAUSIs-dk1Y5r-7EcbZgz6d2A11-ujfQsFATDsWk6TmAmb5OHrFWxp4T03xiDsNayjiclCRGemSPzUOkyXwguMF5TZZjL3JH_Loa3HE4ZE289mWIPUkjLQq64wd0lXGZnu5Hyhf9a9kxmEAcHw6YZOv8TyfxWdqzNU3thgIPCuQmPycXcG9tY7RI-Yhe_5wzirvSWXIz9Juft2O_fay436cv2nNJKqT4zwiOegc5Grn7lo8RdleaRopUHYmLLk7T8oy1v04Z5u-fVSoyVjBH7MmPT_oVj0J7vYeYrx4QTXLvJnKLRCXLda5u6XvArB_sgLEujbTG7OPYu9AuvB4_VDdkbV2jVn1P-21XyvtjUjb4pEem5KDjDLWnzo3gJpQES7byDOS-w4efVLmBtxM0pJPAmHYvE2mqFKj1D0L8sRyFCSi3QANaigqyZKB-1fM6hfKhPD7sxOCpUNtic_uKoWKJgWHQ1odoag4K0OGQl1UZQ5qcvMQBaiFa7jbxAOzohB6Z51gul050NJVoZP_NbfkC39ot5Od9d4o8D-KQgMgQ6TTZh5XcCtBNVvgKdttTOrFKgg3U/https://www.amazon.co.jp/dp/B0FG2W3ZCM/?_encoding=UTF8&pd_rd_i=B0FG2W3ZCM&pd_rd_i=B0FG2W3ZCM&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - text: "4.3"
+      - generic: 5つ星のうち4.3
+      - text: "737"
+    - 'link "￥1,599 過去価格: ￥1,890"':
+      - /url: https://aax-fe.amazon.co.jp/x/c/JJnoldJ-4oJMaGvz_VUt85IAAAGhI8h27gcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCIaaxf/clv1c_ek-ww_XTatbWTYnNbwucz4LaPqVZHOLNXKo4cDawHupN60Lrwcpqf5sqfjMBQbcpoBR5mStMcSvg_8oQxR_ISYty3SVKtojvHBvkEtH5P_0mly71rmVVGgpK85l1oFQjG28f6G9KqX0PNNn6z7sVA43UivlcF1fwioDgD5SqBYILQF1R0xJuYYj7a8VXiLj2me2IXQYT_1ZYhZ_l92jbcEoQ3YzWtuqqEmam_a6ohsH80aibM50AIkW2a0LXPljyjWR71XFP7P6-1bqmss7AQAGWxb_J_zoGtPzAwrWaxLaT3mAehMV2ry4eLozqNHNicWphVuSqi8sz9bg-_MKGlzil1NreWowAcfTAGiFRjVS8N8iZorOI5MvQJGiN1ivLEkZEiLB9Xps1Du7NVhjUlSvHU3VFK119-mWDc2JOr-pnZwvmPrxZo4ummZQlCV1NwDaggdOLQBO6tat8HDXzuUmnnuaCAUSIs-dk1Y5r-7EcbZgz6d2A11-ujfQsFATDsWk6TmAmb5OHrFWxp4T03xiDsNayjiclCRGemSPzUOkyXwguMF5TZZjL3JH_Loa3HE4ZE289mWIPUkjLQq64wd0lXGZnu5Hyhf9a9kxmEAcHw6YZOv8TyfxWdqzNU3thgIPCuQmPycXcG9tY7RI-Yhe_5wzirvSWXIz9Juft2O_fay436cv2nNJKqT4zwiOegc5Grn7lo8RdleaRopUHYmLLk7T8oy1v04Z5u-fVSoyVjBH7MmPT_oVj0J7vYeYrx4QTXLvJnKLRCXLda5u6XvArB_sgLEujbTG7OPYu9AuvB4_VDdkbV2jVn1P-21XyvtjUjb4pEem5KDjDLWnzo3gJpQES7byDOS-w4efVLmBtxM0pJPAmHYvE2mqFKj1D0L8sRyFCSi3QANaigqyZKB-1fM6hfKhPD7sxOCpUNtic_uKoWKJgWHQ1odoag4K0OGQl1UZQ5qcvMQBaiFa7jbxAOzohB6Z51gul050NJVoZP_NbfkC39ot5Od9d4o8D-KQgMgQ6TTZh5XcCtBNVvgKdttTOrFKgg3U/https://www.amazon.co.jp/dp/B0FG2W3ZCM/?_encoding=UTF8&pd_rd_i=B0FG2W3ZCM&pd_rd_i=B0FG2W3ZCM&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - generic: ￥1,599
+      - generic: ￥1,599
+      - text: "過去価格:"
+      - generic: ￥1,890
+      - text: ￥1,890
+    - link "スポンサー動画の場合、クリックすると特集ページに移動します。":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JLRBGFj0UJWZhZksNs5KBFQAAAGhI8h27wcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDSmnZ4/clv1c_ek-ww_fTLcbWDonN7wucz4LaPqVZHMIVnIkmLx3Zr4_g-7FQkLXNQmiMufsJX63vuRnBATImFxai1i_6wlFbGdMPhk9LdU-VIs2nj1Kg_NKlukVPlxgii-n6yiH8NmFaDWJQvMVqwewrGCp04vFLE5DZpumsVmf7UmXwSjOi_tLX6kdAgbxy9KCJYEqxz0mnILRLR2vpqZfIktIbIwzQqkaSMgRT1WifGq7MC1EsNyThyuquyikMulTAK7jmsRY7QdoDFLgqx6NS76O3ew9G0DWOvsEofFOag6-dQPRAuEN9c3kHgIgnoD5lnR33Bl6rJ4h_p8YkwhXS2BfSv-mkzpjwVjEYRnZNSk18zTBEDNA-3xWVecJMmXObLrObszzRW-tRb82IkJd6Z-vDh28mk3J7v7uP9BUBSRzimxEhUWqC3TdANYRsQEPa0FEhUEcqyNOp0z4XflwI8VmzBfKtNq7qx_vUroAJIVNNJP00qqkgqQMaduHmKaBubin_dm8BlTA63cdzqXE5WCkD_AVWyNhRtRgSOizIKv6Y7pnjpqoWuIDnQW3y9OkBXWzldegsswwF_fZZ9bqcL9lhWRlrA2lP1cWOcltBQUHXiU64dsX0HGOIKApJkbf0NNtJIsg8eFH7b8K_piGjRKfvjBnj1SzArvOa3G-WvVb9iKf93U3KVhe-MuPa2MJC81yOrA6jfkXsRSslYGf6HZwWEDTThwRB3cpg9qwjVXLxRGJNxqiURQk2bI_o25RaTykX767OJ2U5_pH-boxTRLyJNhPiFKEKdyjiu0m6ZcUyHKyh6hDbMA4dRSLqbw4odLqKh-zH6HsspOZ7eSMMoA_ubVHCRI8rWzfY5GXsfPts86QKJG3AIw2k5Kj58_cUnvCHa61jCmAjdSCt_G7UsaE7VGlTlRclBy6jVAhDhW2TRSptcgCpN-Kzh32lueApCQ7DXHzpU0vewMBxNBmDqTAeLoxqcr9_VxF-vqG4pJJas4ISx8NSZoT6RVENUJsv19FzJMjFsLIZeznRQsEJ79Gkmuv7v_1KtVcCcw7_YIwfOIir4A/https://www.amazon.co.jp/dp/B0F43NCQ25/?_encoding=UTF8&pd_rd_i=B0F43NCQ25&pd_rd_i=B0F43NCQ25&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - generic "スポンサー動画の場合、クリックすると特集ページに移動します。"
+    - link "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JLRBGFj0UJWZhZksNs5KBFQAAAGhI8h27wcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDSmnZ4/clv1c_ek-ww_fTLcbWDonN7wucz4LaPqVZHMIVnIkmLx3Zr4_g-7FQkLXNQmiMufsJX63vuRnBATImFxai1i_6wlFbGdMPhk9LdU-VIs2nj1Kg_NKlukVPlxgii-n6yiH8NmFaDWJQvMVqwewrGCp04vFLE5DZpumsVmf7UmXwSjOi_tLX6kdAgbxy9KCJYEqxz0mnILRLR2vpqZfIktIbIwzQqkaSMgRT1WifGq7MC1EsNyThyuquyikMulTAK7jmsRY7QdoDFLgqx6NS76O3ew9G0DWOvsEofFOag6-dQPRAuEN9c3kHgIgnoD5lnR33Bl6rJ4h_p8YkwhXS2BfSv-mkzpjwVjEYRnZNSk18zTBEDNA-3xWVecJMmXObLrObszzRW-tRb82IkJd6Z-vDh28mk3J7v7uP9BUBSRzimxEhUWqC3TdANYRsQEPa0FEhUEcqyNOp0z4XflwI8VmzBfKtNq7qx_vUroAJIVNNJP00qqkgqQMaduHmKaBubin_dm8BlTA63cdzqXE5WCkD_AVWyNhRtRgSOizIKv6Y7pnjpqoWuIDnQW3y9OkBXWzldegsswwF_fZZ9bqcL9lhWRlrA2lP1cWOcltBQUHXiU64dsX0HGOIKApJkbf0NNtJIsg8eFH7b8K_piGjRKfvjBnj1SzArvOa3G-WvVb9iKf93U3KVhe-MuPa2MJC81yOrA6jfkXsRSslYGf6HZwWEDTThwRB3cpg9qwjVXLxRGJNxqiURQk2bI_o25RaTykX767OJ2U5_pH-boxTRLyJNhPiFKEKdyjiu0m6ZcUyHKyh6hDbMA4dRSLqbw4odLqKh-zH6HsspOZ7eSMMoA_ubVHCRI8rWzfY5GXsfPts86QKJG3AIw2k5Kj58_cUnvCHa61jCmAjdSCt_G7UsaE7VGlTlRclBy6jVAhDhW2TRSptcgCpN-Kzh32lueApCQ7DXHzpU0vewMBxNBmDqTAeLoxqcr9_VxF-vqG4pJJas4ISx8NSZoT6RVENUJsv19FzJMjFsLIZeznRQsEJ79Gkmuv7v_1KtVcCcw7_YIwfOIir4A/https://www.amazon.co.jp/dp/B0F43NCQ25/?_encoding=UTF8&pd_rd_i=B0F43NCQ25&pd_rd_i=B0F43NCQ25&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - img "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK"
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JLRBGFj0UJWZhZksNs5KBFQAAAGhI8h27wcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDSmnZ4/clv1c_ek-ww_fTLcbWDonN7wucz4LaPqVZHMIVnIkmLx3Zr4_g-7FQkLXNQmiMufsJX63vuRnBATImFxai1i_6wlFbGdMPhk9LdU-VIs2nj1Kg_NKlukVPlxgii-n6yiH8NmFaDWJQvMVqwewrGCp04vFLE5DZpumsVmf7UmXwSjOi_tLX6kdAgbxy9KCJYEqxz0mnILRLR2vpqZfIktIbIwzQqkaSMgRT1WifGq7MC1EsNyThyuquyikMulTAK7jmsRY7QdoDFLgqx6NS76O3ew9G0DWOvsEofFOag6-dQPRAuEN9c3kHgIgnoD5lnR33Bl6rJ4h_p8YkwhXS2BfSv-mkzpjwVjEYRnZNSk18zTBEDNA-3xWVecJMmXObLrObszzRW-tRb82IkJd6Z-vDh28mk3J7v7uP9BUBSRzimxEhUWqC3TdANYRsQEPa0FEhUEcqyNOp0z4XflwI8VmzBfKtNq7qx_vUroAJIVNNJP00qqkgqQMaduHmKaBubin_dm8BlTA63cdzqXE5WCkD_AVWyNhRtRgSOizIKv6Y7pnjpqoWuIDnQW3y9OkBXWzldegsswwF_fZZ9bqcL9lhWRlrA2lP1cWOcltBQUHXiU64dsX0HGOIKApJkbf0NNtJIsg8eFH7b8K_piGjRKfvjBnj1SzArvOa3G-WvVb9iKf93U3KVhe-MuPa2MJC81yOrA6jfkXsRSslYGf6HZwWEDTThwRB3cpg9qwjVXLxRGJNxqiURQk2bI_o25RaTykX767OJ2U5_pH-boxTRLyJNhPiFKEKdyjiu0m6ZcUyHKyh6hDbMA4dRSLqbw4odLqKh-zH6HsspOZ7eSMMoA_ubVHCRI8rWzfY5GXsfPts86QKJG3AIw2k5Kj58_cUnvCHa61jCmAjdSCt_G7UsaE7VGlTlRclBy6jVAhDhW2TRSptcgCpN-Kzh32lueApCQ7DXHzpU0vewMBxNBmDqTAeLoxqcr9_VxF-vqG4pJJas4ISx8NSZoT6RVENUJsv19FzJMjFsLIZeznRQsEJ79Gkmuv7v_1KtVcCcw7_YIwfOIir4A/https://www.amazon.co.jp/dp/B0F43NCQ25/?_encoding=UTF8&pd_rd_i=B0F43NCQ25&pd_rd_i=B0F43NCQ25&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JLRBGFj0UJWZhZksNs5KBFQAAAGhI8h27wcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDSmnZ4/clv1c_ek-ww_fTLcbWDonN7wucz4LaPqVZHMIVnIkmLx3Zr4_g-7FQkLXNQmiMufsJX63vuRnBATImFxai1i_6wlFbGdMPhk9LdU-VIs2nj1Kg_NKlukVPlxgii-n6yiH8NmFaDWJQvMVqwewrGCp04vFLE5DZpumsVmf7UmXwSjOi_tLX6kdAgbxy9KCJYEqxz0mnILRLR2vpqZfIktIbIwzQqkaSMgRT1WifGq7MC1EsNyThyuquyikMulTAK7jmsRY7QdoDFLgqx6NS76O3ew9G0DWOvsEofFOag6-dQPRAuEN9c3kHgIgnoD5lnR33Bl6rJ4h_p8YkwhXS2BfSv-mkzpjwVjEYRnZNSk18zTBEDNA-3xWVecJMmXObLrObszzRW-tRb82IkJd6Z-vDh28mk3J7v7uP9BUBSRzimxEhUWqC3TdANYRsQEPa0FEhUEcqyNOp0z4XflwI8VmzBfKtNq7qx_vUroAJIVNNJP00qqkgqQMaduHmKaBubin_dm8BlTA63cdzqXE5WCkD_AVWyNhRtRgSOizIKv6Y7pnjpqoWuIDnQW3y9OkBXWzldegsswwF_fZZ9bqcL9lhWRlrA2lP1cWOcltBQUHXiU64dsX0HGOIKApJkbf0NNtJIsg8eFH7b8K_piGjRKfvjBnj1SzArvOa3G-WvVb9iKf93U3KVhe-MuPa2MJC81yOrA6jfkXsRSslYGf6HZwWEDTThwRB3cpg9qwjVXLxRGJNxqiURQk2bI_o25RaTykX767OJ2U5_pH-boxTRLyJNhPiFKEKdyjiu0m6ZcUyHKyh6hDbMA4dRSLqbw4odLqKh-zH6HsspOZ7eSMMoA_ubVHCRI8rWzfY5GXsfPts86QKJG3AIw2k5Kj58_cUnvCHa61jCmAjdSCt_G7UsaE7VGlTlRclBy6jVAhDhW2TRSptcgCpN-Kzh32lueApCQ7DXHzpU0vewMBxNBmDqTAeLoxqcr9_VxF-vqG4pJJas4ISx8NSZoT6RVENUJsv19FzJMjFsLIZeznRQsEJ79Gkmuv7v_1KtVcCcw7_YIwfOIir4A/https://www.amazon.co.jp/dp/B0F43NCQ25/?_encoding=UTF8&pd_rd_i=B0F43NCQ25&pd_rd_i=B0F43NCQ25&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link "エレコム 充電器 100W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 ブラック EC-AC104100BK":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JLRBGFj0UJWZhZksNs5KBFQAAAGhI8h27wcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDSmnZ4/clv1c_ek-ww_fTLcbWDonN7wucz4LaPqVZHMIVnIkmLx3Zr4_g-7FQkLXNQmiMufsJX63vuRnBATImFxai1i_6wlFbGdMPhk9LdU-VIs2nj1Kg_NKlukVPlxgii-n6yiH8NmFaDWJQvMVqwewrGCp04vFLE5DZpumsVmf7UmXwSjOi_tLX6kdAgbxy9KCJYEqxz0mnILRLR2vpqZfIktIbIwzQqkaSMgRT1WifGq7MC1EsNyThyuquyikMulTAK7jmsRY7QdoDFLgqx6NS76O3ew9G0DWOvsEofFOag6-dQPRAuEN9c3kHgIgnoD5lnR33Bl6rJ4h_p8YkwhXS2BfSv-mkzpjwVjEYRnZNSk18zTBEDNA-3xWVecJMmXObLrObszzRW-tRb82IkJd6Z-vDh28mk3J7v7uP9BUBSRzimxEhUWqC3TdANYRsQEPa0FEhUEcqyNOp0z4XflwI8VmzBfKtNq7qx_vUroAJIVNNJP00qqkgqQMaduHmKaBubin_dm8BlTA63cdzqXE5WCkD_AVWyNhRtRgSOizIKv6Y7pnjpqoWuIDnQW3y9OkBXWzldegsswwF_fZZ9bqcL9lhWRlrA2lP1cWOcltBQUHXiU64dsX0HGOIKApJkbf0NNtJIsg8eFH7b8K_piGjRKfvjBnj1SzArvOa3G-WvVb9iKf93U3KVhe-MuPa2MJC81yOrA6jfkXsRSslYGf6HZwWEDTThwRB3cpg9qwjVXLxRGJNxqiURQk2bI_o25RaTykX767OJ2U5_pH-boxTRLyJNhPiFKEKdyjiu0m6ZcUyHKyh6hDbMA4dRSLqbw4odLqKh-zH6HsspOZ7eSMMoA_ubVHCRI8rWzfY5GXsfPts86QKJG3AIw2k5Kj58_cUnvCHa61jCmAjdSCt_G7UsaE7VGlTlRclBy6jVAhDhW2TRSptcgCpN-Kzh32lueApCQ7DXHzpU0vewMBxNBmDqTAeLoxqcr9_VxF-vqG4pJJas4ISx8NSZoT6RVENUJsv19FzJMjFsLIZeznRQsEJ79Gkmuv7v_1KtVcCcw7_YIwfOIir4A/https://www.amazon.co.jp/dp/B0F43NCQ25/?_encoding=UTF8&pd_rd_i=B0F43NCQ25&pd_rd_i=B0F43NCQ25&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link "373件のレビューから5つ星のうち4.0と評価されました":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JLRBGFj0UJWZhZksNs5KBFQAAAGhI8h27wcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDSmnZ4/clv1c_ek-ww_fTLcbWDonN7wucz4LaPqVZHMIVnIkmLx3Zr4_g-7FQkLXNQmiMufsJX63vuRnBATImFxai1i_6wlFbGdMPhk9LdU-VIs2nj1Kg_NKlukVPlxgii-n6yiH8NmFaDWJQvMVqwewrGCp04vFLE5DZpumsVmf7UmXwSjOi_tLX6kdAgbxy9KCJYEqxz0mnILRLR2vpqZfIktIbIwzQqkaSMgRT1WifGq7MC1EsNyThyuquyikMulTAK7jmsRY7QdoDFLgqx6NS76O3ew9G0DWOvsEofFOag6-dQPRAuEN9c3kHgIgnoD5lnR33Bl6rJ4h_p8YkwhXS2BfSv-mkzpjwVjEYRnZNSk18zTBEDNA-3xWVecJMmXObLrObszzRW-tRb82IkJd6Z-vDh28mk3J7v7uP9BUBSRzimxEhUWqC3TdANYRsQEPa0FEhUEcqyNOp0z4XflwI8VmzBfKtNq7qx_vUroAJIVNNJP00qqkgqQMaduHmKaBubin_dm8BlTA63cdzqXE5WCkD_AVWyNhRtRgSOizIKv6Y7pnjpqoWuIDnQW3y9OkBXWzldegsswwF_fZZ9bqcL9lhWRlrA2lP1cWOcltBQUHXiU64dsX0HGOIKApJkbf0NNtJIsg8eFH7b8K_piGjRKfvjBnj1SzArvOa3G-WvVb9iKf93U3KVhe-MuPa2MJC81yOrA6jfkXsRSslYGf6HZwWEDTThwRB3cpg9qwjVXLxRGJNxqiURQk2bI_o25RaTykX767OJ2U5_pH-boxTRLyJNhPiFKEKdyjiu0m6ZcUyHKyh6hDbMA4dRSLqbw4odLqKh-zH6HsspOZ7eSMMoA_ubVHCRI8rWzfY5GXsfPts86QKJG3AIw2k5Kj58_cUnvCHa61jCmAjdSCt_G7UsaE7VGlTlRclBy6jVAhDhW2TRSptcgCpN-Kzh32lueApCQ7DXHzpU0vewMBxNBmDqTAeLoxqcr9_VxF-vqG4pJJas4ISx8NSZoT6RVENUJsv19FzJMjFsLIZeznRQsEJ79Gkmuv7v_1KtVcCcw7_YIwfOIir4A/https://www.amazon.co.jp/dp/B0F43NCQ25/?_encoding=UTF8&pd_rd_i=B0F43NCQ25&pd_rd_i=B0F43NCQ25&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - text: "4.0"
+      - generic: 5つ星のうち4.0
+      - text: "373"
+    - link "18%OFF タイムセール":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JLRBGFj0UJWZhZksNs5KBFQAAAGhI8h27wcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDSmnZ4/clv1c_ek-ww_fTLcbWDonN7wucz4LaPqVZHMIVnIkmLx3Zr4_g-7FQkLXNQmiMufsJX63vuRnBATImFxai1i_6wlFbGdMPhk9LdU-VIs2nj1Kg_NKlukVPlxgii-n6yiH8NmFaDWJQvMVqwewrGCp04vFLE5DZpumsVmf7UmXwSjOi_tLX6kdAgbxy9KCJYEqxz0mnILRLR2vpqZfIktIbIwzQqkaSMgRT1WifGq7MC1EsNyThyuquyikMulTAK7jmsRY7QdoDFLgqx6NS76O3ew9G0DWOvsEofFOag6-dQPRAuEN9c3kHgIgnoD5lnR33Bl6rJ4h_p8YkwhXS2BfSv-mkzpjwVjEYRnZNSk18zTBEDNA-3xWVecJMmXObLrObszzRW-tRb82IkJd6Z-vDh28mk3J7v7uP9BUBSRzimxEhUWqC3TdANYRsQEPa0FEhUEcqyNOp0z4XflwI8VmzBfKtNq7qx_vUroAJIVNNJP00qqkgqQMaduHmKaBubin_dm8BlTA63cdzqXE5WCkD_AVWyNhRtRgSOizIKv6Y7pnjpqoWuIDnQW3y9OkBXWzldegsswwF_fZZ9bqcL9lhWRlrA2lP1cWOcltBQUHXiU64dsX0HGOIKApJkbf0NNtJIsg8eFH7b8K_piGjRKfvjBnj1SzArvOa3G-WvVb9iKf93U3KVhe-MuPa2MJC81yOrA6jfkXsRSslYGf6HZwWEDTThwRB3cpg9qwjVXLxRGJNxqiURQk2bI_o25RaTykX767OJ2U5_pH-boxTRLyJNhPiFKEKdyjiu0m6ZcUyHKyh6hDbMA4dRSLqbw4odLqKh-zH6HsspOZ7eSMMoA_ubVHCRI8rWzfY5GXsfPts86QKJG3AIw2k5Kj58_cUnvCHa61jCmAjdSCt_G7UsaE7VGlTlRclBy6jVAhDhW2TRSptcgCpN-Kzh32lueApCQ7DXHzpU0vewMBxNBmDqTAeLoxqcr9_VxF-vqG4pJJas4ISx8NSZoT6RVENUJsv19FzJMjFsLIZeznRQsEJ79Gkmuv7v_1KtVcCcw7_YIwfOIir4A/https://www.amazon.co.jp/dp/B0F43NCQ25/?_encoding=UTF8&pd_rd_i=B0F43NCQ25&pd_rd_i=B0F43NCQ25&ref_=sbx_be_s_sparkle_ssd_db&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - generic: 18%OFF
+      - generic: タイムセール
+    - 'link "￥4,490 過去: ￥5,490"':
+      - /url: https://aax-fe.amazon.co.jp/x/c/JLRBGFj0UJWZhZksNs5KBFQAAAGhI8h27wcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDSmnZ4/clv1c_ek-ww_fTLcbWDonN7wucz4LaPqVZHMIVnIkmLx3Zr4_g-7FQkLXNQmiMufsJX63vuRnBATImFxai1i_6wlFbGdMPhk9LdU-VIs2nj1Kg_NKlukVPlxgii-n6yiH8NmFaDWJQvMVqwewrGCp04vFLE5DZpumsVmf7UmXwSjOi_tLX6kdAgbxy9KCJYEqxz0mnILRLR2vpqZfIktIbIwzQqkaSMgRT1WifGq7MC1EsNyThyuquyikMulTAK7jmsRY7QdoDFLgqx6NS76O3ew9G0DWOvsEofFOag6-dQPRAuEN9c3kHgIgnoD5lnR33Bl6rJ4h_p8YkwhXS2BfSv-mkzpjwVjEYRnZNSk18zTBEDNA-3xWVecJMmXObLrObszzRW-tRb82IkJd6Z-vDh28mk3J7v7uP9BUBSRzimxEhUWqC3TdANYRsQEPa0FEhUEcqyNOp0z4XflwI8VmzBfKtNq7qx_vUroAJIVNNJP00qqkgqQMaduHmKaBubin_dm8BlTA63cdzqXE5WCkD_AVWyNhRtRgSOizIKv6Y7pnjpqoWuIDnQW3y9OkBXWzldegsswwF_fZZ9bqcL9lhWRlrA2lP1cWOcltBQUHXiU64dsX0HGOIKApJkbf0NNtJIsg8eFH7b8K_piGjRKfvjBnj1SzArvOa3G-WvVb9iKf93U3KVhe-MuPa2MJC81yOrA6jfkXsRSslYGf6HZwWEDTThwRB3cpg9qwjVXLxRGJNxqiURQk2bI_o25RaTykX767OJ2U5_pH-boxTRLyJNhPiFKEKdyjiu0m6ZcUyHKyh6hDbMA4dRSLqbw4odLqKh-zH6HsspOZ7eSMMoA_ubVHCRI8rWzfY5GXsfPts86QKJG3AIw2k5Kj58_cUnvCHa61jCmAjdSCt_G7UsaE7VGlTlRclBy6jVAhDhW2TRSptcgCpN-Kzh32lueApCQ7DXHzpU0vewMBxNBmDqTAeLoxqcr9_VxF-vqG4pJJas4ISx8NSZoT6RVENUJsv19FzJMjFsLIZeznRQsEJ79Gkmuv7v_1KtVcCcw7_YIwfOIir4A/https://www.amazon.co.jp/dp/B0F43NCQ25/?_encoding=UTF8&pd_rd_i=B0F43NCQ25&pd_rd_i=B0F43NCQ25&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - generic: ￥4,490
+      - generic: ￥4,490
+      - text: "過去:"
+      - generic: ￥5,490
+      - text: ￥5,490
+    - link "スポンサー動画の場合、クリックすると特集ページに移動します。":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JNLs_WHbPLOB6BTzj1q9j3gAAAGhI8h28AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICC-PGvG/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBLL04W_3aikP_tU4dUaXIAvYm0XoRC5CBLmx1X_KzBQ3k_MLlDiAjz-THGMnurV0gTd7q6se-wG9ivrucGMc964ZvhMHnrhCAl20gAwqRzfzA7QMliQANGXAFycgG0Kc2WwjzUsxZ49FYNCfulzl5o-mpQiNWlsUWqvlctKHg7JrGT7k-rheLiZhBGotLzXuBXmkOXlsCqBG8RLf8v4IE7P5i65kF_dFGtAr3iaW8hvIhKnNXvaWjruXGjk6yxdPZKM185kEoMe3crqqxDCxZvHDhF53PK5iXChkLJ1iMNCJQUmvFSPHOzC0128nYOAdMkzYwSQkr3FUh5C9wyfF_G6UbUqFSKo87kUVVe9WHPHTt7N1Xh3oT050vc7FYzukLQoWwupN_SaaAfEIbhZQbWqHQl9rsB4ckryGM3DWRUJWkhpAzGYqx36FSomIfl9Q2NU3Y7cu775cFgSOzdKoPNePvg-rns8jQkZscwOB7pu09FevMLiSmG2ddayTAclaBmflQdyVukCX2kxCWWoqtDUeOA63iT1wF2Nj9qIyVXJAiDLIiXYzoVhDrUMn2a2jZg2sITHl_O8nhDIu_6jGYjf3neq04B4XhDUUfNuzn-x7ZdfN2KLLUzb8oWWor5YMBaaZPEzmeGMVosKECKEkYgkd5x8LmAP_h8Jr5aeYbmaiomM6NF5qTA8KFjdCG7xfvYES_bvVxpx1bAJ_4Bivxr8-YFWhjivnhDTdEBYXYKLTgdKAxBAjm8THYhDiZdZUACSo_iHlEqtREbxQztY2vwz-CVCB_aq59182MDAXyn7KxhFqFjD4z551ocVzovPurrk_HfYMot0Y1a1_IDOWGlZi8EFHvfN9b6P_TA1ODmDEGGGYUf4S3TWWolp-6RTrey20Ty9U7ibBqFQ1tbdlrumXOa6ogi9PAwIhbwCGnksuj8xyFcbkTFmzBR6BPw_PYXzjZ-JQFGpDA9rRLIzE3aH9cMN7tqalYKBokTFvOE8LrAgRoPrvjG6Ax5skxR8TUvS/https://www.amazon.co.jp/dp/B0CRS24PMN/?_encoding=UTF8&pd_rd_i=B0CRS24PMN&pd_rd_i=B0CRS24PMN&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - generic "スポンサー動画の場合、クリックすると特集ページに移動します。"
+    - link "YOCOEI 40W USB急速充電器 (4ポート/折り畳み式/超コンパクト/iSonicおまかせ充電/PSE認証済み) iPhone/iPadシリーズ/Galaxy/Xperia/Android その他各機器対応 (ブラック)":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JNLs_WHbPLOB6BTzj1q9j3gAAAGhI8h28AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICC-PGvG/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBLL04W_3aikP_tU4dUaXIAvYm0XoRC5CBLmx1X_KzBQ3k_MLlDiAjz-THGMnurV0gTd7q6se-wG9ivrucGMc964ZvhMHnrhCAl20gAwqRzfzA7QMliQANGXAFycgG0Kc2WwjzUsxZ49FYNCfulzl5o-mpQiNWlsUWqvlctKHg7JrGT7k-rheLiZhBGotLzXuBXmkOXlsCqBG8RLf8v4IE7P5i65kF_dFGtAr3iaW8hvIhKnNXvaWjruXGjk6yxdPZKM185kEoMe3crqqxDCxZvHDhF53PK5iXChkLJ1iMNCJQUmvFSPHOzC0128nYOAdMkzYwSQkr3FUh5C9wyfF_G6UbUqFSKo87kUVVe9WHPHTt7N1Xh3oT050vc7FYzukLQoWwupN_SaaAfEIbhZQbWqHQl9rsB4ckryGM3DWRUJWkhpAzGYqx36FSomIfl9Q2NU3Y7cu775cFgSOzdKoPNePvg-rns8jQkZscwOB7pu09FevMLiSmG2ddayTAclaBmflQdyVukCX2kxCWWoqtDUeOA63iT1wF2Nj9qIyVXJAiDLIiXYzoVhDrUMn2a2jZg2sITHl_O8nhDIu_6jGYjf3neq04B4XhDUUfNuzn-x7ZdfN2KLLUzb8oWWor5YMBaaZPEzmeGMVosKECKEkYgkd5x8LmAP_h8Jr5aeYbmaiomM6NF5qTA8KFjdCG7xfvYES_bvVxpx1bAJ_4Bivxr8-YFWhjivnhDTdEBYXYKLTgdKAxBAjm8THYhDiZdZUACSo_iHlEqtREbxQztY2vwz-CVCB_aq59182MDAXyn7KxhFqFjD4z551ocVzovPurrk_HfYMot0Y1a1_IDOWGlZi8EFHvfN9b6P_TA1ODmDEGGGYUf4S3TWWolp-6RTrey20Ty9U7ibBqFQ1tbdlrumXOa6ogi9PAwIhbwCGnksuj8xyFcbkTFmzBR6BPw_PYXzjZ-JQFGpDA9rRLIzE3aH9cMN7tqalYKBokTFvOE8LrAgRoPrvjG6Ax5skxR8TUvS/https://www.amazon.co.jp/dp/B0CRS24PMN/?_encoding=UTF8&pd_rd_i=B0CRS24PMN&pd_rd_i=B0CRS24PMN&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - img "YOCOEI 40W USB急速充電器 (4ポート/折り畳み式/超コンパクト/iSonicおまかせ充電/PSE認証済み) iPhone/iPadシリーズ/Galaxy/Xperia/Android その他各機器対応 (ブラック)"
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JNLs_WHbPLOB6BTzj1q9j3gAAAGhI8h28AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICC-PGvG/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBLL04W_3aikP_tU4dUaXIAvYm0XoRC5CBLmx1X_KzBQ3k_MLlDiAjz-THGMnurV0gTd7q6se-wG9ivrucGMc964ZvhMHnrhCAl20gAwqRzfzA7QMliQANGXAFycgG0Kc2WwjzUsxZ49FYNCfulzl5o-mpQiNWlsUWqvlctKHg7JrGT7k-rheLiZhBGotLzXuBXmkOXlsCqBG8RLf8v4IE7P5i65kF_dFGtAr3iaW8hvIhKnNXvaWjruXGjk6yxdPZKM185kEoMe3crqqxDCxZvHDhF53PK5iXChkLJ1iMNCJQUmvFSPHOzC0128nYOAdMkzYwSQkr3FUh5C9wyfF_G6UbUqFSKo87kUVVe9WHPHTt7N1Xh3oT050vc7FYzukLQoWwupN_SaaAfEIbhZQbWqHQl9rsB4ckryGM3DWRUJWkhpAzGYqx36FSomIfl9Q2NU3Y7cu775cFgSOzdKoPNePvg-rns8jQkZscwOB7pu09FevMLiSmG2ddayTAclaBmflQdyVukCX2kxCWWoqtDUeOA63iT1wF2Nj9qIyVXJAiDLIiXYzoVhDrUMn2a2jZg2sITHl_O8nhDIu_6jGYjf3neq04B4XhDUUfNuzn-x7ZdfN2KLLUzb8oWWor5YMBaaZPEzmeGMVosKECKEkYgkd5x8LmAP_h8Jr5aeYbmaiomM6NF5qTA8KFjdCG7xfvYES_bvVxpx1bAJ_4Bivxr8-YFWhjivnhDTdEBYXYKLTgdKAxBAjm8THYhDiZdZUACSo_iHlEqtREbxQztY2vwz-CVCB_aq59182MDAXyn7KxhFqFjD4z551ocVzovPurrk_HfYMot0Y1a1_IDOWGlZi8EFHvfN9b6P_TA1ODmDEGGGYUf4S3TWWolp-6RTrey20Ty9U7ibBqFQ1tbdlrumXOa6ogi9PAwIhbwCGnksuj8xyFcbkTFmzBR6BPw_PYXzjZ-JQFGpDA9rRLIzE3aH9cMN7tqalYKBokTFvOE8LrAgRoPrvjG6Ax5skxR8TUvS/https://www.amazon.co.jp/dp/B0CRS24PMN/?_encoding=UTF8&pd_rd_i=B0CRS24PMN&pd_rd_i=B0CRS24PMN&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JNLs_WHbPLOB6BTzj1q9j3gAAAGhI8h28AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICC-PGvG/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBLL04W_3aikP_tU4dUaXIAvYm0XoRC5CBLmx1X_KzBQ3k_MLlDiAjz-THGMnurV0gTd7q6se-wG9ivrucGMc964ZvhMHnrhCAl20gAwqRzfzA7QMliQANGXAFycgG0Kc2WwjzUsxZ49FYNCfulzl5o-mpQiNWlsUWqvlctKHg7JrGT7k-rheLiZhBGotLzXuBXmkOXlsCqBG8RLf8v4IE7P5i65kF_dFGtAr3iaW8hvIhKnNXvaWjruXGjk6yxdPZKM185kEoMe3crqqxDCxZvHDhF53PK5iXChkLJ1iMNCJQUmvFSPHOzC0128nYOAdMkzYwSQkr3FUh5C9wyfF_G6UbUqFSKo87kUVVe9WHPHTt7N1Xh3oT050vc7FYzukLQoWwupN_SaaAfEIbhZQbWqHQl9rsB4ckryGM3DWRUJWkhpAzGYqx36FSomIfl9Q2NU3Y7cu775cFgSOzdKoPNePvg-rns8jQkZscwOB7pu09FevMLiSmG2ddayTAclaBmflQdyVukCX2kxCWWoqtDUeOA63iT1wF2Nj9qIyVXJAiDLIiXYzoVhDrUMn2a2jZg2sITHl_O8nhDIu_6jGYjf3neq04B4XhDUUfNuzn-x7ZdfN2KLLUzb8oWWor5YMBaaZPEzmeGMVosKECKEkYgkd5x8LmAP_h8Jr5aeYbmaiomM6NF5qTA8KFjdCG7xfvYES_bvVxpx1bAJ_4Bivxr8-YFWhjivnhDTdEBYXYKLTgdKAxBAjm8THYhDiZdZUACSo_iHlEqtREbxQztY2vwz-CVCB_aq59182MDAXyn7KxhFqFjD4z551ocVzovPurrk_HfYMot0Y1a1_IDOWGlZi8EFHvfN9b6P_TA1ODmDEGGGYUf4S3TWWolp-6RTrey20Ty9U7ibBqFQ1tbdlrumXOa6ogi9PAwIhbwCGnksuj8xyFcbkTFmzBR6BPw_PYXzjZ-JQFGpDA9rRLIzE3aH9cMN7tqalYKBokTFvOE8LrAgRoPrvjG6Ax5skxR8TUvS/https://www.amazon.co.jp/dp/B0CRS24PMN/?_encoding=UTF8&pd_rd_i=B0CRS24PMN&pd_rd_i=B0CRS24PMN&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link "YOCOEI 40W USB急速充電器 (4ポート/折り畳み式/超コンパクト/iSonicおまかせ充電/PSE認証済み) iPhone/iPadシリーズ/Galaxy/Xperia/Android その他各機器対応 (ブラック)":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JNLs_WHbPLOB6BTzj1q9j3gAAAGhI8h28AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICC-PGvG/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBLL04W_3aikP_tU4dUaXIAvYm0XoRC5CBLmx1X_KzBQ3k_MLlDiAjz-THGMnurV0gTd7q6se-wG9ivrucGMc964ZvhMHnrhCAl20gAwqRzfzA7QMliQANGXAFycgG0Kc2WwjzUsxZ49FYNCfulzl5o-mpQiNWlsUWqvlctKHg7JrGT7k-rheLiZhBGotLzXuBXmkOXlsCqBG8RLf8v4IE7P5i65kF_dFGtAr3iaW8hvIhKnNXvaWjruXGjk6yxdPZKM185kEoMe3crqqxDCxZvHDhF53PK5iXChkLJ1iMNCJQUmvFSPHOzC0128nYOAdMkzYwSQkr3FUh5C9wyfF_G6UbUqFSKo87kUVVe9WHPHTt7N1Xh3oT050vc7FYzukLQoWwupN_SaaAfEIbhZQbWqHQl9rsB4ckryGM3DWRUJWkhpAzGYqx36FSomIfl9Q2NU3Y7cu775cFgSOzdKoPNePvg-rns8jQkZscwOB7pu09FevMLiSmG2ddayTAclaBmflQdyVukCX2kxCWWoqtDUeOA63iT1wF2Nj9qIyVXJAiDLIiXYzoVhDrUMn2a2jZg2sITHl_O8nhDIu_6jGYjf3neq04B4XhDUUfNuzn-x7ZdfN2KLLUzb8oWWor5YMBaaZPEzmeGMVosKECKEkYgkd5x8LmAP_h8Jr5aeYbmaiomM6NF5qTA8KFjdCG7xfvYES_bvVxpx1bAJ_4Bivxr8-YFWhjivnhDTdEBYXYKLTgdKAxBAjm8THYhDiZdZUACSo_iHlEqtREbxQztY2vwz-CVCB_aq59182MDAXyn7KxhFqFjD4z551ocVzovPurrk_HfYMot0Y1a1_IDOWGlZi8EFHvfN9b6P_TA1ODmDEGGGYUf4S3TWWolp-6RTrey20Ty9U7ibBqFQ1tbdlrumXOa6ogi9PAwIhbwCGnksuj8xyFcbkTFmzBR6BPw_PYXzjZ-JQFGpDA9rRLIzE3aH9cMN7tqalYKBokTFvOE8LrAgRoPrvjG6Ax5skxR8TUvS/https://www.amazon.co.jp/dp/B0CRS24PMN/?_encoding=UTF8&pd_rd_i=B0CRS24PMN&pd_rd_i=B0CRS24PMN&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+    - link "341件のレビューから5つ星のうち4.1と評価されました":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JNLs_WHbPLOB6BTzj1q9j3gAAAGhI8h28AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICC-PGvG/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBLL04W_3aikP_tU4dUaXIAvYm0XoRC5CBLmx1X_KzBQ3k_MLlDiAjz-THGMnurV0gTd7q6se-wG9ivrucGMc964ZvhMHnrhCAl20gAwqRzfzA7QMliQANGXAFycgG0Kc2WwjzUsxZ49FYNCfulzl5o-mpQiNWlsUWqvlctKHg7JrGT7k-rheLiZhBGotLzXuBXmkOXlsCqBG8RLf8v4IE7P5i65kF_dFGtAr3iaW8hvIhKnNXvaWjruXGjk6yxdPZKM185kEoMe3crqqxDCxZvHDhF53PK5iXChkLJ1iMNCJQUmvFSPHOzC0128nYOAdMkzYwSQkr3FUh5C9wyfF_G6UbUqFSKo87kUVVe9WHPHTt7N1Xh3oT050vc7FYzukLQoWwupN_SaaAfEIbhZQbWqHQl9rsB4ckryGM3DWRUJWkhpAzGYqx36FSomIfl9Q2NU3Y7cu775cFgSOzdKoPNePvg-rns8jQkZscwOB7pu09FevMLiSmG2ddayTAclaBmflQdyVukCX2kxCWWoqtDUeOA63iT1wF2Nj9qIyVXJAiDLIiXYzoVhDrUMn2a2jZg2sITHl_O8nhDIu_6jGYjf3neq04B4XhDUUfNuzn-x7ZdfN2KLLUzb8oWWor5YMBaaZPEzmeGMVosKECKEkYgkd5x8LmAP_h8Jr5aeYbmaiomM6NF5qTA8KFjdCG7xfvYES_bvVxpx1bAJ_4Bivxr8-YFWhjivnhDTdEBYXYKLTgdKAxBAjm8THYhDiZdZUACSo_iHlEqtREbxQztY2vwz-CVCB_aq59182MDAXyn7KxhFqFjD4z551ocVzovPurrk_HfYMot0Y1a1_IDOWGlZi8EFHvfN9b6P_TA1ODmDEGGGYUf4S3TWWolp-6RTrey20Ty9U7ibBqFQ1tbdlrumXOa6ogi9PAwIhbwCGnksuj8xyFcbkTFmzBR6BPw_PYXzjZ-JQFGpDA9rRLIzE3aH9cMN7tqalYKBokTFvOE8LrAgRoPrvjG6Ax5skxR8TUvS/https://www.amazon.co.jp/dp/B0CRS24PMN/?_encoding=UTF8&pd_rd_i=B0CRS24PMN&pd_rd_i=B0CRS24PMN&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - text: "4.1"
+      - generic: 5つ星のうち4.1
+      - text: "341"
+    - link "￥1,800":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JNLs_WHbPLOB6BTzj1q9j3gAAAGhI8h28AcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICC-PGvG/clv1c_ek-ww_HzKtTWDVmEfK54GjtoqyvBLNbYiBLL04W_3aikP_tU4dUaXIAvYm0XoRC5CBLmx1X_KzBQ3k_MLlDiAjz-THGMnurV0gTd7q6se-wG9ivrucGMc964ZvhMHnrhCAl20gAwqRzfzA7QMliQANGXAFycgG0Kc2WwjzUsxZ49FYNCfulzl5o-mpQiNWlsUWqvlctKHg7JrGT7k-rheLiZhBGotLzXuBXmkOXlsCqBG8RLf8v4IE7P5i65kF_dFGtAr3iaW8hvIhKnNXvaWjruXGjk6yxdPZKM185kEoMe3crqqxDCxZvHDhF53PK5iXChkLJ1iMNCJQUmvFSPHOzC0128nYOAdMkzYwSQkr3FUh5C9wyfF_G6UbUqFSKo87kUVVe9WHPHTt7N1Xh3oT050vc7FYzukLQoWwupN_SaaAfEIbhZQbWqHQl9rsB4ckryGM3DWRUJWkhpAzGYqx36FSomIfl9Q2NU3Y7cu775cFgSOzdKoPNePvg-rns8jQkZscwOB7pu09FevMLiSmG2ddayTAclaBmflQdyVukCX2kxCWWoqtDUeOA63iT1wF2Nj9qIyVXJAiDLIiXYzoVhDrUMn2a2jZg2sITHl_O8nhDIu_6jGYjf3neq04B4XhDUUfNuzn-x7ZdfN2KLLUzb8oWWor5YMBaaZPEzmeGMVosKECKEkYgkd5x8LmAP_h8Jr5aeYbmaiomM6NF5qTA8KFjdCG7xfvYES_bvVxpx1bAJ_4Bivxr8-YFWhjivnhDTdEBYXYKLTgdKAxBAjm8THYhDiZdZUACSo_iHlEqtREbxQztY2vwz-CVCB_aq59182MDAXyn7KxhFqFjD4z551ocVzovPurrk_HfYMot0Y1a1_IDOWGlZi8EFHvfN9b6P_TA1ODmDEGGGYUf4S3TWWolp-6RTrey20Ty9U7ibBqFQ1tbdlrumXOa6ogi9PAwIhbwCGnksuj8xyFcbkTFmzBR6BPw_PYXzjZ-JQFGpDA9rRLIzE3aH9cMN7tqalYKBokTFvOE8LrAgRoPrvjG6Ax5skxR8TUvS/https://www.amazon.co.jp/dp/B0CRS24PMN/?_encoding=UTF8&pd_rd_i=B0CRS24PMN&pd_rd_i=B0CRS24PMN&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=jEnJu&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=PRV4DW4F7HH3QFRV9X7E&pd_rd_wg=oA0Ub&pd_rd_w=jEnJu&pd_rd_r=e7f06788-ec70-4f81-8e43-b6fbbf105cee
+      - generic: ￥1,800
+      - generic: ￥1,800
+  - generic "トップレビュー":
+    - separator
+    - heading "カスタマーレビュー" [level=2]
+    - generic: 星5つ中4.3つ
+    - generic: 5つのうち4.3つ
+    - generic: 1,652グローバルレーティング
+    - list:
+      - link "レビューの64%に星5つがついています":
+        - /url: /portal/customer-reviews/B0D53VJJ7F/ref=acr_dp_hist_5?ie=UTF8&filterByStar=five_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 星5つ
+        - progressbar
+        - generic: 64%
+      - link "レビューの20%に星4つがついています":
+        - /url: /portal/customer-reviews/B0D53VJJ7F/ref=acr_dp_hist_4?ie=UTF8&filterByStar=four_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 星4つ
+        - progressbar
+        - generic: 20%
+      - link "レビューの7%に星3つがついています":
+        - /url: /portal/customer-reviews/B0D53VJJ7F/ref=acr_dp_hist_3?ie=UTF8&filterByStar=three_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 星3つ
+        - progressbar
+        - generic: 7%
+      - link "レビューの2%に星2つがついています":
+        - /url: /portal/customer-reviews/B0D53VJJ7F/ref=acr_dp_hist_2?ie=UTF8&filterByStar=two_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 星2つ
+        - progressbar
+        - generic: 2%
+      - link "レビューの7%に星1つがついています":
+        - /url: /portal/customer-reviews/B0D53VJJ7F/ref=acr_dp_hist_1?ie=UTF8&filterByStar=one_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 星1つ
+        - progressbar
+        - generic: 7%
+    - button "評価はどのように計算されますか?": 評価はどのように計算されますか?
+    - separator
+    - heading "お客様のご意見" [level=3]
+    - generic: "お客様はこの充電器について、以下のような評価をしています: 充電速度が速く、旅行の必需品として挙げられています。また、コンパクトで持ち運びやすいという声も多くあります。同時に3ポートの充電ができ、スマホやタブレットを同時に充電できる点が便利だと感じています。 また、同時充電機能も好評で、複数のデバイスを同時に充電でき、電源タップのまわりがスッキリしたとの声があります。 一方で、充電性能については不満の声もあります。特に、充電機能と接続性については意見が分かれているようです。"
+    - generic: お客様の投稿に基づきAIで生成されたものです。カスタマーレビューは、お客様自身による感想や意見であり、Amazon.co.jpの見解を示すものではありません
+    - generic: お客様の投稿に基づきAIで生成されたものです。カスタマーレビューは、お客様自身による感想や意見であり、Amazon.co.jpの見解を示すものではありません
+    - heading "選択して詳細を見る" [level=4]
+    - tablist "選択して詳細を見る":
+      - tab "ポジティブな観点充電速度、152件のメンション":
+        - button "ポジティブな観点充電速度、152件のメンション":
+          - generic: 充電速度(152)
+      - tab "ポジティブな観点携帯性、90件のメンション":
+        - button "ポジティブな観点携帯性、90件のメンション":
+          - generic: 携帯性(90)
+      - tab "ポジティブな観点同時充電、76件のメンション":
+        - button "ポジティブな観点同時充電、76件のメンション":
+          - generic: 同時充電(76)
+      - tab "ポジティブな観点価格、69件のメンション":
+        - button "ポジティブな観点価格、69件のメンション":
+          - generic: 価格(69)
+      - tab "ポジティブな観点発熱、55件のメンション":
+        - button "ポジティブな観点発熱、55件のメンション":
+          - generic: 発熱(55)
+      - tab "複合的観点充電機能、128件のメンション":
+        - button "複合的観点充電機能、128件のメンション":
+          - generic: 充電機能(128)
+      - tab "複合的観点接続性、55件のメンション":
+        - button "複合的観点接続性、55件のメンション":
+          - generic: 接続性(55)
+      - tab "否定的観点充電性能、67件のメンション":
+        - button "否定的観点充電性能、67件のメンション":
+          - generic: 充電性能(67)
+    - heading "日本からのトップレビュー" [level=3]
+    - list:
+      - link "SugarYuri":
+        - /url: /gp/profile/amzn1.account.AHCKITLGJ3XKHRDKRUSFXO5LTSWQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: SugarYuri
+      - generic: 星5つ中5つ
+      - link "非常に完成度の高い65W充電器":
+        - /url: /portal/customer-reviews/srp/-/RF6EHMU8SY12F/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "非常に完成度の高い65W充電器" [level=5]
+      - generic: 2025年3月3日に日本でレビュー済み
+      - 'link "色: ブラック"':
+        - /url: /portal/customer-reviews/B0D53VJJ7F/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: 価格・性能・携帯性 すべてにおいてこれを上回る65W充電器は無いレベルで完成度が高いです。
+      - paragraph
+      - paragraph: 他社製品のカタログスペックからわからないスペックの実測値を基にした評価です。
+      - paragraph: 総評としては、市場に多く存在する65Wクラスの充電器の中で、本製品は特に 「コンパクトさ」と「発熱の少なさ」 に優れています。持ち運びに適したコンパクトさ、ノートPCやスマホの急速充電を安全かつ効率的に行える（※他65W製品の中で最も発熱が少ない）ため、外出時にも頼れる充電器です。競合製品との比較でも優位な点が多く、特に 発熱抑制設計と充電効率の良さ が光る製品です。
+      - paragraph
+      - paragraph: 【デザインとサイズ】
+      - paragraph: 本製品の最大の特徴は 驚くほど小さく軽量なボディ です。試しにiphone 13 miniとのサイズ感を写真で載せてみます。比較表によると、本体サイズは 約65×30×43.5mm、重量99.5g と、競合製品と比べても 最もコンパクトで軽量な3ポート充電器 となっています。
+      - paragraph
+      - paragraph: 製品名 体積 (cm³) 重量 (g) 最大出力 (単ポート) 価格 (Amazon)
+      - paragraph: CIO NovaPort TRIOⅡ 65W 68cm³ 99.5g 67W 6,589円
+      - paragraph: Anker Prime Wall Charger 67W 76cm³ 146.4g 67W 8,490円
+      - paragraph: Belkin BoostCharge Pro 65W 80cm³ 107.1g 65W 5,768円
+      - paragraph: ELECOM EC-AC46 79.62cm³ 97.2g 65W 4,290円
+      - paragraph: UGREEN Nexode Pro 65W 70cm³ 114.2g 65W 5,800円
+      - paragraph
+      - paragraph: CIO NovaPort TRIOⅡ 65Wは通常価格は6,589円ですが、セールで4300円ぐらいの時があるので、かなり安いです。
+      - paragraph: 他製品はUGREEN Nexode Pro 65Wのみセールをやってることが多いですね。
+      - paragraph
+      - paragraph: 価格だけでなく体積・重量を見てもCIOは 最も小型＆軽量 で、3ポート充電器でありながら、性能を妥協していないのが大きな魅力だと思います。
+      - paragraph
+      - paragraph: 【発熱性能】
+      - paragraph: 充電器での性能に大きく影響する 発熱 についても、本製品は競合と比較して安定した温度管理ができています。
+      - paragraph
+      - paragraph: 製品名 最大温度 (℃)
+      - paragraph: CIO NovaPort TRIOⅡ 65W 約65-68℃ (安定)
+      - paragraph: Anker 67W 約75℃ (高め)
+      - paragraph: Belkin 65W 約70℃ (中程度)
+      - paragraph: ELECOM 65W 約72℃ (やや高め)
+      - paragraph: UGREEN 65W 約70℃ (中程度)
+      - paragraph
+      - paragraph: CIOは他社と比べて発熱が少なく、長時間の使用でも安全性が高いといえます。
+      - paragraph
+      - paragraph: 温度推移データ によると、CIO製品は最初の10分ほどで65℃近くまで上がるものの、その後は 68℃以内に収まり、安定した温度を維持 しています。他の製品では 温度が70℃を超えてしまうものもあり、長時間の使用では熱ダレが起こる可能性 があります。
+      - paragraph
+      - paragraph: この安定性の理由は、CIO独自の 「Nova Safety 2.0」 による発熱抑制機能にあります。
+      - paragraph: 内部に温度監視機能を搭載し、必要に応じて出力を制御することで、過熱リスクを防いでいるとのことです。
+      - paragraph
+      - paragraph: 【充電性能と変換効率】
+      - paragraph: CIO NovaPort TRIOⅡ 65Wは PD3.0、PPSに対応しており、特に近年のAndroidに見られる急速充電との相性が良いです。勿論、iphoneに使っても問題ないです。
+      - paragraph
+      - paragraph: 変換効率比較（各出力時）
+      - paragraph: 出力電圧 CIO NovaPort TRIOⅡ 65W Anker 67W Belkin 65W UGREEN 65W
+      - paragraph: 5V出力 85-90% 86-91% 80-88% 83-89%
+      - paragraph: 9V出力 87-91% 88-92% 82-89% 84-90%
+      - paragraph: 15V出力 89-93% 90-93% 85-90% 87-91%
+      - paragraph: 20V出力 90-94% 91-94% 87-92% 88-93%
+      - paragraph
+      - paragraph: 変換効率も高く、充電時のエネルギーロスが少ないため、効率的な充電が可能です。 特にCIOの変換効率は 競合と比べても優秀 であり、特に 15V/20V出力時の効率が高いです。
+      - paragraph
+      - paragraph: 【対応規格】
+      - paragraph: 規格については、特に大きな欠点は無いですが、特出すべき利点もないです。
+      - paragraph
+      - paragraph: CIO NovaPort TRIOⅡ 65W Anker 67W Belkin 65W UGREEN 65W
+      - paragraph: PD3.0 ○ ○ ○ ○
+      - paragraph: PPS ○ ○ × ○
+      - paragraph: QC4+ × ○ × ×
+      - paragraph: HUAWEI SCP × × × ○
+      - paragraph: DASH/WARP × × × ×
+      - paragraph
+      - paragraph: CIOはPPS対応が強みですかね。PPS対応スマートフォン（Galaxyシリーズなど）の超急速充電が可能なのはありがたいですね。
+      - paragraph
+      - paragraph: 【実際の使用感】
+      - paragraph: カフェやオフィスでの使用では、1つのコンセントでPC＋スマホ＋イヤホンを同時に充電 できる点が便利でした。特に 充電中にデバイスを抜き差ししても、他のポートが一瞬途切れる「瞬断」現象が起きにくい ため、作業を中断せずに済みます。
+      - paragraph: また、旅行や出張時に 1台でPC・スマホの両方を急速充電できるのも大きなメリット。荷物が少なくて済みますし、コンセント幅が狭い場所(空港の充電ポートとか)でも十分に使えます。
+      - button "続きを読む":
+        - generic: 続きを読む
+      - button "非常に完成度の高い65W充電器":
+        - img "非常に完成度の高い65W充電器"
+      - generic: 77人のユーザーが役に立ったと感じています
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "NOM":
+        - /url: /gp/profile/amzn1.account.AHHADGQNEO76EBMRQLUQX2XOFDCA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: NOM
+      - generic: 星5つ中5つ
+      - link "ブランド・ミッションレビュー":
+        - /url: /portal/customer-reviews/srp/-/R28W6S2Z9S0UZ6/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "ブランド・ミッションレビュー" [level=5]
+      - generic: 2026年7月21日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: 職場のデスク周りの充電環境を見直すために購入しましたが、とても満足しています。
+      - paragraph
+      - paragraph: 本体がコンパクトなので電源タップ周りがすっきりし、デスク上でも場所を取りません。それでいてUSB Type-Cを2ポート、USB Type-Aを1ポート備えているため、用途に応じて複数の機器を充電できるのが便利です。
+      - paragraph
+      - paragraph: CIO製品らしいシンプルなデザインも気に入っています。毎日目にするものなので、機能性だけでなく見た目にも満足感があります。
+      - paragraph
+      - paragraph: サイズ、使い勝手、デザインのバランスが良く、使用場所が変わってもすぐに動かせる充電器を探している方にはおすすめできる製品だと感じました。
+      - generic: 4人のユーザーが役に立ったと感じています
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "しない":
+        - /url: /gp/profile/amzn1.account.AFHR3FZ25M7V2FNHFZ5BQAIWJG7A?ref=cm_cr_dp_d_bdcrb_top
+        - generic: しない
+      - generic: 星5つ中4つ
+      - link "確かに早いです！":
+        - /url: /portal/customer-reviews/srp/-/R25PFNZ2QT737J/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "確かに早いです！" [level=5]
+      - generic: 2026年5月28日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: 朝、充電していなかった事に気付いた時に大変役立ってくれてます！
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "n":
+        - /url: /gp/profile/amzn1.account.AGT5DCMQ5Q5P7KNSQTRDPVLL3V7Q?ref=cm_cr_dp_d_bdcrb_top
+        - generic: "n"
+      - generic: 星5つ中5つ
+      - link "デザインもよく信頼できる充電器":
+        - /url: /portal/customer-reviews/srp/-/R10HI0VVPJEG8S/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "デザインもよく信頼できる充電器" [level=5]
+      - generic: 2026年8月13日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: とにかく使いやすい。便利
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "GDA":
+        - /url: /gp/profile/amzn1.account.AELVRQ3RO5MX352JF6ILY5PDLS2A?ref=cm_cr_dp_d_bdcrb_top
+        - generic: GDA
+      - generic: 星5つ中5つ
+      - link "サイズ◎発熱しにくさ◯":
+        - /url: /portal/customer-reviews/srp/-/R2CXCKVNEXC59D/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "サイズ◎発熱しにくさ◯" [level=5]
+      - generic: 2026年9月19日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: 充電器を会社に忘れてきたので慌てて購入。
+      - paragraph: オンライン研修中、残りバッテリー14%のところで時間通りに配送していただきました。感謝。
+      - paragraph
+      - paragraph: 約45wのノートパソコンに常時接続して使っていますが、今のところ発熱は理解できるレベル(触ればちょっと熱いかなくらい)。
+      - paragraph
+      - paragraph: このサイズなら出張とかにも便利そうですね。
+      - paragraph
+      - paragraph: 白を購入しましたがさほど見た目も悪くない。
+      - paragraph: なにより小さいので隣のコンセントの邪魔をしないのが最高ですね。
+      - generic: 1人のお客様がこれが役に立ったと考えています
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "Wiz-BCF":
+        - /url: /gp/profile/amzn1.account.AHIWVIISAY3RGBS4GVCQYZLEONJA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Wiz-BCF
+      - generic: 星5つ中5つ
+      - link "一度使うとその他虜に…":
+        - /url: /portal/customer-reviews/srp/-/RPIILN6SPULD3/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "一度使うとその他虜に…" [level=5]
+      - generic: 2026年10月4日に日本でレビュー済み
+      - 'link "色: ブラック"':
+        - /url: /portal/customer-reviews/B0D53VJJ7F/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: さすが日本製ということあり、質感・品質・サイズ…とても良いです！
+      - paragraph
+      - paragraph: これ使ったら、他のモノは使えません。
+      - paragraph: 家中の充電器をこのシリーズに変更しています！
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "Amazonメンバー":
+        - /url: /gp/profile/amzn1.account.AFD22VF6A66OFV4F23TJ4FKDFWXQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Amazonメンバー
+      - generic: 星5つ中3つ
+      - link "たまにはこういう事もある。":
+        - /url: /portal/customer-reviews/srp/-/R3LK9HNWI9KUVS/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "たまにはこういう事もある。" [level=5]
+      - generic: 2026年10月1日に日本でレビュー済み
+      - 'link "色: ブラック"':
+        - /url: /portal/customer-reviews/B0D53VJJ7F/ref=cm_cr_dp_d_rvw_fmt?_encoding=UTF8&formatType=current_format
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: 別の充電器があったので購入してから１年以上使わずにしまっていたが今年の6月ごろに開封して使用していたところ、先月の中頃から充電が出来なくなった。
+      - paragraph: 初めはケーブルのせいかと思っていたが同じケーブルで別の充電器に接続すると問題なく充電できたため充電器自体に問題があると判明。
+      - paragraph: 使用後2ヶ月ほどで使えなくなってしまったのは残念だが本体デザインや造りはとても良いので星は３つとしました。
+      - paragraph: 他の人のレビューを拝見しても不具合は少ない事から今回はハズレを引いてしまった模様なので、cioの別の商品をまた試してみます。
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "じゃいこ":
+        - /url: /gp/profile/amzn1.account.AEMYXEMKBZHXBJZSVAKPELDI3YYQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: じゃいこ
+      - generic: 星5つ中4つ
+      - link "ブランド・ミッションレビュー":
+        - /url: /portal/customer-reviews/srp/-/R31DAAWDE47M1A/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "ブランド・ミッションレビュー" [level=5]
+      - generic: 2026年7月30日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: コンパクトで出力もあるので自宅で使うのにも持ち運ぶのにも良いと思いました
+      - paragraph: 他のアダプタとも干渉せずにさせます
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+    - link "レビューをすべて見る":
+      - /url: /portal/customer-reviews/B0D53VJJ7F/ref=cm_cr_dp_d_show_all_top?_encoding=UTF8&ie=UTF8&reviewerType=all_reviews
+      - generic: レビューをすべて見る
+    - heading "他の国からのトップレビュー" [level=3]
+    - list:
+      - button "すべてのレビューを日本語に翻訳"
+      - generic: すべてのレビューを日本語に翻訳
+      - generic: Robert
+      - generic: 星5つ中5つ
+      - heading "Perfect for travel" [level=5]
+      - generic: 2026年8月6日にアメリカ合衆国でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Good quality, works great, so I ordered a second when it was on sale. This one is a a Japanese brand which is cool but still made in China I believe. It's perfect for travel.
+      - button "レポートレビュー": 報告する
+      - link "レビューを日本語に翻訳する":
+        - /url: javascript:void(0)
+    - link "レビューをすべて見る":
+      - /url: /portal/customer-reviews/B0D53VJJ7F/ref=cm_cr_dp_d_show_all_top?_encoding=UTF8&ie=UTF8&reviewerType=all_reviews
+      - generic: レビューをすべて見る
+- complementary "最近閲覧した商品とおすすめ商品"
+- button "トップへ戻る":
+  - generic: トップへ戻る
+- heading "Amazonについて" [level=6]
+- list:
+  - link "採用情報":
+    - /url: /gp/browse.html?node=5578935051&ref_=navfooter_267319_t1
+  - link "About Amazon":
+    - /url: https://blog.aboutamazon.jp/
+  - link "Newsroom":
+    - /url: https://amazon-press.jp
+  - link "環境への取り組み":
+    - /url: https://amazon-press.jp/Top-Navi/Sustainability/Sustainability.html
+  - link "社会貢献・地域活動":
+    - /url: https://amazon-press.jp/Top-Navi/Aitc/aitc-area.html
+  - link "Amazon Science":
+    - /url: https://www.amazon.science
+- heading "Amazonでビジネス" [level=6]
+- list:
+  - link "Amazonで販売する":
+    - /url: https://services.amazon.co.jp/selldot.html?ld=AZJPSOAFOOT_C&ref_=footer_soa_c
+  - link "Amazonへの供給":
+    - /url: https://supply.amazon.com/?ref_=footer_sta&lang=ja-JP
+  - link "ブランドの保護＆構築":
+    - /url: https://brandservices.amazon.co.jp/?ref=AOJPABRLGNRFOOT&ld=AOJPABRLGNRFOOT
+  - link "フルフィルメント by Amazon":
+    - /url: https://services.amazon.co.jp/services/fulfillment-by-amazon/merit.html?ld=AZJFBAFooter
+  - link "Amazonビジネスで法人販売":
+    - /url: https://services.amazon.co.jp/services/amazon-business.html?ld=AZJPB2BFOOT
+  - link "Amazon Pay（決済サービス）":
+    - /url: https://pay.amazon.com/jp/merchant?ld=AZJPAPAFooter
+  - link "アソシエイト（アフィリエイト）":
+    - /url: https://affiliate.amazon.co.jp/
+  - link "Amazonで広告掲載をする":
+    - /url: https://advertising.amazon.co.jp/?ref_=footer_ad
+  - link "Amazonで出版":
+    - /url: https://kdp.amazon.co.jp/?ref=footer_publishing
+  - text: ›
+  - link "Amazon出品の詳細":
+    - /url: /b/?node=2293760051&ld=AZJPSOAMM&ref_=footer_seeall
+- heading "Amazonでのお支払い" [level=6]
+- list:
+  - link "Amazonポイント":
+    - /url: /gp/browse.html?node=2632478051&ref_=footer_point
+  - link "Amazonギフトカード":
+    - /url: /gp/gc?ref_=footer_gc
+  - link "Amazon Mastercard":
+    - /url: /dp/product/B08P4CFBK6?plattr=JBCBCCFT&ref_=footer_pay_jp_cbcc
+  - link "パートナーポイントプログラム":
+    - /url: /hp/shopwithpoints/servicing?ref_=footer_swp
+  - link "Amazonギフトカードチャージタイプ":
+    - /url: /gp/gc/create/?ref_=footer_topup_jp
+  - text: ›
+  - link "すべての支払い方法を見る":
+    - /url: /gp/help/customer/display.html?nodeId=642946&ref_=footer_paymenthelp
+- heading "ヘルプ＆ガイド" [level=6]
+- list:
+  - link "配送料と配送情報":
+    - /url: /gp/help/customer/display.html?nodeId=642982&ref_=footer_shiprates
+  - link "Amazon プライム":
+    - /url: /gp/subs/primeclub/signup/main.html?ref_=footer_prime
+  - link "商品の返品・交換":
+    - /url: /gp/css/returns/homepage.html?ref_=footer_returns
+  - link "製品安全への取り組み":
+    - /url: https://www.amazon.co.jp/b?node=10299516051&ie=UTF8&ref_=footer_bsx_ypsa
+  - link "コンテンツと端末の管理":
+    - /url: /hz/mycd/myx?ref_=footer_myk
+  - link "価格について":
+    - /url: /gp/help/customer/display.html?nodeId=GQ6B6RH72AX8D2TD&ref_=hp_ss_qs_v3_rt_prices
+  - link "お客様サポート":
+    - /url: /gp/cs?ref_=footer_help_t2
+- link "Amazon Japan Home":
+  - /url: /ref=footer_logo
+- link "ショッピングに使用する言語を選択します。現在日本語が選択されています。":
+  - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+  - generic: 日本語
+- button "展開して言語または国を変更する"
+- button "ショッピングする国/地域を選択します。現在の選択は日本です。":
+  - generic: 日本
+- navigation "Amazonでもっと詳しく":
+  - generic "Amazonでもっと詳しく":
+    - list:
+      - link "Amazon Advertising 商品の露出でお客様の関心と 反応を引き出す":
+        - /url: https://advertising.amazon.co.jp/?ref=footer_advtsing_2_jp
+        - heading "Amazon Advertising" [level=5]
+        - text: 商品の露出でお客様の関心と
+        - text: 反応を引き出す
+      - link "Audible（オーディブル） 「聴く」読書 会員なら聴き放題":
+        - /url: https://www.audible.co.jp/?source_code=AMAAMZWPCPC090815000C
+        - heading "Audible（オーディブル）" [level=5]
+        - text: 「聴く」読書
+        - text: 会員なら聴き放題
+      - link "アマゾン ウェブ サービス（AWS） クラウドコンピューティング サービス":
+        - /url: https://aws.amazon.com/jp/?sc_channel=EL&sc_campaign=JP_amazonfooter
+        - heading "アマゾン ウェブ サービス（AWS）" [level=5]
+        - text: クラウドコンピューティング
+        - text: サービス
+      - link "Amazonアウトレット 訳あり商品を お手頃価格で販売":
+        - /url: /gp/browse.html?node=2761990051&ref_=footer_wrhsdls
+        - heading "Amazonアウトレット" [level=5]
+        - text: 訳あり商品を
+        - text: お手頃価格で販売
+    - list:
+      - link "Amazonビジネス（法人購買） 請求書払い 法人価格・数量割引":
+        - /url: /gp/browse.html?node=5695748051&ref_=JP_AB_ONS_GW_FOO
+        - heading "Amazonビジネス（法人購買）" [level=5]
+        - text: 請求書払い
+        - text: 法人価格・数量割引
+      - link "AmazonGlobal 65か国/地域以上への 海外配送がより簡単に":
+        - /url: /gp/browse.html?node=3534638051&ref_=footer_amazonglobal
+        - heading "AmazonGlobal" [level=5]
+        - text: 65か国/地域以上への
+        - text: 海外配送がより簡単に
+      - link "Shopbop 世界中の厳選された ファッションアイテム":
+        - /url: https://www.shopbop.com/jp/welcome
+        - heading "Shopbop" [level=5]
+        - text: 世界中の厳選された
+        - text: ファッションアイテム
+- list:
+  - link "利用規約":
+    - /url: /gp/help/customer/display.html?nodeId=643006&ref_=footer_cou
+  - link "プライバシー規約":
+    - /url: /gp/help/customer/display.html?nodeId=643000&ref_=footer_privacy
+  - link "パーソナライズド広告規約":
+    - /url: /gp/help/customer/display.html?nodeId=201047280&ref_=footer_iba
+  - link "各種規約":
+    - /url: /gp/help/customer/display.html?nodeId=GFYCLDQPMCA6QNGR&ref_=hp_left_v4_sib
+  - link "特定商取引法に基づく表示":
+    - /url: /gp/help/customer/display.html?nodeId=202008070
+- generic: © 1996-2026, Amazon.com, Inc. またはその関連会社

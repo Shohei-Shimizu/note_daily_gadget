@@ -1,0 +1,351 @@
+{
+  "generated_at": "2026-10-09T00:37:28+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261023_44554748",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "codex_20261023_monitor_arm"
+  ],
+  "fetched_count": 9,
+  "dedup_count": 9,
+  "candidates": [
+    {
+      "asin": "B07DHK5DHN",
+      "title": "Amazonベーシック モニターアーム 1画面 シングル 13~30インチ(10kgまで対応) 高さ調節可能 デスク設置用 スチール製 1個 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B07DHK5DHN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07DHK5DHN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71LoJcCSlkL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "デスク設置用シングルモニタースタンド13インチ~30インチ、10kg以内のスクリーンにほぼ対応、厚み2cm~10cmの天板のデスクに対応",
+        "360度回転(横置きまたは縦置きに対応)、20cmから36cmまで高さ調節可能な水平の取り付けアーム",
+        "可動範囲:調整可能なスクリーンの傾斜(上に85度/下に15度)、コードをすっきり整理できるケーブル収納システム",
+        "取り外し可能なVESA変換プレート(100x100mm&amp;75x75mm)付きで、簡単に設置可能。必要な工具と金具はすべて付属されています。頑丈なスチール製",
+        "アームとセンターポールに沿って取り外しできるケーブルクリップを備えているので、ケーブルが乱雑にならないよう収納可能です。"
+      ],
+      "maker": "Amazon",
+      "query": "codex_20261023_monitor_arm",
+      "queries_matched": [
+        "codex_20261023_monitor_arm"
+      ],
+      "review_count": 18324,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-31",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GTPMJ187",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:37:31+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07Q8TJ2KL",
+      "title": "ERGOTRON LX モニターアーム",
+      "url": "https://www.amazon.co.jp/dp/B07Q8TJ2KL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07Q8TJ2KL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/610HqQsInRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【指先ひとつで自在に動くシングルモニターアーム】エルゴトロン独自のコンスタント・フォース技術を搭載したメカニカルスプリング式。モニターの位置・角度・高さを軽く触れるだけで自在に調整でき、好きな位置でピタッと静止。モニタースタンドが不要になり、デスクスペースを有効活用でき、機能的で快適なワークスペースを実現。",
+        "【長期10年保証と人間工学的デザイン】ガススプリング式のような経年劣化がなく、10,000回サイクルテスト合格の長期耐久設計。ワイドモニター対応。前後伸縮・左右パン・チルト・360°回転可能。目・首・肩への負担を軽減する人間工学的な最適ポジションに設定可能。モニターを持ち上げてデスクを広く使え、使わないときはコンパクトに折りたたむことで省スペース化も可能。",
+        "【スペック】1)対応モニターサイズ：21.5 / 24 / 27 / 32 / 34インチ等。 2)耐荷重（耐重量）3.2-11.3kgまで。 3)VESA規格： 100×100、75×75mm。 4)チルト上70°/下5°で幅広い視角に対応。5)昇降範囲33cm。6)アーム下の隠し配線機構でケーブルが外から見えません。",
+        "【クランプ式/天板厚10-60mm対応】工具不要の簡単設置。クランプは60mmまでの厚さ、グロメットは直径8-50mmの穴、57mmまでの厚さに取り付け可能。別売ノートブックトレイ(50-193-200)を追加可能。【付属品】LXアーム、エクステンション、ベース、ポール、デスククランプ、グロメットマウント、取付金具。",
+        "【日本正規代理店取扱品】日本語サポート対応。エルゴトロンは独自技術「コンスタント・フォース技術」をはじめ200以上の特許を取得している1982年創業の人間工学機器ブランドで、世界中のワークスペース・医療・教育現場で信頼されるグローバルリーダー。シングルモニターアームはオフィス・ゲーミング・クリエイター作業など幅広い用途に対応。"
+      ],
+      "maker": "ERGOTRON",
+      "query": "codex_20261023_monitor_arm",
+      "queries_matched": [
+        "codex_20261023_monitor_arm"
+      ],
+      "review_count": 16430,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-31",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H4TVC9RZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:37:38+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07W3KK949",
+      "title": "HUANUO (ファーノー) PCモニターアーム デュアル 液晶ディスプレイアーム 2画面 13～32インチ対応 耐荷重2～9kg ガススプリング式 グロメット式＆クランプ式 VESA100*100 多角度調節 ケーブル収納 HNDS6",
+      "url": "https://www.amazon.co.jp/dp/B07W3KK949?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07W3KK949?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ZJLx37Z3L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "【HUANUOグループに参加しましょう】HUANUOのモニターアームは、安心してお使いいただくための5年間保証とともに、長くご使用になられることを前提としたお客様の体の負担軽減も追求。OA作業による肩こりや腰痛対策に有効な、縦横・高さ等の角度調整ができる多モデルを取り揃えています。お客様の用途に合わせて最適な商品をお選びいただけます。",
+        "【ご購入前のチェックポイント】①モニターのサイズは13～32インチまで ②モニターとモニターアクセサリーの重量は2～9㎏以内 ③75mm*75mmと100mm*100mmのVESA規格に対応 ④取付可能天板：厚さ15mm～90mm。",
+        "【ディスプレイ角度を自由に変えれる】①アーム：ガス圧で高さ調節 ②アーム関節部360° ③VESAプレート部：上向き85°、下向き30°、回転360°、左右各90°。角度や距離などが自分に合って、前後左右に加えて上下も好みの位置に軽々と動かすことができます。ビジネスでの利用はもちろん、トレーダーやゲーマーの方にもおすすめです。",
+        "【二重クランプベースで安定性抜群】HUANUOモニターアームのクランプ金具は２クランプ構造を採用します。二重で支える構造により、大型モニターでもしっかり机に固定でき、転倒の心配を軽減します。また、天板にボルトを通して天板を挟み込むグロメット式での取り付けも可能です。組立のすべて部品は付属しています、簡単に取り付けできます。商品の品質には十分注意を払っておりますが、初期不良、欠品、及び配送中の事故等での破損が生じた場合、返品や交換対応をさせていただきます。組み立てについて、何かご問題、ご不明な点がございましたら、ぜひ、ご遠慮なく、こちらに連絡してください。",
+        "【デュアルモニター対応で作業効率を最大化】HUANUO デュアルモニターアームを使えば、画面を左右に並べて作業領域を広げたり、片方を縦置きにして文書やウェブページを快適に閲覧したりできます。ゲームをプレイしながら、もう片方の画面で攻略情報やチャットを確認するなど、用途に合わせて自由にレイアウトをカスタマイズ可能。あなたのワークスタイルやゲーミング環境を、より快適に、より効率的に。",
+        "【デスク上のスペースをスッキリ】モニターアームを使うことでスタンド部分が無くなり、ディスプレイを浮かせて設置できるため、ディスプレイの下のスペースが生まれて机の上を広々と使うことができるようになります。アームはケーブル通しを搭載して配線を隠すことで見た目がすっきりします。"
+      ],
+      "maker": "HUANUO",
+      "query": "codex_20261023_monitor_arm",
+      "queries_matched": [
+        "codex_20261023_monitor_arm"
+      ],
+      "review_count": 3440,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-20",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HJ21ZFCV",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:37:46+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CQXL5S4T",
+      "title": "Amazonベーシック シングルモニターアーム (最大32インチ) 耐荷重10kg 高さ調節可能 デスク設置用 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CQXL5S4T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CQXL5S4T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41w7-3HjDvL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "モニターの重量に合わせて選べるテンション調整機能: 最大10.0kgまでのモニターに対応。使用中の沈み込みや位置のズレを防ぎ、安定した状態を保つため、モニターの重量や位置に合わせてテンションを調整する必要があります",
+        "荷重とアームの位置に応じて変わる性能: モニターのサイズ、重量バランス、アームの伸長具合によって、最適な調整は異なります。バランスの取れた安定した位置に固定するためには、適切な調整が必要です",
+        "VESA規格対応 (ネジとスペーサーの取り付けガイダンス付き): 75mm × 75mmおよび100mm × 100mmのVESA規格に対応します。確実に取り付けるために、モニターのネジ穴の深さに合わせて適切なネジの長さを選び、必要に応じてスペーサーを使用してください",
+        "抜群の安定感を実現するために不可欠な正しい設置: 厚さ1.0cm~10.8cmのデスクに対応する、Cクランプ式とグロメット式の両方の取り付けパーツが付属。安全かつ安定した状態でご使用いただくために、正しい設置、確実な締め付け、および適切な調整を行ってください",
+        "思い通りの位置にピタッと決まるフレキシブル調整機能: チルト (-45°~+90°)、スイベル (±90°)、360°回転に対応。スムーズな可動と適切な位置固定を実現するため、ご使用前に各ジョイント部の調節が必要な場合があります"
+      ],
+      "maker": "Amazon",
+      "query": "codex_20261023_monitor_arm",
+      "queries_matched": [
+        "codex_20261023_monitor_arm"
+      ],
+      "review_count": 1370,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B07YKPX5N5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:37:58+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0G34GQSN4",
+      "title": "グリーンハウス モニターアーム 土台組立済みで設置簡単 シングル 17-32インチ対応 耐荷重2-9kg VESA規格 メカニカル式 4軸 3年保証 GH-AMDX1-WH",
+      "url": "https://www.amazon.co.jp/dp/B0G34GQSN4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G34GQSN4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61Sata8mODL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【組立て工数を大幅カット】土台（Cクランプ）を組立済みでお届け。土台の複雑なネジ締めが不要で、アームを接続してモニターをセットするだけで設置完了します。",
+        "【デスク上のスペースを有効活用！】液晶モニターの台座(スタンド)がなくなって、デスク上すっきり！液晶画面をお好みの位置に設置できるので、作業効率が上がります。テレワークで自宅の書斎に設置したい方にも。",
+        "【しっかり固定とケーブルをスッキリまとめる】デスクの側面で固定するCクランプ式で簡単にしっかり固定。ケーブルガイド付きでケーブル類もスッキリまとめられます。",
+        "【縦位置での使用も可能】液晶モニターを回転することができ、通常の横位置だけでなく縦位置での使用も可能。表計算ソフトやテキストの閲覧など作業効率が上がります。",
+        "【3年保証対象製品】もしもの時もメーカー保証でしっかりサポート！"
+      ],
+      "maker": "グリーンハウス",
+      "query": "codex_20261023_monitor_arm",
+      "queries_matched": [
+        "codex_20261023_monitor_arm"
+      ],
+      "review_count": 12,
+      "star_rating": 3.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0HFWH71TG",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:38:07+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01DVGUDX8",
+      "title": "サンワダイレクト デュアルモニターアーム（上下配置）",
+      "url": "https://www.amazon.co.jp/dp/B01DVGUDX8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01DVGUDX8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71eHeDuL-ZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "上下 で2面設置できる液晶 ディスプレイアーム です。 VESA 規格（75×75mm、100×100mm）に準拠した液晶 ディスプレイ 、 モバイルモニター 、 ゲーミングモニター 等の取り付けが可能です。",
+        "最大 10kg まで( アーム 1つにつき)の液晶 モニター の取り付けに対応しています。 液晶モニターアーム を使うことで、 PCモニター の モニタースタンド を必要としない分、広々とデスク上、 卓上 を使用できます。",
+        "縦2画面 に 上下2台 設置することで机上がすっきりできる デュアルモニターアーム です。液晶 ディスプレイ を目線の高さに合わせて上下調節が行えます。工具を使わないレバー式なので手締で 簡単 に行なえます。",
+        "画面の向きを上下左右に180度調節が可能です。モニタも360度回転させることができます。 パソコンデスク の天板へ取付け可能な 組立簡単 スリムクランプ タイプです。ケーブルをポールの中に通して隠す事が可能で、 配線隠し で見た目がすっきりします。",
+        "スタンド には デュアルモニター からのケーブルをすっきり配線できるケーブルクリップ付きです。(※設置するモニタにより、上下左右の角度調節範囲が通常より制限される場合があります。)",
+        "保証期間：購入日より1年"
+      ],
+      "maker": "サンワダイレクト",
+      "query": "codex_20261023_monitor_arm",
+      "queries_matched": [
+        "codex_20261023_monitor_arm"
+      ],
+      "review_count": 483,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GVN2921Q",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:38:16+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C5D3KDD5",
+      "title": "ゴッパ(GOPPA) モバイルディスプレイアームクランプ固定式(~17.3インチ)GP-DPA17LC/B-EC",
+      "url": "https://www.amazon.co.jp/dp/B0C5D3KDD5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C5D3KDD5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51K-i+2klkL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "最大17.3インチ対応モバイルディスプレイアーム",
+        "クランプ式でしっかり固定。",
+        "モバイルディスプレイを設置型ディスプレイのように使用でき、外出先とオフィス内のディスプレイを共用できます。",
+        "ディスプレイを縦向きに固定すれば、テキスト編集に最適な縦長の画面でお使い頂けます。",
+        "iPad／iPad Pro／Androidタブレットにも対応しており、各種タブレットでご利用いただけます。"
+      ],
+      "maker": "ゴッパ",
+      "query": "codex_20261023_monitor_arm",
+      "queries_matched": [
+        "codex_20261023_monitor_arm"
+      ],
+      "review_count": 65,
+      "star_rating": 4.4,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:38:26+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CQNH4FWG",
+      "title": "サンワダイレクト モニターアーム 32 インチ対応",
+      "url": "https://www.amazon.co.jp/dp/B0CQNH4FWG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CQNH4FWG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61VackyX3TL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "クランプ で挟み込んで 固定 できる シングル PCモニターアームです。",
+        "設置できる大きさは最大 32インチ まで対応しています。 32インチまで対応 なので、 27インチ PCモニター 、 ゲーミングモニター にも おすすめ の PCアーム です。",
+        "高さ調整 は、35.5～55.5cmまで10段階で対応した パソコンアーム です。",
+        "VESA規格（ 75 × 75mm 、100×100mm）に準拠した 液晶ディスプレイ の取り付けが可能です。",
+        "10kg までの液晶 モニター の取り付けに対応した PCモニターアーム です。"
+      ],
+      "maker": "サンワダイレクト",
+      "query": "codex_20261023_monitor_arm",
+      "queries_matched": [
+        "codex_20261023_monitor_arm"
+      ],
+      "review_count": 107,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0DVC17SCQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:38:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CQTPZNV8",
+      "title": "Amazonベーシック デュアルモニターアーム",
+      "url": "https://www.amazon.co.jp/dp/B0CQTPZNV8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CQTPZNV8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51FzAebzA8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "個別にテンション調整が可能なデュアルアーム: 各アームの耐荷重は10.0kgです。モニターの重量に基づいて個別のテンション調整が必要です。左右のバランスを保ち、位置のズレや高さの不揃いを防ぐため、それぞれの重量に合わせた適切な調整が必要です",
+        "荷重とアームの位置に応じて変わる性能: 安定性は、モニターのサイズ、重量バランス、アームの伸長具合によって異なります。大型モニターやアームを伸ばして使用する場合は、適切な配置を維持するために、追加でテンションの調節が必要になる場合があります",
+        "VESA規格対応 (ネジとスペーサーの取り付けガイダンス付き): 75mm × 75mmおよび100mm × 100mmのVESA規格に対応します。グラつきなくぴったりと密着させるために、モニターのネジ穴の深さに合わせて適切なネジの長さを選び、必要に応じてスペーサーを使用してください",
+        "デュアルモニターの安定感を実現するために不可欠な正しい設置: 厚さ1.0cm~10.8cmのデスクに対応する、Cクランプ式とグロメット式の両方の取り付けパーツが付属。デュアルモニターの安定した性能を維持するために、ご使用前に正しい設置と確実な締め付けを行ってください",
+        "思い通りの位置にピタッと決まるフレキシブル調整機能: チルト (-45°~+90°)、スイベル (±90°)、360°回転に対応。ジョイントは事前に締め付けられている場合があり、スムーズな動きと正しいポジションに配置するために使用前に調整が必要です。"
+      ],
+      "maker": "Amazon",
+      "query": "codex_20261023_monitor_arm",
+      "queries_matched": [
+        "codex_20261023_monitor_arm"
+      ],
+      "review_count": 991,
+      "star_rating": 3.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B07YKPX5N5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:38:44+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "shared/db/product.sqlite"
+  },
+  "measurement_checkpointed_at": "2026-10-09T09:38:44+09:00"
+}

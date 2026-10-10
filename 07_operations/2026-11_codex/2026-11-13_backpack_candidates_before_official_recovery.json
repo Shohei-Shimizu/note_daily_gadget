@@ -1,0 +1,197 @@
+{
+  "generated_at": "2026-10-10T01:08:11+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261113_08ed1fc9",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261113_backpack"
+  ],
+  "fetched_count": 6,
+  "dedup_count": 6,
+  "candidates": [
+    {
+      "asin": "B07N3WQ6H7",
+      "title": "MATEIN 特大バックパック、17インチ旅行用ノートパソコンバックパック、盗難防止 TSAフレンドリー ビジネス 仕事 大学 コンピューターバックパック 男女兼用 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B07N3WQ6H7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07N3WQ6H7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "MATEIN",
+      "query": "dg_20261113_backpack",
+      "queries_matched": [
+        "dg_20261113_backpack"
+      ],
+      "review_count": 108183,
+      "star_rating": 4.7,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-23",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": []
+    },
+    {
+      "asin": "B082VV36T8",
+      "title": "[MARK RYDEN] 旅行リュック 30L大容量 バックパック 旅行バッグ カバン リュックサック メンズ ビジネスリュック 盗難防止 17型PC対応 撥水加工 通学 通勤 仕事用 トラベル 出張 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B082VV36T8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B082VV36T8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "MARK RYDEN",
+      "query": "dg_20261113_backpack",
+      "queries_matched": [
+        "dg_20261113_backpack"
+      ],
+      "review_count": 2810,
+      "star_rating": 4.3,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-23",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名MARK RYDEN。MARKへの途中切断を修正",
+      "scope_pending": []
+    },
+    {
+      "asin": "B07ST5HS7G",
+      "title": "[エースジーン] ビジネスリュック ガジェタブルCB 62363 15インチPC対応 セットアップ可能 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B07ST5HS7G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07ST5HS7G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "ACE",
+      "query": "dg_20261113_backpack",
+      "queries_matched": [
+        "dg_20261113_backpack"
+      ],
+      "review_count": 267,
+      "star_rating": 4.4,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-23",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名エースジーン/既存DB ACE GENEとエース株式会社表記を同一メーカーとして統合（公式再確認待ち）",
+      "scope_pending": []
+    },
+    {
+      "asin": "B07H5RMC5Z",
+      "title": "[スーリー] リュック Thule Crossover 2 Backpack 20L ノートパソコン収納可 Dark Blue",
+      "url": "https://www.amazon.co.jp/dp/B07H5RMC5Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07H5RMC5Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "THULE",
+      "query": "dg_20261113_backpack",
+      "queries_matched": [
+        "dg_20261113_backpack"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": []
+    },
+    {
+      "asin": "B07HX6KWBR",
+      "title": "エレコム リュック ビジネスバッグ off toco(オフトコ) 15.6インチPC収納 A4対応 3WAY ハイグレード バックパック ブラック BM-OF02BK",
+      "url": "https://www.amazon.co.jp/dp/B07HX6KWBR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07HX6KWBR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "ELECOM",
+      "query": "dg_20261113_backpack",
+      "queries_matched": [
+        "dg_20261113_backpack"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": []
+    },
+    {
+      "asin": "B0DSZVQ6M1",
+      "title": "[エースジーン] ビジネスリュック ガジェタブルWR2 B4サイズ収納 15.6inchPC収納 19L No.68664",
+      "url": "https://www.amazon.co.jp/dp/B0DSZVQ6M1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DSZVQ6M1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "ACE",
+      "query": "dg_20261113_backpack",
+      "queries_matched": [
+        "dg_20261113_backpack"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名エースジーン/既存DB ACE GENEとエース株式会社表記を同一メーカーとして統合（公式再確認待ち）",
+      "scope_pending": []
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:backpack"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-13",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:backpack",
+    "theme": "PCと仕事道具を持ち運ぶ。ビジネスリュック",
+    "exclude_used_since": "2026-10-14",
+    "current_stock_verified": false
+  }
+}

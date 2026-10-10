@@ -1,0 +1,16 @@
+
+候補 5 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B0C23XJGCW  リコー            リコー PFU ドキュメントスキャナー ScanSnap iX1600 (最新/高速毎分40枚/両面読取 [measured 2026-09-13]
+  B083VZHDGZ  Brother        ブラザー工業(Brother Industries) ドキュメントスキャナー MDS-940DW (モバ [measured 2026-09-13]
+  B01IALGUZY  Epson          エプソン スキャナー DS-310 (シートフィード/A4両面) [measured 2026-09-13]
+  B01IALGUYA  Epson          EPSON スキャナー DS-360W (シートフィード/A4両面/Wi-Fi対応 コードレス) [未実測]
+  B08HYKSYRJ  Epson          エプソン スキャナー DS-531(シートフィード/A4両面) [未実測]
+
+topic_id: daily_gadget_20261111_fd04d2ec
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_scanner_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_scanner_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

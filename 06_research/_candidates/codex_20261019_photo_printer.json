@@ -1,0 +1,762 @@
+{
+  "generated_at": "2026-10-09T09:16:45",
+  "account_id": "daily_gadget",
+  "partner_tag": "daily-gadget-22",
+  "mode": "pool",
+  "queries": [
+    {
+      "query": "スマホ 写真 プリンター",
+      "source": "manual",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "フォトプリンター Bluetooth",
+      "source": "manual",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "富士フイルム スマホプリンター",
+      "source": "manual",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "キヤノン フォトプリンター",
+      "source": "manual",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "コダック スマホ 写真 プリンター",
+      "source": "manual",
+      "include": [],
+      "exclude": []
+    }
+  ],
+  "knowledge": null,
+  "fetched_count": 50,
+  "dedup_count": 14,
+  "candidates": [
+    {
+      "asin": "B0BBG2R1YK",
+      "title": "キヤノン Canon スマホ専用ミニフォトプリンター iNSPiC PV-223-WH 写真用 ホワイト フルカラー インク不要",
+      "url": "https://www.amazon.co.jp/dp/B0BBG2R1YK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BBG2R1YK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31QXr3ROjoL._SL500_.jpg",
+      "features": [
+        "製品特徴:遊んで楽しいスマホ専用ミニフォトプリンター",
+        "対応用紙サイズ:5×7.6cm",
+        "接続方法:専用スマートフォンアプリからの印刷のみ　無線通信方式:Bluetooth 5.0",
+        "同梱品：キヤノン用ZINKフォトペーパーパック・充電用USBケーブル・クイックガイド・保証書",
+        "本体サイズ（縦×横×高さ）約120×84×21.5mm"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマホ 写真 プリンター",
+        "フォトプリンター Bluetooth",
+        "キヤノン フォトプリンター",
+        "コダック スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "B0BBF7LRP4",
+      "title": "キヤノン Canon スマホ専用ミニフォトプリンター iNSPiC PV-223-BL 写真用 ブルー フルカラー インク不要",
+      "url": "https://www.amazon.co.jp/dp/B0BBF7LRP4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BBF7LRP4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Iv1UIbNCL._SL500_.jpg",
+      "features": [
+        "製品特徴:遊んで楽しいスマホ専用ミニフォトプリンター",
+        "対応用紙サイズ:5×7.6cm",
+        "接続方法:専用スマートフォンアプリからの印刷のみ　無線通信方式:Bluetooth 5.0",
+        "同梱品：キヤノン用ZINKフォトペーパーパック・充電用USBケーブル・クイックガイド・保証書",
+        "本体サイズ（縦×横×高さ）約120×84×21.5mm"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマホ 写真 プリンター",
+        "フォトプリンター Bluetooth",
+        "キヤノン フォトプリンター",
+        "コダック スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "B0BBF8P769",
+      "title": "キヤノン Canon スマホ専用ミニフォトプリンター iNSPiC PV-223-PK 写真用 ピンク フルカラー インク不要",
+      "url": "https://www.amazon.co.jp/dp/B0BBF8P769?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BBF8P769?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/317c6CYXQ8L._SL500_.jpg",
+      "features": [
+        "製品特徴:遊んで楽しいスマホ専用ミニフォトプリンター",
+        "対応用紙サイズ:5×7.6cm",
+        "接続方法:専用スマートフォンアプリからの印刷のみ　無線通信方式:Bluetooth 5.0",
+        "同梱品：キヤノン用ZINKフォトペーパーパック・充電用USBケーブル・クイックガイド・保証書",
+        "本体サイズ（縦×横×高さ）約120×84×21.5mm"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマホ 写真 プリンター",
+        "フォトプリンター Bluetooth",
+        "キヤノン フォトプリンター",
+        "コダック スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "4295021547",
+      "title": "(本書電子版付き)みんなが待っていた!パソコンとインターネットの「どうするんだっけ?」を解決する本 厳選150 (impress mook)",
+      "url": "https://www.amazon.co.jp/dp/4295021547?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/4295021547?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51tPcdR7BtL._SL500_.jpg",
+      "features": [],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "4295017493",
+      "title": "写真でつくる年賀状 ふぉとねんが 2024 (インプレス年賀状ムック)",
+      "url": "https://www.amazon.co.jp/dp/4295017493?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/4295017493?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51NX49YJZPL._SL500_.jpg",
+      "features": [],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "B0B5ZZPSDL",
+      "title": "キヤノン コンパクトフォトプリンター SELPHY CP1500 ホワイト 普通",
+      "url": "https://www.amazon.co.jp/dp/B0B5ZZPSDL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B5ZZPSDL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21nZfeSOx4L._SL500_.jpg",
+      "features": [
+        "パソコン要らずの小型・軽量フォトプリンター",
+        "スマホやカメラから、手軽にキレイなプリントが楽しめます",
+        "多彩な用紙ラインアップも魅力",
+        "大きくて見やすい3.5型カラーTFT液晶",
+        "キレイ長持ち、オーバーコート仕上げ"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマホ 写真 プリンター",
+        "フォトプリンター Bluetooth",
+        "キヤノン フォトプリンター"
+      ]
+    },
+    {
+      "asin": "B0DG8LLL9N",
+      "title": "キヤノン Canon スマートフォン用プリンター QX20ホワイト (高耐久/シール紙/コンパクト)",
+      "url": "https://www.amazon.co.jp/dp/B0DG8LLL9N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DG8LLL9N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21BCr8792OL._SL500_.jpg",
+      "features": [
+        "スマホ専用ミニフォトプリンター",
+        "高画質なシールプリント",
+        "スクエアフォーマット対応/カードサイズシール対応",
+        "昇華型熱転写方式",
+        "ワイヤレスで持ち運びラクラク"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマホ 写真 プリンター",
+        "キヤノン フォトプリンター"
+      ]
+    },
+    {
+      "asin": "B0B5ZZWG5X",
+      "title": "キヤノン コンパクトフォトプリンター SELPHY CP1500 ピンク 普通",
+      "url": "https://www.amazon.co.jp/dp/B0B5ZZWG5X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B5ZZWG5X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31YtsAFC7NL._SL500_.jpg",
+      "features": [
+        "パソコン要らずの小型・軽量フォトプリンター",
+        "スマホやカメラから、手軽にキレイなプリントが楽しめます",
+        "多彩な用紙ラインアップも魅力",
+        "大きくて見やすい3.5型カラーTFT液晶",
+        "キレイ長持ち、オーバーコート仕上げ"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマホ 写真 プリンター",
+        "キヤノン フォトプリンター"
+      ]
+    },
+    {
+      "asin": "B08TQGNLCF",
+      "title": "サーマルプリンター ミニ スマホ対応 Phomemo M02S 300DPI 15/25/53mm ラベルライター モバイル シール印刷機 モノク",
+      "url": "https://www.amazon.co.jp/dp/B08TQGNLCF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08TQGNLCF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41tLiPCDOwL._SL500_.jpg",
+      "features": [
+        "［実用性の高い万能ギフト］Phomemo M02S ミニプリンターは重量わずか 190g（スマホ並み）の超軽量設計で、ポケットやバッグに簡単収納でき、自宅はもちろん、職場、旅行先、外出先の学習場所でも負担なく持ち運べます。場所を問わず印刷可能、その可愛い封筒デザインも大人気で、家族、友人、同僚、子供への誕生日、入学祝い、クリスマス、正月プレゼントとしては素敵です",
+        "［多サイズ対応］M02S　スマホプリンターは15mm・25mm・53mm の感熱紙とテープに対応し、用途を幅広くカバーします。学習ノート、フラッシュカード、図形図の印刷はもちろん、整理収納用ラベル、手帳装飾、年賀状、はがき、家計簿、オフィス文書など、日常のさまざまな場面で活用できます。約 40 カラーの感熱ロール紙から選べ、オリジナルステッカーを作れます",
+        "［AI多機能アプリ］Phomemoアプリには豊富な無料・有料素材が内蔵されており、定期的に新素材を追加更新予定です。自由編集、写真印刷、AIクリエイティブ機能、リストテンプレート、名刺印刷、文字印刷、小文字印刷などの機能を備え、生活と業務の利便性を高めるとともに、手芸愛好家にもさらなる創造性を提供します。",
+        "［直感的なBluetooth接続］Phomemo M02S　モバイルプリンターはBluetooth 4.0 でスマホ/タブレットと直接接続（Android 4.0／iOS 8.0 以上対応）、ネットワーク環境の制約を受けません。スマホで撮った写真や記録したデータを、いつでも気軽に印刷できます。*システムのBluetooth接続でなく、アプリ内のところで接続してください。",
+        "［より鮮明な印刷品質］Phomemo　M02Sサーマルプリンターは日本製の 300dpi プリントヘッドを採用し、1 インチを 300 個の点で精密表現。写真も、テキストも、何でも細部まできれいに印刷できます。印刷の濃度も調整可能で、より鮮明な印刷品質を提供します。お試し用紙（53mm、ホワイト）は内蔵されますので、中身をチェックしてみてください"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "B0FY2KH1KB",
+      "title": "【2026年新型】ミニサーマルプリンター スマホ対応 ミニプリンター ラベルプリンター 小型 Bluetooth接続 AndroidとIOS対応 USB充電式 写真アルバム/手帳/メモ/買い物リスト/学習ノートに適用 モバイル ポータブル シール ミニステッカープリンタ 日本語専用アプリ 感熱紙1ロール付属 簡単操作 携帯に便利 クリスマスの贈り物 BluwieBroka ピンク",
+      "url": "https://www.amazon.co.jp/dp/B0FY2KH1KB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FY2KH1KB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41-KtZ0xRBL._SL500_.jpg",
+      "features": [
+        "「印字が薄いと感じる場合は、アプリの印刷モードを『AIモード』から『画像モード』に切り替えてお試しください。」 。本品は専用感熱用紙を利用しなければならない。ほかのセーラーから購入した感熱紙は認識できない場合は、この本体の品質ものではないのこと、ご存知します。本ミニ熱転写プリンタは、専用アプリを通じての操作が必要となります。アプリが要求する権限は、Bluetooth接続の確立、印刷データの転送、文字・画像編集などのコア機能実現にのみ利用され、お客様の個人情報を厳重に保護し、それ以外の目的では一切使用いたしません。 ご購入の前にお使いいただくために必要な事項をご確認・ご理解いただけますと幸いです。",
+        "🖨️ 【スマホ対応の多機能サーマルプリンターが生活を変える】 このミニプリンターは、Bluetooth接続でスマホと瞬時に連携するモバイルプリンター。iOS/Android両対応で、専用アプリ「Luck Jingle」からテキストや画像を入力するだけで印刷可能。インク不要の感熱紙採用で、付属の用紙ですぐに使い始められ、勉強のまとめや可愛いステッカー作成をサポート。日本語対応、20か国語対応の500以上的无料テンプレートで、ラベルプリンターとしても活躍する小型でポータブルな一台です。いつでも、どこでも、好きなものをプリント。用紙印刷、テキスト、ステッカー印刷、画像、プラグイン、手帳、写真。学習ノートのまとめ、ToDo リスト、収納ラベル、DIY シールなど、いつでもどこでも思いついたアイデアをすぐにプリントできます。※本製品に含まれるのはシールのみです。その他のラベル用紙は別途ご購入ください（横対応サイズ：50mm～57mm）",
+        "🎓 【学生の勉強効率を上げるミニステッカープリンター】 スマホ用の学習ツールとして、解剖学・地理・数学・生物学・物理・化学などのノート整理に最適。アプリのスキャン機能で図形やグラフを鮮明に印刷し、自動誤題整理で苦手分野を克服。無料手書き消去機能で反復練習も自在。写真プリンターとして白黒画像の高精細印刷（203dpi）にも対応し、縦横切替えで多様なレイアウトを調整できるプリンターです。",
+        "🏠 【日常生活からビジネスまで使えるシールプリンター】 ミニプリンターで旅行の思い出をアルバムに残したり、手作りグリーティングカードを作成可能。ToDoリストや収納ラベル作成で、暮らしをスッキり整理。連続印刷でも発色が安定した感熱紙で、キッチンの保存容器タグやオフィスの書類整理にも重宝します。",
+        "🔋 【コンパクト設計で携帯に便利なスマホプリンター】 超小型サイズ（8.4×8.4×4.3cm/約170g）電池容量：1200mAh。でポケット収納可能 テプラ本体。USB充電式で最大3週間の待機時間を実現し、外出先でもすぐに印刷可能。セット内容はプリンター本体、充電ケーブル、感熱紙1ロール、説明書の充実仕様。簡単操作・多機能なアプリ、ラベルライター本体は面倒な設定は一切なし、アプリからワンクリックで印刷できるので。",
+        "🎁 【贈り物に喜ばれるミニプリンター】 BluwieBrokaのBluetooth接続モバイルポータブルスマホ用 ミニサーマルプリンターは多機能ので、手帳やメモ好きな家族、友人、同僚、子供にクリスマス、ハロウィーン、感謝祭、正月や誕生日のプレゼントにおすすめです",
+        "✅【製品の長期保証】※万が一 ミニプリンター スマホ対応 サーマルプリンター ラベルライター不具合のようでしたら、ご購入後12か月以内に通常使用における故障により使用できなくなった場合、ご心配なさらないでくださいませ。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "B0DSF87F1M",
+      "title": "ミニプリンター、ポータブルサーマルプリンター、ポケットラベルプリンター、Bluetoothsワイヤレスプリンター、ステッカーフォトプリンターと互換性のあるメモiOS＆アンドロイド(B)",
+      "url": "https://www.amazon.co.jp/dp/B0DSF87F1M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DSF87F1M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ktJGKJF1L._SL500_.jpg",
+      "features": [
+        "1Multi-Purpose：ミニプリンターは、学習または作業効率を改善するために、粘着性のノート、名刺、ドキュメント、リスト、メモ、メッセージ、QRコードなどを印刷できます。",
+        "2高解像度：サーマルプリンターには最大200の解像度があります DPI、 ポケットプリンターは信頼できる品質です。",
+        "3Smallと軽量：プリンターは非常に軽く、絶妙で、小さいです。ポケットやバッグに入れて持ち運ぶことができます。",
+        "4Simple使用：プリンターは使いやすく、Bluetoothsワイヤレスをサポートします BLE4.0 スマートフォンに接続するには USB 接続するケーブル PC。 a 便利なユーザーガイドのセット。",
+        "5ウォンフルギフト：プリンターは、学生、オフィスワーカー、恋人、友人、家族などにとって素晴らしいホリデーギフトです。バレンタインデー、結婚式、学校に戻るギフト、新年などの重要な日に適しています。相談へようこそ"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "フォトプリンター Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0DSZJDM3X",
+      "title": "ミニフォトプリンター、生徒のメモを印刷するためのサーマル印刷ポケットプリンター、日記、リスト、メモ、ポケットラベルプリンター、Bluetoothワイヤレス、iOSおよびAndroidと互換性のある写真メモノートプリンター(E)",
+      "url": "https://www.amazon.co.jp/dp/B0DSZJDM3X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DSZJDM3X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21-BWSE0pmL._SL500_.jpg",
+      "features": [
+        "1例：写真プリンターは、学生、オフィスワーカー、恋人、友人、家族などに最適な贈り物です。美しい瞬間は携帯電話から直接印刷し、彼らを気にする人々と一緒に楽しむことができます。",
+        "2Multifunctional接続方法：ミニプリンターは、Bluetoothを介してiOSまたはAndroidスマートフォン、タブレット、または同様のデバイスに接続できます。写真を印刷してあなたの人生の美しい瞬間をキャプチャすることができます。また、粘着性のメモ、名刺、ファイル、リスト、メモ、メッセージ、QRコードなどを印刷して、学習や仕事の効率を向上させることもできます。",
+        "3CLEAR解像度：サーマルペーパープリンターには、1000 mAhのバッテリーが組み込まれており、1回の充電で15時間使用でき、長いサービス寿命があります。サーマルプリンターでは、インクカートリッジ、低動作コスト、ディスプレイモード：白黒印刷を必要としません。最大200 dpiの解像度で、当社のポケットプリンターは信頼性の高い品質です。",
+        "4print Anytime：ラベルプリンターは非常に軽く、絶妙でコンパクトです。あなたはそれをあなたのバッグやバッグに入れてあなたと一緒に持って行くことができます。それは仕事、旅行、勉強のための良いヘルパーです。",
+        "5使用式：プリンターは使いやすく、Bluetoothワイヤレスをサポートします BLE4.0 スマートフォンと接続するため USB に接続するためのケーブル PC。 a 便利なユーザーマニュアルの範囲。相談へようこそ"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "フォトプリンター Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0DSZP2HNM",
+      "title": "ミニフォトプリンター、生徒のメモを印刷するためのサーマル印刷ポケットプリンター、日記、リスト、メモ、ポケットラベルプリンター、Bluetoothワイヤレス、iOSおよびAndroidと互換性のある写真メモノートプリンター(C)",
+      "url": "https://www.amazon.co.jp/dp/B0DSZP2HNM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DSZP2HNM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21ldNXG7m3L._SL500_.jpg",
+      "features": [
+        "1例：写真プリンターは、学生、オフィスワーカー、恋人、友人、家族などに最適な贈り物です。美しい瞬間は携帯電話から直接印刷し、彼らを気にする人々と一緒に楽しむことができます。",
+        "2Multifunctional接続方法：ミニプリンターは、Bluetoothを介してiOSまたはAndroidスマートフォン、タブレット、または同様のデバイスに接続できます。写真を印刷してあなたの人生の美しい瞬間をキャプチャすることができます。また、粘着性のメモ、名刺、ファイル、リスト、メモ、メッセージ、QRコードなどを印刷して、学習や仕事の効率を向上させることもできます。",
+        "3CLEAR解像度：サーマルペーパープリンターには、1000 mAhのバッテリーが組み込まれており、1回の充電で15時間使用でき、長いサービス寿命があります。サーマルプリンターでは、インクカートリッジ、低動作コスト、ディスプレイモード：白黒印刷を必要としません。最大200 dpiの解像度で、当社のポケットプリンターは信頼性の高い品質です。",
+        "4print Anytime：ラベルプリンターは非常に軽く、絶妙でコンパクトです。あなたはそれをあなたのバッグやバッグに入れてあなたと一緒に持って行くことができます。それは仕事、旅行、勉強のための良いヘルパーです。",
+        "5使用式：プリンターは使いやすく、Bluetoothワイヤレスをサポートします BLE4.0 スマートフォンと接続するため USB に接続するためのケーブル PC。 a 便利なユーザーマニュアルの範囲。相談へようこそ"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "フォトプリンター Bluetooth"
+      ]
+    },
+    {
+      "asin": "B095SP2CH7",
+      "title": "Xiaomiポータブルフォトプリンター 1S インクレス印刷 薄型で180g超軽量 Bluetooth接続 複数ユーザー同時接続可能 シールフィルム 専用フィルム5枚同梱",
+      "url": "https://www.amazon.co.jp/dp/B095SP2CH7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B095SP2CH7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21oqqMq095L._SL500_.jpg",
+      "features": [
+        "📷【ポケットサイズで持ち運び簡単】本体は180gで、薄型軽量設計でどこでも持ち運びが可能です。",
+        "📷【インクレス印刷で撮ってすぐプリント】ZINKインクレス印刷技術によって、プリンターが熱を加えることで専用フィルムにプリントします。 インクカートリッジを必要としないため、外出先でもすばやく簡単に印刷が可能です。",
+        "📷【Bluetoothで思い出を共有】複数のBluetooth接続（Wi-Fi不要）をサポートしており、各々のスマートフォンからプリントが可能です。※最大3人のユーザーが同時にプリンターに接続可能です。",
+        "📷【シールフィルムで思い出は色々な場所に】裏面がシールになっているZINKフォトフィルムが付属しており、思い出の写真を自由に貼り付けることができます。",
+        "📷【フォトフレームと透かしをカスタマイズ】多種多様なフォトフレームからお好きなものを選び、Xiaomi Homeでアバターと透かしの設定をお好みに合わせて調節するだけであなたのオリジナルが作れます。",
+        "📷【8種のフィルターで、その瞬間を鮮やかに表現】Xiaomi Homeのフィルターからお好きなものを選ぶことで、写真の雰囲気をさらに際立たせます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "フォトプリンター Bluetooth"
+      ]
+    },
+    {
+      "asin": "B0FL2CTTVS",
+      "title": "シャオミ(Xiaomi) ポータブルフォトプリンター Pro 薄型 Bluetooth接続 複数ユーザー同時接続可能 シールフィルム 自動ラミネート加工 ライブフォト印刷 フォト用紙パック昇華型 10枚同梱",
+      "url": "https://www.amazon.co.jp/dp/B0FL2CTTVS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FL2CTTVS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21EGoz-vrEL._SL500_.jpg",
+      "features": [
+        "📷【手軽に持ち運べる高速印刷】小さくてかさばらず、バックパックや上着のポケットにもすっきり収納。",
+        "📷【高解像度印刷】プロ仕様の昇華型印刷テクノロジーにより、美しく高精細な写真プリントを実現します。広い色域による正確な色再現で、思い出をリアルに鮮やかに残します。",
+        "📷【Bluetoothで共有思い出をいつでも印刷】スマートフォンから直接接続してすぐに印刷。マルチユーザー対応で、大切な人たちとも簡単に楽しさを共有できます。いつでもスピーディーな印刷体験を手軽にお楽しみください。※デバイスを共有すると最大3人まで同時に接続できます。",
+        "📷【無限の楽しみ創造性を解き放つ】通常の静止画とライブフォトの両方を印刷できます。また、AR技術により、写真に動画や音声を組み込めるようになりました。「スキャン」機能を使って家族や友人と共有し、一緒にあの瞬間をもう一度体験しましょう。",
+        "📷【フレームとウォーターマークをカスタマイズ】写真に合わせて選べる多彩なフレームを取り揃えています。日付やテキストなど、オリジナルのウォーターマーク*を追加して、思い出をカタチに。",
+        "📷【楽しいテンプレート実用的で、遊び心も満載】Xiaomi Homeでは、さらに多くのコラージュテンプレートをご利用いただけます。赤ちゃんやペットの写真をかわいいフォトステッカーにしたり、恋人とのロマンチックなフォトストリップを作ったりと、可能性は無限大です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "フォトプリンター Bluetooth"
+      ]
+    },
+    {
+      "asin": "B09XX549QG",
+      "title": "明誠 フォトプリンター スマホプリンター コンパクト ZINK印刷技術 ARフォト写真対応 多種フィルター Bluetooth接続 操作簡单 USB充電 シールタイプフォト用紙5枚付き",
+      "url": "https://www.amazon.co.jp/dp/B09XX549QG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09XX549QG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/319skE270hL._SL500_.jpg",
+      "features": [
+        "☑「撮影したシーンをその場で写真にできる」フォトプリンターは、スマホやデジカメで撮影した写真をその場で印刷できるアイテムです。モバイルタイプのフォトプリンターは、携帯性を最重視して設計されているのが特徴。5〜6インチの大画面スマホと同じくらいコンパクトで（外形寸法：118*84mm）、重さも164g程度と軽く、片手でも持ち運べます。また、バッグへの収納も簡単に可能です。旅行先や飲み会などで活躍してくれます。旅行やパーティーなど外出先で積極的にフォトプリンターを活用したい方におすすめです。",
+        "☑「USB充電式」電源には内蔵バッテリー（USB充電）を使用するため、コンセントがない野外でも場所を選ばず気軽に使用できるのも魅力。旅行やパーティーなど外出先で積極的にフォトプリンターを活用したい方におすすめです。",
+        "☑「シールタイプ用紙＆自由に切り貼り」ラベルとして使ったり、ノートやメモ帳に貼り付けておいたりと、使い方の幅が広がります。専用アプリに面白いフレームが満載!",
+        "☑「その他の特長」➊Bluetooth接続：WiFi 不要で手軽にプリント。➋2.インク不要： ZINK印刷技術を採用！➌.AR動画シーンフォト印刷可能。➍高画質で仕上がり：フルカラーのデジタル画像が印刷可能。➎テンプレートを内蔵：様々な写真サイズに対応する。",
+        "☑「パッケージ内容」フォトプリンター本体*1、プリント用紙*5枚、Type-C充電ケーブル*1、取扱説明書*1。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "フォトプリンター Bluetooth",
+        "コダック スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "B0DDPPW5VS",
+      "title": "富士フイルム(FUJIFILM) チェキ スマホプリンター instax mini Link3 クレイホワイト INS MINI LINK3 C WHITE",
+      "url": "https://www.amazon.co.jp/dp/B0DDPPW5VS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDPPW5VS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/3154kqlbVeL._SL500_.jpg",
+      "features": [
+        "✅「mini Link」シリーズの特徴である縦ラインの凹凸の上から「instax」ロゴをデザインする新感覚な本体デザインを採用。電源ON時などにロゴ周辺の3色LEDがカラフルに光り、「Link 3」の楽しみの広がりを表現します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "富士フイルム スマホプリンター"
+      ]
+    },
+    {
+      "asin": "B0DDSYPBWX",
+      "title": "富士フイルム(FUJIFILM) チェキ スマホプリンター instax mini Link3 ローズピンク INS MINI LINK3 R pink",
+      "url": "https://www.amazon.co.jp/dp/B0DDSYPBWX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDSYPBWX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31oErX78YfL._SL500_.jpg",
+      "features": [
+        "✅「mini Link」シリーズの特徴である縦ラインの凹凸の上から「instax」ロゴをデザインする新感覚な本体デザインを採用。電源ON時などにロゴ周辺の3色LEDがカラフルに光り、「Link 3」の楽しみの広がりを表現します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "富士フイルム スマホプリンター"
+      ]
+    },
+    {
+      "asin": "B0DDSRDBT7",
+      "title": "富士フイルム(FUJIFILM) チェキ スマホプリンター instax mini Link3 セージグリーン INS MINI LINK3 S GREEN",
+      "url": "https://www.amazon.co.jp/dp/B0DDSRDBT7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDSRDBT7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41YQTjOdkSL._SL500_.jpg",
+      "features": [
+        "✅「mini Link」シリーズの特徴である縦ラインの凹凸の上から「instax」ロゴをデザインする新感覚な本体デザインを採用。電源ON時などにロゴ周辺の3色LEDがカラフルに光り、「Link 3」の楽しみの広がりを表現します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "富士フイルム スマホプリンター"
+      ]
+    },
+    {
+      "asin": "B0DHZ4FMYF",
+      "title": "チェキ スマホプリンター instax mini Link3 ローズピンク＆フィルム40枚＆デコペン(6点セット)",
+      "url": "https://www.amazon.co.jp/dp/B0DHZ4FMYF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DHZ4FMYF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51RmgVZ10aL._SL500_.jpg",
+      "features": [
+        "富士フイルム チェキ スマホプリンター instax mini Link3＆フィルム40枚＆デコペン 合計6点のセットです。",
+        "【セット構成1】富士フイルム チェキ スマホプリンター インスタックス ミニ リンク3",
+        "【セット構成2】富士フイルム チェキ フィルム 40枚",
+        "【セット構成3】デコペン",
+        "※Amazonの規定によりセット商品のブランド名についてはノーブランド品として登録しております。商品につきましてはメーカー正規流通品となりますのでご安心ください。",
+        "Link3本体の下にフィルムが1箱（10枚）ついております。その他にフィルムを3箱（30枚）お付けし、合計40枚となります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "富士フイルム スマホプリンター"
+      ]
+    },
+    {
+      "asin": "B0DHX94D3K",
+      "title": "チェキ スマホプリンター instax mini Link3 クレイホワイト＆フィルム40枚＆デコペン(6点セット)",
+      "url": "https://www.amazon.co.jp/dp/B0DHX94D3K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DHX94D3K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51K+ro2kbFL._SL500_.jpg",
+      "features": [
+        "富士フイルム チェキ スマホプリンター instax mini Link3＆フィルム40枚＆デコペン 合計6点のセットです。",
+        "【セット構成1】富士フイルム チェキ スマホプリンター インスタックス ミニ リンク3",
+        "【セット構成2】富士フイルム チェキ フィルム 40枚",
+        "【セット構成3】デコペン",
+        "※Amazonの規定によりセット商品のブランド名についてはノーブランド品として登録しております。商品につきましてはメーカー正規流通品となりますのでご安心ください。",
+        "Link3本体の下にフィルムが1箱（10枚）ついております。その他にフィルムを3箱（30枚）お付けし、合計40枚となります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "富士フイルム スマホプリンター"
+      ]
+    },
+    {
+      "asin": "B0GGGRL6ZG",
+      "title": "富士フイルム(FUJIFILM) チェキ スマホプリンター instax mini Link plus B INS MINI LINK PLUS B",
+      "url": "https://www.amazon.co.jp/dp/B0GGGRL6ZG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GGGRL6ZG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31KnyaI2nLL._SL500_.jpg",
+      "features": [
+        "上位モデルの特長: 「遊べる」プリンターとして好評頂いている「instax mini Link」シリーズの上位モデルです。",
+        "スマホ連携機能: 日常の中でチェキプリントをインテリアやファッションアイテムとして飾る楽しみを広げる上質なデザインと新機能が特長です。スマホのお気に入りの画像を専用アプリで簡単にプリント可能。",
+        "日常を彩る楽しみ: お気に入りのコンテンツをチェキプリントにして飾るまでの流れをスムーズにし、チェキプリントで日常を彩る楽しみを広げます。",
+        "上質なデザイン: 重厚感のある直線的なラインのデザインにメタリックな質感のブラックと側面の際立つオレンジのアクセントカラーを採用し、金属製ストラップフックを組み合わせた上質なデザインでインテリアとしても映えます。",
+        "製品タイプ: instax mini Linkシリーズのスマートフォン用プリンターで、チェキフィルムを使用してその場で写真をプリントできます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "富士フイルム スマホプリンター"
+      ]
+    },
+    {
+      "asin": "B0B596FDFZ",
+      "title": "富士フイルム(FUJIFILM) チェキ カラー スマホプリンター instax mini Link2 クレイホワイト INS MINI LINK2 C WHITE",
+      "url": "https://www.amazon.co.jp/dp/B0B596FDFZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B596FDFZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31h4MDbJQsL._SL500_.jpg",
+      "features": [
+        "✅チェキ(instax mini)シリーズのスマートフォンプリンター(チェキプリンター)です。",
+        "✅専用アプリ(無料)上での直感的な操作でプリントできます!"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "富士フイルム スマホプリンター"
+      ]
+    },
+    {
+      "asin": "B09HZKZFKJ",
+      "title": "富士フイルム(FUJIFILM) ワイドスマホプリンター \"チェキ\" instax Link WIDE アッシュホワイト INS LINK WIDE A WHITE",
+      "url": "https://www.amazon.co.jp/dp/B09HZKZFKJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09HZKZFKJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31sSffStlsL._SL500_.jpg",
+      "features": [
+        "✅チェキ(instax WIDE)シリーズのスマートフォンプリンター(ワイドフォーマット用スマホプリンター)です。",
+        "✅高画質プリント:チェキならではのアナログ感のある仕上がりの“insatx-Natural Mode\"に加え、色鮮やかで高画質な“instax-Rich Mode\"を選べます。",
+        "✅4種のQRプリントモード:WEB、音声、地図、手紙(テキスト)の4種類のQRコードをアプリで簡単に貼り付けていろいろな使い方を楽しめます。",
+        "✅カスタマイズできるテンプレート:約30種類のテンプレート搭載。テンプレートの色や文字をカスタマイズして、オリジナルのデザインでプリントできます。",
+        "✅豊富なステッカー:約1600種類のステッカーを自由に貼ってプリントできます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "富士フイルム スマホプリンター"
+      ]
+    },
+    {
+      "asin": "B0BKSJQMY6",
+      "title": "富士フイルム(FUJIFILM) チェキ スマホプリンター INSTAX SQUARE Link アッシュホワイト INS SQ LINK WHITE スクエア",
+      "url": "https://www.amazon.co.jp/dp/B0BKSJQMY6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BKSJQMY6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31M5h+pWt-L._SL500_.jpg",
+      "features": [
+        "✅スマホの画像をスクエアフォーマットのチェキフィルムに出力できるスマホプリンター。",
+        "✅AR Print:5種類のARエフェクトから自由に選んでQRコード付きのチェキプリントを作成。",
+        "✅INSTAX Connect:スマホの画像にメッセージを重ね合わせてプリントできる機能。",
+        "✅洗練されたボディデザイン。シンプルなアッシュホワイトと、落ち着いた色合いでインテリアにも馴染むミッドナイトグリーンの2色をラインアップ。",
+        "✅色彩を豊かに表現できる“INSTAX-Rich Mode\"と柔らかい風合いが楽しめる“INSTAX-Natural Mode\"の2つのプリントモードを搭載。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "富士フイルム スマホプリンター"
+      ]
+    },
+    {
+      "asin": "B0D7ZL9WQS",
+      "title": "富士フイルム(FUJIFILM) チェキ インスタントカメラ/スマホプリンター instax mini LiPlay グリーン INS LIPLAY C GREEN VN",
+      "url": "https://www.amazon.co.jp/dp/B0D7ZL9WQS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D7ZL9WQS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31tTj0v2xdL._SL500_.jpg",
+      "features": [
+        "✅2019年6月に発売したinstax miniシリーズのハイブリッドインスタントカメラ「instax mini LiPlay」を、最新トレンドに合わせた",
+        "✅新色(ホワイト・グリーン・ブロンズの3色)にリニューアルします。音声メッセージを録音できるサウンド機能や、スマホプリンター機能はそのままに、"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "富士フイルム スマホプリンター"
+      ]
+    },
+    {
+      "asin": "B0B81JQJML",
+      "title": "キヤノン コンパクトフォトプリンター SELPHY CP1500 ホワイト＋L判写真サイズ108枚入りセット",
+      "url": "https://www.amazon.co.jp/dp/B0B81JQJML?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B81JQJML?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31Ni64VX+1L._SL500_.jpg",
+      "features": [
+        "パソコン要らずの小型・軽量フォトプリンター",
+        "スマホやカメラから、手軽にキレイなプリントが楽しめます",
+        "多彩な用紙ラインアップも魅力",
+        "大きくて見やすい3.5型カラーTFT液晶",
+        "SELPHY CPシリーズ消耗品",
+        "対応機種：SELPHYCP1300／CP1200／CP910／CP900／CP800／CP790／CP780／CP770／CP760／CP750／CP740／CP730／ CP720／CP710／CP600／CP510／CP500／CP400"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "キヤノン フォトプリンター"
+      ]
+    },
+    {
+      "asin": "B07G193P5X",
+      "title": "キヤノン Canon スマホプリンター用 ZINKフォトペーパー 50枚入り ZP-2030-50",
+      "url": "https://www.amazon.co.jp/dp/B07G193P5X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07G193P5X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41A7i6YmBIL._SL500_.jpg",
+      "features": [
+        "製品特徴:インクカートリッジ使わずにフルカラープリント。",
+        "サイズ:5×7.6cm",
+        "対象機種:iNSPiC PV-123/ZV-123/CV-123",
+        "50枚入り",
+        "キヤノン用ZINKフォトペーパー"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "キヤノン フォトプリンター"
+      ]
+    },
+    {
+      "asin": "B0BCP82Q32",
+      "title": "【3点セット】Canon スマホ専用ミニフォトプリンター iNSPiC PV-223-PK 写真用 ピンク + ZINKフォトペーパー 50枚入り ＋丸形シール20枚入り",
+      "url": "https://www.amazon.co.jp/dp/B0BCP82Q32?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BCP82Q32?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41mW1wGiFYL._SL500_.jpg",
+      "features": [
+        "製品特徴:遊んで楽しいスマホ専用ミニフォトプリンター",
+        "対応用紙サイズ:5×7.6cm",
+        "製品特徴:インクカートリッジ使わずにフルカラープリント。",
+        "サイズ:5×7.6cm",
+        "製品特徴:インクカートリッジ使わずにフルカラープリント。",
+        "用紙サイズ:5×7.6cm　丸形シール"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "キヤノン フォトプリンター"
+      ]
+    },
+    {
+      "asin": "B0B81CYMNN",
+      "title": "キヤノン コンパクトフォトプリンター SELPHY CP1500 ピンク＋L判写真サイズ108枚入りセット",
+      "url": "https://www.amazon.co.jp/dp/B0B81CYMNN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B81CYMNN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ZFtQvrVGL._SL500_.jpg",
+      "features": [
+        "パソコン要らずの小型・軽量フォトプリンター",
+        "スマホやカメラから、手軽にキレイなプリントが楽しめます",
+        "多彩な用紙ラインアップも魅力",
+        "大きくて見やすい3.5型カラーTFT液晶",
+        "SELPHY CPシリーズ消耗品",
+        "対応機種：SELPHYCP1300／CP1200／CP910／CP900／CP800／CP790／CP780／CP770／CP760／CP750／CP740／CP730／ CP720／CP710／CP600／CP510／CP500／CP400"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "キヤノン フォトプリンター"
+      ]
+    },
+    {
+      "asin": "B08FST3H95",
+      "title": "KODAK Mini 2 Retro スマホプリンター(5×7.6cm) 4PASS 38枚入り ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B08FST3H95?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08FST3H95?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/418aCxDkBrL._SL500_.jpg",
+      "features": [
+        "いつでもどこでも簡単プリント：KODAK Mini 2 Retroは、スマートフォンの写真を高画質でプリントできるポータブルフォトプリンターです。旅行や家族との思い出、日記やDIYなど、大切な写真をその場ですぐにプリントして楽しめます。",
+        "昇華型4PASSプリント技術：4PASS昇華型プリント技術を採用。3層のカラー印刷とラミネートコーティングにより、鮮やかで美しい写真を約55秒でプリントできます。防水・防指紋・色あせに強く、大切な思い出を美しく長く残せます。",
+        "簡単Bluetooth接続：複雑な設定は不要。電源を入れBluetoothで接続するだけで、すぐにプリントを開始できます。初めての方でも簡単に使え、スマートフォンの写真を手軽にプリントできます。",
+        "コンパクトで持ち運び簡単：手のひらやバッグに収まるコンパクトサイズで、持ち運びも便利。旅行やイベント、スクラップブック、日常の思い出まで、好きな場所で写真をプリントして楽しめます。",
+        "KODAK Photo Printerアプリ：KODAK Photo Printerアプリを使えば、Bluetooth接続で簡単プリント。トリミングやフィルターなどの編集機能を使って、お気に入りの1枚に仕上げてから印刷できます。",
+        "セット内容：Mini 2 Retroプリンター本体、カートリッジ38枚、USBケーブル、取扱説明書が付属しています。クレジットカードサイズで、アルバムや手帳、財布に入れて持ち歩いたり、プレゼントにもおすすめです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "コダック スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "B08FSR61BV",
+      "title": "KODAK Mini 2 Retro スマホプリンター(5×7.6cm) 4PASS 38枚入り イエロー",
+      "url": "https://www.amazon.co.jp/dp/B08FSR61BV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08FSR61BV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41SHsygwTSL._SL500_.jpg",
+      "features": [
+        "いつでもどこでも簡単プリント：KODAK Mini 2 Retroは、スマートフォンの写真を高画質でプリントできるポータブルフォトプリンターです。旅行や家族との思い出、日記やDIYなど、大切な写真をその場ですぐにプリントして楽しめます。",
+        "昇華型4PASSプリント技術：4PASS昇華型プリント技術を採用。3層のカラー印刷とラミネートコーティングにより、鮮やかで美しい写真を約55秒でプリントできます。防水・防指紋・色あせに強く、大切な思い出を美しく長く残せます。",
+        "簡単Bluetooth接続：複雑な設定は不要。電源を入れBluetoothで接続するだけで、すぐにプリントを開始できます。初めての方でも簡単に使え、スマートフォンの写真を手軽にプリントできます。",
+        "コンパクトで持ち運び簡単：手のひらやバッグに収まるコンパクトサイズで、持ち運びも便利。旅行やイベント、スクラップブック、日常の思い出まで、好きな場所で写真をプリントして楽しめます。",
+        "KODAK Photo Printerアプリ：KODAK Photo Printerアプリを使えば、Bluetooth接続で簡単プリント。トリミングやフィルターなどの編集機能を使って、お気に入りの1枚に仕上げてから印刷できます。",
+        "セット内容：Mini 2 Retroプリンター本体、カートリッジ38枚、USBケーブル、取扱説明書が付属しています。クレジットカードサイズで、アルバムや手帳、財布に入れて持ち歩いたり、プレゼントにもおすすめです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "コダック スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "B08FSXD12D",
+      "title": "KODAK Mini 2 Retro スマホプリンター(5×7.6cm) 4PASS 38枚入り ブラック",
+      "url": "https://www.amazon.co.jp/dp/B08FSXD12D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08FSXD12D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41Y79lJz-2L._SL500_.jpg",
+      "features": [
+        "いつでもどこでも簡単プリント：KODAK Mini 2 Retroは、スマートフォンの写真を高画質でプリントできるポータブルフォトプリンターです。旅行や家族との思い出、日記やDIYなど、大切な写真をその場ですぐにプリントして楽しめます。",
+        "昇華型4PASSプリント技術：4PASS昇華型プリント技術を採用。3層のカラー印刷とラミネートコーティングにより、鮮やかで美しい写真を約55秒でプリントできます。防水・防指紋・色あせに強く、大切な思い出を美しく長く残せます。",
+        "簡単Bluetooth接続：複雑な設定は不要。電源を入れBluetoothで接続するだけで、すぐにプリントを開始できます。初めての方でも簡単に使え、スマートフォンの写真を手軽にプリントできます。",
+        "コンパクトで持ち運び簡単：手のひらやバッグに収まるコンパクトサイズで、持ち運びも便利。旅行やイベント、スクラップブック、日常の思い出まで、好きな場所で写真をプリントして楽しめます。",
+        "KODAK Photo Printerアプリ：KODAK Photo Printerアプリを使えば、Bluetooth接続で簡単プリント。トリミングやフィルターなどの編集機能を使って、お気に入りの1枚に仕上げてから印刷できます。",
+        "セット内容：Mini 2 Retroプリンター本体、カートリッジ38枚、USBケーブル、取扱説明書が付属しています。クレジットカードサイズで、アルバムや手帳、財布に入れて持ち歩いたり、プレゼントにもおすすめです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "コダック スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "B088PRX3BD",
+      "title": "KODAK Dock Plus スマホプリンター(10×15cm) スマホドッキング対応 4PASS 50枚入り",
+      "url": "https://www.amazon.co.jp/dp/B088PRX3BD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B088PRX3BD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41YVSVBwa6L._SL500_.jpg",
+      "features": [
+        "スマホドッキング対応フォトプリンター：KODAK Dock Plusは、対応するスマートフォンをドッキングして、約10×15cm（L判）サイズの高画質写真をプリントできるフォトプリンターです。ドッキング中は安定した接続でプリントできるだけでなく、スマートフォンを充電しながら印刷できます。",
+        "昇華型4PASSプリント技術：4PASS昇華型プリント技術を採用。3層のカラー印刷とラミネートコーティングにより、鮮やかで美しい写真を約55秒でプリントできます。防水・防指紋・色あせに強く、大切な思い出を美しく長く残せます。",
+        "簡単操作：複雑な設定は不要。電源を入れてスマートフォンをドッキングするだけで、すぐにプリントを開始できます。シンプルな操作で初めての方でも使いやすく、毎日の写真プリントを手軽に楽しめます。",
+        "ご家庭で手軽に写真プリント：据え置きタイプのフォトプリンターで、安定した印刷性能を実現。約10×15cm（L判）サイズの写真を高画質でプリントでき、アルバム作りや写真立て、はがきの印刷、家族の思い出の記録など、さまざまなシーンで活躍します。",
+        "KODAK Photo Printerアプリ：KODAK Photo Printerアプリを使えば、Bluetooth接続で簡単プリント。トリミングやフィルターなどの編集機能を使って、お気に入りの1枚に仕上げてから印刷できます。",
+        "セット内容：Dock Plus本体、インクカートリッジ2個、フォトペーパー50枚、Lightningアダプター、電源アダプター、取扱説明書が付属しています。約10×15cm（L判）サイズの写真は、フォトフレームやアルバム、壁のデコレーション、プレゼント、はがきの印刷にもぴったりです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "コダック スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "B08FSR91ST",
+      "title": "KODAK Mini 3 Retro スマホプリンター(7.6×7.6cm) 4PASS 38枚入りイエロー",
+      "url": "https://www.amazon.co.jp/dp/B08FSR91ST?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08FSR91ST?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41+eVXZR5FL._SL500_.jpg",
+      "features": [
+        "いつでもどこでも簡単プリント：KODAK Mini 3 Retroは、スマートフォンの写真を高画質でプリントできるポータブルフォトプリンターです。旅行や家族との思い出、日記やDIYなど、大切な写真をその場ですぐにプリントして楽しめます。",
+        "昇華型4PASSプリント技術：4PASS昇華型プリント技術を採用。3層のカラー印刷とラミネートコーティングにより、鮮やかで美しい写真を約55秒でプリントできます。防水・防指紋・色あせに強く、大切な思い出を美しく長く残せます。",
+        "簡単Bluetooth接続：複雑な設定は不要。電源を入れBluetoothで接続するだけで、すぐにプリントを開始できます。初めての方でも簡単に使え、スマートフォンの写真を手軽にプリントできます。",
+        "コンパクトで持ち運び簡単：手のひらやバッグに収まるコンパクトサイズで、持ち運びも便利。旅行やイベント、スクラップブック、日常の思い出まで、好きな場所で写真をプリントして楽しめます。",
+        "KODAK Photo Printerアプリ：KODAK Photo Printerアプリを使えば、Bluetooth接続で簡単プリント。トリミングやフィルターなどの編集機能を使って、お気に入りの1枚に仕上げてから印刷できます。",
+        "セット内容：Mini 3 Retro本体、カートリッジ38枚、USBケーブル、ストラップ、取扱説明書が付属しています。スクエアサイズで、アルバム作りやスクラップブック、ホームデコレーション、フォトギフトにもおすすめです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "コダック スマホ 写真 プリンター"
+      ]
+    },
+    {
+      "asin": "B08BL8G4Z6",
+      "title": "KODAK Mini 2 Retro スマホプリンター(5×7.6cm) 4PASS 8枚入り ブラック",
+      "url": "https://www.amazon.co.jp/dp/B08BL8G4Z6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08BL8G4Z6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31hiNMhuPiL._SL500_.jpg",
+      "features": [
+        "いつでもどこでも簡単プリント：KODAK Mini 2 Retroは、スマートフォンの写真を高画質でプリントできるポータブルフォトプリンターです。旅行や家族との思い出、日記やDIYなど、大切な写真をその場ですぐにプリントして楽しめます。",
+        "昇華型4PASSプリント技術：4PASS昇華型プリント技術を採用。3層のカラー印刷とラミネートコーティングにより、鮮やかで美しい写真を約55秒でプリントできます。防水・防指紋・色あせに強く、大切な思い出を美しく長く残せます。",
+        "簡単Bluetooth接続：複雑な設定は不要。電源を入れBluetoothで接続するだけで、すぐにプリントを開始できます。初めての方でも簡単に使え、スマートフォンの写真を手軽にプリントできます。",
+        "コンパクトで持ち運び簡単：手のひらやバッグに収まるコンパクトサイズで、持ち運びも便利。旅行やイベント、スクラップブック、日常の思い出まで、好きな場所で写真をプリントして楽しめます。",
+        "KODAK Photo Printerアプリ：KODAK Photo Printerアプリを使えば、Bluetooth接続で簡単プリント。トリミングやフィルターなどの編集機能を使って、お気に入りの1枚に仕上げてから印刷できます。",
+        "セット内容：Mini 2 Retroプリンター本体、カートリッジ8枚、USB ケーブル、取扱説明書が付属しています。クレジットカードサイズで、アルバムや手帳、財布に入れて持ち歩いたり、プレゼントにもおすすめです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "コダック スマホ 写真 プリンター"
+      ]
+    }
+  ]
+}

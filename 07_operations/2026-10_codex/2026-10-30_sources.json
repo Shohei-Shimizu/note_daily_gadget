@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-30",
+  "checked_at": "2026-10-09",
+  "title": "外出先の電池切れに備える「モバイルバッテリー」10選",
+  "original_research_sha256": "9d532872218c6e901db9d2c0a246eae5d1996a3cae9545b0104088a961f35634",
+  "products": [
+    {
+      "asin": "B0DHZPSVR5",
+      "name": "INIU モバイルバッテリー（10000mAh・45W）",
+      "body": "スマホに加え、USB-Cで給電する端末も持ち歩く人向けです。USB-Cの口を複数備え、ストラップとして持ち運べるケーブルが付属します。複数台に接続できることと、それぞれが最大出力で充電できることは別なので、使う端末の充電規格と同時接続時の配分を確認したいところです。",
+      "spec": [
+        "容量：10000mAh",
+        "最大出力：45W（対応規格・機器条件あり）",
+        "端子：USB-C×2／USB-A×1"
+      ],
+      "urls": [
+        "https://uk-main.iniushop.com/products/new-colorful-iniu-carry-p50-e1-power-bank-45w-smallest-10000mah",
+        "https://www.amazon.co.jp/dp/B0DHZPSVR5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
+      ],
+      "points": [
+        "USB-C端末も持ち歩く用途",
+        "ストラップ式USB-Cケーブル付属",
+        "最大出力と同時充電配分を別に確認"
+      ]
+    },
+    {
+      "asin": "B09WQN87HM",
+      "name": "INIU モバイルバッテリー（10000mAh・22.5W）",
+      "body": "USB-Aのケーブルも使いながら、スマホの予備電源を持ち歩きたい人向けです。USB-Cは本体を充電する入力と、端末への出力の両方に対応。押し出すスタンドも備えます。商品名の最大出力がすべての端子に当てはまるわけではないため、つなぐ端子と端末の対応規格を確認して選びたいところです。",
+      "spec": [
+        "容量：10000mAh",
+        "単ポート出力：USB-C最大20W／USB-A最大22.5W",
+        "本体入力：USB-C最大20W"
+      ],
+      "urls": [
+        "https://iniushop.com/collections/bf1-portable-power/products/iniu-flash-pd-22-5w-10000mah-portable-charger",
+        "https://www.amazon.co.jp/dp/B09WQN87HM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
+      ],
+      "points": [
+        "USB-Aケーブルも使う予備電源",
+        "USB-C入出力とスマホスタンド",
+        "USB-C20WとUSB-A22.5Wの差を確認"
+      ]
+    },
+    {
+      "asin": "B0CCJFY2V4",
+      "name": "Anker Nano Power Bank（USB-Cコネクター内蔵）",
+      "body": "USB-C端子のスマホに直接つなぎ、充電中のケーブルを減らしたい人向けです。折りたためるコネクターで持ち運びやすい構成。厚いケースや端子周りの形によって接続できない場合があるので、ケースとの相性を確認したいところ。Lightning端末へは別のケーブルが必要で、直接差し込む使い方とは異なります。",
+      "spec": [
+        "容量：5000mAh",
+        "最大出力：22.5W（Huawei対応機器条件あり）",
+        "本体入力：USB-C最大18W"
+      ],
+      "urls": [
+        "https://www.ankerjapan.com/products/a1653"
+      ],
+      "points": [
+        "USB-Cコネクターでスマホへ直接接続",
+        "ケース厚と端子穴寸法を確認",
+        "Lightning端末は別途CtoLightningケーブル"
+      ]
+    },
+    {
+      "asin": "B0CXHNGDC1",
+      "name": "UGREEN Nexode PB721",
+      "body": "出先でノートPCとスマホを充電し、電池残量や給電状態も確認したい人向けです。画面に入出力の状態を表示するので、接続後の様子を見ながら使えます。PCはUSB-C給電への対応と必要な電力を確認し、対応ケーブルで接続したいところ。容量が大きい分、持ち歩くバッグの中の重さも考えて選べます。",
+      "spec": [
+        "容量：20000mAh",
+        "出力：USB-C1最大100W／C1＋C2合計最大130W",
+        "本体入力：最大65W"
+      ],
+      "urls": [
+        "https://ugreen.jp/products/nexode-mobile-battery-20000mah"
+      ],
+      "points": [
+        "PCとスマホを出先で充電",
+        "画面で入出力の状態を確認",
+        "単100W/2口合計130W/入力65Wを区別"
+      ]
+    },
+    {
+      "asin": "B096XNWV32",
+      "name": "エレコム EC-C03BK",
+      "body": "薄型の本体をバッグへ入れ、USB-Cのスマホを充電したい人向けです。USB PDに対応するUSB-Cと、手持ちのケーブルを使えるUSB-Aを備えます。本体に蓄電する際もUSB-Cを使う構成。急速充電には対応する充電器やケーブルが必要で、出力と本体への入力をそれぞれ確認したいところです。",
+      "spec": [
+        "容量：10000mAh",
+        "USB-C出力：最大20W／USB-A：5V・2.4A",
+        "本体入力：最大18W"
+      ],
+      "urls": [
+        "https://www.elecom.co.jp/products/EC-C03BK.html"
+      ],
+      "points": [
+        "薄型のPD対応予備電源",
+        "USB-C出力とUSB-A出力を区別",
+        "本体入力にはPD18W対応充電器を確認"
+      ]
+    },
+    {
+      "asin": "B0CX4C1TVK",
+      "name": "Anker Power Bank（10000mAh・Fusion・USB-Cケーブル内蔵）",
+      "body": "コンセント用の充電器と予備電源をまとめ、出張の荷物を減らしたい人向けです。折りたたみプラグとUSB-Cケーブルを本体に備え、宿泊先でも使える構成。バッテリーで複数台へ給電する場合は、単独使用時と合計出力が変わります。Lightningの端末には対応ケーブルを別に用意したいところです。",
+      "spec": [
+        "容量：10000mAh",
+        "単ポート出力：充電器／バッテリーとも最大30W",
+        "2ポート合計：充電器18W／バッテリー15W"
+      ],
+      "urls": [
+        "https://www.ankerjapan.com/products/a1637"
+      ],
+      "points": [
+        "コンセント/バッテリー/ケーブルを集約",
+        "単30Wと2口合計出力の差を確認",
+        "Lightning端末は別ケーブルを用意"
+      ]
+    },
+    {
+      "asin": "B0BKJPZXH3",
+      "name": "RORRY D2（5000mAh）",
+      "body": "スマホだけでなくApple Watchの電池切れにも備えたい人向けです。時計用の充電部と、USB-C・Lightningのケーブルを本体にまとめています。USB-CのiPhoneとLightningのiPhoneでは使う内蔵ケーブルが異なるため、機種の端子を確認したいところ。時計の充電速度も機種や条件によって変わります。",
+      "spec": [
+        "容量：5000mAh",
+        "内蔵ケーブル：USB-C／Lightning",
+        "充電部：Apple Watch用＋USB-Cポート"
+      ],
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000117.000159488.html",
+        "https://www.amazon.co.jp/dp/B0BKJPZXH3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
+      ],
+      "points": [
+        "AppleWatchとスマホの予備電源",
+        "USB-C/Lightning内蔵ケーブルを使い分け",
+        "時計/スマホの充電速度を一括保証しない"
+      ]
+    },
+    {
+      "asin": "B0B1PW59FS",
+      "name": "エレコム EC-C04BK",
+      "body": "大きな容量よりも軽さを優先し、短い外出の予備電源を持ちたい人向けです。USB-CとUSB-Aを備え、手持ちのケーブルに合わせてつなげられます。USB PDの高出力モデルとは違い、通常の給電に使う構成。複数台を接続しても端子ごとに最大電力を使えるわけではない点を確認して選びたいところです。",
+      "spec": [
+        "容量：5000mAh／重量約110g",
+        "出力：5V・合計2.4A（最大12W）",
+        "本体入力：5V・2.4A（最大12W）"
+      ],
+      "urls": [
+        "https://www.elecom.co.jp/products/EC-C04BK.html"
+      ],
+      "points": [
+        "軽量の通常給電用予備電源",
+        "USB-C/USB-Aのケーブルを使える",
+        "出力合計12WでPD高出力型と区別"
+      ]
+    },
+    {
+      "asin": "B0CHVZHLZ1",
+      "name": "CIO SMARTCOBY Pro SLIM",
+      "body": "ポーチの平たい収納へ入れ、スマホやタブレットを充電したい人向けです。USB-CとUSB-Aを備え、本体の残量を数字で確認できます。パススルー充電にも対応しますが、同時使用時は出力の配分が変わるため、単ポートの最大値だけで判断しないことが大切。必要な規格に対応する端末とケーブルを確認してみてください。",
+      "spec": [
+        "容量：10000mAh／厚さ約16.2mm",
+        "出力：USB-C単最大35W／複数合計30W",
+        "本体入力：USB-C最大35W"
+      ],
+      "urls": [
+        "https://connectinternationalone.co.jp/cionews/news/10000mah%E3%81%AE%E6%96%B0%E5%AE%9A%E7%95%AA%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BCsmartcoby-pro-slim%E3%81%8C%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8B/",
+        "https://connectinternationalone.co.jp/wp/wp-content/uploads/2023/12/240202_SMARTCOBYProSLIM_UM.pdf"
+      ],
+      "points": [
+        "平たいポーチ収納向け",
+        "数字の残量表示とパススルー",
+        "USB-C単35W/複数合計30Wを区別"
+      ]
+    },
+    {
+      "asin": "B0F6NFHB31",
+      "name": "UGREEN Air PB580",
+      "body": "スマホの背面へ取り付け、ケーブルをつながずに充電したい人向けの薄型モデルです。Qi2のワイヤレス充電に対応し、USB-Cの有線給電も選べます。磁力で固定する使い方には端末やケースの対応が必要なので、厚いケースや金属部品の影響も確認したいところ。機種によって実際に使える充電速度は変わります。",
+      "spec": [
+        "容量：5000mAh／厚さ約8.6mm",
+        "出力：Qi2最大15W／USB-C最大20W",
+        "本体入力：USB-C最大20W"
+      ],
+      "urls": [
+        "https://store.ugreen.jp/products/air-5000mah-slim-qi2-power-bank"
+      ],
+      "points": [
+        "薄型でスマホ背面へ装着",
+        "Qi2とUSB-C有線を選べる",
+        "端末/ケースの磁力と充電規格を確認"
+      ]
+    }
+  ],
+  "notes": [
+    "原本SHA/order/URL/10商品/基準メモ保持。事前除外3回収ASINは本文にない。安全性/保証/燃えない/必ず1回満充電/機内持込一律保証なし。",
+    "INIU45Wは国内当該実測featuresに型番未掲載。公式P50参考は構成/最大出力共通確認のみ、P50型番・入力数値・海外重量寸法・合計値を当該ASINへ断定転記しない。国内featuresの最大45W・2C1A・10000mAh採用。",
+    "INIU22.5W国内実測構成と公式B61はC1/A2/スタンド、出力C20W/A22.5W/input20W。型番はH2推測しない。同時合計未確認数値は省略。",
+    "AnkerA1653は公式22.5W最大Huawei限定、USB-C直接差込みケース条件、Lightning別ケーブル。A1637Fusionは単30W、2口AC18W/電池15W、別A1636のバッテリー20Wと混同しない。",
+    "UGREENPB721国内公式100W単/130W2C合計/入力65W。同時各口130Wとは書かない。PB580国内公式Qi2 15W/有線20W/input20W、ワイヤレス+有線合計35Wとは書かない。",
+    "ELECOMC03PD20W出力/input18W、C04は5V2.4A12W入出力でPD高出力ではない。",
+    "RORRYD2国内メーカーPRがLightning/USB-CケーブルとWatch部を確認。10000版20Wを5000版へ転記せず、速度/合計W未確定省略。",
+    "CIO旧ProSLIM当該ASINは国内公式2023リリース直接リンク。旧2024説明書で入出力35W/複数total30W。2026SS説明書/半固体保証の流用なし。",
+    "急速充電は機器とケーブル規格条件、USB-C/Lightning違いを本文/最後に明記。画像metadataUIはメイン。"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-17",
+  "topic_id": "daily_gadget_20261017_45aac013",
+  "title": "活動量と睡眠を記録する「スマートウォッチ」7選",
+  "status": "reserved_user_approved",
+  "note_imported": true,
+  "reserved": true,
+  "checks": {
+    "product_count": true,
+    "selection_order": true,
+    "parent_unique": true,
+    "maker_cap": true,
+    "all_tier1": true,
+    "all_in_stock": true,
+    "product_urls_from_research": true,
+    "related_urls": true,
+    "metadata_title": true,
+    "schedule_title": true,
+    "research_title": true,
+    "structure": true,
+    "no_review_or_usage_claims": true,
+    "thumbnail_png": true,
+    "url_empty": true,
+    "note_account_verified": true,
+    "amazon_gui_ids_verified": true,
+    "amazon_cards_7": true,
+    "idea_list_card_1": true,
+    "related_cards_3": true,
+    "native_toc_10": true,
+    "no_plain_urls": true,
+    "tags_5": true,
+    "magazine_verified": true,
+    "reservation_verified": true
+  },
+  "measurement": {
+    "attempted": 23,
+    "succeeded": 23,
+    "failed": 0,
+    "out_of_stock": 1,
+    "selected": 7,
+    "tier": "Tier1",
+    "run_id": "a22f6696-d2dc-4385-8e82-39828151f1f2"
+  },
+  "thumbnail": {
+    "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-17_smartwatch_activity_sleep.png",
+    "width": 1672,
+    "height": 941,
+    "visual_qa": "pass",
+    "generation": "built-in image_gen, existing account style"
+  },
+  "files": {
+    "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/02_article/2026-10/2026-10-17_活動量と睡眠を記録する「スマートウォッチ」7選.md": "ca611ebffc2b87ab42ec8f643f6197ff7a500d78359ad8d9a66666ed8ee041cd",
+    "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-10/2026-10-17_活動量と睡眠を記録する「スマートウォッチ」7選.md": "e6c20ae0ea6d095f71f2910c023b4d348ae11f599b8aaa361ad59996bd7b8464",
+    "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-17_smartwatch_activity_sleep.png": "77967059ca1c89a443d6a2010b60b2000fe76d6485774e3ff5bcea0098adab71"
+  },
+  "remaining": [
+    "ユーザーによる予約済み記事の確認",
+    "10/18〜31の制作は試作確認後"
+  ],
+  "db_article_id": 583,
+  "db_registration_verified": true,
+  "backfill_existing_warnings": [
+    "10/16制作計画に商品ブロックなし",
+    "2025-11〜2026-02の既存metadata本文欠落5件"
+  ],
+  "note_url": "https://note.com/daily_gadget/n/nf240cc469b8f",
+  "reserved_at": "2026-10-17T20:00:00+09:00",
+  "user_review": "approved"
+}

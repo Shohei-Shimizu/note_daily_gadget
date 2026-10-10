@@ -1,0 +1,24 @@
+
+候補 13 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B0DQQBC88X  BENFEI         BENFEI 3in1 USB C ハブ、4K@60Hz HDMI、10Gbps USB-A、100W  [measured 2026-08-26]
+  B093FKT9BF  Ugreen         UGREEN Revodok 107 USB Cハブ 7-IN-1 [article_dated 2026-03-08]
+  B0CSYYKB97  BENFEI         BENFEI USB C ハブ 5in1 4K@30Hz HDMI 1*USB3.2+2*USB2.0ポ [article_dated 2026-09-07]
+  B0D1XLNWP2  Ugreen         UGREEN Revodok USB-C ハブ 6in1 100W USB PD対応 4K 60Hz 1 [measured 2026-09-11]
+  B0BQMSXFP7  Anker          Anker 332 USB-C ハブ (5-in-1) 100W USB PD対応 4K HDMIポート [article_dated 2026-09-07]
+  B0BXDQS4BD  Ugreen         UGREEN Revodok Pro USB Cハブ 2HDMI拡張4K60Hz 5Gbpsデータ転送  [article_dated 2026-09-30]
+  B0D1XSKZRJ  Ugreen         UGREEN 7 in 1 Revodok Pro USB C ドッキングステーション 2*HDMI出力 [measured 2026-09-11]
+  B0DLWDJJQ8  Anker          Anker USB-C ハブ (5-in-1, 4K, HDMI) グレー [article_dated 2026-09-03]
+  B0CTQGM5ZN  Anker          Anker USB-C ハブ (4-in-1, 10Gbps) [article_dated 2026-09-30]
+  B0D53WG438  ELECOM         エレコム USB-Cハブ ドッキングステーション 6in1 スリムタイプ PD 100W対応 4K60H [article_dated 2026-09-12]
+  B0FXDVQMQG  Belkin         Belkin 8-in-1 USB ハブ 100W USB-C PD高速充電 4K@60Hz HDMI出 [article_dated 2026-09-30]
+  B0DTJTS1WN  Belkin         Belkin Connect 7-in-1 USB-C ハブ [未実測]
+  B0DVFVVV5S  ELECOM         エレコム USBハブ USB-C接続 USB3.2(Gen1) 5Gbps 4ポート バスパワー 15c [未実測]
+
+topic_id: daily_gadget_20261106_3fc79539
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_usb_hub_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_usb_hub_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

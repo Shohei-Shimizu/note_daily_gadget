@@ -1,0 +1,46 @@
+📦 候補読み込み: 11 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_air_duster_candidates.json)
+🔎 実測: 11 件の ASIN を Amazon 商品ページから取得します...
+  [1/11] B0BV5RHNM1 review=978 star=4.5 stock=in_stock OK
+  [2/11] B0DJDZRW18 review=171 star=3.7 stock=in_stock OK
+  [3/11] B0F4JDMFSX review=93 star=3.6 stock=in_stock OK
+  [4/11] B0F4JQCMBG review=69 star=3.9 stock=in_stock OK
+  [5/11] B0F6TSHGN9 review=39 star=4.6 stock=in_stock OK
+  [6/11] B0FDFFHVWD review=49 star=3.8 stock=in_stock OK
+  [7/11] B0GC4TJDXL review=16157 star=4.5 stock=in_stock OK
+  [8/11] B0GK5S77XX review=56 star=4.2 stock=in_stock OK
+  [9/11] B0H1WNMLLD review=321 star=3.9 stock=in_stock OK
+  [10/11] B0H4Q6P8DQ review=688 star=4.5 stock=in_stock OK
+  [11/11] B0H6SDNHH9 review=201 star=4.5 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=11 succeeded=11 failed=0 / run累積 attempted=293 succeeded=293 failed=0) product新規=0 product更新=11 metric行=11 verification行=1
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 11 / 11
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier2 / 緩和: あり
+採用件数: 6
+
+-- 採用 --
+1. [Tier1] WOLFBOX / B0GC4TJDXL / review=16157 star=4.5 
+   WOLFBOX エアダスター 電動ブロワー 洗車後の隙間の水滴飛ばし・日常掃除に 最大風速75m/s以上 204g超軽量 USB充電式
+2. [Tier1] サンワサプライ / B0BV5RHNM1 / review=978 star=4.5 ★有名ブランド
+   サンワダイレクト 電動エアダスター AC電源 強力 ノズル3種類付属 ケーブル長3m PC 掃除 200-CD079
+3. [Tier1] Horumi / B0H4Q6P8DQ / review=688 star=4.5 
+   Horumi エアダスター 電動エアダスター 強力ブロワー【120m/sの超強暴風· 吹くだけで完全清掃 · LEDライト】300000RP
+4. [Tier2] AAL / B0H1WNMLLD / review=321 star=3.9 
+   AAL エアダスター 電動エアダスター 【2026新登場· 圧倒的な風圧 ·LEDライト付き】小型 ブロワー 洗車 300000RPM高速回
+5. [Tier2] AAL / B0H6SDNHH9 / review=201 star=4.5 
+   AAL エアダスター 電動エアダスター【圧巻の風速150m/s·LEDライト搭載】 ブロワー 小型 強力 300000RPM高速回転 5種類
+6. [Tier2] ELECOM / B0DJDZRW18 / review=171 star=3.7 ★有名ブランド
+   エレコム 日本メーカー 電動エアダスター 充電式 強力 逆さ噴射可能 3段階風量調整 49000rpm高速回転 最大風速28m/s LEDラ
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 5 件 --
+  - [Tier3] ELECOM / B0F4JDMFSX: 多様性制約または件数上限のため非選抜
+  - [Tier3] ELECOM / B0F4JQCMBG: 多様性制約または件数上限のため非選抜
+  - [Tier3] サンワサプライ / B0F6TSHGN9: 多様性制約または件数上限のため非選抜
+  - [Tier3] ELECOM / B0FDFFHVWD: 多様性制約または件数上限のため非選抜
+  - [Tier3] サンワサプライ / B0GK5S77XX: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-18_机まわりのほこりを払う。電動エアダスター.md

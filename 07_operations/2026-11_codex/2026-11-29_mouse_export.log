@@ -1,0 +1,33 @@
+
+候補 22 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B06WRN4VGJ  バッファロー         バッファロー マウス ワイヤレス 静音 5ボタン dpi切替 BlueLED ブラック BSMBW325 [measured 2026-08-31]
+  B0956X785M  Logicool       【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グ [measured 2026-09-11]
+  B07S8VWT5B  バッファロー         バッファロー マウス ワイヤレス 5ボタン 最大584日使用可能 BlueLED ブラック BSMBW3 [measured 2026-08-26]
+  B08LMK3L5C  ELECOM         エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付  [article_dated 2026-08-02]
+  B088P8QYWN  ELECOM         エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガ [measured 2026-09-11]
+  B09J46WG5D  Logicool       【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 静音 M220CG 小型 電池寿命 [article_dated 2026-06-28]
+  B09Q5SHDR3  Logicool       ロジクール Signature M650MGR ワイヤレスマウス 静音 Bluetooth レギュラー  [article_dated 2026-06-28]
+  B0BKPL1VKW  Logicool       Logicool Signature M750MGR ワイヤレスマウス 静音 レギュラー グラファイト  [article_dated 2026-07-18]
+  B0956BPVC7  バッファロー         バッファロー ワイヤレス モバイルマウス Bluetooth FLEXUS 薄型軽量 3ボタン 無線 静 [article_dated 2026-08-25]
+  B0CYH3GC38  極薄型モデル＆Type-C充 【極薄型モデル＆Type-C充電式】マウス 無線 Bluetooth 5.2 ワイヤレスマウス 静音 瞬 [measured 2026-09-11]
+  B0C2YK1CS6  Logicool       ロジクール 静音 ワイヤレスマウス M240GR Silent Bluetooth マウス グラファイト [measured 2026-09-11]
+  B0CJR5HBMN  Logicool       Logicool Pebble M350s 薄型ワイヤレスマウス [measured 2026-09-11]
+  B09WV6D7SM  Logicool       ロジクール ワイヤレス 縦型 静音 エルゴノミック マウス LIFT M800GR Logi Bolt  [article_dated 2026-03-26]
+  B0D21S5SPG  Logicool       【Amazon.co.jp限定】 ロジクール 静音 ワイヤレスマウス 無線 Silent Bluetoo [measured 2026-08-31]
+  B09KRQYKL4  ELECOM         エレコム マウス ワイヤレスマウス Bluetooth 静音 3ボタン Sサイズ 抗菌 ブラック M-B [measured 2026-09-11]
+  B0C65MQZ65  Logicool       ロジクール MX ANYWHERE 3S MX1800GR 静音 マウス Bluetooth Logi  [measured 2026-09-11]
+  B01G54TY1K  ELECOM         エレコム ワイヤレスマウス 静音 握りの極み Mサイズ 5ボタン ブラック M-XGM10DBSBK [measured 2026-08-31]
+  B01G54NODO  ELECOM         エレコム マウス ワイヤレス (レシーバー付属) Lサイズ 5ボタン (戻る・進むボタン搭載) 静音 B [未実測]
+  B01HO0W4SE  ELECOM         エレコム マウス ワイヤレス (レシーバー付属) Mサイズ 3ボタン IRセンサー 省電力 ブラック M [未実測]
+  B09Y8G6FJJ  ELECOM         エレコム ワイヤレスマウス Bluetooth EX-G 握りの極み 静音設計 5ボタン マルチペアリン [未実測]
+  B0BKP2XWY5  Logicool       【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550M [未実測]
+  B0FJRCJ1SN  ELECOM         【リニューアル】 エレコム ワイヤレスマウス 静音 充電式 OSMOD Six Bluetooth 無線 [未実測]
+
+topic_id: daily_gadget_20261129_a6aab077
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-29_mouse_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-29_mouse_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

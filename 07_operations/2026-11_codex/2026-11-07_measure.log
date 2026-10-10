@@ -1,0 +1,45 @@
+📦 候補読み込み: 11 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_webcam_candidates.json)
+🔎 実測: 11 件の ASIN を Amazon 商品ページから取得します...
+  [1/11] B09MHPFV4Q review=916 star=4.4 stock=in_stock OK
+  [2/11] B0D21FZ5KN review=582 star=4.1 stock=in_stock OK
+  [3/11] B0CVZW78XW review=46 star=4.5 stock=in_stock OK
+  [4/11] B098NF6K7G review=30 star=3.6 stock=in_stock OK
+  [5/11] B0C2CFW1QV review=116 star=4.2 stock=out_of_stock OK
+  [6/11] B0C3B6ZR1V review=1055 star=4.4 stock=in_stock OK
+  [7/11] B0CCY8RBJD review=1354 star=4.1 stock=out_of_stock OK
+  [8/11] B0CZ6XY78Y review=1984 star=4.3 stock=in_stock OK
+  [9/11] B0DDTH3HX8 review=1460 star=4.6 stock=in_stock OK
+  [10/11] B0DMF4GLR8 review=1043 star=4.4 stock=in_stock OK
+  [11/11] B0G3T1QKWL review=398 star=4.6 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=11 succeeded=11 failed=0 / run累積 attempted=133 succeeded=133 failed=0) product新規=0 product更新=11 metric行=11 verification行=3
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 9 / 11
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 5
+
+-- 採用 --
+1. [Tier1] OBSBOT / B0CZ6XY78Y / review=1984 star=4.3 
+   OBSBOT TINY 2 Lite Webカメラ 4K ウェブカメラ AI搭載 自動追跡 4800万画素 HDR 位相差検出AF フィルタ
+2. [Tier1] Insta360 / B0DDTH3HX8 / review=1460 star=4.6 
+   Insta360 Link 2 Webカメラ 4K ウェブカメラ PTZ 1/2インチセンサー AI追跡 ジンバル搭载 HDR AIノイズキ
+3. [Tier1] Anker / B09MHPFV4Q / review=916 star=4.4 ★有名ブランド
+   Anker PowerConf C200 / 2K コンパクトウェブカメラ/ノイズリダクション/オートゲインコントロール/オートフォーカス/
+4. [Tier1] OBSBOT / B0C3B6ZR1V / review=1055 star=4.4 
+   OBSBOT TINY 2 webカメラ AI自動追跡 ウェブカメラ HDR 4K 5000万画素 全画素AF ジェスチャー 音声制御 ノイ
+5. [Tier1] Logicool / B0D21FZ5KN / review=582 star=4.1 ★有名ブランド
+   【Amazon.co.jp限定】 ロジクール ウェブカメラ C270nd HD 720P 小型 Webカメラ usbカメラ 自動光補正 カメ
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 4 件 --
+  - [Tier3] Logicool / B0CVZW78XW: 多様性制約または件数上限のため非選抜
+  - [Tier3] Dell / B098NF6K7G: 多様性制約または件数上限のため非選抜
+  - [Tier1] OBSBOT / B0DMF4GLR8: 多様性制約または件数上限のため非選抜
+  - [Tier2] Insta360 / B0G3T1QKWL: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 2 件 --
+  - B0C2CFW1QV / Insta360 Link Webカメラ 公式ステッカー集付き 4K PTZウェ: 在庫切れのため除外
+  - B0CCY8RBJD / Anker AnkerWork C310 ウェブカメラ、4Kウェブカメラ、120: 在庫切れのため除外
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-07_オンライン会議の映りを整える。ウェブカメラ.md

@@ -1,0 +1,27 @@
+
+候補 16 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B0F5GQLNWP  Philoent       Philoent 270°回転プロジェクター [measured 2026-09-11]
+  B0BCTP8VJH  Anker          Anker Nebula Capsule 3 Laser 【小型モバイルレーザープロジェクター】 | 家 [measured 2026-09-11]
+  B0CJDV213W  Anker          Anker Nebula Capsule 3 【小型モバイルプロジェクター 】 [measured 2026-09-11]
+  B0D2R2QXZR  YOWHICK        YOWHICK プロジェクター 家庭用 小型 Android TV搭載・30000LM・2026年 ホー [measured 2026-09-11]
+  B0CJVFJMVF  Jimveo         Jimveo 360°回転プロジェクター E18 [measured 2026-09-11]
+  B0GVHCH4XJ  プロジェクター        [Android TV 14.0・350g超軽量 ]プロジェクター 小型 高輝度 Netflix/You [measured 2026-09-11]
+  B0F677FVMJ  プロジェクター        プロジェクター 家庭用【Netflixライセンス&20WDolby対応】750ASNI 高輝度［AI自動 [measured 2026-09-11]
+  B0GCZXVHLW  プロジェクター        プロジェクター 家庭用 小型【2026業界注目 Android TV 14・HDR高ダイナミック画質】3 [measured 2026-09-11]
+  B0GD12KTVG  プロジェクター        プロジェクター 家庭用 小型【2026業界注目 Android TV 14・HDR高ダイナミック画質】3 [measured 2026-09-11]
+  B0GBWCTFWN  プロジェクター        プロジェクター 家庭用 超小型【2026音質強化バージョン・外部HiFiスピーカー】Android TV [measured 2026-08-31]
+  B00PIM0PTG  Epson          エプソン プロジェクター EB-535W (3400lm/WXGA/3.7kg/デスクトップ型超短焦点) [measured 2026-08-31]
+  B01AUL0U8K  SONY           ソニー プロジェクター ポータブル/超短焦点/バッテリー・スピーカー内蔵 LSPX-P1 [measured 2026-08-31]
+  B01N0EJD6I  Epson          EPSON プロジェクター EB-1785W 3,200lm WXGA 1.8kg [measured 2026-08-31]
+  B0776TCTK2  BenQ           BenQ TH671ST 短焦点 DLPホームプロジェクター フルHD/3,000ANSIルーメン/低遅 [未実測]
+  B0D1TYZSXV  Dangbei        Dangbei(ダンベイ) DBOX02 4K プロジェクター GTV搭載 Netflix公認 レーザー [未実測]
+  B0FH21C9P6  TCL            TCL PlayCube 750 ISO 1080P FHD LED 小型 プロジェクター Google [未実測]
+
+topic_id: daily_gadget_20261115_9562e831
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_projector_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_projector_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

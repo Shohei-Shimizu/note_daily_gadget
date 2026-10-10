@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-21",
+  "topic_id": "daily_gadget_20261121_00248fb1",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 5,
+  "parent_groups": {
+    "B0HBQ4KP26": [
+      "B0G5YPH9SG"
+    ],
+    "B0785D93KD": [
+      "B0785D93KD"
+    ],
+    "B08WT889V3": [
+      "B08WT889V3"
+    ],
+    "B0GWQSD4XJ": [
+      "B094NCN8CG"
+    ],
+    "B0D2D2Q4Y5": [
+      "B0CZ9P1QW9"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B0785D93KD",
+      "title": "BenQ ScreenBar スクリーンバー モニター掛け式ライト [デスクライト monitor lamp モニターライト]",
+      "maker": "BenQ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "BenQ",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-22",
+      "scope_pending": [
+        "モニター上端への取付条件・湾曲対応・カメラとの干渉を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08WT889V3",
+      "title": "BenQ ScreenBar Halo モニターライト スクリーンバー ハロー USBライト デスクライト [無線リモコン 自動調光 間接照明モード 高演色性]",
+      "maker": "BenQ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "BenQ",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-22",
+      "scope_pending": [
+        "モニター上端への取付条件・湾曲対応・カメラとの干渉を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B094NCN8CG",
+      "title": "OOWOLF モニターライト バー パソコンライト 3段階調色 無段階調光 背面ライト付き Ra95+ 高演色 目に優しい 記憶機能 USB給電 モニタ掛け式 デスクライト 在宅勤務/pc作業/勉強/ゲーミング タッチ式 41cm",
+      "maker": "OOWOLF",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "OOWOLF",
+      "historical_tier": 1,
+      "parent_asin": "B0GWQSD4XJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-22",
+      "scope_pending": [
+        "モニター上端への取付条件・湾曲対応・カメラとの干渉を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0C1MJ6TC8",
+      "title": "デスクライト LED 【照明士推奨】 目に優しい 自然光デスクライト ワイド 高演色Ra95 クランプ 5段階調光 モニターライト | 自然光ワイドホワイト(クランプタイプ)",
+      "maker": "デスクライト",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0C1MKQLGD",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-22",
+      "scope_pending": [
+        "メーカー名称を公式確認するまでメーカー多様性へ数えない"
+      ],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CZ9P1QW9",
+      "title": "BenQ ScreenBar Pro モニターライト モニター掛け式ライト デスクライト【 アップグレードモデル 】広範囲照明 自動点灯 自動消灯 高演色 LED (在宅勤務 デスクワーク デザイナー 省スペース 湾曲/ワイドモニター) ブラック",
+      "maker": "BenQ",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "BenQ",
+      "historical_tier": 1,
+      "parent_asin": "B0D2D2Q4Y5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-06",
+          "title": "自分だけの秘密基地。デスクを彩る「モニターライト」 6 選",
+          "asin": "B0CZ9P1QW9"
+        },
+        {
+          "published_date": "2026-02-26",
+          "title": "デスクの色を統一。理想の「モノトーンガジェット」特集 8 選",
+          "asin": "B0CZ9P1QW9"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-22",
+      "scope_pending": [
+        "モニター上端への取付条件・湾曲対応・カメラとの干渉を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0G5YPH9SG",
+      "title": "Quntis モニターライト バーライト 40cm モニター掛け式 デスクライト 昼白/昼光/電球色 演色性Ra≥98 照度≥700Lux 無段階色温度と輝度調整 目に優しい 省スペース USB 厚さ0.7-3.5cmのモニター対応 Basic L205-QU",
+      "maker": "Quntis",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Quntis",
+      "historical_tier": 1,
+      "parent_asin": "B0HBQ4KP26",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-22",
+      "scope_pending": [
+        "モニター上端への取付条件・湾曲対応・カメラとの干渉を公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B0C1MJ6TC8",
+      "title": "デスクライト LED 【照明士推奨】 目に優しい 自然光デスクライト ワイド 高演色Ra95 クランプ 5段階調光 モニターライト | 自然光ワイドホワイト(クランプタイプ)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    }
+  ],
+  "historical_tier_distribution": {
+    "1": 5
+  },
+  "maker_count_upper_bound_before_parent": 4,
+  "variant_policy": "同親の色/サイズ候補を残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "親違いの同モデルも公式照合が必要、親群数を商品数とみなさない",
+    "BenQ3機をメーカー最大2品にすると上限4件。別メーカー補充が必須、クランプ式ライトで埋めない"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "observed_date": "2026-10-09",
+  "excluded": [
+    {
+      "asin": "B08CXJ3HMF",
+      "reason": "公式回収対象販売期間がある。現販売個体の対象外確認が未了のため推薦候補から除外。機械再選抜。",
+      "source": "https://www.ankerjapan.com/pages/202510-support"
+    },
+    {
+      "asin": "B0BXSVN86C",
+      "reason": "公式回収対象販売期間がある。現販売個体の対象外確認が未了のため推薦候補から除外。機械再選抜。",
+      "source": "https://www.ankerjapan.com/pages/202510-support"
+    }
+  ]
+}

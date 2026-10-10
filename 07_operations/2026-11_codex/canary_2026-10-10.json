@@ -1,0 +1,22 @@
+[
+  {
+    "asin": "B0BQQBDWFT",
+    "url": "https://www.amazon.co.jp/dp/B0BQQBDWFT",
+    "review_count": 88,
+    "star_rating": 4.1,
+    "stock_status": "in_stock",
+    "availability_text": "在庫あり。",
+    "ok": true,
+    "error": "",
+    "features": [
+      "スタイリッシュでミニマムなデザインが魅力の超薄型・静音ワイヤレスキーボード",
+      "ロープロファイルの静音キーを採用／テンキーを搭載しコンパクトながらも高い生産性を実現",
+      "キーボード上部にスマートフォンを立てられるフォルダー(溝)付き／パソコンのような作業環境でタイピング",
+      "最大2台までの接続デバイスをボタン1つで切り替えられるEasy-Switchを採用／マルチにデバイスを使いこなしたい方にオススメ",
+      "BlutoothまたはUnifyingUSBで接続／UnifyingUSBは本製品に同梱されています。"
+    ],
+    "image_url": "https://m.media-amazon.com/images/I/6124xr8EZ8L._AC_SY300_SX300_QL70_ML2_.jpg",
+    "parent_asin": "B0BRPG4ZXM",
+    "parent_status": "resolved"
+  }
+]

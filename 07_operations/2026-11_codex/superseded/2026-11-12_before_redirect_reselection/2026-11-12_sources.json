@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-12",
+  "checked_at": "2026-10-10",
+  "products": [
+    {
+      "asin": "B0CP4RQZ3L",
+      "name": "Anker Soundcore P40i",
+      "source": "https://www.ankerjapan.com/products/a3955",
+      "points": [
+        "マルチポイントでPCとスマホを同時接続できる。",
+        "6マイクとAIによる通話ノイズ低減に対応。",
+        "ケースを含む再生時間と本体単独の時間を分けて確認できる。"
+      ],
+      "specs": [
+        "接続：Bluetooth 5.3・マルチポイント",
+        "通常再生：本体最大12時間・ケース使用時最大60時間",
+        "ANC再生：本体最大10時間・ケース使用時最大50時間",
+        "通話：6マイク・AIノイズ低減"
+      ],
+      "body": "PCでの会議とスマホの音楽を同じイヤホンにまとめたい人向けの候補です。マルチポイントによる端末切り替えと、マイク・AIによる通話ノイズ低減を備える構成。充電ケースも使った再生時間は、本体だけで続けて使える時間とは異なるため、会議の長さに合わせて確認しておきたいモデルです。",
+      "cautions": [
+        "再生時間は通話時間の保証ではない。ANCオフ/オンの時間を区別。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B0DK53QZ8J",
+      "name": "TOZO NC9",
+      "source": "https://jp.tozostore.com/products/tozo-nc9",
+      "points": [
+        "ANCで聞く側の環境音を低減する。",
+        "6マイクENCによる通話ノイズ低減に対応。",
+        "アプリでEQを調整できる。"
+      ],
+      "specs": [
+        "接続：Bluetooth 5.3",
+        "機能：ANC・外音取り込み",
+        "通話：6マイクENC",
+        "調整：TOZOアプリのEQ"
+      ],
+      "body": "通話と音楽でノイズ低減の役割を使い分けたい人向けに調べた候補です。聞く側の周囲音を抑えるANCと、マイクから送る音声のノイズを低減するENCを備えます。アプリで音質も調整できるため、接続するPCやスマホの設定を確認しながら使いたいモデル。",
+      "cautions": [
+        "日本公式の現行6マイク/IPX8/60h版を採用。旧NC9の40h/IPX6/2マイクを転用しない。最大60hはケース合計、海外2024版59h/42hと表記差があり記事時間数値は不使用。AI通訳/会議記録は条件未確認で不使用。"
+      ],
+      "official_confirmation": "confirmed_core"
+    },
+    {
+      "asin": "B0D4Z8KJXY",
+      "name": "EarFun Air Pro 4",
+      "source": "https://www.myearfun.com/jp/headphones/earfun-air-pro-4-adaptive-anc-true-wireless-earbuds-black",
+      "points": [
+        "アダプティブANCとAIを使う通話マイクを搭載。",
+        "アプリで音質や操作を調整できる。",
+        "LDACなどの対応コーデックは端末側の条件も必要。"
+      ],
+      "specs": [
+        "接続：Bluetooth 5.4",
+        "機能：アダプティブANC・外音取り込み",
+        "通話：6マイク・AIノイズ低減",
+        "通常再生：本体最大11時間・ケース込み52時間（ANC/LDACオフ）",
+        "ANC再生：本体最大7.5時間・ケース込み35時間（LDACオフ）"
+      ],
+      "body": "移動中の音楽とオンライン会議を両方使う人向けの候補です。ANCと通話用マイクを備え、アプリで接続や音質を調整する構成。高音質コーデックを有効にすると再生時間や接続機能の条件が変わるため、会議に使う端末との組み合わせを確認しておきたいモデルです。",
+      "cautions": [
+        "AirPro4+は別機種。LDAC/aptXは対応する端末が必要。デュアル接続とLDAC同時条件は断定不使用、再生はANC/LDAC条件固定。抽出Wi-Fiを削除。"
+      ],
+      "official_confirmation": "confirmed_core"
+    },
+    {
+      "asin": "B0FRSCXWSV",
+      "name": "Xiaomi REDMI Buds 8 Lite",
+      "source": "https://www.mi.com/jp/product/redmi-buds-8-lite/",
+      "points": [
+        "デュアルデバイス接続と着信時の切り替えに対応。",
+        "ANCと通話時のAIノイズ低減を搭載。",
+        "Xiaomi Earbudsアプリで操作と音質を調整できる。"
+      ],
+      "specs": [
+        "接続：Bluetooth 5.4・デュアルデバイス接続",
+        "コーデック：SBC・AAC",
+        "機能：ANC・外音取り込み",
+        "アプリ：Xiaomi Earbuds"
+      ],
+      "body": "PCとスマホをつなぎ、着信時の切り替えを重視する人向けの候補です。デュアルデバイス接続に対応し、アプリで音質やタッチ操作を調整できる構成。ANCと通話のノイズ低減は別の役割なので、音楽と会議それぞれの設定を確かめながら使いたいモデルです。",
+      "cautions": [
+        "REDMI8Liteと6Liteを混同しない。最大36hはケース合計、ANC条件不明記の数値は本文不使用。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B0DRVB48LJ",
+      "name": "Anker Soundcore Liberty 5",
+      "source": "https://www.ankerjapan.com/products/a3957",
+      "points": [
+        "LDACとDolby Audioをマルチポイントと併用できる。",
+        "ANCを環境と装着状態に合わせて自動調整。",
+        "6マイクとAIによる通話ノイズ低減に対応。"
+      ],
+      "specs": [
+        "接続：Bluetooth 5.4・マルチポイント",
+        "コーデック：SBC・AAC・LDAC",
+        "通常再生：本体最大12時間・ケース使用時最大48時間",
+        "ANC再生：本体最大8時間・ケース使用時最大32時間",
+        "通話：6マイク・AIノイズ低減"
+      ],
+      "body": "端末切り替えと音楽のコーデックを両立したい人向けに候補へ入れました。LDACやDolby Audioをマルチポイントと併用でき、通話にはマイクとAIによるノイズ低減を使う構成です。LDACは対応端末とアプリ設定が必要なので、接続元も含めて機能を確認してみてください。",
+      "cautions": [
+        "LDACはiOS非対応、アプリとファームウェア更新・Android側対応が必要。Dolby Audio+ANC時は本体5hと減る。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B0CBKQZXT7",
+      "name": "ソニー WF-1000XM5",
+      "source": "https://www.sony.jp/headphone/products/WF-1000XM5/",
+      "points": [
+        "PCとスマホの2台同時接続に対応。",
+        "骨伝導センサーとボイスピックアップで通話の声を抽出する。",
+        "ANCと外音取り込みで周囲の音との関わりを切り替えられる。"
+      ],
+      "specs": [
+        "接続：Bluetooth・2台同時マルチポイント",
+        "機能：ANC・外音取り込み",
+        "通話：高精度ボイスピックアップ・骨伝導センサー",
+        "重量：約5.9g（片耳）"
+      ],
+      "body": "端末の切り替えに加え、相手へ声を送る仕組みも重視して調べた候補です。骨伝導センサーとボイスピックアップを通話に用い、PCとスマホを同時接続できる構成。使う会議アプリ側のマイクや出力先も合わせて設定し、音楽と通話を使い分けたいモデルです。",
+      "cautions": [
+        "WFはイヤホン、WH1000XM5ヘッドホンとは別。抽出7.3gは前モデルXM4で不使用。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B0FQFQDN6K",
+      "name": "Apple AirPods Pro 3",
+      "source": "https://www.apple.com/jp/airpods-pro/specs/",
+      "points": [
+        "ANCと外部音取り込みを使い分けられる。",
+        "通話時の声を拾うマイクと音声関連機能を搭載。",
+        "Appleデバイス連携にはOSなどの条件がある。"
+      ],
+      "specs": [
+        "接続：Bluetooth 5.3",
+        "ANC再生：本体最大8時間・ケース使用時最大24時間",
+        "充電ケース：USB-C・MagSafe・Qi対応",
+        "重量：5.55g（片耳）"
+      ],
+      "body": "iPhoneやMacを中心に使い、音楽と通話を同じイヤホンで扱いたい人向けの候補です。ANCや外部音取り込みを備え、対応するAppleデバイスとの連携も考えられる構成。他社の端末でもBluetoothイヤホンとして使えますが、一部機能が制限される点を確認しておきたいモデルです。",
+      "cautions": [
+        "AirPodsPro2とPro3を区別。最大10hは外部音取り込み＋ヒアリング補助条件で通常再生として不使用。医療/補聴性能やライブ翻訳は条件未確認で不使用。Apple自動切替は一般マルチポイントと呼ばない。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B0FWC7ZSTK",
+      "name": "SOUNDPEATS C30",
+      "source": "https://jp.soundpeats.com/products/c30",
+      "points": [
+        "ANCと6マイクAI通話ノイズ低減を搭載。",
+        "2台同時接続のマルチポイントに対応。",
+        "LDAC使用中はマルチポイントを利用できない。"
+      ],
+      "specs": [
+        "機能：アダプティブANC・外音取り込み",
+        "コーデック：LDAC・AAC・SBC",
+        "通話：6マイク・AIノイズ低減",
+        "接続：マルチポイント（LDAC使用時は利用不可）"
+      ],
+      "body": "PCとスマホの切り替えを使いつつ、音楽の設定も調整したい人向けの候補です。ANCと通話用のAIノイズ低減を備え、アプリで音質や操作を変更できる構成。LDACを使っている間はマルチポイントが利用できないため、会議と音楽で優先する機能を決めておきたいモデルです。",
+      "cautions": [
+        "公式FAQにLDAC/マルチポイント排他明記。10h/52hはANC条件の明確化前で数値不使用。Bluetooth6.0自動抽出は仕様ページの確認不十分で本文不使用。"
+      ],
+      "official_confirmation": "confirmed_core"
+    },
+    {
+      "asin": "B0CSKFY1Q2",
+      "name": "Bose Ultra Open Earbuds",
+      "source": "https://www.bose.co.jp/p/sale/bose-ultra-open-earbuds/ULT-HEADPHONEOPN.html",
+      "points": [
+        "耳を塞がず周囲の音を聞けるオープンイヤー型。",
+        "マイクを備えBluetooth通話に対応。",
+        "ソフトウェア更新で2台同時マルチポイントを利用できる。"
+      ],
+      "specs": [
+        "形式：オープンイヤー",
+        "接続：Bluetooth・2台同時マルチポイント（更新が必要）",
+        "機能：通話マイク・Bose OpenAudio",
+        "防滴：IPX4"
+      ],
+      "body": "周囲の声を聞きながら音楽や通話を使いたい人向けの候補です。耳を塞がない構造で、ANCによって周囲を静かにするタイプとは使い方が異なります。マルチポイントはソフトウェア更新で対応するため、アプリで更新を確認してから端末の切り替えを設定したいモデルです。",
+      "cautions": [
+        "ANC非搭載。旧採用7.5h/公式最新FAQ7hの差、48hはスタンバイで再生ではない。時間数値は原稿不使用。マルチポイントは2024/7更新。"
+      ],
+      "official_confirmation": "confirmed_core"
+    },
+    {
+      "asin": "B0GLGJTQ7C",
+      "name": "SOUNDPEATS UU2イヤーカフ（POP Clip2）",
+      "source": "https://jp.soundpeats.com/products/uu2",
+      "points": [
+        "耳を塞がないイヤーカフ型で周囲音を確認しやすい。",
+        "物理ボタンとENC/AI通話ノイズ低減を搭載。",
+        "マルチポイントとLDACには併用条件がある。"
+      ],
+      "specs": [
+        "形式：イヤーカフ型・オープンイヤー",
+        "接続：Bluetooth 6.0・マルチポイント",
+        "コーデック：LDAC・AAC・SBC",
+        "通話：ENC・AIノイズ低減",
+        "操作：物理ボタン"
+      ],
+      "body": "耳を塞ぐタイプが苦手で、周囲の音も聞きながら使いたい人向けの候補です。イヤーカフ型に物理ボタンと通話ノイズ低減を備え、アプリで音質も調整できる構成。LDAC使用中はマルチポイントを利用できないため、接続先の切り替えを使う場面では設定を確認しておきたいモデルです。",
+      "cautions": [
+        "公式https://jp.soundpeats.com/blogs/news/uu2 にモデル名POPClip2を明記。最大42hはケース合計/本体10h、通話時間とは別。ENCを聞く側ANCと呼ばない。FAQには他機種表記混在もあるがUU2仕様表のmultipointとLDAC排他注意を照合。"
+      ],
+      "official_confirmation": "confirmed"
+    }
+  ],
+  "selection_preserved": true,
+  "jev": "not_used_no_review_analysis",
+  "related_public_evidence": [
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_nce409c61ed07_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n7b8221e33ca9_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n5b247e8a0c1a_live.html"
+  ],
+  "related_metadata_sources": [
+    "02_article/2026-06/_metadata.json",
+    "02_article/2026-02/_metadata.json",
+    "02_article/2026-09/_metadata.json"
+  ],
+  "superseded_archive": "07_operations/2026-11_codex/superseded/2026-11-12_before_official_reselection"
+}

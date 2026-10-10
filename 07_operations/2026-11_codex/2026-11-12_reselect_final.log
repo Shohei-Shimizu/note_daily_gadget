@@ -1,0 +1,60 @@
+🚫 --exclude-asin により 2 件を選抜対象から外しました: B0CP4RHK7X, B0CT857V89
+📦 候補読み込み: 33 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_earphone_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 31 / 33
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 10
+
+-- 採用 --
+1. [Tier1] Anker / B0CP4RQZ3L / review=9220 star=4.4 ★有名ブランド
+   Anker Soundcore P40i (Bluetooth 5.3) 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 2.0 /
+2. [Tier1] TOZO / B0DK53QZ8J / review=8818 star=4.0 
+   【VGP 2026 受賞】TOZO NC9 イヤホン bluetooth ワイヤレスイヤホン アクティブノイズキャンセリング 45dB低減 
+3. [Tier1] EarFun / B0D4Z8KJXY / review=5132 star=4.4 
+   【VGP 2025 金賞】EarFun Air Pro 4 ワイヤレスイヤホン Bluetooth 5.4/50dBアダプティブ式 ハイブリ
+4. [Tier1] Xiaomi / B0FRSCXWSV / review=4987 star=4.1 ★有名ブランド
+   Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 3
+5. [Tier1] Anker / B0DRVB48LJ / review=4125 star=4.4 ★有名ブランド
+   Anker Soundcore Liberty 5 ミッドナイトブラック | 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 3.5
+6. [Tier1] SONY / B0CBKQZXT7 / review=2830 star=4.3 ★有名ブランド
+   ソニー(SONY)ワイヤレスノイズキャンセリングイヤホン WF-1000XM5 :【VGP2025金賞】 / 完全ワイヤレス/圧倒的ノイズキ
+7. [Tier1] Apple / B0FQFQDN6K / review=2023 star=4.6 ★有名ブランド
+   Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Blueto
+8. [Tier1] SOUNDPEATS / B0FWC7ZSTK / review=1392 star=4.2 
+   SOUNDPEATS(サウンドピーツ) C30 ノイズキャンセリング ワイヤレスイヤホン ブラックグレー | 【VGP2026 金賞】 -5
+9. [Tier1] Bose / B0CSKFY1Q2 / review=1240 star=4.1 ★有名ブランド
+   Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付
+10. [Tier1] SOUNDPEATS / B0GLGJTQ7C / review=1146 star=4.1 
+   SOUNDPEATS(サウンドピーツ) UU2イヤーカフ イヤホン LDAC対応/ハイレゾ/最大42時間再生/Bluetooth6.0 | 
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 21 件 --
+  - [Tier2] SONY / B0BZGTFF9L: 多様性制約または件数上限のため非選抜
+  - [Tier2] audio-technica / B0BXKX64HG: 多様性制約または件数上限のため非選抜
+  - [Tier2] SONY / B0F3X9RLT6: 多様性制約または件数上限のため非選抜
+  - [Tier2] JVCケンウッド / B0F7QZZS1S: 多様性制約または件数上限のため非選抜
+  - [Tier2] JBL / B0DJNXX51D: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0CRVN23LP: 多様性制約または件数上限のため非選抜
+  - [Tier2] Nothing / B0CXPSBKVR: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0D2RGPTKM: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0D4Z8NPH7: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0D7ZMNRFY: 多様性制約または件数上限のため非選抜
+  - [Tier2] Anker / B0D7ZZCHFV: 多様性制約または件数上限のため非選抜
+  - [Tier2] Xiaomi / B0DBHRWRKC: 多様性制約または件数上限のため非選抜
+  - [Tier2] SONY / B0DHZYMCH8: 多様性制約または件数上限のため非選抜
+  - [Tier2] audio-technica / B0DJCWXJKB: 多様性制約または件数上限のため非選抜
+  - [Tier1] JBL / B0DJNXH5KV: 多様性制約または件数上限のため非選抜
+  - [Tier2] JBL / B0DJQH79Q7: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0DLGJCTPK: 多様性制約または件数上限のため非選抜
+  - [Tier1] Technics / B0DQ9N9S5V: 多様性制約または件数上限のため非選抜
+  - [Tier1] Bose / B0FCSGGHLL: 多様性制約または件数上限のため非選抜
+  - [Tier1] JBL / B0FPQN7DBD: 多様性制約または件数上限のため非選抜
+  - [Tier2] SOUNDPEATS / B0H8P9N9W7: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 2 件 --
+  - B0CGDX3F63 / Jabra Elite 8 Active 完全ワイヤレスイヤホン ダークグレー : 在庫切れのため除外
+  - B0D2D67257 / SOUNDPEATS Capsule3 Pro Plus ワイヤレスイヤホン【ノ: 在庫切れのため除外
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-12_会議と音楽をつなぐ。ワイヤレスイヤホン.md

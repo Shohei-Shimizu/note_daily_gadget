@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-27",
+  "products": [
+    {
+      "asin": "B0DBTHDHYS",
+      "official_sources": [
+        "https://www.dreametech.jp/products/l10s-ultra-gen-2"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "清掃方式：吸引＋加圧回転式デュアルモップ",
+        "ステーション：自動ゴミ回収・給水・モップ洗浄・熱風乾燥・洗剤投入",
+        "ステーション寸法：457×340×590.5mm"
+      ]
+    },
+    {
+      "asin": "B06XCPQTBS",
+      "official_sources": [
+        "https://jp.iliferobot.com/products/V3sPro/",
+        "https://www.iliferobot.com/V3sPro/faq/",
+        "https://www.iliferobot.jp/u_file/photo/20250703/1d5975bdb4.pdf"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "清掃方式：ブラシレス吸引口による吸引",
+        "操作：本体ボタン・リモコン、予約清掃対応",
+        "本体寸法：300×300×81mm"
+      ]
+    },
+    {
+      "asin": "B0DLG93BX5",
+      "official_sources": [
+        "https://www.ankerjapan.com/products/t2292"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "清掃方式：吸引、レーザーマッピング対応",
+        "ゴミ回収：自動ゴミ収集ステーション",
+        "ステーション寸法：約27.5×19.1×21.2cm"
+      ]
+    },
+    {
+      "asin": "B0CPHYJRRP",
+      "official_sources": [
+        "https://www.ankerjapan.com/products/t2351",
+        "https://www.ankerjapan.com/pages/eufy-x10-pro"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "清掃方式：吸引＋加圧回転式デュアルモップ",
+        "ステーション：自動ゴミ回収・モップ洗浄・温風乾燥",
+        "ステーション寸法：約36.6×48.0×46.0cm"
+      ]
+    },
+    {
+      "asin": "B0D45R4YVL",
+      "official_sources": [
+        "https://www.ecovacs.com/jp/deebot-robotic-vacuum-cleaner/deebot-n20-pro-plus",
+        "https://www.ecovacs.com/jp/newsroom/official-news/deebot-n20-launch"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "清掃方式：吸引＋OZMO Pro 2.0振動水拭き",
+        "ゴミ回収：紙パック不要の自動集じん",
+        "ステーション寸法：幅356×奥行451×高さ380mm"
+      ]
+    },
+    {
+      "asin": "B0F66LKTV6",
+      "official_sources": [
+        "https://www.ecovacs.com/jp/shop/deebot-robotic-vacuum-cleaner/deebot-t80-omni-white"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "清掃方式：吸引＋OZMOローラー式水拭き",
+        "ステーション：自動ゴミ回収・給水・モップ洗浄・乾燥",
+        "ステーション寸法：幅338×奥行459×高さ500mm"
+      ]
+    }
+  ],
+  "note": "Manufacturer sources only, no individual reviews"
+}

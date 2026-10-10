@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-06",
+  "status": "superseded_by_final_5_product_image",
+  "article_products": 5,
+  "article_and_sources_read": true,
+  "publish_gate": "main_reselection_official_gate_passed",
+  "existing_candidate_rejected": "04_thumbnail/2026-09/2026-09-30_usb_c_dock_bestbuy.png",
+  "planned_subject": "小型角丸金属/樹脂USB-Cハブ1台、短い一体ケーブルと自然なUSB-C端子。確定Anker332等のカテゴリ。複数ハブ/SSD/機器を陳列しない",
+  "planned_style": "既存写真調/中央代表1点/文字・人物・ロゴ無し",
+  "constraints": [
+    "画像を正確な実在商品写真としない",
+    "ポート数や最大値/互換性を創作で断定しない",
+    "未確認BENFEIモデル固有構造を生成根拠にしない"
+  ],
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "generated_image": "04_thumbnail/2026-11/2026-11-06_usb_hub.png",
+  "final_qa": "07_operations/2026-11_codex/2026-11-06_thumbnail_qa.json"
+}

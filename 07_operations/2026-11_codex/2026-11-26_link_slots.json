@@ -1,0 +1,47 @@
+[
+  {
+    "token": "LINKSLOT00",
+    "source_url": "https://www.amazon.co.jp/dp/B0B7SBVGP6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+    "asin": "B0B7SBVGP6"
+  },
+  {
+    "token": "LINKSLOT01",
+    "source_url": "https://www.amazon.co.jp/dp/B07ZP695PB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+    "asin": "B07ZP695PB"
+  },
+  {
+    "token": "LINKSLOT02",
+    "source_url": "https://www.amazon.co.jp/dp/B0FQPF59WR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+    "asin": "B0FQPF59WR"
+  },
+  {
+    "token": "LINKSLOT03",
+    "source_url": "https://www.amazon.co.jp/dp/B0CT378Q1M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+    "asin": "B0CT378Q1M"
+  },
+  {
+    "token": "LINKSLOT04",
+    "source_url": "https://www.amazon.co.jp/dp/B08BP1912B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+    "asin": "B08BP1912B"
+  },
+  {
+    "token": "LINKSLOT05",
+    "source_url": "https://amzn.to/42HITJ4",
+    "asin": null
+  },
+  {
+    "token": "LINKSLOT06",
+    "source_url": "https://note.com/daily_gadget/n/n3d83ccce7e3e",
+    "asin": null
+  },
+  {
+    "token": "LINKSLOT07",
+    "source_url": "https://note.com/daily_gadget/n/nb99adca17a30",
+    "asin": null
+  },
+  {
+    "token": "LINKSLOT08",
+    "source_url": "https://note.com/daily_gadget/n/n8d03aae390f1",
+    "asin": null
+  }
+]

@@ -1,0 +1,33 @@
+
+候補 22 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B0936FGTX5  Apple          Apple AirTag 紛失防止タグ 置き忘れ防止 耐水 防塵 iPhone/iPad「探す」ネットワ [measured 2026-09-15]
+  B0D53RXMB1  Ugreen         UGREEN FineTrack 紛失防止タグ 探し物Appleの「探す」に対応 (iOS端末のみ) ス [measured 2026-09-15]
+  B0DGXVMNWY  Ugreen         UGREEN FineTrack Smart Finder 2個 スマートトラッカー Appleの「探す [measured 2026-09-11]
+  B0F82HR8QZ  Ugreen         UGREEN FineTrack Smart Finder 4個 スマートトラッカー Appleの「探す [measured 2026-09-11]
+  B0DWMPNCLC  Anker          Anker Eufy SmartTrack Card E30（充電式紛失防止トラッカー） [measured 2026-09-15]
+  B0D9VTLK47  Anker          Anker Eufy (ユーフィ) SmartTrack Link (Android用) (紛失防止タグ [measured 2026-09-15]
+  B0B6ZQJXW8  Anker          Anker Eufy Security SmartTrack Link (iPhone用) (紛失防止ト [article_dated 2026-03-18]
+  B0FRLWSGPW  Ugreen         UGREEN Finder Duo Android/iOS対応 紛失防止タグ USB-C充電式電池 財布 [measured 2026-09-15]
+  B0FBW976L9  Ugreen         UGREEN FineTrack USB-C充電式 紛失防止タグ Appleの「探す」に対応 (iOSの [measured 2026-09-15]
+  B0D9B1QB38  Life360        Life360 Tile Mate スタンダードモデル ホワイト スマートトラッカー スマートタグ 紛失 [measured 2026-09-15]
+  B0D99ZL9DM  Life360        Life360 Tile Mate スタンダードモデル ブラック 4個パック/スマートトラッカー/スマー [measured 2026-09-12]
+  B0D99ZQG51  Life360        Life360 Tile Mate スタンダードモデル カラー 4個パック スマートトラッカー スマート [measured 2026-09-12]
+  B0D99ZHVD2  Life360        Tile Slim (2024) 薄いカード型スマートトラッカー [measured 2026-09-15]
+  B0D9B21YQP  Life360        Life360 Tile Pro 電池交換可 ハイスペックモデル ブラック スマートトラッカー スマート [measured 2026-09-15]
+  B0FWJYNGXT  VOCOlinc       VOCOlinc エアタグ カード型（ios/Android 用）ワイヤレス充電式 紛失防止タグ [measured 2026-09-15]
+  B0FWK42FWG  VOCOlinc       VOCOlinc エアタグ カード型 2枚セット（ios/Android 用）ワイヤレス充電式 紛失防止 [measured 2026-09-11]
+  B0GJTW9CL8  Apple          Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す [measured 2026-09-15]
+  B0FHP92TQ9  ELECOM         エレコム スマートトラッカー 忘れ物防止タグ 紛失防止 IP65設計 Android対応 電池交換タイプ [measured 2026-09-15]
+  B0D99Y2DPL  Life360        Life360 Tile エッセンシャルパック (Mateブラック2個+Slim+Stickerセット) [measured 2026-09-12]
+  B0BJCQCQ7Z  Anker          Anker Eufy (ユーフィ) Security SmartTrack Card (iPhone用) [未実測]
+  B0CSDGGTGK  Anker          Anker Eufy Security SmartTrack Card 2個入り (紛失防止トラッカー) [未実測]
+  B0GJTXZHDX  Apple          Apple AirTag 4個入り (第2世代) [未実測]
+
+topic_id: daily_gadget_20261128_a2e81332
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-28_gps_tracker_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-28_gps_tracker_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

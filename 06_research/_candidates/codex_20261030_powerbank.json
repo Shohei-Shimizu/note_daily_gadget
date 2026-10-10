@@ -1,0 +1,1813 @@
+{
+  "generated_at": "2026-10-09T01:03:24+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261030_7a50b616",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "codex_20261030_powerbank"
+  ],
+  "fetched_count": 48,
+  "dedup_count": 48,
+  "candidates": [
+    {
+      "asin": "B0DHZPSVR5",
+      "title": "INIU 45W 超軽量 小型 モバイルバッテリー 急速充電 USB-C USB-A 10000mAh 3台同時充電",
+      "url": "https://www.amazon.co.jp/dp/B0DHZPSVR5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DHZPSVR5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71gH0eRJcFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【INIU・安全な急速充電プロ】世界中で3,800万人以上にご愛用いただいている、安全性に配慮した充電体験をお届けします。INIUの充電製品は厳格な安全基準に従い、全製品に業界をリードする3年間の品質保証サービスを提供しています。",
+        "【45Wフルスピード充電 – 最新iPhone 16 & Galaxy S24対応】最大45Wの出力でPD、QCなどの高速充電プロトコルに対応。わずか25分でiPhone 16を63%、Galaxy S24 Ultraを驚異の73%まで充電可能です。",
+        "【業界初！高密度TinyCell】INIUの最新10,000mAhモバイルバッテリーは、市場初の高密度セルを採用しており、同容量の他製品に比べて約30％コンパクト、15％軽量化を実現しました。",
+        "【丈夫なナイロン製ストラップ付USB-Cケーブル】INIU独自開発の丈夫なナイロン編み込みUSB-C to Cケーブルが付属。プラスチック製ケーブルよりもはるかに長持ちします。充電ケーブルを忘れる心配はもうありません。この1本で本体の充電も、デバイスの充電も可能です。",
+        "【3台同時充電】2つのUSB-Cポートと1つのUSB-Aポートを搭載し、緊急時に3台のデバイスを同時に充電できます。",
+        "【パッケージ内容】INIU 10,000mAhモバイルバッテリー×1、ストラップ式 USB-C ケーブル (USB-C to C)×1、ユーザーマニュアル（日本語付き）×1、カスタマーサポート。"
+      ],
+      "maker": "INIU",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 20762,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GQHZ1FMD",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:03:30+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09WQN87HM",
+      "title": "INIU モバイルバッテリー 10000mAh 薄型 軽量 小型 22.5W急速充電 USB-C PSE認証済 iPhone Android ブラック",
+      "url": "https://www.amazon.co.jp/dp/B09WQN87HM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09WQN87HM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71T4UZbITPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【INIU-安全かつ急速充電のプロ】3,800万人以上のグローバルユーザーと一緒に安心・安全な充電体験を楽しめます。INIUの充電製品は厳格な安全基準に従い、全製品に業界をリードする3年間の品質保証サービスを提供しています。",
+        "【30分でiPhoneを最大62%まで充電】当社最新型の22.5W PD3.0 USB Cポートとデュアル QC 4.0+ USB出力により、わずか30分でiPhone 14を61％まで充電できます。",
+        "【USB C入出力＆3台同時充電】USB Cポートでデバイスへ充電・モバイルバッテリー本体へ充電のUSB C入出力機能を備えており、最新のiPhoneやAndroid、そして現時点ほぼすべてのUSB Cデバイスに急速充電できます。また、出力ポートUSB-C*1＆USB-A*2を備えており、3つのデバイスの同時充電を実現できます。",
+        "【大容量かつコンパクトデザイン】旧バージョンと比べて36％薄く、15％小さく、28％軽くしました。どこにでも気軽に持ち歩けます。",
+        "【幅広い互換性】数多くのスマホ（例：iPhone 16）やタブレットだけでなく、AirPods、Bluetoothヘッドフォン、フィットネストラッカー、スマートウォッチなども充電できます。",
+        "【便利なスタンド機能】押し出すだけでスマホを支えます。お気に入りの番組や動画を楽しんだり、LINEやFacetimeで通話したりすることができます。",
+        "【使用環境】周囲温度10～40℃、保管温度-10～50℃、気圧80kPa以上（高度2000m以下）を厳守。直射日光・火気・高温・低圧下での使用・保管は禁止。"
+      ],
+      "maker": "INIU",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 19530,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GTQ44HLP",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:03:39+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CT39SSC7",
+      "title": "INIU モバイルバッテリー 大容量 10000mAh 軽量 小型 薄型【タイプc PSE認証済 USB-C 入出力&USB-A 出力】3台同時充電",
+      "url": "https://www.amazon.co.jp/dp/B0CT39SSC7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CT39SSC7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/5179P2jGWUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【INIU-安全急速、充電のプロ】INIUモバイルバッテリーは、世界中で4000万人以上に選ばれた充電のプロ仕様。大容量でも安心の急速充電、軽量、小型、薄型設計で持ち運びやすく、ビジネスから旅行まで24時間の充電フルサポートを実現します。PSE認証を取得し、15層の安全保護機能を備えたバッテリーで、高密度バッテリーの安全性を徹底追求。基準に準じた高品質設計で、全製品に3年間の保証付きで、安心してお使いいただけます。",
+        "【モバイルバッテリー 軽量 小型&大容量10000mAh】薄さわずか1.4cm、重量わずか198g！業界最軽量・最薄クラスのモバイル・バッテリーで、10000mAhのモバイルバッテリー大容量を実現。縦13.3cm×横7cmのコンパクトボディはポケットや小さなバッグにも収まるサイズ感で、旅行や出張先でも充電切れの心配なし。iPhone 15約1.8回、Galaxy S22約1.7回、AirPods Pro約13回の充電が可能です。この薄さで1日分の充電をサポート！旅行やビジネス用としてもおすすめです。",
+        "【3A急速充電で最速充電】当社独自開発の「UPower+技術」によって、従来の充電速度の2倍を実現。約1時間で約78%まで充電可能。さらに、自動検知機能を搭載しており、iPhoneやAndroidを含む様々なデバイスに最適な最大3Aの出力を提供。複数デバイスの同時充電も安定したパワーでサポートします。※本モデルはQC/PD非対応。PD/QC対応ならPro版（ASIN：B0DHZPSVR5）をお選びください。",
+        "【USB C入出力＆3台同時充電】最新のiPhoneやAndroidなど、ほとんどのUSB-Cデバイスに対応。USB Cポートを使って、モバイルバッテリー タイプc本体やデバイスの充電が可能です。さらに、モバイルバッテリータイプCポートを1つ搭載し、USB-Aポート2つと合わせて、最大3台のデバイスを同時に充電できます。",
+        "【幅広い互換性＆懐中電灯付き】iPhone（iPhone 16など）やタブレットだけでなく、AirPods、Bluetoothヘッドフォン、フィットネストラッカー、スマートウォッチなど、ほぼすべてのUSBデバイスに対応します。万が一の暗闇でも安心、懐中電灯付きでもしもの時に役立ちます。旅行、防災用としてもおすすめなモバイル・バッテリーです。",
+        "【使用環境】周囲温度10～40℃、保管温度-10～50℃、気圧80kPa以上（高度2000m以下）を厳守。直射日光・火気・高温・低圧下での使用・保管は禁止。",
+        "【パッケージ内容】INIU 10000mAh モバイルバッテリー*1、30cm USB A-C ケーブル*1、トラベルポーチ*1、日本語取扱説明書*1、カスタマーサポート。"
+      ],
+      "maker": "INIU",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 17816,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H86JW8KQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:03:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CCJFY2V4",
+      "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CCJFY2V4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CCJFY2V4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41mOOR0wlUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ケーブルいらずでストレスフリー：USB-C端子一体型のため、ケーブルレスで充電可能。充電しながら快適にスマホを操作いただけます。",
+        "持ち運びしやすい折りたたみ式を採用：コンパクトなサイズに加え、一体型のUSB-C端子部分は折りたたんで収納が可能。他の荷物を傷つけないため、持ち運びにも便利です。",
+        "コンパクトかつパワフル：コンパクト設計ながらスマホ約1回分の5000mAhの容量と最大22.5Wの出力を実現。コンパクトさとパワフルさを兼ね備えています。",
+        "最大22.5Wでの急速充電：最大22.5W出力で、スマートフォンを含めた様々な機器に急速充電。2ポート利用時も合計最大18Wで、スマートフォンとイヤホンへの2台同時充電も可能です。",
+        "選べる充電方法：バッテリー本体には、内蔵のUSB-C端子を直接充電器に繋ぐ方法と本体側面にケーブルを接続して充電する方法の2種類から選んで充電することが可能です。"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 5659,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GTX93GWC",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:03:56+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CXHNGDC1",
+      "title": "UGREEN モバイルバッテリー (20000mAh・130W) 3ポート：USB-C*2 USB-A*1 革新なTFTディスプレイ PD・PPS急速充電対応 縦置きデザイン パススルー/低電流モード搭載 PSE技術基準適合 MacBook/iPhone 17/16/15/Galaxy/Windows/PC/iPad/Android/スマホ/ノートパソコン その他 PB721",
+      "url": "https://www.amazon.co.jp/dp/B0CXHNGDC1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CXHNGDC1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/517mji2KCYL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【100W Max 高出力により急速充電・タブルUSB-Cポート合計130W】100W Max USB Type-C1出力により、スマートフォンへの給電だけでなく、タブレットやノートパソコンへの急速充電も可能です。MacBook Pro 16インチに充電する場合、30分間で43％まで急速充電できます。USB-C1＋USB-C2ポートを同時使用の場合、合計130Wの高出力で、2台のデバイスに同時急速充電ができるパワーバンクです。 本製品のC1ポートは、SamsunS26 Ultraに対応し、Max 60Wの急速充電が可能です。",
+        "【20000mAh・MacBook Air 13&#34;にも約1.3回充電可能な大容量】iPhone 18 17を約4回、Galaxy S26 Ultraを約3回、iPad Pro 11&#34;を約2回、MacBook Air 13&#34;を約1.3回充電可能な超大容量。ロングバッテリで、1日中の外出でもあんしんできるPD モバイルバッテリーです。画期的なタテ型スタイルで、机上スペース有効活用ができます。",
+        "【3ポート・2 USB-C ＆ 1 USB-A・100W常時対応】3ポートの組み合わせ。PD対応だけでなく、PPS、QC、FCP、SCPなど様々な急速充電プロトコルに対応し、互換性抜群。また、単ポートでも、複数ポート同時使用でも、USB-C1ポートは常に100Wの高出力を保ちます。外出中の出張者に最適で、ノートパソコンに非常用電源を供給するので、いつでもどこでも安心して仕事ができるノートPC用 モバイルバッテリーです。",
+        "【TFTカラースクリーン・充電操作は簡単で退屈しない】革新なTFTディスプレイ採用、バッテリー残量表示と同時に、入出力、電圧、電流、電力曲線など使用状況をリアルタイムで把握できます。さらに、待機画面は遊び心のある絵文字フェイスもあり、おまけ表情も加えて、いろいろな表情があるので、探求を楽しみにしてください。",
+        "【業界先端の21700リチウムイオンパワーセル採用・独自Thermal Guard技術】業界先端の高倍率バッテリー応用し、過充電をはじめ、過放電、過電流、過電圧、ショート防止などマルチ保護機能も搭載しています、高性能とともに安全面の機能も充実しているモバイルバッテリーです。また、UGREEN独自のThermal Guard温調技術との組み合わせて、充電効率を向上、エネルギー消耗の低減と低発熱化を実現したモバ充です。",
+        "【24ヶ月の保 証期間】当店でご購入の製品は24ヶ月間の保 証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保 証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保 証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 4768,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0HC3PF9C6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:04:04+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B096XNWV32",
+      "title": "エレコム モバイルバッテリー 10000mAh EC-C03BK",
+      "url": "https://www.amazon.co.jp/dp/B096XNWV32?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B096XNWV32?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61979cOeyMS._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "USB Power Delivery 規格に準拠し、20W出力可能。対応機器を超高速充電できる、10000mAhモバイルバッテリーです。",
+        "かさばらない薄さと手になじむラウンド形状で、重ね持ちに便利なデザインのモデルです。",
+        "USBポートに搭載した高性能ICが接続機器を自動で見分けて適した出力で最速に充電できる“おまかせ充電&#34;に対応しています。",
+        "本体充電用ケーブルを接続したままで、スマートフォンとモバイルバッテリーを充電できる“まとめて充電&#34;に対応しています。",
+        "Bluetoothヘッドセット・イヤホンなどの充電電流の小さい小型電子機器を適した電流で充電することができる“低電流モード&#34;を搭載。 ※USB-Aポートのみ対応。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 3041,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-03",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0DH88CDPB",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:04:12+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C6M3LZ6B",
+      "title": "INIU モバイルバッテリー 10000mAh 22.5W USB-C入出力",
+      "url": "https://www.amazon.co.jp/dp/B0C6M3LZ6B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C6M3LZ6B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "INIU",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 2610,
+      "star_rating": 4.0,
+      "stock_status": "unknown",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-06",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": null,
+      "measurement_observed_at": "2026-10-09T10:04:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": "http_404"
+    },
+    {
+      "asin": "B0CX4C1TVK",
+      "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ搭載/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 17 / 16 / 15 Android iPad その他各種機器対応",
+      "url": "https://www.amazon.co.jp/dp/B0CX4C1TVK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CX4C1TVK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51SqoukfllL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "1台3役のハイブリッド設計：モバイルバッテリー、USB急速充電器、USB-Cケーブルが1つにまとまりました。他に充電器やケーブルを持ち運ぶ必要がありません。",
+        "最大30W出力： モバイルバッテリーとしても急速充電器としても最大30W出力で、iPhone 17シリーズやMac Book Airにも充電が可能です。",
+        "コンパクトサイズかつ安心の大容量：コンパクトサイズながら10000mAhの大容量で、iPhone 17を約2回、Galaxy S24を約2回充電することができます。",
+        "充電忘れのないモバイルバッテリー：コンセントに挿すだけで本体への充電が可能。スマホなどに充電器として使用しつつモバイルバッテリーにも充電されるため、充電忘れの心配がありません。※お使いのデバイスへの充電が優先され、充電が完了次第バッテリー本体への充電が開始します。",
+        "幅広い対応機種 : スマートフォンだけでなくタブレット端末やMacBook Airなど、幅広い機器への充電に対応しています。",
+        "パッケージ内容：Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) 、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 2593,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GWLTWYQ8",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:04:26+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DQNW6D8F",
+      "title": "INIU モバイルバッテリー 超小型 45W急速充電 10000mAh 軽量 ストラップ式 USB-Cケーブル付属 ブラック | ポケットに入る 超小型 45W 急速充電 モバイルバッテリー ストラップ式 USB-Cケーブル付属 旅行 出張 アウトドア 災害対策 機内持ち込みにも活躍 iPhone 17 Samsung Galaxy Pixel iPadなどに対応",
+      "url": "https://www.amazon.co.jp/dp/B0DQNW6D8F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DQNW6D8F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61EMAl4Nz9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【INIU・安全な急速充電プロ】世界中で3,800万人以上にご愛用いただいている、安全性に配慮した充電体験をお届けします。INIUの充電製品は厳格な安全基準に従い、全製品に業界をリードする3年間の品質保証サービスを提供しています。",
+        "【INIU、最小クラスの10,000mAhを再定義】INIUの最新の10,000mAhモバイルバッテリーは、業界初のTinyCell Proバッテリーを搭載し、最小サイズの基準を打ち立てました。従来の10,000mAhよりも45%小型化されており、そのコンパクトさは実際に見て実感していただけます。",
+        "【45Wフルスピード充電 最新iPhone 16 & Samsung S24】最大出力45Wで、PD、QC、Samsung Super Fast Chargingに対応。iPhone 16やSamsung S24でも、スピードと便利さを両立させたフルスピード充電を楽しめます。",
+        "【MacBookも充電可能、ミニサイズで】小さいながらもパワフル—従来のノートパソコン用モバイルバッテリーが大きくて重いのに対し、超ミニサイズの10,000mAhは予想を超えた性能を発揮。45Wの出力で、MacBook Airにも対応し、わずか25分で42%の充電が可能です。緊急時にも便利で、かつ持ち運びやすいサイズです。",
+        "【取り外し可能なラニヤードUSB-Cケーブル】INIUのモバイルバッテリーには、新たに取り外し可能なラニヤードケーブルが搭載されており、使い勝手が向上。USB-C to Cケーブルは充電・再充電の両方に対応し、取り外せるので他のモバイルバッテリーやデバイスにも簡単に使い回しができます。",
+        "【1日中使える10,000mAh】日常使いや短期間の旅行、出張に最適な10,000mAh。iPhone 16を2回充電でき、Samsung S24は1.5回、iPad miniも1.5回充電できます。充電切れを気にせず、安心して使えるパワーです。"
+      ],
+      "maker": "INIU",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1996,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H3NM4MDL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:04:35+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B1PW59FS",
+      "title": "エレコム モバイルバッテリー 軽量 小型 薄型 5000mAh 12W (2.4A) 2台同時充電 急速充電 出力2ポート(Type-C +USB-A) 入力(Type-C) 【 iPhone SE3 / 13 / 12 / iPad/Android 各種対応】 ブラック EC-C04BK",
+      "url": "https://www.amazon.co.jp/dp/B0B1PW59FS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B1PW59FS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51o2XENhv2L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "薄くて軽く、持ち運びに適した、12W出力、容量5000mAhのコンパクトなモバイルバッテリーです。",
+        "厚さ約12.7mmの薄型モデルで、バッグに入れて毎日持ち歩けるサイズです。",
+        "USBポートに搭載した高性能ICが、接続機器を自動で見分けて適した出力で最速に充電できる“おまかせ充電&#34;に対応しています。",
+        "モバイルバッテリー本体を約3時間30分で充電できます。",
+        "※5V/2.4AのAC充電器にUSB Type-C(TM) to USB-Aケーブルを接続し充電した時間です。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1814,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-10",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0DB8C1L6V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:04:43+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CL8S3WMX",
+      "title": "Anker Power Bank (30W, Fusion)",
+      "url": "https://www.amazon.co.jp/dp/B0CL8S3WMX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CL8S3WMX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51SZtRaI6aL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "1台3役のハイブリッド設計：USB急速充電器、モバイルバッテリーおよびUSB-Cケーブルが一体となった3-in-1のFusionシリーズ。",
+        "外出時にはこれ一つ：折りたたみ式プラグを採用し、ポーチやミニバッグにも収まる小型デザイン。コンセント一体型且つUSB-Cケーブル一体型のため、充電器とケーブルを別途持ち運ぶ必要がありません。",
+        "コンパクトながらパワフル：充電器としては最大30W、モバイルバッテリーとしても最大22.5W出力でiPhone 16シリーズにも最大3倍速く急速充電が可能です。また本体表面にはディスプレイを搭載し、バッテリーの残量をリアルタイムかつ一目で確認できます。※一般的な5W出力の充電器でiPhone 16を0%から50%まで充電した場合との比較（Anker調べ）",
+        "充電忘れのないモバイルバッテリー：コンセントに挿すだけで本体への充電が可能。スマホなどに充電器として使用しつつモバイルバッテリーにも充電されるため、充電忘れの心配がありません。※お使いのデバイスへの充電が優先され、充電が完了次第バッテリー本体への充電が開始します",
+        "パッケージ内容：Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) 、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1769,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0DSZLZ6CP",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:04:54+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CHVZHLZ1",
+      "title": "CIO モバイルバッテリー PD Type-C 30W 薄型 軽量 [薄さ16mm] 10000mAh 3ポート iPhone 17 / 16 / 15 / Android/Macbook/ノートPC/iPad用 USB-C USB-A 急速充電 パススルー SMARTCOBY Pro SLIM 35W (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0CHVZHLZ1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CHVZHLZ1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81m13XJkzLL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【薄さ16mm】30W以上のモバイルバッテリーの中で極限まで薄く設計された約16mmを実現。*自社調べ:10000mAh入出力30W以上のバッテリーと比較。 1円玉の直径よりも薄いサイズでどこでも持ち運びに大活躍。バッグやポーチのポケットなど狭いスペースにも楽々収納可能です。カフェや新幹線、飛行機、出張や旅行にも最適です。",
+        "【単ポート最大35W出力】USB-C単ポート最大35W出力に対応。35W対応で利便性は飛躍的に向上し、スマートフォン(iPhoneやGalaxy、Xperia等のAndroidスマホ)からタブレット(iPad用 / mini / Pro)のみならず、一部ミドルレンジのノートPC（MacBook Air）などへの充電も可能です。",
+        "【3ポート搭載】平らなフォルムを最大限活かすため、USB-Cポート×2、USB-Aポート×1の合計3つの充電口を搭載。 様々な用途の充電が可能となり、充電しながらiPhoneやAndroid等のCポートが必要なデバイスを充電したり、 イヤホン等のAポートが必要なデバイスを充電したりと、お持ちのデバイスやケーブル状況にあわせたパススルー充電が可能となります。【急速充電】 更に『SMARTCOBY Pro SLIM』はPPSにも対応している為、 Galaxyは超急速充電モードで充電可能です。 本体は35Wに対応しており、急速充電器を用いる事で約90分で満充電に。",
+        "【パススルー充電対応】デバイスとバッテリーの両方を充電 バッテリーを経由しながらデバイスの急速充電が可能。バッテリーを充電するのが面倒で、使いたい時にバッテリーが空になっているとき、『SMARTCOBY Pro SLIM』はパススルー機能搭載で、バッテリーに充電しながらスマホなどへの充電にも対応しております。 コンセントが一つしかない環境や、両方を充電したいときに大活躍します。 ※最大35Wの蓄電を行うには、USB PD規格に対応した35W以上の出力が可能な充電器をご使用ください。 CIO製USB充電器をご使用いただくことで、互換性や安全性を確保できます。 他社製充電器をご使用の場合は、USB PD規格対応かつ35W以上の出力が可能な製品をご選択ください。",
+        "【デジタル残量表示】 通常時（非表示状態）はデジタル基盤の有無が気にならないフラットな表面で、本体のデザイン性を高く維持。 従来のディスプレイ画面だと傷が目立ってしまうことがありましたが、外観と同じシボ加工を実装することで傷が目立ちにくくなりました。 デバイスを充電中は残量を数字で表示し、バッテリー本体へ蓄電中は遊び心を取り入れたアニメーション風に表示します。 【電池残量確認ボタンについて】 デバイス接続時は1回押すと電源ON、2回押すと電源OFFになります。 デバイス無接続時は、ボタンを1回押すとバッテリー残量をLEDで確認できます。2回押しても何も起こらず、表示は5秒後に自動OFFとなります。 ※一部機種で動作が異なる可能性があるので、ご注意ください。",
+        "【大容量10000mAh】 高出力・コンパクトでありながら様々なデバイスを複数回充電可能。",
+        "【本体の蓄電も約90分】 本体への蓄電も35Wに対応しており、急速充電器を用いることで約90分でフル充電が完了します。",
+        "【CIO 安心保証対応】日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はAmazonのご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+      ],
+      "maker": "CIO",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1762,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GTY8YBYL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:05:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DT4RGDSJ",
+      "title": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル) ブラック | モバイルバッテリー 大容量/PD対応/PSE技術基準適合/機内持ち込み可/ 165W出力/ 一体型ケーブル MacBook Wi",
+      "url": "https://www.amazon.co.jp/dp/B0DT4RGDSJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DT4RGDSJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61QMal+b+SL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "最大100Wでの急速充電：3つのUSB-Cポートからそれぞれ最大100W出力が可能です。MacBookシリーズを含む様々な機器へ急速充電できます。",
+        "ケーブル一体型で、荷物がスッキリ：巻取り式ケーブルと一体型ケーブルの合計2本を搭載、ケーブルを別途持ち運ぶ必要がありません。いずれも20,000回以上の巻取りと折り曲げに耐えられる高耐久設計です。",
+        "25000mAhの超大容量バッテリー：MacBook Airを約1回、iPhone 17を約4回充電可能です。外出時でも充電切れの心配がありません。",
+        "4台同時充電：2本のUSB-Cケーブルに加え、USB-A / USB-Cポートを1つずつ搭載しております。お使いの機器を最大4台同時に充電できます。",
+        "充電状況をリアルタイムで確認可能：出力やバッテリー本体への入力の状況を確認できるディスプレイ機能を搭載しております。バッテリーの残量や充電にかかる時間がリアルタイムで確認できます。",
+        "パッケージ内容：Anker Power Bank (25000mAh, Built-In &amp; 巻取り式USB-Cケーブル) 、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1636,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0F6XV2Z6L",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:05:10+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DRFR2YT3",
+      "title": "Anker Zolo Power Bank (10000mAh, 30W, Built-In USB-Cケーブル) (モバイルバッテリー 10000mAh 最大30W出力 USB-C ケーブル一体型 ディスプレイ搭載) 【PD/PowerIQ搭載/PSE技術基準適合】iPhone 16 / 15 Android iPad その他各種機器対応 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0DRFR2YT3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DRFR2YT3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/519OMapsQJL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "スマホに急速充電：最大30W出力でiPhone 16を含めた様々な機器に急速充電が可能です。一般的な15W出力の充電器に比べて最大2倍速く充電できます。※一般的な15W出力の充電器でiPhone 16 Pro Maxを0%から50%まで充電した場合との比較（Anker調べ）",
+        "ケーブル一体型で、荷物がスッキリ：USB-Cケーブル一体型のため、外出先でもお使いの機器をいつでも充電可能です。約14cmの一体型ケーブルは約10,000回の折り曲げにも耐えられる優れた耐久性を実現しました。(Anker調べ)",
+        "コンパクトサイズかつ安心の大容量：片手に収まるコンパクトサイズで仕事や旅行などの持ち運び用に最適です。 10000mAhの大容量でiPhone 16を約2回の充電が可能です。(Anker調べ)",
+        "最大20Wでの入力にも対応：一体型ケーブルは出力だけでなく、最大20Wでの入力にも対応可能です。約2.5時間 でバッテリー本体に満充電が可能です。 ※20W出力のUSB急速充電器を使用して充電した場合（Anker調べ）",
+        "パッケージ内容：Anker Zolo Power Bank (10000mAh, 30W, Built-In USB-Cケーブル)、USB-C &amp; USB-Cケーブル、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 2255,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0HLK79YJC",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:05:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F6NFHB31",
+      "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 超薄型 MagSafe対応 5000mAh PB580 ダークグレー",
+      "url": "https://www.amazon.co.jp/dp/B0F6NFHB31?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F6NFHB31?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/517XPYZ1bjL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【 ★ 驚きの超薄型8.6mm｜1円玉6枚分の薄さ ★ 】1円玉を6枚重ねただけの薄さです。従来のモバイルバッテリーの常識を覆す超薄型設計！スマホと一緒に重ねても違和感がなく、バッグの中はもちろん、ポーチにもスッと収まります。「持ち歩くのが面倒」をゼロにしました。",
+        "【 ★ Qi2認証・MPP対応でiPhone 15W急速ワイヤレス充電 ★ 】Qi2規格に対応、MagSafe同様の最大15W急速充電が可能です。CMを見ている間にスマホの充電がぐんぐん進みます。 わずかな時間でもしっかり充電できます。強力磁石を内蔵し、iPhoneを近づけるだけで自動吸着。ケーブル接続不要で、カフェや電車の中でも片手のまま充電しながらスマホ操作ができます。",
+        "【 ★ iPhone機種と同じATL製セルを採用｜安全性にもこだわり ★ 】iPhone機種と同じATL製セルを採用することで、高いエネルギー密度でスリムなボディを実現。過充電・過放電を防ぐ多重保護回路も内蔵し、日常使いに求められる信頼性を備えています。",
+        "【 ★ ちょうどいい5000mAh容量｜1日のお出かけに最適 ★ 】スマホ1台を約1回フル充電できる5000mAh（19.6Wh）の容量を搭載。通勤、ランチタイムのカフェ、ちょっとしたお出かけにぴったり。「大容量すぎて重い」ではなく、「必要な分だけを、最も薄く」を追求した超薄型モバイルバッテリーです。バッグもポケットも重くなりません。",
+        "【 ★ あなたの好みや気分に合わせて選べる4色のバリエーションをご用意 ★ 】ダークグレー、ブルー、ホワイト、ピンクの4色。ファッションに合わせて自由に選べます。また、USB-Cケーブルが同梱されているため、有線充電したい場合でも別途ご用意いただく必要はなく、快適にご使用いただけます。"
+      ],
+      "maker": "Ugreen",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1605,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-10",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H41F2J6S",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:05:28+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F6LBT3ZX",
+      "title": "ポケットに消える。Anker Nano Power Bank (5000mAh, MagGo, Slim)",
+      "url": "https://www.amazon.co.jp/dp/B0F6LBT3ZX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F6LBT3ZX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Y308l82nL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "約8.6mmの薄型設計：約8.6mmの薄型設計でポケットやポーチにも収納可能なコンパクトさを実現。外出時などの持ち運びにも便利です",
+        "Qi2対応でスマホ約1回分充電可能：マグネット式ワイヤレス充電対応のモバイルバッテリーで、Qi2対応のスマホに最大15W出力かつ約1回分のワイヤレス充電が可能です。",
+        "充電しながらの操作が快適：ケーブルを使用しないため、充電中でも快適にスマホを操作できます。",
+        "Wireless PowerlQ️搭載：Anker独自技術のWireless PowerlQ️を搭載し、充電時間の短縮と放熱性の向上を実現。さらに、ActiveShield️2.0により、常に温度を計測し制御するため、お使いの機器を24時間守ります。",
+        "ケーブルでの急速充電も可能：製品底面のUSB-Cポートは最大20Wでの入出力に対応。スマホもバッテリー本体にも急速充電が可能です。",
+        "パッケージ内容：Anker Nano Power Bank (5000mAh, MagGo, Slim) 、USB-C &amp; USB-C ケーブル (0.6m)、取扱説明書、カスタマサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1179,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H38R5J6T",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:05:35+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DNLVY85L",
+      "title": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DNLVY85L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DNLVY85L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41h6CJ7gMYL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "巻取り式ケーブル搭載かつスマホに急速充電可能：巻取り式ケーブルは最大45W出力に対応し、スマホを含めた様々な機器に急速充電が可能です。",
+        "これ1台で荷物がスッキリ：巻取り式のケーブルは本体にスッキリと収納可能です。バッグやポーチの中でケーブルが絡まる心配がありません。",
+        "出し入れしやすい巻取り式ケーブル：約7cmから約70cmの間で8段階での長さ調整が可能です。スムーズな伸縮で本体に完全に収納できます。",
+        "最大30Wでの入力にも対応：巻取り式ケーブル / USB-Cポートからは最大30Wでの入力も可能です。これ1台でUSB急速充電器に直接繋いで充電が可能です。",
+        "パススルー充電にも対応：パススルー充電に対応しており、バッテリー本体に充電しながらスマホなどのお使いの機器に充電が可能です。",
+        "軽量コンパクト設計：約230gの軽量かつAirPods 2個ほどのコンパクトさで荷物がかさばりません。",
+        "ディスプレイ機能搭載：バッテリー残量だけでなく、各ポートからの出力やバッテリーの温度も確認可能です。",
+        "パッケージ内容：Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) 、ストラップ、取扱説明書、カスタマサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1174,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-07",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FWCCSTNR",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:05:43+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D7TQ9JWL",
+      "title": "Anker MagGo Power Bank (10000mAh, 35W, For Apple Watch) (モバイルバッテリー 10000mAh 35W出力 大容量 LEDディスプレイ USB-Cケーブル内蔵 一体型 同時充電)【USB PD/PowerIQ搭載/PSE技術基準適合】Phone 17 / 16 / 15 Android MacBook Air その他各種機器対応 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0D7TQ9JWL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D7TQ9JWL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51WCCkvNRFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "1台3役のハイブリッド設計：Apple Watch充電パッド、モバイルバッテリー、USB-C ケーブルが一体となった3-in-1のモバイルバッテリー。10000mAhの大容量でスマホ約2回分の充電が可能です。",
+        "最新のiPhoneにもApple Watchにも急速充電：折りたたみ式充電パッドを製品正面に搭載。Apple Watchを2倍速く充電可能です。さらに、一体型のケーブルを利用して最新のiPhoneに急速充電が可能です。※一般的な2.5W出力のApple Watch充電器との比較",
+        "コンパクトで持ち運びにも最適：USB-Cケーブル一体型のため、USB-Cケーブルを別途持ち運ぶ必要がありません。ポーチにも収納可能なコンパクト設計のため、外出時などの持ち運びにも最適です。",
+        "入力にも対応した一体型ケーブル：一体型ケーブルは出力だけでなく、入力も最大30Wに対応し、約1.5時間でバッテリー本体に急速充電が可能です。",
+        "ディスプレイ機能搭載：製品本体にディスプレイ機能を搭載し、バッテリー残量やリアルタイムの出力を一目で確認可能です。",
+        "パッケージ内容：Anker MagGo Power Bank (10000mAh, 35W, For Apple Watch) 、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1074,
+      "star_rating": 4.3,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0DN4YRKDL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:05:52+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CT2JNCT5",
+      "title": "UGREEN Zapix【小型・軽量／10000mAh／USB－C＆USB－A／PD20W／2台同時充電】モバイルバッテリー ねり色 PB507",
+      "url": "https://www.amazon.co.jp/dp/B0CT2JNCT5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CT2JNCT5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41DfpBYQC8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【UGREEN史上初の小型・しかも10000mAh大容量！】電池切れの心配を解消し、災害や停電でコンセントから充電できない場合は役立つ大容量モバイルバッテリーです。",
+        "【iPhone 16 Pro Maxより37%も小型化！】ポケットに入れても違和感ない112MMのサイズで、コンパクトで持ち運びしやすいから、カバンの中でもかさばらないし、片手でサクッと操作するのも問題なし",
+        "【1円玉の直径よりも薄い厚さ約16.5mm！】厚さはなんと約16.5mm。これは1円玉（直径20mm）よりも薄い、驚愕の薄型ボディです。おかげで、ポーチのファスナーポケットや、パンツのコインポケットなど、ちょっとした隙間にも楽々フィット。持ち運びのストレスから完全に解放されます。",
+        "【2ポート・USB-C ＆ USB-A】端子はUSB-A×1、USB-C×1という2ポート構成。2ポート同時出力可能で、複数デバイスに同時充電可能なPD モバイルバッテリーです。",
+        "【PD対応・スマホやタブレットに急速充電】PD20W出力対応で、iPhone 15 Proに30分間で0～60％急速充電可能なモバイルバッテリーです。様々な急速充電プロトコルにも対応し、互換性抜群です。",
+        "【PSE適合・小電流モード搭載】電源ボタンを6秒間長押しすると、小電流モードをオン/オフができ、イヤホン、スマートウォッチなどの小電流デバイスにも充電対応します。（小電流モードを有効にしてから1.5～2時間後に、リセットを行う必要がありますのでご注意ください。）",
+        "【バッテリー残量数字表示】バッテリー残量が具体的な数字表示により、バッテリー残量が一目瞭然できます。小柄でコンパクト、どこでも持ち歩きたくなる小型モバイルバッテリーです。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1071,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GVQH7PV2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:05:59+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DZ1TGX6T",
+      "title": "UGREEN 【小型・軽量・10000mAh】モバイルバッテリー 大容量 2台同時充電（USB-A×1 USBC×1）PD20W 急速充電 小電流モード バッテリー残量表示 コンパクト PSE技術基準適合 iphone17/Android/iPad 各種 USB-C 機器に対応",
+      "url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DZ1TGX6T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51T4eAA5CwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【UGREEN史上初の小型・しかも10000mAh大容量！】電池切れの心配を解消し、災害や停電でコンセントから充電できない場合は役立つ大容量モバイルバッテリーです。",
+        "【iPhone 17 Pro Maxより37%も小型化！】ポケットに入れても違和感ない112MMのサイズで、コンパクトで持ち運びしやすいから、カバンの中でもかさばらないし、片手でサクッと操作するのも問題なし！",
+        "【1円玉の直径よりも薄い厚さ約16.5mm！】厚さはなんと約16.5mm。これは1円玉（直径20mm）よりも薄い、驚愕の薄型ボディです。おかげで、ポーチのファスナーポケットや、パンツのコインポケットなど、ちょっとした隙間にも楽々フィット。持ち運びのストレスから完全に解放されます！",
+        "【2ポート・USB-C ＆ USB-A】端子はUSB-A×1、USB-C×1という2ポート構成。2ポート同時出力可能で、複数デバイスに同時充電可能なPD モバイルバッテリーです。",
+        "【PD対応・スマホやタブレットに急速充電】PD20W出力対応で、iPhone 15 Proに30分間で0～60％急速充電可能なモバイルバッテリーです。様々な急速充電プロトコルにも対応し、互換性抜群です。",
+        "【PSE適合・小電流モード搭載】電源ボタンを6秒間長押しすると、小電流モードをオン/オフができ、イヤホン、スマートウォッチなどの小電流デバイスにも充電対応します。（小電流モードを有効にしてから1.5～2時間後に、リセットを行う必要がありますのでご注意ください）",
+        "【バッテリー残量数字表示】バッテリー残量が具体的な数字表示により、バッテリー残量が一目瞭然できます。小柄でコンパクト、どこでも持ち歩きたくなる小型モバイルバッテリーです。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1071,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GVQH7PV2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:06:09+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0892JJ9K5",
+      "title": "パナソニック LEDライト搭載 乾電池式モバイルバッテリー BH-BZ40K",
+      "url": "https://www.amazon.co.jp/dp/B0892JJ9K5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0892JJ9K5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/712DTDlGaYL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "乾電池式のモバイルバッテリー",
+        "スマートフォンへの充電ができます。内蔵電池約2700mAhのスマートフォンに充電した場合 約0.5回~0.7回",
+        "LEDライトとしても使用できます。エボルタNEO使用時約80時間点灯",
+        "付属品:乾電池エボルタNEO(単3形4本)",
+        "外形寸法(幅、奥行、高さ):66×24×85mm、質量:165g",
+        "原産国:中国"
+      ],
+      "maker": "Panasonic",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 981,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-25",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FTLZHTMS",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:06:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FJDNXRQL",
+      "title": "KEEZING 超薄型 モバイルバッテリー MagSafe対応 軽量 小型 8000mAh ワイヤレス充電器 マグネット式 まぐせーふ 対応 15W急速充電 PSE認証済み iPhone 17/16/15/ 14/ 13/ 12シリーズ 旅行/出張/災害用 機内持ち込み可",
+      "url": "https://www.amazon.co.jp/dp/B0FJDNXRQL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FJDNXRQL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/619oeNquKjL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "💥【iPhone専用設計】：このモバイルバッテリー ワイヤレスはiPhoneに極めて適合性を有している。その密着性は優れしく、充電作業も容易に実行できます。ボタンを一度押下するだけで電源がオンに切り替わり、スマートフォンと一緒に常に携帯使用することができます。これはあなたの生活に大いに便利をもたらすでしょう。なお、マグネット機能はiPhone 12から17シリーズまでの機種にのみ対応いたします。",
+        "💥【業界最薄のデザイン！携帯性に卓越】：このモバイルバッテリー マグネットの厚みはわずか0.8cmで、驚くほど薄型です。スマートフォンに接続した際、非常に細身で、まるで何も装着していないかのように感じられます。財布、ポケット、かばんに入れても重厚感を感じさせません。日常生活に適応性を有しているだけでなく、災害発生時にも非常に適切です。",
+        "💥【2台同時充電&amp;急速充電機能】：このモバイルバッテリー マグネットに搭載されたUSB-Cポートは、入力と出力の両方の機能を兼ね備え、2台のスマホを同時に充電する必要がある場合にも応対可能です。高端技術を採用し、スマホを高速に充電することができます。これは日常的に備蓄電源として使用に最適であり、一日中の安心を保証いたします。",
+        "💥【超強力なマグネット&amp;安全機能】：このモバイルバッテリー マグネットは内部に超強力の磁石を搭載しており、ワイヤレス充電器を使用した際の脱落を防ぎます。さらに、マグネット対応の保護ケースを装着した状態でも充電が可能です。過過充電保護、過熱防止、漏電保護など各種保護機能を備え、PSE、FCC、RoHSなどの認証をクリアし、パワフルかつ安全な充電をご提供いたします。長時間安心してお使いいただけます。",
+        "💥【3年保証 ] ：弊社のモバイルバッテリー ワイヤレスは安心な3年保証付きます。使用中に製品が熱くなるのは正常です。また、モバイルバッテリーを保管する場合は、日光や高温の場所に置かないでください。製品の使用に影響を与えます。 製品に問題がある場合は、ご連絡ください。"
+      ],
+      "maker": "KEEZING",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 816,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T10:06:26+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CTZG7Q8Q",
+      "title": "エレコム モバイルバッテリー 15W 5000mAh 軽量 小型 薄型 5V 3A Type-C USB-A ケーブル別売り 【 iPhone15 / SE3 など対応】 ブラック EC-C12BK",
+      "url": "https://www.amazon.co.jp/dp/B0CTZG7Q8Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CTZG7Q8Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61s8PR9osCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "小さくて軽く、持ち運びにちょうどいい、15W出力、容量5000mAhのコンパクトなモバイルバッテリーです。",
+        "厚さ約13.5mmの薄型モデルで、バッグに入れて毎日持ち歩けるサイズです。",
+        "USBポートに搭載した高性能ICが、接続機器を自動で見分けて適した出力で最速に充電できる“おまかせ充電&#34;に対応しています。",
+        "モバイルバッテリー本体を約2時間40分で充電できます。",
+        "※5V/2.4AのAC充電器にUSB Type-C(TM) - USB-Aケーブルを接続し、製品本体のみを充電した場合の目安時間です。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 476,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-10",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0DB8C1L6V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:06:34+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DJ8LS3T7",
+      "title": "エレコム モバイルバッテリー 10000mAh 15W 3ポート Type-C×1 USB-A×2 microB（入力専用）EC-C37BK",
+      "url": "https://www.amazon.co.jp/dp/B0DJ8LS3T7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DJ8LS3T7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/510SXl+9jlL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "たっぷり使える10000mAhで長時間の外出時も安心。持ち運びしやすい薄型形状のモバイルバッテリーです。",
+        "USB-Aポート×2、USB Type-C(TM)ポート×1の3ポートから出力可能。USB-Aポートからは最大12W、USB Type-Cポートからは最大15Wで充電できます。",
+        "※それぞれ単ポート使用時の出力です。2ポート・3ポート同時使用時は使用するポートにより出力量が異なります。",
+        "本製品(バッテリー容量10000mAh)で、1800mAhのスマートフォンを約3.3回、3000mAhのスマートフォンを約1.9回充電可能です。",
+        "※満充電した本製品で電源オフの状態のスマートフォンを充電する際の目安回数です。充電中に電源を入れたり、機器を使用したりしている場合は記載の数値まで充電できない場合があります。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 381,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T10:06:42+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GMX4WKYG",
+      "title": "CIO SMARTCOBY Pro SLIM SS モバイルバッテリー 半固体 35W USB-C×2 USB-A×1 10000mAh (ブラック) | 薄型軽量,MacBook対応, WindowsノートPC対応, iPhone対応, 機内持ち込",
+      "url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GMX4WKYG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61HKDk2uC3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【半固体電池搭載】次世代の安全設計。発火リスクを大幅に低減した燃えにくい半固体系バッテリーセルを採用。 業界大手のTier1で信頼度が高いバッテリーセルを使用し、従来のリチウムイオン電池と比べて燃えにくい設計を実現しました。日常使いでの安心感に配慮し、スマートフォンからタブレット、一部ノートPCまで幅広い機器の充電に対応します。毎日持ち歩きやすいサイズ感と、35W出力の実用性を両立したモデルで職場や飛行機への持ち込みにも安心してご使用いただけます。 ※半固体系セルの安全性は使用環境・条件により異なります。正規の使用方法でお使いください。",
+        "【薄さ16mm】30W以上のモバイルバッテリーの中で極限まで薄く設計された約16mmを実現。*自社調べ：10000mAh・入力30W以上のバッテリーと比較。軽量で、バッグやポーチ、通勤用のカバンにも収まりやすい薄型設計です。カフェや新幹線、飛行機、出張や旅行など、外出先での充電用として持ち歩きやすいサイズ感に仕上げています。",
+        "【単ポート最大35W出力】USB-C単ポート最大35W出力に対応。iPhoneやGalaxy、Xperiaなどのスマートフォンに加え、iPad / mini / Pro、一部のMacBook AirなどのノートPCまで充電可能です。PPS対応により、Galaxyなど一部Android端末では超急速充電にも対応します。",
+        "【3ポート搭載】USB-C×2、USB-A×1の合計3ポートを搭載。お手持ちのケーブルや機器に合わせて、スマートフォン、イヤホン、タブレットなど最大3台まで同時充電できます。全ポート使用時の合計最大出力は30Wです。",
+        "【急速充電】 PPSにも対応している為、 Galaxyは超急速充電モードで充電可能です。 本体は35Wに対応しており、急速充電器を用いる事で約90分で満充電に。",
+        "【パススルー充電対応】 デバイスとバッテリーの両方を充電 バッテリーを経由しながらデバイスの急速充電が可能。 バッテリーを充電するのが面倒で、使いたい時にバッテリーが空になっているとき、『SMARTCOBY Pro SLIM』はパススルー機能搭載で、バッテリーに充電しながらスマホなどへの充電にも対応しております。 コンセントが一つしかない環境や、両方を充電したいときに大活躍します。 ※最大35Wの蓄電を行うには、USB PD規格に対応した35W以上の出力が可能な充電器をご使用ください。 CIO製USB充電器をご使用いただくことで、互換性や安全性を確保できます。 他社製充電器をご使用の場合は、USB PD規格対応かつ35W以上の出力が可能な製品をご選択ください。",
+        "【デジタル残量表示】 通常時はフラットで見た目を損なわないデザインを採用。充電時には残量を数字で表示し、本体充電中はアニメーション表示で状態を確認できます。 残量確認ボタンで必要な時だけ表示できるため、使い勝手にも配慮しています。デバイス接続時は1回押すと電源ON、2回で電源OFF。デバイス無接続時は1回押すとバッテリー残量をLED表示（5秒後に自動OFF）。 ※一部機種で動作が異なる場合があります。",
+        "【対応デバイス・使用シーン】 iPhone 17シリーズ、Pixel 10シリーズ、Galaxy S26シリーズをはじめとするスマートフォン、iPad各種、イヤホン、一部ノートPCに対応。通勤・通学、出張、旅行、カフェでの作業など、半固体電池の安心感とスリムなサイズで毎日の持ち歩き用バッテリーとして活躍します。",
+        "【CIO 安心保証対応】日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はAmazonのご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+      ],
+      "maker": "CIO",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 343,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GTY8YBYL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:06:51+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DF85ZLF4",
+      "title": "Xiaomi 33W Power Bank 20000mAh ブルー モバイルバッテリー USB-Cケーブル内蔵 大容量 小型 Type-C 双方向急速充電 最大2.25A出力 PSE技術適合 iPhone/Android対応 3台同時充電可能 低電流充電対応 安全回路保護 旅行/出張/アウトドア/キャンプ/停電対策",
+      "url": "https://www.amazon.co.jp/dp/B0DF85ZLF4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DF85ZLF4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51gXkm1Nl9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【USB-C ケーブル内蔵】Type-C 33Wの双方向急速充電ケーブルにより、電子機器の充電もモバイルバッテリー自体の充電も手軽に。旅行の荷物も効率的に削減できます。",
+        "【大容量でもコンパクト】スマートフォン1台のフル充電に十分な20000mAhの大容量。それでいて、手のひらやポケットに収まるコンパクトなデザインです。Xiaomi 13の充電3.4回、iPhone 14の充電4回、Nintendo Switchの充電2.2回対応可能。",
+        "【最大33W急速充電】電子機器に最大33Wの充電ができ、双方向の急速充電にも対応可能。Xiaomi 13 Pro 30分間の急速充電で約71%です。iPhone 15 Pro 30分間の急速充電で約55%です。高温、過充電、短絡などの異常に対する保護機能を搭載し、電子機器の安全性を確保します。",
+        "【３台同時充電】Type-C充電ケーブル、Type-Cポート、USB-Aポートを搭載し、シングルポート使用時それぞれ最大出力電力33Wに対応。また、3台のデバイスを同時に充電することも可能です。",
+        "【様々なデバイスへの急速充電に対応】インテリジェントな認識チップを内蔵しており、複数のデバイスの必要な電流に自動で対応します。スマートフォン、タブレット、ゲーム機、イヤホン、スマートバンドなどの広く使用されているデバイスを充電することが可能です。"
+      ],
+      "maker": "Xiaomi",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 248,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-29",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FH6MTVH6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:07:01+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FF42XHC4",
+      "title": "Anker Zolo Power Bank (10000mAh, 22.5W, Built-In USB-Cケーブル) 【USB PD/PowerIQ搭載/PSE技術基準適合】 iPhone Android iPad対応",
+      "url": "https://www.amazon.co.jp/dp/B0FF42XHC4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FF42XHC4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41N5Q-frPbL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "最大22.5W急速充電：最大22.5W出力で、スマートフォンを含めた様々な機器に急速充電が可能です。",
+        "コンパクトサイズかつ安心の大容量：コンパクトサイズに10000mAhの大容量を備え、iPhone 16を約2回、Samsung S24を約2回充電することができます。",
+        "耐久性に優れたケーブル搭載：10,000回の折り曲げ※にも耐える耐久性に優れたUSB-Cケーブルを搭載（※折り曲げ回数はAnker調べです）",
+        "パススルー充電にも対応：パススルー充電に対応しており、バッテリー本体に充電しながらスマホなどのお使いの機器に充電が可能です。",
+        "パッケージ内容：Anker Zolo Power Bank (10000mAh, 22.5W, Built-In USB-Cケーブル) ホワイト、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 89,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-28",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GNPYYGM9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:07:10+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DQD2S49X",
+      "title": "UGREEN 【10000mAh・PD30W・手持ち・For Apple Watch】 モバイルバッテリー コード付き 便利 軽量 コンパクト 3台同時充電 スマートウォッチ用 充電ドック PSE認証済 急速充電 USB-C USB-A スマートウォッチ/タブレット/iPhone17シリーズ対応",
+      "url": "https://www.amazon.co.jp/dp/B0DQD2S49X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DQD2S49X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/513T9OPLF0L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【Apple Watchに最大5W充電、iPhoneに最大PD30W充電】従来のモバイルバッテリーと比べ、Apple Watch充電用ドックが搭載。ベッドサイドのコンセントの取り合いも、出先でどちらを先に充電するかという悩みも解消。",
+        "【コードの持ち忘れ防止、しかも手持ち可能】USB口、充電コード、Apple Watch充電ドックを同時搭載している一体型モバイルバッテリー！内蔵されたコードはそのまま手持ち可能、充電コードが忘れたという焦りから解放されるだけでなく、カバンの中がコードで絡まりくちゃにならないです。",
+        "【４台同時充電】（USB-C*1・USB-A*1・USB-Cコード*1・Apple Watch専用充電ドック*1）4台のデバイスへの同時充電、双方向で充電しながら放電できるモバイルバッテリーです。",
+        "【10000mAh・小型サイズ】コンパクトサイズ（120x58x28mm）でありながら、大容量10000mAhを実現。手のひらに収まる大きさで、一日中使い続けられるパワーを内蔵しています。",
+        "【ひと目がわかる残量の数字表示】搭載されたスマートディスプレイが、バッテリー残量を数字で明確に表示。",
+        "【★24ヶ月の保証期間★】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 109,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-04",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T10:07:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H1BTP834",
+      "title": "エレコム モバイルバッテリー 10000mAh 大容量 急速充電 軽量 小型 残量表示 LEDパネル 22.5W PD対応 PPS対応 USB-C USB-A 2ポート パススルー充電 PSE認証 iPhone iPad ブラック EC-C65LBK",
+      "url": "https://www.amazon.co.jp/dp/B0H1BTP834?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H1BTP834?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Zw9gf2+UL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "最大22.5W急速充電対応：PD/PPS対応の大容量10000mAhと1%単位で残量を表示するLEDパネル搭載",
+        "毎日持ち運べる軽量設計：約180gのカードサイズで幅58×奥行26×高さ79mmのコンパクトボディを実現",
+        "2ポート同時出力に対応：USB Type-CとUSB-Aを搭載し合計最大15Wでスマホやタブレットを充電可能",
+        "便利なパススルー機能：本体充電中もスマホへ給電できる「まとめて充電」対応で電池の劣化を抑える設計",
+        "安心の5つの保護機能：過充電・過放電・過電流・短絡・温度検知に対応しPSE認証取得済"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 91,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "charger_power",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_observed_at": "2026-09-24T01:15:37+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H1G5KHGW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:07:28+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H3C63S2M",
+      "title": "MATECH モバイルバッテリー 半固体電池 Qi2 マグセーフ 小型 超薄型 軽量(史上最薄6.9mm, 5000mAh)【MagSafe対応マグネット式/ワイヤレス充電 最大出力15W/タイプC PD22W/iPhone12~17対応】MagOn Solid X 5000 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0H3C63S2M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H3C63S2M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71BvN7DkWLL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【燃えにくい半固体電池「SemiCore」を搭載】ゲル状電解質を採用したMATECH独自の半固体電池。液体電解液を使う従来のリチウムイオン電池と比べ、異常時の熱の広がりを抑え、熱暴走や発火リスクの低減を目指した設計です。釘刺し・圧壊・加熱・外部短絡・過充電などMATECH独自の安全試験をクリアしたセルのみを採用しています。",
+        "【世界最薄級6.9mm｜半固体電池×Qi2の5,000mAh】約71×104×6.9mm、重さ約105gの超薄型・軽量ボディに5,000mAh（19.25Wh）を搭載。半固体電池を採用しながら、ポケットやバッグに入れても存在を感じさせない極薄デザインを実現しました。",
+        "【Qi2対応｜最大15Wマグネット式ワイヤレス充電】最新規格Qi2に対応し、従来のQi（7.5W）比で約2倍となる最大15Wのワイヤレス充電が可能。MagSafe対応のiPhoneやMagSafe対応ケースにマグネットでピタッと吸着します。※最大15WはiOS 17以降を搭載したiPhone 12以降が対象。iPhone 11以前は最大7.5W、Androidは機種により異なります。周囲温度や使用状況により充電速度は変動します。",
+        "【USB-C最大22W急速充電｜2台同時・パススルー対応】USB-Cポートは最大20W（PPS対応機器は最大22W）のPower Deliveryに対応し、iPhoneやAndroidをスピーディーに充電。USB-Cとワイヤレスで2台同時に充電でき、本体を充電しながらスマートフォンへワイヤレス充電するパススルー給電にも対応しています。※同時給電・パススルー給電時は低速での充電になります。",
+        "【置くだけで充電開始「Wake-Up機能」／残量表示ランプ】iPhoneを置くだけで、ボタン操作なしにワイヤレス充電を開始するWake-Up機能を搭載（iPhone 12以降対応）。4段階の残量表示ランプでバッテリー残量をひと目で確認できます。USB-C to Cケーブル付属。製品登録で保証期間を1年から2年に延長可能。PSE適合品。"
+      ],
+      "maker": "MATECH",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 109,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-19",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HLVWXNBN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:07:35+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BKJPZXH3",
+      "title": "【新登場】RORRY apple watch 充電器 モバイルバッテリー 5000mAh 2本ケーブル内蔵 【iPhone用+Type-Cケーブル】 アップルウォッチ対応 最大4台同時充電 For Apple Watch ultra3/2/11/10/9全シリーズに対応 軽量 小型 コンパクト 持ち運び/PSE認証済 for iPhone 17/16/15/14/Android D2 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0BKJPZXH3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BKJPZXH3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71X-psbpjmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "🔋【apple watch対応 1時間でフル充電】RORRY新作 2本ケーブル内蔵式モバイルバッテリーが登場しました。Apple Watch用モバイルバッテリーは、ワイヤレス充電器が搭載され、外出先での不意なApple Watchバッテリーが切れて困った経験があるお方には理想的なパートナーです。急速充電仕様で、Apple Watch 7-9/SEをわずか1時間（Ultraは2.5時間）でフル充電できます。また、[Type-cとiPhone用]2種類ケーブルが内蔵され、別途ケーブルの必要が無い、より快適に楽しんで充電することができます。Apple WatchやiPhone、Androidまで使っている、あらゆる端末のモバイルバッテリーとしてはこれで全部カバーできる、最適なソリューションです。",
+        "🔋【5000mAhバッテリー/磁気充電】5000mAh容量バッテリーが内蔵され、Apple Watchを7回フル充電することができます。iphone17を約1回、一日中の充電対策としては十分です。そして、Apple Watch充電器はコンセントやケーブルがなくてもくっつけるだけで充電できます。磁気ワイヤレス充電モードなので、置くだけで、しっかりと吸着させ、いつでもどこでも充電することが可能になります。また、133gという軽さ、コンパクトさと汎用性のバランスが取れている一品です。",
+        "🔋【2本ケーブル内蔵 &amp; 4台同時充電可能】Type-CとiPhone用ケーブルが内蔵されており、USB-Cポートとapple watch 充電器を合わせて最大4台の機器を同時に充電することができ、パワーのある究極のモバイルバッテリーです。iPhone/Android/ゲーム機などデバイスに対応し、幅広い機種に対応できます。また、Type-C端子からモバイルバッテリー本体に蓄電できますし、パススルーにも対応しておりますので、モバイルバッテリーを充電しながらApple Watchなども充電できます。夜にセットして、朝起きたら全部フル充電完了です。",
+        "🔋【ユニークなデザイン&amp;カラビナ付き】一目で電池残量が確認できるように、電池残量はLEDランプに4段階で表示されております。モバイルバッテリーはiPhone一台より軽い、テカリのないマットな質感、サイズも手のひらサイズと小型なので、ポーチやポケットにもすっきり収まります。また、持ち運びに便利なカラビナ付きで、鞄に装着して探しやすいし、紛失防止できます。革製部品も付き、高級感溢れます。モバイル充電器をカバンに備えておけば出先での急な充電切れに焦らず対応でき、旅行や出張まで幅広くお使い頂けます。",
+        "🔋【PSE認証&amp;一年保証】日本国内のPSE監査基準をサポートし、優れたセキュリティを備えています。充電保護/蓄電保護/高温保護/過電圧保護などの機能を備えており、お客様の安全体験を第一に考えています。//安心保証：ご購入日より一年間。何がご質問やご要望がございましたら、お気軽に弊社のメールアドレスまでご連絡お願い致します。",
+        "🔋対応機種：【最新watchOS対応】 ⌚Apple Watch Ultra3/Ultra2/Ultra/11/10/9/8/7/6/SE/5/4/3（44mm/42mm/40mm/38 mm/41mm/45mm/49mm）全シリーズ 📱iPhone/iPad/Airpods全シリーズ対応 📱Android/任天堂switchに対応"
+      ],
+      "maker": "RORRY",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1865,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0BYS8VRYL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:07:46+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BVLTQ9VS",
+      "title": "CIO ケーブル内蔵 モバイルバッテリー SMARTCOBY Pro CABLE 【着脱可 USB-Cモデル】 10000mAh 35W",
+      "url": "https://www.amazon.co.jp/dp/B0BVLTQ9VS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BVLTQ9VS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/7191E6Dri2L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【脱着可能なタイプCケーブル内蔵】 最大35W出力に対応したタイプC内蔵ケーブルはあらゆるデバイスを充電可能な画期的なモバイルバッテリーです。 更に内蔵ケーブルを用いて本製品本体への蓄電も行える為、デバイスへの充電も、バッテリー本体への充電もケーブルを個別に持ち運ぶ必要が無く完全なケーブルレスが可能です。",
+        "【小型＆軽量】 もっと持ち物をシンプルに、使いやすさにこだわったSMARTCOBYシリーズを作りたい！ そんな思いの中CIO人気のモバイルバッテリーであるSMARTCOBY Proの持つ小型化と高出力化のテクノロジーを駆使した全く新しいモバイルバッテリーが登場。 SMARTCOBY Pro CABLEは30W出力対応の10000mAhモバイルバッテリーの中で世界最小級を実現。 重量も200gを切っている為、持ち運びも楽々。カードサイズながら10000mAhを搭載しているので、様々なスマホを約1.5回以上、PC・タブレットも約0.5回以上の充電可能です。",
+        "【残量デジタル表示】 残量はデジタル表示で見やすく、バッテリーが少なくなってきたらすぐに気付く事ができ、適切なタイミングで充電可能です。",
+        "【外観にも機能性をプラス】 製品をいつまでも長くご愛用いただきたい。そんな思いから製品表面にザラザラとしたシボ加工を実装致しました。 持ち運びが多いモバイルバッテリーを携帯する際にも傷がつきにくく、製品を綺麗な状態で保つ事が可能です。 更にCIOのロゴをアルミプレートで配置することで、高級感を演出。洗練された所持欲満たされるデザインも魅力です。",
+        "【パススルー充電対応】 デバイスとバッテリーの両方を充電 バッテリーを経由しながらデバイスの急速充電が可能。 コンセントが一つしかない環境や、両方を充電したいときに大活躍します。",
+        "【より使いやすく】 35W対応になる事で利便性は飛躍的に向上し、Androidスマートフォン、タブレットのみならずミドルレンジのノートPC（※30W充電対応可能なものに限ります）、ゲーム機などへの充電も可能です。 PPS（Programmable Power Supply）にも対応している為、Galaxyは超急速充電モードに。その他様々な機種に対し最速で充電可能です。 製品化する際に「ケーブルの耐久性が気になる！」とのお声を受け、ケーブルの取り外し・装着を可能とし、破損してしまっても交換できるようになりました。 ※Lightningケーブルは付属しておりません。 更に2台同時充電も可能です。 ※2台同時充電時の出力は15Wとなります為、高出力を要するデバイスへの充電は不可となります。"
+      ],
+      "maker": "CIO",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 421,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0BZXN4PB5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:07:53+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BZ87C549",
+      "title": "Anker Prime Power Bank (12000mAh, 130W) (12000mAh 合計130W出力 モバイルバッテリー)【Power Delivery対応/PPS規格対応/PSE技術基準適合/USB-C入力】iPhone MacBook Galaxy Android スマートフォン ノートPC 各種 その他機器対応 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0BZ87C549?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BZ87C549?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/717RjS7VakL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "MacBook Proにも充電可能な高出力モバイルバッテリー：合計最大出力130Wかつ単ポート利用時も最大65W出力で、MacBook Proにも充電できます。外出先でも複数機器へ同時充電可能です。",
+        "iPad Pro約1回分の大容量：12000mAhの大容量で、iPad Proへ約1回充電が可能。iPhone 16にも約2回充電でき、外出先でも充電切れの心配がありません。",
+        "最大65Wでの入力にも対応：モバイルバッテリー本体に最大65Wで入力が可能。約45分でバッテリー本体を100%まで充電できます。",
+        "充電状況をリアルタイムで確認可能：出力やバッテリー本体への入力の強さが確認できるディスプレイ機能を搭載。バッテリーの残り残量や充電にかかる時間がリアルタイムで確認できます。",
+        "大容量かつコンパクト：350mlペットボトルとほぼ同等のサイズで、小さなバッグなどにも収納が可能。持ち運びにも便利です。"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 272,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T10:08:01+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CDBY9P5Q",
+      "title": "Anker Nano Power Bank (30W, Built-In USB-C Cable) (モバイルバッテリー 10000mAh 30W出力 大容量 LEDディスプレイ搭載 USB-Cケーブル内蔵 一体型)【PD/PowerIQ搭載/PSE技術基準適合】iPhone 16 / 15 Android MacBook その他各種機器対応 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0CDBY9P5Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CDBY9P5Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/513s3CQN6ML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ケーブル一体型で、荷物がスッキリ：USB-Cケーブル一体型のため、外出先でもお使いの機器をいつでも充電可能かつ、コンパクトサイズで充電しながら快適にスマホを操作いただけます。",
+        "iPhone 16シリーズにも急速充電：最大30W出力が可能で、iPhone 16シリーズにも最大3倍速く急速充電が可能です。※一般的な5W出力の充電器でiPhone 15を0%から30%まで充電した場合との比較（Anker調べ）",
+        "バッテリー本体にも急速充電：一体型ケーブルは出力だけでなく、入力も最大30Wに対応し、約1.5時間でバッテリー本体に急速充電が可能です。 ※30W出力のUSB急速充電器を使用して充電した場合（Anker調べ）",
+        "コンパクトながらパワフル：コンパクト設計ながら、スマホ約2回分の10000mAhの大容量と最大30Wの出力を実現し、コンパクトさとパワフルさを兼ね備えています。",
+        "幅広い対応機種 : スマートフォンだけでなくタブレット端末やMacBook Airなど、幅広い機器への充電に対応しています。",
+        "パッケージ内容：Anker Nano Power Bank (30W, Built-In USB-C Cable) 、取扱説明書、カスタマサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1140,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0CM66Y378",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:08:09+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CXNY69DC",
+      "title": "Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) ブラック | モバイルバッテリー 20000mAh 87W出力 大容量 ディスプレイ搭載 USB-Cケーブル内蔵【PD/PowerIQ搭載/P",
+      "url": "https://www.amazon.co.jp/dp/B0CXNY69DC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CXNY69DC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41-l-2qotAL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "安心の超大容量：20000mAhの超大容量でiPhone 16を約4回、Galaxy S24を3回以上満充電できます。",
+        "ケーブル一体型で、荷物がスッキリ：USB-Cケーブル一体型のため、外出先でもお使いの機器をいつでも充電可能。ケーブル忘れの心配がありません。",
+        "合計最大87Wの急速充電：USB PD対応のUSB-Cポートは最大65Wの高出力に対応し、iPhone 16シリーズやタブレット端末だけでなく、ノートPCにも充電が可能です。",
+        "バッテリー本体にも急速充電：内蔵USB-CケーブルもしくはUSB-Cポートを通じてバッテリー本体へも最大65Wで充電することができます。",
+        "優れた耐久性：約10,000回の折り曲げにも耐える優れた耐久性を実現しているため、ケーブル内部のワイヤーを断線から保護し、安心して充電することができます。 (Anker調べ)",
+        "パッケージ内容：Anker Power Bank (20000mAh, 87W, Built-In USB-C ケーブル) 、取扱説明書、カスタマサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 965,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0D8PP8GV1",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:08:15+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D53XSFR8",
+      "title": "CIO モバイルバッテリー ケーブル内蔵 [薄さ 18mm] タイプC 30W 10000mAh 軽量 小型 薄型 iPhone 17 / 16 / 15 Android/Macbook/ノートPC/iPad用 USB Type-C 急速充電 SMARTCOBY Pro SLIM Cable 35W (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0D53XSFR8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D53XSFR8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61BnzqT3HmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【着脱可能な USB-C to C ケーブル内蔵 】 USB-C ケーブル付きのモバイルバッテリー。万一ケーブルが断線した場合でも交換可能な着脱できるタイプだから、モバイルバッテリーを長く安心して使えます。長さ約21cmの内蔵ケーブルがモバイルバッテリー本体の周りに収納されており、これ1本でスマホもモバイルバッテリー本体も急速充電できます。 ※内蔵ケーブルは『SMARTCOBY Pro SLIM CABLE』専用です。他のCIO製品との互換性はありません。 ※内蔵ケーブルを差し込む際は、端子を奥までまっすぐ差し込んでください。 ※本製品はQi／MagSafe非対応の有線充電モデルです。",
+        "【超薄型＆超軽量】 手のひらサイズで本体は驚きの薄さ18㎜のスリムなモバイルバッテリーで 人気の iPhone17 / Air / 16 などと一緒に持っても小型で持ちやすく 相性抜群！ケーブル込みで約189gの軽さだから、旅行 / オフィス / 出張時のスマホ、ノートパソコン用モバイルバッテリーへの用途など、おうちでの普段使いや学生の方からビジネスシーンまであらゆる方におすすめです。※ノートPCの充電に関しましては35W出力を可能とするPCを対象としております。最近のPCにおいては充電できるものが多い一方、できないPCもございます事ご了承くださいませ。充電可能か否かは、弊社カスタマーサポートへお問合せいただくか、各ノートPCにご確認くださいますようお願いします。また、パススルー充電時においては合計出力が15W出力となりますので、ノートPCをはじめとする高出力を必要とするデバイスへの充電は出来ない、もしくは充電が不安定になる場合がございます。ノートPCや高出力を要求されるデバイスを充電される場合は単ポートでご使用くださいませ。",
+        "【単ポート最大35W出力&amp;大容量】USB-C単ポート最大35W出力に対応した大容量10000mAh。35W対応で利便性は飛躍的に向上し、20W 出力が必要なスマートフォン(iPhoneやGalaxy、Xperia等のAndroidスマホ)からタブレット(iPad用 / mini / Pro)のみならず、一部ミドルレンジのノートPC（MacBook Air）などへの充電も可能です。【急速充電】 更に『SMARTCOBY Pro SLIM Cable』はPPSにも対応している為、 Galaxyは超急速充電モードで充電可能です。 本体は35Wに対応しており、急速充電器を用いる事で約90分で満充電に。※本製品またはデバイスを充電中、熱を持つことがございますが満充電に近づくにつれ通常の温度に戻ります。ご安心ください。",
+        "【デジタル残量表示】 通常時（非表示状態）はデジタル基盤の有無が気にならないフラットな表面で、本体のデザイン性を高く維持。 従来のディスプレイ画面だと傷が目立ってしまうことがありましたが、外観と同じシボ加工を実装することで傷が目立ちにくくなりました。 スマホなどのデバイスを充電中は残量を視覚的にわかりやすいドットタイプの数字で表示し、バッテリー本体へ蓄電中は遊び心を取り入れたアニメーション風に表示します。",
+        "【パススルー充電対応】デバイスとバッテリーの両方を充電 バッテリーを経由しながらデバイスの急速充電が可能。バッテリーを充電するのが面倒で、使いたい時にバッテリーが空になっているとき、『SMARTCOBY Pro SLIM CABLE』はパススルー機能搭載で、バッテリーに充電しながらスマホなどへの充電にも対応しております。 コンセントが一つしかない環境や、両方を充電したいときに大活躍します。※パススルー充電時、入出力がどちらのポートか問わず、約15W出力になります。",
+        "【2ポート搭載】 平らなフォルムを最大限活かすため、内蔵ケーブルを含む USB-Cポート合計2つの充電口を搭載。 様々な用途の充電が可能となり、充電しながらiPhoneやAndroid等のCポートが必要なデバイスを充電したり、 イヤホン等のAポートが必要なデバイスを充電したりと、お持ちのデバイスやケーブル状況にあわせたパススルー充電が可能となります。",
+        "【外観にも機能性をプラス】 製品をいつまでも長くご愛用いただきたい。そんな思いから製品の表面に一眼レフカメラのボディのような粗いシボ加工を施しているため、ペンや爪で引っ搔いたりしても製品表面に傷が付きにくいという一つの機能を付加しており、より多機能性を高めました。",
+        "【CIO 安心保証対応】日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はAmazonのご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+      ],
+      "maker": "CIO",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 676,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0DDQCX1XN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:08:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D7D8JP6Q",
+      "title": "Anker Prime Power Bank (9600mAh, 65W, Fusion) (9600mAh 65W出力モバイルバッテリー搭載 USB充電器)【Power Delivery対応/PSE技術基準適合/USB-C入力】iPhone MacBook Android その他機器対応",
+      "url": "https://www.amazon.co.jp/dp/B0D7D8JP6Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D7D8JP6Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61uYvK6bOaL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "最大65Wの高出力：モバイルバッテリーとしても充電器としても最大65W出力で、MacBook Proにも充電可能。在宅時や外出先など場所を選ばずお使いの機器を充電することができます。",
+        "1台2役のハイブリッド設計：USB急速充電器とモバイルバッテリーの機能を兼ね備えたFusionモデル。 モバイルバッテリーとしてはスマホ約2回分を充電可能な容量で、コンパクトさとパワフルさを両立しています。",
+        "持ち運びに適した小型設計：iPhone 16 Proよりもコンパクトかつ、308gの重さで持ち運びにも最適。場所を選ばずどこでも気軽に使用可能です。",
+        "ディスプレイ機能搭載：製品本体にディスプレイ機能を搭載し、バッテリー残量やリアルタイムの出力を一目で確認可能です。",
+        "スマホ約2回分充電可能：モバイルバッテリーとして利用時には9600mAhの容量でスマートフォンから ノートPCまで幅広い機器に使用可能です。",
+        "パッケージ内容：Anker Prime Power Bank (9600mAh, 65W, Fusion) 、ストラップ式USB-C &amp; USB-C ケーブル、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1123,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T10:08:31+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DM8RHWLC",
+      "title": "CIO SMARTCOBY TRIO 20000ｍAh 65W モバイルバッテリー 大容量 小型 急速充電 PD 3ポート iPhone 17 / 16 / 15 / Android/Macbook M3 / iPad Type-C USB-C USB-A パススルー PSE認証品 (ホワイト)",
+      "url": "https://www.amazon.co.jp/dp/B0DM8RHWLC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DM8RHWLC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71kGD2lAAfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【超小型カードサイズ】20000mAhのモバイルバッテリーでありながらカードサイズの圧倒的な小ささを実現。お出かけの際に気軽に持ち運べるような、手に取りやすいサイズ感を追求しました。高出力・コンパクトでありながら、iPhone15なら約3.5回、Galaxy S23なら約3.0回、iPad Pro 11インチなら約1.5回、MacBook Airなら約0.8回など、様々なデバイスを複数回充電可能です。※充電回数は目安です。デバイス側の電源ON/OFF状況、充電時の電圧・電流値などにより変化いたします。",
+        "【単ポート最大67W高出力】これ一つであらゆるシーンやデバイスへの充電に対応したモバイルバッテリー。タイプCで単ポート最大出力67Wなので、イヤホン、スマートウォッチ、スマートフォン(iPhoneやGalaxy、Xperia等のAndroidスマホ)、タブレット(iPad / iPad mini / iPad Pro)への充電はもちろん、ノートPC(Macbook / Macbook Air / Macbook Pro、LenovoやHP、他あらゆるWindows PC等)、ゲーム機(Switch等)へも最大出力で充電が可能です。",
+        "【同時充電に対応】USB Type-C ポート2つ、USB-Aポート1つを搭載し、最大3台同時充電対応。スマホ＋イヤホン＋ノートPCはもちろんのこと、ノートPC2台の同時充電も可能※です。※Type-C2ポートのみの同時充電時、合計65W出力まで対応。ノートPCの組み合わせによっては2台同時充電できない場合がございます。",
+        "【CIO独自制御技術 NovaIntelligenceを搭載】端末に合わせて電力を自動で調整してくれる為、ポートの出力を気にしながらデバイスを繋ぐ必要がなく、同時充電時もストレスなく快適に充電が可能です。65W高出力で、スマホからノートPCの充電まで対応。さらにCIOのNova Intelligenceによって2台同時充電時はデバイスにあった電力を自動振り分けします。 ※高出力充電には対応したケーブルが必要です。 ※デバイスによっては充電できない規格もございます。",
+        "【デジタル残量表示】残量は1％単位のデジタル表示で見やすく、バッテリーが少なくなってきたらすぐに気付く事ができ、適切なタイミングで充電可能です。数値が表示されるため安心してご使用いただけます。※充電中は点滅する仕様です。",
+        "【外観にも機能性をプラス】 製品をいつまでも長くご愛用いただきたい。そんな思いから製品表面に一眼レフカメラのボディのようなザラザラとしたシボ加工を実装致しました。携帯する際にもすり傷などの細かい傷がつきにくく、製品を綺麗な状態で保つ事が可能です。洗練された所持欲満たされるデザインを目指しました。",
+        "【急速パススルー対応】 本製品は画期的な急速パススルー充電機能を搭載しており、デバイス、モバイルバッテリー、両方の残量が少なくなっても本製品を経由しながら両方ともに急速充電が可能です。コンセントが1つしかない環境や、両方を充電したときに重宝します。",
+        "【安心のPSE認証品】 電気用品安全法（PSE）は電気用品による事故を防止し、電気用品安全法の基準に適合する電化製品につけられるマークのことで、安心の認証商品です。",
+        "【CIO 安心保証対応】 日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+      ],
+      "maker": "CIO",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 197,
+      "star_rating": 3.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FG837JP7",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:08:40+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DSKFTHMV",
+      "title": "CIO Qi2 MagSafe対応 5000mAh 充電速度優先 モバイルバッテリー 超薄型 [薄さ8.7mm] マグネット ワイヤレス充電 軽量 小型 USB-C PD 20W iPhone 17 / 16 / 15 / 14 / 13 / 12 / Airシリーズ Pixel10シリーズ に対応 急速充電 SMARTCOBY SLIM 5K (シルバー, ハイパフォーマンスモデル)",
+      "url": "https://www.amazon.co.jp/dp/B0DSKFTHMV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DSKFTHMV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61iWgz8ldML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【High Performance Model（速度重視）とは】 本製品のHigh Performance Modelは、充電速度を優先した出力制御により対応端末では短時間での充電体験を目指す設計です。その性質上、Safety Modelに比べ発熱は高まりやすく、周囲温度が高い場合やケース装着・連続使用時などは端末または本体の保護機能により自動で出力が抑制されたり一時停止となることがあります。季節問わず日中の長時間充電や高温環境での連続運用を重視される場合はSafety Modelのご利用を推奨します。※ご使用環境・端末個体差により充電時間や温度の結果は変動します。",
+        "【Qi2認証チップ搭載】SMARTCOBY SLIM 5K は、iPhone12、iPhone13、iPhone14、iPhone15、iPhone16、iPhone17、iPhone Airシリーズ及びPixel10シリーズへマグネット吸着しながら安定したワイヤレス充電（非接触充電）が可能なモバイルバッテリーです。最大15Wの急速充電が可能、iPhone16Proを約150分で満充電可能（セーフティモデルは約170分）ですMagsafe技術に準拠しているため、iOSのアップデート後も安心してご使用いただけます。",
+        "【単ポート最大20W出力】USB-C単ポート最大20W出力に対応。スマートフォン（iPhoneやGalaxy、XperiaなどのAndroidスマホ）からタブレット（iPad / mini / Pro）のなどへの有線充電が可能です。",
+        "【極薄8.7mm】超薄型化と小型化を両立し、極限まで薄く、小さく、軽く仕上げました。スマートフォン（iPhoneやGalaxy、XperiaなどのAndroidスマホ）との重ね持ちをしても手に収まるサイズ感で、iPhone Proシリーズなどでご使用いただいても製品がはみ出ない設計※。バッグやポーチのポケットなど狭いスペースにも楽々収納可能です。カフェや新幹線、飛行機、出張や旅行にも最適です。 ※miniシリーズにご使用の際は製品サイズがiPhone miniシリーズから飛び出てしまいます事ご了承ください。※miniシリーズにご使用の際は製品サイズがiPhone miniシリーズから飛び出てしまいます事ご了承ください。",
+        "【シンプルで美しいアルミ合金ボディ】超薄型バッテリーセルを採用した、洗練されたメタリックデザインながら、Appleデバイス用アクセサリのデザインガイドラインに準拠しています。iPhoneシリーズに吸着させたときに、カメラに干渉せず、ケースを装着しても気になりにくい設計です。",
+        "【完全パススルー充電機能搭載】 モバイルバッテリーを充電しながらiPhoneなどの端末を同時に充電可能です。さらにSMARTCOBY SLIM 5Kは一般的なパススルーではなく完全パススルーというCIO独自設計を行っている為、満充電になって以降はモバイルバッテリーを介さず、端末を直接充電する回路に自動で切り替わることでモバイルバッテリー内部のバッテリーセルの負荷を減らし、長寿命化や安全性につながるよう設計しております。",
+        "【ワイヤレス充電時の対応機種、発熱について】 ※15Wの出力でのマグネット式ワイヤレス充電はiOS 17.4をインストールしたiPhone 12以降のモデルにのみ可能です。Androidスマホへワイヤレス充電する場合、Max出力は機種によって変わりますので、Qi2充電時の出力スペックをご確認ください。※バッテリー保護のため、iPhoneは温度が上がった際に充電が80％で自動的に停止することがあります。80％で充電が止まった場合は、iPhoneを涼しい場所に移動して温度を下げると、充電が続行されることがあります。※80％以降は、iPhoneのバッテリー劣化を防ぐために、Qi2充電の本来の速度が制限されることがあります。※Qi2 15W充電ご使用の際は、周囲の温度や通気性に注意し、快適に充電できる環境を整えていただきますようお願いいたします。最大47℃までの発熱は正常範囲内ですが、万が一、触れられないほど高温になった場合は直ちに使用を中止し、弊社サポートまでご連絡ください。",
+        "【容量と充電ロスについて】 ※本製品の公称容量は 5000mAh (3.85V, 19.25Wh) です。しかし、モバイルバッテリーは他の端末に充電する際にエネルギーロスが発生するため、実質容量は 3000mAh（5V/2A） となり、公称容量の約 60% となります。また、ワイヤレス充電時には電磁誘導の過程でエネルギーロスが発生します。ワイヤレス充電を利用する際は、実質的な充電量が低下することをご了承ください。急速充電（PD 9Vなど）を利用する場合、変換効率の影響で放電容量が低下することがあります。本製品のバッテリーエネルギー量は 19.25Wh ですが、9Vで放電する場合、実質容量は約2139mAh となります。",
+        "【CIO 安心保証対応】 日本メーカーとして、動作不良にも、しっかりと対応させていただきます。初期不良やご使用中の製品不良の際は、まずはお問い合わせください。その際はご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題のないものを納品させていただいておりますため、開封痕がある場合がございます。間違いなく新品未使用ですので、ご安心いただけますと幸いです。",
+        "【モバイルバッテリー回収サービス】 リチウムイオン電池の特性上や昨今のニュースの影響もあり、モバイルバッテリーの取り扱いに抵抗がある方も多くいらっしゃると認識しております。その理由の一つに、モバイルバッテリーを一般ごみとして捨てることができない点が挙げられます。CIOではご購入いただいておしまいではなく、ご購入いただいてからこそが、皆様とのお付き合いの始まりであると考えているため、一般社団法人JBRCに加入し、全国の家電量販店およびCIO本社にて不要になったモバイルバッテリーの回収を行っております。 ※CIOが製造するすべてのモバイルバッテリーおよび他社製品が対象となります。"
+      ],
+      "maker": "CIO",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 866,
+      "star_rating": 4.0,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GBWN7Y7V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:08:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F6NC41DZ",
+      "title": "UGREEN Air モバイルバッテリー マグネット式ワイヤレス充電 薄型 MagSafe対応 10000mAh ケーブル内蔵 PB570 グレー | 薄型、ATLセル採用、Qi2認証 15W、MagSafe対応、USB-C PD 30W高出力、軽量、小型、携帯便利、パススルー充電対応、iPhone 17 / 16 / 15 / 14 / 13 / 12シリーズ対応",
+      "url": "https://www.amazon.co.jp/dp/B0F6NC41DZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F6NC41DZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61Au4ZoBYgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【 ★ 厚さ13.9mmの超薄型ボディ｜カバンにコミックスを入れる感覚 ★ 】スマホを約2回フル充電できる10000mAh（39.2Wh）の大容量を、厚さわずか13.9mmのスリムボディに凝縮。スマホに重ねてもかさばらず、ポケットにもスッと収まる薄型モバイルバッテリー。大容量と携帯性を両立します！",
+        "【 ★ 内蔵USB-Cケーブル｜「ケーブル忘れた」がなくなる ★ 】面倒なケーブル持ち歩きから解放される、ストラップ式USB-Cケーブルを本体に内蔵。使う時に引き出し、使わない時は本体に押して収納。ケーブルを別途持ち歩く必要がなく、バッグの中もスッキリ。ワイヤレス充電と有線充電の両方に対応。シーンを問わず、ストレスなく使い続けられます。",
+        "【 ★ Qi2認証・MPP対応でiPhone 15W急速ワイヤレス充電 ★ 】Qi2規格に対応、MagSafe同様の最大15W急速充電が可能です。お茶を入れるくらいの短い時間でも、サッと充電を始められます。強力磁石を内蔵し、iPhoneを近づけるだけで自動吸着。ケーブル接続不要で、カフェや電車の中でも片手のまま充電しながらスマホ操作ができます。",
+        "【 ★ 10000mAh大容量｜1泊2日の旅行や出張も安心のパワー ★ 】スマホを約2回フル充電できる10000mAh（39.2Wh）の大容量を搭載。iPhone 17 Pro Maxなら約1.6回、iPhone Airなら約2.3回、Galaxy S25 Ultraなら約1.4回の充電が可能です。バッテリー切れの心配なくスマホを使い続けられます。",
+        "【 ★ iPhone機種と同じATL製セルを採用｜安全性にもこだわり ★ 】iPhone機種と同じATL製セルを採用することで、高いエネルギー密度でスリムなボディを実現。過充電・過放電を防ぐ多重保護回路も内蔵し、日常使いに求められる信頼性を備えています。"
+      ],
+      "maker": "Ugreen",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 1605,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H41F2J6S",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:08:56+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F8V6K58S",
+      "title": "CIO モバイルバッテリー 100W ケーブル内蔵 大容量 20000mAh [脱着式ケーブル] PD 高出力 CIO独自技術 NovaIntelligence NovaSafety2.0搭載 ノートパソコン用モバイルバッテリー MacBook Pro iPhone 17 / 16 / 15 Android SMARTCOBY Pro CABLE 100W 20K (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0F8V6K58S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F8V6K58S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/719G1f4wLZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ノートパソコンも充電できるモバイルバッテリー】SMARTCOBY Pro CABLEは単ポート最大100W、高出力でApple MacBook Pro 、パナソニック Let&#39;s note(レッツノート)といったハイエンドノートPCも充電可能なモバイルバッテリーです。大容量20000ｍAh搭載で、ノートPCを用いたミーティングを伴う出張など、充電環境に不安のあるビジネスシーンにおいておすすめです。",
+        "【充電も蓄電も高出力最大100W】デバイス充電時と同様、本体蓄電時の入力電力も最大100Wに対応で素早い蓄電が可能です。※高出力での充電には、相応の高出力充電器が必要です。",
+        "【CIO独自制御技術 NovaIntelligenceを搭載】3台までの複数同時充電時はデバイスにあった電力を自動で振り分け、端末に合わせて自動で調整してくれるNovaIntelligence(ノヴァインテリジェンス)を搭載。ポートの出力を気にしながらデバイスを繋ぐ必要がなく、同時充電時もストレスなく快適に充電が可能です。合計95Wまでの高出力で、65W出力対応ノートPC+スマホの充電や、45W出力対応ノートPCを2台同時充電まで可能。 ※複数充電時の各ポート最大出力詳細は、画像の表をご参照ください。※高出力充電には対応したケーブルが必要です。 ※デバイスによっては充電できない規格もございます。",
+        "【充電器の動作状況がわかるスクリーン】1％単位の充電残量や各USBポートの出力状況をリアルタイムで確認できるスクリーンを搭載。「100W」「65W」といったデバイスの充電出力を見える化。さらにCIO独自技術NovaIntelligence（自動振り分け機能）やNovaSafety 2.0（安全保護機能）の動作状況も表示されます。側面の切り替えボタンでスクリーンのON/OFFや、表示内容の切り替えが可能。重力センサーを内蔵し、本体の向きに応じて表示の向きが変わります。※スクリーン部にはフィルムを貼っており傷が付いているように見えますが、フィルムをはがすと綺麗な液晶画面となります。",
+        "【100W出力対応ケーブル内蔵】 サイズは約149.5×68.5×25.7mmで重量は約390gと、同じ出力レベルのモバイルバッテリーの中でも最小、最軽量級のコンパクトさを実現。 さらに約70mmの100W出力対応ケーブルを本体側面に内蔵。CIOのケーブル内蔵モバイルバッテリーとして標準の交換可能な仕様を継承しているので、万一の断線時にも安心です。",
+        "【安全機能 独自技術NovaSafety搭載】 CIO独自技術 NovaSafety（ノヴァセーフティ）は、製品温度を常に監視し、製品高負荷時に自動的に電力調整を行います。 より安心して長くご愛用いただくための安全装置です。",
+        "【外観にも機能性をプラス】 製品をいつまでも長くご愛用いただきたい思いから、表面に一眼レフカメラのボディのようなザラザラとした傷がつきにくいシボ加工を実装。 いつまでも綺麗な状態でお使いいただけます。また、プラグ側は、壁にすき間なくピタッとささるフルフラットデザインに変更。壁コンセントに挿し込んだ際の安定性が向上。 機能性や安定性に加え、洗練された所持欲満たされるオシャレなデザインを目指しました。",
+        "【CIO 安心保証対応】日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はAmazonのご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+      ],
+      "maker": "CIO",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 218,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FFMR2LHF",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:09:05+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FDQXCH6N",
+      "title": "Philips(フィリップス) モバイルバッテリー 小型 Apple Watch対応 5000mAh アップルウォッチ 充電 2.5W 折畳み式 usb cコネクター type-c ケーブル内蔵 軽量 PD 22.5W急速充電 パススルー機能/LEDディスプレイ搭載 PSE認証済 iOS ＆ Android デバイス対応 ホワイト DLP2557CW",
+      "url": "https://www.amazon.co.jp/dp/B0FDQXCH6N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FDQXCH6N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ZOu2ZuAqL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【Apple Watch充電対応】コードレスの2.5W磁気充電により、アップルウォッチも簡単に充電可能です。外出時、apple watch充電器を別途携帯する必要がなくなります。※要注意：Apple　Watchを充電開始する前に、まず電源ボタンを押してください（単一デバイス充電時はモバイルバッテリーを起動し、複数デバイス同時充電時は低電流モードに切替えます）。",
+        "【収納可能な入出力Type-Cケーブル】入出力タイプ Cケーブル内蔵し、抜くと急速充電ケーブルになり、使わないときはストラップとして収納できます。PD &amp; QC 3.0急速充電に対応しており、入力最大は19.98W、出力最大は22.5Wでございます。※初めて引き抜くときは、少し固いかもしれません。まずType-Cケ一プルのコネクタ位置を緩めてから、水平方向に力を入れて引き抜いてみてください。",
+        "【usb cコネクター＆パススルー機能】折りたたみ式のUSB-C端子になるコードレスのデザインで、iPhone 16 / 15 シリーズに対応しており、スマホに差し込むだけで充電を開始します。パススルー機能も搭載し、アップルウォッチ、スマホとモバイル充電器を同時に充電できます。※充電に干渉しないように、スマホケースの厚さは5mmを避けてください。",
+        "【小型軽量＆ちょうどいい容量】本体のサイズは7.9x2.8x3.9cm、重さは112.5gでございます。5000mAhの容量は外出時にスマートフォンやイヤホンを充電するのに最適で、旅行中や外出時にデバイスのバッテリーを十分に保つことができます。持ち運びが簡単で、ポケットや小さなカバンに簡単に収納できるため、一日の外出、通勤通学などの時には非常に便利です。",
+        "【2 Way入力方法＆LEDディスプレイ搭載】USB-Cポートとタイプcケーブルは入出力対応で、モバイルバッテリー本体への充電はもっと便利になります。LEDディスプレイも搭載しており、電池残量と急速充電状態が一目瞭然です。緑色のインジケーターランプが点灯している際は、急速充電と急速放電が行われていることを示しています。※スマホのバッテリー充電の最適化機能が有効になっている場合、80%以上充電されると緑色の急速充電マ一クが消えます。予めご了承くださいませ。",
+        "【複数のデバイスを同時充電可能】USB-C端子、type-cケーブル、usb-cポート、およびアップルウォッチ充電エリアを備え、複数のデバイスを同時に充電可能です。複数のデバイスを接続すると、急速充電モードが自動的にオフになる上、合計出力最大電力は15Wです。",
+        "【PSE認証済＆品質保証】PSE認証済で、過充電、過放電、過電流、短絡遮断、4つの保護機能を搭載した充電器です。国内外の飛行機に持ち込み可能で、旅行や出張の際にも便利です。保証期は一年間になり、何かご不明な点などございましたらお気軽にお問い合わせくださいませ。パッケージ内容：モバイルバッテリー本体x1、説明書(保証書付き)x1。"
+      ],
+      "maker": "Philips",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 159,
+      "star_rating": 4.2,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": null,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FMY1F3GY",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:09:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FHK4LK2M",
+      "title": "エレコム モバイルバッテリー 5000mAh 22.5W 軽量 小型 タイプC 直挿し USB-C一体型 スイング式コネクタ ケーブルいらずで挿すだけ充電 【 iPhone16/iPad 第10世代/Google Pixel9 対応】 ホワイト EC",
+      "url": "https://www.amazon.co.jp/dp/B0FHK4LK2M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FHK4LK2M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/4134ETl4-bL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "AndroidやUSB Type-Cポート搭載のiPhoneなどのスマートフォン・タブレットに、一体型コネクターを直接挿して充電できるモバイルバッテリーです。充電中のケーブルの煩わしさを感じず、どこにいてもサッと充電できます。",
+        "手のひらに収まるコンパクトサイズ。バッグのポケットやスマホショルダーなどにしまって持ち運べます。",
+        "コンパクトながら最大出力22.5Wで充電できます。",
+        "※単ポート接続時の出力です。",
+        "一体型コネクターは180度可動するスイング構造。余計な負荷からコネクターを守り、収納時は90度に折りたたんで心配なく持ち運べます。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 301,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HF3BSZYM",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:09:22+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FMHZ3KVP",
+      "title": "Philips モバイルバッテリー コンセント一体型 15000mAh 大容量 Apple Watch対応 PD 45W MagSafe対応 ブラック | マグネット式 ワイヤレス充電 アップルウォッチ 2.5W 急速充電 ACアダプター 折り畳み式 usb-c & lightning ケーブル内蔵 パススルー機能搭載 電源プラグ変換可能 PSE認証済",
+      "url": "https://www.amazon.co.jp/dp/B0FMHZ3KVP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FMHZ3KVP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71mbjr+FPeL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【1台7役！旅行用多機能モバイルバッテリー】 Apple Watch充電パッド、MagSafe マグネット式ワイヤレス充電器、モバイルバッテリー、充電器、タイプＣケーブル、ライトニングケーブル、スマホスタンドが一体型になり、出張や海外旅行なら、これ一台が持っていければ最適です。折畳み式のACプラグを装備し、コンセントに差し込んで壁掛け充電器として使用でき、収納すればモバイルバッテリーとして使用できます。本製品にはイギリス、ヨーロッパ、オーストラリア用の電源変換プラグが付属しているため、海外でも安心して充電いただけます。",
+        "【3-in-1！マッグネット式ワイヤレス充電器】 スマホ、ワイヤレスイヤホンとアップルウォッチはすべてワイヤレス充電が可能です。MagSafe機能と互換性があり、2.5W/5W/7.5W/10W/15Wのワイヤレス充電に対応され、iOSデバイスにより良い磁気ワイヤレス充電体験を提供します。iPhoneを置くだけでワイヤレス充電が開始されます。低電力のワイヤレスイヤホン（5W）やApple Watch（2.5W）をワイヤレス充電前に、電源ボタンを長押しして「%」が点滅し、低電流モードに設定してください。※最高のマグネット効果を確保するために、ケースなし、またはマグセーフケースを使用して充電することをお勧めします。",
+        "【急速充電！最大出力PD 45W】 USB-CケーブルとポートはQC2.0/QC3.0/AFC/FCP/PD3.0/PPSなどの協議を対応されております。最大15V/3A（45W）と20V/2.25A（45W）でフルスピード充電技術によって急速充電も可能で、スマホのバッテリーが切れたとしても短時間でしっかり充電できます。災害などの緊急時・会議の時・アウトドアなど、コンセントのない場所でスマホやパソコンの充電に大活躍すること間違いなし！※注意：充電効率を保証するため、lightningケーブルで充電する前に、あらかじめスマホケースを外してください。【45W出力に関するご注意】 急速充電45W出力は「モバイルバッテリーモード（コンセント未接続時）」のみ対応しています。コンセントに接続した「ACアダプターモード」では、出力は最大15Wに制限されますのでご注意ください。",
+        "【超大容量！15000mAhでデバイスを充電数回】 15000mAhの大容量モバイルバッテリーで、一度の充電でデバイスを数回充電できます。AirPods Pro 2に約16回、Apple Watch Ultra 2に約14回、iPhone 16 Proに約2回、MacBook Air 2025に約1回フル充電することができます。15,000mAhの超大容量で、出張や旅行に最適なアイテムでございます。",
+        "【充電簡単！3種類の本体充電方法】 ACプラグ、USB-CケーブルとUSB-Cポートもモバイルバッテリー本体を充電できます。ACプラグは100-240V～50/60Hzの電圧範囲に対応し、入力の最大電流は0.5Aです。また、PD 3.0急速充電対応最大 27Wの入出力用タイプｃケーブルとusb-cポートを装備し、短時間でフル充電可能です。パススルー機能も搭載し、デバイスは優先的に充電され、その後充電器本体が満充電になります。",
+        "【使用便利！細部までこだわった設計】 バッテリー残量、急速充電とワイヤレス充電の状態はLEDディスプレイに一目で確認できます。USB-Cケーブルは編み込み式デザインを採用し、耐摩耗性が高く頑丈なため、ストラップとして使用しても破損の心配はありません。スマホを縦置き・横置きにできる隠しスタンドも付属し、外出先での食事中もストレスなく動画視聴可能です。",
+        "【安心使用！6重保護機能搭載】 高効率な充電性能を実現し、過充電、過放電、過電圧、過電流、短絡遮断、過温を防ぐ安全保護機能も搭載しているため、安心してご利用いただけます。保証期は一年間になります。弊社が販売しているPhilips商品はすべて正規品です。何かご不明な点などございましたらお気軽にお問い合わせくださいませ。パッケージ内容：モバイルバッテリーx1、AC交換アダプターx3、説明書x1。"
+      ],
+      "maker": "Philips",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 598,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FR54J1CH",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:09:31+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FTYZXTMK",
+      "title": "CIO Qi2.2 モバイルバッテリー 10000mAh 【25W ワイヤレス急速充電】35W USB-C PC対応 MagSafe対応 薄型 軽量 1%残量表示 パススルー充電 マグネット吸着 iPhone 17 / 16 / 15 対応 SMARTCOBY SLIM II Wireless2.2 Pro 10K (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0FTYZXTMK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FTYZXTMK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51dYU8sy8NL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【iPhone を最速ワイヤレス充電】 Qi2.2規格に対応し、最大25Wのワイヤレス急速充電を実現。MagSafe対応のiPhone シリーズやPixel 10 Pro XLなどのQi2対応スマートフォンを、従来の15Wより大幅に高速充電。 7.5W/25Wの出力切替機能により、発熱を抑えた充電も選択可能です。",
+        "【シンプルで美しいアルミ合金ボディ】 超薄型バッテリーセルを採用した、洗練されたメタリックデザインながら、Appleデバイス用アクセサリのデザインガイドラインに準拠しています。 iPhoneシリーズに吸着させたときに、カメラに干渉せず、ケースを装着しても気になりにくい設計です。薄さは最薄級14.6mmの薄型設計で重量約188g。持ち運びも快適です。",
+        "【しっかり吸着、安定充電】 MagSafe準拠のマグネット位置を採用し、iPhone 17/16/15シリーズにしっかり吸着。 カバンの中での充電や、充電しながらのスマホ操作も安定。Android端末でも、別売りマグネットリングで同様に使用可能です。 また、マグネットで吸着した状態でも、ボタン操作で有線充電に切り替え可能。ワイヤレス充電の発熱が気になる場合や、より高速な有線充電を選びたい時に便利です。",
+        "【傷や汚れから守る】 スマートフォン接地面には液体シリコン(ラバーコーティング)を採用。 背面を傷から保護し、変色や汚れを防ぎます。滑りにくく安定した接続を実現し、高級感ある触り心地も魅力です。",
+        "【大容量+2台同時充電】 10,000mAhの大容量により、iPhone 15なら約2回、Android主要機種も1.5～2回の充電が可能。 1日の外出はもちろん、1泊2日の出張でも電池切れの心配なく使用できます。さらにワイヤレス(5W) + USB-C(15W)の同時充電に対応。スマートフォンをワイヤレスで充電しながら、イヤホンやスマートウォッチを有線で充電できます。",
+        "【完全パススルー充電機能搭載】 モバイルバッテリーを充電しながらiPhoneなどの端末を同時に充電可能です。 さらにCIO SMARTCOBY SLIM 2 Wireless2.2 Pro 10Kは一般的なパススルーではなく完全パススルーというCIO独自設計を行っている為、満充電になって以降はモバイルバッテリーを介さず、 端末を直接充電する回路に自動で切り替わることでモバイルバッテリー内部のバッテリーセルの負荷を減らし、長寿命化や安全性につながるよう設計しております。",
+        "【デジタル表示で電池残量を正確に把握】 0～100%まで1%単位で表示するデジタルインジケーター搭載。 従来の4段階表示(25%単位)と比べ、充電のタイミングを正確に判断でき、計画的な使用が可能です。",
+        "【CIO 安心保証対応】日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はAmazonのご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+      ],
+      "maker": "CIO",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 90,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H2Z64K9H",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:09:39+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GPDBS299",
+      "title": "エレコム 半固体電池 モバイルバッテリー 10000mAh PD35W Type-C USB-A 燃えにくい 安全設計 長寿命 2000回サイクル 3台同時充電 残量表示 軽量220g PSE認証 機内持ち込み可 iPhone対応 ミッドナイト EC",
+      "url": "https://www.amazon.co.jp/dp/B0GPDBS299?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GPDBS299?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71q6OR95kUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "半固体リチウムイオン電池を採用し、高い安全性・長寿命・幅広い使用温度範囲・高い携帯性を備えた、10000mAhのモバイルバッテリーです。",
+        "半固体リチウムイオン電池は、電解液のゲル化により液漏れを防ぎ、可燃性有機電解液の使用量を低減することで、内部短絡時の可燃性ガスの発生・放出を抑制し、安全性を高めます。",
+        "従来のリチウムイオン電池(※)を使うモバイルバッテリーのサイクル寿命は約500回。半固体リチウムイオン電池は、電解液をゲル状にすることで化学的安定性が高まり、約2000回と従来の約4倍の電池寿命を実現しています。 ※液体電解質のリチウムイオン電池",
+        "従来の一般的なモバイルバッテリーの放電温度範囲は0℃～40℃ですが、本製品は-15℃～45℃まで対応。 幅広い温度環境で使用できるため、猛暑や極寒の土地でも心配なく使えます。",
+        "※-15℃～45℃は放電時の環境温度です。接続機器や本製品の条件により、出力が低下・停止する場合があります。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 190,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T10:09:45+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GQ9DHMR1",
+      "title": "【日本限定モデル】 Jackery Explorer 100 Plus 31000mAh モバイルバッテリー 99.2Wh/128W 飛行機に持ち込みが可能 リン酸鉄 小型 1.8時間でフル充電 USB出力 （チェリーブロッサム）",
+      "url": "https://www.amazon.co.jp/dp/B0GQ9DHMR1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GQ9DHMR1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61pQVsJDkeL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【手のひらに、春のときめきを】一足先に春の気分を届ける、 日本限定カラー「チェリーブロッサム」 が Jackery 100 Plus に登場。 やさしく華やぐ桜色が、手にするたび小さなワクワクをひらかせます。",
+        "【手の平サイズのJackeryが登場】容量99Whのため機内持ち込みOK。手のひらにおさまる小さなボディは、通勤バッグにもそっと寄り添い、出張や旅行のお供にもぴったり。※機内持ち込みの際は、使用は不可、上の棚への収納もできないため、バッグに入れた状態で、常に足元に置いてください。",
+        "【最大128W出力、複数デバイスの同時充電にも同時対応】最大128Wで、USB-Cを2口、USB-Aを１口備えているため、複数のデバイスを同時に充電することができます。※本製品ではACコンセントは使用できません。",
+        "【100WデュアルPD給電に対応】USB-Cポートへの1ポート接続時は、USB Power Delivery 100Wを出力。ハイスペックノートパソコン、ゲーミングPCなどを十分な速度で充電できます。",
+        "【1.8時間で高速フル充電 最大100WのUSB-C入力でスピーディに約1.8時間でフル充電。別売ソーラーパネルにも対応し、停電時やアウトドアでも落ち着いて使える安心感をプラス。",
+        "【リン酸鉄リチウムイオン電池で長寿命化】長寿命のリン酸鉄リチウムイオン電池を採用。約2,000回サイクルの充放電サイクルを実現しました。 ※2,000サイクル放充電後も工場出荷時の容量の80%以上を維持できます。",
+        "【優れた安全性】6つのバッテリー保護機能と耐火性、UL規格の耐衝撃テストをクリアしているため、屋内だけでなく、キャンプや登山、ツーリングなどのアウトドアでも安心してご使用いただけます。",
+        "【安 心 保 証サービス】購入日から2年の長期保証をご用意しているので、購入後も安 心してご使用いただけます。"
+      ],
+      "maker": "Jackery",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 24,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0DBLQJ11B",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:09:56+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H1G5LYR8",
+      "title": "Anker Nano Power Bank (MagGo, Plus) ブラック | 【釘を刺しても燃えない】10000mAh MagSafeモバイルバッテリー PSE 3C認証 安全 Qi2 最大出力15W マグセーフ マグネット式ワイヤレス充電対",
+      "url": "https://www.amazon.co.jp/dp/B0H1G5LYR8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H1G5LYR8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41m-htET2tL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Anker史上最も安全なネオリチウムイオンバッテリーを採用：不純物を徹底的に排除したセル素材、経年使⽤時の劣化防⽌、さらに釘刺し試験も100%通過可能な、新時代のリチウムイオンバッテリー。セルの釘刺し・加圧試験や、筐体の燃焼試験など、厳しい安全試験をクリア。",
+        "進化したバッテリーマネジメントシステム：秒単位で電圧の監視やセルの情報を記録するバッテリーマネジメントシステムが進化。アプリでバッテリーの状態をリアルタイムで確認ができ、最適な買い替えのタイミングがわかります。",
+        "Qi2対応かつスマホ約2回分充電可能：マグネット式ワイヤレス充電対応のモバイルバッテリー。Qi2対応のスマホに最大15W出力かつ約2回分充電が可能です。",
+        "約15mmの薄型設計：10000mAhの大容量ながら約15mmの薄型設計。ポケットやポーチなどにも収納可能なコンパクトさで外出時の持ち運びにも便利です。",
+        "ケーブルでの急速充電も可能：製品底面のUSB-Cポートは最大30W出力に対応。お使いのスマホに急速充電が可能です。",
+        "Anker史上最高水準の安全設計：安全性の高い電池を採用。電池内部の保護コーティングや新素材セパレーターが、ショートや発火のリスクを抑えます。厳しい耐火試験をクリアした筐体を使用。また、長時間の使用も高温になりにくい設計で、より安心してご使用いただけます。",
+        "パッケージ内容：Anker Nano Power Bank (MagGo, Plus) 、USB-C &amp; USB-Cケーブル (0.6m) 、取扱説明書、カスタマサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261030_powerbank",
+      "queries_matched": [
+        "codex_20261030_powerbank"
+      ],
+      "review_count": 2324,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HC231Q8V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:10:04+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "shared/db/product.sqlite"
+  },
+  "safety_exclusions": [
+    "B0CQX67KTW",
+    "B0CQX1MBCK",
+    "B0DRFQNPDQ"
+  ],
+  "measurement_checkpointed_at": "2026-10-09T10:10:04+09:00"
+}

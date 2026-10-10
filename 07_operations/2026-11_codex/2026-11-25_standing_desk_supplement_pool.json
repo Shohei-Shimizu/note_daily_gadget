@@ -1,0 +1,610 @@
+{
+  "generated_at": "2026-10-10T12:39:55",
+  "account_id": "daily_gadget",
+  "partner_tag": "daily-gadget-22",
+  "mode": "pool",
+  "queries": [
+    {
+      "query": "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット",
+      "source": "manual",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "アイリスオーヤマ 電動昇降テーブル DST-1200",
+      "source": "manual",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "query": "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H",
+      "source": "manual",
+      "include": [],
+      "exclude": []
+    }
+  ],
+  "knowledge": null,
+  "fetched_count": 30,
+  "dedup_count": 1,
+  "candidates": [
+    {
+      "asin": "B0DMV9V67X",
+      "title": "[山善] 電動昇降デスク用 天板のみ 幅120×奥行70×厚み1.8cm ストーンライトグレー ELD-T1200(SLGY)",
+      "url": "https://www.amazon.co.jp/dp/B0DMV9V67X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DMV9V67X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/11iOaxxUhRL._SL500_.jpg",
+      "features": [
+        "[本体サイズ]幅120×奥行70×厚1.8cm",
+        "[材質]合成樹脂化粧パーティクルボード(メラミン樹脂)",
+        "[原産国]中国",
+        "R7Y40"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット"
+      ]
+    },
+    {
+      "asin": "B0DMVB9X4L",
+      "title": "[山善] 電動昇降デスク用 天板のみ 幅120×奥行70×厚み1.8cm ストーンダークグレー ELD-T1200(SDGY)",
+      "url": "https://www.amazon.co.jp/dp/B0DMVB9X4L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DMVB9X4L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21BC3g3pTpL._SL500_.jpg",
+      "features": [
+        "[本体サイズ]幅120×奥行70×厚1.8cm",
+        "[材質]合成樹脂化粧パーティクルボード(メラミン樹脂)",
+        "[原産国]中国",
+        "R7Y37"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット"
+      ]
+    },
+    {
+      "asin": "B0DMV9KTR4",
+      "title": "[山善] 電動昇降デスク用 天板のみ 幅100×奥行70×厚み1.8cm ブルーグレー ELD-T1000(BLGY)",
+      "url": "https://www.amazon.co.jp/dp/B0DMV9KTR4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DMV9KTR4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21AVH6wtUhL._SL500_.jpg",
+      "features": [
+        "[本体サイズ]幅100×奥行70×厚1.8cm",
+        "[材質]合成樹脂化粧パーティクルボード(メラミン樹脂)",
+        "[原産国]中国",
+        "R7Y33"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット"
+      ]
+    },
+    {
+      "asin": "B092VX5RK7",
+      "title": "FLEXISPOT スタンディングデスク メーカー5年保証 電動式昇降デスク 高さ調節 パソコンデスク E7セット (フレーム(黒)+天板(マホガニー), 140×70cm)",
+      "url": "https://www.amazon.co.jp/dp/B092VX5RK7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B092VX5RK7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31zgd8-M3CL._SL500_.jpg",
+      "features": [
+        "【基本情報】昇降範囲：58-123cm；昇降速度：38mm/s；シリーズ中、一番大きな耐荷重125kgを誇っています。3段式ピラミット型の脚フレームで耐久性と安定性を向上させ、しっかりとしたデザインが机の揺れを最大限防いでくれます。モーターが2本あり、シングルモーターと比べて上下に昇降するための駆動力や運転スピートが速くなりました。",
+        "【ワンタッチで高さ調整】メモリー機能で天板の高さの位置を予め複数メモリーし、必要なシーンに応じてすばやく設定を呼び出せます。",
+        "【セーフティモーション(障害物検知機能)】昇降時に障害物を検知するセンサーが内蔵されており、異物にぶつかったら自動的に操作を停止してもとの位置に戻ります。この機能は敏感度が三段階調節することができます。",
+        "【ロック機能】大人なら片手でも簡単に操作することができます。安全のために備えたロック機能で、好奇心の強い子供たちが触っても安心。大切な人を予期せぬ危険から守ります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット"
+      ]
+    },
+    {
+      "asin": "B0CMX88TM6",
+      "title": "山善(YAMAZEN) 昇降デスク 電動 昇降式デスク 一枚板 スタンディングデスク 上下昇降 pc オフィスデスク テレワーク メモリー機能 衝突検知 USBポート付き 120×60×71-116cm 耐荷重60kg 組立品 ブラック/マットブラック AED-1260 BK/MBK",
+      "url": "https://www.amazon.co.jp/dp/B0CMX88TM6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CMX88TM6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31AUHwvdNfL._SL500_.jpg",
+      "features": [
+        "【最初の1台におすすめなエントリーモデル】電動昇降デスクを使ってみたいという方の初めての1台にオススメなエントリーモデルのデスクです。価格はおさえつつも、衝突検知機能やメモリー機能付きで便利な機能はしっかり付いています。",
+        "【高さメモリー機能付き】ワンタッチで設定した高さに昇降できるメモリー機能付きです。3つまで登録できるので、自分が座った/立った時の高さの登録や家族の分も登録できます。",
+        "【衝突検知機能付き】上下昇降中に障害物にぶつかった際、センサーが障害物を感知し動作をストップ。天板を上げている時→約5cm下に戻り、天板を下げている時→約5cm上に戻ります。",
+        "【安心の日本設計】商品の企画・開発はすべて日本で行っています。安定性、水平力、強度、天板のたわみ率などの項目で、独自に厳しい基準を設け、第三者機関で品質試験を実施しています。",
+        "●本体サイズ : 幅120×奥行60×高さ71-116cm●USBポート(タイプA : 1口、タイプC : 1口)付き●耐荷重 : 60kg●材質 : ‎天板/合成樹脂化粧パーティクルボード(メラミン樹脂) 脚部/スチール●お客様組立●東証プライム(株)山善で扱うすべての山善商品は、自社もしくは第三者機関において、JIS規格に基づいた品質試験を行っております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット",
+        "アイリスオーヤマ 電動昇降テーブル DST-1200"
+      ]
+    },
+    {
+      "asin": "B0FRFD6JVD",
+      "title": "山善(YAMAZEN) 昇降デスク 電動 電動昇降デスク 一枚板 昇降式 スタンディングデスク 上下昇降 pc オフィスデスク テレワーク 電源タップ付きUSB×2/コンセント×2 メモリー機能 衝突検知 140×70×72.5-118.5cm 組立品 ダークブラウン／マットブラック ELD-FS(MBK)/U1400(DBR)",
+      "url": "https://www.amazon.co.jp/dp/B0FRFD6JVD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FRFD6JVD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31HtsxtMaqL._SL500_.jpg",
+      "features": [
+        "【昇降が安定する2モーター】2モータータイプで「静音性」「安定性」に優れ、昇降スピードが速い昇降式デスクです。",
+        "【電源タップ付き天板】2つのUSBに2つのACコンセントがついた電源タップ付き。USBが取りはずし可能なユニットタイプなので、今後規格が変わっても変更可能で長く使えます。",
+        "【マグネットが付けられるプレート付き】天板の裏にスチールプレートが付いているので、マグネット式の引き出しやフックを付けたりお好みでカスタマイズできます。※マグネット小物の販売はありませんので既製品をお使いください。",
+        "【高さメモリー機能付き】ワンタッチで設定した高さに昇降できるメモリー機能付きです。4つまで登録できるので、自分が座った/立った時の高さの登録や家族の分も登録できます。",
+        "【衝突検知機能付き】上下昇降中に障害物にぶつかった際、センサーが障害物を感知し動作をストップ。反対方向に約5cm戻ります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット"
+      ]
+    },
+    {
+      "asin": "B0F28G8MKX",
+      "title": "山善(YAMAZEN) 昇降デスク 電動 電動昇降デスク 一枚板 昇降式 スタンディングデスク 上下昇降 pc オフィスデスク テレワーク メモリー機能 衝突検知 100×70×71-117cm 耐荷重80kg 組立品 ダークブラウン/マットブラック ELD-FS(MBK)/T1000(DBR)",
+      "url": "https://www.amazon.co.jp/dp/B0F28G8MKX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F28G8MKX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31iLt7OUGJL._SL500_.jpg",
+      "features": [
+        "【昇降が安定する2モーター】2モータータイプで「静音性」「安定性」に優れ、昇降スピードが速い昇降式デスクです。",
+        "【高さメモリー機能付き】ワンタッチで設定した高さに昇降できるメモリー機能付きです。4つまで登録できるので、自分が座った/立った時の高さの登録や家族の分も登録できます。",
+        "【衝突検知機能付き】上下昇降中に障害物にぶつかった際、センサーが障害物を感知し動作をストップ。逆方向に約5㎝戻ります。",
+        "【安心の日本設計】商品の企画・開発はすべて日本で行っています。安定性、水平力、強度、天板のたわみ率などの項目で、独自に厳しい基準を設け、第三者機関で品質試験を実施しています。",
+        "●本体サイズ : 幅100×奥行70×高さ71-117cm●耐荷重 : 80kg●材質 : ‎天板/合成樹脂化粧パーティクルボード(メラミン樹脂) 脚部/スチール●お客様組立●東証プライム(株)山善で扱うすべての山善商品は、自社もしくは第三者機関において、JIS規格に基づいた品質試験を行っております。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット"
+      ]
+    },
+    {
+      "asin": "B0D7VQHLTH",
+      "title": "[山善] ハイグレード天板 電動昇降デスク 昇降式 幅140×奥行70×高さ72.5-118.5cm 天板厚3.5cm 電源タップ付き 2モーター 静音 速い メモリー機能 衝突検知 耐荷重80kg ELD-FS(BK)/TUMT1400(SDGY) ブラック/ストーンダークグレー",
+      "url": "https://www.amazon.co.jp/dp/B0D7VQHLTH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D7VQHLTH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31ujaPOSxbL._SL500_.jpg",
+      "features": [
+        "[本体サイズ]幅140×奥行70×高さ72.5-118.5cm 重量47.5kg",
+        "[材質]天板：合成樹脂化粧パーティクルボード(メラミン樹脂)　脚部：スチール(粉体塗装)",
+        "[原産国]中国",
+        "R8A40"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット"
+      ]
+    },
+    {
+      "asin": "B0DJ2LGT83",
+      "title": "山善(YAMAZEN) 昇降デスク 電動 昇降式デスク 一枚板 スタンディングデスク 上下昇降 pc ゲーミングデスク テレワーク メモリー機能 衝突検知 120×70×57-117cm 耐荷重80kg 組立品 ブラック/マットブラック EHD-1270(BK/MBK)",
+      "url": "https://www.amazon.co.jp/dp/B0DJ2LGT83?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DJ2LGT83?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31MSjYXlBHL._SL500_.jpg",
+      "features": [
+        "【昇降が安定する2モーター】2モータータイプなので静かでスピーディーに昇降できるデスクです。57-117㎝まで無段階に高さ調節が可能なので、お子さまや小柄な方にもちょうどよい高さでお使いいただけます。",
+        "【生活になじむ楕円形の脚】山善の昇降デスクシリーズに楕円形状の脚が登場！3段階式の脚でも揺れにくい構造で、安定性が向上しました。見た目が柔らかい印象で様々な空間にマッチするデザインに。",
+        "【高さメモリー機能付き】ワンタッチで設定した高さに昇降できるメモリー機能付きです。4つまで登録できるので、自分が座った/立った時の高さの登録や家族の分も登録できます。",
+        "【衝突検知機能付き】昇降中に障害物にぶつかった際、センサーが障害物を感知し動作をストップ。逆方向に約5cm戻ります。",
+        "【安心の日本設計】商品の企画・開発はすべて日本で行っています。安定性、水平力、強度、天板のたわみ率などの項目で、独自に厳しい基準を設け、第三者機関で品質試験を実施しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット"
+      ]
+    },
+    {
+      "asin": "B0B7M45GNX",
+      "title": "[山善] 電動昇降デスク L字 右天板 昇降式 幅140×奥行100×高さ71-117cm スタンディングデスク 2モーター 静音 速い 安定昇降 メモリー機能 衝突検知 耐荷重80kg ELD-FS(MWH)/TRC1410(WN) ホワイト/ナチュラル(木目)",
+      "url": "https://www.amazon.co.jp/dp/B0B7M45GNX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B7M45GNX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21dQUTeH1dL._SL500_.jpg",
+      "features": [
+        "[本体サイズ]幅140×奥行100×高さ71-117cm",
+        "[材質]天板:合成樹脂化粧パーティクルボード(メラミン樹脂) 脚部:スチール(粉体塗装)",
+        "[原産国]中国"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "山善 電動昇降デスク ELD-1270 ELD-1470 天板セット"
+      ]
+    },
+    {
+      "asin": "B08BCSH2RV",
+      "title": "アイリスオーヤマ 昇降テーブル 電動 立ちテーブル可能 自分好みの高さに移動できる テレワーク推奨 幅120㎝ DST-1200 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B08BCSH2RV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08BCSH2RV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31feSaIzD6L._SL500_.jpg",
+      "features": [
+        "商品サイズ(cm)/製品サイズ:幅約120×奥行約70×高さ約72~120/天板サイズ:幅約120×奥行約60",
+        "耐荷重:約50kg※耐荷重は測定値であり、保証値ではありません。",
+        "主要材料/天板:メラミン化粧板/フレーム:スチール(粉体塗装)、モーター",
+        "最大速度:25mm/s 連続使用時間:連続使用2分、停止18分 定格入力電圧:AC100-240V",
+        "定格消費電力:150W 使用温度:0~40℃ 必要工具:+ドライバー、メジャー",
+        "組み立てる必要がありますか?はい",
+        "電池/バッテリーが必要な商品ですか?いいえ"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "アイリスオーヤマ 電動昇降テーブル DST-1200"
+      ]
+    },
+    {
+      "asin": "B09R7CGZBG",
+      "title": "アイリスオーヤマ 昇降式 テーブル 2WAY 110×60cm パソコンデスク センターテーブル ローテーブル 引出し収納 昇降テーブル STH-116 オーク",
+      "url": "https://www.amazon.co.jp/dp/B09R7CGZBG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09R7CGZBG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51dmyMG1CAL._SL500_.jpg",
+      "features": [
+        "原産国:中国",
+        "梱包サイズ:68×118×28cm"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "アイリスオーヤマ 電動昇降テーブル DST-1200"
+      ]
+    },
+    {
+      "asin": "B0DL57PFR8",
+      "title": "Alebert 昇降式デスク 電動 スタンディングデスク 幅160 x 奥行80cm オフィスワークテーブル 耐荷重80kg 上下自動昇降 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DL57PFR8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DL57PFR8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41qyqIrSsXL._SL500_.jpg",
+      "features": [
+        "【5万回昇降試験をクリアした超頑丈設計】Alebert昇降式デスクは、宇宙航空レベルの高強度コネクタを採用した特殊鋼製フレームを搭載。5万回に及ぶ過酷な昇降耐久試験を突破した確かな耐久性を実現しています。デスク全体をしっかりと固定する強化構造により、最大高さ（118cm）での使用時でも机のぐらつきを最小限に抑え、安定した作業環境を提供します。",
+        "【3つのメモリ機能で作業スタイルに最適化】デスクの高さを73cm（子供用）から118cm（立ち作業用）までシームレスに調整可 能。3つのプリセット高さを記憶できるインテリジェントメモリ機能を搭載しており、家族全員の身長や、座業・立業などの異なる作業スタイルにワンタッチで瞬時に対応。テレワークや長時間のPC作業による身体の負担を軽減します。",
+        "【強化モーター搭載で耐荷重80kg】最新型ハイパワーモーターと補強フレームにより、従来モデル比20%向上した80kgの耐荷重を実現。27インチディスプレイを設置しても、スムーズで静かな昇降動作を保証します。オフィスや自宅の重い作業機器にも安心してお使いいただけます。静音設計（動作音50dB以下）で夜間作業も気兼ねなく、スリムなデザインはどんなインテリアにもマッチ。",
+        "【低VOC塗装で家族と環境にやさしい】ホルムアルデヒドなどの有害揮発性有機化合物（VOC）を極限まで低減した塗装を採用。米国EPAおよびCARBの厳しい排出基準をクリアしており、お子様やペットがいるご家庭でも安心。室内空気質を損なわず、健康的なワークスペースを構築します。",
+        "【商品仕様·全商品一年保証付き】天板サイズ 160* 80cm；高さ昇降範囲 73-118cm；耐荷重 80kg；昇降速度 22mm/s；昇降音<50デシベル。Alebert全ての製品には1年間のメーカー保証が付いており、保証期間中には無償で交換や返金などのカスタマーサポートを提供しております。もしご組立中·ご使用中何かご質問などがございましたら、お気軽にお問合せ下さいませ。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "アイリスオーヤマ 電動昇降テーブル DST-1200"
+      ]
+    },
+    {
+      "asin": "B0CMTNM412",
+      "title": "Alebert 昇降式デスク 電動 スタンディングデスク 幅160 x 奥行80cm オフィスワークテーブル 耐荷重70kg 上下自動昇降 ベージュ",
+      "url": "https://www.amazon.co.jp/dp/B0CMTNM412?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CMTNM412?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41juF+eyBoL._SL500_.jpg",
+      "features": [
+        "【5万回昇降試験をクリアした超頑丈設計】Alebert昇降式デスクは、宇宙航空レベルの高強度コネクタを採用した特殊鋼製フレームを搭載。5万回に及ぶ過酷な昇降耐久試験を突破した確かな耐久性を実現しています。デスク全体をしっかりと固定する強化構造により、最大高さ（116cm）での使用時でも机のぐらつきを最小限に抑え、安定した作業環境を提供します。",
+        "【3つのメモリ機能で作業スタイルに最適化】デスクの高さを72cm（子供用）から116cm（立ち作業用）までシームレスに調整可能。3つのプリセット高さを記憶できるインテリジェントメモリ機能を搭載しており、家族全員の身長や、座業・立業などの異なる作業スタイルにワンタッチで瞬時に対応。テレワークや長時間のPC作業による身体の負担を軽減します。",
+        "【強化モーター搭載で耐荷重70kg】最新型ハイパワーモーターと補強フレームにより、従来モデル比20%向上した70kgの耐荷重を実現。27インチディスプレイを設置しても、スムーズで静かな昇降動作を保証します。オフィスや自宅の重い作業機器にも安心してお使いいただけます。静音設計（動作音50dB以下）で夜間作業も気兼ねなく、スリムなデザインはどんなインテリアにもマッチ。",
+        "【低VOC塗装で家族と環境にやさしい】ホルムアルデヒドなどの有害揮発性有機化合物（VOC）を極限まで低減した塗装を採用。米国EPAおよびCARBの厳しい排出基準をクリアしており、お子様やペットがいるご家庭でも安心。室内空気質を損なわず、健康的なワークスペースを構築します。",
+        "【商品仕様·全商品一年保証付き】天板サイズ 160* 80cm；高さ昇降範囲 72-116cm；耐荷重 70kg；昇降速度 22mm/s；昇降音<50デシベル。Alebert全ての製品には1年間のメーカー保証が付いており、保証期間中には無償で交換や返金などのカスタマーサポートを提供しております。もしご組立中·ご使用中何かご質問などがございましたら、お気軽にお問合せ下さいませ。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "アイリスオーヤマ 電動昇降テーブル DST-1200"
+      ]
+    },
+    {
+      "asin": "B08S3H3K1X",
+      "title": "アイリスオーヤマ 昇降デスク 幅120cm＋デスクサイドワゴン ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B08S3H3K1X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08S3H3K1X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31dKjcdIuqL._SL500_.jpg",
+      "features": [
+        "昇降デスクサイズ(cm):幅約120.0×奥行約58.9×高さ約59.0~80.0",
+        "昇降デスク質量:約17.99kg",
+        "高さ調整:3cmごと59cm~80cmで高さ調整可能",
+        "デスクサイドワゴンサイズ(cm):幅約32.0×奥行約59.4×高さ約90.0",
+        "耐荷重:天板約5kg、棚板/下段約15kg/中段・上段約5kg",
+        "組み立てる必要がある"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "アイリスオーヤマ 電動昇降テーブル DST-1200"
+      ]
+    },
+    {
+      "asin": "B09L4GDS25",
+      "title": "[山善] 電動昇降デスク スリム 昇降式 幅120×奥行50×高さ71-117cm スタンディングデスク 2モーター 静音 速い 安定昇降 メモリー機能 衝突検知 耐荷重80kg ELD-FS-S(MWH)/TS1250(WH) ホワイト/ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B09L4GDS25?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09L4GDS25?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41qfEODimCL._SL500_.jpg",
+      "features": [
+        "[本体サイズ]幅120×奥行50×高さ71-117cm　重量35.3kg",
+        "[本体サイズ]幅120×奥行50×高さ71-117cm　重量35.3kg",
+        "[材質]天板：合成樹脂化粧パーティクルボード(メラミン樹脂)、脚部：スチール(粉体塗装)",
+        "[原産国]中国",
+        "97829"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "アイリスオーヤマ 電動昇降テーブル DST-1200"
+      ]
+    },
+    {
+      "asin": "B0835CV2MG",
+      "title": "Bauhutte(バウヒュッテ) ベッドデスク 昇降式 BHD-1200BD-BK",
+      "url": "https://www.amazon.co.jp/dp/B0835CV2MG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0835CV2MG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31fLxKtjxeL._SL500_.jpg",
+      "features": [
+        "サイズ:幅120 × 奥行き50 × 高さ 63.5cm(63.5~90cm)",
+        "ベッドの足元にPCモニターを設置できるゲーミングデスクです。ベッドに常設しても邪魔になりにくいコの字形状の天板です。",
+        "【昇降機能】天板は、58.5~85cm(26.5cm幅)の範囲で昇降可能。使用しているベッドに合わせて、天板の高さを調節できます。",
+        "【カップ麺ホルダー】食べかけのカップ麺を、最大2個まで設置で可能。倒して布団にこぼすリスクに怯えることなく、しっかり腹ごしらえできます。",
+        "詳細やデスクレイアウトをブランド公式ページにて紹介しております。検索「バウヒュッテ」"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "アイリスオーヤマ 電動昇降テーブル DST-1200"
+      ]
+    },
+    {
+      "asin": "B0D7VSXSG3",
+      "title": "[山善] ハイグレード天板 電動昇降デスク 昇降式 幅120×奥行70×高さ72.5-118.5cm 天板厚3.5cm 電源タップ付き 2モーター 静音 速い メモリー機能 衝突検知 耐荷重80kg ELD-FS(MWH)/TUMT1200(SLGY) ホワイト/ストーンライトグレー",
+      "url": "https://www.amazon.co.jp/dp/B0D7VSXSG3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D7VSXSG3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21PaaMjMHaL._SL500_.jpg",
+      "features": [
+        "[本体サイズ]幅120×奥行70×高さ72.5-118.5cm 重量43.5kg",
+        "[材質]天板：合成樹脂化粧パーティクルボード(メラミン樹脂)　脚部：スチール(粉体塗装)",
+        "[原産国]中国",
+        "R8A18"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "アイリスオーヤマ 電動昇降テーブル DST-1200"
+      ]
+    },
+    {
+      "asin": "B09Y5DKF6V",
+      "title": "コクヨ スタンジットダブル 電動昇降デスク 天板115×67.5cm 天板木目 DSW-TK1207SA1-6AT11 (お客様組立 2梱包)",
+      "url": "https://www.amazon.co.jp/dp/B09Y5DKF6V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09Y5DKF6V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31JUTJbf6xL._SL500_.jpg",
+      "features": [
+        "【商品特徴】電動昇降デスクのエントリーモデル。安心の国内生産品です。安定性に加え、指はさみ防止など安全に配慮した設計です。",
+        "【商品サイズ・重量】外寸法／幅117.5(天板幅115+スペーサー2.5)×奥行70×高さ66.5～126.5cm 質量／39.6kg 【個口数】2個",
+        "【機能】電動上下昇降機能、高さメモリー機能付き(2つ)、リマインダー機能付き、障害物検知機能付き、アジャスター調節(調整範囲8mm)",
+        "【保証】最大3年の保証。詳しくはJOIFA顧客対応ガイドラインをご確認下さい。【組立方法】お客様組立 組立人数／2人(推奨) 組立時間 組立時間目安／25分",
+        "【型番・タイプ・カラー】DSW-TK1207SA1-6AT11 テーブル ナチュラルオーク／ブラック"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "アイリスオーヤマ 電動昇降テーブル DST-1200"
+      ]
+    },
+    {
+      "asin": "B071DFVCTK",
+      "title": "Bauhutte (バウヒュッテ) 昇降式 スタンディングデスク ホワイト (幅100cm×奥行45cm) BHD-1000H-WH",
+      "url": "https://www.amazon.co.jp/dp/B071DFVCTK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B071DFVCTK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31w-YK3qrTL._SL500_.jpg",
+      "features": [
+        "サイズ:幅 100 × 奥行き 45 × 高さ 75.5~117.5 cm / 本体重量:約17.5kg",
+        "【身長に合わせて高さが調節できるスタンディングデスク】対象身長:119 ~ 184 cm(立ち姿勢)/ 天板高さ:75.5 ~ 117.5cm / キーボードスライダー高さ:66.2 ~ 108.2 cm 無段階での高さ調節が可能です。",
+        "【自然と正しい立ち姿勢に】身長にあった高さのデスクを用いることで、自然と背筋が伸び、正しい立ち姿勢をとることが出来ます。【座り姿勢対応】一般的な事務デスクと同じ高さ(70cm)まで下げることができます。【高さ調整メモリ】左右を水平に昇降できます。【昇降ロックレバー】昇降時、天板が急に落下することを防止します。※昇降時はロックレバーを押した状態で昇降させてください。",
+        "【キーボードスライダー】スライダーにより、デスク奥行きを72.5cmまで拡張できます。【ぐらつきを防止する設計】横揺れ防止クロスバー。脚部のグラつきを抑える底板。デスクの安定性を強化する背部パイプ。安定した設置を可能にする水平調整アジャスター。【パンチングボード】電源タップやケーブルなどの固定に。",
+        "詳細やより多くの製品画像、「身長別のデスクの高さ自動計算」などをブランド公式ページにて紹介しております。検索「バウヒュッテ」"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H"
+      ]
+    },
+    {
+      "asin": "B082F7B2QB",
+      "title": "Bauhutte(バウヒュッテ) スタンディングデスク 昇降式 (幅120×奥行き45cm) 木目 BHD-1200H-WD",
+      "url": "https://www.amazon.co.jp/dp/B082F7B2QB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B082F7B2QB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41d+AzDy7lL._SL500_.jpg",
+      "features": [
+        "本体サイズ:幅120×奥行き45×高さ75.5cm(75.5~117.5cm)",
+        "レバー操作で約42cmの高さ調節ができるスタンディングデスクです。身長や用途に合わせて高さの調節が可能です。",
+        "【グラつきのない構造】天板のグラつきを抑える背部パイプ、安全性を補強するクロスバー、天板の水平調整ができる高さ調整ネジ、脚部のグラつきを抑える底板",
+        "【キーボードスライダー】パソコン画面からの距離を十分に確保することで、目の負担軽減が期待できます。",
+        "詳細はメーカー公式ページにてご確認ください。検索「バウヒュッテ」"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H"
+      ]
+    },
+    {
+      "asin": "B082F7LZ7S",
+      "title": "Bauhutte(バウヒュッテ) スタンディングデスク 昇降式 (幅100×奥行き45cm) 木目 BHD-1000H-WD",
+      "url": "https://www.amazon.co.jp/dp/B082F7LZ7S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B082F7LZ7S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41RvnhbiTiL._SL500_.jpg",
+      "features": [
+        "本体サイズ:幅100×奥行き45×高さ75.5cm(75.5~117.5cm)",
+        "レバー操作で約42cmの高さ調節ができるスタンディングデスクです。身長や用途に合わせて高さの調節が可能です。",
+        "【グラつきのない構造】天板のグラつきを抑える背部パイプ、安全性を補強するクロスバー、天板の水平調整ができる高さ調整ネジ、脚部のグラつきを抑える底板",
+        "【キーボードスライダー】パソコン画面からの距離を十分に確保することで、目の負担軽減が期待できます。",
+        "詳細はメーカー公式ページにてご確認ください。検索「バウヒュッテ」"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H"
+      ]
+    },
+    {
+      "asin": "B07B9W56GM",
+      "title": "Bauhutte ( バウヒュッテ ) 昇降式 L字デスク タワー BHD-670T-BK ブラック",
+      "url": "https://www.amazon.co.jp/dp/B07B9W56GM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07B9W56GM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41MuB3P1RlL._SL500_.jpg",
+      "features": [
+        "デスクと並べて設置するだけで簡単にL字環境が構築できる、昇降式のCPUスタンドです。",
+        "タワータイプ:収納力を強化した、2段式構造を採用。スタンディングデスク環境にも対応します。",
+        "天板は無段階での高さ調節が可能です。メインデスクと高さを揃えて並べれば、作業スペースを拡張できます。",
+        "CPUスタンドとしても機能し、大切なPCを埃や衝撃から保護します。",
+        "サイズや用途によって選べる、全6タイプ展開。ゲーム環境やプレイスタイルにあわせてお選びいただけます。",
+        "詳細やより多くの画像をブランド公式サイトにて紹介しています。 検索 [ バウヒュッテ ]"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H"
+      ]
+    },
+    {
+      "asin": "B01IBOC62G",
+      "title": "Bauhutte( バウヒュッテ ) ゲーミングデスク 昇降式 PCデスク (幅 100 × 奥行 60 高さ 59~80 cm ) ブラック BHD-1000M",
+      "url": "https://www.amazon.co.jp/dp/B01IBOC62G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01IBOC62G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31AXDjapROL._SL500_.jpg",
+      "features": [
+        "【高さ調節ができる】身長やプレイスタイルに合わせて自由に高さを調整できる昇降式ゲーミングデスクです。高さ59~80cmの範囲で無段階の調節が可能。ロックレバー式で簡単に手動昇降ができます。",
+        "【グラつきを防止する4つのパーツ】背部パイプ、高さ調整ネジ、クロスバー、底板を搭載。地味ながらすごく大事なデスクの安定性を追求しました。",
+        "【身長に合わせて】身長に合わない高さのデスクで作業をしていると、姿勢が崩れて肩こりや腰痛の原因となることも。デスクを最適な高さに設定して、快適なゲーム環境を構築しましょう。",
+        "【シンプルな天板形状】モニターアームなどのクランプが固定しやすいシンプル設計。お好みに合わせてアイテムを追加し、機能性を拡張できます。",
+        "【日本国内のサポート体制】「日本語の説明書」と「1年間のメーカー保証」が付属します。万が一のサポート対応時も日本語で対応しますので心配ありません。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H"
+      ]
+    },
+    {
+      "asin": "B07NFDWZ6X",
+      "title": "Bauhutte ( バウヒュッテ )ゲーミングデスクHD ( 幅 120 × 奥行 55 高さ 59.5~81 cm ) 最適な高さに調節できる 耐荷重100kgのタフ仕様 身長やゲームスタイルに合わせて高さ調節 昇降デスク 大判マウスパッド付属 ブラック BHD-1200HDM-BK",
+      "url": "https://www.amazon.co.jp/dp/B07NFDWZ6X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07NFDWZ6X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31BX0FSepkS._SL500_.jpg",
+      "features": [
+        "本体サイズ:幅120cm × 奥行55cm × 高さ59.5cm(59.5~81cm)",
+        "タフ&スピーディーな天板昇降を実装した強化版ゲーミングデスク",
+        "天板耐荷重:100kg 通常モデルの40kgにくらべ大幅にアップ",
+        "天板厚:2.5cm 通常モデルより0.5cm厚みを増しています。",
+        "クイックリリース天板昇降。無断階かつスピーディーな昇降を実現。",
+        "360度画像にクロスバーが写っています。実際にはクロスバーがついていません。予めご了承ください。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H"
+      ]
+    },
+    {
+      "asin": "B071FSPSYV",
+      "title": "Bauhutte ( バウヒュッテ ) 昇降式 PCワゴン デスク横に並べられる パソコンラック PCラック ( 幅 32 × 奥行 67 高さ 57~78 cm ) 昇降式 L字デスク スタンダード ブラック BHD-670H-BK",
+      "url": "https://www.amazon.co.jp/dp/B071FSPSYV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B071FSPSYV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41tHKqXjWXL._SL500_.jpg",
+      "features": [
+        "デスクと並べて設置するだけで簡単にL字環境が構築できる、昇降式のCPUスタンドです。",
+        "スタンダードタイプ:一般的なミドルタワータイプのPCが収納できるサイズ感。コンパクトなL字デスク環境の構築に最適です。",
+        "天板は無段階での高さ調節が可能です。メインデスクと高さを揃えて並べれば、作業スペースを拡張できます。",
+        "CPUスタンドとしても機能し、大切なPCを埃や衝撃から保護します。",
+        "サイズや用途によって選べる、全6タイプ展開。ゲーム環境やプレイスタイルにあわせてお選びいただけます。",
+        "詳細やより多くの画像をブランド公式サイトにて紹介しています。 検索 [ バウヒュッテ ]"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H"
+      ]
+    },
+    {
+      "asin": "B0B31KQZ8Y",
+      "title": "Bauhutte ( バウヒュッテ ) 昇降式 スリムデスク スタンディングタイプ BHD-1200HSLM-BK(天板 幅120×奥行30cm ) スライダー",
+      "url": "https://www.amazon.co.jp/dp/B0B31KQZ8Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B31KQZ8Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/31RJinHhhqL._SL500_.jpg",
+      "features": [
+        "【設置はスリム、作業はワイドに】横幅120×奥行き30㎝のワイドかつスリムな昇降式スタンディングデスクです。大型デスクと同等の作業面積と、空間の邪魔にならない省スペース設計を実現しました。",
+        "【狭いお部屋でも本格デスク環境を】デュアルモニターにも対応する幅120cmワイドの天板を、奥行き30cmにスリム化。狭い部屋でもスタンディングデスクを無理なく導入できます。",
+        "【大型キーボードスライダーを搭載】ゆったりワイドな幅105cm大型スライダー付き。天板の奥行きを約20cm拡張し、奥行き50cmの大型デスクとして使用できます。",
+        "【高さ調整が可能】天板を床から74.5~117.5cm(スライダー:65.5~108.5cm)の高さで昇降できます。姿勢や体格に合わせて最適な高さに設定可能です。",
+        "【日本国内のサポート体制】 バウヒュッテは、日本のゲーミング家具ブランドです。万が一のサポート対応も、大阪本社の日本人スタッフが日本語で対応します。",
+        "組み立てる必要がある"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H"
+      ]
+    },
+    {
+      "asin": "B0CSS1X54R",
+      "title": "Bauhutte (バウヒュッテ) 昇降式 L字デスク ミドルタワーPC コンパクト BHD-550H-BK パソコンラック pcラック pcワゴン 袖机 pc 収納 キャスター付き 高さ調整 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CSS1X54R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CSS1X54R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/414xTlSG4uL._SL500_.jpg",
+      "features": [
+        "デスクと並べて設置するだけで簡単にL字環境が構築できる、昇降式のCPUスタンドです。",
+        "コンパクトタイプ:一般的なミドルタワーPCがぴったり収まる専用設計。バウヒュッテの昇降式デスクと同じ奥行き（55cm）の昇降天板を搭載しており、横に並べた際に天板を揃えて設置しやすくなりました。",
+        "天板は無段階での高さ調節が可能です。メインデスクと高さを揃えて並べれば、作業スペースを拡張できます。",
+        "CPUスタンドとしても機能し、大切なPCを埃や衝撃から保護します。",
+        "サイズや用途によって選べる、全6タイプ展開。ゲーム環境やプレイスタイルにあわせてお選びいただけます。",
+        "詳細やより多くの画像をブランド公式サイトにて紹介しています。 検索 [ バウヒュッテ ]"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H"
+      ]
+    },
+    {
+      "asin": "B071FSPSJ3",
+      "title": "Bauhutte ( バウヒュッテ ) 昇降式 L字デスク スタンダード パソコンラック pcラック ( 幅 32 × 奥行 67 高さ 57~78 cm ) ホワイト BHD-670H-WH",
+      "url": "https://www.amazon.co.jp/dp/B071FSPSJ3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B071FSPSJ3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41lIY8Xa9LL._SL500_.jpg",
+      "features": [
+        "デスクと並べて設置するだけで簡単にL字環境が構築できる、昇降式のCPUスタンドです。",
+        "スタンダードタイプ:一般的なミドルタワータイプのPCが収納できるサイズ感。コンパクトなL字デスク環境の構築に最適です。",
+        "天板は無段階での高さ調節が可能です。メインデスクと高さを揃えて並べれば、作業スペースを拡張できます。",
+        "CPUスタンドとしても機能し、大切なPCを埃や衝撃から保護します。",
+        "サイズや用途によって選べる、全5タイプ展開。ゲーム環境やプレイスタイルにあわせてお選びいただけます。",
+        "詳細やより多くの画像をブランド公式サイトにて紹介しています。 検索 [ バウヒュッテ ]"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "バウヒュッテ スタンディングデスク BHD-1000H BHD-1200H"
+      ]
+    }
+  ]
+}

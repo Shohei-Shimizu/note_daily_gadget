@@ -1,0 +1,457 @@
+- link "Amazonアソシエイト ツールバー":
+  - /url: https://affiliate.amazon.co.jp/home
+  - paragraph: Amazonアソシエイト
+  - heading "ツールバー" [level=2]
+- paragraph: カテゴリー
+- paragraph
+- paragraph: 販売手数料率
+- paragraph
+- paragraph:
+  - text: 【10/16(金)0時～】「プライム感謝祭」開催！10/13(火)からは先行セール。
+  - link "イベントページはこちら。":
+    - /url: https://www.amazon.co.jp/primeappreciation?ref=SiteStripe
+- button "リンク生成"
+- button "設定":
+- navigation "ショートカットメニュー":
+  - heading "次に移動" [level=2]
+  - list "次に移動":
+    - link "メインコンテンツ":
+      - /url: "#skippedLink"
+  - separator
+- banner:
+  - navigation "プライマリ":
+    - link "Amazon.co.jp Prime":
+      - /url: /ref=nav_logo
+      - generic: .co.jp
+    - link:
+      - /url: /ref=nav_logo_prime
+    - button "お届け先 清水 翔平さん 812-0893‌":
+      - generic: お届け先 清水 翔平さん
+      - generic: 812-0893‌
+    - search:
+      - generic: パソコン・周辺機器
+      - combobox "検索するカテゴリーを選択します。":
+        - option "すべてのカテゴリー"
+        - option "Amazon ふるさと納税"
+        - option "プライム感謝セール"
+        - option "Audibleオーディオブック"
+        - option "Amazon デバイス"
+        - option "Kindleストア"
+        - option "Prime Video"
+        - option "Alexaスキル"
+        - option "Amazon定期おトク便"
+        - option "デジタルミュージック"
+        - option "アプリ&ゲーム"
+        - option "本"
+        - option "洋書"
+        - option "音楽"
+        - option "クラシック"
+        - option "DVD"
+        - option "コンピューター&テレビゲーム"
+        - option "PCソフト"
+        - option "パソコン・周辺機器" [selected]
+        - option "エレクトロニクス&カメラ"
+        - option "文房具・オフィス用品"
+        - option "キッチン&家庭用品"
+        - option "ペット用品"
+        - option "ヘルスケア&パーソナルケア"
+        - option "ビューティー"
+        - option "食品・飲料・お酒"
+        - option "ベビー&マタニティ"
+        - option "ファッション"
+        - option "女性服、靴、ジュエリー"
+        - option "男性用服、靴、ジュエリー"
+        - option "ベビー服、靴、ジュエリー"
+        - option "玩具"
+        - option "ホビー"
+        - option "楽器"
+        - option "スポーツ&アウトドア"
+        - option "車＆バイク"
+        - option "DIY、工具、ガーデニング"
+        - option "大型家電"
+        - option "クレジットカード"
+        - option "ギフトカード"
+        - option "産業・研究開発用品"
+        - option "Amazonアウトレット"
+        - option "マルキョウ"
+        - option "Amazon Haul"
+        - option "Amazonインターナショナルダイレクト"
+      - searchbox "Amazon.co.jpを検索"
+      - generic "検索":
+        - button "検索"
+    - link "Amazon日本でのショッピングに使用する言語を選択します。現在の選択は日本語(JP)です。":
+      - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+      - img "日本"
+      - generic: JP
+    - link "清水翔平さん アカウント＆リスト":
+      - /url: https://www.amazon.co.jp/gp/css/homepage.html?ref_=nav_youraccount_btn
+      - generic: 清水翔平さん
+      - generic: アカウント＆リスト
+    - button "アカウントと購入品リストを展開"
+    - link "返品もこちら 注文履歴":
+      - /url: /gp/css/order-history?ref_=nav_orders_first
+      - generic: 返品もこちら
+      - generic: 注文履歴
+    - link "カート内の商品数：0":
+      - /url: /gp/cart/view.html?ref_=nav_cart
+      - generic: "0"
+      - generic: カート
+    - button "すべてのカテゴリーメニューを開く":
+      - generic: すべて
+    - button "Open Rufus panel":
+      - generic: Rufus
+    - list:
+      - link "Amazonポイント":
+        - /url: /Amazon%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/b/?ie=UTF8&node=2632478051&ref_=nav_cs_jppoints_rec
+      - link "ヘルプ":
+        - /url: /%E3%83%98%E3%83%AB%E3%83%97/b/?ie=UTF8&node=642938&ref_=nav_cs_help_wt_t2
+      - link "ふるさと納税":
+        - /url: /fmc/furusato?ref_=nav_cs_tatsumi_discobar
+      - link "プチプラHaul":
+        - /url: /haul/store?ref_=nav_cs_hul_disb
+      - link "Prime Video":
+        - /url: /gp/video/storefront?ref_=nav_cs_prime_video
+      - link "本":
+        - /url: /%E6%9C%AC-%E6%9B%B8%E7%B1%8D-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=465392&ref_=nav_cs_books
+      - link "Kindle本":
+        - /url: /Kindle-%E3%82%AD%E3%83%B3%E3%83%89%E3%83%AB-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D/b/?ie=UTF8&node=2275256051&ref_=nav_cs_kindle_books
+      - link "ランキング":
+        - /url: /ranking?type=top-sellers&ref_=nav_cs_bestsellers
+      - link "タイムセール":
+        - /url: /gp/goldbox?ref_=nav_cs_gb
+      - link "クーポン":
+        - /url: /coupons?ref_=nav_cs_coupons
+      - link "Amazon Basics":
+        - /url: /amazon_basic?ref_=nav_cs_amazonbasics
+      - link "定期おトク便":
+        - /url: /auto-deliveries?ref_=nav_cs_sns
+      - link "マルキョウ":
+        - /url: /alm/storefront?almBrandId=qg6iObTGYS&ref_=nav_cs_maruk
+      - link "食品＆飲料":
+        - /url: /%E9%A3%9F%E5%93%81-%E9%A3%B2%E6%96%99-%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84-%E3%81%8A%E8%8F%93%E5%AD%90-%E9%85%92/b/?ie=UTF8&node=57239051&ref_=nav_cs_grocery
+      - link "閲覧履歴":
+        - /url: /gp/history?ref_=nav_cs_timeline
+      - link "ギフトカード":
+        - /url: /%E3%82%AE%E3%83%95%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/b/?ie=UTF8&node=2351652051&ref_=nav_cs_gc
+      - button "ギフトカード詳細"
+      - link "再び購入":
+        - /url: /gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again
+      - link "ショッピングを続ける":
+        - /url: /hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db
+      - link "Amazonビジネス":
+        - /url: /business/register/org/landing?ref_=nav_cs_business_flyout
+      - button "Amazonビジネス詳細"
+      - link "ミュージック":
+        - /url: /music/player?ref_=nav_cs_music
+      - link "プライム":
+        - /url: /prime?ref_=nav_cs_primelink_member
+      - button "プライム詳細"
+      - link "新着商品":
+        - /url: /ranking?type=new-releases&ref_=nav_cs_newreleases
+      - link "パソコン・周辺機器":
+        - /url: /PC%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2127209051&ref_=nav_cs_pc
+      - link "DIY・工具":
+        - /url: /DIY%E3%83%BB%E5%B7%A5%E5%85%B7-%E5%A4%A7%E5%B7%A5%E9%81%93%E5%85%B7-%E4%BD%9C%E6%A5%AD%E7%94%A8%E5%93%81%E3%83%BB%E5%AE%89%E5%85%A8%E7%94%A8%E5%93%81-%E9%9B%BB%E5%8B%95%E3%83%BB%E4%BD%9C%E6%A5%AD%E5%B7%A5%E5%85%B7-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2/b/?ie=UTF8&node=2016929051&ref_=nav_cs_hi
+      - link "ベビー&マタニティ":
+        - /url: /%E3%83%99%E3%83%93%E3%83%BC%E7%94%A8%E5%93%81-%E9%80%9A%E8%B2%A9-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E4%BA%BA%E6%B0%97-%E3%82%BB%E3%83%BC%E3%83%AB/b/?ie=UTF8&node=344845011&ref_=nav_cs_baby
+      - link "おもちゃ&ホビー":
+        - /url: /%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=13299531&ref_=nav_cs_toys
+      - link "Amazonファッション":
+        - /url: /%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/b/?ie=UTF8&node=2229202051&ref_=nav_cs_fashion
+      - link "ホーム&キッチン":
+        - /url: /%E3%83%9B%E3%83%BC%E3%83%A0-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%B6%88%E8%80%97%E5%93%81%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E7%94%9F%E6%B4%BB%E9%9B%91%E8%B2%A8/b/?ie=UTF8&node=3828871&ref_=nav_cs_home_kitchen
+      - link "ペットフード・ペット用品":
+        - /url: /%E3%83%9A%E3%83%83%E3%83%88%E3%83%95%E3%83%BC%E3%83%89-%E3%83%9A%E3%83%83%E3%83%88%E7%94%A8%E5%93%81/b/?ie=UTF8&node=2127212051&ref_=nav_cs_pets
+      - link "エクスプレスマート":
+        - /url: /gp/browse.html?node=203868164051&ref_=nav_cs_EE
+    - link "tatsu_gw_swm":
+      - /url: /fmc/furusato/special/furusatomatsuri_week/?_encoding=UTF8&ref_=nav_swm_tatsu_gw_swm&pf_rd_p=2dcadfba-8f5d-414e-b1bd-61e9b6078a9d&pf_rd_s=nav-sitewide-msg&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A1VC38T7YXB528&pf_rd_r=DCD8APWVJ0M8G91T2Z5R
+      - img "tatsu_gw_swm"
+    - link "パソコン・周辺機器":
+      - /url: /PC%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2127209051&ref_=topnav_storetab_computers
+    - link "セール＆キャンペーン":
+      - /url: /%E3%83%90%E3%83%BC%E3%82%B2%E3%83%B3-PC%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8%E3%83%90%E3%83%BC%E3%82%B2%E3%83%B3-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2152610051&ref_=sv_computers_1
+    - link "パソコン":
+      - /url: /%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/b/?ie=UTF8&node=2188762051&ref_=sv_computers_2
+    - link "タブレット":
+      - /url: /%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/b/?ie=UTF8&node=2152014051&ref_=sv_computers_3
+    - link "アクセサリ・サプライ":
+      - /url: /PC%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2151826051&ref_=sv_computers_4
+    - link "PCパーツ":
+      - /url: /PC%E3%83%91%E3%83%BC%E3%83%84-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%83%91%E3%83%BC%E3%83%84-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2151901051&ref_=sv_computers_5
+    - link "プリンタ・インク":
+      - /url: /%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2188763051&ref_=sv_computers_6
+    - link "ネットワーク":
+      - /url: /%E7%84%A1%E7%B7%9ALAN-%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC-WiFi-%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2151984051&ref_=sv_computers_7
+    - link "外付けHDD":
+      - /url: /%E5%A4%96%E4%BB%98%E3%81%91%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2151950051&ref_=sv_computers_8
+    - link "ディスプレイ":
+      - /url: /%E3%83%A2%E3%83%8B%E3%82%BF-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4-%E6%B6%B2%E6%99%B6-LCD-CRT-IPS-TN-VA-HD-4K-5K-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2151982051&ref_=sv_computers_9
+    - link "Amazonランキング":
+      - /url: http://www.amazon.co.jp/gp/bestsellers/computers/?ie=UTF8&ref_=sv_computers_10
+    - link "Amazonビジネス":
+      - /url: /business/register/org/landing/?_encoding=UTF8&ref=ab_reg_jp_subnav_pc_d_0623_T1&ref_=sv_computers_11
+    - dialog
+- main:
+  - link "日本の中小企業応援ストア":
+    - /url: /b/?_encoding=UTF8&node=25124721051&pd_rd_w=t0dlP&content-id=amzn1.sym.019ce544-811b-4b60-940b-2ce514fd2629&pf_rd_p=019ce544-811b-4b60-940b-2ce514fd2629&pf_rd_r=DCD8APWVJ0M8G91T2Z5R&pd_rd_wg=obBdI&pd_rd_r=fcc1d5ae-3c9a-49ac-a566-c9b611896aec
+    - img "日本の中小企業応援ストア"
+  - list:
+    - link "パソコン・周辺機器":
+      - /url: /PC%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E9%80%9A%E8%B2%A9/b/ref=dp_bc_1?ie=UTF8&node=2127209051
+    - listitem: ›
+    - link "外付けドライブ・ストレージ":
+      - /url: /%E5%A4%96%E4%BB%98%E3%81%91%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8-%E9%80%9A%E8%B2%A9/b/ref=dp_bc_2?ie=UTF8&node=2151950051
+    - listitem: ›
+    - link "外付メモリカードリーダー":
+      - /url: /%E5%A4%96%E4%BB%98%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-%E9%80%9A%E8%B2%A9/b/ref=dp_bc_3?ie=UTF8&node=2151953051
+  - generic: ￥1,148
+  - generic: ￥1,148
+  - text: 税込
+  - text: "ポイント: 103pt (9%)"
+  - link "詳細はこちら":
+    - /url: /gp/help/customer/display.html?nodeId=200041560&pop-up=1
+  - img "prime"
+  - text: 翌日
+  - text: 無料配送 明日 10月11日にお届け （11 時間 2 分以内にご注文の場合）
+  - link "配送料と配送方法の詳細":
+    - /url: /gp/help/customer/display.html/?nodeId=201911210
+    - text: 詳細を見る
+  - button "清水 翔平 - 812-0893‌ にお届け":
+    - generic: 清水 翔平 - 812-0893‌ にお届け
+  - text: 在庫あり。
+  - link "在庫状況":
+    - /url: /gp/help/customer/display.html?&nodeId=201910280
+  - text: について
+  - generic: "数量:"
+  - combobox "数量:":
+    - option "1" [selected]
+    - option "2"
+    - option "3"
+    - option "4"
+    - option "5"
+    - option "6"
+    - option "7"
+    - option "8"
+    - option "9"
+    - option "10"
+    - option "11"
+    - option "12"
+    - option "13"
+    - option "14"
+    - option "15"
+    - option "16"
+    - option "17"
+    - option "18"
+    - option "19"
+    - option "20"
+    - option "21"
+    - option "22"
+    - option "23"
+    - option "24"
+    - option "25"
+    - option "26"
+    - option "27"
+    - option "28"
+    - option "29"
+    - option "30"
+  - generic: 数量:1
+  - button "カートに入れる"
+  - generic: カートに入れる
+  - button "今すぐ買う"
+  - generic: 今すぐ買う
+  - group "出品者、配送、購入オプションの詳細":
+    - heading "出荷元" [level=4]:
+      - generic: 出荷元
+    - generic: Amazon
+    - heading "販売元" [level=4]:
+      - generic: 販売元
+    - link "Ugreen Japan Co., Ltd":
+      - /url: /gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A9R64JPBW6UFH&asin=B07D1J88CF&ref_=dp_merchant_link&isAmazonFulfilled=1
+    - generic: （91293件の評価）
+    - heading "カスタマーサービス" [level=4]:
+      - generic: カスタマーサービス
+    - button "Amazon":
+      - generic: Amazon
+    - heading "ギフトオプション" [level=4]:
+      - generic: ギフトオプション
+    - button "レジで利用可能":
+      - generic: レジで利用可能
+  - button "すべて見る": すべて見る
+  - separator
+  - button "リストに追加"
+  - generic: リストに追加
+  - button "ドロップダウンからリストを選択する"
+  - generic: Amazonの他の出品者
+  - separator
+  - button "新品＆中古品 (2)件の出品： ￥1,148 prime 無料翌日配達":
+    - text: 新品＆中古品 (2)件の出品：
+    - generic: ￥1,148
+    - generic: ￥1,148
+    - img "prime"
+    - text: 無料翌日配達
+  - generic: 法人価格で、この商品が最大17%お得に。
+  - link "無料アカウントを作成する":
+    - /url: /business/register/org/landing?ref_=ab_reg_bioab_qd_c&returnToUrl=%2Fdp%2FB07D1J88CF%3FregistrationStatus%3DREGISTERED&client=abupsell&bioab_in_context_reg=1
+  - radiogroup "画像サムネイル":
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image, 4+ その他の画像が対応可能 4+":
+      - img "Product Image, 4+ その他の画像が対応可能"
+      - generic: 4+
+    - radio "Product Video":
+      - img "Product Video"
+    - generic: ビデオ
+  - list
+  - list:
+    - button "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 | SD/SDHC/SDXC/RS-MMC/MMC/Micro SD/Micro SDHC/Micro SDXC/UHS-Iカードに対応、スマホ タブレット MacBook Windows PCに適用":
+      - img "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 | SD/SDHC/SDXC/RS-MMC/MMC/Micro SD/Micro SDHC/Micro SDXC/UHS-Iカードに対応、スマホ タブレット MacBook Windows PCに適用"
+  - link "クリックしてフルビューを表示する":
+    - /url: "#"
+  - heading "Rufusに尋ねる" [level=5]:
+    - text: Rufusに尋ねる
+  - list:
+    - button "スマホでも使えますか？":
+      - generic: スマホでも使えますか？
+    - button "Windows PCに対応していますか？":
+      - generic: Windows PCに対応していますか？
+    - button "MacBookでも使えますか？":
+      - generic: MacBookでも使えますか？
+    - button "他のことを聞いてください":
+      - generic: 他のことを聞いてください
+  - button
+  - heading "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応" [level=1]
+  - generic: SD/SDHC/SDXC/RS-MMC/MMC/Micro SD/Micro SDHC/Micro SDXC/UHS-Iカードに対応、スマホ タブレット MacBook Windows PCに適用
+  - link "UGREENのストアを表示":
+    - /url: /stores/UGREEN/page/B7ACD7FE-CDC4-4ABA-8DBE-DF0EF9241609?lp_asin=B07D1J88CF&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto
+  - generic "5つ星のうち4.2":
+    - button "5つ星のうち4.2":
+      - text: "4.2"
+      - generic: 5つ星のうち4.2
+  - link "23,764 レビュー":
+    - /url: "#averageCustomerReviewsAnchor"
+    - text: (23,764)
+  - text: "|"
+  - link "このページを検索":
+    - /url: "#"
+  - generic: Amazon おすすめ
+  - button "カーボンインパクト"
+  - generic: 過去1か月で3000点以上購入されました
+  - separator
+  - generic: 15パーセントの割引で￥1,148
+  - generic: "-15%"
+  - generic: ￥1,148
+  - text: 税込
+  - generic: "参考価格: ￥1,350"
+  - text: "参考価格:"
+  - generic: ￥1,350
+  - text: ￥1,350
+  - link "Amazonの価格設定と割引について、詳しくはこちら":
+    - /url: "#"
+    - img "Amazonの価格設定と割引について、詳しくはこちら"
+  - link "価格履歴":
+    - /url: "#"
+  - img "prime"
+  - text: 翌日
+  - text: "ポイント: 103pt (9%)"
+  - link "詳細はこちら":
+    - /url: /gp/help/customer/display.html?nodeId=200041560&pop-up=1
+  - table
+  - button "エントリー済み" [disabled]
+  - generic: エントリー済み
+  - text: "まとめトク: 5点以上まとめ買いで1%ポイント還元"
+  - link "買い物をする":
+    - /url: /b?node=222421060051&ref_=mtk_jp_dp_badge&source=dp_cxcw
+  - button "dアカウント連携者限定" [disabled]
+  - generic: dアカウント連携者限定
+  - text: "[プライム感謝祭] dポイントを使うと最大10万ポイントが当たる"
+  - link "エントリーをする":
+    - /url: /b/?node=221362476051&ref_=jp_d_bbrlp_dpbadge_baseoffer_pas26&source=dp_cxcw
+  - button "入会キャンペーン" [disabled]
+  - generic: 入会キャンペーン
+  - text: Amazon Mastercard 新規入会 + 初回利用で4,000ポイント
+  - link "今すぐ申し込む >":
+    - /url: /dp/B08P4CFBK6?ref_=cbcc_jp_202610_janus_pas26&source=dp_cxcw
+  - link "法人価格で最大17%割引となります。無料のビジネスアカウントに登録する":
+    - /url: /business/register/org/landing?ref_=acq_ab_reg&returnToUrl=%2Fdp%2FB07D1J88CF%3FregistrationStatus%3DREGISTERED&client=abupsell
+  - button "Amazonによる発送"
+  - button "安心・安全への取り組み"
+  - button "お客様情報の保護"
+  - generic "選択された色はSD3.0対応・グレーです。 タップして部分表示します。":
+    - generic: "色: SD3.0対応・グレー"
+  - generic "2のオプションがあります。":
+    - group "色の選択ができます":
+      - radiogroup:
+        - radio "SD3.0対応・グレー 15パーセントの割引で￥1,148 ￥1,148 ￥1,350 ￥1,350 在庫あり。 プライムロゴ 無料配送 明日 明日" [checked]
+        - separator
+        - generic: 15パーセントの割引で￥1,148
+        - generic: ￥1,148
+        - generic: ￥1,350
+        - text: ￥1,350
+        - generic: 無料配送 明日
+        - radio "SD4.0対応・ブラック ￥2,599 ￥2,599 残り12点 ご注文はお早めに プライムロゴ 無料配送 明日 明日"
+        - separator
+        - generic: ￥2,599
+        - generic: ￥2,599
+        - generic: 無料配送 明日
+        - link:
+          - /url: /dp/B0DP9QKGY7/ref=twister_B0HJ5N2FXX?_encoding=UTF8&psc=1
+      - navigation
+  - list:
+    - rowgroup:
+      - listitem: ブランド UGREEN
+      - listitem: メディアタイプ Micro SDHC, Micro SDXC, MicroSD, SDHC, SDXC
+      - listitem: 接続技術 USB Type C
+      - listitem: 特徴 プラグ＆プレイ
+      - listitem: 色 SD3.0対応・グレー
+  - separator
+  - heading "この商品について" [level=2]
+  - list:
+    - listitem: USB-C OTG機能に対応したAndroidスマホ タブレット、iPad Pro 2018 11インチ 12.9インチ、Windows PCに汎用できる多機能SDカードリーダーです。これ一台で簡単に写真や動画等のデータを移動や保存できます。
+    - listitem: USB3.0対応、2.0より約10倍速く転送できます。1GBのフォトアルバムやドラマ、映画などを数秒で高速転送可能です。2カードスロットを拡張し、同時に読み書きできます。
+    - listitem: 2TBまでの大容量カードに対応します。SD,SDHC,SDXC,RS-MMC,MMC,Micro SD,Micro SDHC,Micro SDXC，UHS-Iなどのデジカメに、スマホに使用されている多彩なメディアカードにサポートします。
+    - listitem: マルチシステム対応のメモリカードリーダです。MacBook、iMac、Windows PC両対応、USB-C OTG機能に対応したAndroidスマホ タブレットにも対応します。ドライバ不要、挿すだけで認識可能です。
+    - listitem: USBコネクタを埃、液体、傷から保護できるキャップが付いて、カバンやポケットに入れても傷つけません。紛失を避けるためのキーチェーンラインに繋げるデザイン、持ち運びと収納が楽で使い易いです。
+  - text: ›
+  - link "もっと見る":
+    - /url: "#productDetails"
+  - button "サステナブルな特徴":
+    - heading "サステナブルな特徴" [level=5]:
+      - generic: サステナブルな特徴
+  - region "サステナブルな特徴"
+  - link "この商品に関する問題を報告する":
+    - /url: javascript:void(0)
+  - separator
+  - heading "この商品には新しいモデルがあります:" [level=2]
+  - link "UGREEN sdカードリーダー 収納型カードリーダー 4枚カード収納可+2枚同時読み取り USB-C USB3.1 カード紛失防止 カード管理 | 高速転送 5Gbps SD/microSD/TF/SDHC/SDXCなど SD/TF メモリーカードリーダー カードリーダーケース 耐衝撃 OTG対応 ドライバ不要 sdカードリーダー ケース付き":
+    - /url: /UGREEN-sd-E3-82-AB-E3-83-BC-E3-83-89-E3-83-AA-E3-83-BC-E3-83-80-E3-83-BC-E5-8F-8E-E7-B4-8D-E5-9E-8/dp/B0DRNX9MMZ/ref=dp_ob_image_ce
+    - img "UGREEN sdカードリーダー 収納型カードリーダー 4枚カード収納可+2枚同時読み取り USB-C USB3.1 カード紛失防止 カード管理 | 高速転送 5Gbps SD/microSD/TF/SDHC/SDXCなど SD/TF メモリーカードリーダー カードリーダーケース 耐衝撃 OTG対応 ドライバ不要 sdカードリーダー ケース付き"
+  - link "UGREEN sdカードリーダー 収納型カードリーダー 4枚カード収納可+2枚同時読み取り USB-C USB3.1 カード紛失防止 カード管理 | 高速転送 5Gbps SD/microSD/TF/SDHC/SDXCなど SD/TF メモリーカードリーダー カードリーダーケース 耐衝撃 OTG対応 ドライバ不要 sdカードリーダー ケース付き":
+    - /url: /UGREEN-sd-E3-82-AB-E3-83-BC-E3-83-89-E3-83-AA-E3-83-BC-E3-83-80-E3-83-BC-E5-8F-8E-E7-B4-8D-E5-9E-8/dp/B0DRNX9MMZ/ref=dp_ob_title_ce
+  - text: ￥2,490
+  - link "星5つのうち4.5つ星":
+    - /url: /product-reviews/B0DRNX9MMZ/ref=dp_ob_custreviews_ce_cm_cr_acr_img?showViewpoints=1
+  - link "984この商品のカスタマーレビュー":
+    - /url: /product-reviews/B0DRNX9MMZ/ref=dp_ob_custreviews_ce_cm_cr_acr_txt?showViewpoints=1
+    - text: (984)
+  - text: 在庫あり。
+  - generic: "Amazon.co.jp マーケットプレイスアワード2025:"
+  - link "Amazon.co.jp マーケットプレイスアワード2025":
+    - /url: /b/?ie=UTF8&node=206875745051&ref_=ama26pa
+    - img "Amazon.co.jp マーケットプレイスアワード2025"
+  - separator
+  - link:
+    - /url: /b/ref=jpmsanker?_encoding=UTF8&node=216440012051&pf_rd_p=a7d10763-1ae0-44ea-a17d-29b661326925&pf_rd_r=DCD8APWVJ0M8G91T2Z5R
+  - generic: ガジェット特集
+  - text: モバイルバッテリーからイヤホン、ロボット掃除機やプロジェクターなど幅広くご紹介します。
+  - link "ガジェット特集":
+    - /url: /b/ref=jpmsanker?_encoding=UTF8&node=216440012051&pf_rd_p=a7d10763-1ae0-44ea-a17d-29b661326925&pf_rd_r=DCD8APWVJ0M8G91T2Z5R
+    - text: 特集ストアはこちら

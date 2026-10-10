@@ -1,0 +1,33 @@
+📦 候補読み込み: 5 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_smart_ring_candidates.json)
+🔎 実測: 5 件の ASIN を Amazon 商品ページから取得します...
+  [1/5] B0D9WT1S2T review=3348 star=4.2 stock=in_stock OK
+  [2/5] B0F59W7RGH review=119 star=3.6 stock=in_stock OK
+  [3/5] B0H4RH1L21 review=69 star=4.6 stock=in_stock OK
+  [4/5] B0DJNVNVP2 review=43 star=3.6 stock=in_stock OK
+  [5/5] B0DG2QKMFX review=5792 star=4.0 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=5 succeeded=5 failed=0 / run累積 attempted=246 succeeded=246 failed=0) product新規=0 product更新=5 metric行=5 verification行=5
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 5 / 5
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier3 / 緩和: あり
+採用件数: 5
+
+-- 採用 --
+1. [Tier1] RingConn / B0DG2QKMFX / review=5792 star=4.0 
+   RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリー持続最長12日、睡眠・心拍・ストレ
+2. [Tier1] Oura / B0D9WT1S2T / review=3348 star=4.2 
+   Oura Ring 第4世代 スマートリング – シルバー – サイズ10 |iPhone/Android対応 |まずはサイズ確認:専用サイ
+3. [Tier2] SOXAI / B0F59W7RGH / review=119 star=3.6 
+   SOXAI RING 1.1 日本製スマートリング ソクサイリング 健康管理 睡眠管理 メーカー保証1年 歩数計 100m防水 チタン製 サ
+4. [Tier3] SOXAI / B0H4RH1L21 / review=69 star=4.6 
+   SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリー メーカー保証1年 歩数計 100
+5. [Tier3] Amazfit / B0DJNVNVP2 / review=43 star=3.6 
+   Amazfit Helio Ring スマートリング 軽量 チタン合金 回復分析 健康管理 睡眠 心拍 ストレス 4つのスポーツモード 10
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 0 件 --
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-14_指先で記録を振り返る。スマートリング.md

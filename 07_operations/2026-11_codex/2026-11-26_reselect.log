@@ -1,0 +1,36 @@
+🚫 --exclude-asin により 2 件を選抜対象から外しました: B07ZP8D717, B0DJLZMYR4
+📦 候補読み込み: 11 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-26_translator_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 9 / 11
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier3 / 緩和: あり
+採用件数: 8
+
+-- 採用 --
+1. [Tier2] Vasco / B0B7SBVGP6 / review=1986 star=3.9 
+   Vasco Translator V4 | 音声翻訳機 | 108言語、約200の 国と地域に対応 | 通信料永久無料・買い替え不要
+2. [Tier3] POCKETALK / B07ZP695PB / review=252 star=3.1 
+   AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付92言語以上対応 ブラック PTSGK
+3. [Tier2] POCKETALK / B07ZP5CH8P / review=172 star=3.6 
+   AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付70言語以上対応 ホワイト PTSWW
+4. [Tier2] Vasco / B0FQPF59WR / review=142 star=4.4 
+   Vasco Translator Q1 |ボイスクローニング技術搭載AI翻訳機 | 113言語に対応、約200の国と地域で繋がるデータ通信料
+5. [Tier2] Wooask / B0CT378Q1M / review=142 star=3.9 
+   Wooask W12 翻訳機 音声翻訳機 ウーアスク【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.5
+6. [Tier3] AUTOOSE / B0DHV75M4X / review=96 star=4.3 
+   AUTOOSE Z2 翻訳機 音声翻訳機【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.2秒翻訳 写真
+7. [Tier3] MUMEOMU / B0DQ6Y68F4 / review=66 star=4.2 
+   MUMEOMU Z8 AI翻訳機 283ヵ国137言語対応 音声翻訳機【オンライン翻訳＋オフライン翻訳＋カメラ翻訳＋録音翻訳＋リアルタイム翻
+8. [Tier3] AUTOOSE / B0FWQX4F4F / review=46 star=3.8 
+   AUTOOSE Z9 AI翻訳機 音声翻訳機 ChatGPT搭載【SIM不要/追加料金不要/オフライン翻訳対応】 携帯翻訳機 150言語対応
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 1 件 --
+  - [Tier3] POCKETALK / B08BP1912B: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 2 件 --
+  - B0H8YNT7NR / Timekettle New T1 AI翻訳機 52言語106アクセント・44組: Tier3未満のため除外（レビュー9件・星4.8）
+  - B0HF83LDBQ / iFLYTEK Smart Translator AI翻訳機 音声翻訳機 グロー: Tier3未満のため除外（レビュー28件・星4.6）
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-26_対面の会話を別の言語へ。「携帯翻訳機」.md

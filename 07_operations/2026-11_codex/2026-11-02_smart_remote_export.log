@@ -1,0 +1,20 @@
+
+候補 9 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B08P6ZSXWZ  Nature Remo    Nature Remo mini 2 ネイチャーリモ スマートリモコン 温度センサー搭載 お子様やペット [article_dated 2026-08-23]
+  B0C6V1CJB7  Nature Remo    【Echoから家電を音声操作】Nature Remo nano ネイチャーリモ スマートリモコン スマホ [measured 2026-09-11]
+  B08BLSLWH4  Nature         Nature Remo 3 ネイチャーリモ スマートリモコン 温湿度/照度/人感センサー搭載 スマートロ [article_dated 2026-06-22]
+  B0DSPXKDP8  スイッチボット        【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) A [measured 2026-08-26]
+  B0D3TSNWBG  Nature         Nature Remo Lapis ネイチャーリモ スマートリモコン 温湿度センサー搭載 エアコンの節電 [article_dated 2026-06-22]
+  B0DHKWGFNC  Nature         Nature Remo mini 2 ネイチャーリモ スマートリモコン 温度センサー搭載 お子様やペット [article_dated 2026-04-02]
+  B0FD2RTHHK  エジソンスマート       エジソンスマート 温度湿度センサー搭載 スマートリモコン Alexa対応 シーンスイッチ 赤外線リモコン [article_dated 2026-06-30]
+  B08BN8WSGZ  LinkJapan      【国内メーカー・国内サーバー】LinkJapan eRemote5+ スマートリモコン Alexa対応  [未実測]
+  B0B44WTLHT  ラトックシステム       smalia スマートリモコン [未実測]
+
+topic_id: daily_gadget_20261102_0ac93f1a
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-02_smart_remote_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-02_smart_remote_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

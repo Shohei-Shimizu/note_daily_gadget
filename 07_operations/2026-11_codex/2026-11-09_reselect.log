@@ -1,0 +1,45 @@
+🚫 --exclude-asin により 1 件を選抜対象から外しました: B091FS79T8
+📦 候補読み込み: 20 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_external_hdd_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 18 / 20
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 8
+
+-- 採用 --
+1. [Tier1] Western Digital / B06W55K9N6 / review=275151 star=4.2 ★有名ブランド
+   ウエスタンデジタル(Western Digital) WD ポータブルHDD 2TB USB3.0 ブラック WD Elements Por
+2. [Tier1] Western Digital / B07VTFN6HM / review=67590 star=4.1 ★有名ブランド
+   WD ポータブルHDD 2TB USB3.0 ブラック My Passport 暗号化 パスワード保護 外付けハードディスク / メーカー3
+3. [Tier1] UnionSine / B091FV14V9 / review=51809 star=4.0 
+   UnionSine 1TB 外付けハードディスク超薄型外付けHDDポータブルハードディスク 2.5インチ USB3.0 | に対応 PC/M
+4. [Tier1] バッファロー / B07BK6696F / review=50309 star=4.3 ★有名ブランド
+   Amazon限定 バッファロー 外付けHDD 4TB テレビ録画 nasne 対応 静音 日本製 HD-AD4U3
+5. [Tier1] Seagate / B08ZJG6TVT / review=33256 star=4.2 ★有名ブランド
+   Seagate Expansion 2.5インチ ポータブルHDD 2TB STKM2000400
+6. [Tier1] バッファロー / B07D7978NV / review=8309 star=4.2 ★有名ブランド
+   バッファロー ポータブルHDD 2TB USB3.1(Gen1)/USB3.0用 HD-PCFS2.0U3-BBA
+7. [Tier1] Aiolo / B0CF4SQY1X / review=4735 star=4.1 
+   AIOLO INNOVATION 500GB 外付け ハードディスク USB3.0超薄型ポータブル外付けHDD | ハードディスク- に対応
+8. [Tier1] ELECOM / B0BN8VZ22H / review=1411 star=4.2 ★有名ブランド
+   エレコム 外付けHDD ハードディスク ハイブリッドドライブ 6TB テレビ録画用/Mac/Windowsブラック ELD-HTV060UB
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 10 件 --
+  - [Tier3] バッファロー / B0BMKPT7VC: 多様性制約または件数上限のため非選抜
+  - [Tier2] アイオーデータ / B077Y87PPG: 多様性制約または件数上限のため非選抜
+  - [Tier1] バッファロー / B07D79GJ9J: 多様性制約または件数上限のため非選抜
+  - [Tier1] バッファロー / B07NWQW5LC: 多様性制約または件数上限のため非選抜
+  - [Tier2] バッファロー / B07TSYRWH7: 多様性制約または件数上限のため非選抜
+  - [Tier1] バッファロー / B092VCK3J8: 多様性制約または件数上限のため非選抜
+  - [Tier1] バッファロー / B09FJTYT4N: 多様性制約または件数上限のため非選抜
+  - [Tier1] バッファロー / B0B3XCH7DD: 多様性制約または件数上限のため非選抜
+  - [Tier3] BIGBIGER / B0D9H8ZMF7: 多様性制約または件数上限のため非選抜
+  - [Tier3] VOKTECHGY / B0DYJT6F51: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 2 件 --
+  - B0H5W5576J / FFF 外付けHDD 2TB ポータブルHDD PC・テレビ録画対応 USB3.: Tier3未満のため除外（レビュー9件・星4.7）
+  - B0FHNZHC8V / Amazon限定 Seagate 外付けHDD 2TB CMR テレビ録画/na: 在庫切れのため除外
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-09_写真と作業データを保管する。外付けHDD.md

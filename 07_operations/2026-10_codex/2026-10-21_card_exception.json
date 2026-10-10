@@ -1,0 +1,16 @@
+{
+  "asin": "B0CH9XW8RK",
+  "model": "ARZOPA A1M",
+  "full_gui_url": "https://www.amazon.co.jp/dp/B0CH9XW8RK?&linkCode=ll2&tag=daily-gadget-22&linkId=7b7b56d989bcdb06f4b061bd470d3d4f&ref_=as_li_ss_tl",
+  "short_gui_url": "https://link.amazon/B05NklPGj",
+  "tracking_id": "daily-gadget-22",
+  "reason": "note card generation failed for full and short GUI links; source retained as ordinary clickable link",
+  "attempts": [
+    "Return conversion",
+    "re-paste",
+    "embed menu",
+    "short link",
+    "base URL link",
+    "paste without Return"
+  ]
+}

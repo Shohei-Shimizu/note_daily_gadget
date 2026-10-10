@@ -1,0 +1,58 @@
+{
+  "checked_at": "2026-10-10T11:17:36.759391",
+  "scope": "公式一次資料とローカル既存候補から補充先を提案。API/DB/measurement/UIなし、ASIN新規収集・採用未実施。",
+  "downstream_gates": [
+    "主担当がAPI収集・Amazon実測・親解決を直列実施",
+    "現行日本仕様と公式型番の一致、在庫、レビューTier、30日窓を確認",
+    "サイズ/色/保証/セットを独立品として数えずメーカーmax2適用"
+  ],
+  "date": "2026-11-19",
+  "theme": "タイムロッキングコンテナ",
+  "baseline": "4 ASIN/4親見込み。ただしMoKo/Shlmnbo/TTFPの独立公式同型資料は今回の限定調査では未確認。4件すべてが公式ゲートを通ると仮定しない。",
+  "targets": [
+    {
+      "priority": 1,
+      "maker": "Kitchen Safe",
+      "product": "kSafe Medium（必要ならMini/XLも照合対象）",
+      "model_status": "公式はサイズ名で区別、型番はページ上未確認。型番を創作しない。",
+      "primary": "https://www.thekitchensafe.com/",
+      "scope_proof": "タイマー到達まで容器をロック、1分～10日。Mini/Medium/XLは同じ蓋を使うサイズ差なので自動で3商品へ増数しない。",
+      "unverified": [
+        "日本Amazonで購入可能な本体ASIN・レビューTier",
+        "日本向け説明書/保証/輸入版同型確認",
+        "既存親との差"
+      ]
+    },
+    {
+      "priority": 2,
+      "maker": "iDiskk",
+      "product": "Smart Timer Phone Lock / Locker01",
+      "model_status": "メーカー公式PDFファイル名iDiskk-Locker01。既存B08HZ4LYHMとの同型一致未確認。",
+      "primary": [
+        "https://www.idiskk.com/manual/iDiskk-Locker01_User_Manual.pdf",
+        "https://www.idiskk.com/idiskk_new/index.asp"
+      ],
+      "scope_proof": "公式説明書に時間設定後10秒カウントダウンで自動ロック、設定時間後解除。",
+      "purpose": "補充より既存1品の公式ゲート確保を優先。同一メーカー別モデルの検索は公式型番と構造差が確認できた場合のみ。"
+    }
+  ],
+  "collection_queries": [
+    "Kitchen Safe kSafe Medium タイムロッキングコンテナ",
+    "Kitchen Safe kSafe タイマー ロック ボックス",
+    "iDiskk Locker01 スマホ タイムロックボックス"
+  ],
+  "query_count": 3,
+  "eligibility": [
+    "設定時間で物理ロックし、時間経過後に解除する本体。残時間表示タイマーだけは不可",
+    "スマホ専用ケースと汎用容器を本文で区別。内部寸法・充電・緊急解除条件は同型公式根拠からのみ",
+    "kSafeのサイズ群は同一蓋/色違いを含む。メーカーmax2だけでなく実質同系統の増数を避ける"
+  ],
+  "excluded_or_hold": [
+    "通常の鍵/ダイヤル金庫、充電保管庫、タイマー付き電源タップ、キッチン/学習タイマー",
+    "MoKo/Shlmnbo/TTFPの一般出品コピーやmanuals.plus生成説明を独立公式の代用にしない",
+    "iDiskk LOCK04等は第三者マニュアル検索結果のみではメーカー公式確認済みにしない"
+  ],
+  "decision": "新メーカーKitchen Safeを優先収集。1親補充で数の不足を埋める可能性はあるが、既存3ブランドの一次仕様未確認が残るため、5件成立見込みとはまだ判定しない。根拠不明ブランドを追加しない。",
+  "followup_proposal_file": "2026-11-19_alternate_theme_proposal.json",
+  "domestic_followup": "国内メーカー時刻ロックの適格型番は3検索の範囲で未発見。別用途品除外と代替2案を別JSONに記録。"
+}

@@ -1,0 +1,131 @@
+heading [level=1]: MOFT【公式直営店】ノートパソコンスタンド PCスタンド 持ち運び便利 折りたたみ式 超薄型 軽量 安定性 15°&25°二段階調整 姿勢改善
+  - generic: 放熱穴付き,一体型パソコンスタンド「貼り付け」,16インチまで対応,ノートPCスタンド,コンパクト,PC/macbook air/mac/ラップトップ/iPadタブレットに対応, 省スペース,自宅・外出・移動中,作業効率アップ（ジェットブラック）
+  - link:
+    - /url: /stores/MOFT/page/A27A8DAF-D5A6-4C1A-9923-7139A5CACEDB?lp_asin=B0CPHX4R58&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto
+    - text: MOFTのストアを表示
+  - button:
+    - text: "4.4"
+    - generic: 5つ星のうち4.4
+  - link:
+    - /url: "#averageCustomerReviewsAnchor"
+    - text: (1,743)
+  - link:
+    - /url: https://sakura-checker.jp/search/B0CPHX4R58
+    - text: 🌸 サクラチェッカー
+  - text: "|"
+  - link:
+    - /url: "#"
+    - text: このページを検索
+  - generic: 過去1か月で100点以上購入されました
+  - separator
+  - generic: ￥3,580
+  - generic: ￥3,580
+  - text: 税込
+  - link:
+    - /url: "#"
+    - text: 価格履歴
+  - alert:
+    - generic: 6回払いなら月々￥597
+    - text: 手数料無料
+    - link:
+      - /url: "#"
+      - text: 2つのプランから選択
+  - link:
+    - /url: /gp/cobrandcard/redirect.html?location=%2Fb%3Fnode%3D8215625051%26RU%3D%252Fdp%252Fproduct%252FB0CPHX4R58&imp=9a2855b8-c57b-4a1b-a160-0286e943ac56&sigauth=IRS_CUSTOM&signature=943747307F45C619D730731C8434084734C33731F4BCC06308837A7281EA081F&mru=%2Fdp%2Fproduct%2FB0CPHX4R58
+    - text: あと払い (ペイディ)で毎月のお買い物金額から最大5%ポイント還元
+    - strong: 今すぐエントリー
+  - text: 翌日
+  - text: "ポイント: 36pt (1%)"
+  - link:
+    - /url: /gp/help/customer/display.html?nodeId=200041560&pop-up=1
+    - text: 詳細はこちら
+  - generic: ダブルポイント
+  - link:
+    - /url: "#"
+    - text: 詳細
+  - generic: 無料ボーナスアイテム
+  - text: ¥15000ご購入で
+  - link:
+    - /url: /promotion/psp/AWQ2H6M5PRZGM?ref=psp_external&redirectAsin=B0CPHX4R58&redirectMerchantId=A1SCC5QUAWDKJ8&ref=cxcw_psp_AWQ2H6M5PRZGM&source=dp_cxcw
+    - text: 無料アイテムを申し込む
+  - button [disabled]
+  - generic: エントリー済み
+  - text: "まとめトク: 5点以上まとめ買いで1%ポイント還元"
+  - link:
+    - /url: /b?node=222421060051&ref_=mtk_jp_dp_badge&source=dp_cxcw
+    - text: 買い物をする
+  - button [disabled]
+  - generic: dアカウント連携者限定
+  - text: "[プライム感謝祭] dポイントを使うと最大10万ポイントが当たる"
+  - link:
+    - /url: /b/?node=221362476051&ref_=jp_d_bbrlp_dpbadge_baseoffer_pas26&source=dp_cxcw
+    - text: エントリーをする
+  - paragraph:
+    - text: お仕事用のショッピングですか? Amazonビジネスのご注文で、最大¥9000までの30%割引が適用されます。
+    - link:
+      - /url: /ab/incentives/reg/nt?campaignId=2f6984ec-01a5-40eb-8494-966d479d7b3f&ABevent=PBDD26&ref=ab_reg_inct_onsite_oth_dpx&returnToUrl=%2Fdp%2FB0CPHX4R58%3FregistrationStatus%3DREGISTERED&client=abupsell
+      - text: 無料のビジネスアカウントにご登録ください。
+  - button: Amazonによる発送
+  - button: 安心・安全への取り組み
+  - button: お客様情報の保護
+  - generic: "色: ジェットブラック"
+  - radiogroup:
+    - radio [checked]
+    - separator
+    - generic: ￥3,580
+    - generic: ￥3,580
+    - generic: 無料配送 明日
+    - radio
+    - separator
+    - generic: ￥3,580
+    - generic: ￥3,580
+    - generic: 無料配送 明日
+    - radio
+    - separator
+    - generic: ￥3,580
+    - generic: ￥3,580
+    - generic: 無料配送 明日
+    - radio
+    - separator
+    - generic: ￥3,580
+    - generic: ￥3,580
+    - generic: 無料配送 明日
+    - radio
+    - separator
+    - generic: ￥3,980
+    - generic: ￥3,980
+    - generic: 無料配送 明日
+    - radio
+    - separator
+    - generic: ￥3,980
+    - generic: ￥3,980
+    - generic: 無料配送 明日
+    - radio
+    - separator
+    - generic: ￥3,980
+    - generic: ￥3,980
+    - generic: 無料配送 明日
+    - button:
+      - generic: おすすめ出品がない1オプションを見る
+  - generic: "サイズ: 11.6“-16” PC-Standard"
+  - radiogroup:
+    - radio
+    - generic: 11.6“-16” PC-AirFlow
+    - radio [checked]
+    - generic: 11.6“-16” PC-Standard
+  - list:
+    - rowgroup:
+      - listitem: ブランド MOFT
+      - listitem: 色 ジェットブラック
+      - listitem: フォームの形式 15°＆25°二角度調整
+      - listitem: 対応デバイス タブレット, ノートパソコン
+      - listitem: 対応電話モデル Iphone
+  - separator
+  - heading [level=2]: この商品について
+  - list:
+    - listitem: 【世界初・即刻開き】2019年にアメリカKickstarterで初デビューし、数百万ドルを調達したスター製品——世界最薄クラスのノートPCスタンド「 MOFT（モフト）」 オリジナル折りたたみ式デザインにより、一瞬で開いて使用できます。デビューして三年間、世界中100万人以上のユーザーに愛用され、人々のデジタルライフにサポートし続けました。
+    - listitem: 【角度二つ・快適に切り替え】ミニマムなデザインで、ハイモード、ローモードという2つの角度を調整することができます。座った姿勢での作業する時、視線をより高くして背筋を伸ばしたい方に是非おすすめです。体勢調整に気を付けるきっかけも作りましょう。
+    - listitem: 【極めた軽さ・幅広いに対応】重さ僅か89g、厚さも3mmとなっています。マグネット内蔵設計で、スタンドを収納する時はパソコンの下に隠れることができ、存在感が極めて薄くなります。一方で、立てるときは速くてスマートになり、一度使うと忘れ難いパソコンスタンドです。最大15.6インチまでに対応、底穴付きの放熱対策も採用しています。Macbook Pro/Air/タブレットはもちろん、他の平底ノートPCにも対応するので、MOFTスタンドを是非一度試してください！
+    - listitem: 【厳選素材・重さに耐久】特製したポレウリタンとファイバーグラス素材と巧みな折り畳みデザインと組み合わせ、超軽量・超薄型で高強度・高安定性を実現します。耐荷重は最大5kg、作業時の安定・安全な支えを提供いたします。＊ご注意：パソコンスタンドをご使用の際、キーボードの周りを叩くとパソコンが揺れるという意見を頂きました。この件について、実際に使用した場合を検討し、作業時両手を自然にキーボード上に置くと揺れることはないのでご安心ください。
+    - listitem: 【PCと一体化・究極の身軽さと機動力】 従来のPCスタンドのように「別々に持ち運ぶ」煩わしさはもうありません。ノートPCの背面に薄く密着し、まるでパソコンの一部になったかのような一体型設計。荷物を増やすことなく、これ一つで軽やかに外出できます。カフェや移動先でも、PCを開いて一瞬でセットアップするだけで、そこがあなただけの快適なワークスペースに。ミニマリストが求める「究極の軽装」と、プロが求める「瞬発力」を両立し、どこでもスマートな作業環境を実現します。
+    - listitem: 【取り外し簡単】本品は繰り返

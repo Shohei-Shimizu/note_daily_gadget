@@ -1,0 +1,706 @@
+{
+  "date": "2026-11-26",
+  "topic_id": "daily_gadget_20261126_9ccd2f95",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 10,
+  "parent_groups": {
+    "B0CC9NFTTJ": [
+      "B0B7SBVGP6"
+    ],
+    "B07ZP5CH8P": [
+      "B07ZP5CH8P"
+    ],
+    "B0HJGS7SK3": [
+      "B0CT378Q1M"
+    ],
+    "B0HGLJSRYQ": [
+      "B07ZP695PB",
+      "B07ZP8D717"
+    ],
+    "B0HCBHMT7V": [
+      "B08BP1912B",
+      "B0DJLZMYR4"
+    ],
+    "B0DHV75M4X": [
+      "B0DHV75M4X"
+    ],
+    "B0GQLQPBZ6": [
+      "B0DQ6Y68F4"
+    ],
+    "B0GJ337LTX": [
+      "B0FWQX4F4F"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B07ZP5CH8P",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付70言語以上対応 ホワイト PTSWW",
+      "maker": "POCKETALK",
+      "maker_source": "商品名POCKETALK/ポケトーク統合。製造/販売会社は公式再確認待ち",
+      "maker_live_verified": false,
+      "db_brand": "POCKETALK",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-04-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-27",
+          "title": "旅行前に揃えたい。世界で使える「翻訳機・充電器」 7 選",
+          "asin": "B07ZP5CH8P"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07ZP695PB",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付92言語以上対応 ブラック PTSGK",
+      "maker": "POCKETALK",
+      "maker_source": "商品名POCKETALK/ポケトーク統合。製造/販売会社は公式再確認待ち",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0HGLJSRYQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07ZP8D717",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付92言語以上対応 ゴールド PTSGG",
+      "maker": "POCKETALK",
+      "maker_source": "商品名POCKETALK/ポケトーク統合。製造/販売会社は公式再確認待ち",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0HGLJSRYQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08BP1912B",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S Plus(1.85倍大型画面) グローバル通信2年付70言語以上対応 ホワイト PTSPGW",
+      "maker": "POCKETALK",
+      "maker_source": "商品名POCKETALK/ポケトーク統合。製造/販売会社は公式再確認待ち",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0HCBHMT7V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-07",
+          "title": "夏休みの海外準備。翻訳機と SIM、変換プラグ 6 選",
+          "asin": "B08BP1912B"
+        },
+        {
+          "published_date": "2026-04-27",
+          "title": "旅行前に揃えたい。世界で使える「翻訳機・充電器」 7 選",
+          "asin": "B0DJLZMYR4"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B74752CR",
+      "title": "イヤホン翻訳機 通訳機 公式 Wooask M6 PLUS ウーアスク プラス 【オフライン対応版】 イヤホン型 AI翻訳機 オフライン 翻訳機 127言語対応 高精度 通話 音楽再生可能 Bluetooth ハンズフリートーク 英語 中国語 フランス語 イタリア語 日本語",
+      "maker": "Wooask",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Wooask",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0B74752CR"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0B7SBVGP6",
+      "title": "Vasco Translator V4 | 音声翻訳機 | 108言語、約200の 国と地域に対応 | 通信料永久無料・買い替え不要",
+      "maker": "Vasco",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Vasco",
+      "historical_tier": 2,
+      "parent_asin": "B0CC9NFTTJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-17",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-17",
+          "title": "旅行の相談を AI に。音声入力に強い「AI デバイス」 5 選",
+          "asin": "B0B7SBVGP6"
+        },
+        {
+          "published_date": "2026-04-05",
+          "title": "海外会議も怖くない。リアルタイムで話せる「AI 翻訳機」 6 選",
+          "asin": "B0B7SBVGP6"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BRC9V334",
+      "title": "Timekettle M3 イヤホン翻訳機 オフライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ブラック",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0BRCB6L44",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0BRCDYNXS"
+        },
+        {
+          "published_date": "2026-04-05",
+          "title": "海外会議も怖くない。リアルタイムで話せる「AI 翻訳機」 6 選",
+          "asin": "B0BVBMY745"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BRCDYNXS",
+      "title": "Timekettle M3 イヤホン翻訳機 オフライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ホワイト",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0BRCB6L44",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0BRCDYNXS"
+        },
+        {
+          "published_date": "2026-04-05",
+          "title": "海外会議も怖くない。リアルタイムで話せる「AI 翻訳機」 6 選",
+          "asin": "B0BVBMY745"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BVBMY745",
+      "title": "Timekettle M3 イヤホン翻訳機 オンライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ホワイト",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Timekettle",
+      "historical_tier": 3,
+      "parent_asin": "B0BRCB6L44",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0BRCDYNXS"
+        },
+        {
+          "published_date": "2026-04-05",
+          "title": "海外会議も怖くない。リアルタイムで話せる「AI 翻訳機」 6 選",
+          "asin": "B0BVBMY745"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BVBPJ91Z",
+      "title": "Timekettle M3 イヤホン翻訳機 オンライン式 43言語96アクセント タイムケトル 音楽・通話可能 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ブラック",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0BRCB6L44",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0BRCDYNXS"
+        },
+        {
+          "published_date": "2026-04-05",
+          "title": "海外会議も怖くない。リアルタイムで話せる「AI 翻訳機」 6 選",
+          "asin": "B0BVBMY745"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CT378Q1M",
+      "title": "Wooask W12 翻訳機 音声翻訳機 ウーアスク【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.5秒翻訳 写真翻訳 オフライン対応 タッチスクリーン",
+      "maker": "Wooask",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Wooask",
+      "historical_tier": 2,
+      "parent_asin": "B0HJGS7SK3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DHV75M4X",
+      "title": "AUTOOSE Z2 翻訳機 音声翻訳機【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.2秒翻訳 写真翻訳 オフライン対応 タッチスクリーン 写真翻訳",
+      "maker": "AUTOOSE",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-04-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-27",
+          "title": "旅行前に揃えたい。世界で使える「翻訳機・充電器」 7 選",
+          "asin": "B0DHV75M4X"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DJLZMYR4",
+      "title": "【公式ストア限定】AI翻訳機 POCKETALK(ポケトーク)S2 Plus 1.85倍大型画面グローバル通信2年付90言語以上対応特別セット ホワイト 画面保護シール+ケース+ネックストラップ+ポーチ+海外用変換プラグ+ACアダプター PTS2P-W",
+      "maker": "POCKETALK",
+      "maker_source": "商品名POCKETALK/ポケトーク統合。製造/販売会社は公式再確認待ち",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0HCBHMT7V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-07",
+          "title": "夏休みの海外準備。翻訳機と SIM、変換プラグ 6 選",
+          "asin": "B08BP1912B"
+        },
+        {
+          "published_date": "2026-04-27",
+          "title": "旅行前に揃えたい。世界で使える「翻訳機・充電器」 7 選",
+          "asin": "B0DJLZMYR4"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DK71JL4Z",
+      "title": "Vasco Translator E1 | イヤホン型AI翻訳機 | 50言語以上に対応、ハンズフリーで自然な会話",
+      "maker": "Vasco",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0DK71JL4Z"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DQ6Y68F4",
+      "title": "MUMEOMU Z8 AI翻訳機 283ヵ国137言語対応 音声翻訳機【オンライン翻訳＋オフライン翻訳＋カメラ翻訳＋録音翻訳＋リアルタイム翻訳+ChatGPT】双方向翻訳 携帯翻訳機 日本語 中国語 英語 0.2秒",
+      "maker": "MUMEOMU",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0GQLQPBZ6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-27",
+          "title": "旅行前に揃えたい。世界で使える「翻訳機・充電器」 7 選",
+          "asin": "B0DQ6Y68F4"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F7Y1LZL3",
+      "title": "翻訳機翻訳ペン/ペン型スキャナー失読症用読書ペン142言語即時双方向音声翻訳ペン、OCRスキャンペン、テキスト音声変換、録音翻訳、Bluetooth、WIFI接続をサポートし、言語学習、国際旅行、ビジネスパーソンに適している",
+      "maker": "翻訳機翻訳ペン/ペン型スキャナー失読症用読書ペン142言語即時双方向音声翻訳ペン、OCRスキャンペン、テキスト音声変換、録音翻訳、Bluetooth、WIFI接続をサポートし、言語学習、国際旅行、ビジネスパーソンに適している",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-04-02",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-02",
+          "title": "メモを即デジタル化。OCR と録音に対応する「スキャンペン・ペン型レコーダー」 6 選",
+          "asin": "B0F7Y1LZL3"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F9L766K2",
+      "title": "Chamequinho イヤホン翻訳機 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語対応",
+      "maker": "Chamequinho",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJM4S66K",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FDGK5C23",
+      "title": "Timekettle W4 Pro AI通訳機 翻訳機能付きイヤホン 通話翻訳 動画翻訳 音楽·通話対応 双方向同時通訳 オフライン翻訳 52言語106アクセント対応 音声翻訳機 AI翻訳機 高精度 指向性ノイズ低減 ハンズフリートーク Bluetooth接続 iOS15.0&Android7.0以上対応 専用アプリが必要 海外旅行 出張 タイムケトル グレイ",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0G1BZVPVH",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0FDGK5C23"
+        },
+        {
+          "published_date": "2026-07-17",
+          "title": "旅行の相談を AI に。音声入力に強い「AI デバイス」 5 選",
+          "asin": "B0FDGK5C23"
+        },
+        {
+          "published_date": "2026-06-07",
+          "title": "夏休みの海外準備。翻訳機と SIM、変換プラグ 6 選",
+          "asin": "B0GHY547M3"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FGX9C7S4",
+      "title": "Timekettle W4 翻訳機能付きイヤホン 骨声紋センサー内蔵 98％精度 52ヶ国語と106アクセント AI通訳機 AIによる自動誤り訂正 翻訳イヤホン 専用アプリが必要 ビジネス商談 海外出張 翻訳機 タイムケトル ブルー",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0FRG6GSFC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FWQX4F4F",
+      "title": "AUTOOSE Z9 AI翻訳機 音声翻訳機 ChatGPT搭載【SIM不要/追加料金不要/オフライン翻訳対応】 携帯翻訳機 150言語対応 0.5秒翻訳 オンライン翻訳/双方向音声翻訳/写真翻訳/電話翻訳/入力翻訳/録音翻訳 携帯翻訳機",
+      "maker": "AUTOOSE",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0GJ337LTX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GHY547M3",
+      "title": "Timekettle W4 Pro AI通訳機 翻訳機能付きイヤホン 通話翻訳 動画翻訳 音楽·通話対応 双方向同時通訳 オフライン翻訳 52言語106アクセント対応 音声翻訳機 AI翻訳機 高精度 指向性ノイズ低減 ハンズフリートーク Bluetooth接続 iOS15.0&Android7.0以上対応 専用アプリが必要 海外旅行 出張 タイムケトル (パープル, W4 Pro)",
+      "maker": "Timekettle",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0G1BZVPVH",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-27",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-27",
+          "title": "海外旅行の会話を攻略。最新の「AI 翻訳イヤホン」 5 選",
+          "asin": "B0FDGK5C23"
+        },
+        {
+          "published_date": "2026-07-17",
+          "title": "旅行の相談を AI に。音声入力に強い「AI デバイス」 5 選",
+          "asin": "B0FDGK5C23"
+        },
+        {
+          "published_date": "2026-06-07",
+          "title": "夏休みの海外準備。翻訳機と SIM、変換プラグ 6 選",
+          "asin": "B0GHY547M3"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GRVBWVST",
+      "title": "イヤホン翻訳機 Chamequinho 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語 音声翻訳機 Bluetooth接続 専用アプリ iOS&Android対応 海外旅行 出張 音楽·通話 （オンライン式、オフライン式）",
+      "maker": "イヤホン翻訳機",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJLYBHXV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0H8RP48N4",
+      "title": "イヤホンAI翻訳機 骨伝導イヤホン ワイヤレス Bluetooth 6.1 オープンイヤーヘッドホン双方向同時通訳 [並行輸入品]",
+      "maker": "イヤホンAI翻訳機",
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0HJGHSH1X",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-27",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B0B74752CR",
+      "title": "イヤホン翻訳機 通訳機 公式 Wooask M6 PLUS ウーアスク プラス 【オフライン対応版】 イヤホン型 AI翻訳機 オフライン 翻訳機 127言語対応 高精度 通話 音楽再生可能 Bluetooth ハンズフリートーク 英語 中国語 フランス語 イタリア語 日本語",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BRC9V334",
+      "title": "Timekettle M3 イヤホン翻訳機 オフライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ブラック",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BRCDYNXS",
+      "title": "Timekettle M3 イヤホン翻訳機 オフライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ホワイト",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BVBMY745",
+      "title": "Timekettle M3 イヤホン翻訳機 オンライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ホワイト",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BVBPJ91Z",
+      "title": "Timekettle M3 イヤホン翻訳機 オンライン式 43言語96アクセント タイムケトル 音楽・通話可能 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ブラック",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DK71JL4Z",
+      "title": "Vasco Translator E1 | イヤホン型AI翻訳機 | 50言語以上に対応、ハンズフリーで自然な会話",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0F7Y1LZL3",
+      "title": "翻訳機翻訳ペン/ペン型スキャナー失読症用読書ペン142言語即時双方向音声翻訳ペン、OCRスキャンペン、テキスト音声変換、録音翻訳、Bluetooth、WIFI接続をサポートし、言語学習、国際旅行、ビジネスパーソンに適している",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0F9L766K2",
+      "title": "Chamequinho イヤホン翻訳機 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語対応",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FDGK5C23",
+      "title": "Timekettle W4 Pro AI通訳機 翻訳機能付きイヤホン 通話翻訳 動画翻訳 音楽·通話対応 双方向同時通訳 オフライン翻訳 52言語106アクセント対応 音声翻訳機 AI翻訳機 高精度 指向性ノイズ低減 ハンズフリートーク Bluetooth接続 iOS15.0&Android7.0以上対応 専用アプリが必要 海外旅行 出張 タイムケトル グレイ",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0FGX9C7S4",
+      "title": "Timekettle W4 翻訳機能付きイヤホン 骨声紋センサー内蔵 98％精度 52ヶ国語と106アクセント AI通訳機 AIによる自動誤り訂正 翻訳イヤホン 専用アプリが必要 ビジネス商談 海外出張 翻訳機 タイムケトル ブルー",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GHY547M3",
+      "title": "Timekettle W4 Pro AI通訳機 翻訳機能付きイヤホン 通話翻訳 動画翻訳 音楽·通話対応 双方向同時通訳 オフライン翻訳 52言語106アクセント対応 音声翻訳機 AI翻訳機 高精度 指向性ノイズ低減 ハンズフリートーク Bluetooth接続 iOS15.0&Android7.0以上対応 専用アプリが必要 海外旅行 出張 タイムケトル (パープル, W4 Pro)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GRVBWVST",
+      "title": "イヤホン翻訳機 Chamequinho 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語 音声翻訳機 Bluetooth接続 専用アプリ iOS&Android対応 海外旅行 出張 音楽·通話 （オンライン式、オフライン式）",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0H8RP48N4",
+      "title": "イヤホンAI翻訳機 骨伝導イヤホン ワイヤレス Bluetooth 6.1 オープンイヤーヘッドホン双方向同時通訳 [並行輸入品]",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    }
+  ],
+  "historical_tier_distribution": {
+    "2": 3,
+    "3": 7
+  },
+  "maker_count_upper_bound_before_parent": 7,
+  "variant_policy": "同親の色/サイズ候補を残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "親違いの同モデルも公式照合が必要、親群数を商品数とみなさない",
+    "Tier3も含む診断候補。翻訳イヤホン/翻訳ペン/アクセサリで埋めない。Tier1比率・親/メーカー制約で不足すれば補充またはテーマ見直し",
+    "現在診断候補の歴史Tier1が0。件数が増えても採用ゲート成立とは扱わず、Tier1供給の補充/再実測が必要"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-18",
+  "status": "reserved",
+  "checks": {
+    "product_count": 10,
+    "selected_asin_order": [
+      "B01HXFISS0",
+      "B0C4P51G18",
+      "B085R7TSN6",
+      "B0CZRLRGM5",
+      "B0B1QPMNYR",
+      "B0D9YMNXZL",
+      "B0CZDP1V8S",
+      "B0C3Q65R9P",
+      "B0DFHH1N33",
+      "B0D13TBD9B"
+    ],
+    "research_url_order_preserved": true,
+    "product_prose_lengths": [
+      127,
+      128,
+      122,
+      126,
+      130,
+      137,
+      125,
+      119,
+      132,
+      124
+    ],
+    "official_sources_checked": true,
+    "intro_paragraphs": 2,
+    "summary_paragraphs": 2,
+    "related_urls_from_existing_metadata": [
+      "https://note.com/daily_gadget/n/n0bdd7492bf2c",
+      "https://note.com/daily_gadget/n/n4992e2b12d9f",
+      "https://note.com/daily_gadget/n/n52d2708230bf"
+    ],
+    "idea_list_count": 1,
+    "no_price_reviews_or_use_claims": true,
+    "machine_baseline_unchanged": true
+  },
+  "notes": [
+    "回収対象個体の現販売確認不能としてメインがSoundcore3を除外し再選抜した原本を使用",
+    "画像・metadata・DB・note入稿予約はメイン担当"
+  ],
+  "note_url": "https://note.com/daily_gadget/n/n2171e481fe50",
+  "scheduled_jst": "2026-10-18 20:00",
+  "ui_checks": {
+    "account": "毎日ガジェット通信",
+    "product_cards": 10,
+    "idea_cards": 1,
+    "related_cards": 3,
+    "plain_urls": 0,
+    "toc": true,
+    "toc_intro_gap": false,
+    "magazine": "コミュニケーション・会議・音声",
+    "tags": 5,
+    "thumbnail": true
+  }
+}

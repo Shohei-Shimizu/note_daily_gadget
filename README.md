@@ -28,8 +28,12 @@ note向けガジェット紹介記事をAIで効率的に生成・管理する�
 ## ワークフローの概要
 
 1. **リサーチ（Codex担当）**: `06_research/RESEARCH_GUIDE.md`（`shared/docs/research-guide-core.md` + `PROFILE.md`）の基準に基づき、`06_research/` に商品データを保存します。
-2. **執筆（Claude Code担当）**: 親ワークスペース共通スキル `/note-write-article daily_gadget <date>` を使い、ブランドトーンに合わせた記事を生成します。
+2. **執筆（Codex担当）**: 親ワークスペース共通スキル `/note-write-article daily_gadget <date>` を使い、ブランドトーンに合わせた記事を生成します。
 3. **タイトル最適化**: `.agent/rules/article-title-fix.md` を使い、クリック率を高めるタイトルを選定します。
 4. **画像生成（Codex担当）**: `.agent/skills/generete-thumbnail/SKILL.md` により、記事にマッチしたサムネイル画像を生成し、`04_thumbnail/YYYY-MM/` に保存します。
 5. **管理**: `_metadata.json` と `03_schedule/schedule_2026.md` を更新し、進捗や関連記事のリンクを管理します。
 6. **監査**: 1週間分の執筆完了後、親ワークスペース共通スキル `/note-audit-articles daily_gadget <date-range>` でCodexに品質監査を委譲します。
+
+## 現行の制作担当（2026-10-09）
+
+企画・調査・執筆・画像・監査はCodexで統一する。アカウント固有のページ構成は維持する。段階別手順と試作承認は `03_schedule/CODEX_PRODUCTION_WORKFLOW.md` を参照。

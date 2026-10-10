@@ -1,0 +1,41 @@
+📦 候補読み込み: 9 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-02_smart_remote_candidates.json)
+🔎 実測: 9 件の ASIN を Amazon 商品ページから取得します...
+  [1/9] B08P6ZSXWZ review=9837 star=4.2 stock=in_stock OK
+  [2/9] B0C6V1CJB7 review=3433 star=4.0 stock=in_stock OK
+  [3/9] B08BLSLWH4 review=2855 star=4.2 stock=in_stock OK
+  [4/9] B0DSPXKDP8 review=59471 star=4.1 stock=in_stock OK
+  [5/9] B0D3TSNWBG review=255 star=3.8 stock=in_stock OK
+  [6/9] B0DHKWGFNC review=184 star=4.1 stock=in_stock OK
+  [7/9] B0FD2RTHHK review=71 star=4.1 stock=in_stock OK
+  [8/9] B08BN8WSGZ review=1594 star=3.9 stock=in_stock OK
+  [9/9] B0B44WTLHT review=291 star=4.0 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=9 succeeded=9 failed=0 / run累積 attempted=35 succeeded=35 failed=0) product新規=0 product更新=9 metric行=9 verification行=7
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 9 / 9
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier2 / 緩和: あり
+採用件数: 5
+
+-- 採用 --
+1. [Tier1] SwitchBot / B0DSPXKDP8 / review=59471 star=4.1 ★有名ブランド
+   【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) Alexa - 温湿度センサー搭載 ス
+2. [Tier1] Nature / B08P6ZSXWZ / review=9837 star=4.2 
+   Nature Remo mini 2 ネイチャーリモ スマートリモコン 温度センサー搭載 お子様やペットの室温管理に Alexa/Googl
+3. [Tier1] Nature / B0C6V1CJB7 / review=3433 star=4.0 
+   【Echoから家電を音声操作】Nature Remo nano ネイチャーリモ スマートリモコン スマホからリモコン操作 いつもの家電操作を
+4. [Tier2] LinkJapan / B08BN8WSGZ / review=1594 star=3.9 
+   【国内メーカー・国内サーバー】LinkJapan eRemote5+ スマートリモコン Alexa対応 ハブ不要 遠隔操作 赤外線 学習リモ
+5. [Tier2] RATOC Systems / B0B44WTLHT / review=291 star=4.0 
+   smalia スマートリモコン
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 4 件 --
+  - [Tier1] Nature / B08BLSLWH4: 多様性制約または件数上限のため非選抜
+  - [Tier2] Nature / B0D3TSNWBG: 多様性制約または件数上限のため非選抜
+  - [Tier2] Nature / B0DHKWGFNC: 多様性制約または件数上限のため非選抜
+  - [Tier3] エジソンスマート / B0FD2RTHHK: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-02_赤外線リモコンをスマホにまとめる。スマートリモコン.md

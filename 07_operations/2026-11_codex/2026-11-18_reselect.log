@@ -1,0 +1,40 @@
+🚫 --exclude-asin により 4 件を選抜対象から外しました: B0F4JDMFSX, B0F4JQCMBG, B0FDFFHVWD, B0GK5S77XX
+📦 候補読み込み: 15 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_air_duster_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 11 / 15
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier2 / 緩和: あり
+採用件数: 8
+
+-- 採用 --
+1. [Tier1] WOLFBOX / B0GC4TJDXL / review=16157 star=4.5 
+   WOLFBOX エアダスター 電動ブロワー 洗車後の隙間の水滴飛ばし・日常掃除に 最大風速75m/s以上 204g超軽量 USB充電式
+2. [Tier1] サンワサプライ / B0BV5RHNM1 / review=978 star=4.5 ★有名ブランド
+   サンワダイレクト 電動エアダスター AC電源 強力 ノズル3種類付属 ケーブル長3m PC 掃除 200-CD079
+3. [Tier1] Horumi / B0H4Q6P8DQ / review=688 star=4.5 
+   Horumi エアダスター 電動エアダスター 強力ブロワー【120m/sの超強暴風· 吹くだけで完全清掃 · LEDライト】300000RP
+4. [Tier2] サンワサプライ / B083TW2H7S / review=561 star=3.9 ★有名ブランド
+   サンワサプライ(Sanwa Supply) 電動エアダスター USB充電式 LEDライト搭載 CD-ADE1BK
+5. [Tier2] AAL / B0H1WNMLLD / review=321 star=3.9 
+   AAL エアダスター 電動エアダスター 【2026新登場· 圧倒的な風圧 ·LEDライト付き】小型 ブロワー 洗車 300000RPM高速回
+6. [Tier2] AAL / B0H6SDNHH9 / review=201 star=4.5 
+   AAL エアダスター 電動エアダスター【圧巻の風速150m/s·LEDライト搭載】 ブロワー 小型 強力 300000RPM高速回転 5種類
+7. [Tier2] PYKES PEAK / B0B74JT9R2 / review=196 star=4.3 
+   PYKES PEAK（ パイクスピーク ） 電動エアダスター 【日本ブランド 小型】エアーダスター 充電式 4段階風量 ミニジェットファン 
+8. [Tier2] ELECOM / B0DJDZRW18 / review=171 star=3.7 ★有名ブランド
+   エレコム 日本メーカー 電動エアダスター 充電式 強力 逆さ噴射可能 3段階風量調整 49000rpm高速回転 最大風速28m/s LEDラ
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 3 件 --
+  - [Tier3] サンワサプライ / B0F6TSHGN9: 多様性制約または件数上限のため非選抜
+  - [Tier3] HOTO / B0D393FHZY: 多様性制約または件数上限のため非選抜
+  - [Tier3] HOTO / B0F3J4L78G: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 4 件 --
+  - B0F9DTZKCQ / ナカバヤシ 電動 エアダスター JET mini 充電式 ホワイト Z4689: Tier3未満のため除外（レビュー2件・星5.0）
+  - B0F8QGLGBQ / KiCA Jet Fan MAX 電動エアダスター 超強力エアブロワー [ 最大: Tier3未満のため除外（レビュー6件・星4.3）
+  - B0DZLXKP7C / FeiyuTech KiCA Jet Fan 2S エアーブロワー 電動エアーダ: Tier3未満のため除外（レビュー3件・星4.6）
+  - B0GC4HYVRJ / ナカバヤシ 電動エアダスター JET turbo 充電式 ブラック Z0768: Tier3未満のため除外（レビュー4件・星4.2）
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-18_机まわりのホコリを飛ばす。「電動エアダスター」.md

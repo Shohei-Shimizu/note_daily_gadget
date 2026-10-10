@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-25",
+  "checked_at": "2026-10-09",
+  "title": "省スペースで操作する「トラックボール」9選",
+  "original_research_sha256": "c7f7dc9e2a398a98fcf3f8af25012436cf4a51737fc2b6fee05784700cec2928",
+  "products": [
+    {
+      "asin": "B0D3QJ66DH",
+      "name": "ProtoArc EM01 NL",
+      "body": "本体の傾きを変えて、手を置く角度を探したい人向けの親指操作モデルです。Bluetoothとレシーバーの接続先を切り替えられるため、仕事用と私用の端末を使い分ける場面に合います。充電式なので電池の予備を持つ必要がなく、左右クリックの静音仕様も選ぶ理由になります。",
+      "spec": [
+        "操作：右手・親指／角度0〜20°",
+        "接続：Bluetooth×2＋2.4GHzレシーバー",
+        "電源：USB-C充電式・900mAh"
+      ],
+      "urls": [
+        "https://www.protoarc.com/products/em01-nl-trackball-mouse"
+      ],
+      "points": [
+        "角度を変えて手を置ける親指操作",
+        "Bluetoothとレシーバーで接続先切替",
+        "USB-C充電式、左右クリック静音"
+      ]
+    },
+    {
+      "asin": "B016QCPRBM",
+      "name": "エレコム EX-G M-XT4DRBK（左手用）",
+      "body": "左手側へ操作機器を置きたい人向けの、左親指でボールを転がすモデルです。左右対称ではなく左手用の形なので、購入前に操作する手を決めておきたいところ。ホイールを傾ける横スクロールに対応し、横に長い表を読む場面にも使えます。接続にはUSBレシーバー用のポートが必要です。",
+      "spec": [
+        "操作：左手・親指／ボール径約34mm",
+        "接続：2.4GHz・USB-Aレシーバー",
+        "電源：単3形乾電池など1本"
+      ],
+      "urls": [
+        "https://www.elecom.co.jp/products/M-XT4DRBK.html"
+      ],
+      "points": [
+        "左手専用の親指操作タイプ",
+        "横スクロール対応チルトホイール",
+        "USB-Aレシーバーと単3形電池を使用"
+      ]
+    },
+    {
+      "asin": "B0D9Y1J4NH",
+      "name": "ロジクール ERGO M575SPd",
+      "body": "静かなクリックと、乾電池で運用できる手軽さを重視する人向けです。親指でボールを操作し、接続はBluetoothとLogi Boltから選べます。専用ソフトでボタンへ作業を割り当てたい場合も候補に。旧M575のレシーバー方式とは異なるので、手持ちの機器との組み合わせを確認したいところです。",
+      "spec": [
+        "操作：右手・親指／5ボタン",
+        "接続：Bluetooth／Logi Bolt",
+        "電源：単3形乾電池1本"
+      ],
+      "urls": [
+        "https://press.logicool.co.jp/ja-jp/m575sp-mx-ergo-s-mxtb2-/"
+      ],
+      "points": [
+        "現行SPモデルの静音クリック",
+        "BluetoothとLogi Bolt対応",
+        "単3形電池で運用する親指操作"
+      ]
+    },
+    {
+      "asin": "B079FDQZXQ",
+      "name": "エレコム HUGE M-HT1DRXBK",
+      "body": "親指でボールを転がす方式より、人差し指や中指で操作したい人向けです。大きなボールと低反発素材のパームレストを備え、手を本体の上へ置いて使う構成。横スクロールとボタン割り当ても検討できます。本体自体は大きめなので、マウスを動かす余白に加え、置き場所の寸法も確認してみてください。",
+      "spec": [
+        "操作：人差し指・中指／ボール径約52mm",
+        "接続：2.4GHz・USB-Aレシーバー",
+        "電源：単3形乾電池など2本"
+      ],
+      "urls": [
+        "https://www.elecom.co.jp/products/M-HT1DRXBK.html"
+      ],
+      "points": [
+        "人差し指・中指で大玉を操作",
+        "低反発パームレストを搭載",
+        "本体幅114.7mm・奥行181.9mmの設置場所確認"
+      ]
+    },
+    {
+      "asin": "B0D9Y1SNQT",
+      "name": "ロジクール MX ERGO S MXTB2d",
+      "body": "角度を調整しながら、細かなカーソル操作も使い分けたい人向けです。親指操作のボールに加え、ポインター速度を切り替えるプレシジョンモードを搭載。端末切り替えやボタン設定にも対応します。USB-C充電式ですがケーブルは付属しないため、充電に使うケーブルも用意しておきたいところです。",
+      "spec": [
+        "操作：右手・親指／本体角度調整",
+        "接続：Bluetooth／Logi Bolt・2台切替",
+        "電源：USB-C充電式（ケーブル別売）"
+      ],
+      "urls": [
+        "https://press.logicool.co.jp/ja-jp/m575sp-mx-ergo-s-mxtb2-/",
+        "https://support.logi.com/hc/ja/articles/25066408771479-Getting-Started-MX-Ergo-S"
+      ],
+      "points": [
+        "角度調整とプレシジョンモード",
+        "Bluetooth/Logi Boltで端末切替",
+        "USB-C充電、ケーブルは別途用意"
+      ]
+    },
+    {
+      "asin": "B0BG9VR34L",
+      "name": "Ewin ワイヤレストラックボールマウス",
+      "body": "乾電池で使える親指操作モデルを、複数の端末で切り替えたい人向けです。BluetoothとUSBレシーバーの両方に対応し、静音クリックも備えます。ポインター速度を本体で変えられるため、細かい文字を選ぶ作業に合わせた調整が可能。進む・戻るボタンはMac非対応という条件を確認しておきたいところです。",
+      "spec": [
+        "操作：親指／DPI5段階",
+        "接続：Bluetooth／2.4GHzレシーバー",
+        "電源：単3形乾電池1本"
+      ],
+      "urls": [
+        "https://www.ewin-online.com/product/%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%A6%E3%82%B9/",
+        "https://www.amazon.co.jp/dp/B0BG9VR34L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
+      ],
+      "points": [
+        "乾電池で使う親指操作",
+        "BluetoothとUSBレシーバー対応",
+        "Macでは進む/戻る非対応条件確認"
+      ]
+    },
+    {
+      "asin": "B01BXS17N6",
+      "name": "Kensington ExpertMouse K72359JP",
+      "body": "中央の大きなボールを指先で転がし、周囲のリングでスクロールしたい人向けです。左右対称の配置なので、親指操作型とは違う使い方を試したいときにも候補になります。乾電池式でパームレストが付属し、Bluetoothとレシーバー接続を選べます。机上に本体とパームレストを置く広さを確認して選びたいところです。",
+      "spec": [
+        "操作：中央ボール／直径55mm",
+        "接続：Bluetooth／2.4GHzレシーバー",
+        "構成：4ボタン・スクロールリング"
+      ],
+      "urls": [
+        "https://accobrands.co.jp/wp/wp-content/uploads/2025-Kensington-Catalog.pdf",
+        "https://customer.kensington.com/us/us/s/k72359ww/expert_mouse__wireless_trackball__k72359ww_"
+      ],
+      "points": [
+        "指先で中央の大玉を操作",
+        "スクロールリングとパームレスト",
+        "BluetoothまたはUSBレシーバー対応"
+      ]
+    },
+    {
+      "asin": "B0GSDZTC65",
+      "name": "Nulea トラックボールマウス（チルトスタンド付き）",
+      "body": "本体を傾けるスタンド付きの親指操作モデルです。Bluetoothの接続先とレシーバーを切り替えられ、ノートPCとタブレットを同じ操作機器で使い分けたい場面に合います。乾電池を入れ替える方式ではなく充電式。手の大きさで置きやすさが変わるため、スタンド込みの配置と握り方を確認してみてください。",
+      "spec": [
+        "操作：右手・親指／チルトスタンド付き",
+        "接続：Bluetooth×2＋2.4GHzレシーバー",
+        "電源：Type-C充電式"
+      ],
+      "urls": [
+        "https://nulea.com/products/nulea-m501-wireless-trackball-mouse",
+        "https://www.amazon.co.jp/dp/B0GSDZTC65?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
+      ],
+      "points": [
+        "チルトスタンド付き親指操作",
+        "Bluetooth2接続先とレシーバーを切替",
+        "Type-C充電式、置く広さを確認"
+      ]
+    },
+    {
+      "asin": "B0DDTK1M4F",
+      "name": "ProtoArc EM05 NL",
+      "body": "平たい形よりも、手を立てる向きで置きたい人向けの縦型モデルです。親指でボールを転がすので、本体を左右に動かす場所を確保せず操作できます。静かなクリックと接続先切り替え、充電式という構成。角度が固定された形なので、角度調整型と比べて手の置き方が合うか確認したいところです。",
+      "spec": [
+        "操作：右手・親指／縦型62°",
+        "接続：Bluetooth×2＋2.4GHzレシーバー",
+        "電源：USB-C充電式・500mAh"
+      ],
+      "urls": [
+        "https://www.protoarc.com/products/em05-nl-trackball-mouse"
+      ],
+      "points": [
+        "手を立てて置く固定角度の縦型",
+        "静音クリックと接続先切替",
+        "USB-C充電式の親指操作"
+      ]
+    }
+  ],
+  "notes": [
+    "原本選抜9件/順序/URL/基準メモ不変。EX-G M-XT4DRBKは左手専用親指、HUGEは人差し指・中指で別操作。",
+    "LogicoolはSP/S新モデル、Logi Boltと充電方式を公式国内発表で照合。M575SPd/MXTB2dも公式型番掲載。旧Unifying/microUSBを流用しない。",
+    "Ewin公式製品ページは仕様情報が不足。電源/接続/速度段階/Mac条件はmain2026-10-09実測の当該Amazonfeaturesを一次補足に使用。",
+    "Nulea当該ASINはチルトスタンド付、公式M501通常型への厳密SKU一致未確定。公式supportはDPI5段階/製品ページ4段階が混在。旧M501の寸法、電池時間、角度、Macボタン条件、DPI数字は転記せず。当該実測featuresのType-C充電/親指/接続/スタンドのみ使用。",
+    "Kensington国内公式2025カタログ型番K72359JPで55mm/接続/4ボタン/リング/パームレスト確定。海外公式同シリーズsupportでAA乾電池確認、JP本数未照合なので本数省略。",
+    "手首負担ゼロ/痛みや肩こり改善等の医療的断定は不使用。レビュー本文分析なし。"
+  ]
+}

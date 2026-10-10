@@ -1,0 +1,46 @@
+📦 候補読み込み: 10 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_thermo_hygrometer_candidates.json)
+🔎 実測: 10 件の ASIN を Amazon 商品ページから取得します...
+  [1/10] B09PYKJ6CS review=6342 star=4.4 stock=in_stock OK
+  [2/10] B083348J3X review=1464 star=4.2 stock=in_stock OK
+  [3/10] B0DBLDKVDW review=1049 star=4.4 stock=in_stock OK
+  [4/10] B0BLRQ5HTT review=396 star=4.4 stock=in_stock OK
+  [5/10] B07DVJ1P6J review=130 star=3.7 stock=in_stock OK
+  [6/10] B099RRN1J3 review=1464 star=4.2 stock=in_stock OK
+  [7/10] B09BYYS7X5 review=1464 star=4.2 stock=in_stock OK
+  [8/10] B09PVDQ8SS review=51 star=4.0 stock=in_stock OK
+  [9/10] B0BWCL335L review=472 star=4.5 stock=in_stock OK
+  [10/10] B0DB18WL6Z review=196 star=4.0 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=10 succeeded=10 failed=0 / run累積 attempted=143 succeeded=143 failed=0) product新規=0 product更新=10 metric行=10 verification行=4
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 10 / 10
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier2 / 緩和: あり
+採用件数: 8
+
+-- 採用 --
+1. [Tier1] SwitchBot / B09PYKJ6CS / review=6342 star=4.4 ★有名ブランド
+   SwitchBot 温湿度計プラス Alexa 温度計 湿度計 - スイッチボット スマホで温度湿度管理 デジタル 高精度 コンパクト 大画
+2. [Tier1] Govee / B083348J3X / review=1464 star=4.2 
+   Govee 温湿度計 Bluetooth デジタル スマホ管理 高精度 大画面 コンパクト
+3. [Tier1] Govee / B099RRN1J3 / review=1464 star=4.2 
+   Govee 温湿度計 Bluetooth デジタル 高精度 大画面 スマホ連携
+4. [Tier1] SwitchBot / B0DBLDKVDW / review=1049 star=4.4 ★有名ブランド
+   【冬の乾燥対策】SwitchBot 温湿度計 プロ スマホで管理 アレクサ - スイッチボット 温度計 湿度計 快適指数 大画面 デジタル 
+5. [Tier2] TP-Link / B0BWCL335L / review=472 star=4.5 ★有名ブランド
+   TP-Link Tapo スマートホーム コンパクト 電子ペーパー 大型画面 温湿度計 温度計 スイス 高精度 温度 湿度 アラーム スマー
+6. [Tier2] TP-Link / B0BLRQ5HTT / review=396 star=4.4 ★有名ブランド
+   TP-Link Wi-Fi Tapo スマートホーム コンパクト 温湿度計 スイス高精度 アラーム Tapoスマートハブ必須 Sub-1GH
+7. [Tier2] TempPro / B0DB18WL6Z / review=196 star=4.0 
+   TempPro デジタル温湿度計 Bluetooth スマホ連動 ワイヤレス 室内 温度計 湿度計 小型 高精度 見やすい 大画面 顔マーク
+8. [Tier2] Inkbird / B07DVJ1P6J / review=130 star=3.7 
+   Inkbird 温湿度計 Bluetooth対応 データロガー デジタル 温度計 湿度計 スマホで温度湿度管理 グラフ記録 プローブ付き マ
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 2 件 --
+  - [Tier1] Govee / B09BYYS7X5: 多様性制約または件数上限のため非選抜
+  - [Tier3] JJ / B09PVDQ8SS: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-08_部屋の状態をスマホで確認する。温湿度計.md

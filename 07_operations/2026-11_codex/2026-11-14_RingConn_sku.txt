@@ -1,0 +1,481 @@
+- link "Amazonアソシエイト ツールバー":
+  - /url: https://affiliate.amazon.co.jp/home
+  - paragraph: Amazonアソシエイト
+  - heading "ツールバー" [level=2]
+- paragraph: カテゴリー
+- paragraph
+- paragraph: 販売手数料率
+- paragraph
+- paragraph:
+  - text: 【10/16(金)0時～】「プライム感謝祭」開催！10/13(火)からは先行セール。
+  - link "イベントページはこちら。":
+    - /url: https://www.amazon.co.jp/primeappreciation?ref=SiteStripe
+- button "リンク生成"
+- button "設定":
+- navigation "ショートカットメニュー":
+  - heading "次に移動" [level=2]
+  - list "次に移動":
+    - link "メインコンテンツ":
+      - /url: "#skippedLink"
+  - separator
+- banner:
+  - navigation "プライマリ":
+    - link "Amazon.co.jp Prime":
+      - /url: /ref=nav_logo
+      - generic: .co.jp
+    - link:
+      - /url: /ref=nav_logo_prime
+    - button "お届け先 清水 翔平さん 812-0893‌":
+      - generic: お届け先 清水 翔平さん
+      - generic: 812-0893‌
+    - search:
+      - generic: エレクトロニクス&カメラ
+      - combobox "検索するカテゴリーを選択します。":
+        - option "すべてのカテゴリー"
+        - option "Amazon ふるさと納税"
+        - option "プライム感謝セール"
+        - option "Audibleオーディオブック"
+        - option "Amazon デバイス"
+        - option "Kindleストア"
+        - option "Prime Video"
+        - option "Alexaスキル"
+        - option "Amazon定期おトク便"
+        - option "デジタルミュージック"
+        - option "アプリ&ゲーム"
+        - option "本"
+        - option "洋書"
+        - option "音楽"
+        - option "クラシック"
+        - option "DVD"
+        - option "コンピューター&テレビゲーム"
+        - option "PCソフト"
+        - option "パソコン・周辺機器"
+        - option "エレクトロニクス&カメラ" [selected]
+        - option "文房具・オフィス用品"
+        - option "キッチン&家庭用品"
+        - option "ペット用品"
+        - option "ヘルスケア&パーソナルケア"
+        - option "ビューティー"
+        - option "食品・飲料・お酒"
+        - option "ベビー&マタニティ"
+        - option "ファッション"
+        - option "女性服、靴、ジュエリー"
+        - option "男性用服、靴、ジュエリー"
+        - option "ベビー服、靴、ジュエリー"
+        - option "玩具"
+        - option "ホビー"
+        - option "楽器"
+        - option "スポーツ&アウトドア"
+        - option "車＆バイク"
+        - option "DIY、工具、ガーデニング"
+        - option "大型家電"
+        - option "クレジットカード"
+        - option "ギフトカード"
+        - option "産業・研究開発用品"
+        - option "Amazonアウトレット"
+        - option "マルキョウ"
+        - option "Amazon Haul"
+        - option "Amazonインターナショナルダイレクト"
+      - searchbox "Amazon.co.jpを検索"
+      - generic "検索":
+        - button "検索"
+    - link "Amazon日本でのショッピングに使用する言語を選択します。現在の選択は日本語(JP)です。":
+      - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+      - img "日本"
+      - generic: JP
+    - link "清水翔平さん アカウント＆リスト":
+      - /url: https://www.amazon.co.jp/gp/css/homepage.html?ref_=nav_youraccount_btn
+      - generic: 清水翔平さん
+      - generic: アカウント＆リスト
+    - button "アカウントと購入品リストを展開"
+    - link "返品もこちら 注文履歴":
+      - /url: /gp/css/order-history?ref_=nav_orders_first
+      - generic: 返品もこちら
+      - generic: 注文履歴
+    - link "カート内の商品数：0":
+      - /url: /gp/cart/view.html?ref_=nav_cart
+      - generic: "0"
+      - generic: カート
+    - button "すべてのカテゴリーメニューを開く":
+      - generic: すべて
+    - button "Open Rufus panel":
+      - generic: Rufus
+    - list:
+      - link "Amazonポイント":
+        - /url: /Amazon%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/b/?ie=UTF8&node=2632478051&ref_=nav_cs_jppoints_rec
+      - link "ヘルプ":
+        - /url: /%E3%83%98%E3%83%AB%E3%83%97/b/?ie=UTF8&node=642938&ref_=nav_cs_help_wt_t2
+      - link "ふるさと納税":
+        - /url: /fmc/furusato?ref_=nav_cs_tatsumi_discobar
+      - link "プチプラHaul":
+        - /url: /haul/store?ref_=nav_cs_hul_disb
+      - link "Prime Video":
+        - /url: /gp/video/storefront?ref_=nav_cs_prime_video
+      - link "本":
+        - /url: /%E6%9C%AC-%E6%9B%B8%E7%B1%8D-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=465392&ref_=nav_cs_books
+      - link "Kindle本":
+        - /url: /Kindle-%E3%82%AD%E3%83%B3%E3%83%89%E3%83%AB-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D/b/?ie=UTF8&node=2275256051&ref_=nav_cs_kindle_books
+      - link "ランキング":
+        - /url: /ranking?type=top-sellers&ref_=nav_cs_bestsellers
+      - link "タイムセール":
+        - /url: /gp/goldbox?ref_=nav_cs_gb
+      - link "クーポン":
+        - /url: /coupons?ref_=nav_cs_coupons
+      - link "Amazon Basics":
+        - /url: /amazon_basic?ref_=nav_cs_amazonbasics
+      - link "定期おトク便":
+        - /url: /auto-deliveries?ref_=nav_cs_sns
+      - link "マルキョウ":
+        - /url: /alm/storefront?almBrandId=qg6iObTGYS&ref_=nav_cs_maruk
+      - link "食品＆飲料":
+        - /url: /%E9%A3%9F%E5%93%81-%E9%A3%B2%E6%96%99-%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84-%E3%81%8A%E8%8F%93%E5%AD%90-%E9%85%92/b/?ie=UTF8&node=57239051&ref_=nav_cs_grocery
+      - link "閲覧履歴":
+        - /url: /gp/history?ref_=nav_cs_timeline
+      - link "ギフトカード":
+        - /url: /%E3%82%AE%E3%83%95%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/b/?ie=UTF8&node=2351652051&ref_=nav_cs_gc
+      - button "ギフトカード詳細"
+      - link "再び購入":
+        - /url: /gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again
+      - link "ショッピングを続ける":
+        - /url: /hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db
+      - link "Amazonビジネス":
+        - /url: /business/register/org/landing?ref_=nav_cs_business_flyout
+      - button "Amazonビジネス詳細"
+      - link "ミュージック":
+        - /url: /music/player?ref_=nav_cs_music
+      - link "プライム":
+        - /url: /prime?ref_=nav_cs_primelink_member
+      - button "プライム詳細"
+      - link "新着商品":
+        - /url: /ranking?type=new-releases&ref_=nav_cs_newreleases
+      - link "パソコン・周辺機器":
+        - /url: /PC%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2127209051&ref_=nav_cs_pc
+      - link "DIY・工具":
+        - /url: /DIY%E3%83%BB%E5%B7%A5%E5%85%B7-%E5%A4%A7%E5%B7%A5%E9%81%93%E5%85%B7-%E4%BD%9C%E6%A5%AD%E7%94%A8%E5%93%81%E3%83%BB%E5%AE%89%E5%85%A8%E7%94%A8%E5%93%81-%E9%9B%BB%E5%8B%95%E3%83%BB%E4%BD%9C%E6%A5%AD%E5%B7%A5%E5%85%B7-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2/b/?ie=UTF8&node=2016929051&ref_=nav_cs_hi
+      - link "ベビー&マタニティ":
+        - /url: /%E3%83%99%E3%83%93%E3%83%BC%E7%94%A8%E5%93%81-%E9%80%9A%E8%B2%A9-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E4%BA%BA%E6%B0%97-%E3%82%BB%E3%83%BC%E3%83%AB/b/?ie=UTF8&node=344845011&ref_=nav_cs_baby
+      - link "おもちゃ&ホビー":
+        - /url: /%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=13299531&ref_=nav_cs_toys
+      - link "Amazonファッション":
+        - /url: /%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/b/?ie=UTF8&node=2229202051&ref_=nav_cs_fashion
+      - link "ホーム&キッチン":
+        - /url: /%E3%83%9B%E3%83%BC%E3%83%A0-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%B6%88%E8%80%97%E5%93%81%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E7%94%9F%E6%B4%BB%E9%9B%91%E8%B2%A8/b/?ie=UTF8&node=3828871&ref_=nav_cs_home_kitchen
+      - link "ペットフード・ペット用品":
+        - /url: /%E3%83%9A%E3%83%83%E3%83%88%E3%83%95%E3%83%BC%E3%83%89-%E3%83%9A%E3%83%83%E3%83%88%E7%94%A8%E5%93%81/b/?ie=UTF8&node=2127212051&ref_=nav_cs_pets
+      - link "エクスプレスマート":
+        - /url: /gp/browse.html?node=203868164051&ref_=nav_cs_EE
+    - link "動画を観るなら、Fire TV":
+      - /url: /dp/B0G3YCRJKX/?_encoding=UTF8&ref=ods_swm_SMP&ref_=nav_swm_adbl_swm_bau&pf_rd_p=d8d2d04a-29e8-40fd-b633-2c36cd746ed9&pf_rd_s=nav-sitewide-msg&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A1VC38T7YXB528&pf_rd_r=N1D5J5YC0DM05KBJFB1F
+      - img "動画を観るなら、Fire TV"
+    - link "家電・カメラ・AV機器":
+      - /url: /%E5%AE%B6%E9%9B%BB-%E3%82%AB%E3%83%A1%E3%83%A9-AV%E6%A9%9F%E5%99%A8-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E6%A9%9F%E5%99%A8/b/?ie=UTF8&node=3210981&ref_=topnav_storetab_e
+    - link "家電":
+      - /url: /%E7%94%9F%E6%B4%BB%E5%AE%B6%E9%9B%BB/b/?ie=UTF8&node=124048011&ref_=sv_e_1
+    - link "カメラ":
+      - /url: /%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9-%E3%83%93%E3%83%87%E3%82%AA-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E4%B8%80%E7%9C%BC%E3%83%AC%E3%83%95-%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AC%E3%82%B9%E4%B8%80%E7%9C%BC/b/?ie=UTF8&node=16462091&ref_=sv_e_2
+    - link "携帯電話・スマホ":
+      - /url: /%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3-%E3%82%B9%E3%83%9E%E3%83%9B/b/?ie=UTF8&node=128187011&ref_=sv_e_3
+    - link "テレビ・レコーダー":
+      - /url: /%E3%83%86%E3%83%AC%E3%83%93%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC-%E3%83%96%E3%83%AB%E3%83%BC%E3%83%AC%E3%82%A4-DVD-%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC/b/?ie=UTF8&node=3477381&ref_=sv_e_4
+    - link "オーディオ":
+      - /url: /%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA-%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC-%E3%82%A2%E3%83%B3%E3%83%97-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/b/?ie=UTF8&node=16462081&ref_=sv_e_5
+    - link "ヘッドホン":
+      - /url: /%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E3%83%BB%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3-%E3%82%AB%E3%83%8A%E3%83%AB-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%98%E3%83%83%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA/b/?ie=UTF8&node=3477981&ref_=sv_e_6
+    - link "アクセサリ":
+      - /url: /%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4/b/?ie=UTF8&node=3371421&ref_=sv_e_8
+    - link "Amazonランキング":
+      - /url: http://www.amazon.co.jp/gp/bestsellers/electronics/?ie=UTF8&ref_=sv_e_9
+    - dialog
+- main:
+  - link "Amazonで出品しませんか":
+    - /url: https://www.amazon.co.jp/r/?_encoding=UTF8&aid=UuQ_MB8VR-2CVHtcS8wIUA&dest=https%3A%2F%2Fsell.amazon.co.jp%2Fgrow%2Fpromotions%2Fretail-leadgen%2Fdp3%3Fld%3DAZJPSOA_DP_2025_ilm_B&pd_rd_w=IpEM0&content-id=amzn1.sym.a15dbbb8-4a19-49e0-932c-db0fc676e86c&pf_rd_p=a15dbbb8-4a19-49e0-932c-db0fc676e86c&pf_rd_r=N1D5J5YC0DM05KBJFB1F&pd_rd_wg=RWj5p&pd_rd_r=b7175ea2-88a2-4d10-8b8e-f3eb1b1d0353
+    - img "Amazonで出品しませんか"
+  - list:
+    - link "スポーツ＆アウトドア":
+      - /url: /%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2-%E8%87%AA%E8%BB%A2%E8%BB%8A-%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%83%BB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0-%E3%82%B4%E3%83%AB%E3%83%95%E7%94%A8%E5%93%81%E9%80%9A%E8%B2%A9/b/ref=dp_bc_1?ie=UTF8&node=14304371
+    - listitem: ›
+    - link "スポーツケア・アクセサリ・競技備品":
+      - /url: /%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC-%E9%80%9A%E8%B2%A9/b/ref=dp_bc_2?ie=UTF8&node=14315421
+    - listitem: ›
+    - link "スポーツ・レクリエーションテクノロジー":
+      - /url: /%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%BB%E3%83%AC%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/b/ref=dp_bc_3?ie=UTF8&node=14586610051
+    - listitem: ›
+    - link "活動量計":
+      - /url: /%E6%B4%BB%E5%8B%95%E9%87%8F%E8%A8%88-%E5%81%A5%E5%BA%B7%E6%A9%9F%E5%99%A8-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC-%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E7%94%A8%E5%93%81-%E9%80%9A%E8%B2%A9/b/ref=dp_bc_4?ie=UTF8&node=2201382051
+  - generic: ￥52,800
+  - generic: ￥52,800
+  - text: 税込
+  - text: "ポイント: 528pt (1%)"
+  - link "詳細はこちら":
+    - /url: /gp/help/customer/display.html?nodeId=200041560&pop-up=1
+  - img "prime"
+  - text: 翌日
+  - text: 無料配送 明日 10月11日にお届け （11 時間 28 分以内にご注文の場合）
+  - link "配送料と配送方法の詳細":
+    - /url: /gp/help/customer/display.html/?nodeId=201911210
+    - text: 詳細を見る
+  - button "清水 翔平 - 812-0893‌ にお届け":
+    - generic: 清水 翔平 - 812-0893‌ にお届け
+  - text: 在庫あり。
+  - link "在庫状況":
+    - /url: /gp/help/customer/display.html?&nodeId=201910280
+  - text: について
+  - generic: "数量:"
+  - combobox "数量:":
+    - option "1" [selected]
+    - option "2"
+    - option "3"
+    - option "4"
+    - option "5"
+    - option "6"
+    - option "7"
+    - option "8"
+    - option "9"
+    - option "10"
+    - option "11"
+    - option "12"
+    - option "13"
+    - option "14"
+    - option "15"
+    - option "16"
+    - option "17"
+    - option "18"
+    - option "19"
+    - option "20"
+    - option "21"
+    - option "22"
+    - option "23"
+    - option "24"
+    - option "25"
+    - option "26"
+    - option "27"
+    - option "28"
+    - option "29"
+    - option "30"
+  - generic: 数量:1
+  - button "カートに入れる"
+  - generic: カートに入れる
+  - button "今すぐ買う"
+  - generic: 今すぐ買う
+  - group "出品者、配送、購入オプションの詳細":
+    - heading "出荷元" [level=4]:
+      - generic: 出荷元
+    - generic: Amazon
+    - heading "販売元" [level=4]:
+      - generic: 販売元
+    - link "RingConn Official Store":
+      - /url: /gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AG9GL2EBIHL4W&asin=B0DG2QKMFX&ref_=dp_merchant_link&isAmazonFulfilled=1
+    - generic: （25件の評価）
+    - heading "ギフトオプション" [level=4]:
+      - generic: ギフトオプション
+    - button "レジで利用可能":
+      - generic: レジで利用可能
+    - heading "カスタマーサービス" [level=4]:
+      - generic: カスタマーサービス
+    - button "Amazon":
+      - generic: Amazon
+  - button "すべて見る": すべて見る
+  - separator
+  - button "リストに追加"
+  - generic: リストに追加
+  - button "ドロップダウンからリストを選択する"
+  - radiogroup "画像サムネイル":
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image, 2+ その他の画像が対応可能 2+":
+      - img "Product Image, 2+ その他の画像が対応可能"
+      - generic: 2+
+    - radio "Product Video":
+      - img "Product Video"
+    - generic: ビデオ
+  - list
+  - list:
+    - button "RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリー持続最長12日、睡眠・心拍・ストレス・女性の健康管理・フィットネス追跡、Android &amp; iOS対応（シルバー、サイズ10）":
+      - img "RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリー持続最長12日、睡眠・心拍・ストレス・女性の健康管理・フィットネス追跡、Android &amp; iOS対応（シルバー、サイズ10）"
+  - link "クリックしてフルビューを表示する":
+    - /url: "#"
+  - heading "Rufusに尋ねる" [level=5]:
+    - text: Rufusに尋ねる
+  - list:
+    - button "充電は簡単ですか？":
+      - generic: 充電は簡単ですか？
+    - button "睡眠の質は測れますか？":
+      - generic: 睡眠の質は測れますか？
+    - button "どのスマホに対応していますか？":
+      - generic: どのスマホに対応していますか？
+    - button "他のことを聞いてください":
+      - generic: 他のことを聞いてください
+  - button
+  - heading "RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリー持続最長12日、睡眠・心拍・ストレス・女性の健康管理・フィットネス追跡、Android & iOS対応（シルバー、サイズ10）" [level=1]
+  - link "RingConnのストアを表示":
+    - /url: /stores/RingConn/page/69A22FD3-BBFA-42B3-AF84-F1249E44C43F?lp_asin=B0DG2QKMFX&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto
+  - generic "5つ星のうち4.0":
+    - button "5つ星のうち4.0":
+      - text: "4.0"
+      - generic: 5つ星のうち4.0
+  - link "5,792 レビュー":
+    - /url: "#averageCustomerReviewsAnchor"
+    - text: (5,792)
+  - text: "|"
+  - link "このページを検索":
+    - /url: "#"
+  - generic: Amazon おすすめ
+  - separator
+  - generic: ￥52,800
+  - generic: ￥52,800
+  - text: 税込
+  - link "価格履歴":
+    - /url: "#"
+  - link "あと払い (ペイディ)で毎月のお買い物金額から最大5%ポイント還元 今すぐエントリー":
+    - /url: /gp/cobrandcard/redirect.html?sigauth=IRS_CUSTOM&signature=5AD5BE0179DD327C22B2BBD2EFB3582E21966D9C33F8980AB25A2CEDC8ADD1EA&location=%2Fb%3Fnode%3D8215625051%26RU%3D%252Fdp%252Fproduct%252FB0DG2QKMFX&imp=c2eb9882-7448-4570-a5e2-079feaad9f16&mru=%2Fdp%2Fproduct%2FB0DG2QKMFX
+    - text: あと払い (ペイディ)で毎月のお買い物金額から最大5%ポイント還元
+    - strong: 今すぐエントリー
+  - img "prime"
+  - text: 翌日
+  - text: "ポイント: 528pt (1%)"
+  - link "詳細はこちら":
+    - /url: /gp/help/customer/display.html?nodeId=200041560&pop-up=1
+  - table
+  - generic: ダブルポイント
+  - link "詳細":
+    - /url: "#"
+  - button "入会キャンペーン" [disabled]
+  - generic: 入会キャンペーン
+  - text: Amazon Mastercard 新規入会 + 初回利用で4,000ポイント
+  - link "今すぐ申し込む >":
+    - /url: /dp/B08P4CFBK6?ref_=cbcc_jp_202610_janus_pas26&source=dp_cxcw
+  - button "dアカウント連携者限定" [disabled]
+  - generic: dアカウント連携者限定
+  - text: "[プライム感謝祭] dポイントを使うと最大10万ポイントが当たる"
+  - link "エントリーをする":
+    - /url: /b/?node=221362476051&ref_=jp_d_bbrlp_dpbadge_baseoffer_pas26&source=dp_cxcw
+  - paragraph:
+    - text: お仕事用のショッピングですか? Amazonビジネスのご注文で、最大¥9000までの30%割引が適用されます。
+    - link "無料のビジネスアカウントにご登録ください。":
+      - /url: /ab/incentives/reg/nt?campaignId=2f6984ec-01a5-40eb-8494-966d479d7b3f&ABevent=PBDD26&ref=ab_reg_inct_onsite_oth_dpx&returnToUrl=%2Fdp%2FB0DG2QKMFX%3FregistrationStatus%3DREGISTERED&client=abupsell
+  - button "Amazonによる発送"
+  - button "安心・安全への取り組み"
+  - button "お客様情報の保護"
+  - generic "選択された色はフューチャーシルバーです。 タップして部分表示します。":
+    - generic: "色: フューチャーシルバー"
+  - generic "5のオプションがあります。":
+    - group "色の選択ができます":
+      - radiogroup:
+        - radio "フューチャーシルバー ￥52,800 ￥52,800 在庫あり。 プライムロゴ 無料配送 明日 明日" [checked]
+        - separator
+        - generic: ￥52,800
+        - generic: ￥52,800
+        - generic: 無料配送 明日
+        - radio "マットブラック ￥52,800 ￥52,800 在庫あり。 プライムロゴ 無料配送 明日 明日"
+        - separator
+        - generic: ￥52,800
+        - generic: ￥52,800
+        - generic: 無料配送 明日
+        - link:
+          - /url: /dp/B0DG2S6GC1/ref=twister_B0F1TW6XX1?_encoding=UTF8&psc=1
+        - radio "ロイヤルゴールド ￥52,800 ￥52,800 在庫あり。 プライムロゴ 無料配送 明日 明日"
+        - separator
+        - generic: ￥52,800
+        - generic: ￥52,800
+        - generic: 無料配送 明日
+        - link:
+          - /url: /dp/B0DG2SYGF3/ref=twister_B0F1TW6XX1?_encoding=UTF8&psc=1
+        - radio "ローズゴールド ￥79,800 ￥79,800 在庫あり。 プライムロゴ 無料配送 明日 明日"
+        - separator
+        - generic: ￥79,800
+        - generic: ￥79,800
+        - generic: 無料配送 明日
+        - link:
+          - /url: /dp/B0DG2SWF8D/ref=twister_B0F1TW6XX1?_encoding=UTF8&psc=1
+      - navigation
+  - generic "選択されたサイズは10です。 タップして部分表示します。":
+    - generic: "サイズ: 10"
+  - generic "10のオプションがあります。":
+    - group "サイズの選択ができます":
+      - radiogroup:
+        - radio "6"
+        - generic: "6"
+        - link:
+          - /url: /dp/B0DG2VFD63/ref=twister_B0F1TW6XX1?_encoding=UTF8&psc=1
+        - radio "6-14"
+        - generic: 6-14
+        - link:
+          - /url: /dp/B0DGFZ3VWP/ref=twister_B0F1TW6XX1
+        - radio "7"
+        - generic: "7"
+        - link:
+          - /url: /dp/B0F212QSXZ/ref=twister_B0F1TW6XX1?_encoding=UTF8&psc=1
+        - radio "8"
+        - generic: "8"
+        - link:
+          - /url: /dp/B0F2132J2H/ref=twister_B0F1TW6XX1?_encoding=UTF8&psc=1
+        - radio "9"
+        - generic: "9"
+        - link:
+          - /url: /dp/B0DG2SJJ7Q/ref=twister_B0F1TW6XX1?_encoding=UTF8&psc=1
+        - radio "10" [checked]
+        - generic: "10"
+        - radio "11"
+        - generic: "11"
+        - link:
+          - /url: /dp/B0F2129CRP/ref=twister_B0F1TW6XX1?_encoding=UTF8&psc=1
+        - radio "12"
+        - generic: "12"
+        - link:
+          - /url: /dp/B0F2124M2D/ref=twister_B0F1TW6XX1?_encoding=UTF8&psc=1
+        - radio "13"
+        - generic: "13"
+        - link:
+          - /url: /dp/B0F212F9C5/ref=twister_B0F1TW6XX1?_encoding=UTF8&psc=1
+        - radio "14"
+        - generic: "14"
+        - link:
+          - /url: /dp/B0DG2RH51X/ref=twister_B0F1TW6XX1?_encoding=UTF8&psc=1
+  - list:
+    - rowgroup:
+      - listitem: オペレーティングシステム Proprietary OS
+      - listitem: メモリストレージ容量 2 MB
+      - listitem: 特徴 いびき検知, デイリーワークアウトメモリー, マルチスポーツトラッカー, 月経周期トラッキング, 活動量計
+      - listitem: バッテリー容量 12 日
+      - listitem: 接続技術 Bluetooth
+  - separator
+  - heading "この商品について" [level=2]
+  - list:
+    - listitem: 【購入前にサイズ確認】RingConn Gen 2スマートリングは他社の健康リングとは異なる独自のサイズ基準を採用しています。RingConn Gen 2サイズキットを使用することで、指に最も快適で正確なフィット感を見つけられ、購入前に正しいサイズを選択することで返品や交換の手間を防ぎます
+    - listitem: 【サブスクリプション不要】RingConn Gen 2スマートリングをご購入いただくと、RingConnスマートヘルスモニタリングアプリの包括的な機能に永久アクセス可能。継続的でリアルタイムな健康トラッキングとパーソナライズされた分析を体験できます
+    - listitem: "[健康モニタリング以上の機能] RingConn Gen 2 スマートリングは、一般的な健康モニタリング機能を超え、アクティビティ、睡眠、心拍、ストレスの追跡だけでなく、OTAアップデートにも対応。継続的な改善と新機能の追加により、あなたのニーズに合わせた進化し続ける体験を提供します"
+    - listitem: 【あらゆる冒険に対応する防水性能】100mの防水性能を備えたRingConn Gen 2スマートリングは、日常着用、ワークアウト、水泳に最適。敏感肌の方でも快適な耐久性を実現しています
+    - listitem: 【長持ちバッテリー】RingConn Gen 2は最大10-12日間のバッテリー駆動時間を実現。サイズにより異なり、大きいサイズ（12-14）は最大12日間。スマート充電ケースと併用で150日を超えます
+    - listitem: 【超薄型デザイン】わずか2グラム（サイズにより変動）の画期的な薄型デザイン。これまで以上に薄く、軽く、フィット感も向上。装着感がほとんど気になりません
+    - listitem: 【パッケージ内容】RingConn Gen 2スマートリング1、充電ケース1、1m/3.3ft USB-C to USB-Cケーブル1、取扱説明書1、12ヶ月保証、カスタマーサービス
+  - text: ›
+  - link "もっと見る":
+    - /url: "#productDetails"
+  - separator
+  - heading "その他の詳細" [level=1]
+  - generic: Transparencyによる確認済み
+  - text: 各商品には固有のコードがあり、出荷前に当社が確認しています。
+  - link "詳細はこちら":
+    - /url: "#"
+  - text: 各商品には固有のコードがあり、出荷前に当社が確認しています。
+  - link:
+    - /url: "#"
+    - text: 詳細はこちら
+  - link "この商品に関する問題を報告する":
+    - /url: javascript:void(0)
+  - separator
+  - link:
+    - /url: /fmc/furusato/ranking/weekly/ref=tatsu_dp_hqp/?_encoding=UTF8&pf_rd_p=ed3cfecb-e5b2-48c6-962a-5021424dc387&pf_rd_r=N1D5J5YC0DM05KBJFB1F
+  - generic: いつものAmazonでふるさと納税
+  - text: 今週のTop 100人気返礼品ランキングを公開中。Amazonふるさと納税でしか見つからない限定返礼品や、欲しいときにすぐ届く最短翌日お届けの返礼品も。
+  - link "いつものAmazonでふるさと納税":
+    - /url: /fmc/furusato/ranking/weekly/ref=tatsu_dp_hqp/?_encoding=UTF8&pf_rd_p=ed3cfecb-e5b2-48c6-962a-5021424dc387&pf_rd_r=N1D5J5YC0DM05KBJFB1F
+    - text: 今すぐチェック

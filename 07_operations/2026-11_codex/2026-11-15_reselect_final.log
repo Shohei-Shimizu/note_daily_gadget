@@ -1,0 +1,32 @@
+🚫 --exclude-asin により 3 件を選抜対象から外しました: B0CJDV213W, B0CJVFJMVF, B0F5GQLNWP
+📦 候補読み込み: 8 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_projector_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 7 / 8
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier3 / 緩和: あり
+採用件数: 7
+
+-- 採用 --
+1. [Tier1] Anker / B0BCTP8VJH / review=2374 star=4.4 ★有名ブランド
+   Anker Nebula Capsule 3 Laser 【小型モバイルレーザープロジェクター】 | 家庭用 Google TV搭載 フルH
+2. [Tier2] Dangbei / B0D1TYZSXV / review=145 star=4.4 
+   Dangbei(ダンベイ) DBOX02 4K プロジェクター GTV搭載 Netflix公認 レーザー光源 2450ISOルーメン 静音フ
+3. [Tier3] BenQ / B0776TCTK2 / review=98 star=4.2 ★有名ブランド
+   BenQ TH671ST 短焦点 DLPホームプロジェクター フルHD/3,000ANSIルーメン/低遅延/ゲーミング | 1.5mで100
+4. [Tier3] Epson / B00PIM0PTG / review=78 star=4.1 ★有名ブランド
+   エプソン プロジェクター EB-535W (3400lm/WXGA/3.7kg/デスクトップ型超短焦点)
+5. [Tier3] SONY / B01AUL0U8K / review=68 star=3.2 ★有名ブランド
+   ソニー プロジェクター ポータブル/超短焦点/バッテリー・スピーカー内蔵 LSPX-P1
+6. [Tier3] Epson / B01N0EJD6I / review=66 star=4.4 ★有名ブランド
+   EPSON プロジェクター EB-1785W 3,200lm WXGA 1.8kg
+7. [Tier3] TCL / B0FH21C9P6 / review=37 star=4.4 
+   TCL PlayCube 750 ISO 1080P FHD LED 小型 プロジェクター GoogleTV ポータブルプロジェクター/ルー
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 0 件 --
+
+-- 除外（選抜対象外）: 1 件 --
+  - B0D2R2QXZR / YOWHICK プロジェクター 家庭用 小型 Android TV搭載・3000: 在庫切れのため除外
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-15_映像の画面を広げる。プロジェクター.md

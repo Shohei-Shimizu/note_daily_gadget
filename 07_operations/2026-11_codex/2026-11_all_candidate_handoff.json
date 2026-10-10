@@ -1,0 +1,543 @@
+{
+  "index_created": "2026-10-10",
+  "account": "daily_gadget",
+  "scope": "30 candidate handoff paths only, not canonical themes or publication metadata",
+  "note": "1〜20の候補は主担当が実測/再スコープするため件数変化をあり得る状態として読み取った。引渡し一覧は制作完了・予約完了を示さない",
+  "topics": [
+    {
+      "date": "2026-11-01",
+      "topic_id": "daily_gadget_20261101_5d60a8d4",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-01_keyboard_scope_audit.json",
+      "candidate_count_current_file": 26,
+      "scope_audit_recorded_count": 27,
+      "candidate_count_and_audit_match": false,
+      "maker_count_current": 11,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": null,
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-02",
+      "topic_id": "daily_gadget_20261102_f6e93a8d",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-02_smart_remote_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-02_smart_remote_scope_audit.json",
+      "candidate_count_current_file": 9,
+      "scope_audit_recorded_count": 9,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 5,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:smart_remote",
+        "title_scope": "standalone infrared remote",
+        "exclude_used_since": "2026-10-03",
+        "parent_gate_audited": true
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-03",
+      "topic_id": "daily_gadget_20261103_164160ad",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-03_gadget_pouch_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-03_gadget_pouch_scope_audit.json",
+      "candidate_count_current_file": 27,
+      "scope_audit_recorded_count": 27,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 7,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:gadget_pouch",
+        "title_scope": "PC accessory pouch",
+        "exclude_used_since": "2026-10-04",
+        "parent_gate_audited": true
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-04",
+      "topic_id": "daily_gadget_20261104_a6fa15ce",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-04_headphone_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-04_headphone_scope_audit.json",
+      "candidate_count_current_file": 14,
+      "scope_audit_recorded_count": 14,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 9,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:headphone",
+        "title_scope": "over-ear ANC headphone",
+        "exclude_used_since": "2026-10-05",
+        "parent_gate_audited": true
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-05",
+      "topic_id": "daily_gadget_20261105_5405bca5",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-05_timer_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-05_timer_scope_audit.json",
+      "candidate_count_current_file": 33,
+      "scope_audit_recorded_count": 33,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 15,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:timer",
+        "tentative_theme": "作業時間を区切る。デスクタイマー",
+        "exclude_used_since": "2026-10-06",
+        "features_current": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-06",
+      "topic_id": "daily_gadget_20261106_25de440c",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_usb_hub_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_usb_hub_scope_audit.json",
+      "candidate_count_current_file": 13,
+      "scope_audit_recorded_count": 13,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 5,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:usb_hub",
+        "tentative_theme": "外出先で端子を増やす。USB-Cハブ",
+        "exclude_used_since": "2026-10-07",
+        "features_current": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-07",
+      "topic_id": "daily_gadget_20261107_e7642028",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_webcam_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_webcam_scope_audit.json",
+      "candidate_count_current_file": 11,
+      "scope_audit_recorded_count": 11,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 5,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:webcam",
+        "tentative_theme": "オンライン会議の映像を整える。Webカメラ",
+        "exclude_used_since": "2026-10-08",
+        "features_current": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-08",
+      "topic_id": "daily_gadget_20261108_5512daf8",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_thermo_hygrometer_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_thermo_hygrometer_scope_audit.json",
+      "candidate_count_current_file": 10,
+      "scope_audit_recorded_count": 10,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 6,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:thermo_hygrometer",
+        "tentative_theme": "離れた部屋の温湿度を確認する。スマホ連携温湿度計",
+        "exclude_used_since": "2026-10-09",
+        "features_current": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-09",
+      "topic_id": "daily_gadget_20261109_fd8499b3",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_external_hdd_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_external_hdd_scope_audit.json",
+      "candidate_count_current_file": 21,
+      "scope_audit_recorded_count": 21,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 10,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:external_hdd",
+        "tentative_theme": "PCの写真と仕事ファイルを残す。外付けHDD",
+        "exclude_used_since": "2026-10-10",
+        "features_current": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-10",
+      "topic_id": "daily_gadget_20261110_5bb157d8",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-10_charger_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-10_charger_scope_audit.json",
+      "candidate_count_current_file": 31,
+      "scope_audit_recorded_count": 31,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 7,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:charger",
+        "tentative_theme": "PCとスマホの充電をまとめる。USB充電器",
+        "exclude_used_since": "2026-10-11",
+        "features_current": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-11",
+      "topic_id": "daily_gadget_20261111_9e1adf8e",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_scanner_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_scanner_scope_audit.json",
+      "candidate_count_current_file": 5,
+      "scope_audit_recorded_count": 5,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 3,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:scanner",
+        "theme": "両面の紙資料を取り込む。ドキュメントスキャナー",
+        "exclude_used_since": "2026-10-12",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-12",
+      "topic_id": "daily_gadget_20261112_731daa9a",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_earphone_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_earphone_scope_audit.json",
+      "candidate_count_current_file": 35,
+      "scope_audit_recorded_count": 35,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 15,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:earphone",
+        "theme": "移動中と仕事で使う。ワイヤレスイヤホン",
+        "exclude_used_since": "2026-10-13",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-13",
+      "topic_id": "daily_gadget_20261113_08ed1fc9",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_backpack_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_backpack_scope_audit.json",
+      "candidate_count_current_file": 6,
+      "scope_audit_recorded_count": 6,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 5,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:backpack",
+        "theme": "PCと仕事道具を持ち運ぶ。ビジネスリュック",
+        "exclude_used_since": "2026-10-14",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-14",
+      "topic_id": "daily_gadget_20261114_92c0cc94",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_smart_ring_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_smart_ring_scope_audit.json",
+      "candidate_count_current_file": 21,
+      "scope_audit_recorded_count": 21,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 5,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:smart_ring",
+        "theme": "睡眠と活動の傾向を記録する。スマートリング",
+        "exclude_used_since": "2026-10-15",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-15",
+      "topic_id": "daily_gadget_20261115_436f7300",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_projector_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_projector_scope_audit.json",
+      "candidate_count_current_file": 11,
+      "scope_audit_recorded_count": 11,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 9,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:projector",
+        "theme": "自宅の壁に映す。ホームプロジェクター",
+        "exclude_used_since": "2026-10-16",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-16",
+      "topic_id": "daily_gadget_20261116_bbfd27fe",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_label_printer_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_label_printer_scope_audit.json",
+      "candidate_count_current_file": 11,
+      "scope_audit_recorded_count": 11,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 4,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:label_printer",
+        "theme": "配線と書類の表示を印刷する。ラベルプリンター",
+        "exclude_used_since": "2026-10-17",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-17",
+      "topic_id": "daily_gadget_20261117_1a758de7",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-17_usb_memory_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-17_usb_memory_scope_audit.json",
+      "candidate_count_current_file": 13,
+      "scope_audit_recorded_count": 13,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 5,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:usb_memory",
+        "theme": "PC間のファイルを持ち運ぶ。USBメモリ",
+        "exclude_used_since": "2026-10-18",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-18",
+      "topic_id": "daily_gadget_20261118_155b52cc",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_air_duster_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_air_duster_scope_audit.json",
+      "candidate_count_current_file": 11,
+      "scope_audit_recorded_count": 11,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 5,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:air_duster",
+        "theme": "キーボードのほこりを吹き飛ばす。電動エアダスター",
+        "exclude_used_since": "2026-10-19",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-19",
+      "topic_id": "daily_gadget_20261119_0038b5ca",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_card_reader_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_card_reader_scope_audit.json",
+      "candidate_count_current_file": 7,
+      "scope_audit_recorded_count": 4,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 4,
+      "status": "theme_replaced_due_to_verified_supply_shortage; unmeasured",
+      "conditions": {
+        "type_tag": "type:time_locking_container",
+        "theme": "スマホに触れない時間をつくる。タイムロックボックス",
+        "exclude_used_since": "2026-10-20",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-20",
+      "topic_id": "daily_gadget_20261120_b091861e",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-20_digital_notebook_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-20_digital_notebook_scope_audit.json",
+      "candidate_count_current_file": 21,
+      "scope_audit_recorded_count": 21,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 7,
+      "status": "main_may_have_refreshed_or_scoped; inspect dated production artifacts",
+      "conditions": {
+        "type_tag": "type:digital_notebook",
+        "theme": "PDFと手書きメモを一台に残す。デジタルノート",
+        "exclude_used_since": "2026-10-21",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-21",
+      "topic_id": "daily_gadget_20261121_00248fb1",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-21_monitor_light_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-21_monitor_light_scope_audit.json",
+      "candidate_count_current_file": 5,
+      "scope_audit_recorded_count": 5,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 3,
+      "status": "local_preparation_unmeasured",
+      "conditions": {
+        "type_tag": "type:monitor_light",
+        "theme": "画面の下の手元を照らす。モニターライト",
+        "exclude_used_since": "2026-10-22",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-22",
+      "topic_id": "daily_gadget_20261122_ed8999ae",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-22_laptop_case_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-22_laptop_case_scope_audit.json",
+      "candidate_count_current_file": 13,
+      "scope_audit_recorded_count": 13,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 8,
+      "status": "local_preparation_unmeasured",
+      "conditions": {
+        "type_tag": "type:laptop_case",
+        "theme": "PCをバッグに入れて持ち運ぶ。ノートPCケース",
+        "exclude_used_since": "2026-10-23",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-23",
+      "topic_id": "daily_gadget_20261123_c7f865dc",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-23_sd_card_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-23_sd_card_scope_audit.json",
+      "candidate_count_current_file": 5,
+      "scope_audit_recorded_count": 5,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 5,
+      "status": "local_preparation_unmeasured",
+      "conditions": {
+        "type_tag": "type:sd_card",
+        "theme": "カメラや端末の保存先を増やす。microSDカード",
+        "exclude_used_since": "2026-10-24",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-24",
+      "topic_id": "daily_gadget_20261124_6b30ecfb",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-24_smartwatch_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-24_smartwatch_scope_audit.json",
+      "candidate_count_current_file": 33,
+      "scope_audit_recorded_count": 33,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 8,
+      "status": "local_preparation_unmeasured",
+      "conditions": {
+        "type_tag": "type:smartwatch",
+        "theme": "運動と日々の活動を記録する。スマートウォッチ",
+        "exclude_used_since": "2026-10-25",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-25",
+      "topic_id": "daily_gadget_20261125_68d577dc",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-25_standing_desk_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-25_standing_desk_scope_audit.json",
+      "candidate_count_current_file": 10,
+      "scope_audit_recorded_count": 10,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 8,
+      "status": "local_preparation_unmeasured",
+      "conditions": {
+        "type_tag": "type:standing_desk",
+        "theme": "立つ時間を取り入れる。電動昇降デスク",
+        "exclude_used_since": "2026-10-26",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-26",
+      "topic_id": "daily_gadget_20261126_9ccd2f95",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-26_translator_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-26_translator_scope_audit.json",
+      "candidate_count_current_file": 10,
+      "scope_audit_recorded_count": 10,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 5,
+      "status": "local_preparation_unmeasured",
+      "conditions": {
+        "type_tag": "type:translator",
+        "theme": "海外出張で会話を支える。音声翻訳機",
+        "exclude_used_since": "2026-10-27",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-27",
+      "topic_id": "daily_gadget_20261127_f633f513",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-27_desk_light_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-27_desk_light_scope_audit.json",
+      "candidate_count_current_file": 24,
+      "scope_audit_recorded_count": 24,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 16,
+      "status": "local_preparation_unmeasured",
+      "conditions": {
+        "type_tag": "type:desk_light",
+        "theme": "夜の机を照らす。デスクライト",
+        "exclude_used_since": "2026-10-28",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-28",
+      "topic_id": "daily_gadget_20261128_f64d8613",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-28_gps_tracker_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-28_gps_tracker_scope_audit.json",
+      "candidate_count_current_file": 21,
+      "scope_audit_recorded_count": 21,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 6,
+      "status": "local_preparation_unmeasured",
+      "conditions": {
+        "type_tag": "type:gps_tracker",
+        "theme": "鍵とバッグの場所を確認する。紛失防止タグ",
+        "exclude_used_since": "2026-10-29",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-29",
+      "topic_id": "daily_gadget_20261129_8393c396",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-29_mouse_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-29_mouse_scope_audit.json",
+      "candidate_count_current_file": 21,
+      "scope_audit_recorded_count": 21,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 3,
+      "status": "local_preparation_unmeasured",
+      "conditions": {
+        "type_tag": "type:mouse",
+        "theme": "移動の多い仕事で使う。ワイヤレスマウス",
+        "exclude_used_since": "2026-10-30",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    },
+    {
+      "date": "2026-11-30",
+      "topic_id": "daily_gadget_20261130_4283a16e",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-30_laptop_stand_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-30_laptop_stand_scope_audit.json",
+      "candidate_count_current_file": 19,
+      "scope_audit_recorded_count": 19,
+      "candidate_count_and_audit_match": true,
+      "maker_count_current": 11,
+      "status": "local_preparation_unmeasured",
+      "conditions": {
+        "type_tag": "type:laptop_stand",
+        "theme": "外出先でPCの目線を上げる。ノートPCスタンド",
+        "exclude_used_since": "2026-10-31",
+        "current_stock_verified": false
+      },
+      "current_stock_verified_by_this_subtask": false
+    }
+  ]
+}

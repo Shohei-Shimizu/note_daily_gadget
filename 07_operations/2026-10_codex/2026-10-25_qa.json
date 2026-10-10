@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-25",
+  "status": "local_complete",
+  "checks": {
+    "product_count": 9,
+    "selected_asin_order": [
+      "B0D3QJ66DH",
+      "B016QCPRBM",
+      "B0D9Y1J4NH",
+      "B079FDQZXQ",
+      "B0D9Y1SNQT",
+      "B0BG9VR34L",
+      "B01BXS17N6",
+      "B0GSDZTC65",
+      "B0DDTK1M4F"
+    ],
+    "research_url_order_preserved": true,
+    "product_prose_lengths": [
+      130,
+      132,
+      144,
+      138,
+      138,
+      147,
+      149,
+      145,
+      135
+    ],
+    "sources_checked": true,
+    "intro_paragraphs": 2,
+    "summary_paragraphs": 2,
+    "related_urls_from_existing_metadata": [
+      "https://note.com/daily_gadget/n/ncd041e6316d9",
+      "https://note.com/daily_gadget/n/n0366023e567c",
+      "https://note.com/daily_gadget/n/ndbce63cf191b"
+    ],
+    "idea_list_count": 1,
+    "no_price_reviews_or_use_claims": true,
+    "machine_baseline_unchanged": true
+  },
+  "notes": [
+    "原本選抜9件/順序/URL/基準メモ不変。EX-G M-XT4DRBKは左手専用親指、HUGEは人差し指・中指で別操作。",
+    "LogicoolはSP/S新モデル、Logi Boltと充電方式を公式国内発表で照合。M575SPd/MXTB2dも公式型番掲載。旧Unifying/microUSBを流用しない。",
+    "Ewin公式製品ページは仕様情報が不足。電源/接続/速度段階/Mac条件はmain2026-10-09実測の当該Amazonfeaturesを一次補足に使用。",
+    "Nulea当該ASINはチルトスタンド付、公式M501通常型への厳密SKU一致未確定。公式supportはDPI5段階/製品ページ4段階が混在。旧M501の寸法、電池時間、角度、Macボタン条件、DPI数字は転記せず。当該実測featuresのType-C充電/親指/接続/スタンドのみ使用。",
+    "Kensington国内公式2025カタログ型番K72359JPで55mm/接続/4ボタン/リング/パームレスト確定。海外公式同シリーズsupportでAA乾電池確認、JP本数未照合なので本数省略。",
+    "手首負担ゼロ/痛みや肩こり改善等の医療的断定は不使用。レビュー本文分析なし。"
+  ],
+  "publishing": {
+    "status": "reserved",
+    "scheduled_at": "2026-10-25T20:00:00+09:00",
+    "amazon_cards": 9,
+    "native_toc": true,
+    "plain_urls": 0,
+    "tags": 5,
+    "magazine_verified": true,
+    "screenshot": "2026-10-25_reserved.jpg"
+  }
+}

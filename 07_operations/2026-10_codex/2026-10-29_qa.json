@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-29",
+  "status": "local_complete",
+  "checks": {
+    "product_count": 6,
+    "selected_asin_order": [
+      "B0D1XYDS35",
+      "B0FQ5J7HFQ",
+      "B0GVH52FLS",
+      "B0FJ2G3LC2",
+      "B0G4M5QMNG",
+      "B0FWZWY2BW"
+    ],
+    "research_url_order_preserved": true,
+    "product_prose_lengths": [
+      131,
+      133,
+      144,
+      151,
+      146,
+      158
+    ],
+    "sources_checked": true,
+    "intro_paragraphs": 2,
+    "summary_paragraphs": 2,
+    "related_urls_from_existing_metadata": [
+      "https://note.com/daily_gadget/n/n5b247e8a0c1a",
+      "https://note.com/daily_gadget/n/n1ffbde3cf8b6",
+      "https://note.com/daily_gadget/n/n3d83ccce7e3e"
+    ],
+    "idea_list_count": 1,
+    "no_price_reviews_or_use_claims": true,
+    "machine_baseline_unchanged": true
+  },
+  "notes": [
+    "研究原本SHA/order/URL/件数/基準を保持。録音時間は満充電時の本体性能、文字起こし枠はサービス上限と区別。",
+    "PlaudNote30h/Pro音声強化30h・5m、長時間50h・3m。Pro50hを全モード保証しない。Starter300minは2026-10-09公式確認、将来の条件保証なし。",
+    "Soundcore公式Starter300min、Pro1200min、Unlimitedは有料かつ1日24時間文字起こし上限。体験期間/値段/効率削減%は本文不使用。",
+    "NottaMemo現国内公式ハードウェアページ/販売ページは600min月。旧Starter300minヘルプとは更新差。1本体1アカウント。有料契約中はハードウェア枠適用されず有料終了時切替。MemoPro数値の混入なし。",
+    "Comulytic公式Starter基本文字起こし/要約は無制限の案内。DeepDive3回/月、InstantAbstract/Ask10回/月、ContactInsightはPremiumのみの公式help（2026-04-16更新）。全機能無制限保証・98%精度保証不使用。",
+    "HiDockP1はUSB-CでPC、イヤホンBluetooth。HiNotesMemberは本体連携の基礎文字起こし、Pro高度機能別。イヤホンモデル互換差を公式sales明記。個別有料精度や無料永続の無条件保証なし。",
+    "録音同意/機密クラウド送信前社内ルール/生成結果原音確認を最後に明記。価格/個別レビュー/100%精度/ハルシネーションなし断定は使用しない。"
+  ]
+}

@@ -1,0 +1,51 @@
+📦 候補読み込み: 13 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-17_usb_memory_candidates.json)
+🔎 実測: 13 件の ASIN を Amazon 商品ページから取得します...
+  [1/13] B00TMYO5EM review=23295 star=4.2 stock=in_stock OK
+  [2/13] B00TMYO5LK review=23295 star=4.2 stock=out_of_stock OK
+  [3/13] B0GVM2MRRY review=4667 star=4.3 stock=in_stock OK
+  [4/13] B0GVLW2VSK review=4667 star=4.3 stock=in_stock OK
+  [5/13] B0FFM7SRGC review=1865 star=4.0 stock=in_stock OK
+  [6/13] B0BHWB3T1Q review=1413 star=4.0 stock=in_stock OK
+  [7/13] B073JFMPPT review=854 star=4.1 stock=in_stock OK
+  [8/13] B00KDS908C review=149 star=4.2 stock=in_stock OK
+  [9/13] B0FPC9RQB4 review=120 star=4.2 stock=out_of_stock OK
+  [10/13] B087CHMKR4 review=5478 star=4.2 stock=in_stock OK
+  [11/13] B0BHW8PRDM review=1413 star=4.0 stock=in_stock OK
+  [12/13] B0CZP2VL6C review=245 star=4.2 stock=in_stock OK
+  [13/13] B0FLDPF1K3 review=142 star=3.7 stock=out_of_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=13 succeeded=13 failed=0 / run累積 attempted=282 succeeded=282 failed=0) product新規=0 product更新=13 metric行=13 verification行=9
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 10 / 13
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 7
+
+-- 採用 --
+1. [Tier1] バッファロー / B00TMYO5EM / review=23295 star=4.2 ★有名ブランド
+   バッファロー USBメモリ 16GB USB3.2(Gen1)/3.1(Gen 1)/3.0/2.0 充実サポート RUF3-K16GA-B
+2. [Tier1] バッファロー / B087CHMKR4 / review=5478 star=4.2 ★有名ブランド
+   バッファロー USBメモリ 32GB ノックスライド式 USB3.2Gen1 RUF3-KS32GA-BK/N
+3. [Tier1] ELECOM / B0GVM2MRRY / review=4667 star=4.3 ★有名ブランド
+   エレコム USBメモリ 256GB USB3.2（Gen1）ノック式 ホワイト しろちゃん MF-PKU3256GWHF
+4. [Tier1] ELECOM / B0GVLW2VSK / review=4667 star=4.3 ★有名ブランド
+   エレコム USBメモリ 256GB USB3.2（Gen1）ノック式 ブラック MF-PKU3256GBK/E
+5. [Tier1] Acer / B0FFM7SRGC / review=1865 star=4.0 
+   Acer UT300 USBメモリ 32GB USB 3.2 最大読出速度150MB/s USB-A/C両対応 高速 フラッシュメモリドライ
+6. [Tier1] Patianco / B0BHWB3T1Q / review=1413 star=4.0 
+   Patianco【MFi認証品 セキュリティ機能付】iPhone用 USBメモリ 128GB 3in1 Lightning/USB/Type
+7. [Tier1] Patianco / B0BHW8PRDM / review=1413 star=4.0 
+   Patianco【MFi認証品 セキュリティ機能付】iPhone用 USBメモリ 128GB 3in1 Lightning/USB/Type
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 3 件 --
+  - [Tier1] ELECOM / B073JFMPPT: 多様性制約または件数上限のため非選抜
+  - [Tier2] ELECOM / B00KDS908C: 多様性制約または件数上限のため非選抜
+  - [Tier2] SanDisk / B0CZP2VL6C: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 3 件 --
+  - B00TMYO5LK / バッファロー USBメモリ 32GB USB3.2(Gen1)/3.1(Gen : 在庫切れのため除外
+  - B0FPC9RQB4 / エレコム USBメモリ 128GB USB3.2 Gen1 Type-C 回転式: 在庫切れのため除外
+  - B0FLDPF1K3 / Amazon限定 バッファロー USBメモリ 256GB Type-C Type: 在庫切れのため除外
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-17_データを手元で持ち運ぶ。USBメモリ.md

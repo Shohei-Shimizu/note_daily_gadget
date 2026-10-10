@@ -1,0 +1,98 @@
+📦 候補読み込み: 35 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_earphone_candidates.json)
+🔎 実測: 35 件の ASIN を Amazon 商品ページから取得します...
+  [1/35] B0CT857V89 review=5611 star=4.4 stock=in_stock OK
+  [2/35] B0CP4RHK7X review=333 star=4.4 stock=in_stock OK
+  [3/35] B0CP4RQZ3L review=9220 star=4.4 stock=in_stock OK
+  [4/35] B0FRSCXWSV review=4987 star=4.1 stock=in_stock OK
+  [5/35] B0DRVB48LJ review=4125 star=4.4 stock=in_stock OK
+  [6/35] B0CBKQZXT7 review=2830 star=4.3 stock=in_stock OK
+  [7/35] B0FQFQDN6K review=2023 star=4.6 stock=in_stock OK
+  [8/35] B0BZGTFF9L review=1301 star=3.9 stock=in_stock OK
+  [9/35] B0BXKX64HG review=871 star=3.9 stock=in_stock OK
+  [10/35] B0F3X9RLT6 review=618 star=3.9 stock=in_stock OK
+  [11/35] B0F7QZZS1S review=253 star=4.0 stock=in_stock OK
+  [12/35] B0DJNXX51D review=312 star=4.0 stock=in_stock OK
+  [13/35] B0CGDX3F63 review=230 star=4.3 stock=out_of_stock OK
+  [14/35] B0CRVN23LP review=1115 star=4.1 stock=in_stock OK
+  [15/35] B0CSKFY1Q2 review=1240 star=4.1 stock=in_stock OK
+  [16/35] B0CXPSBKVR review=4810 star=3.8 stock=in_stock OK
+  [17/35] B0D2D67257 review=477 star=4.3 stock=out_of_stock OK
+  [18/35] B0D2RGPTKM review=1579 star=4.1 stock=in_stock OK
+  [19/35] B0D4Z8KJXY review=5132 star=4.4 stock=in_stock OK
+  [20/35] B0D4Z8NPH7 review=2598 star=4.1 stock=in_stock OK
+  [21/35] B0D7ZMNRFY review=2093 star=4.3 stock=in_stock OK
+  [22/35] B0D7ZZCHFV review=357 star=4.1 stock=in_stock OK
+  [23/35] B0DBHRWRKC review=27855 star=3.9 stock=in_stock OK
+  [24/35] B0DHZYMCH8 review=166 star=3.5 stock=in_stock OK
+  [25/35] B0DJCWXJKB review=107 star=4.4 stock=in_stock OK
+  [26/35] B0DJNXH5KV review=1105 star=4.2 stock=in_stock OK
+  [27/35] B0DJQH79Q7 review=138 star=3.8 stock=in_stock OK
+  [28/35] B0DK53QZ8J review=8818 star=4.0 stock=in_stock OK
+  [29/35] B0DLGJCTPK review=1274 star=4.3 stock=in_stock OK
+  [30/35] B0DQ9N9S5V review=745 star=4.3 stock=in_stock OK
+  [31/35] B0FCSGGHLL review=751 star=4.1 stock=in_stock OK
+  [32/35] B0FPQN7DBD review=969 star=4.0 stock=in_stock OK
+  [33/35] B0FWC7ZSTK review=1392 star=4.2 stock=in_stock OK
+  [34/35] B0GLGJTQ7C review=1146 star=4.1 stock=in_stock OK
+  [35/35] B0H8P9N9W7 review=247 star=4.5 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=35 succeeded=35 failed=0 / run累積 attempted=236 succeeded=236 failed=0) product新規=0 product更新=35 metric行=35 verification行=12
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 33 / 35
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 10
+
+-- 採用 --
+1. [Tier1] Anker / B0CP4RQZ3L / review=9220 star=4.4 ★有名ブランド
+   Anker Soundcore P40i (Bluetooth 5.3) 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 2.0 /
+2. [Tier1] TOZO / B0DK53QZ8J / review=8818 star=4.0 
+   【VGP 2026 受賞】TOZO NC9 イヤホン bluetooth ワイヤレスイヤホン アクティブノイズキャンセリング 45dB低減 
+3. [Tier1] AOKIMI / B0CT857V89 / review=5611 star=4.4 
+   【2026年アップグレード版】AOKIMI ワイヤレスイヤホン bluetooth イヤホン V12 小型軽量 ブルートゥースHi-Fi 最
+4. [Tier1] EarFun / B0D4Z8KJXY / review=5132 star=4.4 
+   【VGP 2025 金賞】EarFun Air Pro 4 ワイヤレスイヤホン Bluetooth 5.4/50dBアダプティブ式 ハイブリ
+5. [Tier1] Xiaomi / B0FRSCXWSV / review=4987 star=4.1 ★有名ブランド
+   Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 3
+6. [Tier1] Anker / B0DRVB48LJ / review=4125 star=4.4 ★有名ブランド
+   Anker Soundcore Liberty 5 ミッドナイトブラック | 【完全ワイヤレスイヤホン/ウルトラノイズキャンセリング 3.5
+7. [Tier1] SONY / B0CBKQZXT7 / review=2830 star=4.3 ★有名ブランド
+   ソニー(SONY)ワイヤレスノイズキャンセリングイヤホン WF-1000XM5 :【VGP2025金賞】 / 完全ワイヤレス/圧倒的ノイズキ
+8. [Tier1] Apple / B0FQFQDN6K / review=2023 star=4.6 ★有名ブランド
+   Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Blueto
+9. [Tier1] SOUNDPEATS / B0FWC7ZSTK / review=1392 star=4.2 
+   SOUNDPEATS(サウンドピーツ) C30 ノイズキャンセリング ワイヤレスイヤホン ブラックグレー | 【VGP2026 金賞】 -5
+10. [Tier1] Bose / B0CSKFY1Q2 / review=1240 star=4.1 ★有名ブランド
+   Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 23 件 --
+  - [Tier2] Anker / B0CP4RHK7X: 多様性制約または件数上限のため非選抜
+  - [Tier2] SONY / B0BZGTFF9L: 多様性制約または件数上限のため非選抜
+  - [Tier2] audio-technica / B0BXKX64HG: 多様性制約または件数上限のため非選抜
+  - [Tier2] SONY / B0F3X9RLT6: 多様性制約または件数上限のため非選抜
+  - [Tier2] JVCケンウッド / B0F7QZZS1S: 多様性制約または件数上限のため非選抜
+  - [Tier2] JBL / B0DJNXX51D: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0CRVN23LP: 多様性制約または件数上限のため非選抜
+  - [Tier2] Nothing / B0CXPSBKVR: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0D2RGPTKM: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0D4Z8NPH7: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0D7ZMNRFY: 多様性制約または件数上限のため非選抜
+  - [Tier2] Anker / B0D7ZZCHFV: 多様性制約または件数上限のため非選抜
+  - [Tier2] Xiaomi / B0DBHRWRKC: 多様性制約または件数上限のため非選抜
+  - [Tier2] SONY / B0DHZYMCH8: 多様性制約または件数上限のため非選抜
+  - [Tier2] audio-technica / B0DJCWXJKB: 多様性制約または件数上限のため非選抜
+  - [Tier1] JBL / B0DJNXH5KV: 多様性制約または件数上限のため非選抜
+  - [Tier2] JBL / B0DJQH79Q7: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0DLGJCTPK: 多様性制約または件数上限のため非選抜
+  - [Tier1] Technics / B0DQ9N9S5V: 多様性制約または件数上限のため非選抜
+  - [Tier1] Bose / B0FCSGGHLL: 多様性制約または件数上限のため非選抜
+  - [Tier1] JBL / B0FPQN7DBD: 多様性制約または件数上限のため非選抜
+  - [Tier1] SOUNDPEATS / B0GLGJTQ7C: 多様性制約または件数上限のため非選抜
+  - [Tier2] SOUNDPEATS / B0H8P9N9W7: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 2 件 --
+  - B0CGDX3F63 / Jabra Elite 8 Active 完全ワイヤレスイヤホン ダークグレー : 在庫切れのため除外
+  - B0D2D67257 / SOUNDPEATS Capsule3 Pro Plus ワイヤレスイヤホン【ノ: 在庫切れのため除外
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-12_会議と音楽を持ち歩く。ワイヤレスイヤホン.md

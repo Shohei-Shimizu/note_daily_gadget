@@ -1,0 +1,34 @@
+
+候補 23 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B0DG2QKMFX  RingConn       RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリ [measured 2026-09-12]
+  B0D9WT1S2T  Oura           Oura Ring 第4世代 スマートリング – シルバー – サイズ10 |iPhone/Androi [measured 2026-09-12]
+  B0D9WWB3WX  Oura           Oura Ring 第4世代 スマートリング – シルバー – サイズ9 |iPhone/Android [measured 2026-09-12]
+  B0D9WVKWXN  Oura           Oura Ring 第4世代 スマートリング – ステルス – サイズ10 |iPhone/Androi [measured 2026-09-12]
+  B0G6YHQ18J  Geekin         Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類デー [measured 2026-09-12]
+  B0GMH69RCK  Geekin         Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類デー [measured 2026-09-12]
+  B0GQ3VR6T2  Geekin         Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類デー [measured 2026-09-12]
+  B0GQ3WPDRG  Geekin         Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類デー [measured 2026-09-12]
+  B0GQ8WX3CZ  Geekin         Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類デー [measured 2026-09-12]
+  B0GQ98LC37  Geekin         Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類デー [measured 2026-09-12]
+  B0F189RKD1  POBOViスマートリング  POBOViスマートリング 睡眠/ストレス/心拍数トラッカー 睡眠管理 健康管理 女性の健康管理 最大5 [measured 2026-09-12]
+  B0F59W7RGH  SOXAI          SOXAI RING 1.1 日本製スマートリング ソクサイリング 健康管理 睡眠管理 メーカー保証1年 [measured 2026-09-12]
+  B0F59W82K1  SOXAI          SOXAI RING 1.1 日本製スマートリング ソクサイリング 健康管理 睡眠管理 メーカー保証1年 [measured 2026-09-12]
+  B0F59WQ1TX  SOXAI          SOXAI RING 1.1 日本製スマートリング ソクサイリング 健康管理 睡眠管理 メーカー保証1年 [measured 2026-09-12]
+  B0H4RH1L21  SOXAI          SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリ [measured 2026-09-12]
+  B0H4RNLPBD  SOXAI          SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリ [measured 2026-09-12]
+  B0H4RPQC2R  SOXAI          SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリ [measured 2026-09-12]
+  B0H4RQ92V1  SOXAI          SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリ [measured 2026-09-12]
+  B0H4RW5Y8L  SOXAI          SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリ [measured 2026-09-12]
+  B0H4RX6Y2G  SOXAI          SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリ [measured 2026-09-12]
+  B0H4S6DWCS  SOXAI          SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリ [measured 2026-09-12]
+  B0DJNVNVP2  Amazfit        Amazfit Helio Ring スマートリング 軽量 チタン合金 回復分析 健康管理 睡眠 心拍  [measured 2026-09-12]
+  B0DWFSW47F  Oura           Oura Ring 第4世代サイジングキット– 購入前にぴったりのサイズを確認 – スマートリング専用の [未実測]
+
+topic_id: daily_gadget_20261114_fde6b151
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_smart_ring_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_smart_ring_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

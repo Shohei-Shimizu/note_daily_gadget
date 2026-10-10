@@ -1,0 +1,25 @@
+
+候補 14 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B08HYX5NS9  Anker          Anker Soundcore Life Q30【第2世代】(Bluetooth5.3 ワイヤレス ヘッ [article_dated 2026-04-17]
+  B0GXYWTMPN  Ugreen         UGREEN HiTune Max5c Bluetooth5.4 オーバーイヤーヘッドホン 最大75時間 [measured 2026-09-11]
+  B09Z2QYYD1  SONY           ソニー(SONY) ワイヤレスノイズキャンセリングステレオヘッドホン WH-1000XM5:【VGP殿堂 [article_dated 2026-04-17]
+  B0BVPNJP1C  SONY           ソニー(SONY) ワイヤレスノイズキャンセリングヘッドホン WH-CH720N: ノイズキャンセリング [article_dated 2026-09-15]
+  B0CQKFTYW5  ゼンハイザー         ゼンハイザー(Sennheiser) ワイヤレスヘッドホン ACCENTUM Plus Wireless [measured 2026-09-11]
+  B0CWNQP4RG  HAYLOU         HAYLOU S30 Pro ワイヤレスヘッドホン ANC 43dB Bluetooth5.4 低遅延  [measured 2026-09-11]
+  B0DBR13335  Bose           Bose QuietComfort Headphones LE 完全 ワイヤレス ヘッドホン ノイズキャ [measured 2026-09-11]
+  B0CGLZJMD5  JBL            JBL TOUR ONE M2 ワイヤレス オーバーイヤー ヘッドホン リアルタイム補正 ハイブリッドノ [未実測]
+  B0CHB31V44  JBL            JBL TOUR ONE M2 ハイブリッドノイズキャンセリング/Bluetooth対応/マルチポイント [未実測]
+  B0D32WJK6L  SONOS          Sonos Ace 【VGP2026 金賞】【家電批評 年間BEST BUY 2024】 完全ワイヤレス [未実測]
+  B0D4VMVCFX  Anker          Anker Soundcore Space One Pro (Bluetooth 5.3 ワイヤレス ヘ [未実測]
+  B0F77PMC1P  SONY           ソニー(SONY)WH-1000XM6 ブラック:ワイヤレスヘッドホン 世界最高クラスノイズキャンセリン [未実測]
+  B0FL2HYBGJ  Bose           Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全  [未実測]
+  B0GMXW4RHB  【Amazon.co.jp  【Amazon.co.jp 限定】【VGP2026金賞】final(ファイナル) UX1000 ハイブリ [未実測]
+
+topic_id: daily_gadget_20261104_92da39f6
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-04_headphone_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-04_headphone_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

@@ -1,0 +1,41 @@
+======================================================================
+バックフィル完了
+======================================================================
+対象アカウント: daily_gadget
+
+[markdown_parser]
+  処理ファイル数        : 66
+  商品ブロック成功       : 416
+  商品ブロック失敗       : 0
+  product_metric 挿入試行: 416 (UNIQUE制約でのIGNORE分を含む)
+    - daily_gadget: 416
+
+[legacy_json_parser]
+  処理ファイル数         : 185
+  selected_items 総数    : 1150
+  成功                   : 1150
+  失敗                   : 0
+  tier非数値 (スキップ)  : 95
+  product_metric 挿入    : 0行 (設計どおり。review_count/star_ratingが欠損のため作らない)
+
+[article / article_product]
+  _metadata.json ファイル数: 13
+  記事エントリ数           : 366
+  article upsert           : 366
+  本文ファイル欠落         : 5
+  article_product 挿入試行 : 1844
+
+[topic_id 突合 (蔵書モデル A1)]
+  research側でtopic_id発見: 30
+  research側でtopic_id無し: 36 (A1導入前の research Markdown はここに入るのが正常)
+  article.topic_id 解決   : 27 (うちmetadata経由: 27)
+  同日複数で一意化不可     : 0 (号外等。metadataにtopic_idが無い場合のみ発生。手動確認が必要)
+
+エラー/警告件数: 6
+内訳 (先頭30件):
+  - /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-10/2026-10-16_プライム感謝祭2026特集_制作計画.md: 商品ブロックが1件も見つからない
+  - /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/02_article/2025-11/_metadata.json: 本文ファイルが存在しない: 2025-11-09_外出先で役立つUSB充電ハブ７選.md
+  - /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/02_article/2026-01/_metadata.json: 本文ファイルが存在しない: 2026-01-05_仕事始めを正しい姿勢で。猫背を防ぐ「姿勢矯正ツール」 6選.md
+  - /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/02_article/2026-01/_metadata.json: 本文ファイルが存在しない: 2026-01-09_AIで時短！面倒な作業を丸投げできる最新ガジェット_7選.md
+  - /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/02_article/2026-02/_metadata.json: 本文ファイルが存在しない: 2026-02-10_バレンタインに欲しい！ガジェット好きが喜ぶ「黒い」小物_7選.md
+  - /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/02_article/2026-02/_metadata.json: 本文ファイルが存在しない: 2026-02-14_冬の乾燥から守る。リップ＆ハンドケアできる「美容ガジェット」_4選.md

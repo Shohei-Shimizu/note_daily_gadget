@@ -1,0 +1,82 @@
+📦 候補読み込み: 27 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-03_gadget_pouch_candidates.json)
+🔎 実測: 27 件の ASIN を Amazon 商品ページから取得します...
+  [1/27] B01HE6L6BY review=4570 star=4.1 stock=in_stock OK
+  [2/27] B07XFVCW1S review=2928 star=4.2 stock=in_stock OK
+  [3/27] B087RLYJNP review=2928 star=4.2 stock=in_stock OK
+  [4/27] B0CY57DPW5 review=2668 star=4.5 stock=in_stock OK
+  [5/27] B0DQ5XKH9Y review=2668 star=4.5 stock=in_stock OK
+  [6/27] B0843QXWWZ review=1815 star=4.2 stock=in_stock OK
+  [7/27] B0843RKFPJ review=1815 star=4.2 stock=in_stock OK
+  [8/27] B08DCYD9LD review=1381 star=4.4 stock=in_stock OK
+  [9/27] B07SYFWYBW review=1233 star=4.2 stock=in_stock OK
+  [10/27] B0D8TJJGNJ review=1104 star=4.4 stock=in_stock OK
+  [11/27] B07Q9K2QHV review=785 star=4.3 stock=in_stock OK
+  [12/27] B07NPJDH22 review=518 star=4.3 stock=in_stock OK
+  [13/27] B08L35V3R5 review=516 star=4.4 stock=in_stock OK
+  [14/27] B00TK35ES6 review=761 star=3.6 stock=in_stock OK
+  [15/27] B07CQ1PTGH review=341 star=4.3 stock=in_stock OK
+  [16/27] B0843WY8RR review=1815 star=4.2 stock=in_stock OK
+  [17/27] B087RLFP3C review=2928 star=4.2 stock=in_stock OK
+  [18/27] B09MPR36JM review=2668 star=4.5 stock=in_stock OK
+  [19/27] B0BMTRNQ43 review=686 star=4.4 stock=in_stock OK
+  [20/27] B0BTLQ58Q2 review=34 star=4.1 stock=in_stock OK
+  [21/27] B0BTLQJ9JB review=34 star=4.1 stock=in_stock OK
+  [22/27] B0CCP69CWW review=686 star=4.4 stock=in_stock OK
+  [23/27] B0DG58QXH3 review=504 star=4.4 stock=in_stock OK
+  [24/27] B0DG5M7D1G review=504 star=4.4 stock=in_stock OK
+  [25/27] B0F1Y89996 review=2668 star=4.5 stock=in_stock OK
+  [26/27] B0F59QZWSN review=358 star=4.2 stock=in_stock OK
+  [27/27] B0H2F6R341 review=1247 star=4.6 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=27 succeeded=27 failed=0 / run累積 attempted=62 succeeded=62 failed=0) product新規=0 product更新=27 metric行=27 verification行=13
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 27 / 27
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 10
+
+-- 採用 --
+1. [Tier1] サンワサプライ / B01HE6L6BY / review=4570 star=4.1 ★有名ブランド
+   サンワダイレクト ガジェットポーチ 旅行 出張 便利グッズ 収納ポーチ グレー 200-BAGIN005GY
+2. [Tier1] ELECOM / B07XFVCW1S / review=2928 star=4.2 ★有名ブランド
+   エレコム トラベルポーチ ガジェットポーチ ガジェット ポーチ バックインバック 旅行 出張 収納 小物入れ グレー BMA-F01XGY
+3. [Tier1] ELECOM / B087RLYJNP / review=2928 star=4.2 ★有名ブランド
+   エレコム トラベルポーチ ガジェットポーチ ガジェット ポーチ バックインバック 旅行 出張 収納 小物入れ ネイビー BMA-F01XNV
+4. [Tier1] tomtoc / B0CY57DPW5 / review=2668 star=4.5 
+   tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテ
+5. [Tier1] tomtoc / B0DQ5XKH9Y / review=2668 star=4.5 
+   tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテ
+6. [Tier1] サンワサプライ / B0843QXWWZ / review=1815 star=4.2 ★有名ブランド
+   サンワダイレクト ガジェットポーチ セミハード 仕切り付 旅行 出張 便利グッズ マウス ケーブル モバイルバッテリー 収納ポーチ トラベル
+7. [Tier1] Ugreen / B0H2F6R341 / review=1247 star=4.6 ★有名ブランド
+   UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー USB ハブなどの収納 レイヤー
+8. [Tier1] Anker / B0D8TJJGNJ / review=1104 star=4.4 ★有名ブランド
+   Anker Smart Pouch Supported by KOKUYO コンパクトポーチ トラベルガジェットポーチ ガジェットポーチ バ
+9. [Tier1] Ugreen / B07Q9K2QHV / review=785 star=4.3 ★有名ブランド
+   UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース トラベルポーチ 充電器ケーブルUSBハブなどの収納ポーチ 保護ケース 
+10. [Tier1] aso / B08L35V3R5 / review=516 star=4.4 
+   [ aso ] TOFTPOUCH (タフトポーチ) 耐水ポーチ ガジェットポーチ 日本製 約150×110×10[mm] コンパクト ポー
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 17 件 --
+  - [Tier1] サンワサプライ / B0843RKFPJ: 多様性制約または件数上限のため非選抜
+  - [Tier1] ELECOM / B08DCYD9LD: 多様性制約または件数上限のため非選抜
+  - [Tier1] サンワサプライ / B07SYFWYBW: 多様性制約または件数上限のため非選抜
+  - [Tier1] ELECOM / B07NPJDH22: 多様性制約または件数上限のため非選抜
+  - [Tier2] ELECOM / B00TK35ES6: 多様性制約または件数上限のため非選抜
+  - [Tier2] ELECOM / B07CQ1PTGH: 多様性制約または件数上限のため非選抜
+  - [Tier1] サンワサプライ / B0843WY8RR: 多様性制約または件数上限のため非選抜
+  - [Tier1] ELECOM / B087RLFP3C: 多様性制約または件数上限のため非選抜
+  - [Tier1] tomtoc / B09MPR36JM: 多様性制約または件数上限のため非選抜
+  - [Tier1] tomtoc / B0BMTRNQ43: 多様性制約または件数上限のため非選抜
+  - [Tier3] サンワサプライ / B0BTLQ58Q2: 多様性制約または件数上限のため非選抜
+  - [Tier3] サンワサプライ / B0BTLQJ9JB: 多様性制約または件数上限のため非選抜
+  - [Tier1] tomtoc / B0CCP69CWW: 多様性制約または件数上限のため非選抜
+  - [Tier1] tomtoc / B0DG58QXH3: 多様性制約または件数上限のため非選抜
+  - [Tier1] tomtoc / B0DG5M7D1G: 多様性制約または件数上限のため非選抜
+  - [Tier1] tomtoc / B0F1Y89996: 多様性制約または件数上限のため非選抜
+  - [Tier2] Modiko / B0F59QZWSN: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-03_出先の小物をひとまとめにする。ガジェットポーチ.md

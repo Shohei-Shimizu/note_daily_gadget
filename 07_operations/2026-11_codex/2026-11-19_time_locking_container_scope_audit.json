@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-19",
+  "topic_id": "daily_gadget_20261119_63556f48",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 4,
+  "parent_groups": {
+    "B0C49K59WL": [
+      "B08HZ4LYHM"
+    ],
+    "B0GC4J4FR3": [
+      "B0GVN17LPY"
+    ],
+    "B0BRHY3J5K": [
+      "B0GHMGYJ7G"
+    ],
+    "B0GYNMLK6Z": [
+      "B0F7LL7GRN"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B08HZ4LYHM",
+      "title": "iDiskk タイムロックボックス (99時間タイマー)",
+      "maker": "iDiskk",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "iDiskk",
+      "historical_tier": 1,
+      "parent_asin": "B0C49K59WL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-01-15",
+      "dg_use_history": [
+        {
+          "published_date": "2026-01-15",
+          "title": "スマホ疲れをリセット。デジタルデトックスの「専用箱」 5選",
+          "asin": "B08HZ4LYHM"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-20",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B099R9YPXK",
+      "title": "タイムロッキングコンテナ スマホ ロックボックス タイム ロック ボックス スマホ依存症 禁欲ボックス スマホ ロック タイム ロッキング コンテナ USB充電式 長い連続使用時間 時間を自由に設定 携帯便利 禁煙 スマホやゲームのやりすぎに最適 グリーン Shlmnbo",
+      "maker": "タイムロッキングコンテナ",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "タイムロッキングコンテナ",
+      "historical_tier": 1,
+      "parent_asin": "B0BTWZTXM8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-17",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-17",
+          "title": "スマホ断ちを支援。話題の「タイムロッキングコンテナ」 5 選",
+          "asin": "B099R9YPXK"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-20",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない",
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BWC9F887",
+      "title": "タイムロッキングコンテナ スマホ ロックボックス 禁欲ボックス タイムロックボックス タイムロッキング スマホロック スマホ 封印 タイム ロック ボックス 丈夫 USB充電式 90日の連続使用時間 静音モ一ド 二つの充電口付き 時間を自由に設定 コンパクト 携帯便利 禁煙 スマホやゲームのやりすぎに最適 ブラック Shlmnbo",
+      "maker": "タイムロッキングコンテナ",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "タイムロッキングコンテナ",
+      "historical_tier": 1,
+      "parent_asin": "B0BX64WZM3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-21",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-21",
+          "title": "スマホを物理的に封印。デジタルデトックスの「専用箱」 5 選",
+          "asin": "B0BWC9F887"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-20",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない",
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F7LL7GRN",
+      "title": "TTFP タイムロッキングコンテナ ロックボックス スマホ依存対策 禁欲ボックス デジタルデトックス スマホ/おやつ/アルコール/禁煙/健康管理に適用 日本語説明書付き",
+      "maker": "TTFP",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "TTFP",
+      "historical_tier": 3,
+      "parent_asin": "B0GYNMLK6Z",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-01-15",
+      "dg_use_history": [
+        {
+          "published_date": "2026-01-15",
+          "title": "スマホ疲れをリセット。デジタルデトックスの「専用箱」 5選",
+          "asin": "B0FNM6261N"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-20",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FNM6261N",
+      "title": "TTFP 多機能ロックボックス (お菓子・ゲームも封印)",
+      "maker": "TTFP",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0GYNMLK6Z",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-01-15",
+      "dg_use_history": [
+        {
+          "published_date": "2026-01-15",
+          "title": "スマホ疲れをリセット。デジタルデトックスの「専用箱」 5選",
+          "asin": "B0FNM6261N"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-20",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FP8DNDZP",
+      "title": "【2026年版】 スマホ依存対策 × 受験・試験対策！タイムロックボックス 勉強に集中 スマホタイムロッキング USB充電式 静音 軽量 透明設計 【志望校合格サポート】【充電ケーブル・日本語取扱説明書で届いたその日からすぐ使えます】 (ブルー)",
+      "maker": "【2026年版】",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "【2026年版】",
+      "historical_tier": 2,
+      "parent_asin": "B0FXWV1F8C",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-17",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-17",
+          "title": "スマホ断ちを支援。話題の「タイムロッキングコンテナ」 5 選",
+          "asin": "B0FP8DNDZP"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-20",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない",
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GHMGYJ7G",
+      "title": "Shlmnbo タイムロッキングコンテナ 13L",
+      "maker": "Shlmnbo",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Shlmnbo",
+      "historical_tier": 2,
+      "parent_asin": "B0BRHY3J5K",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-20",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GHMVCX6D",
+      "title": "タイムロッキングコンテナ スマホ ロックボックス タイムコンテナ タイム ロッキング コンテナ タイムロッキングコンテリア スマホロック 携帯ロックボックス スマホ 封印 タイム ロック ボックス iphone タイマー 箱 スマホ依存症対策 電池式 時間を自由に設定 一年の連続使用時間 禁煙 お金 お菓子 スマホやゲームのやりすぎに最適 ベージュ Shlmnbo",
+      "maker": "タイムロッキングコンテナ",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "タイムロッキングコンテナ",
+      "historical_tier": 1,
+      "parent_asin": "B0BTWZTXM8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-17",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-17",
+          "title": "スマホ断ちを支援。話題の「タイムロッキングコンテナ」 5 選",
+          "asin": "B099R9YPXK"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-20",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない",
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GK714MN4",
+      "title": "スマホおあずけくん タイマー式 スマホロックケース スマホロックボックス タイムロックコンテナ スマホロック スマホ依存症 禁欲 デジタルデトックス タイムロッキングコンテナ タイムロックボックス 受験対策 勉強タイマー 集中力向上 (ホワイト)",
+      "maker": "スマホおあずけくん",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "スマホおあずけくん",
+      "historical_tier": 3,
+      "parent_asin": "B0GK6WZ71F",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-21",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-21",
+          "title": "スマホを物理的に封印。デジタルデトックスの「専用箱」 5 選",
+          "asin": "B0GK714MN4"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-20",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない",
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GVN17LPY",
+      "title": "MoKo スマホタイムロックボックス タイムロッキングコンテナ USB 充電式 1分～99時間設定可能 75日待機 通話対応 緊急解除機能付き",
+      "maker": "MoKo",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "MoKo",
+      "historical_tier": 1,
+      "parent_asin": "B0GC4J4FR3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-20",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B099R9YPXK",
+      "title": "タイムロッキングコンテナ スマホ ロックボックス タイム ロック ボックス スマホ依存症 禁欲ボックス スマホ ロック タイム ロッキング コンテナ USB充電式 長い連続使用時間 時間を自由に設定 携帯便利 禁煙 スマホやゲームのやりすぎに最適 グリーン Shlmnbo",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0BWC9F887",
+      "title": "タイムロッキングコンテナ スマホ ロックボックス 禁欲ボックス タイムロックボックス タイムロッキング スマホロック スマホ 封印 タイム ロック ボックス 丈夫 USB充電式 90日の連続使用時間 静音モ一ド 二つの充電口付き 時間を自由に設定 コンパクト 携帯便利 禁煙 スマホやゲームのやりすぎに最適 ブラック Shlmnbo",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0FNM6261N",
+      "title": "TTFP 多機能ロックボックス (お菓子・ゲームも封印)",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0FP8DNDZP",
+      "title": "【2026年版】 スマホ依存対策 × 受験・試験対策！タイムロックボックス 勉強に集中 スマホタイムロッキング USB充電式 静音 軽量 透明設計 【志望校合格サポート】【充電ケーブル・日本語取扱説明書で届いたその日からすぐ使えます】 (ブルー)",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GHMVCX6D",
+      "title": "タイムロッキングコンテナ スマホ ロックボックス タイムコンテナ タイム ロッキング コンテナ タイムロッキングコンテリア スマホロック 携帯ロックボックス スマホ 封印 タイム ロック ボックス iphone タイマー 箱 スマホ依存症対策 電池式 時間を自由に設定 一年の連続使用時間 禁煙 お金 お菓子 スマホやゲームのやりすぎに最適 ベージュ Shlmnbo",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GK714MN4",
+      "title": "スマホおあずけくん タイマー式 スマホロックケース スマホロックボックス タイムロックコンテナ スマホロック スマホ依存症 禁欲 デジタルデトックス タイムロッキングコンテナ タイムロックボックス 受験対策 勉強タイマー 集中力向上 (ホワイト)",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    }
+  ],
+  "variant_policy": "同親の色/サイズ/バンドルを候補群として残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "候補に残る未確認事項は公式照合前の採用根拠としない",
+    "親群が5未満。未実測の供給段階で不足、追加収集またはテーマ見直しが必須"
+  ],
+  "historical_tier_distribution": {
+    "1": 2,
+    "2": 1,
+    "3": 1
+  }
+}

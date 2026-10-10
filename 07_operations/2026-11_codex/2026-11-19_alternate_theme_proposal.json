@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-19",
+  "checked_at": "2026-10-10T11:20:45.368779",
+  "db_mode": "mode=ro",
+  "source_db": "shared/db/product.sqlite",
+  "domestic_time_lock_followup": {
+    "web_queries": [
+      "site.direct.sanwa.co.jp タイムロック スマホ ボックス タイマー",
+      "タイムロックボックス 公式 国内 メーカー サンワサプライ",
+      "サンワダイレクト タイマー ロック ボックス スマートフォン 時間 解除"
+    ],
+    "eligible_model_found": false,
+    "rejected": [
+      {
+        "model": "CAI-CABSP51",
+        "source": "https://direct.sanwa.co.jp/ItemPage/CAI-CABSP51",
+        "reason": "ダイヤル錠の複数スマホ保管庫。設定時間まで物理解除不可という仕様なし"
+      },
+      {
+        "model": "200-SL099BK",
+        "source": "https://direct.sanwa.co.jp/contents/news/pdf/2023/200-SL099BK.pdf",
+        "reason": "ダイヤル錠収納。時間ロック仕様なし"
+      },
+      {
+        "model": "TAP-RT1",
+        "source": "https://direct.sanwa.co.jp/ItemPage/TAP-RT1",
+        "reason": "通電のON/OFFタイマーで容器ロックではない"
+      },
+      {
+        "model": "400-APSL001",
+        "source": "https://direct.sanwa.co.jp/contents/torisetsu/400-APSL001_m.pdf",
+        "reason": "Androidアプリ制御キー、容器ではない"
+      }
+    ],
+    "note": "限定検索で未発見、製品不存在の断定ではない。kSafe/iDiskk公式2系列だけでは自然に5商品成立を保証できない。"
+  },
+  "alternate_themes": [
+    {
+      "type": "speaker",
+      "theme": "机の声をまとめて届ける。会議用スピーカーフォン",
+      "scope_asins": 6,
+      "parent_groups": 6,
+      "historical_tier_distribution": {
+        "1": 5,
+        "2": 1
+      },
+      "rows": [
+        {
+          "asin": "B00ANI7HI2",
+          "title": "Jabra 法人向け 2年保証付き SPEAK510 MS Bluetooth搭載携帯用・小規模会議用スピーカーフォン マイクロソフト社認証 【日本正規代理店品】 7510-109",
+          "brand": "Jabra",
+          "tier": 1,
+          "parent_asin": "B0HFVC578N",
+          "parent_resolution_status": "resolved",
+          "latest_use": null,
+          "october_local_research_mentions": []
+        },
+        {
+          "asin": "B07FMLLMKD",
+          "title": "EMEET M2 スピーカーフォン ハウリング抑制 ノイズキャンセリング 会議用マイクスピーカー 360˚全方向集音 位置検出機能 LED指示 双方向会話適用 USBアダプタ付属 Bluetooth/USB/AUX対応 オンライン会議/ウェブ会議/在宅勤務/テレワーク/オンライン教育用 Skype/Zoom/Facetime/Wechat通話アプリ対応 ブラック",
+          "brand": "EMEET",
+          "tier": 1,
+          "parent_asin": "B0F4XCXSH3",
+          "parent_resolution_status": "resolved",
+          "latest_use": null,
+          "october_local_research_mentions": []
+        },
+        {
+          "asin": "B07ZSDXHJZ",
+          "title": "Anker PowerConf (グレー) 【会議用マイクスピーカー】",
+          "brand": "Anker",
+          "tier": 1,
+          "parent_asin": "B096D7NSG3",
+          "parent_resolution_status": "resolved",
+          "latest_use": null,
+          "october_local_research_mentions": []
+        },
+        {
+          "asin": "B08B68LM7R",
+          "title": "Anker PowerConf S3 スピーカーフォン 会議用 マイク Bluetooth 24時間連続使用 グループモード対応 USB-C接続 オンライン会議 テレワーク 在宅 会議用システム ウェブ/テレビ/ビデオ会議（グレー：ファブリック）",
+          "brand": "Anker",
+          "tier": 1,
+          "parent_asin": "B09RSSYDH6",
+          "parent_resolution_status": "resolved",
+          "latest_use": null,
+          "october_local_research_mentions": []
+        },
+        {
+          "asin": "B09X5G7B8S",
+          "title": "EMEET M1A スピーカーフォン 360˚全方向集音 会議用マイクスピーカー",
+          "brand": "eMeet",
+          "tier": 2,
+          "parent_asin": "B0DXPFKM28",
+          "parent_resolution_status": "resolved",
+          "latest_use": null,
+          "october_local_research_mentions": []
+        },
+        {
+          "asin": "B0BF8XNXV1",
+          "title": "オーディオテクニカ AT-CSP1 スピーカーフォン 会議用マイクスピーカー 有線 小型 USB PC マイク エコーキャンセラー ミュートボタン 音量調整 360°集音 オンライン会議 テレワーク ビデオ通話 在宅",
+          "brand": "オーディオテクニカ",
+          "tier": 1,
+          "parent_asin": null,
+          "parent_resolution_status": "no_parent",
+          "latest_use": null,
+          "october_local_research_mentions": []
+        }
+      ],
+      "not_duplicate_of_november_29_types": true,
+      "scope": "通話マイクとスピーカー一体の専用本体。音楽Bluetoothスピーカー、ヘッドホン、Webカメラ、サウンドバーを除外。",
+      "maker_constraint": "Anker2/EMEET2/Jabra1/AudioTechnica1で最大6。ただし同機能外観差のPowerConf/S3は独立意義再監査。",
+      "official_paths": [
+        "https://www.audio-technica.co.jp/product/AT-CSP1",
+        "https://www.jabra.com/supportpages/jabra-speak-510",
+        "https://emeet.com/en-eu/pages/speakerphone-downloads",
+        "https://emeet.com/en-uk/products/speakerphone-m2",
+        "https://www.ankerjapan.com/products/a3301",
+        "https://www.ankerjapan.com/products/a3302"
+      ],
+      "unverified": [
+        "最新在庫・レビューTier・Amazon親",
+        "正確な型番/世代と公式資料一致",
+        "関連用途で10月掲載と本文差を確保"
+      ],
+      "extra_caution": "PowerConf/S3公式の現行改版型番とAmazonASINを照合。S3公式に回収対象期間の案内があるため対象改版の確認を要する。EMEET M1Aは公式ダウンロード一覧に機種存在確認、詳細仕様はこれから。"
+    },
+    {
+      "type": "card_reader",
+      "theme": "SDカードの写真をPCへ取り込む。単体カードリーダー",
+      "scope_asins": 7,
+      "parent_groups": 7,
+      "historical_tier_distribution": {
+        "1": 4,
+        "2": 3
+      },
+      "rows": [
+        {
+          "asin": "B07D1J88CF",
+          "title": "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 スマホ タブレット MacBook Windows PCに適用",
+          "brand": "UGREEN",
+          "tier": 1,
+          "parent_asin": null,
+          "parent_resolution_status": "no_parent",
+          "latest_use": "2026-03-05",
+          "october_local_research_mentions": []
+        },
+        {
+          "asin": "B07P1XB7BG",
+          "title": "Anker USB-C 2-in-1 カードリーダー【SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSDHC/microSD/UHS-Iカード対応】",
+          "brand": "Anker",
+          "tier": 1,
+          "parent_asin": null,
+          "parent_resolution_status": "no_parent",
+          "latest_use": "2026-08-12",
+          "october_local_research_mentions": []
+        },
+        {
+          "asin": "B0B6HM369H",
+          "title": "ProGrade Digital [SD/microSD UHS-II] ダブルスロットカードリーダー (PGM0.5) 本体端子USB-C プログレードデジタル 正規輸入品",
+          "brand": null,
+          "tier": 2,
+          "parent_asin": null,
+          "parent_resolution_status": "no_parent",
+          "latest_use": "2026-07-11",
+          "october_local_research_mentions": []
+        },
+        {
+          "asin": "B0BMVHC1N9",
+          "title": "UGREEN カードリーダー USB C 4in1 SD microSD CF MS 4枚カード同時に読書 2TB Max 高速転送 SD SDXC SDHC MM CRS-MMC UHS-Iカード Windows Mac OS Android 対応",
+          "brand": "UGREEN",
+          "tier": 1,
+          "parent_asin": null,
+          "parent_resolution_status": "no_parent",
+          "latest_use": null,
+          "october_local_research_mentions": []
+        },
+        {
+          "asin": "B0BNBXVLZS",
+          "title": "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー",
+          "brand": null,
+          "tier": 1,
+          "parent_asin": null,
+          "parent_resolution_status": "no_parent",
+          "latest_use": "2026-07-11",
+          "october_local_research_mentions": []
+        },
+        {
+          "asin": "B0D7PBX46R",
+          "title": "Anker MagGo USB-C カードリーダー (3-in-1, 10Gbps) ブラック",
+          "brand": "Anker",
+          "tier": 2,
+          "parent_asin": "B0DHZF553Y",
+          "parent_resolution_status": "resolved",
+          "latest_use": null,
+          "october_local_research_mentions": []
+        },
+        {
+          "asin": "B0FFR5714G",
+          "title": "エレコム カードリーダー USB-C 2-in-1 5Gbps 【SDXC/SDHC/SD/microSDXC/microSDHC/microSD対応】 MR3C-D20EBK",
+          "brand": "ELECOM",
+          "tier": 2,
+          "parent_asin": null,
+          "parent_resolution_status": "no_parent",
+          "latest_use": null,
+          "october_local_research_mentions": []
+        }
+      ],
+      "not_duplicate_of_november_29_types": true,
+      "scope": "SD/microSD読み書きの単体本体。USB-Cハブ、Qubii自動バックアップ、カードそのものを除外。",
+      "maker_constraint": "UGREEN3からmax2、Anker2、ProGrade1、ELECOM1で最大6。",
+      "official_paths": [
+        "https://www.elecom.co.jp/category/cat_data-media-memory-rw/",
+        "https://www.buffalo.jp/product/detail/bscr135u3cbk.html"
+      ],
+      "unverified": [
+        "最新在庫・レビューTier・Amazon親",
+        "正確な型番/世代と公式資料一致",
+        "関連用途で10月掲載と本文差を確保"
+      ],
+      "extra_caution": "ELECOM国内公式に同系列単体カードリーダー公開資料あり。各DB ASINの exact型番/改版公式一致は未確認。BUFFALOは公式照合しやすい追加候補の入口であり現在DB7件に含めない。UGREEN/ProGrade/Ankerも正確なメーカー型番へ突合。11/23microSDとは別type/用途。"
+    }
+  ],
+  "decision": "優先代替は会議用スピーカーフォン。型番公開・公式サポートのある4メーカー6親、歴史Tier1比率が高い。次点単体カードリーダーは7親、メーカーmax2後6見込み。ただしどちらも機械選抜・同型公式確認前の供給提案。下限を引き下げず、台帳変更は主担当判断。",
+  "canonical_theme_changed": false
+}

@@ -1,0 +1,591 @@
+{
+  "generated_at": "2026-10-09T01:00:08+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261029_3b453c75",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "codex_20261029_voice_recorder"
+  ],
+  "fetched_count": 15,
+  "dedup_count": 15,
+  "candidates": [
+    {
+      "asin": "B0D1XYDS35",
+      "title": "Plaud Note AIボイスレコーダー ワンタッチ録音 議事録作成 自動文字起こし・要約 Web会議にも対応 マルチモーダル入力 AIに質問 話者識別 デュアルモード録音 30時間連続録音 通話録音 複数AIモデル連携 112言語対応 スマホ・PC連動 大容量64GB 超薄型・軽量ICレコーダー 仕事効率化AIツール ビジネス会議/授業/インタービューなどで活用 専用ケース付属 シルバー",
+      "url": "https://www.amazon.co.jp/dp/B0D1XYDS35?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D1XYDS35?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61xyY9UzusL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【Plaud Noteについて】Plaud Note（プラウドノート）は、あらゆる会議、通話、日常の会話などをシームレスに記録・文字起こし・要約し、実用的なデータへと整理します。複数のアプリを使うことなく、これ1台で全てを完結できるAIビジネスツールです。",
+        "【マルチモーダル入力】Plaud Note AIボイスレコーダーは、録音中の重要な瞬間をワンタッチでハイライトできます。音声に加え、写真やテキストで情報を補足することで、より深い文脈で記録できます。AIがこれらの情報を基に、意図に沿った要約やToDoリストを自動生成。情報整理の効率が革新的に向上します。",
+        "【高音質のデュアルモード録音】デュアルモード録音で、通話と対面会話の両方を高音質で捉えます。スマートフォンに装着した状態でVPU骨伝導技術で通話を録音する「通話録音モード」と、周辺360度の音声を捉える「対面録音モード」を簡単に切り替え可能。AIノイズキャンセリングにより、3m先の音声もクリアに収音できます。最大30時間の連続録音と60日間のスタンバイを実現し、ビジネスの重要な場面でも確実に記録します。※録音を始める前に、参加者に録音する旨を伝え、同意を得てください。プライバシーを尊重し、お住まいの地域の法律を遵守してください。",
+        "【プロ仕様の文字起こし】AIが音声を自動的に文字起こしし、日本語を含む112言語に対応。話者ラベルで「誰が何を話したか」を明確に表示します。教育・法律・金融・建築など10種類以上の専門用語集を選択可能。プロの現場でも高精度な文字起こしを実現します。",
+        "【スマートAI要約＆Ask Plaud】GPT-5.5、Claude 4.6、Gemini 3.1 Proなどの最先端AIモデルを活用し、会議内容を自動的に要約。1万種類以上の要約テンプレートからToDoリストや提案も生成します。さらに、Ask Plaud機能で要約への質問や次のアクションの提案も可能。音声ソースに基づく信頼性の高いAIサポートにより、情報の価値を最大化します。",
+        "【データの安全性を最優先】すべてのデータは暗号化され、ユーザーの許可なく処理されることはありません。ISO 27001、SOC 2、GDPRなどの国際基準に準拠し、企業機密を取り扱う場合も安心です。Plaud アプリやWebポータルで無制限のクラウド保存が可能で、プライバシーを守りながら全てを一元管理できます。",
+        "【洗練されたカードサイズデザイン】厚さわずか2.99mm、重量30gのクレジットカードサイズ。ポケットにもすっきり収納。付属のマグネットケースでスマホ背面に装着すれば、すぐに録音開始。iF/RedDotデザイン賞受賞の高級感あるデザインが、ビジネスシーンを彩ります。",
+        "【幅広い使用シーンに対応】会議、通話、授業、インタビュー、ボイスメモなど、あらゆる場面で活躍。AI文字起こしと要約機能を活用すれば、議事録作成や情報整理の手間を大幅に削減し、要約文を手軽に編集して整えた後、すぐにエクスポート＆共有できます。個人の生産性もチームワークの効率も飛躍的に向上します。",
+        "【オンライン会議でも活用】Plaud Desktop（Plaudオンライン会議ツール）を使用することにより、Plaudの議事録記録機能を、対面での会話だけでなく、オンライン会議でも利用できるようになります。Zoom、Teams、Google Meetのいずれを利用していても、Plaudは自動的に会議を検出し、パソコンで高品質な音声で録音できます。Plaud Desktopは、Plaudデバイスをお持ちのユーザーのみご利用いただけます。",
+        "【Starterプラン特典】Plaud Noteをご購入いただくと、Starterプラン（300分/月までのAI文字起こし・自動要約）を無料特典としてご利用いただけます。マルチモーダル入力やAsk Plaudなど、様々なPlaud Intelligence機能も制限なく利用可能です。※本体とアプリを接続すると、Starterプランは自動的に有効になります。"
+      ],
+      "maker": "PLAUD",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 1479,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "voice_recorder",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GSVWCBMJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:00:13+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FQ5J7HFQ",
+      "title": "Plaud Note Pro AIボイスレコーダー 文字起こし 議事録 5m収音 極薄 ディスプレイ搭載 ハイライト機能 50時間録音 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0FQ5J7HFQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FQ5J7HFQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61hgYDIw0fL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【マルチモーダル入力】録音中に重要な瞬間を、ボタン一つでハイライトとして記録。さらに、録音中に、重要な資料を写真で撮影したり、浮かんだアイデアを文字で入力することで、文脈がより豊かになり、意図に沿った要約を生成。人とAIのリアルタイムな連携が可能になります。",
+        "【高音質・長時間録音】高性能MEMSマイクを4個搭載。音声強化モードでは、5m先まで一言一句、正確かつクリアに捉えます（その際、連続録音時間は最大30時間）。長時間駆動モードでは、最大50時間まで連続録音でき、立て続けの会議や丸一日の業務も安心です。録音を始める前に、参加者に録音する旨を伝え、同意を得てください。プライバシーを尊重し、お住まいの地域の法律を遵守してください。",
+        "【AIが実現するスマート録音】デュアルモード録音が更に進化。AIが通話録音と対面録音を自動で切り替え、シームレスな記録を実現します。AI指向性収音技術とリアルタイム空間認識により、周囲の雑音が低減され、発言者の音声をはっきり聞こえるようになります。",
+        "【プロ向けの文字起こし】日本語を含む112言語に対応し、高精度な文字起こしが可能。発言者ラベルで誰が何を話したかを一目で把握できます。さらに、医療、法律、金融など、10種類以上の専門用語集を選択することで、専門分野でも正確かつ分野に沿った文字起こしが可能です。",
+        "【多次元要約】業界をリードするAIモデル（GPT-5.5、Claude 4.6、Gemini 3.1 Proなど）を活用し、1万種類以上のプロ向けテンプレートを利用可能。あなたの業界や役割に合わせた多角的な要約を生成し、ToDoリストや提案で次の行動へ導きます。",
+        "【Ask Plaud】Ask Plaudは、要約内容への質問、インサイトの抽出、メール作成、次のアクションを提案する対話型AI機能です。すべての回答は音声ソースに基づくため、信頼性が高く、そのままノートとして保存できます。",
+        "【デザインと視認性】超軽量30g、極薄2.99mmのクレジットカードサイズ。波状テクスチャ加工の高級感あるアルミニウムボディに、Corning社製の強化ガラスであるゴリラガラスを採用した高精細AMOLEDディスプレイを搭載。バッテリー残量や録音状況を一目で確認できます。",
+        "【プライバシー保護】Plaudの製品とサービスは、GDPR、SOC 2 Type II、HIPAAに準拠。ユーザーデータはAWSを含む世界有数のクラウドサービスによって保護されており、高度な暗号化技術により、転送中および保存中のデータに第三者がアクセスすることは一切ありません。",
+        "【Starterプラン特典】Plaud Note Proを購入すると、Starterプランを無料特典として、300分/月までAI文字起こしや自動要約を利用可能。マルチモーダル入力やAsk Plaudなど、様々なPlaud Intelligence機能も制限なく使用できます。※本体とアプリを接続すると、Starterプランは自動的に有効になります。",
+        "【オンライン会議でも活用】Plaud Desktop（Plaudオンライン会議ツール）を使用することにより、Plaudの議事録記録機能を、対面での会話だけでなく、オンライン会議でも利用できるようになります。Zoom、Teams、Google Meetのいずれを利用していても、Plaudは自動的に会議を検出し、パソコンで高品質な音声で録音できます。Plaud Desktopは、Plaudデバイスをお持ちのユーザーのみご利用いただけます。"
+      ],
+      "maker": "PLAUD",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 977,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "voice_recorder",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GWF6CD3R",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:00:22+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FJ2G3LC2",
+      "title": "Notta Memo AIボイスレコーダー ワンタッチ録音 文字起こし/リアルタイム翻訳/要約/話者識別機能 世界の主流言語に対応 通話/会議録音モード 会議・面談・講演内容自動整理 Bluetooth&Wi-Fiデータ自動同期 5つのマイク搭載 スマホ・PCアプリ連携 会議ツール連携可 iPhone&Android対応 専用マグネットケース付属 30時間連続録音 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0FJ2G3LC2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FJ2G3LC2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71Rh0vyCORL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【高精度AI文字起こし＆自動要約】日本語にも強い独自の高精度AIエンジンが通話や会議の録音データをリアルタイムで正確にテキスト化。会話の流れを理解し、要約やToDoまで自動で整理します。面倒な議事録作成の時間を大幅に削減し、会議や商談の効率を劇的に向上させます。",
+        "【スマホ・PCブラウザ即時データ同期】録音データや文字起こし内容は、Wi-Fi連携でスマホアプリとPCブラウザへリアルタイム同期。画面の大きいPCでテキストの編集や検索、ワンクリックでの共有がスムーズに行えます。",
+        "【多言語リアルタイム翻訳＆ノイズ低減】50言語以上のリアルタイム翻訳に対応し、国際会議や語学学習、取材でも大活躍。高性能マイクとクリアな音質を保つノイズ低減機能を搭載し、広い会議室や講義でも発言者の声を鮮明にキャッチします。",
+        "【超薄型・軽量のスマートデザイン】胸ポケットやバッグにすっきり収まる小型・超薄型・軽量ボディを採用(約28g)。名刺サイズ感覚でスマートに持ち運べるため、突発的な打ち合わせや取材の場でも取り出しやすく自然に録音できます。",
+        "【専用マグネットケース＆ワンタッチ録音】着脱がスムーズな専用マグネット式充電ケースを付属。さらにワンタッチで誰でも迷わず素早く録音を開始できる直感的な操作性を実現し、大事な発言の録音逃しを防ぎます。"
+      ],
+      "maker": "Notta",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 247,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-27",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GSTRCRZT",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:00:31+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0G4M5QMNG",
+      "title": "Comulytic Note Pro AIボイスレコーダー 文字起こし無料・無制限 AI議事録作成 98%高精度 話者識別 最大45時間録音 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0G4M5QMNG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G4M5QMNG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71YtBDZyjzL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【文字起こし・要約】Comulytic Note Pro AIボイスレコーダーをお買い上げいただくと、利用できる文字起こしと基本要約サービスが付属します。業界をリードするAI（ChatGPT、Gemini）が、会議内容を高精度なテキストと要点に変換し、議事録作業の負担を大幅に軽減。より高度な要約テンプレートやAIアシスタント機能はオプションの有料プランでご利用いただけ、お客様のニーズに合わせて柔軟に選択できます。",
+        "【98%精度・113言語・専門用辞書】日本語はもちろん、全世界で使用される113の言語に対応。さらに、医療、法律、金融、IT、不動産など、15を超える専門分野の用語辞書を内蔵。専門性の高い打ち合わせでも、難解な用語を正確に捕捉し、プロの現場で信頼できる記録を実現します。発話者を自動で識別する「話者分離」機能で、誰が何を発言したかが一目瞭然。",
+        "【全自動スマート録音とデータを徹底保護】複雑な設定は一切不要。単純に録音ボタンを押すだけで、AIが通話（スマホ装着時）と対面会議を自動判別し、最適なモードで録音を開始。先進のAIノイズキャンセリング技術が周囲の雑音（キーボードのタイピング音、エアコンの音など）を除去し、5メートル先の声もクリアに収音。会議に集中するだけで、完璧な録音が得られます。すべての音声データは転送中も保存中も最高水準のAES-256暗号化技術で保護されます。当社は厳格なプライバシーポリシーに則り、お客様の許可なくデータを利用または共有することは一切ありません。",
+        "【Wi-Fi超高速転送】従来のBluetoothよりも10倍高速なWi-Fi転送を採用。1時間の会議録音も、わずか30秒でスマホアプリに同期。さらに、無制限のクラウドバックアップにより、貴重な録音データを紛失するリスクから守ります。",
+        "【AI要約で次の行動を創出】録音が終わると、AIが単なる文字起こしではなく、会議の本質を分析。自動生成される「要約レポート」には、決定事項、担当者別のToDoリスト、さらには次の打ち合わせのための提案ポイントまで含まれ、生産性を飛躍的に向上させます。生成した議事録は、PDF、Word、Excel形式で即座に出力し、メールやSlackでチームと共有可能。",
+        "【超薄軽量デザインで、どこへでも携帯】厚さわずか3mm、重量27gのクレジットカードサイズ。付属の強力マグネットケースでスマホ背面に装着すれば、ビジネスシーンでも違和感なく、いつでもすぐに録音を開始できます。高精細な0.78インチディスプレイでバッテリー残量や録音状態を確認可能。",
+        "【超長時間駆動で電源切れの不安を解消】満充電で最大45時間の連続録音を実現。さらに、驚異の107日間スタンバイを誇るため、日常的な充電の手間から解放されます。TYPE-A充電に対応し、90分でフルチャージ可能。",
+        "【お客様のプライバシー】ご購入日より1年間の製品保証をお付けします。製品についてご不明な点やお困りのことがございましたら、お気軽にカスタマーサポートまでご連絡ください。迅速かつ誠意を尽くして対応いたします。",
+        "【箱内同梱物】 Comulytic Note Pro AI ボイスレコーダー本体*1 専用マグネットケース（スマホ取り付け用）*1 TYPE-A充電ケーブル*1 OTGアダプター*1 クイックスタートガイド*1 磁気リング*2 *付属品に万が一不具合がございましたら、お気軽に弊社までご連絡ください。迅速に対応させていただきます。"
+      ],
+      "maker": "Comulytic",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 202,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "voice_recorder",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-18",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HB57WP3P",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:00:37+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CLXPWX8R",
+      "title": "ソースネクスト ｜ AutoMemo S（オートメモ）｜ AIボイスレコーダー （文字起こし機能付き） ｜ 公式限定セット（文字起こし3時間サービス）",
+      "url": "https://www.amazon.co.jp/dp/B0CLXPWX8R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CLXPWX8R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71NBUahCzWL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "「AutoMemo （オートメモ） S 」は、録音した音声を自動で文字起こしするAIボイスレコーダーです。本製品は「AutoMemo （オートメモ） S」本体と「文字起こし3時間チャージ」のセット商品です。",
+        "ポイント1：本体で録音、再生できることはもちろん、文字起こししたテキストを2.83インチの大型ディスプレイで確認できます。",
+        "ポイント2：面倒だった文字起こし、データの共有・管理がオートメモ Sなら全自動。文字起こしは72言語に対応。データはすべてクラウドに自動保存。しかも保存容量は無制限。",
+        "ポイント3：文字になるから、見たいところ、聞きたいところをすぐに検索できる。最新AIによる音声認識で、文字起こし精度が大幅に改善。"
+      ],
+      "maker": "ソースネクスト",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 21,
+      "star_rating": 3.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-01",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HJQSDVRL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:00:46+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0G442CBGL",
+      "title": "AIボイスレコーダー【生産性を爆上げ•第二の頭脳】Recolx AI議事録 超高精度文字起こし/最先端AI自動要約/同時通訳/行動リスト/AIに質問/話者識別機能/専門用語 通話/対面録音 AI指向性収音レコーダー 最大7m音声収音 112ヶ国語対応 マルチモーダル入力 アプリ連動 極薄 会議・面談・講演内容自動整理 iPhone&Android対応 専用ケース付属",
+      "url": "https://www.amazon.co.jp/dp/B0G442CBGL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G442CBGL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81cjk+JfrwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【革新の、その先へ！次世代AIボイスレコーダーが、生産性を爆上げ】会議・打ち合わせ・講義…情報の記録、整理に時間を奪われていませんか？Recolx AIレコーダーカードが、その課題を解決します。話したその瞬間から、AIが高精度で文字起こし。要約し、議事録までを自動構築。さらに、AIへの質問で行動リストや具体案を即時生成。話者判別、多言語対応、クラウド連携――記録から実行までのフローを、完全自動化します。3時間の録音も、要点整理はわずか5分。 業務効率を最大98%向上※現代ビジネスパーソンにとって、これは必須の生産性インフラです。効率化の新基準を、今日から体感してください。",
+        "【99.99%の高精度録音｜AIノイズ除去｜5つの録音モード｜最長7m収音】音へのこだわりは、私たちの信念。精密録音は、AIボイスレコーダー成功の礎。Recolxが実現した新次元のAI録音技術は、雑音を徹底排除し、99.99%の驚異的精度でクリアな音声を再現することを約束します。5つの録音モードで、会議、取材、学習、通話、移動中など、あらゆるシーンに対応。AI指向性収音技術とリアルタイム空間認識により、周囲の雑音を低減し、発言者の声を鮮明に浮かび上がらせます。最大7mの収音距離と30時間連続録音で、長時間のインタビューも多忙な業務日も、安心の完全収録。Recolxは、もう一段上の信頼性を、あなたの隣に。",
+        "【あなたの“第二の脳”｜要約・分析・次なる一手をAIが提案】いつでも、どこでも。スピードと効率で差をつける。Recolx レコーダーは日本語を含む112言語に対応し、高精度な文字起こしを実現。発言者を自動識別・ラベル付けするため、誰が何を話したかが一目で把握できます。さらに、医療・法律・金融など10種類以上の専門用語辞書を搭載。業界特有の用語も正確に、文脈に沿って書き起こします。業界をリードするAIモデル（GPT-5、Claude 4、Gemini 2.5 Pro等）を活用し、数千種類のプロ向け要約テンプレートから選択可能。会議内容を、あなたの業界・役職に合わせて多角的に要約。To Doリストや提案事項を自動抽出し、次の行動へと導きます。「Ask Recolx」は対話型AI機能。要約内容について質問を投げかけたり、インサイトを引き出したり、メール作成や次に取るべきアクションを提案することも可能。すべての回答は音声ソースに基づいているため信頼性が高く、そのまま保存してノートとして活用できます。Recolxが、あなたの「聞く」「まとめる」「行動する」を一気通貫でサポートします。",
+        "【リアルタイム通訳で（38言語対応）、言葉の壁を溶かす】多言語が交錯する国際会議や、海外クライアントとの重要な交渉でも、Recolxが言葉の壁をリアルタイムで解消。日本語・英語・中国語を含む38言語に対応し、多国籍チームのコラボレーションを、ストレスなくスムーズにします。Bluetooth/Wi-Fiによる高速通信で録音ファイルをリアルタイム同期。テキストや音声データとして即座にエクスポート可能なため、議事録作成や情報共有が効率化され、グローバルな業務の生産性を確実に向上させます。世界とつながるその瞬間を、Recolxが確かな記録と翻訳で支えます。",
+        "【「信頼と、守り」データの安全性と2年間品質保証】Recolx AIボイスレコーダーは、オンライン・オフラインを問わず録音を可能にします。Bluetooth接続により、スマホ・タブレットとのシームレスな連携を実現。初回ペアリング後は、電源を入れるだけで自動接続され、いつでもすぐに録音を開始できます。すべてのデータは日本国内サーバーで厳重に保管。国際セキュリティ認証を取得し、転送時も保存時も多重暗号化を実施。運用担当者であっても、個々のユーザーデータを特定・閲覧することはできません。専用アプリ「Recolx」またはWeb版から、いつでもどこでも録音データの編集・管理が可能。さらに、すべてのRecolx製品には2年間のメーカー保証を付与。万が一の際も、日本国内の専任サポートが迅速に対応します。「言葉を記録する責任」を、技術と体制で全うする――それがRecolxの約束です。"
+      ],
+      "maker": "Recolx",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 17,
+      "star_rating": 3.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-27",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GNQ8N9YH",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:00:53+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09BPZXWCB",
+      "title": "iFLYTEK VOITER SR502J AIライティングレコーダー/文字起こしサービス料無料/ボイスレコーダー/高精度な音声認識テクノロジー搭載",
+      "url": "https://www.amazon.co.jp/dp/B09BPZXWCB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09BPZXWCB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Bd3pLJhtL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "高精度な音声認識テクノロジー搭載で自動でテキスト化するAIライティングレコーダー",
+        "国際コンテスト１位優勝のノイズ除去技術と8個のマイクを搭載、雑音環境でも、人の声をクリアに記録。",
+        "VOITER SR502Jの文字起こしには、Wi-Fiなどネットワーク接続が必要です。文字起こしには、アカウントの作成が必要です。文字起こしサービスはアカウントご登録後無料でご利用いただけます。",
+        "Wi-Fi（2.4GHzのみ対応）接続時やSIMカード（別売）によるネットワーク接続時、操作画面上にリアルタイムに文字起こしします。 ＊4G接続には別途SIMカードが必要(nano SIM) ＊対応キャリア：au/docomo/楽天/ahamo/softbank(iPhone用のみ)の音声用プラン。その他キャリアは未検証(2023年2月時点) またAPN設定にも対応しておりません",
+        "※文字起こしの精度は録音時の環境や音声の明確さや距離等で変わり、100％の精度を保証するものではありません。文字起こし対応言語：日本語・英語",
+        "ストレージ：本体16GB、クラウド10GB"
+      ],
+      "maker": "iFLYTEK",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 76,
+      "star_rating": 2.7,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T10:01:01+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B7VR28QD",
+      "title": "iFLYTEK VOITER SR302PRO AIライティングレコーダー 黒/文字起こし/ボイスレコーダー/音声を自動でテキスト化するAIライティングレコーダーオフラインモデル 文字起こし無料 会議・大学講義・ゼミ・議事録作成",
+      "url": "https://www.amazon.co.jp/dp/B0B7VR28QD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B7VR28QD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51DqhZXh4yL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "音声を自動でテキスト化するAIライティングレコーダーのオフラインモデル",
+        "国際コンテスト１位優勝のノイズ除去技術と6個のマイクを搭載、雑音環境でも、人の声をクリアに記録。",
+        "外部録音データの文字起こし機能を追加　※マルチフォーマットに対応　※文字起こしの回数に制限なし　※要PC接続",
+        "テキスト化：無料（オフラインでの文字起こし）",
+        "文字起こし対応言語：日本語・英語・中国語・韓国語・ロシア語",
+        "ストレージ：本体32GB"
+      ],
+      "maker": "iFLYTEK",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 111,
+      "star_rating": 3.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GT4QTTKK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:01:07+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DK2712XX",
+      "title": "HiDock H1 多機能11-in-1 ドッキングステーション AIボイスレコーダー マイクスピーカー付き ワンタッチ録音 双方向ノイズキャンセリング AI文字起こし 議事録作成 Dual 4K@Hz HDMI 最大118W PD同時充電 10Gbps高速データ転送 microSD＆SDカードスロット 2.5Gbpsイーサネットポート ワイヤレスイヤホン付属 パソコン/スマホ対応 スレートグレー",
+      "url": "https://www.amazon.co.jp/dp/B0DK2712XX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DK2712XX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71TH8mL+oNL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【11 in 1 多機能 USB Cドッキングステーション】 HiDock H1は、デュアル4K@60Hz HDMI出力でマルチモニター環境を実現。ノートPC向け最大100W・スマホ向け最大18Wの高速PD同時充電に対応し、10Gbps高速USB-A/Cポートと2.5Gbps有線LANで大容量ファイル転送もストレスフリー。microSD＆SDのダブルカードリーダー内蔵で、一台で配線整理・電力供給・外部出力・データ転送をまるごと解決。デスクワーカーやリモートワーカーにとって理想的なパートナーです。",
+        "【Web会議を録音できるノイキャン付きスピーカーマイク】USB-CケーブルでPCに接続するだけで、Web会議の音声出力や入力として使用可能、ワンタッチで会議を録音。Bluetooth経由でスマホの電話録音やタブレットの録音にも対応。通話中、HiDock独自の双方向ノイズキャンセリング（BNC）技術により、キーボードの打鍵音・ペットの鳴き声・街の騒音など、自分と相手双方のあらゆる騒音を瞬間でカット。*注意：録音する際デバイスおよび会議アプリの音声出力と入力の両方をHiDockに設置する必要があります。",
+        "【最新AIモデルによる文字起こしと要約が無料】HiDock H1は、AI文字起こし機能付きボイスレコーダーとしても機能しています。ワンタッチで録音 → 自動文字起こし → 要約までスムーズにお届けします。最新のAIモデルを運用し、57言語に対応した高精度なAI議事録を無料でご提供いたします。",
+        "【高度なAIで場面に応じる議事録を作成】ChatGPT 4.1とClaude 3.5 Sonnetの二種類のAIエンジンから選んで、会議の内容に最適な要約を自動作成。定例会議、面接、ブレインストーミングなど、20種類以上のテンプレートでシーンにぴったり合った議事録を提供。企業の営業、企画、面接会議やリモートワーカー、フリーランスのWeb会議など、あらゆるシーンに対応できます。",
+        "【専用ワイヤレスイヤホン付属】プライベートな通話のために専用のワイヤレスイヤホンを付属。オープンイヤーデザインを採用しており、長時間装着しても快適に使用でき、Web会議中でも自由に移動できます。"
+      ],
+      "maker": "HiDock",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 37,
+      "star_rating": 3.6,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T10:01:16+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DZWYVWBR",
+      "title": "Plaud NotePin AIボイスレコーダー ウェアラブル設計 小型 ワンタッチ録音 自動文字起こし 多次元要約 マルチモーダル入力 AIに質問 カプセル型ICレコーダー 身に装着 先端AIモデル活用 会議アプリと連携 112言語対応 20時間連続録音 携帯・パソコン連動 軽量 大容量64GB レコーダー 対面会話/工事現場/接客/ひらめきの記録 専用マグネットピン・クリップ付属 グレー",
+      "url": "https://www.amazon.co.jp/dp/B0DZWYVWBR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DZWYVWBR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/615hOHp2iiL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【Plaud NotePinについて】Plaud NotePin（プラウドノートピン）は、知性を拡張する、ウェアラブルAIボイスレコーダーです。どこにでも装着できるので、重要な情報を漏れなく記録できるAIアシスタントでもあります。面倒なルーティン業務を代わりにこなしてくれるので、よりクリエイティブな業務に集中できます。",
+        "【自由自在な録音体験】専用のマグネットピンとクリップが同梱されており、服にしっかり固定して、自由に身につけられます。本体表面の中央を長押しするだけで、録音の開始・終了が可能。いつでも重要な音声情報を簡単に記録できます。両手を解放して、会話や自分がしていることに集中することができます。※録音を始める前に、参加者に録音する旨を伝え、同意を得てください。プライバシーを尊重し、お住まいの地域の法律を遵守してください。",
+        "【マルチモーダル入力】Plaud NotePinで録音する時に、重要な瞬間をPlaudアプリでワンタッチでハイライトできます。音声に加え、写真やテキストで情報を補足することで、より深い文脈で記録できます。AIがこれらの情報を基に、意図に沿った要約やToDoリストを自動生成。情報整理の効率が革新的に向上します。",
+        "【プロ仕様の文字起こし】AIが音声を自動的に文字起こしし、日本語を含む112言語に対応。話者ラベルで「誰が何を話したか」を明確に表示します。教育・法律・金融・建築など10種類以上の専門用語集を選択可能。プロの現場でも高精度な文字起こしを実現します。",
+        "【スマートAI要約＆Ask Plaud】GPT-5.5、Claude 4.6、Gemini 3.1 Proなどの最先端AIモデルを活用し、会議内容を自動的に要約。1万種類以上の要約テンプレートからToDoリストや提案も生成します。さらに、Ask Plaud機能で要約への質問や次のアクションの提案も可能。音声ソースに基づく信頼性の高いAIサポートにより、情報の価値を最大化します。",
+        "【データの安全性を最優先】すべてのデータは暗号化され、ユーザーの許可なく処理されることはありません。ISO 27001、SOC 2、GDPRなどの国際基準に準拠し、企業機密を取り扱う場合も安心です。Plaud アプリやWebポータルで無制限のクラウド保存が可能で、プライバシーを守りながら全てを一元管理できます。",
+        "【小さなカプセルに大きなAIパワー】Plaud NotePinは、指でつまめる超小型かつ23gの超軽量なカプセル型です。サイズと重さが単三電池一本分に相当する本体には、270mAh容量のバッテリーが内蔵されており、一度フル充電すれば、20時間の連続録音が可能で、40日間のスタンバイもできるため、1日中使えるAIパワーを備えています。",
+        "【記録したい瞬間に準備万端】NotePinがそばにあれば、接客や工事現場など移動の多い仕事では、あなたの代わりに会話内容を自動でメモに整理してくれます。また、日常で情報が多くて覚えきれないときや、クリエイティブな仕事で浮かんだアイデアを忘れがちな場面でも、NotePinが「第二の脳」としてすべての情報やひらめきを記録し、あなたの記憶をしっかりサポートします。",
+        "【オンライン会議でも活用】Plaud Desktop（Plaudオンライン会議ツール）を使用することにより、Plaudの議事録記録機能を、対面での会話だけでなく、オンライン会議でも利用できるようになります。Zoom、Teams、Google Meetのいずれを利用していても、Plaudは自動的に会議を検出し、パソコンで高品質な音声で録音できます。Plaud Desktopは、Plaudデバイスをお持ちのユーザーのみご利用いただけます。",
+        "【Starterプラン特典】Plaud NotePinをご購入いただくと、Starterプラン（300分/月までのAI文字起こし・自動要約）を無料特典としてご利用いただけます。マルチモーダル入力やAsk Plaudなど、様々なPlaud Intelligence機能も制限なく利用可能です。※本体とアプリを接続すると、Starterプランは自動的に有効になります。"
+      ],
+      "maker": "PLAUD",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 675,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "voice_recorder",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GWJBTMF9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:01:25+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FMJYV9P8",
+      "title": "viaim NoteKit 先端AI搭載 ボイスレコーダー 同時多言語文字起こし・リアルタイム翻訳＆要約・ToDo自動生成 78言語対応 三言語同時翻訳 Type-C/USB-A両対応 PC/Mac対応 議事録 ボイスメモ 会議・授業・取材・インタビュー録音に最適 軽量デザイン 仕事効率化AIツール",
+      "url": "https://www.amazon.co.jp/dp/B0FMJYV9P8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FMJYV9P8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61xEzXH9JeL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【AI文字起こし &amp; 自動要約】オンライン会議・授業・インタビューをリアルタイムで正確に文字起こし。AIが自動で要約とToDoリストを生成し、メモ作成の手間を大幅削減。学生・リモートワーカー・ビジネスユーザーに最適。",
+        "【3つの録音モード対応】Zoom会議、対面打ち合わせ、動画・音声録音までカバー。リモートワークや教育現場、コンテンツ制作など、あらゆるシーンで確実に録音。ハイブリッドワークにも最適",
+        "【ワンプレス操作 &amp; デュアルマイク】ボタン一つで録音開始・停止でき、面倒な操作不要。デュアルマイク搭載で最大5m先までの音声をクリアに収録し、会議室・講義・インタビューで高精度録音を実現。",
+        "【多言語翻訳 &amp; グローバル対応】78言語に対応したリアルタイム翻訳で、国際会議や海外プロジェクトを強力サポート。販売、教育、コラボレーションなど、グローバルな場面で活躍。（※地域ごとのバリエーションを含めた場合は合計で145言語に対応）。",
+        "【プライバシー保護と完全暗号化】全録音データはエンドツーエンド暗号化（AES-256/TLS）により完全保護。クラウドバックアップ、複数デバイスアクセス、AI文字起こし・要約はすべて利用者の承認が必要です。データの管理・共有・完全削除が容易で、第三者共有や広告は一切なし。プライバシーを最優先した録音を提供。ISO27001準拠&amp;国内サーバーで、安心のデータ管理。"
+      ],
+      "maker": "viaim",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 64,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GLMNM9H5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:01:34+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FWZWY2BW",
+      "title": "HiDock P1 AI ボイスレコーダー 【世界初ワイヤレスイヤホンで録音可能】文字起こし 要約 先端LLM利用 ECMマイク搭載 パソコン対応 アプリ連動 仕事効率化AIツール ワンタッチ録音 通話/対面/呟き録音モード 75言語対応 クラウドストレージ無制限 64GB 大容量 議事録/ボイスメモ/講義ノート スペースグレー",
+      "url": "https://www.amazon.co.jp/dp/B0FWZWY2BW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FWZWY2BW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ujGo0X7gL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【世界初にワイヤレスイヤホン対応のAIボイスレコーダー】 HiDock P1は、独自のBlueCatch技術により、Bluetoothイヤホンを装着したまま録音が可能。ワンタッチで接続でき、いつものイヤホンがそのままAIボイスレコーダーに早変わり。周囲に気づかれず、プライバシーを守りながら会話を記録できます。",
+        "【3つの録音モードで多様なシーンに対応】HiDock P1はワイヤレスイヤホン連携だけでなく、2つの高性能ECMマイクを搭載した単体ボイスレコーダーとしても使用可能。「通話モード」ではイヤホンを装着したままZoom・Google Meet・TeamsなどのWeb会議を録音、「対面モード」は対面の打ち合わせや会議に最適。「呟きモード」では、ひらめいたアイデアをその場でボイスメモとして残せます。3つの録音モードで、あらゆるシーンに対応します。",
+        "【会話に集中できるAIツール】GPT-5をはじめとする業界をリードするAIモデルを活用し、日本語を含む75言語に対応した高精度文字起こしを実現。30種類以上のカスタマイズ要約テンプレートから、シーンに応じた要点・ToDoリストを自動生成。議事録作成の手間を省き、会議や打ち合わせ、インタビュー、コンサルティングなどで、会話そのものに集中できます。",
+        "【文字起こしと要約が無制限かつ無料】HiDock P1をご購入いただくと、専用アプリ「HiNotes」のメンバーシッププランが無料特典として付属。最新AIによる文字起こしと要約機能が利用回数・時間ともに制限なく無料で利用でき、あなたの生産性向上を継続的にサポートします。",
+        "【直感操作とクールなデザイン】録音の開始から音量調整やBluetoothイヤホンの接続まで、本体のボタンでスムーズに操作できます。マグネット内蔵のため、ホワイトボードやペグボードはもちろん、付属の金属プレートを使えばPC裏にも装着可能。さらに、同梱のUSB-Cケーブルにはタッチコントロール機能を搭載し、ケーブルから録音の開始・停止を操作できます。"
+      ],
+      "maker": "HiDock",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 120,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "earphones_headphones",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H8XM6GXZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:01:44+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0G6F1PZXY",
+      "title": "Plaud NotePin S AIボイスレコーダー ウェアラブルAIデバイス 小型 4種類のアクセサリー付属 物理ボタン搭載 ワンタッチ録音 自動文字起こし/要約 自動議事録/メモ生成 Web会議対応 先端AIモデル活用 112言語対応 20時間連続録音 スマートフォン・パソコン連動 64GB ICレコーダー AIノートテイカー 対面会話/オンライン会議/工事現場/商談などの記録 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0G6F1PZXY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G6F1PZXY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51U34tm+cfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【Plaud NotePin Sについて】Plaud NotePin S（プラウドノートピン S）は、知性を拡張するウェアラブルAIボイスレコーダーです。どこにでも装着できるので、重要な情報を漏れなく記録し、要約ノートを自動生成します。面倒なルーティン業務を代わりにこなしてくれるので、よりクリエイティブな業務に集中できます。",
+        "【4種類のアクセサリー付属したセット】カプセル型ボイスレコーダーNotePin Sには、ネックストラップ、リストバンド、マグネットピン、クリップの4種類の専用アクセサリーが付属。腕時計のように手首に巻き付けたり、ネックレスのように首にかけたり、クリップやピンで服に留めたりできるため、自分スタイルで装着でき、完全ハンズフリーで会話を記録できます。",
+        "【記録したい瞬間に録音開始】NotePin Sを身につければ、商談や工事現場など移動の多く、メモ書きができないような環境でも、あなたの代わりに会話内容を細部まで記録し、自動で情報を整理。まるで「第二の脳」のように、あなたの記憶をしっかりサポートします。※信頼関係を守るため、録音の同意を取得してください。",
+        "【マルチモーダル入力】録音中、重要な瞬間をボタンで短押しでハイライト記録、重要な視覚情報を撮影したり、浮かんだアイデアを文字入力することで、より深い文脈で記録できます。AIがこれらの情報を基に、意図に沿った要約やToDoリストを自動生成し、正確で実行可能なインサイトを提供します。情報整理の精度が革新的に向上します。",
+        "【プロ仕様の文字起こし】AI文字起こしは、日本語を含む112言語に対応し、話者ラベルで「誰が何を話したか」を明確に表示した状態で文字起こしできます。教育・法律・金融・建築など10種類以上の専門用語集を選択でき、プロの現場でも高精度な文字起こしを実現します。"
+      ],
+      "maker": "PLAUD",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 123,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "voice_recorder",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GSGXPWVH",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:01:55+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GD6YM258",
+      "title": "Udoric AIボイスレコーダー 同時通訳 自動文字起こし ワンタッチ録音 ICレコーダー AI要点要約・議事録作成 通話/通常録音 マインドマップ AIノイズ低減 仕事効率化AIツール 磁気吸着 64GB大容量 最大50時間連続録音 超薄型 自動保存 分段録音 声控録音 100+言語対応 スマホ連動 iOS/Android対応 ビジネス会議/授業/インタービューなどで活用（グレー）",
+      "url": "https://www.amazon.co.jp/dp/B0GD6YM258?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GD6YM258?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/711x9LrpheL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【同時通訳・AI高精度文字起こし】本製品はAI音声認識エンジンを中核に、録音と同時に音声を高精度で文字へ変換する機能と、発話の流れに沿って内容をリアルタイムに処理する同時通訳対応機能を搭載しています。会話や講義の進行を妨げることなく内容を即座に可視化できるため、会議・商談・取材など情報量の多い場面でも重要な発言を逃しにくくなります。録音された音声はAIによって高精度に文字起こしされ、会話の流れを確認しやすいテキストとして保存されます。議事録や記録用途として幅広くご利用いただけます。さらに、文字起こしされたテキストは翻訳機能にも対応しており、必要に応じて他言語へ変換可能。語学力や記憶力に頼らず、「録る・読む・理解する」を一体化することで、情報活用の効率を大きく高めます。",
+        "【AI要点整理・マインドマップ生成】録音・文字起こしデータは専用アプリと連携し、AIによる要点抽出と自動整理が可能です。長時間の会議や講義内容も、重要ポイントを中心に再構成され、視覚的に理解しやすいマインドマップとして表示されます。操作はアプリ上で直感的に行え、専門知識は不要。情報を「読む」「探す」手間から解放され、意思決定や復習にすぐ活用できます。記録した音声が単なるデータで終わらず、価値ある情報資産へと変換されることで、日々の業務効率や学習成果を着実に積み上げていくことが可能になります。",
+        "【高音質録音・AIノイズ低減】全景6Dデュアルマイク構成により、周囲の音を立体的に収音し、話者の声を的確に捉えます。さらにAI音声強化技術を組み合わせることで、雑音が多い環境でも人の声を自動で判別・補正。会議室、カフェ、屋外などシーンを選ばず、クリアで聞き取りやすい音質を実現します。録音後の再生時も音の輪郭がはっきりしており、文字起こしや翻訳精度の向上にも貢献。音質に妥協しない設計が、記録の信頼性そのものを高めます。",
+        "【ワンタッチ通話録音/通常録音・自動保存】通話録音と通常録音の両モードに対応し、必要な瞬間を逃さず記録できます。操作はワンタッチで完結し、複雑な設定は不要。重要な連絡や打ち合わせ内容を、後から落ち着いて確認できる録音環境を提供します。さらに、万が一の電源切れやバッテリー消耗時にも録音データを自動的に保存する設計を採用。録音途中でのトラブルによるデータ消失の不安を軽減し、安心して使用できます。「録り忘れ」「途中で消えた」といったストレスから解放され、記録そのものに集中できる使用体験を実現します。",
+        "【2.99ｍｍ超薄型・50時間連続使用・64GB大容量】厚さわずか0.29cmの超薄型ボディは、ポケットやバッグに入れてもかさばらず、持ち運びの存在感を感じさせません。それでいて最大50時間の連続録音に対応し、長時間の会議や外出先での使用にも余裕をもって対応。64GBの大容量ストレージにより、頻繁なデータ整理や削除の手間を軽減します。薄さ・持続力・容量という三要素を高次元で両立し、日常からビジネスまで幅広く活躍。使うほどに「これ一台で足りる」と実感できる設計です。",
+        "【永年無料・一年保証】文字起こし・翻訳・AI整理などの主要機能は永年無料で利用可能。iOS・Androidの両システムに対応し、スマートフォンを選ばずスムーズに連携。さらに一年間のメーカー保証付きで、万が一の不具合にも迅速に対応します。購入後も続くサポート体制により、「買って終わり」ではなく「使い続ける価値」を提供。初めての方でも不安なく導入でき、長く信頼できる一台です。"
+      ],
+      "maker": "Udoric",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 2,
+      "star_rating": 1.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T10:02:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GVH52FLS",
+      "title": "Anker Soundcore Work (64GB) (ブラック)【世界最小ウェアラブル AIボイスレコーダー】",
+      "url": "https://www.amazon.co.jp/dp/B0GVH52FLS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GVH52FLS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71u00h1LbDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【選ぶなら、簡単＆最小ウェアラブル。】世界最小・最軽量※のウェアラブルAIボイスレコーダーで、商談メモ、会議の議事録などにかかる時間を節約できます。※マイク本体のみを指す。2026年5月時点、自社調べ",
+        "【大切な会話を録り逃さない】Anker独自の直感的なボタン操作で、録音開始がわかりやすい。最大5m先の音声までクリアに収音し、スムーズに録音できます。",
+        "【指先サイズでいつでもどこでも「AI議事録」】取り外し可能なマイクは、わずか約10gの軽さで、身につけても邪魔にならないコンパクトな設計。",
+        "【AIによる高精度な文字起こし】話者識別や段落分けにも対応。会議や商談、インタビューなど、あらゆる場面での音声をスピーディーにテキスト化できます。",
+        "【AIによるスマート要約】録音した音声データを、AIが内容に応じて最適なテンプレートを自動で選択し、瞬時に要約します。",
+        "【スマホからPCへの連携も可能】スマホだけでなくPCにも対応し、デバイスの制限なく、より自由に便利にデータを確認、編集が可能です。",
+        "【業務使用でも安心のセキュリティ対策】高度な暗号化技術により、データを安全に保護する設計。EN 18031-1 および EN 18031-2 に適合し、NIST IR 8425 および EN 303 645 に定められたセキュリティベースラインを参照して設計されています。",
+        "【世界150以上※の言語に対応】日本語含め、英語や中国語、ベトナム語など、世界人口の約90%をカバーできる幅広い言語に対応。※各国のアクセントを含む。2026年1月時点",
+        "【Starterプラン特典】Soundcore Workをご購入いただくと、Starterプラン（300分/月までのAI文字起こし・自動要約）を無料特典としてご利用いただけます。※Soundcoreアプリ連携後、プランをご購入いただけます。Pro / Unlimited プランならより便利なAI機能を利用できます",
+        "パッケージ内容：Soundcore Work (64GB) (マイク本体、カード型充電ケース) 、USB-C &amp; USB-A ケーブル、ネックレスチェーン、マグネットリングステッカー、クイックスタートガイド、カスタマーサポート ※製品の仕様またはパッケージは予告なく変更されることがありますので、予めご了承ください"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261029_voice_recorder",
+      "queries_matched": [
+        "codex_20261029_voice_recorder"
+      ],
+      "review_count": 127,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "voice_recorder",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H5J98D1M",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T10:02:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "shared/db/product.sqlite"
+  },
+  "measurement_checkpointed_at": "2026-10-09T10:02:11+09:00"
+}

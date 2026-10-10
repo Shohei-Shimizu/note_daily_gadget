@@ -1,0 +1,38 @@
+
+候補 27 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B00U260UR0  Anker          Anker ウルトラスリム Bluetooth ワイヤレスキーボード iOS/Android/Mac/W [measured 2026-08-31]
+  B015H5YHEM  Logicool       ロジクール ワイヤレスキーボード K275 ワイヤレス キーボード 無線 薄型 テンキー USB接続 U [article_dated 2026-07-14]
+  B08K2CHMWK  Logicool       ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 [measured 2026-09-11]
+  B0FDQL8KNL  Logicool       【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250G [measured 2026-08-31]
+  B07PJW2X2F  ELECOM         エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110 [article_dated 2026-09-15]
+  B01HGGWZMG  ELECOM         エレコム 有線キーボード メンブレン ブラック TK-FFCM01BK [measured 2026-08-31]
+  B07PFGDZD7  ELECOM         エレコム ワイヤレスキーボード マウスセット メンブレン 薄型 フルキーボード ブラック TK-FDM1 [measured 2026-08-26]
+  B0BWDSC5ZB  Logicool       【Amazon.co.jp限定】ロジクール MX KEYS mini KX700GRd ミニマリスト ワ [article_dated 2026-08-24]
+  B08TMK8GSC  ELECOM         エレコム ワイヤレスキーボード Bluetooth フルキーボード テンキー付 薄型 メンブレン 抗菌  [measured 2026-08-26]
+  B0CWKWXP37  Omikamo        【最新型】Omikamo キーボード bluetooth 折り畳み式 ワイヤレス JIS標準日本語配列  [measured 2026-09-11]
+  B0CJR82M5M  Logicool       ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 [measured 2026-09-11]
+  B01MA23P3J  iClever        iClever 折りたたみ Bluetooth キーボード- 多ペアリング対応 360度回転可能 超軽量 [article_dated 2026-06-18]
+  B0C3QXBTJP  ELECOM         エレコム ワイヤレスキーボード 静音 テンキー付 薄型コンパクトサイズ Windows ChromeOS [measured 2026-08-26]
+  B0FDW68VH4  Keychron       【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、 [measured 2026-08-31]
+  B0B1Q6H9X5  Logicool       ロジクール KX850CL MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル  [article_dated 2026-04-03]
+  B0CT2T18PV  Amazon         Amazonベーシック 有線キーボード 日本語配列 ブラック [measured 2026-08-26]
+  B0D3HX423Y  雨音のような打鍵音      【WOBKEY Rainy 75キーボード】雨音のような打鍵音 メカニカルキーボード 3WAY接続 OS [measured 2026-08-31]
+  B00BJZ2JWC  Logicool       ロジクール 有線 キーボード 耐水 K120 USB接続 日本語配列 テンキー 薄型 有線キーボード 国 [未実測]
+  B081JSVYHQ  Ewin           Ewin キーボード ワイヤレス bluetooth 小型 キーボード JIS基準 日本語配列 ios  [未実測]
+  B08CRN2P44  バッファロー         バッファロー キーボード ワイヤレス BSKBW125BK [未実測]
+  B0C65F55K5  Logicool       ロジクール MX KEYS S ワイヤレス キーボード KX800sGR Bluetooth Logi  [未実測]
+  B0DBZNH3D3  iClever        iClever ワイヤレスキーボード Bluetooth・2.4GHz JIS日本語配列 コンパクト パ [未実測]
+  B0CZ8X3DH8  Logicool       ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング  [未実測]
+  B0F38B7W6P  Omikamo        【2026革新版】Omikamo キーボード ワイヤレス 折りたたみ式 JIS標準日本語配列 ipad/ [未実測]
+  B0GL26M6Z2  ELECOM         エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macO [未実測]
+  B0FCLQ5MM2  SmackApe       SmackApe Impact 80 メカニカルキーボード 3WAY接続 無線 ワイヤレス 低遅延 テン [未実測]
+  B0GHR6W4VL  Logicool       ロジクール ガスケット ワイヤレス メカニカルキーボード 日本語配列 Alto Keys K98MGR  [未実測]
+
+topic_id: daily_gadget_20261101_5d60a8d4
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

@@ -1,0 +1,1202 @@
+{
+  "date": "2026-11-20",
+  "topic_id": "daily_gadget_20261120_b091861e",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 21,
+  "parent_groups": {
+    "B0DG7P889C": [
+      "B08HDL3XJR"
+    ],
+    "B09B1ZLBTJ": [
+      "B09988GM1B",
+      "B09989LKD4"
+    ],
+    "B099HSCJDK": [
+      "B08BP625V6",
+      "B08BP6J3PJ"
+    ],
+    "B0G6Z3WYB3": [
+      "B0DX1TFTY1",
+      "B0FHGXG7SN",
+      "B0DWMVW8RS"
+    ],
+    "B0DFZQ22D5": [
+      "B0CZ9SX1GW"
+    ],
+    "B0F13GMDWS": [
+      "B0F13GMDWS"
+    ],
+    "B0H6M8BVJB": [
+      "B0FY2Q49WD"
+    ],
+    "B077NSWLH2": [
+      "B077NSWLH2"
+    ],
+    "B0DJR25WGL": [
+      "B0DG9VSBLS",
+      "B0DGBDR2PM"
+    ],
+    "B0DHGDV8F8": [
+      "B0DHGDV8F8"
+    ],
+    "B0H4HV9N89": [
+      "B0FMS56K28",
+      "B0FMS6VN19",
+      "B0FMS91Z9M"
+    ],
+    "B0H2JGJTBN": [
+      "B0GVK8BHV9"
+    ],
+    "B0GVKBLJK2": [
+      "B0GVKBLJK2"
+    ],
+    "B0H6Q6G9LY": [
+      "B0GZVHF79R"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B00524DLZ0",
+      "title": "Livescribe 2 GB Echo Smartpen - APX-00008",
+      "maker": "Livescribe",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Livescribe",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-04-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-06",
+          "title": "アナログ手帳をクラウドへ。手書きを共有する「スマートペン・デジタルノート」 6 選",
+          "asin": "B00524DLZ0"
+        },
+        {
+          "published_date": "2026-04-01",
+          "title": "入社祝いに贈る。一生モノの「スマートペン・デジタル文具」 7 選",
+          "asin": "B00524DLZ0"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B00AQTYNI0",
+      "title": "SHARP 手書き電子ノート WG-N10",
+      "maker": "SHARP",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SHARP",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0162RRWHS",
+      "title": "シャープ 電子ノート 電子メモ WG-S30-B 手帳機能付き ブラック系",
+      "maker": "SHARP",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SHARP",
+      "historical_tier": 3,
+      "parent_asin": "B07W6GHJLX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B075YSGG75",
+      "title": "シャープ 電子ノート ブラック系 WG-S50",
+      "maker": "SHARP",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SHARP",
+      "historical_tier": 3,
+      "parent_asin": "B07W6GHJLX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B077NSWLH2",
+      "title": "reMarkable(リマーカブル) - ペーパータブレット- 10.3インチデジタルメモ帳 低レイテンシー & グレアフリータッチスクリーンディスプレイ Wi-Fi 手書きのメモを入力してテキストに変換",
+      "maker": "reMarkable",
+      "maker_source": "商品名reMarkable/リマーカブル",
+      "maker_live_verified": false,
+      "db_brand": "reMarkable",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07ZHYZ32M",
+      "title": "Rocketbook Fusion Smart Reusable Notebook - Calendar, To-Do Lists, and Note Template Pages with 1 Pilot Frixion Pen and 1 Microfiber Cloth Included - Deep Space Gray Cover, Executive Size (6\" x 8.8\")",
+      "maker": "Rocketbook",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Rocketbook",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-05-23",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-23",
+          "title": "手書きメモをデジタル化。紙とペンで使える「スマートノート」 6 選",
+          "asin": "B07ZHYZ32M"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07ZHZFZG8",
+      "title": "Rocketbook 再利用可能デジタルノートブック - スマートメモ帳 A5 オレンジ ワイヤー綴じノート To Doリストパッド ドット紙 フリクション消せるペンとワイプ オフィスガジェット Rocketbookアプリ付き 紙の無駄を減らす",
+      "maker": "Rocketbook",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Rocketbook",
+      "historical_tier": 1,
+      "parent_asin": "B09PQ62VWG",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B07ZHZFZG8"
+        },
+        {
+          "published_date": "2026-06-20",
+          "title": "下半期の目標を立てる。振り返りに役立つ「管理ツール」 6 選",
+          "asin": "B07ZHZFZG8"
+        },
+        {
+          "published_date": "2026-04-01",
+          "title": "入社祝いに贈る。一生モノの「スマートペン・デジタル文具」 7 選",
+          "asin": "B07ZHZFZG8"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07ZT4731M",
+      "title": "シャープ 電子ノート 電子メモ WG-PN1 手帳機能付き Eink 電子ペーパーディスプレイ搭載",
+      "maker": "SHARP",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SHARP",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08BP625V6",
+      "title": "【公式】富士通 13.3型フレキシブル電子ペーパー QUADERNO A4サイズ / FMV-DPP03",
+      "maker": "富士通",
+      "maker_source": "商品名QUADERNO/富士通。FMVは製品ブランドとして統合",
+      "maker_live_verified": false,
+      "db_brand": "FMV",
+      "historical_tier": 2,
+      "parent_asin": "B099HSCJDK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B08BP625V6"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08BP6J3PJ",
+      "title": "【公式】富士通 10.3型フレキシブル電子ペーパー QUADERNO A5サイズ / FMV-DPP04",
+      "maker": "富士通",
+      "maker_source": "商品名QUADERNO/富士通。FMVは製品ブランドとして統合",
+      "maker_live_verified": false,
+      "db_brand": "富士通",
+      "historical_tier": 2,
+      "parent_asin": "B099HSCJDK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B08BP625V6"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08HDL3XJR",
+      "title": "reMarkable スターターバンドル – reMarkable 2はオリジナルペーパータブレットです | ブラックとホワイトの10.3インチのライティングタブレット、消しゴム付きマーカープラスペン付き",
+      "maker": "reMarkable",
+      "maker_source": "商品名reMarkable/リマーカブル",
+      "maker_live_verified": false,
+      "db_brand": "reMarkable",
+      "historical_tier": 1,
+      "parent_asin": "B0DG7P889C",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B08HDL3XJR"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08K92WM6C",
+      "title": "Neo smartpen〈書いてデジタル〉ネオスマートペン dimo ディモ スマホと即連動 乾電池式 エントリーモデル [ブラック][単品/ノート別] AIツールと手書き連携 スマート文具 ガジェット 学生 社会人 ビジネス",
+      "maker": "Neo",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Neo smartpen",
+      "historical_tier": 3,
+      "parent_asin": "B08PNY3GP7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09988GM1B",
+      "title": "【公式】富士通 13.3型フレキシブル電子ペーパー QUADERNO A4サイズ / FMVDP41 ホワイト",
+      "maker": "富士通",
+      "maker_source": "商品名QUADERNO/富士通。FMVは製品ブランドとして統合",
+      "maker_live_verified": false,
+      "db_brand": "FMV",
+      "historical_tier": 2,
+      "parent_asin": "B09B1ZLBTJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B09988GM1B"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09989LKD4",
+      "title": "【公式】富士通 10.3型フレキシブル電子ペーパー QUADERNO A5サイズ / FMVDP51 ホワイト",
+      "maker": "富士通",
+      "maker_source": "商品名QUADERNO/富士通。FMVは製品ブランドとして統合",
+      "maker_live_verified": false,
+      "db_brand": "富士通",
+      "historical_tier": 2,
+      "parent_asin": "B09B1ZLBTJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B09988GM1B"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09VXXSVVR",
+      "title": "モレスキン スマートペン デジタルペン モレスキンスマート ブラック SWSPEN3",
+      "maker": "Moleskine",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Moleskine",
+      "historical_tier": 3,
+      "parent_asin": "B08B1S1T42",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BQ39LF32",
+      "title": "HUION NOTE アナログデジタルノート スマート手書きノート 紙に手書きしたメモを即デジタル化 ワイヤレスでスマホに連動 A5サイズ ラフ画制作 メモ書き 漫画 イラスト 授業 会議 ペンタブとして使用可能 【一台二役】",
+      "maker": "HUION",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "HUION",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CD2C67J2",
+      "title": "Ophaya smartpen スマートペン 電子ノート ライティングセット ペーパーノートのデジタル化 電子メモパッド保存機能付き、共有のためのリアルタイム同期、OCR認識編集とキーワード検索 、デジタルノートテイキング機能を備えた 電子メモパッド 電子手帳 スマートペン – ノート取り、絵画、教室、会議に最適–AndroidおよびiOSに対応（ダウンロード Ophaya Pro+ App）",
+      "maker": "Ophaya",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ophaya",
+      "historical_tier": 3,
+      "parent_asin": "B0CN98FWN6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CZ9SX1GW",
+      "title": "Kindle Scribe Notebook Design - 10.2インチディスプレイ、64GBストレージ、ノート機能搭載、プレミアムペン付き、メタリックジェード (2024年発売)",
+      "maker": "Amazon",
+      "maker_source": "商品名KindleはAmazon製品ブランド",
+      "maker_live_verified": false,
+      "db_brand": "Amazon",
+      "historical_tier": 3,
+      "parent_asin": "B0DFZQ22D5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-06-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-06-30",
+          "title": "上半期ベストバイ。2026 年「買ってよかったもの」 10 選",
+          "asin": "B0CZ9SX1GW"
+        },
+        {
+          "published_date": "2026-06-20",
+          "title": "下半期の目標を立てる。振り返りに役立つ「管理ツール」 6 選",
+          "asin": "B0CZ9SX1GW"
+        },
+        {
+          "published_date": "2026-04-08",
+          "title": "アイデアをすぐ見える化。共有にも使いやすい「電子メモパッド・デジタルノート」 5 選",
+          "asin": "B0CZ9SX1GW"
+        },
+        {
+          "published_date": "2026-04-06",
+          "title": "アナログ手帳をクラウドへ。手書きを共有する「スマートペン・デジタルノート」 6 選",
+          "asin": "B0CZ9SX1GW"
+        },
+        {
+          "published_date": "2026-04-01",
+          "title": "入社祝いに贈る。一生モノの「スマートペン・デジタル文具」 7 選",
+          "asin": "B0CZ9SX1GW"
+        },
+        {
+          "published_date": "2026-03-31",
+          "title": "3 月のベストバイ。新生活を彩る「買ってよかったギア」 8 選",
+          "asin": "B0CZ9SX1GW"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DG9VSBLS",
+      "title": "reMarkable Paper Pro マーカープラスとブラックレザーブックフォリオ付き",
+      "maker": "reMarkable",
+      "maker_source": "商品名reMarkable/リマーカブル",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0DJR25WGL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B0DG9ZXWMK"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DG9ZXWMK",
+      "title": "リマーカブル ペーパー プロ バンドル – 11.8インチのリマーカブル ペーパータブレットとマーカープラスペン（消しゴム付き）が含まれています",
+      "maker": "reMarkable",
+      "maker_source": "商品名reMarkable/リマーカブル",
+      "maker_live_verified": false,
+      "db_brand": "reMarkable",
+      "historical_tier": 1,
+      "parent_asin": "B0DJR25WGL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B0DG9ZXWMK"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DGBDR2PM",
+      "title": "reMarkable Paper Proバンドル – モザイク織り | 11.8インチのリマーク可能なペーパータブレット、消しゴム付きマーカープラスペン、モザイク織りのブックフォリオカバー付き – 玄武岩",
+      "maker": "reMarkable",
+      "maker_source": "商品名reMarkable/リマーカブル",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0DJR25WGL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B0DG9ZXWMK"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DHGDV8F8",
+      "title": "BOOX Note Air 4 C (10.3インチ, カラーE Ink)",
+      "maker": "BOOX",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "BOOX",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-01-14",
+      "dg_use_history": [
+        {
+          "published_date": "2026-01-14",
+          "title": "手書きをデジタルへ。紙を超えた「最新電子ペーパー」 6選",
+          "asin": "B0DHGDV8F8"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DP3HZX4D",
+      "title": "Rocketbook New Core 再利用可能スパイラルノート エグゼクティブサイズ 6x8.8 ネイビーブルー - 点線ページ アプリ接続 消去可能 丈夫なカバー 学校、仕事、クリエイティブなプロジェクトに最適 (1パック)",
+      "maker": "Rocketbook",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Rocketbook",
+      "historical_tier": 1,
+      "parent_asin": "B0H4KW3YHM",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B0DP3HZX4D"
+        },
+        {
+          "published_date": "2026-05-31",
+          "title": "5 月の振り返り。改めて気になった「最新ガジェット」 8 選",
+          "asin": "B0DP3HZX4D"
+        },
+        {
+          "published_date": "2026-05-23",
+          "title": "手書きメモをデジタル化。紙とペンで使える「スマートノート」 6 選",
+          "asin": "B0DP3HZX4D"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DWMVW8RS",
+      "title": "iFLYTEK AINOTE Air 2 電子ノート 8.2インチ E-Ink タブレット ChatGPT連携 音声文字起こし テキスト変換 多言語翻訳 超軽量 手書き ノートパッド スタイラスペン付 電子書籍リーダー ビジネス 会議 学習",
+      "maker": "iFLYTEK",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "iFLYTEK",
+      "historical_tier": 2,
+      "parent_asin": "B0G6Z3WYB3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B0DWMVW8RS"
+        },
+        {
+          "published_date": "2026-09-21",
+          "title": "読書の秋。電子ノートとカバー、手元を照らす「読書環境」 6 選",
+          "asin": "B0DX1TFTY1"
+        },
+        {
+          "published_date": "2026-07-17",
+          "title": "旅行の相談を AI に。音声入力に強い「AI デバイス」 5 選",
+          "asin": "B0DWMVW8RS"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DX1TFTY1",
+      "title": "iFLYTEK AINOTE Air 2 電子ノート 8.2インチ E-Ink タブレット 黒色保護ケース付き ChatGPT連携 音声文字起こし テキスト変換 多言語翻訳 超軽量 手書き ノートパッド スタイラスペン付 電子書籍リーダー ビジネス 会議 学習",
+      "maker": "iFLYTEK",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "iFLYTEK",
+      "historical_tier": 2,
+      "parent_asin": "B0G6Z3WYB3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B0DWMVW8RS"
+        },
+        {
+          "published_date": "2026-09-21",
+          "title": "読書の秋。電子ノートとカバー、手元を照らす「読書環境」 6 選",
+          "asin": "B0DX1TFTY1"
+        },
+        {
+          "published_date": "2026-07-17",
+          "title": "旅行の相談を AI に。音声入力に強い「AI デバイス」 5 選",
+          "asin": "B0DWMVW8RS"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F13GMDWS",
+      "title": "【XPPen新登場】タブレット 手書き ノート 11インチ 充電不要 X3 Proペン付 16384筆圧 カラーノートパッド Android LCD 電子ノート 128GB 90Hz ビジネス 会議 学習 勉強 マンガ 保護ケース付 Magic Note Pad",
+      "maker": "XPPen",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "XPPen",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-04-08",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-08",
+          "title": "アイデアをすぐ見える化。共有にも使いやすい「電子メモパッド・デジタルノート」 5 選",
+          "asin": "B0F13GMDWS"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FHGXG7SN",
+      "title": "iFLYTEK AINOTE Air 2 電子ノート ChatGPT搭載 手書きタブレット 紺色保護ケース付き 音声文字起こし テキスト化機能 多言語翻訳 超軽量 8.2インチ 電子書籍リーダー ビジネス 会議 学習に最適",
+      "maker": "iFLYTEK",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "iFLYTEK",
+      "historical_tier": 2,
+      "parent_asin": "B0G6Z3WYB3",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-20",
+          "title": "手書きをデータに残す「デジタルノート」7選",
+          "asin": "B0DWMVW8RS"
+        },
+        {
+          "published_date": "2026-09-21",
+          "title": "読書の秋。電子ノートとカバー、手元を照らす「読書環境」 6 選",
+          "asin": "B0DX1TFTY1"
+        },
+        {
+          "published_date": "2026-07-17",
+          "title": "旅行の相談を AI に。音声入力に強い「AI デバイス」 5 選",
+          "asin": "B0DWMVW8RS"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        },
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-20_手書きをデータに残す「デジタルノート＆スマートペン」.md",
+          "date": "2026-10-20",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FMS56K28",
+      "title": "reMarkable Paper Pro Move マーカープラスと玄武岩ブックフォリオ付き",
+      "maker": "reMarkable",
+      "maker_source": "商品名reMarkable/リマーカブル",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0H4HV9N89",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FMS6VN19",
+      "title": "reMarkable Paper Pro Move マーカープラスとブラックレザーブックフォリオ付き",
+      "maker": "reMarkable",
+      "maker_source": "商品名reMarkable/リマーカブル",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0H4HV9N89",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FMS91Z9M",
+      "title": "reMarkable Paper Pro Move | ウルトラポータブルカラー7.3インチペーパータブレット マーカープラス付き | 外出先での生産性向上のためのデジタルポケットノートブック",
+      "maker": "reMarkable",
+      "maker_source": "商品名reMarkable/リマーカブル",
+      "maker_live_verified": false,
+      "db_brand": "reMarkable",
+      "historical_tier": 2,
+      "parent_asin": "B0H4HV9N89",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FY2Q49WD",
+      "title": "iFLYTEK AINOTE 2 電子ノート 10.65インチ 超薄型4.2mm E-Ink タブレット ChatGPT搭載 Google Play完全対応 録音 文字起こし 手書き 要約 翻訳 AIスマートノート ビジネス・仕事・学習用",
+      "maker": "iFLYTEK",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "iFLYTEK",
+      "historical_tier": 3,
+      "parent_asin": "B0H6M8BVJB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-21",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-21",
+          "title": "読書の秋。電子ノートとカバー、手元を照らす「読書環境」 6 選",
+          "asin": "B0FY2Q49WD"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GLFZFQ97",
+      "title": "Neo smartpen〈書いてデジタル〉ネオスマートペン M1＋ エムワンプラス スマホと即連動 [Type-Cリニューアルver.][ブラック][単品/ノート別] AIツールと手書き連携 スマート文具 学生 社会人 ビジネス",
+      "maker": "Neo",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Neo smartpen",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-04-06",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-06",
+          "title": "アナログ手帳をクラウドへ。手書きを共有する「スマートペン・デジタルノート」 6 選",
+          "asin": "B0GLFZFQ97"
+        },
+        {
+          "published_date": "2026-04-01",
+          "title": "入社祝いに贈る。一生モノの「スマートペン・デジタル文具」 7 選",
+          "asin": "B0GLFZFQ97"
+        },
+        {
+          "published_date": "2026-03-15",
+          "title": "資格勉強を効率化。暗記を助ける「最新学習ガジェット」 6 選",
+          "asin": "B0GLFZFQ97"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GVK8BHV9",
+      "title": "reMarkable Paper Pure マーカープラスとオーシャンブルースリーブフォリオ",
+      "maker": "reMarkable",
+      "maker_source": "商品名reMarkable/リマーカブル",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0H2JGJTBN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GVKBLJK2",
+      "title": "reMarkable Paper Pure マーカー付き",
+      "maker": "reMarkable",
+      "maker_source": "商品名reMarkable/リマーカブル",
+      "maker_live_verified": false,
+      "db_brand": "reMarkable",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GZVHF79R",
+      "title": "Plimpton 電子ノート タブレット 8インチ 手書き デジタルノート 電子メモ Android 128GB タブレット Wacom EMRペン 4096筆圧 傾き検知 紙のような書き心地 AG液晶 Gemini AI Wi-Fi6 Bluetooth5.4 GMS認証 Google Play対応 軽量 薄型 読書 イラスト 勉強 会議 白黒モード カラーモード 保護ケース付 Paper8",
+      "maker": "Plimpton",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Plimpton",
+      "historical_tier": 3,
+      "parent_asin": "B0H6Q6G9LY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-21",
+      "scope_pending": [
+        "PDFの取込み/表示/注釈保存をローカル資料で未確認。公式照合まではPDFテーマ採用不可",
+        "タブレット本体/本体+ペン/フォリオ付き本体の同モデル重複を確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B00524DLZ0",
+      "title": "Livescribe 2 GB Echo Smartpen - APX-00008",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B00AQTYNI0",
+      "title": "SHARP 手書き電子ノート WG-N10",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0162RRWHS",
+      "title": "シャープ 電子ノート 電子メモ WG-S30-B 手帳機能付き ブラック系",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B075YSGG75",
+      "title": "シャープ 電子ノート ブラック系 WG-S50",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B07ZHYZ32M",
+      "title": "Rocketbook Fusion Smart Reusable Notebook - Calendar, To-Do Lists, and Note Template Pages with 1 Pilot Frixion Pen and 1 Microfiber Cloth Included - Deep Space Gray Cover, Executive Size (6\" x 8.8\")",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B07ZHZFZG8",
+      "title": "Rocketbook 再利用可能デジタルノートブック - スマートメモ帳 A5 オレンジ ワイヤー綴じノート To Doリストパッド ドット紙 フリクション消せるペンとワイプ オフィスガジェット Rocketbookアプリ付き 紙の無駄を減らす",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B07ZT4731M",
+      "title": "シャープ 電子ノート 電子メモ WG-PN1 手帳機能付き Eink 電子ペーパーディスプレイ搭載",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B08K92WM6C",
+      "title": "Neo smartpen〈書いてデジタル〉ネオスマートペン dimo ディモ スマホと即連動 乾電池式 エントリーモデル [ブラック][単品/ノート別] AIツールと手書き連携 スマート文具 ガジェット 学生 社会人 ビジネス",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B09VXXSVVR",
+      "title": "モレスキン スマートペン デジタルペン モレスキンスマート ブラック SWSPEN3",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0BQ39LF32",
+      "title": "HUION NOTE アナログデジタルノート スマート手書きノート 紙に手書きしたメモを即デジタル化 ワイヤレスでスマホに連動 A5サイズ ラフ画制作 メモ書き 漫画 イラスト 授業 会議 ペンタブとして使用可能 【一台二役】",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0CD2C67J2",
+      "title": "Ophaya smartpen スマートペン 電子ノート ライティングセット ペーパーノートのデジタル化 電子メモパッド保存機能付き、共有のためのリアルタイム同期、OCR認識編集とキーワード検索 、デジタルノートテイキング機能を備えた 電子メモパッド 電子手帳 スマートペン – ノート取り、絵画、教室、会議に最適–AndroidおよびiOSに対応（ダウンロード Ophaya Pro+ App）",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DG9ZXWMK",
+      "title": "リマーカブル ペーパー プロ バンドル – 11.8インチのリマーカブル ペーパータブレットとマーカープラスペン（消しゴム付き）が含まれています",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0DP3HZX4D",
+      "title": "Rocketbook New Core 再利用可能スパイラルノート エグゼクティブサイズ 6x8.8 ネイビーブルー - 点線ページ アプリ接続 消去可能 丈夫なカバー 学校、仕事、クリエイティブなプロジェクトに最適 (1パック)",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B0GLFZFQ97",
+      "title": "Neo smartpen〈書いてデジタル〉ネオスマートペン M1＋ エムワンプラス スマホと即連動 [Type-Cリニューアルver.][ブラック][単品/ノート別] AIツールと手書き連携 スマート文具 学生 社会人 ビジネス",
+      "reason": "テーマ本体を商品名で確認できない"
+    }
+  ],
+  "variant_policy": "同親の色/サイズ/バンドルを候補群として残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "候補に残る未確認事項は公式照合前の採用根拠としない",
+    "PDF対応未確認機を含む診断候補。PDFの保存/注釈書出しを公式確認し、合わない機は除外再選抜。"
+  ],
+  "historical_tier_distribution": {
+    "1": 3,
+    "2": 13,
+    "3": 5
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "status": "unmeasured_candidates_only",
+  "db_writes": false,
+  "network_used": false,
+  "topics": [
+    {
+      "date": "2026-11-11",
+      "type": "scanner",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 5,
+      "parent_groups": 4,
+      "topic_id": "daily_gadget_20261111_9e1adf8e",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_scanner_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_scanner_scope_audit.json",
+      "conditions": [
+        "両面テーマとADF一括テーマを混同しない。Tier1供給/メーカー制約後の成立を未確認、追加収集を用意"
+      ],
+      "needs_supplement": true,
+      "historical_tier_distribution": {
+        "2": 2,
+        "3": 3
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "type": "earphone",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 35,
+      "parent_groups": 34,
+      "topic_id": "daily_gadget_20261112_731daa9a",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_earphone_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_earphone_scope_audit.json",
+      "conditions": [],
+      "historical_tier_distribution": {
+        "1": 22,
+        "2": 13
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "type": "backpack",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 6,
+      "parent_groups": 6,
+      "topic_id": "daily_gadget_20261113_08ed1fc9",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_backpack_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_backpack_scope_audit.json",
+      "conditions": [],
+      "historical_tier_distribution": {
+        "1": 2,
+        "2": 3,
+        "3": 1
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "type": "smart_ring",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 21,
+      "parent_groups": 6,
+      "topic_id": "daily_gadget_20261114_92c0cc94",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_smart_ring_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_smart_ring_scope_audit.json",
+      "conditions": [
+        "旧案17ASIN/5親から最新read-only索引で供給再確認。親群は色/サイズを束ねただけで独立製品成立や型番確認ではない"
+      ],
+      "historical_tier_distribution": {
+        "1": 9,
+        "2": 4,
+        "3": 8
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "type": "projector",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 11,
+      "parent_groups": 10,
+      "topic_id": "daily_gadget_20261115_436f7300",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_projector_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_projector_scope_audit.json",
+      "conditions": [],
+      "historical_tier_distribution": {
+        "1": 5,
+        "3": 5,
+        "2": 1
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "type": "label_printer",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 11,
+      "parent_groups": 9,
+      "topic_id": "daily_gadget_20261116_bbfd27fe",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_label_printer_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_label_printer_scope_audit.json",
+      "conditions": [],
+      "historical_tier_distribution": {
+        "1": 7,
+        "2": 3,
+        "3": 1
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "type": "usb_memory",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 13,
+      "parent_groups": 10,
+      "topic_id": "daily_gadget_20261117_1a758de7",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-17_usb_memory_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-17_usb_memory_scope_audit.json",
+      "conditions": [],
+      "historical_tier_distribution": {
+        "1": 9,
+        "2": 4
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "type": "air_duster",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 11,
+      "parent_groups": 7,
+      "topic_id": "daily_gadget_20261118_155b52cc",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_air_duster_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_air_duster_scope_audit.json",
+      "conditions": [],
+      "historical_tier_distribution": {
+        "1": 2,
+        "2": 3,
+        "3": 6
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "type": "time_locking_container",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 4,
+      "parent_groups": 4,
+      "topic_id": "daily_gadget_20261119_63556f48",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_time_locking_container_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_time_locking_container_scope_audit.json",
+      "conditions": [],
+      "needs_supplement": true,
+      "historical_tier_distribution": {
+        "1": 2,
+        "2": 1,
+        "3": 1
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "type": "digital_notebook",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 21,
+      "parent_groups": 14,
+      "topic_id": "daily_gadget_20261120_b091861e",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-20_digital_notebook_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-20_digital_notebook_scope_audit.json",
+      "conditions": [
+        "PDF対応未確認機を含む診断候補。PDFの保存/注釈書出しを公式確認し、合わない機は除外再選抜。"
+      ],
+      "official_scope_confirmation_required": true,
+      "historical_tier_distribution": {
+        "1": 3,
+        "2": 13,
+        "3": 5
+      }
+    }
+  ]
+}

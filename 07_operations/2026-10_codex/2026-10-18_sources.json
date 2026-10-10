@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-18",
+  "checked_at": "2026-10-09",
+  "title": "作業中のBGMを流す「Bluetoothスピーカー」10選",
+  "original_research_sha256": "165b002b2cc5cdb950347acd2d06fee5d6d203d32826ae23892870b015697402",
+  "products": [
+    {
+      "asin": "B01HXFISS0",
+      "name": "Anker SoundCore mini",
+      "body": "机の隅に置き、スマホの音楽を手軽に流したい人向けの小型モデルです。Bluetoothに加えてAUX入力やmicroSD再生にも対応し、音源に合わせて接続方法を選べます。充電端子はMicro USBなので、手持ちのケーブルとの違いを確認しておきたいところ。",
+      "spec": [
+        "サイズ：約67×67×67mm",
+        "重量：約215g",
+        "連続再生：約15時間（使用条件による）"
+      ],
+      "urls": [
+        "https://www.ankerjapan.com/products/a3101"
+      ],
+      "points": [
+        "小型の立方体で机の端に配置する用途",
+        "Bluetooth・AUX・microSDで音源を使い分け",
+        "Micro USB充電のためケーブル確認が必要"
+      ]
+    },
+    {
+      "asin": "B0C4P51G18",
+      "name": "FUNLOGY Portable Mini",
+      "body": "机でも別の部屋でも使える、シンプルな小型スピーカーを探す人向けです。Bluetooth接続とAUX入力を使い分けられ、スマホだけでなく有線の音源も候補にできます。USB-C端子は充電用なので、PCの音声をUSB経由で再生する製品とは区別して選びたいところ。",
+      "spec": [
+        "重量：約250g",
+        "出力：6W",
+        "防水防塵：IP67"
+      ],
+      "urls": [
+        "https://funlogy.jp/products/funlogy-portable-mini"
+      ],
+      "points": [
+        "小型の円筒形で机や棚へ配置",
+        "Bluetoothと3.5mm AUX入力に対応",
+        "USB-Cは充電用でUSB音声入力ではない"
+      ]
+    },
+    {
+      "asin": "B085R7TSN6",
+      "name": "Bang & Olufsen Beosound A1 2nd Gen",
+      "body": "作業場所を変えても、同じスピーカーでBGMを楽しみたい人向けのモデルです。丸い本体に持ち運び用のストラップが付き、防水防塵にも対応。公称の再生時間は一般的な音量での条件なので、大きな音で流す時間が長い場合は充電の頻度も考えて選びたいところです。",
+      "spec": [
+        "重量：558g",
+        "再生時間：最大18時間（一般的な音量）",
+        "防水防塵：IP67"
+      ],
+      "urls": [
+        "https://support.bang-olufsen.com/hc/en-us/articles/360042981652-What-is-the-weight-of-Beosound-A1-2nd-Generation-compared-to-Beoplay-A1",
+        "https://support.bang-olufsen.com/hc/en-us/articles/360042975392-What-is-the-battery-life-of-Beosound-A1-2nd-Generation",
+        "https://www.bang-olufsen-mena.com/EN/beosound-a1-2nd-gen.html"
+      ],
+      "points": [
+        "ストラップ付きの丸形で移動時に持ち運ぶ用途",
+        "IP67防水防塵",
+        "再生時間は音量やイコライザー設定に左右される"
+      ]
+    },
+    {
+      "asin": "B0CZRLRGM5",
+      "name": "Xiaomi サウンドポケット",
+      "body": "小さなスピーカーを、机からキッチンなどへ持ち運びたい人向けです。シリコンストラップ付きで、縦置きと横置きを使い分けられる点を重視しました。同じモデルを追加すればステレオ再生にも対応するため、まず単体で始めてから音の配置を広げたい場合にも候補になります。",
+      "spec": [
+        "重量：約200g",
+        "出力：5W",
+        "再生時間：約10時間（音量40％）"
+      ],
+      "urls": [
+        "https://www.mi.com/jp/product/xiaomi-sound-pocket/specs/",
+        "https://www.mi.com/jp/product/xiaomi-sound-pocket/"
+      ],
+      "points": [
+        "約200gでストラップ付き",
+        "縦置きと横置きの選択",
+        "同一モデルのTWSステレオ再生対応"
+      ]
+    },
+    {
+      "asin": "B0B1QPMNYR",
+      "name": "Marshall ACTON III",
+      "body": "スピーカーを持ち歩かず、決まった作業部屋でBGMを流したい人向けの据え置きモデルです。BluetoothとAUX入力を備え、上部のノブで音量や低音、高音を調整可能。コンセントから給電する方式なので、設置寸法だけでなく電源を取れる位置も先に確認してみてください。",
+      "spec": [
+        "サイズ：260×170×150mm",
+        "重量：2.85kg",
+        "接続：Bluetooth 5.2／3.5mm入力"
+      ],
+      "urls": [
+        "https://www.marshall.com/pa/en/product/acton-iii?pid=1008174"
+      ],
+      "points": [
+        "据え置きで作業部屋のBGM用途",
+        "本体ノブで音量・低音・高音調整",
+        "バッテリー型ではなく電源位置の確認が必要"
+      ]
+    },
+    {
+      "asin": "B0D9YMNXZL",
+      "name": "Anker Soundcore Select 4 Go",
+      "body": "音楽を流す時間の長さと、音の調整を重視したい人向けの小型モデルです。専用アプリでイコライザーを変更でき、作業中のBGMを好みに合わせて整えられます。同じモデルでも世代によって同時ペアリングできない組み合わせがあるため、追加購入を考える場合は公式の条件を確認してみてください。",
+      "spec": [
+        "重量：約265g",
+        "再生時間：最大20時間（音量・音源による）",
+        "充電端子：USB-C"
+      ],
+      "urls": [
+        "https://www.ankerjapan.com/products/a31x1"
+      ],
+      "points": [
+        "小型本体で最大20時間の公称再生時間",
+        "専用アプリのイコライザー調整",
+        "2台ペアリングはシリアル/ファームウェア条件の確認が必要"
+      ]
+    },
+    {
+      "asin": "B0CZDP1V8S",
+      "name": "JBL GO 4",
+      "body": "デスクの空きスペースが少なく、置く場所を変えやすいモデルを探す人向けです。一体型のループ付きで持ち運べ、防水防塵にも対応。専用アプリで音を調整できるほか、同じモデルを追加したステレオ再生も選べるため、設置面積と拡張性を両方見たいときに候補になります。",
+      "spec": [
+        "重量：190g",
+        "出力：4.2W",
+        "再生時間：最大7時間（使用条件による）"
+      ],
+      "urls": [
+        "https://www.jbl.com/GO-4.html?dwvar_GO-4_color=Squad-AM-Current"
+      ],
+      "points": [
+        "一体型ループと小型本体",
+        "JBL Portableアプリの調整機能",
+        "同一モデル2台のステレオとAuracast接続"
+      ]
+    },
+    {
+      "asin": "B0C3Q65R9P",
+      "name": "SONY SRS-XB100",
+      "body": "机の端や小さな棚に置き、作業中の音楽を流したい人向けの円筒型です。本体にはストラップが付いており、別の部屋へ移して使う場面も想定できます。同じモデルを追加するとステレオ再生に対応するため、まず省スペースで始めたい人にも選びやすい構成です。",
+      "spec": [
+        "サイズ：約φ76×95mm",
+        "重量：約274g",
+        "電池持続：約16時間（使用条件による）"
+      ],
+      "urls": [
+        "https://www.sony.jp/active-speaker/products/SRS-XB100/spec/"
+      ],
+      "points": [
+        "円筒形の小型本体とストラップ",
+        "USB-C充電のバッテリー式",
+        "同一モデル2台のステレオ再生対応"
+      ]
+    },
+    {
+      "asin": "B0DFHH1N33",
+      "name": "Marshall Emberton III",
+      "body": "作業部屋の中でも置き場所を変え、音楽を聴きたい人向けのモデルです。音を周囲へ広げるTrue Stereophonicを採用し、部屋の一角に固定せず使う場合を想定できます。長時間再生を重視した設計ですが、小型モデルより重量があるため、運ぶ頻度も含めて比べたいところ。",
+      "spec": [
+        "重量：0.67kg",
+        "再生時間：32時間以上（使用条件による）",
+        "防水防塵：IP67"
+      ],
+      "urls": [
+        "https://www.marshall.com/mv/en/product/emberton-iii?pid=1009773"
+      ],
+      "points": [
+        "True Stereophonicで周囲へ音を広げる設計",
+        "32時間以上の公称再生時間",
+        "小型軽量モデルとの重量差を比較"
+      ]
+    },
+    {
+      "asin": "B0D13TBD9B",
+      "name": "SONY ULT FIELD 1（SRS-ULT10）",
+      "body": "BGMでも低音を楽しみたい人向けに、音の調整機能を重視して候補に入れたモデルです。ULTボタンで低域を強化でき、作業内容や流す曲に合わせて切り替え可能。付属ストラップで持ち運べるため、自宅の作業部屋から別の場所へ移して使いたい場合にも検討できます。",
+      "spec": [
+        "重量：約650g",
+        "電池持続：約12時間（使用条件による）",
+        "防水防塵：IP67"
+      ],
+      "urls": [
+        "https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-ult10/specifications",
+        "https://www.sony.jp/active-speaker/products/ULT_FIELD1/?s_pid=jp_%2F2024_otolotofuyu%2F_ULT_FIELD1"
+      ],
+      "points": [
+        "ULTボタンで低域強化を切り替える用途",
+        "USB-C充電の持ち運び型",
+        "付属ストラップとIP67防水防塵"
+      ]
+    }
+  ]
+}

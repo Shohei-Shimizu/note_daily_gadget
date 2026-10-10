@@ -1,0 +1,45 @@
+📦 候補読み込み: 11 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_projector_candidates.json)
+🔎 実測: 11 件の ASIN を Amazon 商品ページから取得します...
+  [1/11] B0F5GQLNWP review=8423 star=4.7 stock=in_stock OK
+  [2/11] B0BCTP8VJH review=2374 star=4.4 stock=in_stock OK
+  [3/11] B0CJDV213W review=2374 star=4.4 stock=in_stock OK
+  [4/11] B0D2R2QXZR review=1079 star=4.2 stock=out_of_stock OK
+  [5/11] B0CJVFJMVF review=852 star=4.5 stock=in_stock OK
+  [6/11] B00PIM0PTG review=78 star=4.1 stock=in_stock OK
+  [7/11] B01AUL0U8K review=68 star=3.2 stock=in_stock OK
+  [8/11] B01N0EJD6I review=66 star=4.4 stock=in_stock OK
+  [9/11] B0776TCTK2 review=98 star=4.2 stock=in_stock OK
+  [10/11] B0D1TYZSXV review=145 star=4.4 stock=in_stock OK
+  [11/11] B0FH21C9P6 review=37 star=4.4 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=11 succeeded=11 failed=0 / run累積 attempted=258 succeeded=258 failed=0) product新規=0 product更新=11 metric行=11 verification行=8
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 10 / 11
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier2 / 緩和: あり
+採用件数: 5
+
+-- 採用 --
+1. [Tier1] Philoent / B0F5GQLNWP / review=8423 star=4.7 
+   Philoent 270°回転プロジェクター
+2. [Tier1] Anker / B0BCTP8VJH / review=2374 star=4.4 ★有名ブランド
+   Anker Nebula Capsule 3 Laser 【小型モバイルレーザープロジェクター】 | 家庭用 Google TV搭載 フルH
+3. [Tier1] Anker / B0CJDV213W / review=2374 star=4.4 ★有名ブランド
+   Anker Nebula Capsule 3 【小型モバイルプロジェクター 】
+4. [Tier1] Jimveo / B0CJVFJMVF / review=852 star=4.5 
+   Jimveo 360°回転プロジェクター E18
+5. [Tier2] Dangbei / B0D1TYZSXV / review=145 star=4.4 
+   Dangbei(ダンベイ) DBOX02 4K プロジェクター GTV搭載 Netflix公認 レーザー光源 2450ISOルーメン 静音フ
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 5 件 --
+  - [Tier3] Epson / B00PIM0PTG: 多様性制約または件数上限のため非選抜
+  - [Tier3] SONY / B01AUL0U8K: 多様性制約または件数上限のため非選抜
+  - [Tier3] Epson / B01N0EJD6I: 多様性制約または件数上限のため非選抜
+  - [Tier3] BenQ / B0776TCTK2: 多様性制約または件数上限のため非選抜
+  - [Tier3] TCL / B0FH21C9P6: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 1 件 --
+  - B0D2R2QXZR / YOWHICK プロジェクター 家庭用 小型 Android TV搭載・3000: 在庫切れのため除外
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-15_壁に大きく映して楽しむ。家庭用プロジェクター.md

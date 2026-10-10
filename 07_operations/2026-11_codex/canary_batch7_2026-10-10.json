@@ -1,0 +1,23 @@
+[
+  {
+    "asin": "B0BQMSXFP7",
+    "url": "https://www.amazon.co.jp/dp/B0BQMSXFP7",
+    "review_count": 27609,
+    "star_rating": 4.3,
+    "stock_status": "in_stock",
+    "availability_text": "在庫あり。",
+    "ok": true,
+    "error": "",
+    "features": [
+      "【ご購入前にご確認ください】本製品はノートPC（Windows/Mac/Chromebook）専用です。以下の機器では映像出力機能はご利用いただけません：iPhone・iPad・Androidスマホ・タブレット。また、PCのUSB-CポートがDP Alt Mode対応であることが映像出力の必須条件です。",
+      "【HDMI出力】4K@30Hz対応（最大3840×2160）。※4K@60Hzには非対応。1080p@60Hz・1440p@60Hzでの使用を推奨。ウルトラワイドモニター（3440×1440）使用時はリフレッシュレートが制限される場合があります。",
+      "【必須要件】HDMI映像出力を利用するには、PCのUSB-CポートがDP Alt Mode（DisplayPort Alt Mode）に対応している必要があります。対応状況はPCのマニュアルまたはメーカーサイトでご確認ください。※DP Alt Mode非対応のPCでは映像出力はご利用いただけません。",
+      "【PD充電】PD-INポートで最大85WのPC充電が可能（100W充電器接続時、ハブ本体の15W消費分を差し引いた値）。 推奨：100W以上のPD充電器をご使用ください。 ※65W充電器使用時はPC充電が遅くなる・または充電されない場合があります。 ※USB-AポートおよびUSB-Cデータポートは充電非対応（データ転送専用）です。",
+      "【データ転送ポート】5Gbps USB-Cポート×1（データ転送専用）、5Gbps USB-Aポート×2：最大5Gbpsの高速データ転送に対応。※これらのポートはデータ転送専用です（充電用途には使用不可。USB-A最大5V/0.9A、USB-C最大5V/1.5Aのみ出力）。",
+      "パッケージ内容：Anker 332 USB-C ハブ (5-in-1) 、取扱説明書、カスタマーサポート"
+    ],
+    "image_url": "https://m.media-amazon.com/images/I/51-vm57YV5L._AC_SY300_SX300_QL70_ML2_.jpg",
+    "parent_asin": "B0HJ1TZB7T",
+    "parent_status": "resolved"
+  }
+]

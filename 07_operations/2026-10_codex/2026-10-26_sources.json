@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-26",
+  "products": [
+    {
+      "asin": "B08G1G1DVT",
+      "official_sources": [
+        "https://www.tapo.com/jp/product/smart-plug/tapo-p105/v1%20%284-pack%29/"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "通信：2.4GHz Wi-Fi",
+        "操作アプリ：Tapo",
+        "最大負荷電流：10A"
+      ]
+    },
+    {
+      "asin": "B0C9PYJZJ7",
+      "official_sources": [
+        "https://www.tp-link.com/jp/smart-home/tapo/tapo-p110m/",
+        "https://static.tp-link.com/upload/manual/2023/202309/20230926/7106510274_Tapo%20P110M%281-pack%29%28JP%291.20_50x37_QIG_V1%20%282%29.pdf"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "通信：2.4GHz Wi-Fi",
+        "規格：Matter対応",
+        "測定：消費電力モニタリング"
+      ]
+    },
+    {
+      "asin": "B0DT6S7NZ8",
+      "official_sources": [
+        "https://www.switchbot.jp/products/plug-mini-combo?variant=41439617876143",
+        "https://blog.switchbot.jp/usecase/beginners/warning-use-of-switchbot-products/"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "通信：2.4GHz Wi-Fi／Bluetooth",
+        "操作アプリ：SwitchBot",
+        "測定：消費電力モニタリング"
+      ]
+    },
+    {
+      "asin": "B0CMXM6WRN",
+      "official_sources": [
+        "https://www.amazon.co.jp/dp/B0CMXM6WRN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "通信：2.4GHz Wi-Fi",
+        "操作アプリ：Alexa",
+        "セット内容：プラグ2個"
+      ],
+      "source_kind": "Amazon own-brand exact-ASIN product description supplied by main",
+      "candidate_snapshot_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/_candidates/codex_20261026_smart_plug.json"
+    },
+    {
+      "asin": "B0C1NL2HTB",
+      "official_sources": [
+        "https://linkjapan.co.jp/support/manual/eplug3/",
+        "https://linkjapan.co.jp/support/faq/eplug/"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "通信：2.4GHz Wi-Fi",
+        "定格電源：AC100V・50／60Hz",
+        "測定：電力量／電気料金の目安"
+      ]
+    },
+    {
+      "asin": "B0DT6VJ3K7",
+      "official_sources": [
+        "https://www.switchbot.jp/products/switchbot-plugmini-homekit?variant=42908884631727",
+        "https://blog.switchbot.jp/usecase/beginners/warning-use-of-switchbot-products/"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "通信：2.4GHz Wi-Fi／Bluetooth",
+        "規格：Apple HomeKit対応",
+        "測定：消費電力モニタリング"
+      ]
+    }
+  ],
+  "note": "Manufacturer sources only, no individual reviews"
+}

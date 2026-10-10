@@ -1,0 +1,1446 @@
+- link "Amazonアソシエイト ツールバー":
+  - /url: https://affiliate.amazon.co.jp/home
+  - paragraph: Amazonアソシエイト
+  - heading "ツールバー" [level=2]
+- paragraph: カテゴリー
+- paragraph
+- paragraph: 販売手数料率
+- paragraph
+- paragraph:
+  - text: 【10/16(金)0時～】「プライム感謝祭」開催！10/13(火)からは先行セール。
+  - link "イベントページはこちら。":
+    - /url: https://www.amazon.co.jp/primeappreciation?ref=SiteStripe
+- button "リンク生成"
+- button "設定":
+- navigation "ショートカットメニュー":
+  - heading "次に移動" [level=2]
+  - list "次に移動":
+    - link "メインコンテンツ":
+      - /url: "#skippedLink"
+    - link "この商品について":
+      - /url: "#featurebullets_feature_div"
+    - link "購入オプションに移動":
+      - /url: "#buybox"
+      - text: 購入オプション
+    - link "レビュー":
+      - /url: "#customerReviews"
+  - separator
+  - heading "キーボードショートカット" [level=2]
+  - list "キーボードショートカット":
+    - link "検索、option、フォーワードスラッシュ(/)":
+      - /url: javascript:void(0)
+      - generic: 検索
+      - generic: opt
+      - generic: +
+      - generic: /
+    - link "カート、shift、option、c":
+      - /url: javascript:void(0)
+      - generic: カート
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: C
+    - link "ホーム、 shift、option、h":
+      - /url: javascript:void(0)
+      - generic: ホーム
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: H
+    - link "注文履歴、shift、option、o":
+      - /url: javascript:void(0)
+      - generic: 注文
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: O
+    - button "カートに入れる、シフト、option、K":
+      - generic: カートに入れる
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: K
+    - button "商品概要、シフトoption、d":
+      - generic: 商品概要
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: D
+    - button "ショートカットの表示/非表示、shift、option、z":
+      - generic: ショートカットの表示/非表示
+      - generic: Shift
+      - generic: +
+      - generic: opt
+      - generic: +
+      - generic: Z
+  - generic: 商品間を移動するには、キーボードの上矢印または下矢印を使用します。
+- banner:
+  - navigation "プライマリ":
+    - link "Amazon.co.jp Prime":
+      - /url: /ref=nav_logo
+      - generic: .co.jp
+    - link:
+      - /url: /ref=nav_logo_prime
+    - button "お届け先 清水 翔平さん 812-0893‌":
+      - generic: お届け先 清水 翔平さん
+      - generic: 812-0893‌
+    - search:
+      - generic: エレクトロニクス&カメラ
+      - combobox "検索するカテゴリーを選択します。":
+        - option "すべてのカテゴリー"
+        - option "Amazon ふるさと納税"
+        - option "プライム感謝セール"
+        - option "Audibleオーディオブック"
+        - option "Amazon デバイス"
+        - option "Kindleストア"
+        - option "Prime Video"
+        - option "Alexaスキル"
+        - option "Amazon定期おトク便"
+        - option "デジタルミュージック"
+        - option "アプリ&ゲーム"
+        - option "本"
+        - option "洋書"
+        - option "音楽"
+        - option "クラシック"
+        - option "DVD"
+        - option "コンピューター&テレビゲーム"
+        - option "PCソフト"
+        - option "パソコン・周辺機器"
+        - option "エレクトロニクス&カメラ" [selected]
+        - option "文房具・オフィス用品"
+        - option "キッチン&家庭用品"
+        - option "ペット用品"
+        - option "ヘルスケア&パーソナルケア"
+        - option "ビューティー"
+        - option "食品・飲料・お酒"
+        - option "ベビー&マタニティ"
+        - option "ファッション"
+        - option "女性服、靴、ジュエリー"
+        - option "男性用服、靴、ジュエリー"
+        - option "ベビー服、靴、ジュエリー"
+        - option "玩具"
+        - option "ホビー"
+        - option "楽器"
+        - option "スポーツ&アウトドア"
+        - option "車＆バイク"
+        - option "DIY、工具、ガーデニング"
+        - option "大型家電"
+        - option "クレジットカード"
+        - option "ギフトカード"
+        - option "産業・研究開発用品"
+        - option "Amazonアウトレット"
+        - option "マルキョウ"
+        - option "Amazon Haul"
+        - option "Amazonインターナショナルダイレクト"
+      - searchbox "Amazon.co.jpを検索"
+      - generic "検索":
+        - button "検索"
+    - link "Amazon日本でのショッピングに使用する言語を選択します。現在の選択は日本語(JP)です。":
+      - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+      - img "日本"
+      - generic: JP
+    - link "清水翔平さん アカウント＆リスト":
+      - /url: https://www.amazon.co.jp/gp/css/homepage.html?ref_=nav_youraccount_btn
+      - generic: 清水翔平さん
+      - generic: アカウント＆リスト
+    - button "アカウントと購入品リストを展開"
+    - link "返品もこちら 注文履歴":
+      - /url: /gp/css/order-history?ref_=nav_orders_first
+      - generic: 返品もこちら
+      - generic: 注文履歴
+    - link "カート内の商品数：0":
+      - /url: /gp/cart/view.html?ref_=nav_cart
+      - generic: "0"
+      - generic: カート
+    - button "すべてのカテゴリーメニューを開く":
+      - generic: すべて
+    - button "Open Rufus panel":
+      - generic: Rufus
+    - list:
+      - link "Amazonポイント":
+        - /url: /Amazon%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/b/?ie=UTF8&node=2632478051&ref_=nav_cs_jppoints_rec
+      - link "ヘルプ":
+        - /url: /%E3%83%98%E3%83%AB%E3%83%97/b/?ie=UTF8&node=642938&ref_=nav_cs_help_wt_t2
+      - link "ふるさと納税":
+        - /url: /fmc/furusato?ref_=nav_cs_tatsumi_discobar
+      - link "プチプラHaul":
+        - /url: /haul/store?ref_=nav_cs_hul_disb
+      - link "Prime Video":
+        - /url: /gp/video/storefront?ref_=nav_cs_prime_video
+      - link "本":
+        - /url: /%E6%9C%AC-%E6%9B%B8%E7%B1%8D-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=465392&ref_=nav_cs_books
+      - link "Kindle本":
+        - /url: /Kindle-%E3%82%AD%E3%83%B3%E3%83%89%E3%83%AB-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D/b/?ie=UTF8&node=2275256051&ref_=nav_cs_kindle_books
+      - link "ランキング":
+        - /url: /ranking?type=top-sellers&ref_=nav_cs_bestsellers
+      - link "タイムセール":
+        - /url: /gp/goldbox?ref_=nav_cs_gb
+      - link "クーポン":
+        - /url: /coupons?ref_=nav_cs_coupons
+      - link "Amazon Basics":
+        - /url: /amazon_basic?ref_=nav_cs_amazonbasics
+      - link "定期おトク便":
+        - /url: /auto-deliveries?ref_=nav_cs_sns
+      - link "マルキョウ":
+        - /url: /alm/storefront?almBrandId=qg6iObTGYS&ref_=nav_cs_maruk
+      - link "食品＆飲料":
+        - /url: /%E9%A3%9F%E5%93%81-%E9%A3%B2%E6%96%99-%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84-%E3%81%8A%E8%8F%93%E5%AD%90-%E9%85%92/b/?ie=UTF8&node=57239051&ref_=nav_cs_grocery
+      - link "閲覧履歴":
+        - /url: /gp/history?ref_=nav_cs_timeline
+      - button "閲覧履歴詳細"
+      - link "ギフトカード":
+        - /url: /%E3%82%AE%E3%83%95%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/b/?ie=UTF8&node=2351652051&ref_=nav_cs_gc
+      - button "ギフトカード詳細"
+      - link "再び購入":
+        - /url: /gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again
+      - link "ショッピングを続ける":
+        - /url: /hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db
+      - link "Amazonビジネス":
+        - /url: /business/register/org/landing?ref_=nav_cs_business_flyout
+      - button "Amazonビジネス詳細"
+      - link "ミュージック":
+        - /url: /music/player?ref_=nav_cs_music
+      - link "プライム":
+        - /url: /prime?ref_=nav_cs_primelink_member
+      - button "プライム詳細"
+      - link "新着商品":
+        - /url: /ranking?type=new-releases&ref_=nav_cs_newreleases
+      - link "パソコン・周辺機器":
+        - /url: /PC%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2127209051&ref_=nav_cs_pc
+      - link "DIY・工具":
+        - /url: /DIY%E3%83%BB%E5%B7%A5%E5%85%B7-%E5%A4%A7%E5%B7%A5%E9%81%93%E5%85%B7-%E4%BD%9C%E6%A5%AD%E7%94%A8%E5%93%81%E3%83%BB%E5%AE%89%E5%85%A8%E7%94%A8%E5%93%81-%E9%9B%BB%E5%8B%95%E3%83%BB%E4%BD%9C%E6%A5%AD%E5%B7%A5%E5%85%B7-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2/b/?ie=UTF8&node=2016929051&ref_=nav_cs_hi
+      - link "ベビー&マタニティ":
+        - /url: /%E3%83%99%E3%83%93%E3%83%BC%E7%94%A8%E5%93%81-%E9%80%9A%E8%B2%A9-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E4%BA%BA%E6%B0%97-%E3%82%BB%E3%83%BC%E3%83%AB/b/?ie=UTF8&node=344845011&ref_=nav_cs_baby
+      - link "おもちゃ&ホビー":
+        - /url: /%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=13299531&ref_=nav_cs_toys
+      - link "Amazonファッション":
+        - /url: /%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/b/?ie=UTF8&node=2229202051&ref_=nav_cs_fashion
+      - link "ホーム&キッチン":
+        - /url: /%E3%83%9B%E3%83%BC%E3%83%A0-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%B6%88%E8%80%97%E5%93%81%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E7%94%9F%E6%B4%BB%E9%9B%91%E8%B2%A8/b/?ie=UTF8&node=3828871&ref_=nav_cs_home_kitchen
+      - link "ペットフード・ペット用品":
+        - /url: /%E3%83%9A%E3%83%83%E3%83%88%E3%83%95%E3%83%BC%E3%83%89-%E3%83%9A%E3%83%83%E3%83%88%E7%94%A8%E5%93%81/b/?ie=UTF8&node=2127212051&ref_=nav_cs_pets
+      - link "エクスプレスマート":
+        - /url: /gp/browse.html?node=203868164051&ref_=nav_cs_EE
+    - link "Amazonデバイスで毎日を快適に":
+      - /url: /b/?_encoding=UTF8&node=2408695051&ref=ods_swm_XPL&ref_=nav_swm_adbl_swm_bau&pf_rd_p=d5871fa6-8b4e-46c6-84e2-d8f3a5f1be22&pf_rd_s=nav-sitewide-msg&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A1VC38T7YXB528&pf_rd_r=7EG7J1TGYY56M0GHZ4RD
+      - img "Amazonデバイスで毎日を快適に"
+    - link "家電・カメラ・AV機器":
+      - /url: /%E5%AE%B6%E9%9B%BB-%E3%82%AB%E3%83%A1%E3%83%A9-AV%E6%A9%9F%E5%99%A8-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E6%A9%9F%E5%99%A8/b/?ie=UTF8&node=3210981&ref_=topnav_storetab_e
+    - link "家電":
+      - /url: /%E7%94%9F%E6%B4%BB%E5%AE%B6%E9%9B%BB/b/?ie=UTF8&node=124048011&ref_=sv_e_1
+    - link "カメラ":
+      - /url: /%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9-%E3%83%93%E3%83%87%E3%82%AA-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E4%B8%80%E7%9C%BC%E3%83%AC%E3%83%95-%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AC%E3%82%B9%E4%B8%80%E7%9C%BC/b/?ie=UTF8&node=16462091&ref_=sv_e_2
+    - link "携帯電話・スマホ":
+      - /url: /%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3-%E3%82%B9%E3%83%9E%E3%83%9B/b/?ie=UTF8&node=128187011&ref_=sv_e_3
+    - link "テレビ・レコーダー":
+      - /url: /%E3%83%86%E3%83%AC%E3%83%93%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC-%E3%83%96%E3%83%AB%E3%83%BC%E3%83%AC%E3%82%A4-DVD-%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC/b/?ie=UTF8&node=3477381&ref_=sv_e_4
+    - link "オーディオ":
+      - /url: /%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA-%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC-%E3%82%A2%E3%83%B3%E3%83%97-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/b/?ie=UTF8&node=16462081&ref_=sv_e_5
+    - link "ヘッドホン":
+      - /url: /%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E3%83%BB%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3-%E3%82%AB%E3%83%8A%E3%83%AB-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%98%E3%83%83%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA/b/?ie=UTF8&node=3477981&ref_=sv_e_6
+    - link "アクセサリ":
+      - /url: /%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BB%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4/b/?ie=UTF8&node=3371421&ref_=sv_e_8
+    - link "Amazonランキング":
+      - /url: http://www.amazon.co.jp/gp/bestsellers/electronics/?ie=UTF8&ref_=sv_e_9
+    - dialog
+- heading "商品概要には、主要な商品情報が記載されています キーボードショートカット Shift + opt + D" [level=1]:
+  - button "商品概要には、主要な商品情報が記載されています":
+    - generic: 商品概要には、主要な商品情報が記載されています
+  - separator
+  - text: キーボードショートカット
+  - generic: Shift + opt + D
+- main:
+  - link "Amazonで出品しませんか":
+    - /url: https://www.amazon.co.jp/b/node=206863966051/?_encoding=UTF8&ld=AZJPSOA_DP_2025_ilm_F_node&pd_rd_w=HTIF5&content-id=amzn1.sym.3e83fe39-7ed4-474c-8b50-1805c9be46bb&pf_rd_p=3e83fe39-7ed4-474c-8b50-1805c9be46bb&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=sezBy&pd_rd_r=23af8c62-0d59-4fb7-9619-900583ccf1f1
+    - img "Amazonで出品しませんか"
+  - list:
+    - link "パソコン・周辺機器":
+      - /url: /PC%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E9%80%9A%E8%B2%A9/b/ref=dp_bc_1?ie=UTF8&node=2127209051
+    - listitem: ›
+    - link "外付けドライブ・ストレージ":
+      - /url: /%E5%A4%96%E4%BB%98%E3%81%91%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8-%E9%80%9A%E8%B2%A9/b/ref=dp_bc_2?ie=UTF8&node=2151950051
+    - listitem: ›
+    - link "外付メモリカードリーダー":
+      - /url: /%E5%A4%96%E4%BB%98%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-%E9%80%9A%E8%B2%A9/b/ref=dp_bc_3?ie=UTF8&node=2151953051
+  - generic: ￥3,690
+  - generic: ￥3,690
+  - text: 税込
+  - text: "ポイント: 738pt (20%)"
+  - link "詳細はこちら":
+    - /url: /gp/help/customer/display.html?nodeId=200041560&pop-up=1
+  - img "prime"
+  - text: 翌日
+  - text: 無料配送 明日 10月11日にお届け （11 時間 2 分以内にご注文の場合）
+  - link "配送料と配送方法の詳細":
+    - /url: /gp/help/customer/display.html/?nodeId=201911210
+    - text: 詳細を見る
+  - button "清水 翔平 - 812-0893‌ にお届け":
+    - generic: 清水 翔平 - 812-0893‌ にお届け
+  - text: 在庫あり。
+  - link "在庫状況":
+    - /url: /gp/help/customer/display.html?&nodeId=201910280
+  - text: について
+  - generic: "数量:"
+  - combobox "数量:":
+    - option "1" [selected]
+    - option "2"
+    - option "3"
+    - option "4"
+    - option "5"
+    - option "6"
+    - option "7"
+    - option "8"
+    - option "9"
+    - option "10"
+    - option "11"
+    - option "12"
+    - option "13"
+    - option "14"
+    - option "15"
+    - option "16"
+    - option "17"
+    - option "18"
+    - option "19"
+    - option "20"
+    - option "21"
+    - option "22"
+    - option "23"
+    - option "24"
+    - option "25"
+    - option "26"
+    - option "27"
+    - option "28"
+    - option "29"
+    - option "30"
+  - generic: 数量:1
+  - button "カートに入れる"
+  - generic: カートに入れる
+  - button "今すぐ買う"
+  - generic: 今すぐ買う
+  - group "出品者、配送、購入オプションの詳細":
+    - heading "出荷元" [level=4]:
+      - generic: 出荷元
+    - generic: Amazon
+    - heading "販売元" [level=4]:
+      - generic: 販売元
+    - link "Ugreen Japan Co., Ltd":
+      - /url: /gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A9R64JPBW6UFH&asin=B0BNBXVLZS&ref_=dp_merchant_link&isAmazonFulfilled=1
+    - generic: （91293件の評価）
+    - heading "カスタマーサービス" [level=4]:
+      - generic: カスタマーサービス
+    - button "Amazon":
+      - generic: Amazon
+    - heading "ギフトオプション" [level=4]:
+      - generic: ギフトオプション
+    - button "レジで利用可能":
+      - generic: レジで利用可能
+  - button "すべて見る": すべて見る
+  - separator
+  - button "リストに追加"
+  - generic: リストに追加
+  - button "ドロップダウンからリストを選択する"
+  - generic: 法人価格で、この商品が最大30%お得に。
+  - link "無料アカウントを作成する":
+    - /url: /business/register/org/landing?ref_=ab_reg_bioab_sudqd_c&returnToUrl=%2Fdp%2FB0BNBXVLZS%3FregistrationStatus%3DREGISTERED&client=abupsell&bioab_in_context_reg=1
+  - button "シェアする":
+    - button "シェアする"
+  - button "ハートをクリックして、商品をリストに保存します":
+    - img "ハートをクリックして、商品をリストに保存します"
+  - radiogroup "画像サムネイル":
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image":
+      - img "Product Image"
+    - radio "Product Image, 4+ その他の画像が対応可能 4+":
+      - img "Product Image, 4+ その他の画像が対応可能"
+      - generic: 4+
+  - list
+  - list:
+    - button "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 | SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー":
+      - img "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 | SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー"
+  - link "クリックしてフルビューを表示する":
+    - /url: "#"
+  - heading "Rufusに尋ねる" [level=5]:
+    - text: Rufusに尋ねる
+  - list:
+    - button "このカードリーダーは軽量ですか？":
+      - generic: このカードリーダーは軽量ですか？
+    - button "このカードリーダーは旅行に適していますか？":
+      - generic: このカードリーダーは旅行に適していますか？
+    - button "このカードリーダーはMacBookと互換性がありますか？":
+      - generic: このカードリーダーはMacBookと互換性がありますか？
+    - button "他のことを聞いてください":
+      - generic: 他のことを聞いてください
+  - button
+  - link "UGREEN":
+    - /url: /stores/UGREEN/page/B7ACD7FE-CDC4-4ABA-8DBE-DF0EF9241609?lp_asin=B0BNBXVLZS&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto
+    - img "UGREEN"
+  - link "UGREENのストアを表示":
+    - /url: /stores/UGREEN/page/B7ACD7FE-CDC4-4ABA-8DBE-DF0EF9241609?lp_asin=B0BNBXVLZS&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto
+  - heading "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用" [level=1]
+  - generic: SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー
+  - generic "5つ星のうち4.4":
+    - button "5つ星のうち4.4":
+      - text: "4.4"
+      - generic: 5つ星のうち4.4
+  - link "2,193 レビュー":
+    - /url: "#averageCustomerReviewsAnchor"
+    - text: (2,193)
+  - text: "|"
+  - link "このページを検索":
+    - /url: "#"
+  - generic: 過去1か月で500点以上購入されました
+  - separator
+  - generic: ￥3,690
+  - generic: ￥3,690
+  - text: 税込
+  - link "価格履歴":
+    - /url: "#"
+  - img "prime"
+  - text: 翌日
+  - text: "ポイント: 738pt (20%)"
+  - link "詳細はこちら":
+    - /url: /gp/help/customer/display.html?nodeId=200041560&pop-up=1
+  - table
+  - generic: ポイントDEAL
+  - link "詳細":
+    - /url: "#"
+  - button "dアカウント連携者限定" [disabled]
+  - generic: dアカウント連携者限定
+  - text: "[プライム感謝祭] dポイントを使うと最大10万ポイントが当たる"
+  - link "エントリーをする":
+    - /url: /b/?node=221362476051&ref_=jp_d_bbrlp_dpbadge_baseoffer_pas26&source=dp_cxcw
+  - button "入会キャンペーン" [disabled]
+  - generic: 入会キャンペーン
+  - text: Amazon Mastercard 新規入会 + 初回利用で4,000ポイント
+  - link "今すぐ申し込む >":
+    - /url: /dp/B08P4CFBK6?ref_=cbcc_jp_202610_janus_pas26&source=dp_cxcw
+  - button "エントリー済み" [disabled]
+  - generic: エントリー済み
+  - text: "まとめトク: 5点以上まとめ買いで1%ポイント還元"
+  - link "買い物をする":
+    - /url: /b?node=222421060051&ref_=mtk_jp_dp_badge&source=dp_cxcw
+  - link "法人価格で最大30%割引となります。無料のビジネスアカウントに登録する":
+    - /url: /business/register/org/landing?ref_=acq_ab_reg&returnToUrl=%2Fdp%2FB0BNBXVLZS%3FregistrationStatus%3DREGISTERED&client=abupsell
+  - button "Amazonによる発送"
+  - button "安心・安全への取り組み"
+  - button "お客様情報の保護"
+  - list:
+    - rowgroup:
+      - listitem: ブランド UGREEN
+      - listitem: メディアタイプ SD4.0+TF4.0、USB Type C 3.1 Gen1
+      - listitem: 接続技術 USB Type C
+      - listitem: 特徴 最新のSD4.0カードに対応
+      - listitem: 色 グレー
+  - separator
+  - heading "この商品について" [level=2]
+  - list:
+    - listitem: UHS-II 4Kビデオ撮影に最適なSDカードリーダー：最新のSD4.0カードに対応したSDスロットとmicroSDスロットによると、UHS-II対応の一眼レフカメラ、デジタルカメラ、ビデオカメラから撮影した高容量の4Kビデオデータを最大312MB/sの高速でPCへ転送できます。
+    - listitem: 2つ同士でファイルの移動可能：最大2TBまでの大容量カードをサポートし、2枚カード間のファイルの同期、転送、共有が簡単にできます。スマホ、デジカメラ、GoProなど撮った写真(撮影画像)をPC・Androidスマホにて直接ファイルを数秒で素早くバックアップできます。
+    - listitem: 多種類のカードに対応：SD/microSDカードスロットが2つ備えたUSB Type C 3.1 SDカードリーダーで、SD4.0 UHS-II対応し、UHS-Iおよび SDXC、microSDXC、microSDHC、microSD、MMC micro、RS-MMC、SDHC、SDなどに対応しています。
+    - listitem: プレミアムデザイン：しっかりとしたアルミ素材を使って、優れた放熱性を持ちながら高級感があります。体感温度で熱を少し持ちますが、筐体が金属なので風を当てるとすぐ冷えます。指紋もつけにくいです。内蔵された高品質のチップにより安定した転送と安全保護を保証できます。従来のABS型と比べて高いデザイン性と耐久性を実現しました。
+    - listitem: 幅広い互換性：USB Type C 3.1 Gen1に準拠して、MacBook ProやiPad Proを含み、OTG AndroidスマホやタブレットなどのUSB-Cポート搭載の幅広い機器でお使いいただけます。隣り合う接続ポートにも干渉しづらい超コンパクト設計で、端末本体と一緒に出張や旅行でも気軽に持ち運ぶことができます。
+    - listitem: 24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。
+  - text: ›
+  - link "もっと見る":
+    - /url: "#productDetails"
+  - link "この商品に関する問題を報告する":
+    - /url: javascript:void(0)
+  - separator
+  - heading "この商品には新しいモデルがあります:" [level=2]
+  - link "UGREEN sdカードリーダー 収納型カードリーダー 4枚カード収納可+2枚同時読み取り USB-C USB3.1 カード紛失防止 カード管理 | 高速転送 5Gbps SD/microSD/TF/SDHC/SDXCなど SD/TF メモリーカードリーダー カードリーダーケース 耐衝撃 OTG対応 ドライバ不要 sdカードリーダー ケース付き":
+    - /url: /UGREEN-sd-E3-82-AB-E3-83-BC-E3-83-89-E3-83-AA-E3-83-BC-E3-83-80-E3-83-BC-E5-8F-8E-E7-B4-8D-E5-9E-8/dp/B0DRNX9MMZ/ref=dp_ob_image_ce
+    - img "UGREEN sdカードリーダー 収納型カードリーダー 4枚カード収納可+2枚同時読み取り USB-C USB3.1 カード紛失防止 カード管理 | 高速転送 5Gbps SD/microSD/TF/SDHC/SDXCなど SD/TF メモリーカードリーダー カードリーダーケース 耐衝撃 OTG対応 ドライバ不要 sdカードリーダー ケース付き"
+  - link "UGREEN sdカードリーダー 収納型カードリーダー 4枚カード収納可+2枚同時読み取り USB-C USB3.1 カード紛失防止 カード管理 | 高速転送 5Gbps SD/microSD/TF/SDHC/SDXCなど SD/TF メモリーカードリーダー カードリーダーケース 耐衝撃 OTG対応 ドライバ不要 sdカードリーダー ケース付き":
+    - /url: /UGREEN-sd-E3-82-AB-E3-83-BC-E3-83-89-E3-83-AA-E3-83-BC-E3-83-80-E3-83-BC-E5-8F-8E-E7-B4-8D-E5-9E-8/dp/B0DRNX9MMZ/ref=dp_ob_title_ce
+  - text: ￥2,490
+  - link "星5つのうち4.5つ星":
+    - /url: /product-reviews/B0DRNX9MMZ/ref=dp_ob_custreviews_ce_cm_cr_acr_img?showViewpoints=1
+  - link "984この商品のカスタマーレビュー":
+    - /url: /product-reviews/B0DRNX9MMZ/ref=dp_ob_custreviews_ce_cm_cr_acr_txt?showViewpoints=1
+    - text: (984)
+  - text: 在庫あり。
+  - generic: "Amazon.co.jp マーケットプレイスアワード2025:"
+  - link "Amazon.co.jp マーケットプレイスアワード2025":
+    - /url: /b/?ie=UTF8&node=206875745051&ref_=ama26pa
+    - img "Amazon.co.jp マーケットプレイスアワード2025"
+  - separator
+  - link:
+    - /url: /fmc/furusato/ranking/weekly/ref=tatsu_dp_hqp/?_encoding=UTF8&pf_rd_p=ed3cfecb-e5b2-48c6-962a-5021424dc387&pf_rd_r=7EG7J1TGYY56M0GHZ4RD
+  - generic: いつものAmazonでふるさと納税
+  - text: 今週のTop 100人気返礼品ランキングを公開中。Amazonふるさと納税でしか見つからない限定返礼品や、欲しいときにすぐ届く最短翌日お届けの返礼品も。
+  - link "いつものAmazonでふるさと納税":
+    - /url: /fmc/furusato/ranking/weekly/ref=tatsu_dp_hqp/?_encoding=UTF8&pf_rd_p=ed3cfecb-e5b2-48c6-962a-5021424dc387&pf_rd_r=7EG7J1TGYY56M0GHZ4RD
+    - text: 今すぐチェック
+  - separator
+  - heading "よく一緒に購入されている商品" [level=2]
+  - generic: 一緒に購入されている商品に基づく
+  - checkbox [checked]
+  - img "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 | SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど"
+  - generic: "対象商品: UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 | SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー"
+  - text: "4.4"
+  - generic: 5つ星のうち4.4
+  - link "2,193":
+    - /url: /product-reviews/B0BNBXVLZS/ref=sspa_dk_detail_sbt_d_sccl_3_cr/356-4692360-8533037?pd_rd_w=JTEyW&content-id=amzn1.sym.13a02b1b-3448-481b-97ec-d26703b2dc25&pf_rd_p=13a02b1b-3448-481b-97ec-d26703b2dc25&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pd_rd_i=B0BNBXVLZS
+  - generic: ￥3,690
+  - generic: ￥3,690
+  - link "738ポイント(20%)":
+    - /url: "#"
+  - checkbox [checked]
+  - generic: +
+  - link "UGREEN USB-C カードリーダー SD MicroSD 2枚同時読取 アルミ合金製 放熱性良い タイプC OTG機能 5Gbps | 高速双方向データ転送 USB3.1 Gen1 Type-Cインターフェース対応 Android スマホ、iP":
+    - /url: /sspa/click?ie=UTF8&spc=MTo1Njc1MzE0NDc4MzQ0NTkzOjE3OTE2MDQ2NjM6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDE4MDAxNTM1NDM2Mjo6MDo6&url=%2FUGREEN-%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC-MicroSD-USB%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC-%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%25892%25E6%259E%259A%25E5%2590%258C%25E6%2599%2582%25E8%25AA%25AD%25E3%2581%25BF%25E6%259B%25B8%25E3%2581%258D%25E5%258F%25AF%25E8%2583%25BD%2Fdp%2FB08CS8T8DC%3Fpsc%3D1%26pd_rd_w%3DJTEyW%26content-id%3Damzn1.sym.13a02b1b-3448-481b-97ec-d26703b2dc25%26pf_rd_p%3D13a02b1b-3448-481b-97ec-d26703b2dc25%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26ref_%3Dsspa_dk_detail_sbt_img_0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D
+    - img "UGREEN USB-C カードリーダー SD MicroSD 2枚同時読取 アルミ合金製 放熱性良い タイプC OTG機能 5Gbps | 高速双方向データ転送 USB3.1 Gen1 Type-Cインターフェース対応 Android スマホ、iP"
+  - button "スポンサー広告にフィードバックを残す": スポンサー
+  - link:
+    - /url: /sspa/click?ie=UTF8&spc=MTo1Njc1MzE0NDc4MzQ0NTkzOjE3OTE2MDQ2NjM6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDE4MDAxNTM1NDM2Mjo6MDo6&url=%2FUGREEN-%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC-MicroSD-USB%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC-%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%25892%25E6%259E%259A%25E5%2590%258C%25E6%2599%2582%25E8%25AA%25AD%25E3%2581%25BF%25E6%259B%25B8%25E3%2581%258D%25E5%258F%25AF%25E8%2583%25BD%2Fdp%2FB08CS8T8DC%3Fpsc%3D1%26pd_rd_w%3DJTEyW%26content-id%3Damzn1.sym.13a02b1b-3448-481b-97ec-d26703b2dc25%26pf_rd_p%3D13a02b1b-3448-481b-97ec-d26703b2dc25%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26ref_%3Dsspa_dk_detail_sbt_0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D
+    - generic: UGREEN USB-C カードリーダー SD MicroSD 2枚同時読取 アルミ合金製 放熱性良い タイプC OTG機能 5Gbps | 高速双方向データ転送 USB3.1 Gen1 Type-Cインターフェース対応 Android スマホ、iPhone 18 Pro/17/16/15/Pro MAx、MacBook、Chromebook、PC、GalaxyなどUSB Cポート搭載
+  - text: "4.2"
+  - generic: 5つ星のうち4.2
+  - link "11,371":
+    - /url: /product-reviews/B08CS8T8DC/ref=sspa_dk_detail_sbt_d_sccl_1_cr/356-4692360-8533037?pd_rd_w=JTEyW&content-id=amzn1.sym.13a02b1b-3448-481b-97ec-d26703b2dc25&pf_rd_p=13a02b1b-3448-481b-97ec-d26703b2dc25&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pd_rd_i=B08CS8T8DC
+  - text: "-15%"
+  - generic: ￥1,599
+  - generic: ￥1,599
+  - generic: "過去: ￥1,892"
+  - link "256ポイント(16%)":
+    - /url: "#"
+  - img "Amazonプライム"
+  - checkbox [checked]
+  - generic: +
+  - link "UGREEN SD4.0対応 カードリーダー タイプC/A 2-in-1 SD3.0約2倍の速さ 2枚同時読み取り OTG対応 タイプC USB3.0 | 高速データ転送 OTG対応 iPhone 18/17/16/15シリーズ/iPad Pro/ス":
+    - /url: /sspa/click?ie=UTF8&spc=MTo1Njc1MzE0NDc4MzQ0NTkzOjE3OTE2MDQ2NjM6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDEwNjY0MjI0MDQ2Mjo6MTo6&url=%2F%25E3%2580%25902025%25E5%25BF%2585%25E8%25A6%258B%25EF%25BC%2581SD4-0%25E6%2596%25B0%25E5%25AE%259A%25E7%25BE%25A9%25E3%2580%2591UGREEN-sd%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC-SD3-0%25E7%25B4%25842%25E5%2580%258D%25E3%2581%25AE%25E9%2580%259F%25E3%2581%2595-%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC-USB3-0%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%2Fdp%2FB0DP9QKGY7%3Fpsc%3D1%26pd_rd_w%3DJTEyW%26content-id%3Damzn1.sym.13a02b1b-3448-481b-97ec-d26703b2dc25%26pf_rd_p%3D13a02b1b-3448-481b-97ec-d26703b2dc25%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26ref_%3Dsspa_dk_detail_sbt_img_1%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D
+    - img "UGREEN SD4.0対応 カードリーダー タイプC/A 2-in-1 SD3.0約2倍の速さ 2枚同時読み取り OTG対応 タイプC USB3.0 | 高速データ転送 OTG対応 iPhone 18/17/16/15シリーズ/iPad Pro/ス"
+  - button "スポンサー広告にフィードバックを残す": スポンサー
+  - link:
+    - /url: /sspa/click?ie=UTF8&spc=MTo1Njc1MzE0NDc4MzQ0NTkzOjE3OTE2MDQ2NjM6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDEwNjY0MjI0MDQ2Mjo6MTo6&url=%2F%25E3%2580%25902025%25E5%25BF%2585%25E8%25A6%258B%25EF%25BC%2581SD4-0%25E6%2596%25B0%25E5%25AE%259A%25E7%25BE%25A9%25E3%2580%2591UGREEN-sd%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC-SD3-0%25E7%25B4%25842%25E5%2580%258D%25E3%2581%25AE%25E9%2580%259F%25E3%2581%2595-%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC-USB3-0%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%2Fdp%2FB0DP9QKGY7%3Fpsc%3D1%26pd_rd_w%3DJTEyW%26content-id%3Damzn1.sym.13a02b1b-3448-481b-97ec-d26703b2dc25%26pf_rd_p%3D13a02b1b-3448-481b-97ec-d26703b2dc25%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26ref_%3Dsspa_dk_detail_sbt_1%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D
+    - generic: UGREEN SD4.0対応 カードリーダー タイプC/A 2-in-1 SD3.0約2倍の速さ 2枚同時読み取り OTG対応 タイプC USB3.0 | 高速データ転送 OTG対応 iPhone 18/17/16/15シリーズ/iPad Pro/スマホ/タブレット/MacBook/Windows iPhone対応SDカードリーダー ドライバ不要 マイクロSDカードリーダー
+  - text: "4.4"
+  - generic: 5つ星のうち4.4
+  - link "777":
+    - /url: /product-reviews/B0DP9QKGY7/ref=sspa_dk_detail_sbt_d_sccl_2_cr/356-4692360-8533037?pd_rd_w=JTEyW&content-id=amzn1.sym.13a02b1b-3448-481b-97ec-d26703b2dc25&pf_rd_p=13a02b1b-3448-481b-97ec-d26703b2dc25&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pd_rd_i=B0DP9QKGY7
+  - generic: ￥2,599
+  - generic: ￥2,599
+  - link "26ポイント(1%)":
+    - /url: "#"
+  - img "Amazonプライム"
+  - generic: 総額:￥7,888
+  - generic: "ポイントの合計: 1020pt"
+  - button "3をすべてカートに追加する, UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 | SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー"
+  - generic: 3をすべてカートに追加する
+  - generic: これらの商品のうちのいくつかが他の商品より先に発送されます。
+  - link "詳細の表示":
+    - /url: javascript:void(0)
+  - separator
+  - region "この商品に関連する商品":
+    - heading "この商品に関連する商品" [level=2]
+    - link "スポンサー":
+      - /url: "#sp_detail_feedbackForm"
+      - text: スポンサー
+    - list:
+      - link "UGREEN USB-C カードリーダー SD MicroSD 2枚同時読取 アルミ合金製 放熱性良い タイプC OTG機能 5Gbps | 高速双方向データ転送 USB3.1 Gen1 Type-Cインターフェース対応 Android スマホ、iPhone 18 Pro/17/16/15/Pro MAx、MacBook、Chromebook、PC、GalaxyなどUSB Cポート搭載":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDE4MDAxNTM1NDM2Mjo6Ojo&url=%2Fdp%2FB08CS8T8DC%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08CS8T8DC%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: UGREEN USB-C カードリーダー SD MicroSD 2枚同時読取 アルミ合金製 放熱性良い タイプC…
+      - link "星5つのうち4.2 11,371件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDE4MDAxNTM1NDM2Mjo6Ojo&url=%2Fdp%2FB08CS8T8DC%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08CS8T8DC%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: 11,371
+      - 'link "-15% ￥1,599 過去: ￥1,892 過去: null"':
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDE4MDAxNTM1NDM2Mjo6Ojo&url=%2Fdp%2FB08CS8T8DC%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08CS8T8DC%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - text: "-15%"
+        - generic: ￥1,599
+        - generic: ￥1,599
+        - generic: "過去: ￥1,892"
+        - text: "過去:"
+        - generic: "null"
+        - text: ￥1,892
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDE4MDAxNTM1NDM2Mjo6Ojo&url=%2Fdp%2FB08CS8T8DC%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08CS8T8DC%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 256ポイント(16%)
+      - link "Lexar SDカード Professional 1800x SDXCカード 最大読込280MB/秒 書込205MB/秒 UHS-II Class 10 U3 V60 4K Ultra HD 動画撮影 国内正規品 (512GB) LSD1800512G-BNNNG":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI1MjgwMDk3NzI2Mjo6Ojo&url=%2Fdp%2FB0B4ZD5VQY%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0B4ZD5VQY%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: Lexar SDカード Professional 1800x SDXCカード 最大読込280MB/秒 書…
+      - link "星5つのうち4.8 41件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI1MjgwMDk3NzI2Mjo6Ojo&url=%2Fdp%2FB0B4ZD5VQY%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0B4ZD5VQY%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: "41"
+      - link "￥37,800":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI1MjgwMDk3NzI2Mjo6Ojo&url=%2Fdp%2FB0B4ZD5VQY%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0B4ZD5VQY%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ￥37,800
+        - generic: ￥37,800
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI1MjgwMDk3NzI2Mjo6Ojo&url=%2Fdp%2FB0B4ZD5VQY%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0B4ZD5VQY%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 378ポイント(1%)
+      - link "UGREEN SD4.0対応 カードリーダー タイプC/A 2-in-1 SD3.0約2倍の速さ 2枚同時読み取り OTG対応 タイプC USB3.0 | 高速データ転送 OTG対応 iPhone 18/17/16/15シリーズ/iPad Pro/スマホ/タブレット/MacBook/Windows iPhone対応SDカードリーダー ドライバ不要 マイクロSDカードリーダー":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDEwNjY0MjI0MDQ2Mjo6Ojo&url=%2Fdp%2FB0DP9QKGY7%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DP9QKGY7%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: UGREEN SD4.0対応 カードリーダー タイプC/A 2-in-1 SD3.0約2倍の速さ 2枚同時読み取り…
+      - link "星5つのうち4.4 777件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDEwNjY0MjI0MDQ2Mjo6Ojo&url=%2Fdp%2FB0DP9QKGY7%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DP9QKGY7%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: "777"
+      - link "￥2,599":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDEwNjY0MjI0MDQ2Mjo6Ojo&url=%2Fdp%2FB0DP9QKGY7%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DP9QKGY7%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ￥2,599
+        - generic: ￥2,599
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDEwNjY0MjI0MDQ2Mjo6Ojo&url=%2Fdp%2FB0DP9QKGY7%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DP9QKGY7%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 26ポイント(1%)
+      - link "UGREEN sdカードリーダー マグネット式 カードリーダー 充電+転送同時·MagSafe 高速USBタイプC SD4.0 UHS-II | 最大10Gbpsで高速転送 市販USB3.0より2倍 100W PD急速充電 iphone sdカードリーダー iPhone17/16/15/Windows/Linux/MacOS 同時読み取り 2TB ケーブル取り外し可":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDEwOTUzNjQ3NzI2Mjo6Ojo&url=%2Fdp%2FB0DRNXG4X5%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0DRNXG4X5%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: UGREEN sdカードリーダー マグネット式 カードリーダー 充電+転送同時·MagSafe 高速USB…
+      - link "星5つのうち4.2 602件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDEwOTUzNjQ3NzI2Mjo6Ojo&url=%2Fdp%2FB0DRNXG4X5%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0DRNXG4X5%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: "602"
+      - link "￥3,790":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDEwOTUzNjQ3NzI2Mjo6Ojo&url=%2Fdp%2FB0DRNXG4X5%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0DRNXG4X5%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ￥3,790
+        - generic: ￥3,790
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDEwOTUzNjQ3NzI2Mjo6Ojo&url=%2Fdp%2FB0DRNXG4X5%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0DRNXG4X5%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - link "Acer SDカードリーダー【2-in-1】マイクロSD カードリーダー Type-C & USB 3.0 超高速転送 OTG対応 スマホ適用 | Android タブレット・iPhone 17/16/15シリーズ・Windows PC・Linux・MacBook Neo iPad Air Pro・Chromebook適用 microSD SDXC SDHC MMC RS-MMC対応":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI0MjQ2MDcyMDc2Mjo6Ojo&url=%2Fdp%2FB0DZHB3897%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DZHB3897%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: Acer SDカードリーダー【2-in-1】マイクロSD カードリーダー Type-C & USB 3.0 超高速転…
+      - link "星5つのうち4.2 13,603件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI0MjQ2MDcyMDc2Mjo6Ojo&url=%2Fdp%2FB0DZHB3897%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DZHB3897%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: 13,603
+      - link "ベストセラー1位":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI0MjQ2MDcyMDc2Mjo6Ojo&url=%2Fdp%2FB0DZHB3897%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DZHB3897%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ベストセラー1位
+      - link "￥1,399":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI0MjQ2MDcyMDc2Mjo6Ojo&url=%2Fdp%2FB0DZHB3897%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DZHB3897%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ￥1,399
+        - generic: ￥1,399
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI0MjQ2MDcyMDc2Mjo6Ojo&url=%2Fdp%2FB0DZHB3897%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DZHB3897%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 70ポイント(5%)
+      - link "￥1,329で購入可能 クーポンあり":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI0MjQ2MDcyMDc2Mjo6Ojo&url=%2Fdp%2FB0DZHB3897%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DZHB3897%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ￥1,329で購入可能
+        - text: クーポンあり
+      - link "エレコム カードリーダー USB Type-C コネクタ USB 5Gbps UHS-I SD＋microSD用 ケーブル長15cm シルバー MR3C-C20ESV":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDE1OTk1NDUxNTU2Mjo6Ojo&url=%2Fdp%2FB0FTYYRXKS%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FTYYRXKS%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: エレコム カードリーダー USB Type-C コネクタ USB 5Gbps UHS-I SD＋microSD用 ケーブ…
+      - link "星5つのうち3.6 37件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDE1OTk1NDUxNTU2Mjo6Ojo&url=%2Fdp%2FB0FTYYRXKS%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FTYYRXKS%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: "37"
+      - link "￥1,480":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDE1OTk1NDUxNTU2Mjo6Ojo&url=%2Fdp%2FB0FTYYRXKS%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FTYYRXKS%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: ￥1,480
+        - generic: ￥1,480
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDE1OTk1NDUxNTU2Mjo6Ojo&url=%2Fdp%2FB0FTYYRXKS%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FTYYRXKS%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 15ポイント(1%)
+      - link "USB-C 4in1 sdカードリーダー USB3.0 TF/SD カードスロット 高速双向データ転送 写真・動画 外付け HDD 対応 | 対応メモリ最大1TB容量 Type‑C 機種/Android スマホ/iPhone/iPad（Lightning）/カメラ/ノート PC対応":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI3OTA4MDU3NTc2Mjo6Ojo&url=%2Fdp%2FB0HH86HM38%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0HH86HM38%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - generic: USB-C 4in1 sdカードリーダー USB3.0 TF/SD カードスロット 高速双向データ転送 写真・動画…
+      - link "星5つのうち5.0 15件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI3OTA4MDU3NTc2Mjo6Ojo&url=%2Fdp%2FB0HH86HM38%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0HH86HM38%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw#customerReviews
+        - text: "15"
+      - 'link "-30% ￥1,999 参考: ￥2,856 参考: null"':
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI3OTA4MDU3NTc2Mjo6Ojo&url=%2Fdp%2FB0HH86HM38%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0HH86HM38%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - text: "-30%"
+        - generic: ￥1,999
+        - generic: ￥1,999
+        - generic: "参考: ￥2,856"
+        - text: "参考:"
+        - generic: "null"
+        - text: ￥2,856
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MTo2MjU1MzU2MTA3NDMyMjQyOjE3OTE2MDQ2NjM6c3BfZGV0YWlsOjMwMDI3OTA4MDU3NTc2Mjo6Ojo&url=%2Fdp%2FB0HH86HM38%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0HH86HM38%26pd_rd_w%3DbLbz9%26content-id%3Damzn1.sym.e76be4cc-de46-4115-9594-7b952da42534%26pf_rd_p%3De76be4cc-de46-4115-9594-7b952da42534%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 20ポイント(1%)
+  - link "amazonらくらくベビー":
+    - /url: /baby-reg?_encoding=UTF8&ref_=cct_cg_brdpacq_1a1&pf_rd_p=d50a7b52-f8a6-4498-a413-1750954e374d&pf_rd_r=7EG7J1TGYY56M0GHZ4RD
+    - img "amazonらくらくベビー"
+  - separator
+  - heading "商品の説明" [level=2]
+  - img "15251"
+  - img "15251"
+  - img "15251"
+  - img "15251"
+  - region "おすすめコンテンツカルーセル":
+    - list:
+      - img "15251"
+      - img "15251"
+      - img "15251"
+      - img "15251"
+  - tablist "tablist section":
+    - tab "プラグ＆プレイ" [selected]
+    - tab "使い方は簡単"
+    - tab "2-in-1"
+    - tab "Type-Cスマホも使用可能"
+  - img "15251"
+  - heading "ご注意!!" [level=1]
+  - paragraph: ご注意！！
+  - paragraph: 1. データのバックアップ： カードリーダーを使用する前に、あらかじめメモリーカードのデータをバックアップしてください
+  - paragraph: 2. ご携帯電話／タブレットがOTG機能に対応していることをご確認ください
+  - paragraph: 3. オペレーティング・システムによってサポートするメモリーカードのフォーマットが異なるため、使用する際にはご注意してください
+  - paragraph: 4.本製品をごデバイスに接続する前に、メモリカードを本製品に挿入することをお勧めいたします
+  - paragraph: 5.メモリカードを正しい向きで挿入してください。挿入できない場合は、方向を変えてもう一度試してください。無理に挿入しないでください
+  - paragraph: 6.読み取りまたは書き込み中は、メモリカードのデータが破損したり失われたりしないように、メモリカードを取り出さないでください
+  - paragraph: 7. 長期間使わない場合は、埃や湿気を避けるためにリーダーを大切に保管してください
+  - paragraph: 8.子供やペットが手の届かない場所に置いてください。
+  - navigation:
+    - navigation "Navigate within the product detail page":
+      - navigation "Back to top jump link":
+        - generic: トップへ
+      - navigation "About this item widget jump link":
+        - generic: この商品について
+      - navigation "Similar widget jump link":
+        - generic: 類似商品
+      - navigation "From the brand widget jump link":
+        - generic: このブランドから
+      - navigation "Questions widget jump link":
+        - generic: 質問
+      - navigation "Product information widget jump link":
+        - generic: 商品情報
+      - navigation "Customer reviews widget jump link":
+        - generic: レビュー
+    - navigation "Back to top Image jump link":
+      - img "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用"
+    - navigation "Back to top title jump link":
+      - generic: UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用
+  - separator
+  - heading "ブランド紹介" [level=2]
+  - img "1"
+  - region "おすすめコンテンツカルーセル":
+    - list:
+      - img "1"
+      - heading "プレミアムデザイン" [level=3]
+      - list:
+        - link "UGREEN sdカードリーダー usb3.0 マイクロsd リーダー 超小型 2枚カード同時読書 高速転送 MacOS Windows パソコン両対応 SD microSD SDXC SDHC...":
+          - /url: /dp/B0779V61XB/ref=emc_bcc_2_i
+          - img "UGREEN sdカードリーダー usb3.0 マイクロsd リーダー 超小型 2枚カード同時読書 高速転送 MacOS Windows パソコン両対応 SD microSD SDXC SDHC..."
+        - link "カードリーダー":
+          - /url: /dp/B01EFPX9XA/ref=emc_bcc_2_i
+          - img "カードリーダー"
+        - link "UGREEN SDカードリーダー Type-C OTG対応 1台2役 USB3.0 Microsd 2TBまで大容量カードに対応 Android スマホ タブレット、MacBook、Window...":
+          - /url: /dp/B07ZKRM12C/ref=emc_bcc_2_i
+          - img "UGREEN SDカードリーダー Type-C OTG対応 1台2役 USB3.0 Microsd 2TBまで大容量カードに対応 Android スマホ タブレット、MacBook、Window..."
+        - link "UGREEN microSD USB C カードリーダー TF マイクロSDカード リーダー 超小型 高速転送 タイプC OTG対応 Android iPadOS Windows MacOS L...":
+          - /url: /dp/B08135D6FW/ref=emc_bcc_2_i
+          - img "UGREEN microSD USB C カードリーダー TF マイクロSDカード リーダー 超小型 高速転送 タイプC OTG対応 Android iPadOS Windows MacOS L..."
+      - heading "売れ筋カードリーダー" [level=3]
+      - paragraph:
+        - link "このブランドのAmazonストアにアクセスする":
+          - /url: /stores/page/4E07AF4A-4B08-4915-B1C9-7544866FE162?store_ref=storeRecs_dp_aplus
+          - text: ストアにアクセス
+      - list:
+        - link "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 SDXC/SDHC/SD/MMC/RS-MMC/mic...":
+          - /url: /dp/B0BNBXVLZS/ref=emc_bcc_2_i
+          - img "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 SDXC/SDHC/SD/MMC/RS-MMC/mic..."
+        - link "UGREEN カードリーダー USB C":
+          - /url: /dp/B0BMVHC1N9/ref=emc_bcc_2_i
+          - img "UGREEN カードリーダー USB C"
+        - link "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 スマホ タブレット MacBook Windows PCに適用":
+          - /url: /dp/B07D1J88CF/ref=emc_bcc_2_i
+          - img "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 スマホ タブレット MacBook Windows PCに適用"
+        - link "UGREEN 2in1 MicroSD SDカードリーダー USB3.0 5Gps高速 データ移行 SD/TFカード 同時読取 アルミ合金製 放熱性良い Window Mac Linux 幅広い...":
+          - /url: /dp/B08CS788Q8/ref=emc_bcc_2_i
+          - img "UGREEN 2in1 MicroSD SDカードリーダー USB3.0 5Gps高速 データ移行 SD/TFカード 同時読取 アルミ合金製 放熱性良い Window Mac Linux 幅広い..."
+      - heading "SD/TF(Micro SD)カードリーダー" [level=3]
+      - paragraph:
+        - link "このブランドのAmazonストアにアクセスする":
+          - /url: /stores/page/4E07AF4A-4B08-4915-B1C9-7544866FE162?store_ref=storeRecs_dp_aplus
+          - text: ストアにアクセス
+      - list:
+        - link "UGREEN cfexpress type b カードリーダー":
+          - /url: /dp/B0FL76PYGR/ref=emc_bcc_2_i
+          - img "UGREEN cfexpress type b カードリーダー"
+        - link "UGREEN SD4.0対応 カードリーダー":
+          - /url: /dp/B0DP9QKGY7/ref=emc_bcc_2_i
+          - img "UGREEN SD4.0対応 カードリーダー"
+        - link "UGREEN sdカードリーダー マグネット式":
+          - /url: /dp/B0DRNXG4X5/ref=emc_bcc_2_i
+          - img "UGREEN sdカードリーダー マグネット式"
+        - link "UGREEN sdカードリーダー 収納型カードリーダー":
+          - /url: /dp/B0DRNX9MMZ/ref=emc_bcc_2_i
+          - img "UGREEN sdカードリーダー 収納型カードリーダー"
+      - heading "多機能カードリーダー" [level=3]
+      - paragraph:
+        - link "このブランドのAmazonストアにアクセスする":
+          - /url: /stores/page/4E07AF4A-4B08-4915-B1C9-7544866FE162?store_ref=storeRecs_dp_aplus
+          - text: ストアにアクセス
+      - img "80887"
+      - heading "高いコストパフォーマンス" [level=3]
+  - separator
+  - heading "ルーファスAI 特定の情報をお探しですか?" [level=3]:
+    - generic: ルーファスAI
+    - text: 特定の情報をお探しですか?
+  - textbox "特定の情報をお探しですか?":
+    - /placeholder: ルーファスに質問するか、レビューやQ＆Aを検索してください
+  - button "送信":
+    - img "送信"
+  - list:
+    - button "このカードリーダーは軽量ですか？"
+    - generic: このカードリーダーは軽量ですか？
+    - button "このカードリーダーは旅行に適していますか？"
+    - generic: このカードリーダーは旅行に適していますか？
+    - button "このカードリーダーはMacBookと互換性がありますか？"
+    - generic: このカードリーダーはMacBookと互換性がありますか？
+    - button "このカードリーダーは何種類のカードに対応していますか？"
+    - generic: このカードリーダーは何種類のカードに対応していますか？
+    - button "このカードリーダーは簡単に持ち運べますか？"
+    - generic: このカードリーダーは簡単に持ち運べますか？
+  - separator
+  - heading "商品情報" [level=1]
+  - button "機能と仕様":
+    - heading "機能と仕様" [level=5]
+  - button "その他の詳細":
+    - heading "その他の詳細" [level=5]
+  - heading "保証とサポート" [level=3]
+  - text: "返品:"
+  - text: Amazon.co.jpで購入した商品について、原則として未開封・未使用のものに限り商品到着後30日以内の返品を受け付けます（
+  - link "返品および交換不可の商品":
+    - /url: /gp/help/customer/display.html?nodeId=3494131
+  - text: を除く）。商品到着後は速やかに商品の状態をご確認ください。初期不良の商品については、お客様からのお問い合わせ内容に応じて返品期間を過ぎてからでも受け付ける場合があります。なお、返品条件は、Amazon.co.jpが発送する商品と、Amazonマーケットプレイス出品者が発送する場合で異なります。家電&カメラの返品について、くわしくは
+  - link "こちら":
+    - /url: /gp/help/customer/display.html/?ie=UTF8&nodeId=3494131
+  - text: 。
+  - heading "ご意見ご要望" [level=3]
+  - button "さらに安い価格について知らせる?": さらに安い価格について知らせる?
+  - button "商品詳細":
+    - heading "商品詳細" [level=5]
+  - heading "人気のブランド UGREEN" [level=2]:
+    - paragraph: 人気のブランド
+    - paragraph: UGREEN
+  - list:
+    - paragraph: 92%の高評価を10万人以上から取得
+    - paragraph: 60万人以上が直近3カ月にこのブランドの商品を購入
+  - heading "商品動画" [level=2]
+  - separator
+  - region "無料配送になる関連商品":
+    - heading "無料配送になる関連商品" [level=2]
+    - link "スポンサー":
+      - /url: "#sp_detail2-prime_feedbackForm"
+      - text: スポンサー
+    - list:
+      - link "【2枚セット】LinkMore 32GB MicroSDHCカード U1 / A1 / V10 / SDアダプター付 (最大読込90MB/s)":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAwMjIxOTgzMzE4NjI6Ojo6&url=%2Fdp%2FB0CKBRR7GQ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0CKBRR7GQ%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: 【2枚セット】LinkMore 32GB MicroSDHCカード U1 / A1 / V10 / SDアダプター付 (最大...
+      - link "星5つのうち4.0 710件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAwMjIxOTgzMzE4NjI6Ojo6&url=%2Fdp%2FB0CKBRR7GQ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0CKBRR7GQ%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: "710"
+      - link "￥4,699":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAwMjIxOTgzMzE4NjI6Ojo6&url=%2Fdp%2FB0CKBRR7GQ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0CKBRR7GQ%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: ￥4,699
+        - generic: ￥4,699
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAwMjIxOTgzMzE4NjI6Ojo6&url=%2Fdp%2FB0CKBRR7GQ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0CKBRR7GQ%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 47ポイント(1%)
+      - link "KOOTION microSD カード 64GB 5個セット U3,A1,V30 Class10 UHS-I SDXC マイクロSDカード | アダブター1枚付き":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMjQ1ODg0NDk3NjI6Ojo6&url=%2Fdp%2FB0FL29ZNP4%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FL29ZNP4%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: KOOTION microSD カード 64GB 5個セット U3,A1,V30 Class10 UHS-I SDXC マイ...
+      - link "星5つのうち3.7 8件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMjQ1ODg0NDk3NjI6Ojo6&url=%2Fdp%2FB0FL29ZNP4%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FL29ZNP4%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: "8"
+      - link "￥6,899":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMjQ1ODg0NDk3NjI6Ojo6&url=%2Fdp%2FB0FL29ZNP4%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FL29ZNP4%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: ￥6,899
+        - generic: ￥6,899
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMjQ1ODg0NDk3NjI6Ojo6&url=%2Fdp%2FB0FL29ZNP4%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FL29ZNP4%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 69ポイント(1%)
+      - link "【5年データ復旧・無償交換保証】GIGASTONE マイクロsdカード 256GB 4K Camera Pro microSDXC UHS-I A2 V30 U3 C10 100MB/s Ultra HD 4K ビデオ録画 Gopro インスタ360 アクションカメラ スポーツカメラ SDアダプター1枚付き":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMzczNjI3NjY1NjI6Ojo6&url=%2Fdp%2FB07LBJC2D9%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07LBJC2D9%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: 【5年データ復旧・無償交換保証】GIGASTONE マイクロsdカード 256GB 4K Camera…
+      - link "星5つのうち4.3 9,533件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMzczNjI3NjY1NjI6Ojo6&url=%2Fdp%2FB07LBJC2D9%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07LBJC2D9%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: 9,533
+      - link "￥15,990":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMzczNjI3NjY1NjI6Ojo6&url=%2Fdp%2FB07LBJC2D9%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07LBJC2D9%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: ￥15,990
+        - generic: ￥15,990
+      - link "Prime 本日 無料配送 本日 17:00 - 20:59の間にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMzczNjI3NjY1NjI6Ojo6&url=%2Fdp%2FB07LBJC2D9%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07LBJC2D9%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 本日
+        - generic: 無料配送 本日 17:00 - 20:59の間にお届け
+      - generic: 160ポイント(1%)
+      - link "BENFEI 1.8m USB Type C - DVI ケーブル 1080p Full HD タイプC to DVI 変換アダプタ Thunderbolt 3/4 互換 USB C - DVI ケーブル iPhone 15 Pro/Max, MacBook Pro/Air 2023, iPad Pro, iMac, S23, XPS 17 などに対応…":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjoxMjczNTYxODgyOTg6Ojo6&url=%2Fdp%2FB07HFDDGQ2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07HFDDGQ2%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: BENFEI 1.8m USB Type C - DVI ケーブル 1080p Full HD タイプC to DVI 変換...
+      - link "星5つのうち4.3 2,751件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjoxMjczNTYxODgyOTg6Ojo6&url=%2Fdp%2FB07HFDDGQ2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07HFDDGQ2%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: 2,751
+      - link "￥1,399":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjoxMjczNTYxODgyOTg6Ojo6&url=%2Fdp%2FB07HFDDGQ2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07HFDDGQ2%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: ￥1,399
+        - generic: ￥1,399
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjoxMjczNTYxODgyOTg6Ojo6&url=%2Fdp%2FB07HFDDGQ2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07HFDDGQ2%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 14ポイント(1%)
+      - link "UGREEN USB-C カードリーダー SD MicroSD 2枚同時読取 アルミ合金製 放熱性良い タイプC OTG機能 5Gbps | 高速双方向データ転送 USB3.1 Gen1 Type-Cインターフェース対応 Android スマホ、iPhone 18 Pro/17/16/15/Pro MAx、MacBook、Chromebook、PC、GalaxyなどUSB Cポート搭載":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxODAwMTUzNTQzNjI6Ojo6&url=%2Fdp%2FB08CS8T8DC%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08CS8T8DC%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: UGREEN USB-C カードリーダー SD MicroSD 2枚同時読取 アルミ合金製 放熱性良い タイプC…
+      - link "星5つのうち4.2 11,371件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxODAwMTUzNTQzNjI6Ojo6&url=%2Fdp%2FB08CS8T8DC%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08CS8T8DC%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: 11,371
+      - link "Amazon おすすめ":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxODAwMTUzNTQzNjI6Ojo6&url=%2Fdp%2FB08CS8T8DC%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08CS8T8DC%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: Amazon おすすめ
+      - 'link "-15% ￥1,599 過去: ￥1,892 過去: null"':
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxODAwMTUzNTQzNjI6Ojo6&url=%2Fdp%2FB08CS8T8DC%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08CS8T8DC%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - text: "-15%"
+        - generic: ￥1,599
+        - generic: ￥1,599
+        - generic: "過去: ￥1,892"
+        - text: "過去:"
+        - generic: "null"
+        - text: ￥1,892
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxODAwMTUzNTQzNjI6Ojo6&url=%2Fdp%2FB08CS8T8DC%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08CS8T8DC%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 256ポイント(16%)
+      - link "【5年データ復旧・無償交換保証】GIGASTONE SDカード 1TB 4K Camera Pro SDXC UHS-I A1 V30 U3 C10 150 MB/s 高速 4K UHD & Full HD ビデオ Canon Nikon Sony Pentax Kodak Olympus Panasonicなど デジタルカメラ 一眼レフ対応 ミニケース1個付き":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAwODQyMzUwMzIzNjI6Ojo6&url=%2Fdp%2FB0CKR5Y555%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0CKR5Y555%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: 【5年データ復旧・無償交換保証】GIGASTONE SDカード 1TB 4K Camera Pro SDXC…
+      - link "星5つのうち4.7 228件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAwODQyMzUwMzIzNjI6Ojo6&url=%2Fdp%2FB0CKR5Y555%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0CKR5Y555%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: "228"
+      - link "￥48,990":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAwODQyMzUwMzIzNjI6Ojo6&url=%2Fdp%2FB0CKR5Y555%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0CKR5Y555%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: ￥48,990
+        - generic: ￥48,990
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAwODQyMzUwMzIzNjI6Ojo6&url=%2Fdp%2FB0CKR5Y555%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0CKR5Y555%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 490ポイント(1%)
+      - link "UGREEN SD4.0対応 カードリーダー タイプC/A 2-in-1 SD3.0約2倍の速さ 2枚同時読み取り OTG対応 タイプC USB3.0 | 高速データ転送 OTG対応 iPhone 18/17/16/15シリーズ/iPad Pro/スマホ/タブレット/MacBook/Windows iPhone対応SDカードリーダー ドライバ不要 マイクロSDカードリーダー":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMDY2NDIyNDA0NjI6Ojo6&url=%2Fdp%2FB0DP9QKGY7%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0DP9QKGY7%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: UGREEN SD4.0対応 カードリーダー タイプC/A 2-in-1 SD3.0約2倍の速さ 2枚同時読み取り…
+      - link "星5つのうち4.4 777件の評価":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMDY2NDIyNDA0NjI6Ojo6&url=%2Fdp%2FB0DP9QKGY7%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0DP9QKGY7%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy#customerReviews
+        - text: "777"
+      - link "￥2,599":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMDY2NDIyNDA0NjI6Ojo6&url=%2Fdp%2FB0DP9QKGY7%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0DP9QKGY7%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - generic: ￥2,599
+        - generic: ￥2,599
+      - link "Prime 翌日 無料配送 明日 10月11日にお届け":
+        - /url: /sspa/click?ie=UTF8&spc=MToxMTY5MTY1MDQwNTI1MTc1OjE3OTE2MDQ2NjM6c3BfZGV0YWlsMjozMDAxMDY2NDIyNDA0NjI6Ojo6&url=%2Fdp%2FB0DP9QKGY7%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0DP9QKGY7%26pd_rd_w%3DhkEFT%26content-id%3Damzn1.sym.b64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_p%3Db64b24dd-90d6-46f9-86e1-6794fdf7bee4%26pf_rd_r%3D7EG7J1TGYY56M0GHZ4RD%26pd_rd_wg%3Dgzoui%26pd_rd_r%3Db0c1a800-3a98-467c-920e-a66364b94c77%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy
+        - img "Prime"
+        - text: 翌日
+        - generic: 無料配送 明日 10月11日にお届け
+      - generic: 26ポイント(1%)
+  - heading "Amazonでの類似ブランド" [level=2]
+  - button "スポンサー広告にフィードバックを残す": スポンサー
+  - list:
+    - link "スポンサー動画の場合、クリックすると特集ページに移動します。":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JG-gMiQArDiRvS75fcrXpcAAAAGhI_WlWQcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDy98Bs/clv1c_ek-ww_XTFdbWTfnqUcVzohfcGbMlv5BXblCLTHDIGyk2-dXyriqf-TPA9wB7Qr2niqn_y0rjjpUenyJeUJsnlSCO8bvvI9bOHbPD3ioGv_AwCfIsqRg423j-6ds4ZrJ1Vikf5z2DpleTwBnwGmZE26dSfsBMFlT4mqRxjLGo0ot3b8u1rqF1hscOzWLnMC7TviidxdLYcGdKkqe82OjDfADTj328zCqcrPv1zKI7NODRP3dkrsR4ihoyrOSnKAUM4LKwZNm5ZU098UcTywpKPidrZ4prVwzAadnLYmMJ6k3LnjNpAUGO_IVBH5XsbvdDxXnq_uMKgYLXm8WYYaDXfTujmNkpmqCMfelbOMux0MSlborhusifA8txV3Td2qaCp3-208I7EvvIWGc3JGa35MwBVcqaLizm3pV4nz_I9i95tqiC0k99DP3gwalhnjs6bU8_tMKaKI-QltFRDOPI6XleHO6DQO6mv3DHXYJy46wzCxGyAuS-rYzteW6o2yW82UOZ6TWiO5YmTjX-SSatyrHEh3qMtyMLGSHPHU6-8wgkJj8oOWuFloR2gZBx-54suf06ZqyqXlILZ-DAd_y5XScC4yHNjUX4G8iR2kdxREpUoiNNpNIOGaEmHMwpDWTos7WLK1pvWG4YB2MbSFwFAuBNR5QDQIGwo0pXGlDHo1x-qJdlhmL749__IAXxAERsAuD-vWWapQYyakoooyRFxl8eXOt6_L9YyqIRdDS6Lc1hi5a5sTtgR8-7UlzVPhrrRVLcQnqmWZZPB_O8GWw9ok9di7-Nex92HOUtDq0Kr3iCRTFG82Qe3yJOHp-LpvUiihVUAlCznldHFEFbzCBW8-TBq-Bn-GfhQa9Ax1HvwnCwMNik_IquYX9cGNN_WH_M9qaL_Pg2OJSqOLrvR055C0q8duOkfdX7-Iv5ruEnWB7L-Z67Qz670rKrPGsZ54DMcSQeJ0RleAT0n4FcBYzf-xJe-6BvhcpvDaJ1NHFMR4auxq0vHFF4YeroSH8EOmrpF_JwwYRCRlF8se-ZseQLXHLlkI-o6jGLikg-rA/https://www.amazon.co.jp/dp/B0DZHB3897/?_encoding=UTF8&pd_rd_i=B0DZHB3897&pd_rd_i=B0DZHB3897&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+      - generic "スポンサー動画の場合、クリックすると特集ページに移動します。"
+    - link "Acer SDカードリーダー【2-in-1】マイクロSD カードリーダー Type-C & USB 3.0 超高速転送 OTG対応 スマホ適用":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JG-gMiQArDiRvS75fcrXpcAAAAGhI_WlWQcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDy98Bs/clv1c_ek-ww_XTFdbWTfnqUcVzohfcGbMlv5BXblCLTHDIGyk2-dXyriqf-TPA9wB7Qr2niqn_y0rjjpUenyJeUJsnlSCO8bvvI9bOHbPD3ioGv_AwCfIsqRg423j-6ds4ZrJ1Vikf5z2DpleTwBnwGmZE26dSfsBMFlT4mqRxjLGo0ot3b8u1rqF1hscOzWLnMC7TviidxdLYcGdKkqe82OjDfADTj328zCqcrPv1zKI7NODRP3dkrsR4ihoyrOSnKAUM4LKwZNm5ZU098UcTywpKPidrZ4prVwzAadnLYmMJ6k3LnjNpAUGO_IVBH5XsbvdDxXnq_uMKgYLXm8WYYaDXfTujmNkpmqCMfelbOMux0MSlborhusifA8txV3Td2qaCp3-208I7EvvIWGc3JGa35MwBVcqaLizm3pV4nz_I9i95tqiC0k99DP3gwalhnjs6bU8_tMKaKI-QltFRDOPI6XleHO6DQO6mv3DHXYJy46wzCxGyAuS-rYzteW6o2yW82UOZ6TWiO5YmTjX-SSatyrHEh3qMtyMLGSHPHU6-8wgkJj8oOWuFloR2gZBx-54suf06ZqyqXlILZ-DAd_y5XScC4yHNjUX4G8iR2kdxREpUoiNNpNIOGaEmHMwpDWTos7WLK1pvWG4YB2MbSFwFAuBNR5QDQIGwo0pXGlDHo1x-qJdlhmL749__IAXxAERsAuD-vWWapQYyakoooyRFxl8eXOt6_L9YyqIRdDS6Lc1hi5a5sTtgR8-7UlzVPhrrRVLcQnqmWZZPB_O8GWw9ok9di7-Nex92HOUtDq0Kr3iCRTFG82Qe3yJOHp-LpvUiihVUAlCznldHFEFbzCBW8-TBq-Bn-GfhQa9Ax1HvwnCwMNik_IquYX9cGNN_WH_M9qaL_Pg2OJSqOLrvR055C0q8duOkfdX7-Iv5ruEnWB7L-Z67Qz670rKrPGsZ54DMcSQeJ0RleAT0n4FcBYzf-xJe-6BvhcpvDaJ1NHFMR4auxq0vHFF4YeroSH8EOmrpF_JwwYRCRlF8se-ZseQLXHLlkI-o6jGLikg-rA/https://www.amazon.co.jp/dp/B0DZHB3897/?_encoding=UTF8&pd_rd_i=B0DZHB3897&pd_rd_i=B0DZHB3897&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+      - img "Acer SDカードリーダー【2-in-1】マイクロSD カードリーダー Type-C & USB 3.0 超高速転送 OTG対応 スマホ適用"
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JG-gMiQArDiRvS75fcrXpcAAAAGhI_WlWQcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDy98Bs/clv1c_ek-ww_XTFdbWTfnqUcVzohfcGbMlv5BXblCLTHDIGyk2-dXyriqf-TPA9wB7Qr2niqn_y0rjjpUenyJeUJsnlSCO8bvvI9bOHbPD3ioGv_AwCfIsqRg423j-6ds4ZrJ1Vikf5z2DpleTwBnwGmZE26dSfsBMFlT4mqRxjLGo0ot3b8u1rqF1hscOzWLnMC7TviidxdLYcGdKkqe82OjDfADTj328zCqcrPv1zKI7NODRP3dkrsR4ihoyrOSnKAUM4LKwZNm5ZU098UcTywpKPidrZ4prVwzAadnLYmMJ6k3LnjNpAUGO_IVBH5XsbvdDxXnq_uMKgYLXm8WYYaDXfTujmNkpmqCMfelbOMux0MSlborhusifA8txV3Td2qaCp3-208I7EvvIWGc3JGa35MwBVcqaLizm3pV4nz_I9i95tqiC0k99DP3gwalhnjs6bU8_tMKaKI-QltFRDOPI6XleHO6DQO6mv3DHXYJy46wzCxGyAuS-rYzteW6o2yW82UOZ6TWiO5YmTjX-SSatyrHEh3qMtyMLGSHPHU6-8wgkJj8oOWuFloR2gZBx-54suf06ZqyqXlILZ-DAd_y5XScC4yHNjUX4G8iR2kdxREpUoiNNpNIOGaEmHMwpDWTos7WLK1pvWG4YB2MbSFwFAuBNR5QDQIGwo0pXGlDHo1x-qJdlhmL749__IAXxAERsAuD-vWWapQYyakoooyRFxl8eXOt6_L9YyqIRdDS6Lc1hi5a5sTtgR8-7UlzVPhrrRVLcQnqmWZZPB_O8GWw9ok9di7-Nex92HOUtDq0Kr3iCRTFG82Qe3yJOHp-LpvUiihVUAlCznldHFEFbzCBW8-TBq-Bn-GfhQa9Ax1HvwnCwMNik_IquYX9cGNN_WH_M9qaL_Pg2OJSqOLrvR055C0q8duOkfdX7-Iv5ruEnWB7L-Z67Qz670rKrPGsZ54DMcSQeJ0RleAT0n4FcBYzf-xJe-6BvhcpvDaJ1NHFMR4auxq0vHFF4YeroSH8EOmrpF_JwwYRCRlF8se-ZseQLXHLlkI-o6jGLikg-rA/https://www.amazon.co.jp/dp/B0DZHB3897/?_encoding=UTF8&pd_rd_i=B0DZHB3897&pd_rd_i=B0DZHB3897&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JG-gMiQArDiRvS75fcrXpcAAAAGhI_WlWQcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDy98Bs/clv1c_ek-ww_XTFdbWTfnqUcVzohfcGbMlv5BXblCLTHDIGyk2-dXyriqf-TPA9wB7Qr2niqn_y0rjjpUenyJeUJsnlSCO8bvvI9bOHbPD3ioGv_AwCfIsqRg423j-6ds4ZrJ1Vikf5z2DpleTwBnwGmZE26dSfsBMFlT4mqRxjLGo0ot3b8u1rqF1hscOzWLnMC7TviidxdLYcGdKkqe82OjDfADTj328zCqcrPv1zKI7NODRP3dkrsR4ihoyrOSnKAUM4LKwZNm5ZU098UcTywpKPidrZ4prVwzAadnLYmMJ6k3LnjNpAUGO_IVBH5XsbvdDxXnq_uMKgYLXm8WYYaDXfTujmNkpmqCMfelbOMux0MSlborhusifA8txV3Td2qaCp3-208I7EvvIWGc3JGa35MwBVcqaLizm3pV4nz_I9i95tqiC0k99DP3gwalhnjs6bU8_tMKaKI-QltFRDOPI6XleHO6DQO6mv3DHXYJy46wzCxGyAuS-rYzteW6o2yW82UOZ6TWiO5YmTjX-SSatyrHEh3qMtyMLGSHPHU6-8wgkJj8oOWuFloR2gZBx-54suf06ZqyqXlILZ-DAd_y5XScC4yHNjUX4G8iR2kdxREpUoiNNpNIOGaEmHMwpDWTos7WLK1pvWG4YB2MbSFwFAuBNR5QDQIGwo0pXGlDHo1x-qJdlhmL749__IAXxAERsAuD-vWWapQYyakoooyRFxl8eXOt6_L9YyqIRdDS6Lc1hi5a5sTtgR8-7UlzVPhrrRVLcQnqmWZZPB_O8GWw9ok9di7-Nex92HOUtDq0Kr3iCRTFG82Qe3yJOHp-LpvUiihVUAlCznldHFEFbzCBW8-TBq-Bn-GfhQa9Ax1HvwnCwMNik_IquYX9cGNN_WH_M9qaL_Pg2OJSqOLrvR055C0q8duOkfdX7-Iv5ruEnWB7L-Z67Qz670rKrPGsZ54DMcSQeJ0RleAT0n4FcBYzf-xJe-6BvhcpvDaJ1NHFMR4auxq0vHFF4YeroSH8EOmrpF_JwwYRCRlF8se-ZseQLXHLlkI-o6jGLikg-rA/https://www.amazon.co.jp/dp/B0DZHB3897/?_encoding=UTF8&pd_rd_i=B0DZHB3897&pd_rd_i=B0DZHB3897&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+    - link "Acer SDカードリーダー【2-in-1】マイクロSD カードリーダー Type-C & USB 3.0 超高速転送 OTG対応 スマホ適用 | Android タブレット・iPhone 17/16/15シリーズ・Windows PC・Linux・MacBook Neo iPad Air Pro・Chromebook適用 microSD SDXC SDHC MMC RS-MMC対応":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JG-gMiQArDiRvS75fcrXpcAAAAGhI_WlWQcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDy98Bs/clv1c_ek-ww_XTFdbWTfnqUcVzohfcGbMlv5BXblCLTHDIGyk2-dXyriqf-TPA9wB7Qr2niqn_y0rjjpUenyJeUJsnlSCO8bvvI9bOHbPD3ioGv_AwCfIsqRg423j-6ds4ZrJ1Vikf5z2DpleTwBnwGmZE26dSfsBMFlT4mqRxjLGo0ot3b8u1rqF1hscOzWLnMC7TviidxdLYcGdKkqe82OjDfADTj328zCqcrPv1zKI7NODRP3dkrsR4ihoyrOSnKAUM4LKwZNm5ZU098UcTywpKPidrZ4prVwzAadnLYmMJ6k3LnjNpAUGO_IVBH5XsbvdDxXnq_uMKgYLXm8WYYaDXfTujmNkpmqCMfelbOMux0MSlborhusifA8txV3Td2qaCp3-208I7EvvIWGc3JGa35MwBVcqaLizm3pV4nz_I9i95tqiC0k99DP3gwalhnjs6bU8_tMKaKI-QltFRDOPI6XleHO6DQO6mv3DHXYJy46wzCxGyAuS-rYzteW6o2yW82UOZ6TWiO5YmTjX-SSatyrHEh3qMtyMLGSHPHU6-8wgkJj8oOWuFloR2gZBx-54suf06ZqyqXlILZ-DAd_y5XScC4yHNjUX4G8iR2kdxREpUoiNNpNIOGaEmHMwpDWTos7WLK1pvWG4YB2MbSFwFAuBNR5QDQIGwo0pXGlDHo1x-qJdlhmL749__IAXxAERsAuD-vWWapQYyakoooyRFxl8eXOt6_L9YyqIRdDS6Lc1hi5a5sTtgR8-7UlzVPhrrRVLcQnqmWZZPB_O8GWw9ok9di7-Nex92HOUtDq0Kr3iCRTFG82Qe3yJOHp-LpvUiihVUAlCznldHFEFbzCBW8-TBq-Bn-GfhQa9Ax1HvwnCwMNik_IquYX9cGNN_WH_M9qaL_Pg2OJSqOLrvR055C0q8duOkfdX7-Iv5ruEnWB7L-Z67Qz670rKrPGsZ54DMcSQeJ0RleAT0n4FcBYzf-xJe-6BvhcpvDaJ1NHFMR4auxq0vHFF4YeroSH8EOmrpF_JwwYRCRlF8se-ZseQLXHLlkI-o6jGLikg-rA/https://www.amazon.co.jp/dp/B0DZHB3897/?_encoding=UTF8&pd_rd_i=B0DZHB3897&pd_rd_i=B0DZHB3897&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+    - link "13,603件のレビューから5つ星のうち4.2と評価されました":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JG-gMiQArDiRvS75fcrXpcAAAAGhI_WlWQcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDy98Bs/clv1c_ek-ww_XTFdbWTfnqUcVzohfcGbMlv5BXblCLTHDIGyk2-dXyriqf-TPA9wB7Qr2niqn_y0rjjpUenyJeUJsnlSCO8bvvI9bOHbPD3ioGv_AwCfIsqRg423j-6ds4ZrJ1Vikf5z2DpleTwBnwGmZE26dSfsBMFlT4mqRxjLGo0ot3b8u1rqF1hscOzWLnMC7TviidxdLYcGdKkqe82OjDfADTj328zCqcrPv1zKI7NODRP3dkrsR4ihoyrOSnKAUM4LKwZNm5ZU098UcTywpKPidrZ4prVwzAadnLYmMJ6k3LnjNpAUGO_IVBH5XsbvdDxXnq_uMKgYLXm8WYYaDXfTujmNkpmqCMfelbOMux0MSlborhusifA8txV3Td2qaCp3-208I7EvvIWGc3JGa35MwBVcqaLizm3pV4nz_I9i95tqiC0k99DP3gwalhnjs6bU8_tMKaKI-QltFRDOPI6XleHO6DQO6mv3DHXYJy46wzCxGyAuS-rYzteW6o2yW82UOZ6TWiO5YmTjX-SSatyrHEh3qMtyMLGSHPHU6-8wgkJj8oOWuFloR2gZBx-54suf06ZqyqXlILZ-DAd_y5XScC4yHNjUX4G8iR2kdxREpUoiNNpNIOGaEmHMwpDWTos7WLK1pvWG4YB2MbSFwFAuBNR5QDQIGwo0pXGlDHo1x-qJdlhmL749__IAXxAERsAuD-vWWapQYyakoooyRFxl8eXOt6_L9YyqIRdDS6Lc1hi5a5sTtgR8-7UlzVPhrrRVLcQnqmWZZPB_O8GWw9ok9di7-Nex92HOUtDq0Kr3iCRTFG82Qe3yJOHp-LpvUiihVUAlCznldHFEFbzCBW8-TBq-Bn-GfhQa9Ax1HvwnCwMNik_IquYX9cGNN_WH_M9qaL_Pg2OJSqOLrvR055C0q8duOkfdX7-Iv5ruEnWB7L-Z67Qz670rKrPGsZ54DMcSQeJ0RleAT0n4FcBYzf-xJe-6BvhcpvDaJ1NHFMR4auxq0vHFF4YeroSH8EOmrpF_JwwYRCRlF8se-ZseQLXHLlkI-o6jGLikg-rA/https://www.amazon.co.jp/dp/B0DZHB3897/?_encoding=UTF8&pd_rd_i=B0DZHB3897&pd_rd_i=B0DZHB3897&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+      - text: "4.2"
+      - generic: 5つ星のうち4.2
+      - text: 13,603
+    - link "￥1,399":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JG-gMiQArDiRvS75fcrXpcAAAAGhI_WlWQcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDy98Bs/clv1c_ek-ww_XTFdbWTfnqUcVzohfcGbMlv5BXblCLTHDIGyk2-dXyriqf-TPA9wB7Qr2niqn_y0rjjpUenyJeUJsnlSCO8bvvI9bOHbPD3ioGv_AwCfIsqRg423j-6ds4ZrJ1Vikf5z2DpleTwBnwGmZE26dSfsBMFlT4mqRxjLGo0ot3b8u1rqF1hscOzWLnMC7TviidxdLYcGdKkqe82OjDfADTj328zCqcrPv1zKI7NODRP3dkrsR4ihoyrOSnKAUM4LKwZNm5ZU098UcTywpKPidrZ4prVwzAadnLYmMJ6k3LnjNpAUGO_IVBH5XsbvdDxXnq_uMKgYLXm8WYYaDXfTujmNkpmqCMfelbOMux0MSlborhusifA8txV3Td2qaCp3-208I7EvvIWGc3JGa35MwBVcqaLizm3pV4nz_I9i95tqiC0k99DP3gwalhnjs6bU8_tMKaKI-QltFRDOPI6XleHO6DQO6mv3DHXYJy46wzCxGyAuS-rYzteW6o2yW82UOZ6TWiO5YmTjX-SSatyrHEh3qMtyMLGSHPHU6-8wgkJj8oOWuFloR2gZBx-54suf06ZqyqXlILZ-DAd_y5XScC4yHNjUX4G8iR2kdxREpUoiNNpNIOGaEmHMwpDWTos7WLK1pvWG4YB2MbSFwFAuBNR5QDQIGwo0pXGlDHo1x-qJdlhmL749__IAXxAERsAuD-vWWapQYyakoooyRFxl8eXOt6_L9YyqIRdDS6Lc1hi5a5sTtgR8-7UlzVPhrrRVLcQnqmWZZPB_O8GWw9ok9di7-Nex92HOUtDq0Kr3iCRTFG82Qe3yJOHp-LpvUiihVUAlCznldHFEFbzCBW8-TBq-Bn-GfhQa9Ax1HvwnCwMNik_IquYX9cGNN_WH_M9qaL_Pg2OJSqOLrvR055C0q8duOkfdX7-Iv5ruEnWB7L-Z67Qz670rKrPGsZ54DMcSQeJ0RleAT0n4FcBYzf-xJe-6BvhcpvDaJ1NHFMR4auxq0vHFF4YeroSH8EOmrpF_JwwYRCRlF8se-ZseQLXHLlkI-o6jGLikg-rA/https://www.amazon.co.jp/dp/B0DZHB3897/?_encoding=UTF8&pd_rd_i=B0DZHB3897&pd_rd_i=B0DZHB3897&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+      - generic: ￥1,399
+      - generic: ￥1,399
+    - link "スポンサー動画の場合、クリックすると特集ページに移動します。":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JPfUMvnLJX5S_QFM2lHf4OIAAAGhI_WlWwcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCNmptU/clv1c_ek-ww_HTEtbSDfnK4YsqyfhISk6aOVNZCILL85luk631cg1i7dH_xIUnYX-vmnR1mrTKYlFuGCvhgWsNQkLrd14LHB-H9Y4pcRoUEmHYLGYdg71EKZh444rv9fhyxtKSlkcVRayTE6PGRL3kEsP4wTUd1JyalFeSskVS7bRpTEobTXY76rERFh-9kHlpRasO6ga7yuFOHBvOzwL9uji0oX7-FHWiKq2jE68_7OxYZ_EdHbB-vRo3bq9DMux0qWEcAvdmoZ1tRpI63IILAzuUamuoH1gAbYL5wZ3sqhwO8aC9DcTH8x-b0q2C2FpaqG_oHKH2xyH4iJyhPoIqqlB0loqs7z2Zyq-wPWBzmqnzogAh5w2GgDFF8n1RYe8Mb_uJv7J_Md7baC1BG7a5fC9QKzgqG4KH4N-LF9i2TfKhl8YgbC4a17LT6LWqbbqwVJ8gv5eSZhP1vZfF4564cReLobPQ5NFszcCmQNx9nHMJaJp9sn4Bf9QP_XoTKyDveH_7noeD8FRvWtn583_CKfk2RhppaVkgUezPkVq-eR_BnHMB3xCUdXnoADJlM9TdB9e_NpJ1BIDljQrzFifinnedZyteImr70f0DywTPe66qvyUGZ43T7wMkNd1JlIlR7PFsgwTvCiYUj9abvmoR2pNgFoS3nNReyIPrLw-q_KnY84b7YuZm9Bc-bOoSDbLVrU5oYvpl7EsTDJFopcNViWwiyfOcz-fMxb10CKgP40VYzQ33cXXyzR-l1Ysk2J8noFQpWE0YPBtglhCpjuCO4QMkJxBvRrYlwloomgvOBjmGa6jEOHJvely2075ALm3xLvUisl95csS3CCC17Uq1wZi5VilCZs4V4ZbHv5rkxDe5SOtt69D7YOLQxTtxilBHTy1vo00cyxbWlqOiJrRz9dYeHkNA1r5hTY9rbIHzTVb0wfpIylGSCHdVmSBVZUubpIjNdiUaJ0Z1eBSEWPg9xYzRwJSfzVoDjTSNXarzTfWvYXmtpCES47E700qc0L_4LO8aPb6Z6wTZbrnxb-8YPkv9wRASk-z50trcsXrAXw/https://www.amazon.co.jp/dp/B0D1XHGYHK/?_encoding=UTF8&pd_rd_i=B0D1XHGYHK&pd_rd_i=B0D1XHGYHK&ref_=sbx_be_s_sparkle_ssd_vid&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+      - generic "スポンサー動画の場合、クリックすると特集ページに移動します。"
+    - link "5 in 1のメモリーカードを読み取り/USB OTGアダプタ/SDカードを読み取り/Phone/Pad用/USB C/USB Aデバイス/Micro SD/SDカードスロット/SD/Micro SD/SDHC/SDXC/MMCをサポート":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JPfUMvnLJX5S_QFM2lHf4OIAAAGhI_WlWwcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCNmptU/clv1c_ek-ww_HTEtbSDfnK4YsqyfhISk6aOVNZCILL85luk631cg1i7dH_xIUnYX-vmnR1mrTKYlFuGCvhgWsNQkLrd14LHB-H9Y4pcRoUEmHYLGYdg71EKZh444rv9fhyxtKSlkcVRayTE6PGRL3kEsP4wTUd1JyalFeSskVS7bRpTEobTXY76rERFh-9kHlpRasO6ga7yuFOHBvOzwL9uji0oX7-FHWiKq2jE68_7OxYZ_EdHbB-vRo3bq9DMux0qWEcAvdmoZ1tRpI63IILAzuUamuoH1gAbYL5wZ3sqhwO8aC9DcTH8x-b0q2C2FpaqG_oHKH2xyH4iJyhPoIqqlB0loqs7z2Zyq-wPWBzmqnzogAh5w2GgDFF8n1RYe8Mb_uJv7J_Md7baC1BG7a5fC9QKzgqG4KH4N-LF9i2TfKhl8YgbC4a17LT6LWqbbqwVJ8gv5eSZhP1vZfF4564cReLobPQ5NFszcCmQNx9nHMJaJp9sn4Bf9QP_XoTKyDveH_7noeD8FRvWtn583_CKfk2RhppaVkgUezPkVq-eR_BnHMB3xCUdXnoADJlM9TdB9e_NpJ1BIDljQrzFifinnedZyteImr70f0DywTPe66qvyUGZ43T7wMkNd1JlIlR7PFsgwTvCiYUj9abvmoR2pNgFoS3nNReyIPrLw-q_KnY84b7YuZm9Bc-bOoSDbLVrU5oYvpl7EsTDJFopcNViWwiyfOcz-fMxb10CKgP40VYzQ33cXXyzR-l1Ysk2J8noFQpWE0YPBtglhCpjuCO4QMkJxBvRrYlwloomgvOBjmGa6jEOHJvely2075ALm3xLvUisl95csS3CCC17Uq1wZi5VilCZs4V4ZbHv5rkxDe5SOtt69D7YOLQxTtxilBHTy1vo00cyxbWlqOiJrRz9dYeHkNA1r5hTY9rbIHzTVb0wfpIylGSCHdVmSBVZUubpIjNdiUaJ0Z1eBSEWPg9xYzRwJSfzVoDjTSNXarzTfWvYXmtpCES47E700qc0L_4LO8aPb6Z6wTZbrnxb-8YPkv9wRASk-z50trcsXrAXw/https://www.amazon.co.jp/dp/B0D1XHGYHK/?_encoding=UTF8&pd_rd_i=B0D1XHGYHK&pd_rd_i=B0D1XHGYHK&ref_=sbx_be_s_sparkle_ssd_img&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+      - img "5 in 1のメモリーカードを読み取り/USB OTGアダプタ/SDカードを読み取り/Phone/Pad用/USB C/USB Aデバイス/Micro SD/SDカードスロット/SD/Micro SD/SDHC/SDXC/MMCをサポート"
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JPfUMvnLJX5S_QFM2lHf4OIAAAGhI_WlWwcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCNmptU/clv1c_ek-ww_HTEtbSDfnK4YsqyfhISk6aOVNZCILL85luk631cg1i7dH_xIUnYX-vmnR1mrTKYlFuGCvhgWsNQkLrd14LHB-H9Y4pcRoUEmHYLGYdg71EKZh444rv9fhyxtKSlkcVRayTE6PGRL3kEsP4wTUd1JyalFeSskVS7bRpTEobTXY76rERFh-9kHlpRasO6ga7yuFOHBvOzwL9uji0oX7-FHWiKq2jE68_7OxYZ_EdHbB-vRo3bq9DMux0qWEcAvdmoZ1tRpI63IILAzuUamuoH1gAbYL5wZ3sqhwO8aC9DcTH8x-b0q2C2FpaqG_oHKH2xyH4iJyhPoIqqlB0loqs7z2Zyq-wPWBzmqnzogAh5w2GgDFF8n1RYe8Mb_uJv7J_Md7baC1BG7a5fC9QKzgqG4KH4N-LF9i2TfKhl8YgbC4a17LT6LWqbbqwVJ8gv5eSZhP1vZfF4564cReLobPQ5NFszcCmQNx9nHMJaJp9sn4Bf9QP_XoTKyDveH_7noeD8FRvWtn583_CKfk2RhppaVkgUezPkVq-eR_BnHMB3xCUdXnoADJlM9TdB9e_NpJ1BIDljQrzFifinnedZyteImr70f0DywTPe66qvyUGZ43T7wMkNd1JlIlR7PFsgwTvCiYUj9abvmoR2pNgFoS3nNReyIPrLw-q_KnY84b7YuZm9Bc-bOoSDbLVrU5oYvpl7EsTDJFopcNViWwiyfOcz-fMxb10CKgP40VYzQ33cXXyzR-l1Ysk2J8noFQpWE0YPBtglhCpjuCO4QMkJxBvRrYlwloomgvOBjmGa6jEOHJvely2075ALm3xLvUisl95csS3CCC17Uq1wZi5VilCZs4V4ZbHv5rkxDe5SOtt69D7YOLQxTtxilBHTy1vo00cyxbWlqOiJrRz9dYeHkNA1r5hTY9rbIHzTVb0wfpIylGSCHdVmSBVZUubpIjNdiUaJ0Z1eBSEWPg9xYzRwJSfzVoDjTSNXarzTfWvYXmtpCES47E700qc0L_4LO8aPb6Z6wTZbrnxb-8YPkv9wRASk-z50trcsXrAXw/https://www.amazon.co.jp/dp/B0D1XHGYHK/?_encoding=UTF8&pd_rd_i=B0D1XHGYHK&pd_rd_i=B0D1XHGYHK&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+    - link:
+      - /url: https://aax-fe.amazon.co.jp/x/c/JPfUMvnLJX5S_QFM2lHf4OIAAAGhI_WlWwcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCNmptU/clv1c_ek-ww_HTEtbSDfnK4YsqyfhISk6aOVNZCILL85luk631cg1i7dH_xIUnYX-vmnR1mrTKYlFuGCvhgWsNQkLrd14LHB-H9Y4pcRoUEmHYLGYdg71EKZh444rv9fhyxtKSlkcVRayTE6PGRL3kEsP4wTUd1JyalFeSskVS7bRpTEobTXY76rERFh-9kHlpRasO6ga7yuFOHBvOzwL9uji0oX7-FHWiKq2jE68_7OxYZ_EdHbB-vRo3bq9DMux0qWEcAvdmoZ1tRpI63IILAzuUamuoH1gAbYL5wZ3sqhwO8aC9DcTH8x-b0q2C2FpaqG_oHKH2xyH4iJyhPoIqqlB0loqs7z2Zyq-wPWBzmqnzogAh5w2GgDFF8n1RYe8Mb_uJv7J_Md7baC1BG7a5fC9QKzgqG4KH4N-LF9i2TfKhl8YgbC4a17LT6LWqbbqwVJ8gv5eSZhP1vZfF4564cReLobPQ5NFszcCmQNx9nHMJaJp9sn4Bf9QP_XoTKyDveH_7noeD8FRvWtn583_CKfk2RhppaVkgUezPkVq-eR_BnHMB3xCUdXnoADJlM9TdB9e_NpJ1BIDljQrzFifinnedZyteImr70f0DywTPe66qvyUGZ43T7wMkNd1JlIlR7PFsgwTvCiYUj9abvmoR2pNgFoS3nNReyIPrLw-q_KnY84b7YuZm9Bc-bOoSDbLVrU5oYvpl7EsTDJFopcNViWwiyfOcz-fMxb10CKgP40VYzQ33cXXyzR-l1Ysk2J8noFQpWE0YPBtglhCpjuCO4QMkJxBvRrYlwloomgvOBjmGa6jEOHJvely2075ALm3xLvUisl95csS3CCC17Uq1wZi5VilCZs4V4ZbHv5rkxDe5SOtt69D7YOLQxTtxilBHTy1vo00cyxbWlqOiJrRz9dYeHkNA1r5hTY9rbIHzTVb0wfpIylGSCHdVmSBVZUubpIjNdiUaJ0Z1eBSEWPg9xYzRwJSfzVoDjTSNXarzTfWvYXmtpCES47E700qc0L_4LO8aPb6Z6wTZbrnxb-8YPkv9wRASk-z50trcsXrAXw/https://www.amazon.co.jp/dp/B0D1XHGYHK/?_encoding=UTF8&pd_rd_i=B0D1XHGYHK&pd_rd_i=B0D1XHGYHK&ref_=sbx_be_s_sparkle_ssd_bkg&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+    - link "5 in 1のメモリーカードを読み取り/USB OTGアダプタ/SDカードを読み取り/Phone/Pad用/USB C/USB Aデバイス/Micro SD/SDカードスロット/SD/Micro SD/SDHC/SDXC/MMCをサポート":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JPfUMvnLJX5S_QFM2lHf4OIAAAGhI_WlWwcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCNmptU/clv1c_ek-ww_HTEtbSDfnK4YsqyfhISk6aOVNZCILL85luk631cg1i7dH_xIUnYX-vmnR1mrTKYlFuGCvhgWsNQkLrd14LHB-H9Y4pcRoUEmHYLGYdg71EKZh444rv9fhyxtKSlkcVRayTE6PGRL3kEsP4wTUd1JyalFeSskVS7bRpTEobTXY76rERFh-9kHlpRasO6ga7yuFOHBvOzwL9uji0oX7-FHWiKq2jE68_7OxYZ_EdHbB-vRo3bq9DMux0qWEcAvdmoZ1tRpI63IILAzuUamuoH1gAbYL5wZ3sqhwO8aC9DcTH8x-b0q2C2FpaqG_oHKH2xyH4iJyhPoIqqlB0loqs7z2Zyq-wPWBzmqnzogAh5w2GgDFF8n1RYe8Mb_uJv7J_Md7baC1BG7a5fC9QKzgqG4KH4N-LF9i2TfKhl8YgbC4a17LT6LWqbbqwVJ8gv5eSZhP1vZfF4564cReLobPQ5NFszcCmQNx9nHMJaJp9sn4Bf9QP_XoTKyDveH_7noeD8FRvWtn583_CKfk2RhppaVkgUezPkVq-eR_BnHMB3xCUdXnoADJlM9TdB9e_NpJ1BIDljQrzFifinnedZyteImr70f0DywTPe66qvyUGZ43T7wMkNd1JlIlR7PFsgwTvCiYUj9abvmoR2pNgFoS3nNReyIPrLw-q_KnY84b7YuZm9Bc-bOoSDbLVrU5oYvpl7EsTDJFopcNViWwiyfOcz-fMxb10CKgP40VYzQ33cXXyzR-l1Ysk2J8noFQpWE0YPBtglhCpjuCO4QMkJxBvRrYlwloomgvOBjmGa6jEOHJvely2075ALm3xLvUisl95csS3CCC17Uq1wZi5VilCZs4V4ZbHv5rkxDe5SOtt69D7YOLQxTtxilBHTy1vo00cyxbWlqOiJrRz9dYeHkNA1r5hTY9rbIHzTVb0wfpIylGSCHdVmSBVZUubpIjNdiUaJ0Z1eBSEWPg9xYzRwJSfzVoDjTSNXarzTfWvYXmtpCES47E700qc0L_4LO8aPb6Z6wTZbrnxb-8YPkv9wRASk-z50trcsXrAXw/https://www.amazon.co.jp/dp/B0D1XHGYHK/?_encoding=UTF8&pd_rd_i=B0D1XHGYHK&pd_rd_i=B0D1XHGYHK&ref_=sbx_be_s_sparkle_ssd_tt&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+    - link "355件のレビューから5つ星のうち3.9と評価されました":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JPfUMvnLJX5S_QFM2lHf4OIAAAGhI_WlWwcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCNmptU/clv1c_ek-ww_HTEtbSDfnK4YsqyfhISk6aOVNZCILL85luk631cg1i7dH_xIUnYX-vmnR1mrTKYlFuGCvhgWsNQkLrd14LHB-H9Y4pcRoUEmHYLGYdg71EKZh444rv9fhyxtKSlkcVRayTE6PGRL3kEsP4wTUd1JyalFeSskVS7bRpTEobTXY76rERFh-9kHlpRasO6ga7yuFOHBvOzwL9uji0oX7-FHWiKq2jE68_7OxYZ_EdHbB-vRo3bq9DMux0qWEcAvdmoZ1tRpI63IILAzuUamuoH1gAbYL5wZ3sqhwO8aC9DcTH8x-b0q2C2FpaqG_oHKH2xyH4iJyhPoIqqlB0loqs7z2Zyq-wPWBzmqnzogAh5w2GgDFF8n1RYe8Mb_uJv7J_Md7baC1BG7a5fC9QKzgqG4KH4N-LF9i2TfKhl8YgbC4a17LT6LWqbbqwVJ8gv5eSZhP1vZfF4564cReLobPQ5NFszcCmQNx9nHMJaJp9sn4Bf9QP_XoTKyDveH_7noeD8FRvWtn583_CKfk2RhppaVkgUezPkVq-eR_BnHMB3xCUdXnoADJlM9TdB9e_NpJ1BIDljQrzFifinnedZyteImr70f0DywTPe66qvyUGZ43T7wMkNd1JlIlR7PFsgwTvCiYUj9abvmoR2pNgFoS3nNReyIPrLw-q_KnY84b7YuZm9Bc-bOoSDbLVrU5oYvpl7EsTDJFopcNViWwiyfOcz-fMxb10CKgP40VYzQ33cXXyzR-l1Ysk2J8noFQpWE0YPBtglhCpjuCO4QMkJxBvRrYlwloomgvOBjmGa6jEOHJvely2075ALm3xLvUisl95csS3CCC17Uq1wZi5VilCZs4V4ZbHv5rkxDe5SOtt69D7YOLQxTtxilBHTy1vo00cyxbWlqOiJrRz9dYeHkNA1r5hTY9rbIHzTVb0wfpIylGSCHdVmSBVZUubpIjNdiUaJ0Z1eBSEWPg9xYzRwJSfzVoDjTSNXarzTfWvYXmtpCES47E700qc0L_4LO8aPb6Z6wTZbrnxb-8YPkv9wRASk-z50trcsXrAXw/https://www.amazon.co.jp/dp/B0D1XHGYHK/?_encoding=UTF8&pd_rd_i=B0D1XHGYHK&pd_rd_i=B0D1XHGYHK&ref_=sbx_be_s_sparkle_ssd_rev&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+      - text: "3.9"
+      - generic: 5つ星のうち3.9
+      - text: "355"
+    - link "￥1,599":
+      - /url: https://aax-fe.amazon.co.jp/x/c/JPfUMvnLJX5S_QFM2lHf4OIAAAGhI_WlWwcAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCNmptU/clv1c_ek-ww_HTEtbSDfnK4YsqyfhISk6aOVNZCILL85luk631cg1i7dH_xIUnYX-vmnR1mrTKYlFuGCvhgWsNQkLrd14LHB-H9Y4pcRoUEmHYLGYdg71EKZh444rv9fhyxtKSlkcVRayTE6PGRL3kEsP4wTUd1JyalFeSskVS7bRpTEobTXY76rERFh-9kHlpRasO6ga7yuFOHBvOzwL9uji0oX7-FHWiKq2jE68_7OxYZ_EdHbB-vRo3bq9DMux0qWEcAvdmoZ1tRpI63IILAzuUamuoH1gAbYL5wZ3sqhwO8aC9DcTH8x-b0q2C2FpaqG_oHKH2xyH4iJyhPoIqqlB0loqs7z2Zyq-wPWBzmqnzogAh5w2GgDFF8n1RYe8Mb_uJv7J_Md7baC1BG7a5fC9QKzgqG4KH4N-LF9i2TfKhl8YgbC4a17LT6LWqbbqwVJ8gv5eSZhP1vZfF4564cReLobPQ5NFszcCmQNx9nHMJaJp9sn4Bf9QP_XoTKyDveH_7noeD8FRvWtn583_CKfk2RhppaVkgUezPkVq-eR_BnHMB3xCUdXnoADJlM9TdB9e_NpJ1BIDljQrzFifinnedZyteImr70f0DywTPe66qvyUGZ43T7wMkNd1JlIlR7PFsgwTvCiYUj9abvmoR2pNgFoS3nNReyIPrLw-q_KnY84b7YuZm9Bc-bOoSDbLVrU5oYvpl7EsTDJFopcNViWwiyfOcz-fMxb10CKgP40VYzQ33cXXyzR-l1Ysk2J8noFQpWE0YPBtglhCpjuCO4QMkJxBvRrYlwloomgvOBjmGa6jEOHJvely2075ALm3xLvUisl95csS3CCC17Uq1wZi5VilCZs4V4ZbHv5rkxDe5SOtt69D7YOLQxTtxilBHTy1vo00cyxbWlqOiJrRz9dYeHkNA1r5hTY9rbIHzTVb0wfpIylGSCHdVmSBVZUubpIjNdiUaJ0Z1eBSEWPg9xYzRwJSfzVoDjTSNXarzTfWvYXmtpCES47E700qc0L_4LO8aPb6Z6wTZbrnxb-8YPkv9wRASk-z50trcsXrAXw/https://www.amazon.co.jp/dp/B0D1XHGYHK/?_encoding=UTF8&pd_rd_i=B0D1XHGYHK&pd_rd_i=B0D1XHGYHK&ref_=sbx_be_s_sparkle_ssd_pce&pd_rd_w=KJD12&content-id=amzn1.sym.51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77&pf_rd_p=51f2c2f4-2f75-4ab8-99d1-7aa5a1f5c6e8&pf_rd_r=7EG7J1TGYY56M0GHZ4RD&pd_rd_wg=gzoui&pd_rd_w=KJD12&pd_rd_r=b0c1a800-3a98-467c-920e-a66364b94c77
+      - generic: ￥1,599
+      - generic: ￥1,599
+  - generic "トップレビュー":
+    - separator
+    - heading "カスタマーレビュー" [level=2]
+    - generic: 星5つ中4.4つ
+    - generic: 5つのうち4.4つ
+    - generic: 2,193グローバルレーティング
+    - list:
+      - link "レビューの63%に星5つがついています":
+        - /url: /portal/customer-reviews/B0BNBXVLZS/ref=acr_dp_hist_5?ie=UTF8&filterByStar=five_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 星5つ
+        - progressbar
+        - generic: 63%
+      - link "レビューの24%に星4つがついています":
+        - /url: /portal/customer-reviews/B0BNBXVLZS/ref=acr_dp_hist_4?ie=UTF8&filterByStar=four_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 星4つ
+        - progressbar
+        - generic: 24%
+      - link "レビューの8%に星3つがついています":
+        - /url: /portal/customer-reviews/B0BNBXVLZS/ref=acr_dp_hist_3?ie=UTF8&filterByStar=three_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 星3つ
+        - progressbar
+        - generic: 8%
+      - link "レビューの3%に星2つがついています":
+        - /url: /portal/customer-reviews/B0BNBXVLZS/ref=acr_dp_hist_2?ie=UTF8&filterByStar=two_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 星2つ
+        - progressbar
+        - generic: 3%
+      - link "レビューの2%に星1つがついています":
+        - /url: /portal/customer-reviews/B0BNBXVLZS/ref=acr_dp_hist_1?ie=UTF8&filterByStar=one_star&reviewerType=all_reviews#reviews-filter-bar
+        - generic: 星1つ
+        - progressbar
+        - generic: 2%
+    - button "評価はどのように計算されますか?": 評価はどのように計算されますか?
+    - separator
+    - heading "お客様のご意見" [level=3]
+    - generic: "お客様はこのSDカードリーダーについて、以下のような評価をしています: 転送速度が高速で、Windows上で260MB/s程の速度を報告しています。4KやRAWデータも高速に転送でき、編集作業の待ち時間が大幅に減少したと好評です。また、コストパフォーマンスも良く、安価な価格設定にも関わらず十分な性能があると評価されています。 使いやすさについても高く評価されており、カードの差し込みや抜き差しが楽だと感じています。 UGREEN製であることも安心感を与えているようです。"
+    - generic: お客様の投稿に基づきAIで生成されたものです。カスタマーレビューは、お客様自身による感想や意見であり、Amazon.co.jpの見解を示すものではありません
+    - generic: お客様の投稿に基づきAIで生成されたものです。カスタマーレビューは、お客様自身による感想や意見であり、Amazon.co.jpの見解を示すものではありません
+    - heading "選択して詳細を見る" [level=4]
+    - tablist "選択して詳細を見る":
+      - tab "ポジティブな観点転送速度、56件のメンション":
+        - button "ポジティブな観点転送速度、56件のメンション":
+          - generic: 転送速度(56)
+      - tab "ポジティブな観点動作、33件のメンション":
+        - button "ポジティブな観点動作、33件のメンション":
+          - generic: 動作(33)
+      - tab "ポジティブな観点使いやすさ、15件のメンション":
+        - button "ポジティブな観点使いやすさ、15件のメンション":
+          - generic: 使いやすさ(15)
+      - tab "ポジティブな観点価格、14件のメンション":
+        - button "ポジティブな観点価格、14件のメンション":
+          - generic: 価格(14)
+      - tab "ポジティブな観点ストレスフリー、11件のメンション":
+        - button "ポジティブな観点ストレスフリー、11件のメンション":
+          - generic: ストレスフリー(11)
+      - tab "ポジティブな観点安定性、10件のメンション":
+        - button "ポジティブな観点安定性、10件のメンション":
+          - generic: 安定性(10)
+      - tab "ポジティブな観点対応機種、10件のメンション":
+        - button "ポジティブな観点対応機種、10件のメンション":
+          - generic: 対応機種(10)
+      - tab "複合的観点認識性能、10件のメンション":
+        - button "複合的観点認識性能、10件のメンション":
+          - generic: 認識性能(10)
+    - heading "日本からのトップレビュー" [level=3]
+    - list:
+      - link "Koro":
+        - /url: /gp/profile/amzn1.account.AGMP6FBQIIV3E742YEQDZJVQMFOA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Koro
+      - generic: 星5つ中5つ
+      - link "高速コンパクトで安価なのは素晴らしい":
+        - /url: /portal/customer-reviews/srp/-/R3SP875YTPU2QX/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "高速コンパクトで安価なのは素晴らしい" [level=5]
+      - generic: 2026年2月13日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: 安価なのに質感が高いです。性能も十分です。試しにAmazonベーシック 512GB microSDXCカード で試したところ、CrystalDiskMark 8でも、SD→PCの転送実測テストでも、かなりの高速転送が行えました。
+      - paragraph: はっきりいってこの価格でこの性能を入手できたことは感動モノです。
+      - paragraph: メモリの価格はおいそれと手が出ないほど値上がりしましたが、このような優れた製品を安く手に入れることができたのはうれしいものです。
+      - paragraph: じつは、同社のスマホに磁力でくっつくタイプの方を先に入手して使っていたので、これで家用のもそろいました。
+      - paragraph: 今後はいつでも気軽に使えます。
+      - button "高速コンパクトで安価なのは素晴らしい":
+        - img "高速コンパクトで安価なのは素晴らしい"
+      - button "高速コンパクトで安価なのは素晴らしい":
+        - img "高速コンパクトで安価なのは素晴らしい"
+      - generic: 2人のユーザーが役に立ったと感じています
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "ガジェット大好きおじさん":
+        - /url: /gp/profile/amzn1.account.AELLFPG5CYDDHU6BUDTHXQPWCBNQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: ガジェット大好きおじさん
+      - generic: 星5つ中4つ
+      - link "安定のGOOD商品！！":
+        - /url: /portal/customer-reviews/srp/-/R1UNFZ2ZLLG227/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "安定のGOOD商品！！" [level=5]
+      - generic: 2025年9月20日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: 【タイトル】
+      - paragraph: 4K動画編集に必須！高速で安心のカードリーダー
+      - paragraph
+      - paragraph: 【本文】
+      - paragraph
+      - paragraph: ■購入のきっかけ
+      - paragraph: 4K動画の素材を扱うことが多く、UHS-II対応の高速転送ができるカードリーダーを探していました。撮影データをPCに移す時間を短縮したくて、この製品を選びました。
+      - paragraph
+      - paragraph: ■良かった点
+      - paragraph: "- SD 4.0／UHS-II対応で4KやRAWデータも高速転送でき、編集作業の待ち時間が大幅に減少"
+      - paragraph: "- SDカードとmicroSDカード両対応で、カメラやドローンのデータ整理がスムーズ"
+      - paragraph: "- 最大2TBまでの大容量カードに対応しており、長時間撮影でも安心"
+      - paragraph: "- アルミ素材で放熱性が良く、長時間のコピーでも安定して動作"
+      - paragraph: "- USB-C接続なので最新のPCやiPadでも使える"
+      - paragraph
+      - paragraph: ■気になった点
+      - paragraph: "- 高速転送中はやや熱を持つため、夏場や長時間連続使用時は気になる"
+      - paragraph: "- コンパクトで便利だが、本体を直接差し込むタイプなので重いケーブルを接続すると不安定に感じることがある"
+      - paragraph: "- 挿入口がタイトで、カードの抜き差しが少し固いときがある"
+      - paragraph: "- LEDインジケーターがないため、動作状況が分かりづらい"
+      - paragraph: "- 色展開が少なく、他の機材と合わせたい人には選択肢が限られる"
+      - paragraph
+      - paragraph: ■総評
+      - paragraph: 動画クリエイターにとって「スピード」「安定性」「対応フォーマット」の3点は非常に重要ですが、このカードリーダーはその条件をしっかり満たしてくれます。編集作業の効率が大幅に向上し、時間を無駄にしなくなりました。
+      - paragraph: 「データ転送でストレスを感じている方」にはぜひおすすめしたい一品です。
+      - button "続きを読む":
+        - generic: 続きを読む
+      - generic: 6人のユーザーが役に立ったと感じています
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "招き猫":
+        - /url: /gp/profile/amzn1.account.AHS5ZSH2NU5DT4Y2SSH7XAL7IG2Q?ref=cm_cr_dp_d_bdcrb_top
+        - generic: 招き猫
+      - generic: 星5つ中5つ
+      - link "安価だが、高速。100MB/s超えを実現。":
+        - /url: /portal/customer-reviews/srp/-/R2YR8DKU4V6064/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "安価だが、高速。100MB/s超えを実現。" [level=5]
+      - generic: 2026年9月29日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: 比較的安価なカードリーダーですが、高速です。
+      - paragraph: 100MB/s超えの転送速度が出ます。
+      - paragraph
+      - paragraph: 最初の画像はSanDisk Exteme microSDXC 512GBで、Read:190MB/s、Write:130MB/sのスペックのカードです。Readが少し足りていませんが、Writeはスペック通りです。
+      - paragraph: 2枚目の画像はSanDisk Exteme Pro SDXC 128GBで、Read:170MB/s、Write:90MB/sのスペックのカードです。Readはスペック通り、Writeは115MB/sとオーバースペックでした。
+      - paragraph
+      - paragraph: 安いカードリーダーは100MB/sで頭打ちで、高速カードを使っても実測80～90MB/sしか出ません。UHS-Iでこれだけ出せるのはなかなかです。UHS-IIのカードは持っていないのでわかりませんが、200～300MB/sが実現できるのではないかと期待しています。
+      - button "安価だが、高速。100MB/s超えを実現。":
+        - img "安価だが、高速。100MB/s超えを実現。"
+      - button "安価だが、高速。100MB/s超えを実現。":
+        - img "安価だが、高速。100MB/s超えを実現。"
+      - generic: 1人のお客様がこれが役に立ったと考えています
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "MNT2":
+        - /url: /gp/profile/amzn1.account.AFTFL6A5MSMUTAHEEGKASF3JBR2A?ref=cm_cr_dp_d_bdcrb_top
+        - generic: MNT2
+      - generic: 星5つ中5つ
+      - link "期待通り":
+        - /url: /portal/customer-reviews/srp/-/RZKVTFB1MA9V8/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "期待通り" [level=5]
+      - generic: 2026年9月21日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: 使用中のカタログ値R:280Mbps W:100Mbpsの UHS2 SDXCカードではCrystalDiskMarkでRWともきっちり速度がでており期待通りです。
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "Kindleのお客様":
+        - /url: /gp/profile/amzn1.account.AHS7U7ZHFFXHWGQS7VHAXF2NJOLA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Kindleのお客様
+      - generic: 星5つ中5つ
+      - link "速！":
+        - /url: /portal/customer-reviews/srp/-/R577WV8S01CP2/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "速！" [level=5]
+      - generic: 2026年8月17日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: デジカメデータの管理に使ってますが、特に問題は無く、読み書き速度は爆速です
+      - generic: 1人のお客様がこれが役に立ったと考えています
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "読者":
+        - /url: /gp/profile/amzn1.account.AEZ4VOIKST45OGDW555RADBQJALA?ref=cm_cr_dp_d_bdcrb_top
+        - generic: 読者
+      - generic: 星5つ中3つ
+      - link "iPadでは無反応":
+        - /url: /portal/customer-reviews/srp/-/R3P3R48UL80AH8/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "iPadでは無反応" [level=5]
+      - generic: 2025年1月20日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: オズモポケット３で撮影した動画を取り込むために購入。Sun DiskのMicroSDカードを使用。
+      - paragraph: パソコンには問題なく取り込めるのですが、M2iPad Airにはこのカードリーダーは反応しませんでした・・・。microSDカードの問題ではなさそうなので、初心者には理由が解明できませんでした。
+      - paragraph: 同じような方はいらっしゃるのでしょうか？
+      - paragraph: パソコンで動画編集予定の方には問題ないと思います。
+      - generic: 9人のユーザーが役に立ったと感じています
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "よね":
+        - /url: /gp/profile/amzn1.account.AHFN5WY2M6BV3JYNJQXWLIAT6A4A?ref=cm_cr_dp_d_bdcrb_top
+        - generic: よね
+      - generic: 星5つ中4つ
+      - link "性能は問題なしだが形状がイマイチ。":
+        - /url: /portal/customer-reviews/srp/-/R1B5SQK9EG10NR/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "性能は問題なしだが形状がイマイチ。" [level=5]
+      - generic: 2026年7月21日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: 性能は他のレビューがある通りそこそこ良いと思います。
+      - paragraph: しかし若干の丸味のあるデザインが普通に角張っていれば使いやすいなと思いました。
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+      - link "Amazonカスタマ":
+        - /url: /gp/profile/amzn1.account.AGR5BN6EZ37LV5FDUEHAGQMT63XQ?ref=cm_cr_dp_d_bdcrb_top
+        - generic: Amazonカスタマ
+      - generic: 星5つ中5つ
+      - link "USB 3.2 Gen2は伊達じゃない。":
+        - /url: /portal/customer-reviews/srp/-/R12GI1GFFPHXL/ref=cm_cr_dp_d_rvw_ttl?_encoding=UTF8&ie=UTF8
+        - heading "USB 3.2 Gen2は伊達じゃない。" [level=5]
+      - generic: 2026年7月22日に日本でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: 想像以上に読み取りが高速になりました。
+      - generic: 1人のお客様がこれが役に立ったと考えています
+      - button "参考になった"
+      - generic: 参考になった
+      - button "レポートレビュー": 報告する
+    - link "レビューをすべて見る":
+      - /url: /portal/customer-reviews/B0BNBXVLZS/ref=cm_cr_dp_d_show_all_top?_encoding=UTF8&ie=UTF8&reviewerType=all_reviews
+      - generic: レビューをすべて見る
+    - heading "他の国からのトップレビュー" [level=3]
+    - list:
+      - button "すべてのレビューを日本語に翻訳"
+      - generic: すべてのレビューを日本語に翻訳
+      - generic: Carlos
+      - generic: 星5つ中5つ
+      - heading "Muy buen lector de tarjetas SD" [level=5]
+      - generic: 2026年9月29日にスペインでレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Muy buen lector de tarjetas. La velocidad es excelente y la he comprobado personalmente, ofreciendo muy buen rendimiento en la transferencia de archivos.
+      - paragraph
+      - paragraph: Lo único mejorable es la longitud del cable, ya que mide aproximadamente 14 cm y puede quedarse un poco corto dependiendo de dónde lo conectes. Por lo demás, funciona perfectamente y estoy muy satisfecho.
+      - button "Muy buen lector de tarjetas SD":
+        - img "Muy buen lector de tarjetas SD"
+      - button "Muy buen lector de tarjetas SD":
+        - img "Muy buen lector de tarjetas SD"
+      - button "レポートレビュー": 報告する
+      - link "レビューを日本語に翻訳する":
+        - /url: javascript:void(0)
+      - generic: Serdar
+      - generic: 星5つ中5つ
+      - heading "Çok hızlı ve başarılı" [level=5]
+      - generic: 2024年4月21日にトルコでレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Bı markanın hangi ürününü satın aldiysam hep memnun kaldım
+      - button "レポートレビュー": 報告する
+      - link "レビューを日本語に翻訳する":
+        - /url: javascript:void(0)
+      - generic: Artin
+      - generic: 星5つ中5つ
+      - heading "Great for file transfer" [level=5]
+      - generic: 2026年6月29日に英国でレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: reat little card reader. Transfer speeds are fast, and it reads both SD and microSD cards without any issues. I've been using it to transfer photos and videos from my camera, and it's been reliable every time. Compact, well-built, and perfect for anyone using USB-C devices. I mainly use it to import photos to my I pad pro. Highly recommend
+      - button "レポートレビュー": 報告する
+      - link "レビューを日本語に翻訳する":
+        - /url: javascript:void(0)
+      - generic: Client Amazon
+      - generic: 星5つ中5つ
+      - heading "Rapide et pas cher" [level=5]
+      - generic: 2026年5月12日にフランスでレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Fonctionne sans problème avec mon Mac et mon iPad Pro pour lire des SD-Card provenant d’un appareil Photo Sony Alpha.
+      - button "レポートレビュー": 報告する
+      - link "レビューを日本語に翻訳する":
+        - /url: javascript:void(0)
+      - generic: Grzegorz Talarko
+      - generic: 星5つ中5つ
+      - heading "To jest prędkość!" [level=5]
+      - generic: 2025年12月16日にポーランドでレビュー済み
+      - link "Amazonで購入":
+        - /url: /gp/help/customer/display.html/ref=cm_cr_dp_d_rvw_avp?ie=UTF8&nodeId=G8UYX7LALQC8V9KA
+      - paragraph: Świetny produkt, mały zgrabny i działa.
+      - paragraph: Plik (~1Gb) kopiowany przez złącze tradycyjne na kartę jak widać wyciąga prędkość tylko 23mb a nowy ugreen na usb-c 268mb!
+      - paragraph: Polecam
+      - button "To jest prędkość!":
+        - img "To jest prędkość!"
+      - button "To jest prędkość!":
+        - img "To jest prędkość!"
+      - button "レポートレビュー": 報告する
+      - link "レビューを日本語に翻訳する":
+        - /url: javascript:void(0)
+    - link "レビューをすべて見る":
+      - /url: /portal/customer-reviews/B0BNBXVLZS/ref=cm_cr_dp_d_show_all_top?_encoding=UTF8&ie=UTF8&reviewerType=all_reviews
+      - generic: レビューをすべて見る
+- complementary "最近閲覧した商品とおすすめ商品"
+- button "トップへ戻る":
+  - generic: トップへ戻る
+- heading "Amazonについて" [level=6]
+- list:
+  - link "採用情報":
+    - /url: /gp/browse.html?node=5578935051&ref_=navfooter_267319_t1
+  - link "About Amazon":
+    - /url: https://blog.aboutamazon.jp/
+  - link "Newsroom":
+    - /url: https://amazon-press.jp
+  - link "環境への取り組み":
+    - /url: https://amazon-press.jp/Top-Navi/Sustainability/Sustainability.html
+  - link "社会貢献・地域活動":
+    - /url: https://amazon-press.jp/Top-Navi/Aitc/aitc-area.html
+  - link "Amazon Science":
+    - /url: https://www.amazon.science
+- heading "Amazonでビジネス" [level=6]
+- list:
+  - link "Amazonで販売する":
+    - /url: https://services.amazon.co.jp/selldot.html?ld=AZJPSOAFOOT_C&ref_=footer_soa_c
+  - link "Amazonへの供給":
+    - /url: https://supply.amazon.com/?ref_=footer_sta&lang=ja-JP
+  - link "ブランドの保護＆構築":
+    - /url: https://brandservices.amazon.co.jp/?ref=AOJPABRLGNRFOOT&ld=AOJPABRLGNRFOOT
+  - link "フルフィルメント by Amazon":
+    - /url: https://services.amazon.co.jp/services/fulfillment-by-amazon/merit.html?ld=AZJFBAFooter
+  - link "Amazonビジネスで法人販売":
+    - /url: https://services.amazon.co.jp/services/amazon-business.html?ld=AZJPB2BFOOT
+  - link "Amazon Pay（決済サービス）":
+    - /url: https://pay.amazon.com/jp/merchant?ld=AZJPAPAFooter
+  - link "アソシエイト（アフィリエイト）":
+    - /url: https://affiliate.amazon.co.jp/
+  - link "Amazonで広告掲載をする":
+    - /url: https://advertising.amazon.co.jp/?ref_=footer_ad
+  - link "Amazonで出版":
+    - /url: https://kdp.amazon.co.jp/?ref=footer_publishing
+  - text: ›
+  - link "Amazon出品の詳細":
+    - /url: /b/?node=2293760051&ld=AZJPSOAMM&ref_=footer_seeall
+- heading "Amazonでのお支払い" [level=6]
+- list:
+  - link "Amazonポイント":
+    - /url: /gp/browse.html?node=2632478051&ref_=footer_point
+  - link "Amazonギフトカード":
+    - /url: /gp/gc?ref_=footer_gc
+  - link "Amazon Mastercard":
+    - /url: /dp/product/B08P4CFBK6?plattr=JBCBCCFT&ref_=footer_pay_jp_cbcc
+  - link "パートナーポイントプログラム":
+    - /url: /hp/shopwithpoints/servicing?ref_=footer_swp
+  - link "Amazonギフトカードチャージタイプ":
+    - /url: /gp/gc/create/?ref_=footer_topup_jp
+  - text: ›
+  - link "すべての支払い方法を見る":
+    - /url: /gp/help/customer/display.html?nodeId=642946&ref_=footer_paymenthelp
+- heading "ヘルプ＆ガイド" [level=6]
+- list:
+  - link "配送料と配送情報":
+    - /url: /gp/help/customer/display.html?nodeId=642982&ref_=footer_shiprates
+  - link "Amazon プライム":
+    - /url: /gp/subs/primeclub/signup/main.html?ref_=footer_prime
+  - link "商品の返品・交換":
+    - /url: /gp/css/returns/homepage.html?ref_=footer_returns
+  - link "製品安全への取り組み":
+    - /url: https://www.amazon.co.jp/b?node=10299516051&ie=UTF8&ref_=footer_bsx_ypsa
+  - link "コンテンツと端末の管理":
+    - /url: /hz/mycd/myx?ref_=footer_myk
+  - link "価格について":
+    - /url: /gp/help/customer/display.html?nodeId=GQ6B6RH72AX8D2TD&ref_=hp_ss_qs_v3_rt_prices
+  - link "お客様サポート":
+    - /url: /gp/cs?ref_=footer_help_t2
+- link "Amazon Japan Home":
+  - /url: /ref=footer_logo
+- link "ショッピングに使用する言語を選択します。現在日本語が選択されています。":
+  - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+  - generic: 日本語
+- button "展開して言語または国を変更する"
+- button "ショッピングする国/地域を選択します。現在の選択は日本です。":
+  - generic: 日本
+- navigation "Amazonでもっと詳しく":
+  - generic "Amazonでもっと詳しく":
+    - list:
+      - link "Amazon Advertising 商品の露出でお客様の関心と 反応を引き出す":
+        - /url: https://advertising.amazon.co.jp/?ref=footer_advtsing_2_jp
+        - heading "Amazon Advertising" [level=5]
+        - text: 商品の露出でお客様の関心と
+        - text: 反応を引き出す
+      - link "Audible（オーディブル） 「聴く」読書 会員なら聴き放題":
+        - /url: https://www.audible.co.jp/?source_code=AMAAMZWPCPC090815000C
+        - heading "Audible（オーディブル）" [level=5]
+        - text: 「聴く」読書
+        - text: 会員なら聴き放題
+      - link "アマゾン ウェブ サービス（AWS） クラウドコンピューティング サービス":
+        - /url: https://aws.amazon.com/jp/?sc_channel=EL&sc_campaign=JP_amazonfooter
+        - heading "アマゾン ウェブ サービス（AWS）" [level=5]
+        - text: クラウドコンピューティング
+        - text: サービス
+      - link "Amazonアウトレット 訳あり商品を お手頃価格で販売":
+        - /url: /gp/browse.html?node=2761990051&ref_=footer_wrhsdls
+        - heading "Amazonアウトレット" [level=5]
+        - text: 訳あり商品を
+        - text: お手頃価格で販売
+    - list:
+      - link "Amazonビジネス（法人購買） 請求書払い 法人価格・数量割引":
+        - /url: /gp/browse.html?node=5695748051&ref_=JP_AB_ONS_GW_FOO
+        - heading "Amazonビジネス（法人購買）" [level=5]
+        - text: 請求書払い
+        - text: 法人価格・数量割引
+      - link "AmazonGlobal 65か国/地域以上への 海外配送がより簡単に":
+        - /url: /gp/browse.html?node=3534638051&ref_=footer_amazonglobal
+        - heading "AmazonGlobal" [level=5]
+        - text: 65か国/地域以上への
+        - text: 海外配送がより簡単に
+      - link "Shopbop 世界中の厳選された ファッションアイテム":
+        - /url: https://www.shopbop.com/jp/welcome
+        - heading "Shopbop" [level=5]
+        - text: 世界中の厳選された
+        - text: ファッションアイテム
+- list:
+  - link "利用規約":
+    - /url: /gp/help/customer/display.html?nodeId=643006&ref_=footer_cou
+  - link "プライバシー規約":
+    - /url: /gp/help/customer/display.html?nodeId=643000&ref_=footer_privacy
+  - link "パーソナライズド広告規約":
+    - /url: /gp/help/customer/display.html?nodeId=201047280&ref_=footer_iba
+  - link "各種規約":
+    - /url: /gp/help/customer/display.html?nodeId=GFYCLDQPMCA6QNGR&ref_=hp_left_v4_sib
+  - link "特定商取引法に基づく表示":
+    - /url: /gp/help/customer/display.html?nodeId=202008070
+- generic: © 1996-2026, Amazon.com, Inc. またはその関連会社

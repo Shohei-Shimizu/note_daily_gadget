@@ -1,0 +1,34 @@
+🚫 --exclude-asin により 3 件を選抜対象から外しました: B00CD8AFT8, B0BLNHG168, B0D33H8XSV
+📦 候補読み込み: 10 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-22_laptop_case_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 10 / 10
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 7
+
+-- 採用 --
+1. [Tier1] Amazon / B00CD8AFFW / review=121753 star=4.3 ★有名ブランド
+   Amazonベーシック PCケース ノートパソコンバッグ スリーブ 14.0インチ ブラック
+2. [Tier1] bagasin / B0BLNGGDQG / review=15085 star=4.3 
+   bagasin 耐衝撃 パソコンケース 13.3インチ
+3. [Tier1] tomtoc / B06XXB9G8G / review=9419 star=4.5 
+   tomtoc 360°耐衝撃 パソコンケース 14インチ MacBook Pro 2026-2021 M5/M4/M3/M2/M1 Pro/
+4. [Tier1] Voova / B076DWWQ31 / review=5524 star=4.3 
+   Voova パソコンケース 15.6 16インチ PCケース ノート パソコンカバー PCバッグ，グレー
+5. [Tier1] Arvok / B0FLQ4KLSM / review=2544 star=4.5 
+   Arvok パソコンケース 13 13.3 14インチ 360°保護 衝撃吸収 薄型 軽量 撥水 ノートパソコンケース
+6. [Tier1] LANDICI / B089SYBGDL / review=2238 star=4.2 
+   LANDICI 360°保護 パソコンケース 13 14インチ pcケース 衝撃吸収防水 ノートパソコン ケース 13.3/13.6 Mac
+7. [Tier1] ELECOM / B0F23BX5NB / review=777 star=4.1 ★有名ブランド
+   エレコム パソコンケース PCインナーバッグ 横型 13.3/14インチ ZEROSHOCK 衝撃吸収 MacBook Pro 14対応 ブ
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 3 件 --
+  - [Tier2] ELECOM / B0FLQ33529: 多様性制約または件数上限のため非選抜
+  - [Tier3] ベルモンド / B0D33FB2GW: 多様性制約または件数上限のため非選抜
+  - [Tier3] ベルモンド / B0D33JGH4G: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-22_持ち運ぶPCを包む。「ノートPCケース」.md

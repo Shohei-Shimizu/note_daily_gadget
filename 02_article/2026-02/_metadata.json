@@ -168,7 +168,16 @@
         "Anker"
       ],
       "category": "ワークスペース・デスク環境の最適化",
-      "published_date": "2026-02-11"
+      "published_date": "2026-02-11",
+      "related_format_audit": {
+        "checked_at": "2026-10-10",
+        "state": "verified_updated",
+        "card_count": 5,
+        "duplicate_text_count": 0,
+        "inter_card_empty_paragraphs": 0,
+        "body_text_preserved": true,
+        "product_links_preserved": true
+      }
     },
     {
       "filename": "2026-02-12_自宅のネットを爆速化。Wi-Fi 7 対応「最新ルーター」_6選.md",

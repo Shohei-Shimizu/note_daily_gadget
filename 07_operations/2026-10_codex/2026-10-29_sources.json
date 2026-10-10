@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-29",
+  "checked_at": "2026-10-09",
+  "title": "会話を文字で振り返る「AIボイスレコーダー」6選",
+  "original_research_sha256": "5859d91ab7b7f719f251d9737c2afebfab412ba535038a6e7dedf9a3417e5fc6",
+  "products": [
+    {
+      "asin": "B0D1XYDS35",
+      "name": "Plaud Note",
+      "body": "対面の会話とスマホ通話を、薄いカード型の本体で記録したい人向けです。録音モードを切り替え、アプリで文字起こしや要約へつなげる構成。録音できる時間とStarterプランの文字起こし枠は別なので、会議の量が多い場合は追加枠や有料プランまで確認して選びたいところです。",
+      "spec": [
+        "本体録音：最大30時間連続",
+        "保存容量：64GB",
+        "文字起こし：Starter月300分（条件確認）"
+      ],
+      "urls": [
+        "https://jp.plaud.ai/pages/note-collection",
+        "https://jp.plaud.ai/pages/plaud-note-ai-notetaking-device"
+      ],
+      "points": [
+        "カード型で対面/通話録音を切替",
+        "録音とアプリ文字起こしを連携",
+        "連続録音とStarter文字起こし枠は別"
+      ]
+    },
+    {
+      "asin": "B0FQ5J7HFQ",
+      "name": "Plaud Note Pro",
+      "body": "録音状態を画面で確かめ、会話中の重要な箇所に印を付けたい人向けです。対面と通話のモードを自動で切り替える機能も備えます。音声を強化するモードと長時間駆動のモードで録音時間や収音範囲が変わるため、離れた席の会話を録るか、長い会議を残すかに合わせて設定を選びたいところ。",
+      "spec": [
+        "本体録音：音声強化最大30時間／長時間最大50時間",
+        "保存容量：64GB",
+        "文字起こし：Starter月300分（条件確認）"
+      ],
+      "urls": [
+        "https://jp.plaud.ai/products/plaud-note-pro/"
+      ],
+      "points": [
+        "画面で状態確認とハイライト記録",
+        "対面/通話を自動切替",
+        "録音モードによる時間/収音範囲の違いを確認"
+      ]
+    },
+    {
+      "asin": "B0GVH52FLS",
+      "name": "Anker Soundcore Work（64GB）",
+      "body": "服に取り付けて使い、打ち合わせ中に本体を手で持ち続けたくない人向けです。録音中に重要な箇所をマーキングでき、後から文字起こしや要約で確認する手掛かりになります。アプリ連携が必要で、標準プランの時間枠には上限があります。複数録音のまとめ要約など、追加機能のプラン条件も確認してみてください。",
+      "spec": [
+        "保存容量：64GB",
+        "操作：録音中のマーキングに対応",
+        "文字起こし：Starter月300分（アプリ連携）"
+      ],
+      "urls": [
+        "https://www.ankerjapan.com/products/d3200",
+        "https://www.ankerjapan.com/pages/soundcore-work"
+      ],
+      "points": [
+        "ウェアラブルで対面会話を記録",
+        "録音マークを後の振り返りに使用",
+        "標準枠とまとめ要約等の上位プランを区別"
+      ]
+    },
+    {
+      "asin": "B0FJ2G3LC2",
+      "name": "Notta Memo",
+      "body": "録音した内容を、スマホとPCの両方から整理したい人向けのカード型モデルです。BluetoothやWi-FiでNottaへ転送し、文字起こしや要約、編集へつなげられます。本体をアカウントに連携するとハードウェアプランが適用される仕組み。月間枠や有料契約中の扱いは、購入時の現行条件を確認してみてください。",
+      "spec": [
+        "本体重量：約28g",
+        "転送：Bluetooth／Wi-Fi",
+        "文字起こし：ハードウェア月600分（連携条件あり）"
+      ],
+      "urls": [
+        "https://www.notta.ai/hardware/memo",
+        "https://shop.notta.ai/ja-jp/products/notta-memo-jp"
+      ],
+      "points": [
+        "録音をNottaのスマホ/PCで整理",
+        "Bluetooth/Wi-Fi転送",
+        "現ハードウェア月600分とアカウント連携条件確認"
+      ]
+    },
+    {
+      "asin": "B0G4M5QMNG",
+      "name": "Comulytic Note Pro",
+      "body": "録音を文字と基本要約にして、日々の会話を整理したい人向けです。確認時点の公式案内では、基本の文字起こしと要約に時間枠の制限がないStarterを用意しています。高度な要約やAIへの質問には別の利用条件があるため、すべての機能が同じ範囲で使えると考えず、必要な機能を確認して選びたいところです。",
+      "spec": [
+        "本体録音：最大45時間連続",
+        "保存容量：64GB",
+        "AI機能：基本Starter／高度機能は別条件"
+      ],
+      "urls": [
+        "https://jp.comu.com/products/comulytic-note-pro",
+        "https://rymindinc.zendesk.com/hc/en-us/articles/53250256977305-Membership-issues"
+      ],
+      "points": [
+        "基本の文字起こし/要約で日々の会話整理",
+        "本体最大45時間とサービス条件を区別",
+        "高度要約/AI質問の回数・プラン条件確認"
+      ]
+    },
+    {
+      "asin": "B0FWZWY2BW",
+      "name": "HiDock P1",
+      "body": "Bluetoothイヤホンを使うオンライン会議と、対面の会話を録り分けたい人向けです。PCとはUSB-Cで接続し、イヤホンを本体へペアリングする構成。HiNotesでは本体連携後の基本文字起こしと、話者識別や高度な機能を使うProを区別しています。使うイヤホンとの相性と会議ソフト側の音声設定も確認してみてください。",
+      "spec": [
+        "録音：通話／対面／個人メモの各モード",
+        "接続：PC USB-C／イヤホンBluetooth",
+        "AI機能：本体連携Member／Proは別条件"
+      ],
+      "urls": [
+        "https://www.hidock.com/products/hidock-p1-ai-voice-recorder",
+        "https://www.hidock.com/blogs/user-guide/hidock-p1-setup-guide",
+        "https://www.hidock.com/pages/sales"
+      ],
+      "points": [
+        "Bluetoothイヤホン通話と対面を録り分け",
+        "PC USB-C接続とイヤホンペアリング",
+        "本体連携の基本機能とPro機能を区別"
+      ]
+    }
+  ],
+  "notes": [
+    "研究原本SHA/order/URL/件数/基準を保持。録音時間は満充電時の本体性能、文字起こし枠はサービス上限と区別。",
+    "PlaudNote30h/Pro音声強化30h・5m、長時間50h・3m。Pro50hを全モード保証しない。Starter300minは2026-10-09公式確認、将来の条件保証なし。",
+    "Soundcore公式Starter300min、Pro1200min、Unlimitedは有料かつ1日24時間文字起こし上限。体験期間/値段/効率削減%は本文不使用。",
+    "NottaMemo現国内公式ハードウェアページ/販売ページは600min月。旧Starter300minヘルプとは更新差。1本体1アカウント。有料契約中はハードウェア枠適用されず有料終了時切替。MemoPro数値の混入なし。",
+    "Comulytic公式Starter基本文字起こし/要約は無制限の案内。DeepDive3回/月、InstantAbstract/Ask10回/月、ContactInsightはPremiumのみの公式help（2026-04-16更新）。全機能無制限保証・98%精度保証不使用。",
+    "HiDockP1はUSB-CでPC、イヤホンBluetooth。HiNotesMemberは本体連携の基礎文字起こし、Pro高度機能別。イヤホンモデル互換差を公式sales明記。個別有料精度や無料永続の無条件保証なし。",
+    "録音同意/機密クラウド送信前社内ルール/生成結果原音確認を最後に明記。価格/個別レビュー/100%精度/ハルシネーションなし断定は使用しない。"
+  ]
+}

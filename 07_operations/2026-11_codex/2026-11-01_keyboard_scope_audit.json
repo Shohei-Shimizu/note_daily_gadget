@@ -1,0 +1,560 @@
+{
+  "topic_id": "daily_gadget_20261101_5d60a8d4",
+  "date": "2026-11-01",
+  "candidate_count": 27,
+  "added_historical_tier3": [
+    "B0D3HX423Y",
+    "B0FCLQ5MM2",
+    "B0GHR6W4VL"
+  ],
+  "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "parent_group_count": 26,
+  "rows": [
+    {
+      "asin": "B00U260UR0",
+      "title": "Anker ウルトラスリム Bluetooth ワイヤレスキーボード iOS/Android/Mac/Windows対応/長時間稼働 ホワイト テレワーク リモート 在宅勤務",
+      "maker": "Anker",
+      "db_brand": "Anker",
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "library_tier": 2,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B015H5YHEM",
+      "title": "ロジクール ワイヤレスキーボード K275 ワイヤレス キーボード 無線 薄型 テンキー USB接続 Unifying windows 国内正規品",
+      "maker": "Logicool",
+      "db_brand": "Logicool",
+      "parent_asin": "B0BHZ4HCLB",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B08K2CHMWK",
+      "title": "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品",
+      "maker": "Logicool",
+      "db_brand": "Logicool",
+      "parent_asin": "B0H798GHGL",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0FDQL8KNL",
+      "title": "【Amazon.co.jp限定】 ロジクール Bluetooth ワイヤレスキーボード 無線 K250GRd 日本語配列 グラファイト 国内正規品 | コンパクト、耐水、テンキー、電池式（単4型乾電池 x 2）、12ヶ月の電池寿命、Windows、macOS、ChromeOS、Linux、iPadOS、iOS、Android対応、壁紙ダウンロード付き",
+      "maker": "Logicool",
+      "db_brand": null,
+      "parent_asin": "B0H798GHGL",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B07PJW2X2F",
+      "title": "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK",
+      "maker": "ELECOM",
+      "db_brand": "ELECOM",
+      "parent_asin": "B0CT338MNK",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B01HGGWZMG",
+      "title": "エレコム 有線キーボード メンブレン ブラック TK-FFCM01BK",
+      "maker": "ELECOM",
+      "db_brand": null,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B07PFGDZD7",
+      "title": "エレコム ワイヤレスキーボード マウスセット メンブレン 薄型 フルキーボード ブラック TK-FDM110MBK",
+      "maker": "ELECOM",
+      "db_brand": null,
+      "parent_asin": "B0CT2ZQSHP",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0BWDSC5ZB",
+      "title": "【Amazon.co.jp限定】ロジクール MX KEYS mini KX700GRd ミニマリスト ワイヤレス イルミネイテッド キーボード グラファイト 充電式 Bluetooth Logi Bolt Unifying非対応 USB-C-A 日本語配列 無線 KX700 国内正規品",
+      "maker": "Logicool",
+      "db_brand": "Logicool",
+      "parent_asin": "B0GK6LZ36T",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": "2026-06-04",
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [
+        {
+          "published_date": "2026-06-04",
+          "title": "雨の日は在宅ワーク。集中力を高める「デスク環境ガジェット」 6 選"
+        },
+        {
+          "published_date": "2026-04-04",
+          "title": "【ロジクール徹底比較】MX シリーズ人気ガジェット 10 選"
+        }
+      ],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B08TMK8GSC",
+      "title": "エレコム ワイヤレスキーボード Bluetooth フルキーボード テンキー付 薄型 メンブレン 抗菌 最大3台マルチペアリング対応 iPad/Surface/テンキー付 ブラック TK-FBM120KBK/EC",
+      "maker": "ELECOM",
+      "db_brand": "ELECOM",
+      "parent_asin": "B0CT39VLZZ",
+      "parent_resolution_status": "resolved",
+      "library_tier": 2,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0CWKWXP37",
+      "title": "【最新型】Omikamo キーボード bluetooth 折り畳み式 ワイヤレス JIS標準日本語配列 ipad キーボード スマホ マルチペアリング タッチパッド付き iOS/Windows/Android/Mac/Google対応",
+      "maker": "Omikamo",
+      "db_brand": "Omikamo",
+      "parent_asin": "B0D3F3RTX9",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0CJR82M5M",
+      "title": "ロジクール ワイヤレスキーボード PEBBLE KEYS 2 K380sOW 薄型 軽量 415g 小型 Bluetooth Logi Bolt ワイヤレス 無線 キーボード Easy-Switch 日本語配列 電池寿命36ケ月 Windows Mac iPad iOS Android Chrome K380s オフホワイト 国内正規品",
+      "maker": "Logicool",
+      "db_brand": "Logicool",
+      "parent_asin": "B0FX2L8JJW",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": "2026-05-07",
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [
+        {
+          "published_date": "2026-05-07",
+          "title": "どこでも仕事。ワーケーションに必須の「モバイルセット」 5 選"
+        }
+      ],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B01MA23P3J",
+      "title": "iClever 折りたたみ Bluetooth キーボード- 多ペアリング対応 360度回転可能 超軽量薄型 レザー保護カバー付き 折れない設計 iPad/iPhone/Mac/Android/Windows対応",
+      "maker": "iClever",
+      "db_brand": "iClever",
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0C3QXBTJP",
+      "title": "エレコム ワイヤレスキーボード 静音 テンキー付 薄型コンパクトサイズ Windows ChromeOS macOS対応 ブラック TK-QT30DMBK",
+      "maker": "ELECOM",
+      "db_brand": null,
+      "parent_asin": "B0CT2YSJ1V",
+      "parent_resolution_status": "resolved",
+      "library_tier": 2,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0FDW68VH4",
+      "title": "【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (シルバー（かな印字なし）, JISレイアウト)",
+      "maker": "Keychron",
+      "db_brand": null,
+      "parent_asin": "B0GVHNRJVG",
+      "parent_resolution_status": "resolved",
+      "library_tier": 2,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0B1Q6H9X5",
+      "title": "ロジクール KX850CL MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 赤軸 リニア テンキーレス 静かな打鍵感 Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+      "maker": "Logicool",
+      "db_brand": "Logicool",
+      "parent_asin": "B0B1V9LSM2",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": "2026-06-08",
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [
+        {
+          "published_date": "2026-06-08",
+          "title": "ボーナスで一生モノを。憧れの「高級キーボード」 6 選"
+        },
+        {
+          "published_date": "2026-04-04",
+          "title": "【ロジクール徹底比較】MX シリーズ人気ガジェット 10 選"
+        }
+      ],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0CT2T18PV",
+      "title": "Amazonベーシック 有線キーボード 日本語配列 ブラック",
+      "maker": "Amazon",
+      "db_brand": null,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "library_tier": 2,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0D3HX423Y",
+      "title": "【WOBKEY Rainy 75キーボード】雨音のような打鍵音 メカニカルキーボード 3WAY接続 OS互換性 ホットスワップとVIAの対応 カスタマイズ性 ガスケットデザイン アルミニウム素材使用 RGBバックライト (Pro (ブラック 英字配列",
+      "maker": "雨音のような打鍵音",
+      "db_brand": null,
+      "parent_asin": "B0CZRX5YX9",
+      "parent_resolution_status": "resolved",
+      "library_tier": 3,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B00BJZ2JWC",
+      "title": "ロジクール 有線 キーボード 耐水 K120 USB接続 日本語配列 テンキー 薄型 有線キーボード 国内正規品",
+      "maker": "Logicool",
+      "db_brand": null,
+      "parent_asin": "B07B7QWRD4",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B081JSVYHQ",
+      "title": "Ewin キーボード ワイヤレス bluetooth 小型 キーボード JIS基準 日本語配列 ios android Windows mac対応 | iphone ipad パソコン スマホ タブレット 三つデバイス自由に切替え 軽量 薄型 日本語",
+      "maker": "Ewin",
+      "db_brand": null,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B08CRN2P44",
+      "title": "バッファロー キーボード ワイヤレス BSKBW125BK",
+      "maker": "バッファロー",
+      "db_brand": null,
+      "parent_asin": "B0F4QMQP61",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0C65F55K5",
+      "title": "ロジクール MX KEYS S ワイヤレス キーボード KX800sGR Bluetooth Logi Bolt Unifying非対応 Smart Actions 対応 Windows Mac Chrome Android FLOW Easy-Switch 無線 薄型 充電式 グラファイト 国内正規品",
+      "maker": "Logicool",
+      "db_brand": null,
+      "parent_asin": "B0D8S9D359",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": "2026-04-04",
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [
+        {
+          "published_date": "2026-04-04",
+          "title": "【ロジクール徹底比較】MX シリーズ人気ガジェット 10 選"
+        }
+      ],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0DBZNH3D3",
+      "title": "iClever ワイヤレスキーボード Bluetooth・2.4GHz JIS日本語配列 コンパクト パンタグラフ Type-C充電 DK02 | デュアルモード接続 最大3台マルチペアリング 静音パンタグラフ Windows・Mac・iPad・iP",
+      "maker": "iClever",
+      "db_brand": null,
+      "parent_asin": "B0FHKV37WH",
+      "parent_resolution_status": "resolved",
+      "library_tier": 1,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0CZ8X3DH8",
+      "title": "ロジクール SIGNATURE SLIM ワイヤレス キーボード K950GR 薄型 静かなタイピング Bluetooth Logi Bolt ワイヤレスキーボード テンキー 無線 Easy-Switch 日本語配列 電池寿命36ケ月 Windows",
+      "maker": "Logicool",
+      "db_brand": null,
+      "parent_asin": "B0D1C14N5L",
+      "parent_resolution_status": "resolved",
+      "library_tier": 2,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0F38B7W6P",
+      "title": "【2026革新版】Omikamo キーボード ワイヤレス 折りたたみ式 JIS標準日本語配列 ipad/iphone キーボード | Bluetooth マルチペアリング iOS/Mac/Windows/Android/Google対応 フルサイズ",
+      "maker": "Omikamo",
+      "db_brand": null,
+      "parent_asin": "B0GZNT6JYV",
+      "parent_resolution_status": "resolved",
+      "library_tier": 2,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0GL26M6Z2",
+      "title": "エレコム ワイヤレスキーボード 静音 フルサイズ テンキー付 無線2.4GHz Windows macOS ChromeOS メンブレン式 ブラック TK-QT11FDMABK",
+      "maker": "ELECOM",
+      "db_brand": null,
+      "parent_asin": "B0HFHG31N5",
+      "parent_resolution_status": "resolved",
+      "library_tier": 2,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0FCLQ5MM2",
+      "title": "SmackApe Impact 80 メカニカルキーボード 3WAY接続 無線 ワイヤレス 低遅延 テンキーレス TKL JIS 日本語配列 US 英字配列 ガスケットマウント ARGB ホットスワップ VIA 国内正規品 (Ultra(8000mA",
+      "maker": "SmackApe",
+      "db_brand": null,
+      "parent_asin": "B0FCLQGDWW",
+      "parent_resolution_status": "resolved",
+      "library_tier": 3,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    },
+    {
+      "asin": "B0GHR6W4VL",
+      "title": "ロジクール ガスケット ワイヤレス メカニカルキーボード 日本語配列 Alto Keys K98MGR グラファイト K98M 国内正規品 | タイピング体験を強化し、カスタマイズ性を提供するUniCushionガスケット構造、ホットスワップ、テンキ",
+      "maker": "Logicool",
+      "db_brand": null,
+      "parent_asin": "B0GLP2H95K",
+      "parent_resolution_status": "resolved",
+      "library_tier": 3,
+      "dg_latest_use": null,
+      "recent_30d_allowed_by_ledger": true,
+      "minimum_3d_allowed_by_ledger": true,
+      "use_history": [],
+      "maker_status": "title_normalization_not_officially_verified",
+      "selection_status": "candidate_only"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B077T9391Z",
+      "title": "Razer Tartarus V2 左手デバイス 左手キーボード メカメンブレン 全キー自由に割り当て可能 【日本正規代理店保証品】 ファイナルファンタジーXIV 推奨デバイス",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B087BRFMFK",
+      "title": "Tenwin 卓上クリーナー デスクトップ掃除機 吸引力 コンパクト コードレス デスククリーナー 卓上掃除機 ハンディ掃除機 キーボード パソコンクリーナー 掃除用品 吸引力 ミニクリーナー クリスマス プレゼント（ピンク）",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B09248N9XK",
+      "title": "Logicool G ロジクール G ゲーミングキーボード 有線 G213r パームレスト 日本語配列 独自のMech-domeスイッチ キーボード 静音 LIGHTSYNC RGB 国内正規品 【 ファイナルファンタジーXIV 推奨周辺機器 】",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0BC135WFD",
+      "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列 | 静かなタイピング GXスイッチ 有線 メカニカルキーボード LIGHTSYNC RGB 充電",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0BWJVXGSY",
+      "title": "XPPen 左手デバイス ショートカットリモート 片手キーボード Bluetooth対応 ワイヤレス ペンタブ 液タブ用 ノートパソコン対応 作業効率向上 イラスト 画像 動画編集 ACK05",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0DQWKSQGR",
+      "title": "MonsGeek FUN60 Pro SP 英語配列 有線モデル 0.01mm ラピッドトリガー対応 高コスパ ゲーミングキーボード ブラック | 磁気スイッチ Akko Glare Magnetic Switch HEセンサー テンキーレス サイド",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0DXDVLV4W",
+      "title": "UGREEN 6個セット マグネット式 ケーブルホルダー 小型 ケーブルクリップ 配線止め 配線整理 貼り付け 強力粘着 USB配線収納 コード・ケーブルオーガナイザー 卓上 デスク 机 壁 車 ナイトテーブル 固定 type-c 充電ケーブル lanケーブル 電源コード キーボードライン マウス イヤホン ヘッドホンコード などに対応 黒",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0F53VKBJK",
+      "title": "エアダスター 電動エアダスター ブロワー 小型 ブロアー 250000RPM高速回転 強力 最大風速120m/s 無段階風量調整 5種類ノズル付き LEDライト付き Type-C充電式 PC掃除/エアコン/キーボード/車内/洗車用",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0GMJ79P2F",
+      "title": "AIM1 瞬 ラピッドトリガー 0.01mm ゲーミングキーボード 75%サイズ ポーリングレート8000Hz MATATAKI",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0GQH7BM3Y",
+      "title": "RK ROYAL KLUDGE RK61 ワイヤレス 60% メカニカルキーボード、ミニポータブルサイズ、US QWERTY レイアウト | 61キー 3モード BT5.0/2.4G/USB-C 対応コンパクトゲーミングキーボード ― PBTキーキャップ、専用ソフトウェア、ホットスワップ対応カスタムスイッチ",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0H5K5PTDH",
+      "title": "GravaStar Mercury K1 かわいいホワイト ゲーミングキーボード 日本語配列 無線 テンキーレス RGBライト ワイヤレス 月白 | 唯一無二のフォルム 75%レイアウト ホットスワップ対応 ガスケット構造 2.4Ghz/Bluetooth/有線接続 文字側の刻印スタイル アルミ製筐体 8000mAh 音量コントロール JIS配列 メカニカルキーボード Windows/Mac用",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0CXXY98GS",
+      "title": "KB16 マクロメカニカルキーボードアルミニウム製/片手キーボード/RGB VIA ホットスワップ プログラム機能対応可能/16キー/Ps Pr LrC Blenderなどのソフトに利用可能 (グレー)",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0D86XCN4G",
+      "title": "iClever ゲーミングキーボード テンキーレス 赤軸 メカニカル キーボード 日本語配列 マクロ対応 G06 ブラック | 有線 91キー 80%サイズ カスタマイズ 24種類 バックライト ゲーム/オフィス用 パソコンキーボード Windows",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0D9VVL9DY",
+      "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード | ラピッドトリガー アクチュエーションポイント 調整可能 押下圧 35g 日本語配列 有線 テンキーレス 磁気式アナログスイッチ ゲーミング キーボード メカニカルキーボード ブラック 壁紙ダウンロード付き 国内正規品",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0FF4BRY2H",
+      "title": "ESR iPad 第11世代(A16, 2025)/第10世代 Flex キーボードケース、iPad 10.9 用超軽量マグネット着脱式キーボード、書き込み/表示モード付き、大型精密トラックパッド、ダークグレー、日本語版",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0FGCDSH1J",
+      "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd | 薄型 アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ブラック ゲーミング キーボード 壁紙ダウンロード付き 国内正規品",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0FS6X29BT",
+      "title": "BOLYDOOM ハンディクリーナー 車用掃除機コードレス USB充電式4000mAHバッテリー内蔵 32000PA強力吸引力 乾湿両用 超軽量 低噪音对策 車内清掃/キーボード掃除/パソコン掃除/ペット毛掃除/家庭掃除用 (ブラック)",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0FS6X3GXW",
+      "title": "BOLYDOOM ハンディクリーナー 車用掃除機コードレス USB充電式4000mAHバッテリー内蔵 32000PA強力吸引力 乾湿両用 超軽量 低噪音对策 車内清掃/キーボード掃除/パソコン掃除/ペット毛掃除/家庭掃除用 (ブルー)",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0FX9RRFFJ",
+      "title": "ESR Shift iPad 第11世代(A16, 2025)/第10世代用キーボード付きケース、マグネット脱着式キーボード、縦向き／横向きモード対応、大きいトラックパッド、バックライトキー、ダークグレー",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0H1WNMLLD",
+      "title": "AAL エアダスター 電動エアダスター 【2026新登場· 圧倒的な風圧 ·LEDライト付き】小型 ブロワー 洗車 300000RPM高速回転 4段階風量調整 5種類ノズル付き ブロアー 充電式 車内/PC掃除/キーボード/洗車用/照明/空気入れ 収納ボックス 日本語取扱説明書",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    },
+    {
+      "asin": "B0H69LM4TG",
+      "title": "エアダスター 電動エアダスター 充電式【120m/s強力送風・LEDライト搭載】300000RPM高速モーター 4段階風量調整 多種類ノズル付き Type-C充電式 コードレス 小型軽量 ブロワー PC掃除 キーボード 車内清掃 洗車 空気入れ 家庭用 日本語取扱説明書付き",
+      "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+    }
+  ],
+  "unresolved": [
+    "公式仕様/メーカー名称の再確認",
+    "最新実測",
+    "観測時の親ASINとの差異",
+    "ローカル研究票との3日以内重複再照合"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "status": "unmeasured_candidates_only",
+  "db_writes": false,
+  "network_used": false,
+  "topics": [
+    {
+      "date": "2026-11-21",
+      "type": "monitor_light",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 5,
+      "parent_groups": 5,
+      "topic_id": "daily_gadget_20261121_00248fb1",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-21_monitor_light_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-21_monitor_light_scope_audit.json",
+      "historical_tier_distribution": {
+        "1": 5
+      },
+      "needs_supplement": true,
+      "conditions": [
+        "BenQ3機をメーカー最大2品にすると上限4件。別メーカー補充が必須、クランプ式ライトで埋めない"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "type": "laptop_case",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 13,
+      "parent_groups": 10,
+      "topic_id": "daily_gadget_20261122_ed8999ae",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-22_laptop_case_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-22_laptop_case_scope_audit.json",
+      "historical_tier_distribution": {
+        "1": 9,
+        "2": 1,
+        "3": 3
+      },
+      "needs_supplement": false,
+      "conditions": []
+    },
+    {
+      "date": "2026-11-23",
+      "type": "sd_card",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 5,
+      "parent_groups": 5,
+      "topic_id": "daily_gadget_20261123_c7f865dc",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-23_sd_card_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-23_sd_card_scope_audit.json",
+      "historical_tier_distribution": {
+        "1": 3,
+        "2": 2
+      },
+      "needs_supplement": false,
+      "conditions": []
+    },
+    {
+      "date": "2026-11-24",
+      "type": "smartwatch",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 33,
+      "parent_groups": 24,
+      "topic_id": "daily_gadget_20261124_6b30ecfb",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-24_smartwatch_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-24_smartwatch_scope_audit.json",
+      "historical_tier_distribution": {
+        "1": 17,
+        "2": 10,
+        "3": 6
+      },
+      "needs_supplement": false,
+      "conditions": []
+    },
+    {
+      "date": "2026-11-25",
+      "type": "standing_desk",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 10,
+      "parent_groups": 10,
+      "topic_id": "daily_gadget_20261125_68d577dc",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-25_standing_desk_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-25_standing_desk_scope_audit.json",
+      "historical_tier_distribution": {
+        "1": 8,
+        "2": 1,
+        "3": 1
+      },
+      "needs_supplement": false,
+      "conditions": []
+    },
+    {
+      "date": "2026-11-26",
+      "type": "translator",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 10,
+      "parent_groups": 8,
+      "topic_id": "daily_gadget_20261126_9ccd2f95",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-26_translator_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-26_translator_scope_audit.json",
+      "historical_tier_distribution": {
+        "2": 3,
+        "3": 7
+      },
+      "needs_supplement": true,
+      "conditions": [
+        "Tier3も含む診断候補。翻訳イヤホン/翻訳ペン/アクセサリで埋めない。Tier1比率・親/メーカー制約で不足すれば補充またはテーマ見直し"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "type": "desk_light",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 24,
+      "parent_groups": 22,
+      "topic_id": "daily_gadget_20261127_f633f513",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-27_desk_light_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-27_desk_light_scope_audit.json",
+      "historical_tier_distribution": {
+        "1": 11,
+        "2": 8,
+        "3": 5
+      },
+      "needs_supplement": false,
+      "conditions": []
+    },
+    {
+      "date": "2026-11-28",
+      "type": "gps_tracker",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 21,
+      "parent_groups": 12,
+      "topic_id": "daily_gadget_20261128_f64d8613",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-28_gps_tracker_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-28_gps_tracker_scope_audit.json",
+      "historical_tier_distribution": {
+        "1": 16,
+        "2": 4,
+        "3": 1
+      },
+      "needs_supplement": false,
+      "conditions": []
+    },
+    {
+      "date": "2026-11-29",
+      "type": "mouse",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 21,
+      "parent_groups": 21,
+      "topic_id": "daily_gadget_20261129_8393c396",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-29_mouse_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-29_mouse_scope_audit.json",
+      "historical_tier_distribution": {
+        "1": 19,
+        "2": 2
+      },
+      "needs_supplement": false,
+      "conditions": []
+    },
+    {
+      "date": "2026-11-30",
+      "type": "laptop_stand",
+      "export_status": "ready_unmeasured",
+      "candidate_count": 19,
+      "parent_groups": 14,
+      "topic_id": "daily_gadget_20261130_4283a16e",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-30_laptop_stand_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-30_laptop_stand_scope_audit.json",
+      "historical_tier_distribution": {
+        "1": 17,
+        "3": 2
+      },
+      "needs_supplement": false,
+      "conditions": []
+    }
+  ]
+}

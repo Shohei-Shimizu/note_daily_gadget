@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-21",
+  "status": "local_complete",
+  "checks": {
+    "product_count": 7,
+    "selected_asin_order": [
+      "B0DWSFZT84",
+      "B0G1MDDQ4X",
+      "B083RFYZGW",
+      "B08THPKPV4",
+      "B0CH9WTW56",
+      "B0CH9XW8RK",
+      "B0GYCW48PC"
+    ],
+    "research_url_order_preserved": true,
+    "product_prose_lengths": [
+      132,
+      125,
+      132,
+      119,
+      123,
+      127,
+      142
+    ],
+    "sources_checked": true,
+    "intro_paragraphs": 2,
+    "summary_paragraphs": 2,
+    "related_urls_from_existing_metadata": [
+      "https://note.com/daily_gadget/n/n1a4e8f9fb5b3",
+      "https://note.com/daily_gadget/n/n3d0673a1adf1",
+      "https://note.com/daily_gadget/n/n2f32776dd6f3"
+    ],
+    "idea_list_count": 1,
+    "no_price_reviews_or_use_claims": true,
+    "machine_baseline_unchanged": true
+  },
+  "notes": [
+    "B0CH9XW8RKのraw titleは旧蔵書A1/15.6。メイン2026-10-09 IAB現行productTitle/選択サイズ確認で17.3インチA1M確定。記事H2/画面specは現行に訂正しraw選抜部分は保持。",
+    "EVICIV/KOORUIは国内採用ASINに完全一致する公式SKUページが未発見。メイン取得済み2026-10-09商品ページfeaturesを一次補助源として使用、海外別SKU数値は流用しない。",
+    "Yodoit UKはMini HDMI/重量差あり。国内ASINfeaturesに従い標準HDMI使用注意を記載、寸法重量と入力端子specは省略。",
+    "ZS-156公式重量640gと蔵書650g、Z1FC現行Gray780gと蔵書600gの差は重量数値を省略。",
+    "画像/metadata/DB/note予約はメイン担当。"
+  ]
+}

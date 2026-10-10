@@ -1,0 +1,173 @@
+{
+  "topic_id": "daily_gadget_20261017_45aac013",
+  "observed_date": "2026-10-09",
+  "selection_order": [
+    "B0DFZPR9Z4",
+    "B0DYF82545",
+    "B0B75RC9C3",
+    "B0F1XCKZYW",
+    "B0CJFRY955",
+    "B09XGYX7JF",
+    "B0DGQ9S3GQ"
+  ],
+  "products": {
+    "B0DFZPR9Z4": {
+      "name": "Xiaomi Redmi Watch 5 Active",
+      "prose": "画面の見やすさを重視して、日々の記録を始めたい人向けの一台です。歩数や心拍数、睡眠を記録し、Mi Fitnessアプリで日ごとの変化を確認可能。高精度睡眠モニタリングを使う場合は、公称のバッテリー持続時間より短くなる点も見ておきたいところ。",
+      "specs": [
+        "画面：2インチLCD",
+        "重量：30.6g（ストラップを除く）",
+        "対応OS：Android 8.0以降／iOS 12.0以降"
+      ],
+      "points": [
+        "大きな液晶画面で記録を確認できる",
+        "Mi Fitnessで活動と睡眠をまとめて記録",
+        "高精度睡眠設定と電池持ちを分けて比較"
+      ],
+      "sources": [
+        "https://www.mi.com/jp/product/redmi-watch-5-active/specs/",
+        "https://www.mi.com/jp/support/faq/details/KA-492211/",
+        "https://www.mi.com/jp/support/faq/details/KA-487305/"
+      ]
+    },
+    "B0DYF82545": {
+      "name": "Xiaomi Smart Band 10",
+      "prose": "寝るときも着けることを考え、細身のバンド型を候補に入れたい人向けです。睡眠時間や睡眠段階を記録し、日中の活動とあわせてMi Fitnessで振り返れます。高精度睡眠モニタリングは設定で有効にする方式で、電池の消費も増えるため、使いたい機能から選ぶのがよさそうです。",
+      "specs": [
+        "画面：1.72インチAMOLED",
+        "重量：15.95g（ストラップを除く）",
+        "対応OS：Android 8.0以降／iOS 12.0以降"
+      ],
+      "points": [
+        "細身の標準モデルは本体15.95g",
+        "REMを含む高精度睡眠モニタリングに対応",
+        "高精度睡眠設定は電池持ちとの兼ね合いを確認"
+      ],
+      "sources": [
+        "https://www.mi.com/jp/product/xiaomi-smart-band-10/specs/",
+        "https://www.mi.com/jp/product/xiaomi-smart-band-10/",
+        "https://www.mi.com/jp/support/faq/details/KA-580786/"
+      ]
+    },
+    "B0B75RC9C3": {
+      "name": "Fitbit Inspire 3",
+      "prose": "歩数だけでなく、体を動かした時間と睡眠を一緒に見たい人向けのトラッカーです。運動強度に応じたアクティブゾーン時間を記録し、夜は睡眠スコアや睡眠段階を確認できます。細身の本体と、同梱された大小のベルトで手首に合わせられる点を重視して選びました。",
+      "specs": [
+        "画面：AMOLED",
+        "バッテリー：最大10日間（使用方法・設定による）",
+        "同梱ベルト：S・Lサイズ"
+      ],
+      "points": [
+        "活動量をアクティブゾーン時間で振り返る",
+        "睡眠スコアと睡眠段階を確認できる",
+        "SとLのベルトが同梱される"
+      ],
+      "sources": [
+        "https://store.google.com/jp/product/fitbit_inspire_3?hl=ja",
+        "https://store.google.com/jp/product/fitbit_inspire_3_specs?hl=ja"
+      ]
+    },
+    "B0F1XCKZYW": {
+      "name": "Amazfit Bip 6",
+      "prose": "日中の運動と夜の眠りを、大きな画面の時計でまとめたい人向けのモデルです。睡眠段階や昼寝、睡眠スコアを記録し、Zeppアプリで確認可能。GPS内蔵なので、散歩やランニングの経路も残したい場合に候補になります。",
+      "specs": [
+        "画面：1.97インチAMOLED",
+        "重量：約42.9g（バンドを含む）",
+        "バッテリー：最大14日間（メーカー標準使用条件）"
+      ],
+      "points": [
+        "睡眠段階と昼寝をZeppに記録",
+        "大きな画面で確認できる",
+        "GPS内蔵で屋外の運動も記録"
+      ],
+      "sources": [
+        "https://www.amazfit.jp/products/amazfit-bip6"
+      ]
+    },
+    "B0CJFRY955": {
+      "name": "Garmin vívoactive 5",
+      "prose": "睡眠の記録を、翌日の活動の組み立てにも役立てたい人向けの一台です。睡眠スコアに加え、活動履歴などをもとにした睡眠コーチや昼寝の検出に対応。朝のモーニングレポートで睡眠や回復の概要を確認でき、Garmin Connectで継続して振り返れます。",
+      "specs": [
+        "画面：1.2インチAMOLED",
+        "重量：36g（標準付属バンドを含む）",
+        "稼働時間：約11日間（スマートウォッチモード）"
+      ],
+      "points": [
+        "睡眠コーチと昼寝検出を搭載",
+        "モーニングレポートで朝に概要を確認",
+        "Garmin Connectで活動と睡眠を管理"
+      ],
+      "sources": [
+        "https://www.garmin.co.jp/products/wearables/vivoactive-5-ivory/"
+      ]
+    },
+    "B09XGYX7JF": {
+      "name": "Garmin vívosmart 5",
+      "prose": "時計型の大きな画面より、細身の形と日々の記録を優先したい人向けです。歩数や睡眠スコアに加え、活動と休息の目安になるBody Batteryを確認できます。屋外の経路記録はスマホのGPSを利用する方式なので、スマホを持たずに走りたい場合はGPS内蔵モデルと比べてみてください。",
+      "specs": [
+        "画面：OLED",
+        "重量：24.5g（S/Mサイズ）",
+        "稼働時間：約7日間（設定による）"
+      ],
+      "points": [
+        "S/Mの細身のバンド型",
+        "睡眠スコアとBody Batteryを確認",
+        "経路記録はスマホのGPSを利用"
+      ],
+      "sources": [
+        "https://www.garmin.co.jp/products/intosports/vivosmart-5-black/"
+      ]
+    },
+    "B0DGQ9S3GQ": {
+      "name": "Amazfit T-Rex 3",
+      "prose": "普段の記録と休日のアウトドアを、一台にまとめたい人向けのモデルです。睡眠段階や昼寝を記録でき、GPSとオフラインマップにも対応。大きめで厚みのある本体なので、寝るときの装着も考えるなら、薄型バンドとの違いを確認して選びたいところです。",
+      "specs": [
+        "画面：1.5インチAMOLED",
+        "サイズ：約48.5×48.5×13.75mm（心拍センサーを除く）",
+        "重量：約68.3g（バンドを含む）"
+      ],
+      "points": [
+        "睡眠段階と昼寝を記録",
+        "GPSとオフラインマップで屋外用途も兼ねる",
+        "就寝用途は本体の大きさと重量を確認"
+      ],
+      "sources": [
+        "https://www.amazfit.jp/products/amazfit-t-rex-3"
+      ],
+      "caution": "公式ページの電池持ち表記に最大27日間と最大3週間が併記されているため、記事では日数を省いた。"
+    }
+  },
+  "article_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/02_article/2026-10/2026-10-17_活動量と睡眠を記録する「スマートウォッチ」7選.md",
+  "research_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-10/2026-10-17_活動量と睡眠を記録する「スマートウォッチ」7選.md",
+  "thumbnail_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-17_smartwatch_activity_sleep.png",
+  "related_articles": [
+    {
+      "filename": "2026-08-22_運動不足を可視化。自分に合う「活動量計」の選び方_6選.md",
+      "title": "運動不足を可視化。自分に合う「活動量計」の選び方 6 選",
+      "url": "https://note.com/daily_gadget/n/n187d44d77ec6",
+      "tags": "おすすめガジェット 活動量計 スマートウォッチ フィットネス 健康管理",
+      "category": "スマートホーム・ライフスタイル・健康管理",
+      "published_date": "2026-08-22"
+    },
+    {
+      "filename": "2026-08-30_涼しくなったら走り出す。最新「ランニングウォッチ」_6選.md",
+      "title": "涼しくなったら走り出す。最新「ランニングウォッチ」 6 選",
+      "url": "https://note.com/daily_gadget/n/n495752c6c322",
+      "tags": "おすすめガジェット ランニングウォッチ GPSウォッチ マラソン 健康管理",
+      "category": "スマートホーム・ライフスタイル・健康管理",
+      "published_date": "2026-08-30"
+    },
+    {
+      "filename": "2026-10-03_心拍とストレスを数値で見る。指にはめる「スマートリング」_5選.md",
+      "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+      "url": "https://note.com/daily_gadget/n/na66f8eb575b5",
+      "tags": "おすすめガジェット スマートリング 健康管理 ストレス 睡眠",
+      "category": "スマートホーム・ライフスタイル・健康管理",
+      "published_date": "2026-10-03",
+      "topic_id": "daily_gadget_20261003_8872d3c3"
+    }
+  ],
+  "note_status": "reserved",
+  "user_review": "approved",
+  "note_url": "https://note.com/daily_gadget/n/nf240cc469b8f"
+}

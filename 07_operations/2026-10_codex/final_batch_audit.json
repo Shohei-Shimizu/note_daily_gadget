@@ -1,0 +1,105 @@
+{
+  "scope": "2026-10-18..31",
+  "reserved_count": 13,
+  "rows": [
+    {
+      "date": "2026-10-18",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/n2171e481fe50",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-19",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/n217f570ba2d9",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-20",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/ndbe6dad9c958",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-21",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/n46e330112df1",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-22",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/nd1f5c93ce81e",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-23",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/n59fc38cccd07",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-24",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/n91d86bd125e0",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-25",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/n9fbd15ab2405",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-26",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/n4c54f7821cea",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-27",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/nbb960e6006ae",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-28",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/n67d7371faab4",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-29",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/nc819a81c7eab",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-30",
+      "title_match": true,
+      "reserved": true,
+      "url": "https://note.com/daily_gadget/n/n56f2fbe8d3ee",
+      "thumbnail_exists": true
+    },
+    {
+      "date": "2026-10-31",
+      "title_match": true,
+      "reserved": false,
+      "url": "",
+      "thumbnail_exists": true
+    }
+  ],
+  "exception": "21日 ARZOPA B0CH9XW8RKはGUI発行短縮購入リンク。31日は入稿途中、画像選択エラーのタブ復旧待ち。"
+}

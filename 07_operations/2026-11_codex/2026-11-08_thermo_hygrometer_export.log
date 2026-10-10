@@ -1,0 +1,21 @@
+
+候補 10 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B09PYKJ6CS  SwitchBot      SwitchBot 温湿度計プラス Alexa 温度計 湿度計 - スイッチボット スマホで温度湿度管理 [article_dated 2026-10-01]
+  B083348J3X  Govee          Govee 温湿度計 Bluetooth デジタル スマホ管理 高精度 大画面 コンパクト [article_dated 2026-10-01]
+  B0DBLDKVDW  SwitchBot      【冬の乾燥対策】SwitchBot 温湿度計 プロ スマホで管理 アレクサ - スイッチボット 温度計  [measured 2026-09-11]
+  B0BLRQ5HTT  TP-Link        TP-Link Wi-Fi Tapo スマートホーム コンパクト 温湿度計 スイス高精度 アラーム Ta [article_dated 2026-06-22]
+  B07DVJ1P6J  Inkbird        Inkbird 温湿度計 Bluetooth対応 データロガー デジタル 温度計 湿度計 スマホで温度湿 [未実測]
+  B099RRN1J3  Govee          Govee 温湿度計 Bluetooth デジタル 高精度 大画面 スマホ連携 [未実測]
+  B09BYYS7X5  Govee          Govee 温湿度計 Bluetooth デジタル 高精度 大画面 2個セット [未実測]
+  B09PVDQ8SS  JJ             JJ JULIE JAPAN 温湿度計 デジタル 高精度 スマホ連動 アプリ通知 液晶付き 世界最小級  [未実測]
+  B0BWCL335L  TP-Link        TP-Link Tapo スマートホーム コンパクト 電子ペーパー 大型画面 温湿度計 温度計 スイス  [未実測]
+  B0DB18WL6Z  TempPro        TempPro デジタル温湿度計 Bluetooth スマホ連動 ワイヤレス 室内 温度計 湿度計 小型 [未実測]
+
+topic_id: daily_gadget_20261108_2ed8ae42
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_thermo_hygrometer_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_thermo_hygrometer_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

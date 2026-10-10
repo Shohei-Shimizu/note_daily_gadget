@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-28",
+  "topic_id": "daily_gadget_20261028_56ded33a",
+  "status": "main_review_ready",
+  "research_original_sha256": "704d7ceb0f6468899d15d007133d15e5720ca79925816e84c3c1d5495ea1b297",
+  "selected_asins_in_order": [
+    "B093B4TSPM",
+    "B0DD7B3VGB",
+    "B0F9KFPD9G",
+    "B08Q7K25F5",
+    "B093S6D8L6",
+    "B09FDM72B4"
+  ],
+  "article_product_count": 6,
+  "intro_paragraphs": 2,
+  "description_lengths": [
+    146,
+    153,
+    150,
+    149,
+    150,
+    152
+  ],
+  "related_count": 3,
+  "category": "スマートホーム・ライフスタイル・健康管理",
+  "tags": [
+    "おすすめガジェット",
+    "マッサージガン",
+    "ボディケア",
+    "休憩",
+    "健康管理"
+  ],
+  "checks": {
+    "research_urls_order_preserved": true,
+    "research_machine_fields_preserved": true,
+    "machine_memo_preserved": true,
+    "reviews_price_experience_in_article": false,
+    "individual_review_text_available": false,
+    "jev_skipped": true
+  },
+  "source_discrepancies": [
+    {
+      "asin": "B093B4TSPM",
+      "issue": "メーカーCM20C共通機能は一致するが当該ASINの製品型番と取説対応未確定。販売features補助で機能のみ採用。重さ・振幅・回転数・電池時間・別型番禁忌の転載なし。"
+    },
+    {
+      "asin": "B0DD7B3VGB",
+      "issue": "ブランド公式掲載220gMINIと当該340g品は別。商品タイトル10mmとfeatures8mmも不整合。販売features補助で操作/収納/充電機能のみ採用、未確認数値と別モデル使用部位は不採用。rawresearch 2mAhはパース誤りなので本文不採用。"
+    },
+    {
+      "asin": "B0F9KFPD9G",
+      "issue": "MT-RB2-24M管理医療機器版とMT-RB2-24G旧雑貨版は公式に別記。24M取説を参照、医療効能は本文断定せず他の一般ガンへ拡張しない。"
+    },
+    {
+      "asin": "B093S6D8L6",
+      "issue": "公式取説に時間上限複数記載、FAQは10分以上継続回避。全機種共通の数値上限に変換せず各取説を守る表現。"
+    }
+  ],
+  "remaining": [
+    "main integration/title/metadata/thumbnail/UI final checks"
+  ]
+}

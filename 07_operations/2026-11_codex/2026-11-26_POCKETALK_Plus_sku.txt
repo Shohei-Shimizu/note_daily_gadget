@@ -1,0 +1,99 @@
+   - generic: 他のことを聞いてください
+  - heading [level=1]: AI翻訳機 POCKETALK(ポケトーク)S Plus(1.85倍大型画面) グローバル通信2年付92言語以上対応 ホワイト PTSPGW
+  - generic: 大画面のS Plus 翻訳機 92言語140地域対応 シリーズ累計130万台/国内10,000社以上導入 ノイズキャンセル機能搭載マイク&大音量スピーカー 方言も対応 カメラ翻訳
+  - link:
+    - /url: /stores/POCKETALK/page/B6982591-205A-4DE2-9EA2-F3C7BF56CC18?lp_asin=B08BP1912B&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto
+    - text: POCKETALKのストアを表示
+  - button:
+    - text: "3.9"
+    - generic: 5つ星のうち3.9
+  - link:
+    - /url: "#averageCustomerReviewsAnchor"
+    - text: (50)
+  - link:
+    - /url: https://sakura-checker.jp/search/B08BP1912B
+    - text: 🌸 サクラチェッカー
+  - text: "|"
+  - link:
+    - /url: "#"
+    - text: このページを検索
+  - separator
+  - generic: ￥12,800
+  - generic: ￥12,800
+  - text: 税込
+  - alert:
+    - generic: 6回払いなら月々￥2,133
+    - text: 手数料無料
+    - link:
+      - /url: "#"
+      - text: 2つのプランから選択
+  - link:
+    - /url: /gp/cobrandcard/redirect.html?location=%2Fb%3Fnode%3D8215625051%26RU%3D%252Fdp%252Fproduct%252FB08BP1912B&imp=39eebecd-b16b-4b08-88e4-5ee6e919fe53&sigauth=IRS_CUSTOM&signature=7FACD58EEFCEE1B2A614F9EB7580D282BA38E47DB5B0572573E8DD74C3A3F992&mru=%2Fdp%2Fproduct%2FB08BP1912B
+    - text: あと払い (ペイディ)で毎月のお買い物金額から最大5%ポイント還元
+    - strong: 今すぐエントリー
+  - text: 翌々日
+  - button [disabled]
+  - generic: dアカウント連携者限定
+  - text: "[プライム感謝祭] dポイントを使うと最大10万ポイントが当たる"
+  - link:
+    - /url: /b/?node=221362476051&ref_=jp_d_bbrlp_dpbadge_baseoffer_pas26&source=dp_cxcw
+    - text: エントリーをする
+  - button [disabled]
+  - generic: 入会キャンペーン
+  - text: Amazon Mastercard 新規入会 + 初回利用で4,000ポイント
+  - link:
+    - /url: /dp/B08P4CFBK6?ref_=cbcc_jp_202610_janus_pas26&source=dp_cxcw
+    - text: 今すぐ申し込む >
+  - button: Amazonによる発送
+  - button: 安心・安全への取り組み
+  - button: お客様情報の保護
+  - text: この商品は、Amazon.co.jp 以外の出品者(
+  - link:
+    - /url: /gp/offer-listing/B08BP1912B/ref=dp_olp_pn
+    - text: すべての出品を表示
+  - text: )から購入できます。
+  - generic: "Theme: 1_端末のみ"
+  - radiogroup:
+    - radio [checked]
+    - generic: 1_端末のみ
+    - radio
+    - generic: 2_Sentioセット
+    - radio
+    - generic: 3_アクセサリ3点セット
+    - radio
+    - generic: 4_アクセサリ6点セット
+  - generic: "サイズ: S Plus"
+  - radiogroup:
+    - radio
+    - generic: S2 Plus
+    - separator
+    - generic: ￥39,857
+    - generic: ￥39,857
+    - generic: 無料配送 明日
+    - radio [checked]
+    - generic: S Plus
+    - separator
+    - generic: ￥12,800
+    - generic: ￥12,800
+    - generic: 中古
+    - generic: 無料配送 月曜日
+  - list:
+    - listitem: 「POCKETALK（ポケトーク）」は、互いの言葉を話せない人同士が自国語のままで対話できるAI通訳機です。―お届けする商品は「ポケトークS Plus グローバル通信2年モデル」です。画面サイズ…3.97インチ。
+    - listitem: 【簡単な音声翻訳】ボタンを押しながら話すだけで一瞬で通訳。撮影した文字を翻訳できるカメラ翻訳機能付き。
+    - listitem: 【難しい設定不要、2年分の通信費用がセットに】ポケトーク本体は、2年分の通信費用がすでに含まれています。 難しい設定や契約を行う必要なく、電源を入れてすぐに世界140以上の国と地域でご利用いただけます。Wi-fi接続でのご利用も可能です。通信期間が過ぎた後も、ご自宅やオフィス等のWi-Fiに接続してご利用いただけます。
+    - listitem: 【計92言語対応】ポケトークは92言語対応。（91言語を音声とテキストに、1言語をテキストのみに翻訳） ポケトークは言語ごとに最適なエンジンを採用し、常にクラウド上の最新のエンジンを利用して翻訳。ネイティブの語学講師も認めた翻訳精度を実現しています。
+    - listitem: (ご注意)(1)専用の通信SIMカード以外での動作はサポート対象外です。(2)同梱の取扱説明書を必ずお読みください。(3)翻訳結果は、都度変わる可能性があります。
+  - text: ›
+  - link:
+    - /url: "#productDetails"
+    - text: もっと見る
+  - link:
+    - /url: javascript:void(0)
+    - text: この商品に関する問題を報告する
+  - separator
+  - heading [level=2]: "この商品には新しいモデルがあります:"
+  - link:
+    - /url: /E3-83-9D-E3-82-B1-E3-83-88-E3-83-BC-E3-82-AFS2-Plus-E3-83-9B-E3-83-AF-E3-82-A4-E3-83-88-E3-82-B0/dp/B0DJLTWH4S/ref=dp_ob_image_ce
+  - link:
+    - /url: /E3-83-9D-E3-82-B1-E3-83-88-E3-83-BC-E3-82-AFS2-Plus-E3-83-9B-E3-83-AF-E3-82-A4-E3-83-88-E3-82-B0/dp/B0DJLTWH4S/ref=dp_ob_title_ce
+    - text: ポケトークS2 Plus ホワイト グローバル通信2年付+Sentio1ヶ月版 | 大画面のS2 Plus 翻訳機 92言語 世界170カ国以上対応 販売台数130万台突破/国内1万社以上導入 ISO27001対応 翻訳データ不保持 AI学習不使用 ノイズキャンセ

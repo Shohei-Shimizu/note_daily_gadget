@@ -1,0 +1,855 @@
+{
+  "account": "daily_gadget",
+  "month": "2026-11",
+  "audited_at": "2026-10-10",
+  "scope": "Local audit plus one authorized Nov1 new thumbnail. No note UI; no bulk generation; no existing image overwrite.",
+  "sources": [
+    "accounts/daily_gadget/AGENTS.md",
+    "accounts/daily_gadget/03_schedule/CODEX_PRODUCTION_WORKFLOW.md",
+    "shared/docs/note-thumbnail-production-workflow.md",
+    "accounts/daily_gadget/07_operations/2026-10_codex/thumbnail_manifest.json",
+    "accounts/daily_gadget/07_operations/2026-11_codex/theme_proposal.md"
+  ],
+  "spec": {
+    "format": "PNG",
+    "aspect_ratio": "16:9 approximately",
+    "existing_recent_dimensions": [
+      1672,
+      941
+    ],
+    "style": "photorealistic lifestyle",
+    "hero": "one representative product or functional pair; account-specific rule overrides common compare-count default",
+    "no_text_people_brand_watermark": true,
+    "design_changed": false,
+    "new_design_five_sample_gate": false,
+    "account_readme": "04_thumbnail/README.md missing; current dedicated production workflow and recent verified manifest used"
+  },
+  "final_article_selection_pending": true,
+  "inventory_search_limit": "Meaningful filenames 2026-01..10; ambiguous old April/May image names not visually exhaustively audited. This is suitable-candidate audit, not claim that no alternatives exist.",
+  "rows": [
+    {
+      "date": "2026-11-01",
+      "theme": "keyboard",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-06/2026-06-08_premium_keyboards_regen.png",
+      "decision": "reject",
+      "status": "new_image_needed_after_product_selection",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "307fc0a44e32ca787a19b375a266b58d8bb49a2f75a521bf1da27359362cd1b6",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒い樹脂/金属調ケースと厚いキーキャップ",
+        "structure": "単体コンパクト・メカニカル風キー。無刻印で配列の具体規格を断言しない",
+        "use_case": "仕事用文章入力の机"
+      },
+      "notes": "2026-10-10主担当の実測・機械選抜確認: 採用品は薄型メンブレン/パンタグラフ/折畳み中心で厚いメカニカル主役が含まれないため、この再利用候補は不適合。薄型単体の新規画像を作る。",
+      "copied_or_generated": true,
+      "new_image_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-01_keyboard.png",
+      "new_image_status": "local_visual_qa_passed_pending_main_article_and_note_crop_check"
+    },
+    {
+      "date": "2026-11-02",
+      "theme": "smart_remote",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-07/2026-07-25_ifttt_smart_hub.png",
+      "decision": "conditional_reuse",
+      "status": "candidate_only_pending_final_selected_products",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "5400035dc1d558e1db0b6c7c2d7e546b797d6fbc3fe4d68cdeeb909dff7ff8d3",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "白い樹脂外周、黒い前面",
+        "structure": "小型角丸四角据置ハブ単体",
+        "use_case": "室内赤外線家電をまとめる"
+      },
+      "notes": "黒前面のハブ構造が採用品にある場合。電源線が写らない向きのカテゴリイメージ。実在仕様写真とは扱わない。主役やや左だが中央安全域内。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-03",
+      "theme": "gadget_pouch",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-08/2026-08-12_nomad_gadget_pouch.png",
+      "decision": "reuse_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "56d1a45cd79a4b4a3ce81a61973989cc8a0037adeeb26f7f388bc7ca488089be",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒い布外装・灰色布仕切り",
+        "structure": "開いたファスナーポーチとゴム固定/メッシュ収納",
+        "use_case": "充電器とケーブル等小物をまとめる"
+      },
+      "notes": "ポーチ1個を代表、収納中の機器は用途小物。採用品がソフト布・開閉/仕切り式なら可。主役中央。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-03_gadget_pouch.png",
+      "final_five_point_audit": {
+        "article_format": "ポーチ10商品比較、既存アカウントは代表1ポーチを見せる",
+        "count": "ポーチ1個。収納中充電器/バッテリー/ケーブルは使用例の小物",
+        "material": "黒い布外装、灰色布内張りとメッシュ。ポリエステル/再生PETの採用機群に一致",
+        "structure": "ダブルファスナー開口、メッシュポケット、固定バンドと分割区画。200-BAGIN005GY/Anker/他布ポーチ群とカテゴリ構造一致。全商品同形状とは主張しない",
+        "use_case": "出先へ充電器とケーブル等をひとまとめに持参、机上で取り出す"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-03_thumbnail_qa.json"
+    },
+    {
+      "date": "2026-11-04",
+      "theme": "headphone",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-06/2026-06-06_noise_canceling_regen.png",
+      "decision": "reuse_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "d60caf8eb5658647ac1d2414bb228bc4138dbfe424ed0ce02bc50cde4d3cf38f",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒マット樹脂、パッド、ヘッドバンド",
+        "structure": "オーバーイヤー型1台",
+        "use_case": "机での集中作業と会議"
+      },
+      "notes": "NCは外観から証明しない。最終採用品のオーバーイヤー構造を確認。ノイズ除去能力など画像で断言しない。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-04_headphone.png",
+      "final_five_point_audit": {
+        "article_format": "ANCヘッドホン8商品比較、既存アカウントは代表1台を見せる",
+        "count": "ヘッドホン1台。背景閉PCとノートは用途小物",
+        "material": "黒マット外装、柔らかい黒パッド。Anker/SONY/Bose等黒い採用機群とカテゴリ素材一致",
+        "structure": "オーバーイヤー左右ハウジング、連続ヘッドバンド、机上へ自然に支持。採用8機種のオーバーイヤー分類に一致。実在型番の形状を再現とは主張しない",
+        "use_case": "会議と集中作業で使う仕事の机"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-04_thumbnail_qa.json",
+      "completed_article_checked": true
+    },
+    {
+      "date": "2026-11-05",
+      "theme": "timer",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-09/2026-09-14_desk_timers.png",
+      "decision": "new_generated_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "b446c35da47fe1f67bc3423ee99551688c4b318dc36f94044665c10987e6447a",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "樹脂",
+        "structure": "アナログ2台＋デジタル1台",
+        "use_case": "デスクの時間区切り"
+      },
+      "notes": "3台陳列で現行代表1製品仕様に不適合。新規必要。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-05_timer.png",
+      "final_five_point_audit": {
+        "article_format": "デスクタイマー10商品比較記事。アカウント固有の中央代表1製品",
+        "count": "タイマー1台。ノート・ペン・マグ・植物は生活小物",
+        "material": "白い樹脂筐体、緑の表示色面。採用品の樹脂系視覚型タイマー分類に一致",
+        "structure": "丸角四角い自立筐体、中央ダイヤル、色面で残り時間を表示。SONIC/Time Timer視覚型分類と一致。デジタル/六角柱型と同じ形とは扱わない",
+        "use_case": "仕事の机上で作業と休憩の区切りをつくる。表示の時間値、通知手段、電源方式は画像から断定しない"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-05_thumbnail_qa.json",
+      "completed_article_checked": true
+    },
+    {
+      "date": "2026-11-06",
+      "theme": "usb_hub",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-09/2026-09-30_usb_c_dock_bestbuy.png",
+      "decision": "new_generated_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "771abcdd9397eff35ef8edd0980e40e9bcc354c11903b560ac4e7f86bcd7d9a5",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "金属調ケース",
+        "structure": "大型据置ドック＋SSD、複数太線",
+        "use_case": "据置PC拡張"
+      },
+      "notes": "携帯USB-Cハブの用途・構造不一致、複数主役・微細ロゴあり。新規必要。",
+      "copied_or_generated": true,
+      "preparation_status": "superseded_by_final_5_product_image",
+      "preparation_notes": "旧7品の保留は主担当再選抜5品で解消。最終sources official_gate_passed=trueを確認。",
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-06_usb_hub.png",
+      "completed_article_checked": true,
+      "final_five_point_audit": {
+        "article_format": "USB-Cハブ5商品比較、中央代表1製品",
+        "count": "ハブ1台と直付けのケーブル1本のみ",
+        "material": "灰色金属調の角丸筐体、黒いケーブル、金属USB-C端子。確定Anker/UGREEN群のカテゴリ素材と一致",
+        "structure": "コンパクトUSB-Cホスト接続ハブ、近側USB-A2個とUSB-C1個、他辺ポートは見えない。PCドック/SSD/電池ではない。特定商品の正確ポート配置は主張しない",
+        "use_case": "PC端子を増やす仕事机の小型周辺機器"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_thumbnail_qa.json"
+    },
+    {
+      "date": "2026-11-07",
+      "theme": "webcam",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-06/2026-06-18_4k_webcams_regen.png",
+      "decision": "reuse_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e67b63795acacccdc6a392a426bef5c1f0ec965ba38cd93221d6bb60f666c4bb",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒樹脂/金属調本体",
+        "structure": "単眼カメラ＋クリップ、モニター上縁へ支持",
+        "use_case": "オンライン会議"
+      },
+      "notes": "全体の主役位置はやや右上、安全域/トリム確認要。給電USB線は背面視点。採用品のモニター装着構造確認。4Kを画像から断定しない。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-07_webcam.png",
+      "final_five_point_audit": {
+        "article_format": "ウェブカメラ5商品比較。アカウント固有代表1台イメージ",
+        "count": "固定式ウェブカメラ1台。設置先のモニターは用途補助",
+        "material": "黒い筐体・レンズ・クリップ部。採用品の黒いカメラ分類と一致",
+        "structure": "横長固定式カメラとモニター上縁クリップ。採用品C270nd等の固定式クリップ装着カテゴリを代表。OBSBOT/Insta360のジンバルと同形状とは主張しない",
+        "use_case": "着席オンライン会議で画面上縁へ設置する用途"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_thumbnail_qa.json",
+      "completed_article_checked": true
+    },
+    {
+      "date": "2026-11-08",
+      "theme": "thermo_hygrometer",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-01_thermo_hygrometer.png",
+      "decision": "reuse_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "db34adee7f29e256e982ae83f27fd8af0946cc6c4b3f171ae935c07bc1833501",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "白い樹脂",
+        "structure": "表示付き温湿度計単体、自立支持",
+        "use_case": "室内の温湿度を見る"
+      },
+      "notes": "温度/湿度アイコンのみ、文字数値なし。スマホ対応は画像では証明しない。採用品に表示付き自立センサーが含まれる場合可。表示なしセンサーのみなら不適合。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-08_thermo_hygrometer.png",
+      "completed_article_checked": true,
+      "final_five_point_audit": {
+        "article_format": "スマホ連携温湿度計7商品比較、中央代表1製品",
+        "count": "表示付き温湿度計1台。スマホやハブは描かない",
+        "material": "白い樹脂と白灰画面、採用品SwitchBot/Govee/Tapo表示付き分類に一致",
+        "structure": "温度/湿度のアイコンと抽象棒表示、自立スタンド1台。T310等表示なし機と同形状ではない。実在機の画面/数値再現は主張しない",
+        "use_case": "部屋の温湿度を測る本体。通信方式や屋外遠隔/ハブ不要を画像では主張しない"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_thumbnail_qa.json"
+    },
+    {
+      "date": "2026-11-09",
+      "theme": "external_hdd",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-09/2026-09-05_external_storage_backup.png",
+      "decision": "new_generated_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "b5de5e963b527b5a7cdb17060d90225ea0637393447a58046e76d279f2ec2953",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒/灰金属調",
+        "structure": "HDD風＋SSD風2台、文字風ロゴ",
+        "use_case": "PCバックアップ"
+      },
+      "notes": "複数製品で規格混在。HDD単体の新規画像必要。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-09_external_hdd.png",
+      "completed_article_checked": true,
+      "final_five_point_audit": {
+        "article_format": "外付けHDD6商品比較、既存アカウント中央代表1製品",
+        "count": "ポータブルHDD1台＋USBケーブル1本。背景PCは用途補助",
+        "material": "黒い樹脂角丸筐体/薄い成形溝、採用WD/Seagate/Buffaloの携帯HDDカテゴリと一致",
+        "structure": "厚みのあるパームサイズHDD外装と自然な接続ケーブル/USB-A末端。筐体側のポートは視点背後に隠し精密形状を創作しない。複数出力ポートなし",
+        "use_case": "PCの写真/作業ファイルの別保存先。USB給電portable4品の代表イメージでAC据置2品と同じ給電/形状とは扱わない"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_thumbnail_qa.json"
+    },
+    {
+      "date": "2026-11-10",
+      "theme": "charger",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-03/2026-03-22_パターン3_100W.png",
+      "decision": "new_generated_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        640,
+        640
+      ],
+      "sha256": "e4dbcb81587e77f5fc22f42bc1b4414d1329bc24e480520132fb4f901e2e97f9",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒いケース",
+        "structure": "100W表示の電池/充電器風、電源プラグ不明",
+        "use_case": "ノートPC電源"
+      },
+      "notes": "640×640正方形、数値・PC画面文字あり。AC充電器と電池の構造を区別できず不適合。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-10_charger.png",
+      "completed_article_checked": true,
+      "final_five_point_audit": {
+        "article_format": "USB-C充電器10品比較、代表1台",
+        "count": "AC充電器1台のみ、ケーブル無し",
+        "material": "黒い樹脂筐体と金属プラグ、採用Anker/Elecomの単ポート群に一致",
+        "structure": "単一USB-C出力＋2本平刃Type-A ACプラグ、接地ピン無し。コンセント用充電器、電池ではない。折畳み機構は視点背後",
+        "use_case": "仕事/携帯の充電環境を見直す。ポート数・出力・GaN・PPS・付属ケーブルを実在機へ追加主張しない"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-10_thumbnail_qa.json"
+    },
+    {
+      "date": "2026-11-11",
+      "theme": "scanner",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-07_scanner.png",
+      "decision": "reuse_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "24c75b014a3404c67a0c12054d4b943f5ba4d40674014d340258eef17366838e",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "白い樹脂",
+        "structure": "ADF給紙と下段排紙の卓上機",
+        "use_case": "複数枚の紙資料取り込み"
+      },
+      "notes": "両面機能は外観で断定しない。採用品がADF卓上機を含むとき可。上方撮影/フラットベッドのみなら不適合。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-11_scanner.png",
+      "completed_article_checked": true,
+      "final_five_point_audit": {
+        "article_format": "両面スキャナー5品比較、代表ADF1台",
+        "count": "スキャナー1台。原稿束と排紙は使用小物",
+        "material": "白い樹脂筐体と灰色給紙/排紙支持",
+        "structure": "後部ADF/前部排紙トレイの卓上1台。採用4ADF機の給排紙カテゴリと一致。手差しBrother1機と同一形状にはしない",
+        "use_case": "紙の書類の両面を取り込むADF型代表。両面機能自体やWiFi/給電/保存形式を外観で断定しない"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_thumbnail_qa.json"
+    },
+    {
+      "date": "2026-11-12",
+      "theme": "earphone",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-06/2026-06-22_multipoint_earbuds.png",
+      "decision": "reuse_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "c36ebf1170e71cd15767b50a86f3c343bf615bed0f9c46fc78aa60383ae10545",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒樹脂",
+        "structure": "カナル型完全ワイヤレス1組＋開いたケース",
+        "use_case": "仕事と移動のリスニング"
+      },
+      "notes": "片耳2台で1組と数える。採用品がカナル型TWSを含む場合可、オープンイヤー/骨伝導のみなら不適合。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-12_earphone.png",
+      "completed_article_checked": true,
+      "final_five_point_audit": {
+        "article_format": "ワイヤレスイヤホン10商品比較、アカウント代表1製品セット",
+        "count": "左右2耳が対応するケース内へ収まる1製品セット。ケース＋耳を別商品比較として陳列しない",
+        "material": "黒樹脂ケース/イヤホン、黒イヤーチップ。SONY/TOZO等採用インイヤー群の素材と一致",
+        "structure": "短い豆型カナルイヤホン左右をケースへ一体収納。採用品のインイヤー分類を代表、開放イヤーカフUU2/Boseの形とは扱わない",
+        "use_case": "仕事机で通話/音楽に使い、セットで持ち歩く。ANC/マルチポイント/全品同機能を外観で主張しない"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_thumbnail_qa.json"
+    },
+    {
+      "date": "2026-11-13",
+      "theme": "backpack",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-08/2026-08-10_gadget_backpack.png",
+      "decision": "new_generated_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e9228e978776b7251c2735d7b7a7790bb755d420658f039ecdad9786eef1b4db",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒い布外装と灰色内張り",
+        "structure": "PC収納区画が見えるバックパック1個",
+        "use_case": "PC/仕事道具の持ち運び"
+      },
+      "notes": "背面背景スーツケースは用途補助。収納区画/手持ち/ストラップ構造が自然、採用品のPCリュック形状と照合必要。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-13_backpack.png",
+      "completed_article_checked": true,
+      "final_five_point_audit": {
+        "article_format": "ビジネスPCリュック5商品比較、代表1台",
+        "count": "バックパック1個。別バッグ/スーツケース/機器陳列なし",
+        "material": "灰黒の布外装、パッド入り内張り。採用品のビジネス布バッグ群のカテゴリ分類と一致、精密素材/耐水性は画像から断定しない",
+        "structure": "角丸四角の背負い袋、左右連続肩紐と上部持手、ファスナー開口/PC内ポケット。ELECOM/THULE/Incase/ACEビジネスPCリュック分類を代表、全品同容量/形状とは主張しない",
+        "use_case": "PCと小物を仕事へ持参する。PC本体や画面は描かず収納可能な特定実寸/インチを保証しない"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_thumbnail_qa.json",
+      "rejected_candidate_reason": "既存8/10画像は背後の別スーツケースがあるため今回の単体条件に不適合。"
+    },
+    {
+      "date": "2026-11-14",
+      "theme": "smart_ring",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-03_smart_ring.png",
+      "decision": "reuse_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_main_sku_identity_gate_and_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "5cf2108b4b898f78a1959674d2a79e891f889e3b77fbefa2914bb7e1f4a1a368",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "銀色金属外装・黒内装",
+        "structure": "内面センサー付きリング1点",
+        "use_case": "睡眠/活動を記録する指輪"
+      },
+      "notes": "丸い輪と内面センサー自然。採用品に銀色/金属リング構造が含まれるなら可。医療/改善効果は画像から主張しない。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-14_smart_ring.png",
+      "completed_article_checked": true,
+      "final_five_point_audit": {
+        "article_format": "スマートリング5商品比較、中央代表1台",
+        "count": "リング本体1個。台皿は生活小物、充電器としては扱わない",
+        "material": "銀色金属外装、黒い内面。チタン/チタン合金外装採用品の金属リング分類と一致、成分は画像から分析したとは扱わない",
+        "structure": "閉じた指輪形状と内面センサー風の部位。採用カテゴリを代表、特定ブランドの正確なセンサー配置/サイズ/部品を再現とは主張しない",
+        "use_case": "指へ着けて記録するリング本体を外して置く日常用途。診断/治療/改善/医療効果、計測値、駆動日数、無料機能を絵で主張しない"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_thumbnail_qa.json",
+      "independent_pending_gate": {
+        "name": "RingConn Gen2本体SKU GUI同定",
+        "asin": "B0DG2QKMFX",
+        "owner": "main_task_before_publication",
+        "status": "pending_not_performed",
+        "image_qa_does_not_satisfy": true
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "theme": "projector",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-09/2026-09-20_large_wall_projector.png",
+      "decision": "new_generated_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "240f94a0ec42cd35d35838117e4db07cbeb0924beb552fb0e5ac8bba22af3792",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒布/樹脂",
+        "structure": "投影機1点だが右下・小型三脚付属",
+        "use_case": "部屋の壁投影"
+      },
+      "notes": "主役が右下端へ寄る、細部微細文字、架空の青い光束。中央製品仕様と厳密には不一致。新規推奨。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-15_projector.png",
+      "completed_article_checked": true,
+      "final_five_point_audit": {
+        "article_format": "プロジェクター7品比較、中央代表1製品",
+        "count": "投写機1台のみ、リモコン/三脚/PC追加なし",
+        "material": "白い樹脂ケース、黒いガラスレンズ、側面通気孔。BenQ/Epson系採用品の卓上機分類に一致",
+        "structure": "四角い卓上投写機・前面レンズ・支持脚が自然に連続。カメラ/スピーカーではない、他円柱/立方/超短焦点機と同形状とはしない",
+        "use_case": "部屋で映像を大きく投写する本体カテゴリ。未投写状態なので解像度/VOD/焦点距離/光量/電源方式を保証しない"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_thumbnail_qa.json"
+    },
+    {
+      "date": "2026-11-16",
+      "theme": "label_printer",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-12_label_printer.png",
+      "decision": "reuse_selected_category_confirmed",
+      "status": "local_article_and_image_qa_passed_pending_note_crop",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "97a31a86fc1d43b3b5df7765649500d70f7c340cda841b3aacf01bd47d1d38f0",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "白い樹脂",
+        "structure": "据置ラベルプリンター、短い矩形ラベル連続排紙",
+        "use_case": "書類/配線のラベル印刷"
+      },
+      "notes": "中央1点、無文字。キッチン背景は生活整理を示すが書類テーマなら文脈の適否を最終QA。細幅テープ式のみなら不適合。",
+      "copied_or_generated": true,
+      "output_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-16_label_printer.png",
+      "completed_article_checked": true,
+      "final_five_point_audit": {
+        "article_format": "ラベルプリンター6品比較、中央代表1製品",
+        "count": "本体1台と排出空白ラベルのみ、スマホ/別本体比較無し",
+        "material": "白樹脂筐体と空白ラベル紙。採用品の小型ラベルプリンター群のカテゴリ素材を代表",
+        "structure": "キーボード無し小型本体と排出口から繋がる幅広ラベル列。NIIMBOT/Phomemo幅広感熱ラベル群のカテゴリ形状に適合。細幅テープ式/本体入力SR370と同外形とはしない",
+        "use_case": "小物/収納場所の整理ラベルを作る。印字無しで特定文字/ラベル幅/消耗品/アプリ/無線通信を保証しない"
+      },
+      "qa_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_thumbnail_qa.json"
+    },
+    {
+      "date": "2026-11-17",
+      "theme": "usb_memory",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-07/2026-07-13_secure_usb_storage.png",
+      "decision": "reject",
+      "status": "new_image_needed_after_product_selection",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "1e1c3cff921d5e149824b45923285b1476b08d69518cb5900cafb8d51bd395d2",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒樹脂と金属USB-A端子",
+        "structure": "上面指紋センサー付きスティック＋キャップ",
+        "use_case": "持ち運びと指紋認証"
+      },
+      "notes": "指紋認証構造を暗示するため、未確認機能を代表へ追加しない。採用品が確定し指紋認証機が採用されれば再検討可、現時点は新規推奨。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-18",
+      "theme": "air_duster",
+      "candidate_path": null,
+      "decision": "no_candidate",
+      "status": "new_image_needed_after_product_selection",
+      "viewed_original": false,
+      "dimensions": null,
+      "sha256": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "未確定",
+        "structure": "電動送風機単体を採用品に合わせる",
+        "use_case": "キーボード掃除"
+      },
+      "notes": "意味の明らかな既存電動エアダスター画像がファイル名索引にない。古い汎用名画像は未照合のため不存在とは断定しない。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-19",
+      "theme": "time_locking_container",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-09/2026-09-17_time_lock_container.png",
+      "decision": "reject",
+      "status": "new_image_needed_after_product_selection",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "29ad7fdc31dbad39ed0cdaa7786375d06adf4ae59d8edf977ac1b9d12655d97c",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "透明樹脂",
+        "structure": "透明箱に巨大アナログ風ダイヤル、微細文字",
+        "use_case": "スマホ保管"
+      },
+      "notes": "採用品が多くデジタルタイマー式である可能性があり構造未照合。微細文字あり。現行無文字仕様で新規推奨。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-20",
+      "theme": "digital_notebook",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-20_digital_notebook.png",
+      "decision": "conditional_reuse",
+      "status": "candidate_only_pending_final_selected_products",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "208acd03021a25b2f67393bddd610644c374cab63cf50167d072f19aa5c06bec",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "灰色樹脂/金属調",
+        "structure": "薄い電子ペーパー端末＋スタイラス",
+        "use_case": "PDFと手書きメモ"
+      },
+      "notes": "単体端末1台と付属筆記具、抽象線のみ。PDF対応は外観で証明しない。採用品e-ink端末を含めば可。LCD消去専用には合わせない。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-21",
+      "theme": "monitor_light",
+      "candidate_path": null,
+      "decision": "no_candidate",
+      "status": "new_image_needed_after_product_selection",
+      "viewed_original": false,
+      "dimensions": null,
+      "sha256": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "未確定",
+        "structure": "モニター上部固定式直線照明",
+        "use_case": "画面下の手元照明"
+      },
+      "notes": "置き型デスクライトを転用しない。意味の明らかなモニターライト画像は索引未発見。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-22",
+      "theme": "laptop_case",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-08/2026-08-13_macbook_case_skin.png",
+      "decision": "conditional_reuse",
+      "status": "candidate_only_pending_final_selected_products",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "b12a4c6d5e80c2c42f6f40c082388b6faad3da417f6b52d147c3f6c0c3dbc757",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "灰色布ケース",
+        "structure": "ファスナースリーブ1点にPC収納",
+        "use_case": "PCをバッグへ入れる前の保護"
+      },
+      "notes": "ファスナー金具に微細な刻印風模様あり。厳密無ロゴQAで親が再確認。外装ハードシェルのみなら不適合。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-23",
+      "theme": "sd_card",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-07/2026-07-08_microSD_4k_video.png",
+      "decision": "reject",
+      "status": "new_image_needed_after_product_selection",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "c157d22787055ed03472b43842f0f1500f4aa17e9131ad7dbdbb0ab4d9044bf0",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒いカードと樹脂収納箱",
+        "structure": "カードがフルサイズSD風の角欠け形状",
+        "use_case": "アクションカメラの保存"
+      },
+      "notes": "microSDの大きさ/輪郭と一致しない。カメラ/ケースの存在で主題が小さい。新規必要。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-24",
+      "theme": "smartwatch",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-17_smartwatch_activity_sleep.png",
+      "decision": "conditional_reuse",
+      "status": "candidate_only_pending_final_selected_products",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "77967059ca1c89a443d6a2010b60b2000fe76d6485774e3ff5bcea0098adab71",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒いシリコーンバンド/金属調ケース",
+        "structure": "四角い時計1点と自然な閉ループバンド",
+        "use_case": "睡眠と日々活動の記録"
+      },
+      "notes": "中央・無文字・バンド/支持自然、既存承認サンプル。運動主体なら背景寝室が適切か検討。採用品四角画面が含まれる場合。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-25",
+      "theme": "standing_desk",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-09/2026-09-28_standing_desk.png",
+      "decision": "conditional_reuse",
+      "status": "candidate_only_pending_final_selected_products",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "17e8d6d2a56c04849cf61e5bc305a37ec320fc8b85a6f637d1b5a0b354e241a8",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "木天板、黒い金属伸縮脚",
+        "structure": "電動昇降2脚と天板1台",
+        "use_case": "立つ姿勢のPC作業"
+      },
+      "notes": "PC/画面は用途小物。足先片側が画像右下ぎりぎり。トリム最終確認。採用品天板セットまたは脚組立が含まれる場合。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-26",
+      "theme": "translator",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-07/2026-07-17_ai_voice_devices.png",
+      "decision": "reject",
+      "status": "new_image_needed_after_product_selection",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "d246d2e8bea592f506bd568abc95f6081dba2173b324549cad2c5817c8774077",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "黒金属調複数機器",
+        "structure": "翻訳機風＋レコーダー/タブレット/イヤホン混在",
+        "use_case": "海外会話"
+      },
+      "notes": "比較カテゴリ4種で代表専用端末1点仕様に不適合。新規必要。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-27",
+      "theme": "desk_light",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-09/2026-09-26_rechargeable_desk_light.png",
+      "decision": "reject",
+      "status": "new_image_needed_after_product_selection",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "20d62cc7ee53e194d9a3d60203e08161df3cedf6af86a2118cb6c5f5136bda61",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "白樹脂",
+        "structure": "基台付き折曲アームLED、USB-Cコード",
+        "use_case": "夜の机照明"
+      },
+      "notes": "主役大きく左へ寄り中央構図に不一致。採用品充電式が含まれるか未確定。新規推奨。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-28",
+      "theme": "gps_tracker",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-09_gps_tracker.png",
+      "decision": "conditional_reuse",
+      "status": "candidate_only_pending_final_selected_products",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "5a01b5014d8065537197dab1c8f8b6df8dc01cb183734421c46b6bdf7d6803de",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "白樹脂タグ、黒いホルダー",
+        "structure": "丸いタグ1点をバッグ引手へ",
+        "use_case": "バッグ紛失防止"
+      },
+      "notes": "バッグは用途補助。円形タグ＋別ホルダー構造を採用品と照合、カード型のみなら不適合。GPS常時追跡本体と混同しない。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-29",
+      "theme": "mouse",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-09/2026-09-15_silent_keyboard_mouse.png",
+      "decision": "reject",
+      "status": "new_image_needed_after_product_selection",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "cecdd8ae9fe15c1ad089d46c8f843337c542b23ae312dede2f4696539c1559a9",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "白/黒樹脂",
+        "structure": "キーボード2、通常マウス1＋トラックボール1",
+        "use_case": "静音仕事道具"
+      },
+      "notes": "複数異カテゴリ/機器数が混在。通常マウス単体画像が必要。",
+      "copied_or_generated": false
+    },
+    {
+      "date": "2026-11-30",
+      "theme": "laptop_stand",
+      "candidate_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-04_laptop_stand.png",
+      "decision": "reject",
+      "status": "new_image_needed_after_product_selection",
+      "viewed_original": true,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "582380b65152233331449aea4c75c9f92c97e33c448bc8e82ae0288ff4b857e9",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較・アカウント既存の代表1製品イメージを維持",
+        "count": "主役1製品または1組が基準。背景PC・文具は用途補助のみ",
+        "material": "銀金属",
+        "structure": "据置の大きい台座と両支柱",
+        "use_case": "机で目線を上げる"
+      },
+      "notes": "携帯PCスタンド案へ据置重厚台を転用しない。畳める持ち運び構造は画像から確認不能。新規必要。",
+      "copied_or_generated": false
+    }
+  ],
+  "counts": {
+    "conditional_reuse": 6,
+    "new_generated_selected_category_confirmed": 6,
+    "no_candidate": 2,
+    "reject": 8,
+    "reuse_selected_category_confirmed": 8
+  },
+  "rejected_keyboard_alternatives": [
+    {
+      "path": "04_thumbnail/2026-09/2026-09-15_silent_keyboard_mouse.png",
+      "viewed_original": true,
+      "reason": "Keyboards2+mouse+trackball; count/categories mismatch"
+    },
+    {
+      "path": "04_thumbnail/2026-08/2026-08-16_waterproof_speaker_keyboard.png",
+      "viewed_original": true,
+      "reason": "Wet kitchen silicone keyboard+speaker; material, structure, use, count mismatch"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-22",
+  "status": "local_complete",
+  "checks": {
+    "product_count": 7,
+    "selected_asin_order": [
+      "B0FLKJ7FH7",
+      "B075PJ7V3V",
+      "B0822PMBTZ",
+      "B0C2G4PGYS",
+      "B00MMKQOEM",
+      "B0D9MCK4R8",
+      "B0B823S1NR"
+    ],
+    "research_url_order_preserved": true,
+    "product_prose_lengths": [
+      126,
+      129,
+      126,
+      122,
+      128,
+      124,
+      120
+    ],
+    "sources_checked": true,
+    "intro_paragraphs": 2,
+    "summary_paragraphs": 2,
+    "related_urls_from_existing_metadata": [
+      "https://note.com/daily_gadget/n/n492d7d982fc9",
+      "https://note.com/daily_gadget/n/n7804f7a4b765",
+      "https://note.com/daily_gadget/n/ne6d076bdd8f2"
+    ],
+    "idea_list_count": 1,
+    "no_price_reviews_or_use_claims": true,
+    "machine_baseline_unchanged": true
+  },
+  "notes": [
+    "SoloCast2 AR0A0AAとQuadCast2 872V1AAを公式SKU照合。初代SoloCast/QuadCast/QuadCast2Sの仕様を流用しない。",
+    "RODE採用原本title/featuresはNT-USB+内蔵DSP。公式NT-USB+と旧NT-USB差分を確認しUSB-C/DSP/付属品のみ反映。旧NTUSBのUSB-B/16bit仕様を流用しない。",
+    "AT2040USBはUSB-Cダイナミック型、XLR専用AT2040と区別。卓上スタンド別売を本文に記載。AT2020USB-XのNR/AGC搭載は記載せずXPと区別。",
+    "FIFINE公式海外現行はケーブル変更記載あり。国内原本との接続ケーブル差を避けUSB端子世代/脱着可否は本文に記載しない。",
+    "画像/metadata/DB/note予約はメイン担当。"
+  ],
+  "publishing": {
+    "status": "reserved",
+    "scheduled_at": "2026-10-22T20:00:00+09:00",
+    "amazon_cards": 7,
+    "native_toc": true,
+    "plain_urls": 0,
+    "tags": 5,
+    "magazine_verified": true,
+    "screenshot": "2026-10-22_reserved.jpg"
+  }
+}

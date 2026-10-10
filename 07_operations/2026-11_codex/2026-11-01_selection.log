@@ -1,0 +1,52 @@
+🚫 --exclude-asin により 1 件を選抜対象から外しました: B0FDQL8KNL
+📦 候補読み込み: 25 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 25 / 25
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 10
+
+-- 採用 --
+1. [Tier1] Logicool / B08K2CHMWK / review=11251 star=4.2 ★有名ブランド
+   ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品
+2. [Tier1] ELECOM / B07PJW2X2F / review=5714 star=4.1 ★有名ブランド
+   エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK
+3. [Tier1] ELECOM / B01HGGWZMG / review=5652 star=4.1 ★有名ブランド
+   エレコム 有線キーボード メンブレン ブラック TK-FFCM01BK
+4. [Tier1] Ewin / B081JSVYHQ / review=4106 star=4.2 
+   Ewin キーボード ワイヤレス bluetooth 小型 キーボード JIS基準 日本語配列 ios android Windows ma
+5. [Tier1] Logicool / B00BJZ2JWC / review=3563 star=4.2 ★有名ブランド
+   ロジクール 有線 キーボード 耐水 K120 USB接続 日本語配列 テンキー 薄型 有線キーボード 国内正規品
+6. [Tier1] バッファロー / B08CRN2P44 / review=3555 star=4.0 ★有名ブランド
+   バッファロー キーボード ワイヤレス BSKBW125BK
+7. [Tier1] Omikamo / B0CWKWXP37 / review=1277 star=4.2 
+   【最新型】Omikamo キーボード bluetooth 折り畳み式 ワイヤレス JIS標準日本語配列 ipad キーボード スマホ マルチ
+8. [Tier1] iClever / B01MA23P3J / review=906 star=4.0 
+   iClever 折りたたみ Bluetooth キーボード- 多ペアリング対応 360度回転可能 超軽量薄型 レザー保護カバー付き 折れない
+9. [Tier1] iClever / B0DBZNH3D3 / review=691 star=4.2 
+   iClever ワイヤレスキーボード Bluetooth・2.4GHz JIS日本語配列 コンパクト パンタグラフ Type-C充電 DK0
+10. [Tier1] Keychron / B0FDW68VH4 / review=512 star=4.0 ★有名ブランド
+   【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bl
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 15 件 --
+  - [Tier2] Anker / B00U260UR0: 多様性制約または件数上限のため非選抜
+  - [Tier1] Logicool / B015H5YHEM: 多様性制約または件数上限のため非選抜
+  - [Tier1] Logicool / B0BWDSC5ZB: 多様性制約または件数上限のため非選抜
+  - [Tier2] ELECOM / B08TMK8GSC: 多様性制約または件数上限のため非選抜
+  - [Tier1] Logicool / B0CJR82M5M: 多様性制約または件数上限のため非選抜
+  - [Tier2] ELECOM / B0C3QXBTJP: 多様性制約または件数上限のため非選抜
+  - [Tier2] Logicool / B0B1Q6H9X5: 多様性制約または件数上限のため非選抜
+  - [Tier2] Amazon / B0CT2T18PV: 多様性制約または件数上限のため非選抜
+  - [Tier3] WOBKEY / B0D3HX423Y: 多様性制約または件数上限のため非選抜
+  - [Tier1] Logicool / B0C65F55K5: 多様性制約または件数上限のため非選抜
+  - [Tier2] Logicool / B0CZ8X3DH8: 多様性制約または件数上限のため非選抜
+  - [Tier2] Omikamo / B0F38B7W6P: 多様性制約または件数上限のため非選抜
+  - [Tier2] ELECOM / B0GL26M6Z2: 多様性制約または件数上限のため非選抜
+  - [Tier3] SmackApe / B0FCLQ5MM2: 多様性制約または件数上限のため非選抜
+  - [Tier2] Logicool / B0GHR6W4VL: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-01_文章入力の道具を見直す。仕事用キーボード.md

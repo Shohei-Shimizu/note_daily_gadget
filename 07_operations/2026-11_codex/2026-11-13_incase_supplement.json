@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-10-10T02:27:36+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261113_4ec492b6",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261113_incase_recovery"
+  ],
+  "fetched_count": 1,
+  "dedup_count": 1,
+  "candidates": [
+    {
+      "asin": "B0BRZBN96C",
+      "title": "[Incase] バックパック INCO100683-SIV A R C Commuter Pack-Smoked Ivy メンズ GREY Free Size 137222053002",
+      "url": "https://www.amazon.co.jp/dp/B0BRZBN96C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BRZBN96C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Incase",
+      "query": "dg_20261113_incase_recovery",
+      "queries_matched": [
+        "dg_20261113_incase_recovery"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      }
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  }
+}

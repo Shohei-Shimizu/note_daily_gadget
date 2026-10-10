@@ -1,0 +1,7 @@
+# 10/17サムネイル生成仕様
+
+実行: built-in image_gen。既存の写真調・文字なし・代表1製品を継続。
+
+Use case: photorealistic-natural. Asset type: wide landscape note article thumbnail for Japanese editorial gadget magazine. Primary request: a restrained realistic lifestyle photograph about recording daily activity and sleep with a smartwatch. Scene: clean natural wood bedside table, soft morning daylight, softly blurred white bed linen in background. Subject: exactly ONE unbranded realistic rectangular smartwatch with black silicone band lying fully supported on the table in a gently closed loop; watch screen dark with only small abstract unlettered activity graphics, no readable numbers or text. Medium: editorial lifestyle photography, realistic materials, natural optics. Composition: wide 16:9 horizontal, one hero watch centered in the central horizontal safe band, moderately close view with clearly legible silhouette, complete strap and case within frame, balanced background, no large empty copy area. White, natural wood and black palette. Constraints: no people, no hands, no body parts, no logos, no branding, no text, no watermarks, no second watch, no smartphone, no product lineup, no floating objects, no warped band, realistic contact shadow, all furniture continuous and plausible. This is an illustrative category scene, not a replica of a named manufacturer's product.
+
+QA: PNG 1672×941。文字・人物・ロゴなし、代表1製品、接地とバンド形状、中央構図を原寸で確認。noteでのトリミングは入稿時に確認。

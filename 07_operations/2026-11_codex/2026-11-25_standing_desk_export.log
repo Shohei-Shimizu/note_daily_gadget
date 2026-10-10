@@ -1,0 +1,21 @@
+
+候補 10 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B0GYYSQB2F  ErGear         ErGear 電動 オフィスワークテーブル 昇降式デスク スタンディングデスク 幅160cm 耐荷重80 [measured 2026-09-11]
+  B0FR9SY5MW  FEZIBO         FEZIBO 電動 昇降式デスク スタンディングデスク 幅120cm 奥行60cm 高さ72-118cm [measured 2026-09-11]
+  B0DBLJLK75  Claiks         Claiks 昇降デスク 大きめ 電動 パソコンデスク 昇降式 スタンディングデスク 在宅ワーク オフィ [measured 2026-09-11]
+  B0F9X3FDYY  HUANUO         HUANUO(ファーノー) 電動 昇降式デスク 幅80cm スタンディングデスク 4メモリ高さ調節 上下 [measured 2026-09-11]
+  B0F3Y4W4VP  YIHAYO         YIHAYO 昇降デスク 高さ70-115cm 幅120cm 奥行き60cm 電動 スタンディングデスク [measured 2026-09-11]
+  B0GGZB9PGB  STARY          STARY L字型 電動昇降デスク スタンディング対応 幅140cm 静音モーター 高さ72～120cm [measured 2026-09-11]
+  B092VX5RK7  FLEXISPOT      FLEXISPOT スタンディングデスク メーカー5年保証 電動式昇降デスク 高さ調節 パソコンデスク  [measured 2026-08-31]
+  B08F7MQL3S  FLEXISPOT      FLEXISPOT スタンディングデスク 電動式昇降デスク 高さ調節 メーカー5年保証 人間工学 パソコ [未実測]
+  B08QCP1WC3  FLEXISPOT      FLEXISPOT スタンディングデスクEF1 (幅120×奥行60,メモリー機能付き) 電動式 昇降デ [未実測]
+  B0FLGZVNLL  タンスのゲン         タンスのゲン 昇降デスク 電動 幅100㎝ メモリ機能 静音昇降 USB付き モニターアーム対応 パソコ [未実測]
+
+topic_id: daily_gadget_20261125_2363da42
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-25_standing_desk_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-25_standing_desk_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

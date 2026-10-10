@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-20",
+  "products": [
+    {
+      "asin": "B0DP3HZX4D",
+      "official_sources": [
+        "https://getrocketbook.com/blogs/news/meet-the-new-and-improved-rocketbook-notebooks",
+        "https://getrocketbook.com/products/new-rocketbook-core?variant=31416131534"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "データ化：スマホアプリでページを撮影",
+        "筆記具：Pilot FriXion",
+        "消去：水で湿らせた布"
+      ]
+    },
+    {
+      "asin": "B07ZHZFZG8",
+      "official_sources": [
+        "https://rocketbookhelp.zendesk.com/hc/en-us/articles/360004098373-Rocketbook-Core",
+        "https://getrocketbook.com/collections/core"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "データ化：スマホアプリでページを撮影",
+        "筆記具：Pilot FriXion",
+        "消去：水で湿らせた布"
+      ]
+    },
+    {
+      "asin": "B08HDL3XJR",
+      "official_sources": [
+        "https://remarkable.com/clp/remarkable-paper-pro-vs-remarkable-2",
+        "https://support.remarkable.com/s/article/Help-with-sync-and-the-reMarkable-cloud"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "画面：10.3インチ白黒電子ペーパー",
+        "筆記：専用Marker",
+        "記録：手書きノート／PDF注釈"
+      ]
+    },
+    {
+      "asin": "B0DG9ZXWMK",
+      "official_sources": [
+        "https://remarkable.com/products/remarkable-paper/pro/details/features"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "画面：11.8インチカラー電子ペーパー",
+        "照明：調整式読書灯",
+        "接続：Wi-Fi／USB-C"
+      ]
+    },
+    {
+      "asin": "B09988GM1B",
+      "official_sources": [
+        "https://www.fmworld.net/digital-paper/gen2/product.html",
+        "https://www.fmworld.net/digital-paper/support/download/"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "画面：13.3型白黒電子ペーパー",
+        "容量：32GB",
+        "接続端子：USB Type-C"
+      ]
+    },
+    {
+      "asin": "B08BP625V6",
+      "official_sources": [
+        "https://www.fmworld.net/digital-paper/gen1/product.html",
+        "https://www.fmworld.net/digital-paper/support/download/"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "画面：13.3型白黒電子ペーパー",
+        "容量：16GB",
+        "接続端子：micro USB"
+      ]
+    },
+    {
+      "asin": "B0DWMVW8RS",
+      "official_sources": [
+        "https://iflytek.co.jp/products/iflytek-ainote-air-2",
+        "https://iflytek.co.jp/pages/download"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "画面：8.2インチE-Ink",
+        "重量：230g（本体）",
+        "容量：32GB"
+      ]
+    }
+  ],
+  "note": "Manufacturer sources only, no individual reviews"
+}

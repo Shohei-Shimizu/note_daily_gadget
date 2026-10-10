@@ -1,0 +1,22 @@
+
+候補 11 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B09MHPFV4Q  Anker          Anker PowerConf C200 / 2K コンパクトウェブカメラ/ノイズリダクション/オートゲ [article_dated 2026-04-15]
+  B0D21FZ5KN  Logicool       【Amazon.co.jp限定】 ロジクール ウェブカメラ C270nd HD 720P 小型 Webカ [measured 2026-09-11]
+  B0CVZW78XW  Logicool       ロジクール ウェブカメラ MX BRIO 700 C1100GR 4K Webカメラ usbカメラ 自動 [article_dated 2026-04-03]
+  B098NF6K7G  Dell           Dell デジタル Webカメラ WB7022 4K 800万画素 HDR 3D/2Dノイズリダクション [未実測]
+  B0C2CFW1QV  Insta360       Insta360 Link Webカメラ 公式ステッカー集付き 4K PTZウェブカメラ 1/2インチセ [未実測]
+  B0C3B6ZR1V  Remo           OBSBOT TINY 2 webカメラ AI自動追跡 ウェブカメラ HDR 4K 5000万画素 全画 [未実測]
+  B0CCY8RBJD  Anker          Anker AnkerWork C310 ウェブカメラ、4Kウェブカメラ、1200万画素、AIオートフォ [未実測]
+  B0CZ6XY78Y  OBSBOT         OBSBOT TINY 2 Lite Webカメラ 4K ウェブカメラ AI搭載 自動追跡 4800万画 [未実測]
+  B0DDTH3HX8  Insta360       Insta360 Link 2 Webカメラ 4K ウェブカメラ PTZ 1/2インチセンサー AI追跡 [未実測]
+  B0DMF4GLR8  Remo           OBSBOT TINY SE Webカメラ 1080P 100FPS 60PFS フルHD ウェブカメラ [未実測]
+  B0G3T1QKWL  Insta360       Insta360 Link 2 Pro Webカメラ 4K ウェブカメラ PTZ 1/1.3インチセンサ [未実測]
+
+topic_id: daily_gadget_20261107_8cb38267
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_webcam_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_webcam_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

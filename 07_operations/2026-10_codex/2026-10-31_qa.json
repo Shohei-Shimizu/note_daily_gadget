@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-31",
+  "topic_id": "daily_gadget_20261031_b8653ae5",
+  "status": "main_review_ready",
+  "research_original_sha256": "49ecb8b35469cee907cba635f055600ac1b10fdfebaf23d7f1c8fe9a5e6db648",
+  "selected_asins_in_order": [
+    "B0DMVQWB9K",
+    "B0CBJK9BD7",
+    "B097QTCYTV",
+    "B0FW4B6JJ1",
+    "B0DCSHSSFF",
+    "B0BG53FCXF",
+    "B075153CFF"
+  ],
+  "article_product_count": 7,
+  "intro_paragraphs": 2,
+  "description_lengths": [
+    152,
+    147,
+    149,
+    154,
+    150,
+    154,
+    159
+  ],
+  "related_count": 3,
+  "category": "コミュニケーション・会議・音声",
+  "tags": [
+    "おすすめガジェット",
+    "リングライト",
+    "動画撮影",
+    "オンライン会議",
+    "配信"
+  ],
+  "checks": {
+    "research_urls_order_preserved": true,
+    "research_machine_fields_preserved": true,
+    "machine_memo_preserved": true,
+    "reviews_price_experience_in_article": false,
+    "individual_review_text_available": false,
+    "jev_skipped": true
+  },
+  "source_discrepancies": [
+    {
+      "asin": "B0DMVQWB9K",
+      "issue": "ブランド公式60LED/1000mAhは別モデル。今回ASIN40LEDタイトル3段階とfeatures連続調光が不整合のため段階・容量・稼働時間数値省略。USB充電式は当該タイトルと内蔵電池featuresによる。"
+    },
+    {
+      "asin": "B0CBJK9BD7",
+      "issue": "サポート公式F-537Sと当該ASIN型番対応未確定。販売featuresで卓上/USB5V2A/光色3×明るさ10のみ採用。raw24時間はサポート記述なので点灯時間に不使用。"
+    },
+    {
+      "asin": "B097QTCYTV",
+      "issue": "ブランド公式掲載は60LED充電式別ASIN。今回ASIN6.3インチUSB給電・クリップ三脚を混同せず販売featuresのみ採用。"
+    },
+    {
+      "asin": "B0FW4B6JJ1",
+      "issue": "ブランド619公式は同じアーム系だが当該型番対応未確定。クランプ厚・アーム寸法・CRIは移さず、当該featuresの取付/光色/給電のみ採用。"
+    },
+    {
+      "asin": "B0DCSHSSFF",
+      "issue": "販売featuresの充電式見出しは本文直接給電と不一致。NEEWER公式5V2A給電と突合してUSB給電式で統一。"
+    },
+    {
+      "asin": "B0BG53FCXF",
+      "issue": "50段階は光色5×明るさ10の組合せ。眼精疲労ゼロ/UV保護/50000時間寿命など保証的効果は不採用、当該featuresの機能のみ。"
+    },
+    {
+      "asin": "B075153CFF",
+      "issue": "RL-18複数世代あり。共通の18インチ55W/フィルター/調光/スタンドのみ公式突合。高さ範囲48対75cm混線回避。国内JPプラグは当該ASINfeatures確認、バッテリー式や卓上と記載しない。"
+    }
+  ],
+  "remaining": [
+    "main integration/title/metadata/thumbnail/UI final checks"
+  ],
+  "account_structure_requirement": {
+    "intro_paragraphs": 2,
+    "second_paragraph_pattern": "今回は **「…」、「…」、「…」** の3点で選びました。",
+    "selection_axes_count": 3,
+    "status": "passed"
+  }
+}

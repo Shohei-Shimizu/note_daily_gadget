@@ -1,0 +1,17 @@
+
+候補 6 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B01HXFISS0  Anker          Anker SoundCore mini【コンパクトBluetoothスピーカー】 | 15時間連続再生 [article_dated 2026-10-18]
+  B07N31KRZL  トランセンドジャパン     Transcend マイクロSDカード 256GB UHS-I U3対応 Class10 Nintend [未実測]
+  B07RKL4L7Q  SanDisk        マイクロSD 512GB サンディスク Extreme PRO microSDXC A2 SDSQXCZ [未実測]
+  B0DQX529CV  Samsung        Samsung PRO Plus Sonic The Hedgehog + Adapter microS [未実測]
+  B0F29YZWSM  キングストンテクノロジー   Kingston キングストン 256GB microSDXC Canvas Go Plus Gen4  [未実測]
+  B0F9P5J764  Lexar          Lexar PLAY PRO microSDXC Expressカード 512GB 最大読込900MB/ [未実測]
+
+topic_id: daily_gadget_20261123_b58334cb
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-23_sd_card_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-23_sd_card_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

@@ -1,0 +1,812 @@
+{
+  "generated_at": "2026-10-09T00:13:21+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261018_9fe6c5d1",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "codex_20261018_speaker"
+  ],
+  "fetched_count": 22,
+  "dedup_count": 22,
+  "candidates": [
+    {
+      "asin": "B08CXJ3HMF",
+      "title": "Anker Soundcore 3 Bluetoothスピーカー IPX7防水/24時間再生/デュアルドライバー",
+      "url": "https://www.amazon.co.jp/dp/B08CXJ3HMF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08CXJ3HMF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71MIPdIMnVL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "さらに進化：⼈気モデル「Anker SoundCore 2」の使いやすさはそのままに、サウンドの品質と機能性をアップグレード。ドライバーの出⼒を12W→16Wに強化すると共に、低⾳から⾼⾳まで全ての⾳域で⾼⾳質を追求しました。またSoundcoreアプリ対応やUSB-Cポートの採⽤等、機能⾯も拡充しました。",
+        "チタニウムドライバー採⽤：軽さと強度を兼ね備えたチタニウムドライバーを採用。音の歪みを最小限に抑え、曲の細部まで忠実に再現します。",
+        "デュアルパッシブラジエーターを搭載：リアルタイムで低⾳を強化するSoundcoreの独⾃技術BassUpテクノロジーに加え、デュアルパッシブラジエーターにより深みのある低⾳をお楽しみいただけます。",
+        "Soundcoreアプリ対応：Soundcoreアプリを使⽤すると、イコライザーをプリセットの4種類から選択またはお好みに合わせてカスタマイズできます。また、アプリからはBassUpのOn / Off 切り替えが可能です。",
+        "パッケージ内容：Soundcore 3、USB-C &amp; USB-A ケーブル、リストストラップ、 クイックスタートガイド、安全マニュアル、カスタマーサポート 技適マーク認証済み商品（周波数帯：2402MHz～2480MHz）"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 12851,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-19",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H29M8HX9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:13:30+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C4P51G18",
+      "title": "FUNLOGY Portable Mini（スピーカー/ポータブルスピーカー）【VGP2024受賞】防水対応/小型/Type-C 充電式/バッテリー 内臓/Bluetooth対応/ワイヤレス / IP67 お風呂 で使える/pc スマホ 接続OK/T",
+      "url": "https://www.amazon.co.jp/dp/B0C4P51G18?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C4P51G18?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/717TOOfvRlL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【人気のbluetoothスピーカー】bluetooth（ver.5.3）を搭載した小型のポータブルスピーカーです。お手持ちのスマートフォン、パソコンと接続してワイヤレススピーカーとして使用できます。【クリアな音声】低音域から高音域まで、幅広い音を表現できるフラットな周波数特性。音のひずみを抑え、こもりにくさにこだわった音質です。一つひとつの音がクリアで聴き取りやすく、歌詞やセリフなどがよく通ります。",
+        "【有線接続OK】箱内に付属のAUXケーブルで接続し、有線スピーカーとしてもお使いいただけます。ブルートゥース環境のない機器との接続は、有線で行ってください。AUXケーブルは付属のもの以外も使用できます。",
+        "【商品仕様】(本体)サイズ：W 70 mm × D 70 mm × H 80 mm / 重量：250 g / スピーカーユニット：42 mm / 出力：6 W / インピーダンス：3 Ω / SN比：100 dB / Bluetooth：ver. 5.3 / 最大通信距離： 10 m（障害物が無い時） / 入力インターフェース：USB Type-C、AUX / 電源：DC 5 V 1.0 A / バッテリー容量：650 mAh / 稼働時間：10 時間（40 % 出力時） / 防水性能：IP67 / その他：TWS、ハンズフリー通話 / 付属品：USB Type-Cケーブル(1m)、3.5mm AUXケーブル(1m)、ストラップホルダー(約0.2m) 取扱説明書"
+      ],
+      "maker": "FUNLOGY",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 5467,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0C4P4BB7G",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:13:38+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CZRLRGM5",
+      "title": "Xiaomi サウンドポケット Bluetoothスピーカー",
+      "url": "https://www.amazon.co.jp/dp/B0CZRLRGM5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CZRLRGM5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71wOrl8wEwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【手のひらサイズ】手のひらサイズで約200gの軽量設計により持ち運びが簡単です。いつでも、どこでもお好きな音楽を楽しめます。また、生活に溶け込むスタイリッシュな形状で、横置きや縦置きとどんな置き方にも対応できます。",
+        "【完全ワイヤレスステレオサウンド】パワフルな5W出力のスピーカーと、全面メッシュデザインにより、クリアでバランスのとれた独創的なサウンドと卓越した音質を実現します。",
+        "【Bluetooth 5.4対応】最新のBluetooth 5.4による高速で安定した接続で、これまでにない音質のロスレスオーディオを楽しめます。",
+        "【IP67 防塵/防水】IP67等級の防塵防水性能、どんな天気にも最適保護機能と強化された安全機能により、天気の状態にかかわらず、屋外でお気に入りの音楽を楽しめます。",
+        "【最大10時間の長時間バッテリーで途切れることのない音楽再生を】フル充電で最大10時間の連続再生を楽しむことができ、パーティーやピクニックなど長時間の使用に最適です。また、約3時間でフル充電することができます。"
+      ],
+      "maker": "Xiaomi",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 2702,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H7B768SJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:13:47+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D9YMNXZL",
+      "title": "Anker Soundcore Select 4 Go (ブラック) 【コンパクトBluetoothスピーカー】 | 20時間連続再生 5W出力 パッシブラジエーター搭載 IP67防塵・防水規格 ワイヤレスステレオ対応 ポータブル 小型 バッテリー内",
+      "url": "https://www.amazon.co.jp/dp/B0D9YMNXZL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9YMNXZL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71FGdBBbF9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "音楽をどこへでも持ち出せる、コンパクト設計×長時間再生 : 手のひらサイズのコンパクト設計に加えて、最大20時間の長時間再生が可能。自宅やアウトドアなどお好きな音楽をどこでも楽しめます。",
+        "パッシブラジエーター搭載の迫力サウンド : 5Wのフルレンジスピーカー1つとパッシブラジエーター1つを搭載コンパクトながら迫力のサウンドを実現。",
+        "アウトドアでも安心IP67防塵・防水性能 : IP67の防塵・防水性能なのでキャンプや水辺でのアウトドシーンなどでも砂や埃、水濡れを気にせず安心して使用可能",
+        "豊富なカラーバリエーション : お好みやライフスタイルに合わせて選べる全6色の豊富なカラーバリエーション",
+        "2台同時ペアリング：2台のSelect 4 Goをペアリングすることでさらに広がりのある迫力サウンドを実現 ※すでにご購入済みの製品に関して、シリアル番号7桁目がC以外、もしくはSoundcoreアプリ上のファームウェアが「3.」で始まる製品とは2台同時ペアリングができません。ペアリングができない場合は、カスタマーサポートまでお問い合わせください。",
+        "パッケージ内容：Select 4 Go、USB-A &amp; USB-C ケーブル、クイックスタートガイド、安全マニュアル、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 2259,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0DJ8RKSW2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:13:54+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CZDP1V8S",
+      "title": "JBL GO 4 Bluetoothスピーカー IP67防水防塵/最大7時間再生/超コンパクト",
+      "url": "https://www.amazon.co.jp/dp/B0CZDP1V8S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CZDP1V8S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81R+2E9eCJL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "JBL認定店購入の国内正規品 新品のみメーカー保証1年",
+        "技適マーク認証済み商品。 周波数帯:2400MHz - 2483.5 MHz",
+        "アプリでの直観的な操作とLE Audio対応によるワイヤレスステレオ接続を実現",
+        "コンパクトなボディとさらに進化したパワフルサウンド",
+        "バスルームやビーチなど、屋外でも安心の防水・防塵（IP67）対応"
+      ],
+      "maker": "JBL",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 2087,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0CZXYT6GZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:14:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C3Q65R9P",
+      "title": "ソニー SONY ワイヤレスポータブルスピーカー SRS-XB100 IP67防水防塵/最大16時間再生/ストラップ内蔵",
+      "url": "https://www.amazon.co.jp/dp/B0C3Q65R9P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C3Q65R9P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51INgO9AVdL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "スマートフォンの音楽をクリアな高音質と重低音で再生",
+        "防水・防塵対応でお風呂、キッチンだけでなくアウトドアでも安心して使える",
+        "持ち出し時に便利なロングバッテリーとストラップ",
+        "テレワークに最適なハンズフリー通話機能",
+        "2台つなげて、ステレオでも楽しめるStereo Pair機能"
+      ],
+      "maker": "SONY",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 924,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0DNYFVGKV",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:14:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F1MZJTB7",
+      "title": "JBL FLIP 7 / ポータブルスピーカー/Bluetooth対応 / IP68 防塵防水/USB-C/アプリ対応/ストラップ・カラビナ付属/AURA CAST マルチスピーカー接続/ファンキーブラック / JBLFLIP7BLKO",
+      "url": "https://www.amazon.co.jp/dp/B0F1MZJTB7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F1MZJTB7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ud2fBWoEL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "500mlペットボトルと同程度のサイズ感ながら、歌や楽器が明瞭で迫力のある音楽を奏でるパワフルなJBLプロサウンドを実現",
+        "リュックやベルトループに引っかけられるカラビナ・手で引っかけやすいストラップを同梱し、持ち運びにも最適",
+        "IP68 防塵防水&amp;衝撃への耐性を高めたアウトドア利用にも耐えるタフな設計",
+        "USB–C経由でのオーディオ再生やAuracastでのステレオペアリングなど、より音楽を楽しめる機能を搭載",
+        "JBL PORTABLE アプリで自分好みのサウンドにカスタマイズ可能。スピーカー構成：45 x 80mmウーファー + 16mmツイーター"
+      ],
+      "maker": "JBL",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 576,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0F3HGDY6B",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:14:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F1MZ88ML",
+      "title": "JBL CHARGE 6 / ポータブルスピーカー/Bluetooth対応 / IP68 防塵防水/USB-C/アプリ対応/モバイルバッテリー機能/ハンドストラップ付属/AURA CAST マルチスピーカー接続/ブラック / JBLCHARGE6BLK",
+      "url": "https://www.amazon.co.jp/dp/B0F1MZ88ML?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F1MZ88ML?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71WkUCoDbtL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "改良されたウーファーユニットにより、更に進化したサウンドと深い低域再生を実現",
+        "ハンドストラップを同梱し、持ち運びにも最適",
+        "IP68 防塵防水&amp;衝撃への耐性を高めたアウトドア利用にも耐えるタフな設計",
+        "USB–C経由でのオーディオ再生やAuracastでのステレオペアリングなど、より音楽を楽しめる機能を搭載",
+        "スマートフォン等への給電が可能なモバイルバッテリー機能を搭載。スピーカー構成：53 x 93mmウーファー + 20mmツイーター"
+      ],
+      "maker": "JBL",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 471,
+      "star_rating": 4.7,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0F3H4LJBT",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:14:26+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GDYZDNMY",
+      "title": "Anker Soundcore Boom Go 3i (ブラック) 【コンパクトBluetoothスピーカー】 | 最大40時間再生 15W出力 IP68防塵・防水規格 小型 ストラップ付属 ディスプレイ搭載 モバイルバッテリー機能 アプリ対応 US",
+      "url": "https://www.amazon.co.jp/dp/B0GDYZDNMY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GDYZDNMY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71xGzv2KhRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【欲しい機能を、この一台に。コンパクトスピーカーの決定版】コンパクトながら迫力のサウンドで、最大40時間※の長時間再生を実現し、様々なシーンで活躍します。",
+        "【コンパクトで迫力のサウンド】最大15Wの出力で、コンパクトながらもクリアでダイナミックなサウンドを実現しました。",
+        "【低音域の強化で力強い重低音】Anker独自技術「BassUp 2.0」により、迫力のある重低音を楽しめます。",
+        "【最大40時間の長時間再生】最大40時間※の連続再生が可能で、1日中お気に入りの音楽をお楽しみいただけます。 ※エコモードの場合最大40時間、通常最大24時間。再生時間は音量や使用環境により異なります",
+        "【お風呂でも安心して使える】IP68の防塵・防水設計で浴室内、キッチンなどの水回りでも安心して使用可能です。",
+        "【多彩な取り付け &amp; 持ち運び】可動式のシリコンストラップ搭載で、スピーカーを好きな場所へ吊り下げたり固定したりすることが可能です。",
+        "【専用アプリで音質調整】イコライザーのカスタマイズやLEDライトの調整が可能です。",
+        "【スマートフォンへの充電も可能】4800mAhのバッテリーを内蔵し、スマートフォン等への充電ができるモバイルバッテリーとしても活躍します。ディスプレイ搭載で、バッテリー残量や現在のモードを一目で確認できます。",
+        "パッケージ内容：Soundcore Boom Go 3i、USB-C &amp; USB-C ケーブル、クイックスタートガイド、安全マニュアル、18ヶ月保証 + 6ヶ月 (Ankerで登録後)、カスタマーサポート",
+        "技適マーク認証済み商品（周波数帯 Bluetooth：2.4GHz） ※製品の仕様またはパッケージは予告なく変更されることがありますので、予めご了承ください。"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 186,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H1CMNZ9C",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:14:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01HXFISS0",
+      "title": "Anker SoundCore mini【コンパクトBluetoothスピーカー】 | 15時間連続再生 / 内蔵マイク搭載/microSDカード & FMラジオ対応",
+      "url": "https://www.amazon.co.jp/dp/B01HXFISS0?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01HXFISS0?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51SUFPZvf9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "小さなボディで迫力サウンド：驚くべき小ささを維持しながらも、5Wのオーディオドライバーとパッシブサブウーファーにより、パワフルで重みのある音を実現しました。",
+        "幅広い互換性：Bluetoothだけでなく、microSDカードやAUX入力にも対応。FMラジオも受信することができるので、様々な用途にお使いいただけます。",
+        "長時間連続再生：Ankerの業界をリードするバッテリー技術によって、1度の充電で約15時間の連続再生が可能。これは同程度のサイズのスピーカーよりも2倍以上の再生時間です。",
+        "パッケー ジ内容：Anker SoundCore mini、Micro USBケーブル、取扱説明書、カスタマーサポート 技適マーク認証済み商品（周波数帯：2402MHz～2480MHz）"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 16746,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0BG3VV3DV",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:14:45+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BXSVN86C",
+      "title": "Anker Soundcore Motion X600 Bluetoothスピーカー【空間オーディオ/ハイレゾ音源再生 / 50W出力 / IPX7防水規格 / 最大12時間再生 / Proイコライザー機能/AUX対応】スペースグレー",
+      "url": "https://www.amazon.co.jp/dp/B0BXSVN86C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BXSVN86C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/613EArgJVjL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "驚くほどの立体感、「空間オーディオ」技術：Anker独自の空間オーディオアルゴリズムと、5つのドライバーにより、空間全体を包み込むような立体音響を実現しました。",
+        "ハイレゾ音源再生にまで対応：LDACコーデックを搭載し、通常のSBCコーデックと比較し、最大約3倍の情報量を送信することが可能なため、ワイヤレス接続でも原音に近いクリアな音楽を再現。",
+        "こだわりを尽くした、洗練されたデザイン：高級感を演出する、3Dメタルメッシュを採用。シンプルで洗練された、デザインのため室内のインテリアとしても使用可能です。",
+        "細やかな音質調整を可能にするProイコライザー機能：Soundcoreアプリのイコライザー機能が進化。音楽をさらに好みに合わせて聴くことができるよう、細かな周波数帯のカスタマイズが可能になりました。",
+        "パッケージ内容：Motion X600、USB-C &amp; USB-C ケーブル、クイックスタートガイド、安全マニュアル、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 619,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H61ZFPNN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:14:54+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DBQSD7JP",
+      "title": "Bose SoundLink Flex Portable Speaker (第2世代) ワイヤレス Bluetooth 小型 ポータブル スピーカー ハイファイオーディオ 最長12時間連続再生 防水・防塵 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DBQSD7JP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DBQSD7JP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Bose",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": "unknown",
+      "library": {
+        "tier": null,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": null,
+      "measurement_observed_at": "2026-10-09T09:15:02+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": "http_404"
+    },
+    {
+      "asin": "B0D5HS9YK1",
+      "title": "Bose SoundLink Max Portable Speaker 大型 Bluetooth ポータブル スピーカー ワイヤレス 防水 最長20時間連続再生 USB-C 3.5 mm AUX入力対応 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D5HS9YK1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D5HS9YK1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Bose",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "stock_status": "unknown",
+      "library": {
+        "tier": null,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": null,
+      "measurement_observed_at": "2026-10-09T09:15:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": "http_404"
+    },
+    {
+      "asin": "B0CZTTF16G",
+      "title": "JBL CLIP 5 Bluetoothスピーカー IP67防水防塵/最大12時間再生/ポータブル/カラビナ付",
+      "url": "https://www.amazon.co.jp/dp/B0CZTTF16G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CZTTF16G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71yoiMz35DL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "JBLオリジナルの「JBL Portable」アプリに対応し、サウンドイコライザーの調整や様々なカスタマイズが可能",
+        "Bluetooth ver. 5.2 LE Audio対応で、2台のスピーカーを無線で接続する「ワイヤレスステレオ」が可能。JBLの複数の対応機器に音声を配信し同時に再生できる「Auracast」機能にも対応",
+        "通常よりも再生時間を長くする「プレイタイムブースト」によって、最大3時間延長が可能",
+        "IP67の防水・防塵規格に対応し、プールサイドやビーチでのピクニックや浴室でも利用できます"
+      ],
+      "maker": "JBL",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 399,
+      "star_rating": 4.7,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0CZXXZ1CP",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:15:16+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D13TBD9B",
+      "title": "ソニー(SONY) ワイヤレススピーカー SRS-ULT10 :防水 IP67/ ULT FIELD 1/パワフル重低音/ロングバッテリー 12時間/ SRS-ULT10 BCブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D13TBD9B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D13TBD9B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51sgfTld29L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "パワフルでクリアなサウンド",
+        "「ULTボタン」による豊かな低域とパワフルな音体験",
+        "防水・防じん・防錆、ショックプルーフ",
+        "約12時間再生可能なバッテリーを搭載",
+        "タテ・ヨコ置ける本体デザイン。マルチウェイストラップ付き"
+      ],
+      "maker": "SONY",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 681,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0DFLXQGZD",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:15:25+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F32D3NPX",
+      "title": "ソニー(SONY) ULT FIELD 3 Bluetoothスピーカー パワフル重低音 クリアなボーカル ロングバッテリー24時間 ショルダーストラップ 防水 防塵 SRS-ULT30 BC ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0F32D3NPX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F32D3NPX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61nvZF9ClBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "片手で持ち運べるスリムなボディが奏でるダイナミックな重低音",
+        "パワフルでクリアなサウンド",
+        "周囲の騒音を検知し自動で調整　音場最適化機能",
+        "お風呂でも使える安心の耐久性",
+        "約24時間再生可能なバッテリー"
+      ],
+      "maker": "SONY",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 76,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:15:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B1QPMNYR",
+      "title": "Marshall ワイヤレススピーカー Bluetoothスピーカー ACTON III BLACK (ブラック) 【国内正規品】",
+      "url": "https://www.amazon.co.jp/dp/B0B1QPMNYR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B1QPMNYR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/815nga8GBqL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "形式 アクティブスピーカー/バスレフ型 通信方式 Bluetooth5.2",
+        "対応コーデック SBC パワー・アンプ",
+        "ウーファー用30W D級アンプx1 ツィーター用15W D級アンプx2",
+        "再生周波数帯域 45~20 000Hz",
+        "ワイヤレスレンジ 約10m 入力電圧 100~240V"
+      ],
+      "maker": "Marshall",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 2545,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FFGMFJHP",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:15:40+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DFHH1N33",
+      "title": "Marshall ワイヤレスポータブル防水スピーカー Emberton III ブラック&ブラス 連続再生32時間/IP67防水仕様/小型/急速充電 【国内正規品】",
+      "url": "https://www.amazon.co.jp/dp/B0DFHH1N33?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DFHH1N33?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81A1OIQUTHL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【マーシャル・シグネチャーサウンド】Emberton IIIは、リッチでパワフルなMarshallシグネチャーサウンドを届けます。ダイナミックラウドネス機能により、音量を調整するたびに周波数が適正に調整され、トーンバランスが常に適切に保たれます。前モデルよりもさらに大きな低音を備え、大音量でこそ真価を発揮します。",
+        "【ステレオフォニック】Marshall独自のマルチディレクショナルサウンドの一形態であるトゥルーステレオフォニックを搭載。Marshall製品でしか体験できない優れた空間音響とバイノーラルサウンドが周囲を包み込み、完全な360°サウンドでどんな空間も音楽で包み込みます。",
+        "【最大約32時間連続再生】1回の充電で最大約32時間の音楽再生が可能です。コンパクトなサイズ、耐久性、そして信頼性のある再生時間により、外出時に必携のアイテムとなります。バッテリーが切れても、わずか2時間でフル充電が完了します。急速充電に対応しており、わずか20分の充電で約6時間の再生が可能なため、すぐにリスニングセッションを再開できます。",
+        "【防塵防水仕様】シリコン製の外装と堅牢な金属グリルを備え、激しい雨にも耐えうる頑丈なデザインです。Emberton IIIは水にも強く、IP67の防塵・防水性能を持ち、水深1メートル（約3フィート）までの水中に最大30分間沈めても問題ありません。",
+        "【マイク内蔵】音楽が第一ですが、生活は慌ただしいものです。Emberton IIIには内蔵マイクが搭載されており、クリアなハンズフリー通話が簡単にできます。音楽を楽しんでいる最中でも、通話を受けることができます。"
+      ],
+      "maker": "Marshall",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 907,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0DG24RSX4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:15:51+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FPF9P4TK",
+      "title": "FUNLOGY Portable Mini2（スピーカー/ポータブルスピーカー）【VGP 2026 金賞】小型/防水対応 bluetooth/キャンプ/アウトドア/ワイヤレス/IPX7/お風呂/pc/スマホ/TWS【日本ブランド 】(ホワイト)",
+      "url": "https://www.amazon.co.jp/dp/B0FPF9P4TK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FPF9P4TK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61uDyMvkn6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【進化版・小型Bluetoothスピーカー／5W出力】FUNLOGY Portable Mini2 は、手のひらサイズのミニボディに5Wフルレンジ＋パッシブラジエーターを搭載したポータブルBluetoothスピーカー。スマートフォン・パソコン・タブレットとワイヤレス接続して、クリアな中高域と量感のある重低音をコンパクトに持ち運べます。動画視聴・音楽・ゲーム・ラジオ・ポッドキャストまで幅広く活躍。",
+        "【迫力の重低音×DSPサウンド】Φ45mmのダイナミックドライバーとパッシブラジエーター、さらに独自DSPチューニングにより、小型クラスながら60Hz帯まで伸びる低域を実現。ビートのキレとボーカルの抜けを両立し、BGM用途から映画・ライブ映像までバランス良く楽しめるワイヤレススピーカーです。",
+        "【IPX7防水・タフで安心】防水規格IPX7に対応。一時的な水没にも耐えられる設計で、アウトドアやキャンプ、ビーチ、プールサイド、キッチンやバスルームなど水回りでも安心。急な雨や水しぶきにも強い防水Bluetoothスピーカーです。※充電端子部分はしっかりフタを閉めてご使用ください。",
+        "【2台接続（TWS）でステレオ再生】同一機種を2台ペアリングすれば、左右チャンネルに分かれた本格ステレオに。臨場感が大幅アップし、PCやテレビの外部スピーカーとしても便利。リビング／デスク／ベッドサイドでも省スペースでサラウンド感を演出できます。",
+        "【Bluetooth 5.1／AAC対応・切替スムーズ】Bluetooth Ver.5.1、プロファイルA2DP/HFP、コーデックSBC/AACに対応。接続安定・低遅延で、iPhone/Android/タブレット/ノートPCなど幅広い機器と相性良好。過去に接続したデバイスを記憶し、マルチペアリングでかんたん切替。ハンズフリー通話も可能です。",
+        "【最大約12時間の連続再生※】600mAhバッテリーで、音量20%時は約12時間、音量100%時でも約3時間の連続再生。USB Type-Cで手軽に充電でき、デイリー使いから旅行・出張・アウトドアまで頼れるミニスピーカー。※使用環境・音量・楽曲により前後します。",
+        "【どこでも似合うシンプルデザイン】直径70mm×高さ80mm／約200gのコンパクトサイズ。握りやすいシルエットとストラップ付きで持ち運びラクラク。高開口グリルで抜けの良いサウンドを確保しつつ、デスク・キッチン・バスルーム・ベランダなど置き場所を選びません。",
+        "【ギフトにも最適】小型・軽量・防水で使い道が多く、誕生日プレゼントや父の日・母の日、クリスマス、引っ越し祝いにも好適。アウトドアスピーカー／お風呂スピーカー／ミニBluetoothスピーカーをお探しの方に。",
+        "【商品仕様】 ・モデル：FUNLOGY Portable Mini2 ・サイズ／重量：約Φ70×H80mm／約200g ・スピーカー：5W（4Ω）×1、Φ45mmフルレンジ＋パッシブラジエーター ・Bluetooth：Ver.5.1／Class2／通信距離 最大約10m（障害物なし） ・対応プロファイル：A2DP、HFP ・対応コーデック：SBC、AAC ・電源入力：5V 1.0A（USB Type-C 充電） ・バッテリー：600mAh ・連続再生時間：約12時間（音量20%）／約3時間（音量100%） ・防水防塵：IPX7 ・その他機能：2台接続（TWS）ステレオ、ハンズフリー通話、マルチペアリング、ストラップ付き ・付属品：USB Type-Cケーブル（充電用 約0.4m）、取扱説明書（保証書）",
+        "【ご使用上の注意】 ※AUX（有線）入力は非対応です。Bluetooth対応機器と接続してご使用ください。 ※防水性能は水道水・真水を想定しています。塩水・温泉・シャンプー等は使用後に真水で軽くすすぎ、よく乾燥させてください。 ※TWSは同一モデル2台でのみ動作します。"
+      ],
+      "maker": "FUNLOGY",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 391,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FPFC5J3F",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:16:01+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D32YZYYC",
+      "title": "Sonos Roam 2 | ポータブルスマートスピーカー Wi-Fi Bluetooth IP67防水防塵 ポータブル ウェーブ | 水深1mで最大30分間防水｜【VGP2025 Bluetoothスピーカー部門 金賞】｜ステレオペア対応｜Qi対応",
+      "url": "https://www.amazon.co.jp/dp/B0D32YZYYC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D32YZYYC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71TUkg5XL4L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "家の中でも外でも、どこへでも手軽に持ち運べる軽量コンパクトサイズ",
+        "Wi-FiとBluetoothの両方に対応。お家では本領発揮のWi-Fi再生、外出先ではBluetoothで",
+        "防水・防塵設計で、雨や砂ぼこりを気にせず使用可能",
+        "2台をステレオペアにすれば、より豊かでワイドなサウンドに",
+        "VGP2025 Bluetoothスピーカー (2万円以上3万円未満) 部門 金賞"
+      ],
+      "maker": "Sonos",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 71,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0D8B9ZFHW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:16:09+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B085R7TSN6",
+      "title": "バング・アンド・オルフセン (Bang & Olufsen) ポータブルスピーカー Beosound A1 2nd Black Anthracite Bluetooth ワイヤレス IP67認定 防水・防塵 ビデオ会議 18時間再生",
+      "url": "https://www.amazon.co.jp/dp/B085R7TSN6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B085R7TSN6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71SnDrliS9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【出荷元・販売元 Amazon.co.jp】から購入された製品のみ、メーカー保証2年となります。",
+        "パンチの効いた全指向性のTrue360サウンドで未だかつてない至福のサウンドを楽しめます。3つの内蔵マイクによりクリアな通話で、オンライン会議やハンズフリー通話もご利用いただけます。音楽だけでなく、幅広く活躍するポータブルスピーカーです。Multipoint機能を使えば、スマホを2台まで繋げて曲のコントロールを行えます。",
+        "耐久性に優れた持ち運びやすさの観点から、滑らかで柔らかな形を意識したデザインです。カラーバリエーションも豊富で、様々なライフシーンにてお使い頂ける定番の人気商品です。",
+        "もっと遠くに出かけよう。もっと長時間音楽を流そう。パワフルなバッテリーとお洒落でより軽量のデザインで、音楽をお供に新たなアドベンチャーに出かけましょう。通常の音量で合計最大18時間のオーディオ再生が楽しめるポータブルスピーカーです。",
+        "耐久性に優れた Beosound A1 は、防水はもちろん、砂やホコリも全く寄せつけません。ビーチからバスタブまでどこへ連れて行っても、さらには間違って落としてしまっても、このBluetoothスピーカーは音楽を流し続けます。"
+      ],
+      "maker": "バング・アンド・オルフセン",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 4052,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FPC8Z9GC",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:16:17+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FFS2ZTNP",
+      "title": "バング・アンド・オルフセン (Bang & Olufsen) ポータブルスピーカー Beosound A1 3rd Gen Warm Granite Bluetooth ワイヤレス IP67認定 防水・防塵 ビデオ会議 24時間再生",
+      "url": "https://www.amazon.co.jp/dp/B0FFS2ZTNP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FFS2ZTNP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61UCydmQVlL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【出荷元・販売元 Amazon】から購入された製品のみ、メーカー保証2年となります。B&amp;Oアプリで製品登録をするとさらに3年延長され合計5年の保証になります。",
+        "パンチの効いた全指向性のTrue360サウンドで未だかつてない至福のサウンドを楽しめます。さらにA1 3rd GEN同士はもちろんのこと、A1 2nd Genともステレオペアリングが可能です。先代モデルに比べて低音再生能力が62→64dbに強化されました。3つの内蔵マイクによりクリアな通話で、オンライン会議やハンズフリー通話もご利用いただけます。Multipoint機能を使えば、スマホを2台まで繋げて曲のコントロールを行えます。",
+        "耐久性に優れた持ち運びやすさの観点から、滑らかで柔らかな形を意識したデザインです。新たにコンパクトになったストラップロックを採用しました。",
+        "もっと遠くに出かけよう。もっと長時間音楽を流そう。パワフルなバッテリーとお洒落でより軽量のデザインで、音楽をお供に新たなアドベンチャーに出かけましょう。通常の音量で合計最大24時間のオーディオ再生が楽しめるポータブルスピーカーです。",
+        "耐久性に優れた Beosound A1 3rd Genは、IP67準拠の防水/防塵仕様です。ビーチからバスタブまでどこへ連れて行っても、さらには間違って落としてしまっても、このBluetoothスピーカーは音楽を流し続けます。"
+      ],
+      "maker": "バング・アンド・オルフセン",
+      "query": "codex_20261018_speaker",
+      "queries_matched": [
+        "codex_20261018_speaker"
+      ],
+      "review_count": 238,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0F533ZJTJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:16:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  },
+  "measurement_checkpointed_at": "2026-10-09T09:16:23+09:00"
+}

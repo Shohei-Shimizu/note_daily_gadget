@@ -1,0 +1,37 @@
+🚫 --exclude-asin により 9 件を選抜対象から外しました: B0B6ZQJXW8, B0BJCQCQ7Z, B0CSDGGTGK, B0D99ZL9DM, B0D99ZQG51, B0DGXVMNWY, B0F82HR8QZ, B0FBW976L9, B0FWK42FWG
+📦 候補読み込み: 12 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-28_gps_tracker_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 11 / 12
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 8
+
+-- 採用 --
+1. [Tier1] Ugreen / B0D53RXMB1 / review=11662 star=4.0 ★有名ブランド
+   UGREEN FineTrack 紛失防止タグ 探し物Appleの「探す」に対応 (iOS端末のみ) スマートトラッカー 1個 鍵/バッグ/
+2. [Tier1] Anker / B0DWMPNCLC / review=7830 star=4.0 ★有名ブランド
+   Anker Eufy SmartTrack Card E30（充電式紛失防止トラッカー）
+3. [Tier1] Anker / B0D9VTLK47 / review=6998 star=4.0 ★有名ブランド
+   Anker Eufy (ユーフィ) SmartTrack Link (Android用) (紛失防止タグ) 【 Googleの「検索ハブ」に
+4. [Tier1] Ugreen / B0FRLWSGPW / review=3308 star=4.0 ★有名ブランド
+   UGREEN Finder Duo Android/iOS対応 紛失防止タグ USB-C充電式電池 財布/鍵/荷物/かばん用 4個セット
+5. [Tier1] Life360 / B0D99ZHVD2 / review=902 star=4.2 
+   Tile Slim (2024) 薄いカード型スマートトラッカー
+6. [Tier1] Life360 / B0D9B21YQP / review=834 star=4.0 
+   Life360 Tile Pro 電池交換可 ハイスペックモデル ブラック スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 音
+7. [Tier1] VOCOlinc / B0FWJYNGXT / review=662 star=4.0 
+   VOCOlinc エアタグ カード型（ios/Android 用）ワイヤレス充電式 紛失防止タグ
+8. [Tier1] Apple / B0GJTW9CL8 / review=564 star=4.4 ★有名ブランド
+   Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 3 件 --
+  - [Tier2] Life360 / B0D9B1QB38: 多様性制約または件数上限のため非選抜
+  - [Tier3] ELECOM / B0FHP92TQ9: 多様性制約または件数上限のため非選抜
+  - [Tier2] Apple / B0GJTXZHDX: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 1 件 --
+  - B0936FGTX5 / Apple AirTag 紛失防止タグ 置き忘れ防止 耐水 防塵 iPhone/: 在庫切れのため除外
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-28_持ち物の場所を確認する。「紛失防止タグ」.md

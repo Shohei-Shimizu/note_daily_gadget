@@ -1,0 +1,33 @@
+🚫 --exclude-asin により 2 件を選抜対象から外しました: B0CSYYKB97, B0DQQBC88X
+📦 候補読み込み: 11 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_usb_hub_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 11 / 11
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier2 / 緩和: あり
+採用件数: 5
+
+-- 採用 --
+1. [Tier1] Anker / B0BQMSXFP7 / review=27609 star=4.3 ★有名ブランド
+   Anker 332 USB-C ハブ (5-in-1) 100W USB PD対応 4K HDMIポート5Gbps 高速データ転送 USB-
+2. [Tier1] Ugreen / B093FKT9BF / review=9034 star=4.2 ★有名ブランド
+   UGREEN Revodok 107 USB Cハブ 7-IN-1
+3. [Tier1] Ugreen / B0D1XLNWP2 / review=7324 star=4.1 ★有名ブランド
+   UGREEN Revodok USB-C ハブ 6in1 100W USB PD対応 4K 60Hz 10Gbps 高速データ転送 HDMI
+4. [Tier2] Anker / B0DLWDJJQ8 / review=444 star=4.3 ★有名ブランド
+   Anker USB-C ハブ (5-in-1, 4K, HDMI) グレー
+5. [Tier2] ELECOM / B0DVFVVV5S / review=137 star=4.2 ★有名ブランド
+   エレコム USBハブ USB-C接続 USB3.2(Gen1) 5Gbps 4ポート バスパワー 15cm ケーブル 小型・軽量設計 ブラッ
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 6 件 --
+  - [Tier1] Ugreen / B0BXDQS4BD: 多様性制約または件数上限のため非選抜
+  - [Tier1] Ugreen / B0D1XSKZRJ: 多様性制約または件数上限のため非選抜
+  - [Tier2] Anker / B0CTQGM5ZN: 多様性制約または件数上限のため非選抜
+  - [Tier3] ELECOM / B0D53WG438: 多様性制約または件数上限のため非選抜
+  - [Tier3] Belkin / B0FXDVQMQG: 多様性制約または件数上限のため非選抜
+  - [Tier3] Belkin / B0DTJTS1WN: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-06_周辺機器をひとまとめ。用途で選ぶUSB-Cハブ.md

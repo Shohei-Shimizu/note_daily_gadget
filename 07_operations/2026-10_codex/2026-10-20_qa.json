@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-20",
+  "topic_id": "daily_gadget_20261020_dca5b3d0",
+  "status": "reserved",
+  "research_original_sha256": "f237a874371a50460bc7b83a19aa6abe817daf6036e180e3d000d62852f20bf7",
+  "selected_asins_in_order": [
+    "B0DP3HZX4D",
+    "B07ZHZFZG8",
+    "B08HDL3XJR",
+    "B0DG9ZXWMK",
+    "B09988GM1B",
+    "B08BP625V6",
+    "B0DWMVW8RS"
+  ],
+  "article_product_count": 7,
+  "intro_paragraphs": 2,
+  "description_lengths": [
+    147,
+    140,
+    131,
+    121,
+    136,
+    146,
+    137
+  ],
+  "related_count": 3,
+  "category": "生産性向上・クリエイティブ・入力機器",
+  "tags": "おすすめガジェット デジタルノート 電子ペーパー 手書き 生産性",
+  "checks": {
+    "research_urls_order_preserved": true,
+    "research_machine_fields_preserved": true,
+    "machine_memo_preserved": true,
+    "reviews_price_experience_in_article": false,
+    "individual_review_text_available": false,
+    "jev_skipped": true
+  },
+  "source_discrepancies": [
+    {
+      "issue": "Rocketbook旧新は世代別。アプリ撮影方式で電子的自動筆記送信ではない",
+      "handling": "方式差と新世代ページ欄を説明、旧Coreを旧モデルと明示"
+    },
+    {
+      "issue": "QUADERNO旧新は世代別、アプリ/端子/容量が異なる",
+      "handling": "Gen2 QUADERNO PC App/USB-C/32GB、Gen1 DigitalPaperPCApp/microUSB/16GBを明確化。現行公式Windows11対応の条件をsourceで記録"
+    },
+    {
+      "issue": "SHARP原本はmainが再選抜して除外済み",
+      "handling": "最終SHA f237a874の7品だけ使用"
+    }
+  ],
+  "remaining": [
+    "main integration/title/metadata/thumbnail/UI final checks"
+  ],
+  "note_url": "https://note.com/daily_gadget/n/ndbe6dad9c958",
+  "scheduled_jst": "2026-10-20 20:00",
+  "ui_checks": {
+    "product_cards": 7,
+    "idea_cards": 1,
+    "related_cards": 3,
+    "plain_urls": 0,
+    "toc": true,
+    "thumbnail": true,
+    "tags": 5,
+    "magazine": "生産性向上・クリエイティブ・入力機器"
+  }
+}

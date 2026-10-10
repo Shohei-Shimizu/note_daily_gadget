@@ -1,0 +1,985 @@
+{
+  "generated_at": "2026-10-09T00:42:07+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261025_9fa4e1cd",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "codex_20261025_trackball"
+  ],
+  "fetched_count": 26,
+  "dedup_count": 26,
+  "candidates": [
+    {
+      "asin": "B016QCPNUW",
+      "title": "エレコム ワイヤレス トラックボールマウス EX-G 握りの極み 6ボタン チルトホイール（左右スクロール） ブラック M-XT3DRBK",
+      "url": "https://www.amazon.co.jp/dp/B016QCPNUW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B016QCPNUW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51xk731l6KL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "確かな基本性能とかつてない新機能を搭載した、進化した親指操作タイプのワイヤレストラックボールです。",
+        "トラックボールの動きを検出するセンサーに、ゲーミンググレードの高性能光学式センサーを搭載し、新型の高性能レンズと周辺の光学設計の最適化で抜群のポインタ追従性を実現しています。",
+        "直径2.5mmの大型人工ルビーを支持球に採用することで、操球感が向上しています。また支持球の大径化により、支持球が手あか等のゴミに埋もれにくくなり、メンテナンス頻度が低減しています。",
+        "操作時に接触する6つの手の骨格・筋肉に着目し、窪みや膨らみを考慮した設計により、まるで手のひらの形状がそのまま映し出されたかのような、操作しやすい新しい「のせ心地」を実現しています。",
+        "Webページ閲覧の効率を上げる「進む」、「戻る」ボタンを搭載しています。ボタンの大きさ・形状の工夫により、よりアクセスしやすくなりました。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 9756,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0CHYHN8CS",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:42:10+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D9Y1J4NH",
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0D9Y1J4NH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9Y1J4NH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/619NsX0xdiL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "人気のトラックボールマウスM575と比較してクリック音を80%削減し静音化＆Logi Boltに対応し接続方式をアップデートしました。",
+        "M575SPd／保証期間1年間のAmazon.co.jp限定モデル ※Amazon.co.jp限定 壁紙ダウンロード付き",
+        "接続はBluetooth・UnifyingからBluetoothまたはLogiBoltにアップデート／接続の信頼性と安定性を更に向上。LogiBoltレシーバーは本製品に同梱されています。",
+        "「Logi Options+」に追加されたマクロ登録機能「Smart Actions」対応／複雑な操作を必要としていたショートカットやファンクションをひとつのボタンに割り当てできます。",
+        "マウスの位置は固定したまま本体のボールを転がしてマウスを操作するマウス(トラックボールマウス)／腕を動かさないので疲れにくいです。",
+        "象徴的なシェイプと傾斜角度が付いたスクロールホイールで指をより自然な位置にホールド／幅広い手の大きさにフィットします。",
+        "ロジクール アドバンス オプティカル トラッキングでなめらかで精確なボールコントロール／400dpi-2000dpiに対応します。",
+        "単三形乾電池1本で18ヵ月の長電池寿命　※電池寿命は使用状況・環境によって異なる場合があります。",
+        "ビジネスに最適な静音・高セキュリティ仕様／手首の筋肉緊張を25%軽減する人間工学設計に加え、クリック音を80%削減した静音技術と、オフィスでも安全・安定接続できる「Logi Bolt」レシーバー接続を搭載し、省スペースで最長18ヶ月使用可能な高機能トラックボールです。",
+        "対応OS : [Bluetooth] Windows 10以降、macOS 11以降、iPadOS 14以降、ChromeOS [Logi Bolt] Windows 10以降、macOS 11以降、ChromeOS"
+      ],
+      "maker": "Logicool",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 2642,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H8XVRBYV",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:42:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B079FDQZXQ",
+      "title": "エレコム マウス ワイヤレス (レシーバー付属) トラックボール 大玉 8ボタン チルト機能 ブラック M-HT1DRXBK",
+      "url": "https://www.amazon.co.jp/dp/B079FDQZXQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B079FDQZXQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71pEJsAZ6eL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "直径52mmの大型ボールを採用したことで、一度の操作でポインタをより広範囲に動かせる人差し指・中指操作タイプのワイヤレストラックボールマウス“HUGE”です。",
+        "手首から手のひら全体が乗せられる低反発素材のパームレストを本体上面部に採用し、長時間のPC作業による手首への負担を軽減します。",
+        "トラックボールの動きを検出するセンサーに、ゲーミンググレードの高性能光学式センサーを搭載しています。",
+        "光学式センサーに適したトラックボールの色やコーティング層の厚みなどを徹底解析し、トラックボールの設計を一から見直すことで、究極のポインタ追従性能を実現しました。",
+        "支持球に直径2.5mmの大型人工ルビーを採用し、表面が滑らかなもののみを厳選した最高級品質の支持球を用いることで、操球感が格段に向上しています。また、支持球が大型であることにより、支持球が手あかなどのゴミに埋もれにくくなり、メンテナンス頻度が低減しています。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 2357,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0G123MT46",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:42:26+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H8T6V98L",
+      "title": "ProtoArc EM04 トラックボールマウス 静音 Bluetooth 2.4GHz 3台同時接続 人間工学 手首負担軽減 親指操作 省スペース | 無線 USB-C充電式 高精度 5段階DPI 進む/戻るボタン搭載 Mac Windows An",
+      "url": "https://www.amazon.co.jp/dp/B0H8T6V98L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H8T6V98L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/616T-ISAsbL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "✅【手首への負担を抑える15°エルゴノミクスデザイン】自然な角度で握れる15°の傾斜角を採用したトラックボール。手首をひねらずに操作できるため、長時間のPC作業による手首や前腕の筋肉への負担を大幅に軽減し、マウス腱 鞘炎対策に最適です。デスクワークの多い方や、初めてトラックボールマウスを試してみたい方に自信を持っておすすめします。(※手のひらの下から中指の先端までが17.5cm未満の「手の小さい方」には不向きです。ご購入前にサイズをご確認ください)",
+        "✅ 【省スペースな親指操作・どこでも快適作業】本体を動かさず、親指でボールを転がすだけでカーソルを操作できる親指タイプのトラックボールマウスです。マウスパッドが不要なため、狭いデスクはもちろん、新幹線の座席、ソファ、ベッド、膝の上など、スペースが限られた場所でも正確に操作可能。在宅勤務（リモートワーク）や出張先での限られた作業環境を最大限に活用できます。",
+        "✅ 【3台同時接続・マルチOS対応】Bluetooth接続（2台）と2.4GHzワイヤレス接続（1台）の両方に対応。ワイヤレスマウスの本体裏面の接続モード切替ボタンを押すだけで、パソコン、タブレット、スマホなど最大3台のデバイスを瞬時に切り替えられます。Windows、macOS、iPadOS、iOS、Android、Chrome OSなど幅広いOSに対応し、複数端末を使い分けるマルチタスクにぴったりです。(※USBレシーバーは本体裏側に収納。macOSでは進む・戻るボタンは非対応です)",
+        "✅【静音クリック】左右ボタンには静音スイッチを採用し、クリック音を90%以上軽減した静音マウスです。オフィス、図書館、深夜の自宅など、静かな環境でも周囲を気にせず使用できます。（※DPI・進む/戻るボタンは静音仕様ではありません。）",
+        "✅【5段階DPI調節・作業効率を高める6ボタン】作業内容に合わせて200/400/800/1200/1600の5段階DPI（カーソル速度）を自由に変更できます。広い画面での素早いカーソル移動から、一般的な事務作業までスムーズに対応。一般的なマウスと違いマウス本体を動かさないため、狙い通りのポインティングが可能です。さらに、Webブラウジングを効率化する「進む/戻る」ボタンやDPI変更ボタンなど、実用的な6ボタンを搭載し、作業効率を大幅に向上させます。(※1.横スクロール非対応 。2.ボタン割り当てには別途ソフトウェアが必要です。3.画像編集やCAD設計など、極めて繊細なカーソル操作を要する作業には不向きです。)",
+        "✅【USB-C充電式・1年間安心保証】450mAhの大容量バッテリーを内蔵したエコな充電式マウスです。1回のフル充電で最大70時間の連続使用を実現し、面倒な使い捨て乾電池の交換手間とコストをスマートに削減します。低電力お知らせランプを搭載し、出張や旅行先での急なバッテリー切れを未然に防止。ProtoArc正規品には「1年間のメーカー保証」が付帯しております。万が一初期不良や不具合がございましたら、お気軽に当店までメールにてご連絡ください。"
+      ],
+      "maker": "ProtoArc",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 8,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:42:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D9Y1SNQT",
+      "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MXTB2d MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品 ※Amazon.co.jp限定 壁紙ダウンロード付き",
+      "url": "https://www.amazon.co.jp/dp/B0D9Y1SNQT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D9Y1SNQT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61BhMOiauWL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "人気の高機能トラックボールマウスMXTB1がクリック音を80%削減し静音化＆接続方式をLogi Boltに対応しアップデートしました。",
+        "MXTB2d／保証期間1年間のAmazon.co.jp限定モデル ※Amazon.co.jp限定 壁紙ダウンロード付き",
+        "接続はBluetooth&amp;UnifyingからBluetooth&amp;LogiBoltにアップデート／接続の信頼性と安定性を更に向上 ※Logi Boltレシーバーは本製品に同梱されています。",
+        "「Logi Options+」に追加されたマクロ登録機能「Smart Actions」対応／複雑な操作を必要としていたショートカットやファンクションをひとつのボタンに割り当てできます。",
+        "USB-C充電式／1分間の充電で24時間、フル充電で最長120日間の使用ができ、長時間使用する際もバッテリーを気にすることなくお使いいただけます。※USB-C充電ケーブルは同梱していません。電池寿命は使用状況により異なります。",
+        "トラッキング速度を変更できるプレシジョンモードボタン／ボタンを押すだけでスピードモードとプレシジョンモードを瞬時に切り替えできます。",
+        "ティルト搭載プレシジョンスクロールホイール／水平スクロールとミドルクリック、左右ティルト(横にたおす)が可能です。",
+        "ロジクール アドバンス オプティカル トラッキングでなめらかで精確なボールコントロール／512dpi-2000dpiに対応。",
+        "【法人・ビジネス利用にもおすすめ】：企業の安全なIT環境を守るため、米国連邦情報処理標準（FIPS）に準拠した高いセキュリティと、混雑したオフィスでも安全かつ安定した接続を実現するLogi Bolt接続に対応。業務効率化の面では、マクロ機能「Smart Actions」により複雑な定型作業をワンクリックで自動化できます。さらに、前腕の筋肉緊張をを27%軽減する設計が長時間の集中力を維持し、1分の充電で24時間使えるUSB-C急速充電対応など、企業の生産性向上に直結する機能を凝縮しています。",
+        "対応OS:[Bluetooth] Windows 10以降、macOS 11以降、iPadOS 14以降、ChromeOS、Android 9.0以降 [Logi Bolt] Windows 10以降、macOS 11以降、ChromeOS"
+      ],
+      "maker": "Logicool",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 1125,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GK73K8RY",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:42:43+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BG9VR34L",
+      "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音",
+      "url": "https://www.amazon.co.jp/dp/B0BG9VR34L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BG9VR34L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51P5IOf9qVL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "💡【手首と腕の負担を軽減する設計】 マウスを動かす必要がないため、手首や腕にかかる負担を最小限に抑えた設計となっています。長時間マウスを使用していると、手首や肩に痛みを感じることがありますよね？そんなお悩みにぜひおすすめしたいのが、疲れを軽減し、スペースを取らないトラックボールマウスです。EWIN製トラックボールは、親指でボールを転がすことでカーソル操作が可能。また、手にしっくりとなじむエルゴノミック形状を採用しており、快適な操作が期待できます。手首や肩の負担を感じる方にぴったりの解決策です。負担を軽減しながら、効率的で快適な作業を実現するために、ぜひEWIN製トラックボールをお試しください。",
+        "🌟【多彩なボタン機能が充実】快適性と使いやすさに優れたトラックボールマウスには、左右のボタンとホイールに加えて、使い方に合わせてカウント数を変えられるDPIボタンが装備されています。このDPIボタンにより、カーソルの速さを200カウント、400カウント、800カウント、1200カウントと1600カウントの5段階で切り替えることができます。これにより、Excelや描画などの詳細な作業から画面を広く使う作業まで、すべてを無理なく行うことができます。また、インターネットの閲覧に便利な進む・戻るボタン（※Mac非対応）も備えられており、ウェブページの閲覧も楽々行えます。",
+        "🔗【ワイヤレス接続が便利】省エネ性に優れたBluetoothチップと高度な2.4GHzテクノロジーのマイクロレシーバーを採用し、最大10mの接続範囲を提供。混雑したワイヤレス環境でも途切れにくく、安定した接続を実現しています。BluetoothとUSBレシーバーの両方に対応しており、USBポートのないデバイスでも安心して使用可能です。（USBレシーバーは本体の電池収納部内に収納されています。ご使用前に電池カバーを開けてご確認ください。）",
+        "🔋【最大18ヶ月の長寿命電池】省電力技術を採用し、たった単三形乾電池1本で最大18ヶ月間も電池交換不要で快適に使用できます。また、便利なステータスインジケーターも備えています。",
+        "❎【静音設計で騒音を軽減】クリック音を静かに抑えた設計で、従来のモデルと比べて90%以上も騒音を軽減。カフェや図書館などの静かな場所でも、周囲を気にせずに作業に集中できます。",
+        "♻【広範な互換性】Windows 8.0、Windows 10、Windows Vista、Mac OSX 10.10以降、Android 4.3以降、iOS 8.0以降のBluetooth搭載デバイスに対応。幅広いデバイスで使用可能です。"
+      ],
+      "maker": "Ewin",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 739,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-15",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FHVWWS82",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:42:52+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CZKNNNXJ",
+      "title": "エレコム ワイヤレス トラックボールマウス Bluetooth IST (アイエスティー) シリーズ 5ボタン 親指操作 ベアリング支持 Windows Mac Chromebook ブラック 2 M-IT11BRABK",
+      "url": "https://www.amazon.co.jp/dp/B0CZKNNNXJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CZKNNNXJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/613H8qq1rCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "楽な姿勢で操作できるエルゴノミクス形状と圧倒的になめらかな操作性を実現した、親指操作タイプのトラックボール“IST”。握らず自然な手の形で使えるエルゴノミクスデザインを採用。手の大きさや握り方を問わず、手になじむ形状です。",
+        "支持ユニットにはミネベアミツミ社製高性能ベアリングを採用。摩擦による抵抗が減るため、空中に浮いているような、なめらかな操球を実現しました。またボール表面を擦らないので、支持ユニットにゴミが集まりにくく、長期間メンテナンスフリーでご使用いただけます。",
+        "支持ユニットは簡単に取り外し可能で、ベアリングはもちろん、人工ルビーにも交換可能です。※交換用のベアリングユニット(M-BS10)及び人工ルビーユニット(M-RS10)は別売です。",
+        "Webブラウザやフォルダの操作時に便利な「進む」、「戻る」ボタンを含めた5ボタンを搭載しています。ボタンの機能割り当ては、無料でダウンロードできる「エレコム マウスアシスタント」を利用して変更可能です。",
+        "保証期間：2年間"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 470,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0DTHFHLB9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:43:02+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GZP4CVXP",
+      "title": "【最新型】ProtoArc EM02 トラックボールマウス 静音 2段階角度調整 Bluetooth 2.4GHz 3台同時接続 人間工学 手首が楽 | 無線 親指操作 省スペース 充電式 5段階DPI切替 進む/戻るボタン搭載 在宅勤務 オフィス",
+      "url": "https://www.amazon.co.jp/dp/B0GZP4CVXP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GZP4CVXP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71X1pIO4TCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "👍【手首に優しいトラックボールマウス】人間工学に基づいた調整可能な15°傾斜デザインにより、手首をひねらず自然な姿勢で操作できるため、長時間の作業でも疲れにくいトラックボールマウスです。0°と15°の2段階で角度を自由に調整可能。マウス本体の傾斜角が手に自然にフィットし、手首や腕への負担を大幅に軽減します。親指でボールを動かすトラックボールは、マウス本体を動かす必要がないため、ソファや膝の上など狭いスペースでもストレスなくカーソル操作が可能です。※本製品は中～大サイズの手に最適です。手のひらの長さが17.5cm以上、20cm未満の方にお勧めです。 ご購入前に手のサイズをご確認ください。",
+        "🔄【3台同時接続＆ワンタッチで簡単切替】このワイヤレスマウスはBluetoothと2.4GHz USBレシーバーの両方に対応し、PC・タブレット・スマホなど、最大3台のデバイス(Bluetooth×2台、2.4GHz×1台）を同時に接続できます。マウス上部のモード切替ボタンを押すだけで、複数のデバイスをシームレスに切り替えられます。対応: WinXP、Win7、Win8、Win10以降、macOS X 10.12以降、Android5.0以降、iOS13以降など。※USBレシーバーはマウス本体の裏面に収納されています。",
+        "🔇【静かなクリック＆便利なサイドボタン】左右ボタンは静音スイッチを採用しているため、クリック音がほとんどなく、図書館やカフェ、オフィスなど静かな環境でも周囲を気にせず快適に作業できます。さらに、マウスサイドに「進む」「戻る」が搭載されており、ブラウジングや作業効率が大幅に向上します。※注意: 1.進む・戻るボタンやスクロールホイールは静音仕様ではありません。2.MacOSでは進む/戻るボタンは動作しません。3.ボタンの機能は専用ソフトウェアによるカスタマイズはできません。",
+        "🔋【Type-C充電式＆長時間使用可能】500mAhの大容量バッテリーを内蔵し、一度のフル充電で最大約150時間の連続使用と90日間の連続待機が可能です。面倒な電池交換や頻繁な充電の手間を省き、長時間安心してご使用いただけます。また、バッテリー残量表示ランプを搭載しており、バッテリーの状態が一目で確認できるため、突然の電池切れの心配もありません。",
+        "✅【滑らかな操球感＆高精度センサー】直径34mmの大型ボールと高精度センサーの組み合わせで、なめらかで正確なトラッキングを実現する無線マウス。DPIは200・400・800・1200・1600の5段階から選べ、作業内容に応じて最適なカーソル速度で操作できます。※極めて繊細な操作には不向きです。",
+        "💦【お手入れが簡単】トラックボールのボール部分はホコリが溜まりやすいため、定期的な掃除が必要です。より快適に使用するために、週1～2回の掃除を推奨します。裏側の小さい穴に綿棒などの細い棒を突っ込んでトラックボールを取り外し、ボール部分の交換・拭き取りなどのメンテナンスが簡単にできます。（ボールを転がした時に、ひっかかりを感じる場合は、ボールとボールをはめ込む部分を掃除してみてください。）",
+        "♥️【安心の18ヶ月メーカー保証】お買い上げ日より18ヶ月のメーカー保証が付いています。万が一お届けした商品が不良品や破損品である場合、ご要望に応じて、早急に交換または返金対応させて頂きます。※商品ページ内には、初めての方でも安心な【トラックボールの掃除方法】と【よくある質問】の解説動画をご用意しております。"
+      ],
+      "maker": "ProtoArc",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 52,
+      "star_rating": 4.0,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "mouse",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-07",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:43:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F9JQN6VF",
+      "title": "Kensington ケンジントン Pro Fit Ergo TB550 ワイヤレストラックボール 充電式 K72180JP ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0F9JQN6VF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F9JQN6VF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51k3EdeP+tL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "51％リサイクル再生プラスチック使用：Kensingtonはサスティナブルな経営を目指し51％をリサイクルされた再生プラスチックを使用しています。 USB-C充電式バッテリー搭載",
+        "高精度な光学センサー：精度の高い光学センサーを搭載。スムーズかつ精密なカーソルの動きを実現します。また底面のDPIボタンでカーソルスピードを調整できます。(400DPI、800DPI、1200DPI、1600DPI）",
+        "デュアルワイヤレス接続：TB550トラックボールはBluetooth@Low Energy(LE)または2.4HGzワイヤレス接続（2.4GHzワイヤレスレシーバー）での接続が可能です。",
+        "人間工学に基づいたエルゴノミクス設計：1日中使用しても快適に操作できるように人間工学に基づいた設計。45°の傾斜がついているのでマウス操作中の手と手首の角度を握手をした時のような自然な角度に保ちます。またスクロールホイールは4Dスクロール機能付なので垂直スクロールと水平スクロールを行うことができます。",
+        "特許取得のボール取り出しボタン：Kensingtonの特許取得のボール取り出しボタンでボールを簡単に取り出すことができます。定期的なお手入れの際に非常に便利です。"
+      ],
+      "maker": "Kensington",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 162,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "mouse",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-26",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0F9JTB3Q4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:43:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C7B6VD99",
+      "title": "サンワダイレクト トラックボール エルゴノミクス マウス 静音 無線 Bluetooth 2.4GHz 充電式 400-MAWBTTB190BK",
+      "url": "https://www.amazon.co.jp/dp/B0C7B6VD99?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C7B6VD99?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Es+rssltL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "親指から小指まですべてがぴったりフィットする エルゴ 形状の トラックボールマウス です。絶妙なカーブ形状で握りやすく、手首への負担を軽減することができます。",
+        "ブルートゥース 接続と2.4GHz ワイヤレス 接続の2種類の接続方法に対応しています。底面のスイッチで簡単に切り替えながら、複数の機器を操作することができます。",
+        "WEB閲覧などに便利な戻る・進むボタンを搭載しています。全ボタンが静音仕様の 静音マウス なので、周囲を気にせずご使用いただけます。また使用頻度の高い戻るボタンは、人差し指で操作しやすい位置へ配置しています。",
+        "乾電池不要の 充電 式で、付属のType-Cケーブルを使用して充電することができます。用途に応じてカーソルスピードを、800、1200、1600の3段階で調整することができる ボールマウス です。",
+        "親指 で操作しやすい中型 ボール を採用しています。マウス裏面からボールを取り外せば、簡単にお手入れができます。",
+        "■保証期間：ご購入日より1年"
+      ],
+      "maker": "サンワダイレクト",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 254,
+      "star_rating": 3.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "mouse",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-07",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0CV394W6F",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:43:26+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H1W2NG3L",
+      "title": "エレコム ワイヤレス トラックボール マウス IST PLUS (アイエスティー プラス) ボールローラー Bluetooth×2 無線2.4GHz×1 マルチ接続 Windows/mac/iPad/Chrome/Android ブラック M-IT1",
+      "url": "https://www.amazon.co.jp/dp/B0H1W2NG3L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H1W2NG3L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61DMsnTbqBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "360度自在に回転するボールで支持する構造により摩擦抵抗を低減し、よりなめらかな操球感を実現した親指操作タイプのトラックボール“IST PLUS”ボールローラーモデルです。",
+        "2つの接続方式をシーンに合わせて使い分けられ、3台まで接続先を登録できます。本体側面のボタンで接続先の切り替えとペアリング操作が可能です。3色(白/青/緑)のLEDで接続チャンネルを識別できます。",
+        "各ボタンの機能割り当てなどをマウス本体に保存できるオンボードメモリ機能を搭載。3つのプロファイル(設定セット)を本体に保存できるため、接続先を変更しても同じ設定のまま使えます。",
+        "支持ユニットは簡単に取り外し可能。専用の取り外しツールが付属しています。人工ルビー、ベアリングにも交換可能です。※交換用のボールローラーユニット(M-TU03SS)、ベアリングユニット(M-BS10)、人工ルビーユニット(M-RS10)は別売です。",
+        "7台まで接続先を登録できるELECOM Bridge E USBレシーバーを同梱しています。干渉を軽減し、安定した通信品質を実現しました。また、BLEセキュリティモード1 セキュリティレベル4の技術を採用し、マウス・キーボードとパスキー入力による認証を行うため、セキュリティ面も安心です。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 104,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "mouse",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H1W4MPCP",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:43:35+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B016QCPO0G",
+      "title": "エレコム USB 有線 トラックボールマウス 6ボタン チルトホイール（左右スクロール） ブラック M-XT3URBK",
+      "url": "https://www.amazon.co.jp/dp/B016QCPO0G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B016QCPO0G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51EExh2fAmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "確かな基本性能とかつてない新機能を搭載した、進化した親指操作タイプのUSBトラックボールです。",
+        "トラックボールの動きを検出するセンサーに、ゲーミンググレードの高性能光学式センサーを搭載し、新型の高性能レンズと周辺の光学設計の最適化で抜群のポインタ追従性を実現しています。",
+        "直径2.5mmの大型人工ルビーを支持球に採用することで、操球感が向上しています。また支持球の大径化により、支持球が手あか等のゴミに埋もれにくくなり、メンテナンス頻度が低減しています。",
+        "操作時に接触する6つの手の骨格・筋肉に着目し、窪みや膨らみを考慮した設計により、まるで手のひらの形状がそのまま映し出されたかのような、操作しやすい新しい「のせ心地」を実現しています。",
+        "Webページ閲覧の効率を上げる「進む」、「戻る」ボタンを搭載しています。ボタンの大きさ・形状の工夫により、よりアクセスしやすくなりました。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 2996,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0CHYG5W78",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:43:42+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B016QCPRBM",
+      "title": "エレコム ワイヤレス トラックボールマウス EX-G 左手用 6ボタン チルトホイール（左右スクロール） ブラック M-XT4DRBK",
+      "url": "https://www.amazon.co.jp/dp/B016QCPRBM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B016QCPRBM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51FZnjk4duL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "確かな基本性能とかつてない新機能を搭載した、左手用・親指操作タイプのワイヤレストラックボールです。",
+        "トラックボールの動きを検出するセンサーに、ゲーミンググレードの高性能光学式センサーを搭載し、新型の高性能レンズと周辺の光学設計の最適化で抜群のポインタ追従性を実現しています。",
+        "直径2.5mmの大型人工ルビーを支持球に採用することで、操球感が向上しています。また支持球の大径化により、支持球が手あか等のゴミに埋もれにくくなり、メンテナンス頻度が低減しています。",
+        "操作時に接触する6つの手の骨格・筋肉に着目し、窪みや膨らみを考慮した設計により、まるで手のひらの形状がそのまま映し出されたかのような、操作しやすい新しい「のせ心地」を実現しています。",
+        "Webページ閲覧の効率を上げる「進む」、「戻る」ボタンを搭載しています。ボタンの大きさ・形状の工夫により、よりアクセスしやすくなりました。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 3286,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0BDJL7N1T",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:43:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0171QQ7IY",
+      "title": "エレコム USB マウス 有線 トラックボール 人差し指用 8ボタン ブラック M-DT2URBK",
+      "url": "https://www.amazon.co.jp/dp/B0171QQ7IY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0171QQ7IY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61FiHHadx3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "圧倒的な操作性能を誇る人差し指操作タイプのUSBトラックボール“DEFT”です。",
+        "左右ボタン、「進む・戻る」ボタンに加え、チルトホイール、3つの機能割り当てボタンの8ボタンを搭載しています。",
+        "トラックボールの動きを検出するセンサーに、ゲーミンググレードの高性能光学式センサーを搭載し、新型の高性能レンズと周辺の光学設計の最適化で抜群のポインタ追従性を実現しています。",
+        "直径2.5mmの大型人工ルビーを支持球に採用することで、操球感が向上しています。また支持球の大径化により、支持球が手あか等のゴミに埋もれにくくなり、メンテナンス頻度が低減しています。",
+        "操作時に接触する6つの手の骨格・筋肉に着目し、窪みや膨らみを考慮した設計により、まるで手のひらの形状がそのまま映し出されたかのような、操作しやすい新しい「のせ心地」を実現しています。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 1365,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0G11Y4828",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:43:59+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01BXS17N6",
+      "title": "Kensington ExpertMouse ワイヤレストラックボール K72359JP 【日本語パッケージ】",
+      "url": "https://www.amazon.co.jp/dp/B01BXS17N6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01BXS17N6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61V-jjI1rhL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "メーカー3年保証付",
+        "利き手を選ばないデザイン:右利きでも、左利きでも快適に操作できる左右対称のデザインです。",
+        "スクロールリングと直径55㎜大玉ボール : スクロールリングを回せば、Webページやドキュメントのスクロールも楽々。レッドのボールは表面が硬く、完全な球体に仕上げた特別設計で、正確なトラッキングと制御を実現しています。",
+        "ダイヤモンドアイ オプティカルセンサー:動きを検知するテクノロジーでスムーズかつ正確なカーソル制御を実現。手をあまり動かさなくても画面上の目指す位置に移動できるため、生産性や作業効率が向上します。",
+        "接続方式/Bluetoothまたは2.4GHz USB 付属品/レシーバー、パームレスト、日本語取扱説明書",
+        "対応OS:Chrome OS 44, macOS 10.8, macOS 10.9, macOS X 10.10, macOS X 10.11, Windows 7, Windows 8, Windows 8.1, Windows 10"
+      ],
+      "maker": "Kensington",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 736,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0BF4ZLHSQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:44:06+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08GSCC8RX",
+      "title": "エレコム トラックボールマウス ハンディタイプ Relacon メディアコントロールボタン搭載 スタンド付 静音 Bluetooth ブラック M-RT1BRXBK",
+      "url": "https://www.amazon.co.jp/dp/B08GSCC8RX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08GSCC8RX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/6186IcDnYeL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "マウス操作をデスクから開放し、リラックスしたパソコン・タブレット操作を実現するBluetooth(R)ハンディートラックボール“Relacon”です。",
+        "ソファやベッドでくつろぎながら、椅子にもたれながらの動画視聴やブラウジングに適しています。",
+        "左右どちらでも握りやすく、操作しやすいハンディータイプ。握りながらも操作しやすいよう左右ボタンやメディアコントロールボタンを適した位置に配置しています。",
+        "トラックボールの滑らかなクリアコーティング面に適した反射型レンズ搭載光学式センサーを採用しています。さらにボールの色やコーティング層の厚み、シルバーパウダーの量と粒子サイズなどの徹底的な最適化により、究極のポインター追従性を実現しました。",
+        "支持球に直径2.5mmの大型人工ルビーを採用することで操作感が向上しました。"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 2179,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0F9P5QZWG",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:44:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09J8M9LTV",
+      "title": "Kensington ケンジントン オービットワイヤレストラックボールウィズスクロールリング ブラック&レッド K70992JP",
+      "url": "https://www.amazon.co.jp/dp/B09J8M9LTV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09J8M9LTV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61vJ0dZ+p3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "128ビットAES暗号化ワイヤレス接続：128ビットAES暗号化された通信で2.4GHzまたはBluetooth(3.0またはLE）でワイヤレス接続可能です",
+        "40㎜ミッドサイズボールでコントロール：ウェブサイトやWordドキュメントを上下にスムーズにスクロールするのに役立つスクロールリングを搭載。ボールの直径は40㎜で精密なトラッキングとカーソルコントロールを可能にします。",
+        "4段階のDPI設定：DPIを400、800、1200、1600に設定でき、操作の必要性に応じて簡単に設定を変更できます。低いDPIは精密な編集向けで、高いDPIはWordやWebなどのブラウジングに向いています。",
+        "左右対称デザイン：右利きでも左利きでも使用できる左右対称デザイン 腕と手の動きを最小限に抑えることによりマウス操作特有の繰り返し動作を防ぐので快適な使用感です。",
+        "KensingtonWorksでカスタマイズ可能：無料のソフトウェアのKensingtonWorksをダウンロードしてボタンに機能割当（ショートカット含む）を行ったり、カーソルやスクローリングのスピードをカスタマイズすることができます。"
+      ],
+      "maker": "Kensington",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 247,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0BFH1MXFV",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:44:22+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BN8224SY",
+      "title": "Kensington ケンジントン Slimblade Pro ワイヤレストラックボール 4ボタン 左右対称デザイン 55㎜ボール 有線接続 2.4GHzワイヤレス接続 Bluetooth接続 Mac対応 K72081JP",
+      "url": "https://www.amazon.co.jp/dp/B0BN8224SY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BN8224SY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51LHMtakBoL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "選べる3つの接続タイプ:Bluetooth、2.4GHzワイヤレス接続、有線接続の3つの接続タイプでユーザーに最も合った接続タイプを選んで使用可能です。",
+        "充電可能な付属バッテリー:付属のワイヤーでUSB-C接続するだけでバッテリーの充電可能。およそ4カ月のバッテリー寿命分充電できます。",
+        "水平方向のツイストのボールの動きにより緻密な操作を実現:ボールを水平にひねるツイストの動きをすることでウェブサイトやワードドキュメントを簡単にスクロールすることができます。",
+        "右利きにも左利きにも使える左右対称デザイン:高さを抑えた設計で、右利きにも左利きにも使える左右対称のデザイン。長時間の作業も手や腕への負担を軽減しながら使用できます。",
+        "Plug &amp;Playですぐ使用可能、KensingtonWorksで柔軟なボタンのカスタマイズ可能:無料ソフトウェアのKensingtonWorksにより、ボタンの機能割当ができます。ユーザーにとって最適なカスタマイズにして作業の生産性を最大限に高めます。",
+        "デュアルセンサーが55mmの大型ボールを正確にトラックするため、ユーザーは手や手首の動きが少ない快適なカーソル操作が可能です。高精度・高反応のカーソルのトラッキングとスクロール"
+      ],
+      "maker": "Kensington",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 292,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:44:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D3QJ66DH",
+      "title": "ProtoArc EM01 NL トラックボールマウス 静音 20°角度調整 無線 2.4G Bluetooth対応 3台同時接続 手首負担軽減 | 人間工学設計 長時間PC作業 5段階DPI USB-C充電式 自宅/オフィス用 Windows/Ma",
+      "url": "https://www.amazon.co.jp/dp/B0D3QJ66DH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D3QJ66DH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61GnZ2BDiVL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "👍️【EM01から一層の進化を遂げたEM01NLが着弾】大人気のProtoArc EM01トラックボールマウスからアップデートした「進化版」の無線トラックボールマウスです。 Point1.「LEDイルミネーションが無駄なバッテリー消費に繋がる」などの声が多かったため、検討した上で、ボールマウスのLEDリング状は光らないようにして、バッテリー持ちの時間が長くなりました。 Point2. DPIを1000・1600・2400の3段階から200・400・800・1200・1600の5段階までアップデートしており、ポインターのスピードを手元で変更でき、ニーズによって、細かな調節ができるようになりました。 Point3.「トラックボールが本体とこすれて引っかかる」のような指摘を頂き、内側の筐体を繰り返し修正し、スムーズな操球感を求めています。 Point4.マウスの本体に搭載されているBluetoothのバージョンも4.2から5.0にアップデートされて、接続がより安定し、通信範囲もより広くなり、電池の持ち時間も使用寿命ももっと長くなります。",
+        "✋【傾斜角度を調節可能なトラックボールマウス】人間工学に基づいた親指操作のエルゴノミックデザインで、20度の傾斜をかけたポジションにできる角度調整機能揃えたトラックボールマウスです。底面のマグネット板がついており、業界内の一番MX ERGOのように、本体の傾斜を0°と20°を調整可能なボールマウスです。これにより、手首の角度が自然になります。マウス本体を動かさずに操作でき、使いやすい親指タイプトラックボールです。無線タイプで、膝の上など平らではない場所でも、好みの姿勢を取ることができます。34mmボール滑らかなボールが搭載されており、本体が大きく、滑らかな操球感、エルゴノミクスデザインされた使いやすいトラックボールです。長時間のPC作業をしているお客様はぜひ。",
+        "💻【マルチペアリングで接続先の切り替えが楽】 いつものProtoArcワイヤレスマウスの通りに、USB無線×1台とBluetooth×2台があり、同時に3台デバイスに接続可能です。接続先切替えは底面のスイッチで行う市販のマウスと違い、接続先を切り替えるボタンがホイールの手前にありますので、複数のPCを使っているお客様にとって、ボタン一つで素早く切り替える事ができるトラックボールマウス、とても便利な人気物です。複数のパソコンやiPadなどのデバイスを切り替えたいときでも、ボタン一つで接続先を切り替えられます。また、接続の安定性が高く、マウス一台でWindows、Android、Mac OS PCなどのシステムでも使えます。",
+        "✨【 DPI調整可精度が高い】 DPIを200・400・800・1200・1600に切り替えられ、操作精度も高く、使い勝手が良いbluetoothトラックボールマウスです。また、「DPI+」、「DPI-」の2つ切り替えボタンもマウスのサイド側に設置され、操作しやすいです。また、DPIのインジケーターライトがついており、何段階に切り替えられたか、サイド側のライトの点滅回数よりすぐ確認できます。通常のマウスに比べ、ボールでの操作は滑らかで、繊細でスピーディなため、パソコンでの作業は特にデュアルモニターの場合格段に効率アップすることが期待できるトラックボールです。※注意：①.ゲームや絵書きなどの極繊細な操作に不向きであることをご理解ください。EXCELの作成には、少々慣れる時間がかかります。②.ボタンを任意で割り当てる事も対応不可です。",
+        "🔋【充電式エコ的】 電池不要の充電式なため、エコで環境にやさしい充電式トラックボールマウスです。市販の電池式や、低電量の物より、耐久性のある900Mah大容量の電池を搭載しており、付属の充電ケーブルで、フル充電したら、連続待機時間は約300－360日間、約160-240時間（約20－30日間）使用可能です。ProtoArc EM01の5-7日の作業時間よりも倍長くなります。充電回数も少なく、無線で一番ストレスとなる乾電池の交換という作業は不要です。※注意①.1日8時間PCを使用中に、マウス操作を25%程度行うこととして、計算した使用時間です。②.充電用のusb-cコネクタ部分が少々狭くて、必ず付属されたケーブルで充電してください。",
+        "📱【接続が簡単】マウスの数字1を選んで、USBレシーバーをデバイスに差し込むだけで、すぐ使えます。Bluetoothの接続方法について、付属した日本語取り扱い説明書に詳しく明記しておりので、誰でも簡単に接続できます。※注意：Windows 7.0及びそれ以前の場合は、USBレシーバーで使ってください。",
+        "🔇【優れた静音体験】 よく話題に上がるロジクール MX ERGO、ERM575よりもクリックとホイールがカチカチ音の鳴らなくて、ProtoArc EM01 NL トラックボールマウスの左右ボタンも進むボタン、戻るボタンも静音仕様です。静音クリックタイプなので会社や図書館、自習室、自宅での利用や音を気にしないといけない環境で大活躍します。※注意：スクロール音が少々あるので、気になる方は謹慎的にご検討ください。",
+        "👍️【移動エリアが必要ない無線マウス】充電式トラックボールマウスのボールの移動が滑らかな上、机の上でマウスを移動する必要が無いので、占有場所は圧倒的に小さいです。ワイヤレスタイプなので、可搬性にも優れていています。有線マウスや普通のマウスと違い、机やソファー、寒い時、布団やこたつの中でくつろぎながらパソコンを操作できて、マウスパッドも不要です。狭いところでも、楽に使えるデスクワークのユーザーの強い仲間です。",
+        "🧹【お手入れが簡単】 マウスの表面が汚れたり、滑りが悪くなった場合は、布やティッシュ、ウェットティッシュなどで拭き取り可能なトラックボールマウスです。裏側の小さい穴に綿棒などの細い棒を突っ込んでトラックボールを取り外し、ボール部分の交換・拭き取りなどのメンテナンスが簡単にできます。",
+        "🎯【技適マーク取得済み＆1年間の保証期間】日本TELEC認証（技適マーク）を取得済みのため、通信が安定しており、安心してご利用いただけます。また、ProtoArc製品は注文から1年間のメーカー保証を提供しております。万が一不具合や破損があった場合は、メールでお気軽にご相談ください。"
+      ],
+      "maker": "ProtoArc",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 3778,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H98T8QK9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:44:42+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D8HRRBKH",
+      "title": "EWiN マウス トラックボール 無線 Bluetooth&2.4GHz両対応 3台同時接続 5段階DPI調節 Type-C充電式 ワイヤレス",
+      "url": "https://www.amazon.co.jp/dp/B0D8HRRBKH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D8HRRBKH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/516ozJbLBhL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "💡【手首と腕の負担を軽減する設計】 マウスを動かす必要がないため、手首や腕にかかる負担を最小限に抑えた設計となっています。長時間マウスを使用していると、手首や肩に痛みを感じることがありますよね？そんなお悩みにぜひおすすめしたいのが、疲れを軽減し、スペースを取らないトラックボールマウスです。EWIN製トラックボールは、親指でボールを転がすことでカーソル操作が可能。また、手にしっくりとなじむエルゴノミック形状を採用しており、快適な操作が期待できます。手首や肩の負担を感じる方にぴったりの解決策です。負担を軽減しながら、効率的で快適な作業を実現するために、ぜひEWIN製トラックボールをお試しください。",
+        "🌟【多彩なボタン機能が充実&amp;5段階DPI調整可能】快適性と使いやすさに優れたトラックボールマウスには、左右のボタンとホイールに加えて、使い方に合わせてカウント数を変えられるDPIボタンが装備されています。このDPIボタンにより、カーソルの速さを400dpi·800dpi·1200dpi·1600dpi·2400dpiの5段階で切り替えることができます。これにより、Excelや描画などの詳細な作業から画面を広く使う作業まで、すべてを無理なく行うことができます。また、インターネットの閲覧に便利な進む・戻るボタン（※Mac非対応）も備えられており、ウェブページの閲覧も楽々行えます。",
+        "🔋【500mAh大容量バッテリー・Type-C急速充電】リチウムイオン電池 500mAh 、動作電流＜5mA、睡眠電流＜1mA、充電時間:約2時間(電源OFF状態)。省電力技術を採用し、一度のフル充電で最大120時間の連続使用が可能です。また、便利なステータスインジケーターも備えています。",
+        "♻【広範な互換性】Windows、MacOS、iOS、Android、ChromeOS、LinuxなどのBluetooth搭載デバイスに対応。幅広いデバイスで使用可能です。",
+        "🔗【ワイヤレス接続が便利】省エネ性に優れたBluetoothチップと高度な2.4GHzテクノロジーのマイクロレシーバーを採用し、最大10mの接続範囲を提供。混雑したワイヤレス環境でも途切れにくく、安定した接続を実現しています。BluetoothとUSBレシーバーの両方に対応しており、USBポートのないデバイスでも安 心して使用可能です。",
+        "✅【満足保 証付き！】もし商品が気に入らない場合でも、ご購入から30日以内なら自由に返 品・返 金が可能です。さらに、EWIN-トラックボールは、万が一箱が潰れていたり、付属品が破損していた場合でも無料で交換保 証がございます。何かご不明点があれば、どうぞお気軽にカスタマーサポートにご連絡ください。心をこめてご対応いたします。"
+      ],
+      "maker": "Ewin",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 350,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:44:51+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DDTK1M4F",
+      "title": "ProtoArc EM05 NL トラックボールマウス 縦型62° 静音 無線 2.4GHz Bluetooth 3台同時接続 人間工学 手首疲れ軽減 | 親指操作 省スペース エルゴノミクスマウス USB充電式 大容量バッテリー 5段階DPI 右利",
+      "url": "https://www.amazon.co.jp/dp/B0DDTK1M4F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDTK1M4F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61LhDZrBFRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "🌈🌈🌈結論：どんな人にオススメ？ 快適な操作性を重視したい方/長時間のデスクワークをされている方/エルゴノミックデザインに興味がある方/設定不要でシンプルに使いたい方/トラックボールマウス2周目の方/ガジェット好きの方…🌈🌈🌈 🌈ProtoArc EM05 NL何がユニーク？🌈 本体の傾斜を62°をして、手首の角度が自然になれば、手首への負担を軽減します。マウス本体を動かさず操作できるので、腕の疲労軽減に役に立つ縦型の親指タイプトラックボールです。無線タイプで、膝の上など平らではなく、楽な場所や、好みの姿勢での操作ができるので、手首を動かす動作が格段に減って、肘下が随分楽になるトラックボールマウスです。34mmのボールが大きく、操作性が高く、手や腕の構造に合わせてエルゴノミクスデザインされたバーティカル型トラックボールです。",
+        "🌈🌈🌈デバイス3台接続可能🌈🌈🌈USBレシーバー1つとBluetooth×2台があり、マルチポイント機能で同時に3台デバイスに接続可能、裏側のボタンで素早く切り替える事ができる縦型トラックボールです。複数のデバイスやモニターなどを同時に使っていて、切り替え用のボタンを押すだけで、接続先が切り替えます。切り替え用のボタンに数字が点滅しますので、接続状況はわかりやすいです。接続の安定性が高く、マウス一台でWindows、Android、Mac OS PCなどのシステムでも使えるbluetoothマウスです。",
+        "🌈🌈🌈充電式エコ的🌈🌈🌈電池不要のTypeC-USB充電式のため、エコ的で環境にやさしい無線トラックボールマウスです。耐久性のある500Mah大容量の電池を搭載しており、付属の充電ケーブルで、約2－3.5時間でフル充電したら、連続約120時間使用可能、200－250日待機可能なバーティカルマウスです。充電回数も少なく、頻繁に乾電池を交換する必要がなし、お財布にも環境にも優しいです。省エネモードが付いているため、未使用時はスリープ状態になります。",
+        "🌈🌈🌈5段階のDPI調整可能🌈🌈🌈 DPIを200→400→800→1200→1600に切り替えやすく、操作精度も高く、使い勝手が良いProtoArcトラックボールマウスです。そのほか、ボタン数が多く操作自由です。通常のマウスに比べ、ボールでの操作は滑らかで、パソコンでの作業は特にデュアルモニターの場合格段に効率アップすることを期待できるトラックボールマウスです。【ゲームや絵書きなどの極繊細な操作に不向きのことをぜひご注意ください】",
+        "🌈🌈🌈省スペース🌈🌈🌈 ボールの移動が滑らかになることだけではなく、机の上でトラックボールマウスの本体を移動する必要が無いので、占有場所は圧倒的に小さいです。ワイヤレスタイプなので、可搬性にも優れていています。有線マウスと大違い、机やソファー、寒い時、布団やこたつの中でくつろぎながらパソコンを操作できて、マウスパッドもいりません。【サイズについてポイント】 縦型のトラックボールマウスのため、EM05トラックボールマウスは中サイズ、小サイズの手に向き、大サイズの手の場合は、小指が置く場所が狭くて、慣れない可能性が高いので、予めご了承ください。",
+        "🌈🌈🌈技適マーク取得済み＆1年間の保証期間🌈🌈🌈日本TELEC認証（技適マーク）を取得済みのため、通信が安定しており、安心してご利用いただけます。また、ProtoArc製品は注文から1年間のメーカー保証を提供しております。万が一不具合や破損があった場合は、メールでお気軽にご相談ください。"
+      ],
+      "maker": "ProtoArc",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 562,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HC1Z4V98",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:44:59+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DT6NRWDX",
+      "title": "エレコム トラックボールマウス IST PRO マルチ接続 Bluetooth 無線2.4GHz 有線 ベアリング支持 10ボタン ブラック M-IPT10MRSBK",
+      "url": "https://www.amazon.co.jp/dp/B0DT6NRWDX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DT6NRWDX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61D2QuajYBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "親指トラックボールに搭載できる機能を極限まで追究した10ボタンのハイグレードモデル“IST PRO”です。親指にフィットする直径36mm大型ボールを採用。一度の操作でポインターを広範囲かつ繊細に動かせます。",
+        "握らず自然な手の形で使えるエルゴノミクスデザインを採用。手の大きさや握り方を問わず手に馴染みます。手首に負担のかからない角度の傾斜で、長時間の作業でも快適です。",
+        "ベアリング支持ユニットにはミネベアミツミ社製高性能ベアリングを採用。摩擦による抵抗が減るため、空中に浮いているような、なめらかな操球を実現しました。",
+        "ELECOM Bridge G1000ワイヤレステクノロジーを搭載。ゲーミングセンサー(PixArt PAW3311DB)とハイグレードMCUにより、最大レポートレート1000Hzに対応し、ゲーミング用途にも耐えうる通信とトラッキング性能を実現しています。 ポインターの速度をLow/Mid/Highの3段階から選択できます。初期設定は500/1000/1500DPI。「エレコム マウスアシスタント」から100～12,000DPIまで100DPI刻みで設定を変えられます。",
+        "保証期間：2年間"
+      ],
+      "maker": "ELECOM",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 72,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:45:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0G4R81TR9",
+      "title": "フィリップス トラックボールマウス 静音 Bluetooth/USBレシーバー対応 無線 最大3台接続 手首が疲れにくい 3200DPI エルゴノミクスマウス 6ボタン 進む/戻るボタン搭載 5段階DPI切替 親指操作 windows/Android",
+      "url": "https://www.amazon.co.jp/dp/B0G4R81TR9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G4R81TR9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/614Z8G+-NrL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【手首の負担を軽減するエルゴノミクス設計】長時間作業で手首や腕が疲れやすい方に最適。約15°の自然な傾斜と手に沿う形状が、無理のない姿勢を保ち、手首や腕の負担を軽減します。親指でカーソルを操作するため腕全体を動かす必要がなく、デスクワークがより快適になります。※ご購入前に、サイズ表をご確認ください。",
+        "【大型ルビーボール＆高精度センサー＋PHILIPS先進チップで滑らかトラッキング】デスクはもちろん、ソファやベッドの上など省スペース環境でも快適に使用可能。 直径34mmの大型人工ルビーボール、高精度センサー、そしてPHILIPS先進チップの組み合わせにより、滑らかで正確なトラッキングを実現します。 800/1200/1600/2400/3200 DPIの5段階調整に対応し、用途に合わせて最適な精度を選べます。",
+        "【Bluetooth/USB対応・最大3台同時接続·ワンタッチで簡単切替】PC・タブレット・スマホなど、最大3台まで同時接続が可能。専用ボタンでワンタッチ切替ができ、複数デバイスを使う際のストレスを軽減します。 BluetoothでUSBポートを節約でき、付属のUSBレシーバーによる安定接続にも対応。本体底部にレシーバー収納スペースを備え、外出時の持ち運びにも便利です。",
+        "【電池1本で最長18ヶ月使用可能の省エネ性能】省電力設計で、付属のフィリップス単三電池1本が最長18ヶ月持続。頻繁な電池交換の手間を減らし、ランニングコストの削減にもつながります。長時間使用する方にも安心のスタミナ性能です。※使用環境により異なります。",
+        "【90%静音クリック＆便利な7ボタン構成で作業効率UP】クリック音を約90%カットした静音設計で、深夜やオフィス、図書館など静かな環境でも気兼ねなく使用できます。「進む」「戻る」などのショートカットを含む7ボタン構成で、ブラウジングや作業効率が向上。快適さと操作性を高いレベルで両立しています。"
+      ],
+      "maker": "Philips",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 57,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GYRRN55Q",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:45:17+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GNXCXQH1",
+      "title": "サンワダイレクト トラックボールマウス 無線 静音 チルトホイール 高速スクロール Bluetooth ブラック 400-MAWBTB230BK | 充電式,エルゴノミクス,5ボタン,マルチペアリング,ワイヤレス",
+      "url": "https://www.amazon.co.jp/dp/B0GNXCXQH1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GNXCXQH1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/614EokNTmUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "54度の傾斜角がついた エルゴ ノミクス形状なので、すべての指がフィットしやすく自然に握れる形状です。高速スクロールホイールを搭載。長いページも一気に上下移動できます。ホイールを左右に倒して横スクロールできるチルトホイールを搭載。Excel作業やWeb閲覧に便利です。",
+        "Bluetoothと 2.4GHz ワイヤレス（USB Aレシーバー）の両対応で、 パソコン や タブレット など幅広い機器に接続できます。3台の マルチペアリング に対応。Bluetoothは2台。2.4GHzは1台の、合計3台を切替えて使用できます。「戻る」「進む」ボタンを搭載し、Webブラウザ操作などをスムーズに行えます。",
+        "カーソルスピード（DPI）を600/800/1000/2000/2400の5段階で切替えできます。光学センサー（IR LED）方式で安定したトラッキングを実現します。USB-C充電式（内蔵バッテリー）で、乾電池交換不要。充電しながらの使用も可能です。",
+        "レシーバーは本体裏面に収納でき、持ち運び時の紛失を防ぎます。支持球には人工ルビーを採用しており、滑りが良く耐久性が高いです。Windows、MacのどちらのOSにも対応します。専用ソフト「SANWA Mouse Function Setting」（Windows/macOS）でボタン割り当てなどの設定が可能です。"
+      ],
+      "maker": "サンワダイレクト",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 42,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GTQFXQ1X",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:45:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GSDZTC65",
+      "title": "Nulea トラックボールマウス ワイヤレス チルトスタンド付き Bluetooth/2.4G/USB 3台同時接続 充電式 4段階DPI 人間工学 親指操作 右利き 6ボタン 進む/戻るボタン搭載 PC/ノート/Windows/Mac/iPad対応",
+      "url": "https://www.amazon.co.jp/dp/B0GSDZTC65?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GSDZTC65?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61w1iIxkouL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【手首への負担をゼロへ】親指だけでカーソルを操作できるトラックボールマウス。手首を動かさず、長時間のデスクワークやテレワークによる「手首の痛み」や「肩こり」を効果的に軽減します。ご注意：手の小さい方にはやや大きく感じる可能性がありますので、寸法をご確認のうえご検討ください。マウスのサイズは幅10.3cm、奥行13.6cm、高さ5cmです。",
+        "【人間工学に基づく21.7°チルトスタンド設計】約20°の傾斜底托を特別に装備。この独自設計が手首を自然な角度で保持し、無理のない姿勢で操作できるため、長時間のデスクワークでも疲れにくく、手首や肩への負担を大幅に軽減します。安定した底托により、トラックボール操作も滑らかで正確です。",
+        "【3台デバイス間を瞬時に切替】Bluetooth (2回線) とUSBレシーバー (1回线) の計3種類の接続方式に対応。ボタン一つでPC、タブレットをシームレスに切り替え。マルチタスクをこなすプロフェッショナルに最適な1台です。USBレシーバーはワイヤレスマウス底部に収納されており、持ち運びにも便利です。Windows/Mac両対応。",
+        "【狭いデスクやソファでも快適】高精度センサーと滑らかなトラックボールにより、マウスパッド不要。散らかったデスクや、膝の上、ソファなどの不安定な場所でも、400/800/1200/1600 DPIの4段階調整で思い通りの精密な操作が可能です。",
+        "【1回の充電で数ヶ月の長寿命】Nulea トラックボールマウスは乾電池不要、内蔵の省電力チップにより、1回のフル充電で数ヶ月の使用が可能。煩わしい電池交換は一切不要です。付属のType-Cケーブルで充電しながらの使用もOK。無線でデスク周りもすっきり。環境にやさしく、コストも抑えられます。",
+        "【操作性にこだわった6ボタン】Web閲覧が快適になる「進む・戻る」ボタンを搭載。表面は肌触りの良いUV塗装で、滑りにくく心地よいフィット感を実現。"
+      ],
+      "maker": "Nulea",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 623,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H45RLKRK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:45:31+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GVN8HB5L",
+      "title": "Kensington ProFit Ergo TB675 Vertical ワイヤレストラックボール K72171WW | Mac Windows対応, Bluetooth接続, 2.4GHz USBレシーバー接続, USB-C有線接続対応",
+      "url": "https://www.amazon.co.jp/dp/B0GVN8HB5L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GVN8HB5L?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ckJFk6K9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "人間工学に基づいた60°傾斜のついた縦型デザイン：60°の傾斜を持つ曲線形状により、手首と親指をより自然な位置で支えるよう設計されています。",
+        "柔軟性の高い接続方式（2.4GHz+Bluetooth+有線）：128bit AES暗号化システムによる2.4GHzワイヤレスレシーバー接続、Bluetoothｘ2、USB-C接続による有線で最大4台のデバイスに接続可能。底面のボタンにより各接続方式を選ぶことができます。",
+        "充電可能なリチウムイオン電池：高容量の充電式バッテリーにより、1回の充電で最大4か月間使用できます。*付属のUSB-Cケーブルで簡単に充電でき、LEDインジケーターでバッテリー残量を確認可能。充電中でも使用可能なので、必要に応じて有線の安定性を活かしながら、信頼性の高いワイヤレス接続も可能です。 *使用状況により異なります。",
+        "メタル4Dスクロールホイール：メタル製の4Dスクロールホイールによりスムーズな垂直および水平スクロールおよびチルトを実現。情報量の多いエクセルシートや、タイムライン、ページ数の多いワードドキュメントなどを緻密かつ直感的な操作が可能です。",
+        "精密なトラッキングを可能にする光学トラッキングシステム：精密な光学センサーが34㎜のボールの動きを検知し、スムーズで緻密なカーソルコントロールを実現します。DPIは400～1600DPIに素早く設定変更することができます。"
+      ],
+      "maker": "Kensington",
+      "query": "codex_20261025_trackball",
+      "queries_matched": [
+        "codex_20261025_trackball"
+      ],
+      "review_count": 29,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": "mouse",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:45:39+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "shared/db/product.sqlite"
+  },
+  "measurement_checkpointed_at": "2026-10-09T09:45:39+09:00"
+}

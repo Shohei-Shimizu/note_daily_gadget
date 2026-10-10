@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-26",
+  "topic_id": "daily_gadget_20261026_b51f63b6",
+  "status": "main_review_ready",
+  "research_original_sha256": "009d5a2865c9e5e83237a3d5c73bfab8e6af28897907e9e4c225688ea95505df",
+  "selected_asins_in_order": [
+    "B08G1G1DVT",
+    "B0C9PYJZJ7",
+    "B0DT6S7NZ8",
+    "B0CMXM6WRN",
+    "B0C1NL2HTB",
+    "B0DT6VJ3K7"
+  ],
+  "article_product_count": 6,
+  "intro_paragraphs": 2,
+  "description_lengths": [
+    142,
+    149,
+    156,
+    133,
+    130,
+    163
+  ],
+  "related_count": 3,
+  "category": "スマートホーム・ライフスタイル・健康管理",
+  "tags": "おすすめガジェット スマートプラグ スマートホーム 照明 自動化",
+  "checks": {
+    "research_urls_order_preserved": true,
+    "research_machine_fields_preserved": true,
+    "machine_memo_preserved": true,
+    "reviews_price_experience_in_article": false,
+    "individual_review_text_available": false,
+    "jev_skipped": true
+  },
+  "source_discrepancies": [
+    {
+      "issue": "P105/A originally handed off as HS105 but selected ASIN is Tapo P105/A",
+      "handling": "Use TapoP105/A and Tapo app; research machine title unchanged"
+    },
+    {
+      "issue": "Meross US/domestic compatibility unresolved",
+      "handling": "Main removed and reselected final6. SHA009d5a used; no Meross in article"
+    },
+    {
+      "issue": "NativeHomeKit and SiriShortcuts differ; Matter/HomeKit remote hub requirements conditional",
+      "handling": "Explicit platform conditions in product prose"
+    },
+    {
+      "issue": "Heat-generating appliances and unattended prohibited uses",
+      "handling": "Examples limited to lights; final paragraph prohibition/ratings/manual guidance, no guaranteed safety"
+    }
+  ],
+  "remaining": [
+    "main integration/title/metadata/thumbnail/UI final checks"
+  ]
+}

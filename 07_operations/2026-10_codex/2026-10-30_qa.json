@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-30",
+  "status": "local_complete",
+  "checks": {
+    "product_count": 10,
+    "selected_asin_order": [
+      "B0DHZPSVR5",
+      "B09WQN87HM",
+      "B0CCJFY2V4",
+      "B0CXHNGDC1",
+      "B096XNWV32",
+      "B0CX4C1TVK",
+      "B0BKJPZXH3",
+      "B0B1PW59FS",
+      "B0CHVZHLZ1",
+      "B0F6NFHB31"
+    ],
+    "research_url_order_preserved": true,
+    "product_prose_lengths": [
+      133,
+      140,
+      148,
+      141,
+      143,
+      142,
+      161,
+      144,
+      150,
+      145
+    ],
+    "sources_checked": true,
+    "intro_paragraphs": 2,
+    "summary_paragraphs": 2,
+    "related_urls_from_existing_metadata": [
+      "https://note.com/daily_gadget/n/n09d55fbb8dc4",
+      "https://note.com/daily_gadget/n/n31e80512500d",
+      "https://note.com/daily_gadget/n/nef035eb5ee18"
+    ],
+    "idea_list_count": 1,
+    "no_price_reviews_or_use_claims": true,
+    "machine_baseline_unchanged": true
+  },
+  "notes": [
+    "原本SHA/order/URL/10商品/基準メモ保持。事前除外3回収ASINは本文にない。安全性/保証/燃えない/必ず1回満充電/機内持込一律保証なし。",
+    "INIU45Wは国内当該実測featuresに型番未掲載。公式P50参考は構成/最大出力共通確認のみ、P50型番・入力数値・海外重量寸法・合計値を当該ASINへ断定転記しない。国内featuresの最大45W・2C1A・10000mAh採用。",
+    "INIU22.5W国内実測構成と公式B61はC1/A2/スタンド、出力C20W/A22.5W/input20W。型番はH2推測しない。同時合計未確認数値は省略。",
+    "AnkerA1653は公式22.5W最大Huawei限定、USB-C直接差込みケース条件、Lightning別ケーブル。A1637Fusionは単30W、2口AC18W/電池15W、別A1636のバッテリー20Wと混同しない。",
+    "UGREENPB721国内公式100W単/130W2C合計/入力65W。同時各口130Wとは書かない。PB580国内公式Qi2 15W/有線20W/input20W、ワイヤレス+有線合計35Wとは書かない。",
+    "ELECOMC03PD20W出力/input18W、C04は5V2.4A12W入出力でPD高出力ではない。",
+    "RORRYD2国内メーカーPRがLightning/USB-CケーブルとWatch部を確認。10000版20Wを5000版へ転記せず、速度/合計W未確定省略。",
+    "CIO旧ProSLIM当該ASINは国内公式2023リリース直接リンク。旧2024説明書で入出力35W/複数total30W。2026SS説明書/半固体保証の流用なし。",
+    "急速充電は機器とケーブル規格条件、USB-C/Lightning違いを本文/最後に明記。画像metadataUIはメイン。"
+  ]
+}

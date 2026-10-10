@@ -1,0 +1,31 @@
+📦 候補読み込み: 6 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_backpack_candidates.json)
+↩️  本日実測済みの 5 件を再利用します
+🔎 実測: 1 件の ASIN を Amazon 商品ページから取得します...
+  [1/1] B0BRZBN96C review=55 star=4.1 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=6 succeeded=6 failed=0 / run累積 attempted=247 succeeded=247 failed=0) product新規=0 product更新=6 metric行=6 verification行=2
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 5 / 6
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier3 / 緩和: あり
+採用件数: 5
+
+-- 採用 --
+1. [Tier2] ELECOM / B07HX6KWBR / review=365 star=4.4 ★有名ブランド
+   エレコム リュック ビジネスバッグ off toco(オフトコ) 15.6インチPC収納 A4対応 3WAY ハイグレード バックパック ブ
+2. [Tier2] THULE / B07H5RMC5Z / review=322 star=4.5 
+   [スーリー] リュック Thule Crossover 2 Backpack 20L ノートパソコン収納可 Dark Blue
+3. [Tier2] ELECOM / B0DVBDHK5T / review=112 star=4.0 ★有名ブランド
+   エレコム バックパック リュックサック スクエア ～15.6インチ 撥水加工 大容量 19L ブラック BM-XBPSQ01BK
+4. [Tier3] Incase / B0BRZBN96C / review=55 star=4.1 
+   [Incase] バックパック INCO100683-SIV A R C Commuter Pack-Smoked Ivy メンズ GREY
+5. [Tier3] ACE / B0DSZVQ6M1 / review=54 star=4.6 
+   [エースジーン] ビジネスリュック ガジェタブルWR2 B4サイズ収納 15.6inchPC収納 19L No.68664
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 0 件 --
+
+-- 除外（選抜対象外）: 1 件 --
+  - B07ST5HS7G / [エースジーン] ビジネスリュック ガジェタブルCB 62363 15インチPC: 在庫切れのため除外
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-13_PCと小物を持ち歩く。ビジネスリュック.md

@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-27",
+  "topic_id": "daily_gadget_20261027_31341107",
+  "status": "main_review_ready",
+  "research_original_sha256": "28e4adc3b22cdcbde2ebed1b9b618701b2dce967f09c0a894bd62428457c94f1",
+  "selected_asins_in_order": [
+    "B0DBTHDHYS",
+    "B06XCPQTBS",
+    "B0DLG93BX5",
+    "B0CPHYJRRP",
+    "B0D45R4YVL",
+    "B0F66LKTV6"
+  ],
+  "article_product_count": 6,
+  "intro_paragraphs": 2,
+  "description_lengths": [
+    139,
+    143,
+    143,
+    147,
+    154,
+    158
+  ],
+  "related_count": 3,
+  "category": "スマートホーム・ライフスタイル・健康管理",
+  "tags": [
+    "おすすめガジェット",
+    "ロボット掃除機",
+    "掃除",
+    "時短家事",
+    "スマートホーム"
+  ],
+  "checks": {
+    "research_urls_order_preserved": true,
+    "research_machine_fields_preserved": true,
+    "machine_memo_preserved": true,
+    "reviews_price_experience_in_article": false,
+    "individual_review_text_available": false,
+    "jev_skipped": true
+  },
+  "source_discrepancies": [
+    {
+      "asin": "B0CPHYJRRP",
+      "issue": "機械研究約1kgはモップ加圧。製品重量として使用せず、公式仕様を優先。本文は重量非掲載。"
+    },
+    {
+      "asin": "B06XCPQTBS",
+      "issue": "公式充電台寸法は未確認。寸法を創作せず本体寸法のみ掲載。"
+    },
+    {
+      "asin": "B0F66LKTV6",
+      "issue": "日本公式販売ページに充電台110V–120V記載あり。日本語マニュアルは15MBでweb取得不可、CLI DNS不可。日本公式販売品として機能を確認したが電圧は掲載しない。mainへ確認共有済。"
+    },
+    {
+      "asin": "B0F66LKTV6",
+      "issue": "150日手入れ不要はモップ洗浄トレイ等条件付き。水交換不要との混線を避け、数字と無手入れ表現を不採用。"
+    }
+  ],
+  "remaining": [
+    "main integration/title/metadata/thumbnail/UI final checks"
+  ]
+}

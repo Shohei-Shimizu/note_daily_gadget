@@ -1,0 +1,49 @@
+🚫 --exclude-asin により 9 件を選抜対象から外しました: B09XGV8VHX, B0B75STB24, B0B75WHSGR, B0B75WWC8F, B0CJFLTY5C, B0CJFPXJWF, B0DZGZSVYR, B0GZ23GQQR, B0GZ24YHGW
+📦 候補読み込み: 24 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-24_smartwatch_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 23 / 24
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 8
+
+-- 採用 --
+1. [Tier1] Xiaomi / B0DFZPR9Z4 / review=28885 star=4.1 ★有名ブランド
+   シャオミ(Xiaomi) スマートウォッチ Redmi Watch 5 Active 2インチ大画面ディスプレイ 18日間長持ちバッテリー 
+2. [Tier1] Xiaomi / B0DYF82545 / review=14688 star=4.3 ★有名ブランド
+   Xiaomi Smart Band 10 スマートウォッチ 1.72大画面体験 21日間連続使用 輝度1500nits 視認性 強化されたス
+3. [Tier1] Fitbit / B0B75RC9C3 / review=8846 star=4.0 
+   Fitbit Inspire 3 フィットネストラッカ― ミッドナイトゼン／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/
+4. [Tier1] Amazfit / B0F1XCKZYW / review=975 star=4.2 
+   Amazfit Bip 6 スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 
+5. [Tier1] GARMIN / B0CJFRY955 / review=903 star=4.0 
+   GARMIN(ガーミン) vivoactive 5 Ivory/Cream Gold フィットネスGPSウォッチ 睡眠管理/フィットネス年齢
+6. [Tier1] GARMIN / B09XGYX7JF / review=903 star=4.0 
+   GARMIN(ガーミン) vívosmart 5 Black S/M バンド型スマートウォッチ 【日本正規品】
+7. [Tier1] HUAWEI / B0DZHFRKQD / review=616 star=4.1 
+   HUAWEI Band 10 Aluminum Edition アルミニウムケース スマートウォッチ 快適な付け心地 情緒モニタリング 24
+8. [Tier1] Amazfit / B0DGQ9S3GQ / review=506 star=4.4 
+   Amazfit T-Rex 3 48mm スマートウォッチ 登山 ヤマレコ ヤマップ アウトドア iPhone Android対応 GPS 
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 15 件 --
+  - [Tier1] Xiaomi / B0D98HTWRR: 多様性制約または件数上限のため非選抜
+  - [Tier2] Xiaomi / B0DK6ZC5ZC: 多様性制約または件数上限のため非選抜
+  - [Tier2] Fitbit / B0B75W8FH2: 多様性制約または件数上限のため非選抜
+  - [Tier2] MONOMAM / B0DFGDW4Y3: 多様性制約または件数上限のため非選抜
+  - [Tier1] GARMIN / B0BWF4JPWS: 多様性制約または件数上限のため非選抜
+  - [Tier2] HUAWEI / B0F5WR3KP9: 多様性制約または件数上限のため非選抜
+  - [Tier2] GARMIN / B0CGJDW7T6: 多様性制約または件数上限のため非選抜
+  - [Tier2] HUAWEI / B0DDWZJPRD: 多様性制約または件数上限のため非選抜
+  - [Tier2] SUUNTO / B0BY37JNXX: 多様性制約または件数上限のため非選抜
+  - [Tier2] GARMIN / B0C3VD828Z: 多様性制約または件数上限のため非選抜
+  - [Tier2] Zolovip / B0FMY1LWLV: 多様性制約または件数上限のため非選抜
+  - [Tier3] Amazfit / B0FC28SGXF: 多様性制約または件数上限のため非選抜
+  - [Tier3] GARMIN / B0GZ294HH3: 多様性制約または件数上限のため非選抜
+  - [Tier3] Amazfit / B0GX8CN73B: 多様性制約または件数上限のため非選抜
+  - [Tier3] GARMIN / B0GZ2B2MY8: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 1 件 --
+  - B0DZH1XVYN / HUAWEI Band 10 スマートウォッチ 快適な付け心地 情緒モニタリング: 在庫切れのため除外
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-24_日々の動きを手元で見る。「スマートウォッチ」.md

@@ -1,0 +1,17 @@
+
+候補 6 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B07N3WQ6H7  MATEIN         MATEIN 特大バックパック、17インチ旅行用ノートパソコンバックパック、盗難防止 TSAフレンドリー [article_dated 2026-04-23]
+  B082VV36T8  MARK           [MARK RYDEN] 旅行リュック 30L大容量 バックパック 旅行バッグ カバン リュックサック  [article_dated 2026-04-23]
+  B07ST5HS7G  ACE            [エースジーン] ビジネスリュック ガジェタブルCB 62363 15インチPC対応 セットアップ可能  [article_dated 2026-04-23]
+  B07H5RMC5Z  THULE          [スーリー] リュック Thule Crossover 2 Backpack 20L ノートパソコン収納 [未実測]
+  B07HX6KWBR  ELECOM         エレコム リュック ビジネスバッグ off toco(オフトコ) 15.6インチPC収納 A4対応 3W [未実測]
+  B0DSZVQ6M1  エース株式会社        [エースジーン] ビジネスリュック ガジェタブルWR2 B4サイズ収納 15.6inchPC収納 19L [未実測]
+
+topic_id: daily_gadget_20261113_3f3272db
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_backpack_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_backpack_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

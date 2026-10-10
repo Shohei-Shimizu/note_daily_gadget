@@ -1,0 +1,72 @@
+{
+  "checked_at": "2026-10-10T11:17:36.759391",
+  "scope": "公式一次資料とローカル既存候補から補充先を提案。API/DB/measurement/UIなし、ASIN新規収集・採用未実施。",
+  "downstream_gates": [
+    "主担当がAPI収集・Amazon実測・親解決を直列実施",
+    "現行日本仕様と公式型番の一致、在庫、レビューTier、30日窓を確認",
+    "サイズ/色/保証/セットを独立品として数えずメーカーmax2適用"
+  ],
+  "date": "2026-11-21",
+  "theme": "モニター掛け式ライト",
+  "baseline": "5 ASIN/5親見込みでもBenQ3機はメーカーmax2で最大4品。Quntis/OOWOLFの同型公式ゲートも別途必要。",
+  "targets": [
+    {
+      "priority": 1,
+      "maker": "Xiaomi",
+      "product": "Mi モニター掛け式ライト",
+      "model": "MJGJD01YL",
+      "primary": [
+        "https://www.mi.com/jp/product/mi-computer-monitor-light-bar/",
+        "https://www.mi.com/jp/product/mi-computer-monitor-light-bar/specs/"
+      ],
+      "scope_proof": "国内公式でモニター上部取付、非対称光、USB-C電源、リモコンの独立モデルを確認。通常デスクライトとは別製品。",
+      "unverified": [
+        "日本仕様ASINと同型",
+        "レビューTier・在庫・最新親"
+      ]
+    },
+    {
+      "priority": 2,
+      "maker": "ELECOM",
+      "product": "LEDモニターライト",
+      "model": "DEWML03BK",
+      "jan": "4549550424707",
+      "primary": "https://www.elecom.co.jp/products/DEWML03BK.html",
+      "scope_proof": "公式発売中、モニター引っ掛け式。厚さ5～33mm、ノートPC不可。",
+      "unverified": [
+        "最新Amazon供給とレビューTier",
+        "DE-ML01BKとの型番/親を混同しない"
+      ]
+    },
+    {
+      "priority": 3,
+      "maker": "ELECOM",
+      "product": "モニター掛け式LEDライト",
+      "model": "DE-ML01BK",
+      "primary": [
+        "https://www.elecom.co.jp/products/DE-ML01BK.html",
+        "https://www.elecom.co.jp/support/manual/lighting-led/de-ml01bk/de-ml01bk_v02.pdf"
+      ],
+      "scope_proof": "公式独立製品ページと取説が存在する掛け式モデル。DEWML03BKとは別型番。",
+      "purpose": "第3検索の予備。ELECOM max2、同系統/改版の違いと販売状況を確認して判断。"
+    }
+  ],
+  "collection_queries": [
+    "Xiaomi Mi モニター掛け式ライト MJGJD01YL",
+    "エレコム DEWML03BK モニターライト",
+    "エレコム DE-ML01BK モニター掛け式LEDライト"
+  ],
+  "query_count": 3,
+  "eligibility": [
+    "モニター上辺へ掛けて手元を照らすバーライト本体",
+    "国内公式型番・取付条件・給電条件とAmazon対象本体の一致",
+    "机へのクランプ取付はモニター掛け式と別構造。商品名にデスクライトとあっても構造で判定"
+  ],
+  "excluded_or_hold": [
+    "Xiaomi LEDデスクライト2、フレキシブルランプなど据置/アーム式",
+    "デスククランプライト、リングライト、間接照明だけのRGBバー、モニター台",
+    "根拠不明のノーブランドで5品に数合わせしない",
+    "BenQ ScreenBar/Halo/Proを3つ採用しメーカーmax2を超えない"
+  ],
+  "decision": "Xiaomi1機種＋ELECOM1～2機種を広く収集すれば不足1品と既存公式ゲート不成立に備えられる。型番根拠は確保、最新在庫/Tier/親確認後に自然な件数を判定。"
+}

@@ -1,0 +1,30 @@
+
+候補 19 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B07H774Q42  BoYata         BoYata ノートパソコンスタンド N21 [measured 2026-09-15]
+  B0BZ8CBD36  iVoler         iVoler ノートパソコンスタンド 【6段階高さ角度調整】PCスタンド 折りたたみ式 軽量 パソコン台 [measured 2026-09-15]
+  B0B2WPJ6GJ  iVoler         iVoler ノートパソコンスタンド 【6段階高さ角度調整】PCスタンド 折りたたみ式 パソコン台 アル [article_dated 2026-07-04]
+  B0B5DRS12W  ELECOM         エレコム ノートPCスタンド 折りたたみ8段階 9.5cm 折りたたみ時サイズ:幅280×厚み280×高 [measured 2026-09-15]
+  B0845RFFHN  ELECOM         エレコム ノートPCスタンド 折りたたみ 8段階 9.5cm高さアップ脚 スマホスタンド付 ~15.6イ [article_dated 2026-09-30]
+  B095W9HP4N  BoYata         BoYata ノートパソコン スタンド ミニ スタンド PCスタンド パソコンスタンド タブレットスタン [measured 2026-09-15]
+  B0BBTTFQWT  KKaMM          KKaMM ノートパソコンスタンド タブレット スタンド パソコンスタンド パソコン台 pcスタンド ノ [measured 2026-09-15]
+  B097HL2V8Q  ZEEKK          ZEEKK ノートパソコンスタンド PCスタンド アルミ合金 タブレットスタンド 折りたたみ 軽量 安定 [measured 2026-09-15]
+  B0D637HRT5  SODI           【革新的・極コンパクト】 SODI ノートパソコンスタンド PCスタンド 折りたたみ式 安定感 超軽量  [measured 2026-09-15]
+  B0F8BWQD33  ONED           【国内正規品】ONED Majextand・人間工学に基づくノートパソコンスタンド (スペースブラック) [measured 2026-09-15]
+  B0F9YHQR7M  革新的・極コンパクト     【革新的・極コンパクト】 SODI ノートパソコンスタンド PCスタンド 折りたたみ式 安定感 超軽量  [measured 2026-09-11]
+  B0CPHX4R58  MOFT           MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【放熱穴付き】 持ち運び簡単 折りたた [measured 2026-09-15]
+  B0BHWPXHTY  MOFT           MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【放熱穴付き】 持ち運び簡単 折りたた [article_dated 2026-06-13]
+  B08TLVKBMJ  Ugreen         UGREEN ノートパソコンスタンド PC 折りたたみ式 コンパクト 持ち運びやすい [未実測]
+  B09QCRDRRS  サンワダイレクト       サンワダイレクト ノートパソコンスタンド 折りたたみ 軽量 10段階角度調整 斜め 液タブ iPad ス [未実測]
+  B0B15B32NV  MOFT【公式直営店】ノート MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【中空デザイン】 持ち運び簡単 折りた [未実測]
+  B0BCK3V2X6  Aoviho         Aoviho ノートパソコンスタンド [未実測]
+  B0BNPYF86Y  BoYata         BoYata ノートパソコンスタンド (ブラック) [未実測]
+  B0DT9PS7QP  MOFT           MOFT ノートパソコンスタンド 非粘着式 [未実測]
+
+topic_id: daily_gadget_20261130_a13afd5d
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-30_laptop_stand_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-30_laptop_stand_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

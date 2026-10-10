@@ -1,0 +1,32 @@
+
+候補 21 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B06W55K9N6  ウエスタンデジタル      ウエスタンデジタル(Western Digital) WD ポータブルHDD 2TB USB3.0 ブラ [measured 2026-08-31]
+  B07VTFN6HM  Western Digita WD ポータブルHDD 2TB USB3.0 ブラック My Passport 暗号化 パスワード保護  [article_dated 2026-09-01]
+  B091FV14V9  UnionSine      UnionSine 1TB 外付けハードディスク超薄型外付けHDDポータブルハードディスク 2.5インチ [measured 2026-09-11]
+  B091FS79T8  UnionSine      UnionSine 500GB 外付け ハードディスク超薄型外付けHDDポータブルハードディスク2.5イ [measured 2026-08-31]
+  B07BK6696F  Amazon         Amazon限定 バッファロー 外付けHDD 4TB テレビ録画 nasne 対応 静音 日本製 HD- [article_dated 2026-09-05]
+  B07D7978NV  バッファロー         バッファロー ポータブルHDD 2TB USB3.1(Gen1)/USB3.0用 HD-PCFS2.0U [article_dated 2026-09-05]
+  B0BN8VZ22H  ELECOM         エレコム 外付けHDD ハードディスク ハイブリッドドライブ 6TB テレビ録画用/Mac/Window [measured 2026-08-26]
+  B0BMKPT7VC  Amazon         Amazon限定 バッファロー CMR HDD採用 外付けHDD 8TB テレビ録画対応 nasne対応 [measured 2026-08-31]
+  B0H5W5576J  FFF            FFF 外付けHDD 2TB ポータブルHDD PC・テレビ録画対応 USB3.2 高速転送 Windo [measured 2026-08-31]
+  B077Y87PPG  アイオーデータ        アイ・オー・データ 外付けHDD ハードディスク 2TB ポータブル カクうす アルミボディ 超薄型 m [未実測]
+  B07D79GJ9J  バッファロー         バッファロー ポータブルHDD 1TB USB3.1(Gen.1) スタンダードモデル ブラック HD- [未実測]
+  B07NWQW5LC  バッファロー         バッファロー ポータブルHDD 1TB USB3.1(Gen.1) ホワイト 耐衝撃 HD-PGF1.0 [未実測]
+  B07TSYRWH7  バッファロー         バッファロー 6TB 外付けHDD HD-NRLD6.0U3-BA [未実測]
+  B08ZJG6TVT  シーゲイト          Seagate Expansion 2.5インチ ポータブルHDD 2TB STKM2000400 [未実測]
+  B092VCK3J8  バッファロー         バッファロー USB3.2(Gen.1)対応外付けHDD メカニカルハードデイスク 4TB ブラック H [未実測]
+  B09FJTYT4N  バッファロー         バッファロー HD-EDS4U3-BE パソコン&テレビ録画用 外付けHDD 4TB [未実測]
+  B0B3XCH7DD  バッファロー         バッファロー HD-EDS2U3-BE パソコン&テレビ録画用 外付けHDD 2TB [未実測]
+  B0CF4SQY1X  Aiolo          AIOLO INNOVATION 500GB 外付け ハードディスク USB3.0超薄型ポータブル外付け [未実測]
+  B0D9H8ZMF7  BIGBIGER       BIGBIGER 500G USB3.0 Type C HDD 2in1外付け ハードディスク 2.5イ [未実測]
+  B0DYJT6F51  VOKTECHGY      【高性能・ポータブル】外付けHDD 500GB/320GB｜2.5インチ機械式ハードディスク USB3. [未実測]
+  B0FHNZHC8V  Amazon         Amazon限定 Seagate 外付けHDD 2TB CMR テレビ録画/nasne 対応 静音 HD [未実測]
+
+topic_id: daily_gadget_20261109_fca3c6ea
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_external_hdd_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_external_hdd_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

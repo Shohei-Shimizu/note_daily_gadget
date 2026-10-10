@@ -1,0 +1,29 @@
+
+候補 18 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B00TMYO5EM  バッファロー         バッファロー USBメモリ 16GB USB3.2(Gen1)/3.1(Gen 1)/3.0/2.0 充 [measured 2026-08-31]
+  B00TMYO5LK  バッファロー         バッファロー USBメモリ 32GB USB3.2(Gen1)/3.1(Gen 1)/3.0/2.0 充 [measured 2026-08-31]
+  B0GVM2MRRY  ELECOM         エレコム USBメモリ 256GB USB3.2（Gen1）ノック式 ホワイト しろちゃん MF-PKU [measured 2026-08-31]
+  B0GVLW2VSK  ELECOM         エレコム USBメモリ 256GB USB3.2（Gen1）ノック式 ブラック MF-PKU3256GB [measured 2026-08-26]
+  B0FFM7SRGC  Acer           Acer UT300 USBメモリ 32GB USB 3.2 最大読出速度150MB/s USB-A/C [measured 2026-08-26]
+  B0BHWB3T1Q  Patianco       Patianco【MFi認証品 セキュリティ機能付】iPhone用 USBメモリ 128GB 3in1  [article_dated 2026-09-02]
+  B0GWCQZK26  512GB【アプリ不要/アダ 512GB【アプリ不要/アダプター不要】3in1 Phone対応 USBメモリ Phone用端子/Typ [measured 2026-08-26]
+  B0GZ3JRLLY  512GB【アプリ不要】4i 512GB【アプリ不要】4in1プッシュ式 USBメモリ Phone/Android/PC対応 USB3 [measured 2026-08-31]
+  B073JFMPPT  ELECOM         エレコム USBメモリ 32GB USB2.0 セキュリティ機能対応 ブラック MF-MSU2B32GB [article_dated 2026-09-02]
+  B00KDS908C  ELECOM         エレコム USBメモリ 32GB USB3.0 情報漏洩対策 パスワードロック ハードウェア暗号化機能搭 [measured 2026-08-31]
+  B0FPC9RQB4  ELECOM         エレコム USBメモリ 128GB USB3.2 Gen1 Type-C 回転式 iPhone対応 対応 [measured 2026-08-31]
+  B087CHMKR4  バッファロー         バッファロー USBメモリ 32GB ノックスライド式 USB3.2Gen1 RUF3-KS32GA-B [未実測]
+  B0BHW8PRDM  Patianco【MFi認証 Patianco【MFi認証品 セキュリティ機能付】iPhone用 USBメモリ 128GB 3in1  [未実測]
+  B0CZP2VL6C  SanDisk        【 サンディスク 正規品 】SanDisk Ultra Dual Drive Luxe 読出最大400M [未実測]
+  B0DDSTQHQ6  128GB          【アプリ不要・令和8年限定版 】128GB usbメモリ 写真保存 直接usbに写真を移す４in1 フラ [未実測]
+  B0FLDPF1K3  Amazon         Amazon限定 バッファロー USBメモリ 256GB Type-C Type-A 両対応 USB3. [未実測]
+  B0GD5WHXQW  256GB          【アプリ不要・正規認証品 】256GB Phone対応usbメモリ写真保存 直接usbに写真を移す４in [未実測]
+  B0H2V7R7Q2  Bluetoothスピーカー Bluetoothスピーカー 20W 大音量 24時間連続再生 DSPサウンド処理 RGBライト搭載 消 [未実測]
+
+topic_id: daily_gadget_20261117_ba8e4241
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-17_usb_memory_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-17_usb_memory_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

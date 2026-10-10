@@ -1,0 +1,3975 @@
+{
+  "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "read_only": true,
+  "rules": "historical tier1/2 active + resolved/no_parent; title scope prefilter; no current selection",
+  "topics": [
+    {
+      "date": "2026-11-01",
+      "topic_id": "daily_gadget_20261101_5d60a8d4",
+      "type_tag": "type:keyboard",
+      "tentative_theme": "文章入力の道具を見直す。仕事用キーボード",
+      "role": "D",
+      "category_label": "デスク環境",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "09-15の静音キーボード・マウス混成から、入力機器単独の配列と接続に焦点を移す",
+      "db_gate_candidates": 45,
+      "title_scope_candidates": 24,
+      "distinct_parent_groups": 23,
+      "30_day_title_scope_candidates": 24,
+      "candidate_asins": [
+        "B00BJZ2JWC",
+        "B015H5YHEM",
+        "B01HGGWZMG",
+        "B01MA23P3J",
+        "B07PFGDZD7",
+        "B07PJW2X2F",
+        "B081JSVYHQ",
+        "B08CRN2P44",
+        "B08K2CHMWK",
+        "B0B1Q6H9X5",
+        "B0BWDSC5ZB",
+        "B0C65F55K5",
+        "B0CJR82M5M",
+        "B0CWKWXP37",
+        "B0DBZNH3D3",
+        "B0FDQL8KNL",
+        "B00U260UR0",
+        "B08TMK8GSC",
+        "B0C3QXBTJP",
+        "B0CT2T18PV",
+        "B0CZ8X3DH8",
+        "B0F38B7W6P",
+        "B0FDW68VH4",
+        "B0GL26M6Z2"
+      ],
+      "parent_groups": {
+        "B07B7QWRD4": [
+          "B00BJZ2JWC"
+        ],
+        "B0BHZ4HCLB": [
+          "B015H5YHEM"
+        ],
+        "B01HGGWZMG": [
+          "B01HGGWZMG"
+        ],
+        "B01MA23P3J": [
+          "B01MA23P3J"
+        ],
+        "B0CT2ZQSHP": [
+          "B07PFGDZD7"
+        ],
+        "B0CT338MNK": [
+          "B07PJW2X2F"
+        ],
+        "B081JSVYHQ": [
+          "B081JSVYHQ"
+        ],
+        "B0F4QMQP61": [
+          "B08CRN2P44"
+        ],
+        "B0H798GHGL": [
+          "B08K2CHMWK",
+          "B0FDQL8KNL"
+        ],
+        "B0B1V9LSM2": [
+          "B0B1Q6H9X5"
+        ],
+        "B0GK6LZ36T": [
+          "B0BWDSC5ZB"
+        ],
+        "B0D8S9D359": [
+          "B0C65F55K5"
+        ],
+        "B0FX2L8JJW": [
+          "B0CJR82M5M"
+        ],
+        "B0D3F3RTX9": [
+          "B0CWKWXP37"
+        ],
+        "B0FHKV37WH": [
+          "B0DBZNH3D3"
+        ],
+        "B00U260UR0": [
+          "B00U260UR0"
+        ],
+        "B0CT39VLZZ": [
+          "B08TMK8GSC"
+        ],
+        "B0CT2YSJ1V": [
+          "B0C3QXBTJP"
+        ],
+        "B0CT2T18PV": [
+          "B0CT2T18PV"
+        ],
+        "B0D1C14N5L": [
+          "B0CZ8X3DH8"
+        ],
+        "B0GZNT6JYV": [
+          "B0F38B7W6P"
+        ],
+        "B0GVHNRJVG": [
+          "B0FDW68VH4"
+        ],
+        "B0HFHG31N5": [
+          "B0GL26M6Z2"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B077T9391Z",
+          "title": "Razer Tartarus V2 左手デバイス 左手キーボード メカメンブレン 全キー自由に割り当て可能 【日本正規代理店保証品】 ファイナルファンタジーXIV 推奨デバイス",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B087BRFMFK",
+          "title": "Tenwin 卓上クリーナー デスクトップ掃除機 吸引力 コンパクト コードレス デスククリーナー 卓上掃除機 ハンディ掃除機 キーボード パソコンクリーナー 掃除用品 吸引力 ミニクリーナー クリスマス プレゼント（ピンク）",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B09248N9XK",
+          "title": "Logicool G ロジクール G ゲーミングキーボード 有線 G213r パームレスト 日本語配列 独自のMech-domeスイッチ キーボード 静音 LIGHTSYNC RGB 国内正規品 【 ファイナルファンタジーXIV 推奨周辺機器 】",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0BC135WFD",
+          "title": "【Amazon.co.jp限定】 Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列 | 静かなタイピング GXスイッチ 有線 メカニカルキーボード LIGHTSYNC RGB 充電",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0BWJVXGSY",
+          "title": "XPPen 左手デバイス ショートカットリモート 片手キーボード Bluetooth対応 ワイヤレス ペンタブ 液タブ用 ノートパソコン対応 作業効率向上 イラスト 画像 動画編集 ACK05",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DQWKSQGR",
+          "title": "MonsGeek FUN60 Pro SP 英語配列 有線モデル 0.01mm ラピッドトリガー対応 高コスパ ゲーミングキーボード ブラック | 磁気スイッチ Akko Glare Magnetic Switch HEセンサー テンキーレス サイド",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DXDVLV4W",
+          "title": "UGREEN 6個セット マグネット式 ケーブルホルダー 小型 ケーブルクリップ 配線止め 配線整理 貼り付け 強力粘着 USB配線収納 コード・ケーブルオーガナイザー 卓上 デスク 机 壁 車 ナイトテーブル 固定 type-c 充電ケーブル lanケーブル 電源コード キーボードライン マウス イヤホン ヘッドホンコード などに対応 黒",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0F53VKBJK",
+          "title": "エアダスター 電動エアダスター ブロワー 小型 ブロアー 250000RPM高速回転 強力 最大風速120m/s 無段階風量調整 5種類ノズル付き LEDライト付き Type-C充電式 PC掃除/エアコン/キーボード/車内/洗車用",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GMJ79P2F",
+          "title": "AIM1 瞬 ラピッドトリガー 0.01mm ゲーミングキーボード 75%サイズ ポーリングレート8000Hz MATATAKI",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GQH7BM3Y",
+          "title": "RK ROYAL KLUDGE RK61 ワイヤレス 60% メカニカルキーボード、ミニポータブルサイズ、US QWERTY レイアウト | 61キー 3モード BT5.0/2.4G/USB-C 対応コンパクトゲーミングキーボード ― PBTキーキャップ、専用ソフトウェア、ホットスワップ対応カスタムスイッチ",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0H5K5PTDH",
+          "title": "GravaStar Mercury K1 かわいいホワイト ゲーミングキーボード 日本語配列 無線 テンキーレス RGBライト ワイヤレス 月白 | 唯一無二のフォルム 75%レイアウト ホットスワップ対応 ガスケット構造 2.4Ghz/Bluetooth/有線接続 文字側の刻印スタイル アルミ製筐体 8000mAh 音量コントロール JIS配列 メカニカルキーボード Windows/Mac用",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CXXY98GS",
+          "title": "KB16 マクロメカニカルキーボードアルミニウム製/片手キーボード/RGB VIA ホットスワップ プログラム機能対応可能/16キー/Ps Pr LrC Blenderなどのソフトに利用可能 (グレー)",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D86XCN4G",
+          "title": "iClever ゲーミングキーボード テンキーレス 赤軸 メカニカル キーボード 日本語配列 マクロ対応 G06 ブラック | 有線 91キー 80%サイズ カスタマイズ 24種類 バックライト ゲーム/オフィス用 パソコンキーボード Windows",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D9VVL9DY",
+          "title": "【Amazon.co.jp限定】 Logicool G PRO X TKL RAPID ゲーミングキーボード | ラピッドトリガー アクチュエーションポイント 調整可能 押下圧 35g 日本語配列 有線 テンキーレス 磁気式アナログスイッチ ゲーミング キーボード メカニカルキーボード ブラック 壁紙ダウンロード付き 国内正規品",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FF4BRY2H",
+          "title": "ESR iPad 第11世代(A16, 2025)/第10世代 Flex キーボードケース、iPad 10.9 用超軽量マグネット着脱式キーボード、書き込み/表示モード付き、大型精密トラックパッド、ダークグレー、日本語版",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FGCDSH1J",
+          "title": "【Amazon.co.jp限定】Logicool G ラピッドトリガー G515 RAPID ゲーミングキーボード G515-TKL-RTBKd | 薄型 アクチュエーションポイント 調整可能 日本語配列 押下圧 35g 有線 テンキーレス 磁気式アナログスイッチ ロープロファイル LIGHTSYNC RGB ブラック ゲーミング キーボード 壁紙ダウンロード付き 国内正規品",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FS6X29BT",
+          "title": "BOLYDOOM ハンディクリーナー 車用掃除機コードレス USB充電式4000mAHバッテリー内蔵 32000PA強力吸引力 乾湿両用 超軽量 低噪音对策 車内清掃/キーボード掃除/パソコン掃除/ペット毛掃除/家庭掃除用 (ブラック)",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FS6X3GXW",
+          "title": "BOLYDOOM ハンディクリーナー 車用掃除機コードレス USB充電式4000mAHバッテリー内蔵 32000PA強力吸引力 乾湿両用 超軽量 低噪音对策 車内清掃/キーボード掃除/パソコン掃除/ペット毛掃除/家庭掃除用 (ブルー)",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FX9RRFFJ",
+          "title": "ESR Shift iPad 第11世代(A16, 2025)/第10世代用キーボード付きケース、マグネット脱着式キーボード、縦向き／横向きモード対応、大きいトラックパッド、バックライトキー、ダークグレー",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0H1WNMLLD",
+          "title": "AAL エアダスター 電動エアダスター 【2026新登場· 圧倒的な風圧 ·LEDライト付き】小型 ブロワー 洗車 300000RPM高速回転 4段階風量調整 5種類ノズル付き ブロアー 充電式 車内/PC掃除/キーボード/洗車用/照明/空気入れ 収納ボックス 日本語取扱説明書",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0H69LM4TG",
+          "title": "エアダスター 電動エアダスター 充電式【120m/s強力送風・LEDライト搭載】300000RPM高速モーター 4段階風量調整 多種類ノズル付き Type-C充電式 コードレス 小型軽量 ブロワー PC掃除 キーボード 車内清掃 洗車 空気入れ 家庭用 日本語取扱説明書付き",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected",
+      "exported_candidate_asins": [
+        "B00U260UR0",
+        "B015H5YHEM",
+        "B08K2CHMWK",
+        "B0FDQL8KNL",
+        "B07PJW2X2F",
+        "B01HGGWZMG",
+        "B07PFGDZD7",
+        "B0BWDSC5ZB",
+        "B08TMK8GSC",
+        "B0CWKWXP37",
+        "B0CJR82M5M",
+        "B01MA23P3J",
+        "B0C3QXBTJP",
+        "B0FDW68VH4",
+        "B0B1Q6H9X5",
+        "B0CT2T18PV",
+        "B0D3HX423Y",
+        "B00BJZ2JWC",
+        "B081JSVYHQ",
+        "B08CRN2P44",
+        "B0C65F55K5",
+        "B0DBZNH3D3",
+        "B0CZ8X3DH8",
+        "B0F38B7W6P",
+        "B0GL26M6Z2",
+        "B0FCLQ5MM2",
+        "B0GHR6W4VL"
+      ],
+      "exported_candidate_count": 27
+    },
+    {
+      "date": "2026-11-02",
+      "topic_id": "daily_gadget_20261102_f6e93a8d",
+      "type_tag": "type:smart_remote",
+      "tentative_theme": "赤外線リモコンをスマホにまとめる。スマートリモコン",
+      "role": "D",
+      "category_label": "スマートホーム",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "10月プラグの通電管理とは異なり、既存赤外線家電の操作をまとめる",
+      "db_gate_candidates": 10,
+      "title_scope_candidates": 10,
+      "distinct_parent_groups": 8,
+      "30_day_title_scope_candidates": 9,
+      "candidate_asins": [
+        "B07YLW9F3J",
+        "B08BLSLWH4",
+        "B08P6ZSXWZ",
+        "B0BM8VS13P",
+        "B0C6V1CJB7",
+        "B0DSPXKDP8",
+        "B08BN8WSGZ",
+        "B0B44WTLHT",
+        "B0D3TSNWBG",
+        "B0DHKWGFNC"
+      ],
+      "parent_groups": {
+        "B0GGH198JW": [
+          "B07YLW9F3J"
+        ],
+        "B0H1M9R868": [
+          "B08BLSLWH4",
+          "B0D3TSNWBG",
+          "B0DHKWGFNC"
+        ],
+        "B0G1YLSH8T": [
+          "B08P6ZSXWZ"
+        ],
+        "B0HFHW4RYC": [
+          "B0BM8VS13P"
+        ],
+        "B0H11HDH46": [
+          "B0C6V1CJB7"
+        ],
+        "B0GGB2H5HZ": [
+          "B0DSPXKDP8"
+        ],
+        "B0F6CCTK1K": [
+          "B08BN8WSGZ"
+        ],
+        "B0H4YY42RK": [
+          "B0B44WTLHT"
+        ]
+      },
+      "excluded": [],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-03",
+      "topic_id": "daily_gadget_20261103_164160ad",
+      "type_tag": "type:gadget_pouch",
+      "tentative_theme": "出先の小物をひとまとめにする。ガジェットポーチ",
+      "role": "D",
+      "category_label": "モバイル",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "09-07の出張混成から、小物収納の寸法と仕切りだけを比較",
+      "db_gate_candidates": 25,
+      "title_scope_candidates": 25,
+      "distinct_parent_groups": 16,
+      "30_day_title_scope_candidates": 25,
+      "candidate_asins": [
+        "B01HE6L6BY",
+        "B07NPJDH22",
+        "B07Q9K2QHV",
+        "B07SYFWYBW",
+        "B07XFVCW1S",
+        "B0843QXWWZ",
+        "B0843RKFPJ",
+        "B0843WY8RR",
+        "B087RLFP3C",
+        "B087RLYJNP",
+        "B08DCYD9LD",
+        "B08L35V3R5",
+        "B09MPR36JM",
+        "B0BMTRNQ43",
+        "B0CCP69CWW",
+        "B0CY57DPW5",
+        "B0D8TJJGNJ",
+        "B0DG58QXH3",
+        "B0DG5M7D1G",
+        "B0DQ5XKH9Y",
+        "B0F1Y89996",
+        "B0H2F6R341",
+        "B00TK35ES6",
+        "B07CQ1PTGH",
+        "B0F59QZWSN"
+      ],
+      "parent_groups": {
+        "B0BW4221S1": [
+          "B01HE6L6BY"
+        ],
+        "B07NPJDH22": [
+          "B07NPJDH22"
+        ],
+        "B0FY2TXK3B": [
+          "B07Q9K2QHV"
+        ],
+        "B07SYFR7NM": [
+          "B07SYFWYBW"
+        ],
+        "B088FRNVF9": [
+          "B07XFVCW1S",
+          "B087RLFP3C",
+          "B087RLYJNP"
+        ],
+        "B0843SLFT1": [
+          "B0843QXWWZ",
+          "B0843RKFPJ",
+          "B0843WY8RR"
+        ],
+        "B09N6GB1RQ": [
+          "B08DCYD9LD"
+        ],
+        "B0HB3XKV23": [
+          "B08L35V3R5"
+        ],
+        "B0F18BF9VZ": [
+          "B09MPR36JM",
+          "B0CY57DPW5",
+          "B0DQ5XKH9Y",
+          "B0F1Y89996"
+        ],
+        "B0BR5Y9L32": [
+          "B0BMTRNQ43",
+          "B0CCP69CWW"
+        ],
+        "B0D8TJJGNJ": [
+          "B0D8TJJGNJ"
+        ],
+        "B0DKT6J7PQ": [
+          "B0DG58QXH3",
+          "B0DG5M7D1G"
+        ],
+        "B0HDCXWTL9": [
+          "B0H2F6R341"
+        ],
+        "B09N67BXGW": [
+          "B00TK35ES6"
+        ],
+        "B07CQ1PTGH": [
+          "B07CQ1PTGH"
+        ],
+        "B0HFHWMHN9": [
+          "B0F59QZWSN"
+        ]
+      },
+      "excluded": [],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-04",
+      "topic_id": "daily_gadget_20261104_a6fa15ce",
+      "type_tag": "type:headphone",
+      "tentative_theme": "会議と集中作業を切り替える。ノイズキャンセリングヘッドホン",
+      "role": "D",
+      "category_label": "音響",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "イヤホンと分けオーバーイヤー本体のみ。通話品質は公式仕様範囲",
+      "db_gate_candidates": 46,
+      "title_scope_candidates": 11,
+      "distinct_parent_groups": 10,
+      "30_day_title_scope_candidates": 11,
+      "candidate_asins": [
+        "B00LXPAWG8",
+        "B09Z2QYYD1",
+        "B0CQKFTYW5",
+        "B0CWNQP4RG",
+        "B0FX3S9NN8",
+        "B0G1XMK96H",
+        "B0GXYWTMPN",
+        "B0CGLZJMD5",
+        "B0CHB31V44",
+        "B0F77PMC1P",
+        "B0FGJMK7PZ"
+      ],
+      "parent_groups": {
+        "B00LXPAWG8": [
+          "B00LXPAWG8"
+        ],
+        "B0DPT5FL3S": [
+          "B09Z2QYYD1"
+        ],
+        "B0HC9TS3L4": [
+          "B0CQKFTYW5"
+        ],
+        "B0FHPYXJ88": [
+          "B0CWNQP4RG"
+        ],
+        "B0G4GJ1GTS": [
+          "B0FX3S9NN8"
+        ],
+        "B0G8JHTYVG": [
+          "B0G1XMK96H"
+        ],
+        "B0DBVSQ2DK": [
+          "B0GXYWTMPN"
+        ],
+        "B0CHM99MR5": [
+          "B0CGLZJMD5",
+          "B0CHB31V44"
+        ],
+        "B0FP474BN6": [
+          "B0F77PMC1P"
+        ],
+        "B0FJXDGPPG": [
+          "B0FGJMK7PZ"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B079PTGNTW",
+          "title": "【Amazon.co.jp限定】 ロジクール ヘッドセット H340r ノイズキャンセリング マイク付き ブラック 国内正規品",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B08HYX5NS9",
+          "title": "Anker Soundcore Life Q30【第2世代】(Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリング/外音取り込みモード/NFC・Bluetooth対応/ハイレゾ対応(AUX接続時) / 最大50時間音楽再生 / マイク内蔵/専用アプリ対応】ブラック",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B097DBSJ1F",
+          "title": "Logicool G ゲーミングヘッドセット G335 ゲーミング ヘッドセット G335BK 軽量 222g 3.5mm 有線 立体音響 ステレオ 2.1ch フリップミュート マイク付き PS5 PS4 PC Switch Xbox スマホ 対応",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0989HTQ32",
+          "title": "オーディオテクニカ ヘッドセット USB 有線 ノイズキャンセリング マイク付き ヘッドホン ステレオ 軽量 ソフトイヤーパッド 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 windows mac Chrome web会議 テレワーク ATH-102USB",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B09HC1LCX3",
+          "title": "KVIDIO ヘッドホン Bluetooth ワイヤレス - 65h再生 - 折りたたみ マイク付き",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B09HC28X3Y",
+          "title": "KVIDIO ヘッドホン Bluetooth ワイヤレス - 65h再生 - 折りたたみ マイク付き",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0B6GHW1SX",
+          "title": "Sennheiser ゼンハイザー MOMENTUM 4 Wireless ワイヤレスノイズキャンセリングヘッドホン - クリアな通話を実現するBluetoothヘッドセット、アダプティブノイズキャンセリング搭載、オーバーイヤータイプ、60時間のバッテリー持続時間、専用収納ケース、ブラック",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0B7B9NGVH",
+          "title": "ヘッドセットUSB接続 片耳 マイク付きPC用ヘッドセット ノイズキャンセリング 音量調節とミュート機能付きヘッドホン PC Mac対応",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0BPLVLQPG",
+          "title": "【ビジネス/オンライン会議最適】【気候フレンドリー認定取得】Boytond YYK-520 ヘッドセット Bluetooth5.3 片耳 ワイヤレス 耳掛け型 物理操作ボタン 2台同時接続 ANC+ENCノイズキャンセリングマイク ハンズフリー通話 ミュート/SIRI 左右耳兼用 メガネ併用 運転/宅配/営業/外出先（ブラック）",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0BVPNJP1C",
+          "title": "ソニー(SONY) ワイヤレスノイズキャンセリングヘッドホン WH-CH720N: ノイズキャンセリング搭載/Bluetooth対応/軽量設計/マイク搭載/外音取り込み搭載/360Reality Audio対応/ブラック WH-CH720N B",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CBJF4XLV",
+          "title": "イヤホン 有線イヤホン 3.5mmジャック HIFI音質 音量調整 重低音 ノイズキャンセリング マイク付き 通話可能 ハイレゾ クリア通話 音量調節 ステレオイヤフォン ヘッドホン",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CGHYL5BY",
+          "title": "オーディオテクニカミミオ MIMIO SOUND BOX お手元テレビ用スピーカー 有線接続 はっきり音声 ステレオ かんたん操作 抗菌仕様 再生プラスチック配合 5.0mロングケーブル USB給電(USB Type-A ) アンプ内蔵 ヘッドホン端",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CHFF9NF1",
+          "title": "CALLEZヘッドセットUSB接続 両耳 ミュート機能付きPC用ヘッドセット ノイズキャンセリングマイクと音量調節付きオフィス用ヘッドフォン 軽量 Skype Zoom Web会議 在宅勤務 テレワーク オンライン通話 ビデオチャット適用",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0D4VMVCFX",
+          "title": "Anker Soundcore Space One Pro (Bluetooth 5.3 ワイヤレス ヘッドホン)【最大60時間音楽再生 / ウルトラノイズキャンセリング 3.5 / LDAC/ハイレゾ対応 (ワイヤレス/有線) / マルチポイント対応/外音取り込み/マイク内蔵】 ミッドナイトブラック",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D4YFDG5H",
+          "title": "OneOdio Pro C ワイヤレスヘッドホン 最大110時間連続再生 マルチポイント対応 内蔵マイク ブルー",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D93LP3TJ",
+          "title": "「VGP2025受賞」Edifier MR3 スタジオモニタースピーカー 36W Bluetooth 5.4 ルーム補正 ハイレゾ 専用アプリ TRSバランス/RCA/AUX入力 3.5mm/ヘッドホン端子出力 52Hz-40kHz スタジオ/作曲/",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DLGC2G5C",
+          "title": "【新装発売通話専用G2】 Bluetooth ヘッドセット Earaku(イアラク) 2026版 マイク付き 通話専用 耳を塞がない 日本語音声ガイド ワイヤレス イヤホン ブルートゥース ENCノイズキャンセリング オープンイヤー Bluetooth 5.3 軽量 約28g 両耳 耳掛け式 無線 【ネイビー】",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0DPML49WJ",
+          "title": "【2025新版 iPhone15対応】イヤホン 有線 タイプC 有線ヘッドセットマイク内蔵 有線HiFi 騒音低減 クリア通話 リモコン付き 快適な装着感 type-c 人間工学 通話対応 音量調整 遅延なし 重低音 小型·軽量 防水 usb c i",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0DRD697NV",
+          "title": "【ビジネスに最適！スムーズな通話を実現！】Bluetooth ヘッドセット マイク付き Bluetooth5.4+EDR イヤホンマイク オープンイヤー イヤホン ビジネスイヤホン ENCノイズキャンセリング技術 35g超軽量 究極のフィット感 最大20時間連続再生 耳を塞がない 自動ペアリング クリアな通話体験 ハンズフリー通話/テレワーク/Web会議/zoom (ブラック)",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0DXDVLV4W",
+          "title": "UGREEN 6個セット マグネット式 ケーブルホルダー 小型 ケーブルクリップ 配線止め 配線整理 貼り付け 強力粘着 USB配線収納 コード・ケーブルオーガナイザー 卓上 デスク 机 壁 車 ナイトテーブル 固定 type-c 充電ケーブル lanケーブル 電源コード キーボードライン マウス イヤホン ヘッドホンコード などに対応 黒",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FJ285HT1",
+          "title": "【Amazon.co.jp限定】 業界初Bluetooth5.4 ヘッドホン bluetooth ワイヤレスヘッドホン ANCノイズキャンセリング 有線 無線 両用 最大35時間再生 マイク内蔵 ハンズフリー通話 マルチポイント対応 快適装着 軽量",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FL1BH9VM",
+          "title": "【ドイツ レッド•ドット賞受賞】耳栓 みみせん 完全遮音【認定聴覚保護具】DJcong(ディージェーコング) ノイズキャンセリング イヤホン アイマスク 睡眠用と併用 いびき防止グッズ イヤーピース ホワイトノイズ 飛行機 快適グッズ ノイズ キャンセリングヘッドホン 日用品",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FL2HYBGJ",
+          "title": "Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 ブラック",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FQFQDN6K",
+          "title": "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0G1C1Q8M3",
+          "title": "BERIBES ヘッドホン bluetooth 65 時間再生 6つのEQモード ワイヤレスヘッドフォン Bluetooth 6.0 内蔵マイク付き",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GGJY5D2D",
+          "title": "MUSICOZY スリープヘッドホン Bluetooth 5.4 ヘッドバンド ワイヤレスイヤホン 音楽スリープイヤホン 睡眠アイマスク HDステレオスピーカー付き ワークアウト ランニング 旅行 ヨガに最適 ギフトに最適 両面ブラック",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GS1ZHN5W",
+          "title": "KVIDIO ヘッドホン Bluetooth ワイヤレス - 65h再生 - 折りたたみ マイク付き",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0H8RP48N4",
+          "title": "イヤホンAI翻訳機 骨伝導イヤホン ワイヤレス Bluetooth 6.1 オープンイヤーヘッドホン双方向同時通訳 [並行輸入品]",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B079QCVKW1",
+          "title": "ロジクール ヘッドセット H540r ノイズキャンセリング マイク付き ステレオ USB 接続 マイク 軽量 ヘッドホン ヘッドフォン ブラック windows mac Chrome テレワーク リモートワーク Web会議 国内正規品 2年間無償保証",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0989G91PY",
+          "title": "オーディオテクニカ ヘッドセット USB 有線 片耳 ノイズキャンセリング マイク付き ヘッドホン 軽量 ソフトイヤーパッド 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 windows mac Chrome web会議 テレワーク ATH-101USB",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B09K74SRXM",
+          "title": "オーディオテクニカ ATH-202USB ヘッドセット USB 有線 ノイズキャンセリング マイク付き インナーイヤー イヤホン 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 web会議 テレワーク windows mac Chrome",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0BFGBXR7V",
+          "title": "エレコム 有線ヘッドセット USB マイク付き ネックバンド ミュート機能 ボリューム調整 軽量 【テレワーク リモートワーク Web会議】 ブラック HS-NB03SUBK",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0BVVX5FBD",
+          "title": "FIFINE XLR/USB接続 ダイナミックマイク ゲーミング 配信用 単一指向性 ノイズ低減 プラグ＆プレイ PC パソコン PS4 PS5対応 ライブ配信 ゲーム実況 録音用 マイク 音量調節 ミュート機能 RGBライト ヘッドホン端子 USBケーブル付き(Type-Cアタブターあり) XLR機材対応 黒 AmpliGame AM8",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CGHX62BF",
+          "title": "オーディオテクニカミミオ MIMIO SOUND CUBE お手元テレビ用スピーカー 有線接続 はっきり音声 モノラル かんたん操作 抗菌仕様 再生プラスチック配合 5.0mロングケーブル USB給電(USB Type-A ) アンプ内蔵 ヘッドホン端子付き 小型 軽量 AT-MSP70TV",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DBR13335",
+          "title": "Bose QuietComfort Headphones LE 完全 ワイヤレス ヘッドホン ノイズキャンセリング Bluetooth接続 マイク付 最大24時間再生 急速充電 サンドストーン",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-05",
+      "topic_id": "daily_gadget_20261105_5405bca5",
+      "type_tag": "type:timer",
+      "tentative_theme": "作業時間を区切る。デスクタイマー",
+      "role": "D",
+      "category_label": "生産性",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "09-14から52日。スマホを使わず残り時間を確認する単体機器",
+      "db_gate_candidates": 59,
+      "title_scope_candidates": 35,
+      "distinct_parent_groups": 24,
+      "30_day_title_scope_candidates": 35,
+      "candidate_asins": [
+        "B004KSRN3K",
+        "B00DAM5L1S",
+        "B07KGH6B81",
+        "B07X2QHVDW",
+        "B07YLQCW27",
+        "B07ZNF656F",
+        "B087S3YKH7",
+        "B08HWCWY6Z",
+        "B08K9FG8Y7",
+        "B08K9FQ92S",
+        "B08KRMQT5S",
+        "B0BB5WSKPF",
+        "B0BK2J71M1",
+        "B0DBY8JCQ5",
+        "B0DYH2Q6N6",
+        "B0DYHWJ9Y2",
+        "B0F3X42BWY",
+        "B0FHVXSJD3",
+        "B001E1E96U",
+        "B07X3TVTW8",
+        "B08N69YXD5",
+        "B0BCJNNR2H",
+        "B0CNWXDFH5",
+        "B0CPHKY182",
+        "B0CTT1KPKM",
+        "B0CWR2368W",
+        "B0DM3CY7L6",
+        "B0DPFZVF28",
+        "B0F1SDQQ83",
+        "B0F6K1Q29G",
+        "B0FB3827XP",
+        "B0FDJCMTH3",
+        "B0FN72BY4W",
+        "B0H19Y9ZTG",
+        "B0H19Z1X5L"
+      ],
+      "parent_groups": {
+        "B07L6NYQ36": [
+          "B004KSRN3K"
+        ],
+        "B07L6QZS6H": [
+          "B00DAM5L1S"
+        ],
+        "B0D2KVMDDH": [
+          "B07KGH6B81"
+        ],
+        "B0CVQ6KS33": [
+          "B07X2QHVDW"
+        ],
+        "B0FQ2MJJSJ": [
+          "B07YLQCW27",
+          "B07ZNF656F",
+          "B0DBY8JCQ5",
+          "B0F3X42BWY"
+        ],
+        "B08P5H7QN5": [
+          "B087S3YKH7"
+        ],
+        "B0GS12YBN2": [
+          "B08HWCWY6Z"
+        ],
+        "B0DQ54CJLY": [
+          "B08K9FG8Y7",
+          "B08K9FQ92S",
+          "B0BK2J71M1",
+          "B0DM3CY7L6"
+        ],
+        "B0F36VXW8G": [
+          "B08KRMQT5S",
+          "B0DYH2Q6N6",
+          "B0DYHWJ9Y2"
+        ],
+        "B0DVGH9VCB": [
+          "B0BB5WSKPF"
+        ],
+        "B0FRN83YT7": [
+          "B0FHVXSJD3"
+        ],
+        "B07D1BJXW4": [
+          "B001E1E96U"
+        ],
+        "B07X4F7T1R": [
+          "B07X3TVTW8"
+        ],
+        "B08NXN5ZNS": [
+          "B08N69YXD5"
+        ],
+        "B0FNPB6K8Y": [
+          "B0BCJNNR2H"
+        ],
+        "B0CNX5M97R": [
+          "B0CNWXDFH5"
+        ],
+        "B0F2S2F32K": [
+          "B0CPHKY182"
+        ],
+        "B0FNKQXB3B": [
+          "B0CTT1KPKM"
+        ],
+        "B0DMN7YBK9": [
+          "B0CWR2368W",
+          "B0H19Y9ZTG",
+          "B0H19Z1X5L"
+        ],
+        "B0DRNM3H24": [
+          "B0DPFZVF28"
+        ],
+        "B0D6385QR6": [
+          "B0F1SDQQ83"
+        ],
+        "B0BB8NRGL5": [
+          "B0F6K1Q29G"
+        ],
+        "B0FB2T9K39": [
+          "B0FB3827XP"
+        ],
+        "B0FKH5298V": [
+          "B0FDJCMTH3",
+          "B0FN72BY4W"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B07B7NXV4R",
+          "title": "SwitchBot スイッチボット スイッチ ボタンに適用 指ロボット スマートスイッチ スマートホーム ワイヤレス タイマー スマホで遠隔操作 Alexa, Google Home, Siri, IFTTTなどに対応(ハブ必要) ホワイト",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B07RZJD2LC",
+          "title": "[山善] 衣類乾燥除湿機 除湿量 6.0L (木造7畳 / 鉄筋14畳まで) タイマー オートオフ機能付き ホワイト YDC-C60(W)",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B08G1G1DVT",
+          "title": "TP-Link WiFi スマートプラグ タイマー コンセント 遠隔操作 直差し Echo シリーズ/Google ホーム 対応 音声コントロール サーキュレーター ハブ不要 3年保証 Tapo P105/A",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B08HZ4LYHM",
+          "title": "iDiskk タイムロックボックス (99時間タイマー)",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B08L518WBM",
+          "title": "TP-Link WiFi スマートプラグ タイマー コンセント 遠隔操作 直差し Echo シリーズ/Google ホーム 対応 音声コントロール サーキュレーター ハブ不要 メーカー保証3年 Tapo P105 2個セット",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0BD7154F9",
+          "title": "BrownNoise サウンドマシン 30種類の心地よいサウンド 12色 ナイトライト ホワイトノイズマシン 大人 赤ちゃん 子供用 睡眠マシン 36のボリュームレベル メモリ機能 5タイマー 自宅 オフィス 旅行用",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0BTH3KRF9",
+          "title": "SoundMe スリープサウンドマシン 30種類の心地よい自然音 36のボリュームコントロール コンパクトサイズ 旅行 ホワイトノイズマシン 赤ちゃん 子供 大人用 ACまたはUSBで給電 メモリー機能 スリープタイマー",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0C9PYJZJ7",
+          "title": "【Amazon.co.jp限定】 TP-Link Tapo Matter対応 スマートプラグ プラグミニ スマートコンセント 電力モニタリング コンセント 節電·省エネ スケジュール 電源タイマー 直差し 遠隔操作 音声コントロール かんたん設定【Amazon Alexa, Apple Siri, Google Assistant 対応】Tapo P110M(2-pack)",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0C9PYN7RN",
+          "title": "TP-Link Tapo Matter 対応 スマートプラグ プラグミニ スマートコンセント 電力モニタリング コンセント 節電·省エネ スケジュール 電源タイマー 直差し 遠隔操作 音声コントロール かんたん設定【Amazon Alexa, Apple Siri, Google Assistant 対応】Tapo P110M(1-pack)(JP)/A",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0DRHXLQM9",
+          "title": "blonbar 目覚まし時計 光 目覚ましライト LED置き時計 スヌーズ機能付き ホワイトノイズ & 多機能ナイトライト（間接照明/タイマー/授乳灯）メモリー機能搭載 重睡者・子供向け 出産祝いギフト AC電源接続式",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0DT6S7NZ8",
+          "title": "SwitchBot スマートプラグ プラグミニ スマートコンセント スイッチボット 消費電力モニター タイマー コンセント 節電·省エネ 直差し 遠隔操作 音声コントロール Bluetooth&Wi-Fi両方対応 スマートホーム Alexa, Google Home, Siri, IFTTT, SmartThings対応",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0DT6X8963",
+          "title": "SwitchBot スマートプラグ プラグミニ スマートコンセント スイッチボット 消費電力モニター タイマー コンセント 節電·省エネ 直差し 遠隔操作 音声コントロール Bluetooth&Wi-Fi両方対応 スマートホーム Alexa, Google Home, Siri, IFTTT, SmartThings対応 2個入り",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0DXPG7LFN",
+          "title": "[山善] 除湿機 衣類乾燥 除湿器 コンプレッサー式 小型 強力除湿 除湿量 3.8L 切タイマー おやすみ運転 ホワイト YDC-J03(W)",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0GHMVCX6D",
+          "title": "タイムロッキングコンテナ スマホ ロックボックス タイムコンテナ タイム ロッキング コンテナ タイムロッキングコンテリア スマホロック 携帯ロックボックス スマホ 封印 タイム ロック ボックス iphone タイマー 箱 スマホ依存症対策 電池式 時間を自由に設定 一年の連続使用時間 禁煙 お金 お菓子 スマホやゲームのやりすぎに最適 ベージュ Shlmnbo",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B08767ZQG5",
+          "title": "MUSON(ムソン) 加湿器 卓上 超音波式 アロマディフューザー 500ML アロマ対応 花粉対策 静音 タイマー 大容量 上から給水 ナイトライト 間接照明 明るさ調整可 音楽内蔵 空焚き防止 お手入れ簡単 乾燥対策 おしゃれ 木目調 ホワイト 部屋/寝室/会社用",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0BBRDHQK1",
+          "title": "Besince ディフューザー 加湿器 アロマディフューザー 卓上 アロマ 超音波式 卓上 静音 タイマー LEDライト7色 リモコン付 乾燥対策 300ml オフィス用 家庭用 保湿 (ウッド)",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0CKWWZ7JM",
+          "title": "シロカ コーン式全自動コーヒーメーカー カフェばこPRO CM-6C261(K) ブラック｜ガラスサーバー 豆・粉対応 豆・水計量不要 ミル機能 挽き目無段階調節可能 最大6杯 タイマー予約機能 マグカップ直接抽出 ステンレスフィルター付き",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0CW1JK2WR",
+          "title": "[山善] サーキュレーター DCモーター 静音 20畳 (換気/空気循環) 上下左右自動首振り 風量7段階調節 入切タイマー リモコン付き ホワイトグレー YAR-ND15E(WH)",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0D5CSCHM1",
+          "title": "【2026新登場・省エネ＆目に優しい】 デスクライト 明るい ledライト 照明 無段階調光 5段階調色 タイマー・記憶機能 高輝度 スタンドライト USB給電式 電気スタンド 卓上 ledデスクライト 折り畳み式 収納簡単 卓上 led 軽量 机 読書 寝室 学習机 スマホ給電可能 タイマー機能 おしゃれ 目に優しい 読書灯",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0DJXRYLHG",
+          "title": "エコチェッカー エコキーパー プログラムタイマー コンセント 電力計 節電 電力チェッカー チェッカー AC100V 1500W 大型LCD表示",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0DJY2KFNB",
+          "title": "KOZUMUWAN エコキーパー エコチェッカー コンセント プログラムタイマー 白 ボタン 簡易電力量計 大型LCD表示 電力計 節電",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0DZ1T51KS",
+          "title": "除湿機 小型【2026梅雨対策・強力除湿・省エネ】衣類乾燥除湿機 除湿器 ダブルぺルチェ式 強力 じょしつき 24時間切タイマー 7色ナイトランプ 満水自動停止 LED表示画面 コンパクト",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0FBW8QM21",
+          "title": "Anycee アイウォーマー【世界初！全機能カスタム対応】 ホットアイマスク 充電式 3段階気圧・温度・音量調整 目元ケア 3Dアイホール構造 アイケア Bluetooth音楽再生 アイマスク ホット 折り畳み式・軽量 サイズ調節可能 男女兼用 自動オフタイマー 睡眠グッズ 静音設定可 簡単操作 冷却アイマスク 結婚記念日 母の日 父の日ギフト 誕生日 敬老の日 プレゼント バレンタイン ギフト",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0FM3NXDVN",
+          "title": "Hoxhyon デスクライト LED クランプ式「PSE認証済」卓上ライト 電気スタンド 目に優しい デスクスタンド デスクランプ テーブルライト | 【ダブル光源 広範囲・高均一照明・無線リモコン・5段階調色調光・角度自由調節・タイマー】読書/勉強",
+          "reason": "別構造・用途外本体・付属品を除外"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-06",
+      "topic_id": "daily_gadget_20261106_25de440c",
+      "type_tag": "type:usb_hub",
+      "tentative_theme": "外出先で端子を増やす。USB-Cハブ",
+      "role": "D",
+      "category_label": "モバイル",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "09-30の据置ドックと、10-21の画面本体と用途を分離",
+      "db_gate_candidates": 17,
+      "title_scope_candidates": 12,
+      "distinct_parent_groups": 11,
+      "30_day_title_scope_candidates": 10,
+      "candidate_asins": [
+        "B08TGDJ6C6",
+        "B093FKT9BF",
+        "B0BQMSXFP7",
+        "B0BR3M8XHK",
+        "B0CMC8JHN7",
+        "B0CR6J7ZQK",
+        "B0CSYYKB97",
+        "B0D1XLNWP2",
+        "B0CTQGM5ZN",
+        "B0DLWDJJQ8",
+        "B0DQQBC88X",
+        "B0DVFVVV5S"
+      ],
+      "parent_groups": {
+        "B0FF4563S9": [
+          "B08TGDJ6C6"
+        ],
+        "B093FKT9BF": [
+          "B093FKT9BF"
+        ],
+        "B0G1SXFRRQ": [
+          "B0BQMSXFP7"
+        ],
+        "B0H4T9D5ZD": [
+          "B0BR3M8XHK",
+          "B0CR6J7ZQK"
+        ],
+        "B0D1KHQGP9": [
+          "B0CMC8JHN7"
+        ],
+        "B0G8XXXGCS": [
+          "B0CSYYKB97"
+        ],
+        "B0D1XLNWP2": [
+          "B0D1XLNWP2"
+        ],
+        "B0CTQGM5ZN": [
+          "B0CTQGM5ZN"
+        ],
+        "B0HHS5M5FC": [
+          "B0DLWDJJQ8"
+        ],
+        "B0HD6CLL65": [
+          "B0DQQBC88X"
+        ],
+        "B0DVL6YKJJ": [
+          "B0DVFVVV5S"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B07KJWYQJW",
+          "title": "Anker PowerExpand+ 7-in-1 USB-C PD ハブ",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B07Q9K2QHV",
+          "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース トラベルポーチ 充電器ケーブルUSBハブなどの収納ポーチ 保護ケース 小物入れ 出張/旅行用 防水 グレー",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0BXDQS4BD",
+          "title": "UGREEN Revodok Pro USB Cハブ 2HDMI拡張4K60Hz 5Gbpsデータ転送 100W充電 1GbpsLAN カードリーダー",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D1XSKZRJ",
+          "title": "UGREEN 7 in 1 Revodok Pro USB C ドッキングステーション 2*HDMI出力 USB Cハブ 4K@60Hz HDMI 出力 2*USB A&C 10Gbps高速データ転送 100W PD急速充電 MacBook",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0H2F6R341",
+          "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー USB ハブなどの収納 レイヤー構造 スプラッシュ防止素材 保護ケース 収納バッグ 小物入れ 出張/旅行用 撥水素材 ブルー Mサイズ（24cm x 13cm x 7cm）",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-07",
+      "topic_id": "daily_gadget_20261107_e7642028",
+      "type_tag": "type:webcam",
+      "tentative_theme": "オンライン会議の映像を整える。Webカメラ",
+      "role": "D",
+      "category_label": "音響",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "10-31照明から撮像本体へ移す。同一商品なし",
+      "db_gate_candidates": 11,
+      "title_scope_candidates": 11,
+      "distinct_parent_groups": 10,
+      "30_day_title_scope_candidates": 9,
+      "candidate_asins": [
+        "B07QNJ2YQD",
+        "B07QQR6G5N",
+        "B09MHPFV4Q",
+        "B0C3B6ZR1V",
+        "B0CCY8RBJD",
+        "B0CZ6XY78Y",
+        "B0D21FZ5KN",
+        "B0DDTH3HX8",
+        "B0DMF4GLR8",
+        "B0C2CFW1QV",
+        "B0G3T1QKWL"
+      ],
+      "parent_groups": {
+        "B0GK6YRB58": [
+          "B07QNJ2YQD",
+          "B07QQR6G5N"
+        ],
+        "B0CMZQJPQB": [
+          "B09MHPFV4Q"
+        ],
+        "B0H34L5TYG": [
+          "B0C3B6ZR1V"
+        ],
+        "B0CCY8RBJD": [
+          "B0CCY8RBJD"
+        ],
+        "B0CZ6XY78Y": [
+          "B0CZ6XY78Y"
+        ],
+        "B0D21FZ5KN": [
+          "B0D21FZ5KN"
+        ],
+        "B0F37Z6L49": [
+          "B0DDTH3HX8"
+        ],
+        "B0GLFKLXMF": [
+          "B0DMF4GLR8"
+        ],
+        "B0F2FVSCZK": [
+          "B0C2CFW1QV"
+        ],
+        "B0G3T1QKWL": [
+          "B0G3T1QKWL"
+        ]
+      },
+      "excluded": [],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-08",
+      "topic_id": "daily_gadget_20261108_5512daf8",
+      "type_tag": "type:thermo_hygrometer",
+      "tentative_theme": "離れた部屋の温湿度を確認する。スマホ連携温湿度計",
+      "role": "A",
+      "category_label": "スマートホーム",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "10-01から38日。スマホ通知・履歴対応を確認して絞る",
+      "db_gate_candidates": 17,
+      "title_scope_candidates": 11,
+      "distinct_parent_groups": 7,
+      "30_day_title_scope_candidates": 11,
+      "candidate_asins": [
+        "B07TYN8584",
+        "B081ZW3X48",
+        "B081ZW51Q5",
+        "B083348J3X",
+        "B099RRN1J3",
+        "B09BYYS7X5",
+        "B0DBLDKVDW",
+        "B0DBLKNYPY",
+        "B07DVJ1P6J",
+        "B0BWCL335L",
+        "B0DB18WL6Z"
+      ],
+      "parent_groups": {
+        "B0HBBVS5XF": [
+          "B07TYN8584",
+          "B0DB18WL6Z"
+        ],
+        "B0FBR97SRX": [
+          "B081ZW3X48",
+          "B081ZW51Q5"
+        ],
+        "B09D3PX1CZ": [
+          "B083348J3X",
+          "B099RRN1J3",
+          "B09BYYS7X5"
+        ],
+        "B0DBLDKVDW": [
+          "B0DBLDKVDW"
+        ],
+        "B0GXJXDTH8": [
+          "B0DBLKNYPY"
+        ],
+        "B0B35YJTH4": [
+          "B07DVJ1P6J"
+        ],
+        "B0F6YLZ9D6": [
+          "B0BWCL335L"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B07L4QNZVF",
+          "title": "【Works with Alexa認定】SwitchBot 温湿度計 デジタル スマート家電 高精度 スイス製センサー スマホで温度湿度管理 梅雨 熱中症対策 アラーム付き グラフ記録 Alexa、Google home、HomePod、IFTTT に対応(ハブ必要) 熱中症対策",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B07YLW9F3J",
+          "title": "SwitchBot ハブミニ 温湿度計 2個セット スイッチボット スマートホーム 学習リモコン スマートリモコン 赤外線家電を管理 家電を遠隔操作 家電自動化 スマホで温度湿度管理 Alexa Google Home Siriに対応 (ハブミニ 1点+温湿度計 1点)",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B09PYKJ6CS",
+          "title": "SwitchBot 温湿度計プラス Alexa 温度計 湿度計 - スイッチボット スマホで温度湿度管理 デジタル 高精度 コンパクト 大画面 温度 湿度 アラーム 顔マーク グラフ記録 スマートホーム 梅雨 Alexa Google Home IFTTT イフト Siriに対応(ハブ必要)",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0BM8VS13P",
+          "title": "SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0BVLYPYT1",
+          "title": "SwitchBot 防水温湿度計 Alexa 温度計 湿度計 - スイッチボット ワイヤレス 室内 屋外用 温湿度計 スマホで温度湿度管理 デジタル 高精度 コンパクト 温度 湿度 絶対湿度 異常通知 グラフ記録 スマートホーム Alexa Google Home IFTTT イフト Siriに対応(ハブ必要)",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0BLRQ5HTT",
+          "title": "TP-Link Wi-Fi Tapo スマートホーム コンパクト 温湿度計 スイス高精度 アラーム Tapoスマートハブ必須 Sub-1GHz T310",
+          "reason": "別構造・用途外本体・付属品を除外"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定。角度の適合はFeaturesで再確認。スマホ連携・履歴は仕様未確認のため追加絞り込み",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-09",
+      "topic_id": "daily_gadget_20261109_fd8499b3",
+      "type_tag": "type:external_hdd",
+      "tentative_theme": "PCの写真と仕事ファイルを残す。外付けHDD",
+      "role": "D",
+      "category_label": "デスク環境",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "09-05から65日。10-11SSDの携帯速度より大容量バックアップ",
+      "db_gate_candidates": 17,
+      "title_scope_candidates": 16,
+      "distinct_parent_groups": 15,
+      "30_day_title_scope_candidates": 16,
+      "candidate_asins": [
+        "B06W55K9N6",
+        "B07BK6696F",
+        "B07D7978NV",
+        "B07D79GJ9J",
+        "B07NWQW5LC",
+        "B07VTFN6HM",
+        "B08ZJG6TVT",
+        "B091FS79T8",
+        "B091FV14V9",
+        "B092VCK3J8",
+        "B09FJTYT4N",
+        "B0B3XCH7DD",
+        "B0BN8VZ22H",
+        "B0CF4SQY1X",
+        "B077Y87PPG",
+        "B07TSYRWH7"
+      ],
+      "parent_groups": {
+        "B0F2HX3QSK": [
+          "B06W55K9N6"
+        ],
+        "B0FVKRLKK7": [
+          "B07BK6696F"
+        ],
+        "B08BZKCV79": [
+          "B07D7978NV"
+        ],
+        "B07D9MDR16": [
+          "B07D79GJ9J"
+        ],
+        "B07P239S1H": [
+          "B07NWQW5LC"
+        ],
+        "B0F2HXD2GK": [
+          "B07VTFN6HM"
+        ],
+        "B0DJVW8JSS": [
+          "B08ZJG6TVT"
+        ],
+        "B093Y5WKXQ": [
+          "B091FS79T8",
+          "B091FV14V9"
+        ],
+        "B093GT31VG": [
+          "B092VCK3J8"
+        ],
+        "B09FJTYT4N": [
+          "B09FJTYT4N"
+        ],
+        "B0B3XCH7DD": [
+          "B0B3XCH7DD"
+        ],
+        "B0FKGSRL2Y": [
+          "B0BN8VZ22H"
+        ],
+        "B0CFL3VCMV": [
+          "B0CF4SQY1X"
+        ],
+        "B078G91LP2": [
+          "B077Y87PPG"
+        ],
+        "B07TSYRWH7": [
+          "B07TSYRWH7"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B0D7PYX5WB",
+          "title": "【整備済み品】Pasoul 外付けハードディスク 超薄型 ポータブル 外付けHDD PC/Mac/テレビ録画対応 コンパクト USB3.0 500GB | 初期化/検査済み商品 省スペース設計 仕事用データの持ち運びに ケーブル1本で簡単接続 写真・",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-10",
+      "topic_id": "daily_gadget_20261110_5bb157d8",
+      "type_tag": "type:charger",
+      "tentative_theme": "PCとスマホの充電をまとめる。USB充電器",
+      "role": "D",
+      "category_label": "モバイル",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "10-30バッテリーとは別のAC入力本体。10-06無線充電パッドは除外",
+      "db_gate_candidates": 97,
+      "title_scope_candidates": 56,
+      "distinct_parent_groups": 48,
+      "30_day_title_scope_candidates": 54,
+      "candidate_asins": [
+        "B01C5O7E2U",
+        "B01IONKC16",
+        "B01LWLI39X",
+        "B06ZXXQGZ8",
+        "B07GWY3HYD",
+        "B07Q9K2QHV",
+        "B08574ZQT5",
+        "B08BZLH13D",
+        "B08X11GD52",
+        "B091BGMKYS",
+        "B0982VFYYJ",
+        "B099ZNTRL5",
+        "B09MJT5FQG",
+        "B09SYV3P5B",
+        "B09WHC6MRM",
+        "B0B2QR8HN9",
+        "B0B38TWKVR",
+        "B0B5QKMCZD",
+        "B0B6N2ZPT4",
+        "B0BF9ZYCQ5",
+        "B0C2YZ3ZFS",
+        "B0C42HDMQW",
+        "B0C6FFQLTN",
+        "B0CH8H52T5",
+        "B0CL8S8CS5",
+        "B0CLGZGXMD",
+        "B0CMCD9DY3",
+        "B0CMQK8CMJ",
+        "B0CTJDLWV4",
+        "B0CZNCLZKT",
+        "B0D53VJJ7F",
+        "B0D53VKL36",
+        "B0D53XL7GL",
+        "B0D73JBJ56",
+        "B0DG914LY9",
+        "B0DG93MZCR",
+        "B0DTYSRSH2",
+        "B0F43N4Z21",
+        "B0FCSRFQBJ",
+        "B0FN3Z641Y",
+        "B0G5L9MG9T",
+        "B0G64G321H",
+        "B0GDCPBYHF",
+        "B0GF26RSYQ",
+        "B08CKLHVSM",
+        "B09FJKWL6Q",
+        "B0C1FD4RRF",
+        "B0C1FHH8W8",
+        "B0CYZQ8HVG",
+        "B0D53S6T2B",
+        "B0DHTT13KN",
+        "B0F3CJRF4Y",
+        "B0F3CMBP5L",
+        "B0F43NCQ25",
+        "B0FWJK8GV9",
+        "B0GXF5WHWN"
+      ],
+      "parent_groups": {
+        "B01C5O7E2U": [
+          "B01C5O7E2U"
+        ],
+        "B08344TKCX": [
+          "B01IONKC16",
+          "B01LWLI39X",
+          "B07GWY3HYD"
+        ],
+        "B0H4L3LZQB": [
+          "B06ZXXQGZ8"
+        ],
+        "B0FY2TXK3B": [
+          "B07Q9K2QHV"
+        ],
+        "B0DXZXQ8QG": [
+          "B08574ZQT5"
+        ],
+        "B08BZLH13D": [
+          "B08BZLH13D"
+        ],
+        "B0GP663HK3": [
+          "B08X11GD52"
+        ],
+        "B0HDT23GP5": [
+          "B091BGMKYS",
+          "B0982VFYYJ"
+        ],
+        "B0HD9QXQVF": [
+          "B099ZNTRL5"
+        ],
+        "B0DP6KMS5S": [
+          "B09MJT5FQG",
+          "B09WHC6MRM"
+        ],
+        "B0H4FD7G6T": [
+          "B09SYV3P5B"
+        ],
+        "B0H2L63C1T": [
+          "B0B2QR8HN9"
+        ],
+        "B0HKFSL5QJ": [
+          "B0B38TWKVR"
+        ],
+        "B0GVCC7LJL": [
+          "B0B5QKMCZD",
+          "B0BF9ZYCQ5"
+        ],
+        "B0BP667Q9C": [
+          "B0B6N2ZPT4"
+        ],
+        "B0HJ2VBJR5": [
+          "B0C2YZ3ZFS"
+        ],
+        "B0CB7YLXJW": [
+          "B0C42HDMQW"
+        ],
+        "B0HHNJ4G86": [
+          "B0C6FFQLTN"
+        ],
+        "B0HJ68TXC9": [
+          "B0CH8H52T5"
+        ],
+        "B0HJ4QLY4S": [
+          "B0CL8S8CS5"
+        ],
+        "B0HJZPKZXN": [
+          "B0CLGZGXMD",
+          "B0CMQK8CMJ",
+          "B0CYZQ8HVG"
+        ],
+        "B0CMC1G629": [
+          "B0CMCD9DY3"
+        ],
+        "B0CTK4HYW4": [
+          "B0CTJDLWV4"
+        ],
+        "B0CZTMJWZZ": [
+          "B0CZNCLZKT"
+        ],
+        "B0D8SD6PZY": [
+          "B0D53VJJ7F"
+        ],
+        "B0DJVNQVGM": [
+          "B0D53VKL36"
+        ],
+        "B0D8TC5N64": [
+          "B0D53XL7GL"
+        ],
+        "B0HHR72P87": [
+          "B0D73JBJ56"
+        ],
+        "B0HK3VDPDV": [
+          "B0DG914LY9"
+        ],
+        "B0GRGBTZ9G": [
+          "B0DG93MZCR"
+        ],
+        "B0HHXL2RM7": [
+          "B0DTYSRSH2"
+        ],
+        "B0HGFS3ZYQ": [
+          "B0F43N4Z21"
+        ],
+        "B0HKT8RXXQ": [
+          "B0FCSRFQBJ"
+        ],
+        "B0HJBWGNKJ": [
+          "B0FN3Z641Y"
+        ],
+        "B0GV7Q7F8Y": [
+          "B0G5L9MG9T"
+        ],
+        "B0HGRH45CT": [
+          "B0G64G321H"
+        ],
+        "B0HJZKWY1S": [
+          "B0GDCPBYHF"
+        ],
+        "B0HF7MSWCB": [
+          "B0GF26RSYQ"
+        ],
+        "B08W5PDTTD": [
+          "B08CKLHVSM"
+        ],
+        "B09FJKWL6Q": [
+          "B09FJKWL6Q"
+        ],
+        "B0C1FD4RRF": [
+          "B0C1FD4RRF"
+        ],
+        "B0C1FHH8W8": [
+          "B0C1FHH8W8"
+        ],
+        "B0DH488813": [
+          "B0D53S6T2B"
+        ],
+        "B0FSQ2Y9FD": [
+          "B0DHTT13KN"
+        ],
+        "B0F5BB16L4": [
+          "B0F3CJRF4Y",
+          "B0F3CMBP5L"
+        ],
+        "B0HGFGRFJS": [
+          "B0F43NCQ25"
+        ],
+        "B0GHLNV933": [
+          "B0FWJK8GV9"
+        ],
+        "B0GXF5WHWN": [
+          "B0GXF5WHWN"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B07RFFYN2D",
+          "title": "NANAMI ワイヤレス充電器 Qi認証 USB-Cポート Quick Charge 3.0 15W 急速 置くだけ充電 スマホスタンド",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B07S2WT1ZP",
+          "title": "NANAMI ワイヤレス充電器 (USB-C 20W出力の急速充電器に昇進) 置くだけ充電器 セット (Qi/PSE認証済み) | 7.5W/10W/15W iPhone 17/16/15/14/13/12シリーズ/SE第三世代/11(Pro)/XR",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B09W9M89WS",
+          "title": "Anker 735 Charger (GaNPrime 65W)",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0B9X1RY8G",
+          "title": "UGREEN Zapix Magsafe充電器 2 in 1マグネット 充電スタンド Qi認証 ワイヤレス充電器 7.5W/5W 2台同時急速充電 横向き・縦向きで角度調整 イヤホン iPhone 17/16/15/14/13/12シリーズAirPods Pro/3/2/1など適用 LED表示 USB-Cケーブル付き",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0BF43HS1G",
+          "title": "Anker 523 Charger (Nano 3, 47W) ホワイト | 【PowerIQ 3.0 (Gen2)搭載/PSE技術基準適合/折りたたみ式プラグ】iPhone 17 / 16 / 15シリーズ / Air MacBook Air その",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0BF44GF6J",
+          "title": "Anker 523 Charger (Nano 3, 47W) ブラック",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0BKJPZXH3",
+          "title": "【新登場】RORRY apple watch 充電器 モバイルバッテリー 5000mAh 2本ケーブル内蔵 【iPhone用+Type-Cケーブル】 アップルウォッチ対応 最大4台同時充電 For Apple Watch ultra3/2/11/10/9全シリーズに対応 軽量 小型 コンパクト 持ち運び/PSE認証済 for iPhone 17/16/15/14/Android D2 ブラック",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0BXGPLPBF",
+          "title": "HOUOA ワイヤレス充電器 3in1 急速充電15W/10W/7.5W 同時にiPhone/iWatch/Airpodsに互換性 iPhone17/17Air/17Pro /17Pro Max /16/15/14/13/12Pro/ProMax/G",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0C6DX66TN",
+          "title": "UGREEN Uno Robot Charger 65W",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0CVNB7LCC",
+          "title": "NANAMI ワイヤレス充電器 Qi認証 最大15W出力 急速 置くだけ充電 スマホスタンド | iPhone 17/16/15/14/13/12/11/SE/8シリーズ Galaxy S26/S25/S24/S23(Ultra) qi機種対応 US",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CX4C1TVK",
+          "title": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル) ブラック | 10K 30W出力モバイルバッテリー搭載 30W出力USB充電器 / LEDディスプレイ搭載/ケーブル一体型/コンセント一体型/折りたたみ式プラグ 1台3役 / iPhone 17 / 16 / 15 Android iPad その他各種機器対応",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D7D8JP6Q",
+          "title": "Anker Prime Power Bank (9600mAh, 65W, Fusion) (9600mAh 65W出力モバイルバッテリー搭載 USB充電器)【Power Delivery対応/PSE技術基準適合/USB-C入力】iPhone MacBook Android その他機器対応",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D8RSX6W2",
+          "title": "シンプルイズベスト。Anker MagGo Wireless Charger (Stand)",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0D8S1G53W",
+          "title": "Anker MagGo Wireless Charger (Stand) Qi2対応 マグネット式 ワイヤレス充電ステーション/ワイヤレス出力 MagSafe対応 iPhone 17 / 16 / 15 / 14 / 13 ホワイト",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0DMNYWBCS",
+          "title": "KEEPRO ワイヤレス充電器 3in1 折り畳み式 Magsafe充電器 同時に3つのデバイス充電 15W/10W/7.5W マルチ充電スタンド マグセーフ充·電器 マグネット式 iPhone/Apple Watch/Airpodsに対応 無線充·",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DW2SYD5H",
+          "title": "Anker Zolo Wireless Charger (Magnetic, Pad) ブラック | ブラック Qi2対応 マグネット式 ワイヤレス充電/ワイヤレス出力 iPhone MagSafe対応 iPhone 16 / 16 Pro / 16",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0F21VBXKK",
+          "title": "ワイヤレス充電器 Mag Safe充電器 マグネット式 【magsafe充電器＋magsafeスタンド+ 20W USB-Cアダプター】 USB-Cケーブル 1.5m付き マグセーフ充電器 スタンド/パッド くっつく iPhone17/16/15/1",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0F43XLHSM",
+          "title": "モバイルバッテリー 20000mAh大容量 【2026新設計・16ｍｍ超薄モデル】モバイルバッテリー 軽量 小型 急速充電 スマホ充電器 大容量 | 3台同時充電 Type-C入出力兼用 低電流対応 コンパクトで機内持ち込み可 旅行/出張/災害用 P",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0F99FCSX7",
+          "title": "Anker Nano Charger (70W, 3 Ports) ブラック USB PD対応 PSE技術基準適合 折りたたみ式プラグ iPhone/MacBook/Windows PC/iPad/Galaxy対応",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0FJDNXRQL",
+          "title": "KEEZING 超薄型 モバイルバッテリー MagSafe対応 軽量 小型 8000mAh ワイヤレス充電器 マグネット式 まぐせーふ 対応 15W急速充電 PSE認証済み iPhone 17/16/15/ 14/ 13/ 12シリーズ 旅行/出張/災害用 機内持ち込み可",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FJQRJYJD",
+          "title": "Mukiya 3in1充電器 ワイヤレス充電器 MagSafe充電器 - 折り畳み式 雰囲気ライト付き iPhone/Apple Watch/Airpodsに対応 マグセーフ充電器 3台同時充電 角度調整可能 マルチ充電スタンド マグネット式 旅行用",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FMHZ3KVP",
+          "title": "Philips モバイルバッテリー コンセント一体型 15000mAh 大容量 Apple Watch対応 PD 45W MagSafe対応 ブラック | マグネット式 ワイヤレス充電 アップルウォッチ 2.5W 急速充電 ACアダプター 折り畳み式 usb-c & lightning ケーブル内蔵 パススルー機能搭載 電源プラグ変換可能 PSE認証済",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0FPFD8NZ6",
+          "title": "【2026極薄設計・MagSafe急速充電（8000mAh）】 モバイルバッテリー マグセーフ 最大出力20W 充電器 薄型 ワイヤレス充電 マグネット 軽量 小型 大容量 まぐせーふモバイルバッテリー 3台同時充電 Type-C入/出力 多重安全保護 pse認証済 パススルー 急速充電 コンパクト Airpods/AppleWatch/iPhone12～17/Pro対応 旅行/出張/緊急用",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FPR3F15G",
+          "title": "Mukiya 3in1 ワイヤレス充電器 MagSafe充電器 折りたたみ式 3in1充電器 【20W USB-C充電器＋1.5mケーブル付き】 iPhone/Apple Watch/AirPods対応 3台同時充電 角度調整可能 マグネット式 旅行",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FYP1HG2S",
+          "title": "モバイルバッテリー Magsafe対応 【12000mAh大容量・360°回転スタンド付き・ 最大22.5W急速充電】 軽量 大容量 小型 3台同時充電可能 ワイヤレス充電器 マグセーフ マグネット式 USB-A出力ポート/Type-C出入力ポート LCD残量表示 コンパクト PSE安全認証済み iPhone 17/16/15/14/13シリーズ 旅行/出張/災害用 機内持ち込み可 プレゼント",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0G3WLHTMQ",
+          "title": "【Amazon.co.jp限定】 モバイルバッテリー 小型 軽量 23600mAh大容量 22.5W/PD18W 4本ケーブル内蔵 203g | 手のひらサイズ 持ち運び便利 急速充電 スマホ充電器 5台同時充電 3WAY蓄電Type-C入出力兼用",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0G58TLCPL",
+          "title": "【超コンパクト】 3in1 ワイヤレス 充電器 折り畳み Lamicall : 15W 急速 マグセーフ対応 充電器 スマホ 卓上 充電 スタンド | 同時 じゅうでん ドック 磁石 縦 横 マグネット 置き 携帯 けいだい 持ち運び 机 出張 旅行",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0G5DT5LPM",
+          "title": "モバイルバッテリー MagSafe対応 16000ｍAh PD22.5W急速充電 3台同時充電可能 大容量 マグネット式 マグセーフ スマホ充電器 LCD電量残量表示 USB-A出力ポート/Type-C出入力ポート ワイヤレス充電器 スタンド付き 軽",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GC5HPVJ5",
+          "title": "モバイルバッテリー 40000mAh大容量【2026新型・5台同時充電・22.5W急速充電】モバイルバッテリー 軽量 小型 スマホ充電器 携帯充電器 LCDディスプレイ残量表示 Type-C入出力兼用 2USB出力ポート 最大3A出力 PSE認証済",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GCB58RFD",
+          "title": "FEEKI Mag Safe充電器 25W Qi2認証 マグネット式 ワイヤレス充電器 急速充電 対応iPhone17/16シリーズ(iOS 26バージョン以降) 超薄軽量 過熱保護 短絡保護機能付き 対応 iPhone15/14/13/12シリーズ",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GSQS7SKC",
+          "title": "NANAMI M300 25W Qi2 ワイヤレス充電器 マグネット式 マグセーフ充電器",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GTQFX61X",
+          "title": "【Amazon.co.jp限定】モバイルバッテリー 20000mAh 大容量 1.6 cm極薄設計 カードサイズ 170g超軽量 小型 急速充電 スマホ充電器 大容量 3台同時充電 Type-C入出力兼用 低電流対応 コンパクトで機内持ち込み可 旅行",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GVM6R1QG",
+          "title": "モバイルバッテリー 軽量 小型 30000mAh大容量 【2026新モデル 2.4A急速充電】 209g超軽量 22.5W/20W急速充電 モバイルバッテリー 大容量 4本ケーブル内蔵 急速充電 携帯充電器 USB-Type C入出力ポート 5台同時",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GY8V24J6",
+          "title": "eazpower ワイヤレス充電器 3in1 充電スタンド Magsafe充電器 アップルウォッチ充電器 折り畳み式 マグネット式 同時に3つのデバイス充電 iPhone 17/16/15/14/13/12シリーズ 対応/Apple Watch/Airpodsに対応 環境光付き ナイトランプ付き ポータブル 置くだけ アダプター付き 出張、旅行用",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0H2F6R341",
+          "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー USB ハブなどの収納 レイヤー構造 スプラッシュ防止素材 保護ケース 収納バッグ 小物入れ 出張/旅行用 撥水素材 ブルー Mサイズ（24cm x 13cm x 7cm）",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0H4FCKJD4",
+          "title": "TEPNICAL 充電器 【2026新登場モデル/WPC Qi2.2認証取得/25W 急速充電】マグネット式 ワイヤレス充電器 4.9mm極薄設計 過熱安全保護 対応iPhone17/16シリーズ(iOS 26バージョン以降) 短絡保護機能付き Ty",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0C3B132D3",
+          "title": "UGREEN 65W USB C Charger, Nexode 3 Ports GaN Fast Charger Block, Compact Foldable Charger for MacBook Pro/Air, Dell XPS, iPhone 15 Pro Max/14/13, iPad Pro, Galaxy S24/S23, Pixel 8, Steam Deck (White)",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0CF99QL43",
+          "title": "【最新型】3in1ワイヤレス充電器 iPhone/AirPods/Apple watch対応 置くだけ充電可能 QC3.0アダプター付属(ホワイト) | 折り畳み式充電スタンド 角度調節可能 携帯便利 3台デバイス同時充電可能 部屋やディスク周りすっ",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FHQDKX7G",
+          "title": "ESR 3-in-1充電器Qi2.2対応25W MagSafe充電器（CryoBoost搭載） 折りたたみ式スマホ冷却ワイヤレス充電器 iPhone 17e/17/16（iOS 26対応・50Wアダプター付属） AirPods Apple Watch用 ブラック",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FQBYRSP1",
+          "title": "UGREEN Zapix Qi2 15W ワイヤレス充電器 2 in 1 Magsafe対応 イヤホン iPhone充電器 90°調整可能 磁気 無線 ワイヤレス急速 iPhone 17/16/15/14/13/12シリーズ & AirPods対応 LED表示 USB-Cケーブル付き",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GXGNFNTH",
+          "title": "ワイヤレス充電器 qi2 充電器 MagSafe対応 マグネット式ワイヤレス充電器（スマホホルダー内蔵）Qi2認証取得済み、25W急速充電器 | グネット式折りたたみスタンド付き マ iPhone 17/16シリーズ iOS 26 以降対応 スマート",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-11",
+      "topic_id": "daily_gadget_20261111_9e1adf8e",
+      "type_tag": "type:scanner",
+      "tentative_theme": "両面の紙資料を取り込む。ドキュメントスキャナー",
+      "role": "A",
+      "category_label": "生産性",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "10-07から35日。両面ADF等の仕様で角度を分け、同じ採用品だけなら差替え",
+      "db_gate_candidates": 15,
+      "title_scope_candidates": 14,
+      "distinct_parent_groups": 10,
+      "30_day_title_scope_candidates": 14,
+      "candidate_asins": [
+        "B08V8PXVL1",
+        "B00N9L6IH6",
+        "B00N9L6J02",
+        "B00S9AOCHK",
+        "B00T2B5L84",
+        "B07HG9JLKG",
+        "B07HGCDQST",
+        "B07HGG2HGM",
+        "B083VZHDGZ",
+        "B09LD2SXWC",
+        "B09R96NXWK",
+        "B0BTNLHBNC",
+        "B0C23RFQNM",
+        "B0C23XJGCW"
+      ],
+      "parent_groups": {
+        "B0FS68783H": [
+          "B08V8PXVL1"
+        ],
+        "B09PDZYCK1": [
+          "B00N9L6IH6",
+          "B00N9L6J02"
+        ],
+        "B0BX4JGTJL": [
+          "B00S9AOCHK",
+          "B0BTNLHBNC"
+        ],
+        "B00T2B5L84": [
+          "B00T2B5L84"
+        ],
+        "B08T2G44M4": [
+          "B07HG9JLKG",
+          "B07HGCDQST",
+          "B07HGG2HGM"
+        ],
+        "B08D3Y2PP4": [
+          "B083VZHDGZ"
+        ],
+        "B09LD2SXWC": [
+          "B09LD2SXWC"
+        ],
+        "B0CK7HC79M": [
+          "B09R96NXWK"
+        ],
+        "B0C7QSMT2G": [
+          "B0C23RFQNM"
+        ],
+        "B0FG26KGT8": [
+          "B0C23XJGCW"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B01FADCQHG",
+          "title": "NETUM NT-2012 USBバーコードリーダー POSレジ 1D レーザー ハンドヘルドスキャナー",
+          "reason": "別構造・用途外本体・付属品を除外"
+        }
+      ],
+      "gate_note": "両面読み取りを商品名で確認できるのはMDS-940DW/iX1600の2件のみ。両面テーマ用の追加候補収集必須。広いタグ14件を用途一致供給と扱わない",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-12",
+      "topic_id": "daily_gadget_20261112_731daa9a",
+      "type_tag": "type:earphone",
+      "tentative_theme": "移動中と仕事で使う。ワイヤレスイヤホン",
+      "role": "D",
+      "category_label": "音響",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "ヘッドホン枠と8日離す。音を塞ぐかと接続方式を仕様比較",
+      "db_gate_candidates": 65,
+      "title_scope_candidates": 44,
+      "distinct_parent_groups": 43,
+      "30_day_title_scope_candidates": 42,
+      "candidate_asins": [
+        "B0B823S1NR",
+        "B0BXKX64HG",
+        "B0C2G4PGYS",
+        "B0CBKQZXT7",
+        "B0CP4RHK7X",
+        "B0CP4RQZ3L",
+        "B0CRVN23LP",
+        "B0CSKFY1Q2",
+        "B0CT857V89",
+        "B0D2RGPTKM",
+        "B0D4Z8KJXY",
+        "B0D4Z8NPH7",
+        "B0D7ZMNRFY",
+        "B0DJNXH5KV",
+        "B0DK53QZ8J",
+        "B0DLGJCTPK",
+        "B0DQ9N9S5V",
+        "B0DRVB48LJ",
+        "B0FCLXMC5F",
+        "B0FCSGGHLL",
+        "B0FPQN7DBD",
+        "B0FQFQDN6K",
+        "B0FRSCXWSV",
+        "B0FWC7ZSTK",
+        "B0GLGJTQ7C",
+        "B0GVSMPQT6",
+        "B0GW97QRTP",
+        "B0H8RP48N4",
+        "B0BK49VSMD",
+        "B0BZGTFF9L",
+        "B0CGDX3F63",
+        "B0CXPSBKVR",
+        "B0D2D67257",
+        "B0D7ZZCHFV",
+        "B0DBHRWRKC",
+        "B0DHZYMCH8",
+        "B0DJCWXJKB",
+        "B0DJNXX51D",
+        "B0DJQH79Q7",
+        "B0F3X9RLT6",
+        "B0F7QZZS1S",
+        "B0GHMTVSMW",
+        "B0H3ZLP6K9",
+        "B0H8P9N9W7"
+      ],
+      "parent_groups": {
+        "B0FRLX599C": [
+          "B0B823S1NR"
+        ],
+        "B0CDQ263BV": [
+          "B0BXKX64HG"
+        ],
+        "B0H3JMLGMJ": [
+          "B0C2G4PGYS"
+        ],
+        "B0D73C6Q6B": [
+          "B0CBKQZXT7"
+        ],
+        "B0H8R252PB": [
+          "B0CP4RHK7X",
+          "B0CP4RQZ3L"
+        ],
+        "B0DJLYK6TQ": [
+          "B0CRVN23LP"
+        ],
+        "B0HBQKTV51": [
+          "B0CSKFY1Q2"
+        ],
+        "B0H3WGCRTT": [
+          "B0CT857V89"
+        ],
+        "B0GX63TNVN": [
+          "B0D2RGPTKM"
+        ],
+        "B0DBLXZ6HS": [
+          "B0D4Z8KJXY"
+        ],
+        "B0G4RC8JH6": [
+          "B0D4Z8NPH7"
+        ],
+        "B0DJBMYTHW": [
+          "B0D7ZMNRFY"
+        ],
+        "B0CK4V2WCW": [
+          "B0DJNXH5KV"
+        ],
+        "B0GY85RDW4": [
+          "B0DK53QZ8J"
+        ],
+        "B0F5W6RH7K": [
+          "B0DLGJCTPK"
+        ],
+        "B0FLNWNNXG": [
+          "B0DQ9N9S5V"
+        ],
+        "B0H8R21Q7W": [
+          "B0DRVB48LJ"
+        ],
+        "B0FFYGNYCD": [
+          "B0FCLXMC5F"
+        ],
+        "B0FG2XCMNF": [
+          "B0FCSGGHLL"
+        ],
+        "B0H3P4R6LC": [
+          "B0FPQN7DBD"
+        ],
+        "B0FTZ8XV4Y": [
+          "B0FQFQDN6K"
+        ],
+        "B0H83QM9R7": [
+          "B0FRSCXWSV"
+        ],
+        "B0H414M9JW": [
+          "B0FWC7ZSTK"
+        ],
+        "B0HJQD4YDP": [
+          "B0GLGJTQ7C"
+        ],
+        "B0HGMRBZ61": [
+          "B0GVSMPQT6"
+        ],
+        "B0H7T4CKM2": [
+          "B0GW97QRTP"
+        ],
+        "B0HJGHSH1X": [
+          "B0H8RP48N4"
+        ],
+        "B0HCN6ZC51": [
+          "B0BK49VSMD"
+        ],
+        "B0FF4M74VK": [
+          "B0BZGTFF9L"
+        ],
+        "B0FQQ7YH8Z": [
+          "B0CGDX3F63"
+        ],
+        "B0FZ531B71": [
+          "B0CXPSBKVR"
+        ],
+        "B0D9FBP15N": [
+          "B0D2D67257"
+        ],
+        "B0GWMP8561": [
+          "B0D7ZZCHFV"
+        ],
+        "B0GS2FCRFY": [
+          "B0DBHRWRKC"
+        ],
+        "B0FGCSP1B3": [
+          "B0DHZYMCH8"
+        ],
+        "B0FQ5B8L81": [
+          "B0DJCWXJKB"
+        ],
+        "B0FH6PC131": [
+          "B0DJNXX51D"
+        ],
+        "B0DJQKP9RJ": [
+          "B0DJQH79Q7"
+        ],
+        "B0HJZGWLSK": [
+          "B0F3X9RLT6"
+        ],
+        "B0FGXNDD19": [
+          "B0F7QZZS1S"
+        ],
+        "B0HLWSBWQ2": [
+          "B0GHMTVSMW"
+        ],
+        "B0HFJ96RWP": [
+          "B0H3ZLP6K9"
+        ],
+        "B0H8PG9JJN": [
+          "B0H8P9N9W7"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B07MGWM3V3",
+          "title": "Dreamegg ホワイトノイズマシン ナイトライト 睡眠の質向上 【24種癒し音×32段階音量×イヤホン対応】 タイマー付き Classic D1",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B08BNRF1PN",
+          "title": "【テレビでご紹介】Dreamegg ホワイトノイズマシン バッテリー内蔵 29種癒し音 イヤホン対応 高 音質 騒音対策 Classic D3 Pro",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B094VD37YW",
+          "title": "Dreamegg ホワイトノイズマシン ナイトライト 睡眠の質向上 【24種癒し音×32段階音量調節×イヤホン対応】タイマー付き USB給電 赤ちゃん 寝かしつけ ブラウンノイズ ホワイトノイズ 発生器 胎内音 オルゴール 睡眠/作業/仕事/勉強用 BGM 安眠グッズ 集中力を高める 騒音対策 耳鳴り緩和 睡眠導入 スピーカー Classic D1（ホワイト）",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B097TVLB4F",
+          "title": "【OWC直営】 OWC Thunderbolt Dock（サンダーボルト ドック）TB4対応 11ポートドッキングステーション / iPhoneやiPadにも対応/独立型デイジーチェーン ×3 / Thunderbolt 4 ×4 / USB-A ×4 / SDカードスロット/イヤホンジャック/ギガビット・イーサネット / 4K-8K接続 / 96W給電",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0B9X1RY8G",
+          "title": "UGREEN Zapix Magsafe充電器 2 in 1マグネット 充電スタンド Qi認証 ワイヤレス充電器 7.5W/5W 2台同時急速充電 横向き・縦向きで角度調整 イヤホン iPhone 17/16/15/14/13/12シリーズAirPods Pro/3/2/1など適用 LED表示 USB-Cケーブル付き",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0C58BNLP1",
+          "title": "Dreamegg ホワイトノイズマシン バッテリー内蔵 29種癒し音 無段階音量調節 イヤホン対応 騒音対策 快眠グッズ 不眠対策 赤ちゃん 泣き止め 寝かしつけ D3 Pro（ホワイト）",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0CBJF4XLV",
+          "title": "イヤホン 有線イヤホン 3.5mmジャック HIFI音質 音量調整 重低音 ノイズキャンセリング マイク付き 通話可能 ハイレゾ クリア通話 音量調節 ステレオイヤフォン ヘッドホン",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0DLGC2G5C",
+          "title": "【新装発売通話専用G2】 Bluetooth ヘッドセット Earaku(イアラク) 2026版 マイク付き 通話専用 耳を塞がない 日本語音声ガイド ワイヤレス イヤホン ブルートゥース ENCノイズキャンセリング オープンイヤー Bluetooth 5.3 軽量 約28g 両耳 耳掛け式 無線 【ネイビー】",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0DNSZPZF8",
+          "title": "【音質強化バージョン】タイプc イヤホン TYPE-Cイヤホン 有線 【iphone15,16対応】 USB-Cイヤホン有線 TYPE-Cジャック HIFI音質 音量調整 重低音 高密着遮音設計 マイク付き 通話可能 ハイレゾ クリア通話 音量調節",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0DPML49WJ",
+          "title": "【2025新版 iPhone15対応】イヤホン 有線 タイプC 有線ヘッドセットマイク内蔵 有線HiFi 騒音低減 クリア通話 リモコン付き 快適な装着感 type-c 人間工学 通話対応 音量調整 遅延なし 重低音 小型·軽量 防水 usb c i",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0DRD697NV",
+          "title": "【ビジネスに最適！スムーズな通話を実現！】Bluetooth ヘッドセット マイク付き Bluetooth5.4+EDR イヤホンマイク オープンイヤー イヤホン ビジネスイヤホン ENCノイズキャンセリング技術 35g超軽量 究極のフィット感 最大20時間連続再生 耳を塞がない 自動ペアリング クリアな通話体験 ハンズフリー通話/テレワーク/Web会議/zoom (ブラック)",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0DXDVLV4W",
+          "title": "UGREEN 6個セット マグネット式 ケーブルホルダー 小型 ケーブルクリップ 配線止め 配線整理 貼り付け 強力粘着 USB配線収納 コード・ケーブルオーガナイザー 卓上 デスク 机 壁 車 ナイトテーブル 固定 type-c 充電ケーブル lanケーブル 電源コード キーボードライン マウス イヤホン ヘッドホンコード などに対応 黒",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0F9L766K2",
+          "title": "Chamequinho イヤホン翻訳機 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語対応",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0FL1BH9VM",
+          "title": "【ドイツ レッド•ドット賞受賞】耳栓 みみせん 完全遮音【認定聴覚保護具】DJcong(ディージェーコング) ノイズキャンセリング イヤホン アイマスク 睡眠用と併用 いびき防止グッズ イヤーピース ホワイトノイズ 飛行機 快適グッズ ノイズ キャンセリングヘッドホン 日用品",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0GGJY5D2D",
+          "title": "MUSICOZY スリープヘッドホン Bluetooth 5.4 ヘッドバンド ワイヤレスイヤホン 音楽スリープイヤホン 睡眠アイマスク HDステレオスピーカー付き ワークアウト ランニング 旅行 ヨガに最適 ギフトに最適 両面ブラック",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0GRVBWVST",
+          "title": "イヤホン翻訳機 Chamequinho 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語 音声翻訳機 Bluetooth接続 専用アプリ iOS&Android対応 海外旅行 出張 音楽·通話 （オンライン式、オフライン式）",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B09K74SRXM",
+          "title": "オーディオテクニカ ATH-202USB ヘッドセット USB 有線 ノイズキャンセリング マイク付き インナーイヤー イヤホン 手元コントローラー 抗菌・消臭加工 Type-A Type-C 対応 web会議 テレワーク windows mac Chrome",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0CMFQTT2X",
+          "title": "エルニュート RECO-PEN ボイスレコーダー ペン型 ICレコーダー 32GB ワンタッチ録音 イヤホン再生可能 LN-0901VR-K (ブラック)",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0FDGK5C23",
+          "title": "Timekettle W4 Pro AI通訳機 翻訳機能付きイヤホン 通話翻訳 動画翻訳 音楽·通話対応 双方向同時通訳 オフライン翻訳 52言語106アクセント対応 音声翻訳機 AI翻訳機 高精度 指向性ノイズ低減 ハンズフリートーク Bluetooth接続 iOS15.0&Android7.0以上対応 専用アプリが必要 海外旅行 出張 タイムケトル グレイ",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0FQBYRSP1",
+          "title": "UGREEN Zapix Qi2 15W ワイヤレス充電器 2 in 1 Magsafe対応 イヤホン iPhone充電器 90°調整可能 磁気 無線 ワイヤレス急速 iPhone 17/16/15/14/13/12シリーズ & AirPods対応 LED表示 USB-Cケーブル付き",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0FWZWY2BW",
+          "title": "HiDock P1 AI ボイスレコーダー 【世界初ワイヤレスイヤホンで録音可能】文字起こし 要約 先端LLM利用 ECMマイク搭載 パソコン対応 アプリ連動 仕事効率化AIツール ワンタッチ録音 通話/対面/呟き録音モード 75言語対応 クラウドストレージ無制限 64GB 大容量 議事録/ボイスメモ/講義ノート スペースグレー",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-13",
+      "topic_id": "daily_gadget_20261113_08ed1fc9",
+      "type_tag": "type:backpack",
+      "tentative_theme": "PCと仕事道具を持ち運ぶ。ビジネスリュック",
+      "role": "D",
+      "category_label": "モバイル",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "PC収納がある本体だけ。旅行ブランケットやデイパックを外す",
+      "db_gate_candidates": 25,
+      "title_scope_candidates": 6,
+      "distinct_parent_groups": 6,
+      "30_day_title_scope_candidates": 6,
+      "candidate_asins": [
+        "B07N3WQ6H7",
+        "B082VV36T8",
+        "B09FJLW6W9",
+        "B07H5RMC5Z",
+        "B07HX6KWBR",
+        "B07ST5HS7G"
+      ],
+      "parent_groups": {
+        "B09HHQ9FLJ": [
+          "B07N3WQ6H7"
+        ],
+        "B0FX3VYBBN": [
+          "B082VV36T8"
+        ],
+        "B0FSC41794": [
+          "B09FJLW6W9"
+        ],
+        "B07RGQJFD6": [
+          "B07H5RMC5Z"
+        ],
+        "B096FG5V1V": [
+          "B07HX6KWBR"
+        ],
+        "B0FY5P2J69": [
+          "B07ST5HS7G"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B07QPNFV3S",
+          "title": "TRIWONDER ボストンバッグ 折りたたみ ダッフルバッグ トラベルバッグ キャリーオンバッグ 旅行バック スポーツ 出張 合宿 アウトドア リュック ボストンバック 手提げバッグ メンズ レディース (ブラック)",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B07WK1R8L6",
+          "title": "[4Monster] アウトドアバックパック 折りたたみ リュック 携帯リュック 軽量 大容量 防水 収納ナップサック 超軽量 バックパック メンズ 携帯用 旅行用 通学 通勤… (blue, 16L)",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0B51QDFXQ",
+          "title": "[G4Free] 12Lミニハイキングデイパック、小型ハイキングバックパック旅行サイクリングのためのコンパクトなアウトドアショルダーバックパック",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0B51QG1LN",
+          "title": "[G4Free] 12Lミニハイキングデイパック、小型ハイキングバックパック旅行サイクリングのためのコンパクトなアウトドアショルダーバックパック",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0BRWHJST3",
+          "title": "[BOACAY] 飛行機や車用の柔らかくて暖かい旅行用ブランケット - 女性、男性、子供にとっての長距離フライトの必需品 - 持ち運びに便利なスーツケースベルトとバックパッククリップ付きのコンパクトな枕",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0BTYMSRG6",
+          "title": "[G4Free] 10Lハイキングバックパック軽量パッカブルハイキングデイパック小さな旅行アウトドア折り畳み式ショルダーバッグ",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0C2GN696Q",
+          "title": "[G4Free] 10Lハイキングバックパック軽量パッカブルハイキングデイパック小さな旅行アウトドア折り畳み式ショルダーバッグ",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0C4FPH691",
+          "title": "[BOACAY] 飛行機や車用の折り畳みデザインのブランケット - コンパクトなオフィス用ブランケット - 大人と子供向けの枕、持ち運び可能なケース付き、スーツケースベルトとバックパッククリップ付き",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0C4FRL71X",
+          "title": "[BOACAY] 飛行機や車用の折り畳みデザインのブランケット - コンパクトなオフィス用ブランケット - 大人と子供向けの枕、持ち運び可能なケース付き、スーツケースベルトとバックパッククリップ付き",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0C4FSWWP3",
+          "title": "[BOACAY] 飛行機や車用の折り畳みデザインのブランケット - コンパクトなオフィス用ブランケット - 大人と子供向けの枕、持ち運び可能なケース付き、スーツケースベルトとバックパッククリップ付き",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B01JHRVZP0",
+          "title": "[PHOENIX IKKI] 12L ミニ 軽量 広口開口仕様 耐久性 耐水性 選べる6色 迷彩柄 カジュアル リュックサック アウトドア バックパック かわいい デイパック ブラック",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0974D2LBW",
+          "title": "[G4Free] ミニ10Lハイキングデイパック 小型ハイキングバックパック サイクリング コンパクト ショルダーバッグ バックパック アウトドア 男性用 女性用",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B09MCRR1T9",
+          "title": "アイメディア(Aimedia) エコバッグ リュック 折りたたみ たためる コンパクト バックパック 男女兼用 軽量 撥水 12L ネイビー",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B09V4SPXFB",
+          "title": "[G4Free] ミニ 10L ハイキング バックパック 軽量 小型 ハイキング デイパック 旅行 ショルダー バックパック デイパック 男女兼用",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B09XH7W85X",
+          "title": "[G4Free] ミニ10Lハイキングデイパック 小型ハイキングバックパック サイクリング コンパクト ショルダーバッグ バックパック アウトドア 男性用 女性用",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0BLYQ78NV",
+          "title": "[ZOMAKE] リュック 超軽量 10L アウトドアバック 防水 小型 バックパック デイパック キャンプ 旅行 スポーツ ランニング 自転車 ジム 通学 通勤 メンズ レディース 携帯便利",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0DDBGCPHH",
+          "title": "[G4Free] 15L ハイキング デイパック 軽量 旅行 バックパック パッカブル アウトドア カジュアル 折りたたみ ショルダーバッグ",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0DVBDHK5T",
+          "title": "エレコム バックパック リュックサック スクエア ～15.6インチ 撥水加工 大容量 19L ブラック BM-XBPSQ01BK",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0GZZ7J6GS",
+          "title": "[Vulmoon] 折り畳み アウトドア 折りたたみ リュック 15L 防水 軽量 163g 旅行 収納袋付き 男女兼用",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-14",
+      "topic_id": "daily_gadget_20261114_92c0cc94",
+      "type_tag": "type:smart_ring",
+      "tentative_theme": "睡眠と活動の傾向を記録する。スマートリング",
+      "role": "A",
+      "category_label": "スマートホーム",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "10-03から42日。ストレス計測ではなく睡眠の記録。医療診断・睡眠改善を断言しない",
+      "db_gate_candidates": 17,
+      "title_scope_candidates": 17,
+      "distinct_parent_groups": 5,
+      "30_day_title_scope_candidates": 17,
+      "candidate_asins": [
+        "B0D9WT1S2T",
+        "B0D9WWB3WX",
+        "B0DG2QKMFX",
+        "B0DWFSW47F",
+        "B0F189RKD1",
+        "B0G6YHQ18J",
+        "B0GMH69RCK",
+        "B0GQ3TF92R",
+        "B0GQ3VR6T2",
+        "B0GQ3WPDRG",
+        "B0GQ3YK66B",
+        "B0GQ8WX3CZ",
+        "B0GQ98LC37",
+        "B0D9WVKWXN",
+        "B0F59W7RGH",
+        "B0F59W82K1",
+        "B0F59WQ1TX"
+      ],
+      "parent_groups": {
+        "B0FG6QK12D": [
+          "B0D9WT1S2T",
+          "B0D9WWB3WX",
+          "B0DWFSW47F",
+          "B0D9WVKWXN"
+        ],
+        "B0F1TW6XX1": [
+          "B0DG2QKMFX"
+        ],
+        "B0GWDRD5BN": [
+          "B0F189RKD1"
+        ],
+        "B0H5Q2TMKK": [
+          "B0G6YHQ18J",
+          "B0GMH69RCK",
+          "B0GQ3TF92R",
+          "B0GQ3VR6T2",
+          "B0GQ3WPDRG",
+          "B0GQ3YK66B",
+          "B0GQ8WX3CZ",
+          "B0GQ98LC37"
+        ],
+        "B0F5BFKDYN": [
+          "B0F59W7RGH",
+          "B0F59W82K1",
+          "B0F59WQ1TX"
+        ]
+      },
+      "excluded": [],
+      "gate_note": "17ASINが5親に集中。サイズ・親差異・メーカー同定後の上限に余裕がないため追加候補を用意",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-15",
+      "topic_id": "daily_gadget_20261115_436f7300",
+      "type_tag": "type:projector",
+      "tentative_theme": "自宅の壁に映す。ホームプロジェクター",
+      "role": "D",
+      "category_label": "音響",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "09-20から56日。投影距離・設置条件を主軸、未確認の天井対応を入れない",
+      "db_gate_candidates": 12,
+      "title_scope_candidates": 11,
+      "distinct_parent_groups": 9,
+      "30_day_title_scope_candidates": 11,
+      "candidate_asins": [
+        "B0BCTP8VJH",
+        "B0CJDV213W",
+        "B0CJVFJMVF",
+        "B0D2R2QXZR",
+        "B0F5GQLNWP",
+        "B0F677FVMJ",
+        "B0GCZXVHLW",
+        "B0GD12KTVG",
+        "B0GVHCH4XJ",
+        "B0D1TYZSXV",
+        "B0GBWCTFWN"
+      ],
+      "parent_groups": {
+        "B0H8RYNCK7": [
+          "B0BCTP8VJH",
+          "B0CJDV213W"
+        ],
+        "B0GL5LMH57": [
+          "B0CJVFJMVF"
+        ],
+        "B0FY6BF3X1": [
+          "B0D2R2QXZR"
+        ],
+        "B0HJ6GJP2M": [
+          "B0F5GQLNWP"
+        ],
+        "B0FF54CLCJ": [
+          "B0F677FVMJ"
+        ],
+        "B0HHWR7S1R": [
+          "B0GCZXVHLW",
+          "B0GD12KTVG"
+        ],
+        "B0H7B1G3PZ": [
+          "B0GVHCH4XJ"
+        ],
+        "B0HFP13SFL": [
+          "B0D1TYZSXV"
+        ],
+        "B0HGMYTXFM": [
+          "B0GBWCTFWN"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B074K4QHBQ",
+          "title": "【旧モデル】エプソン ビジネスプロジェクター/液晶/3300lm/WXGA/2.5kg EB-W05",
+          "reason": "別構造・用途外本体・付属品を除外"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-16",
+      "topic_id": "daily_gadget_20261116_bbfd27fe",
+      "type_tag": "type:label_printer",
+      "tentative_theme": "配線と書類の表示を印刷する。ラベルプリンター",
+      "role": "A",
+      "category_label": "生産性",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "10-12から35日。写真用・感熱メモプリンターを除外しラベル用途",
+      "db_gate_candidates": 10,
+      "title_scope_candidates": 10,
+      "distinct_parent_groups": 9,
+      "30_day_title_scope_candidates": 10,
+      "candidate_asins": [
+        "B079FLYBQ9",
+        "B07J6SYY95",
+        "B0895JCJKM",
+        "B08M3K411P",
+        "B0BCW4YMR8",
+        "B0BRZ1QB74",
+        "B0DHWX7B1V",
+        "B07RN7MMQC",
+        "B0CD7K75W8",
+        "B0CT3216P6"
+      ],
+      "parent_groups": {
+        "B0FNW2H4QJ": [
+          "B079FLYBQ9",
+          "B0DHWX7B1V"
+        ],
+        "B0CPDRQ859": [
+          "B07J6SYY95"
+        ],
+        "B0HDSH6FTQ": [
+          "B0895JCJKM"
+        ],
+        "B0GZQ4J7WC": [
+          "B08M3K411P"
+        ],
+        "B0CM3G5KX6": [
+          "B0BCW4YMR8"
+        ],
+        "B0BXJHVPLX": [
+          "B0BRZ1QB74"
+        ],
+        "B07ZJ1G554": [
+          "B07RN7MMQC"
+        ],
+        "B0CDFHYWSJ": [
+          "B0CD7K75W8"
+        ],
+        "B0GZQ4NMGP": [
+          "B0CT3216P6"
+        ]
+      },
+      "excluded": [],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-17",
+      "topic_id": "daily_gadget_20261117_1a758de7",
+      "type_tag": "type:usb_memory",
+      "tentative_theme": "PC間のファイルを持ち運ぶ。USBメモリ",
+      "role": "D",
+      "category_label": "モバイル",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "スマホ自動バックアップ機器とは分離。端子・暗号化・OSを確認",
+      "db_gate_candidates": 20,
+      "title_scope_candidates": 17,
+      "distinct_parent_groups": 14,
+      "30_day_title_scope_candidates": 17,
+      "candidate_asins": [
+        "B00TMYO5EM",
+        "B00TMYO5LK",
+        "B073JFMPPT",
+        "B087CHMKR4",
+        "B0BHW8PRDM",
+        "B0BHWB3T1Q",
+        "B0FFM7SRGC",
+        "B0GVLW2VSK",
+        "B0GVM2MRRY",
+        "B0GWCQZK26",
+        "B0GZ3JRLLY",
+        "B00KDS908C",
+        "B0CZP2VL6C",
+        "B0DDSTQHQ6",
+        "B0FLDPF1K3",
+        "B0FPC9RQB4",
+        "B0GD5WHXQW"
+      ],
+      "parent_groups": {
+        "B0CB41LT1Z": [
+          "B00TMYO5EM",
+          "B00TMYO5LK"
+        ],
+        "B0BJQ6FHLX": [
+          "B073JFMPPT"
+        ],
+        "B0BGXSWCQ4": [
+          "B087CHMKR4"
+        ],
+        "B0GWZM7J9P": [
+          "B0BHW8PRDM",
+          "B0BHWB3T1Q"
+        ],
+        "B0FL1181DN": [
+          "B0FFM7SRGC"
+        ],
+        "B0HCT9LFC8": [
+          "B0GVLW2VSK",
+          "B0GVM2MRRY"
+        ],
+        "B0GV3PN6N4": [
+          "B0GWCQZK26"
+        ],
+        "B0HCTSZ97V": [
+          "B0GZ3JRLLY"
+        ],
+        "B07L9DFZQC": [
+          "B00KDS908C"
+        ],
+        "B0D17F3X5K": [
+          "B0CZP2VL6C"
+        ],
+        "B0HGX2PZF6": [
+          "B0DDSTQHQ6"
+        ],
+        "B0FNQBMWPK": [
+          "B0FLDPF1K3"
+        ],
+        "B0FPCSWKF3": [
+          "B0FPC9RQB4"
+        ],
+        "B0HJ223ZYC": [
+          "B0GD5WHXQW"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B08FM7CDNC",
+          "title": "Maktar Qubii Pro ホワイト (microSD 128GB付) 充電しながら自動バックアップ iphone usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B08KFVJN6X",
+          "title": "サンワダイレクト サウンドバー 幅45cm 20W Bluetooth/有線 3.5mm / microSD・USBメモリ 充電式 パッシブラジエーター搭載 PCスピーカー 1個 400-SP092",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B08PBL57JM",
+          "title": "Maktar Qubii Duo USB Type A ホワイト 充電しながら自動バックアップ SDロック機能搭載 iphone バックアップ usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証 (microSD別売)",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-18",
+      "topic_id": "daily_gadget_20261118_155b52cc",
+      "type_tag": "type:air_duster",
+      "tentative_theme": "キーボードのほこりを吹き飛ばす。電動エアダスター",
+      "role": "D",
+      "category_label": "デスク環境",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "年末清掃への仮説枠。吸引掃除機や空気入れ中心の商品は用途確認",
+      "db_gate_candidates": 8,
+      "title_scope_candidates": 8,
+      "distinct_parent_groups": 8,
+      "30_day_title_scope_candidates": 8,
+      "candidate_asins": [
+        "B0BV5RHNM1",
+        "B0F53VKBJK",
+        "B0GC4TJDXL",
+        "B0DD33CFL3",
+        "B0DJDZRW18",
+        "B0H1WNMLLD",
+        "B0H4Q6P8DQ",
+        "B0H69LM4TG"
+      ],
+      "parent_groups": {
+        "B0FDGCRHC3": [
+          "B0BV5RHNM1"
+        ],
+        "B0F53VKBJK": [
+          "B0F53VKBJK"
+        ],
+        "B0GWD5VSYW": [
+          "B0GC4TJDXL"
+        ],
+        "B0DD33CFL3": [
+          "B0DD33CFL3"
+        ],
+        "B0FQJNPD56": [
+          "B0DJDZRW18"
+        ],
+        "B0H1WNMLLD": [
+          "B0H1WNMLLD"
+        ],
+        "B0HJFV316S": [
+          "B0H4Q6P8DQ"
+        ],
+        "B0HJG3FVMV": [
+          "B0H69LM4TG"
+        ]
+      },
+      "excluded": [],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-19",
+      "topic_id": "daily_gadget_20261119_63556f48",
+      "type_tag": "type:time_locking_container",
+      "tentative_theme": "スマホに触れない時間をつくる。タイムロックボックス",
+      "role": "D",
+      "category_label": "生産性",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "09-17から63日。依存症治療はうたわず緊急解除と収納寸法を確認",
+      "db_gate_candidates": 7,
+      "title_scope_candidates": 7,
+      "distinct_parent_groups": 6,
+      "30_day_title_scope_candidates": 7,
+      "candidate_asins": [
+        "B08HZ4LYHM",
+        "B099R9YPXK",
+        "B0BWC9F887",
+        "B0GHMVCX6D",
+        "B0GVN17LPY",
+        "B0FP8DNDZP",
+        "B0GHMGYJ7G"
+      ],
+      "parent_groups": {
+        "B0C49K59WL": [
+          "B08HZ4LYHM"
+        ],
+        "B0BTWZTXM8": [
+          "B099R9YPXK",
+          "B0GHMVCX6D"
+        ],
+        "B0BX64WZM3": [
+          "B0BWC9F887"
+        ],
+        "B0GC4J4FR3": [
+          "B0GVN17LPY"
+        ],
+        "B0FXWV1F8C": [
+          "B0FP8DNDZP"
+        ],
+        "B0BRHY3J5K": [
+          "B0GHMGYJ7G"
+        ]
+      },
+      "excluded": [],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-20",
+      "topic_id": "daily_gadget_20261120_b091861e",
+      "type_tag": "type:digital_notebook",
+      "tentative_theme": "PDFと手書きメモを一台に残す。デジタルノート",
+      "role": "A",
+      "category_label": "生産性",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "10-20から31日。PDF対応端末に絞り、保存できないLCDメモパッドは外す",
+      "db_gate_candidates": 23,
+      "title_scope_candidates": 12,
+      "distinct_parent_groups": 8,
+      "30_day_title_scope_candidates": 12,
+      "candidate_asins": [
+        "B08HDL3XJR",
+        "B0DG9VSBLS",
+        "B077NSWLH2",
+        "B08BP625V6",
+        "B08BP6J3PJ",
+        "B09988GM1B",
+        "B09989LKD4",
+        "B0DWMVW8RS",
+        "B0FMS56K28",
+        "B0FMS6VN19",
+        "B0FMS91Z9M",
+        "B0GVK8BHV9"
+      ],
+      "parent_groups": {
+        "B0DG7P889C": [
+          "B08HDL3XJR"
+        ],
+        "B0DJR25WGL": [
+          "B0DG9VSBLS"
+        ],
+        "B077NSWLH2": [
+          "B077NSWLH2"
+        ],
+        "B099HSCJDK": [
+          "B08BP625V6",
+          "B08BP6J3PJ"
+        ],
+        "B09B1ZLBTJ": [
+          "B09988GM1B",
+          "B09989LKD4"
+        ],
+        "B0G6Z3WYB3": [
+          "B0DWMVW8RS"
+        ],
+        "B0H4HV9N89": [
+          "B0FMS56K28",
+          "B0FMS6VN19",
+          "B0FMS91Z9M"
+        ],
+        "B0H2JGJTBN": [
+          "B0GVK8BHV9"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B00524DLZ0",
+          "title": "Livescribe 2 GB Echo Smartpen - APX-00008",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B07ZHYZ32M",
+          "title": "Rocketbook Fusion Smart Reusable Notebook - Calendar, To-Do Lists, and Note Template Pages with 1 Pilot Frixion Pen and 1 Microfiber Cloth Included - Deep Space Gray Cover, Executive Size (6\" x 8.8\")",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B07ZHZFZG8",
+          "title": "Rocketbook 再利用可能デジタルノートブック - スマートメモ帳 A5 オレンジ ワイヤー綴じノート To Doリストパッド ドット紙 フリクション消せるペンとワイプ オフィスガジェット Rocketbookアプリ付き 紙の無駄を減らす",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0DG9ZXWMK",
+          "title": "リマーカブル ペーパー プロ バンドル – 11.8インチのリマーカブル ペーパータブレットとマーカープラスペン（消しゴム付き）が含まれています",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0DGBDR2PM",
+          "title": "reMarkable Paper Proバンドル – モザイク織り | 11.8インチのリマーク可能なペーパータブレット、消しゴム付きマーカープラスペン、モザイク織りのブックフォリオカバー付き – 玄武岩",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DP3HZX4D",
+          "title": "Rocketbook New Core 再利用可能スパイラルノート エグゼクティブサイズ 6x8.8 ネイビーブルー - 点線ページ アプリ接続 消去可能 丈夫なカバー 学校、仕事、クリエイティブなプロジェクトに最適 (1パック)",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B00AQTYNI0",
+          "title": "SHARP 手書き電子ノート WG-N10",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B07ZT4731M",
+          "title": "シャープ 電子ノート 電子メモ WG-PN1 手帳機能付き Eink 電子ペーパーディスプレイ搭載",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0DHGDV8F8",
+          "title": "BOOX Note Air 4 C (10.3インチ, カラーE Ink)",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0DX1TFTY1",
+          "title": "iFLYTEK AINOTE Air 2 電子ノート 8.2インチ E-Ink タブレット 黒色保護ケース付き ChatGPT連携 音声文字起こし テキスト変換 多言語翻訳 超軽量 手書き ノートパッド スタイラスペン付 電子書籍リーダー ビジネス 会議 学習",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FHGXG7SN",
+          "title": "iFLYTEK AINOTE Air 2 電子ノート ChatGPT搭載 手書きタブレット 紺色保護ケース付き 音声文字起こし テキスト化機能 多言語翻訳 超軽量 8.2インチ 電子書籍リーダー ビジネス 会議 学習に最適",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定。角度の適合はFeaturesで再確認",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-21",
+      "topic_id": "daily_gadget_20261121_00248fb1",
+      "type_tag": "type:monitor_light",
+      "tentative_theme": "画面の下の手元を照らす。モニターライト",
+      "role": "D",
+      "category_label": "デスク環境",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "09-26の置き型デスクライトと分ける。現DBはBenQ3台でメーカー制約後4件のため補充必須",
+      "db_gate_candidates": 5,
+      "title_scope_candidates": 5,
+      "distinct_parent_groups": 5,
+      "30_day_title_scope_candidates": 5,
+      "candidate_asins": [
+        "B0785D93KD",
+        "B08WT889V3",
+        "B094NCN8CG",
+        "B0CZ9P1QW9",
+        "B0G5YPH9SG"
+      ],
+      "parent_groups": {
+        "B0785D93KD": [
+          "B0785D93KD"
+        ],
+        "B08WT889V3": [
+          "B08WT889V3"
+        ],
+        "B0GWQSD4XJ": [
+          "B094NCN8CG"
+        ],
+        "B0D2D2Q4Y5": [
+          "B0CZ9P1QW9"
+        ],
+        "B0HBQ4KP26": [
+          "B0G5YPH9SG"
+        ]
+      },
+      "excluded": [],
+      "gate_note": "メーカー最大2品では4件以下。別メーカー候補補充必須",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-22",
+      "topic_id": "daily_gadget_20261122_ed8999ae",
+      "type_tag": "type:laptop_case",
+      "tentative_theme": "PCをバッグに入れて持ち運ぶ。ノートPCケース",
+      "role": "D",
+      "category_label": "モバイル",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "リュックから9日離す。PC機種の実寸とケース内寸を確認",
+      "db_gate_candidates": 10,
+      "title_scope_candidates": 10,
+      "distinct_parent_groups": 8,
+      "30_day_title_scope_candidates": 10,
+      "candidate_asins": [
+        "B00CD8AFFW",
+        "B00CD8AFT8",
+        "B06XXB9G8G",
+        "B076DWWQ31",
+        "B089SYBGDL",
+        "B0BLNGGDQG",
+        "B0BLNHG168",
+        "B0F23BX5NB",
+        "B0FLQ4KLSM",
+        "B0FLQ33529"
+      ],
+      "parent_groups": {
+        "B0CD3X1NNK": [
+          "B00CD8AFFW",
+          "B00CD8AFT8"
+        ],
+        "B0D5R13ZXB": [
+          "B06XXB9G8G"
+        ],
+        "B08K4MMQXX": [
+          "B076DWWQ31"
+        ],
+        "B08FHPLX7B": [
+          "B089SYBGDL"
+        ],
+        "B0BS48ZZDN": [
+          "B0BLNGGDQG",
+          "B0BLNHG168"
+        ],
+        "B0H9X6MP83": [
+          "B0F23BX5NB"
+        ],
+        "B0FMJVYV62": [
+          "B0FLQ4KLSM"
+        ],
+        "B0FMDQJB4Q": [
+          "B0FLQ33529"
+        ]
+      },
+      "excluded": [],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-23",
+      "topic_id": "daily_gadget_20261123_c7f865dc",
+      "type_tag": "type:sd_card",
+      "tentative_theme": "カメラや端末の保存先を増やす。microSDカード",
+      "role": "D",
+      "category_label": "音響",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "カードリーダー本体やカメラを除外。用途別速度規格は公式確認",
+      "db_gate_candidates": 24,
+      "title_scope_candidates": 6,
+      "distinct_parent_groups": 6,
+      "30_day_title_scope_candidates": 6,
+      "candidate_asins": [
+        "B01HXFISS0",
+        "B07N31KRZL",
+        "B07RKL4L7Q",
+        "B0F29YZWSM",
+        "B0DQX529CV",
+        "B0F9P5J764"
+      ],
+      "parent_groups": {
+        "B0BG3VV3DV": [
+          "B01HXFISS0"
+        ],
+        "B07TWFZNT3": [
+          "B07N31KRZL"
+        ],
+        "B07RKL4L7Q": [
+          "B07RKL4L7Q"
+        ],
+        "B0F9FLXJ4L": [
+          "B0F29YZWSM"
+        ],
+        "B0DV86J63F": [
+          "B0DQX529CV"
+        ],
+        "B0F9P5J764": [
+          "B0F9P5J764"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B07D1J88CF",
+          "title": "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 スマホ タブレット MacBook Windows PCに適用",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B07LBJC2D9",
+          "title": "【5年データ復旧・無償交換保証】GIGASTONE マイクロsdカード 256GB 4K Camera Pro microSDXC UHS-I A2 V30 U3 C10 100MB/s Ultra HD 4K ビデオ録画 Gopro インスタ360 アクションカメラ スポーツカメラ SDアダプター1枚付き",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B07P1XB7BG",
+          "title": "Anker USB-C 2-in-1 カードリーダー【SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSDHC/microSD/UHS-Iカード対応】",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B08FM7CDNC",
+          "title": "Maktar Qubii Pro ホワイト (microSD 128GB付) 充電しながら自動バックアップ iphone usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B097TVLB4F",
+          "title": "【OWC直営】 OWC Thunderbolt Dock（サンダーボルト ドック）TB4対応 11ポートドッキングステーション / iPhoneやiPadにも対応/独立型デイジーチェーン ×3 / Thunderbolt 4 ×4 / USB-A ×4 / SDカードスロット/イヤホンジャック/ギガビット・イーサネット / 4K-8K接続 / 96W給電",
+          "reason": "商品名では企画用途の確認ができない"
+        },
+        {
+          "asin": "B0BMVHC1N9",
+          "title": "UGREEN カードリーダー USB C 4in1 SD microSD CF MS 4枚カード同時に読書 2TB Max 高速転送 SD SDXC SDHC MM CRS-MMC UHS-Iカード Windows Mac OS Android 対応",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0BNBXVLZS",
+          "title": "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0BZR9RVNZ",
+          "title": "【300万画素・QRコードWIFI接続】COOAU 見守りカメラ ペットカメラ 人体検知 暗視機能 360°PTZ機能 H.265 双方向通話 WiFi強化 防犯カメラ Alexa対応 監視カメラペット用 接続簡単 24h常時録画 自動追尾 動体検知 警報通知 家族共有 複数カメラ同時接続 SDカード対応 ペット/ベビーモニター ネットワークカメラ 室内暗視カメラ 留守番 子供/犬/猫/老人",
+          "reason": "商品名では企画用途の確認ができない"
+        },
+        {
+          "asin": "B0DJW2QF43",
+          "title": "Insta360 Ace Pro 2 - デュアルバッテリー ライカとの共同開発による防水仕様の8Kアクションカメラ。1/1.3インチセンサー、デュアルAIチップ 暗所性能 オーディオ、フリップ式スクリーン＆AI編集でVlogやオートバイなどに最適 デュアルバッテリーキット-SDカードなし",
+          "reason": "商品名では企画用途の確認ができない"
+        },
+        {
+          "asin": "B0F9P4719Q",
+          "title": "シャオミ(Xiaomi) タブレット Redmi Pad 2 4GB+128GB グラファイトグレー wi-fiモデル 2.5K 大型11インチディスプレ Dolby Atmos対応 9000mAh 大容量 バッテリー 高性能チップHelio G100-Ultra 2TBまでmicroSDカード拡張 Xiaomi相互接続機能対応 軽量 エンターテインメント 子供用にも 日本語版",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B00FMM6Z4Q",
+          "title": "ソニー メモリーカードレコーダー SDカード対応/SDカード(8GB)付属 ICD-LX31",
+          "reason": "商品名では企画用途の確認ができない"
+        },
+        {
+          "asin": "B07976WN8G",
+          "title": "OLYMPUS ICレコーダー VoiceTrek DM-750 ブラック DM-750 BLK 内蔵メモリー4GB MicroSD対応(議事録、会議録音、商談、証拠録音、取材、インタビュー、録音) DM-750 BLK",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B08KFVJN6X",
+          "title": "サンワダイレクト サウンドバー 幅45cm 20W Bluetooth/有線 3.5mm / microSD・USBメモリ 充電式 パッシブラジエーター搭載 PCスピーカー 1個 400-SP092",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B08KH7T9MQ",
+          "title": "TOKAIZ ボイスレコーダー 小型 ICレコーダー 16GB 34時間連続録音 microSD 128GB対応 WAV MP3 予約録音 証拠記録 会議 授業 取材 TIC-V36",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B08PBL57JM",
+          "title": "Maktar Qubii Duo USB Type A ホワイト 充電しながら自動バックアップ SDロック機能搭載 iphone バックアップ usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証 (microSD別売)",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0B6HM369H",
+          "title": "ProGrade Digital [SD/microSD UHS-II] ダブルスロットカードリーダー (PGM0.5) 本体端子USB-C プログレードデジタル 正規輸入品",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0CQ1Y57ZX",
+          "title": "【Amazon.co.jp限定】TP-Link Tapo ネットワークWi-Fiカメラ ペットカメラ 屋内/屋外 ホームセキュリティカメラ 2K QHD IP66防水防塵 防犯カメラ 高感度CMOSセンサー搭載/フルカラーナイトビジョン 赤外線撮影 音声通話 AI検知 microSD/クラウド保存 メーカー保証1年 Tapo C120",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0FFR5714G",
+          "title": "エレコム カードリーダー USB-C 2-in-1 5Gbps 【SDXC/SDHC/SD/microSDXC/microSDHC/microSD対応】 MR3C-D20EBK",
+          "reason": "別構造・用途外本体・付属品を除外"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-24",
+      "topic_id": "daily_gadget_20261124_6b30ecfb",
+      "type_tag": "type:smartwatch",
+      "tentative_theme": "運動と日々の活動を記録する。スマートウォッチ",
+      "role": "A",
+      "category_label": "スマートホーム",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "10-17から38日。運動記録・通知に焦点、10-17と同一採用品だけなら差替え",
+      "db_gate_candidates": 29,
+      "title_scope_candidates": 28,
+      "distinct_parent_groups": 21,
+      "30_day_title_scope_candidates": 28,
+      "candidate_asins": [
+        "B09XGV8VHX",
+        "B09XGYX7JF",
+        "B0B75RC9C3",
+        "B0B75STB24",
+        "B0B75WHSGR",
+        "B0BWF4JPWS",
+        "B0CJFLTY5C",
+        "B0CJFPXJWF",
+        "B0CJFRY955",
+        "B0D98HTWRR",
+        "B0DFZPR9Z4",
+        "B0DGQ9S3GQ",
+        "B0DYF82545",
+        "B0DZGZSVYR",
+        "B0DZH1XVYN",
+        "B0DZHFRKQD",
+        "B0F1XCKZYW",
+        "B0B75W8FH2",
+        "B0B75WWC8F",
+        "B0BY37JNXX",
+        "B0C3VD828Z",
+        "B0CGJDW7T6",
+        "B0DDWZJPRD",
+        "B0DFGDW4Y3",
+        "B0DK6ZC5ZC",
+        "B0F1LSC58F",
+        "B0F5WR3KP9",
+        "B0FMY1LWLV"
+      ],
+      "parent_groups": {
+        "B09YHKG66D": [
+          "B09XGV8VHX",
+          "B09XGYX7JF"
+        ],
+        "B0CT8X4Z67": [
+          "B0B75RC9C3",
+          "B0B75STB24",
+          "B0B75WHSGR"
+        ],
+        "B0BX943SYM": [
+          "B0BWF4JPWS"
+        ],
+        "B0CKHJNY4Y": [
+          "B0CJFLTY5C",
+          "B0CJFPXJWF",
+          "B0CJFRY955"
+        ],
+        "B0F3WPHDCD": [
+          "B0D98HTWRR"
+        ],
+        "B0HDXJFRGN": [
+          "B0DFZPR9Z4"
+        ],
+        "B0DT8MW85N": [
+          "B0DGQ9S3GQ"
+        ],
+        "B0H8Y7VTZY": [
+          "B0DYF82545"
+        ],
+        "B0FH9526G7": [
+          "B0DZGZSVYR",
+          "B0DZH1XVYN"
+        ],
+        "B0F5PVXCVH": [
+          "B0DZHFRKQD"
+        ],
+        "B0F1XHCVXL": [
+          "B0F1XCKZYW"
+        ],
+        "B0BFZSTCV2": [
+          "B0B75W8FH2",
+          "B0B75WWC8F"
+        ],
+        "B0DNSTYZYB": [
+          "B0BY37JNXX"
+        ],
+        "B0C4V6CGWS": [
+          "B0C3VD828Z"
+        ],
+        "B0CGX8BMSB": [
+          "B0CGJDW7T6"
+        ],
+        "B0FMRJRX23": [
+          "B0DDWZJPRD"
+        ],
+        "B0DFFW9C5K": [
+          "B0DFGDW4Y3"
+        ],
+        "B0HGX6PX2S": [
+          "B0DK6ZC5ZC"
+        ],
+        "B0CRGL1879": [
+          "B0F1LSC58F"
+        ],
+        "B0GSP6D4X9": [
+          "B0F5WR3KP9"
+        ],
+        "B0FVSLC7ZJ": [
+          "B0FMY1LWLV"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B0DQD2S49X",
+          "title": "UGREEN 【10000mAh・PD30W・手持ち・For Apple Watch】 モバイルバッテリー コード付き 便利 軽量 コンパクト 3台同時充電 スマートウォッチ用 充電ドック PSE認証済 急速充電 USB-C USB-A スマートウォッチ/タブレット/iPhone17シリーズ対応",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-25",
+      "topic_id": "daily_gadget_20261125_68d577dc",
+      "type_tag": "type:standing_desk",
+      "tentative_theme": "立つ時間を取り入れる。電動昇降デスク",
+      "role": "D",
+      "category_label": "デスク環境",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "09-28から58日。天板セットと脚のみ、ロータイプを区別",
+      "db_gate_candidates": 10,
+      "title_scope_candidates": 10,
+      "distinct_parent_groups": 10,
+      "30_day_title_scope_candidates": 10,
+      "candidate_asins": [
+        "B08F7MQL3S",
+        "B092VX5RK7",
+        "B0DBLJLK75",
+        "B0F3Y4W4VP",
+        "B0F9X3FDYY",
+        "B0FR9SY5MW",
+        "B0GGZB9PGB",
+        "B0GYYSQB2F",
+        "B08QCP1WC3",
+        "B0DGQ51DMN"
+      ],
+      "parent_groups": {
+        "B0GX53PYFF": [
+          "B08F7MQL3S"
+        ],
+        "B0GX5GK3XF": [
+          "B092VX5RK7"
+        ],
+        "B0DBLFJ1G8": [
+          "B0DBLJLK75"
+        ],
+        "B0C9CBS492": [
+          "B0F3Y4W4VP"
+        ],
+        "B0F7RW4TC2": [
+          "B0F9X3FDYY"
+        ],
+        "B0GWMCG5G8": [
+          "B0FR9SY5MW"
+        ],
+        "B0D6QNGJJK": [
+          "B0GGZB9PGB"
+        ],
+        "B0BDTV4KZD": [
+          "B0GYYSQB2F"
+        ],
+        "B0GYRYZYS9": [
+          "B08QCP1WC3"
+        ],
+        "B0DMLT1PQX": [
+          "B0DGQ51DMN"
+        ]
+      },
+      "excluded": [],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-26",
+      "topic_id": "daily_gadget_20261126_9ccd2f95",
+      "type_tag": "type:translator",
+      "tentative_theme": "海外出張で会話を支える。音声翻訳機",
+      "role": "A",
+      "category_label": "モバイル",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "変換型だが需要根拠弱い打席。端末と翻訳イヤホンの用途を混ぜず不足なら追加収集",
+      "db_gate_candidates": 7,
+      "title_scope_candidates": 3,
+      "distinct_parent_groups": 3,
+      "30_day_title_scope_candidates": 3,
+      "candidate_asins": [
+        "B07ZP5CH8P",
+        "B0B7SBVGP6",
+        "B0CT378Q1M"
+      ],
+      "parent_groups": {
+        "B07ZP5CH8P": [
+          "B07ZP5CH8P"
+        ],
+        "B0CC9NFTTJ": [
+          "B0B7SBVGP6"
+        ],
+        "B0HJGS7SK3": [
+          "B0CT378Q1M"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B0F9L766K2",
+          "title": "Chamequinho イヤホン翻訳機 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語対応",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0GRVBWVST",
+          "title": "イヤホン翻訳機 Chamequinho 双方向同時通訳 オフライン対応 高精度 通訳機 軽量 指向性ノイズ低減 ハンズフリートーク 150言語 音声翻訳機 Bluetooth接続 専用アプリ iOS&Android対応 海外旅行 出張 音楽·通話 （オンライン式、オフライン式）",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0H8RP48N4",
+          "title": "イヤホンAI翻訳機 骨伝導イヤホン ワイヤレス Bluetooth 6.1 オープンイヤーヘッドホン双方向同時通訳 [並行輸入品]",
+          "reason": "別構造・用途外本体・付属品を除外"
+        },
+        {
+          "asin": "B0FDGK5C23",
+          "title": "Timekettle W4 Pro AI通訳機 翻訳機能付きイヤホン 通話翻訳 動画翻訳 音楽·通話対応 双方向同時通訳 オフライン翻訳 52言語106アクセント対応 音声翻訳機 AI翻訳機 高精度 指向性ノイズ低減 ハンズフリートーク Bluetooth接続 iOS15.0&Android7.0以上対応 専用アプリが必要 海外旅行 出張 タイムケトル グレイ",
+          "reason": "別構造・用途外本体・付属品を除外"
+        }
+      ],
+      "gate_note": "追加候補収集必須。品質基準・下限は緩めず、成立しなければ差替え。専用翻訳端末のみ3件（Tier2）。別構造の翻訳イヤホンで埋めない",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-27",
+      "topic_id": "daily_gadget_20261127_f633f513",
+      "type_tag": "type:desk_light",
+      "tentative_theme": "夜の机を照らす。デスクライト",
+      "role": "D",
+      "category_label": "デスク環境",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "09-26から62日。11-21モニターライトと本体構造を分離",
+      "db_gate_candidates": 33,
+      "title_scope_candidates": 27,
+      "distinct_parent_groups": 25,
+      "30_day_title_scope_candidates": 26,
+      "candidate_asins": [
+        "B07KKC7M1Q",
+        "B082PWV4L7",
+        "B08LG1JS2M",
+        "B08LGK55H8",
+        "B08MJR93YJ",
+        "B08W2C5W59",
+        "B0963VVG77",
+        "B09N8TVSJD",
+        "B09XF23WY2",
+        "B09XF3HRGW",
+        "B09Z9X46PW",
+        "B0BG53FCXF",
+        "B0BQ71L6R9",
+        "B0DFYFJZGJ",
+        "B0GD7KC1QZ",
+        "B0821D2TVV",
+        "B08JM1NWGL",
+        "B096Y945HR",
+        "B09KGQFPL2",
+        "B09LTPW2P5",
+        "B0BGXPXQSQ",
+        "B0CZ3L2DKP",
+        "B0D5CSCHM1",
+        "B0DK6VJKLQ",
+        "B0FKN78QNN",
+        "B0FM3NXDVN",
+        "B0GD79PPWN"
+      ],
+      "parent_groups": {
+        "B0D1FYCHVR": [
+          "B07KKC7M1Q"
+        ],
+        "B09X2NFLM7": [
+          "B082PWV4L7"
+        ],
+        "B0CZTHX9VZ": [
+          "B08LG1JS2M",
+          "B08LGK55H8"
+        ],
+        "B08WWY7RJW": [
+          "B08MJR93YJ"
+        ],
+        "B08W2C5W59": [
+          "B08W2C5W59"
+        ],
+        "B0963VNSP8": [
+          "B0963VVG77"
+        ],
+        "B0FKGK6FHQ": [
+          "B09N8TVSJD"
+        ],
+        "B09ZQNQ69V": [
+          "B09XF23WY2",
+          "B09XF3HRGW"
+        ],
+        "B0CH4HQGHB": [
+          "B09Z9X46PW"
+        ],
+        "B0BG53FCXF": [
+          "B0BG53FCXF"
+        ],
+        "B0HFZ8QV8Z": [
+          "B0BQ71L6R9"
+        ],
+        "B0GVSS2M5X": [
+          "B0DFYFJZGJ"
+        ],
+        "B0GYCPBV45": [
+          "B0GD7KC1QZ"
+        ],
+        "B089GR4CVK": [
+          "B0821D2TVV"
+        ],
+        "B08JM1NWGL": [
+          "B08JM1NWGL"
+        ],
+        "B096Y945HR": [
+          "B096Y945HR"
+        ],
+        "B0HFRBBL68": [
+          "B09KGQFPL2"
+        ],
+        "B0BXPNWNQD": [
+          "B09LTPW2P5"
+        ],
+        "B0BGXPXQSQ": [
+          "B0BGXPXQSQ"
+        ],
+        "B0DSGGJLCC": [
+          "B0CZ3L2DKP"
+        ],
+        "B0HJ8DWCMJ": [
+          "B0D5CSCHM1"
+        ],
+        "B0H5C7JT12": [
+          "B0DK6VJKLQ"
+        ],
+        "B0HF43V2F2": [
+          "B0FKN78QNN"
+        ],
+        "B0GZLHDHG8": [
+          "B0FM3NXDVN"
+        ],
+        "B0HF3LQQBK": [
+          "B0GD79PPWN"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B0785D93KD",
+          "title": "BenQ ScreenBar スクリーンバー モニター掛け式ライト [デスクライト monitor lamp モニターライト]",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B08WT889V3",
+          "title": "BenQ ScreenBar Halo モニターライト スクリーンバー ハロー USBライト デスクライト [無線リモコン 自動調光 間接照明モード 高演色性]",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B094NCN8CG",
+          "title": "OOWOLF モニターライト バー パソコンライト 3段階調色 無段階調光 背面ライト付き Ra95+ 高演色 目に優しい 記憶機能 USB給電 モニタ掛け式 デスクライト 在宅勤務/pc作業/勉強/ゲーミング タッチ式 41cm",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CZ9P1QW9",
+          "title": "BenQ ScreenBar Pro モニターライト モニター掛け式ライト デスクライト【 アップグレードモデル 】広範囲照明 自動点灯 自動消灯 高演色 LED (在宅勤務 デスクワーク デザイナー 省スペース 湾曲/ワイドモニター) ブラック",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DMT4BGZS",
+          "title": "クリップライト E26 ソケット スポットライト 卓上 角度調整可能 金属製 読書 仕事 PC電気スタンド作業デスク 卓上ランプ 寝室照明 に適用 LED電球付属 コード長1.8m ホワイト",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0G5YPH9SG",
+          "title": "Quntis モニターライト バーライト 40cm モニター掛け式 デスクライト 昼白/昼光/電球色 演色性Ra≥98 照度≥700Lux 無段階色温度と輝度調整 目に優しい 省スペース USB 厚さ0.7-3.5cmのモニター対応 Basic L205-QU",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-28",
+      "topic_id": "daily_gadget_20261128_f64d8613",
+      "type_tag": "type:gps_tracker",
+      "tentative_theme": "鍵とバッグの場所を確認する。紛失防止タグ",
+      "role": "A",
+      "category_label": "モバイル",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "10-09から50日。GPS常時位置追跡機器との違い・対応ネットワークを確認",
+      "db_gate_candidates": 43,
+      "title_scope_candidates": 36,
+      "distinct_parent_groups": 23,
+      "30_day_title_scope_candidates": 36,
+      "candidate_asins": [
+        "B0936FGTX5",
+        "B0B6ZQJXW8",
+        "B0BJCQCQ7Z",
+        "B0CSDGGTGK",
+        "B0CY9Q1BDJ",
+        "B0D53RXMB1",
+        "B0D99ZHVD2",
+        "B0D9B21YQP",
+        "B0D9VTLK47",
+        "B0DGXVMNWY",
+        "B0DM9GJP5R",
+        "B0DWMPNCLC",
+        "B0F29G9GPQ",
+        "B0F5VLY4GV",
+        "B0F5WMV8L9",
+        "B0F5WN6HVZ",
+        "B0F82HR8QZ",
+        "B0FBW976L9",
+        "B0FCMVS326",
+        "B0FRLWSGPW",
+        "B0FWJYNGXT",
+        "B0FWK42FWG",
+        "B0G5YJ5TGD",
+        "B0GJTW9CL8",
+        "B0HDJ6FMPP",
+        "B0D99ZL9DM",
+        "B0D99ZQG51",
+        "B0D9B1QB38",
+        "B0D9BR32JL",
+        "B0F5HSHQ83",
+        "B0FD8TF6LG",
+        "B0FKT2JBDN",
+        "B0GJTXZHDX",
+        "B0GSZLJ32D",
+        "B0GX9PVJRK",
+        "B0GX9QB54P"
+      ],
+      "parent_groups": {
+        "B0936FGTX5": [
+          "B0936FGTX5"
+        ],
+        "B0GHQGTD7J": [
+          "B0B6ZQJXW8",
+          "B0D9VTLK47"
+        ],
+        "B0H73W6Z4S": [
+          "B0BJCQCQ7Z",
+          "B0CSDGGTGK",
+          "B0DWMPNCLC"
+        ],
+        "B0HJ281YVT": [
+          "B0CY9Q1BDJ",
+          "B0G5YJ5TGD"
+        ],
+        "B0FMJR5Z91": [
+          "B0D53RXMB1",
+          "B0DGXVMNWY",
+          "B0F82HR8QZ"
+        ],
+        "B0D9VFNMZT": [
+          "B0D99ZHVD2"
+        ],
+        "B0DZB9JC7T": [
+          "B0D9B21YQP"
+        ],
+        "B0HH4SS4PS": [
+          "B0DM9GJP5R"
+        ],
+        "B0HJMN9ND5": [
+          "B0F29G9GPQ"
+        ],
+        "B0HJ22BB3T": [
+          "B0F5VLY4GV",
+          "B0F5WMV8L9"
+        ],
+        "B0HGFHGNT3": [
+          "B0F5WN6HVZ"
+        ],
+        "B0HDC525XR": [
+          "B0FBW976L9",
+          "B0FRLWSGPW"
+        ],
+        "B0HJ557W3B": [
+          "B0FCMVS326",
+          "B0HDJ6FMPP"
+        ],
+        "B0HDHQRSVJ": [
+          "B0FWJYNGXT",
+          "B0FWK42FWG"
+        ],
+        "B0GJTW9CL8": [
+          "B0GJTW9CL8"
+        ],
+        "B0DTJX5B2Y": [
+          "B0D99ZL9DM",
+          "B0D99ZQG51",
+          "B0D9B1QB38"
+        ],
+        "B0D9BR32JL": [
+          "B0D9BR32JL"
+        ],
+        "B0HJ1W49SJ": [
+          "B0F5HSHQ83"
+        ],
+        "B0GFFGH5RX": [
+          "B0FD8TF6LG"
+        ],
+        "B0H6B8WXF5": [
+          "B0FKT2JBDN"
+        ],
+        "B0GJTXZHDX": [
+          "B0GJTXZHDX"
+        ],
+        "B0HJ5HKJL7": [
+          "B0GSZLJ32D"
+        ],
+        "B0HHDSNRR8": [
+          "B0GX9PVJRK",
+          "B0GX9QB54P"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B0FJ8273WX",
+          "title": "2個入 エアタグ Android 【超高性能！Google「Find Hub」対応】airtag アンドロイド gps 子供 gpsタグ 紛失防止タグ gpsトラッカー air tag 忘れ物防止 スマートトラッカー 財布 小型 鍵 猫 車 バイク 盗難防止 自転車 位置情報 タグ 高齢者 エアータグ airタグ 海外旅行 月額不要 技適認証 防水 耐久 キーホルダー付き 敬老の日",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B08KT1L8D8",
+          "title": "MAMORIO RE（マモリオ 電池交換対応）【5個セット】紛失防止タグ・忘れ物防止タグ【電池交換可能】キーファインダー トラッカー｜鍵・財布・パスケース・バッグ対応｜iOS/Android対応・スマホで紛失位置を確認・置き忘れ防止｜落とし物防止グッズ Bluetoothスマートタグ｜法人向け備品管理・ギフトにも",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B08LGLRNHF",
+          "title": "MAMORIO RE（マモリオ 電池交換対応）【3個セット】紛失防止タグ・忘れ物防止タグ【電池交換可能】キーファインダー トラッカー｜鍵・財布・パスケース・バッグ対応｜iOS/Android対応・スマホで紛失位置を確認・置き忘れ防止｜落とし物防止グッズ Bluetoothスマートタグ｜法人向け備品管理・ギフトにも",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0BZYH2VWJ",
+          "title": "まもサーチ3 + ソフトカバー ピスタチオ こどもGPS 子供や高齢者を見守り 大切な家族やモノの居場所を確認 迷子防止 GPSトラッカー 防水防塵 スマートトラッカー ケース",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0BZYH8X2W",
+          "title": "まもサーチ3 + ソフトカバー ライム こどもGPS 子供や高齢者を見守り 大切な家族やモノの居場所を確認 迷子防止 GPSトラッカー 防水防塵 スマートトラッカー ケース",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0BZYJ14ZP",
+          "title": "まもサーチ3 + ソフトカバー ライトブルー こどもGPS 子供や高齢者を見守り 大切な家族やモノの居場所を確認 迷子防止 GPSトラッカー 防水防塵 スマートトラッカー ケース",
+          "reason": "本企画の用途条件を商品名から確認できない（追加仕様確認か対象外）"
+        },
+        {
+          "asin": "B0GCNFJLWB",
+          "title": "エアタグ 4個入 airtag【iOS・Android公式認証／米国高性能チップ／純正アプリ】gps 小型 紛失防止タグ スマートタグ iphone アンドロイド対応 gpsタグ 子供 月額不要 忘れ物防止 鍵 財布 盗難防止 自転車 車 ペット 位置情報 犬 猫 スマートトラッカー Google Find hub Apple 探す Siri対応 技適認証済 キーホルダー付 Dyoac",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-29",
+      "topic_id": "daily_gadget_20261129_8393c396",
+      "type_tag": "type:mouse",
+      "tentative_theme": "移動の多い仕事で使う。ワイヤレスマウス",
+      "role": "D",
+      "category_label": "モバイル",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "09-15から75日。10-25トラックボール本体・交換パーツは除外",
+      "db_gate_candidates": 72,
+      "title_scope_candidates": 25,
+      "distinct_parent_groups": 25,
+      "30_day_title_scope_candidates": 25,
+      "candidate_asins": [
+        "B005EJH6RW",
+        "B00OPOCCNA",
+        "B01G54NODO",
+        "B01HO0W4SE",
+        "B06WRN4VGJ",
+        "B07S8VWT5B",
+        "B088P8QYWN",
+        "B08LMK3L5C",
+        "B0956BPVC7",
+        "B0956X785M",
+        "B09J46WG5D",
+        "B09KRQYKL4",
+        "B09Q5SHDR3",
+        "B09WV6D7SM",
+        "B09Y8G6FJJ",
+        "B0BKP2XWY5",
+        "B0BKPL1VKW",
+        "B0C2YK1CS6",
+        "B0C65MQZ65",
+        "B0CJR5HBMN",
+        "B0CYGYNB3K",
+        "B0CYH3GC38",
+        "B0D21S5SPG",
+        "B01G54TY1K",
+        "B0FJRCJ1SN"
+      ],
+      "parent_groups": {
+        "B07ZYV7QHZ": [
+          "B005EJH6RW"
+        ],
+        "B01NBB5U6Y": [
+          "B00OPOCCNA"
+        ],
+        "B0DW4B174H": [
+          "B01G54NODO"
+        ],
+        "B08PQTF8LL": [
+          "B01HO0W4SE"
+        ],
+        "B06X3TWF4T": [
+          "B06WRN4VGJ"
+        ],
+        "B07S8VWT5B": [
+          "B07S8VWT5B"
+        ],
+        "B0DW2V6Z4V": [
+          "B088P8QYWN"
+        ],
+        "B0FKLZF9FW": [
+          "B08LMK3L5C"
+        ],
+        "B0CL3TY9TF": [
+          "B0956BPVC7"
+        ],
+        "B0GK6W2KTW": [
+          "B0956X785M"
+        ],
+        "B0GK66NLWM": [
+          "B09J46WG5D"
+        ],
+        "B0CT2YTCJC": [
+          "B09KRQYKL4"
+        ],
+        "B09QKNS92W": [
+          "B09Q5SHDR3"
+        ],
+        "B09X74W2B2": [
+          "B09WV6D7SM"
+        ],
+        "B0F8GPGNCG": [
+          "B09Y8G6FJJ"
+        ],
+        "B0GK72P1D9": [
+          "B0BKP2XWY5"
+        ],
+        "B0BLGQC3L4": [
+          "B0BKPL1VKW"
+        ],
+        "B0GK6QPGNT": [
+          "B0C2YK1CS6"
+        ],
+        "B0C6JVSPXP": [
+          "B0C65MQZ65"
+        ],
+        "B0FX2P89K6": [
+          "B0CJR5HBMN"
+        ],
+        "B0HKVZNJBP": [
+          "B0CYGYNB3K"
+        ],
+        "B0H5PTQM5K": [
+          "B0CYH3GC38"
+        ],
+        "B0D21S5SPG": [
+          "B0D21S5SPG"
+        ],
+        "B07J6ZVXHL": [
+          "B01G54TY1K"
+        ],
+        "B0HHJ6FJQ3": [
+          "B0FJRCJ1SN"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B016QCPRBM",
+          "title": "エレコム ワイヤレス トラックボールマウス EX-G 左手用 6ボタン チルトホイール（左右スクロール） ブラック M-XT4DRBK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0171QQ7IY",
+          "title": "エレコム USB マウス 有線 トラックボール 人差し指用 8ボタン ブラック M-DT2URBK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B079FDQZXQ",
+          "title": "エレコム マウス ワイヤレス (レシーバー付属) トラックボール 大玉 8ボタン チルト機能 ブラック M-HT1DRXBK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B07DVC25R2",
+          "title": "Logicool G ゲーミングマウス G304 LIGHTSPEED ワイヤレス ゲーミング マウス 軽量 99g HERO 12Kセンサー 6個プログラムボタン 250時間連続使用可能 ブラック PC windows mac 国内正規品 【 ファ",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B07PFGDZD7",
+          "title": "エレコム ワイヤレスキーボード マウスセット メンブレン 薄型 フルキーボード ブラック TK-FDM110MBK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B07RR94VQT",
+          "title": "Logicool G ゲーミングマウス G502WL LIGHTSPEED ワイヤレス ゲーミング マウス HERO 25K センサー LIGHTSYNC RGB 11個プログラムボタン POWERPLAY 無線 充電 対応 ブラック PC wind",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B07SYKKP47",
+          "title": "Logicool G ワイヤレス ゲーミングマウス G703h LIGHTSPEED HERO 25Kセンサー エルゴノミクス LIGHTSYNC RGB POWERPLAY 無線 充電 対応 ゲーミング マウス 充電式 無線 PC windows",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B07T4BHZ7J",
+          "title": "【Amazon.co.jp限定】 Logicool G ゲーミングマウス G403h HERO 有線 軽量 87g ゲーミング マウス 有線マウス 25Kセンサー エルゴノミクス LIGHTSYNC RGB PC windows mac G403 ブラック 国内正規品 ※Amazon限定 壁紙ダウンロード付き",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0843QXWWZ",
+          "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 旅行 出張 便利グッズ マウス ケーブル モバイルバッテリー 収納ポーチ トラベルポーチ Sサイズ ブラック 200-BAGIN014BK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0843RKFPJ",
+          "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 旅行 出張 便利グッズ マウス ケーブル モバイルバッテリー 収納ポーチ トラベルポーチ Lサイズ ブラック 200-BAGIN016BK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0843WY8RR",
+          "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 マウス ケーブル モバイルバッテリー Mサイズ ブラック 200-BAGIN015BK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B087BTXHX4",
+          "title": "Logicool G ゲーミングマウス G203 有線 ゲーミング マウス USB 接続 G203-BK 軽量 85g LIGHTSYNC RGB 6個プログラムボタン ブラック PC windows mac 国内正規品 【 ファイナルファンタジー",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B08CKZ9TSY",
+          "title": "Logicool G ゲーミングマウス G502 有線 USB 接続 マウス HERO 25Kセンサー G502RGBhr LIGHTSYNC RGB 11個プログラムボタン FPS / MMO / RPG ブラック PC windows mac 国",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0BG9VR34L",
+          "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0BHL3B2VF",
+          "title": "Logicool G ゲーミングマウス G502 X LIGHTSPEED ワイヤレス マウス G502XWL-CRBK LIGHTFORCE ハイブリッドスイッチ HERO 25K センサー 13個プログラムボタン USB Type-C 充電 PO",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0C3LCSQBW",
+          "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音 エルゴノミクスマウス 腱鞘炎対策 手首が疲れにくい 長時間作業 5段階DPI調整 7ボタン 戻る・進むボタン 在宅勤務 テレワーク Windows Mac iPad Android対応 (パープル)",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0C5XNRVWM",
+          "title": "Razer(レイザー) Cobra ゲーミングマウス 58g 軽量 コンパクト つかみ持ち/つまみ持ちにフィット 有線 第3世代 オプティカルマウススイッチ 没入感を高めるアンダーグロー Chroma ライティング 8500 DPI オプティカルセン",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CFL9BVKX",
+          "title": "Ewin トラックボールマウス Bluetooth/USBレシーバー対応 最大3台接続・ワンタッチ切替 無線マウス ワイヤレス 親指操作 静音 エルゴノミクスマウス 腱鞘炎対策 手首が疲れにくい 長時間作業 5段階DPI調整 7ボタン 戻る・進むボタン 在宅勤務 テレワーク Windows Mac iPad Android対応 (グレー)",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CHY6NNZZ",
+          "title": "GTPLAYER ゲーミングデスク パソコンデスク「メーカー二年保証」pcデスク机 テレワーク デスクマット付き ゲーミングマウスマット 作業机 オフィスデスク モニターアーム取付対応 幅140cm×奥行60cm 耐荷重100kg 炭素繊維天板 頑丈",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CRQWQRMT",
+          "title": "ProtoArc EM04 トラックボールマウス 静音 無線 Bluetooth/2.4GHz 3台同時接続 手首負担軽減 人間工学 親指操作 充電式 | 省スペース 在宅勤務 オフィス Windows Mac iOS Android対応 黒+オレン",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CY57DPW5",
+          "title": "tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテリー マウス収納 出張 お出掛け オフィス 旅行 便利グッズ バックインバッグ 二層 自立 撥水 軽量 ブラック",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D1X5B9PC",
+          "title": "【8000Hzドングル同梱・超軽量55g】Razer Viper V3 Pro White Edition ゲーミングマウス ワイヤレス 無線 Focus Pro 35Kセンサー 35000DPI 高速応答 オプティカルスイッチ 6ボタン",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D21Q6QG4",
+          "title": "【Amazon.co.jp限定】 Logicool G PRO X SUPERLIGHT 2 ゲーミングマウス G-PPD-004WL-BKd | 8000Hz ポーリングレート ワイヤレス 軽量 60g LIGHTFORCE ハイブリッドスイッチ HERO2 センサー USB Type-C 充電 POWERPLAY 対応 ゲーミング マウス ブラック 国内正規品 壁紙ダウンロード付き",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D3QJ66DH",
+          "title": "ProtoArc EM01 NL トラックボールマウス 静音 20°角度調整 無線 2.4G Bluetooth対応 3台同時接続 手首負担軽減 | 人間工学設計 長時間PC作業 5段階DPI USB-C充電式 自宅/オフィス用 Windows/Ma",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D9Y1J4NH",
+          "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス 無線 M575SPd 国内正規品",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D9Y1SNQT",
+          "title": "【Amazon.co.jp限定】 ロジクール 静音 ワイヤレス トラックボール マウス MXTB2d MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品 ※Amazon.co.jp限定 壁紙ダウンロード付き",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DC5WQQ2J",
+          "title": "ロジクール 静音 ワイヤレス トラックボール マウス M575SPGR Bluetooth Logibolt 無線 windows mac iPad OS Chrome トラックボールマウス グラファイト M575 M575SP 国内正規品",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DC5WZLY2",
+          "title": "ロジクール 静音 ワイヤレス トラックボール マウス M575SPOW Bluetooth Logibolt 無線 windows mac iPad OS Chrome トラックボールマウス オフホワイト M575 M575SP 国内正規品",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DC5X912P",
+          "title": "ロジクール 静音 ワイヤレス トラックボール マウス MXTB2 MX ERGO S Bluetooth Logibolt 無線 windows mac iPad OS Chrome Android トラックボールマウス グラファイト 国内正規品",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DDTK1M4F",
+          "title": "ProtoArc EM05 NL トラックボールマウス 縦型62° 静音 無線 2.4GHz Bluetooth 3台同時接続 人間工学 手首疲れ軽減 | 親指操作 省スペース エルゴノミクスマウス USB充電式 大容量バッテリー 5段階DPI 右利",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DQ5XKH9Y",
+          "title": "tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテリー マウス収納 出張 お出掛け オフィス 旅行 便利グッズ",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0DXDVLV4W",
+          "title": "UGREEN 6個セット マグネット式 ケーブルホルダー 小型 ケーブルクリップ 配線止め 配線整理 貼り付け 強力粘着 USB配線収納 コード・ケーブルオーガナイザー 卓上 デスク 机 壁 車 ナイトテーブル 固定 type-c 充電ケーブル lanケーブル 電源コード キーボードライン マウス イヤホン ヘッドホンコード などに対応 黒",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GSDZTC65",
+          "title": "Nulea トラックボールマウス ワイヤレス チルトスタンド付き Bluetooth/2.4G/USB 3台同時接続 充電式 4段階DPI 人間工学 親指操作 右利き 6ボタン 進む/戻るボタン搭載 PC/ノート/Windows/Mac/iPad対応",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0H8T6V98L",
+          "title": "ProtoArc EM04 トラックボールマウス 静音 Bluetooth 2.4GHz 3台同時接続 人間工学 手首負担軽減 親指操作 省スペース | 無線 USB-C充電式 高精度 5段階DPI 進む/戻るボタン搭載 Mac Windows An",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B016QCPNUW",
+          "title": "エレコム ワイヤレス トラックボールマウス EX-G 握りの極み 6ボタン チルトホイール（左右スクロール） ブラック M-XT3DRBK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B016QCPO0G",
+          "title": "エレコム USB 有線 トラックボールマウス 6ボタン チルトホイール（左右スクロール） ブラック M-XT3URBK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B08GSCC8RX",
+          "title": "エレコム トラックボールマウス ハンディタイプ Relacon メディアコントロールボタン搭載 スタンド付 静音 Bluetooth ブラック M-RT1BRXBK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0C7B6VD99",
+          "title": "サンワダイレクト トラックボール エルゴノミクス マウス 静音 無線 Bluetooth 2.4GHz 充電式 400-MAWBTTB190BK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0CZKNNNXJ",
+          "title": "エレコム ワイヤレス トラックボールマウス Bluetooth IST (アイエスティー) シリーズ 5ボタン 親指操作 ベアリング支持 Windows Mac Chromebook ブラック 2 M-IT11BRABK",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D8HRRBKH",
+          "title": "EWiN マウス トラックボール 無線 Bluetooth&2.4GHz両対応 3台同時接続 5段階DPI調節 Type-C充電式 ワイヤレス",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0D9VWPG1T",
+          "title": "【Amazon.co.jp限定】Logicool G PRO X SUPERLIGHT 2 DEX ゲーミングマウス GPROXSL-WLDEXBKd | 8000Hz ポーリングレート 右手 44K DPI ワイヤレス ゲーミング マウス エルゴノミクス 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED USB Type-C 充電 壁紙ダウンロード 国内正規品",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0FG74B2PC",
+          "title": "【Amazon.co.jp限定】Logicool G 8000Hz ポーリングレート PRO X SUPERLIGHT 2c コンパクト ワイヤレス ゲーミングマウス G-PPD-004WLCO-BKd 軽量 51g LIGHTSPEED HERO2 センサー USB Type-C 充電 POWERPLAY ブラック 国内正規品 ※Amazon.co.jp限定 壁紙ダウンロード付き",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GGWQ7HZ2",
+          "title": "Logicool G ラピッドトリガー PRO X2 SUPERSTRIKE LIGHTSPEED ゲーミングマウス G-PPD-004WL-STRK | 8000Hz ポーリングレート 軽量 61g ハプティック誘導トリガーシステム HITS 90",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GGX35X72",
+          "title": "【Amazon.co.jp限定】 Logicool G PRO X2 SUPERSTRIKE ゲーミングマウス G-PPD-004WL-STRKd | ラピッドトリガー 8000Hz ポーリングレート 軽量 61g ハプティック誘導トリガーシステム HITS 90時間 HERO2 USB Type-C 充電 POWERPLAY ワイヤレス ゲーミング マウス 壁紙ダウンロード付き 国内正規品",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0GLM7WKVH",
+          "title": "Razer レイザー Viper V4 Pro ゲーミングマウス 49g 超軽量 8,000Hzドングル同梱 ワイヤレス HyperSpeed Wireless 第3世代 Razer Focus Pro オプティカルセンサー 50,000DPI 第4",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0H1W2NG3L",
+          "title": "エレコム ワイヤレス トラックボール マウス IST PLUS (アイエスティー プラス) ボールローラー Bluetooth×2 無線2.4GHz×1 マルチ接続 Windows/mac/iPad/Chrome/Android ブラック M-IT1",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        },
+        {
+          "asin": "B0H2N5HS5J",
+          "title": "エレコム トラックボールマウス ISTシリーズ用 交換パーツ ボールローラー支持ユニット×3個、取り外しツール×1個 M-TU03SS",
+          "reason": "用途外の本体・アクセサリ・セット・別構造が商品名に含まれる"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定",
+      "status": "proposal_not_selected"
+    },
+    {
+      "date": "2026-11-30",
+      "topic_id": "daily_gadget_20261130_4283a16e",
+      "type_tag": "type:laptop_stand",
+      "tentative_theme": "外出先でPCの目線を上げる。ノートPCスタンド",
+      "role": "D",
+      "category_label": "モバイル",
+      "purchase_funnel": "商品カードへ直接",
+      "angle_and_overlap_note": "10-04から57日。持ち運び本体を確認し据置重厚台は除外",
+      "db_gate_candidates": 19,
+      "title_scope_candidates": 9,
+      "distinct_parent_groups": 7,
+      "30_day_title_scope_candidates": 9,
+      "candidate_asins": [
+        "B07H774Q42",
+        "B0845RFFHN",
+        "B08TLVKBMJ",
+        "B0B5DRS12W",
+        "B0BCK3V2X6",
+        "B0BNPYF86Y",
+        "B0D637HRT5",
+        "B0F8BWQD33",
+        "B0F9YHQR7M"
+      ],
+      "parent_groups": {
+        "B0HC6Y7K9N": [
+          "B07H774Q42"
+        ],
+        "B0FC27S245": [
+          "B0845RFFHN",
+          "B0B5DRS12W"
+        ],
+        "B08TLVKBMJ": [
+          "B08TLVKBMJ"
+        ],
+        "B0CTFFMHPM": [
+          "B0BCK3V2X6"
+        ],
+        "B0HC6TB3PS": [
+          "B0BNPYF86Y"
+        ],
+        "B0DWS6L84M": [
+          "B0D637HRT5",
+          "B0F9YHQR7M"
+        ],
+        "B07GB67P9V": [
+          "B0F8BWQD33"
+        ]
+      },
+      "excluded": [
+        {
+          "asin": "B08TG9FH9G",
+          "title": "スマホスタンド ホルダー角度、幅と高さ調整可能な携帯電話卓上スタンド PCスタンド【滑り止め/充電便利/折りたたみ式】 iPhone/iPad/Android/Nintendo Switch Lite/Kindleなど携帯電話 タブレット ゲーム機 電子書籍 ホワイト (白) (白)",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B095W9HP4N",
+          "title": "BoYata ノートパソコン スタンド ミニ スタンド PCスタンド パソコンスタンド タブレットスタンド 無段階高さ調整 人間工学 姿勢改善 猫背解消 滑り止め付き 放熱対策 折りたたみ式 軽量 在宅勤務・リモートワーク Macbook/Macbook Air/Macbook Pro/iPad/ノートPCなど14インチまでに対応 シルバー",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B097HL2V8Q",
+          "title": "ZEEKK ノートパソコンスタンド PCスタンド アルミ合金 タブレットスタンド 折りたたみ 軽量 安定 放熱 滑り止め 人間工学設計 高さ 角度6段階調整 収納可能 在宅/出勤勤務 持ち運びに便利 10.5-17インチまで対応",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B09G8JS637",
+          "title": "HumanCentric 縦型ノートパソコンスタンド MacBook用 MacBook Proスタンド、MacBook Airスタンド、Appleノートパソコンデスクスタンド用ノートパソコンホルダー、ノートパソコン垂直スタンド、MacBookスタンド スペースグレー",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0B15B32NV",
+          "title": "MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【中空デザイン】 持ち運び簡単 折りたたみ式 超薄型 安定性 15°&25°二段階調整可能 16インチまで対応 コンパクト PC/MacBook/ラップトップ/iPadタブレットに対応 パソコンスタンド 「貼り付け」 AirFlow (ジェットブラック)",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0B2WPJ6GJ",
+          "title": "iVoler ノートパソコンスタンド 【6段階高さ角度調整】PCスタンド 折りたたみ式 パソコン台 アルミ合金製 人間工学 腰痛・肩こり改善 姿勢改善 滑り止め 放熱 軽量 持ち運びに便利 各種PC/MacBook/ラップトップ/iPad/タブレット対応",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0BBTTFQWT",
+          "title": "KKaMM ノートパソコンスタンド タブレット スタンド パソコンスタンド パソコン台 pcスタンド ノートpc スタンド macbook スタンド pc台 折りたたみ式 磁石内蔵 腰痛 肩凝り 姿勢改善 持ち運び 高さ調整可能 アルミ合金製 人間工学(黒)",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0BHWPXHTY",
+          "title": "MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【放熱穴付き】 持ち運び簡単 折りたたみ式 超薄型 安定性 15°&25°二段階調整可能 16インチまで対応 コンパクト PC/MacBook/ラップトップ/iPadタブレット に対応 パソコンスタンド 「貼り付け」（スターグレー）",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0BZ8CBD36",
+          "title": "iVoler ノートパソコンスタンド 【6段階高さ角度調整】PCスタンド 折りたたみ式 軽量 パソコン台 アルミ合金製 人間工学 腰痛・肩こり改善 姿勢改善 滑り止め 放熱 持ち運びに便利 各種PC/MacBook/ラップトップ/iPad/タブレット対応(青)",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        },
+        {
+          "asin": "B0CPHX4R58",
+          "title": "MOFT【公式直営店】ノートパソコンスタンド ノートPCスタンド 【放熱穴付き】 持ち運び簡単 折りたたみ式 超薄型 安定性 15°&25°二段階調整可能 16インチまで対応 コンパクト PC/MacBook/ラップトップ/iPadタブレット に対応 一体型パソコンスタンド 「貼り付け」（ジェットブラック）",
+          "reason": "本テーマの本体・構造・用途と不一致（商品名監査）"
+        }
+      ],
+      "gate_note": "再実測・メーカー同定・親差異・公式仕様の照合後に成立判定。角度の適合はFeaturesで再確認",
+      "status": "proposal_not_selected"
+    }
+  ]
+}

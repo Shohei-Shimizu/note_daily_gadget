@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-19",
+  "products": [
+    {
+      "asin": "B088PRX3BD",
+      "official_sources": [
+        "https://www.kodak.com/en/consumer/product/printing-scanning/photo-printers/instant-dock-printer/",
+        "https://kodakphotoprinter.com/products/kodak-dock-plus-best-photo-printer"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "印刷方式：4PASS昇華型",
+        "プリントサイズ：4×6インチ",
+        "接続：Bluetooth"
+      ]
+    },
+    {
+      "asin": "B08FST3H95",
+      "official_sources": [
+        "https://kodakphotoprinter.com/products/best-photo-printer-printer-kodak-mini-2-retro"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "印刷方式：4PASS昇華型",
+        "プリントサイズ：2.1×3.4インチ",
+        "電源：充電式内蔵バッテリー"
+      ]
+    },
+    {
+      "asin": "B0B5ZZPSDL",
+      "official_sources": [
+        "https://personal.canon.jp/product/printer/miniphotoprinter/lineup/cp1500/spec",
+        "https://personal.canon.jp/product/printer/software/miniphotoprinter/selphy"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "印刷方式：昇華型熱転写",
+        "接続：Wi-Fi／USB Type-C（データ転送用）",
+        "重量：約850g（インク・用紙類を除く）"
+      ]
+    },
+    {
+      "asin": "B0BBG2R1YK",
+      "official_sources": [
+        "https://personal.canon.jp/product/printer/miniphotoprinter/lineup/pv223/spec",
+        "https://personal.canon.jp/product/printer/miniphotoprinter/lineup/pv223/feature"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "印刷方式：ZINK",
+        "接続：Bluetooth 5.0",
+        "サイズ：約120×84×21.5mm"
+      ]
+    },
+    {
+      "asin": "B0B596FDFZ",
+      "official_sources": [
+        "https://www.fujifilm.com/jp/ja/consumer/support/instax/link2/specifications",
+        "https://instax.jp/mini_link_2/support/"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "使用フィルム：instax mini",
+        "写真の画像部分：62×46mm",
+        "充電端子：Micro USB"
+      ]
+    },
+    {
+      "asin": "B095SP2CH7",
+      "official_sources": [
+        "https://www.mi.com/uk/product/xiaomi-portable-photo-printer-1s/specs/",
+        "https://i01.appmifile.com/webfile/globalimg/Global_UG/Mi_Ecosystem/Mi_Portable_Photo_Printer/Portable_Photo_Printer_FR_V1.pdf"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "印刷方式：ZINK",
+        "接続：Bluetooth",
+        "用紙：専用粘着式フォトペーパー"
+      ]
+    },
+    {
+      "asin": "B0DDPPW5VS",
+      "official_sources": [
+        "https://www.fujifilm.com/jp/ja/consumer/instax/printers/link3/specifications",
+        "https://www.instax.com/mini_link_3/en/spec/"
+      ],
+      "verified_on": "2026-10-09",
+      "used_specs": [
+        "使用フィルム：instax mini",
+        "写真の画像部分：62×46mm",
+        "充電端子：USB Type-C"
+      ]
+    }
+  ],
+  "note": "Official manufacturer sources, no customer review text used."
+}

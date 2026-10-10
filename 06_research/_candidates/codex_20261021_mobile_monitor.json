@@ -1,0 +1,356 @@
+{
+  "generated_at": "2026-10-09T00:22:58+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261021_938d3623",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "codex_20261021_mobile_monitor"
+  ],
+  "fetched_count": 9,
+  "dedup_count": 9,
+  "candidates": [
+    {
+      "asin": "B0DWSFZT84",
+      "title": "EVICIV モバイルモニター タッチパネル 15.6インチ FHD 100%sRGB 非光沢 IPS モバイルディスプレイ 自立型 一体型スタンド付き 180°調整 軽量 薄型 ポータブルモニター 壁掛け VESA対応 全機能Type C/Mini HDMI搭載 持ち運び サブモニター スピーカー内蔵 在宅勤務 リモートワーク EVC-1506T",
+      "url": "https://www.amazon.co.jp/dp/B0DWSFZT84?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DWSFZT84?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61a2z2XYMbL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【非光沢タッチパネル｜反射を抑え、長時間作業も快適】低反射の非光沢IPSパネルを採用した15.6インチ モバイルモニター（タッチ機能付き）。照明や外光の映り込みを軽減し、目への負担を抑えます。テレワーク・学習・閲覧作業にも最適。10点マルチタッチ対応で、スクロールや拡大縮小、書き込み操作も直感的に行えます。※USB3.1非対応のスマホではタッチ非対応",
+        "【15.6インチFHD＋100%sRGB｜色再現性を強化したモデル】15.6インチ タッチ対応モバイルディスプレイ（フルHD 1920×1080）が、100%sRGB広色域に対応。文字や画像、映像をより自然で正確な色合いで表示します。IPSパネル・178°広視野角により、角度による色変化も最小限に抑えられます。",
+        "【一体型スタンド構造｜180°無段階調整・軽量設計】軽量な一体型スタンド構造を採用。スタンドは最大180°まで無段階調整可能で、作業姿勢や使用シーンに合わせて柔軟に角度調整ができます。カバー不要の設計により、持ち運びやすさと設置時の安定性を両立しました。",
+        "【VESA対応｜縦置き・横置き自由に拡張】背面に75×75mm VESAマウント（2つのM4ネジ穴、ネジ長4mm、ナット径8mm）を搭載。モニターアームや壁掛けブラケットに2点で固定可能。縦置き・横置きの切り替えもスムーズに行え、デスク環境の拡張や作業効率向上に役立ちます。",
+        "【Type-C一本接続｜外部給電にも対応】フル機能USB Type-C×2、Mini HDMI、3.5mmイヤホンジャックを搭載した15.6インチ タッチ対応ポータブルモニター。対応機器であればUSB Type-Cケーブル1本で映像出力と給電を同時に実現します。モバイルバッテリーからの給電にも対応しており、外出先でも安心して使用できます。",
+        "【EVICIV安心保証】EVICIV安心保証により、お届けした商品に万が一製造上の不具合があった場合、1年間の品質保証を適用いたします。輸送中などの偶発的な損傷や初期不良についても、Amazonメッセージからご連絡ください。専門チームが24時間以内に丁寧な日本語で対応し、技術サポートや交換など、最善の解決策を迅速にご提案します。お客様が末長く安心してご利用いただけることをお約束します。"
+      ],
+      "maker": "EVICIV",
+      "query": "codex_20261021_mobile_monitor",
+      "queries_matched": [
+        "codex_20261021_mobile_monitor"
+      ],
+      "review_count": 7413,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0HKXMVC26",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:23:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0G1MDDQ4X",
+      "title": "Yodoit モバイルモニター モバイルディスプレイ 15.6インチ FHD 非光沢IPS液晶 VESA 標準HDMI カバー付属 軽量 スピーカー内蔵 Switch/PS4/PS5/XBOX/PC/Macなど対応 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0G1MDDQ4X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0G1MDDQ4X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71eltiEdM9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "「２つの接続方法」一つ目の接続方法は、USB C to USB Cケーブルをポータブルモニターに接続する方法です。二つ目の接続方法は、HDMI to HDMIケーブル（映像信号と音声信号を伝送）と、USB A to USB Cケーブル（電源供給用）をポータブルモニターに接続する必要があります。補足：HDMI to HDMIケーブル単体では電源を供給できないため、単独では使用できません。",
+        "「1080Pモバイルディスプレイ」Yodoitの1080PフルHDポータブルモニターは高品質な画質を持ち、IPSパネルは 178°の全視野角度と鮮やかな色の再現をサポートします。 重さ0.68 kg、厚さ1.1 cm、ポータブルラップトップモニターは軽量で、持ち運び便利です。出張や旅行によい伴侶と思います。",
+        "「プラグアンドプレイ」ドライバーのインストールは不要で、付属のUSB Type-CまたはHDMIケーブルを使用してポータブルラップトップモニターをデバイスに接続するだけで、仕事や再生を開始できます。 外出先で仕事をしているときも、友達とゲームをしているときも、お気に入りの番組を見ているときも、このポータブルモニターは完璧なソリューションです。ご注意：Switch2は暫く使用出来ません。",
+        "「幅広い互換性」モバイルディスプレイはサブディスプレイとして機能し、効率を向上させることができます。ラップトップ、PC、Mac、スマートフォン、PS4/PS5、XBOX、Switchなどと幅広く互換性があり、ビジネス、旅行、エンターテイメントに最適です。携帯電話を使用する場合、全機能Type Cポートなスマホが必要なので、ご注意下さいませ。",
+        "「HDR＆アイケア」ハイダイナミックレンジ（HDR）テクノロジーにより、高いレベルのコントラストと明るさを提供します。このポータブルモニターには、目の疲労を軽減する低ブルーライト技術も搭載されています。長時間を使用しても、目に対しての刺激はやさしいです。仕事、会議、ゲーミング、サブモニター等のシーンに大活躍できます。VESA対応でき、ポートレートモードが利用可能となります。M4×6mmネジを使用してください。ネジを打ち込む時、力を入れすぎないように、力を入れすぎると画面本体を破壊する可能性があり、呉呉も注意してください。また、絶対に電動ドライバーなどでは締め付けないようご注意下さい。",
+        "「デュアルスピーカーとスタンドカバー」2つのスピーカーが内蔵されており、保護ケースとしても使える丈夫なスタンドカバーが付属しています。カバーはユニークな折りたたみデザインを採用しており、使用しないときに視野角を調整、モバイルモニターを保護できます。"
+      ],
+      "maker": "Yodoit",
+      "query": "codex_20261021_mobile_monitor",
+      "queries_matched": [
+        "codex_20261021_mobile_monitor"
+      ],
+      "review_count": 5020,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0HMDMT1HZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:23:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B083RFYZGW",
+      "title": "モバイルモニター モバイルディスプレイゲーム cocopar15.6インチ スイッチ用モニター 非光沢IPS液晶パネル 薄い 軽量 1920*1080 FHD FreeSync対応/ブルーカット機能 USB Type-C/HDMI/スピーカー内蔵/カバー付PS4/PS5/XBOX/Switch/PC/Macなど対応 在宅ワーク リモートワーク zs-156",
+      "url": "https://www.amazon.co.jp/dp/B083RFYZGW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B083RFYZGW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71A8pJ+dGLL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "【スマートなデザイン】 ①上左右3辺フレーム5mmで、画面占有率90%の新しいベゼルレスモバイルモニターです。最薄部は約5mm、本体重量は約650gと非常に軽量です。 ②左側にはType-C端子×2と標準HDMI端子×1、右側にはイヤホンジャック・メニューボタン・電源ボタンを搭載。接続や操作も簡単です。 ③ステレオスピーカー内蔵。3.5mmオーディオ端子も搭載しており、外付けスピーカーやイヤホンの使用も可能です。※モニター本体から音声を出力指定したい場合は、繋いでいるパソコン側のスピーカー設定の所で調整してください。 ④付属のマグネット式カバーはスタンドとしても使用可能です！",
+        "【IPS非光沢パネル&amp;フルHD&amp;ブルーライト軽減】 ①モバイルモニターは可視性に優れた非光沢(ノングレア)IPS液晶パネルを採用されるため、光の反射を抑え、視野角による輝度変化が少なく、最大178°まで、どこから見ても鮮明な美しい画像や映像が表示できます。 ②1920×1080のフルHD解像度で、ゲームも映画もリアルな臨場感を体感できます。 ③目の疲れの原因と言われるブルーライトを抑え、目に負担の少ない紙に近い色温度で表示するブルーライト軽減モードを搭載しています。目にやさしいので長時間のゲーミングや作業でも疲労を軽減しつつ快適にお使いいただけます。",
+        "【USB-C1本で接続】*接続端末のTYPE C端子は映像出力に対応必要！ご使用の端末がDP Alt Modeに対応していれば、付属のC to Cケーブルで接続すると、モニターへ映像・音声・給電がケーブル１本で行われます。【ご注意：直接に接続の端末から電源を取る場合、端末の電力低下で、給電不足によるちらつきや表示不安定が発生する可能性があります。この場合、アダプターで給電してください。】更に、付属のUSBアダプタと電源用ケーブルを使い、モニターに電源供給を行えば、モニターを使用しながらType-C経由で接続しているPC・スマホなどの端末への給電も行われます。電圧を安定させ、輝度、音量を上げるとしたら、付属の電源アダプターを使用して電力を供給してください。【ご注意：USB A-USB Cケーブルは給電ケーブルで、映像転送できません。映像転送できるのは付属のTYPE-C to TYPE-Cケーブルです。】",
+        "【HDMIで接続】このモニターはほとんど市販の全てのHDMI端末に対応できます。付属のHDMIケーブルで接続の場合、HDMIケーブルの接続はただ信号入力のみ提供していますので、USB ケーブルによるモニターへの給電が必要です。【ご注意：パソコンから給電する場合USB3.0お勧めいたします、USB2.0なら給電不安定の可能性があります】",
+        "【多機種に対応】 ノードパソコン、デスクトップ、スマホ、PS3/PS4、XBOX ONE、Wii又はNintendo Switchなどにも対応しています、遅延などがなくゲーム用としても優秀。ドライバーを追加することなくすぐ使用でき、60Hzの高速応答も可能なので、FPSゲームやアクション映画など動きの速いコンテンツを楽しめます。拡張モード・複製モードは両対応の上、横表示はもちろん、縦表示でも簡単接続できます。（拡張モード・複製モード/横表示・縦表示の設定はPC側で行います）",
+        "【Switch 2について】Switch 2はType-C接続には対応していません。純正ドックでのHDMI接続をご利用ください。旧型Switch（初期型および有機ELモデル）は映像伝送対応のType-Cケーブル一本で映像出力が可能です。なお、Switch LiteはTVモード非対応のため、モニターへ出力できません。",
+        "【iPhoneとの接続】※iPhone16e/iPhone17e/iPhone Airは映像出力に対応していません。iPhone15以降の機種は映像出力対応で、Type-Cケーブル一本で接続できます。",
+        "【商品保証&amp;サポート】 ①COCOPAR・品質保証:カスタマーに対し、最高水準のカスタマーサービスを提供することをお約束します。 ②2年間保証 ご購入日から1年間の間、製品に不具合が生じた場合は、代替品あるいは部分返金の対応をいたします。 ご購入日から2年間の間、製品に不具合が生じた場合は、修理対応します。 ③カスタマーサポート 弊店製品に関するご質問は、いつでもお気軽にカスタマーサポートまでご連絡ください。ご注意：カスタマーサポートにお問い合わせの際は、手続きがスムーズに進むように、製品とご注文番号をお手元にご用意ください。",
+        "【給電に関するご注意】 本製品はバッテリー非搭載です。①HDMI接続の場合：映像ケーブルとは別に、必ず電源（給電）が必要です。②Type-C to Type-C接続の場合： ケーブル1本で【映像出力 ＋ 給電】が同時に可能です。(※接続機器がType-Cの映像出力に対応している必要があります)"
+      ],
+      "maker": "cocopar",
+      "query": "codex_20261021_mobile_monitor",
+      "queries_matched": [
+        "codex_20261021_mobile_monitor"
+      ],
+      "review_count": 4647,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-08",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GX1K9MPG",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:23:28+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CH9XW8RK",
+      "title": "ARZOPA 15.6インチ モバイルモニター ポータブルディスプレイ 非光沢IPS液晶パネル 1920x1080FHD 持ち運び 薄型 軽量 USB C/mini HDMI/スピーカー内蔵 スマホ/PC/Mac/ゲーム機など対応 在宅勤務/リモートワーク A1",
+      "url": "https://www.amazon.co.jp/dp/B0CH9XW8RK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CH9XW8RK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81jzYoILKiL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【17.3インチ大画面フルHD＆HDRモード】ゲーム、動画鑑賞、事務作業のすべてに最適な、迫力満点の17.3インチ大画面フルHDモニターです。上下178°、左右178°の広い範囲で一定の視認性が得られる自然な色合いを表示できるIPS液晶パネルを採用して、どの角度から見ても鮮やかな映像をみることが可能です。HDR表示対応しているので、PS4ゲームなどのHDRコンテンツも美しい色彩描写を最大限に発揮して楽しめます。ポータブルデイスプレイは拡張モード・複製モードを対応の上、横表示はもちろん、縦置きでも簡単にスタンドできます。",
+        "【フルHD対応&amp;ブルーライト軽減】 解像度は1920 X 1080でフルHDに対応でき、ゲームや映画を楽しむ時にリアリズムを体験できます。 また、目に負担をかけるブルーライトを効果的に軽減する専用モードを搭載。紙に近い暖色系の色温度に調整でき、長時間のゲームプレイやデスクワークでも目が疲れにくく、快適にご使用いただけます。",
+        "【超薄型狭額縁＆自立型】縁化が実現されることで、モニターそのものの大きさに対する表示領域の割合が増して、没入感が高い。複数の液晶ディスプレイを並べた時に隙間を小さくできます。輝度300nitsで、明るい環境の中で作業しても見やすいです。ケーブルの接続に妨げない自立スタンドが付いており、０°～８０°範囲内にご自由に角度を調整できます。固定力十分だから、「大角度なら倒れるかも？」って心配もなく！底部に滑り止めゴムも付いており、滑ってしまう心配もなく、安定性を最大限に確保できます！自体はもう十分安定なのに、筐体はアルミ合金製で、耐久性と重量のバランスが良く取れている！",
+        "【ケーブル一本だけで接続可能】豊富な入力端子をもって多様な接続方法を実現。何よりも便利なのは、Type-Cケーブル一本で映像出力と給電を同時に実現できます、しかも二つのType-C端子とも信号転送+給電両対応。Type C端子で接続できない端末は、HDMI接続との選択肢があります。両端子とも対応している端末なら自由に接続できます。入力端子は豊富で、USB-CとMini-HDMIポートを備えており、ノートパソコン、スマートフォン、ゲーム機器、カメラ、タブレットなど、さまざまなデバイスに接続することができます。",
+        "【スピーカー内蔵＆安心の2年保証】ARZOPA品質サポート&amp;真心こめたおもてなし。カスタマーサポートを努めて提供いたします。ARZOPAは100%品質の向上を続けるだけでなく初心を忘れるべからず、信頼でき、心を込めるサポートを約束します。安心の2年保証付き、万が一、何か品質問題がございましたら、連絡通路：アマゾンの注文履歴を弊社にご連絡してください。"
+      ],
+      "maker": "ARZOPA",
+      "query": "codex_20261021_mobile_monitor",
+      "queries_matched": [
+        "codex_20261021_mobile_monitor"
+      ],
+      "review_count": 1801,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GDWMNW1P",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:23:37+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08THPKPV4",
+      "title": "cocopar モバイルモニター 14インチ 非光沢IPSパネル 100%sRGB 400nits フルHD+ HDR スイッチ用モニター 薄い 軽量 1920x1200 WUXGA 収納ケース付き 疲れ目軽減/USB Type-C/Mini HDMI/540g/5mmフレーム/PS4/PS5/XBox/Switch/PC/Mac対応 在宅ワーク リモートワーク ポタブルディスプレイ M-14G",
+      "url": "https://www.amazon.co.jp/dp/B08THPKPV4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08THPKPV4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71fWVR-fRGL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "【ご使用前の確認事項】 ①旧型SwitchはType-Cケーブル一本で映像出力が可能ですが、Switch 2は現時点で純正Dock以外でのType-C一本による映像出力に対応しておりません。 ②Type-C接続を行う場合、接続機器が映像出力（DP Alt Mode）に対応している必要があります。 ③Type-Cケーブル1本での接続では、デバイス側の給電能力により動作が不安定になる場合があります。端末の電力が不足する場合は、別途電源供給を検討してください。",
+        "【ベゼルレス＆軽量＆収納ケース付き】 上左右4mm、下15mmの狭額縁で高い画面占有率を実現。最薄部約8mm、重量わずか540gで軽量、背面は高級感あるカーボンファイバー調。自立型スタンドは角度調整自在で縦置き・横置き両対応。撥水加工の収納ケースが付いているため、雨天時の移動でモニターが濡れる心配はございません。分厚い素材で、衝撃や落下などの外力を吸収できます。広い開け口で簡単に収納、取り出しができます。側面ポケット付きでモニターとガジェット類をまとめて持ち運びやすいです。",
+        "【非光沢IPSパネル・高輝度・広色域】 非光沢IPSパネルで光の反射を抑え、最大178°の広視野角を実現。1920×1200の16:10でゲームや映画もリアルに表示、文書作成やウェブ閲覧も快適。100％ sRGBと400nits高輝度に対応し、HDR表示も可能。ブルーライト軽減モードで長時間使用でも目にやさしく疲労を軽減。",
+        "【アスペクト比調整可能】 縦置き・横置き両対応で、ゲームや映画、作業画面も最適化可能。拡張・複製モード対応で、縦表示も使用可能（※接続機器が縦表示対応である必要あり）。16:10のネイティブ比を自動調整でき、Switchなど16:9デバイスでも画像変形を抑制。フル画面表示を優先したい場合はメニューで手動調整も可能。",
+        "【ケーブル1本で簡単接続】 USB Type-C×2とMini HDMIでPC・Mac、Switch、PS4/PS5、Xbox、スマホなど幅広い機器に接続可能。ドライバー不要ですぐ使用でき、Type-Cケーブル1本で映像出力と給電を同時に実現。Type-C非対応機器はHDMIで接続可能。両端子対応の機器は自由に接続方法を選べます。※iPhone16e/iPhone17e/iPhone Airは映像出力非対応なので、モニターに接続できません。",
+        "【サポート体制】 ご不明点がありましたら、いつでもお気軽にご連絡ください。Amazonメッセージのほか、メール・お電話でも承ります。保証期間内に故障が発生した場合、部品や本体の交換を無料で行います（状況により検証が必要な場合がございます）。",
+        "【macOSユーザーの方へ】メニューバーの「画面ミラーリング」アイコンで表示される「拡張を停止」をクリックすると、外部ディスプレイを認識しなくなります。万が一そうなりましたら、弊社までご連絡ください。"
+      ],
+      "maker": "cocopar",
+      "query": "codex_20261021_mobile_monitor",
+      "queries_matched": [
+        "codex_20261021_mobile_monitor"
+      ],
+      "review_count": 3004,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H4TWS2XY",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:23:46+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CH9WTW56",
+      "title": "ARZOPA 16.1インチ ゲーミングモニター 144Hz モバイルモニター フルHD IPS非光沢パネル 自立スタンド付 HDR対応 ブルーライト軽減 Switch/PS5/PC対応 USB/Type-C/mini HDMI Z1FC",
+      "url": "https://www.amazon.co.jp/dp/B0CH9WTW56?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CH9WTW56?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81L3bNvKnOL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【16.1インチ大画面・FHD高画質＆178°広視野角】フルHD（1920×1080）解像度に対応した16.1インチ大画面。IPSパネルによる鮮やかな発色と広色域により、ゲームや動画を圧倒的な美しさで再現します。映り込みを抑える非光沢（ノングレア）処理と、ブルーライトを抑えた設計で、長時間の使用でも目が疲れにくいのが特徴です。 視野角は上下左右178°を誇り、どの角度から見ても色の変化が少なく、複数人での画面共有もストレスフリー。さらに、最薄部わずか7.5mm、重さ約600gの超軽量・狭額縁デザインを実現。カバンにスムーズに収まり、オフィスやカフェ、外出先など、あらゆるシーンでスマートなワークスタイルをサポートします。",
+        "【144Hz高速リフレッシュレートで圧倒的な滑らかさを】 最大144Hzの高リフレッシュレートに対応。従来の60Hzモニターを凌駕する滑らかな映像表示により、動きの激しいFPSやアクションゲームでも残像感を極限まで抑え、優位にゲームを進めることができます。IPSパネルならではの鮮やかな色彩表現と高コントラストを両立し、ゲーミングのみならず、動画鑑賞やクリエイティブ作業も一段上の体験へ。 ※接続機器や接続方法（HDMI/Type-C）により最大リフレッシュレートは異なります。詳細は接続端末の設定をご確認ください。",
+        "【幅広いデバイスに対応・自由な接続性】 標準HDMIおよびフル機能USB Type-Cポートを搭載。ノートPCやデスクトップはもちろん、Switch、PS5/PS4、Xbox Oneなどのコンソールゲーム機、スマートフォン、Raspberry Piまで、多様なデバイスに接続可能です。ビジネスのサブモニターから、外出先でのゲームプレイまで、これ一台で幅広くカバーします。 ※本製品はバッテリー非搭載です。付属のアダプターまたは接続機器からの給電が必要です。デバイスによっては、電圧不足解消のため外部電源への接続を推奨します。",
+        "【仕事も遊びも、これ一台で】仕事ではデュアルモニターとして作業効率を向上。横置き・縦置きの両対応で、Excel作業やWeb閲覧も快適です。オフタイムには、Switchなどのゲームを大画面で楽しめるエンタメモニターとして活躍。超軽量設計のため、カフェや出張先、旅行やアウトドアにも気軽に持ち運べます。USB Type-Cケーブル1本で給電と映像出力が可能な「プラグ＆プレイ」に対応（※）。場所を選ばず、自由な使い方を実現します。※接続機器の電力供給能力によっては、Type-Cケーブル1本使用時に輝度が制限される場合があります。その際は付属の電源アダプターを併用することで、より安定した明るさでご使用いただけます。",
+        "【無段階自立スタンド・安心の2年長期保証】 本体背面に0°〜80°まで調整可能な自立スタンドを搭載。滑り止めラバーの採用により、どんな場所でも抜群の安定性を誇ります。筐体には高級感あふれるアルミニウム合金を採用し、優れた耐久性と軽量化を両立しました。 また、お客様に安心してお使いいただけるよう、充実の2年間品質保証を付帯。万が一の不具合の際も、日本人スタッフによる迅速なカスタマーサポートと万全のアフターサービス体制で対応いたします。 ※落下や水没など、お客様過失による破損は保証対象外となります。"
+      ],
+      "maker": "ARZOPA",
+      "query": "codex_20261021_mobile_monitor",
+      "queries_matched": [
+        "codex_20261021_mobile_monitor"
+      ],
+      "review_count": 2613,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0HHRT4KP8",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:23:56+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GYCW48PC",
+      "title": "KOORUI モバイルモニター 15.6インチ FHD IPS 薄型軽量 USB Type-C×2/Mini HDMI スピーカー内蔵 サブモニター",
+      "url": "https://www.amazon.co.jp/dp/B0GYCW48PC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GYCW48PC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71++7y2ByEL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【薄型軽量・持ち運びに便利】本体重量約0.70kg、サイズ約35.8×22.8×1.02cm。バッグに収納しやすく、カフェ、図書館、ホテル、出張先でもノートPCと接続して作業環境をすぐに拡張できます。0～35°の角度調整に対応したスタンドで、シーンに合わせて見やすい角度に調整可能。在宅勤務、学習、動画視聴まで幅広く活用できます。",
+        "【15.6インチFHD IPS・HDR対応】1920×1080/60HzのフルHD解像度と178°広視野角を備えたIPS液晶を採用。16:9、約1,670万色、8bit表示、1000:1コントラスト比、標準輝度280cd/m²（Typ.）で、資料、表計算、写真、映画を見やすく表示します。HDR、シネマ、アイケアなどの表示モードと1W×2スピーカーを搭載し、仕事からエンタメまで対応します。",
+        "【作業効率アップ・サブモニターに】複製表示と拡張表示に対応し、資料を確認しながら入力する2画面作業、オンライン会議、リモートワーク、オンライン授業に便利。ノートPCのセカンドディスプレイとして表示領域を広げられるため、作業の切り替えやウィンドウ整理の負担を軽減します。使用後も省スペースに収納でき、自宅、オフィス、外出先で活躍します。",
+        "【USB-Cケーブル1本で簡単接続】DisplayPort Alt Mode対応のUSB Type-C機器なら、対応USB-Cケーブル1本で映像出力と給電が可能。USB Type-C端子を2基搭載し、Mini HDMI 1.4入力にも対応しています。ノートPC、デスクトップPC、映像出力対応スマートフォン、ゲーム機などと接続し、最大1920×1080/60Hzで表示できます。※HDMI接続時は別途USB-C給電が必要です。電源アダプターは付属しません。",
+        "【幅広い機器に対応・購入前にご確認ください】PS5、PS4、Xbox、Switchなどのゲーム機にも接続でき、HDR、FPS、RTS、照準表示に対応。60Hzのカジュアルゲーム用サブディスプレイとして活用できます。3.5mmイヤホン端子も搭載。※接続機器によってドックや変換アダプターが必要です。VESAマウントには対応していません。",
+        "【品質保証＆安心サポート】KOORUIモニターは出荷前にすべて検品を行い、動作確認を徹底したうえでお届けしています。ご購入後30日以内であれば、初期不良などに対して返品・交換に対応可能です。さらにモニター本体は1年間、付属品は3年間の保証が付いており、通常使用における不具合が発生した場合は、修理・交換など適切に対応いたします。日本語取扱説明書も付属しているため、初めての方でも安心してご使用いただけます。ご不明点がある場合は、日本語対応のカスタマーサポートまでお気軽にお問い合わせください。ご購入後も安心してご使用いただけます。"
+      ],
+      "maker": "KOORUI",
+      "query": "codex_20261021_mobile_monitor",
+      "queries_matched": [
+        "codex_20261021_mobile_monitor"
+      ],
+      "review_count": 573,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H7B6B5B4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:24:02+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0914KHQ4G",
+      "title": "ASUS ZenScreen MB16ACV 15.6インチ フルHD USB-C モバイルモニター",
+      "url": "https://www.amazon.co.jp/dp/B0914KHQ4G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0914KHQ4G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81p94sJE5-L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "AUTOSTYLE。",
+        "Ford Focus用に既製品",
+        "イミテーションレザー製"
+      ],
+      "maker": "ASUS",
+      "query": "codex_20261021_mobile_monitor",
+      "queries_matched": [
+        "codex_20261021_mobile_monitor"
+      ],
+      "review_count": 222,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-06",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0DGLB7RFS",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:24:12+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FB37MB8K",
+      "title": "ASUS ポータブルモニター/ZenScreen MB169CK-J/ポータブルUSBモニター -15.6インチ / フルHD/IPS/デュアルUSB Type-C/フリッカーフリー/ブルーライト軽減機能/ノングレアパネル / 360°回転のキックスタンド/国内正規品",
+      "url": "https://www.amazon.co.jp/dp/B0FB37MB8K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FB37MB8K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71qMcpksvGL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "〔特徴〕超薄型の15.6インチフルHDポータブルノングレアIPS液晶モニターがあれば、外出先でも作業効率UP",
+        "〔画面〕15.6型/1,920×1,080/ノングレア/250cd/m2(typ)/バックライト:LED/5ms(GTG)/画素ピッチ: 0.179 mm/コントラスト比:800:1/視野角:水平178°/垂直178°",
+        "〔端子〕USB-C x 2 (DP Alt Mode),Mini HDMI x 1",
+        "〔サイズ(WxHxD cm)‎/重量(kg)〕36.0 x 22.6 x 1.2,約0.78",
+        "〔保証〕購入日より4年間の日本国内保証"
+      ],
+      "maker": "ASUS",
+      "query": "codex_20261021_mobile_monitor",
+      "queries_matched": [
+        "codex_20261021_mobile_monitor"
+      ],
+      "review_count": 71,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H62CHF87",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:24:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "shared/db/product.sqlite"
+  },
+  "measurement_checkpointed_at": "2026-10-09T09:24:19+09:00"
+}

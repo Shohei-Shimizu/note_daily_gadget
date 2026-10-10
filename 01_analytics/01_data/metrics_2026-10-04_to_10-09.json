@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "account": "daily_gadget",
+  "period_start": "2026-10-04",
+  "period_end": "2026-10-09",
+  "period_days": 6,
+  "note": {
+    "status": "observed",
+    "username": "daily_gadget",
+    "dashboard_updated_at_display": "2026-10-10 09:13",
+    "impressions": 4874,
+    "page_views": 3550,
+    "likes": 21,
+    "comments": null,
+    "note_sales_jpy": null,
+    "missing_value_display": "-",
+    "source_url": "https://note.com/dashboard?period=CUSTOM&date=2026-10-04&to=2026-10-09"
+  },
+  "amazon": {
+    "status": "observed",
+    "store_id": "zanetti-22",
+    "tracking_id": "daily-gadget-22",
+    "report_updated_at_jst": "2026-10-10 01:53",
+    "clicks": 1232,
+    "ordered_items": 66,
+    "ordered_revenue_jpy": 303365,
+    "shipped_items": 67,
+    "shipped_revenue_jpy": 299275,
+    "returned_items": 0,
+    "referral_fees_jpy": 8050,
+    "bounty_jpy": 0,
+    "source_url": "https://affiliate.amazon.co.jp/p/reporting/earnings",
+    "source_view": "2026-10-04 to 2026-10-09, grouped by tracking ID"
+  }
+}

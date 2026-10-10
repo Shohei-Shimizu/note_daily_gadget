@@ -1,0 +1,51 @@
+📦 候補読み込み: 13 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_usb_hub_candidates.json)
+🔎 実測: 13 件の ASIN を Amazon 商品ページから取得します...
+  [1/13] B0DQQBC88X review=17713 star=3.9 stock=in_stock OK
+  [2/13] B093FKT9BF review=9034 star=4.2 stock=in_stock OK
+  [3/13] B0CSYYKB97 review=7846 star=4.0 stock=in_stock OK
+  [4/13] B0D1XLNWP2 review=7324 star=4.1 stock=in_stock OK
+  [5/13] B0BQMSXFP7 review=27609 star=4.3 stock=in_stock OK
+  [6/13] B0BXDQS4BD review=3937 star=4.3 stock=in_stock OK
+  [7/13] B0D1XSKZRJ review=3197 star=4.0 stock=in_stock OK
+  [8/13] B0DLWDJJQ8 review=444 star=4.3 stock=in_stock OK
+  [9/13] B0CTQGM5ZN review=137 star=3.5 stock=in_stock OK
+  [10/13] B0D53WG438 review=79 star=4.1 stock=in_stock OK
+  [11/13] B0FXDVQMQG review=68 star=4.2 stock=in_stock OK
+  [12/13] B0DTJTS1WN review=89 star=3.5 stock=in_stock OK
+  [13/13] B0DVFVVV5S review=137 star=4.2 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=13 succeeded=13 failed=0 / run累積 attempted=122 succeeded=122 failed=0) product新規=0 product更新=13 metric行=13 verification行=11
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 13 / 13
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier2 / 緩和: あり
+採用件数: 7
+
+-- 採用 --
+1. [Tier1] Anker / B0BQMSXFP7 / review=27609 star=4.3 ★有名ブランド
+   Anker 332 USB-C ハブ (5-in-1) 100W USB PD対応 4K HDMIポート5Gbps 高速データ転送 USB-
+2. [Tier2] BENFEI / B0DQQBC88X / review=17713 star=3.9 
+   BENFEI 3in1 USB C ハブ、4K@60Hz HDMI、10Gbps USB-A、100W パワーデリバリー、MacBook P
+3. [Tier1] Ugreen / B093FKT9BF / review=9034 star=4.2 ★有名ブランド
+   UGREEN Revodok 107 USB Cハブ 7-IN-1
+4. [Tier1] BENFEI / B0CSYYKB97 / review=7846 star=4.0 
+   BENFEI USB C ハブ 5in1 4K@30Hz HDMI 1*USB3.2+2*USB2.0ポート 10Gbps超高速データ転送用
+5. [Tier1] Ugreen / B0D1XLNWP2 / review=7324 star=4.1 ★有名ブランド
+   UGREEN Revodok USB-C ハブ 6in1 100W USB PD対応 4K 60Hz 10Gbps 高速データ転送 HDMI
+6. [Tier2] Anker / B0DLWDJJQ8 / review=444 star=4.3 ★有名ブランド
+   Anker USB-C ハブ (5-in-1, 4K, HDMI) グレー
+7. [Tier2] ELECOM / B0DVFVVV5S / review=137 star=4.2 ★有名ブランド
+   エレコム USBハブ USB-C接続 USB3.2(Gen1) 5Gbps 4ポート バスパワー 15cm ケーブル 小型・軽量設計 ブラッ
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 6 件 --
+  - [Tier1] Ugreen / B0BXDQS4BD: 多様性制約または件数上限のため非選抜
+  - [Tier1] Ugreen / B0D1XSKZRJ: 多様性制約または件数上限のため非選抜
+  - [Tier2] Anker / B0CTQGM5ZN: 多様性制約または件数上限のため非選抜
+  - [Tier3] ELECOM / B0D53WG438: 多様性制約または件数上限のため非選抜
+  - [Tier3] Belkin / B0FXDVQMQG: 多様性制約または件数上限のため非選抜
+  - [Tier3] Belkin / B0DTJTS1WN: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-06_周辺機器の接続をまとめる。USBハブ.md

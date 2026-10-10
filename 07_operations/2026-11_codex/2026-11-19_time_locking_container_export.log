@@ -1,0 +1,15 @@
+
+候補 4 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B08HZ4LYHM  iDiskk         iDiskk タイムロックボックス (99時間タイマー) [article_dated 2026-09-23]
+  B0GVN17LPY  MoKo           MoKo スマホタイムロックボックス タイムロッキングコンテナ USB 充電式 1分～99時間設定可能  [measured 2026-09-11]
+  B0GHMGYJ7G  Shlmnbo        Shlmnbo タイムロッキングコンテナ 13L [article_dated 2026-05-20]
+  B0F7LL7GRN  TTFP           TTFP タイムロッキングコンテナ ロックボックス スマホ依存対策 禁欲ボックス デジタルデトックス ス [article_dated 2026-09-17]
+
+topic_id: daily_gadget_20261119_73e84d49
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_time_locking_container_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_time_locking_container_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

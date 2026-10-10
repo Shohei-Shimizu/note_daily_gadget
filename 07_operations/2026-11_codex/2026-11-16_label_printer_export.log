@@ -1,0 +1,22 @@
+
+候補 11 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B08M3K411P  Phomemo        ラベルプリンター Phomemo D30 ラベルライター スマホ対応 Bluetooth 超小型シールプ [measured 2026-09-15]
+  B0BCW4YMR8  NIIMBOT        NIIMBOT B1 ラベルメーカー ラベルプリンター 感熱ラベルライター 値札プリンター DIY 商業 [measured 2026-09-15]
+  B0DHWX7B1V  Brother        ブラザー ラベルライター ピータッチキューブ ラテ PT-P300BTLT (スマホ専用/3.5mm~1 [measured 2026-09-15]
+  B0895JCJKM  Phomemo        Phomemo M110 ラベルライター ラベルプリンター スマホ・PC対応 食品表示ラベルプリンター  [measured 2026-09-15]
+  B079FLYBQ9  Brother        ブラザー ラベルライター ピータッチキューブ PT-P710BT (スマホPC対応/3.5mm~24mm [measured 2026-09-15]
+  B0BRZ1QB74  キングジム          キングジム ラベルプリンター スマホ専用 「テプラ」PRO SR-R2500P (対応ラベル幅:4-18 [measured 2026-09-15]
+  B07J6SYY95  キングジム          キングジム(Kingjim) ラベルライター 「テプラ」PRO SR370 (対応ラベル幅:4-24mm [measured 2026-09-15]
+  B07RN7MMQC  キングジム          キングジム ラベルライター 「テプラ」PRO SR-R680 (対応ラベル幅:4-24mm幅) [measured 2026-09-15]
+  B0CT3216P6  Phomemo        Phomemo P12 Pro ラベルライター グリーン [article_dated 2026-05-23]
+  B0CD7K75W8  キングジム          キングジム(Kingjim) ラベルプリンター スマホ専用 「テプラ」PRO MARK SR-MK1-B [measured 2026-09-15]
+  B0FQ5266PC  NIIMBOT        NIIMBOT B1 ラベルメーカー スマホ ラベルライター本体+3巻ラベル付き 感熱ラベルライター 値 [未実測]
+
+topic_id: daily_gadget_20261116_ec15faa4
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_label_printer_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_label_printer_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

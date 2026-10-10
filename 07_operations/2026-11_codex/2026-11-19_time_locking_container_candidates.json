@@ -1,0 +1,157 @@
+{
+  "generated_at": "2026-10-10T01:08:11+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261119_63556f48",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261119_time_locking_container"
+  ],
+  "fetched_count": 4,
+  "dedup_count": 4,
+  "candidates": [
+    {
+      "asin": "B08HZ4LYHM",
+      "title": "iDiskk タイムロックボックス (99時間タイマー)",
+      "url": "https://www.amazon.co.jp/dp/B08HZ4LYHM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08HZ4LYHM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "iDiskk",
+      "query": "dg_20261119_time_locking_container",
+      "queries_matched": [
+        "dg_20261119_time_locking_container"
+      ],
+      "review_count": 1445,
+      "star_rating": 4.1,
+      "stock_status": null,
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-23",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない"
+      ]
+    },
+    {
+      "asin": "B0GVN17LPY",
+      "title": "MoKo スマホタイムロックボックス タイムロッキングコンテナ USB 充電式 1分～99時間設定可能 75日待機 通話対応 緊急解除機能付き",
+      "url": "https://www.amazon.co.jp/dp/B0GVN17LPY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GVN17LPY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51meLF3SA3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "「スマホ依存から抜け出せる」スマホを手放せなくない、スマホを見ていないと不安になったり、イライラしてしていませんか？依存対策アプリ試してもダメだったら、物理的に本製品のスマホタイムロッキングコンテナでスマホを触れないように強制的に断ち切る方法でスマホのない、充実度が高めた生活を取り戻しましょう。",
+        "「時間広い範囲で設定可能」最短1分から最長99時間59分までタイマーセット可能です。タイマーをセットしたら、時間までは絶対に開けられないため、今までスマホに使っていた時間を仕事や勉強が集中ができたり、子供と遊ぶ時間ができたり、充実した充実度の高い趣味を楽しめたり精神的にリフレッシュすることできます。時間は少しずつ伸ばすことで、スマホ依存は簡単に離れていきます。",
+        "「切り抜きケースタイプ」本製品のスマホタイムロッキングコンテナは切り抜きケースタイプの仕上がりで、完全に密封状態ではないため、充電しながらもスマホをロッキングできます。ケース背面に開ける窓あり、緊急の電話に対応できないなどと心配したりせず、安心して気楽にスマホをロックことができます。※【窓カバーを開ける方法】：背面の通話窓カバーは、付属のパーツでこじるように押し上げたら、簡単に外すことができます。",
+        "「取り扱いやすい簡単にセット」 時間と電池残量ディスプレイが搭載しており、タイマーセットの時間もきちんと表示されて、時間を増やすと減らすボタンを押すだけで簡単に時間設定できます。時間と分の切り替えセットはロックキーを押すことで切り替えになります。時間セット完了したらロックボタンを5秒間長押せばロックカウントダウンに入り、ロックカウントダウンまで5秒間の取り消し時間があり、この5秒間内でロックキーを押せば、ロックを解除できます。何も操作しない場合は、ロック時間に入ります。",
+        "「緊急ロック解除」 セットする際に、何も操作しない場合は5秒後消灯になります。ロックキーを10秒間長押せば緊急ロック解除できます。緊急ロック解除チャンスは2回のみで、2回使用済み後、緊急ロック解除はできなくなりますのでご注意ください。ロックキーを押すことで時間と分の切り替えができますので、時間を間違えて設定しないようにご注意ください。初めの場合はスマホに触れない時間はストレスになりますので、初めは短い時間から試すのがおすすめです。"
+      ],
+      "maker": "MoKo",
+      "query": "dg_20261119_time_locking_container",
+      "queries_matched": [
+        "dg_20261119_time_locking_container"
+      ],
+      "review_count": 1116,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_observed_at": "2026-09-11T00:44:49+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない"
+      ]
+    },
+    {
+      "asin": "B0GHMGYJ7G",
+      "title": "Shlmnbo タイムロッキングコンテナ 13L",
+      "url": "https://www.amazon.co.jp/dp/B0GHMGYJ7G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GHMGYJ7G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "Shlmnbo",
+      "query": "dg_20261119_time_locking_container",
+      "queries_matched": [
+        "dg_20261119_time_locking_container"
+      ],
+      "review_count": 652,
+      "star_rating": 3.6,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-05-20",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない"
+      ]
+    },
+    {
+      "asin": "B0F7LL7GRN",
+      "title": "TTFP タイムロッキングコンテナ ロックボックス スマホ依存対策 禁欲ボックス デジタルデトックス スマホ/おやつ/アルコール/禁煙/健康管理に適用 日本語説明書付き",
+      "url": "https://www.amazon.co.jp/dp/B0F7LL7GRN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F7LL7GRN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "TTFP",
+      "query": "dg_20261119_time_locking_container",
+      "queries_matched": [
+        "dg_20261119_time_locking_container"
+      ],
+      "review_count": 56,
+      "star_rating": 3.3,
+      "stock_status": null,
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-17",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "収納内寸・充電可否・緊急解除と解除回数を公式確認。依存症治療を断言しない"
+      ]
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:time_locking_container"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-19",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:time_locking_container",
+    "theme": "スマホに触れない時間をつくる。タイムロックボックス",
+    "exclude_used_since": "2026-10-20",
+    "current_stock_verified": false
+  }
+}

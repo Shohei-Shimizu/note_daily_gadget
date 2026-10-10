@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-10-09",
+  "waiting_for_reselected_original": true,
+  "checks": [
+    {
+      "asin": "B08G1G1DVT",
+      "model": "Tapo P105/A",
+      "finding": "Title/features identify P105/A, not HS105/Kasa",
+      "source": "https://www.tapo.com/jp/product/smart-plug/tapo-p105/v1%20%284-pack%29/"
+    },
+    {
+      "asin": "B0CJFHQZ7Y",
+      "finding": "4pack/Matter/energy monitor/15A1800W matches US MSS315; domestic100V variant not proven; main opted to exclude/reselect",
+      "source": "https://shop.meross.com/products/matter-smart-plug-mss315-us"
+    },
+    {
+      "applies_to": "Tapo P110M",
+      "finding": "Official Japanese QIG prohibits heaters/heating appliances and fans operated unattended; article examples limited to approved lamps",
+      "source": "https://static.tp-link.com/upload/manual/2023/202309/20230926/7106510274_Tapo%20P110M%281-pack%29%28JP%291.20_50x37_QIG_V1%20%282%29.pdf"
+    },
+    {
+      "applies_to": "SwitchBot regular/HomeKit",
+      "finding": "Official prohibits heating appliances/life support; HomeKit outside-home operation needs Apple home hub; regular Siri shortcuts are not native HomeKit",
+      "sources": [
+        "https://support.switch-bot.com/hc/ja/articles/1500002027462-SwitchBot%E3%83%97%E3%83%A9%E3%82%B0-%E3%83%97%E3%83%A9%E3%82%B0%E3%83%9F%E3%83%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+        "https://www.switchbot.jp/products/switchbot-plugmini-homekit?variant=42908884631727",
+        "https://blog.switchbot.jp/usecase/beginners/warning-use-of-switchbot-products/"
+      ]
+    },
+    {
+      "applies_to": "LinkJapan ePlug3",
+      "finding": "HomeLink AC100V2.4GHz and power monitor; powered appliance must operate by restoration of mains without pushing own power button",
+      "sources": [
+        "https://linkjapan.co.jp/support/manual/eplug3/",
+        "https://linkjapan.co.jp/support/faq/eplug/"
+      ]
+    }
+  ]
+}

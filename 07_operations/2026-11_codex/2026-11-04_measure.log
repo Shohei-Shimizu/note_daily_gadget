@@ -1,0 +1,54 @@
+📦 候補読み込み: 14 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-04_headphone_candidates.json)
+🔎 実測: 14 件の ASIN を Amazon 商品ページから取得します...
+  [1/14] B08HYX5NS9 review=9095 star=4.4 stock=in_stock OK
+  [2/14] B0GXYWTMPN review=3130 star=4.1 stock=in_stock OK
+  [3/14] B09Z2QYYD1 review=2422 star=4.5 stock=in_stock OK
+  [4/14] B0BVPNJP1C review=1806 star=4.4 stock=in_stock OK
+  [5/14] B0CQKFTYW5 review=1687 star=4.2 stock=in_stock OK
+  [6/14] B0CWNQP4RG review=1672 star=4.7 stock=in_stock OK
+  [7/14] B0DBR13335 review=464 star=4.4 stock=in_stock OK
+  [8/14] B0CGLZJMD5 review=151 star=4.3 stock=in_stock OK
+  [9/14] B0CHB31V44 review=151 star=4.3 stock=in_stock OK
+  [10/14] B0D32WJK6L review=68 star=4.0 stock=in_stock OK
+  [11/14] B0D4VMVCFX review=562 star=4.5 stock=in_stock OK
+  [12/14] B0F77PMC1P review=351 star=4.4 stock=in_stock OK
+  [13/14] B0FL2HYBGJ review=589 star=4.4 stock=in_stock OK
+  [14/14] B0GMXW4RHB review=41 star=4.3 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=14 succeeded=14 failed=0 / run累積 attempted=76 succeeded=76 failed=0) product新規=0 product更新=14 metric行=14 verification行=7
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 14 / 14
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 8
+
+-- 採用 --
+1. [Tier1] Anker / B08HYX5NS9 / review=9095 star=4.4 ★有名ブランド
+   Anker Soundcore Life Q30【第2世代】(Bluetooth5.3 ワイヤレス ヘッドホン）【ウルトラノイズキャンセリン
+2. [Tier1] Ugreen / B0GXYWTMPN / review=3130 star=4.1 ★有名ブランド
+   UGREEN HiTune Max5c Bluetooth5.4 オーバーイヤーヘッドホン 最大75時間再生 LDACハイレゾ ノイキャン 
+3. [Tier1] SONY / B09Z2QYYD1 / review=2422 star=4.5 ★有名ブランド
+   ソニー(SONY) ワイヤレスノイズキャンセリングステレオヘッドホン WH-1000XM5:【VGP殿堂入り】 / ノイキャン性能向上 / 
+4. [Tier1] SONY / B0BVPNJP1C / review=1806 star=4.4 ★有名ブランド
+   ソニー(SONY) ワイヤレスノイズキャンセリングヘッドホン WH-CH720N: ノイズキャンセリング搭載/Bluetooth対応/軽量設
+5. [Tier1] ゼンハイザー / B0CQKFTYW5 / review=1687 star=4.2 
+   ゼンハイザー(Sennheiser) ワイヤレスヘッドホン ACCENTUM Plus Wireless ホワイト高性能ドライバー 50時間
+6. [Tier1] HAYLOU / B0CWNQP4RG / review=1672 star=4.7 
+   HAYLOU S30 Pro ワイヤレスヘッドホン ANC 43dB Bluetooth5.4 低遅延 80時間再生
+7. [Tier1] Bose / B0FL2HYBGJ / review=589 star=4.4 ★有名ブランド
+   Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッド
+8. [Tier1] Anker / B0D4VMVCFX / review=562 star=4.5 ★有名ブランド
+   Anker Soundcore Space One Pro (Bluetooth 5.3 ワイヤレス ヘッドホン)【最大60時間音楽再生 /
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 6 件 --
+  - [Tier2] Bose / B0DBR13335: 多様性制約または件数上限のため非選抜
+  - [Tier2] JBL / B0CGLZJMD5: 多様性制約または件数上限のため非選抜
+  - [Tier2] JBL / B0CHB31V44: 多様性制約または件数上限のため非選抜
+  - [Tier3] SONOS / B0D32WJK6L: 多様性制約または件数上限のため非選抜
+  - [Tier2] SONY / B0F77PMC1P: 多様性制約または件数上限のため非選抜
+  - [Tier3] final / B0GMXW4RHB: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-04_会議と集中作業を切り替える。ノイズキャンセリングヘッドホン.md

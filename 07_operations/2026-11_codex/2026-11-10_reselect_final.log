@@ -1,0 +1,54 @@
+🚫 --exclude-asin により 4 件を選抜対象から外しました: B0BF43HS1G, B0BF9ZYCQ5, B0CMQK8CMJ, B0F3CMBP5L
+📦 候補読み込み: 27 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-10_charger_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 27 / 27
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 10
+
+-- 採用 --
+1. [Tier1] Anker / B08X11GD52 / review=18073 star=4.6 ★有名ブランド
+   Anker Nano II 65W (PD 充電器 USB-C)【独自技術Anker GaN II採用/PD対応/PSE技術基準適合/折りた
+2. [Tier1] Ugreen / B0B38TWKVR / review=7099 star=4.4 ★有名ブランド
+   UGREEN Nexode 45W PD充電器 タイプc USB-C*2 PD3.0/PPS急速充電器 PSE適合 GaNII
+3. [Tier1] Ugreen / B0C6DX66TN / review=5949 star=4.3 ★有名ブランド
+   UGREEN Uno Robot Charger 65W
+4. [Tier1] Anker / B0B2QR8HN9 / review=3944 star=4.6 ★有名ブランド
+   Anker 511 Charger (Nano 3, 30W) ホワイト | (充電器 USB-C)【USB PD 対応/PSE技術基準適合
+5. [Tier1] CIO / B0D53VJJ7F / review=1652 star=4.3 ★有名ブランド
+   CIO NovaPort TRIOⅡ 65W USB-C ×2+A 急速充電器 [世界最小級 NovaIntelligence NovaEn
+6. [Tier1] 多摩電子工業 / B0CMCD9DY3 / review=1542 star=4.1 
+   多摩電子工業 PD65W対応 AC充電器 USB x3ポート（USB-C x2、USB-A x1）Permier PR-AP146UC2W 
+7. [Tier1] ELECOM / B0CTJDLWV4 / review=1273 star=4.4 ★有名ブランド
+   エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック EC-AC85
+8. [Tier1] ELECOM / B0F43N4Z21 / review=1015 star=4.4 ★有名ブランド
+   エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 しろちゃん EC-AC10367W
+9. [Tier1] Belkin / B0B5QKMCZD / review=955 star=4.4 ★有名ブランド
+   Belkin 充電器 USB-C 2ポート PPS規格対応 GaN採用 小型 ACアダプター タイプC 急速充電 軽量【PD3.0対応 / 
+10. [Tier1] CIO / B0D53VKL36 / review=675 star=4.5 ★有名ブランド
+   CIO NovaPort DUOⅡ 65W USB-C 2ポート 充電器 [世界最小級 NovaIntelligence NovaEngin
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 17 件 --
+  - [Tier1] Ugreen / B0DG93MZCR: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0B6N2ZPT4: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0BF44GF6J: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0F99FCSX7: 多様性制約または件数上限のため非選抜
+  - [Tier1] CIO / B0C42HDMQW: 多様性制約または件数上限のため非選抜
+  - [Tier2] CIO / B0D53S6T2B: 多様性制約または件数上限のため非選抜
+  - [Tier2] Anker / B0FWJK8GV9: 多様性制約または件数上限のため非選抜
+  - [Tier2] Belkin / B0DHTT13KN: 多様性制約または件数上限のため非選抜
+  - [Tier2] ELECOM / B0F3CJRF4Y: 多様性制約または件数上限のため非選抜
+  - [Tier2] CIO / B0H3278SLM: 多様性制約または件数上限のため非選抜
+  - [Tier3] MOKiN / B0H8P4H5J7: 多様性制約または件数上限のため非選抜
+  - [Tier1] Ugreen / B0CLGZGXMD: 多様性制約または件数上限のため非選抜
+  - [Tier1] CIO / B0D53XL7GL: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0D73JBJ56: 多様性制約または件数上限のため非選抜
+  - [Tier2] ELECOM / B0F43NCQ25: 多様性制約または件数上限のため非選抜
+  - [Tier1] Ugreen / B0GDCPBYHF: 多様性制約または件数上限のため非選抜
+  - [Tier1] Anker / B0GF26RSYQ: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-10_端末の充電環境を見直す。USB-C充電器.md

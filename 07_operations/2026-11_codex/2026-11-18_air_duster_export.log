@@ -1,0 +1,22 @@
+
+候補 11 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B0BV5RHNM1  サンワダイレクト       サンワダイレクト 電動エアダスター AC電源 強力 ノズル3種類付属 ケーブル長3m PC 掃除 200 [article_dated 2026-07-26]
+  B0DJDZRW18  ELECOM         エレコム 日本メーカー 電動エアダスター 充電式 強力 逆さ噴射可能 3段階風量調整 49000rpm高 [未実測]
+  B0F4JDMFSX  ELECOM         エレコム 日本メーカー 電動エアダスター ブロワー 2WAY 吹き飛ぶ/吸い込む 強力 充電式 3段階風 [未実測]
+  B0F4JQCMBG  ELECOM         エレコム 日本メーカー 電動エアダスター ブロワー 充電式 強力 小型 軽量 逆さ噴射可能 69000r [未実測]
+  B0F6TSHGN9  サンワダイレクト       サンワダイレクト 電動エアダスター 充電式 USB-C 4段階風量調節 ガス不使用 軽量 200-CDA [未実測]
+  B0FDFFHVWD  ELECOM         エレコム 電動エアダスター ハイパワー 超強力 130000rpm高速回転 60m/s最大風速 コンパク [未実測]
+  B0GC4TJDXL  WOLFBOX        WOLFBOX エアダスター 電動ブロワー 洗車後の隙間の水滴飛ばし・日常掃除に 最大風速75m/s以上 [未実測]
+  B0GK5S77XX  サンワダイレクト       サンワダイレクト 電動エアダスター 充電式 Type-C 最大風速31m/s 風量4段階調整 ノズル5種 [未実測]
+  B0H1WNMLLD  AAL            AAL エアダスター 電動エアダスター 【2026新登場· 圧倒的な風圧 ·LEDライト付き】小型 ブロ [未実測]
+  B0H4Q6P8DQ  Horumi         Horumi エアダスター 電動エアダスター 強力ブロワー【120m/sの超強暴風· 吹くだけで完全清掃 [未実測]
+  B0H6SDNHH9  AAL            AAL エアダスター 電動エアダスター【圧巻の風速150m/s·LEDライト搭載】 ブロワー 小型 強力 [未実測]
+
+topic_id: daily_gadget_20261118_8860c109
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_air_duster_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_air_duster_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

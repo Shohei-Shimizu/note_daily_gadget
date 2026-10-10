@@ -1,0 +1,47 @@
+🚫 --exclude-asin により 2 件を選抜対象から外しました: B08LGK55H8, B09XF23WY2
+📦 候補読み込み: 22 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-27_desk_light_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 21 / 22
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 8
+
+-- 採用 --
+1. [Tier1] Lepro / B09XF3HRGW / review=10442 star=4.1 
+   Lepro デスクライト クランプ led 目に優しい クリップライト クランプライト スタンドライト 電気スタンド 卓上ライト (ホワイト
+2. [Tier1] IRIS OHYAMA / B07KKC7M1Q / review=4543 star=4.3 ★有名ブランド
+   アイリスオーヤマ LEDデスクライト 調色3段階 調光無段階 簡単操作 自由可動 フレキシブルアーム 角度調節可能 省エネ ホワイト PDL
+3. [Tier1] Lepro / B08MJR93YJ / review=2525 star=4.2 
+   Lepro デスクライト led 目に優しい DCアダプター付き 電気スタンド 800lm超高輝度 卓上ライト おしゃれ テーブルライト【5
+4. [Tier1] オーム電機 / B09Z9X46PW / review=2349 star=4.3 
+   オーム電機 LEDデスクランプ デスクライト デスクスタンド USB電源 昼白色 スマホスタンド付き DS-LS12USB-W 06-370
+5. [Tier1] IRIS OHYAMA / B08LG1JS2M / review=2289 star=4.5 ★有名ブランド
+   アイリスオーヤマ(IRIS OHYAMA) 【置くだけでスマホ充電】 デスクライト 置くだけで充電 Qiワイヤレス充電 画面の見やすいスタン
+6. [Tier1] 山田照明 / B082PWV4L7 / review=1103 star=4.5 ★有名ブランド
+   山田照明(Yamada Shomei) Z-LIGHT LEDデスクライト 合金鋼 ブラック E26LED電球 昼白色 Z-108NB
+7. [Tier1] Zhongmei / B0GD7KC1QZ / review=843 star=4.2 
+   ReinHoo クリップライト 充電式 【9輝度+5光色＋記憶機能】 卓上ライト コードレス 【4000mAh大容量電池】デスクライト 充電
+8. [Tier1] kufire / B09N8TVSJD / review=546 star=4.1 
+   卓上ライト, 3600mAh 充電式ライト,デスクライト おしゃれ,読書灯,ポータブル | デスクライト コードレス,10段階の明るさ調整,
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 13 件 --
+  - [Tier1] Lepro / B0963VVG77: 多様性制約または件数上限のため非選抜
+  - [Tier2] SATADA / B096Y945HR: 多様性制約または件数上限のため非選抜
+  - [Tier2] BeaNet / B0CZ3L2DKP: 多様性制約または件数上限のため非選抜
+  - [Tier2] Hoxhyon / B0FM3NXDVN: 多様性制約または件数上限のため非選抜
+  - [Tier2] オーム電機 / B09LTPW2P5: 多様性制約または件数上限のため非選抜
+  - [Tier2] 共同照明 / B0821D2TVV: 多様性制約または件数上限のため非選抜
+  - [Tier3] サンワサプライ / B0D7HC65Y6: 多様性制約または件数上限のため非選抜
+  - [Tier3] Lepro / B0GZNK7T45: 多様性制約または件数上限のため非選抜
+  - [Tier2] tuoleda / B08JM1NWGL: 多様性制約または件数上限のため非選抜
+  - [Tier2] オーム電機 / B09KGQFPL2: 多様性制約または件数上限のため非選抜
+  - [Tier2] Adoric / B0BGXPXQSQ: 多様性制約または件数上限のため非選抜
+  - [Tier3] ZEEWELL / B0DSFRQSCX: 多様性制約または件数上限のため非選抜
+  - [Tier3] CityCom / B0H51R1KLF: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 1 件 --
+  - B077XHJPHF / オリジナルXiaomi LEDデスクランプ スマートリモコン 調光機能付きテーブ: 在庫切れのため除外
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-27_机の手元を照らす。「デスクライト」.md

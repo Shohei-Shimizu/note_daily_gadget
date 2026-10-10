@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-10-10T02:23:42+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261113_7c276155",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_november_verified_recovery"
+  ],
+  "fetched_count": 2,
+  "dedup_count": 2,
+  "candidates": [
+    {
+      "asin": "B0DG2QKMFX",
+      "title": "RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリー持続最長12日、睡眠・心拍・ストレス・女性の健康管理・フィットネス追跡、Android & iOS対応（シルバー、サイズ10）",
+      "url": "https://www.amazon.co.jp/dp/B0DG2QKMFX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DG2QKMFX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [
+        "【購入前にサイズ確認】RingConn Gen 2スマートリングは他社の健康リングとは異なる独自のサイズ基準を採用しています。RingConn Gen 2サイズキットを使用することで、指に最も快適で正確なフィット感を見つけられ、購入前に正しいサイズを選択することで返品や交換の手間を防ぎます",
+        "【サブスクリプション不要】RingConn Gen 2スマートリングをご購入いただくと、RingConnスマートヘルスモニタリングアプリの包括的な機能に永久アクセス可能。継続的でリアルタイムな健康トラッキングとパーソナライズされた分析を体験できます",
+        "[健康モニタリング以上の機能] RingConn Gen 2 スマートリングは、一般的な健康モニタリング機能を超え、アクティビティ、睡眠、心拍、ストレスの追跡だけでなく、OTAアップデートにも対応。継続的な改善と新機能の追加により、あなたのニーズに合わせた進化し続ける体験を提供します",
+        "【あらゆる冒険に対応する防水性能】100mの防水性能を備えたRingConn Gen 2スマートリングは、日常着用、ワークアウト、水泳に最適。敏感肌の方でも快適な耐久性を実現しています",
+        "【長持ちバッテリー】RingConn Gen 2は最大10-12日間のバッテリー駆動時間を実現。サイズにより異なり、大きいサイズ（12-14）は最大12日間。スマート充電ケースと併用で150日を超えます",
+        "【超薄型デザイン】わずか2グラム（サイズにより変動）の画期的な薄型デザイン。これまで以上に薄く、軽く、フィット感も向上。装着感がほとんど気になりません",
+        "【パッケージ内容】RingConn Gen 2スマートリング1、充電ケース1、1m/3.3ft USB-C to USB-Cケーブル1、取扱説明書1、12ヶ月保証、カスタマーサービス"
+      ],
+      "maker": "RingConn",
+      "query": "dg_november_verified_recovery",
+      "queries_matched": [
+        "dg_november_verified_recovery"
+      ],
+      "review_count": 5618,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:51:15+00:00",
+        "content_observed_at": "2026-09-12T22:51:15+00:00",
+        "content_source": "product_page"
+      }
+    },
+    {
+      "asin": "B0DVBDHK5T",
+      "title": "エレコム バックパック リュックサック スクエア ～15.6インチ 撥水加工 大容量 19L ブラック BM-XBPSQ01BK",
+      "url": "https://www.amazon.co.jp/dp/B0DVBDHK5T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DVBDHK5T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "ELECOM",
+      "query": "dg_november_verified_recovery",
+      "queries_matched": [
+        "dg_november_verified_recovery"
+      ],
+      "review_count": 113,
+      "star_rating": 4.0,
+      "stock_status": null,
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-23",
+        "content_observed_at": null,
+        "content_source": null
+      }
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  }
+}

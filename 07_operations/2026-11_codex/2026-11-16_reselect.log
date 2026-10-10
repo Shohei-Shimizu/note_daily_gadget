@@ -1,0 +1,32 @@
+🚫 --exclude-asin により 2 件を選抜対象から外しました: B079FLYBQ9, B0FQ5266PC
+📦 候補読み込み: 9 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_label_printer_candidates.json)
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 9 / 9
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 6
+
+-- 採用 --
+1. [Tier1] Phomemo / B08M3K411P / review=22252 star=4.0 
+   ラベルプリンター Phomemo D30 ラベルライター スマホ対応 Bluetooth 超小型シールプリンター 6mm～15mm 幅テープ
+2. [Tier1] NIIMBOT / B0BCW4YMR8 / review=9759 star=4.2 
+   NIIMBOT B1 ラベルメーカー ラベルプリンター 感熱ラベルライター 値札プリンター DIY 商業プリンター 宛名ラベルメーカー 20
+3. [Tier1] Brother / B0DHWX7B1V / review=5284 star=4.4 ★有名ブランド
+   ブラザー ラベルライター ピータッチキューブ ラテ PT-P300BTLT (スマホ専用/3.5mm~12mm幅/TZeテープ/サンプルテー
+4. [Tier1] Phomemo / B0895JCJKM / review=4028 star=4.2 
+   Phomemo M110 ラベルライター ラベルプリンター スマホ・PC対応 食品表示ラベルプリンター 値札プリンター 業務用プリンター ラ
+5. [Tier1] キングジム / B0BRZ1QB74 / review=1259 star=4.2 
+   キングジム ラベルプリンター スマホ専用 「テプラ」PRO SR-R2500P (対応ラベル幅:4-18mm幅)
+6. [Tier1] キングジム / B07J6SYY95 / review=744 star=4.4 
+   キングジム(Kingjim) ラベルライター 「テプラ」PRO SR370 (対応ラベル幅:4-24mm幅)
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 3 件 --
+  - [Tier2] キングジム / B07RN7MMQC: 多様性制約または件数上限のため非選抜
+  - [Tier2] Phomemo / B0CT3216P6: 多様性制約または件数上限のため非選抜
+  - [Tier2] キングジム / B0CD7K75W8: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-16_小物の場所をラベルで揃える。ラベルプリンター.md

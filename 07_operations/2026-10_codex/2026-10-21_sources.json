@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-21",
+  "checked_at": "2026-10-09",
+  "title": "出先で画面を増やす「モバイルモニター」7選",
+  "original_research_sha256": "c98b052e18a559c4d9a758c5c5a97a06b5a20a85420b8b8f7aed1544886ef9da",
+  "products": [
+    {
+      "asin": "B0DWSFZT84",
+      "name": "EVICIV EVC-1506T",
+      "body": "画面を増やすだけでなく、指で操作する方法も検討したい人向けのモデルです。一体型スタンドで設置角度を変えられ、持ち運び先でも画面を立てて使えます。タッチ操作は接続先の機器やOSによって対応が異なるため、映像が映ることとタッチが使えることを分けて確認してみてください。",
+      "spec": [
+        "画面：15.6インチ・非光沢IPS",
+        "解像度：1920×1080",
+        "入力：USB Type-C／Mini HDMI"
+      ],
+      "urls": [
+        "https://m.media-amazon.com/images/I/A1gIAWXD-3L.pdf",
+        "https://www.amazon.co.jp/dp/B0DWSFZT84?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
+      ],
+      "points": [
+        "一体型スタンドで設置角度を調整",
+        "タッチ操作の対応は機器/OSごとに確認",
+        "USB-C映像出力と給電能力の確認が必要"
+      ]
+    },
+    {
+      "asin": "B0G1MDDQ4X",
+      "name": "Yodoit 15.6インチ モバイルモニター",
+      "body": "資料を開いた画面と入力する画面を分け、出先でも作業を進めたい人向けです。付属カバーをスタンドとして使え、移動時の画面保護と設置をまとめられる構成。USB-Cの映像出力に対応しないPCではHDMIを使えますが、その場合もモニターへの給電は別途必要です。",
+      "spec": [
+        "画面：15.6インチ・IPS",
+        "解像度：1920×1080",
+        "設置：スタンド兼用カバー付属"
+      ],
+      "urls": [
+        "https://uk.yodoit.com/products/yodoit-portable-monitor-15-6-fhd-1080p",
+        "https://www.amazon.co.jp/dp/B0G1MDDQ4X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
+      ],
+      "points": [
+        "FHDの追加画面で資料確認と入力を分ける用途",
+        "スタンド兼用カバーが付属",
+        "HDMI接続にはUSB-C給電も必要"
+      ]
+    },
+    {
+      "asin": "B083RFYZGW",
+      "name": "cocopar ZS-156",
+      "body": "ノートPCの隣に資料用の画面を置きたい人向けの、基本構成を重視したモデルです。スタンドにもなるカバーが付いており、机での設置と移動時の保護を兼ねられます。USB-Cで映像と給電をまとめるには接続先の映像出力対応が必要で、表示が不安定なら追加給電も検討したいところ。",
+      "spec": [
+        "画面：15.6インチ・非光沢IPS",
+        "解像度：1920×1080",
+        "入力：USB Type-C／HDMI"
+      ],
+      "urls": [
+        "https://www.cocoparjapan.com/products/zs-156"
+      ],
+      "points": [
+        "15.6インチFHDの資料確認用画面",
+        "スタンド兼用カバーを備える",
+        "DP Alt Mode非対応や給電不足時は接続方法を変更"
+      ]
+    },
+    {
+      "asin": "B08THPKPV4",
+      "name": "cocopar M-14G",
+      "body": "持ち運ぶ大きさを抑えつつ、文書の縦方向も見たい人向けのモデルです。縦横の比率が一般的なフルHD画面より縦に広く、資料やウェブページを並べる用途で比較したい一台。自立スタンドで縦置きと横置きを選べますが、縦表示は接続機器側の設定も必要です。",
+      "spec": [
+        "画面：14インチ・非光沢IPS",
+        "解像度：1920×1200",
+        "アスペクト比：16:10"
+      ],
+      "urls": [
+        "https://www.cocoparjapan.com/en/products/m-14g"
+      ],
+      "points": [
+        "14インチで持ち運びの大きさを抑える",
+        "16:10の縦方向の表示領域",
+        "自立スタンドで縦置き横置きを選択"
+      ]
+    },
+    {
+      "asin": "B0CH9WTW56",
+      "name": "ARZOPA Z1FC",
+      "body": "仕事用の追加画面を、休憩時のゲームにも使いたい人向けです。自立スタンド付きで、ノートPCの隣へ画面を配置しやすい構成。高いリフレッシュレートを活用するには接続元も対応している必要があるため、普段使う解像度と表示設定をあわせて確認してみてください。",
+      "spec": [
+        "画面：16.1インチ・IPS",
+        "解像度：1920×1080",
+        "リフレッシュレート：144Hz"
+      ],
+      "urls": [
+        "https://global.arzopa.com/collections/portable-monitor/products/z1fc-16-1-fhd-144hz-portable-monitor"
+      ],
+      "points": [
+        "仕事とゲーム兼用の追加画面",
+        "自立スタンド付き",
+        "144Hz利用時は接続元と設定の対応が必要"
+      ]
+    },
+    {
+      "asin": "B0CH9XW8RK",
+      "name": "ARZOPA A1M",
+      "body": "資料を大きめの追加画面に広げ、出先でも複数のウィンドウを並べたい人向けです。自立スタンドで画面の角度を調整でき、USB-CとMini HDMIで接続方法を選べます。持ち運び用としては大きめなので、バッグに入る寸法と訪問先の机の広さを先に確認したいところ。",
+      "spec": [
+        "画面：17.3インチ・IPS",
+        "解像度：1920×1080",
+        "入力：USB Type-C／Mini HDMI"
+      ],
+      "urls": [
+        "https://www.arzopa.com/products/a1m-17-3-1080p-fhd-ips-portable-monitor"
+      ],
+      "points": [
+        "現行ASINは17.3インチA1M（メインUI照合）",
+        "自立スタンド付きの大画面追加用途",
+        "バッグと設置机の寸法を確認"
+      ]
+    },
+    {
+      "asin": "B0GYCW48PC",
+      "name": "KOORUI 15.6インチ モバイルモニター",
+      "body": "資料の参照やオンライン会議の画面を分けたい人向けのモデルです。角度を調整できるスタンドを備え、使う場所に合わせて画面を立てられます。USB-Cで映像を送る場合はDP Alt Mode対応が必要で、HDMI接続ではUSB-C給電も使うため、ケーブルと電源を一緒に準備しておきたいところ。",
+      "spec": [
+        "画面：15.6インチ・IPS",
+        "解像度：1920×1080",
+        "入力：USB Type-C×2／Mini HDMI"
+      ],
+      "urls": [
+        "https://www.amazon.co.jp/dp/B0GYCW48PC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
+      ],
+      "points": [
+        "資料参照と会議画面を分ける用途",
+        "調整可能なスタンドを備える",
+        "HDMI利用では別途給電が必要"
+      ]
+    }
+  ],
+  "notes": [
+    "B0CH9XW8RKのraw titleは旧蔵書A1/15.6。メイン2026-10-09 IAB現行productTitle/選択サイズ確認で17.3インチA1M確定。記事H2/画面specは現行に訂正しraw選抜部分は保持。",
+    "EVICIV/KOORUIは国内採用ASINに完全一致する公式SKUページが未発見。メイン取得済み2026-10-09商品ページfeaturesを一次補助源として使用、海外別SKU数値は流用しない。",
+    "Yodoit UKはMini HDMI/重量差あり。国内ASINfeaturesに従い標準HDMI使用注意を記載、寸法重量と入力端子specは省略。",
+    "ZS-156公式重量640gと蔵書650g、Z1FC現行Gray780gと蔵書600gの差は重量数値を省略。",
+    "画像/metadata/DB/note予約はメイン担当。"
+  ]
+}

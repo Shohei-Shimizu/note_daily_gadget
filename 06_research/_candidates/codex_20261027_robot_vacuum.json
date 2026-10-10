@@ -1,0 +1,724 @@
+{
+  "generated_at": "2026-10-09T00:51:10+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261027_31341107",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "codex_20261027_robot_vacuum"
+  ],
+  "fetched_count": 25,
+  "dedup_count": 19,
+  "candidates": [
+    {
+      "asin": "B0DBTHDHYS",
+      "title": "dreame (ドリーミー) L10s Ultra Gen2 ロボット掃除機【10000Pa強力吸引 5way全自動】10000Pa強力吸引 ゴミの自動収集 水拭きへの給水 モップ自動洗浄 モップ熱風乾燥 洗剤の自動投入 3D障害物回避システム 高精度複数階マッピング 加圧回転式デュアルモップ 32段階の水量調整 3Dマップ モップリフトアップ ペットフレンドリーモード",
+      "url": "https://www.amazon.co.jp/dp/B0DBTHDHYS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DBTHDHYS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/6110rm62iEL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【5way全自動ベースステーション搭載のロボット掃除機で究極の清掃体験】このロボット掃除機は、ゴミの自動収集、給水、モップの自動洗浄・熱風乾燥、洗浄液の自動補給までを一台で実現。ハイテクな全自動ベースステーションで、毎日の掃除を完全自動化します。",
+        "【MopExtend RoboSwing搭載で家中の隅々までロボット掃除】ロボット掃除機の「MopExtend RoboSwing」機能により、狭いすき間や家具の下まで徹底清掃。エッジ認識＆モップ伸縮機能により、壁際やテーブルの脚まわりのゴミも逃しません。",
+        "【10,000Pa Vormax吸引で強力掃除！カーペットもラグもしっかりクリーニング】業界トップクラスの10,000Pa吸引力で、深層ゴミを完全吸引。超音波カーペット認識＆モップ自動リフトアップ機能で、フローリングからラグまで最適なロボット掃除を実現します。",
+        "【ペット対応ロボット掃除機｜抜け毛対策＆インテリジェント清掃】ペットエリアをAIが認識し、2段階で徹底掃除。絡まりにくいフローティングブラシでペットの毛をキャッチ！紙パックも簡単お手入れで、ペットと暮らすご家庭に最適です。",
+        "【AI CleanGeniusで進化したロボット掃除｜カスタム清掃レポート対応】L10s Ultra Gen 2は家の間取りを学習し、デイリーモード/最強モードを自動提案。カーペット吸引ブーストや集中清掃など、ロボット掃除機の設定を自由にカスタマイズ可能です！",
+        "【一户建でもこれ１台で対応できる】複数ルームのスマートマッピングを保存でき、本体だけを2階に運んで、自動的にマッピング認識し、掃除を始めます。掃除が終わるとスタートポイントに戻り、ベースステーションに置いていくと自動的モップ洗います",
+        "【銀イオンモジュールにより、99.9%抗菌】浄水タンクに装着された銀イオン除菌モジュールにより、水道水をキレイに保つことを実現。すべての掃除プロセスで除菌効果を発揮します。"
+      ],
+      "maker": "DREAME",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 9556,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H3L52YY7",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:51:15+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DLG93BX5",
+      "title": "Anker Eufy (ユーフィ) Robot Vacuum Auto-Empty C10 (ロボット掃除機) 【自動ゴミ収集ステーション/伸縮サイドブラシ/毛絡み除去システム/レーザーマッピング/アプリ操作/落下防止/薄型】",
+      "url": "https://www.amazon.co.jp/dp/B0DLG93BX5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DLG93BX5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/617soTGrGJL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "シンプルを突き詰めた究極の一台：シンプルかつコンパクトな設計ながら、自動ゴミ収集ステーションやiPathレーザーナビゲーション技術など人気の機能を搭載。薄型ボディで狭い空間にも入り込み、強力な吸引力と伸縮するサイドブラシで隅々まで効率的に掃除。毛絡み除去システムも備えメンテナンスの手間の軽減も可能。",
+        "吸引は強力、角まで綺麗に：最大4000Paの強力な吸引力と部屋の角を感知すると伸縮するサイドブラシで、今まで届きにくかった角のゴミやホコリもしっかりかき出し、吸い残しを防ぎます。",
+        "メンテナンスは自動で簡単に：コンパクトな自動ゴミ収集ステーション搭載。ゴミ捨ての負担を軽減しつつ、独自の毛がらみ除去システムでブラシにからまった毛のからみも除去。",
+        "掃除は隅々まで効率的に：約7.2cmの薄型のボディで狭い空間にも入り込み、手の届きにくいところも隈なく清掃します。またiPathレーザーナビゲーション技術により掃除に最適なルートを作成し、効率的に掃除します。",
+        "パッケージ内容：Eufy Robot Vacuum Auto-Empty C10、自動ゴミ収集ステーション、ステーションカバー、ダスト容器、ダストバッグ、クイックスタートガイド、安全マニュアル"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 2118,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-05-01",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H9PRNTN1",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:51:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B06XCPQTBS",
+      "title": "ILIFE アイライフ V3s Pro ロボット掃除機 ブラシレス吸引口 掃除ロボット 強力吸引 予約設定 髪の毛/ペットの毛に効果 ワンタッチ起動 三つの掃除モード 超薄型 静音設計 自動掃除機 自動充電 落下 衝突防止 リモコン付き(ホワイト)",
+      "url": "https://www.amazon.co.jp/dp/B06XCPQTBS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B06XCPQTBS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61yos9vc3XL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【強力吸引＆ブラシレス吸引口】ロボット掃除機の強力な吸引力で、床のホコリや細かなゴミ、髪の毛、ペットの毛などをしっかり吸引します。ブラシレス吸引口を採用しており、毛が絡まりにくく、お手入れの負担を軽減します。ペットのいるご家庭にもおすすめです。",
+        "【高さ81mmの薄型設計】ロボット掃除機は高さわずか81mmの薄型ボディを採用しています。ベッドやソファの下など、手が届きにくい場所にも入り込み、普段掃除しにくいスペースまで清掃します。フローリングや畳、カーペットなど、さまざまな床面に対応します。",
+        "【自動充電＆長時間連続稼働】掃除ロボットはバッテリー残量が少なくなると、自動で充電ステーションへ戻り充電します。満充電時は約100分間の連続稼働に対応し、120～150㎡程度の広い空間にも対応します。毎日の床掃除をサポートし、家事の負担を軽減します。",
+        "【3つの掃除モード】掃除ロボットには、自動モード・エッジモード・スポットモードの3種類を搭載しています。部屋全体の掃除には自動モード、壁際や部屋の隅にはエッジモード、気になる場所にはスポットモードと、掃除する場所に合わせて使い分けていただけます。",
+        "【ワンタッチ起動＆リモコン操作】ロボット掃除機は本体のボタンを押すだけで、簡単に掃除を開始できます。付属のリモコンから清掃開始や各種設定、遠隔操作も行えます。スマートフォン操作が苦手な方にも使いやすく、一人暮らしの方からご家族まで、ライフスタイルに合わせてお使いいただけます。",
+        "【衝突・落下防止＆静音設計】掃除ロボットには衝突防止・落下防止センサーを搭載しており、家具や階段などを検知しながら清掃します。静音設計で日常生活に配慮しながらお使いいただけます。さらに予約機能にも対応し、設定した時間に自動で掃除を開始できます。"
+      ],
+      "maker": "ILIFE",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 3600,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-05-01",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H9DNJ91Z",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:51:44+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D45R4YVL",
+      "title": "ECOVACS DEEBOT N20 PRO PLUS サイクロン式ロボット掃除機",
+      "url": "https://www.amazon.co.jp/dp/B0D45R4YVL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D45R4YVL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61WJzFP7mdL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【革新的な自動集塵ドック・掃除習慣のレベルアップ】 DEEBOT N20ファミリーは画期的な自動集塵ステーションを採用します。最先端のECOVACS PureCycloneテクノロジーと洗練された4段階のフィルターシステムをシームレスに統合され、紙パック不要な設計と衰えない集塵力で、持続可能性を実現します。それにより、手間のかからない、環境にも優しい掃除の新時代が到来します。",
+        "【先進的な清掃技術：髪毛の絡まりと床汚れはおさらば】 ZeroTangle 技術で、髪の毛の絡まりを防ぎ、効率的なお掃除を実現します。また、強力な吸引力とOZMO Pro 2.0 振動モッピングシステムにより、頑固な汚れもきれいに取り除き、床の清潔さと髪の毛の絡まりのない状態を保ちます。",
+        "【インテリジェント掃除の実現】 スムーズなナビゲーションと連続清掃。インテリジェントな掃除を実現します。緻密なナビゲーションを通じて、速やかに部屋内で移動しながら、掃除やモッピングを滞りなく実施することで、従来の枠を超えた比類なき清掃体験をもたらします。",
+        "消耗品不要のダストコンテナ設計は、紙パック交換を不要にすることで、コストを節約し、環境への影響を軽減し、持続可能な使用を促進します。さらに、簡単にゴミを捨てれらる機能と視覚化されたコンテナにより、メンテナンスが簡単で、タイムリーにゴミの処理が可能です。",
+        "高牽引力の駆動輪を備えており、20mmの段差を簡単に乗り越えられます。5200mAhのバッテリーで300分の稼働時間を誇り、1回の充電で最大550平方メートルをカバーする長時間の掃除を実現します。ECOVACS HOMEアプリを通じてシームレスな清掃体験を提供します。吸引力調整、モップの水量調整、振動頻度の制御など細かくカスタマイズ可能な清掃設定に加え、さまざまな清掃モードとスケジュール機能も提供し、多様な家庭のニーズに対応します。"
+      ],
+      "maker": "ECOVACS",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 1157,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0HDB26GVZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:51:53+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BYZ4FFLJ",
+      "title": "【超小型】SwitchBot ロボット掃除機 K10+ 90日間自動ゴミ収集 高精度マッピング 2500pa強力吸引 水拭き 禁止エリア 静音設計 遠隔操作 自動充電 落下防止 2.4GWi-Fi対応 Alexa Google Home IFTTT Siriに対応",
+      "url": "https://www.amazon.co.jp/dp/B0BYZ4FFLJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BYZ4FFLJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "",
+      "features": [],
+      "maker": "SwitchBot",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 963,
+      "star_rating": 4.1,
+      "stock_status": "unknown",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-13",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": null,
+      "measurement_observed_at": "2026-10-09T09:51:59+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": "http_404"
+    },
+    {
+      "asin": "B09MYGS2TX",
+      "title": "アイロボット(IRobot) ルンバ j7+ カーペット用 ロボット掃除機 J755860",
+      "url": "https://www.amazon.co.jp/dp/B09MYGS2TX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09MYGS2TX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51rdXDsyZML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【障害物を認識して回避】 アイロボット独自のPrecisionVisionナビゲーションを使って、コードやペットの排せつ物などの障害物を認識して回避します。",
+        "【ペットオーナーあんしん保証】 P.O.O.P.(Pet Owner Official Promise)はiRobotだけが提供するサービスです。清掃中にペットの排せつ物*¹がロボットに付着してしまった場合でも、 無料で交換いたします。詳細はiRobot社にお問い合わせください。",
+        "【パワフルな吸引力】 2つの特殊素材ローラーでゴミを浮き上がらせ、モーターが生み出す気流で掃除機内部に真空状態を作る「3段階AeroForceクリーニングシステム」搭載",
+        "【自動でゴミを排出‌‌】ルンバが集めたゴミを自動でクリーンベース(自動ゴミ収集機)のAllergenLock紙パックに排出し、花粉やカビなどを99%封じ込めます。‌‌"
+      ],
+      "maker": "iRobot",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 721,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-13",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:52:05+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F6NRWF9V",
+      "title": "roborock ロボロック Q7B+ ブラック ロボット掃除機 自動ゴミ収集 8000Pa 水拭き対応 LDSマッピング アプリ操作 【2025年6月発売】 正規品",
+      "url": "https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F6NRWF9V?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61TzXg6PUnL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【コンパクト設計で置きやすい】本体約32.5×32.7×9.9cm、ドック約21.3×17.8×25.9cmの省スペース設計。ワンルームから戸建てまで設置しやすく、ロボット掃除機の導入ハードルを下げます。狭い通路や家具周りも小回り良く清掃。",
+        "【8000Paの強力吸引】最大8000Pa（社内試験）で微細なホコリから食べこぼしまで一気に吸引。フローリングやカーペットなど多様な床に対応し、日常清掃の時間を短縮。お掃除ロボットの基本性能を高水準で実現します。",
+        "【毛がらみを抑制】新形状のメインブラシとサイドブラシが毛絡みを低減。ペットの抜け毛や長い髪に配慮し、清掃完了後のメンテナンス時間を削減。毎日の運転でも吸引性能を安定維持します。",
+        "【同時吸引×水拭き】280mlタンクと3段階の水量調整で、食べこぼしや皮脂汚れに合わせて拭き取り。吸引と同時に床拭きができ、ロボット掃除機 水拭き両用ならではの時短効果を発揮します。",
+        "【LDSマッピングで賢く清掃】高精度LDSレーザーが60度スキャンすることで、室内を素早くマッピングし、効率の良いルートで走行。クイックマッピングにより初回の間取り登録も短時間で完了します。",
+        "【アプリ操作で細かく管理】掃除予約、清掃履歴の確認、進入禁止エリアの設定、部屋ごとの清掃指示に対応。、外出中も進捗を確認できます。",
+        "【床材に合わせた走行】フローリングの木目やタイル目地に沿う走行で取り残しを低減。就寝中は静音設定で運転できるため家族の生活リズムに馴染みます。",
+        "【最大3枚のマップ保存】1階・2階など複数フロアを最大3枚まで保存。部屋名や清掃モードをフロア別に設定でき、在宅ワーク中は部分清掃、外出時は全体清掃など使い分けが簡単です。",
+        "【自動ゴミ収集ドック】清掃後はドックが自動でダストボックスを吸い上げ。2.5L紙パック式で手を汚しにくく、ホコリが舞いにくい構造。日々のゴミ捨て頻度を大幅に削減します。",
+        "【大容量2.5L紙パック】紙パック採用で捨てやすく、交換も簡単。使用状況により交換目安は変動しますが、家事の手間を軽減。交換用フィルターやブラシなどの消耗品も別売で用意されています。"
+      ],
+      "maker": "roborock",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 353,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-05-01",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H2BCBR6P",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:52:12+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DLGLQ8VD",
+      "title": "TP-Link Tapo RV20 Max Plus（薄型 ロボット掃除機&自動ゴミ収集機）",
+      "url": "https://www.amazon.co.jp/dp/B0DLGLQ8VD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DLGLQ8VD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Wo5bN21GL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "■ 8.3cmの超薄型デザイン ソファやベッドの下など、手の届きにくい場所にもスムーズに潜り込み、隅々まできれいにお掃除します。スリムながらも頼れる設計です。",
+        "■ MagSlim LiDARナビシステム 住空間を高精度にマッピング。短時間で最適なルートを導き出し、無駄な動きを防いで効率よく清掃を行います。",
+        "■ Tapo IQ+ Smart Cleaning 搭載 複数のセンサーと高度なAIアルゴリズムを備えたTapo IQ+が、清掃ニーズに柔軟に対応。1台でお掃除のすべてをカバーします。",
+        "■ カスタマイズ清掃＆複数マッピング保存 階ごとにマッピングを保存可能。住環境に合わせて清掃をカスタマイズでき、スピーディーかつ正確なお掃除を実現します。",
+        "■ カーペット回避機能（水拭き時） 水拭きモードでは、カーペットを自動で認識・回避。濡らしたくないエリアも安心して使用できます。。",
+        "■ 自動充電＆清掃再開機能 バッテリー残量が少なくなると、自動で充電ドックに戻って充電を開始。充電が完了すると、清掃を中断した場所から正確に再開するため、広いお部屋でも清掃漏れなく安心して使えます。",
+        "■ 音声＆リモート操作対応 AlexaやGoogleアシスタントと連携し、話しかけるだけで簡単に操作可能。",
+        "■ 自動ゴミ収集機＋大容量3L紙パック： ダストボックスのゴミを自動で収集し、約3Lの大容量紙パックにまとめて保管。約60日間ゴミ捨ての手間が不要になるため、忙しい日常の中でも手間なく清潔を保てます。"
+      ],
+      "maker": "TP-Link",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 48,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-13",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0DZC2WRLZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:52:21+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08KD938WQ",
+      "title": "Anker Eufy (ユーフィ) RoboVac G30 Hybrid (ロボット掃除機) 【スマート・ダイナミック・ナビゲーション 2.0 / 2-in-1 吸引・水拭き両用/Wi-Fi対応/超薄型/強力吸引/自動充電/BoostIQ搭載/境界線テープ対応/効率的な清掃/スマート機能】ブラック",
+      "url": "https://www.amazon.co.jp/dp/B08KD938WQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08KD938WQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81dkhK9WmCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "スマート・ダイナミック・ナビゲーション 2.0：ジャイロセンサーと加速度センサーに加えPathトラッキングセンサーを搭載したスマート・ダイナミック・ナビゲーション 2.0により、より正確な経路で部屋の隅々まで掃除できます。",
+        "2-in-1のハイブリッド設計：吸引による掃除だけでなく、硬い床の水拭きが可能なモッピングモードを搭載しています。環境や目的に合わせてモードを使い分けることで、あなたの家の床をピカピカに保ちます。使い捨てモッピングクロスにも対応してメンテナンスも更に簡単になりました。",
+        "掃除経路マッピングに対応した便利なアプリ機能：Eufy Cleanアプリを使用して掃除の開始・終了のコントロールやスケジュール設定、モード変更等をスマートフォンから簡単に行えます。また、掃除経路をアプリ上に表示してどこを掃除したのか一目で確認することが可能です。",
+        "パッケージ内容：Eufy RoboVac G30 Hybrid、充電ステーション、ACアダプタ、サイドブラシ、清掃ツール、水タンク、モッピングクロス、防水パッド、取扱説明書"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 1623,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HLG476R4",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:52:32+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08RJCNW81",
+      "title": "Anker Eufy (ユーフィ) RoboVac G30 (ロボット掃除機)【スマート・ダイナミック・ナビゲーション 2.0 / Wi-Fi対応/超薄型/強力吸引/自動充電/BoostIQ搭載】 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B08RJCNW81?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08RJCNW81?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71zBXcaTy0S._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "スマート・ダイナミック・ナビゲーション 2.0：ジャイロセンサーと加速度センサーに加えPathトラッキングセンサーを搭載し、より正確な経路で部屋の隅々まで掃除できます。",
+        "スリムでもパワフルな吸引力：厚さ約7cmの薄型設計ながら、パワフルな吸引力で部屋の隅々までしっかりと掃除します。",
+        "便利なアプリ機能：掃除の開始・終了のコントロールやスケジュール設定、モード変更等をEufy Cleanアプリから簡単に行えます。また、掃除経路を表示してどこを掃除したのか確認することが可能です。",
+        "BoostIQテクノロジー：Eufyの独自技術BoostIQテクノロジーにより、カーペットのような強い吸引が必要な場面で、自動的に吸引力を引き上げます。",
+        "パッケージ内容：Eufy RoboVac G30、充電ステーション、ACアダプタ、サイドブラシ、清掃ツール、取扱説明書、技適マーク認証済み商品（周波数帯：2412MHz～2472MHz）"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 981,
+      "star_rating": 4.4,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:52:40+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09C1V9RCD",
+      "title": "Anker Eufy RoboVac X8 Hybrid （ロボット掃除機）【水拭き両用/世界初デュアルタービン搭載 強力吸引/AIマッピング 掃除経路確認/アプリ操作/落下・衝突防止/静音設計/自動充電/Alexa対応 / 最大24ヶ月保証】ブラック",
+      "url": "https://www.amazon.co.jp/dp/B09C1V9RCD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09C1V9RCD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81rj5XtLO7L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "予約タイマー"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 258,
+      "star_rating": 4.2,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:52:47+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B6VKL514",
+      "title": "Lefant M1 ロボット掃除機【水拭き両用・LDSレーザーセンサー・複数フロアのマップ マッピング機能・3D高精度障害物検知・4000Pa吸引・静音・自動充電・落下防止 衝突防止・Wi-Fi接続・APP遠隔操作 段差乗り越え お掃除ロボット】ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0B6VKL514?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B6VKL514?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61TAgCzTtGL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "お掃除ロボットは、3段階クリーニングシステムと4000paの強力な吸引力、部屋のすみずみまで楽に掃け。",
+        "吸引&amp;水拭きの2-in-1モデル：吸引による掃除に加え、フローリングへの拭き掃除が可能な水拭き機能を搭載しています。環境や目的に合わせてモードを使い分けることで、あなたの家の床をピカピカに保ちます。",
+        "リアルタイムマッピング機能：AIテクノロジーを搭載することにより、リアルタイムに部屋の形をマッピングし、⾃ら経路を設計し掃除を⾏います。ロボット掃除機最が大5つのマップを保存可能ので、フロアを変更するたびにマップを繰り返し構築する必要がありません。",
+        "最先端のレーザーナビゲーション：レーザーナビゲーションシステムにより、レーザーを射出して部屋の形を認識し、複雑な間取りでも漏れなく掃除できます。部屋の状況によらず正確な走行が可能です。",
+        "【パッケージ内容】Lefant M1、充電ステーション、AC アダプタ、サイドブラシ、清掃ツール、 洗って繰り返し使えるモップ(2枚)、取扱説明書、技適マーク認証済み商品（周波数帯：2412MHz～2472MHz）"
+      ],
+      "maker": "Lefant",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 27,
+      "star_rating": 3.6,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:52:54+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B7J9LTP1",
+      "title": "Anker eufy Clean (ユーフィクリーン) G40 Hybrid+ (ロボット掃除機) 【60日間ゴミ捨て不要 / 自動ゴミ収集ステーション / 水拭き両用 / 最大24ヶ月保証】",
+      "url": "https://www.amazon.co.jp/dp/B0B7J9LTP1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B7J9LTP1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/714kIJJoqwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "段差乗り越え"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 121,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:53:04+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CPHYJRRP",
+      "title": "Anker Eufy (ユーフィ) X10 Pro Omni (ロボット掃除機) 【加圧式デュアル回転モップ搭載/自動ゴミ収集ステーション/モップの自動洗浄・乾燥機能付き/毛絡み除去システム/モップリフト/水拭き両用/AIマッピング 掃除経路確認/AIカメラ搭載 障害物回避/アプリ操作/落下・衝突防止】ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CPHYJRRP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CPHYJRRP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71acuqJY4vL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "欲しい機能のすべてがここに：吸引や水拭き掃除だけでなく、Eufy初の全自動クリーニングステーション付属で、ゴミ収集からモップ洗浄・乾燥までができる、欲しい機能をすべて詰め込んだAnkerの定番 &amp; 人気モデル。",
+        "驚異的な掃除力：最大8000Paで、パワフルに吸引掃除します。加えて、約1kgの圧を加えて「押して拭く」加圧式デュアル回転モップにより、まるで雑巾がけをするように水拭きが可能です。",
+        "人間のような賢さ：Anker独自のAI.Seeシステムで障害物を回避します※。初搭載の「エッジモード」で届きにくい壁際も水拭き可能。また、「モップ自動リフトアップ」機能でカーペットを濡らしません。※障害物回避機能の認識精度は使用環境や物体によって異なる場合があります。",
+        "セルフクリーニング：Eufy初の「全自動クリーニングステーション」を付属。ゴミの自動収集からモップの洗浄・乾燥までを行います。ブラシに毛が絡まりにくい「毛がらみ除去システム」でお手入れも簡単です。",
+        "パッケージ内容：X10 Pro Omni、全自動クリーニングステーション、電源コード、クイックスタートガイド、安全マニュアル (※ダストバッグ×1枚、モップパッド×2枚、フィルター×1枚が本体に搭載されています。)",
+        "※本体のバンパー横にある緩衝材と、カメラやセンサーの保護シートを取り除いてからご使用ください。"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 2118,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H9PRNTN1",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:53:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CPYBYCVG",
+      "title": "Anker Eufy (ユーフィ) Robot Vacuum Omni S1 Pro (ロボット掃除機) 【回転加圧式ローラー型モップ搭載/自動ゴミ収集ステーション/モップの自動洗浄・乾燥機能付き/モップリフト/洗剤自動投入/水拭き両用/AIマッピング 掃除経路確認/AIカメラ搭載 障害物回避/アプリ操作/落下・衝突防止 / 最大24ヶ月保証】",
+      "url": "https://www.amazon.co.jp/dp/B0CPYBYCVG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CPYBYCVG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61SaDRBYYPL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "これまでにない最高の機能美へ：究極の掃除性能、完成された美しい動き。全自動で常に清潔を保ち、床を驚くほどに美しく掃除する。これまでにない究極の掃除体験を、この一台で。",
+        "驚くほど美しい床に：水拭き掃除をしながらモップの汚れを本体内で洗浄する「Always-Clean Mop」を搭載し、モップの汚れを広げず掃除可能。約1kgのモップ加圧でこびりついた床の汚れも綺麗に。最大8000Paの吸引力でカーペットの奥の毛やホコリまで吸引。",
+        "完成された美しい動き：自動運転やドローンに使用される3D技術を応用した「3D MatrixEye」によりEufy最高レベルの障害物回避性能を実現。間取りを高速かつ高精度に検出可能なdToF LiDARを搭載した「TrueCourseマッピング」により、部屋の隅々まで漏れなく・効率の良い掃除経路を自ら設計。",
+        "常に清潔で美しく：全自動クリーニングステーションを付属し、モップ洗浄・乾燥や掃除後のゴミ収集まで全自動で完結。浄水タンク内で生成されるオゾン水を使用し、床やモップの除菌まで可能。",
+        "洗練されたデザイン：本体は隅まで掃除できる美しい曲線を用いたスクエアボディ。ステーションは液晶パネルを搭載しており、視認性と操作性の両方を追及。機能性と美しさを両立する洗練された製品デザインを実現。",
+        "パッケージ内容：Eufy Robot Vacuum Omni S1 Pro、全自動クリーニングステーション、電源コード、サイドブラシ2本×2、フロアクリーナー、交換用回転モップ、交換用ダストバッグ、交換用フィルター、清掃ツール、クイックスタートガイド、安全マニュアル (※フィルター×1枚、回転モップ×1本、ダストバッグ×1枚が本体・ステーションに搭載されています。)",
+        "※家具の下での引っ掛かり等を防ぐため、約11cm以下の家具の高さでは感度センサーが働き、隙間に進入できない場合がございます。感度センサーの強さはアプリの設定によって調節可能です。"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 128,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:53:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DFWFXKT4",
+      "title": "【3in1、超小型】 SwitchBot ロボット掃除機 K10+ProCombo コードレス掃除機 - 軽量 20000pa 自動ゴミ収集 使い捨てシート/水拭き/静音/置くだけで充電/障害物回避/禁止エリア/スティック/ハンディ/4種類ノズル スイッチボット Alexa 音声対応",
+      "url": "https://www.amazon.co.jp/dp/B0DFWFXKT4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DFWFXKT4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61TOmi94e8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【お掃除のすべてを1台に集約した3in1設計】ロボット+スティックが1つのステーションに。A4サイズにすっぽり収まる省スペース設計で、家まるごとのお掃除を「これ1台」で完結。",
+        "【世界最小級ロボット掃除機】外出中や忙しいときは、ロボット掃除機に全部おまかせ。直径24.8cmのコンパクトボディで狭い空間もスイスイ潜り込んでお掃除。3000Paパワフルな吸引力でカーペットの奥に潜む毛やゴミもしっかり吸引し、仕上げはお掃除シートで拭き上げます。",
+        "【コードレス掃除機】最長稼働時間41分、4つのノズルとブラシ（床用・2Way隙間用・すき間用・ダニ取り）付きで、床やカーペットはもちろん、ソファのすき間やカーテンの表面なども、自在に掃除できます。家具の上や窓枠、階段などロボットでは届かない場所や、週末の細やかな掃除にはスティックを。床から天井まで部屋の隅々までキレイを実現します。",
+        "【デュアル集塵ステーション】ロボットも、スティックも、集じんは全自動です。FusionBaseでロボットとスティック両方の集じんと充電を1台のステーションで行います。3Lの抗菌紙パックで、面倒なゴミ捨ては70日に1回でOK。",
+        "【省スペース設計】A4サイズのわずかなスペースに、ロボット掃除機とスティッククリーナーが収まっています。ワンルームのアパートや物が多いご家庭でも気にせずお使いいただけます。",
+        "【1.17kgの超軽量設計】コードレス掃除機はわずか1.17kgと非常に軽量で扱いやすいです。ロボットも2.3kgで、片手に持って2階、3階へ。一戸建てのお掃除でも楽々移動できてストレスなくお掃除いただけます。*ブラシやノズル、ヘッドの重さは含まれません。",
+        "【高い静音性でご近所迷惑にならない】SilenTech技術でロボットの騒音レベルは図書館の静かさも凌ぐ45dB、スティックの騒音レベルは一般的な掃除機と比べて10dBカット、アパート暮らしや忙しくて夜間しか使えない方でも、時間帯を気にせず静かにお掃除可能。なお、「おやすみモード」を搭載し、ゴミの吸い上げ禁止時間を指定できます。",
+        "【お手入れ簡単】3L抗菌紙パックなのでホコリが舞ったり手で直接触れることもなく、イヤな臭いやアレルゲンが拡散する心配も不要。ロボット掃除機には純ゴム製ブラシを使用し、長い毛が絡まりにくく、コードレス掃除機にはV字型ブラシを採用し、42本の歯が櫛のように巻き取った毛を梳かし絡まりにくくします。ペットのいる家庭におすすめです。",
+        "【驚きの清掃力】コードレス掃除機の吸引力は最大20000Pa。たった1往復で床のゴミを99.7％も吸引します。さらに、緑のLEDライト付きで、目に見えないホコリまで徹底的な清掃が可能。ロボット掃除機も、掻きとる→巻き上げる→吸い込む→回収の4ステップの「吸引ループ」で、奥に潜んだゴミも逃がさず吸引します。"
+      ],
+      "maker": "SwitchBot",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 135,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GWLBFB45",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:53:27+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DKF1HCFF",
+      "title": "Anker Eufy (ユーフィ) Robot Vacuum Omni C20 (ロボット掃除機) 【加圧式デュアル回転モップ搭載/自動ゴミ収集ステーション/モップの自動洗浄・乾燥機能付き/毛絡み除去システム/モップリフト/水拭き両用/マッピング 掃除経路確認/アプリ操作/落下・衝突防止 / 最大24ヶ月保証】",
+      "url": "https://www.amazon.co.jp/dp/B0DKF1HCFF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DKF1HCFF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/511CEzPJrHL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "コンパクトを超えた、インパクト：コンパクトな全自動クリーニングステーション付属で、ゴミ収集からモップ洗浄・乾燥まで任せられる、欲しい機能をすべて備えたEufy全自動クリーニング掃除機シリーズのライトモデル。",
+        "まるで人の手で掃除したような綺麗な床へ：7000Paの強力な吸引力に加えて、加圧式デュアル回転モップを搭載。約0.6kgの圧力で「押して拭く」ことが可能なため、まるで人の手で水拭きしたような掃除を実現します。",
+        "薄型ボディで狭い空間も清潔に：約8.5cmの薄型のボディで、ソファやベッドなど家具下の狭い空間にも入り込み、手の届きにくいところも隈なく清掃します。",
+        "iPathレーザーナビゲーション搭載：iPathレーザーナビゲーション技術により掃除に最適なルートを作成し、お部屋を効率的に掃除します。",
+        "独自の毛がらみ除去システム搭載：回転ブラシが前後に回転し、ブラシに内蔵された櫛がからまった毛をほぐすことで毛のからみを除去。",
+        "パッケージ内容：Eufy Robot Vacuum Omni C20、全自動クリーニングステーション (ダストバッグ付き ) 、クイックスタートガイド、安全マニュアル",
+        "※本製品は障害物回避機能を搭載しておりません。ご使用の際はお部屋の障害物となるものを片付けてから使用してください。",
+        "※マップ作成中や掃除中に位置の特定のため本体が頻繁に回転を行います。故障ではございませんので安心してご使用ください。"
+      ],
+      "maker": "Anker",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 114,
+      "star_rating": 4.0,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:53:37+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F52LY7SH",
+      "title": "MOVA E20 Plus ロボット掃除機 コンパクト 水拭き対応 強力吸引 5000Pa 90日間自動ゴミ収集 LDSレーザーナビ AI汚れ自動検知 水量調整可能 段差乗り越え 障害物回避 静音 高精度マッピング アプリ対応 自動充電 2.4GWi-Fi対応 1年メーカー保証 Movaのストアを表示",
+      "url": "https://www.amazon.co.jp/dp/B0F52LY7SH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F52LY7SH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61cTh8+z5BL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【完全自動で手間いらず】自動集塵、モップ洗浄、自動乾燥の3つの機能が1つのステーションに集約され、日々の掃除を劇的に効率化。大容量ダストバッグは最大90日間ゴミ捨て不要で、忙しい日常でも手軽にお部屋をピカピカに保てます。さらに、4Lの大容量浄水タンクは1回の給水で最大120㎡の水拭きが可能。モップは自動で洗浄・乾燥され、セルフメンテナンスも簡単。お部屋をいつも清潔に、手間をかけずにキープできます。",
+        "【圧倒的な7,000PaのVormax吸引力】7,000PaのVormax強力吸引で、フローリングやカーペット上のホコリ、髪の毛、ペットの毛、小さな粒子までしっかり吸引。大容量ダストパックがゴミの取り替え頻度を大幅に減少させ、さらにモップ掛け機能との同時使用で、床の汚れを徹底的に取り除き、ピカピカの状態を実現します。掃除の手間がかからず、いつでも快適な空間が保てます。",
+        "【隅々まで届くRoboSwing技術】RoboSwing技術と強力な双盤モップにより、通常の掃除ロボットでは難しい部屋の隅や家具の足元、細かな場所までしっかりとクリーニング。双盤モップの高速回転力で、頑固な汚れやシミも簡単に除去。さらに、超音波センサーがカーペットを感知すると、自動でモップを10.5mm持ち上げ、カーペットを傷つけることなく、吸引ブーストで奥深くのゴミまでしっかりと吸い取ります。部屋全体を見逃すことなく隅々まで効率よく清掃し、快適で清潔な住環境を維持します。",
+        "【スマートなカーペット掃除】E30 Ultraはモップリフトアップ機能、超音波カーペット認識、カーペット吸引ブースト機能を組み合わせ、最適な清掃プランを提供。手間をかけず、カーペットもフローリングも美しく保つことができます。",
+        "【360° LDSレーザーナビゲーション】最新のLDSレーザーナビゲーション技術により、部屋全体を360°高速スキャン。正確なマッピングとAIアルゴリズムが最短ルートで効率的な清掃を計画し、家具や障害物をしっかり回避しながらスムーズに作業を進めます。中断することなく、どんなレイアウトの部屋でも自動で完璧に清掃します。",
+        "【スマホアプリで遠隔操作＆カスタマイズ】MOVA専用アプリを使えば、外出先からでもロボットを自在にコントロール可能。清掃スケジュールの設定や進行状況のリアルタイム確認、特定の部屋やエリアの掃除指定もアプリで簡単に。あなたのライフスタイルに合わせた最適な清掃を実現し、手軽に快適な生活空間を提供します。",
+        "【3年間安心保証！】これまでの1年保証に加え、新たに2年保証を追加。合計3年間の保証を提供します！"
+      ],
+      "maker": "MOVA",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 21,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0GX5N4M23",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:53:54+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F66LKTV6",
+      "title": "【ローラー式強力モップ】ECOVACS (エコバックス) DEEBOT T80 OMNI 吸引力18000Pa ロボット掃除機 水拭き両用 自動ゴミ収集 エッジ清掃 ローラーモップ AI認識 毛絡み除去システム3.0 全自動 モップ乾燥 自動給水 モップ温水洗浄 マッピング AI障害物回避 ゼロタングル アプリ操作 落下防止システム Alexa対応 清掃予約 お掃除ロボット",
+      "url": "https://www.amazon.co.jp/dp/B0F66LKTV6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F66LKTV6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61H9JF-kJsL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【強力モップで徹底洗浄＆常に清潔】 3700Paの圧力と毎分200回の高速スクラブで床の汚れをしっかり除去。16倍※の洗浄力でモップが汚れに集中アプローチ。汚水は自動で排出され、清水で常にモップを洗浄。拭きムラや再汚染も防ぎ、毎回クリーンなお掃除が叶います。 ※一般的な二重プレートモップと比べたECOVACS社内試験結果に基づく。",
+        "【壁際もコーナーも99％しっかり清掃】 TruEdge 2.0でモップが自動で伸び、壁際やコーナーにしっかり密着。強化されたアルゴリズムと3Dエッジセンサーが複雑な形状にも正確に対応し、衝突を回避。さらに、連続可変ローラーモップと安定構造のサイドブラシが、狭い隅々までしっかりカバー。エッジ清掃の性能が大幅に進化し、99％の清掃カバー率を実現！",
+        "【髪の毛の絡まりを防ぎメンテナンスもラクに】 ZeroTangle 3.0と進化したARCleanブラシで髪の毛の絡まりを防止。カーブ形状のサイドブラシと45°V字型ブラシ、スパイラル構造のメインブラシが、絡まりをほぐしながら吸引力をキープ。掃除中のストレスを減らし、面倒なメンテナンスもぐっと楽に。清潔な床を毎日かんたんに楽しめます。",
+        "【カーペットもプロ級に賢く対応】 カーペットファースト機能で濡れや汚れを防止。TruEdge 3Dエッジセンサーが端まで正確にナビゲートし、多様なカーペット形状を自動認識。設定に応じて「吸引のみ」「進入禁止」「通過のみ」「床と同様」など最適モードへ自動切替。1枚ごとの状態に合わせて、プロのようなきめ細かい掃除を実現します。",
+        "【AIでぶつからず、もっと賢くキレイに】 DEEBOTはスマートに清掃ルートを計画し、効率的で快適なお掃除体験を実現。AIVI 3D 3.0テクノロジーとVLMによる高精度な物体認識で、複雑な壁際でも衝突せずにスムーズに対応。AIが汚れや障害物、環境の変化をリアルタイムで把握し、自動で戦略を調整。高い清掃カバー率と障害物回避の両立を叶えます。"
+      ],
+      "maker": "ECOVACS",
+      "query": "codex_20261027_robot_vacuum",
+      "queries_matched": [
+        "codex_20261027_robot_vacuum"
+      ],
+      "review_count": 788,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": null,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HHD5RBS6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:54:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "shared/db/product.sqlite"
+  },
+  "measurement_checkpointed_at": "2026-10-09T09:54:31+09:00",
+  "parent_pruned_asins": [
+    "B0F2MZF2MT",
+    "B0C4NN6GGY",
+    "B0F32SK8QX",
+    "B0F7GGN94D",
+    "B0F9JGVSDX",
+    "B0FX7M29RP"
+  ]
+}

@@ -1,0 +1,32 @@
+
+候補 21 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B08HDL3XJR  reMarkable     reMarkable スターターバンドル – reMarkable 2はオリジナルペーパータブレットです [article_dated 2026-10-20]
+  B09988GM1B  FMV            【公式】富士通 13.3型フレキシブル電子ペーパー QUADERNO A4サイズ / FMVDP41 ホ [article_dated 2026-10-20]
+  B09989LKD4  富士通            【公式】富士通 10.3型フレキシブル電子ペーパー QUADERNO A5サイズ / FMVDP51 ホ [article_dated 2026-10-20]
+  B08BP625V6  FMV            【公式】富士通 13.3型フレキシブル電子ペーパー QUADERNO A4サイズ / FMV-DPP03 [article_dated 2026-10-20]
+  B0DX1TFTY1  iFLYTEK        iFLYTEK AINOTE Air 2 電子ノート 8.2インチ E-Ink タブレット 黒色保護ケー [article_dated 2026-09-21]
+  B0FHGXG7SN  iFLYTEK        iFLYTEK AINOTE Air 2 電子ノート ChatGPT搭載 手書きタブレット 紺色保護ケー [article_dated 2026-04-05]
+  B0DWMVW8RS  iFLYTEK        iFLYTEK AINOTE Air 2 電子ノート 8.2インチ E-Ink タブレット ChatGP [article_dated 2026-10-20]
+  B0CZ9SX1GW  Amazon         Kindle Scribe Notebook Design - 10.2インチディスプレイ、64GBスト [article_dated 2026-04-05]
+  B0F13GMDWS  XPPen          【XPPen新登場】タブレット 手書き ノート 11インチ 充電不要 X3 Proペン付 16384筆圧 [article_dated 2026-09-13]
+  B0FY2Q49WD  iFLYTEK        iFLYTEK AINOTE 2 電子ノート 10.65インチ 超薄型4.2mm E-Ink タブレット [article_dated 2026-09-21]
+  B077NSWLH2  reMarkable     reMarkable(リマーカブル) - ペーパータブレット- 10.3インチデジタルメモ帳 低レイテン [未実測]
+  B08BP6J3PJ  富士通            【公式】富士通 10.3型フレキシブル電子ペーパー QUADERNO A5サイズ / FMV-DPP04 [未実測]
+  B0DG9VSBLS  reMarkable     reMarkable Paper Pro マーカープラスとブラックレザーブックフォリオ付き [未実測]
+  B0DGBDR2PM  reMarkable     reMarkable Paper Proバンドル – モザイク織り | 11.8インチのリマーク可能なペ [未実測]
+  B0DHGDV8F8  BOOX           BOOX Note Air 4 C (10.3インチ, カラーE Ink) [未実測]
+  B0FMS56K28  reMarkable     reMarkable Paper Pro Move マーカープラスと玄武岩ブックフォリオ付き [未実測]
+  B0FMS6VN19  reMarkable     reMarkable Paper Pro Move マーカープラスとブラックレザーブックフォリオ付き [未実測]
+  B0FMS91Z9M  reMarkable     reMarkable Paper Pro Move | ウルトラポータブルカラー7.3インチペーパータブ [未実測]
+  B0GVK8BHV9  reMarkable     reMarkable Paper Pure マーカープラスとオーシャンブルースリーブフォリオ [未実測]
+  B0GVKBLJK2  reMarkable     reMarkable Paper Pure マーカー付き [未実測]
+  B0GZVHF79R  Plimpton       Plimpton 電子ノート タブレット 8インチ 手書き デジタルノート 電子メモ Android 1 [未実測]
+
+topic_id: daily_gadget_20261120_a3ee9397
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-20_digital_notebook_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-20_digital_notebook_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

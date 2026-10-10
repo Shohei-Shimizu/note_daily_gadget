@@ -1,0 +1,886 @@
+{
+  "generated_at": "2026-10-08T23:47:12+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261017_45aac013",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261017_smartwatch"
+  ],
+  "fetched_count": 36,
+  "dedup_count": 23,
+  "candidates": [
+    {
+      "asin": "B0DFZPR9Z4",
+      "title": "シャオミ(Xiaomi) スマートウォッチ Redmi Watch 5 Active 2インチ大画面ディスプレイ 18日間長持ちバッテリー Bluetooth 通話対応 24時間心拍数モニタリング Alexa対応 ミッドナイトブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DFZPR9Z4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DFZPR9Z4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/6114L0DOW2L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【見やすい２インチの大型液晶ディスプレイ】スクエア型 2インチLCD（液晶）ディスプレイを搭載し、70%を超える画面占有率で、鮮やかに大きく表示します。上質なスタイルとなめらかな肌触りを持った、マット仕上げのフレームを採用。美しさとエレガンスさを兼ね備えたミニマルなデザインのミッドナイトブラックとマットシルバーの２色展開です。",
+        "【デュアルマイクで離してもクリアな通話】Bluetooth通話機能、デュアルマイクノイズキャンセリング機能、80cm*指向性周音機能により、クリアで柔軟な通話が可能です。",
+        "【1回の充電で最大18日間のバッテリー持続】標準使用モードでのバッテリー持続時間が最大18日間の470mAhバッテリーを搭載しており、アウトドアや旅行の際に頻繁な充電は必要ありません。",
+        "【140種類以上のワークアウトモードで、データに基づくトレーニング】140種類を超えるワークアウトモードをサポートし、ランニング、ウォーキング、サイクリング、エリプティカル、ローイング、縄跳びなどのアクティビティを自動的に検知します。終日ストレスや活力スコアなどの健康指標を正確に追跡することで、データに基づいた効果的なワークアウトを可能にします。",
+        "【ATMの防水性能で安心】日常の使用に対応できる5ATMの防水性能を備えており、小雨の時も手を洗う時も安心です。"
+      ],
+      "maker": "Xiaomi",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 28854,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0HDXJFRGN",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:47:31+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DYF82545",
+      "title": "Xiaomi Smart Band 10 スマートウォッチ 1.72大画面体験 21日間連続使用 輝度1500nits 視認性 強化されたスイミングモード 9軸モーションセンサー搭載 24時間健康管理 睡眠モニタリングアップデート スマートバンド 着信通知・LINEアプリ通知 iPhone&Android対応 ミッドナイトブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DYF82545?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DYF82545?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/513PR-tfExL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【没入感を極めた大画面体験】1.72インチの有機EL（AMOLED）大画面ディスプレイを搭載。わずか2.0mmの極薄ベゼルにより画面占有率は65.6％から73％へと大幅に向上し、表示エリアは前世代比で＋11％拡大。薄型・軽量設計で、腕時計デジタルとして毎日快適に装着できます。ディスプレイの明るさは前世代比25％アップし、最大1500nitsの高輝度により、直射日光の下でもメッセージや通知をはっきり確認できます。",
+        "【大容量バッテリーで21日間連続使用】アップグレードされた低消費電力ハードウェアと省電力システムにより、最大21日間のロングバッテリーを実現。頻繁な充電の手間なく、毎日の生活やスポーツを快適にサポートします。",
+        "【ランニングや水泳にも対応するヘルスウォッチ】高精度な9軸モーションセンサーを搭載し、運動や健康データをより正確に計測します。ランニングウォッチとしてはもちろん、150種類以上の運動モードに対応。歩数計・万歩計・活動量計として日々の運動をサポートし、心拍数もリアルタイムで測定可能。防水設計に加え、サイクリングや水泳など様々なスポーツシーンで活躍します。",
+        "【スマートバンド睡眠モニタリング2.0】入眠・覚醒の検出精度がさらに向上し、毎日・毎週・毎月の睡眠データをわかりやすく表示します。過去の睡眠データに基づき、専門機関との連携による睡眠改善アドバイスも提供。さらに、睡眠・血中酸素レベル・心拍数・ストレスを24時間モニタリングし、毎日の健康管理をサポートします。",
+        "【HyperOS 2.0 新次元のデバイス連携】iPhone・アンドロイド対応で、LINE着信通知やメッセージ通知を手元で確認。イヤホンのバッテリー残量確認、音量調整、ノイズキャンセリングモードの切り替え、リモートカメラ操作など、シームレスなデバイス連携を実現します。さらに、振動目覚まし、天気予報、200種類の文字盤、ベルト交換にも対応。パズルやシューティングゲームなどを楽しめるウォッチフェイスも充実しており、機能性と遊び心を兼ね備えたスマートバンドです。"
+      ],
+      "maker": "Xiaomi",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 14665,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H8Y7VTZY",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:47:41+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D98HTWRR",
+      "title": "Xiaomi Smart Band 9 スマートウォッチ 21日間連続使用 ディスプレイ輝度強化 環境光センサー搭載 クイックリリース構造 150種類スポーツモード スマートバンド 着信通知・LINEアプリ通知 iPhone&Android対応 グレイシャーシルバー",
+      "url": "https://www.amazon.co.jp/dp/B0D98HTWRR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D98HTWRR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51jgLtfyBFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【カラフルでプレミアムメタルフレーム】ミッドナイトブラック、グレイシャーシルバー、ミスティックローズ、アークティックブルーなどの異なるカラーのアルミニウム合金フレームを採用しています。多彩なスタイリッシュなストラップと組み合わせることで、腕を振るたびに自分らしさをアピールできます。本体はわずか約15.8gの軽さで、一日中付けても手首に負担がかかりません。クイックリリース構造を引き継がれており、かつ前世代のストラップにも対応する高い互換性があります。※サウナや温泉などの高温環境での使用はお控えください。",
+        "【大容量バッテリーで21日間の連続使用】プロフェッショナルな低消費電力センサーとインテリジェントなバッテリー管理アルゴリズムを採用したXiaomi Smart Band 9は、標準的な使用モードで21日間の超長寿命バッテリーを実現しました。",
+        "【より明るく、美しいディスプレイ】最大輝度1200nitsの明るいディスプレイを搭載。明るい屋外でも見やすく、高精度の環境光センサーによりディスプレイの明るさも自動的に調整され、バッテリー効率を向上。さらに、スマートウォッチに使用されるリニアバイブレーションモーターを新たに搭載。通知によるすべてのバイブレーションがより繊細になり、ユーザーが見えないところに高級感を追求しました。",
+        "【健康状態と運動を一日中モニタリング】150以上のスポーツモードを搭載し、軽量デザインでありながら、運動した後の最大酸素摂取量、回復時間、トレーニングパフォーマンス、トレーニングレベルなどを高度なアルゴリズムでサポート。また、Xiaomi Smart Band 9は優れたランニング機能を搭載し、ウォーキングから強度高めな有酸素運動まで、10種類のランニングモードをサポート。さらに、装着が簡単になった新たなXiaomi ランニングクリップを使用することでケイデンスやストライドなど、13種類のデータをトラッキングしMi Fitnessアプリで確認することができます。",
+        "【快眠をサポートする睡眠モニタリング】高精度のセンサーにより、睡眠のステージをより正確に把握することができます。睡眠中の心拍数や血中酸素濃度レベルの情報も詳細に見ることができます。長期間の睡眠サイクルを記録します。Mi Fitnessアプリでの睡眠サイクルデータを参考にして、自分の睡眠習慣やパターンをより良く理解するのに役立てることができます。"
+      ],
+      "maker": "Xiaomi",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 10535,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0F3WPHDCD",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:47:48+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DK6ZC5ZC",
+      "title": "シャオミ(Xiaomi) スマートウォッチ Xiaomi Band 9 Active 18日間連続使用 1.47インチTFTディスプレイ 24時間健康管理 チップ強化 軽量デザイン 交換可能なフレーム iPhone & Android対応 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DK6ZC5ZC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DK6ZC5ZC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51MBpxAyn1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【1.47インチの液晶ディスプレイと9.99mmの薄型軽量設計】1.47インチの大型液晶ディスプレイを採用。表示領域が大きいため、より多くの機能、情報、コンテンツを見やすく表示できます。また、軽量でスリムな9.99mmボディであるため、仕事や運動、睡眠のあらゆるシーンで付けていることを感じさせず、快適な装着感を提供します。",
+        "【最大18日間持続可能な長時間バッテリー搭載】通常使用であれば、バッテリー持続が前モデルより4日間長くなり、最大18日間に実現し、頻繁な充電ストレスから解放されます。",
+        "【50種類のスポーツモードと5ATMの防水規格に対応】50種類のスポーツモードを搭載しているため、様々なスポーツシーンに対応することができます。運動時間と消費カロリーを正確に記録し、運動をより充実したものにします。また、50mの潜水にも耐える5ATMの防水性能により、泳ぐ際も外す必要がありません。",
+        "【24時間健康管理】心拍数や睡眠など、一日の健康状態をモニタリングすることができるため、健康状態をリアルタイムで正確に把握することができます。科学的な睡眠モニタリングテクノロジーにより、深い眠り、浅い眠り、レム睡眠など、さまざまな段階の睡眠状態を一日中記録し、睡眠の習慣と質の向上をサポートします。",
+        "【カラフルなストラップと100種類以上のウォッチフェイス】バックルデザインは上質で美しいスタイリッシュなデザインで簡単に装着することができ、スタイルに合わせて個性を表現することができます。また、100種類以上のウォッチフェイスから自由に変更することができるため、好みに合わせストラップとともにカスタマイズをお楽しみください。"
+      ],
+      "maker": "Xiaomi",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 10220,
+      "star_rating": 3.7,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0HGX6PX2S",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:47:56+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B75RC9C3",
+      "title": "Fitbit Inspire 3 フィットネストラッカ― ミッドナイトゼン／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]",
+      "url": "https://www.amazon.co.jp/dp/B0B75RC9C3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B75RC9C3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61JL0ccPltL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【最大10日間のバッテリーライフ】バッテリーは1週間以上持続。【高/低心拍数の通知】安静時の心拍数が通常の範囲から外れた場合に、Fitbitがお知らせします。※本商品は医療機器ではありません。",
+        "【運動リマインダー】長時間座りっぱなしになっていませんか？手首のFitbitデバイスが振動して、ウォーキングを促してくれます。【着信、テキストメッセージの受信、アプリ通知を表示】Fitbitデバイスを一目見るだけで、最新情報を確認。スマートフォンを取り出す必要がないため、今ここに集中できます。スマートフォンが近くにある場合に利用可能です。",
+        "【月経に関する記録】Inspire 3とFitbitアプリを利用して、生理や症状の記録、排卵時期の推定、月経周期パターンの把握ができます。【スマートアラーム】最適な睡眠ステージでFitbitデバイスが振動。すっきりとした気分で目覚めて、一日を始められます。",
+        "【Fitbitアプリ】エクササイズから、睡眠や食事の記録、健康指標の確認、ワークアウト動画や瞑想コンテンツの利用まですべてアプリで可能です。",
+        "【アクセサリー＆クロックフェイス（文字盤）】ベルトや文字盤を交換して、常に新鮮な気分で楽しめます。クリップホルダーを使えば、Inspire 3をシャツやポケット、タンクトップに装着できます。アクセサリーは別売りです。"
+      ],
+      "maker": "Fitbit",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 8838,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "health_tracker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0CT8X4Z67",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:48:06+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B75W8FH2",
+      "title": "【Suica対応】Fitbit Sense 2スマートウォッチ シャドーグレー／グラファイト iPhone対応/アンドロイド対応/6日間以上のバッテリーライフ/Alexa搭載/GPS搭載/心拍計/睡眠スコア/ストレス計測 [日本正規品]",
+      "url": "https://www.amazon.co.jp/dp/B0B75W8FH2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B75W8FH2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61+0okwH30L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【健康の全体像を把握】アプリでFitbitのすべてのデータを確認可能。Premiumではアクティビティ、睡眠、ストレス、健康状態に関する個人別の分析から各自のパターンを把握できます。Premium限定のワークアウトやマインドフルネスの動画も用意されています。",
+        "【Suica対応】電車・バス等の利用でも、お気に入りの店舗での買い物でも、手首のスマートウォッチをタップするだけで、簡単にお支払いができます。【外出先でも情報を取得】スマートフォンの通知の受信、数百のアプリのダウンロード、お支払い、搭載の音声アシスタントの利用、クイック返信や音声返信。すべて手首のスマートウォッチから可能です。",
+        "【6日以上のバッテリーライフ】Sense 2のバッテリーライフは6日間以上。頻繁な充電を必要とせず、健康管理データを測定し続けます。急速充電なら、わずか12分間で1日分の充電が可能です。【自分らしく】数百種類の文字盤から選択して、お気に入りを5つまでスマートウォッチに保存可能。",
+        "【音声認識に依頼】Amazon Alexa搭載により、スマートウォッチに話しかけるだけ、質問、アラームの設定、天気のチェックなどが可能です。【すべてがアプリに】Fitbitアプリを使って、データや傾向、進捗状況を一箇所で確認。さらにPremiumに登録すると、個人別のガイダンスを取得できます。",
+        "【月経に関する記録】Fitbitアプリの月経周期トラッキング機能で、生理や症状などを記録できます。"
+      ],
+      "maker": "Fitbit",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 2941,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0BFZSTCV2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:48:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DFGDW4Y3",
+      "title": "【テストする女性誌「LDK」ベストバイ受賞】 MONOMAM Primo スマートウォッチ レディース 小さめ iPhone対応 アンドロイド対応 AMOLED 常時表示 ベルト幅18mm メンズ 活動量計 Line 着信通知 (Rose Beige)",
+      "url": "https://www.amazon.co.jp/dp/B0DFGDW4Y3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DFGDW4Y3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71csJb4W0xL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【より小さく、でもより良く】大人気だったP18シリーズがリニューアルし「Primo（プリモ）」に名前を変えて新登場。弊社のブランドスローガンである「more small but better（より小さく、でもより良く）」を体現した象徴的なモデルです。本当に必要な機能を、ちょうど良いサイズに詰めました。AMOLEDスクリーン搭載により、より画面は美しく。通話機能や音声アシスタント、AI壁紙を搭載してより便利になりました。必要な機能はもちろんながら「美しさ」と「機能性」を兼ね備えた1台が「MONOMAM」から登場です。 【Monomamオリジナルの豊富な壁紙】アプリを通じて100種類以上の壁紙が選択可能。デフォルトの壁紙に加え、自分の好きな写真も壁紙にできます。更に弊社公式インスタグラムで配布中のオリジナル壁紙もQRコードでダウンロードが可能です。その日の気分や天気、シーズンに合わせて楽しめる壁紙を毎週配信しています。また、スマホで今日の服装を撮影すればAIがあなたの服装に合わせたオリジナルの文字盤を作成してくれます。",
+        "【常時表示AMOLEDディスプレイ。どんな時でもサッと時間を確認】常時表示機能が搭載になりました。常時表示の表示方法は2つ、アナログとデジタル表示。アナログデザインが好きな方はアナログを、正確な分数まで確認したい方はデジタルを。常時表示にしたい時間帯も設定可能になりました。日中は常時表示をオンにすることでどの体勢からもですぐに時間が可能に。夜中は表示をオフにすることで穏やかな睡眠を。常時表示機能を搭載するだけではなく、その先の用途に拘りました。ディスプレイはハイランクのスマートウォッチに搭載されているAMOLEDディスプレイ。画面をずっと見ていたくなる感覚。お気に入りの写真を待ち受けにして楽しもう。",
+        "【主要機能】「メッセージ/着信通知（対応済みアプリ：LINE/着信/SMS/Facebook/X（Twitter）/Instagram/WhatsApp/WeChat/Skype/KaKaoTalk/QQ」「AMOLED常時表示ディスプレイ」「メッセージ/着信通知」「通話」「連絡先保存」「音声アシスタント」「ステップ数」「消費カロリー」「睡眠記録」「スポーツ測定」「天気予報」「音楽操作」「生理周期管理」「遠隔撮影」「ストップウォッチ」「タイマー」「アラーム」「計算機」「腕振り点灯」「スマートフォンを探す」「呼吸エクササイズ（リラックス）」「壁紙変更」「明るさ調整」「世界時計」「座りがち通知」他",
+        "【商品仕様】時計サイズ（縦*横*厚さ）：4.0 * 3.2 * 1.0cm、ベルト幅：18mm、腕周り：約14cm～21.5.cm（本体含む）、材質：Zinc alloy（亜鉛合金）+ABS、アプリ：Da FIt ※タブレット端末ではお使い頂けません。 互換性：Android4.4/IOS9.0以上、スクリーン：1,32Inc AMOLED、タッチタイプ：フルスクリーンタッチ、BTバージョン：5.0、Bluetooth伝送距離：約10m、バッテリー容量：235mAh、防水レベル：IP67、充電時間：約2時間、バッテリー持続時間：待機約30日間/通常使用約5-7日（※常時表示機能や24時間測定等を使用するとバッテリー持続時間が2日程度になります）",
+        "【備考欄】商品到着後、使用説明書を確認の上ご利用お願いします。スマートウォッチと接続する際は必ずアプリからBluetooth接続をお願い致します。直接スマートフォンと接続すると通知の不具合が起きる場合があります。/ LINE通話・メール返信には対応しておりません。/ バイブレーションの強弱の感じ方は個人差がございます。本機種は弱めに作られています。/ 本商品の歩数計は手首に巻く方式のトラッカーであり、歩いているであろう「動き」を拾って計測するため、利用状況によっては実際の歩数とズレが生じる場合があります。（あるいは他の運動と判断する）。/ アラーム機能は音が鳴るタイプとなります。ミュート、振動のみでのご利用はできません。/スマートウォッチの測定数値はあくまで参考値であり個⼈差があります。/ 落下による衝撃や水没等でセンサーやバッテリーに不具合が生じる可能性がございます。水環境でのご利用はお気をつけください。 / ベルトの色味に関しましてはご利用頂いているモニターによって見え方が変わる事がございます。"
+      ],
+      "maker": "MONOMAM",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 1187,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0DFFW9C5K",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:48:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F1XCKZYW",
+      "title": "Amazfit Bip 6 スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 ストレス 健康管理 140+スポーツモード ナビゲーション ルートインポート 14日間バッテリー持続 (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0F1XCKZYW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F1XCKZYW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71DrI8BZFTL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【スタイリッシュなデザイン、鮮やかな表示】アルミニウム合金フレーム、繊維強化ポリマーケース、通気性の高いリキッドシリコン製スポーツストラップを組み合わせたデザインで、ジムでもファッションコーディネートでもスタイリッシュに映えます。ピーク輝度2,000ニットの1.97インチ高解像度AMOLEDディスプレイは、明るい日光の下でもデータを簡単に読み取ることができます。",
+        "【14日間のロングバッテリー】フル充電で最大14日間のバッテリー寿命 (標準的な使用) をお楽しみください。頻繁に使用しても、時計は最大6日間持続し、GPSを連続使用して最大 32時間持続します。※バッテリー持続時間は、メーカーの設定した条件下で算出されたものです。機能の設定および使用回数、動作条件、その他の要因によって異なる場合があります。",
+        "【グレードアップした健康関連センサーとアルゴリズム】新搭載のBioTracker 6.0 PPG バイオセンサー (5PD+2LED) は、新しい心拍数および睡眠追跡アルゴリズムと連携して、高精度で重要な健康データを記録します。また、ストレスレベル、血中酸素レベル、月経周期を確認します。また、毎日のレディネススコアを取得して、精神的および身体的回復を把握し、状態に合わせて最適な一日を過ごすのに役立つ実用的なガイダンスも取得出来ます。※本製品は医療機器ではありません",
+        "【5衛星測位GPSシステムとオフラインマップ】5つの衛星測位システムをサポートし、円偏波アンテナ技術を使用して測位性能と精度を向上させます。Zeppアプリからオフラインマップまたはスキーマップを無料でインポートし、インポートしたルートファイルと組み合わせると、移動中に方向指示が表示されます。",
+        "【フィットネスのサポーター】140種類以上のスポーツモードから選択できます。Zepp Coach搭載で、パーソナライズされたAIコーチングを提供し、トレーニングプラン(3kフルマラソンランニングプランを含む) を生成し、プラン全体にわたって科学的なガイダンスを提供します。",
+        "【AI音声操作システム&amp;スマーなライフスタイル機能】Zepp Flowを使用すると、音声で時計を操作できます。WhatsAppなどのプラットフォームからのインスタントメッセージに音声テキストで返信することができます。(Androidのみ)。Zepp OSキーボードを使用して書面による返信を入力したり、内蔵マイクとスピーカーを使用してBluetooth通話を発信および受信したりできます。"
+      ],
+      "maker": "Amazfit",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 975,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0F1XHCVXL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:48:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09XGYX7JF",
+      "title": "GARMIN(ガーミン) vívosmart 5 Black S/M バンド型スマートウォッチ 【日本正規品】",
+      "url": "https://www.amazon.co.jp/dp/B09XGYX7JF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09XGYX7JF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51SGJ-YCV0L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "「Amazon.co.jpが販売、発送します」以外の認定ショップはメーカーサイトをご確認ください",
+        "※本製品の利用にはスマートフォンとの連携が必須となります。初期設定からスマートフォンとの連携によって利用開始が可能です。※【フィットするサイズ】S/Mサイズ:122-188 mm - Lサイズ/ 19.5 x 10.7 x 255 mm",
+        "稼働時間:最大約7日間(睡眠時トラッキングを使った場合を除く)",
+        "GPS機能:コネクテッドGPS ※本機能をご使用の際はスマートフォンが必要です。",
+        "主な機能:各種スマートフォンの通知連動 / 歩数計測 / 心拍計測 / bodybattery(体力数値)分析 / ストレス値分析 / 睡眠スコア分析",
+        "対象シーズン: オールシーズン",
+        "発売年・モデルイヤー: 2022"
+      ],
+      "maker": "GARMIN",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 901,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "health_tracker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B09YHKG66D",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:48:41+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CJFRY955",
+      "title": "GARMIN(ガーミン) vivoactive 5 Ivory/Cream Gold フィットネスGPSウォッチ 睡眠管理/フィットネス年齢/お昼寝検出/Suica対応/心拍センサー/ストレスレベル測定/iOS・アンドロイド対応 / 11日間のバッテリー持続時間 / スマートウォッチ【日本正規品】",
+      "url": "https://www.amazon.co.jp/dp/B0CJFRY955?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CJFRY955?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51L6dIJ9FlL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【メーカーサポートについて】販売元・発送元がAmazon.co.jpになっているカートから購入した商品は、正規品で一年保証の対象となります。他事業者が販売する同製品のサポートについては、各販売事業者にお問い合わせください。",
+        "【1度の充電によるバッテリー稼働時間】スマートウォッチモード:11日間 / GPSモード:約21時間 【手首周り適応サイズ】125-190mm【ディスプレイサイズ】1.2インチ(30.4mm)【ディスプレイ】高解像度なAMOLEDディスプレイで表示されます。",
+        "ガーミン製品のご購入時に同封されている充電ケーブル、または別途ご購入いただけるガーミン純正の充電ケーブル以外の充電ケーブルを用いてガーミン製品を充電された場合、どのような原因でガーミン製品に故障が発生したとしても保証の対象外となります。予めご了承ください。",
+        "【睡眠管理機能】睡眠コーチ付きの睡眠モニタリング:睡眠の質を100点満点で採点する「睡眠スコア」がわかるだけでなく、スコアを改善するために必要な睡眠時間や、睡眠を改善するあなたに合わせたアドバイスを受け取れます。",
+        "【スマートウォッチで自分を知ろう】心拍数やストレス計測、日々の体力が測定できるBodyBattery機能を搭載。お昼寝時間を検出可能になって、BodyBatteryの回復が反映されます。 自分を知ることで、より健康に、スマートに。",
+        "【マルチスポーツ機能】GPSを内蔵しているので、スマホ無しでもヨガ、フィットネス、ウォーキング、ランニング、ゴルフ、登山、マリンスポーツやスノースポーツ。いくつものスポーツに対応した機能を搭載。",
+        "【全ての人にスマートウォッチを】車いすモードを搭載し、車いすの方に合わせた運動量記録、ワークアウトが利用可能です。"
+      ],
+      "maker": "GARMIN",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 902,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "health_tracker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0CKHJNY4Y",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:48:50+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BWF4JPWS",
+      "title": "GARMIN(ガーミン)GPSランニングウォッチ Forerunner 265 Music 【ロングバッテリー/超軽量/高精度GPS/色鮮やかなAMOLEDタッチディスプレイ/アプリと連携してデータ管理/睡眠スコア・Body Battery計測/Music保存機能 有・無/Android/iOS対応/Suica機能搭載/防水/日本正規品】",
+      "url": "https://www.amazon.co.jp/dp/B0BWF4JPWS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BWF4JPWS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61EYf9lYO1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【メーカーサポートについて】販売元・発送元がAmazon.co.jpになっているカートから購入した商品は、正規品で一年保証の対象となります。他事業者が販売する同製品のサポートについては、各販売事業者にお問い合わせください。",
+        "■レンズ素材:Corning Gorilla Glass 3■ベゼル素材:FRP■QuickFitウォッチバンド互換性:あり(22 mm)■ストラップ素材:シリコン■サイズ:46.1 x 46.1 x 12.9 mm手首周り適応サイズ/135-205 mm■ディスプレイサイズ:直径1.3インチ(32.5 mm)■解像度:416 x 416 ピクセル■ディスプレイタイプ:AMOLED(オプションで常時表示モード)■重量:47 g■防水等級:5 ATM■稼働時間:スマートウォッチモード/ 約 13 日間GPSモード/ 約 20 時間SatIQ(衛星自動選択モード)モード/約 16 時間マルチGNSSマルチバンドモード",
+        "/約 14 時間GPS+音楽再生モード/ 約 7 時間SatIQ(衛星自動選択モード)+音楽再生モード/約 6.5 時間マルチGNSSマルチバンド+音楽再生モード/約 6 時間■充電方式:Garmin独自の充電ケーブルによる有線充電■内蔵メモリ/履歴:8 GB■標準付属品:Forerunner 265 Blackチャージングケーブルクイックスタートマニュアル■特長:・1.3インチの鮮やかなAMOLEDディスプレイ・GPSモードで約20時間稼働・高度なトレーニング機能・GNSSマルチバンド対応・タッチ操作とボタン操作に対応・ウォッチに音楽を保存",
+        "カラー:Aqua",
+        "ブランド:ガーミン(GARMIN)"
+      ],
+      "maker": "GARMIN",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 748,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-05-03",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0BX943SYM",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:48:57+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DZH1XVYN",
+      "title": "HUAWEI Band 10 スマートウォッチ 快適な付け心地 情緒モニタリング 24時間睡眠管理 14日間持続バッテリー 急速充電 LINE通知 睡眠時呼吸乱れ検知 薄型軽量 カスタマイズ可能な情報表示 フルオロエラストマーベルト iOS/Android対応 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DZH1XVYN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DZH1XVYN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61mNKGsu8bL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【使いやすく快適な着け心地のデザイン】 使いやすさ、通気性、フィット感などを考慮して設計された厚さ約8.99mm、重さわずか約15gのデザインは、日常だけでなく睡眠中や運動中などあらゆる常時着用するシーンで軽く快適な着け心地が実感できます。",
+        "【情緒モニタリング追加】 新たに情緒のモニタリング機能を追加。かわいい動物の表情で情緒を「見える化」しました。長時間不快な場合の情緒リマインドや情緒データの共有、概要など心の健康もサポート。",
+        "【パワフルバッテリー＆急速充電】 わずか5分間の充電で2日間使用でき、約45分間の充電でフル充電。通常使用で約14日間使用のパワフルバッテリーは、充電することを忘れてしまうほど長持ち。充電を気にせずに毎日使用できます。 【幅広い互換制】 Android &amp; IOS両方のデバイスにペアリング可能。 【幅広いカラーバリエーション】 スタイリッシュなHUAWEI Band 10 Aluminum Editionは、耐久性のあるフルオロエラストマーベルトを使用。マットブラック、ホワイト、ブルー、パープル、グリーンのカラーからお好みのBand10をお選びください。",
+        "【豊富なワークアウトと精確な測定】 100種類のワークアウトモードを搭載。ウォーキングとランニングのワークアウトは、自動識別機能にも対応。HUAWEI Healthアプリと一緒に使用することで、スマートランニングプログラムのカスタマイズも可能です。特に水泳では、高精度な9軸センサーとAIを使用したアルゴリズムと組み合わせることで高精度の水泳データを提供します。"
+      ],
+      "maker": "HUAWEI",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 676,
+      "star_rating": 4.2,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0FH9526G7",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:49:05+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DGQ9S3GQ",
+      "title": "Amazfit T-Rex 3 48mm スマートウォッチ 登山 ヤマレコ ヤマップ アウトドア iPhone Android対応 GPS 6衛星 ミリタリー 超低温動作 3種類オフラインマップ ナビゲーション ルートインポート 170＋スポーツモード 健康管理 気圧高度計 筋力トレーニング 10ATM防水 AIによる音声操作と睡眠/運動管理 水泳 サーフィン (オニキス)",
+      "url": "https://www.amazon.co.jp/dp/B0DGQ9S3GQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DGQ9S3GQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71etSkvgHVL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ステンレススチールボディと卓越したディスプレイ性能】高強度なステンレススチールのベゼルと1.5インチの大画面で2,000nitを誇るディスプレイの融合は過酷な環境下でもあなたを支えます。また、暗い場所で目の疲れを軽減するナイトモードが搭載されてます。【軍用レベルの強靭さ】過酷な温度や環境に耐えるため、9項目の軍事規格の強靭性試験（MIL-STD-810G）をクリアしています。低温モードは、-30度の温度でも腕時計を使用可能で、あなたの限界への挑戦をサポートします。また、10ATMの防水性能を備え、最大45mのフリーダイビングに対応してます。",
+        "【デュアルバンドGPS＆6つの衛星測位機能】新世代のGNSSチップ・低消費電力・正確な測位が組み合わさった新しい円偏波アンテナを搭載し、素早く正確な位置情報を取得できます。【3種類のオフラインマップ】ベーシック、等高線を含む山岳地図、スキーリゾートに対応したスキーマップがあり、スポーツにあったマップをダウンロードして、ディスプレイへの表示はもちろん、接続されたBluetoothヘッドフォンを通した読み上げ機能も搭載してます。",
+        "【170+充実した運動モード＆専門的なデータ分析】45mのフリーダイビングを含む170以上の運動モードを選択でき、リアルタイムのパフォーマンスアップデート、ランニングパワー分析、VO2 Max、回復時間、トレーニング効果などのサマリーを確認可能です。【Zeppコーチ搭載】AIが生成したあなただけのトレーニングプランで、ランナー向けの3KM、5KM、10KM、ハーフマラソン、フルマラソンプランを含め、よりスマートなトレーニングが可能です。",
+        "【進化した長時間バッテリー】T-Rex2から進化した長時間バッテリーは通常使用で27日、GPSの最大バッテリー寿命は180時間も稼働します。3週間以上のバッテリー性能であなたの長い冒険をサポートします。（※バッテリー持続時間は、メーカーの設定した条件下で算出されたものです。機能の設定および使用回数、動作条件、その他の要因によって異なる場合があります。）【最新AIが統合されたZEPP OS 4.0】最新AI技術による音声操作機能である”Zepp Flow”を搭載しており、さらに100種類以上のミニアプリをダウンロードしてスマートライフの選択肢をより増やします。",
+        "【24時間健康管理】心拍数、睡眠（睡眠段階、睡眠呼吸の質、HRV、昼寝）、ストレスモニタリング、月経周期トラッキングなどを活用し、色々な角度からの健康管理が可能です。また、精神的および身体的回復を要約したレディネススコアを取得し、今日は休息または活動を優先すべきかどうかのインサイトを取得可能です。【プライバシー保護の強化】さまざまなユーザープライバシー要件に対応するソリューションを提供します。これには、GPSデータの恒久的なクラウド保存、GPSデータの一時的なクラウド保存、GPSデータのクラウドアップロードなし、およびデバイスのGPS権限を無効にする機能が含まれます。"
+      ],
+      "maker": "Amazfit",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 506,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0DT8MW85N",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:49:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F5WR3KP9",
+      "title": "HUAWEI WATCH FIT 4 Pro スマートウォッチ 薄型軽量 ゴルフ機能 アウトドアに適した気圧計と測位システム 1.82インチ3000nitsディスプレイ サファイアガラス チタン合金ベゼル 10日間ロングバッテリー iOS/Android対応 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0F5WR3KP9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F5WR3KP9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61+BQ4LF5dL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【薄型軽量で頑丈なボディ、アップグレードしたディスプレイ】厚さ約9.3mm、重さわずか約30.4g。スリムなボディに、超強力なチタン合金ベゼルと航空機グレードのアルミニウム合金を採用、1.82インチのディスプレイはサファイアガラスで頑丈にカバーされ、3000nitsの明るさはアウトドアでも鮮明に見えます。",
+        "【ゴルフナビ、登山、トレランなど豊富なワークアウト】パワフルなゴルフナビ機能、登山、トレイルランニング、約40mフリーダイビングなど、100種類以上のアクティビティを見つけ、楽しむことができます。また、新たに搭載された気圧計によりハイレベルな測定も可能です。",
+        "【手首に付ける登山ガイド】YamapやYamaRacoのルートインポートに対応し、GPX（GPS Exchange Format)ファイルの読み込みも可能になりました。GPSデータのやり取りが可能になり、等高線マップのフルカラー表示や、登山中の豊富なデータ表示で、より便利に、より快適な登山体験が得られます。",
+        "【心電図（ECG）測定と24時間健康管理】新しく改良された電極技術により、心電図信号の収集がより精確になり、応答性も向上しました。また光学アーキテクチャ、超精密ガラス技術、次世代のヘルスモニタリングアルゴリズムにより、ヘルスケアデータをより迅速かつ精確に測定できるようになりました。【HUAWEI Health+】 スマートな体重管理コーチングからパーソナライズされたダイエットプランニング、フィットネス専用コースまで、さまざまなプレミアムサービスが利用可能。今なら、購入特典で3か月間ご利用いただけます。",
+        "【約10日間のロングバッテリー】第2世代のHUAWEI WATCHワイヤレススーパーチャージャーにより、わずか10分の充電で約1日使用することができます。"
+      ],
+      "maker": "HUAWEI",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 497,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GSP6D4X9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:49:21+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CGJDW7T6",
+      "title": "GARMIN(ガーミン) Venu 3 Black/Slate AMOLEDディスプレイ搭載 美麗液晶スマートウォッチ 高性能GPS内蔵 【日本正規品】心電図(ECG)アプリ対応モデル",
+      "url": "https://www.amazon.co.jp/dp/B0CGJDW7T6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CGJDW7T6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61A+Lk20bhL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【メーカーサポートについて】販売元・発送元がAmazon.co.jpになっているカートから購入した商品は、正規品で一年保証の対象となります。他事業者が販売する同製品のサポートについては、各販売事業者にお問い合わせください。",
+        "【1度の充電によるバッテリー稼働時間】スマートウォッチモード:14日間 / バッテリー節約モード:26日間/ GPSモード:26時間 【手首周り適応サイズ】135-200mm 【ディスプレイサイズ】1.4インチ(35.4mm)【ディスプレイ】高解像度なAMOLEDディスプレイで表示されます。",
+        "ガーミン製品のご購入時に同封されている充電ケーブル、または別途ご購入いただけるガーミン純正の充電ケーブル以外の充電ケーブルを用いてガーミン製品を充電された場合、どのような原因でガーミン製品に故障が発生したとしても保証の対象外となります。予めご了承ください。",
+        "【睡眠管理機能】睡眠コーチ付きの睡眠モニタリング:睡眠の質を100点満点で採点する「睡眠スコア」がわかるだけでなく、スコアを改善するために必要な睡眠時間や、睡眠を改善するあなたに合わせたアドバイスを受け取れます。",
+        "【スマートウォッチで自分を知ろう】心拍数やストレス計測、日々の体力が測定できるBodyBattery機能を搭載。お昼寝時間を検出可能になって、BodyBatteryの回復が反映されます。 自分を知ることで、より健康に、スマートに。",
+        "【マルチスポーツ機能】ヨガ、フィットネス、ウォーキング、ランニング、ゴルフ、登山、マリンスポーツやスノースポーツ。いくつものスポーツに対応した機能を搭載。",
+        "【全ての人にスマートウォッチを】車いすモードを搭載し、車いすの方に合わせた運動量記録、ワークアウトが利用可能です。",
+        "※心電図アプリは、家庭用のプログラム医療機器です。22歳以上の方による使用を目的としています。",
+        "※心房細動の兆候の検出を補助的に行うものであり、従来の医師の診断に替わるものではありません。",
+        "※通知結果が心房細動である場合、専門の医師に相談してください。"
+      ],
+      "maker": "GARMIN",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 429,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0CGX8BMSB",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:49:30+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DDWZJPRD",
+      "title": "HUAWEI WATCH GT 5 Pro 46mm スマートウォッチ ゴルフナビ機能搭載 3Dコースマップ 心電図（ECG）高度なランニングサポート 睡眠時呼吸乱れ検知 等高線・オフラインマップ ルートナビGPXファイル対応 高硬度チタニウムとサファイアガラス 14日間バッテリー iOS/Android メーカ保証1年追加 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0DDWZJPRD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DDWZJPRD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/719aD5y8dCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【木村拓哉 出演広告モデル PLAY IT ALL】 進化したゴルフナビ機能、ゴルフスマートウォッチ、日本のゴルフ場の99%をカバーする2,300以上のゴルフ場に対応するゴルフウォッチ。グリーンの手前/中心/奥、グリーンの方向、グリーンの傾斜などの機能にも対応。フェアウェイやグリーンの詳細も一目瞭然。 搭載されている高精度GPSにより現在位置からグリーンまでの距離をリアルタイムに表示。データ分析やプレイ軌跡の振り返りもでき、練習モードも搭載。ディスプレイはタッチスクリーン搭載の高精細AMOLED(有機EL)。また海外10ヵ国以上のゴルフ場にも対応しています。",
+        "【手首に付ける登山ガイド】YamapやYamaRacoのルートインポートに対応。GPX(GPS Exchange Format)ファイルの読み込みも可能。GPSデータのやり取りが可能になり、等高線マップのフルカラー表示や、登山中の豊富なデータ表示で、登山体験をより便利に、より快適にサポート。",
+        "【24時間健康管理】心電図(ECG)に対応、ウォッチの下のボタン(電極)に30秒間指をそっと置き、静止するだけで、いつでもどこでも心電図の測定および記録が可能で、レポートのエクスポートにも対応しています。睡眠中呼吸乱れ検知、心拍数、血中酸素レベル、ストレスの測定に加え、新たに情緒をリアルタイムに測定する機能を追加。長時間「不快」が続いた際は、呼吸エクササイズの提案通知により、気分転換を促します。",
+        "【高い耐摩耗性】高い耐摩耗性と耐擦傷性のあるサファイアガラスと強靭なハイエンド素材であるチタニウムを採用。ハイエンド素材と超硬質塗装による高い耐摩耗性を実現。5ATM+IP69K, 防塵防水及び耐腐食性がさらに強くなり、様々なシーンに対応。",
+        "【2週間持続するバッテリー】46mmは通常使用で約14日のロングバッテリー。ワイヤレス急速充電対応。",
+        "【スマートアシスタント】LINEなどの通知、Bluetooth通話、クイック返信(Andriodデバイス接続時のみ)、スマートフォン探索、リモートシャッターなど便利機能を搭載。",
+        "【40ｍのフリーダイビング対応】新たに約40ｍのフリーダイビングに対応。息止めトレーニングや測定、停止タイマー、水の種類の選択、安全アラートなどの機能に対応。"
+      ],
+      "maker": "HUAWEI",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 388,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0FMRJRX23",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:49:40+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BY37JNXX",
+      "title": "スント(SUUNTO) スント バーティカル(SUUNTO VERTICAL) BLACK LIME 長時間バッテリー スマートウォッチ GPS 高度計 気圧計 SS050864000",
+      "url": "https://www.amazon.co.jp/dp/B0BY37JNXX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BY37JNXX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61oOylSA16L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "屋外オフラインマップ・デュアルバンド GPS(L1 + L5)、最長 60 日間のバッテリー持続時間(ソーラーモデルはソーラー充電併用でプラス30％延長) 、ミルスペックMIL-STD-810H）、血中酸素レベル計測、心拍計測、睡眠計測、消費カロリー計測、歩数計（アプリと連動）、速度と距離測定、気圧高度計、天気予報、100m耐水、シュノーケリング用深度メーター（10mm）、95種類以上のスポーツモード（ランニング、サイクリング、ハイキングなど）、衛星システム（GPS, GLONASS, GALILEO, QZSS, BEIDOU）",
+        "日常的な使用：60日間 、24時間のトラッキングとモバイル通知：30日間、GPSを利使用するトレーニングモード：60時間 / 90時間 /140時間 / 500時間",
+        "ベゼルの素材：ステンレス、ガラス素材：サファイアクリスタルガラス、ケース素材：グラスファイバー強化ポリアミド、ストラップの素材：シリコン",
+        "ケースサイズ：49mm、ケース厚：13.6mm、ベルト幅：22mm、腕回り：モデルにより125-175 mmまたは125-200 mm（アクセサリーストラップ-215 mm）、重さ:86g",
+        "付属品：専用ボックス、充電ケーブル"
+      ],
+      "maker": "SUUNTO",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 338,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0DNSTYZYB",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:49:48+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C3VD828Z",
+      "title": "ガーミン(GARMIN) Instinct 2X Dual Power Moss タフネスGPSスマートウォッチ Suica対応 防水 防塵 耐熱 ストレス値 心拍数 登山【日本正規品】",
+      "url": "https://www.amazon.co.jp/dp/B0C3VD828Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C3VD828Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/617Fuqr-N+L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "「Amazon.co.jpが販売、発送します」以外の認定ショップはメーカーサイトをご確認ください",
+        "ガーミン製品のご購入時に同封されている充電ケーブル、または別途ご購入いただけるガーミン純正の充電ケーブル以外の充電ケーブルを用いてガーミン製品を充電された場合、どのような原因でガーミン製品に故障が発生したとしても保証の対象外となります。予めご了承ください。",
+        "【太陽光充電対応】ソーラー充電を利用するとスマートウォッチモードでバッテリーが無制限に稼働します。",
+        "【LEDライトで暗闇を照らす】暗い場所でも内蔵のLEDライトで安全に行動できます。",
+        "【ミリタリースペックの耐久性】50mmサイズの頑丈なディスプレイ。アメリカ国防総省MIL規格「MIL-STD-810」準拠の高い耐熱性、耐衝撃性および耐水性を有しています。",
+        "【スマートウォッチとしても活躍】Suica対応 / スマートフォンからの通知 / 多くのスポーツアクティビティ機能 / 多くの健康管理機能 / GPS, GLONASS, Galileo, みちびき 複数の衛星システムを受信 / ナビゲーション機能"
+      ],
+      "maker": "GARMIN",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 278,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0C4V6CGWS",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:49:57+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FMY1LWLV",
+      "title": "Zolovip スマートウォッチ メンズ 1.43インチAMOLEDタッチスクリーン GPS内蔵 睡眠品質トラッカー 3ATM防水 アウトドアスマートウォッチ[フィットネスプラン/瞑想トレーニングを含む]100+運動モード 長续航 Bluetooth通話対応 iOS Android ブルー",
+      "url": "https://www.amazon.co.jp/dp/B0FMY1LWLV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FMY1LWLV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71jU8GrmnAL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【3ATM防水スマートウォッチ（高精度GPS搭載）】 5衛星同期システムにより、都市峡谷や密林など厳しい環境でも秒単位の正確な位置測定を実現。100以上のスポーツモードがアプリで利用でき、毎日のスポーツニーズに応えることができ、それだけでなく、ユーザーの歩数、距離などを正確に記録します、都市型アクティブライフに最適。この男女兼用のAMOLEDスマートウォッチ用アプリには、瞑想トレーニングとフィットネスプランが用意されており、目標に合わせていつでもフィットネスプログラムを選択できます。屋内・屋外のトレーニングデータをアプリに同期（高温水使用不可）",
+        "【1.43インチAMOLED超高精細タッチスクリーン（466x466解像度）】 雨天・汗・手袋着用時でも操作可能スクロールクラウン＋物理ボタン設計。100種類以上の高品質文字盤や自作写真で完全カスタマイズ可能。個性豊かでスタイリッシュなZolovip新登場のSmart Watchを、日頃仕事を頑張っている自分へのご褒美、新年、誕生日、記念日、母の日、敬老の日、クリスマスなどに一番適用するプレゼント！",
+        "【実用な機能満載かつ24時間モニタリング】 毎日の歩数や距離、記録するだけでなく、座りがち注意、リラックス機能も備えています。睡眠品質トラッカーに加え、女性の生理周期管理も可能（医療機器ではありません）。スタイリッシュなデザインは職場や生活の中でレディースもメンズも使用いただけます。スマホ探す、リモコン撮影 、アラーム、タイマー、ストップウォッチ、腕上げ点灯、画面の明るさ調整、天気予報、音楽コントロール、多言語対応などの便利機能が満載！",
+        "【Bluetooth 5.2対応スマートウォッチ】 iOS/Android両対応、スピーカーと高性能マイクを内蔵し、手首から直接通話可能。また、smart watchには音声アシスタント機能が搭載されています。Line/Twitter/Instagramなどの通知を即時表示。大切な連絡を確実にキャッチ。 通知の振動の強さは、時計側で設定できます。",
+        "【大容量400mAhバッテリー】 丸型スマートウォッチ通常使用で5～7日間持続。急速充電（2.5時間）可能、付属の磁気充電ケーブルをスマートウォッチの充電端子に接続すると充電開始となります。（個人の利用状況によっては、持続可能な利用時間が異なります）2年間保証付きで、フィットネス愛好者への贈り物に最適。製品に関するご質問は専門サポートチームが迅速対応いたします。"
+      ],
+      "maker": "Zolovip",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 188,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0FVSLC7ZJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:50:05+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FC28SGXF",
+      "title": "Amazfit Active 2 Square スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 健康管理 160+スポーツモード ナビゲーション ルートインポート 10日間バッテリー持続 iphone/android対応 スクエア型",
+      "url": "https://www.amazon.co.jp/dp/B0FC28SGXF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FC28SGXF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71bygIBstyL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【2LED + 5PD* BioTracker 6.0 PPG バイオセンサー搭載】 新しい心拍数および睡眠追跡アルゴリズムと連携して、これまでにない精度で正確な健康、運動データの計測が可能です。　*フォトダイオード(photodiode)の略記。受けた光（入力）に比例した電流を出力する、光センサー",
+        "【スタイリッシュなデザイン】 ステンレススチールで作られたエレガントで洗練された丸型ボディ。耐久性を高めるため、画面はサファイアクリスタル ガラスで覆われています。",
+        "【交換可能なストラップ(ベルト)】 黒い革のストラップ(ベルト)が付属、さらに赤い多孔質シリコンストラップもボックスに含まれています。"
+      ],
+      "maker": "Amazfit",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 83,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T08:50:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GZ294HH3",
+      "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 170 Black/Amp Yellow スマートウォッチモード 約 10 日間 高精度GPS ランニングウォッチ iOS/Android AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理 Suicaタッチ決済 Garmin Pay",
+      "url": "https://www.amazon.co.jp/dp/B0GZ294HH3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GZ294HH3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61TXIdVLSOL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【稼働時間】スマートウォッチモード: 約 10 日間 (常時表示：4 日間）/バッテリー節約スマートウォッチモード: 約 19 日間/GPSモード: 約 20 時間/マルチGNSSモード: 約 14 時間",
+        "【GNSS対応】内蔵GNSS（複数の衛星に対応）で、ランニングのルートを正確に記録し、精度の高い距離やペースを確認できます【ペース、距離、心拍数】使いやすいこのランニングGPSウォッチは、距離、ペース、心拍数を手元で確認できます。さらに³など、ランニングをに必要な基本的な機能を搭載。【ランニングダイナミクス】ケイデンス、歩幅、接地時間などのランニング指標を活用して、フォームを改善しましょう。",
+        "【毎日のおすすめワークアウト】HRVステータス、最近の運動履歴、パフォーマンスなどの指標を使用して、今が順調か、追い込みどきか、休むべきかが分かります。あなたにぴったりのワークアウトを提案します。毎日のおすすめワークアウトは、ラン＆ウォークにも対応し、走るたびにあなたの状態に合わせて調整されます。【VO2 MAX】詳細は現在のフィットネスレベルを確認し、経時的な変化を記録することで、目標設定や進捗の評価などが行えます。",
+        "【Garminコーチ】目標達成や体力づくりをサポート。あなたの状態に合わせてプランを毎日調整。ラン＆ウォーク中心のやさしいプランから、しっかり走るプランまで選べます。【Garmin Pay/Suica タッチ決済】Suica対応なので、買い物や電車での移動がウォッチだけでスムーズに行えます。",
+        "【HRVステータス】心拍変動³を通じて、健康状態、トレーニング、そしてリカバリーについてより深く理解しましょう。このウォッチは、睡眠中の体の状態を測定します。"
+      ],
+      "maker": "GARMIN",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 59,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "health_tracker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GZ2B4JMW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:50:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GX8CN73B",
+      "title": "Amazfit Cheetah 2 Pro 48mm ランナー向け スマートウォッチ HYROX Strava Runtrip 3000nit 高輝度 AMOLED GPS 6衛星 オフラインマップ AIによる音声操作 運動管理 心拍 睡眠 健康管理 170+ スポーツモード ナビゲーション ルートインポート 5ATM防水 20日間バッテリー持続 丸型",
+      "url": "https://www.amazon.co.jp/dp/B0GX8CN73B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GX8CN73B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71xZX3g9KML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "◆UpCare延長保証サービスによる1年延長保証付き◆ 本商品をご購入いただくと、購入から1~2週間以内に保証書が作成され、UpCareサービスサイトから延長保証書をダウンロードいただけます。紙の保証書は商品に同封されません。延長保証期間内は延長保証書記載の通りに修理交換を無償で対応することができます。",
+        "◆延長保証対応範囲◆ 通常のメーカー保証期間終了後も、自然故障を1年間まで無償で修理・交換いたします。※落下や水濡れ、消耗品の故障など取扱説明書に記載の通常の使用を超えた使用での故障は対象外となりますのであらかじめご了承ください。",
+        "【Amazfit初・本格的ランナー向けウォッチ】 明確な目的意識を持ってトレーニングに取り組むランナーのために設計された、本格的ランナー向けウォッチ。精密なデータモニタリング、科学的なトレーニングサポートで運動能力向上をサポートし、あなたの走りを次なるステージへ導きます。",
+        "【AMOLEDディスプレイ】 あらゆる状況下でのランニングを想定して、最 大輝度3000nitの1.32インチAMOLEDディスプレイを採用。 強烈な日差しの下においてもデータを鮮明に確認することが可能です。グローブモード対応。",
+        "【サファイアガラス&amp;チタンボディ】 ディスプレイには高級時計にも使われるサファイアガラスを採用し、過酷なトレーニングの衝撃や摩擦から画面をガード。 軽量かつ頑丈なチタン合金のボディは、圧倒的な耐久性と高級感を両立。本格的なスポーツから日常生活まで、あらゆるシーンに寄り添います。",
+        "【ルートを自在にコントロール】 リアルタイムで更新されるターンバイターン方式のナビゲーションで、迷うことなく目的地へ向かうことが可能。険しい山道でもレースのチェックポイントでも、常に正しい方向へ進むことができます。",
+        "【最 大20日間持続するバッテリー性能】 フル充電状態での通常使用で最 大20日間バッテリーが持続。頻繁に充電を気にする必要なく、日々のランニングから過酷な長期トレーニングサイクルまで、ランナーのポテンシャルを常にサポートします。　※バッテリー持続時間は、メーカーの設定した条件下で算出されたものです。機能の設定および使用回数、動作条件、その他の要因によって異なる場合があります。",
+        "【6衛星測位GPSシステムとオフラインマップ】 6つの衛星測位システムをサポートし、円偏波アンテナ技術を使用して測位性能と精度を向上させます。また、Zeppアプリからオフラインマップ、等高線、スキーマップがダウンロード可能。",
+        "【デュアルモード照明】 白色と赤色、2種類のLEDライトが選択可能で、早朝や夕方のランニング時の視認性を向上させます。ブーストモードとSOSモードは、暗い場所でのトレーニング時に安心感を与えます。",
+        "【170種類以上のスポーツモード】 ハイブリッドトレーニング、HYROXレースおよびトレーニングオプション、自動認識エクササイズによる筋力トレーニングなど、多彩なスポーツモードをご利用いただけます。"
+      ],
+      "maker": "Amazfit",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 46,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0H9SCTK63",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:50:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GZ2B2MY8",
+      "title": "GARMIN(ガーミン)スマートウォッチ Forerunner 70 Whitestone ロングバッテリー スマートウォッチモード 約 13 日間 高精度GPS ランニングウォッチ AMOLEDディスプレイ1.2インチ マラソン 軽量 防水 心拍数 睡眠スコア 健康管理",
+      "url": "https://www.amazon.co.jp/dp/B0GZ2B2MY8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GZ2B2MY8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61krHutloUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【稼働時間】スマートウォッチモード: 約 13 日間 (常時表示：5 日間）/バッテリー節約スマートウォッチモード: 約 28 日間/GPSモード: 約 23 時間/マルチGNSSモード: 約 16 時間",
+        "【長時間バッテリー】スマートウォッチモードで最大13日、GPSモードでは最大23時間持続。健康状態やトレーニングの状況をしっかり把握できますす。【モーニングレポート】起きてすぐに、睡眠や回復の状態、今日の予定、HRVステータスをひと目で確認できます。【イブニングレポート】寝る前に、必要な睡眠時間、明日のワークアウト、天気、予定を確認して、明日に備えましょう。【リカバリータイム】ワークアウトを行った後、次のワークアウトまでの休憩時間をアドバイスしてくれます。前回のトレーニング内容に基づいて、次のハードなトレーニングまでのリカバリー時間を把握できます。",
+        "【GNSS対応】内蔵GNSS（複数の衛星に対応）で、ランニングのルートを正確に記録し、精度の高い距離やペースを確認できます。【ランニングパワー】手首の光学式心拍計で地面にどれだけのパワーを加えているかを計測できます。トレイルやロードでどれだけの力をかけているかを確認し、力を調整してトレーニングを最適化しましょう。",
+        "【睡眠コーチ】睡眠スコアを確認し、必要な睡眠時間に関するカスタマイズされたコーチングを受けましょう。睡眠段階を追跡し、睡眠の質¹を向上させるためのインサイトを得ることができます。【BODY BATTERY】1日を通して身体のエネルギーレベルを把握し、アクティビティと休息¹に最適な時間帯を見つけましょう。【呼吸変動】睡眠中の呼吸パターンの変化²を把握することで、健康状態をより深く理解しましょう。この変化は、環境やアルコール、または睡眠時無呼吸症候群などの潜在的な睡眠障害と関連している可能性があります。",
+        "【手首での心拍数測定】ウォッチが昼夜を問わず常時心拍数を計測するため、アクティビティ中¹にどれだけ激しく動いたかを把握するのに役立ちます。【血中酸素センサー】血液中に取り込まれた酸素のレベルを手首で測定することができます。 疲労と回復のパラメータにもなり、パフォーマンスやフィットネスレベルの向上とウェルネスライフをサポートします。目が覚めているときや就寝時の血中酸素レベル²を測定します。【ストレストラッキング】心拍変動によりストレスレベルのスコアを計算して表示します。落ち着いた日なのか、バランスのとれた日なのか、それともストレスの多い日を過ごしているのかを確認します。穏やかな日か、バランスの取れた日か、ストレスの多い日かを確認してみましょう。"
+      ],
+      "maker": "GARMIN",
+      "query": "dg_20261017_smartwatch",
+      "queries_matched": [
+        "dg_20261017_smartwatch"
+      ],
+      "review_count": 46,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "health_tracker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_observed_at": "2026-09-12T22:59:56+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0GZ2L66XR",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T08:50:42+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:smartwatch"
+    ],
+    "any_tags": null,
+    "asins_explicit": false,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": "2026-09-19",
+    "exclude_asins": [
+      "B0DQD2S49X",
+      "B0F1LSC58F",
+      "B0FXFVPFZF"
+    ],
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  },
+  "scope_exclusions": {
+    "B0DZHFRKQD": "Band 10のケース違い",
+    "B0DZGZSVYR": "Band 10の色違い",
+    "B0B75STB24": "Inspire 3の色違い",
+    "B0B75WHSGR": "Inspire 3の色違い",
+    "B0B75WWC8F": "Sense 2の色違い",
+    "B0CJFLTY5C": "vivoactive 5の色違い",
+    "B0CJFPXJWF": "vivoactive 5の色違い",
+    "B0GZ23GQQR": "Forerunner 70の色違い",
+    "B0GZ24YHGW": "Forerunner 70の色違い",
+    "B09XGV8VHX": "vivosmart 5のサイズ違い"
+  },
+  "measurement_checkpointed_at": "2026-10-09T08:50:42+09:00"
+}

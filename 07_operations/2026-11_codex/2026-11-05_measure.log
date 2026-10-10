@@ -1,0 +1,94 @@
+📦 候補読み込み: 33 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-05_timer_candidates.json)
+🔎 実測: 33 件の ASIN を Amazon 商品ページから取得します...
+  [1/33] B0F6K1Q29G review=8110 star=3.8 stock=in_stock OK
+  [2/33] B0DBY8JCQ5 review=4505 star=4.4 stock=in_stock OK
+  [3/33] B07YLQCW27 review=4505 star=4.4 stock=in_stock OK
+  [4/33] B07ZNF656F review=4505 star=4.4 stock=in_stock OK
+  [5/33] B08HWCWY6Z review=2092 star=4.0 stock=in_stock OK
+  [6/33] B00DAM5L1S review=1963 star=4.2 stock=in_stock OK
+  [7/33] B0BK2J71M1 review=1799 star=4.4 stock=in_stock OK
+  [8/33] B0BB5WSKPF review=1694 star=4.2 stock=in_stock OK
+  [9/33] B004KSRN3K review=1516 star=4.3 stock=in_stock OK
+  [10/33] B07X2QHVDW review=2978 star=4.3 stock=in_stock OK
+  [11/33] B087S3YKH7 review=1077 star=4.5 stock=in_stock OK
+  [12/33] B08K9FQ92S review=838 star=4.3 stock=in_stock OK
+  [13/33] B08KRMQT5S review=1031 star=4.1 stock=in_stock OK
+  [14/33] B0F1SDQQ83 review=457 star=4.5 stock=in_stock OK
+  [15/33] B0H19Y9ZTG review=371 star=4.2 stock=in_stock OK
+  [16/33] B0H19Z1X5L review=371 star=4.2 stock=in_stock OK
+  [17/33] B0CWR2368W review=371 star=4.2 stock=in_stock OK
+  [18/33] B08N69YXD5 review=269 star=3.8 stock=in_stock OK
+  [19/33] B0CTT1KPKM review=297 star=4.3 stock=in_stock OK
+  [20/33] B0CPHKY182 review=251 star=3.9 stock=in_stock OK
+  [21/33] B0DPFZVF28 review=225 star=4.1 stock=in_stock OK
+  [22/33] B0DM3CY7L6 review=226 star=3.7 stock=in_stock OK
+  [23/33] B07X3TVTW8 review=199 star=4.4 stock=in_stock OK
+  [24/33] B0CNWXDFH5 review=160 star=4.1 stock=in_stock OK
+  [25/33] B0FDJCMTH3 review=160 star=4.2 stock=in_stock OK
+  [26/33] B0FN72BY4W review=160 star=4.2 stock=in_stock OK
+  [27/33] B001E1E96U review=134 star=4.0 stock=in_stock OK
+  [28/33] B07KGH6B81 review=1387 star=4.1 stock=in_stock OK
+  [29/33] B08K9FG8Y7 review=1615 star=4.4 stock=in_stock OK
+  [30/33] B0BCJNNR2H review=473 star=4.2 stock=in_stock OK
+  [31/33] B0DYH2Q6N6 review=1031 star=4.1 stock=in_stock OK
+  [32/33] B0DYHWJ9Y2 review=1031 star=4.1 stock=in_stock OK
+  [33/33] B0F3X42BWY review=4505 star=4.4 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=33 succeeded=33 failed=0 / run累積 attempted=109 succeeded=109 failed=0) product新規=0 product更新=33 metric行=33 verification行=26
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 33 / 33
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier1 / 緩和: なし
+採用件数: 10
+
+-- 採用 --
+1. [Tier1] dretec / B0DBY8JCQ5 / review=4505 star=4.4 
+   dretec(ドリテック) 勉強タイマー タイムアップ2 タイマー式勉強法で自立学習 試験日までの日数設定でモチベアップ 消音&ランプで図書
+2. [Tier1] dretec / B07YLQCW27 / review=4505 star=4.4 
+   ドリテック(dretec) 勉強タイマー タイムアップ2 消音 T-580WTDI ホワイト
+3. [Tier1] SONIC / B07X2QHVDW / review=2978 star=4.3 
+   ソニック 時っ感タイマー トキ・サポ 10cm 時間経過を実感 アイボリー LV-3062-I
+4. [Tier1] TickTime / B08HWCWY6Z / review=2092 star=4.0 
+   【TickTime・新時代のデジタルタイマー】 正六角柱 ポモドーロタイマー キッチンタイマー キューブタイマー 勉強 会議 スポーツテスト
+5. [Tier1] TANITA / B00DAM5L1S / review=1963 star=4.2 
+   タニタ 勉強 学習 タイマー ストラップ付き バイブレーション機能 24時間 ホワイト TD-370N WH
+6. [Tier1] TIME TIMER / B0BK2J71M1 / review=1799 star=4.4 
+   Time Timer TIME TIMER MOD Home Edition 9cm 60分 タイムタイマー モッド フェルングリーン 時間
+7. [Tier1] TIME TIMER / B08K9FG8Y7 / review=1615 star=4.4 
+   TIME TIMER MOD Home Edition 9cm 60分 タイムタイマー モッド シルクオレンジ 時間管理 学習タイマー TT
+8. [Tier1] TANITA / B004KSRN3K / review=1516 star=4.3 
+   タニタ(Tanita) キッチン 勉強 学習 タイマー マグネット付き 大画面 100分 ホワイト TD-395 WH でか見えプラスタイマ
+9. [Tier1] TimeCube / B07KGH6B81 / review=1387 star=4.1 
+   TimeCube Plus プリセット タイマー LEDライト4つ/アラーム付き 時間の管理用 カウントダウン設定 (ホワイト - 5分 1
+10. [Tier1] 無印良品 / B087S3YKH7 / review=1077 star=4.5 
+   無印良品 ダイヤル式キッチンタイマー TD‐393 82248296
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 23 件 --
+  - [Tier2] AVINIA / B0F6K1Q29G: 多様性制約または件数上限のため非選抜
+  - [Tier1] dretec / B07ZNF656F: 多様性制約または件数上限のため非選抜
+  - [Tier1] dretec / B0BB5WSKPF: 多様性制約または件数上限のため非選抜
+  - [Tier1] TIME TIMER / B08K9FQ92S: 多様性制約または件数上限のため非選抜
+  - [Tier1] SONIC / B08KRMQT5S: 多様性制約または件数上限のため非選抜
+  - [Tier2] EooCoo / B0F1SDQQ83: 多様性制約または件数上限のため非選抜
+  - [Tier2] キングジム / B0H19Y9ZTG: 多様性制約または件数上限のため非選抜
+  - [Tier2] キングジム / B0H19Z1X5L: 多様性制約または件数上限のため非選抜
+  - [Tier2] キングジム / B0CWR2368W: 多様性制約または件数上限のため非選抜
+  - [Tier2] Canon / B08N69YXD5: 多様性制約または件数上限のため非選抜
+  - [Tier2] SONIC / B0CTT1KPKM: 多様性制約または件数上限のため非選抜
+  - [Tier2] MAG / B0CPHKY182: 多様性制約または件数上限のため非選抜
+  - [Tier2] dretec / B0DPFZVF28: 多様性制約または件数上限のため非選抜
+  - [Tier2] TIME TIMER / B0DM3CY7L6: 多様性制約または件数上限のため非選抜
+  - [Tier2] SONIC / B07X3TVTW8: 多様性制約または件数上限のため非選抜
+  - [Tier2] HATUSOKU / B0CNWXDFH5: 多様性制約または件数上限のため非選抜
+  - [Tier2] GeeRic / B0FDJCMTH3: 多様性制約または件数上限のため非選抜
+  - [Tier2] GeeRic / B0FN72BY4W: 多様性制約または件数上限のため非選抜
+  - [Tier2] セイコー / B001E1E96U: 多様性制約または件数上限のため非選抜
+  - [Tier2] dretec / B0BCJNNR2H: 多様性制約または件数上限のため非選抜
+  - [Tier1] SONIC / B0DYH2Q6N6: 多様性制約または件数上限のため非選抜
+  - [Tier1] SONIC / B0DYHWJ9Y2: 多様性制約または件数上限のため非選抜
+  - [Tier1] dretec / B0F3X42BWY: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-05_作業時間を区切る。デスクタイマー.md

@@ -1,0 +1,35 @@
+📦 候補読み込み: 6 件 (/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_scanner_candidates.json)
+🔎 実測: 6 件の ASIN を Amazon 商品ページから取得します...
+  [1/6] B0C23XJGCW review=377 star=4.5 stock=in_stock OK
+  [2/6] B083VZHDGZ review=219 star=3.9 stock=in_stock OK
+  [3/6] B01IALGUZY review=33 star=3.9 stock=in_stock OK
+  [4/6] B01IALGUYA review=43 star=4.1 stock=in_stock OK
+  [5/6] B08HYKSYRJ review=54 star=4.2 stock=in_stock OK
+  [6/6] B09FRYGKLR review=33 star=3.6 stock=in_stock OK
+🗄️  DB書き込み: run=dd6cd47b-aa51-4687-9638-3338592ce1b0 status=ok (今回 attempted=6 succeeded=6 failed=0 / run累積 attempted=201 succeeded=201 failed=0) product新規=0 product更新=6 metric行=6 verification行=3
+✅ 選抜対象（Tier1〜3・在庫あり・レビューあり）: 6 / 6
+============================================================
+選抜レポート
+============================================================
+モード: natural(自動決定) / 適用Tier上限: Tier3 / 緩和: あり
+採用件数: 5
+
+-- 採用 --
+1. [Tier2] PFU / B0C23XJGCW / review=377 star=4.5 
+   リコー PFU ドキュメントスキャナー ScanSnap iX1600 (最新/高速毎分40枚/両面読取/ADF/4.3インチタッチパネル/
+2. [Tier2] brother / B083VZHDGZ / review=219 star=3.9 ★有名ブランド
+   ブラザー工業(Brother Industries) ドキュメントスキャナー MDS-940DW (モバイルスタイル/両面スキャン/無線LA
+3. [Tier3] EPSON / B08HYKSYRJ / review=54 star=4.2 ★有名ブランド
+   エプソン スキャナー DS-531(シートフィード/A4両面)
+4. [Tier3] EPSON / B01IALGUYA / review=43 star=4.1 ★有名ブランド
+   EPSON スキャナー DS-360W (シートフィード/A4両面/Wi-Fi対応 コードレス)
+5. [Tier3] Canon / B09FRYGKLR / review=33 star=3.6 ★有名ブランド
+   Canon キヤノン ドキュメントスキャナー imageFORMULA R10 PG
+
+-- 不採用（Tier適格だが件数上限・多様性制約で非選抜）: 1 件 --
+  - [Tier3] EPSON / B01IALGUZY: 多様性制約または件数上限のため非選抜
+
+-- 除外（選抜対象外）: 0 件 --
+============================================================
+
+📝 saved to /Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/06_research/2026-11/2026-11-11_書類の両面をPDFに残す。ドキュメントスキャナー.md

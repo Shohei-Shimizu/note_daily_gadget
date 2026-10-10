@@ -1,0 +1,16 @@
+
+候補 5 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B0G5YPH9SG  Quntis         Quntis モニターライト バーライト 40cm モニター掛け式 デスクライト 昼白/昼光/電球色 演 [measured 2026-09-11]
+  B0785D93KD  BenQ           BenQ ScreenBar スクリーンバー モニター掛け式ライト [デスクライト monitor la [article_dated 2026-09-30]
+  B08WT889V3  BenQ           BenQ ScreenBar Halo モニターライト スクリーンバー ハロー USBライト デスクライ [article_dated 2026-08-27]
+  B094NCN8CG  OOWOLF         OOWOLF モニターライト バー パソコンライト 3段階調色 無段階調光 背面ライト付き Ra95+  [article_dated 2026-08-27]
+  B0CZ9P1QW9  BenQ           BenQ ScreenBar Pro モニターライト モニター掛け式ライト デスクライト【 アップグレー [measured 2026-09-11]
+
+topic_id: daily_gadget_20261121_7f54e487
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-21_monitor_light_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-21_monitor_light_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

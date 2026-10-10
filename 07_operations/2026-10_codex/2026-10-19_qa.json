@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-19",
+  "topic_id": "daily_gadget_20261019_908d4b56",
+  "status": "reserved",
+  "research_original_sha256": "4e491b662e1a022a4f302fbf982c8f2323bfb264bb335c7fc416184ee23ae838",
+  "selected_asins_in_order": [
+    "B088PRX3BD",
+    "B08FST3H95",
+    "B0B5ZZPSDL",
+    "B0BBG2R1YK",
+    "B0B596FDFZ",
+    "B095SP2CH7",
+    "B0DDPPW5VS"
+  ],
+  "article_product_count": 7,
+  "intro_paragraphs": 2,
+  "description_lengths": [
+    142,
+    139,
+    150,
+    160,
+    158,
+    149,
+    157
+  ],
+  "related_count": 3,
+  "category": "コミュニケーション・会議・音声",
+  "tags": "おすすめガジェット フォトプリンター 写真 スマホ 手帳",
+  "checks": {
+    "research_urls_order_preserved": true,
+    "machine_memo_preserved": true,
+    "reviews_price_experience_in_article": false,
+    "individual_review_text_available": false,
+    "jev_skipped": true
+  },
+  "source_discrepancies": [
+    {
+      "asin": "B08FST3H95",
+      "issue": "Amazon title 5×7.6cm differs from P210R manufacturer 2.1×3.4in",
+      "handling": "article uses official 2.1×3.4in; research title unchanged"
+    },
+    {
+      "asin": "B095SP2CH7",
+      "issue": "research Wi-Fi conflicts with title Bluetooth and official portable printer/1S Bluetooth; ASIN current submodel uncertain",
+      "handling": "article avoids 1S designation, numeric weight/dimensions/Bluetooth-version/USB-type; preserves raw research and requests main identification check"
+    },
+    {
+      "asin": "B0B596FDFZ",
+      "issue": "manufacturer shipment discontinued",
+      "handling": "article explicitly calls it old model; fresh Amazon stock and active support per main/official"
+    }
+  ],
+  "remaining": [
+    "main verify Xiaomi ASIN/submodel and decide whether publishable",
+    "thumbnail and UI final checks handled by main"
+  ],
+  "note_url": "https://note.com/daily_gadget/n/n217f570ba2d9",
+  "scheduled_jst": "2026-10-19 20:00",
+  "ui_checks": {
+    "product_cards": 7,
+    "idea_cards": 1,
+    "related_cards": 3,
+    "toc": true,
+    "plain_urls": 0,
+    "thumbnail": true,
+    "tags": 5,
+    "magazine": "コミュニケーション・会議・音声"
+  }
+}

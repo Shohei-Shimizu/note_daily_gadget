@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-10-09",
+  "status": "awaiting_reselected_research_original",
+  "checks": [
+    {
+      "asins": [
+        "B0DP3HZX4D",
+        "B07ZHZFZG8"
+      ],
+      "result": "Different generations, not mere colors",
+      "sources": [
+        "https://getrocketbook.com/blogs/news/meet-the-new-and-improved-rocketbook-notebooks",
+        "https://getrocketbook.com/collections/core"
+      ],
+      "facts": [
+        "New generation adds dedicated title/tag fields, paper material change, small Data Matrix instead of QR",
+        "Both use smartphone app camera scanning, not automatic electronic pen capture"
+      ]
+    },
+    {
+      "asins": [
+        "B00AQTYNI0",
+        "B07ZT4731M"
+      ],
+      "result": "Exclude per main; current Windows11/macOS compatibility not confirmed",
+      "sources": [
+        "https://jp.sharp/support/enote/info_pc_os.html",
+        "https://jp.sharp/support/enote/doc/wgn10_mn.pdf",
+        "https://jp.sharp/support/enote/doc/wgpn1_el_mn.pdf"
+      ],
+      "facts": [
+        "WG-N10 confirmed BMP image export via USB; supported OS listed only Windows7/8.1/10 and OS X10.6–10.10",
+        "WG-PN1 listed Windows7/8.1/10 and OS X10.10–10.14; USB export exists but current OS unverified"
+      ]
+    },
+    {
+      "asins": [
+        "B09988GM1B",
+        "B08BP625V6"
+      ],
+      "result": "Different generations and model-specific software/port",
+      "sources": [
+        "https://www.fmworld.net/digital-paper/gen2/product.html",
+        "https://www.fmworld.net/digital-paper/gen1/product.html",
+        "https://www.fmworld.net/digital-paper/support/download/"
+      ],
+      "facts": [
+        "Gen2 FMVDP41 uses USB-C/32GB/QUADERNO PC App",
+        "Gen1 FMV-DPP03 uses microUSB/16GB/Digital Paper PC App",
+        "Current download page includes Windows11; ARM Windows unsupported and setup conditions vary"
+      ]
+    }
+  ]
+}

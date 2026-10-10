@@ -1,0 +1,21 @@
+
+候補 10 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B0B7SBVGP6  Vasco          Vasco Translator V4 | 音声翻訳機 | 108言語、約200の 国と地域に対応 |  [article_dated 2026-04-04]
+  B07ZP5CH8P  POCKETALK      AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付70言語以上対応 ホワイト PTSW [article_dated 2026-04-04]
+  B0CT378Q1M  Wooask         Wooask W12 翻訳機 音声翻訳機 ウーアスク【SIM不要/追加料金不要/オフライン翻訳対応】画面 [article_dated 2026-04-04]
+  B07ZP695PB  AI翻訳機          AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付92言語以上対応 ブラック PTSG [未実測]
+  B07ZP8D717  AI翻訳機          AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付92言語以上対応 ゴールド PTSG [未実測]
+  B08BP1912B  AI翻訳機          AI翻訳機 POCKETALK(ポケトーク)S Plus(1.85倍大型画面) グローバル通信2年付70 [未実測]
+  B0DHV75M4X  AUTOOSE        AUTOOSE Z2 翻訳機 音声翻訳機【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 [未実測]
+  B0DJLZMYR4  AI翻訳機          【公式ストア限定】AI翻訳機 POCKETALK(ポケトーク)S2 Plus 1.85倍大型画面グローバ [未実測]
+  B0DQ6Y68F4  MUMEOMU        MUMEOMU Z8 AI翻訳機 283ヵ国137言語対応 音声翻訳機【オンライン翻訳＋オフライン翻訳＋ [未実測]
+  B0FWQX4F4F  AUTOOSE        AUTOOSE Z9 AI翻訳機 音声翻訳機 ChatGPT搭載【SIM不要/追加料金不要/オフライン翻 [未実測]
+
+topic_id: daily_gadget_20261126_6d453c90
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-26_translator_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-26_translator_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run

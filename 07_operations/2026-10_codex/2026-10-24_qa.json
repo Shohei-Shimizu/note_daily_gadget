@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-24",
+  "topic_id": "daily_gadget_20261024_549e5231",
+  "status": "main_review_ready",
+  "research_original_sha256": "e050e1c8b99a6e5750e5d43b9cac0a9c2af7067aeb9ca0156fb542b648a50cff",
+  "selected_asins_in_order": [
+    "B0BD7154F9",
+    "B0865VQMH8",
+    "B094VD37YW",
+    "B08ZY32XRC",
+    "B0BTH3KRF9"
+  ],
+  "article_product_count": 5,
+  "intro_paragraphs": 2,
+  "description_lengths": [
+    131,
+    140,
+    139,
+    135,
+    141
+  ],
+  "related_count": 3,
+  "category": "スマートホーム・ライフスタイル・健康管理",
+  "tags": "おすすめガジェット ホワイトノイズ 睡眠 寝室 環境音",
+  "checks": {
+    "research_urls_order_preserved": true,
+    "research_machine_fields_preserved": true,
+    "machine_memo_preserved": true,
+    "reviews_price_experience_in_article": false,
+    "individual_review_text_available": false,
+    "jev_skipped": true
+  },
+  "source_discrepancies": [
+    {
+      "issue": "BrownNoise/HOUSBAY/SoundMe manufacturer primary page not found",
+      "handling": "Use main-supplied exact ASIN product feature snapshot only. Do not borrow other overseas models."
+    },
+    {
+      "issue": "D11 official older pages 11 sounds; current supplied exact-ASIN features upgraded21 since2024-06-24",
+      "handling": "Article omits sound count for D11; battery/USB-C/timer confirmed both sources."
+    },
+    {
+      "issue": "SoundMe extracted research 24時間 means customer service not timer",
+      "handling": "Use exact-ASIN features timer1/2/3hours only; preserve raw machine research; omit 24hours."
+    }
+  ],
+  "remaining": [
+    "main integration/title/metadata/thumbnail/UI final checks"
+  ],
+  "publishing": {
+    "status": "reserved",
+    "scheduled_at": "2026-10-24T20:00:00+09:00",
+    "amazon_cards": 5,
+    "native_toc": true,
+    "plain_urls": 0,
+    "tags": 5,
+    "magazine_verified": true,
+    "screenshot": "2026-10-24_reserved.jpg"
+  }
+}

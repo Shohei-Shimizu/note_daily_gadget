@@ -1,0 +1,496 @@
+{
+  "generated_at": "2026-10-09T00:56:57+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261028_56ded33a",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "codex_20261028_massage_gun"
+  ],
+  "fetched_count": 13,
+  "dedup_count": 13,
+  "candidates": [
+    {
+      "asin": "B093B4TSPM",
+      "title": "arboleaf 筋膜リリースガン ハンディガン 10mm振幅 AI自適応モード付き 4種シリコンヘッド付属 5段階振動 小型 軽量 静音 パワフル",
+      "url": "https://www.amazon.co.jp/dp/B093B4TSPM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B093B4TSPM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71w44xx-lNL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ワンタッチで操作簡単&amp;5段階振動レベル調節可能】arboleaf筋膜リリースガンは、ハンドルの下部に1つのボタンが装備されており、すべての操作をワンボタンで簡単に制御できます。1500～3000回/分の振動強度調整機能を搭載しており、お好みに合わせて振動の強さを調整できます。1～4レベルは手動モードで、5レベルはAIスマートセンサーを備えた自適応モードとなっており、筋肉に押し当てる強さに応じて振動の頻度を自動で調整します。充電には付属のUSB Type-Cケーブルをご使用ください。充電規格はType-C, DC 5V/2Aです。",
+        "【低騒音リリースガン】ハイエンドのブラシレスモーターを搭載しており、ノイズを低く抑えています。最大3000rpmでの作動音も50dB（日常会話の程度）未満と非常に低騒音です。静音でジムや自宅で使用しても、周りの方にご迷惑をかけることなく、いつでもどこでも使用を楽しむことができます。",
+        "【4種類の筋膜リリースヘッド】4種類のヘッドが装備されており、ニーズに応じて、球形、U形、円柱形、平形のアタッチメントが交換できます。それに、環境に優しい高品質のシリコン素材で作られたヘッドは、表面が柔らかく、ソフトな感触で使用できます。さらに、耐久性に優れ、汚れにくく、掃除が簡単です。",
+        "【Type-c充電&amp;携帯便利】このミニ筋膜ガンは2000mAh×2大容量リチウムイオンバッテリーが内蔵されており、一回のフル充電で最大約8時間連続使用可能です。（電池の残量や充電環境、使用環境によって大きく前後します。）わずか370gで、パワフルな小型設計のため、片手でも筋肉をリラックスできます。また、巾着型収納袋を付属しており、コンパクトに収納でき、持ち運びにも便利です。自宅でのご使用はもちろん、職場/ジム/公園などにも簡単に持ち運び可能です。",
+        "【日本国内サポート&amp;プレゼントに最適】フィットネスに取り組んでいる方、友人や同僚など、幅広いお客様にご使用いただけます。あらゆる年齢の方にご使用いただけるため、ギフトにも最適です。ご購入した日より一年間メーカー保証サービスを提供いたします。万が一初期不良が発生した場合は、連絡先：アカウントサービス内の「アカウントサービス」→「注文履歴」→「arboleafJP」→「質問する｣或いは説明書に記載されている他の連絡先に、お問合せ下さい。",
+        "【ご使用時のポイント】初回使用時は、十分に充電してからご使用ください。長期間使用しない場合でも、バッテリー性能を保つため、約1か月に1回程度の充電をおすすめします。使用時間は使用モードや負荷により変動する場合があります。動作音は使用状況によって変化することがあります。"
+      ],
+      "maker": "arboleaf",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 11659,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "recovery_care",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-12",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HF77YZ44",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:57:02+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DD7B3VGB",
+      "title": "LIHILIS筋膜リリースガン【10mm深層振幅＆AI自適応モード付き＆6段階超強力振動】ハンディガン 小型 軽量 静音 きんまくリリース電動ガン",
+      "url": "https://www.amazon.co.jp/dp/B0DD7B3VGB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DD7B3VGB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/710jWLUvwNL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【新世代の筋膜リリースガン! 小さなボディ・驚きのパワー】Lihilis（リヒリス） &#34;ハンディガン&#34;が 、再び業界を席巻する！最先端のブラシレスモーターを採用し、従来品と比べ、電動機の効率が300％向上し、より安定した安全性能が備わっており、使用可能年数も10年に達します。独自の双ベアリング構造でブレにく、安定した振動が奥深くまで伝わります、手を震わせなくなります。スマートフォンよりも小さいサイズで、340gの超軽量で、持ち運びが便利で、誰でも簡単に使えます！",
+        "【深くまで届く！違いを生み出す8mmの振幅】振幅が深いほど、リリースガンはより深く、広範な範囲の筋肉に作用します。伝統的なミニ筋膜リリースガンはわずか6mmの振幅しかなく、表層の筋肉にしか影響を与えませんが、Lihilis（リヒリス）の小型筋膜リリースガンは振幅が8mmに達しており、深く、強く、届く振動、内側から外側に向けて緊張と硬直感を解放し、内外一体の深いリラックスをもたらします。しっかり振動！もっと全身に、もっと効率よく。",
+        "【いつでも·どこでも·誰でも·これ一台で十分！】Lihilis（リヒリス）筋膜ガンは、側面にある1つのボタンで全てを制御、シンプルで便利！高精度のAIセンサーを搭載しており、押し当てる強さに応じて、毎分の振動の頻度を自動調節して、力の強さも必要に応じて自由自在にカスタマイズが可能です。6段階、1400から3200回転/分の振動強度は、お好みに合わせて選択することができます。一台で全身ほどける使い心地。さらに、収納バッグやポーチも備えており、持ち運びや収納が便利で、いつでもどこでもリラックスを楽しむことができます。",
+        "【Type-C急速充電・12時間連続使用可能・20db超低騒音】Lihilis（リヒリス）のきんまくリリース電動ガンは、新しいエネルギー車と同じバッテリーコアを搭載しており、2000*2 mAhの大容量バッテリーが搭載搭載し、満充電で12時間ご使用できます。生活に頑張ってる、自分専有のリラックスタイム。自分へのご褒美。仕事やスポーツ、家事の後ても、いつでもどこでも使用を楽しむことができます。安心の20db静音設計、早朝や深夜でも使え、周りの方にご迷惑をかけることなく。※電池の残量、充電環境および使用環塊によって、充電時間や動作時間体大きく前後します。",
+        "【上質な品質・安全性耐久性が満点・プレゼントに最適】Lihilis（リヒリス）は、長年、新技術・新製品を創造し続けています。常に業界トップクラスの品質を守り続けています。安全で耐久、上質で精巧な作りで、贈り物として最適な選択です！自宅で、手軽に！Lihilis リリースガンは現代生活に必要不可欠で、友人や家族にも最適な贈り物です。さあ、今すぐこのリリースガンを手に入れて、極限の全身解放を体感せよ！ 本製品は2年間の保証期間が付いています。万一、製品に何らかの不具合が生じました際には、弊社までご連絡賜りますようお願い申し上げます、迅速かつ日本国内サポートで、安心してご利用ください。"
+      ],
+      "maker": "LIHILIS",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 5032,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "recovery_care",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T00:24:21+00:00",
+        "content_observed_at": "2026-08-26T00:24:21+00:00",
+        "content_source": "product_page"
+      },
+      "parent_asin": "B0HFXJ9MM9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:57:10+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08Q7K25F5",
+      "title": "MYTREX REBIVE MINI 筋膜リリースガン ハンディガン ボディケア マイトレックス リバイブミニ MT-BY-RBM20B",
+      "url": "https://www.amazon.co.jp/dp/B08Q7K25F5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08Q7K25F5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ilSekMr3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【TVCM放映中！小松菜奈さん出演】CARE &amp; BEAUTY『MYTREX REBIVE MINI』（マイトレックス リバイブ ミニ） / [ MT/BY-RBM20B ] 株式会社創通メディカル",
+        "【全身が解けるようなパワフルで心地よい刺激】振動レベルは5段階、1分間に最大約3,000回の心地よい振動。",
+        "【顔、首に優しいフェイスモード搭載】柔らかい特殊シリコン採用の緩衝型アタッチメントを使って、気になる顔にも安全にご使用いただけます。",
+        "【使いたい部位に気持ちよくフィット】材質や形が異なる5種類のアタッチメントで、頬から足まであらゆる部位で リバイブケア にご使用いただけます。",
+        "【約370gのコンパクト設計。持ち運びにも便利。】コンパクトで軽量設計のため女性やシニアにも扱いやすいサイズ感です。//●パッケージ内容： 本体×1・充電用USBコード×1・アタッチメント×5・ハンドストラップ×1・携帯用布袋×1・収納用ハードケース・取扱説明書（保証書）×1・アタッチメント用ストッパーゴム(予備)×2"
+      ],
+      "maker": "MYTREX",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 2889,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "recovery_care",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0BN3CP2YL",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:57:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FN46JZ6T",
+      "title": "【プロアスリート愛用】uFit RELEASER Mini 筋膜リリースガン ミニ 強力 8mm振幅 軽量 静音 使い方動画 日本ブランド ホワイト",
+      "url": "https://www.amazon.co.jp/dp/B0FN46JZ6T?th=1&linkCode=ll2&tag=daily-gadget-22&linkId=f29c94047748f18451d32f839ae897d9&ref_=as_li_ss_tl",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FN46JZ6T?th=1&linkCode=ll2&tag=daily-gadget-22&linkId=f29c94047748f18451d32f839ae897d9&ref_=as_li_ss_tl",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51nJ2Xrk0GL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "日本国内のフィットネスブランドのuFitが展開する電動リリースガン『uFit RELEASER Mini』。コンパクトながらパワフルな振動が全身をくまなくケアします。",
+        "【パワフルな振動が極上の癒しに】4段階の振動モードで調節が可能。パワフルな振動が身体に刺激を与えます。",
+        "【4種のアタッチメントが全身にフィット】アタッチメントを付け替えれば首・背中・肩・胸・腰・お尻・足など、全身のあらゆる部位にフィット。ピンポイントでツボを刺激します。",
+        "【コードレスで最長6時間稼働可能】1回の充電で最長6時間利用できる長時間使用可能なバッテリーを採用。充電ポートにはType-cを採用し、約3時間でフル急速充電できます。持ち歩いて使うポータブル筋膜リリースガンだからこそ充電にもこだわりました。バッテリー切れの心配なし！",
+        "【静かな音量】駆動音の小さなモーターを使用することで、使用時の音が非常に小さくなっています。集合住宅の方でも問題なく利用頂けます。"
+      ],
+      "maker": "uFit",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 2877,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "recovery_care",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FBFRTZXW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:57:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B096M28VNH",
+      "title": "【業界最大振動数3,500回】ドクターエア 公式ストア リカバリーガンPRO RG-02ハンディガン プロ 筋膜リリース 振動レベル 4段階 振動 3500回 電動ガン RG-02 BK",
+      "url": "https://www.amazon.co.jp/dp/B096M28VNH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B096M28VNH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71gxp4jVP-L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【力強い振動で余すところなくケア】高性能モーター搭載で更に力強く、ドクターエア(DOCTORAIR)ガンシリーズ最大ストロークを実現。本格的なリカバリーケアをお探しの方や今のハンディガンが物足りなくなってきた方におすすめです。",
+        "【2wayアームで使い方が広がる】オリジナルの開閉アーム搭載で、ケアしづらい背中や肩甲骨回りも楽々ケア！5種類のアタッチメントが付属、パーツに合わせて取り替えられます。大切な方の誕生日、母の日、父の日のギフト、プレゼントにもおすすめです。",
+        "【身体の状態に合わせてセルフケア】最小1,500回/分～最大3,500回/分の4段階の振動スピード。使用中に負荷をかけると滑らかに振動スピードがアップします。お誕生日のプレゼントやお世話になった人へのギフトにも喜ばれます。",
+        "【持ち運びにも便利な収納ケース付き】アタッチメントや充電コードなど付属品をまとめて収納できる、シンプルなデザインのケース付き。プロのアスリートも愛用するボディケア用品です。",
+        "【商品詳細】パッケージ内容：リカバリーガンPRO RG-02 本体、アタッチメント5種、ACアダプター、収納ケース、取扱説明書 / メーカー保証：12ヶ月"
+      ],
+      "maker": "ドクターエア",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 276,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "recovery_care",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0FR35JXDR",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:57:32+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09FDM72B4",
+      "title": "ドクターエア 公式ストア リカバリーガン RG-01 強力 振動回数3,500回 静音 コードレス コンパクト 充電式 アタッチメント 筋膜リリース 母の日 父の日 敬老の日 誕生日 プレゼント ギフト / 延長サポート2年 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B09FDM72B4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09FDM72B4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61Q5naeN2+L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【疲れた体に心地よい刺激】パワフルな振動のハンディタイプのボディケアツール。約620gと片手で手軽に使用しやすい軽量コンパクトなガンタイプ。首や肩、ふくらはぎなどを気持ちよくケア。",
+        "【コードレス＆収納袋付き】USBの充電式で、自宅はもちろんジムや職場などお好きな場所で気軽にリカバリーケア。手ごろなサイズ感なので、持ち運び用やエントリーモデルとして、プレゼントにもおすすめです。",
+        "【身体の状態に合わせてケア】振動モードは、約2,300回/分～約3,500回/分の3段階で調節が可能。付属の4つのアタッチメントを付け替えることで、身体の部位や好みに合わせたコンディショニングケアを。",
+        "【延長保証2年付き】メーカー保証1年の期間終了後、＋2年間メーカー保証と同等の保証サービスがご利用いただけます。(自然故障に限る) ※延長保証についての詳細は、ドクターエア(DOCTOR AIR)のストアをご確認ください。",
+        "【商品詳細】パッケージ内容：リカバリーガン RG-01 本体、アタッチメント4種、USBコード(Type-C)、収納袋、取扱説明書 ※ACアダプターは付属しておりません。市販のUSB対応ACアダプターをご使用ください。"
+      ],
+      "maker": "ドクターエア",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 1034,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "recovery_care",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0B8YKYKPV",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:57:41+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BYHPT3M4",
+      "title": "MYTREX REBIVE AIR ブラック 筋膜リリースガン ハンディガン ボディケア ギフト マイトレックス リバイブエア MT-RBA-22B",
+      "url": "https://www.amazon.co.jp/dp/B0BYHPT3M4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BYHPT3M4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61LMZUdBjBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【TVCM放映中！小松菜奈さん出演】【価格もパワーもデザインも】カラダの悩みはつらいもの｡だからこそもっと楽しく､もっと手軽にボディケアを楽しんでもらいたい｡そんな思いからREBIVE AIRは生まれました｡毎日のケアが楽しい時間になる豊富なカラーバリエーション｡コンパクトサイズながら優れた耐圧力を実現しました｡",
+        "【押し当てても止まらない】電圧を自動制御する独自システム搭載により、パワーが強く7Kg相当の圧力で押しても止まりません。止まることのないパワーとストレスフリーを実現しました。",
+        "【重さ約250gの超軽量設計】持ち運びにも便利なコンパクトサイズでどこでも手軽にケア｡もっと気軽なボディメンテナンス習慣を｡500mlのペットボトルよりも小さいです。",
+        "【5つのアタッチメント】アタッチメントを替えて細かなパーツもくまなく効率的にケア。はめ込み式アタッチメントで、本体からのトルクがダイレクトに身体に伝わります。",
+        "【1回の充電で7時間動作可能】コンパクトながら1000mAhバッテリーを2本搭載し､1回の充電で最大7時間使用可能｡※レベル1使用時｡動作時間は使用環境や充電環境により異なります｡"
+      ],
+      "maker": "MYTREX",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 354,
+      "star_rating": 4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "recovery_care",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0BYJ378JQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:57:50+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CB5WY7MB",
+      "title": "ドクターエア 公式ストア エクサガンハンディPRO 筋膜リリース フェイスケア リカバリー アタッチメント付 顔 肩 腰 足 肩甲骨 全身 クリスマス 新年 母の日 父の日 敬老の日 誕生日 プレゼント ギフト/ブラック REG-07 BK",
+      "url": "https://www.amazon.co.jp/dp/B0CB5WY7MB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CB5WY7MB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71X3563hfEL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【PRO仕様のコンパクトタイプを新たにラインナップ】ドクターエア(DOCTOR AIR)ガンシリーズのリカバリーガンPRO RG-02を軽量化＆コンパクトにしもっと手軽に・女性にうれしいサイズを実現。コンパクトでもパワフルに、もっと使いやすく。",
+        "【開閉アームで肩甲骨まで届く】全身ケアしたい。特に肩・肩甲骨・腰のスイートスポットへのアプローチ。 別途アダプターなどを装着する事もなく開閉アームで届きにくい所でも楽々。",
+        "【フェイスモード】800～1,500回転/分でフェイスやじっくりケアにも。",
+        "【商品詳細】パッケージ内容：エクサガンハンディPRO REG-07 本体、アタッチメント4種、USBコード(Type-C)、ポーチ、取扱説明書"
+      ],
+      "maker": "ドクターエア",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 41,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "recovery_care",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0CPY2MNKK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:58:01+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CYP9PJV5",
+      "title": "MYTREX REBIVE EX PRO ハンディガン 筋膜リリースガン ギフト マイトレックス リバイブ イーエックス プロ MT-RBEX23B",
+      "url": "https://www.amazon.co.jp/dp/B0CYP9PJV5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CYP9PJV5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51PksQICzLL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "日本テレビ「DayDay特別版」で紹介！【TVCM放映中！小松菜奈さん出演】選ばれ続けるプロの『 整体 』新発想 伸びる×曲がる×パワフル パワフルなだけじゃない “圧倒的に届く”",
+        "Point!01 角度も長さも自由自在。：カタチが変わってしっかり届く。",
+        "Point!02 背中も、腰も、手足も。：驚くほどラクに。全身にベストアプローチ。",
+        "ブランド名: MYTREX（マイトレックス）/販売名: REBIVE EX PRO （リバイブ イーエックスプロ）/品番: MT-RBEX23B/本体寸法: 約239mm×98mm×81mm（本体折りたたみ時）約330mm×148mm×81mm（アーム角度90°・ハンドル最長時）/重量: 約690g（本体のみ、アタッチメントは含まず）/素材: 本体：PC-GF20、ABS樹脂、アルミニウム合金、アクリル、ステンレス、シリコンアタッチメント：ABS樹脂、シリコン、（温熱アタッチメントのみ次を含む：アルミニウム）/振動機能: 約1200回～3200回(分)/電気持続時間 最長 約8.5時間（低速・温熱機能オフ時）,最短 約2時間（高速・温熱機能オン時）/定格時間 10分/使用環境:温度 5℃～40℃、相対湿度 ≦85RH%/パッケージ内容: 本体×1・充電用USBコード×1・アタッチメント×6種類・取扱説明書（保証書）×1・備品収納袋×1・アタッチメント用ストッパーゴム（予備）×2"
+      ],
+      "maker": "MYTREX",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 216,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "recovery_care",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:58:10+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DMCM5QCM",
+      "title": "BGB 筋膜リリースガン 【実力派トレ一ナ一監修】ハンディガン きんまくリリース電動ガン",
+      "url": "https://www.amazon.co.jp/dp/B0DMCM5QCM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DMCM5QCM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61y8IyoI0RL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "features": [],
+      "maker": "BGB",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 165,
+      "star_rating": 3.9,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "recovery_care",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0HG1K18BC",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:58:17+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F9KFPD9G",
+      "title": "【医療機器認定】 MYTREX REBIVE 2 マッサージガン 電動マッサージ マイトレックス リバイブ2 ギフト MT-RB2-24M",
+      "url": "https://www.amazon.co.jp/dp/B0F9KFPD9G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F9KFPD9G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71DsUM69OQL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "TVCM放映中！小松菜奈さん出演【マイベストで機能性No.1受賞！】【医療機器認定】【ヒルナンデスで紹介】【酷使した体に浸透する振動】酷使した体に浸透する振動！パワフルさはそのまま。1台で35通りの使い道から選べるFITストロークハンディガン!!",
+        "「速さ」と「深さ」を自分好みに変えられる手圧変動テクノロジー搭載 [振動スピード 5段階 × ストローク 7段階]",
+        "足や腰などの大きく深い筋肉には深くまで届くパワフル刺激 深さ8mm×速さLv.5 8mmストロークで深い筋肉へ届き速さLv.5でパワフルに刺激!",
+        "首や肩などの小さく浅い筋肉にはソフト＆パワフルな新刺激 深さ2mm×速さLv.5 2mmストロークで浅い筋肉だけを刺激 速さLv.5でもパワフルケアが可能に",
+        "MYTREX REBIVE2 - マイトレックス リバイブ2 - / 管理医療機器 【認証番号：第307AKBZX00001000号】 / 品番: MT-RB2-24M / 本体寸法: 約154mm×60mm×189mm (本体のみ) / 重量: 約729g (本体のみ) / 素材: 本体：PC＋ABS,ポリカーボネート,シリコン,アルミ合金,アタッチメント：ABS樹脂,EVA樹脂,シリコン / パッケージ内容: 本体×1・充電用USBコード×本・ACアダプター×1・アタッチメント×5・取扱説明書×1・収納ケース×1・アタッチメント用ストッパーゴム（予備）×2"
+      ],
+      "maker": "MYTREX",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 3276,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "recovery_care",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0H1M5G2MH",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:58:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FTSLX78Q",
+      "title": "MYTREX REBIVE GO 筋膜リリースガン ハンディガン ボディケア ギフト マイトレックス リバイブゴー MT-RBG-25B（ブラック）",
+      "url": "https://www.amazon.co.jp/dp/B0FTSLX78Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FTSLX78Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61uMqon0c0L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【Amazon限定 NEWモデル】コンパクト＆ハイパワーハンディガン MYTREX REBIVE GO（マイトレックス リバイブ ゴー）登場。小さなボディでパワフルなストロークを実現しました。",
+        "【驚きのハイパワーを、独自技術で実現】6mmストロークで、強く押し当ててもパワフルさを保ったまま深くまで刺激を届けます。",
+        "【いつでも、自分好みの刺激が楽しめる】振動レベルを4段階で調整可能で、こわばった筋肉を本格的にケアできます。",
+        "【4つのアタッチメントで、全身に最適な刺激を】球型・平形・U字型・ポイント形 4つのアタッチメントを使い分けることで、ケアしたい部位に最適な刺激を届けます。",
+        "【持ち運びに嬉しい軽量＆コンパクトサイズ】本体は、スマホとほぼ同じ大きさで、わずか約205g。スポーツやトレーニング、アウトドアにも。どこでも自由に本格ボディケアを叶えます。",
+        "【シーンを選ばず長時間使える静音仕様】仕事中やリラックスタイムにも使える、静音仕様。また、一度の充電で約３週間使えるため、持ち運びにもおすすめ。",
+        "ブランド名： MYTREX（マイトレックス） / 商品名： MYTREX REBIVE GO-マイトレックス リバイブゴー- / 型番： MT-RBG-25B（ブラック） / 本体寸法 約127×109×35mm / 重量 約205g / パッケージ内容： 本体1台,アタッチメント4種類（球形/平形/U字形/ポイント形）,取扱説明書1部 / メーカー： 株式会社創通メディカル"
+      ],
+      "maker": "MYTREX",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 1089,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "recovery_care",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": "B0G1SZY1PJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-09T09:58:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0GVNN4K4T",
+      "title": "arboleaf 筋膜リリースガン ハンディガン 温冷ヘッド 自適応モード 10mm振幅 5種シリコンヘッド 5段階振動 小型 軽量 静音 パワフル",
+      "url": "https://www.amazon.co.jp/dp/B0GVNN4K4T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0GVNN4K4T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71l3O-uPsPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【気になる部位を手軽にケアできる筋膜リリースガン】Arboleafのハンディガンは、先進のブラシレスモーターを採用し、パワフルな振動で気になる部位にしっかりアプローチ。肩まわり・腕・ふくらはぎなどにも使いやすく、筋肉を心地よくほぐしながら、日常のリフレッシュから運動後のボディケアまで幅広く活躍します。ワンタッチで簡単に操作でき、5段階の振動レベルを搭載。部位やシーンに合わせて、お好みの強さで使い分けられます。",
+        "【小型でも妥協しない、パワーと深さを両立】Arboleafが新たに開発したリリースガンは、10mmストロークと16kgfの耐圧力を備えたハイパワー設計。毎分1500～3000回の力強い振動が筋肉の奥まで届き、こわばりをしっかりほぐします。わずか370gの軽量設計ながら、コンパクトさを感じさせないパワフルなストロークを実現。持ち運びしやすく、自宅・ジム・外出先など、さまざまなシーンで活躍します。",
+        "【低騒音リリースガン・握りやすく滑りにくいハンドル】高トルクブラシレスモーターに加え、安定した内部構造と減振設計により、動作音を抑えた低騒音を実現。約40dBの静音性で、早朝や夜間でも周囲を気にせず使えます。さらに、握りやすく滑りにくいハンドルを採用し、安定した筋膜リリースが可能です。電源ボタンは本体下部に配置されており、操作しやすく、使用中の誤操作も起こりにくいため、快適にお使いいただけます。",
+        "【シリコン製ヘッド・AIスマートモード搭載】高品質なシリコン素材を採用した4種類のヘッド（球型・平型・U字型・円柱型）が付属したきんまくリリース 電動ガンです。やわらかな肌当たりで使いやすく、耐久性にも優れ、汚れが付きにくくお手入れも簡単です。さらに、AIスマートモードを搭載し、押し当てる強さに応じて振動レベルを自動で調整。ボタンを手動で細かく操作する手間を省き、スムーズな筋膜リリースをサポートします。",
+        "【最大12時間連続使用可能・Type-C充電・スマート保護システム搭載】このパワーガンは、2000mAh×2の大容量バッテリーを搭載し、満充電で最大12時間使用可能です。Type-C充電対応で、手軽に充電でき、海外でも充電しやすい仕様です。さらに、15分自動オフ機能により使いすぎを防ぎ、過熱や過電流にも配慮したスマート保護システムを搭載しています。※使用時間はバッテリー残量、充電環境、使用環境、振動レベルによって異なる場合があります。",
+        "【2年間メーカー保証・ギフトにもおすすめ】ご購入日より2年間のメーカー保証をご提供いたします。万が一、不具合が生じた場合には、弊社までご連絡ください。巾着袋が付属しており、収納や持ち運びにも便利です。高級感のあるデザインと実用性を兼ね備えた筋膜リリースガンで、日常使いからトレーニング後のケアまで幅広く活躍します。ご自身用にも、特別な日の贈り物にもおすすめです。"
+      ],
+      "maker": "arboleaf",
+      "query": "codex_20261028_massage_gun",
+      "queries_matched": [
+        "codex_20261028_massage_gun"
+      ],
+      "review_count": 8,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "recovery_care",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-09T09:58:39+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "shared/db/product.sqlite"
+  },
+  "measurement_checkpointed_at": "2026-10-09T09:58:39+09:00",
+  "gui_verified_redirect": {
+    "from": "B093S6D8L6",
+    "to": "B0FN46JZ6T",
+    "model": "uFit RELEASER Mini",
+    "variant": "white",
+    "verified_at": "2026-10-09T01:16:34.182Z"
+  }
+}

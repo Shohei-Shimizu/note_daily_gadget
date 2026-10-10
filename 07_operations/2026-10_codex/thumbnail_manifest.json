@@ -1,0 +1,609 @@
+{
+  "account": "daily_gadget",
+  "scope": "2026-10-18..31",
+  "approval": "User approved Oct17 reserved sample and bulk continuation. Existing photo/no text/no people/single hero scheme retained. No new pattern.",
+  "status": "all_14_images_final_product_qa_passed",
+  "execution": "built-in image_gen only for needed new images; no browser access",
+  "rows": [
+    {
+      "date": "2026-10-18",
+      "theme": "speaker",
+      "article_title": "作業中のBGMを流す「Bluetoothスピーカー」10選",
+      "note_id": "n2171e481fe50",
+      "note_url": "https://note.com/daily_gadget/n/n2171e481fe50",
+      "reserved_at": "2026-10-18T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-18_speaker.png",
+      "reuse_candidate": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-06/2026-06-23_portable_speaker.png",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "黒い布状スピーカーグリル・樹脂フレーム。選抜対象の黒い円筒スピーカーとカテゴリ素材一致。",
+        "structure": "台座上の円筒単体、上面ドライバーを示す。SONY SRS-XB100・Anker miniの円筒Bluetoothスピーカーという分類と一致。",
+        "use_case": "リビングのテーブルでBGMを流す用途に合う。PC用有線専用やスマートハブの画像ではない。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "notes": "布張り円筒Bluetoothスピーカー1点をサイドテーブルに接地。BGM用途に合う。"
+      },
+      "selected_product_evidence": "自然選抜10商品研究票2026-10-18。SRS-XB100、SoundCore miniに共通する円筒コンパクトBluetoothスピーカーのカテゴリ形状。実在商品の正確な写真とせず、BGMを流す代表1点イメージ。",
+      "production_mode": "reuse",
+      "sha256": "1c1462e67a44e35d39b0e6b6e9611b3f120a4994a5ddf5cc364464f51ec31d91"
+    },
+    {
+      "date": "2026-10-19",
+      "theme": "photo_printer",
+      "article_title": "写真を手元に残す「スマホ対応フォトプリンター」7選",
+      "note_id": "n217f570ba2d9",
+      "note_url": "https://note.com/daily_gadget/n/n217f570ba2d9",
+      "reserved_at": "2026-10-19T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-19_photo_printer.png",
+      "reuse_candidate": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "白いマット樹脂。KODAK Mini2/Canon iNSPiC/instax Link/Xiaomi採用品の白い携帯筐体素材と一致。",
+        "structure": "単体携帯フォトプリンター。薄い長方形筐体、前面スロットから小写真を排出。スマホミニプリンターカテゴリの構造と一致。ラベル機や感熱ロール紙機ではない。",
+        "use_case": "小写真を生活空間で紙に残すテーマに一致。1枚のみ排出し写真面と本体を混同しない。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "no_malformed_objects": true,
+        "notes": "写真を排紙スロットからテーブルへ自然に支持。主役1点、文字無し、写真プリント1枚。1672×941=約16:9。"
+      },
+      "provisional_prompt": "Use case: photorealistic-natural. Asset type: note article thumbnail. Create an editorial lifestyle photo of one compact white smartphone photo printer on a living-room side table with one small printed landscape photograph resting naturally in the output tray; no phone needed. Wide 16:9 horizontal composition. Single clear hero product centered in the horizontal middle band, fully visible with natural contact shadows. Practical lived-in room, soft daylight, white and natural wood with dark neutral product materials. Real consumer-product scale and coherent hardware. No people, hands, faces, body parts, brands, logos, readable text, numerical displays, watermarks, decorative clutter, impossible joints, crossing or merged cables, floating objects. Category illustration, not an exact manufacturer product photograph.",
+      "provisional_prompt_status": "Do not generate until selected products verified. Adjust hero material/structure to selected product list.",
+      "production_mode": "built-in image_gen",
+      "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-fbe9975e-3559-4a8e-a1ee-06c34b633fde.png",
+      "sha256": "ce373a5ac9ab51aade86506cfc9d5226047f78142b5d9324353790279697e072",
+      "final_prompt": "Use case: photorealistic-natural. Asset type: note gadget article thumbnail, wide 16:9 editorial lifestyle photograph. Article: smartphone-compatible photo printers that keep digital photographs as real prints. One single hero product: a small white rectangular portable photo printer, rounded corners, approximately palm-sized, matte plastic, low-profile casing, one narrow print output slot at its front edge, resting horizontally on a light natural wood living-room side table. A single small borderless color photograph of a mountain lake emerges a short way from that slot, physically supported by the table. Generic plausible category design inspired by small portable instant photo printers, no exact manufacturer reproduction. No display or dock. Camera at a slight 30-degree downward angle, subject fully visible near the horizontal center and lower middle band, clear silhouette and moderate surrounding space. A softly blurred neutral sofa and window in the background. Quiet warm natural daylight, realistic contact shadow, true textures, restrained magazine photography. No smartphone, no second printer, no lineup, no people or body parts, no hands, no logo, no letters, no numerals, no brands, no labels, no watermark, no floating objects, no intersecting paper or broken mechanisms. Landscape 16:9 composition."
+    },
+    {
+      "date": "2026-10-20",
+      "theme": "digital_notebook",
+      "article_title": "手書きをデータに残す「デジタルノート」9選",
+      "note_id": "ndbe6dad9c958",
+      "note_url": "https://note.com/daily_gadget/n/ndbe6dad9c958",
+      "reserved_at": "2026-10-20T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-20_digital_notebook.png",
+      "reuse_candidate": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "白黒筐体、非発光の灰色電子ペーパー、黒い専用ペン。選抜reMarkable/QUADERNO/iFLYTEK等のEInk分類に一致。",
+        "structure": "薄型筆記タブレット1点＋専用ペン1本の附属物。画面に黒い幾何手書き線、保存できない消去専用メモパッドのスイッチ等を付けない。",
+        "use_case": "手書きをデジタルデータとして残す代表的な電子ノート場面。本文9選には紙スキャン式もあるが主の選抜指定によりEInk本体を代表。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "no_malformed_objects": true,
+        "notes": "タブレット全面と四隅が見える。画面図形のみ、ペンは机へ自然に接地、実用品らしい厚さ。"
+      },
+      "provisional_prompt": "Use case: photorealistic-natural. Asset type: note article thumbnail. Create an editorial lifestyle photo of one slim grayscale e-paper digital handwriting notebook lying on a quiet workspace desk, with a single stylus resting separately alongside; its display shows only simple unlabeled hand-drawn lines, no writing. Wide 16:9 horizontal composition. Single clear hero product centered in the horizontal middle band, fully visible with natural contact shadows. Practical lived-in room, soft daylight, white and natural wood with dark neutral product materials. Real consumer-product scale and coherent hardware. No people, hands, faces, body parts, brands, logos, readable text, numerical displays, watermarks, decorative clutter, impossible joints, crossing or merged cables, floating objects. Category illustration, not an exact manufacturer product photograph.",
+      "provisional_prompt_status": "Do not generate until selected products verified. Adjust hero material/structure to selected product list.",
+      "production_mode": "built-in image_gen",
+      "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-15028875-770f-453b-b95b-e76196ee418a.png",
+      "sha256": "208acd03021a25b2f67393bddd610644c374cab63cf50167d072f19aa5c06bec",
+      "final_prompt": "Use case: photorealistic-natural. Asset type: note gadget article thumbnail, 16:9 landscape editorial lifestyle photograph. Article topic: preserve handwritten notes as digital data. One single hero product: a slim white-and-charcoal 10-inch E-Ink handwriting tablet lying flat at a mild diagonal on a quiet light natural wood desk. Matte paper-like grayscale display with a few simple hand-drawn unlabeled geometric lines and circles, no letters or numbers, no detailed interface. A dedicated slim black stylus lies naturally next to its edge as its accessory, fully separate with coherent contact shadow. Generic electronic handwriting notebook category, inspired by paper tablets, not a precise branded replica and not an LCD erase-only memo pad. The tablet sits centrally across the horizontal middle band, all corners visible. Camera at a slightly elevated30-degree angle, screen clear but no camera distortion. Background softly blurred office shelf and window, one plain ceramic cup far behind, otherwise restrained. Soft natural daylight, accurate texture and plausible scale, no glowing color screen. No people, hands, faces or body parts, no logos, readable writing, numerals, watermarks, labels, extra tablets, lineup, laptops, floating pens, clipping, intersecting objects, broken geometry. Practical clean magazine-quality photograph."
+    },
+    {
+      "date": "2026-10-21",
+      "theme": "mobile_monitor",
+      "article_title": "出先で画面を増やす「モバイルモニター」7選",
+      "note_id": "n46e330112df1",
+      "note_url": "https://note.com/daily_gadget/n/n46e330112df1",
+      "reserved_at": "2026-10-21T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-21_mobile_monitor.png",
+      "reuse_candidate": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "黒い樹脂/金属の薄型筐体と液晶表示。選抜7商品の黒いモバイルモニターカテゴリに一致。",
+        "structure": "独立した薄型画面1点をキックスタンドで接地、PCとの単一ケーブル。EVICIV/ARZOPAの自立スタンド付き又はcocopar等カバー台座の携帯外部表示カテゴリと一致。",
+        "use_case": "ホテルの小机でPCの画面を追加する場面。主役はモバイルモニター、PCは用途説明の副小物。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "no_malformed_objects": true,
+        "notes": "主役画面1点、明確な後脚支持と自然な接地。ケーブルPCと画面へ接続。原寸と縮小で主題明瞭。"
+      },
+      "provisional_prompt": "Use case: photorealistic-natural. Asset type: note article thumbnail. Create an editorial lifestyle photo of one slim portable external monitor supported by a plausible folding rear stand on a small travel work table; screen shows only abstract muted solid color, no text; no laptop or second monitor. Wide 16:9 horizontal composition. Single clear hero product centered in the horizontal middle band, fully visible with natural contact shadows. Practical lived-in room, soft daylight, white and natural wood with dark neutral product materials. Real consumer-product scale and coherent hardware. No people, hands, faces, body parts, brands, logos, readable text, numerical displays, watermarks, decorative clutter, impossible joints, crossing or merged cables, floating objects. Category illustration, not an exact manufacturer product photograph.",
+      "provisional_prompt_status": "Do not generate until selected products verified. Adjust hero material/structure to selected product list.",
+      "production_mode": "built-in image_gen",
+      "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-5f1f5479-866a-4be4-b374-8109ff5d3b1a.png",
+      "sha256": "a74055c80ea5733ae170544e120ea6fdb7cf25fae1b323b4ca6bf29e3d448508",
+      "final_prompt": "Use case: photorealistic-natural. Asset type: note gadget article thumbnail, wide landscape 16:9 editorial lifestyle photo. Primary request: a practical travel workspace with a single portable external monitor as the obvious hero product, showing how a traveler expands a laptop workspace. Subject: one slim black 15.6-inch portable display with a realistic thin rectangular bezel, supported by a folding rear kickstand on a small light wooden table. Center the portable monitor in the central horizontal band, fully visible at a gentle 30-degree angle. Its screen shows a simple soft blue abstract background only, no letters, icons, logos, numbers or interfaces. A secondary plain laptop can sit farther behind and slightly left, naturally connected to the portable monitor by one short coherent black USB-C cable; laptop screen muted and out of focus. Do not make the laptop the hero. Background: quiet small business hotel room with curtains, daylight from a side window, a travel bag softly blurred in the background. Natural consumer-product scale, realistic contact shadow, coherent kickstand and hinge, relaxed clean composition, no catalogue product lineup. No people or hands or body parts, no text or logo or watermark, no labels, no second portable display, no extra desktop monitor, no floating screens, no broken supports, no intersecting or merged cables, no stylized glow. Restrained photorealistic magazine photograph, white natural wood and charcoal tones."
+    },
+    {
+      "date": "2026-10-22",
+      "theme": "microphone",
+      "article_title": "声をクリアに届ける「USBマイク」7選",
+      "note_id": "nd1f5c93ce81e",
+      "note_url": "https://note.com/daily_gadget/n/nd1f5c93ce81e",
+      "reserved_at": "2026-10-22T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-22_usb_mic.png",
+      "reuse_candidate": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-07/2026-07-23_voice_input_microphone.png",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "黒い金属/樹脂本体と上部黒い金属メッシュ。採用品卓上USBコンデンサーマイクと素材一致。",
+        "structure": "単体の円筒卓上USBマイク、左右ヨークと円形台座、1本ケーブル。Blue Yeti等卓上USB本体カテゴリの構造一致。",
+        "use_case": "机上で声をクリアに届ける録音/配信/通話用途。レコーダーやヘッドセットを誤用していない。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "notes": "USB卓上マイク1点、台座とヨークは物理的に自然。ケーブル単一。"
+      },
+      "production_mode": "reuse",
+      "sha256": "b72f10bf207d795372bc2926eabc89c488570ed12e2ab0550891b72ab23bc26b",
+      "selected_product_evidence": "2026-10-22自然選抜7商品の研究票、特にBlue Yeti卓上USBマイク構造と照合。"
+    },
+    {
+      "date": "2026-10-23",
+      "theme": "monitor_arm",
+      "article_title": "机の上を広くする「モニターアーム」6選",
+      "note_id": "n59fc38cccd07",
+      "note_url": "https://note.com/daily_gadget/n/n59fc38cccd07",
+      "reserved_at": "2026-10-23T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-23_monitor_arm.png",
+      "reuse_candidate": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "黒いスチール/樹脂部材。AmazonBasics等選抜シングル金属アーム分類と一致。",
+        "structure": "台座無しのモニターを柱と可動リンクで支持、クランプが机の厚みを挟む、VESA板ボルトと支持パスが連続。複数画面品も本文にあるが主指定のシングルを代表にした。",
+        "use_case": "画面下の机を空ける用途が一目で分かる後方視点。自立型台座や別モニターを誤用せずアームが主役。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "no_malformed_objects": true,
+        "notes": "クランプ・柱・ジョイント・VESA板が機械的に連続。主役アームは中央帯にある。画面上端余白は狭いが切れておらず、noteトリミングで主役は残る。"
+      },
+      "provisional_prompt": "Use case: photorealistic-natural. Asset type: note article thumbnail. Create an editorial lifestyle photo of one black single-monitor articulated arm clamped visibly to the back of a sturdy desk, supporting one plain blank-screen monitor; coherent attachment plate and only two simple joints. Wide 16:9 horizontal composition. Single clear hero product centered in the horizontal middle band, fully visible with natural contact shadows. Practical lived-in room, soft daylight, white and natural wood with dark neutral product materials. Real consumer-product scale and coherent hardware. No people, hands, faces, body parts, brands, logos, readable text, numerical displays, watermarks, decorative clutter, impossible joints, crossing or merged cables, floating objects. Category illustration, not an exact manufacturer product photograph.",
+      "provisional_prompt_status": "Do not generate until selected products verified. Adjust hero material/structure to selected product list.",
+      "production_mode": "built-in image_gen",
+      "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-07aecefa-6552-435e-a1aa-daa94509106b.png",
+      "sha256": "6a4f6665e9449362703732e2d046b0636491f407b353bec4ac3c70557d1da50b",
+      "final_prompt": "Use case: photorealistic-natural. Asset type: 16:9 wide note gadget article thumbnail. Editorial lifestyle photograph about freeing desktop space using a monitor arm. The single hero product is one matte black single-monitor articulated support arm, realistically clamped to the back edge of a light oak desk and supporting one plain24-inch thin black monitor. Camera is behind and slightly to the side of the monitor so the support arm and mounting connection are the clear central subject. Show the whole simple load-bearing path: desk clamp grips the desk firmly, one short upright post, a simple two-link arm with two coherent pivot joints, and a single VESA mounting plate fastened flat to the monitor back. No freestanding monitor base; desktop space below is visibly clear. The generic arm resembles practical consumer monitor supports without precise brand reproduction. Keep the arm central in the horizontal middle band, all hardware fully visible, no complex extra joints. Monitor is just the supported accessory. Restrained quiet home office, soft window daylight, pale wall, a small notebook far to one side. Realistic scale, steel and matte plastic textures, plausible shadows, clean working room. No logos, readable text, labels, numbers, watermarks, people, hands or body parts. No second arm or second screen, no impossible hinges, no detached mounting joints, no floating hardware, no intersecting furniture, no cable tangle or unnecessary cable. Practical photorealistic magazine quality."
+    },
+    {
+      "date": "2026-10-24",
+      "theme": "white_noise_machine",
+      "article_title": "眠る前の音を整える「ホワイトノイズマシン」5選",
+      "note_id": "n91d86bd125e0",
+      "note_url": "https://note.com/daily_gadget/n/n91d86bd125e0",
+      "reserved_at": "2026-10-24T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-24_white_noise.png",
+      "reuse_candidate": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-06/2026-06-25_nature_sound_machine.png",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "白い樹脂本体と灰色の音声グリル。白い小型卓上スリープ音源カテゴリと一致。",
+        "structure": "丸角の低い卓上装置1点、上部音声グリルと前面音量調整ノブ。メーカー個体の完全再現ではなく睡眠用音源カテゴリ。異なるノイズ機の機能が見える文字/表示はない。",
+        "use_case": "寝室のサイドテーブルで就寝前の音を整える用途に合う。可視音波やヘッドホン/別製品を混在させない。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "notes": "寝室に白い音再生機1点。可視音波なし。就寝前の音環境に合う。"
+      },
+      "production_mode": "reuse",
+      "sha256": "375e0f0fd4c412ed7cb6eb135ab3d6300723c54836065d5fb082d5129653cd18",
+      "selected_product_evidence": "2026-10-24自然選抜5商品の研究票、白い卓上Dreamegg D1等の小型スリープ音源カテゴリと照合。",
+      "reference_sources": [
+        "https://dreamegg.com/products/classic-d1"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "theme": "trackball",
+      "article_title": "省スペースで操作する「トラックボール」9選",
+      "note_id": "n9fbd15ab2405",
+      "note_url": "https://note.com/daily_gadget/n/n9fbd15ab2405",
+      "reserved_at": "2026-10-25T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-25_trackball.png",
+      "reuse_candidate": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "マット黒樹脂＋青い球。採用品M575/ProtoArc等右手親指トラックボール分類と一致。",
+        "structure": "一体型マウス筐体左親指側の露出球＋主ボタン＋ホイール、球がソケットに自然に埋まる。親指式を代表。",
+        "use_case": "机で本体を動かさず省スペース操作する製品分類。手や普通マウスを足さない。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "no_malformed_objects": true
+      },
+      "provisional_prompt": "Use case: photorealistic-natural. Asset type: note article thumbnail. Create an editorial lifestyle photo of one black stationary trackball mouse with a clear blue ball and realistic palm-shaped body on a desk mat. Wide 16:9 horizontal composition. Single clear hero product centered in the horizontal middle band, fully visible with natural contact shadows. Practical lived-in room, soft daylight, white and natural wood with dark neutral product materials. Real consumer-product scale and coherent hardware. No people, hands, faces, body parts, brands, logos, readable text, numerical displays, watermarks, decorative clutter, impossible joints, crossing or merged cables, floating objects. Category illustration, not an exact manufacturer product photograph.",
+      "provisional_prompt_status": "Do not generate until selected products verified. Adjust hero material/structure to selected product list.",
+      "production_mode": "built-in image_gen",
+      "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-fc6f0a1e-713b-4ea0-89d9-345f99a288ef.png",
+      "sha256": "ad46304689b910b599af0f5c3fc4a342821d2e941346ad43e0c25e2236e0ac5d",
+      "final_prompt": "Use case: photorealistic-natural. Asset type: 16:9 wide note gadget article thumbnail. One single hero product: a dark charcoal ergonomic wireless thumb-operated trackball mouse, stationary on a gray desk mat. A clearly visible smooth blue spherical ball sits recessed on its left thumb side, the upper surface has two realistic mouse buttons and a small coherent scroll wheel, palm-shaped body, plausible consumer size. Category illustration similar to modern thumb trackballs, no exact branded replica. Center the product in the horizontal middle band, fully visible, slight30-degree elevated camera angle. Restrained home office desk, a closed notebook far behind, soft window daylight, natural wood and neutral colors, realistic contact shadows. Show one trackball only, no normal mouse beside it. No people, hands or body parts, no text, logo, labels, numerals, watermark. No floating ball, detached buttons, impossible extra parts, melted plastic, second product, decorative clutter. Photorealistic editorial lifestyle photography."
+    },
+    {
+      "date": "2026-10-26",
+      "theme": "smart_plug",
+      "article_title": "消し忘れを防ぐ「スマートプラグ」7選",
+      "note_id": "n4c54f7821cea",
+      "note_url": "https://note.com/daily_gadget/n/n4c54f7821cea",
+      "reserved_at": "2026-10-26T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-26_smart_plug.png",
+      "reuse_candidate": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "白い樹脂小型筐体、Tapo P105/P110M、SwitchBot PlugMini等と素材分類一致。",
+        "structure": "日本2ピン差込口に完全挿入、小型2スロット表面と側面電源ボタン。接地穴無し。",
+        "use_case": "家電電源の遠隔/タイマー管理・消し忘れ防止。7採用品の直差し一口スマートプラグカテゴリと一致。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "no_malformed_objects": true
+      },
+      "provisional_prompt": "Use case: photorealistic-natural. Asset type: note article thumbnail. Create an editorial lifestyle photo of one small white smart plug inserted into a Japanese wall outlet, its front two-slot socket empty; separate natural side power button, clearly seated into the outlet. Wide 16:9 horizontal composition. Single clear hero product centered in the horizontal middle band, fully visible with natural contact shadows. Practical lived-in room, soft daylight, white and natural wood with dark neutral product materials. Real consumer-product scale and coherent hardware. No people, hands, faces, body parts, brands, logos, readable text, numerical displays, watermarks, decorative clutter, impossible joints, crossing or merged cables, floating objects. Category illustration, not an exact manufacturer product photograph.",
+      "provisional_prompt_status": "Do not generate until selected products verified. Adjust hero material/structure to selected product list.",
+      "production_mode": "built-in image_gen",
+      "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-4c1434f8-0921-4d66-bc4a-071e56b682c2.png",
+      "sha256": "1a5429a2141601588864630934555f8488a6b4ef0a86c3d9d1bc3535d129b457",
+      "final_prompt": "Use case: photorealistic-natural. Asset type: 16:9 wide note gadget article thumbnail. Topic: prevent forgotten power using smart plugs. One single hero product: a compact white rounded rectangular Wi-Fi smart plug correctly inserted fully into one Japanese two-prong wall outlet on a pale interior wall beside a living-room side table. The smart plug's front has exactly two narrow vertical socket slots, no ground hole, and a small plain side power button. Show the separate boundary of the device and wall outlet, firmly seated, plausible small consumer scale. No numeric display or screen. Center the plug across the horizontal middle band. A softly blurred floor lamp and light wooden table provide household context without drawing focus, warm soft window daylight, realistic contact shadows. No second plug, power strip or tangled cable, no additional appliance closeup. No text, labels, logos, symbols, watermark, people or hands. No imaginary outlet holes, floating plug, malformed wall socket, crossed cables or melted casing. Practical photorealistic magazine lifestyle photograph.",
+      "selected_product_evidence": "2026-10-26選抜7商品研究票。Tapo P105/P110M、SwitchBot PlugMini等白い直差し小型プラグカテゴリと一致。"
+    },
+    {
+      "date": "2026-10-27",
+      "theme": "robot_vacuum",
+      "article_title": "掃除を任せて時間をつくる「ロボット掃除機」6選",
+      "note_id": "nbb960e6006ae",
+      "note_url": "https://note.com/daily_gadget/n/nbb960e6006ae",
+      "reserved_at": "2026-10-27T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-27_robot_vacuum.png",
+      "reuse_candidate": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "白い樹脂本体と黒センサー帯、Dreame等採用品の素材分類一致。",
+        "structure": "丸型低背充電式本体、上部LiDAR、下部ブラシ。Dreame/DEEBOT等との構造一致。充電ベースは画像の主役1点仕様で省略、他機種にも全てLiDARありとは示さない。",
+        "use_case": "リビング床を自動掃除する本体場面。付属品比較記事ではなく6製品選択肢の用途代表。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_readable_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "no_malformed_objects": true
+      },
+      "provisional_prompt": "Use case: photorealistic-natural. Asset type: note article thumbnail. Create an editorial lifestyle photo of one round low-profile white robotic vacuum on a clean living-room wood floor; a small lidar turret with natural housing, no dock or additional appliance. Wide 16:9 horizontal composition. Single clear hero product centered in the horizontal middle band, fully visible with natural contact shadows. Practical lived-in room, soft daylight, white and natural wood with dark neutral product materials. Real consumer-product scale and coherent hardware. No people, hands, faces, body parts, brands, logos, readable text, numerical displays, watermarks, decorative clutter, impossible joints, crossing or merged cables, floating objects. Category illustration, not an exact manufacturer product photograph.",
+      "provisional_prompt_status": "Do not generate until selected products verified. Adjust hero material/structure to selected product list.",
+      "production_mode": "built-in image_gen",
+      "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-60890dc2-042b-4934-a581-f7c63f63b9e3.png",
+      "sha256": "8f6e478866c4d7d60d9b93fafe5b4d16924fa28787489a953e4d7f0751b0eba9",
+      "final_prompt": "Use case: photorealistic-natural. Asset type: 16:9 wide landscape note article thumbnail. Topic: robotic vacuums clean floors while away from home. One single hero product: a low-profile round white robot vacuum, about35cm wide, naturally resting on a clean pale wood living-room floor, with a small coherent circular lidar turret on its top and a realistic dark front sensor strip. Rounded matte white housing, two small unmarked top buttons. Generic practical modern robot vacuum category, no precise manufacturer replica. Center the entire robot in the horizontal middle band, camera low at a gentle30-degree angle so its round shape and clearance are visible. A neutral sofa and folded rug sit softly blurred far behind, practical tidy living room, soft natural daylight, physically accurate floor contact and soft shadows. No dock, no second vacuum, no lineup, no people or hands, no body parts, no logos, text, numerals, labels, watermarks, decorative clutter, floating chassis, deformed brushes, glowing sensors, melted parts or impossible furniture planes. Photorealistic restrained editorial lifestyle photography.",
+      "selected_product_evidence": "2026-10-27自然選抜6商品研究票。Dreame L10s Ultra Gen2/ECOVACS等丸型LiDAR機を代表。本体のみで付属ベースの省略は主役1製品の仕様。",
+      "reference_sources": [
+        "https://www.dreametech.com/products/l10s-ultra-gen-2-robot-vacuum"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "theme": "massage_gun",
+      "article_title": "休憩時間に使いやすい「マッサージガン」6選",
+      "note_id": "n67d7371faab4",
+      "note_url": "https://note.com/daily_gadget/n/n67d7371faab4",
+      "reserved_at": "2026-10-28T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-28_massage_gun.png",
+      "reuse_candidate": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "マット黒樹脂/金属と球状フォームヘッド。MYTREX等付属球ヘッド分類一致。",
+        "structure": "T字充電式本体＋装着球ヘッド1個、水平バレルと把持柄が連続。複数付属ヘッドの陳列はしない。電源/充電ケーブルを装着する稼働場面ではない。",
+        "use_case": "休憩時間の身体ケア用途、個別疾病への効能を画像で追加せず、人/手を描かない。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_readable_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "no_malformed_objects": true
+      },
+      "provisional_prompt": "Use case: photorealistic-natural. Asset type: note article thumbnail. Create an editorial lifestyle photo of one compact T-shaped matte dark gray massage gun with one black spherical massage head, lying naturally on its side on a desk side table beside a folded towel. Wide 16:9 horizontal composition. Single clear hero product centered in the horizontal middle band, fully visible with natural contact shadows. Practical lived-in room, soft daylight, white and natural wood with dark neutral product materials. Real consumer-product scale and coherent hardware. No people, hands, faces, body parts, brands, logos, readable text, numerical displays, watermarks, decorative clutter, impossible joints, crossing or merged cables, floating objects. Category illustration, not an exact manufacturer product photograph.",
+      "provisional_prompt_status": "Do not generate until selected products verified. Adjust hero material/structure to selected product list.",
+      "production_mode": "built-in image_gen",
+      "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-df93b80a-9099-49be-ae79-88d1ba94acc2.png",
+      "sha256": "533a8146f630446b2c63ecd0d102fb564dd28381132269bbc37517ca71bd7ee4",
+      "final_prompt": "Use case: photorealistic-natural. Asset type: 16:9 wide note gadget article thumbnail. Topic: use a compact massage gun after deskwork. One single hero product: a small handheld T-shaped matte charcoal massage gun lying naturally on its side on a quiet office side table beside a neatly folded plain towel. One black spherical foam massage head is firmly attached to its short straight horizontal barrel; a single handle extends perpendicular down from the barrel. All parts form a coherent simple T-shape, plausible consumer product scale and clean silhouette, subtle unmarked control button, no numeric screen. Center the whole product in the horizontal middle band, camera at a mild30-degree elevated angle. A softly blurred empty office chair and window suggest a deskwork setting, light wood and neutral gray, soft natural daylight, realistic contact shadows supporting the body and handle. No second tool or extra head, no people, hands, faces or body parts, no logos, text, labels, numbers, watermarks, medical imagery, floating objects, dislocated head, distorted grip, intersecting parts or decorative clutter. Restrained realistic magazine lifestyle photograph.",
+      "selected_product_evidence": "2026-10-28自然選抜6商品研究票、MYTREX REBIVE MINI/uFit/DoctorAir等T字充電式ガンを代表。",
+      "reference_sources": [
+        "https://mytrex.jp/rebive-mini/"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "theme": "voice_recorder",
+      "article_title": "会話を文字で振り返る「AIボイスレコーダー」6選",
+      "note_id": "nc819a81c7eab",
+      "note_url": "https://note.com/daily_gadget/n/nc819a81c7eab",
+      "reserved_at": "2026-10-29T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-29_voice_recorder.png",
+      "reuse_candidate": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-06/2026-06-24_ai_meeting_recorder.png",
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "灰色薄型金属カード。PlaudNoteシルバー/Nottaカード機の分類と一致。",
+        "structure": "カード型充電式AI録音本体1点。露出USBポートなし、ケーブル/マグネットケースは未装着。本体を代表しHiDock P1のダイヤル型と同一とは扱わない。",
+        "use_case": "会議での音声保存と文字振返り。紙ノートの上の録音カードで用途を伝える。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_readable_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "no_malformed_objects": true,
+        "notes": "薄型カードの4辺、ノート上の影、単一操作ボタンとマイク孔は自然。USBstick/スマホ/ペン機と混同しない。"
+      },
+      "production_mode": "built-in image_gen",
+      "sha256": "6299f5e27614c1d8f751ba9279188cdb4076f07c2f411bac1bf27ceee355ba28",
+      "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-3d56cdf4-e48a-463f-8f23-a198634986a3.png",
+      "final_prompt": "Use case: photorealistic-natural. Asset type:16:9 wide note gadget article thumbnail. Topic: review conversations as text using an AI voice recorder. One single hero product: a slim credit-card-shaped gray metal AI audio recorder, approximately85mm by55mm and3mm thick, rounded corners, fine restrained metal texture, one small unmarked physical record control near an upper corner and one subtle tiny microphone perforation, no screen, no cables. It lies flat naturally on a small closed notebook on a quiet meeting desk. This is a card-format rechargeable audio-recording device, not a USB stick, not a pen and not a mobile phone. Generic category illustration inspired by slim card AI recorders, no exact branded reproduction. Center the entire card in the horizontal middle band, fully visible, mild30-degree elevated camera angle. A plain black pen on the table beside it as context, a laptop softly out of focus far behind, no second recording device. Soft window daylight, natural wood and charcoal neutral palette, realistic contact shadows, coherent scale and thin edges. No people, hands or body parts, no logos, letters, numbers, text, labels, watermark, fake transcription screen, floating objects, clipped edges, impossible controls, decorative clutter or recording-device lineup. Restrained photorealistic editorial lifestyle photography.",
+      "selected_product_evidence": "2026-10-29自然選抜6商品研究票。Plaud/Notta/Comulytic等カード型が主な採用品。HiDock P1とは別の代表を明示。",
+      "reference_sources": [
+        "https://www.notta.ai/en/hardware/memo",
+        "https://support.plaud.ai/hc/en-us/articles/50810876232345-Charge-the-device"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "theme": "power_bank",
+      "article_title": "外出先の電池切れに備える「モバイルバッテリー」10選",
+      "note_id": "n56f2fbe8d3ee",
+      "note_url": "https://note.com/daily_gadget/n/n56f2fbe8d3ee",
+      "reserved_at": "2026-10-30T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-30_power_bank.png",
+      "reuse_candidate": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "マット黒い筐体と金属端子。ELECOM/INIU/CIO等の黒い薄型携帯電源分類と一致。",
+        "structure": "長方形充電式電池本体1点＋USB-C/A端子。ELECOM EC-C04BKのC+A分類を代表、内蔵コネクタ型・マグネット型の機能は追加しない。ケーブル未装着の外出準備状態。",
+        "use_case": "外出先の電池切れに備える携帯電源。容量数値/出力数値やロゴを絵で創作しない。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_readable_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "no_malformed_objects": true
+      },
+      "provisional_prompt": "Use case: photorealistic-natural. Asset type: note article thumbnail. Create an editorial lifestyle photo of one compact charcoal rectangular power bank resting on a travel packing table, with plain smooth casing and a USB-C port visible; no numeric screen or additional devices. Wide 16:9 horizontal composition. Single clear hero product centered in the horizontal middle band, fully visible with natural contact shadows. Practical lived-in room, soft daylight, white and natural wood with dark neutral product materials. Real consumer-product scale and coherent hardware. No people, hands, faces, body parts, brands, logos, readable text, numerical displays, watermarks, decorative clutter, impossible joints, crossing or merged cables, floating objects. Category illustration, not an exact manufacturer product photograph.",
+      "provisional_prompt_status": "Do not generate until selected products verified. Adjust hero material/structure to selected product list.",
+      "production_mode": "built-in image_gen",
+      "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-4a44f2fc-0c0d-4185-a079-3705d68f7c33.png",
+      "sha256": "3817f1e481046c3e524bb8511b132626666fa2520b5c141a32b2e33a008ae54b",
+      "final_prompt": "Use case: photorealistic-natural. Asset type: 16:9 wide note gadget article thumbnail. Topic: avoid battery depletion away from home using a portable power bank. One single hero product: a compact dark charcoal rectangular portable battery pack, about the size of a small phone but thicker, rounded corners, matte lightly textured shell, lying flat naturally on a light wood travel packing table. A realistic USB-C and USB-A port are clearly visible on its near edge, no numeric display, no integrated cable or branded feature. The entire power bank is centered in the horizontal middle band and fully visible, camera at a mild30-degree elevated angle. A softly blurred small canvas travel pouch and closed notebook far behind give travel context, no phone or second electronic product. Soft natural window daylight, realistic contact shadows, coherent ports and believable small scale. No people, hands, body parts, logos, text, labels, numbers, watermark, second battery, catalogue lineup, floating objects, impossible connectors or wires. Restrained photorealistic editorial lifestyle photo with natural wood and neutral colors.",
+      "selected_product_evidence": "2026-10-30親ASIN別10品の研究票。ELECOM EC-C04BK等のUSB-C/Aポート付き薄型長方形バッテリーを代表。内蔵ケーブル型/マグネット型も本文には含むが画像でその機能を装わない。"
+    },
+    {
+      "date": "2026-10-31",
+      "theme": "ring_light",
+      "article_title": "撮影する顔を明るく映す「リングライト」7選",
+      "note_id": null,
+      "note_url": "",
+      "reserved_at": "2026-10-31T20:00:00+09:00",
+      "status": "qa_passed",
+      "output_path": "04_thumbnail/2026-10/2026-10-31_ring_light.png",
+      "reuse_candidate": null,
+      "five_point_audit": {
+        "article_format": "カテゴリ比較記事、既存アカウント仕様の代表1製品を継続",
+        "count": "主役1製品。記事掲載全商品を陳列しない",
+        "material": "黒い金属/樹脂支持部と白いLED発光面、Yarrashop/MIGABER等卓上リング分類に一致。",
+        "structure": "単一円環LED＋直線支柱＋重い丸台座が連続。中央空洞、スマホホルダーは附属物を未装着。採用USB給電型であり電池内蔵機能は表現せず、背面給電口と線は視点の背後に隠れる構図。",
+        "use_case": "撮影/配信/顔を明るく映す用途の卓上円環光源。四角いパネルライトへすり替えず、顔/手を描かない。"
+      },
+      "visual_qa": {
+        "viewed_original": true,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "format": "PNG",
+        "no_people": true,
+        "no_logo_or_readable_text": true,
+        "grounding_shadow": true,
+        "subject_central_band": true,
+        "no_malformed_objects": true,
+        "notes": "親の原寸再検査で旧版中央が灰色円盤/鏡に見えたため1枚修正。最終版中央は窓の白い垂直枠と緑の屋外背景が見え、リングの上下外の窓と連続している。面板/鏡/ディフューザー無し。支持部・台座・周囲構図維持。",
+        "clear_open_center": true
+      },
+      "provisional_prompt": "Use case: photorealistic-natural. Asset type: note article thumbnail. Create an editorial lifestyle photo of one circular LED ring light mounted coherently on a short weighted tabletop stand on a home filming desk; gentle white LED illumination, center hole empty, no phone holder or second lighting product. Wide 16:9 horizontal composition. Single clear hero product centered in the horizontal middle band, fully visible with natural contact shadows. Practical lived-in room, soft daylight, white and natural wood with dark neutral product materials. Real consumer-product scale and coherent hardware. No people, hands, faces, body parts, brands, logos, readable text, numerical displays, watermarks, decorative clutter, impossible joints, crossing or merged cables, floating objects. Category illustration, not an exact manufacturer product photograph.",
+      "provisional_prompt_status": "Do not generate until selected products verified. Adjust hero material/structure to selected product list.",
+      "production_mode": "built-in image_gen",
+      "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-01a036a8-e52d-49e8-90eb-7d2b51bc0326.png",
+      "sha256": "d4845d0567c07784f918a700725f26b34dea6eca60bd5fde717d845253a9eb4d",
+      "final_prompt": "Edit only this ring-light thumbnail to remove the apparent gray disk or mirror inside the center. The LED ring must be a genuinely hollow open circle with absolutely no central panel, mirror, diffuser sheet, lens, gray fill or membrane. Position the same ring in front of the visible window edge: through the EMPTY central hole the viewer must clearly see the room's real background, including a recognizable vertical white window frame and soft green outdoor foliage. The background geometry inside the hole must continue seamlessly with the same window/curtain geometry visible immediately outside the ring, proving it is an empty opening. Keep the existing photorealistic lifestyle style, single circular illuminated ring light, coherent black upright stem and round tabletop base, natural wood table, soft daylight, wide16:9 1672x941 composition and central hero framing. Keep all hardware plausible and connected. No center phone holder, no phone or other object in the opening. No people, hands, body parts, readable text, numbers, logos, watermark, second light, floating objects or broken stands. Backside power cable may remain hidden. Make the opening unmistakably see-through, not flat gray.",
+      "selected_product_evidence": "2026-10-31自然選抜7品研究票。Yarrashop/MIGABERの円環LED＋金属製卓上台座構造を代表。クリップ/三脚/大型フロア型は同一形状と扱わない。"
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "path": "2026-02/2026-02-27_フォトプリンター_リビング.png",
+      "reason": "640x640 square does not match16:9 current pattern; printer plus phone composition."
+    },
+    {
+      "path": "2026-01/2026_01_14_epaper_creative_desk_1767051461172.png",
+      "reason": "square, printed microtext and architectural viewing does not establish note recording purpose."
+    },
+    {
+      "path": "2026-02/2026-02-04_mobile-monitor_01.png",
+      "reason": "square, people and multiple monitors in café; current scheme incompatible."
+    },
+    {
+      "path": "2026-09/2026-09-11_white_noise_machine.png",
+      "reason": "unrealistic visible sound waves, headphone second category and desk context."
+    },
+    {
+      "path": "2026-03/2026-03-11_一人暮らしの掃除_ロボット掃除機_リビング.png",
+      "reason": "square; logo-like top marks; new generation preferred."
+    },
+    {
+      "path": "2026-01/2026-01-06_高級マッサージガン_MassageGun.png",
+      "reason": "square; composition too low-left for horizontal crop."
+    },
+    {
+      "path": "2026-09/2026-09-06_recovery_massage_tools.png",
+      "reason": "multiple categories (foam roller, balls, neck massager) inconsistent with one massage gun."
+    },
+    {
+      "path": "2026-09/2026-09-18_voice_recorder_transcription.png",
+      "reason": "multiple recording devices and small fake lettering."
+    },
+    {
+      "path": "2026-06/2026-06-14_video_meeting_lights_regen.png",
+      "reason": "rectangular panel light not ring light; structure mismatch."
+    },
+    {
+      "path": "2026-04/0409.png",
+      "reason": "white Gemini watermark, phone has ON text; plug composition right of center and outlet-ground prong mismatch with Japanese two-prong category."
+    }
+  ],
+  "contact_sheet": "04_thumbnail/2026-10/2026-10-18_31_contact_sheet.jpg",
+  "regenerations": [
+    {
+      "date": "2026-10-29",
+      "rejected_path": "04_thumbnail/2026-10/2026-10-29_voice_recorder.png",
+      "reason": "再利用棒型1ボタン機はHiDock P1のダイヤル/表示構造に不一致、採用品多数はカード型だった。",
+      "accepted_path": "04_thumbnail/2026-10/2026-10-29_voice_recorder_v2.png"
+    },
+    {
+      "date": "2026-10-31",
+      "rejected_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-4d826e6c-8c7c-4795-bf25-683b607dda25.png",
+      "rejected_sha256": "4caea5ed77a4943205649a02f68440bf0da109f81bb7d40a54d3ce5b4ceb88c3",
+      "reason": "中央空洞が灰色鏡/円盤に見えた。窓枠と屋外が穴越しに見える連続背景へ修正。",
+      "accepted_path": "04_thumbnail/2026-10/2026-10-31_ring_light.png",
+      "accepted_source": "/Users/shoheishimizu/.codex/generated_images/01a11e03-b221-7fc2-8bdc-5c6d52ac4c11/exec-01a036a8-e52d-49e8-90eb-7d2b51bc0326.png"
+    }
+  ],
+  "production_counts": {
+    "reused": 3,
+    "new_generated": 11,
+    "final_product_qa_passed": 14,
+    "pending": 0,
+    "regenerated": 2
+  },
+  "integration_note": "29正式worktreepathはvoice_recorder_v2.png。mainはcanonical29_voice_recorder.pngへコピーしthumbnail_sources/v2にも原本保存済みとの親報告。統合時にmain側manifestでpath変更する。worktreeは非上書きv2原本を維持。"
+}

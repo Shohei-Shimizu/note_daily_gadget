@@ -1,0 +1,61 @@
+{
+  "status": "unmeasured_candidates_only",
+  "db_writes": false,
+  "network_used": false,
+  "topics": [
+    {
+      "date": "2026-11-05",
+      "type": "timer",
+      "candidate_count": 33,
+      "parent_groups": 22,
+      "topic_id": "daily_gadget_20261105_5405bca5",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-05_timer_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-05_timer_scope_audit.json"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "usb_hub",
+      "candidate_count": 13,
+      "parent_groups": 13,
+      "topic_id": "daily_gadget_20261106_25de440c",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_usb_hub_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_usb_hub_scope_audit.json"
+    },
+    {
+      "date": "2026-11-07",
+      "type": "webcam",
+      "candidate_count": 11,
+      "parent_groups": 11,
+      "topic_id": "daily_gadget_20261107_e7642028",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_webcam_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_webcam_scope_audit.json"
+    },
+    {
+      "date": "2026-11-08",
+      "type": "thermo_hygrometer",
+      "candidate_count": 10,
+      "parent_groups": 8,
+      "topic_id": "daily_gadget_20261108_5512daf8",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_thermo_hygrometer_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_thermo_hygrometer_scope_audit.json"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "external_hdd",
+      "candidate_count": 21,
+      "parent_groups": 20,
+      "topic_id": "daily_gadget_20261109_fd8499b3",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_external_hdd_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_external_hdd_scope_audit.json"
+    },
+    {
+      "date": "2026-11-10",
+      "type": "charger",
+      "candidate_count": 31,
+      "parent_groups": 27,
+      "topic_id": "daily_gadget_20261110_5bb157d8",
+      "candidate_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-10_charger_candidates.json",
+      "audit_path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-10_charger_scope_audit.json"
+    }
+  ]
+}

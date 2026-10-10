@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-26",
+  "topic_id": "daily_gadget_20261126_9ccd2f95",
+  "status": "primary_supported_replenishment_proposal_not_selected",
+  "theme_change_proposed": false,
+  "rationale": "既存テーマに合う独立メーカー専用音声本体の一次資料がある。まず同テーマ補充と実測で自然な5商品成立を確認する。",
+  "amazon_search_queries": [
+    {
+      "query": "Timekettle Fluentalk 翻訳機 T1",
+      "targets": [
+        "T1 mini",
+        "T1",
+        "NEW T1"
+      ],
+      "note": "イヤホンM3/WT2/WT2Edge/W4を除外し手持ち本体だけ残す。現行改版と旧版の仕様を混ぜない。"
+    },
+    {
+      "query": "Wooask W10 翻訳機",
+      "targets": [
+        "W10"
+      ],
+      "note": "W09が返った場合は同型一次確認のある予備として別監査。W12と同メーカー最大2。"
+    },
+    {
+      "query": "Vasco Translator M3 翻訳機",
+      "targets": [
+        "M3"
+      ],
+      "note": "イヤホンE1とV4色違いを除外。V4と合わせ最大2。"
+    }
+  ],
+  "query_count": 3,
+  "models": [
+    {
+      "maker": "Timekettle",
+      "model": "Fluentalk T1 mini",
+      "priority": "first",
+      "primary_urls": [
+        "https://www.timekettle.co.jp/products/fluentalk-by-timekettle-t1-mini",
+        "https://www.timekettle.co/products/fluentalk-t1-mini-handheld-translator-device"
+      ],
+      "fit": "専用手持ち本体、ボタン音声翻訳。スマホ専用イヤホンではない。",
+      "communication": "初回有効化から1年の内蔵データ通信、WiFi、限定オフライン。通信付属期間と翻訳端末の使用期限を区別。",
+      "service_status": "現行メーカー商品ページに通信/翻訳機能の提供を記載。限定調査で該当モデル停止告知は見つからず。実機疎通・将来継続は未保証。",
+      "same_model_cautions": [
+        "T1とT1 miniを区別。色違いは統合。",
+        "JPページでオンライン36/40、重量85/86gなど表記が混在。数値を確定せず同型資料/最新サポートで照合。",
+        "無料期間終了後の更新条件を実ASIN同型資料で確認。"
+      ]
+    },
+    {
+      "maker": "Timekettle",
+      "model": "NEW T1 / Fluentalk T1",
+      "priority": "first_same_query",
+      "primary_urls": [
+        "https://www.timekettle.co/products/fluentalk-t1-handheld-translator-device",
+        "https://community.timekettle.co/en/post/timekettle-new-t1-user-guide-tutorials-faq-1138838"
+      ],
+      "fit": "専用手持ち音声翻訳本体。現行NEW T1公式に本体ボタンによる対話モードあり。",
+      "communication": "現行NEW T1は24か月付属データ、WiFi/オフライン対応。公式チームの2026-07-29FAQに端末Data Service画面で更新する方法を案内。",
+      "service_status": "現行販売説明と2026年公式チーム手順あり。該当停止告知未発見。",
+      "same_model_cautions": [
+        "リンク先が現行NEW T1へ置換されている。旧T1 ASINに現行52言語やオフライン44組などをそのまま使わない。",
+        "旧T1/NEW T1改版と型番・親を確認。T1 miniとは別モデルの根拠ありだがDB親解決は別途。",
+        "現行公式FAQにオフライン31+組と本体仕様44組など混在。対象SKU同型の値を優先。"
+      ]
+    },
+    {
+      "maker": "Wooask",
+      "model": "W10",
+      "priority": "second",
+      "primary_urls": [
+        "https://store.wooask.com/products/w10-translator-device"
+      ],
+      "fit": "SKU WOOASK-W10。メーカーFAQは外部端末不要の単体音声翻訳機と明記。",
+      "communication": "2.4GHz WiFi。オンライン144=74言語+70アクセント、オフライン16言語。SIM付属の証拠はなくWiFi接続先を用意。",
+      "service_status": "現行メーカー商品ページあり、停止告知未発見。オフラインとオンラインの使用条件を分ける。",
+      "same_model_cautions": [
+        "既存W12とのメーカー最大2枠を守る。",
+        "当該ASIN/日本流通SKUの同型・技適・仕様を確認。"
+      ]
+    },
+    {
+      "maker": "Wooask",
+      "model": "W09",
+      "priority": "backup_same_query_only_if_returned",
+      "primary_urls": [
+        "https://store.wooask.com/products/w09-translator-device"
+      ],
+      "fit": "SKU WOOASK-W09の専用翻訳本体。英語公式の画面サイズはW10と異なる。",
+      "communication": "2.4GHz WiFi、限定オフライン16言語。",
+      "service_status": "現行英語公式ページあり、停止告知未発見。",
+      "same_model_cautions": [
+        "多言語ロケールで見出しW10とW09混在。英語SKUと実製品型番で同型確定。",
+        "W12+W10+W09の3商品採用はメーカー最大2に抵触。補充時も水増ししない。"
+      ]
+    },
+    {
+      "maker": "Vasco",
+      "model": "Translator M3",
+      "priority": "third",
+      "primary_urls": [
+        "https://vasco-translator.jp/translators/vasco-translator-m3/"
+      ],
+      "fit": "公式のM3マイクボタン手順で画面表示・本体音声再生。通常音声翻訳にスマホアプリ必須の記載なし。",
+      "communication": "約200地域の内蔵SIM、4G/WiFiオンライン音声翻訳。メーカー通信無料表示。通話翻訳機能では携帯電話を使うが通常音声翻訳と別。",
+      "service_status": "現行公式同モデル説明/FAQあり、停止告知未発見。販売終了だけで排除しない。",
+      "same_model_cautions": [
+        "現在のAmazon供給と新品の同型確認が必要。既存V4とメーカー最大2を守る。",
+        "M3の音声言語数をQ1/V4の値で説明しない。",
+        "Vasco E1イヤホン型・アプリ必須機種は手持ち本体テーマの補充に混ぜない。"
+      ]
+    }
+  ],
+  "required_gate_after_api": [
+    "返却ASINから独立一次資料へ型番/世代/同梱通信期間を照合",
+    "メーカー名正規化、同一親と色違い統合、1メーカー最大2",
+    "30日再掲載窓（2026-10-27以降）・10月研究票確認",
+    "最新日本Amazon販売/価格/配送/レビュー基準を直列実測",
+    "翻訳速度/精度の広告値は使用実績の保証にしない"
+  ],
+  "service_continuity_limit": "現行提供表示と停止告知の限定検索結果。実機疎通試験や未来のサービス継続を証明したものではない。",
+  "actions_not_performed": [
+    "Amazon API",
+    "measurement",
+    "note UI",
+    "DB writes",
+    "canonical metadata edits",
+    "final selection"
+  ]
+}

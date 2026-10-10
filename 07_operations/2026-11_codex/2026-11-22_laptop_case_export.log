@@ -1,0 +1,24 @@
+
+候補 13 件（除外 0 件）
+--- 無関係な商品が混ざっていないか、必ずタイトルを確認すること ---
+  B089SYBGDL  LANDICI        LANDICI 360°保護 パソコンケース 13 14インチ pcケース 衝撃吸収防水 ノートパソコン [article_dated 2026-08-19]
+  B0FLQ33529  ELECOM         エレコム パソコンケース PC用インナーバッグ ネオプレン 14インチ スリップイン ブラック BM-I [article_dated 2026-09-02]
+  B00CD8AFFW  Amazon         Amazonベーシック PCケース ノートパソコンバッグ スリーブ 14.0インチ ブラック [未実測]
+  B00CD8AFT8  Amazon         Amazonベーシック PCケース ノートパソコンバッグ スリーブ 15.6インチ ブラック [未実測]
+  B06XXB9G8G  tomtoc         tomtoc 360°耐衝撃 パソコンケース 14インチ MacBook Pro 2026-2021 M [未実測]
+  B076DWWQ31  Voova          Voova パソコンケース 15.6 16インチ PCケース ノート パソコンカバー PCバッグ，グレー [未実測]
+  B0BLNGGDQG  bagasin        bagasin 耐衝撃 パソコンケース 13.3インチ [未実測]
+  B0BLNHG168  bagasin        bagasin 耐衝撃 パソコンケース 15 15.6 16インチ [未実測]
+  B0D33FB2GW  ベルモンド          ベルモンド ふわサラ ノートパソコンケース 14インチ 2way PCケース 軽量 衝撃吸収 かわいい  [未実測]
+  B0D33H8XSV  ベルモンド          ベルモンド ふわサラ ノートパソコンケース 15インチ 2way PCケース 軽量 衝撃吸収 かわいい  [未実測]
+  B0D33JGH4G  ベルモンド          ベルモンド ふわサラ ノートパソコンケース 14インチ 2way PCケース 軽量 衝撃吸収 かわいい  [未実測]
+  B0F23BX5NB  ELECOM         エレコム パソコンケース PCインナーバッグ 横型 13.3/14インチ ZEROSHOCK 衝撃吸収  [未実測]
+  B0FLQ4KLSM  Arvok          Arvok パソコンケース 13 13.3 14インチ 360°保護 衝撃吸収 薄型 軽量 撥水 ノート [未実測]
+
+topic_id: daily_gadget_20261122_94561889
+
+書き出し: accounts/daily_gadget/07_operations/2026-11_codex/2026-11-22_laptop_case_candidates.json
+
+次は ③ ファクトチェック。蔵書の観測値は古い可能性があるので必ず --refresh-reviews を付けること:
+  python3 shared/scripts/select_products.py --account daily_gadget \
+    --candidates accounts/daily_gadget/07_operations/2026-11_codex/2026-11-22_laptop_case_candidates.json --date YYYY-MM-DD --title "<テーマ>" --refresh-reviews --dry-run
