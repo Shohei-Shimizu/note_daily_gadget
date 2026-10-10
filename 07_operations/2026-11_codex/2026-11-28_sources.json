@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-28",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B0D53RXMB1",
+      "official_urls": [
+        "https://www.ugreen.com/en-sg/products/sg-45297?variant=48077094781147",
+        "https://uk.ugreen.com/blogs/smart-finder/ugreen-finetrack-smart-finder-set-up"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D53RXMB1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-28_gps_tracker_candidates.json",
+        "path": "candidates[asin=B0D53RXMB1].features"
+      },
+      "verified_article_specs": [
+        "対応ネットワーク：Apple「探す」",
+        "対応OS：iOS／iPadOS 14.5以降",
+        "電源：交換式CR2032電池",
+        "サイズ：36×36×7.4mm",
+        "選択セット：1個"
+      ],
+      "check": "AppleFindMy専用、iOS/iPadOS14.5以上。macOSは位置閲覧のみペアリング不可。交換CR2032。距離と2年寿命を保証しない。充電式75119やSamsungSと区別。"
+    },
+    {
+      "order": 2,
+      "asin": "B0DWMPNCLC",
+      "official_urls": [
+        "https://www.ankerjapan.com/products/t87b1",
+        "https://www.ankerjapan.com/pages/202501-support"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DWMPNCLC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-28_gps_tracker_candidates.json",
+        "path": "candidates[asin=B0DWMPNCLC].features"
+      },
+      "verified_article_specs": [
+        "対応ネットワーク：Apple「探す」",
+        "現行改善版型番：T87B1N12",
+        "厚さ：約2.6mm",
+        "充電：付属マグネット式充電器",
+        "充電電源：USB Type-A充電器が別途必要"
+      ],
+      "check": "現公式改善版商品ページAmazonで購入リンクが当該ASINそのもの。旧版回収と区別。2.6mm/15.4g/専用マグネット充電器+USB-A電源別売、USB-C直接充電ではない。FindMyApple専用、AndroidはEufyローカルアプリ限定でGoogleFindHubではない。充電器を磁気カードへ近接保管しない。"
+    },
+    {
+      "order": 3,
+      "asin": "B0D9VTLK47",
+      "official_urls": [
+        "https://www.ankerjapan.com/products/t87b4",
+        "https://www.ankerjapan.com/blogs/faq/eufy-security-smarttrack-link"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D9VTLK47?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-28_gps_tracker_candidates.json",
+        "path": "candidates[asin=B0D9VTLK47].features"
+      },
+      "verified_article_specs": [
+        "対応ネットワーク：Google Find Hub",
+        "国内型番：T87B4N11",
+        "電源：交換式CR2032電池",
+        "防水：IPX4（本体・水没不可）",
+        "キーチェーン用リング：別途用意"
+      ],
+      "check": "GoogleFindHub専用、37x37x6.5mm/10g/CR2032交換可/IPX4本体。Eufyアプリのみスマホ鳴らし。IPX4水没不可。置忘れ通知常時位置許可とBluetooth範囲依存。"
+    },
+    {
+      "order": 4,
+      "asin": "B0FRLWSGPW",
+      "official_urls": [
+        "https://www.ugreen.com/en-au/products/au-75646p"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0FRLWSGPW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-28_gps_tracker_candidates.json",
+        "path": "candidates[asin=B0FRLWSGPW].features"
+      },
+      "verified_article_specs": [
+        "対応ネットワーク：Apple「探す」／Google Find Hub",
+        "登録：どちらか一方のOSのみ",
+        "電源：USB-C充電式",
+        "選択セット：4個",
+        "位置更新：近隣の対応端末による検出に依存"
+      ],
+      "check": "AppleFindMyまたはGoogleFindHub一方のみペアリング、両OS同時接続/位置共有不可。USB-C充電式、dustplugは防塵プラグでIP等級未確認。Duo2別型の仕様付与なし。SKU番号は記事断定しない。"
+    },
+    {
+      "order": 5,
+      "asin": "B0D99ZHVD2",
+      "official_urls": [
+        "https://support.life360.com/hc/en-us/articles/30583020129047-Tile-Models",
+        "https://support.life360.com/hc/en-us/articles/30583028539799-How-Tile-Works"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D99ZHVD2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-28_gps_tracker_candidates.json",
+        "path": "candidates[asin=B0D99ZHVD2].features"
+      },
+      "verified_article_specs": [
+        "形状：カード型・厚さ2.5mm",
+        "対応：iOS／AndroidのTileアプリ",
+        "探索ネットワーク：Tile独自",
+        "電池：交換不可・充電不可",
+        "防水・防塵：IP68（本体）"
+      ],
+      "check": "Tile独自ネットワーク/TileアプリiOSAndroid、Life360連携。2.5mm/14g/IP68/電池交換不可・充電不可。最大3年は公称使用条件依存。AppleFindMy/GoogleFindHubとは違う。GPSなしリアルタイム位置なし。基本探索とネットワーク無料、SmartAlerts/30日履歴はPremium等の追加課金対象。"
+    },
+    {
+      "order": 6,
+      "asin": "B0D9B21YQP",
+      "official_urls": [
+        "https://support.life360.com/hc/en-us/articles/30583020129047-Tile-Models",
+        "https://support.thetileapp.com/hc/en-us/articles/360009446833-Replace-a-Tile-Battery",
+        "https://support.life360.com/hc/en-us/articles/30582950113303-Find-My-Tile"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D9B21YQP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-28_gps_tracker_candidates.json",
+        "path": "candidates[asin=B0D9B21YQP].features"
+      },
+      "verified_article_specs": [
+        "選択世代：2024年モデル",
+        "対応：iOS／AndroidのTileアプリ",
+        "電源：交換式CR2032電池",
+        "防水・防塵：IP68（本体）",
+        "料金：基本探索無料／追加機能は有料プランあり"
+      ],
+      "check": "Tile独自ネットワーク/TileアプリiOSAndroid、Life360連携。CR2032交換可/IP68本体。旧2022IP67混同禁止。GPSなし、最終位置の後に移動するとそこにない場合がある。"
+    },
+    {
+      "order": 7,
+      "asin": "B0GJTW9CL8",
+      "official_urls": [
+        "https://support.apple.com/ja-jp/126203",
+        "https://support.apple.com/ja-jp/109021",
+        "https://support.apple.com/en-us/109512",
+        "https://www.apple.com/jp/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0GJTW9CL8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-28_gps_tracker_candidates.json",
+        "path": "candidates[asin=B0GJTW9CL8].features"
+      },
+      "verified_article_specs": [
+        "対応ネットワーク：Apple「探す」",
+        "iPhone条件：iOS 26.2.1以降／Apple Account",
+        "精密探索：UWB対応端末と地域条件が必要",
+        "電源：交換式CR2032電池",
+        "耐水・防塵：IP67（本体）"
+      ],
+      "check": "AppleFindMy/CR2032交換可/11.8g/IP67本体。技術仕様iOS26.0に対し現行利用support第2世代iOS26.2.1以上要求、原稿26.2.1とする。UWB端末必要。国内では拡大範囲とWatch精密探索不可、旧世代UWB相当動作。海外拡大範囲はiPhoneAir/15以降16e17e除く、WatchSeries9/Ultra2以降watchOS26.2.1、本文詳細数値省略して対応端末/地域案内。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n8d03aae390f1",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/nb99adca17a30",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n9a1b55b5b97d",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "official_gate_passed": true,
+  "unresolved_omitted_specs": [
+    "UGREEN SKU番号は当該ASIN側の型番未取得のため記事断定なし。交換/充電方式とOS対応を同名公式・Featuresで照合",
+    "UGREEN防水等級未確認のため掲載しない",
+    "通信距離・電池公称寿命は環境と設定に左右されるため数値省略",
+    "AirTag2 iOS26.0技術表に対し現行利用手順26.2.1を掲載"
+  ],
+  "selection_changed": false,
+  "official_identity_evidence": {
+    "E30": {
+      "official_product": "https://www.ankerjapan.com/products/t87b1",
+      "official_buy_link": "https://www.amazon.co.jp/dp/B0DWMPNCLC?m=A2Q9OW6QVJC5XE&tag=aoositmdtlpg-22",
+      "identified_sku": "T87B1N12",
+      "meaning": "改善版公式ページ購入リンクが当該ASIN。旧版回収対象と区別。本文型番/改善版確認と充電器磁気カード注意を反映。"
+    }
+  },
+  "network_sources": [
+    "https://support.google.com/android/answer/3265955?hl=en-na",
+    "https://support.google.com/pixelphone/answer/14799600?hl=en-AU",
+    "https://support.life360.com/hc/en-us/articles/30583028539799-How-Tile-Works",
+    "https://www.apple.com/jp/airtag/"
+  ],
+  "tile_fee_sources": [
+    "https://support.thetileapp.com/hc/en-us/articles/360037762253-Use-My-Tile-without-a-Subscription",
+    "https://support.life360.com/hc/en-us/articles/30583054431895-Set-Up-Tile-Smart-Alerts",
+    "https://support.life360.com/hc/en-us/articles/30582950113303-Find-My-Tile"
+  ],
+  "current_service_notes": {
+    "Tile": "基本探索無料、Tile独自ネットワーク。SmartAlerts/30日履歴は有料プランあり。検出・権限・更新時刻依存。人物追跡SOS用途は記事不採用。",
+    "AirTag2": "現行利用手順iOS26.2.1以降。国内拡張精密探索範囲とWatch精密探索が制限、国内旧世代UWB相当。対応するiPhoneでの精密探索自体を全停止としない。",
+    "Duo": "一度に一方のOS、AppleFindMyとGoogleFindHubを同時接続/同期しない。充電ポートプラグだけから防水等級を付与しない。"
+  }
+}

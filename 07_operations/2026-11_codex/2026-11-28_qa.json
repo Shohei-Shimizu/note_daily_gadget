@@ -1,0 +1,53 @@
+{
+  "status": "pass_local_with_documented_omissions",
+  "checks": {
+    "product_count": true,
+    "asins_order_unchanged": true,
+    "affiliate_urls_unchanged": true,
+    "machine_memo_preserved": true,
+    "h1_filename_handoff_match": true,
+    "research_placeholders_resolved": true,
+    "related_urls_only": true,
+    "related_canonical_urls": true,
+    "two_intro_paragraphs": true,
+    "body_length_80_200": true,
+    "quote_specs_max5": true,
+    "no_new_tables_sections_or_dividers": true,
+    "no_review_price_accuracy_guarantee": true,
+    "network_not_gps_realtime": true,
+    "duo_single_os": true,
+    "battery_model_distinction": true,
+    "tile_fee_scope": true,
+    "airtag_domestic_condition": true,
+    "e30_improved_identity": true,
+    "active_one_article_research": true,
+    "not_scheduled_or_published": true
+  },
+  "title_chars": 21,
+  "product_count": 7,
+  "body_chars": [
+    128,
+    132,
+    136,
+    137,
+    133,
+    136,
+    133
+  ],
+  "related_count": 3,
+  "official_gate_passed": true,
+  "ui_gate_performed": false,
+  "main_task_required": [
+    "月metadata/DB反映",
+    "画像と日付照合",
+    "GUIで全SKUとOS別モデル・セット数照合",
+    "GUIリンク発行・保存後表示確認",
+    "予約日時20:00確認"
+  ],
+  "unresolved_specs_not_in_article": [
+    "UGREEN SKU番号は当該ASIN側の型番未取得のため記事断定なし。交換/充電方式とOS対応を同名公式・Featuresで照合",
+    "UGREEN防水等級未確認のため掲載しない",
+    "通信距離・電池公称寿命は環境と設定に左右されるため数値省略",
+    "AirTag2 iOS26.0技術表に対し現行利用手順26.2.1を掲載"
+  ]
+}
