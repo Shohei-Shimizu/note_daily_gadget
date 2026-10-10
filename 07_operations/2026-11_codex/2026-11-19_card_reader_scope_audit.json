@@ -1,0 +1,307 @@
+{
+  "date": "2026-11-19",
+  "topic_id": "daily_gadget_20261119_0038b5ca",
+  "theme": "写真データをPCへ取り込む。単体カードリーダー",
+  "source_db": "shared/db/product.sqlite",
+  "db_mode": "mode=ro",
+  "export_script": "shared/scripts/db/export_candidates.py connect_ro",
+  "explicit_asin_gate_audit": "--asins経路のため別途status active/tier1,2/resolved,no_parent全7件を読み取り照会で確認。",
+  "candidate_count": 7,
+  "parent_groups": {
+    "B07D1J88CF": [
+      "B07D1J88CF"
+    ],
+    "B07P1XB7BG": [
+      "B07P1XB7BG"
+    ],
+    "B0B6HM369H": [
+      "B0B6HM369H"
+    ],
+    "B0BMVHC1N9": [
+      "B0BMVHC1N9"
+    ],
+    "B0BNBXVLZS": [
+      "B0BNBXVLZS"
+    ],
+    "B0DHZF553Y": [
+      "B0D7PBX46R"
+    ],
+    "B0FFR5714G": [
+      "B0FFR5714G"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B07D1J88CF",
+      "title": "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 スマホ タブレット MacBook Windows PCに適用",
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "db_status": "active",
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "selection_status": "candidate_not_selected",
+      "exclusion_reason": null,
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-05",
+          "title": "予算内でデスク整理。コスパ抜群「UGREEN」おすすめ 8 選",
+          "asin": "B07D1J88CF",
+          "parent_asin_snapshot": null
+        }
+      ],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B07P1XB7BG",
+      "title": "Anker USB-C 2-in-1 カードリーダー【SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSDHC/microSD/UHS-Iカード対応】",
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "db_status": "active",
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "selection_status": "candidate_not_selected",
+      "exclusion_reason": null,
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-11",
+          "title": "旅の写真を即保存。SD リーダーと「超高速 SSD」 6 選",
+          "asin": "B07P1XB7BG",
+          "parent_asin_snapshot": null
+        },
+        {
+          "published_date": "2026-08-12",
+          "title": "デジタルノマドの装備。ポーチの中身「2026 夏」 7 選",
+          "asin": "B07P1XB7BG",
+          "parent_asin_snapshot": null
+        }
+      ],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B08FM7CDNC",
+      "title": "Maktar Qubii Pro ホワイト (microSD 128GB付) 充電しながら自動バックアップ iphone usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証",
+      "db_brand": null,
+      "historical_tier": 1,
+      "db_status": "active",
+      "parent_asin": "B0CSN36VZL",
+      "parent_resolution_status": "resolved",
+      "selection_status": "excluded_or_hold",
+      "exclusion_reason": "Qubii自動バックアップ/ストレージ用途の本体。単体カードリーダーと別用途",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-21",
+          "title": "スマホの容量不足を解消。写真を「自動保存」するツール 6 選",
+          "asin": "B08FM7CDNC",
+          "parent_asin_snapshot": null
+        }
+      ],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B08PBL57JM",
+      "title": "Maktar Qubii Duo USB Type A ホワイト 充電しながら自動バックアップ SDロック機能搭載 iphone バックアップ usbメモリ ipad 容量不足解消 写真 動画 音楽 連絡先 SNS データ 移行 SDカードリーダー 機種変更 MFi認証 (microSD別売)",
+      "db_brand": null,
+      "historical_tier": 2,
+      "db_status": "active",
+      "parent_asin": "B09DSSRMCY",
+      "parent_resolution_status": "resolved",
+      "selection_status": "excluded_or_hold",
+      "exclusion_reason": "Qubii自動バックアップ/ストレージ用途の本体。単体カードリーダーと別用途",
+      "dg_use_history": [
+        {
+          "published_date": "2026-03-21",
+          "title": "スマホの容量不足を解消。写真を「自動保存」するツール 6 選",
+          "asin": "B08PBL57JM",
+          "parent_asin_snapshot": null
+        }
+      ],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B0B6HM369H",
+      "title": "ProGrade Digital [SD/microSD UHS-II] ダブルスロットカードリーダー (PGM0.5) 本体端子USB-C プログレードデジタル 正規輸入品",
+      "db_brand": null,
+      "historical_tier": 2,
+      "db_status": "active",
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "selection_status": "candidate_not_selected",
+      "exclusion_reason": null,
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-11",
+          "title": "旅の写真を即保存。SD リーダーと「超高速 SSD」 6 選",
+          "asin": "B0B6HM369H",
+          "parent_asin_snapshot": null
+        }
+      ],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B0BMVHC1N9",
+      "title": "UGREEN カードリーダー USB C 4in1 SD microSD CF MS 4枚カード同時に読書 2TB Max 高速転送 SD SDXC SDHC MM CRS-MMC UHS-Iカード Windows Mac OS Android 対応",
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "db_status": "active",
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "selection_status": "candidate_not_selected",
+      "exclusion_reason": null,
+      "dg_use_history": [],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B0BNBXVLZS",
+      "title": "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー",
+      "db_brand": null,
+      "historical_tier": 1,
+      "db_status": "active",
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "selection_status": "candidate_not_selected",
+      "exclusion_reason": null,
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-11",
+          "title": "旅の写真を即保存。SD リーダーと「超高速 SSD」 6 選",
+          "asin": "B0BNBXVLZS",
+          "parent_asin_snapshot": null
+        }
+      ],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B0BXDQS4BD",
+      "title": "UGREEN Revodok Pro USB Cハブ 2HDMI拡張4K60Hz 5Gbpsデータ転送 100W充電 1GbpsLAN カードリーダー",
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "db_status": "active",
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "selection_status": "excluded_or_hold",
+      "exclusion_reason": "USB-Cハブ本体。カードリーダーが付属しても単体ではない",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-30",
+          "title": "9 月のベストバイ。秋のデスクを整える「USB-C ドック」 6 選",
+          "asin": "B0BXDQS4BD",
+          "parent_asin_snapshot": null
+        }
+      ],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B0C5HWMRN7",
+      "title": "キャンディハウス(Candy House) セサミ5 Pro+セサミタッチPro スマートロック ブラック 後付け型 ブラシレスモーター搭載 静音 指紋認証 ICカードリーダー",
+      "db_brand": "Candy House",
+      "historical_tier": 3,
+      "db_status": "active",
+      "parent_asin": "B0GVYYYP4C",
+      "parent_resolution_status": "resolved",
+      "selection_status": "excluded_or_hold",
+      "exclusion_reason": "今回指定7候補の外。Tier/親/用途を未監査で混ぜない",
+      "dg_use_history": [],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B0CJC65619",
+      "title": "キャンディハウス(Candy House) セサミ5+セサミタッチ2 スマートロック ブラック 後付け型 指紋認証パッド ICカードリーダー",
+      "db_brand": "キャンディハウス",
+      "historical_tier": 2,
+      "db_status": "active",
+      "parent_asin": null,
+      "parent_resolution_status": "unresolved",
+      "selection_status": "excluded_or_hold",
+      "exclusion_reason": "今回指定7候補の外。Tier/親/用途を未監査で混ぜない",
+      "dg_use_history": [],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B0D7PBX46R",
+      "title": "Anker MagGo USB-C カードリーダー (3-in-1, 10Gbps) ブラック",
+      "db_brand": "Anker",
+      "historical_tier": 2,
+      "db_status": "active",
+      "parent_asin": "B0DHZF553Y",
+      "parent_resolution_status": "resolved",
+      "selection_status": "candidate_not_selected",
+      "exclusion_reason": null,
+      "dg_use_history": [],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B0F5PZZZPG",
+      "title": "【セット買い】キャンディハウス(Candy House) スマートロック SESAME 5+ 指紋認証パッド ICカードリーダー SESAME TOUCH セサミタッチ Suica対応 PASMO対応 Apple watch Felica MIFAIR モバイルSuica 工事不要 防犯対策 + SESAME マグネット ロック用強力磁石 ネオジウム磁石 円盤磁石 20*3mm 5個セット",
+      "db_brand": null,
+      "historical_tier": null,
+      "db_status": "active",
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "selection_status": "excluded_or_hold",
+      "exclusion_reason": "今回指定7候補の外。Tier/親/用途を未監査で混ぜない",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-20",
+          "title": "鍵のストレスをゼロに。指紋で開く「最新スマートロック」 6 選",
+          "asin": "B0F5PZZZPG",
+          "parent_asin_snapshot": null
+        }
+      ],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    },
+    {
+      "asin": "B0FFR5714G",
+      "title": "エレコム カードリーダー USB-C 2-in-1 5Gbps 【SDXC/SDHC/SD/microSDXC/microSDHC/microSD対応】 MR3C-D20EBK",
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "db_status": "active",
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "selection_status": "candidate_not_selected",
+      "exclusion_reason": null,
+      "dg_use_history": [],
+      "30_day_cutoff": "2026-10-20",
+      "30_day_window_block": false,
+      "october_local_research_mentions": []
+    }
+  ],
+  "freshness": "候補値は既存DBの歴史観測。今回API/measurement/UIなし。最新在庫・レビュー・親・公式同型未確認。",
+  "manufacturer_counts": {
+    "Ugreen": 3,
+    "Anker": 2,
+    "ELECOM": 1,
+    "ProGrade Digital": 1
+  },
+  "maker_limit_note": "Ugreen3候補は採用max2。候補全体として保持、採用品・件数は通常機械選抜が決定。",
+  "not_selected": true,
+  "old_theme_retained": "2026-11-19_time_locking_container_candidates.jsonを比較記録として未変更",
+  "notes": [
+    "同parentの重複は現DB7件になし。最新親は主担当で確認",
+    "10月研究票の7ASIN記載なし、30日窓/DB履歴の親照合を通過",
+    "公式資料・最新実測ゲート前に7件の採用/記事成立を確定しない"
+  ]
+}

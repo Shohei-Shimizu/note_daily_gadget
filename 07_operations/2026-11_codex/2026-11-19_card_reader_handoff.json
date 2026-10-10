@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-19",
+  "topic_id": "daily_gadget_20261119_0038b5ca",
+  "type": "card_reader",
+  "theme": "写真データをPCへ取り込む。単体カードリーダー",
+  "candidates": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_card_reader_candidates.json",
+  "scope_audit": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_card_reader_scope_audit.json",
+  "candidate_count": 7,
+  "parent_count": 7,
+  "historical_tiers": {
+    "1": 4,
+    "2": 3
+  },
+  "stage": "候補未測定・選抜未実施",
+  "next": "主担当の直列canary/measurement/selectと同型公式仕様確認",
+  "canonical_metadata_changed": false,
+  "old_topic": "time_locking_container比較記録は保持"
+}

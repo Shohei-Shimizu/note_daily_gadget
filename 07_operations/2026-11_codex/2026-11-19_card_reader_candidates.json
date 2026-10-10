@@ -1,0 +1,316 @@
+{
+  "generated_at": "2026-10-10T02:27:20+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261119_0038b5ca",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261119_card_reader"
+  ],
+  "fetched_count": 7,
+  "dedup_count": 7,
+  "candidates": [
+    {
+      "asin": "B07D1J88CF",
+      "title": "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 スマホ タブレット MacBook Windows PCに適用",
+      "url": "https://www.amazon.co.jp/dp/B07D1J88CF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07D1J88CF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61U-O-O9k4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "USB-C OTG機能に対応したAndroidスマホ タブレット、iPad Pro 2018 11インチ 12.9インチ、Windows PCに汎用できる多機能SDカードリーダーです。これ一台で簡単に写真や動画等のデータを移動や保存できます。",
+        "USB3.0対応、2.0より約10倍速く転送できます。1GBのフォトアルバムやドラマ、映画などを数秒で高速転送可能です。2カードスロットを拡張し、同時に読み書きできます。",
+        "2TBまでの大容量カードに対応します。SD,SDHC,SDXC,RS-MMC,MMC,Micro SD,Micro SDHC,Micro SDXC，UHS-Iなどのデジカメに、スマホに使用されている多彩なメディアカードにサポートします。",
+        "マルチシステム対応のメモリカードリーダです。MacBook、iMac、Windows PC両対応、USB-C OTG機能に対応したAndroidスマホ タブレットにも対応します。ドライバ不要、挿すだけで認識可能です。",
+        "USBコネクタを埃、液体、傷から保護できるキャップが付いて、カバンやポケットに入れても傷つけません。紛失を避けるためのキーチェーンラインに繋げるデザイン、持ち運びと収納が楽で使い易いです。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261119_card_reader",
+      "queries_matched": [
+        "dg_20261119_card_reader"
+      ],
+      "review_count": 23764,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-30",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名。公式同型照合は次工程",
+      "scope_pending": [
+        "USB端子と対応SD/microSD規格・OSは公式同型照合待ち"
+      ],
+      "parent_asin": "B0HJ5N2FXX",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:59:20+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07P1XB7BG",
+      "title": "Anker USB-C 2-in-1 カードリーダー【SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSDHC/microSD/UHS-Iカード対応】",
+      "url": "https://www.amazon.co.jp/dp/B07P1XB7BG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07P1XB7BG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/613I61kPGSL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "優れた互換性：幅広いUSB-Cポート搭載機器で動作するように設計されています。",
+        "より多くの機能を：SDスロットとMicro SDスロットを搭載し手軽にファイルの同期や転送、共有ができます。",
+        "超コンパクトとスマートフォンに最適：他の周辺機器向けに使用中のUSBポートの隣でも干渉することなく使用することができます。USB-C経由で接続してお使いのスマートフォンの容量を大幅に拡張します。",
+        "高速データ転送と高い耐久性：フォトアルバムや動画、映画などを5Gbps以上のスピードで瞬時に転送することができます。高品質な素材を使用し、10,000回以上におよぶ接続にも耐えられるよう設計しました。",
+        "パッケージ内容：Anker USB-C 2-in-1 カードリーダー、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261119_card_reader",
+      "queries_matched": [
+        "dg_20261119_card_reader"
+      ],
+      "review_count": 6561,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-07-24",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名。公式同型照合は次工程",
+      "scope_pending": [
+        "USB端子と対応SD/microSD規格・OSは公式同型照合待ち"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T11:59:28+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BMVHC1N9",
+      "title": "UGREEN カードリーダー USB C 4in1 SD microSD CF MS 4枚カード同時に読書 2TB Max 高速転送 SD SDXC SDHC MM CRS-MMC UHS-Iカード Windows Mac OS Android 対応",
+      "url": "https://www.amazon.co.jp/dp/B0BMVHC1N9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BMVHC1N9?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ZoXXjH6jL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "4枚カードを同時に読み書き可能なUSB-C SDカードリーダー。これ１台で常に使われる様々なメディアカードに対応し、デジカメ、ビデオカメラの写真や動画などのデータ移動に、スマホやそのほかのUSB-C機器のバッグアップにも便利なカードリーダーです。LEDランプ付き、動作状況を一目でわかります。",
+        "2TBまでのSD、Micro SD (TF)、CF (Compact Flash)、SDHC、SDXC、Micro SDHC、Micro SDXC、MMC、RS-MMCなど対応。4つのカードを同時に読取と書込を行うことが可能で、カードを差し替える手間が必要ありません。ご注意：CFexpress とXQDに非対応です。",
+        "高速5Gbpsデータ転送：USB3.0 Type-C転送仕様に対応しており、動画や音楽、大量の写真など大きなデータもストレスなく、高速かつ安定して転送できます。",
+        "USB-Cケーブル一体型のSDカードリーダー。50cmのケーブルを通してPCに搭載したコネクタを外に延長して隣り合うUSBポートにも干渉しません。",
+        "OTG機能で幅広いUSB-Cポート搭載機器で動作できるカードリーダー。Type-C対応したPC端末、Androidスマホ、タブレットにこのsdカードリーダーを差し込みSDカードを接続すれば、簡単に写真や動作、音楽をお楽しみいただけます。Windows Mac OS Android 多数のシステムにドライバーフリー、簡単に使えます。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261119_card_reader",
+      "queries_matched": [
+        "dg_20261119_card_reader"
+      ],
+      "review_count": 1569,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-12",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名。公式同型照合は次工程",
+      "scope_pending": [
+        "USB端子と対応SD/microSD規格・OSは公式同型照合待ち"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T11:59:39+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D7PBX46R",
+      "title": "Anker MagGo USB-C カードリーダー (3-in-1, 10Gbps) ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0D7PBX46R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D7PBX46R?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/616sOLhDY3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "マグネット式カードリーダー：マグネットでピタッとくっつくUSB-Cカードリーダー。USB PD対応USB-Cポート / SDカードスロット / microSDカードスロットの3つの機能がこれ1台にまとまります。",
+        "大容量データ転送対応：iPhoneのストレージを圧迫する容量が大きな動画や音声データを最大10Gbpsで高速データ転送が可能で、データ転送しながらでもスマホを快適に操作できます。",
+        "パススルー急速充電に対応：カードリーダーとして使用しながらもお使いのスマホに最大42.5Wまでの高出力で パススルー急速充電が可能です。",
+        "超コンパクト設計：厚さ約15mmの薄型かつ持ち運びにも最適な超コンパクト設計を採用で、ポケットや小さいポーチにも収納可能です。",
+        "パッケージ内容：Anker MagGo USB-C カードリーダー (3-in-1, 10Gbps) ブラック 、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261119_card_reader",
+      "queries_matched": [
+        "dg_20261119_card_reader"
+      ],
+      "review_count": 268,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-02",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名。公式同型照合は次工程",
+      "scope_pending": [
+        "USB端子と対応SD/microSD規格・OSは公式同型照合待ち",
+        "MagGo 3in1はカード読み取り主体の単体本体、充電パススルーが付く構成を公式確認。汎用ハブとは区別"
+      ],
+      "parent_asin": "B0DHZF553Y",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:59:47+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FFR5714G",
+      "title": "エレコム カードリーダー USB-C 2-in-1 5Gbps 【SDXC/SDHC/SD/microSDXC/microSDHC/microSD対応】 MR3C-D20EBK",
+      "url": "https://www.amazon.co.jp/dp/B0FFR5714G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FFR5714G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61vFFKIdnYL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "本製品はMR3C-D20BKの簡易パッケージモデルです。",
+        "ケーブルレスでパソコンに直挿しできる、USB Type-C(TM)プラグのメモリーカードリーダーです。",
+        "SDカードとmicroSDカードの2つのスロットを搭載。デジタルカメラやアクションカメラで撮影してSDカード/microSDカードに保存した画像や映像を、本製品を使ってスマートフォンやパソコンに取り込めます。編集やSNSへのアップの際に便利です。",
+        "パソコンやタブレット、スマートフォンとの接続はUSB 5Gbps(USB3.2(Gen1))、2つのスロットはどちらもUHS-I(最大104MB/s)に対応しているので、高速データ転送が可能です。",
+        "UHS-IIおよびSD Express対応カードの読み書きにも対応しています。",
+        "※読み込み・書き込み時のデータ転送速度はUHS-Iでの速度になります。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261119_card_reader",
+      "queries_matched": [
+        "dg_20261119_card_reader"
+      ],
+      "review_count": 138,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-12",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名。公式同型照合は次工程",
+      "scope_pending": [
+        "USB端子と対応SD/microSD規格・OSは公式同型照合待ち"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T11:59:54+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B6HM369H",
+      "title": "ProGrade Digital [SD/microSD UHS-II] ダブルスロットカードリーダー (PGM0.5) 本体端子USB-C プログレードデジタル 正規輸入品",
+      "url": "https://www.amazon.co.jp/dp/B0B6HM369H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B6HM369H?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51+V-8w90FL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "✅対応：USB-Cポート搭載のiPad, iPhone, Android端末 ✅対応OS：Mac OS X10.6以降／ Windows10以降",
+        "✅フルサイズSDカード／microSDカード（どちらもUHS-II対応） ✅本体端子：USB Type-C ✅USB3.2 Gen1対応 ✅最大転送速度：625MB/s ✅SD, microSDカード２枚同時にパソコンへデータ転送可能 ✅SDからmicroSD、microSDからSDへのデータ転送も可能",
+        "✅Refresh Pro対応（SDスロットのみ、microSDカードはSDアダプターを利用してSDスロットで利用可能）",
+        "✅コンパクトなサイズで持ち運びに便利　Vlogger, YouTuberなど出先で撮影しタブレットなどで直ちに編集したい方々に最適",
+        "✅製造国：台湾　 ✅保証期間：購入より2年間"
+      ],
+      "maker": "ProGrade Digital",
+      "query": "dg_20261119_card_reader",
+      "queries_matched": [
+        "dg_20261119_card_reader"
+      ],
+      "review_count": 310,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "ローカル商品名ProGrade Digital/プログレードデジタルの正規表記（公式同型照合は次工程）",
+      "scope_pending": [
+        "USB端子と対応SD/microSD規格・OSは公式同型照合待ち"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T12:00:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BNBXVLZS",
+      "title": "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 SDXC/SDHC/SD/MMC/RS-MMC/microSDXC/microSD/microSDHCなど uhs2 メモリーカード リーダー",
+      "url": "https://www.amazon.co.jp/dp/B0BNBXVLZS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BNBXVLZS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61fjXsZia+L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "UHS-II 4Kビデオ撮影に最適なSDカードリーダー：最新のSD4.0カードに対応したSDスロットとmicroSDスロットによると、UHS-II対応の一眼レフカメラ、デジタルカメラ、ビデオカメラから撮影した高容量の4Kビデオデータを最大312MB/sの高速でPCへ転送できます。",
+        "2つ同士でファイルの移動可能：最大2TBまでの大容量カードをサポートし、2枚カード間のファイルの同期、転送、共有が簡単にできます。スマホ、デジカメラ、GoProなど撮った写真(撮影画像)をPC・Androidスマホにて直接ファイルを数秒で素早くバックアップできます。",
+        "多種類のカードに対応：SD/microSDカードスロットが2つ備えたUSB Type C 3.1 SDカードリーダーで、SD4.0 UHS-II対応し、UHS-Iおよび SDXC、microSDXC、microSDHC、microSD、MMC micro、RS-MMC、SDHC、SDなどに対応しています。",
+        "プレミアムデザイン：しっかりとしたアルミ素材を使って、優れた放熱性を持ちながら高級感があります。体感温度で熱を少し持ちますが、筐体が金属なので風を当てるとすぐ冷えます。指紋もつけにくいです。内蔵された高品質のチップにより安定した転送と安全保護を保証できます。従来のABS型と比べて高いデザイン性と耐久性を実現しました。",
+        "幅広い互換性：USB Type C 3.1 Gen1に準拠して、MacBook ProやiPad Proを含み、OTG AndroidスマホやタブレットなどのUSB-Cポート搭載の幅広い機器でお使いいただけます。隣り合う接続ポートにも干渉しづらい超コンパクト設計で、端末本体と一緒に出張や旅行でも気軽に持ち運ぶことができます。",
+        "24ヶ月の保証期間：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261119_card_reader",
+      "queries_matched": [
+        "dg_20261119_card_reader"
+      ],
+      "review_count": 2193,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名。公式同型照合は次工程",
+      "scope_pending": [
+        "USB端子と対応SD/microSD規格・OSは公式同型照合待ち"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T12:00:10+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": null,
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": "2026-10-20",
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite"
+  },
+  "date": "2026-11-19",
+  "theme": "写真データをPCへ取り込む。単体カードリーダー",
+  "planning_status": "local_candidates_unmeasured_not_selected",
+  "scope_conditions": [
+    "SD/microSDを読み書きする単体本体",
+    "hub/backup/storage本体を除外"
+  ],
+  "measurement_checkpointed_at": "2026-10-10T12:00:10+09:00"
+}
