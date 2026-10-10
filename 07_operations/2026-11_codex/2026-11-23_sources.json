@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-23",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B07RKL4L7Q",
+      "official_urls": [
+        "https://www.sandisk.com/zh-cn/products/memory-cards/microsd-cards/sandisk-extreme-pro-uhs-i-microsd?sku=SDSQXCZ-512G-ZN6MA",
+        "https://www.sandisk.com/zh-cn/products/memory-cards/microsd-cards/sandisk-extreme-pro-microsd-uhs-i?sku=SDSQXCZ-512G-ZU6MA"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B07RKL4L7Q?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-23_sd_card_candidates.json",
+        "path": "candidates[asin=B07RKL4L7Q].features"
+      },
+      "verified_article_specs": [
+        "容量：512GB",
+        "型番：SDSQXCZ-512G",
+        "カード形状：microSDXC",
+        "接続規格：UHS-I",
+        "パッケージ：海外版"
+      ],
+      "check": "SDSQXCZ512の公式同型SKU ZN6MA/ZU6MA旧世代確認。最新QXCD/XCD等の200/250速度を転用しない。入力末尾地域不明の海外品なので速度/国内保証/アダプタ付属を断定しない。容量約93%の固定説明は不採用。"
+    },
+    {
+      "order": 2,
+      "asin": "B0F29YZWSM",
+      "official_urls": [
+        "https://www.kingston.com/jp/memory/search?partid=SDCG4%2F256GB",
+        "https://www.kingston.com/en/memory-cards/canvas-go-plus-microsd-card-sdcg4"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0F29YZWSM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-23_sd_card_candidates.json",
+        "path": "candidates[asin=B0F29YZWSM].features"
+      },
+      "verified_article_specs": [
+        "容量：256GB",
+        "型番：SDCG4/256GB",
+        "規格：UHS-I／U3／V30／A2",
+        "最大読込・書込：200・160MB/s（メーカー試験条件）",
+        "最大性能の条件：MobileLite Plus Reader使用"
+      ],
+      "check": "Gen4当該256GB公式型番完全一致。256GB-1TB最大200読/160書、専用MobileLitePlusReader/ホスト環境依存。64/128の書込値や規格理論速度と混同しない。"
+    },
+    {
+      "order": 3,
+      "asin": "B07N31KRZL",
+      "official_urls": [
+        "https://us.transcend-info.com/support/product/memory-card/usd300s",
+        "https://cdn.transcend-info.com/products/images/modelpic/948/Transcend-USD300S_202404_a2.pdf",
+        "https://jp.transcend-info.com/About/press/11527"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B07N31KRZL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-23_sd_card_candidates.json",
+        "path": "candidates[asin=B07N31KRZL].features"
+      },
+      "verified_article_specs": [
+        "容量：256GB",
+        "型番：TS256GUSD300S-A",
+        "規格：microSDXC／UHS-I",
+        "速度クラス：Class 10／U3／V30",
+        "用途確認：対応機器の容量・規格を確認"
+      ],
+      "check": "同型TS256GUSD300S-A公式サポート/press/2024pdf確認。旧95MB/sA1と更新160MB/sA2資料の世代差のため速度数値/Aクラスは不掲載。元Switch対応をSwitch2へ転用せず、高耐久/常時録画向けにしない。"
+    },
+    {
+      "order": 4,
+      "asin": "B0DQX529CV",
+      "official_urls": [
+        "https://www.samsung.com/us/memory-storage/memory-card/pro-plus-sonic-the-hedgehog-adapter-microsdxc-512gb-sku-mb-md512sa-lc1/",
+        "https://download.semiconductor.samsung.com/resources/data-sheet/2025_Samsung_Data_sheet_microSD_Card_Sonic_the_Hedgehog_PRO_Plus_v1.0_10149112970916.pdf"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DQX529CV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-23_sd_card_candidates.json",
+        "path": "candidates[asin=B0DQX529CV].features"
+      },
+      "verified_article_specs": [
+        "容量：512GB",
+        "型番：MB-MD512SA/LC1",
+        "規格：UHS-I／U3／V30／A2",
+        "最大読込・書込：180・130MB/s（メーカー試験条件）",
+        "付属品：SD変換アダプター"
+      ],
+      "check": "Sonic512GB LC1公式USとデータシート容量型番一致。Samsung reader v2/v3最大速度条件、v1最大160で区別。128GB/1TB抽出を採用容量にしない。旧SwitchのUHS-IカードでSwitch2用Expressではない。"
+    },
+    {
+      "order": 5,
+      "asin": "B0F9P5J764",
+      "official_urls": [
+        "https://americas.lexar.com/product/lexar-play-pro-microsdxc-express-card/",
+        "https://www.nintendo.com/jp/games/microsd-express/index.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0F9P5J764?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-23_sd_card_candidates.json",
+        "path": "candidates[asin=B0F9P5J764].features"
+      },
+      "verified_article_specs": [
+        "容量：512GB",
+        "カード規格：microSDXC Express",
+        "インターフェース：PCIe／NVMe",
+        "高速転送の条件：microSD Express対応機器",
+        "後方互換：UHS機器ではUHS-I速度"
+      ],
+      "check": "PLAY PRO512GB公式ラインアップ一致。公式本文900/600とSpecs205/140が食い違うため数値は全不採用。Express対応host/専用readerで最大速度、旧UHS-I/IIhostはUHS-I速度。Nintendo国内公式でSwitch2保存はExpress必須、通常UHSカード不可。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n3a9b1117d511",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n42c61862b347",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/ncd25d7bebee6",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "official_gate_passed": true,
+  "unresolved_omitted_specs": [
+    "Lexar本文/仕様欄の速度不一致により900/600と205/140は未採用",
+    "SanDisk地域末尾/世代による最大速度値は未採用",
+    "Transcend同型更新世代のAクラス/速度差は未採用"
+  ],
+  "selection_changed": false
+}
