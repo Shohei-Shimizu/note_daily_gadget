@@ -1,0 +1,537 @@
+{
+  "generated_at": "2026-10-10T01:04:14+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261106_25de440c",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261106_usb_hub"
+  ],
+  "fetched_count": 13,
+  "dedup_count": 13,
+  "candidates": [
+    {
+      "asin": "B0DQQBC88X",
+      "title": "BENFEI 3in1 USB C ハブ、4K@60Hz HDMI、10Gbps USB-A、100W パワーデリバリー、MacBook Pro/Air、iPad Pro、iMac、iPhone 16/15 Pro/Pro Max、XPS、Thinkpad に対応",
+      "url": "https://www.amazon.co.jp/dp/B0DQQBC88X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DQQBC88X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71ERNKu9YNL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "コンパクトなデザイン-コンパクトに設計されたポータブルBENFEIUSB-C-HDMIアダプターは、コンピューター、デスクトップ、ラップトップ、またはUSB-Cポートを備えたその他のデバイスを、モニター、プロジェクター、HDTV、またはHDMIポートを備えたその他のデバイスに接続します。 この軽量のガジェットをバッグやポケットに入れて、ラップトップやプロジェクターでビジネスプレゼンテーションを行ったり、デスクトップ画面をモニターやテレビに拡張したりできます。🌟カーナビには対応しておりません",
+        "優れた安定性-内蔵の高度なICチップは、USB-Cデジタル信号をHDMI信号に変換します。🌟 ご購入前に、お持ちのデバイスのUSB-Cポート機能を確認してください。 ✅【注意してください】USB-CデバイスはUSB Type-C DP（Displayport ビデオ） Alt モードをサポートする必要があります。",
+        "驚異的なパフォーマンス-USB-C-HDMIアダプターは、高解像度モニターまたはプロジェクター用の2K @ 60Hz、1080P、720p、1600x1200、1280x1024を含む最大3840 * 2160@60Hzの解像度をサポートします。 メッキされたUSB-Cコネクタは、腐食や摩耗に耐え、信号伝送性能を向上させます。 成形されたストレインリリーフにより、ケーブルの耐久性が向上します。",
+        "幅広い互換性-BENFEIUSB-CからHDMIは、13 &#34;/ 15&#34; MacBook Pro 2019、2018、2017、iMac、MacBook、MacBook Air、Google Chromebook Pixel、Yoga 900、Dell XPS 13（9350）、DellXPS15と互換性があります。 9550、Dell XPS12 9250、DellPrecision 5510、HP Spectre X2、HP Spectre x360、HP Elitebook Folio G1、HP Elite x2 1012 G1、Acer Switch Alpha 1、Acer Spin 7、Acer Chromebook R13、Samsung Chromebook Plus、Samsung Galaxy TabPro S、 サムスンギャラクシーA72017、LG G5、LG V20、HTC 10",
+        "18か月の保証-独占的なBenfeiの無条件の18か月の保証は、購入の長期的な満足を保証します。 問題をタイムリーに解決するためのフレンドリーで連絡しやすいカスタマーサービス類似商品と比較"
+      ],
+      "maker": "BENFEI",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 17713,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T00:24:21+00:00",
+        "content_observed_at": "2026-08-26T00:24:21+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0HD6CLL65",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:46:12+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B093FKT9BF",
+      "title": "UGREEN Revodok 107 USB Cハブ 7-IN-1",
+      "url": "https://www.amazon.co.jp/dp/B093FKT9BF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B093FKT9BF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61G2Gm1lcbL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【7in1多機能なUSB Cハブ】USB Type-Cポート1をHDMI（4K@60Hz）×1、USB3.0×2、USB PD対応Type-C×1、SD&amp;マイクロSDカードスロット×1、ギガビットイーサネット×1に増設できる、USB Type-Cハブです。 あらゆるポートは同時に使用できます。【ご注意】USB-C ポートはPD充電のみをサポートし、データ送信はサポートしません。",
+        "【高画質4Kビデォを楽しむ】最大4K@60Hz出力に対応しており、HDMIポートからは最大4Kのディスプレイ出力が可能です。高解像度で鮮やかな3D効果のビデオ会議、映画鑑賞なども手軽に行えます。ゲームPCとして使用する場合、滑らかな映像を楽しむことができ、チラッキが少なくなるため目の疲労を抑制することもできます。",
+        "【100W PD急速充電&amp;5Gbpsデータ転送】Type-Cコネクタを経由してパソコン等デバイス本体に最大100Wの高速充電が可能なPower Delivery(PD)ポートを搭載。【ご注意】高電力デバイスを駆動する必要があるため、100Wの充電器と100W充電ケーブルを使用する必要があります。2×USB 3.0ポートを備え、最大5Gbpsのデータ転送速度を実現して、数秒以内にHD映画を転送することが可能です。ハードドライブ、プリンター、マウス、その他のUSBデバイスをノートパソコンに接続できます。",
+        "【1000Mbps高速伝送&amp;SD/TFカードリーダー】有線LAN変換ポート Type Cは最大1000Mbpsまでの高速回線速度になり、安定また超高速のインターネット通信が維持されています。仕事の効率がより良くなり、オンラインゲームも遅延無くなります。またSD/micro SDスロットを搭載で、デジカメなどで撮影した写真や映像を取り込むことができます。",
+        "【幅広い互換性＆コンパクト】MacBook Pro、MacBook Air M1 M2、iMac、iPad Pro 2018 0,iPad Air 4/S21+S21Ultra/Dell/HP/Acer/ASUS/LenovoなどType-C PCスマホ対応。ACアダプターが必要ないため、持ち運んで外出先でも使用できます。マウス・キーボード・USBメモリなど、消費電力の少ない機器の接続であればバスパワーで充電できます。サイズは124X33X16mmな超スリムで、外出中でもノートパソコンの機能を拡張できます。【24ヶ月の保証期間】：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 9034,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-03-08",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:46:19+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CSYYKB97",
+      "title": "BENFEI USB C ハブ 5in1 4K@30Hz HDMI 1*USB3.2+2*USB2.0ポート 10Gbps超高速データ転送用 Type-C 100W PD急速充電 シリコンおよび織物デザインケーブル アルミニウムケース MacBook Pro/Air、iPad Pro、iMac、iPhone 15 Pro/Pro Max、XPS、Thinkpad に対応",
+      "url": "https://www.amazon.co.jp/dp/B0CSYYKB97?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CSYYKB97?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/615tvY-j9sL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "✅【ポータブルで強力な USB-C ハブ】: BENFEI USB Type-C ハブは、非常に柔らかく結び目のないシリコン織デザイン ケーブルを備えており、モバイル オフィスのほとんどのニーズを満たします。 HDMI ポート x 1、100W 充電 x 1、USB ポート x 3 を備えた、コンパクト、軽量、スタイリッシュ、パワフルなポータブル USB C ハブ。 18ヶ月保証、24時間対応で安心してご利用いただけます.❗ご購入前にお持ちのデバイスのUSB-Cポート機能（DP ALTモードあり）をご確認・ご確認ください。”",
+        "✅【快適さと信頼性を重視した設計】: BENFEI のエンドツーエンドの社内ケーブル生産能力、社内 PCBA および組立能力により、業界最先端のシリコン織設計とプロセスを使用しており、ケーブル長は 20 cm、結び目なし、スーパー -ソフトなハブは、ラップトップ、タブレット、スタンドなど、あらゆるシナリオで使いやすいです。スーパーソフトで 25000 以上のライフサイクルに対応し、毎日の持ち運びやオフィスのニーズを満たします。",
+        "✅【100W 充電】: Type-C ポート経由で最大 90W USB C パススルー充電をサポートし、ラップトップに電力を供給し続けます。 10W は他のインターフェイス操作用に予約されています。 Type-C ポートにはデータおよびビデオ機能はありません.❗【ご注意ください】: ハブでスマートフォンまたは iPad を使用している場合は、ビデオ出力機能に十分な電力を確保するために、ハブの PD ポートに接続して充電してください。 そうしないと、ハブのビデオ出力機能が動作しなかったり、不安定になったりする可能性がありま。",
+        "✅【4K HDMI ディスプレイ】: HDMI ポートは最大 4K 30Hz の解像度でのメディア ディスプレイをサポートし、あらゆる素晴らしい瞬間を詳細かつ超鮮明に保ちます。 ホストデバイスのCポートはビデオ出力をサポートする必要があることに注意してください.❗[ご注意ください] USB-C デバイスは、USB Type-C DP Alt Mode (DisplayPort Alternate Mode) をサポートする必要があります。",
+        "✅【数秒でファイルを転送】: USB A 3.2 ポートを使用すると、ラップトップから最大 10 Gbps の速度でファイルを転送できます。 追加の 2 つの USB A 2.0 ポートはキーボードとマウスに最適です。"
+      ],
+      "maker": "BENFEI",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 7846,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-07",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0G8XXXGCS",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:46:27+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D1XLNWP2",
+      "title": "UGREEN Revodok USB-C ハブ 6in1 100W USB PD対応 4K 60Hz 10Gbps 高速データ転送 HDMIポート USB C 3.2 & USB-A 3.2 MacBook Pro/Air、iPad Pro、Thinkpad Rog Ally などに対応",
+      "url": "https://www.amazon.co.jp/dp/B0D1XLNWP2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D1XLNWP2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71khUQvGlzL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【6-in-1 10Gbps USB C ハブ】 2 つの 10 Gbps USB-C 3.2 Gen 2 ポート、2 つの 10 Gbps USB-A 3.2 Gen 2 ポート、4K 60Hz HDMI、100W 電源供給により、ノートパソコンの USB-C ポートの可能性をさらに引き出します。",
+        "【USB 3.2 時代の幕開け】二つ USB-C データ ポートと二つ USB-A ポートを介して、最大 10 Gbps の速度でファイル、映画、写真を転送します。10Gbps とマークされた C ポートはデータ転送にのみ使用でき、ビデオ出力や充電には対応していません。",
+        "【鮮やかな 4K 60Hz ディスプレイ】SUSB C ドックには 4K@60Hz HDMI ポートが装備されています。視覚的に美しい映画、高解像度のオンライン会議、スムーズなゲームを楽しんだり、ディスプレイを拡張して非常に魅力的なプレゼンテーションを行ったりできます。",
+        "【強力な 100W 電力供給】Type-C ポート経由の最大 100W USB C パススルー充電をサポートし、ノートパソコンに常に電力を供給します。スクリーンキャストやファイル転送のデモンストレーションを行うときは、画像やデータの損失を防ぐため、PD 充電器を抜き差ししないでください。",
+        "【幅広い互換性とドライバー不要】USB C ドングルは、iPhone 18 Pro 、 iPhone 18 Pro Max 、iPhone Duo 、MacBook Pro、MacBook Air、MacBook M1、M2、M3、iMac、iPad Pro、iPhone 15、Chromebook、Surface、Steam デッキ、Rog Ally など、ほとんどの USB-C デバイスと互換性があります。iPhone 18 Pro / Pro Max / Duo ご使用時は、4K@60Hz（1画面のみ）、10Gbps高速データ転送、USB PD充電に対応します。",
+        "【24ヶ月の保証期間】 ：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 7324,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0HKRQH724",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:46:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BQMSXFP7",
+      "title": "Anker 332 USB-C ハブ (5-in-1) 100W USB PD対応 4K HDMIポート5Gbps 高速データ転送 USB-C/USB-Aポート搭載",
+      "url": "https://www.amazon.co.jp/dp/B0BQMSXFP7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BQMSXFP7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51-vm57YV5L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ご購入前にご確認ください】本製品はノートPC（Windows/Mac/Chromebook）専用です。以下の機器では映像出力機能はご利用いただけません：iPhone・iPad・Androidスマホ・タブレット。また、PCのUSB-CポートがDP Alt Mode対応であることが映像出力の必須条件です。",
+        "【HDMI出力】4K@30Hz対応（最大3840×2160）。※4K@60Hzには非対応。1080p@60Hz・1440p@60Hzでの使用を推奨。ウルトラワイドモニター（3440×1440）使用時はリフレッシュレートが制限される場合があります。",
+        "【必須要件】HDMI映像出力を利用するには、PCのUSB-CポートがDP Alt Mode（DisplayPort Alt Mode）に対応している必要があります。対応状況はPCのマニュアルまたはメーカーサイトでご確認ください。※DP Alt Mode非対応のPCでは映像出力はご利用いただけません。",
+        "【PD充電】PD-INポートで最大85WのPC充電が可能（100W充電器接続時、ハブ本体の15W消費分を差し引いた値）。 推奨：100W以上のPD充電器をご使用ください。 ※65W充電器使用時はPC充電が遅くなる・または充電されない場合があります。 ※USB-AポートおよびUSB-Cデータポートは充電非対応（データ転送専用）です。",
+        "【データ転送ポート】5Gbps USB-Cポート×1（データ転送専用）、5Gbps USB-Aポート×2：最大5Gbpsの高速データ転送に対応。※これらのポートはデータ転送専用です（充電用途には使用不可。USB-A最大5V/0.9A、USB-C最大5V/1.5Aのみ出力）。",
+        "パッケージ内容：Anker 332 USB-C ハブ (5-in-1) 、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 27609,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-07",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0HJ1TZB7T",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:46:43+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BXDQS4BD",
+      "title": "UGREEN Revodok Pro USB Cハブ 2HDMI拡張4K60Hz 5Gbpsデータ転送 100W充電 1GbpsLAN カードリーダー",
+      "url": "https://www.amazon.co.jp/dp/B0BXDQS4BD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BXDQS4BD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71UjU1wR2ML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【10-in-1 USB C ドッキング ステーション】USB 3.2 Gen1 対応のUSB-CポートをHDMI（4K@60Hz）×2、USB C3.0×1、USB3.0×1、USB2.0×2、100W PD対応充電ポート×1、SD&amp;マイクロSDカードスロット×1、RJ45イーサネット×1に拡張できる、10のポートをこれ1台で使用できます。 あらゆるポートは同時に使用できます。【USB C ポートは映像出力をサポートしていません】",
+        "【二つ画面8K/30Hz&amp;4K60Hz出力】ドッキングステーションは、最大 4K@60Hz の解像度で 2 台のディスプレイを両方の HDMI ポートに接続します。 HDMI 2 経由で 1 台のディスプレイに接続し、最大 8K@30Hz の解像度を表示します。最大 8K@30Hz の解像度を提供し、驚くほどのディテールと超鮮やかな色を生み出します。 ビジュアル コンテンツを作成したり楽しんだりすることがこれまでになく便利になりました。",
+        "【USBA&amp;USB C高速データ転送】USB 3.2 Gen1 対応のUSB-CポートとUSB-Aポートからは最大5Gbpsでの高速データ転送を実現し、2つのUSB-A 2.0ポートからは最大480Mbpsの速度で、動画、写真、音楽を転送できます。最大4台までのUSB機器を接続でき、キーボード、マウス、USBディスク、ハードディスクなどをMacBook Proに接続でき、数秒以内にHD映画を転送することが可能です。【ご注意：USB Cポートはビデオ出力に対応しておらず、HDMIポート2つだけでビデオを出力することができます。】",
+        "【100W PD急速充電】Type-Cコネクタを経由してパソコン等デバイス本体に最大100Wの高速充電が可能なPower Delivery(PD)ポートを搭載。ハードドライブ、プリンター、マウス、その他のUSBデバイスをノートパソコンに接続できます。 充電時にはUSB PD 100W（最大出力85W）対応ポートとして、接続したUSB PD対応機器の超高速充電が可能です。また、充電しながらも、ハブの他の機能を同時に利用することが可能、充電しながら仕事できて、電池切れの心配もありません。【1000Mbps高速伝送&amp;SD/TFカードリーダー】有線LAN変換ポート Type Cは最大1000Mbpsまでの高速回線速度になり、安定また超高速のインターネット通信が維持されています。仕事の効率がより良くなり、オンラインゲームも遅延無くなります。またSD/micro SDスロットを搭載で、デジカメなどで撮影した写真や映像を取り込むことができます。",
+        "【よくある質問】：①.画面異常：お客様は、より良い品質、ケーブル接続の短い長さを交換し、試してモニターを変更することができます；または、製品のファームウェア バージョンをアップグレードする必要があります。②.ネットワークが識別できない：ネットワークカードドライバのセルフテストが合格していない可能性があり、お客様は、ネットワークカードドライバをダウンロードする対応のメーカーに移動しようとすることができます。③.USB-PD充電ポート：本製品は、唯一のPD電源ポートを持っており、他のインタフェースは電力を供給することはできません。USBデータ伝送ポートとPD電源ポートの区別に注意してください。【24ヶ月の保証期間】：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 3937,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-30",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0HKRCQ4Y2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:46:53+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D1XSKZRJ",
+      "title": "UGREEN 7 in 1 Revodok Pro USB C ドッキングステーション 2*HDMI出力 USB Cハブ 4K@60Hz HDMI 出力 2*USB A&C 10Gbps高速データ転送 100W PD急速充電 MacBook",
+      "url": "https://www.amazon.co.jp/dp/B0D1XSKZRJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D1XSKZRJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71TxHtv9ZuL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "◆◆UGREEN正規品に関するご確認のお願い◆◆ UGREEN正規品は、メーカー直轄の販売元「Ugreen Japan Co., Ltd」により出品・販売されています。 正規品をご購入いただくことで、日本国内におけるメーカー保証、安全性確認済みの品質、およびカスタマーサポートをご提供できます。 お客様が正規品の完全なサービスをお受けいただくため、ご購入前には、商品ページの「販売元」情報が「Ugreen Japan Co., Ltd」となっていることをご確認いただけますと幸いです。",
+        "【7 in 1 USB C ドッキングステーション】UGREEN ドッキングステーションには、HDMI 2つ、10Gbps USB A ポート2つ、10Gbps USB C ポート2つ、PD 100w 充電転送ポートが付属しています。マルチスクリーンで最高の解像度を得るためには、11世代以上のCPUを搭載したPCを使用することをお勧めします。",
+        "【二つ4K 60Hz出力】USB C2画面 HDMI アダプターの HDMI 2 ポートは、最大 4K@60Hz の解像度を提供し、驚くほどのディテールと超鮮やかな色を生み出します。 ビジュアル コンテンツを作成したり楽しんだりすることがこれまでになく便利になりました。【ご注意：USB A およびUSB Cポートはビデオ出力に対応しておらず、HDMIポート2つだけでビデオを出力することができます。】",
+        "【10Gbps超高速転送速度】 この2画面 HDMI USB-C ハブ ドッキング ステーションには、キーボードやマウスを接続したり、USB 3.2 でデータを転送したりするための 2 つの USB A&amp;C ポートが付属しています。ファイル、ムービー、写真を最大 10 Gbps の速度で転送します。",
+        "【100W PD急速充電】USB-C PD ポート経由で最大 85W USB C パススルー充電をサポートしているため、MacBook Pro 13 をバッテリー残量の少ない状態から 1 時間で 73% まで充電できます。 充電ケーブルと電源アダプターは付属していません。また、充電ポートは充電のみをサポートしており、データ転送やビデオ出力には対応していません。",
+        "【幅広い適応性】 Type-Cドッキングステーションは、MacBook Air M1/M2、iMac、ThinkPad X1、ZenBook、iPad Pro、Chromebook、Surfaceなどと互換性があります。注: Windowsシステムは拡張デュアルスクリーンディスプレイを利用できますが、Macデバイスはミラーモードに制限されています。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 3197,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "据置ドックではなく持ち運べるハブ構造/寸法か公式確認"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:47:00+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DLWDJJQ8",
+      "title": "Anker USB-C ハブ (5-in-1, 4K, HDMI) グレー",
+      "url": "https://www.amazon.co.jp/dp/B0DLWDJJQ8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DLWDJJQ8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/613LzxkExML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "5つのポートを1つに：4K (30Hz) 対応のHDMIポート1つ、USB-Aポート3つUSB PD対応USB-Cポート1つを備えており合計5台の機器へ同時接続が可能です。",
+        "パススルー急速充電：ハブとして使用しながらお使いのノートPCに最大90Wまでの高出力でパススルー充電が可能です。(※90Wでのパススルー急速充電を行うためには、100W出力に対応した急速充電器とケーブルをお使いください。なお、急速充電器とケーブルは別売りです)",
+        "高速データ転送：データ転送用USB-Aポートから最大5Gbpsでの高速データ転送を実現しました。",
+        "高画質の画面出力：HDMIポートを使用して、最大4K (30Hz)の鮮明な画像出力が可能です。",
+        "パッケージ内容：Anker USB-C ハブ (5-in-1, 4K, HDMI)グレー 、取扱説明書、最大24ヶ月保証、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 444,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-03",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0HHS5M5FC",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:47:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CTQGM5ZN",
+      "title": "Anker USB-C ハブ (4-in-1, 10Gbps)",
+      "url": "https://www.amazon.co.jp/dp/B0CTQGM5ZN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CTQGM5ZN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51ndP9N+A4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "4つのポートを1つに:　4K (60Hz) 対応・USB PD 100W出力対応 USB-C ポート1つ、高速データ転送用USB-Cポート3つへの接続がこれ一台で可能になりました。(※4K (60Hz) 対応の映像出力は、USB PD対応のUSB-Cポートからのみ利用が可能です。ご使用の機器の互換性を必ずご確認ください)",
+        "パススルー充電可能：データ転送などハブとして使用しながらも、お使いのノートPCに最大85Wまでの高出力でパススルー充電が可能です。（※85Wでのパススルー充電を行うためには、USB PD 100W出力に対応した急速充電器とケーブルをお使いください。なお、急速充電器とケーブルは別売りです）",
+        "高速データ転送：3つのデータ転送用USB-Cポートから最大10Gbpsでの高速データ転送が可能です。",
+        "エコフレンドリー素材採用：本体の約75%にリサイクルされたプラスチックを使用し、機能性はそのままに環境への配慮を実現しました。（※ケーブルの素材を除く）",
+        "パッケージ内容：Anker USB-C ハブ (4-in-1, 10Gbps) 、取扱説明書、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 137,
+      "star_rating": 3.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-30",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:47:17+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D53WG438",
+      "title": "エレコム USB-Cハブ ドッキングステーション 6in1 スリムタイプ PD 100W対応 4K60Hz対応 HDMI MacBook MacBook Air MacBook Pro iPad対応 グレー DST-W09",
+      "url": "https://www.amazon.co.jp/dp/B0D53WG438?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D53WG438?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51OcMWGeDaL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "6ポートをスティックサイズに。薄型ノートパソコンの機能を拡張する、USB Type-C(TM)接続ドッキングステーションです。映像出力ができるHDMI(R)、インターネットの有線接続が可能なLANポートを備えながら、持ち運びに便利なスリムな形状を実現。USB Power Delivery対応で、パソコンに最大85Wまでスピード充電しながら周辺機器を使えます。",
+        "USB Type-C(TM)ポート搭載パソコンに最大6ポートを増設可能。さまざまなデバイスを1本のケーブルで一括接続できます。",
+        "スリムタイプで持ち運びに便利です。外出や出張の際にも活躍します。",
+        "パソコン本体との接続は、最大5Gbps(理論値)の高速データ転送を実現するUSB 5Gbps(USB3.2(Gen1))に対応しています。",
+        "USB Power Deliveryに対応したUSB Type-Cポートを1ポート搭載しています。USB Type-Cコネクターを経由して最大100W(※)の電力をデバイス/パソコン本体に供給できます。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 79,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-12",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [
+        "据置ドックではなく持ち運べるハブ構造/寸法か公式確認"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:47:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FXDVQMQG",
+      "title": "Belkin 8-in-1 USB ハブ 100W USB-C PD高速充電 4K@60Hz HDMI出力対応 10Gbps高速データ転送",
+      "url": "https://www.amazon.co.jp/dp/B0FXDVQMQG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FXDVQMQG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61z5OWMDITL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【8-in-1 USB-C マルチポートハブ】USB-Cポート1つで、ノートパソコンの接続性を大幅に拡張できる8-in-1 USB-Cハブ。HDMI、有線LAN、USBポートなどを搭載し、外部モニター、マウス、キーボード、外付けHDDなど複数の周辺機器をまとめて接続できます。",
+        "【最大100W USB-C PD充電対応】USB-C Power Deliveryに対応し、最大100Wの高出力充電が可能。周辺機器を接続しながら、MacBook Pro、ノートパソコン、タブレットなどへ効率よく給電できます。※100W出力には対応するUSB-C充電器とケーブルが必要。",
+        "【HDMI 4K/60Hz対応で高画質出力】HDMIポートは最大4K@60HzのUltra HD映像出力に対応。外部ディスプレイやテレビに接続して、鮮明で滑らかな映像を楽しめます。資料作成、動画視聴、オンライン会議、マルチディスプレイ作業など、在宅勤務やビジネス用途にもおすすめ。",
+        "【最大10Gbps 高速データ転送】USBポートは最大10Gbpsの高速データ転送に対応し、写真、動画、大容量ファイルの移動やバックアップもスムーズに行えます。外付けSSD、USBメモリ、ハードドライブなど複数のデバイス接続に便利で、USB 3.0よりも高速なデータ転送環境を実現。",
+        "【2.5Gbps有線LAN＋安全設計＋2年保証】最大2.5Gbpsの有線LANポートを搭載し、Wi-Fiが不安定な環境でも高速で安定したインターネット接続が可能。さらに、過電圧、過負荷、過電流、過熱、短絡保護に対応した安全設計を採用。安心の2年保証付き。"
+      ],
+      "maker": "Belkin",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 68,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-30",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0H4SZ756P",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:47:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DTJTS1WN",
+      "title": "Belkin Connect 7-in-1 USB-C ハブ",
+      "url": "https://www.amazon.co.jp/dp/B0DTJTS1WN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DTJTS1WN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61sbhykXvML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "7つのポートで、データ転送等、画像・音楽等のメディア用に特化したUSB Type C ハブ。iPad Pro / iPad の拡張性を広げます",
+        "4K・60Hz駆動での映像出力に対応",
+        "microSD、SDカードの2種のSDカードリーダー搭載。3.5mm オーディオジャックポート搭載で、音楽の出力が有線で可能に",
+        "アルミニウムのスリムボディで携帯にも最適。対応機器:タブレット:iPad(第9世代)、iPad mini(第6世代)、iPad Pro (第1、第2、第3、第4、第5世代)、 iPad Air (第 4 世代)。ノートパソコン: MacBook (2015 / 2016 / 2017 / 2018 / 2020)、MacBook Pro (2015 / 2016 / 2017 / 2018 / 2019 / 2020)、MacBook Air (2018 / 2019 / 2020)、Google ChromeBook Pixel (2017)。デスクトップ:iMac(2019 / 2021)、iMac Pro、Mac mini(2020)",
+        "【充実した安心の日本語サポート】日本国内にサポートセンターがあり、充実したサポートを受けられます。 サポート電話番号:03-6706-4176 メール:japansupport@belkin.com"
+      ],
+      "maker": "Belkin",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 89,
+      "star_rating": 3.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0FH5J6NX5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:47:40+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DVFVVV5S",
+      "title": "エレコム USBハブ USB-C接続 USB3.2(Gen1) 5Gbps 4ポート バスパワー 15cm ケーブル 小型・軽量設計 ブラック U3HC-H042BK/E",
+      "url": "https://www.amazon.co.jp/dp/B0DVFVVV5S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DVFVVV5S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51VQxUltb+L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "USB-Aポートを増やしてデスクまわりをすっきり。4つのUSB-Aポートを搭載した、USB Type-C(TM)接続のUSBハブです。USB 5Gbps(USB3.2(Gen1))で高速データ転送が可能です。機能を絞った薄型設計で、持ち運びにも便利です。",
+        "本製品はUSBポートを増設するための製品です。本製品を使用してスマートフォン・タブレットを充電することはおすすめできません。",
+        "USB 5Gbps(USB3.2(Gen1))対応でUSB2.0の10倍以上の転送速度を実現します。 ※理論値",
+        "※USB 5Gbps(USB3.2(Gen1))でご使用になるには、機器側がUSB 5Gbps(USB3.2(Gen1))に対応している必要があります。",
+        "機能を絞った厚さ約10mm、約36gのコンパクト設計で、在宅ワークや出張、旅行の持ち運びにも便利です。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261106_usb_hub",
+      "queries_matched": [
+        "dg_20261106_usb_hub"
+      ],
+      "review_count": 137,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "scope_pending": [],
+      "parent_asin": "B0DVL6YKJJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:47:51+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:usb_hub"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "実在typeタグでreadonly gate照会。狭い用途は商品名と履歴Featuresで監査。未確認attrタグを推測で掛けない"
+  },
+  "date": "2026-11-06",
+  "planning_status": "historical_candidates_require_refresh",
+  "scope_conditions": {
+    "type_tag": "type:usb_hub",
+    "tentative_theme": "外出先で端子を増やす。USB-Cハブ",
+    "exclude_used_since": "2026-10-07",
+    "features_current": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T10:47:51+09:00"
+}

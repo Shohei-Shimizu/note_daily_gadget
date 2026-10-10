@@ -1,0 +1,526 @@
+{
+  "date": "2026-11-06",
+  "topic_id": "daily_gadget_20261106_25de440c",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 13,
+  "parent_groups": {
+    "B0HD6CLL65": [
+      "B0DQQBC88X"
+    ],
+    "B093FKT9BF": [
+      "B093FKT9BF"
+    ],
+    "B0G8XXXGCS": [
+      "B0CSYYKB97"
+    ],
+    "B0D1XLNWP2": [
+      "B0D1XLNWP2"
+    ],
+    "B0G1SXFRRQ": [
+      "B0BQMSXFP7"
+    ],
+    "B0BXDQS4BD": [
+      "B0BXDQS4BD"
+    ],
+    "B0D1XSKZRJ": [
+      "B0D1XSKZRJ"
+    ],
+    "B0HHS5M5FC": [
+      "B0DLWDJJQ8"
+    ],
+    "B0CTQGM5ZN": [
+      "B0CTQGM5ZN"
+    ],
+    "B0D53WG438": [
+      "B0D53WG438"
+    ],
+    "B0H4SZ756P": [
+      "B0FXDVQMQG"
+    ],
+    "B0FH5J6NX5": [
+      "B0DTJTS1WN"
+    ],
+    "B0DVL6YKJJ": [
+      "B0DVFVVV5S"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B07KJWYQJW",
+      "title": "Anker PowerExpand+ 7-in-1 USB-C PD ハブ",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": "テーマ本体を商品名で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07Q9K2QHV",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース トラベルポーチ 充電器ケーブルUSBハブなどの収納ポーチ 保護ケース 小物入れ 出張/旅行用 防水 グレー",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": "B0FY2TXK3B",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B08TGDJ6C6",
+      "title": "エレコム USBハブ U3H-S418BBK/EC USB3.0 Aポート×4 バスパワー マグネット・スイッチ付 ケーブル長1.0m ブラック MacBook/Surface/Chromebook他 ノートPC対応",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 1,
+      "parent_asin": "B0FF4563S9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": "USB-A接続本体でありUSB-Cハブ比較に不一致",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B093FKT9BF",
+      "title": "UGREEN Revodok 107 USB Cハブ 7-IN-1",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BQMSXFP7",
+      "title": "Anker 332 USB-C ハブ (5-in-1) 100W USB PD対応 4K HDMIポート5Gbps 高速データ転送 USB-C/USB-Aポート搭載",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0G1SXFRRQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BR3M8XHK",
+      "title": "UGREEN Revodok 105 USB C ハブ 5-IN-1 HDMI 出力USB ハブ Type-C 100W PD急速充電 1*USB3.0+2*USB2.0ポート 5Gbps超高速データ転送用 スリムハブ 4K@30Hz Window/MacOS/linux/IOS/Androidシステム対応 Mac Pro/Air/iPad Proなど対応",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": "B0H4T9D5ZD",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B0BR3M8XHK"
+        },
+        {
+          "published_date": "2026-09-04",
+          "title": "新型 iPhone 目前。今こそ見直す「スマホアクセサリ」 5 選",
+          "asin": "B0BR3M8XHK"
+        },
+        {
+          "published_date": "2026-03-05",
+          "title": "予算内でデスク整理。コスパ抜群「UGREEN」おすすめ 8 選",
+          "asin": "B0BR3M8XHK"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": "30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BXDQS4BD",
+      "title": "UGREEN Revodok Pro USB Cハブ 2HDMI拡張4K60Hz 5Gbpsデータ転送 100W充電 1GbpsLAN カードリーダー",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Ugreen",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-09-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-30",
+          "title": "9 月のベストバイ。秋のデスクを整える「USB-C ドック」 6 選",
+          "asin": "B0BXDQS4BD"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CMC8JHN7",
+      "title": "ORICO USB C ハブ クランプ 固定 usb hub 3.0 4ポート 5Gbps高速転送 USB-C 給電ポート付き（5V/3A） バスパワー/セルフパワー両対応 2-IN-1 1mケーブル付き アルミ クリップ式 USB拡張 USB増設 Windows/Linux/Mac OS対応 テレワー 在宅勤務 シルバー MH4PC",
+      "maker": "ORICO",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ORICO",
+      "historical_tier": 1,
+      "parent_asin": "B0D1KHQGP9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CR6J7ZQK",
+      "title": "UGREEN Revodok 105 USB C ハブ 5-IN-1 HDMI 出力USB ハブ",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": "B0H4T9D5ZD",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B0BR3M8XHK"
+        },
+        {
+          "published_date": "2026-09-04",
+          "title": "新型 iPhone 目前。今こそ見直す「スマホアクセサリ」 5 選",
+          "asin": "B0BR3M8XHK"
+        },
+        {
+          "published_date": "2026-03-05",
+          "title": "予算内でデスク整理。コスパ抜群「UGREEN」おすすめ 8 選",
+          "asin": "B0BR3M8XHK"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": "30日窓内に同ASIN/親の掲載: 2026-10-16",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CSYYKB97",
+      "title": "BENFEI USB C ハブ 5in1 4K@30Hz HDMI 1*USB3.2+2*USB2.0ポート 10Gbps超高速データ転送用 Type-C 100W PD急速充電 シリコンおよび織物デザインケーブル アルミニウムケース MacBook Pro/Air、iPad Pro、iMac、iPhone 15 Pro/Pro Max、XPS、Thinkpad に対応",
+      "maker": "BENFEI",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "BENFEI",
+      "historical_tier": 1,
+      "parent_asin": "B0G8XXXGCS",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CTQGM5ZN",
+      "title": "Anker USB-C ハブ (4-in-1, 10Gbps)",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-09-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-30",
+          "title": "9 月のベストバイ。秋のデスクを整える「USB-C ドック」 6 選",
+          "asin": "B0CTQGM5ZN"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D1XLNWP2",
+      "title": "UGREEN Revodok USB-C ハブ 6in1 100W USB PD対応 4K 60Hz 10Gbps 高速データ転送 HDMIポート USB C 3.2 & USB-A 3.2 MacBook Pro/Air、iPad Pro、Thinkpad Rog Ally などに対応",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-05-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-03",
+          "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+          "asin": "B0D1XLNWP2"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D1XSKZRJ",
+      "title": "UGREEN 7 in 1 Revodok Pro USB C ドッキングステーション 2*HDMI出力 USB Cハブ 4K@60Hz HDMI 出力 2*USB A&C 10Gbps高速データ転送 100W PD急速充電 MacBook",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [
+        "据置ドックではなく持ち運べるハブ構造/寸法か公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D53WG438",
+      "title": "エレコム USB-Cハブ ドッキングステーション 6in1 スリムタイプ PD 100W対応 4K60Hz対応 HDMI MacBook MacBook Air MacBook Pro iPad対応 グレー DST-W09",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [
+        "据置ドックではなく持ち運べるハブ構造/寸法か公式確認"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DLWDJJQ8",
+      "title": "Anker USB-C ハブ (5-in-1, 4K, HDMI) グレー",
+      "maker": "Anker",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 2,
+      "parent_asin": "B0HHS5M5FC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DQQBC88X",
+      "title": "BENFEI 3in1 USB C ハブ、4K@60Hz HDMI、10Gbps USB-A、100W パワーデリバリー、MacBook Pro/Air、iPad Pro、iMac、iPhone 16/15 Pro/Pro Max、XPS、Thinkpad に対応",
+      "maker": "BENFEI",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "BENFEI",
+      "historical_tier": 2,
+      "parent_asin": "B0HD6CLL65",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-04",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-04",
+          "title": "新型 iPhone 目前。今こそ見直す「スマホアクセサリ」 5 選",
+          "asin": "B0DQQBC88X"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DTJTS1WN",
+      "title": "Belkin Connect 7-in-1 USB-C ハブ",
+      "maker": "Belkin",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Belkin",
+      "historical_tier": 3,
+      "parent_asin": "B0FH5J6NX5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-02-19",
+      "dg_use_history": [
+        {
+          "published_date": "2026-02-19",
+          "title": "iPad を Mac 化する！キーボード・ハブ 6 選",
+          "asin": "B0DTJTS1WN"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DVFVVV5S",
+      "title": "エレコム USBハブ USB-C接続 USB3.2(Gen1) 5Gbps 4ポート バスパワー 15cm ケーブル 小型・軽量設計 ブラック U3HC-H042BK/E",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "ELECOM",
+      "historical_tier": 2,
+      "parent_asin": "B0DVL6YKJJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FXDVQMQG",
+      "title": "Belkin 8-in-1 USB ハブ 100W USB-C PD高速充電 4K@60Hz HDMI出力対応 10Gbps高速データ転送",
+      "maker": "Belkin",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "Belkin",
+      "historical_tier": 3,
+      "parent_asin": "B0H4SZ756P",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-30",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-30",
+          "title": "9 月のベストバイ。秋のデスクを整える「USB-C ドック」 6 選",
+          "asin": "B0FXDVQMQG"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H2F6R341",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー USB ハブなどの収納 レイヤー構造 スプラッシュ防止素材 保護ケース 収納バッグ 小物入れ 出張/旅行用 撥水素材 ブルー Mサイズ（24cm x 13cm x 7cm）",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_maker: DBブランドと商品名",
+      "maker_live_verified": false,
+      "db_brand": "UGREEN",
+      "historical_tier": 1,
+      "parent_asin": "B0HDCXWTL9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-07",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造本体を除外",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B07KJWYQJW",
+      "title": "Anker PowerExpand+ 7-in-1 USB-C PD ハブ",
+      "reason": "テーマ本体を商品名で確認できない"
+    },
+    {
+      "asin": "B07Q9K2QHV",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース トラベルポーチ 充電器ケーブルUSBハブなどの収納ポーチ 保護ケース 小物入れ 出張/旅行用 防水 グレー",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B08TGDJ6C6",
+      "title": "エレコム USBハブ U3H-S418BBK/EC USB3.0 Aポート×4 バスパワー マグネット・スイッチ付 ケーブル長1.0m ブラック MacBook/Surface/Chromebook他 ノートPC対応",
+      "reason": "USB-A接続本体でありUSB-Cハブ比較に不一致"
+    },
+    {
+      "asin": "B0BR3M8XHK",
+      "title": "UGREEN Revodok 105 USB C ハブ 5-IN-1 HDMI 出力USB ハブ Type-C 100W PD急速充電 1*USB3.0+2*USB2.0ポート 5Gbps超高速データ転送用 スリムハブ 4K@30Hz Window/MacOS/linux/IOS/Androidシステム対応 Mac Pro/Air/iPad Proなど対応",
+      "reason": "30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B0CMC8JHN7",
+      "title": "ORICO USB C ハブ クランプ 固定 usb hub 3.0 4ポート 5Gbps高速転送 USB-C 給電ポート付き（5V/3A） バスパワー/セルフパワー両対応 2-IN-1 1mケーブル付き アルミ クリップ式 USB拡張 USB増設 Windows/Linux/Mac OS対応 テレワー 在宅勤務 シルバー MH4PC",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    },
+    {
+      "asin": "B0CR6J7ZQK",
+      "title": "UGREEN Revodok 105 USB C ハブ 5-IN-1 HDMI 出力USB ハブ",
+      "reason": "30日窓内に同ASIN/親の掲載: 2026-10-16"
+    },
+    {
+      "asin": "B0H2F6R341",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー USB ハブなどの収納 レイヤー構造 スプラッシュ防止素材 保護ケース 収納バッグ 小物入れ 出張/旅行用 撥水素材 ブルー Mサイズ（24cm x 13cm x 7cm）",
+      "reason": "別用途・アクセサリ・別構造本体を除外"
+    }
+  ],
+  "variant_policy": "色・サイズの候補を残し親群を提示。機械選抜は最新実測後に主担当が行う",
+  "notes": [
+    "履歴値を最新在庫/採用品として扱わない",
+    "公式メーカー/型番/狭い用途は未確認事項を明記",
+    "Amazon検索/実測/API/ブラウザ/DB書込みなし"
+  ],
+  "maker_normalization_note": "候補段階の手動正規化で別表記の同一メーカーを統一。採用品/掲載順/数は機械選抜で決める"
+}
