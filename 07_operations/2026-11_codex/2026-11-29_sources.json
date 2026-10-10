@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-29",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B07S8VWT5B",
+      "official_urls": [
+        "https://www.buffalo.jp/product/detail/bsmbw315bk.html",
+        "https://www.buffalo.jp/support/download/detail/?dl_contents_id=62530"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B07S8VWT5B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-29_mouse_candidates.json",
+        "path": "candidates[asin=B07S8VWT5B].features"
+      },
+      "verified_article_specs": [
+        "接続：2.4GHz／付属USB Type-Aレシーバー",
+        "ボタン：5個",
+        "静音ボタン：なし",
+        "電源：単3形電池1本",
+        "重量：約60g（電池含まず）"
+      ],
+      "check": "公式BSMBW315BK同型、非静音、60g電池除外。マウスカスタム＋Windows専用、現Ver1.02Windows11/10対応。584日はメーカー計算条件付きなので不掲載。基本OSは動的対応情報で確認、全OSソフト対応としない。"
+    },
+    {
+      "order": 2,
+      "asin": "B06WRN4VGJ",
+      "official_urls": [
+        "https://www.buffalo.jp/product/detail/bsmbw325bk.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B06WRN4VGJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-29_mouse_candidates.json",
+        "path": "candidates[asin=B06WRN4VGJ].features"
+      },
+      "verified_article_specs": [
+        "接続：2.4GHz／付属USB Type-Aレシーバー",
+        "ボタン：5個・静音仕様",
+        "分解能：1000／1600DPI",
+        "電源：単3形電池1本",
+        "重量：約70g（電池含まず）"
+      ],
+      "check": "公式325BK、左右/ホイール/サイド静音。70g電池除外。Bluetoothではなく2.4GHzGFSKレシーバー。140日最大計算値を全ユーザー実寿命として不採用。"
+    },
+    {
+      "order": 3,
+      "asin": "B0956X785M",
+      "official_urls": [
+        "https://press.logicool.co.jp/ja-jp/blog20240307/",
+        "https://support.logi.com/hc/en-za/articles/360023302074-M185-Technical-Specifications"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0956X785M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-29_mouse_candidates.json",
+        "path": "candidates[asin=B0956X785M].features"
+      },
+      "verified_article_specs": [
+        "接続：2.4GHz／付属USBレシーバー",
+        "電源：単3形電池1本",
+        "形状：左右対称",
+        "Unifying：当該モデルは非対応",
+        "対応OS：Windows／macOS／ChromeOS／Linux"
+      ],
+      "check": "公式国内価格表M185CGと当該Features一致。M185公式技術表は底面型番別でUnifying/重量/ソフトが異なるため、当該Featuresの非Unifyingと共通AA/2.4GHzのみ採用。現shopはM186見出しへ変化しており新M186固有仕様を転用しない。重量/底面MR番号/LogiOptions+対応は不掲載、Bolt対応を付与しない。"
+    },
+    {
+      "order": 4,
+      "asin": "B08LMK3L5C",
+      "official_urls": [
+        "https://www.elecom.co.jp/products/M-TM10BBBKEC.html",
+        "https://www.elecom.co.jp/support/download/peripheral/mouse/assistant/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B08LMK3L5C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-29_mouse_candidates.json",
+        "path": "candidates[asin=B08LMK3L5C].features"
+      },
+      "verified_article_specs": [
+        "接続：Bluetooth 4.2／HOGP",
+        "ボタン：4個・静音スイッチ",
+        "本体高さ：28mm",
+        "電源：単3形電池1本",
+        "重量：約66g（電池含む）"
+      ],
+      "check": "公式/EC型番同一。66gは電池込みで無印の重量を転用しない。BluetoothHOGP、USBレシーバーは不要。設定ソフトはWindows/Mac環境条件、スマホOSで割当保証せず。旧FeaturesFireOSの対応は現公式表未掲載で不採用。最新OS26/Android16に勝手な上方拡張しない。"
+    },
+    {
+      "order": 5,
+      "asin": "B088P8QYWN",
+      "official_urls": [
+        "https://www.elecom.co.jp/products/M-XGM10DBBKEC.html",
+        "https://www.elecom.co.jp/support/download/peripheral/mouse/assistant/win/version_5.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B088P8QYWN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-29_mouse_candidates.json",
+        "path": "candidates[asin=B088P8QYWN].features"
+      },
+      "verified_article_specs": [
+        "接続：2.4GHz／USB Type-Aレシーバー",
+        "サイズ分類：M",
+        "ボタン：5個",
+        "電源：単3形電池1本",
+        "重量：約75g（電池含まず）"
+      ],
+      "check": "公式/EC同型と色一致。商品名ガンメタリックに対し公式ブラック、見出し色を省略。DB系2.4GHz、BB系Bluetooth/新静音SB系の仕様を付与しない。75g電池なし。マウスアシスタントは対応モデル/OS/CPU確認（WindowsARM64等に制限）、全OS機能同一としない。"
+    },
+    {
+      "order": 6,
+      "asin": "B09J46WG5D",
+      "official_urls": [
+        "https://press.logicool.co.jp/ja-jp/blog20240307/",
+        "https://www.logicool.co.jp/ja-jp/shop/p/m220-wireless-mouse",
+        "https://support.logi.com/hc/en-us/articles/360023303014-Wireless-Mouse-M220-Technical-Specifications"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B09J46WG5D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-29_mouse_candidates.json",
+        "path": "candidates[asin=B09J46WG5D].features"
+      },
+      "verified_article_specs": [
+        "接続：2.4GHz／付属USBレシーバー",
+        "クリック：静音設計",
+        "電源：単3形電池1本",
+        "形状：左右対称",
+        "Unifying：非対応"
+      ],
+      "check": "公式国内価格表M220CGと静音M220同型。支持技術表nonUnifying/BTなし/AAは各底面版で共通、旧12か月と新18か月混在のため寿命数値不掲載。重量も底面版で異なるため記事省略。Bolt対応/最新LogiOptions+割当を付与しない。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/ndbce63cf191b",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n83dbd826c169",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/ndd361fecfc9b",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "official_gate_passed": true,
+  "unresolved_omitted_specs": [
+    "M185/M220底面改版型番は未取得。各改版で異なる重量/ソフト/電池寿命数値を不掲載。CG同型は国内公式価格表と当該Featuresで確認",
+    "最新macOS/iOS/Androidへのメーカー対応表数値拡張はしない。本体/設定ソフト/CPU環境はメーカー表確認",
+    "全品の電池寿命/無線到達距離は環境条件付きなので本文省略"
+  ],
+  "selection_changed": false
+}
