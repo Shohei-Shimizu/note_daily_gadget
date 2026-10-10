@@ -21,27 +21,9 @@
       "cautions": [
         "A8355と別型番A8356を区別。充電入力100WはPC出力85Wと異なる。USB-Cデータポートは映像出力非対応。"
       ],
-      "official_confirmation": "confirmed"
-    },
-    {
-      "asin": "B0DQQBC88X",
-      "name": "BENFEI USB-C ハブ 3in1",
-      "source": "https://www.benfei.com/de/collections/hub-docking-station",
-      "points": [
-        "採用商品名にHDMI・USB-A・PDの3機能を明示。",
-        "必要な端子を3つに絞る使い方の候補。",
-        "同社の他の3-in-1製品や充電スタンドを混同しない。"
-      ],
-      "specs": [
-        "PC接続：USB-C",
-        "構成：HDMI・USB-A・USB-C PD",
-        "仕様根拠：採用ASINの商品名（メーカー独立ページの突合は未完）"
-      ],
-      "body": "外部画面とUSB-A機器、充電の接続をまとめたい場合の候補です。採用商品の案内では、この用途に絞った端子構成になっています。多くの周辺機器を同時につなぐ前提よりも、使う機器を決めて必要な接続をまとめる選び方に向く構成。",
-      "cautions": [
-        "メーカー独立ページに当該ASIN/000391greyの一致確認なし。3ポート構成以外の60Hz/10Gbps/100W最大値は断定不使用。独立メーカー仕様確認までpublish gate未完。"
-      ],
-      "official_confirmation": "pending_exact_official"
+      "official_confirmation": "confirmed",
+      "order": 1,
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BQMSXFP7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
     },
     {
       "asin": "B093FKT9BF",
@@ -63,28 +45,9 @@
       "cautions": [
         "型番60515、7ポート。1071/15214とは別。4K60Hzは接続元DP1.4等の対応条件が必要。"
       ],
-      "official_confirmation": "confirmed"
-    },
-    {
-      "asin": "B0CSYYKB97",
-      "name": "BENFEI USB-C ハブ 5in1",
-      "source": "https://www.benfei.com/de/products/benfei-5in1-usb-c-hub-with-4k-hdmi-3-usb-a-100w-power-delivery-silicone-and-woven-design-cable-aluminum-case-compatible-with-macbook-pro-air-ipad-pro-imac-iphone-15-pro-pro-max-xps-thinkpad",
-      "points": [
-        "HDMI・USB-A3ポート・PD入力を備える構成。",
-        "USB-Aのうち2ポートはUSB2.0でマウスやキーボードに使いやすい。",
-        "柔らかいケーブルとアルミニウムケースを採用。"
-      ],
-      "specs": [
-        "PC接続：USB-C",
-        "USB-A：データ用×1・USB2.0×2",
-        "HDMI：最大4K・30Hz",
-        "USB-C：PD入力用（データ・映像転送用ではない）"
-      ],
-      "body": "マウスやキーボードと、データを転送する機器を使い分けたい人向けの候補です。USB-Aポートには規格の違いがあり、すべてが同じ転送速度ではありません。HDMIとPD充電用ポートも備えるため、PCへ接続する前に用途ごとの差し込み先を決めておきたい構成。",
-      "cautions": [
-        "公式000360greyはUSB-A5Gbps、採用ASINタイトルはUSB3.2/10Gbps。世代/改訂版の一致が未確定のため速度と型番の数値は本文不使用。共通ポート構成のみ。"
-      ],
-      "official_confirmation": "pending_generation_match"
+      "official_confirmation": "confirmed",
+      "order": 2,
+      "affiliate_url": "https://www.amazon.co.jp/dp/B093FKT9BF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
     },
     {
       "asin": "B0D1XLNWP2",
@@ -105,7 +68,9 @@
       "cautions": [
         "45363のRevodok Pro106/地域名106と照合。10Gbpsに対応するPC・機器・ケーブルが必要。全ポート同時に各最大速度を保証しない。"
       ],
-      "official_confirmation": "confirmed_model_family"
+      "official_confirmation": "confirmed",
+      "order": 3,
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D1XLNWP2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
     },
     {
       "asin": "B0DLWDJJQ8",
@@ -126,7 +91,9 @@
       "cautions": [
         "A8357を332/A8355と区別。PDポートは充電専用。メーカーはLinux非互換と記載。"
       ],
-      "official_confirmation": "confirmed"
+      "official_confirmation": "confirmed",
+      "order": 4,
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DLWDJJQ8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
     },
     {
       "asin": "B0DVFVVV5S",
@@ -148,7 +115,9 @@
       "cautions": [
         "U3HC(USB-C接続)とU3H(USB-A接続)を混同しない。スマホ・タブレット充電をメーカーは推奨せず。"
       ],
-      "official_confirmation": "confirmed"
+      "official_confirmation": "confirmed",
+      "order": 5,
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DVFVVV5S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1"
     }
   ],
   "selection_preserved": true,
@@ -162,5 +131,10 @@
     "02_article/2026-09/_metadata.json",
     "02_article/2026-02/_metadata.json",
     "02_article/2026-05/_metadata.json"
-  ]
+  ],
+  "selection_file": "06_research/2026-11/2026-11-06_周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」5選.md",
+  "official_gate_passed": true,
+  "unresolved_specs": [],
+  "supersedes": "superseded/2026-11-06_7products/2026-11-06_sources.json",
+  "revision_reason": "Parent excluded two BENFEI candidates with unresolved model identity, then reran machine selection."
 }

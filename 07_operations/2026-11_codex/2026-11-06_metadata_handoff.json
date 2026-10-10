@@ -1,15 +1,13 @@
 {
   "published_date": "2026-11-06",
-  "filename": "2026-11-06_周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」7選.md",
-  "title": "周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」7選",
+  "filename": "2026-11-06_周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」5選.md",
+  "title": "周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」5選",
   "category": "モバイル・電源・周辺機器",
   "tags": "おすすめガジェット USBハブ USB-C 周辺機器 デスク環境",
-  "product_count": 7,
+  "product_count": 5,
   "product_asins": [
     "B0BQMSXFP7",
-    "B0DQQBC88X",
     "B093FKT9BF",
-    "B0CSYYKB97",
     "B0D1XLNWP2",
     "B0DLWDJJQ8",
     "B0DVFVVV5S"
@@ -19,19 +17,18 @@
     "https://note.com/daily_gadget/n/n1a4e8f9fb5b3",
     "https://note.com/daily_gadget/n/n31e80512500d"
   ],
-  "research_file": "06_research/2026-11/2026-11-06_周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」7選.md",
-  "status": "local_draft_pending_official_gate",
+  "research_file": "06_research/2026-11/2026-11-06_周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」5選.md",
+  "status": "local_ready_official_gate_passed",
   "scheduled_time": "20:00 JST",
-  "unresolved_specs": [
-    "BENFEI3in1 B0DQQBC88Xの独立公式仕様確認未完",
-    "BENFEI5in1 B0CSYYKB97と公式000360greyの速度/世代一致未完"
-  ],
+  "unresolved_specs": [],
   "integration_required": [
-    "resolve_official_gate",
     "monthly_metadata",
     "schedule_ledger",
     "shared_db",
     "thumbnail",
     "note_saved_preview"
-  ]
+  ],
+  "url": "",
+  "publish_time": "20:00",
+  "topic_id": "daily_gadget_20261106_25de440c"
 }

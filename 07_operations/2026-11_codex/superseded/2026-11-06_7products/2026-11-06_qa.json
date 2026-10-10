@@ -1,0 +1,22 @@
+{
+  "article": "02_article/2026-11/2026-11-06_周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」7選.md",
+  "title_length": 27,
+  "checks": {
+    "seven_products": true,
+    "selected_urls_order": true,
+    "two_intro_paragraphs": true,
+    "seven_spec_quotes": true,
+    "no_placeholder": true,
+    "no_reviews_prices_claims": true,
+    "related_urls_only": true,
+    "no_new_sections_or_tables": true,
+    "paragraphs_under_200": true,
+    "research_title_sync": true
+  },
+  "official_gate_passed": false,
+  "saved_preview": "pending_main_publisher",
+  "unresolved_specs": [
+    "BENFEI3in1 B0DQQBC88Xの独立公式仕様確認未完",
+    "BENFEI5in1 B0CSYYKB97と公式000360greyの速度/世代一致未完"
+  ]
+}
