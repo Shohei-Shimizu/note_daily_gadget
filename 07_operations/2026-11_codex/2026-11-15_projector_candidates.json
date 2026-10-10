@@ -1,0 +1,480 @@
+{
+  "generated_at": "2026-10-10T01:08:11+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261115_436f7300",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261115_projector"
+  ],
+  "fetched_count": 16,
+  "dedup_count": 11,
+  "candidates": [
+    {
+      "asin": "B0F5GQLNWP",
+      "title": "Philoent 270°回転プロジェクター",
+      "url": "https://www.amazon.co.jp/dp/B0F5GQLNWP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F5GQLNWP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61ZPwShjTFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "🏆【Android TV 14.0 搭載・350インチ大画面・短距離投影・自宅の映画館！】：プロジェクター 家庭用にはAndroid TV14.0 が内蔵されており、Wi-Fiに接続すると、Prime Video、YouTube などの8,000 以上のアプリから 500,000 本以上の映画やテレビ エピソードを楽しめます。要件に応じて Google Playストアやアプリストア から豊富なアプリをダウンロードできて、TVスティックを別途購入や複雑な設定は一切不要です。0.5M～3Mまで短距離投影でき、小さい部屋でも十分に使え、手軽に30インチから350インチまでの大画面で楽しめます。ホームプロジェクター は270°自由に回転できる一体型デザインを採用しており、三脚を使用せずに自由に投影角度を選択で、座ったり、寝転んだり、横向きになったりしながら、リラックスした映画鑑賞体験を実現できます。",
+        "🏆【高音質HiFi外部スピーカー・超高速Wi-Fi 6・Bluetooth5.4】：このぷろじえくたー 家庭用 小型は高品質 HiFi 外部スピーカーとBluetooth 5.4 が内蔵しており、自宅で迫力の3Dサウンドを楽しむことができ、臨場感あふれる映画館のような空間を演出します。高精度チップ技術を使用してある本小型プロジェクターは、2.4G+5Gの周波数帯を同時利用でき、安定した信号と高い伝送速度を備えた超高速 6G WiFi 接続テクノロジーも備えています。 iOS、Android、Windows デバイス (ミラーリング対応のスマートフォン、タブレット、コンピューターなど) を Wi-Fi 経由ですばやく接続し、非常にスムーズで遅延のないオンライン ゲーム、映画鑑賞、ビデオ体験を簡単に楽しめます。",
+        "🏆【30000LM高輝度・1080P高解像度・4K対応】：この家庭用プロジェクターは、高精度微小レンズを搭載し、30000LMの高輝度と15000:1の高コントラスト比を実現しました。スクリーンなしで白い壁に直接投影でき、1080PフルHD対応可能で、NTSC 色域効果の 99% 以上を復元し、最大限によりリアルな画像やビデオを映し出します。4Kに対応な高画質技術を搭載し、美しい映像の再生をお楽しみいただけます。さらに、目に優しい拡散光イメージングとアンチブルーライト技術により、直射光よりも柔らかい光源で、子供やお年寄りでもご安心に好きなアニメやテレビ番組などを楽しみください。",
+        "🏆【388gの史上最軽量・270°回転・自動台形補正】：このコンパクトプロジェクターは、他のプロジェクターよりも小型・軽量で携帯性に優れ、史上最軽量のプロジェクターです。この小型プロジェクターは、270°回転可能な一体型スタンドを搭載し、スタンドを回転するだけで、自由に投影角度を選択して、壁や天井などに投影できます。天井プロジェクターは自動台形補正機能を搭載し、面倒な手動操作にさよなら、プロジェクターを上下に任意の角度に傾けると、一瞬で自動台形補正を実行します。",
+        "🏆【多彩な互換性・超長い寿命・プレゼント・品質保証】弊社のプロジェクター は無線でも有線でも接続する家庭用プロジェクターはWi-FiとBluetooth接続に加えて、HDMI、USB、PC、タブレット、USBストレージ、PSゲーム機、スピーカー、ヘッドフォンなど、さまざまなデバイスと互換性があります。超小型プロジェクター は放熱効果が良くて「150,000時間」以上の超長寿命を実現しております。少人数でのプレゼンテーションや会議などのビジネスユースはもちろん、大画面でゲームを楽しみたい方にもおすすめ！お祝いや誕生日のプレゼントにも最適です！ご購入日から36ヶ月の保証があり、安心になります。不良品・ご不満の場合またはご使用上何かご不明なところがございましたら、お気軽にお問い合わせください。"
+      ],
+      "maker": "Philoent",
+      "query": "dg_20261115_projector",
+      "queries_matched": [
+        "dg_20261115_projector"
+      ],
+      "review_count": 8423,
+      "star_rating": 4.7,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "parent_asin": "B0HM11PL26",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:31:38+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BCTP8VJH",
+      "title": "Anker Nebula Capsule 3 Laser 【小型モバイルレーザープロジェクター】 | 家庭用 Google TV搭載 フルHD Netflix対応 大画面 天井投影 自動台形補正 オートフォーカス バッテリー内蔵 ホームシアター ホー",
+      "url": "https://www.amazon.co.jp/dp/B0BCTP8VJH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BCTP8VJH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61WggoQzblL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "世界初 (※) Google TV搭載 モバイルレーザープロジェクター：レーザー光源を採用し、より明るく、色鮮やかな映像美を実現させたモバイルプロジェクター ※2024年7月時点 Anker調べ。",
+        "レーザー光源で、驚きの明るさと色彩表現：片手に収まる500ml缶ほどのサイズで、レーザーならではの明るく鮮やかな色彩を実現。約2.5時間※の長時間再生が可能で、大画面を持ち運べます。※Wi-Fi利用時",
+        "10,000以上のアプリを自由自在に：Google TV搭載で、より優れた操作性を実現。Netflixの起動はリモコンのボタンを押すだけ。",
+        "パッケージ内容：製品本体、リモコン (単4形電池 × 2付属) 、ACアダプタ、USB-C &amp; USB-C ケーブル、クイックスタートガイド、カスタマーサポート",
+        "技適マーク認証済み商品（周波数帯 Bluetooth：2.4GHz、Wi-fi：2.4GHz/5GHz） ※製品の仕様またはパッケージは予告なく変更されることがありますので、予めご了承ください。"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261115_projector",
+      "queries_matched": [
+        "dg_20261115_projector"
+      ],
+      "review_count": 2374,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "projector",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "parent_asin": "B0H8RYNCK7",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:31:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CJDV213W",
+      "title": "Anker Nebula Capsule 3 【小型モバイルプロジェクター 】",
+      "url": "https://www.amazon.co.jp/dp/B0CJDV213W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CJDV213W?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51fywU7gzvL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【VGP2025 金賞の大人気モデル】コンパクトと映像美を両立させた大人気モバイルプロジェクター。フルHDの高解像度 / 豊富な自動補正機能 / バッテリー内蔵でケーブルレスと、あらゆる面でバランスの取れた1台。",
+        "【Google TV搭載で進化した操作性】Netflixの起動はリモコンのボタンを押すだけ。YouTubeやAmazon Prime Videoなどの10,000以上の人気動画サービスを楽しめます。アプリ内の操作性もよりスムーズに。",
+        "【120インチの大画面】片手に収まる500ml缶以下のサイズというコンパクトさからは想像できない、最大120インチの迫力のある大画面投影が可能に。約2.5時間※の長時間再生が可能で、ケーブルレスで映画一本分を楽しめます。縦横両方に対応した自動台形補正や、オートフォーカス機能を搭載しており、斜めからの投影や天井投影も簡単。別売りの豊富なアクセサリーを使えば、角度調節も快適に。※エコモード使用時",
+        "【フルHDの高解像度】200ANSIルーメンの明るさ、そしてフルHDの高解像度で細部までクリアにみえ、質感までよりリアルに伝わります。HDR10対応で、表現が難しいとされる黒色も白色も深みのある色合いに。",
+        "パッケージ内容：製品本体、リモコン (単4形電池 × 2付属)、ACアダプタ、USB-C &amp; USB-C ケーブル、クイックスタートガイド、カスタマーサポート、※製品の仕様またはパッケージは予告なく変更されることがありますので、予めご了承ください。",
+        "ご注意：初回セットアップ時のファームウェアアップデートは数十分から一時間程度かかることがあります。"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261115_projector",
+      "queries_matched": [
+        "dg_20261115_projector"
+      ],
+      "review_count": 2374,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "parent_asin": "B0H8RYNCK7",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:31:56+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D2R2QXZR",
+      "title": "YOWHICK プロジェクター 家庭用 小型 Android TV搭載・30000LM・2026年 ホームシアター 1080P 4K対応 Wi-Fi6&Bluetooth5.4 270°回転 天井投影 自動台形補正 内蔵HiFiスピーカー(X1)",
+      "url": "https://www.amazon.co.jp/dp/B0D2R2QXZR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D2R2QXZR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81mf1GPHF3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "✅【革新的な回転可能・スタンド一体型・自動台形補正機能】🎁【限定期間キャンペーン】今ご注文いただくと、すぐプロジェクター専用のスクリーンがもらえる！お気軽に説明書の連絡先までご応募してください！従来のプロジェクターと異なり、YOWHICKプロジェクターは270度回転可能なスタンドを搭載しているため、スタンドを追加購入する必要はありません。投影角度を自由に調整し、ご自宅の壁や天井に投影することができます。また、自動台形補正機能を搭載しており、誤ってプロジェクターを動かしてしまっても、自動的に映像を補正します。（注：自動台形補正が正しく機能するには、プロジェクターが45度以内に収まっている必要があります。）卓上やベッドなどにそのまま置くができ、正面だけでなく天井などにも投影でき、寝転びながらでもコンテンツを楽しめます。設置場所に制限がなく、本当に自由な投影を実現します！",
+        "💎【最新版Android TV搭載・アプリダウンロード可能なスマートプロジェクター】プロジェクターはWi-Fiに接続すれば、インストールされたアプリを介してお気に入りの映画やテレビ番組を視聴することができます。8,000以上のアプリで50万本以上の映画やテレビエピソードをプロジェクターで楽しむことができ、Prime Video、YouTube、Netflixなどの様々な映画やビデオを大画面で楽しむことができます。さらに、要件に応じて Google PlayストアやApp Store から大量のアプリをダウンロードできます。また、Wi-Fi経由でスマホやタブレットに接続し、豊富で多彩なコンテンツを楽しむことができます。(ご注意：バージョンの関係でGoogle PlayストアからTELASAとKiT Playerはダウンロードできません。TELASAとKiT Playerを視聴したい場合は、Amazon Fire TV Stickを別途購入してください。)",
+        "🎇【27000LM高輝度・1080P高解像度・4K対応】ホームプロジェクターの明るさは27000ルーメンに向上し、ネイティブ解像度は1080Pにアップグレードされ、NTSC色域の95％以上をカバーし、色再現性が高く、投影された画像は鮮明で、元の色に近くなります。プロジェクターはスクリーンなしで白い壁に直接投影することができ、自然な形で詳細な色を再現し、美しい画像を楽しむことができます。優れた10,000:1のコントラスト比を最大限に引き出します。4Kソースも兼用して、綺麗な再生が楽しめます。ホームシアター、スポーツ観戦に最適で、自宅でも高画質な映像を楽しめます。",
+        "🚀 【超高速5G&amp;2.4G・Wi-Fi 6・Bluetooth5.4対応】小型プロジェクターは、超高速5G＆2.4Gと先進のWi-Fi6技術を搭載しており、遅延を最大60%削減されて、より高速で安定したインターネット接続を実現します。Wi-Fi経由でiOS、AndroidおよびWindowsデバイスを素早く接続でき、超スムーズで遅延のないオンラインゲーム、映画鑑賞、ビデオ学習体験を簡単に楽しむことができます。また、Bluetooth5.4も搭載し、ご愛用のスピーカーやワイヤレスイヤホンやから音声を流すことができ、迫力ある映像をこだわりの音響環境で映画館のような雰囲気を楽しむことができます。(ご注意：SONYのBluetoothスピーカーとの互換性はありません。）",
+        "✨【多彩な互換性】この家庭用プロジェクターはWi-Fi、Bluetooth接続以外に、HDMI、USB端子が搭載しており、ノートパソコン/スマホ/ＴＶボックス/DVDプレーヤー/USBメモリー/Google Chrome cast/X-Box/PS3/PS4など様々な周辺機器に接続できます。※注意：このプロジェクターはGoogle Pixelと互換性がありません。また、一部のAndroid端末（AQUOS）には画面ミラーリング機能が搭載されていないため、プロジェクターに接続できない場合がありますので、お使いの携帯電話に画面ミラーリング機能があるかどうかをご確認ください。"
+      ],
+      "maker": "YOWHICK",
+      "query": "dg_20261115_projector",
+      "queries_matched": [
+        "dg_20261115_projector"
+      ],
+      "review_count": 1079,
+      "star_rating": 4.2,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "parent_asin": "B0FY6BF3X1",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:32:04+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CJVFJMVF",
+      "title": "Jimveo 360°回転プロジェクター E18",
+      "url": "https://www.amazon.co.jp/dp/B0CJVFJMVF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CJVFJMVF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61hrPKG4x0L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "✅【革新的な360度回転スタンド付き＆期間限定「キャンペーン」】天井投影が可能なプロジェクターを探していますか？私たちが行った調査では、家庭用プロジェクターを購入したお客様の90%以上が、360°回転スタンドを追加で購入したいと考えています。そこで、360度回転スタンドが装備され、天井への投影も自在に調節できるこの革新的なデザインのE18天井投影プロジェクターが登場しました。スタンドを別途購入する必要がなく、天井に投影するだけで、横になって天井映画館を楽しめます。手持ち無沙汰にもならないスタンド搭載なので、友達の家に持ち込んで一緒に好きな映像を見ることも簡単です。忙しい日常の中でも、家族や友人と共に忘れ難い思い出を作り、生活を豊かにしましょう！「今すぐご注文いただくと、100インチのスクリーンをもらうチャンスがございます。詳細は、取扱説明書に記載のお問い合わせ先までお願いいたします。」",
+        "✅【±45°自動台形補正&amp;電動フォーカス】従来のプロジェクターは、位置を変えるたびに本体のダイヤルで画面の歪みを手動で調整しなければなりませんでした。しかし、このE18家庭用プロジェクターは、±45°の自動台形補正機能を備えており、製品を動かしても画像の歪みを自動で修正することができます。手間が省けるだけでなく、より正確な映像を提供します。プロジェクターの設置場所が自由に選べるため、家具の配置や視界が邪魔になることなく、スクリーンの正面に置くことができます。さらに、従来のプロジェクターは手動で本体のダイヤルでピントを調整しなければなりませんでしたが、このE18家庭用プロジェクターは電動フォーカス機能を備えており、リモコンで簡単に画像の鮮明度を調整できます。ソファーやベッドでゆっくりと、迫力あふれる臨場感のある映像を楽しむことができ、素晴らしい映画鑑賞体験を提供してくれます。ご自宅をホームシアターに変え、無限の楽しみを味わうことができます！",
+        "✅【1080Ｐ＆800高輝度＆4K対応】この小型プロジェクターは、1080Pの高精細画質を備えており、NTSC色域の95%以上をカバーすることで、色彩の再現性が高く、鮮やかで繊細な投影画像を提供します。従来の1080Pプロジェクターに比べ、画面の色彩バランスが大幅に改善され、家庭劇場体験をよりリアルで自然なカラーにアップデートします。また、驚異の700明るさと先進的な4K対応技術を搭載し、視聴者にリアルで鮮明な映像をお届けします。さらに、最大300インチの大画面と75%のズーム機能を備えており、どんな空間でも迫力ある大画面を楽しむことができます。リビングや寝室でも、臨場感溢れる映像を心ゆくまで堪能できます。いつでもどこでも、家庭用プロジェクターがもたらす無限の楽しみを味わってください。",
+        "✅【超高速WiFi 6対応＆ブルートゥース双方向伝送機能】この家庭用プロジェクターは、最新のWiFi 6技術を採用しており、従来の2.4G/5GHz WiFiに加え、さらなる高速で安定したネットワーク接続を提供します。高精細な動画鑑賞、オンラインゲーム、生放送など、あらゆるシーンにおいて遅延のない快適な体験が可能です。このE18プロジェクターは、市場で初めて搭載されたブルートゥース双方向伝送機能を備えており、ブルートゥース技術を活用して、受信機も送信機も兼ね備えた革新的な機能を実現しています。プロジェクターは、HI-FIスピーカーを採用し、クリアで立体感のある音声を出力でき、広範囲の音色と豊かな低音を楽しむことができます。外部のBluetoothスピーカーやヘッドホンを接続するだけでなく、スマートフォンと簡単に接続し、プロジェクター自体を高音質のブルートゥーススピーカーに変えることが可能です。このプロジェクターを使えば、自宅でも大画面で迫力のある映画館の雰囲気を味わいながら、没入感のある立体的な音場を体感できます。",
+        "✅【多彩な接続オプション＆卓越した耐久性＆3年間保証付き】当プロジェクターは、HDMI、USB、3.5mmオーディオ端子など、幅広い入力ポートを備えており、DVDプレーヤーやゲーム機、スピーカー、USBメモリなど、あらゆるソースからの映像を大画面で楽しむことができます。お家でも充実した時間を過ごすことが可能です！独自の冷却システムを採用し、高負荷時でも安定した動作が続く長時間の安定稼働を確保しており、熱劣化の心配はありません。また、E18家庭用プロジェクターで使用されるライトの標準使用時間は80000時間で、通常使用で約20年間ご利用いただけます。弊社は、製品の品質を100%追求し、お客様の使用体験を最優先する経営方針を掲げておりますので、ご購入いただいたお客様には、36ヶ月間の無料こうかん・へんぴんサービスと終身テクニカルサポートを提供させていただきます。万一、不具合が発生した場合は、専門のチームが迅速に対応いたしますので、ご安心ください。詳しい情報につきましては、取扱説明書に記載の連絡先から、またはAmazon経由でお問い合わせください。"
+      ],
+      "maker": "Jimveo",
+      "query": "dg_20261115_projector",
+      "queries_matched": [
+        "dg_20261115_projector"
+      ],
+      "review_count": 852,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_observed_at": "2026-09-11T00:21:59+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "parent_asin": "B0GL5LMH57",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:32:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B00PIM0PTG",
+      "title": "エプソン プロジェクター EB-535W (3400lm/WXGA/3.7kg/デスクトップ型超短焦点)",
+      "url": "https://www.amazon.co.jp/dp/B00PIM0PTG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B00PIM0PTG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51kUoN3GLoL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "超短焦点レンズ搭載のWXGAモデル",
+        "明るさ 3,400lm",
+        "リアル解像度 WXGA",
+        "重さ 約3.7kg",
+        "ワット数:298W"
+      ],
+      "maker": "Epson",
+      "query": "dg_20261115_projector",
+      "queries_matched": [
+        "dg_20261115_projector"
+      ],
+      "review_count": 78,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T11:32:21+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01AUL0U8K",
+      "title": "ソニー プロジェクター ポータブル/超短焦点/バッテリー・スピーカー内蔵 LSPX-P1",
+      "url": "https://www.amazon.co.jp/dp/B01AUL0U8K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01AUL0U8K?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61i-tSfyXVL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "置くだけで、壁やテーブルなど色々な場所に大画面を出せる、ポータブル超短焦点プロジェクター",
+        "手のひらサイズなのに22インチ~80インチでテレビや映画が楽しめる",
+        "本体幅約8センチと片手でつかめる小型サイズ",
+        "約2時間連続使用できるバッテリーとスピーカーを内蔵",
+        "映画やオンラインのコンテンツをプロジェクター本体でワイヤレスに表示可能(同梱ワイヤレスHDMIユニットにTVチューナー付きのブルーレイディスクレコーダーやパソコンなどのHDMI機器を接続)",
+        "サイズ (幅x高さx奥行/質量) [プロジェクター]:約 81 mm × 131 mm × 131 mm / 約 930 g、 [ワイヤレスHDMIユニット]:約135 mm × 35 mm × 135 mm / 約 200 g",
+        "付属品:ACアダプター VGP-AC19V77×1、ACアダプター LSPX-AC5V2×1、電源コード×2、AVマウス(IR BLASTER)×1、スタートガイド×1、リファレンスガイド×1、保証書×1"
+      ],
+      "maker": "SONY",
+      "query": "dg_20261115_projector",
+      "queries_matched": [
+        "dg_20261115_projector"
+      ],
+      "review_count": 68,
+      "star_rating": 3.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_observed_at": "2026-08-31T01:25:40+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "parent_asin": "B073PX57DK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:32:30+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B01N0EJD6I",
+      "title": "EPSON プロジェクター EB-1785W 3,200lm WXGA 1.8kg",
+      "url": "https://www.amazon.co.jp/dp/B01N0EJD6I?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01N0EJD6I?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61+-27ILlNL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "重量 : 約1.8kg",
+        "コントラスト : 10000:1",
+        "スピーカー : 1W",
+        "無線LAN対応"
+      ],
+      "maker": "Epson",
+      "query": "dg_20261115_projector",
+      "queries_matched": [
+        "dg_20261115_projector"
+      ],
+      "review_count": 66,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_observed_at": "2026-08-31T01:19:39+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "parent_asin": "B06VST9CVK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:32:40+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0776TCTK2",
+      "title": "BenQ TH671ST 短焦点 DLPホームプロジェクター フルHD/3,000ANSIルーメン/低遅延/ゲーミング | 1.5mで100インチ投写,ゲームモード搭載,約2.7kg,ベンキュージャパン",
+      "url": "https://www.amazon.co.jp/dp/B0776TCTK2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0776TCTK2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/610i5sfmIJL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "壁から1.5mの距離で約100インチが表示可能な短焦点フルHDモデル",
+        "輝度:3000ルーメン /コントラスト比: 10000:1",
+        "画面サイズ:60型~120型 /ズームレンズ:1.2倍",
+        "入力端子1:ミニD-sub15ピンx1,HDMIx2(うち1つはMHL対応),オーディオミニジャックx1",
+        "【保証・サポートについて】BenQの保証・サポート対象は、公式正規販売元が販売する新品製品のみとなります。それ以外の販売（マーケットプレイス出品及び中古販売）については、各販売元/出品元へお問い合わせください。"
+      ],
+      "maker": "BenQ",
+      "query": "dg_20261115_projector",
+      "queries_matched": [
+        "dg_20261115_projector"
+      ],
+      "review_count": 98,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "projector",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "parent_asin": "B0CJ28ZDB5",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:32:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D1TYZSXV",
+      "title": "Dangbei(ダンベイ) DBOX02 4K プロジェクター GTV搭載 Netflix公認 レーザー光源 2450ISOルーメン 静音ファン 家庭用 ホームプロジェクター HDR10+ 3Dホームシアター 内蔵スピーカー ドルビーオーディオ対応",
+      "url": "https://www.amazon.co.jp/dp/B0D1TYZSXV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D1TYZSXV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61tRL8z15kL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【2450 ISOルーメン・昼間のリビングでも明るい】4Kレーザープロジェクターの中でも明るさに強く、カーテンを少し閉めるだけで細部まで見えます。0.47インチDMDの本物4K UHD（3840×2160）で、HDR10+/HLGにより黒の階調と色彩が豊か。60〜200インチの大画面を自宅で楽しめます。",
+        "【斑点が出ない・目にやさしい】ALPD方式のレーザー光源を採用しているため、レーザー特有の斑点（スペックル）や色のにじみが出にくく、長い時間見ても目が疲れにくいのが特長です。光源寿命は30,000時間で、ランプ交換は不要。映画を続けて見る方や、お子さま・ご家族での視聴にも向いています。",
+        "【12W×2スピーカーとDolby Audio・DTS:X】左右対称の12Wスピーカー×2を内蔵。Dolby AudioとDTS:Xに対応し、セリフは聞き取りやすく、低音もしっかり出ます。別途スピーカーを用意しなくても、映画・ドラマ・音楽がそのまま楽しめます。4K/60HzのMEMC補正とブルーレイ3Dにも対応。",
+        "【動作音24dB以下・ゲームも快適】標準モードの動作音は24dB以下（1m測定）。夜の視聴でもファンの音が気になりにくい設計です。ゲームモードでは遅延を抑えており、1080P/240Hzの入力にも対応。イヤホン端子があるので、深夜はヘッドホンで周囲に音を漏らさず楽しめます。",
+        "【Google TV・Netflix公認・置くだけでキレイに映る】リモコンの専用ボタンでNetflixをすぐ起動。YouTube・Prime Video・Hulu・Disney+など10,000以上のアプリが使えます。InstanPro AIがオートフォーカス・台形補正・画面フィット・障害物回避・人感保護を自動で実行。Wi-Fi 6・Bluetooth 5.2、2GB+32GB、HDMI 2.1（eARC）・USB×2・LAN・光デジタル。1年間保証。※本機は別売りのスタンドに対応します（雲台は内蔵されていません）。"
+      ],
+      "maker": "Dangbei",
+      "query": "dg_20261115_projector",
+      "queries_matched": [
+        "dg_20261115_projector"
+      ],
+      "review_count": 145,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "audio_speaker",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "parent_asin": "B0HKND2MTK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:32:59+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FH21C9P6",
+      "title": "TCL PlayCube 750 ISO 1080P FHD LED 小型 プロジェクター GoogleTV ポータブルプロジェクター/ルーメン / 4K対応 / 内蔵66Whバッテリーで最大3時間再生可能 / 最大150インチスクリーン / オート",
+      "url": "https://www.amazon.co.jp/dp/B0FH21C9P6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FH21C9P6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71LkFKbJ+dL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "VGP2026 金賞の大人気モデル―コンパクトと映像美を両立させた大人気モバイルプロジェクター。フルHDの高解像度 / 豊富な自動補正機能 / バッテリー内蔵でケーブルレスと、あらゆる面でバランスの取れた1台。",
+        "SEE EVERY PRECIOUS MOMENT ― ImmersiColorテクノロジーと0.33インチDMDチップにより、美しい1080P FHD映像を鮮明に映し出します。さらに、OSRAM製3色LEDが目に優しい映像体験を提供し、124% REC.709対応により映画のような豊かな色彩を再現。昼夜を問わず、ご家族やご友人と共に細部まで鮮やかな映像をお楽しみいただけます。",
+        "CONTENT WORTH EXPLORING ― GTVストリーミングにより、10,000以上のアプリをお楽しみいただけます。スマートフォンからのキャストはもちろん、「Hey Google」による音声操作でハンズフリーの快適な操作も可能。コンパクトながら高性能なPlayCubeプロジェクターが、多彩なエンターテインメント体験をお届けします。",
+        "THEATER IN ONE TAP ― TCL PlayCubeは、オートフォーカス、キーストーン補正、障害物回避機能により、ワンタップで理想的な映像投影を実現します。さらに、TOF-Active Guardが誤って光を直視してしまうことから目を保護。4つのスマートテクノロジーにより、臨場感あふれるシネマ体験をシームレスにお楽しみいただけます。",
+        "CINEMATIC SOUND EFFECTS ― Dolby Digital Plusに対応し、臨場感あふれるサウンドと豊かな音のディテールを実現します。4種類のカスタムチューニングモードを切り替えながら、力強い低音とクリアなステレオによるフルレンジオーディオを体験可能。最大85Wの出力で、空間全体を包み込む迫力のサウンドをお届けします。",
+        "WHISPER-QUIET OPERATION ― TCL独自のDualScythe冷却システムにより、従来比50%の高効率な冷却性能を実現。グラファイト層が本体表面の温度上昇を抑えつつ、図書館よりも静かな26dBの低騒音で稼働します。長時間の視聴でも騒音や発熱を気にせず、快適にお楽しみいただけます。",
+        "TILT, TWIST, PLAY ― ルービックキューブから着想を得たTCL PlayCubeプロジェクターは、スタンドを必要とせず瞬時にセットアップが可能です。最大90°まで回転させるだけで最適な視聴角度を実現し、ベッドでの視聴からホームシアターでの映画鑑賞まで、多彩なシーンで快適にご利用いただけます。"
+      ],
+      "maker": "TCL",
+      "query": "dg_20261115_projector",
+      "queries_matched": [
+        "dg_20261115_projector"
+      ],
+      "review_count": 37,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "projector",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T11:33:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:projector"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-15",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:projector",
+    "theme": "自宅の壁に映す。ホームプロジェクター",
+    "exclude_used_since": "2026-10-16",
+    "current_stock_verified": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T11:33:08+09:00"
+}

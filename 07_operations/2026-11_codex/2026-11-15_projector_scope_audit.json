@@ -1,0 +1,459 @@
+{
+  "date": "2026-11-15",
+  "topic_id": "daily_gadget_20261115_436f7300",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 11,
+  "parent_groups": {
+    "B0HJ6GJP2M": [
+      "B0F5GQLNWP"
+    ],
+    "B0H8RYNCK7": [
+      "B0BCTP8VJH",
+      "B0CJDV213W"
+    ],
+    "B0FY6BF3X1": [
+      "B0D2R2QXZR"
+    ],
+    "B0GL5LMH57": [
+      "B0CJVFJMVF"
+    ],
+    "B00PIM0PTG": [
+      "B00PIM0PTG"
+    ],
+    "B073PX57DK": [
+      "B01AUL0U8K"
+    ],
+    "B06VST9CVK": [
+      "B01N0EJD6I"
+    ],
+    "B0CJ28ZDB5": [
+      "B0776TCTK2"
+    ],
+    "B0HFP13SFL": [
+      "B0D1TYZSXV"
+    ],
+    "B0FH21C9P6": [
+      "B0FH21C9P6"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B00PIM0PTG",
+      "title": "エプソン プロジェクター EB-535W (3400lm/WXGA/3.7kg/デスクトップ型超短焦点)",
+      "maker": "Epson",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Epson",
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": "2026-09-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-20",
+          "title": "100 インチの大画面。壁にも天井にも映せる「プロジェクター」 6 選",
+          "asin": "B00PIM0PTG"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B01AUL0U8K",
+      "title": "ソニー プロジェクター ポータブル/超短焦点/バッテリー・スピーカー内蔵 LSPX-P1",
+      "maker": "SONY",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SONY",
+      "historical_tier": 3,
+      "parent_asin": "B073PX57DK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-20",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-20",
+          "title": "100 インチの大画面。壁にも天井にも映せる「プロジェクター」 6 選",
+          "asin": "B01AUL0U8K"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B01N0EJD6I",
+      "title": "EPSON プロジェクター EB-1785W 3,200lm WXGA 1.8kg",
+      "maker": "Epson",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B06VST9CVK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B074K4QHBQ",
+      "title": "【旧モデル】エプソン ビジネスプロジェクター/液晶/3300lm/WXGA/2.5kg EB-W05",
+      "maker": "Epson",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0776TCTK2",
+      "title": "BenQ TH671ST 短焦点 DLPホームプロジェクター フルHD/3,000ANSIルーメン/低遅延/ゲーミング | 1.5mで100インチ投写,ゲームモード搭載,約2.7kg,ベンキュージャパン",
+      "maker": "BenQ",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": "B0CJ28ZDB5",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BCTP8VJH",
+      "title": "Anker Nebula Capsule 3 Laser 【小型モバイルレーザープロジェクター】 | 家庭用 Google TV搭載 フルHD Netflix対応 大画面 天井投影 自動台形補正 オートフォーカス バッテリー内蔵 ホームシアター ホー",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0H8RYNCK7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CJDV213W",
+      "title": "Anker Nebula Capsule 3 【小型モバイルプロジェクター 】",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Anker",
+      "historical_tier": 1,
+      "parent_asin": "B0H8RYNCK7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CJVFJMVF",
+      "title": "Jimveo 360°回転プロジェクター E18",
+      "maker": "Jimveo",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Jimveo",
+      "historical_tier": 1,
+      "parent_asin": "B0GL5LMH57",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-01-23",
+      "dg_use_history": [
+        {
+          "published_date": "2026-01-23",
+          "title": "自宅を映画館に。天井投影もできる「小型プロジェクター」 7選",
+          "asin": "B0CJVFJMVF"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D1TYZSXV",
+      "title": "Dangbei(ダンベイ) DBOX02 4K プロジェクター GTV搭載 Netflix公認 レーザー光源 2450ISOルーメン 静音ファン 家庭用 ホームプロジェクター HDR10+ 3Dホームシアター 内蔵スピーカー ドルビーオーディオ対応",
+      "maker": "Dangbei",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HFP13SFL",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D2R2QXZR",
+      "title": "YOWHICK プロジェクター 家庭用 小型 Android TV搭載・30000LM・2026年 ホームシアター 1080P 4K対応 Wi-Fi6&Bluetooth5.4 270°回転 天井投影 自動台形補正 内蔵HiFiスピーカー(X1)",
+      "maker": "YOWHICK",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "YOWHICK",
+      "historical_tier": 1,
+      "parent_asin": "B0FY6BF3X1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F5GQLNWP",
+      "title": "Philoent 270°回転プロジェクター",
+      "maker": "Philoent",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Philoent",
+      "historical_tier": 1,
+      "parent_asin": "B0HJ6GJP2M",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-01-23",
+      "dg_use_history": [
+        {
+          "published_date": "2026-01-23",
+          "title": "自宅を映画館に。天井投影もできる「小型プロジェクター」 7選",
+          "asin": "B0F5GQLNWP"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F677FVMJ",
+      "title": "プロジェクター 家庭用【Netflixライセンス&20WDolby対応】750ASNI 高輝度［AI自動フォーカス＆自動台形補正］プロジェクター 4K 内蔵 Netflix/YouTube/PrimeVideo WiFi6 双方向Bluetooth5.3 20Wスピーカー プロジェクター 天井投影 スマホ/PC/DVD/Switchなどに対応 ホームプロジェクター TOPTRO TP1",
+      "maker": "プロジェクター",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "プロジェクター",
+      "historical_tier": 1,
+      "parent_asin": "B0FF54CLCJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FH21C9P6",
+      "title": "TCL PlayCube 750 ISO 1080P FHD LED 小型 プロジェクター GoogleTV ポータブルプロジェクター/ルーメン / 4K対応 / 内蔵66Whバッテリーで最大3時間再生可能 / 最大150インチスクリーン / オート",
+      "maker": "TCL",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GBWCTFWN",
+      "title": "プロジェクター 家庭用 超小型【2026音質強化バージョン・外部HiFiスピーカー】Android TV14搭載 天井投影 4K対応 大画面 ブラック | 270°回転 高輝度 Wi-Fi6 Bluetooth5.4 自動台形補正 ぷろじえくたー 短距離投影 軽量 静音 HDMI/スマホ/PC/DVDなどに対応 プレゼントに最適 ホームシアター",
+      "maker": "プロジェクター",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 2,
+      "parent_asin": "B0HGMYTXFM",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GCZXVHLW",
+      "title": "プロジェクター 家庭用 小型【2026業界注目 Android TV 14・HDR高ダイナミック画質】30000LM 天井投影 HiFiスピーカー",
+      "maker": "プロジェクター",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "プロジェクター",
+      "historical_tier": 1,
+      "parent_asin": "B0HHWR7S1R",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-13",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-13",
+          "title": "おうち映画館。天井投影できる「小型プロジェクター」 5 選",
+          "asin": "B0GCZXVHLW"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GD12KTVG",
+      "title": "プロジェクター 家庭用 小型【2026業界注目 Android TV 14・HDR高ダイナミック画質】33000LM 天井投影 HiFiスピーカー",
+      "maker": "プロジェクター",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "プロジェクター",
+      "historical_tier": 1,
+      "parent_asin": "B0HHWR7S1R",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-13",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-13",
+          "title": "おうち映画館。天井投影できる「小型プロジェクター」 5 選",
+          "asin": "B0GCZXVHLW"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GVHCH4XJ",
+      "title": "[Android TV 14.0・350g超軽量 ]プロジェクター 小型 高輝度 Netflix/YouTube/PrimeVideo対応 4K対応 1080P 180°回転 WiFi 6&Bluetooth5.4 HiFiスピーカー HDMI/IOS/Android/PC/PS接続可 自動台形補正 天井投影 ホームシアター projector 4k 日本語取扱書 スマホリモコン付き ブラック",
+      "maker": "プロジェクター",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "プロジェクター",
+      "historical_tier": 1,
+      "parent_asin": "B0H7B1G3PZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-16",
+      "scope_pending": [
+        "ネイティブ解像度と4K入力対応/輝度単位/設置距離を公式確認。広告LMをANSI/ISOに読み替えない"
+      ],
+      "exclusion_reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B074K4QHBQ",
+      "title": "【旧モデル】エプソン ビジネスプロジェクター/液晶/3300lm/WXGA/2.5kg EB-W05",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GVHCH4XJ",
+      "title": "[Android TV 14.0・350g超軽量 ]プロジェクター 小型 高輝度 Netflix/YouTube/PrimeVideo対応 4K対応 1080P 180°回転 WiFi 6&Bluetooth5.4 HiFiスピーカー HDMI/IOS/Android/PC/PS接続可 自動台形補正 天井投影 ホームシアター projector 4k 日本語取扱書 スマホリモコン付き ブラック",
+      "reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0F677FVMJ",
+      "title": "プロジェクター 家庭用【Netflixライセンス&20WDolby対応】750ASNI 高輝度［AI自動フォーカス＆自動台形補正］プロジェクター 4K 内蔵 Netflix/YouTube/PrimeVideo WiFi6 双方向Bluetooth5.3 20Wスピーカー プロジェクター 天井投影 スマホ/PC/DVD/Switchなどに対応 ホームプロジェクター TOPTRO TP1",
+      "reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GCZXVHLW",
+      "title": "プロジェクター 家庭用 小型【2026業界注目 Android TV 14・HDR高ダイナミック画質】30000LM 天井投影 HiFiスピーカー",
+      "reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GD12KTVG",
+      "title": "プロジェクター 家庭用 小型【2026業界注目 Android TV 14・HDR高ダイナミック画質】33000LM 天井投影 HiFiスピーカー",
+      "reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GBWCTFWN",
+      "title": "プロジェクター 家庭用 超小型【2026音質強化バージョン・外部HiFiスピーカー】Android TV14搭載 天井投影 4K対応 大画面 ブラック | 270°回転 高輝度 Wi-Fi6 Bluetooth5.4 自動台形補正 ぷろじえくたー 短距離投影 軽量 静音 HDMI/スマホ/PC/DVDなどに対応 プレゼントに最適 ホームシアター",
+      "reason": "メーカー推定に商品種別/容量が混入。実在メーカー未確認として保留"
+    }
+  ],
+  "variant_policy": "同親の色/サイズ/バンドルを候補群として残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "候補に残る未確認事項は公式照合前の採用根拠としない"
+  ],
+  "historical_tier_distribution": {
+    "1": 5,
+    "3": 5,
+    "2": 1
+  }
+}
