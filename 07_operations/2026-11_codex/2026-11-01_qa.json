@@ -1,0 +1,38 @@
+{
+  "status": "pass_local_with_documented_omissions",
+  "checks": {
+    "product_count": true,
+    "title_filename_h1_handoff_match": true,
+    "selected_asins_order_unchanged": true,
+    "affiliate_urls_unchanged": true,
+    "machine_selection_memo_preserved": true,
+    "no_placeholders": true,
+    "no_price_review_country_guarantee_or_first_person": true,
+    "no_new_table_manual_toc_or_divider": true,
+    "related_urls_only": true,
+    "intro_two_paragraphs": true,
+    "spec_blocks_10": true,
+    "related_count_3": true,
+    "not_scheduled_or_published": true,
+    "jev_skipped_without_individual_review_text": true,
+    "related_exact_monthly_metadata_url_match": true
+  },
+  "title_chars": 25,
+  "product_count": 10,
+  "related_count": 3,
+  "scope": "local research and article only",
+  "main_task_required": [
+    "月間metadata・日程表とタイトルを同期",
+    "DB記事台帳反映",
+    "サムネイル照合",
+    "GUI SiteStripe確定リンク発行",
+    "noteカード化・目次・余白確認",
+    "2026-11-01 20:00予約成功確認"
+  ],
+  "unresolved_specs_not_in_article": [
+    "IC-BK06: 重量・サイズ・稼働時間・登録台数の資料矛盾",
+    "DK02: ストロークと対応OSの資料矛盾",
+    "B1 Pro: JISページにANSI表混在、キー数や重量等は省略",
+    "Ewin/Omikamo: 当該ASINを独立公式資料で同定できず。Features限定"
+  ]
+}

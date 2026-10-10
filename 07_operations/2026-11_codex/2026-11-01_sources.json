@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-01",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B08K2CHMWK",
+      "official_urls": [
+        "https://www.logicool.co.jp/ja-jp/shop/p/k295-silent-wireless-keyboard",
+        "https://press.logicool.co.jp/ja-jp/ZuoYeHuanJingwoKuaiShinisurumausukibodowoXinFaMai/"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B08K2CHMWK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json",
+        "path": "candidates[asin=B08K2CHMWK].features",
+        "content_source": "product_page",
+        "observed_at": "2026-09-11T00:10:34+00:00",
+        "freshness_note": "Featuresの実測日とは別の取得日時。最新版の公式内容で矛盾する数値は記事に採用しない。"
+      },
+      "check": "公式プレスのK295GP型番・国内日本語108キーと一致。Bluetooth対応として扱わない。",
+      "status": "official_cross_checked"
+    },
+    {
+      "order": 2,
+      "asin": "B07PJW2X2F",
+      "official_urls": [
+        "https://www.elecom.co.jp/products/TK-FDM110TXBK.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B07PJW2X2F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json",
+        "path": "candidates[asin=B07PJW2X2F].features",
+        "content_source": null,
+        "observed_at": null,
+        "freshness_note": "Featuresの実測日とは別の取得日時。最新版の公式内容で矛盾する数値は記事に採用しない。"
+      },
+      "check": "型番完全一致。109キー・2.5mm・単4一本を確認。従来品との18%比較は本文省略。",
+      "status": "official_cross_checked"
+    },
+    {
+      "order": 3,
+      "asin": "B01HGGWZMG",
+      "official_urls": [
+        "https://www.elecom.co.jp/products/TK-FFCM01BK.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B01HGGWZMG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json",
+        "path": "candidates[asin=B01HGGWZMG].features",
+        "content_source": "product_page",
+        "observed_at": "2026-08-31T01:25:40+00:00",
+        "freshness_note": "Featuresの実測日とは別の取得日時。最新版の公式内容で矛盾する数値は記事に採用しない。"
+      },
+      "check": "型番完全一致。109キー・2.8mm・USB-A給電・1.5mを確認。排水構造を防水と扱わない。",
+      "status": "official_cross_checked"
+    },
+    {
+      "order": 4,
+      "asin": "B081JSVYHQ",
+      "official_urls": [],
+      "amazon_url": "https://www.amazon.co.jp/dp/B081JSVYHQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json",
+        "path": "candidates[asin=B081JSVYHQ].features",
+        "content_source": null,
+        "observed_at": null,
+        "freshness_note": "Featuresの実測日とは別の取得日時。最新版の公式内容で矛盾する数値は記事に採用しない。"
+      },
+      "check": "独立公式ページから同一ASIN・型番を同定できず。B081JSVYHQ Featuresの日本語79キー・Bluetooth5.1・290g・寸法・3台切替に限定。Android12非対応注記を反映。Ewin公式カテゴリの別品番は使わない。",
+      "status": "manufacturer_listing_features_only"
+    },
+    {
+      "order": 5,
+      "asin": "B00BJZ2JWC",
+      "official_urls": [
+        "https://www.logicool.co.jp/ja-jp/shop/p/k120-usb-standard-computer"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B00BJZ2JWC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json",
+        "path": "candidates[asin=B00BJZ2JWC].features",
+        "content_source": null,
+        "observed_at": null,
+        "freshness_note": "Featuresの実測日とは別の取得日時。最新版の公式内容で矛盾する数値は記事に採用しない。"
+      },
+      "check": "公式K120のUSB・テンキー・ティルトレッグ・耐水設計を確認。日本語配列は国内当該ASIN名と一致。耐水を防水と扱わない。",
+      "status": "official_cross_checked"
+    },
+    {
+      "order": 6,
+      "asin": "B08CRN2P44",
+      "official_urls": [
+        "https://www.buffalo.jp/product/detail/bskbw125bk.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B08CRN2P44?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json",
+        "path": "candidates[asin=B08CRN2P44].features",
+        "content_source": null,
+        "observed_at": null,
+        "freshness_note": "Featuresの実測日とは別の取得日時。最新版の公式内容で矛盾する数値は記事に採用しない。"
+      },
+      "check": "型番完全一致。108キー・19mm・3mm・単3一本・USB-A受信機を確認。約3年の稼働は条件依存のため記事から省略。",
+      "status": "official_cross_checked"
+    },
+    {
+      "order": 7,
+      "asin": "B0CWKWXP37",
+      "official_urls": [],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0CWKWXP37?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json",
+        "path": "candidates[asin=B0CWKWXP37].features",
+        "content_source": "product_page",
+        "observed_at": "2026-09-11T00:44:49+00:00",
+        "freshness_note": "Featuresの実測日とは別の取得日時。最新版の公式内容で矛盾する数値は記事に採用しない。"
+      },
+      "check": "当該ASIN対応の独立公式資料を確認できず。B0CWKWXP37 FeaturesのJISかな印字・Bluetooth・パンタグラフ・3台切替・タッチパッド無効化に限定。第三者レビューや別ASIN資料は採用せず。",
+      "status": "manufacturer_listing_features_only"
+    },
+    {
+      "order": 8,
+      "asin": "B01MA23P3J",
+      "official_urls": [
+        "https://www.iclever.co.jp/products-folding-keyboard/ic-bk06",
+        "https://tech.iclever.com/storage/product/guide/82/15766590975559.pdf"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B01MA23P3J?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json",
+        "path": "candidates[asin=B01MA23P3J].features",
+        "content_source": null,
+        "observed_at": null,
+        "freshness_note": "Featuresの実測日とは別の取得日時。最新版の公式内容で矛盾する数値は記事に採用しない。"
+      },
+      "check": "メーカー公式Amazon購入リンクの到達先B01MA23P3Jを確認。US配列・パンタグラフ・折りたたみ・開閉電源のみ記事採用。重量・寸法・稼働時間・登録台数はページ/説明書/Features不一致につき省略。",
+      "status": "official_cross_checked"
+    },
+    {
+      "order": 9,
+      "asin": "B0DBZNH3D3",
+      "official_urls": [
+        "https://www.iclever.co.jp/products-bluetooth-keyboard/ic-dk02-gb"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DBZNH3D3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json",
+        "path": "candidates[asin=B0DBZNH3D3].features",
+        "content_source": null,
+        "observed_at": null,
+        "freshness_note": "Featuresの実測日とは別の取得日時。最新版の公式内容で矛盾する数値は記事に採用しない。"
+      },
+      "check": "メーカー公式Amazon購入リンクの到達先B0DBZNH3D3を確認。82キー・327g・USB-C充電・USB受信機+BT2台を採用。ストローク・対応OS一覧・長時間使用値は矛盾のため省略。",
+      "status": "official_cross_checked"
+    },
+    {
+      "order": 10,
+      "asin": "B0FDW68VH4",
+      "official_urls": [
+        "https://keychron.jp/products/keychron-b1-pro-jis"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0FDW68VH4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "07_operations/2026-11_codex/2026-11-01_keyboard_candidates.json",
+        "path": "candidates[asin=B0FDW68VH4].features",
+        "content_source": "product_page",
+        "observed_at": "2026-08-31T01:19:39+00:00",
+        "freshness_note": "Featuresの実測日とは別の取得日時。最新版の公式内容で矛盾する数値は記事に採用しない。"
+      },
+      "check": "日本JIS版のSilver/かな印字なしバリエーションと当該ASIN名が一致。接続とLauncherカスタマイズを確認。JISページ内のANSI77キー表は不採用。自動抽出200時間は不採用。",
+      "status": "official_cross_checked"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n5fc5895da192",
+      "copied_from_monthly_metadata": true,
+      "public_page_title_and_date_confirmed_by_web": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/nb4bb727ad140",
+      "copied_from_monthly_metadata": true,
+      "public_page_title_and_date_confirmed_by_web": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n2f32776dd6f3",
+      "copied_from_monthly_metadata": true,
+      "public_page_title_and_date_confirmed_by_web": true
+    }
+  ],
+  "individual_reviews_available": false,
+  "jev_used": false,
+  "unresolved_omitted_specs": [
+    "IC-BK06: 重量・サイズ・稼働時間・登録台数の資料矛盾",
+    "DK02: ストロークと対応OSの資料矛盾",
+    "B1 Pro: JISページにANSI表混在、キー数や重量等は省略",
+    "Ewin/Omikamo: 当該ASINを独立公式資料で同定できず。Features限定"
+  ]
+}
