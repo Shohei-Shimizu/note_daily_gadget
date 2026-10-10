@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-06",
+  "checked_at": "2026-10-10T10:56:22.234691+09:00",
+  "scope": "独立メーカー仕様ページのみの限定追加照合。API・DB・実測・ブラウザUI操作なし。選抜・原稿変更なし。",
+  "local_inputs": [
+    "accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_usb_hub_candidates.json",
+    "/private/tmp/daily-gadget-202611-writer-b/07_operations/2026-11_codex/2026-11-06_sources.json",
+    "/private/tmp/daily-gadget-202611-writer-b/07_operations/2026-11_codex/2026-11-06_qa.json",
+    "/private/tmp/daily-gadget-202611-writer-b/02_article/2026-11/2026-11-06_周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」7選.md"
+  ],
+  "products": [
+    {
+      "asin": "B0DQQBC88X",
+      "name": "BENFEI USB-C ハブ 3in1",
+      "official_confirmation": "pending_exact_official",
+      "exact_model_independent_primary_found": false,
+      "current_article_claims": [
+        "USB-C PC接続",
+        "HDMI・USB-A・USB-C PDの3機能",
+        "画面・USB-A機器・充電をまとめる用途"
+      ],
+      "claim_assessment": "採用ASINのローカル商品タイトルとは一致。ただし独立メーカー同型ページは今回の限定検索でも見つからず、同一モデル仕様を公式確認済みにはできない。",
+      "local_evidence_caution": "候補JSONのfeaturesは単機能USB-C-HDMIアダプターの説明。3in1のUSB-A/PDの裏付けに転用不可。measurement_observed_atが最新でも各featuresのモデル整合は未保証。",
+      "withheld_claims": [
+        "4K60Hz",
+        "10Gbps",
+        "100W",
+        "000391greyとの公式同型一致"
+      ],
+      "checked_official_pages": [
+        "https://www.benfei.com/collections/hub-docking-station",
+        "https://www.benfei.com/de/collections/hub-docking-station",
+        "https://www.benfei.com/pages/drivers"
+      ],
+      "non_primary_results_not_used": [
+        "manuals.plus/asin/B0DQQBC88X はASIN由来の生成説明に見え、メーカー発行原資料としての来歴確認なし。独立公式根拠には不採用。",
+        "一般販売店の000391grey/ASIN記載はメーカー独立仕様の代用に不採用。"
+      ]
+    },
+    {
+      "asin": "B0CSYYKB97",
+      "name": "BENFEI USB-C ハブ 5in1",
+      "official_confirmation": "pending_generation_match",
+      "exact_model_independent_primary_found": false,
+      "primary_source": "https://www.benfei.com/de/products/benfei-5in1-usb-c-hub-with-4k-hdmi-3-usb-a-100w-power-delivery-silicone-and-woven-design-cable-aluminum-case-compatible-with-macbook-pro-air-ipad-pro-imac-iphone-15-pro-pro-max-xps-thinkpad",
+      "official_model_number": "000360grey",
+      "official_supported_functions": [
+        "USB-Cホスト接続",
+        "USB-Aデータ1ポート＋USB-A2.0 2ポート",
+        "HDMI最大4K30Hz",
+        "USB-C PDは充電専用（データ・映像非対応）"
+      ],
+      "current_article_claim_assessment": "現原稿の構成・HDMI4K30Hz・USB2.0×2・PD専用の全機能は公式000360grey説明と一致し、採用ASINのローカルタイトル/featuresとも矛盾しない。速度数値を削った本文自体に今回確認した明示的矛盾はない。",
+      "identity_assessment": "公式ページ内に採用ASINとの相互参照や10Gbps改版資料なし。公式SKU000360greyは5Gbps、選択ASINタイトル/featuresはUSB3.2/10Gbpsなので同一改版モデルの照合成立とは判定できない。共通機能一致とモデル一致を区別。",
+      "withheld_claims": [
+        "USB-Aデータ速度5Gbps/10Gbpsの確定",
+        "採用ASIN＝公式000360grey改版の断定"
+      ],
+      "gate": "同一モデルの公式確認を必須とするゲートは未完のまま。採用維持・削除・再選抜は主担当判断。"
+    }
+  ],
+  "overall": "2品とも同一モデル独立公式確認を解消できず。5in1は現原稿の機能記載が公式既存型の機能と一致するところまで確認。3in1は採用タイトル以外に使える独立一次根拠なし。",
+  "search_limits": [
+    "メーカー公式サイト内検索URL3件はwebツールからアクセス不可。",
+    "thinkbenfei.comはwebツールからアクセス不可。",
+    "公式Hubコレクション・FAQ・ドメイン限定検索および型番検索で照合。未発見は資料不存在の断定ではない。"
+  ]
+}
