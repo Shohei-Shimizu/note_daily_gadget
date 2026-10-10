@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-18",
+  "checked_at": "2026-10-10",
+  "products": [
+    {
+      "asin": "B0GC4TJDXL",
+      "name": "WOLFBOX MegaFlow 50",
+      "source": "https://eu.wolfbox.com/it/products/elettrico-aria-soffiatore-110000rpm-super-potenza-wolfbox-mf50",
+      "points": [
+        "充電後はコードレスで持ち運べる。",
+        "3段階で送風の強さを調整できる。",
+        "用途に合わせて4種類のノズルを使える。"
+      ],
+      "specs": [
+        "型番：MegaFlow 50（MF50）",
+        "電源：USB Type-C充電式",
+        "送風調整：3段階",
+        "付属ノズル：4種類",
+        "重量：約204g"
+      ],
+      "body": "机から棚へ移動しながら、隙間のホコリを飛ばしたい人向けの候補です。充電後はコードレスで使え、ノズルと送風の強さを選べます。最大モードはボタンを押し続けて使用する方式なので、掃除する場所に合わせて操作方法を使い分けたい構成。",
+      "cautions": [
+        "親がAmazon商品表で型番/メーカー型番MF50を確認。公式manual最大風時理論19分で低速240分と区別し時間保証は本文不使用。75m/s/回転数/流量は換算しない。吸引機能は付けない。ノズル装着確認と吸気口をふさがない条件はmanual。"
+      ],
+      "official_confirmation": "confirmed",
+      "supporting_sources": [
+        "https://wolfbox.com/pages/manual",
+        "https://cdn.shopify.com/s/files/1/0722/1077/6353/files/MegaFlow_50-20250313.pdf?v=1767496880"
+      ]
+    },
+    {
+      "asin": "B0BV5RHNM1",
+      "name": "サンワダイレクト 200-CD079",
+      "source": "https://direct.sanwa.co.jp/ItemPage/200-CD079",
+      "points": [
+        "コンセントから給電して使える。",
+        "手元のスイッチで強弱を切り替えられる。",
+        "用途に応じてノズルを交換できる。"
+      ],
+      "specs": [
+        "電源：AC100V",
+        "コード長：約3m",
+        "風速切替：2段階",
+        "連続使用時間：最大15分",
+        "付属ノズル：3種類"
+      ],
+      "body": "机の近くにコンセントがあり、充電残量を気にせず掃除したい人向けの候補です。コードで給電し、手元のスイッチで強弱を選べます。電源に接続していても連続使用は最大15分までなので、届く範囲と作業時間を確認して使いたい構成。",
+      "cautions": [
+        "AC電源でも連続使用15分制限。吸引式掃除機ではない。風速と体積風量を混同しない。回転数から風速換算しない。"
+      ],
+      "official_confirmation": "confirmed",
+      "supporting_sources": [
+        "https://direct.sanwa.co.jp/contents/news/pdf/2023/200-CD079.pdf"
+      ]
+    },
+    {
+      "asin": "B083TW2H7S",
+      "name": "サンワサプライ CD-ADE1BK",
+      "source": "https://www.sanwa.co.jp/product/syohin?code=CD-ADE1BK",
+      "points": [
+        "充電してコードレスで使える。",
+        "ボタンを押す操作と連続噴射を切り替えられる。",
+        "LEDライトで掃除する場所を照らせる。"
+      ],
+      "specs": [
+        "電源：USB充電式（Type-C端子）",
+        "使用可能時間：約20分",
+        "重量：約320g",
+        "付属ノズル：1種類",
+        "機能：LEDライト・連続噴射"
+      ],
+      "body": "机まわりを短時間で掃除し、ボタンから指を離して送風したい人向けの候補です。ボタンを押している間の噴射に加え、2回押すと連続噴射へ切り替わります。ライトと付属ノズルを使い、吸気口や排気口をふさがないように隙間のホコリを飛ばしたいモデルです。",
+      "cautions": [
+        "使用可能時間20分とLEDのみ24時間を区別。風量調節は無し。充電Type-C端子はver1.2公式manual。2回押す連続噴射は無期限駆動ではない。"
+      ],
+      "official_confirmation": "confirmed",
+      "supporting_sources": [
+        "https://cdn.sanwa.co.jp/support/setsumeisyo/pdf/C/CD-ADE1BK_ver1-2.pdf"
+      ]
+    },
+    {
+      "asin": "B0B74JT9R2",
+      "name": "PYKES PEAK MINI JET FAN",
+      "source": "https://pykespeak.jp/products/pykes-peak-ミニジェットファン-電動エアダスター-充電式-風量調整-4段階-軽量ンパクト",
+      "points": [
+        "小さな本体で持ち運びやすい。",
+        "4段階で送風の強さを切り替えられる。",
+        "付属ノズルで机まわりの掃除に使える。"
+      ],
+      "specs": [
+        "電源：USB充電式",
+        "風量調整：4段階",
+        "重量：約220g",
+        "外形：高さ124×上部73×持ち手35mm",
+        "付属：先端ノズル・充電ケーブル"
+      ],
+      "body": "小物の近くに置いて、必要なときに手に取りたい人向けの候補です。小さな本体に4段階の風量調整を備え、付属ノズルでPCやキーボードまわりのホコリを飛ばす用途に使えます。強い設定ほど電池を消費するため、必要な強さを選んで掃除したい一台です。",
+      "cautions": [
+        "公式商品仕様で220g/4段階/USB充電/同型MINI JET FAN確認。3時間/3.5時間の候補自動抽出は充電・稼働条件を公式文章で確定できず不使用。レビュー引用を根拠に使わずメーカー仕様欄のみ参照。回転数86000rpmを風速へ換算しない。吸引は付けない。"
+      ],
+      "official_confirmation": "confirmed",
+      "supporting_sources": [
+        "https://item.rakuten.co.jp/pykespeak/p0081jetfn/"
+      ]
+    },
+    {
+      "asin": "B0DJDZRW18",
+      "name": "エレコム ADWALBB01BK",
+      "source": "https://www.elecom.co.jp/products/ADWALBB01BK.html",
+      "points": [
+        "充電後はコードレスで掃除できる。",
+        "3段階で風力を調整できる。",
+        "ライトと3種類のノズルを備える。"
+      ],
+      "specs": [
+        "電源：USB充電式",
+        "風量調節：3段階",
+        "使用時間：弱約25分・中約20分・強約15分（満充電時）",
+        "付属ノズル：3種類",
+        "重量：約420g（ノズル除く）"
+      ],
+      "body": "コンセントから離れた机まわりを、コードレスで掃除したい人向けに選びました。ライトで隙間を照らし、ノズルと3段階の風力を使い分けられます。使用時間はモードによって変わるため、屋内で吸気口と排気口をふさがず、掃除する場所に合わせて使いたいモデルです。",
+      "cautions": [
+        "噴射ノズル時風速弱22.5/中24.5/強28m/s、回転数41000/45000/49000rpmは別の値。USB-C充電は付属USB-Aケーブル、5V2A以上ACアダプタ/モバイル電源を使用、PCUSB不可。屋外不可。吸気口排気口をふさがない。"
+      ],
+      "official_confirmation": "confirmed",
+      "supporting_sources": [
+        "https://www.elecom.co.jp/support/manual/accessory/cleaning/air-duster/adwalbb01bk/adwalbb01bk_v01.pdf"
+      ]
+    }
+  ],
+  "selection_preserved": true,
+  "jev": "not_used_no_review_analysis",
+  "related_public_evidence": [
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n48428c64a7f6_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_na550b03346d5_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_nb56841d4aeaf_live.html"
+  ],
+  "related_metadata_sources": [
+    "02_article/2026-04/_metadata.json",
+    "02_article/2026-05/_metadata.json"
+  ],
+  "parent_gui_model_evidence": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_WOLFBOX_sku.txt",
+  "optional_specs_omitted": [
+    "PYKES MINI JET FANの3時間/3.5時間は充電・稼働条件未確定のため不使用",
+    "WOLFBOX低速最大240分と最大モード理論19分は区別、本文時間保証は不使用"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-18",
+  "checked_at": "2026-10-10",
+  "status": "proposal_only_parent_measurement_required",
+  "search_queries": [
+    "HOTO 4WAY 小型エアクリーナー エアダスター",
+    "KiCA Jet Fan 2 エアダスター",
+    "KiCA Jet Fan Max エアダスター"
+  ],
+  "candidates": [
+    {
+      "brand": "HOTO",
+      "models": [
+        "4WAY小型エアクリーナーSE / HOE0018US-S",
+        "4WAY小型エアクリーナー Pro / HOE0020GL"
+      ],
+      "primary_sources": [
+        "https://hototools.jp/products/hoe0018us-s",
+        "https://hototools.jp/products/hoe0020gl",
+        "https://hototools.jp/blogs/news/4way-cleaner-pro"
+      ],
+      "theme_fit": "SE公式にPC/通信機器/家電の掃除、Pro公式にパソコン/キーボードのホコリ飛ばし。吸引だけでなく送風機能を公式確認。",
+      "confirmed_spec_scope": "SEは送風30m/秒、Proは送風50m/s。吸引Paと送風m/sは別指標。",
+      "conditions": "各版のモデル/商品コードをASINと照合。SE/標準/Proのスペックやアタッチメントを互用しない。連続使用条件は採用型番の取扱説明書で追加確認。",
+      "turbo_airblower": "名称指定したTurbo AirBlowerの同型国内ページは今回検索で未確認。4WAYで代替提案。"
+    },
+    {
+      "brand": "KiCA (FeiyuTech)",
+      "model": "Jet Fan 2",
+      "primary_sources": [
+        "https://www.kica-tech.com/en/kica-jet-fan-2",
+        "https://feiyutech.jp/p02/",
+        "https://cdn1.kica-tech.com/dl/manual/kica-jet-fan-2_manual_en.pdf"
+      ],
+      "theme_fit": "国内公式プレスにコンピュータ/ノートPC/キーボードの清掃、スリムノズルのキーボード用途を明記。",
+      "confirmed_spec_scope": "送風機能、USB-C充電、低速使用時の最大約3.5時間を国内公式確認。",
+      "conditions": "Jet Fan 2Sとは別型。JetFan2単体の吸引を掃除機として扱わない。ASINで2か2Sか照合し、選ばれた型の公式仕様を使う。",
+      "alternate_2s_primary": [
+        "https://feiyutech.jp/kc67027/",
+        "https://feiyutech.jp/kc67026/"
+      ]
+    },
+    {
+      "brand": "KiCA (FeiyuTech)",
+      "model": "Jet Fan Max / 国内商品コード KC67028",
+      "primary_sources": [
+        "https://feiyutech.jp/kc67028/",
+        "https://feiyutech.jp/wp-content/uploads/2025/05/kica_jetfan_max_manual_JP.pdf"
+      ],
+      "theme_fit": "国内公式でPC/機器類のホコリ飛ばし、キーボード清掃、家具まわり隙間掃除を明記。送風/吸引の両機能。",
+      "confirmed_spec_scope": "USB-C PD充電、連続時間レベル1約5.5時間/100約20分（条件により変動）、ターボ10秒後に約5秒クールダウン。",
+      "conditions": "1318gの大型機なので机周りへの適合は用途と置き場所を本文で具体化。ターボ風速/回転数/体積風量を換算して創作しない。"
+    }
+  ],
+  "parent_actions": [
+    "最大3クエリで候補収集・実測・在庫/レビューTier確認",
+    "同親重複を除外して機械選抜",
+    "WOLFBOX B0GC4TJDXLの型番MF50をGUI確認"
+  ],
+  "preserved_preparation": "/private/tmp/duster_confirmed_b.py",
+  "excluded_official_gate_pending_asins": [
+    "B0H4Q6P8DQ",
+    "B0H1WNMLLD",
+    "B0H6SDNHH9"
+  ],
+  "no_api_measurement_or_db_changes": true
+}
