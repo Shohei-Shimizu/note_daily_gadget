@@ -1,0 +1,935 @@
+{
+  "date": "2026-11-14",
+  "topic_id": "daily_gadget_20261114_92c0cc94",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 21,
+  "parent_groups": {
+    "B0FG6QK12D": [
+      "B0D9WT1S2T",
+      "B0D9WWB3WX",
+      "B0D9WVKWXN"
+    ],
+    "B0H5Q2TMKK": [
+      "B0G6YHQ18J",
+      "B0GMH69RCK",
+      "B0GQ3VR6T2",
+      "B0GQ3WPDRG",
+      "B0GQ8WX3CZ",
+      "B0GQ98LC37"
+    ],
+    "B0GWDRD5BN": [
+      "B0F189RKD1"
+    ],
+    "B0F5BFKDYN": [
+      "B0F59W7RGH",
+      "B0F59W82K1",
+      "B0F59WQ1TX"
+    ],
+    "B0H4RVHB6J": [
+      "B0H4RH1L21",
+      "B0H4RNLPBD",
+      "B0H4RPQC2R",
+      "B0H4RQ92V1",
+      "B0H4RW5Y8L",
+      "B0H4RX6Y2G",
+      "B0H4S6DWCS"
+    ],
+    "B0DKT941K8": [
+      "B0DJNVNVP2"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B0D9WT1S2T",
+      "title": "Oura Ring 第4世代 スマートリング – シルバー – サイズ10 |iPhone/Android対応 |まずはサイズ確認:専用サイズキット対応|睡眠・心拍・フィットネスを計測|最長8日間バッテリー持続",
+      "maker": "Oura",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Oura",
+      "historical_tier": 1,
+      "parent_asin": "B0FG6QK12D",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-31",
+          "title": "8 月のベストバイ。買ってよかった「夏の終わりギア」 8 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-26",
+          "title": "夏バテを計測。自律神経を整える「最新デバイス」 5 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-18",
+          "title": "夏の眠りを快適に。睡眠を計測する「スマートリング」 6 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-09",
+          "title": "AI を身につける。日常生活を助ける「ウェアラブル」 6 選",
+          "asin": "B0D9WT1S2T"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D9WVKWXN",
+      "title": "Oura Ring 第4世代 スマートリング – ステルス – サイズ10 |iPhone/Android対応 |まずはサイズ確認:専用サイズキット対応|睡眠・心拍・フィットネスを計測|最長8日間バッテリー持続",
+      "maker": "Oura",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Oura",
+      "historical_tier": 2,
+      "parent_asin": "B0FG6QK12D",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-31",
+          "title": "8 月のベストバイ。買ってよかった「夏の終わりギア」 8 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-26",
+          "title": "夏バテを計測。自律神経を整える「最新デバイス」 5 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-18",
+          "title": "夏の眠りを快適に。睡眠を計測する「スマートリング」 6 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-09",
+          "title": "AI を身につける。日常生活を助ける「ウェアラブル」 6 選",
+          "asin": "B0D9WT1S2T"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D9WWB3WX",
+      "title": "Oura Ring 第4世代 スマートリング – シルバー – サイズ9 |iPhone/Android対応 |まずはサイズ確認:専用サイズキット対応|睡眠・心拍・フィットネスを計測|最長8日間バッテリー持続",
+      "maker": "Oura",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Oura",
+      "historical_tier": 1,
+      "parent_asin": "B0FG6QK12D",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-31",
+          "title": "8 月のベストバイ。買ってよかった「夏の終わりギア」 8 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-26",
+          "title": "夏バテを計測。自律神経を整える「最新デバイス」 5 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-18",
+          "title": "夏の眠りを快適に。睡眠を計測する「スマートリング」 6 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-09",
+          "title": "AI を身につける。日常生活を助ける「ウェアラブル」 6 選",
+          "asin": "B0D9WT1S2T"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DG2QKMFX",
+      "title": "RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリー持続最長12日、睡眠・心拍・ストレス・女性の健康管理・フィットネス追跡、Android & iOS対応（シルバー、サイズ10）",
+      "maker": "RingConn",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "RingConn",
+      "historical_tier": 1,
+      "parent_asin": "B0F1TW6XX1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0DG2QKMFX"
+        },
+        {
+          "published_date": "2026-08-18",
+          "title": "夏の眠りを快適に。睡眠を計測する「スマートリング」 6 選",
+          "asin": "B0DG2QKMFX"
+        },
+        {
+          "published_date": "2026-03-03",
+          "title": "ホワイトデーのギフト。女性が喜ぶ「スマートウォッチ・ウェアラブル」 6 選",
+          "asin": "B0DG2QKMFX"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": "サイズ確認用キットでありスマートリング本体ではない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DJNVNVP2",
+      "title": "Amazfit Helio Ring スマートリング 軽量 チタン合金 回復分析 健康管理 睡眠 心拍 ストレス 4つのスポーツモード 10 ATM耐水 活動量計 Google Fit/Apple Health/adidas Running連携 (サイズ10（US）・20号（日本）ーリングの内周66mm)",
+      "maker": "Amazfit",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Amazfit",
+      "historical_tier": 3,
+      "parent_asin": "B0DKT941K8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-18",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-18",
+          "title": "夏の眠りを快適に。睡眠を計測する「スマートリング」 6 選",
+          "asin": "B0DJNVNVP2"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DWFSW47F",
+      "title": "Oura Ring 第4世代サイジングキット– 購入前にぴったりのサイズを確認 – スマートリング専用の独自サイズ基準 – ご購入時にクレジット付与",
+      "maker": "Oura",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": null,
+      "historical_tier": 1,
+      "parent_asin": "B0FG6QK12D",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-31",
+          "title": "8 月のベストバイ。買ってよかった「夏の終わりギア」 8 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-26",
+          "title": "夏バテを計測。自律神経を整える「最新デバイス」 5 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-18",
+          "title": "夏の眠りを快適に。睡眠を計測する「スマートリング」 6 選",
+          "asin": "B0D9WT1S2T"
+        },
+        {
+          "published_date": "2026-08-09",
+          "title": "AI を身につける。日常生活を助ける「ウェアラブル」 6 選",
+          "asin": "B0D9WT1S2T"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": "サイズ確認用キットでありスマートリング本体ではない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0F189RKD1",
+      "title": "POBOViスマートリング 睡眠/ストレス/心拍数トラッカー 睡眠管理 健康管理 女性の健康管理 最大5～7日間のバッテリー持続 ワイヤレス充電ケース対応IP68防水 アプリ購読不要 iOS/Android対応 （ゴールド、サイズ9）",
+      "maker": "POBOVi",
+      "maker_source": "商品名POBOVi。商品種別スマートリングを除く",
+      "maker_live_verified": false,
+      "db_brand": "POBOViスマートリング",
+      "historical_tier": 1,
+      "parent_asin": "B0GWDRD5BN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0F189RKD1"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F59W7RGH",
+      "title": "SOXAI RING 1.1 日本製スマートリング ソクサイリング 健康管理 睡眠管理 メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (ピンクゴールド, 16号)",
+      "maker": "SOXAI",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOXAI",
+      "historical_tier": 2,
+      "parent_asin": "B0F5BFKDYN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0F59W82K1"
+        },
+        {
+          "published_date": "2026-08-26",
+          "title": "夏バテを計測。自律神経を整える「最新デバイス」 5 選",
+          "asin": "B0F59WQ1TX"
+        },
+        {
+          "published_date": "2026-08-18",
+          "title": "夏の眠りを快適に。睡眠を計測する「スマートリング」 6 選",
+          "asin": "B0F59W82K1"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F59W82K1",
+      "title": "SOXAI RING 1.1 日本製スマートリング ソクサイリング 健康管理 睡眠管理 メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (マットシルバー, 16号)",
+      "maker": "SOXAI",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOXAI",
+      "historical_tier": 2,
+      "parent_asin": "B0F5BFKDYN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0F59W82K1"
+        },
+        {
+          "published_date": "2026-08-26",
+          "title": "夏バテを計測。自律神経を整える「最新デバイス」 5 選",
+          "asin": "B0F59WQ1TX"
+        },
+        {
+          "published_date": "2026-08-18",
+          "title": "夏の眠りを快適に。睡眠を計測する「スマートリング」 6 選",
+          "asin": "B0F59W82K1"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F59WQ1TX",
+      "title": "SOXAI RING 1.1 日本製スマートリング ソクサイリング 健康管理 睡眠管理 メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (マットシルバー, 14号)",
+      "maker": "SOXAI",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOXAI",
+      "historical_tier": 2,
+      "parent_asin": "B0F5BFKDYN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0F59W82K1"
+        },
+        {
+          "published_date": "2026-08-26",
+          "title": "夏バテを計測。自律神経を整える「最新デバイス」 5 選",
+          "asin": "B0F59WQ1TX"
+        },
+        {
+          "published_date": "2026-08-18",
+          "title": "夏の眠りを快適に。睡眠を計測する「スマートリング」 6 選",
+          "asin": "B0F59W82K1"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0G6YHQ18J",
+      "title": "Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類データ測定機能 IP68防水 Iphone対応",
+      "maker": "Geekin",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Geekin",
+      "historical_tier": 1,
+      "parent_asin": "B0H5Q2TMKK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0GQ3WPDRG"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GMH69RCK",
+      "title": "Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類データ測定機能 IP68防水 Iphone対応",
+      "maker": "Geekin",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Geekin",
+      "historical_tier": 1,
+      "parent_asin": "B0H5Q2TMKK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0GQ3WPDRG"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GQ3TF92R",
+      "title": "スマートリング 健康管理 【新登場 & 長時間使用可能】 Android/Iphone対応 睡眠管理 スマート指輪 ヘルスケア 睡眠計測 8種類運動モード 3種類データ測定機能 IP68防水USB磁気充電 カメラ制御 小型 超軽量 カロリー 運動距離 歩数計 活動量計 smart ring 男女兼用 日本語取扱説明書 磁気充電ケーブル付き (シルバー, 7号(54.3mm))",
+      "maker": "スマートリング",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "スマートリング",
+      "historical_tier": 1,
+      "parent_asin": "B0H5Q2TMKK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0GQ3WPDRG"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合",
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GQ3VR6T2",
+      "title": "Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類データ測定機能 IP68防水 Iphone対応",
+      "maker": "Geekin",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Geekin",
+      "historical_tier": 1,
+      "parent_asin": "B0H5Q2TMKK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0GQ3WPDRG"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GQ3WPDRG",
+      "title": "Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類データ測定機能 IP68防水 Iphone対応",
+      "maker": "Geekin",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Geekin",
+      "historical_tier": 1,
+      "parent_asin": "B0H5Q2TMKK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0GQ3WPDRG"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GQ3YK66B",
+      "title": "スマートリング 健康管理 【新登場 & 長時間使用可能】 Android/Iphone対応 睡眠管理 スマート指輪 ヘルスケア 睡眠計測 8種類運動モード 3種類データ測定機能 IP68防水USB磁気充電 カメラ制御 小型 超軽量 カロリー 運動距離 歩数計 活動量計 smart ring 男女兼用 日本語取扱説明書 磁気充電ケーブル付き (シルバー, 8号(57.2mm))",
+      "maker": "商品ページ表記なし",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "商品ページ表記なし",
+      "historical_tier": 1,
+      "parent_asin": "B0H5Q2TMKK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0GQ3WPDRG"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合",
+        "メーカー名称未確認。数値基準のメーカー多様性に使わない"
+      ],
+      "exclusion_reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GQ8WX3CZ",
+      "title": "Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類データ測定機能 IP68防水 Iphone対応",
+      "maker": "Geekin",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Geekin",
+      "historical_tier": 1,
+      "parent_asin": "B0H5Q2TMKK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0GQ3WPDRG"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0GQ98LC37",
+      "title": "Geekin スマートリング 健康管理 睡眠管理 スマート指輪 ヘルスケア 8種類運動モード 3種類データ測定機能 IP68防水 Iphone対応",
+      "maker": "Geekin",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Geekin",
+      "historical_tier": 1,
+      "parent_asin": "B0H5Q2TMKK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-03",
+          "title": "心拍とストレスを数値で見る。指にはめる「スマートリング」 5 選",
+          "asin": "B0GQ3WPDRG"
+        }
+      ],
+      "october_local_research_matches": [
+        {
+          "path": "accounts/daily_gadget/06_research/2026-10/2026-10-03_心拍とストレスを数値で見る。スマートリング.md",
+          "date": "2026-10-03",
+          "basis": "research_ASIN_mention_not_necessarily_selected"
+        }
+      ],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H4RH1L21",
+      "title": "SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリー メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (シルバー, 22号)",
+      "maker": "SOXAI",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOXAI",
+      "historical_tier": 3,
+      "parent_asin": "B0H4RVHB6J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H4RNLPBD",
+      "title": "SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリー メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (マットブラック, 22号)",
+      "maker": "SOXAI",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOXAI",
+      "historical_tier": 3,
+      "parent_asin": "B0H4RVHB6J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H4RPQC2R",
+      "title": "SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリー メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (シルバー, 24号)",
+      "maker": "SOXAI",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOXAI",
+      "historical_tier": 3,
+      "parent_asin": "B0H4RVHB6J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H4RQ92V1",
+      "title": "SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリー メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (マットシルバー, 16号)",
+      "maker": "SOXAI",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOXAI",
+      "historical_tier": 3,
+      "parent_asin": "B0H4RVHB6J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H4RW5Y8L",
+      "title": "SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリー メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (ピンクゴールド, 16号)",
+      "maker": "SOXAI",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOXAI",
+      "historical_tier": 3,
+      "parent_asin": "B0H4RVHB6J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H4RX6Y2G",
+      "title": "SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリー メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (マットシルバー, 8号)",
+      "maker": "SOXAI",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOXAI",
+      "historical_tier": 3,
+      "parent_asin": "B0H4RVHB6J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H4S6DWCS",
+      "title": "SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリー メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (マットブラック, 20号)",
+      "maker": "SOXAI",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "SOXAI",
+      "historical_tier": 3,
+      "parent_asin": "B0H4RVHB6J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-15",
+      "scope_pending": [
+        "睡眠/活動は推定傾向の記録。医療診断や改善効果を断言しない",
+        "サイズ・同世代モデルと最新親ASINを照合"
+      ],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B0GQ3TF92R",
+      "title": "スマートリング 健康管理 【新登場 & 長時間使用可能】 Android/Iphone対応 睡眠管理 スマート指輪 ヘルスケア 睡眠計測 8種類運動モード 3種類データ測定機能 IP68防水USB磁気充電 カメラ制御 小型 超軽量 カロリー 運動距離 歩数計 活動量計 smart ring 男女兼用 日本語取扱説明書 磁気充電ケーブル付き (シルバー, 7号(54.3mm))",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0GQ3YK66B",
+      "title": "スマートリング 健康管理 【新登場 & 長時間使用可能】 Android/Iphone対応 睡眠管理 スマート指輪 ヘルスケア 睡眠計測 8種類運動モード 3種類データ測定機能 IP68防水USB磁気充電 カメラ制御 小型 超軽量 カロリー 運動距離 歩数計 活動量計 smart ring 男女兼用 日本語取扱説明書 磁気充電ケーブル付き (シルバー, 8号(57.2mm))",
+      "reason": "メーカー推定が商品種別/販促文/不明。実在メーカー未確認として保留"
+    },
+    {
+      "asin": "B0DG2QKMFX",
+      "title": "RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリー持続最長12日、睡眠・心拍・ストレス・女性の健康管理・フィットネス追跡、Android & iOS対応（シルバー、サイズ10）",
+      "reason": "サイズ確認用キットでありスマートリング本体ではない"
+    },
+    {
+      "asin": "B0DWFSW47F",
+      "title": "Oura Ring 第4世代サイジングキット– 購入前にぴったりのサイズを確認 – スマートリング専用の独自サイズ基準 – ご購入時にクレジット付与",
+      "reason": "サイズ確認用キットでありスマートリング本体ではない"
+    }
+  ],
+  "variant_policy": "同親の色/サイズ/バンドルを候補群として残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "候補に残る未確認事項は公式照合前の採用根拠としない",
+    "旧案17ASIN/5親から最新read-only索引で供給再確認。親群は色/サイズを束ねただけで独立製品成立や型番確認ではない"
+  ],
+  "historical_tier_distribution": {
+    "1": 9,
+    "2": 4,
+    "3": 8
+  }
+}
