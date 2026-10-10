@@ -1,0 +1,1037 @@
+{
+  "generated_at": "2026-10-10T01:00:56+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261103_164160ad",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261103_gadget_pouch"
+  ],
+  "fetched_count": 27,
+  "dedup_count": 27,
+  "candidates": [
+    {
+      "asin": "B01HE6L6BY",
+      "title": "サンワダイレクト ガジェットポーチ 旅行 出張 便利グッズ 収納ポーチ グレー 200-BAGIN005GY",
+      "url": "https://www.amazon.co.jp/dp/B01HE6L6BY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B01HE6L6BY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/91cFBLnSXdL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "旅行時や出張時、普段使いでの使用に便利な ポーチ です。 アメニティを入れて トラベルポーチ として、パソコン周辺機器を入れて ガジェットケース として、モバイルバッテリー や ケーブル を 収納 して 小物入れ として。使い方はさまざま！",
+        "【特徴】●ファスナー付きポケットを1箇所、メッシュポケットを4箇所搭載しています。●上下に大きく開いて中身が見やすく、ひと目で全体を確認できます。●ファスナーはダブルファスナーです。",
+        "【外寸】幅19cm×奥行13.5cm×高さ5cm　【内寸】幅18.5cm×奥行13cm×高さ4.5cm　【重さ】約85g",
+        "【素材】ポリエステル・【生産地】中国・【保証期間】初期不良のみ"
+      ],
+      "maker": "サンワサプライ",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 4570,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-09-07",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "parent_asin": "B0BW4221S1",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:07:01+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07XFVCW1S",
+      "title": "エレコム トラベルポーチ ガジェットポーチ ガジェット ポーチ バックインバック 旅行 出張 収納 小物入れ グレー BMA-F01XGY",
+      "url": "https://www.amazon.co.jp/dp/B07XFVCW1S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07XFVCW1S?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51QTC5OPYVL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "ACアダプターやモバイルバッテリーなど様々なガジェットを収納して持ち運べるポーチです。",
+        "表生地には様々なシーンで使えるカジュアル生地を採用しています。",
+        "ポーチの内生地には収納物を傷つけにくい起毛素材を使用しています。",
+        "豊富な小分けポケットで収納物を細かく整理できます。",
+        "持ち運びやカバンからの取り出しに便利な引き手ハンドルがついています。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 2928,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-12",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B088FRNVF9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:07:10+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B087RLYJNP",
+      "title": "エレコム トラベルポーチ ガジェットポーチ ガジェット ポーチ バックインバック 旅行 出張 収納 小物入れ ネイビー BMA-F01XNV",
+      "url": "https://www.amazon.co.jp/dp/B087RLYJNP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B087RLYJNP?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51p7Tj4RP6L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "ACアダプターやモバイルバッテリーなど様々なガジェットを収納して持ち運べるポーチです。",
+        "表生地には様々なシーンで使えるカジュアル生地を採用しています。",
+        "ポーチの内生地には収納物を傷つけにくい起毛素材を使用しています。",
+        "豊富な小分けポケットで収納物を細かく整理できます。",
+        "持ち運びやカバンからの取り出しに便利な引き手ハンドルがついています。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 2928,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-25",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B088FRNVF9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:07:20+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CY57DPW5",
+      "title": "tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテリー マウス収納 出張 お出掛け オフィス 旅行 便利グッズ バックインバッグ 二層 自立 撥水 軽量 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CY57DPW5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CY57DPW5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71icvrueJjL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【tomtocセットアップをすっきり整理】tomtocリュックやパソコンケースと組み合わせることで、バッグの中のデジタル小物をすっきり整理。モバイルアクセサリーや身の回り品をまとめて収納でき、移動中でもスムーズに取り出せます。バッグインバッグとしても使いやすい設計です。外形寸法：24.5×13×7cm。",
+        "【毎日使いやすい高品質仕様】滑らかなYKKファスナーを採用し、スムーズに開閉できます。撥水性と耐久性に優れた再生PET 600Dポリエステル素材を使用。軽量で持ち運びやすく、通勤・通学から出張・旅行まで幅広いシーンで活躍します。",
+        "【通勤・通学のガジェット整理に】モバイルバッテリー、SDカード、USBメモリ、イヤホンなど、毎日持ち歩く小物をコンパクトに整理。内部には分類しやすいポケットを配置し、バッグの中で散らかりがちなPC周辺アイテムを見やすく収納できます。",
+        "【出張・旅行を快適にするTech Pouch】ホテルや移動中でも小物類をスマートに管理できるトラベルポーチ。スーツケースやバックパックにも収まりやすく、充電器、変換プラグ、ケーブル類に加え、リップクリーム、ミントタブレット、常備薬などの身の回り品もまとめて持ち運べます。旅行用ガジェット収納やパッキングポーチとして幅広く活躍します。",
+        "【デスク周りをすっきり整頓】自立構造により、開いたまま中身を見渡しやすく、デスク上でも快適に使用可能。自宅・オフィス・カフェでの作業やリモートワークにもなじみやすく、デスク周りの小物をすっきり整理できます。"
+      ],
+      "maker": "tomtoc",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 2668,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0F18BF9VZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:07:29+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DQ5XKH9Y",
+      "title": "tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテリー マウス収納 出張 お出掛け オフィス 旅行 便利グッズ",
+      "url": "https://www.amazon.co.jp/dp/B0DQ5XKH9Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DQ5XKH9Y?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81j9IwG2niL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ポーチ1つで全てを】Light-T12 ポータブルガジェットポーチは、日々や旅行の必需品をまとめてすっきり収納するソリューションを提供します。さまざまな小物を散らかりや紛失なしに、いつでも手が届き、整頓された状態をキープ。すべて一つの場所にまとめて、素早く持ち物をまとめて出かけたいときに活躍し、すっきり持ち運ぶことができます。外形寸法：24.5×13×7cm。",
+        "【整頓しやすい構造】二層収納構造に、MacBookアダプタや小物をすっきり収納できるように、程よい数のポケットを配置しました。自宅でも外出先でも、ハイテクガジェットはもちろん、個人アイテムやモバイルアクセサリーなどの必需品をいつでも手の届く場所にきちんと収まります。",
+        "【万能ポーチ】この小物入れは多用途にご利用いただけます。ハイテクガジェットをたくさん持ち運ぶ方々だけではなく、鍵、リップクリーム、イヤホン、ミントタブレットなどごちゃごちゃしがちな身の回り品もすっきり収納してます。仕事に向かうときでも、旅行に行くときでも、いつでもどこでも、迷わず取り出します。",
+        "【環境にやさしい】YKKファスナー、再生素材のPET 600Dポリエステルを使用したこのバッグは、美しさや耐久性、機能性を重視していることだけではなく、品質や地球を守ることにも全力で取り組んでいます。",
+        "【持ち運びやすい便利グッズ】複数のバッグポケットにバラバラに収納された小物アイテムを探す邪魔を軽減させるために設計したこのガジェットケースは、リュックサック、トートバッグ、スーツケースの中に入れて持ち運ぶこともできます。自立できる洗練された仕様で、中身を見渡しやすく取り出しやすいのも魅力。"
+      ],
+      "maker": "tomtoc",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 2668,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0F18BF9VZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:07:37+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0843QXWWZ",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 旅行 出張 便利グッズ マウス ケーブル モバイルバッテリー 収納ポーチ トラベルポーチ Sサイズ ブラック 200-BAGIN014BK",
+      "url": "https://www.amazon.co.jp/dp/B0843QXWWZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0843QXWWZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51iHNp-QK5L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "旅行時や出張時、普段使いでの使用に 便利 な、セミ ハード タイプの トラベル ポーチ です。セミハードタイプなので、 収納 物を外部の衝撃から守ります。大、小、3つの間仕切り付きで、面ファスナー仕様なので、収納物によって細かく仕切ったり、仕切りを取り外すことができます。",
+        "ガバッと開いて収納物を一目で確認できる、出し入れしやすいフルオープンタイプです。ノートパソコンなどのACアダプタやマウス、 モバイルバッテリー や充電ケーブル、 充電器 、 イヤホン などの 周辺機器 から デジカメ 、電気シェーバーなどを収納でき ガジェットケース としてもおすすめです。",
+        "ケース の内側に収納物を確認しやすいメッシュポケットを1つ搭載しています。内側は収納物に傷がつきにくいサラサラとして手触りの良い素材を使用しています。ストラップ付きで、落下を防止し持ち運びしやすくなっています。",
+        "日常使用としてや旅行用の身の回り品などを収納する 小物入れ としても最適です。",
+        "ファスナーの内側には収納物への傷を防止する、ファスナーガード付きです。"
+      ],
+      "maker": "サンワサプライ",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 1815,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-12",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "parent_asin": "B0843SLFT1",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:07:45+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0843RKFPJ",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 旅行 出張 便利グッズ マウス ケーブル モバイルバッテリー 収納ポーチ トラベルポーチ Lサイズ ブラック 200-BAGIN016BK",
+      "url": "https://www.amazon.co.jp/dp/B0843RKFPJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0843RKFPJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51-A90NQdmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "旅行時や出張時、普段使いでの使用に 便利 な、セミ ハード タイプの トラベル ポーチ です。セミハードタイプなので、 収納 物を外部の衝撃から守ります。大、小、3つの間仕切り付きで、面ファスナー仕様なので、収納物によって細かく仕切ったり、仕切りを取り外すことができます。",
+        "ガバッと開いて収納物を一目で確認できる、出し入れしやすいフルオープンタイプです。ノートパソコンなどのACアダプタやマウス、 モバイルバッテリー や充電ケーブル、 充電器 、 イヤホン などの 周辺機器 から デジカメ 、電気シェーバーなどを収納でき ガジェットケース としてもおすすめです。",
+        "ケース の内側に収納物を確認しやすいメッシュポケットを1つ搭載しています。内側は収納物に傷がつきにくいサラサラとして手触りの良い素材を使用しています。ストラップ付きで、落下を防止し持ち運びしやすくなっています。",
+        "日常使用としてや旅行用の身の回り品などを収納する 小物入れ としても最適です。ファスナーの内側には収納物への傷を防止する、ファスナーガード付きです。",
+        "保証期間：初期不良のみ"
+      ],
+      "maker": "サンワサプライ",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 1815,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-12",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "parent_asin": "B0843SLFT1",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:07:53+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08DCYD9LD",
+      "title": "エレコム ガジェットポーチ 大容量 自立型 旅行 出張 テレワーク オーガナイズポーチ ブラック BMA-GP14BK",
+      "url": "https://www.amazon.co.jp/dp/B08DCYD9LD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08DCYD9LD?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61vZ0IrGRhL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "詳しくは「商品の仕様」「商品の説明」をご確認ください。",
+        "周辺機器からビジネス用品までをまとめて収納可能な、収納物が一覧しやすい自立型ポーチです。",
+        "開閉しやすいダブルファスナーを採用しています。",
+        "ポーチ内部にケーブルなどの小物を整理して収納できるメッシュポケットがついています。",
+        "ポーチ内部のメイン空間に仕切りがついており、沢山の小物を入れてもまざりにくくなっています。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 1381,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-03",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B09N6GB1RQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:08:01+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07SYFWYBW",
+      "title": "サンワダイレクト ガジェットポーチ 薄型 旅行 出張 便利グッズ 収納ポーチ Mサイズ ネイビー 200-BAGIN013NV",
+      "url": "https://www.amazon.co.jp/dp/B07SYFWYBW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07SYFWYBW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71VBT+44Q0L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "モバイルバッテリー やWi-Fiルーター、ケーブル などの収納に便利な、トラベルポーチ です。普段持ち歩くことが多い小物をまとめて、スリムに整理収納できます。",
+        "メイン収納部のダブルファスナーは半分しか開かない仕様なので、収納機器が落下しにくく安心して使用できます。メイン収納部にはメッシュポケット付きで、小物の整理に便利です。",
+        "ポーチの前面にはファスナー付きポケットがあり、SDカードやUSBメモリーなどの小物類を収納できます。ガジェット類だけでなく、貴重品を入れて機内持ち込み用のポーチとしてや出張や旅行など様々なシーンで活用できます。",
+        "シンプルなデザインなので、ビジネスシーンにも普段使いにも対応します。肌触りの良いサラサラとした生地を採用しています。",
+        "ファスナーの内側には収納機器への傷を防止する、ファスナーガード付きです。落下を防止する着脱可能なストラップを付属しています。",
+        "■保証期間：初期不良のみ"
+      ],
+      "maker": "サンワサプライ",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 1233,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-14",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "parent_asin": "B07SYFR7NM",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:08:09+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D8TJJGNJ",
+      "title": "Anker Smart Pouch Supported by KOKUYO コンパクトポーチ トラベルガジェットポーチ ガジェットポーチ バック 旅行 出張 収納 小物入れCompact",
+      "url": "https://www.amazon.co.jp/dp/B0D8TJJGNJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D8TJJGNJ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61Lk0+bs9FL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "コクヨ共同開発：コクヨとの共同開発でガジェットから文具まで、スマートに収納できる仕様を追求しました。 オフィスでも、学校でも、様々な用途におすすめです。",
+        "Anker製品に最適：Anker製品に合わせた特別仕様。複数ポケットや内部の仕切りを活用し、USB充電器やケーブル等をピッタリと収納できます。",
+        "自立可能で薄型設計：側面のボタンで固定することで、開いた状態で自立します。持ち運び時だけでなく、デスクでの使用時にも便利です。薄型設計のため、バッグの中やスーツケースなどにもコンパクトに収納いただけます。",
+        "パッケージ内容：Anker Smart Pouch 、最大24ヶ月保証、カスタマーサポート"
+      ],
+      "maker": "Anker",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 1104,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_observed_at": "2026-09-11T00:33:26+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:08:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07Q9K2QHV",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース トラベルポーチ 充電器ケーブルUSBハブなどの収納ポーチ 保護ケース 小物入れ 出張/旅行用 防水 グレー",
+      "url": "https://www.amazon.co.jp/dp/B07Q9K2QHV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07Q9K2QHV?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81t+Jzy5o0L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【超大容量収納ポーチ】UGREEN小物用収納ポーチは、外形寸法は12.9 x 20.3 x 7.2 cmで、充電ケーブル、充電器、ワイヤレスイヤホン、マウス、ポケットWiFiなど、どのようなガジェットも分類して固定収納可能です。外出や旅行及び自宅保管に最適なバッグです。",
+        "【レイヤー構造】内部のレイヤー構造の区切りでさまざまな工具やモバイルバッテリー、充電ケーブル、イヤホーンコード等の周辺小物を分類するものを固定収納可能、オープンの際に収納品が一目で分かる。なお、ジッパー付きのインナーポケットがSDカードなどの小物をしっかり保管できます。",
+        "【持ち運びに便利】手提げのデザインで、持ち歩きに最適、そして、高品質なプレミアムYKKジッパー付きで、この収納バッグはしっかりガジェットを保管し、紛失することはいない。自宅・出張・旅行時の保管・収納に実用的なバッグです。プレゼントとしても良いです。",
+        "【ハードシェル&amp;スプラッシュ防止素材】本体の外側がスプラッシュ防止素材を採用し、衝撃、擦り傷や水を一定の程度で防ぎことで、小物やガジェットを保護できます。万が一の落下しても、大切な物を優しく守ってくれます。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 785,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-19",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0HJCRRRSV",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:08:26+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07NPJDH22",
+      "title": "エレコム ガジェットポーチ ガジェット ポーチ バッグインバッグ UBシリーズ 撥水加工 300D高密度ポリエステル ブラック BMA-UBGP01BK",
+      "url": "https://www.amazon.co.jp/dp/B07NPJDH22?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07NPJDH22?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51lI3FQNFaL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "使い勝手と質感を高めたスタンダードバッグシリーズ“UB&#34;。 高密度ポリエステルを使用し、手触りの良さと耐久性を兼ね備えたガジェットポーチ。",
+        "気室数:1気室",
+        "外形寸法:約 幅230×厚み70×高さ150(mm)",
+        "ポケット(前面):ファスナーポケット×1",
+        "ポケット(気室内):小物ポケット×2、メッシュポケット×5",
+        "材質:主材質:ポリエステル",
+        "質量:約 115(g)"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 518,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-19",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:08:32+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08L35V3R5",
+      "title": "[ aso ] TOFTPOUCH (タフトポーチ) 耐水ポーチ ガジェットポーチ 日本製 約150×110×10[mm] コンパクト ポーチ 小型 バッグインバッグ (Mサイズ センターファスナー ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B08L35V3R5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08L35V3R5?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51wPnvPyMfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【サイズ】約160×105×10 [mm](ループを除く)　【重量】約24g　【素材】ポリエステルPUコーティング、本革(ファスナー引手部分)　【生産国】日本",
+        "デジタルにこそ、最高の耐水性能を。 充電用のケーブルなど、デジタル周辺機器にとって水濡れは厳禁。 メイン素材からファスナーまで耐水素材にこだわり、見た目もシンプルに仕上げました。",
+        "ポーチと繋いで紛失防止。使い方広がる、asoタグ。 正規品を示すタグは、鍵やイヤホン、AirTagをひっかけることで紛失防止対策としてもご使用いただけます。",
+        "中身を確認しやすい意匠へのこだわり ファスナーを開けた時に中身を全て見渡すことができます。 出し入れがしやすいサイジングにもこだわりました。",
+        "２本指でさっと一覧できてこぼれにくい、定番モデル。 少ない動作で一覧できて、中身が飛び出しにくいセンターファスナー。 2020年の発売から多くの方に愛されてきた定番モデルです。"
+      ],
+      "maker": "aso",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 516,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-19",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0HB3XKV23",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:08:40+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B00TK35ES6",
+      "title": "エレコム ガジェットポーチ ガジェット ポーチ 収納ポーチ バッグインバッグ スリムタイプ Sサイズ ブラック BMA-GP01BK",
+      "url": "https://www.amazon.co.jp/dp/B00TK35ES6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B00TK35ES6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61kdSM6vHtL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "モバイルバッテリーやポケットWi-Fiルーター、ケーブルなどを収納できるマルチ収納ポーチ“BORSA”です。",
+        "ポーチ内側に、ケーブルなどを分けて収納するのに便利なメッシュポケットが付いています。",
+        "ポーチ前面に、SDカードやUSBメモリなどの小物の収納に最適なファスナー付きの前面ポケットが付いています。",
+        "外形寸法：幅150mm×奥行25mm×高さ90mm",
+        "内寸：幅130mm×奥行12mm×高さ75mm"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 761,
+      "star_rating": 3.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B09N67BXGW",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:08:48+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07CQ1PTGH",
+      "title": "エレコム ガジェットポーチ ガジェット ポーチ 大容量 CORDURA1000 (撥水 高耐久) 6つの仕切りポケット付き ブラック BMA-CDGP01BK",
+      "url": "https://www.amazon.co.jp/dp/B07CQ1PTGH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07CQ1PTGH?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81a8toRgbML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "摩耗、引き裂き、すり切れに強いCORDURA(R)1000Dナイロンを採用。 ACアダプタやマウスなどの大きいガジェットも収納でき、高い質感と耐久性を兼ね備えたCORDURA(R)ガジェットポーチ。",
+        "バッグタイプ:ポーチ",
+        "気室数:1気室",
+        "外形寸法:約 幅240×厚み65×高さ155(mm)",
+        "ポケット(気室内):小物ポケット×6",
+        "カラー:ブラック",
+        "材質:主材質:ナイロン、ポリエステル",
+        "重量:約 75(g)"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 341,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:08:56+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0843WY8RR",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 マウス ケーブル モバイルバッテリー Mサイズ ブラック 200-BAGIN015BK",
+      "url": "https://www.amazon.co.jp/dp/B0843WY8RR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0843WY8RR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51iLob+x5tL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "旅行時や出張時、普段使いでの使用に 便利 な、セミ ハード タイプの トラベル ポーチ です。セミハードタイプなので、 収納 物を外部の衝撃から守ります。大、小、3つの間仕切り付きで、面ファスナー仕様なので、収納物によって細かく仕切ったり、仕切りを取り外すことができます。",
+        "ガバッと開いて収納物を一目で確認できる、出し入れしやすいフルオープンタイプです。ノートパソコンなどのACアダプタやマウス、 モバイルバッテリー や充電ケーブル、 充電器 、 イヤホン などの 周辺機器 から デジカメ 、電気シェーバーなどを収納でき ガジェットケース としてもおすすめです。",
+        "ケース の内側に収納物を確認しやすいメッシュポケットを1つ搭載しています。内側は収納物に傷がつきにくいサラサラとして手触りの良い素材を使用しています。ストラップ付きで、落下を防止し持ち運びしやすくなっています。",
+        "日常使用としてや旅行用の身の回り品などを収納する 小物入れ としても最適です。",
+        "ファスナーの内側には収納物への傷を防止する、ファスナーガード付きです。"
+      ],
+      "maker": "サンワサプライ",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 1815,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "parent_asin": "B0843SLFT1",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:09:06+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B087RLFP3C",
+      "title": "エレコム トラベルポーチ ガジェットポーチ ガジェット ポーチ バックインバック 旅行 出張 収納 小物入れ ブラック BMA-F01XBK",
+      "url": "https://www.amazon.co.jp/dp/B087RLFP3C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B087RLFP3C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51pk2GcJpFL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "features": [
+        "ACアダプターやモバイルバッテリーなど様々なガジェットを収納して持ち運べるポーチです。",
+        "表生地には様々なシーンで使えるカジュアル生地を採用しています。",
+        "ポーチの内生地には収納物を傷つけにくい起毛素材を使用しています。",
+        "豊富な小分けポケットで収納物を細かく整理できます。",
+        "持ち運びやカバンからの取り出しに便利な引き手ハンドルがついています。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 2928,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B088FRNVF9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:09:13+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B09MPR36JM",
+      "title": "tomtoc ガジェットポーチ Tech Pouch 自立 軽量 YKKファスナー採用 EDCポーチ トラベルポーチ",
+      "url": "https://www.amazon.co.jp/dp/B09MPR36JM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B09MPR36JM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81FNqbYJqxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【tomtocセットアップをすっきり整理】tomtocリュックやパソコンケースと組み合わせることで、バッグの中のデジタル小物をすっきり整理。モバイルアクセサリーや身の回り品をまとめて収納でき、移動中でもスムーズに取り出せます。バッグインバッグとしても使いやすい設計です。外形寸法：23.5×12×6.5cm。",
+        "【毎日使いやすい高品質仕様】滑らかなYKKファスナーを採用し、スムーズに開閉できます。撥水性と耐久性に優れた再生PET 600Dポリエステル素材を使用。軽量で持ち運びやすく、通勤・通学から出張・旅行まで幅広いシーンで活躍します。",
+        "【通勤・通学のガジェット整理に】モバイルバッテリー、SDカード、USBメモリ、イヤホンなど、毎日持ち歩く小物をコンパクトに整理。内部には分類しやすいポケットを配置し、バッグの中で散らかりがちなPC周辺アイテムを見やすく収納できます。",
+        "【出張・旅行を快適にするTech Pouch】ホテルや移動中でも小物類をスマートに管理できるトラベルポーチ。スーツケースやバックパックにも収まりやすく、充電器、変換プラグ、ケーブル類に加え、リップクリーム、ミントタブレット、常備薬などの身の回り品もまとめて持ち運べます。旅行用ガジェット収納やパッキングポーチとして幅広く活躍します。",
+        "【デスク周りをすっきり整頓】自立構造により、開いたまま中身を見渡しやすく、デスク上でも快適に使用可能。自宅・オフィス・カフェでの作業やリモートワークにもなじみやすく、デスク周りの小物をすっきり整理できます。"
+      ],
+      "maker": "tomtoc",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 2668,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0F18BF9VZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:09:21+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BMTRNQ43",
+      "title": "tomtoc ガジェットポーチ アクセサリーバッグ 大容量 MacBookアダプター対応 PC周辺収納 万能バッグ 撥水加工 旅行 出張 通勤",
+      "url": "https://www.amazon.co.jp/dp/B0BMTRNQ43?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BMTRNQ43?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/712kntnFP6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【パワフルなガジェットポーチ】PC周辺機器から個人アイテムをたくさん入れられる大容量収納ケース。閉めても開けても型潰さなく自立できる洗練された仕様。開口部が大きく開くタイプで、中身を見渡しやすく取り出しやすいのも魅力。通勤、通学、リモートワーク、自宅収納や旅にご活用いただける1品！",
+        "【超強収納力】内装の収納スペースが大きく、容量を無駄にしない折り紙式で計12個の大小さまざまなポケット、2つペンポルダー、収納バンド4本が備わり、ビジネスなどに必要なガジェットを丸ごとで収納でき、一目瞭然で中身の整理や出し入れに便利。可動式ば収納シートを用意して、SDカードやSIMカードなどを紛失無で探しやすく収納できます。",
+        "【持ち運びやすい】本体に取手が付いているので、ガジェットポーチを単体で持ち運ぶときにも便利です。このガジェットポーチを簡単にリュックやスーツケースに収納でき、鞄の中でごちゃつきやすい荷物をまとめることができます。外形寸法：26 x 15 x 10 cm。容量：2.4L。",
+        "【品質へのこだわり】安心のYKK製ダブルファスナーは開閉がスムーズでしやすく、耐久性にも優れています。表地は高品質の撥水加工されたエコ材使用。tomtoc製品は全て12ヶ月間安心保証付きます。",
+        "【多用途】これはPC周辺機器ケースだけではなく、薬や化粧品など、日用品を収納するのにも活用いただけます。ビジネスシーン、通勤、通学、リモートワーク、旅など様々なシーンで大活躍ポーチです。"
+      ],
+      "maker": "tomtoc",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 686,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0BR5Y9L32",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:09:32+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BTLQ58Q2",
+      "title": "サンワサプライ(Sanwa Supply) トラベルポーチ ガジェットポーチ 小物収納 (W215×D115×H60mm) ブラック IN-AD9BK",
+      "url": "https://www.amazon.co.jp/dp/B0BTLQ58Q2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BTLQ58Q2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81sdKn0RyuL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "モバイルバッテリーや充電器などのアクセサリーを整理収納できます。",
+        "収納物を一目で確認でき、出し入れしやすいフルオープンタイプです。",
+        "開け閉めしやすいダブルファスナーを採用しています。",
+        "カバンの隙間にちょうど良いサイズで旅行や出張、通勤に便利です。"
+      ],
+      "maker": "サンワサプライ",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 34,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "parent_asin": "B0BVQS68V8",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:09:40+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BTLQJ9JB",
+      "title": "サンワサプライ(Sanwa Supply) トラベルポーチ ガジェットポーチ 小物収納 (W255×D97×H60mm) ブラック IN-AD10BK",
+      "url": "https://www.amazon.co.jp/dp/B0BTLQJ9JB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BTLQJ9JB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71NZx1bybrL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "モバイルバッテリーや充電器などのアクセサリーを整理収納できます。",
+        "収納物を一目で確認でき、出し入れしやすいフルオープンタイプです。",
+        "開け閉めしやすいダブルファスナーを採用しています。",
+        "カバンの隙間にちょうど良いサイズで旅行や出張、通勤に便利です。"
+      ],
+      "maker": "サンワサプライ",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 34,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "parent_asin": "B0BVQS68V8",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:09:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CCP69CWW",
+      "title": "tomtoc ガジェットポーチ 撥水加工 PC周辺小物用収納ポーチ トラベルポーチ 小物入れ 出張 旅行 お出掛け 便利グッズ 軽量 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B0CCP69CWW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CCP69CWW?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81MHB4ifZ8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【よく考えられたガジェットポーチ】PC周辺機器から個人アイテムをスッキリ入れられる収納ケース。開口部が大きく開くタイプで、中身を見渡しやすく取り出しやすいのも魅力。通勤、通学、リモートワーク、自宅収納や旅にご活用いただける1品！",
+        "【スマートに収納】内装の収納スペースが大きく、容量を無駄にしないデザインで計12個の大小さまざまなコンパートメント、2つペンポルダー、収納バンド4本が備わり、ビジネスなどに必要なガジェットを収納でき、一目瞭然で中身の整理や出し入れに便利。",
+        "【持ち運びやすい】本体に取手が付いているので、ガジェットポーチを単体で持ち運ぶときにも便利です。このガジェットポーチを簡単にリュックやスーツケースに収納でき、鞄の中でごちゃつきやすい荷物をまとめることができます。外形寸法：22 x 14 x 6 cm。",
+        "【品質へのこだわり】安心のYKK製ダブルファスナーは開閉がスムーズでしやすく、耐久性にも優れています。表地は高品質の撥水加工されたエコ材使用。tomtoc製品は全て12ヶ月間安心保証付きます。",
+        "【多用途】これはPC周辺機器ケースだけではなく、薬や化粧品など、日用品を収納するのにも活用いただけます。ビジネスシーン、通勤、通学、リモートワーク、旅など様々なシーンで大活躍ポーチです。"
+      ],
+      "maker": "tomtoc",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 686,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0BR5Y9L32",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:09:58+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DG58QXH3",
+      "title": "tomtoc ふわふわ ガジェットポーチ 小物入れ トラベルポーチ 軽量 キルティング バッグ 可愛い レディース 化粧ポーチ 旅行便利グッズ",
+      "url": "https://www.amazon.co.jp/dp/B0DG58QXH3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DG58QXH3?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61jyikQp1bL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "スマートな収納設計：内装にポケットを複数装備していて、充電器、スマホや化粧品、旅行グッズ、DJI Osmo Pocket 3など、日常の必需品をすっきり収納できます。メッシュポケットや他の小ポケットを配し、小物もまとめて収納可能。日用品から旅行の必需品まで簡単に整理整頓でき、サッと取り出せるため、普段使いや旅行にもぴったりです。",
+        "スマートな収納設計：内装にポケットを複数装備していて、充電器や化粧品、旅行グッズ、DJI Osmo Pocket 3など、日常の必需品をすっきり収納できます。メッシュポケットや他の小ポケットを配し、小物もまとめて収納可能。日用品から旅行の必需品まで簡単に整理整頓でき、サッと取り出せるため、普段使いや旅行にもぴったりです。",
+        "軽量でふんわりとした質感：ふんわりとしたソフトな手触りが心地よく、軽量設計でどこへでも手軽に持ち運べます。自宅からオフィス、さらには外出先まで、このポーチは利便性と保護機能を兼ね備え、触れるたびに楽しさをもたらします。",
+        "持続可能性を求める：100％再生素材を採用したこのポーチは、耐久性と環境への配慮が両立し、人間と自然が共生する世界へ取り組んでいきます。リサイクルして作られたナイロンの外装から、信頼できるYKK製「NATULON Plus」エコジッパーに至るまで、あらゆる細部は厳選されており、環境と人間の優美な共生を描きます。",
+        "万能ポーチ：この小物入れは多用途にご利用いただけます。ガジェットポーチはもちろん、メイクポーチ、トラベルポーチとしても、日常や仕事での使用など、さまざまな用途に適しています。自立できる洗練された仕様で、中身を見渡しやすく取り出しやすいのも魅力。外寸：21 x 13 x 8 cm。"
+      ],
+      "maker": "tomtoc",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 504,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0DKT6J7PQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:10:06+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DG5M7D1G",
+      "title": "tomtoc ふわふわ ガジェットポーチ 小物入れ トラベルポーチ 軽量 キルティング バッグ 可愛い レディース 化粧ポーチ 旅行便利グッズ",
+      "url": "https://www.amazon.co.jp/dp/B0DG5M7D1G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DG5M7D1G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61RRVHbx4CL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Terraシリーズのエレガンス：リサイクル素材を使用したTerra-A27ポータブルポーチは、サステナブルでありながら洗練されたエレガントなデザインが特徴です。無駄のないシンプルなラインとスリムなフォルムが、モダンで上品な美しさを引き立てます。ソフトな質感とスタイリッシュなデザインが特徴で、ファッションと環境への配慮を大切にする女性へのギフトとしても最適です。",
+        "スマートな収納設計：内装にポケットを複数装備していて、充電器、スマホや化粧品、旅行グッズ、DJI Osmo Pocket 3など、日常の必需品をすっきり収納できます。メッシュポケットや他の小ポケットを配し、小物もまとめて収納可能。日用品から旅行の必需品まで簡単に整理整頓でき、サッと取り出せるため、普段使いや旅行にもぴったりです。",
+        "軽量でふんわりとした質感：ふんわりとしたソフトな手触りが心地よく、軽量設計でどこへでも手軽に持ち運べます。自宅からオフィス、さらには外出先まで、このポーチは利便性と保護機能を兼ね備え、触れるたびに楽しさをもたらします。",
+        "持続可能性を求める：100％再生素材を採用したこのポーチは、耐久性と環境への配慮が両立し、人間と自然が共生する世界へ取り組んでいきます。リサイクルして作られたナイロンの外装から、信頼できるYKK製「NATULON Plus」エコジッパーに至るまで、あらゆる細部は厳選されており、環境と人間の優美な共生を描きます。",
+        "万能ポーチ：この小物入れは多用途にご利用いただけます。ガジェットポーチはもちろん、メイクポーチ、トラベルポーチとしても、日常や仕事での使用など、さまざまな用途に適しています。自立可能な仕様で、中身を見渡しやすく取り出しやすいのも魅力。外寸：21 x 13 x 8 cm。"
+      ],
+      "maker": "tomtoc",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 504,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0DKT6J7PQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:10:16+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F1Y89996",
+      "title": "tomtoc ガジェットポーチ Tech Pouch 自立 軽量 YKKファスナー採用 EDCポーチ トラベルポーチ",
+      "url": "https://www.amazon.co.jp/dp/B0F1Y89996?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F1Y89996?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71lZMwyAXjL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【ポーチ1つで全てを】Light-T12 ポータブルガジェットポーチは、日々や旅行の必需品をまとめてすっきり収納するソリューションを提供します。さまざまな小物を散らかりや紛失なしに、いつでも手が届き、整頓された状態をキープ。すべて一つの場所にまとめて、素早く持ち物をまとめて出かけたいときに活躍し、すっきり持ち運ぶことができます。外形寸法：23.5×12×6.5cm。",
+        "【整頓しやすい構造】小物をすっきり収納できるように、程よい数のポケットを配置しました。自宅でも外出先でも、ハイテクガジェットはもちろん、個人アイテムやモバイルアクセサリーなどの必需品をいつでも手の届く場所にきちんと収まります。",
+        "【万能ポーチ】この小物入れは多用途にご利用いただけます。ハイテクガジェットをたくさん持ち運ぶ方々だけではなく、DJI Osmo Pocket 3、鍵、リップクリーム、イヤホン、ミントタブレットなどごちゃごちゃしがちな身の回り品もすっきり収納してます。仕事に向かうときでも、旅行に行くときでも、いつでもどこでも、迷わず取り出します。",
+        "【環境にやさしい】YKKファスナー、再生素材のPET 600Dポリエステルを使用したこのバッグは、美しさや耐久性、機能性を重視していることだけではなく、品質や地球を守ることにも全力で取り組んでいます。",
+        "【持ち運びやすい便利グッズ】複数のバッグポケットにバラバラに収納された小物アイテムを探す邪魔を軽減させるために設計したこのガジェットケースは、リュックサック、トートバッグ、スーツケースの中に入れて持ち運ぶこともできます。自立できる洗練された仕様で、中身を見渡しやすく取り出しやすいのも魅力。"
+      ],
+      "maker": "tomtoc",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 2668,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0F18BF9VZ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:10:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0F59QZWSN",
+      "title": "ガジェットポーチ 大容量 自立 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ 便利グッズ 撥水 旅行・日常用 超軽量 コンパクト ギフト (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0F59QZWSN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0F59QZWSN?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81MU923Tg3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "🔔【すっきり収納で全てを一元化】 このガジェットポーチは、日々の必需品から旅行の小物までを一つの収納ポーチにまとめる理想的な小物入れです。スマホ、イヤホン、充電ケーブル、鍵、リップクリームなど、散らかりがちなアイテムをカテゴリ別に整理。自宅やオフィスでのデスク収納はもちろん、出張やレジャー時のトラベルポーチとしても活躍し、紛失リスクを最小化しながら素早い出発を実現します。",
+        "【軽量設計で携帯に最適】 重量わずか85gの超軽量素材を採用したこのポーチは、リュックサックやスーツケースに追加しても負担ゼロ。通勤ラッシュや空港移動時でも疲れ知らずの携帯性を誇り、旅行中の荷物増加を気にせずガジェットを持ち運べます。コンパクトサイズ（23×13×6cm）ながら大容量を実現し、収納ポーチとしての機能性と軽量性が、多忙な現代人のライフスタイルに最適です。",
+        "【自立型でアクセス簡単】 底面が平らな自立設計。テーブルやデスクに置けば中身を一目で確認でき、必要なガジェットを迷わず取り出せます。内部に大小複数のポケットを配置し、精密ガジェットから鍵や薬ケースまで、サイズ別に固定収納。移動中の振動でも中身が散乱せず、トラベルポーチとしての機能を最大化します。",
+        "【高耐久ファスナー採用】 スムーズな開閉と抜群の耐久性を実現する高品質ファスナーを採用。頻繁な使用でも詰まりや破損の心配がありません。シンプルで洗練された5色展開。小物入れ ポーチはハンドル付きで機内持ち込みやスーツケース内のパッキングオーガナイザーとして重宝！",
+        "【いろいろなシーンで活用】収納ポーチの本質を追求し、時間短縮とストレス軽減を実現。ビジネス出張からレジャー旅行まで、また通勤時のバッグ整理にも。このガジェットポーチで、効率的でスタイリッシュな毎日を始めましょう。ギフトボックス付き、出張好きな方やガジェットマニアへのメンズポーチとして喜ばれます！"
+      ],
+      "maker": "Modiko",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 358,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0HFHWMHN9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:10:35+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H2F6R341",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー USB ハブなどの収納 レイヤー構造 スプラッシュ防止素材 保護ケース 収納バッグ 小物入れ 出張/旅行用 撥水素材 ブルー Mサイズ（24cm x 13cm x 7cm）",
+      "url": "https://www.amazon.co.jp/dp/B0H2F6R341?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H2F6R341?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81E6gLIwsOL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【Mサイズ超大容量収納ポーチ】UGREEN小物用収納ポーチは、外形寸法は24cm x 13cm x 7cmで、充電ケーブル、モバイルバッテリー、充電器、ワイヤレスイヤホン、マウス、ポケットWiFiなど、どのようなガジェットも分類して固定収納可能です。外出や旅行及び自宅保管に最適なバッグです。",
+        "【レイヤー構造】内部のレイヤー構造の区切りでさまざまな工具やモバイルバッテリー、充電ケーブル、イヤホーンコード等の周辺小物を分類するものを固定収納可能、オープンの際に収納品が一目で分かる。なお、ジッパー付きのインナーポケットがSDカードなどの小物をしっかり保管できます。",
+        "【持ち運びに便利】手提げのデザインで、持ち歩きに最適、そして、高品質なプレミアムYKKジッパー付きで、この収納バッグはしっかりガジェットを保管し、紛失することはいない。自宅・出張・旅行時の保管・収納に実用的なバッグです。プレゼントとしても良いです。",
+        "【スプラッシュ防止素材】本体の外側がスプラッシュ防止素材を採用し、衝撃、擦り傷や水を一定の程度で防ぎことで、小物やガジェットを保護できます。万が一の落下しても、大切な物を優しく守ってくれます。",
+        "【24ヶ月の保証期間】当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "maker": "Ugreen",
+      "query": "dg_20261103_gadget_pouch",
+      "queries_matched": [
+        "dg_20261103_gadget_pouch"
+      ],
+      "review_count": 1247,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0HDCXWTL9",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:10:43+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:gadget_pouch"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "explicit-ASIN export前に同type・active・tier<=3・resolved/no_parentをread-only照合。テーマの狭い構造は商品名で追加監査しattrタグを推測して掛けていない"
+  },
+  "date": "2026-11-03",
+  "planning_status": "historical_candidates_require_refresh",
+  "scope_conditions": {
+    "type_tag": "type:gadget_pouch",
+    "title_scope": "PC accessory pouch",
+    "exclude_used_since": "2026-10-04",
+    "parent_gate_audited": true
+  },
+  "measurement_checkpointed_at": "2026-10-10T10:10:43+09:00"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "asin": "B087RLYJNP",
+    "parent_asin": "B088FRNVF9",
+    "retained_candidate": "B07XFVCW1S",
+    "reason": "同じ親の商品色・サイズ等のバリエーション。候補を1件にまとめて機械再選抜"
+  },
+  {
+    "asin": "B087RLFP3C",
+    "parent_asin": "B088FRNVF9",
+    "retained_candidate": "B07XFVCW1S",
+    "reason": "同じ親の商品色・サイズ等のバリエーション。候補を1件にまとめて機械再選抜"
+  },
+  {
+    "asin": "B0DQ5XKH9Y",
+    "parent_asin": "B0F18BF9VZ",
+    "retained_candidate": "B0CY57DPW5",
+    "reason": "同じ親の商品色・サイズ等のバリエーション。候補を1件にまとめて機械再選抜"
+  },
+  {
+    "asin": "B09MPR36JM",
+    "parent_asin": "B0F18BF9VZ",
+    "retained_candidate": "B0CY57DPW5",
+    "reason": "同じ親の商品色・サイズ等のバリエーション。候補を1件にまとめて機械再選抜"
+  },
+  {
+    "asin": "B0F1Y89996",
+    "parent_asin": "B0F18BF9VZ",
+    "retained_candidate": "B0CY57DPW5",
+    "reason": "同じ親の商品色・サイズ等のバリエーション。候補を1件にまとめて機械再選抜"
+  },
+  {
+    "asin": "B0843RKFPJ",
+    "parent_asin": "B0843SLFT1",
+    "retained_candidate": "B0843QXWWZ",
+    "reason": "同じ親の商品色・サイズ等のバリエーション。候補を1件にまとめて機械再選抜"
+  },
+  {
+    "asin": "B0843WY8RR",
+    "parent_asin": "B0843SLFT1",
+    "retained_candidate": "B0843QXWWZ",
+    "reason": "同じ親の商品色・サイズ等のバリエーション。候補を1件にまとめて機械再選抜"
+  },
+  {
+    "asin": "B0CCP69CWW",
+    "parent_asin": "B0BR5Y9L32",
+    "retained_candidate": "B0BMTRNQ43",
+    "reason": "同じ親の商品色・サイズ等のバリエーション。候補を1件にまとめて機械再選抜"
+  },
+  {
+    "asin": "B0BTLQJ9JB",
+    "parent_asin": "B0BVQS68V8",
+    "retained_candidate": "B0BTLQ58Q2",
+    "reason": "同じ親の商品色・サイズ等のバリエーション。候補を1件にまとめて機械再選抜"
+  },
+  {
+    "asin": "B0DG5M7D1G",
+    "parent_asin": "B0DKT6J7PQ",
+    "retained_candidate": "B0DG58QXH3",
+    "reason": "同じ親の商品色・サイズ等のバリエーション。候補を1件にまとめて機械再選抜"
+  }
+]

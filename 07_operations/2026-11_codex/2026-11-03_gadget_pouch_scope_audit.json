@@ -1,0 +1,622 @@
+{
+  "date": "2026-11-03",
+  "topic_id": "daily_gadget_20261103_164160ad",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 27,
+  "parent_groups": {
+    "B09N67BXGW": [
+      "B00TK35ES6"
+    ],
+    "B0BW4221S1": [
+      "B01HE6L6BY"
+    ],
+    "B07CQ1PTGH": [
+      "B07CQ1PTGH"
+    ],
+    "B07NPJDH22": [
+      "B07NPJDH22"
+    ],
+    "B0FY2TXK3B": [
+      "B07Q9K2QHV"
+    ],
+    "B07SYFR7NM": [
+      "B07SYFWYBW"
+    ],
+    "B088FRNVF9": [
+      "B07XFVCW1S",
+      "B087RLFP3C",
+      "B087RLYJNP"
+    ],
+    "B0843SLFT1": [
+      "B0843QXWWZ",
+      "B0843RKFPJ",
+      "B0843WY8RR"
+    ],
+    "B09N6GB1RQ": [
+      "B08DCYD9LD"
+    ],
+    "B0HB3XKV23": [
+      "B08L35V3R5"
+    ],
+    "B0F18BF9VZ": [
+      "B09MPR36JM",
+      "B0CY57DPW5",
+      "B0DQ5XKH9Y",
+      "B0F1Y89996"
+    ],
+    "B0BR5Y9L32": [
+      "B0BMTRNQ43",
+      "B0CCP69CWW"
+    ],
+    "B0BVQS68V8": [
+      "B0BTLQ58Q2",
+      "B0BTLQJ9JB"
+    ],
+    "B0D8TJJGNJ": [
+      "B0D8TJJGNJ"
+    ],
+    "B0DKT6J7PQ": [
+      "B0DG58QXH3",
+      "B0DG5M7D1G"
+    ],
+    "B0HFHWMHN9": [
+      "B0F59QZWSN"
+    ],
+    "B0HDCXWTL9": [
+      "B0H2F6R341"
+    ]
+  },
+  "variant_policy": "候補段階では色サイズ違いを残し親群を提示。採用は主担当の最新実測・機械選抜が決める。異なる型番が同一親なら再監査",
+  "rows": [
+    {
+      "asin": "B00TK35ES6",
+      "title": "エレコム ガジェットポーチ ガジェット ポーチ 収納ポーチ バッグインバッグ スリムタイプ Sサイズ ブラック BMA-GP01BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "エレコム(ELECOM)",
+      "tier_history": 2,
+      "parent_asin": "B09N67BXGW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B01HE6L6BY",
+      "title": "サンワダイレクト ガジェットポーチ 旅行 出張 便利グッズ 収納ポーチ グレー 200-BAGIN005GY",
+      "maker": "サンワサプライ",
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "maker_verified_live": false,
+      "db_brand": "サンワダイレクト",
+      "tier_history": 1,
+      "parent_asin": "B0BW4221S1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-09-07",
+      "dg_use_history": [
+        {
+          "published_date": "2026-09-07",
+          "title": "出張の荷物を最適化。ポーチから「モバイルバッテリー」まで 5 選",
+          "asin": "B01HE6L6BY"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07CQ1PTGH",
+      "title": "エレコム ガジェットポーチ ガジェット ポーチ 大容量 CORDURA1000 (撥水 高耐久) 6つの仕切りポケット付き ブラック BMA-CDGP01BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "エレコム(ELECOM)",
+      "tier_history": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07NPJDH22",
+      "title": "エレコム ガジェットポーチ ガジェット ポーチ バッグインバッグ UBシリーズ 撥水加工 300D高密度ポリエステル ブラック BMA-UBGP01BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "ELECOM",
+      "tier_history": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07Q9K2QHV",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース トラベルポーチ 充電器ケーブルUSBハブなどの収納ポーチ 保護ケース 小物入れ 出張/旅行用 防水 グレー",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "UGREEN",
+      "tier_history": 1,
+      "parent_asin": "B0FY2TXK3B",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07SYFWYBW",
+      "title": "サンワダイレクト ガジェットポーチ 薄型 旅行 出張 便利グッズ 収納ポーチ Mサイズ ネイビー 200-BAGIN013NV",
+      "maker": "サンワサプライ",
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "maker_verified_live": false,
+      "db_brand": "サンワダイレクト",
+      "tier_history": 1,
+      "parent_asin": "B07SYFR7NM",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07XFVCW1S",
+      "title": "エレコム トラベルポーチ ガジェットポーチ ガジェット ポーチ バックインバック 旅行 出張 収納 小物入れ グレー BMA-F01XGY",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "ELECOM",
+      "tier_history": 1,
+      "parent_asin": "B088FRNVF9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0843QXWWZ",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 旅行 出張 便利グッズ マウス ケーブル モバイルバッテリー 収納ポーチ トラベルポーチ Sサイズ ブラック 200-BAGIN014BK",
+      "maker": "サンワサプライ",
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "maker_verified_live": false,
+      "db_brand": "サンワダイレクト",
+      "tier_history": 1,
+      "parent_asin": "B0843SLFT1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0843RKFPJ",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 旅行 出張 便利グッズ マウス ケーブル モバイルバッテリー 収納ポーチ トラベルポーチ Lサイズ ブラック 200-BAGIN016BK",
+      "maker": "サンワサプライ",
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "maker_verified_live": false,
+      "db_brand": "サンワダイレクト",
+      "tier_history": 1,
+      "parent_asin": "B0843SLFT1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0843WY8RR",
+      "title": "サンワダイレクト ガジェットポーチ セミハード 仕切り付 マウス ケーブル モバイルバッテリー Mサイズ ブラック 200-BAGIN015BK",
+      "maker": "サンワサプライ",
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "maker_verified_live": false,
+      "db_brand": "サンワサプライ",
+      "tier_history": 1,
+      "parent_asin": "B0843SLFT1",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B087RLFP3C",
+      "title": "エレコム トラベルポーチ ガジェットポーチ ガジェット ポーチ バックインバック 旅行 出張 収納 小物入れ ブラック BMA-F01XBK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "エレコム(ELECOM)",
+      "tier_history": 1,
+      "parent_asin": "B088FRNVF9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B087RLYJNP",
+      "title": "エレコム トラベルポーチ ガジェットポーチ ガジェット ポーチ バックインバック 旅行 出張 収納 小物入れ ネイビー BMA-F01XNV",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "エレコム",
+      "tier_history": 1,
+      "parent_asin": "B088FRNVF9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08DCYD9LD",
+      "title": "エレコム ガジェットポーチ 大容量 自立型 旅行 出張 テレワーク オーガナイズポーチ ブラック BMA-GP14BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "ELECOM",
+      "tier_history": 1,
+      "parent_asin": "B09N6GB1RQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-12",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-12",
+          "title": "デジタルノマドの装備。ポーチの中身「2026 夏」 7 選",
+          "asin": "B08DCYD9LD"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08L35V3R5",
+      "title": "[ aso ] TOFTPOUCH (タフトポーチ) 耐水ポーチ ガジェットポーチ 日本製 約150×110×10[mm] コンパクト ポーチ 小型 バッグインバッグ (Mサイズ センターファスナー ブラック)",
+      "maker": "aso",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "aso",
+      "tier_history": 1,
+      "parent_asin": "B0HB3XKV23",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B09MPR36JM",
+      "title": "tomtoc ガジェットポーチ Tech Pouch 自立 軽量 YKKファスナー採用 EDCポーチ トラベルポーチ",
+      "maker": "tomtoc",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "tomtoc",
+      "tier_history": 1,
+      "parent_asin": "B0F18BF9VZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-03",
+          "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+          "asin": "B0CY57DPW5"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BMTRNQ43",
+      "title": "tomtoc ガジェットポーチ アクセサリーバッグ 大容量 MacBookアダプター対応 PC周辺収納 万能バッグ 撥水加工 旅行 出張 通勤",
+      "maker": "tomtoc",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "tomtoc",
+      "tier_history": 1,
+      "parent_asin": "B0BR5Y9L32",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BTLQ58Q2",
+      "title": "サンワサプライ(Sanwa Supply) トラベルポーチ ガジェットポーチ 小物収納 (W215×D115×H60mm) ブラック IN-AD9BK",
+      "maker": "サンワサプライ",
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "maker_verified_live": false,
+      "db_brand": "サンワサプライ",
+      "tier_history": 3,
+      "parent_asin": "B0BVQS68V8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BTLQJ9JB",
+      "title": "サンワサプライ(Sanwa Supply) トラベルポーチ ガジェットポーチ 小物収納 (W255×D97×H60mm) ブラック IN-AD10BK",
+      "maker": "サンワサプライ",
+      "maker_source": "accounts/ensei_jitaku/06_research/_candidates/november_05_gadget_pouch_scoped.json: maker_normalization_source https://direct.sanwa.co.jp/contents/information/company.html（既存公式確認記録）",
+      "maker_verified_live": false,
+      "db_brand": "サンワサプライ",
+      "tier_history": 3,
+      "parent_asin": "B0BVQS68V8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CCP69CWW",
+      "title": "tomtoc ガジェットポーチ 撥水加工 PC周辺小物用収納ポーチ トラベルポーチ 小物入れ 出張 旅行 お出掛け 便利グッズ 軽量 ブラック",
+      "maker": "tomtoc",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "tomtoc",
+      "tier_history": 1,
+      "parent_asin": "B0BR5Y9L32",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0CY57DPW5",
+      "title": "tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテリー マウス収納 出張 お出掛け オフィス 旅行 便利グッズ バックインバッグ 二層 自立 撥水 軽量 ブラック",
+      "maker": "tomtoc",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "tomtoc",
+      "tier_history": 1,
+      "parent_asin": "B0F18BF9VZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-03",
+          "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+          "asin": "B0CY57DPW5"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D5CPC9D2",
+      "title": "[MARK RYDEN] [マークライデン] トラベルポーチ 吊り下げ メンズ トイレタリーバッグ 乾湿分離 ガジェットポーチ 小物入れ ケース 出張 収納 旅行 便利グッズ（黒）",
+      "maker": "MARK",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "MARK RYDEN",
+      "tier_history": 3,
+      "parent_asin": "B0D7LHF5TF",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": "洗面用品用の吊り下げポーチ。PC小物用収納と用途が異なる",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0D8TJJGNJ",
+      "title": "Anker Smart Pouch Supported by KOKUYO コンパクトポーチ トラベルガジェットポーチ ガジェットポーチ バック 旅行 出張 収納 小物入れCompact",
+      "maker": "Anker",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Anker",
+      "tier_history": 1,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DG58QXH3",
+      "title": "tomtoc ふわふわ ガジェットポーチ 小物入れ トラベルポーチ 軽量 キルティング バッグ 可愛い レディース 化粧ポーチ 旅行便利グッズ",
+      "maker": "tomtoc",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "tomtoc",
+      "tier_history": 1,
+      "parent_asin": "B0DKT6J7PQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DG5M7D1G",
+      "title": "tomtoc ふわふわ ガジェットポーチ 小物入れ トラベルポーチ 軽量 キルティング バッグ 可愛い レディース 化粧ポーチ 旅行便利グッズ",
+      "maker": "tomtoc",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "tomtoc",
+      "tier_history": 1,
+      "parent_asin": "B0DKT6J7PQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DQ5XKH9Y",
+      "title": "tomtoc ガジェットポーチ 大容量 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ ケース ケーブル アダプタ モバイルバッテリー マウス収納 出張 お出掛け オフィス 旅行 便利グッズ",
+      "maker": "tomtoc",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "tomtoc",
+      "tier_history": 1,
+      "parent_asin": "B0F18BF9VZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-03",
+          "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+          "asin": "B0CY57DPW5"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F1Y89996",
+      "title": "tomtoc ガジェットポーチ Tech Pouch 自立 軽量 YKKファスナー採用 EDCポーチ トラベルポーチ",
+      "maker": "tomtoc",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "tomtoc",
+      "tier_history": 1,
+      "parent_asin": "B0F18BF9VZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-03",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-03",
+          "title": "ポーチの中身を公開。ケーブルから充電器まで厳選 7 選",
+          "asin": "B0CY57DPW5"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0F59QZWSN",
+      "title": "ガジェットポーチ 大容量 自立 トラベルポーチ PC周辺小物収納ポーチ 小物入れ バッグ 便利グッズ 撥水 旅行・日常用 超軽量 コンパクト ギフト (ブラック)",
+      "maker": "Modiko",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "Modiko",
+      "tier_history": 2,
+      "parent_asin": "B0HFHWMHN9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0H2F6R341",
+      "title": "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー USB ハブなどの収納 レイヤー構造 スプラッシュ防止素材 保護ケース 収納バッグ 小物入れ 出張/旅行用 撥水素材 ブルー Mサイズ（24cm x 13cm x 7cm）",
+      "maker": "Ugreen",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "UGREEN",
+      "tier_history": 1,
+      "parent_asin": "B0HDCXWTL9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-04",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B0D5CPC9D2",
+      "title": "[MARK RYDEN] [マークライデン] トラベルポーチ 吊り下げ メンズ トイレタリーバッグ 乾湿分離 ガジェットポーチ 小物入れ ケース 出張 収納 旅行 便利グッズ（黒）",
+      "reason": "洗面用品用の吊り下げポーチ。PC小物用収納と用途が異なる"
+    }
+  ],
+  "note": "全て履歴値。メーカー正規化はローカル根拠であり公式ライブ再確認は未実施。",
+  "manufacturer_gate_note": "名称は販促文字列を排除して正規化。Nature/Nature Remo、SwitchBot表記、サンワダイレクト/サンワサプライは同一メーカーとして扱う。未確認メーカー品は除外。候補であり選抜結果ではない"
+}
