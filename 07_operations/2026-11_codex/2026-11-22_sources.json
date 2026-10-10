@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-22",
+  "checked_at": "2026-10-10",
+  "products": [
+    {
+      "asin": "B00CD8AFFW",
+      "name": "Amazonベーシック ノートPCスリーブ 14インチ",
+      "source": "https://www.amazon.com/dp/B00CD8AFFW",
+      "points": [
+        "上側の開口部からPCを出し入れできる。",
+        "薄いスリーブとしてバッグに入れられる。",
+        "同ASINの内寸を確認して選べる。"
+      ],
+      "specs": [
+        "対象サイズ目安：14インチ（実寸の確認が必要）",
+        "内寸：13.9×0.6×10.4インチ",
+        "素材：ネオプレン",
+        "開閉：上部ファスナー",
+        "色：ブラック"
+      ],
+      "body": "PC本体を包み、普段のバッグに入れて持ち歩きたい人向けの候補です。上側の開口部から出し入れするスリーブで、必要な小物は別に分ける使い方に向きます。14インチという表記だけで判断せず、PCの長さと厚さを内寸に照合して選びたい構成。",
+      "cautions": [
+        "メーカーAmazon自身の同ASIN米国商品説明と国内実測featuresの内寸13.9×0.6×10.4inchが一致。国内メーカー表示素材ネオプレンを参照。最終GUI同ASIN証跡は親入稿時。外寸と内寸を混同しない。撥水防水は記事へ付けない。"
+      ],
+      "official_confirmation": "confirmed_manufacturer_own_listing"
+    },
+    {
+      "asin": "B06XXB9G8G",
+      "name": "tomtoc Defender-A13 14インチMacBook Pro用",
+      "source": "https://jp.tomtoc.com/products/360-プロテクティブスリーブ-14インチ-macbook-pro-m4",
+      "points": [
+        "四隅のクッションと周囲のパッドを備える。",
+        "前面ポケットで小物を分けられる。",
+        "対応するMacBook Proの型番が案内されている。"
+      ],
+      "specs": [
+        "シリーズ：Defender-A13",
+        "収納対象：14インチMacBook Pro（対応型番の確認が必要）",
+        "構造：CornerArmor・高反発エッジ・ソフトパッド",
+        "小物収納：前面ポケット",
+        "開閉：YKKファスナー"
+      ],
+      "body": "対応する14インチMacBook Proを持ち歩き、周辺小物も分けたい人向けの候補です。四隅のCornerArmorと周囲のパッドに加え、前面ポケットを備えます。すべての14インチPCに合うと考えず、手持ちのPCや装着したカバーの寸法、対応型番を確認して選びたいモデルです。",
+      "cautions": [
+        "国内公式A13D2D1/14MacPro用途と構造確認。公式内寸12.31×8.71×0.61inchと同ASIN国内314×223×22mmに差があり数値寸法を本文に使わない。軍用試験や完全保護を保証しない。素材撥水は完全防水としない。"
+      ],
+      "official_confirmation": "confirmed_optional_dimensions_omitted"
+    },
+    {
+      "asin": "B0F23BX5NB",
+      "name": "エレコム ZEROSHOCK ZSB-IBPRLU14BK",
+      "source": "https://www.elecom.co.jp/products/ZSB-IBPRLU14BK.html",
+      "points": [
+        "PC収納部に低反発フォームを備える。",
+        "内側のポケットで周辺機器を整理できる。",
+        "ハンドル付きで持ち運べる。"
+      ],
+      "specs": [
+        "参考収納内寸：幅325×奥行20×高さ230mm",
+        "外寸：幅345×奥行50×高さ250mm（ハンドル除く）",
+        "素材：ポリエステル・ポリウレタン",
+        "重量：約420g",
+        "表生地：撥水加工（完全防水ではない）"
+      ],
+      "body": "PCとマウスやケーブルを、ひとつのケースで整理したい人向けに選びました。内側のポケットとハンドルを備え、収納部には低反発フォームを使っています。参考内寸より小さい端末でも形状によって合わない場合があるため、実物のサイズと収納したい小物を確認して検討したい構成。",
+      "cautions": [
+        "公式内寸最大対応端末サイズと形状例外あり。樹脂コート別型ZSB-IBPRVL14BKを混同しない。撥水は内部侵入を完全に防がない。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B0FLQ33529",
+      "name": "エレコム BM-IBTHNPV14BK",
+      "source": "https://www.elecom.co.jp/products/BM-IBTHNPV14BK.html",
+      "points": [
+        "ファスナー無しでPCを出し入れできる。",
+        "ポケットを省いたスリーブ構造。",
+        "伸縮性とクッション性のある素材を採用。"
+      ],
+      "specs": [
+        "参考収納内寸：幅230×奥行14×高さ325mm",
+        "外寸：幅252×奥行16×高さ354mm",
+        "素材：ポリエステル・クロロプレンゴム",
+        "重量：約180g",
+        "開閉：ファスナーレス・フタ構造"
+      ],
+      "body": "PCだけを包み、バッグへ入れるケースを探している人向けの候補です。ポケットを省き、フタを開いて出し入れするスリップイン方式を採用しています。14インチまでの案内でも本体の厚さや形を照合し、撥水加工を完全防水と考えずに使いたいモデルです。",
+      "cautions": [
+        "同型公式収納230×14×325mmと外252×16×354mmを区別。ポケット無し。ファスナーレスだがフタ構造あり。撥水は完全防水ではない。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B0D33FB2GW",
+      "name": "ベルモンド ふわサラ2way B1072 14インチ",
+      "source": "https://item.rakuten.co.jp/mobile123/b1072pcbg/",
+      "points": [
+        "持ち手を収納してスリーブとして使える。",
+        "PCと小物の収納を分けられる。",
+        "内側に柔らかなクッション生地を備える。"
+      ],
+      "specs": [
+        "PCポケット内寸：約幅36.5×高さ27cm",
+        "外寸：約幅39.5×高さ28.5cm",
+        "本体厚さ：約3cm（PC収納厚さではない）",
+        "重量：約290g",
+        "表生地：撥水（防水ではない）"
+      ],
+      "body": "手で持つ日とバッグに入れる日で、持ち方を変えたい人向けに選びました。持ち手を収納でき、PC用と小物用のポケットを備える2wayタイプです。寸法には誤差があり、PC本体が厚い場合は大きいサイズが推奨されるため、収納の余裕まで見て選びたい一台です。",
+      "cautions": [
+        "メーカー公式B1072同14ブルーと寸法一致。測定1〜2cm誤差、PC厚2cm超は上サイズ推奨、内寸PCサイズ＋1cm推奨。本体厚3cmをPC内寸厚さとしない。撥水で防水ではない。"
+      ],
+      "official_confirmation": "confirmed"
+    },
+    {
+      "asin": "B0D33JGH4G",
+      "name": "ベルモンド ふわサラ超薄型 B1071 14インチ",
+      "source": "https://item.rakuten.co.jp/mobile123/b1071pcbg/",
+      "points": [
+        "薄いケースとしてバッグへ入れられる。",
+        "前面ファスナーポケットで小物を分けられる。",
+        "PC収納部に柔らかな生地を使っている。"
+      ],
+      "specs": [
+        "PCポケット内寸：約幅36.5×高さ26cm",
+        "外寸：約幅38×高さ27.5cm",
+        "本体厚さ：約2.5cm（PC収納厚さではない）",
+        "重量：約205g",
+        "表生地：撥水（防水ではない）"
+      ],
+      "body": "PCを包んでバッグに収め、小物も少し分けたい人向けの候補です。前面ファスナーポケットを備える超薄型タイプで、持ち手付きのB1072とは寸法や構造が異なります。PC本体の厚さと収納の余裕を確認し、バッグの中で使うケースとして検討してみてください。",
+      "cautions": [
+        "同ASINtitle/featuresの2way/持ち手収納/4ポケットはB1072の混入と見られる。B1071公式超薄型14寸外38×27.5/内36.5×26/厚2.5/205gが実測featuresと一致、同型回復。2way/持ち手/4ポケットは記事不使用。測定1〜2cm誤差/PC厚2cm超上サイズ推奨/撥水防水区別。"
+      ],
+      "official_confirmation": "confirmed_conflicting_listing_copy_excluded"
+    }
+  ],
+  "selection_preserved": true,
+  "jev": "not_used_no_review_analysis",
+  "related_public_evidence": [
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n5ae5865b8f47_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_n09d55fbb8dc4_live.html",
+    "/Users/shoheishimizu/Knowledge/note/shared/operations/2026-10-10_related_format/daily_gadget_nc8ed3beb4597_live.html"
+  ],
+  "related_metadata_sources": [
+    "02_article/2026-05/_metadata.json",
+    "02_article/2026-09/_metadata.json",
+    "02_article/2026-08/_metadata.json"
+  ],
+  "manufacturer_own_listing_evidence": {
+    "asin": "B00CD8AFFW",
+    "source": "https://www.amazon.com/dp/B00CD8AFFW",
+    "domestic_candidate_source": "07_operations/2026-11_codex/2026-11-22_laptop_case_candidates.json",
+    "matched_internal_dimensions": "13.9×0.6×10.4インチ",
+    "final_gui_evidence": "pending_parent_publishing_same_asin_check"
+  },
+  "optional_specs_omitted": [
+    "tomtoc公式内寸12.31×8.71×0.61inchとAmazon国内314×223×22mmに差があるため寸法数値は本文不使用",
+    "素材加工から完全防水/衝撃破損防止を保証しない"
+  ],
+  "listing_conflict_resolution": {
+    "B0D33JGH4G": {
+      "official_model": "B1071超薄型14寸",
+      "source": "https://item.rakuten.co.jp/mobile123/b1071pcbg/",
+      "dimensions_match": true,
+      "excluded_copy": [
+        "2way",
+        "持ち手収納",
+        "4つポケット"
+      ],
+      "distinct_from_B1072": true
+    }
+  }
+}

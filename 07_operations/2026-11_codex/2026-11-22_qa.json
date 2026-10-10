@@ -1,0 +1,23 @@
+{
+  "article": "02_article/2026-11/2026-11-22_持ち運ぶPCを守る。「ノートPCケース」6選.md",
+  "title_length": 22,
+  "checks": {
+    "six_products": true,
+    "selected_urls_order": true,
+    "two_intro_paragraphs": true,
+    "six_spec_quotes": true,
+    "no_placeholder": true,
+    "no_reviews_prices_claims": true,
+    "related_urls_only": true,
+    "no_new_sections_or_tables": true,
+    "paragraphs_under_200": true,
+    "research_title_sync": true
+  },
+  "official_gate_passed": true,
+  "saved_preview": "pending_main_publisher",
+  "unresolved_specs": [],
+  "publishing_gate": {
+    "status": "pending_parent",
+    "required_check": "AmazonBasics B00CD8AFFW 最終GUI同ASIN商品仕様証跡＋note保存プレビュー"
+  }
+}

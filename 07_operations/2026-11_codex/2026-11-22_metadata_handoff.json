@@ -1,0 +1,33 @@
+{
+  "published_date": "2026-11-22",
+  "filename": "2026-11-22_持ち運ぶPCを守る。「ノートPCケース」6選.md",
+  "title": "持ち運ぶPCを守る。「ノートPCケース」6選",
+  "category": "モバイル・電源・周辺機器",
+  "tags": "おすすめガジェット ノートPCケース PCバッグ 通勤 収納",
+  "product_count": 6,
+  "product_asins": [
+    "B00CD8AFFW",
+    "B06XXB9G8G",
+    "B0F23BX5NB",
+    "B0FLQ33529",
+    "B0D33FB2GW",
+    "B0D33JGH4G"
+  ],
+  "related_urls": [
+    "https://note.com/daily_gadget/n/n5ae5865b8f47",
+    "https://note.com/daily_gadget/n/n09d55fbb8dc4",
+    "https://note.com/daily_gadget/n/nc8ed3beb4597"
+  ],
+  "research_file": "06_research/2026-11/2026-11-22_持ち運ぶPCを守る。「ノートPCケース」6選.md",
+  "status": "local_draft_qa_only",
+  "scheduled_time": "20:00 JST",
+  "unresolved_specs": [],
+  "integration_required": [
+    "monthly_metadata",
+    "schedule_ledger",
+    "shared_db",
+    "thumbnail",
+    "note_saved_preview",
+    "AmazonBasics_B00CD8AFFW_final_gui_same_asin_evidence"
+  ]
+}
