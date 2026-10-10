@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-13",
+  "recoveries": [
+    {
+      "asin": "B0DVBDHK5T",
+      "model": "BM-XBPSQ01BK",
+      "source": "https://www.elecom.co.jp/products/BM-XBPSQ01BK.html",
+      "verified": "同型番15.6インチPC内装ポケット",
+      "scope": "PCと小物を持ち歩く。薄型断定しない"
+    },
+    {
+      "asin": "B0BRZBN96C",
+      "model": "INCO100683-SIV",
+      "source": "https://incasejapan.com/products/a-r-c-commuter-pack-grey",
+      "verified": "同型番16インチMacBookPro向け収納。国内約23.7L/1.30kg、米国26Lを転用しない"
+    }
+  ]
+}

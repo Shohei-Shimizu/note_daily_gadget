@@ -1,0 +1,248 @@
+{
+  "generated_at": "2026-10-10T01:08:11+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261113_08ed1fc9",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261113_backpack"
+  ],
+  "fetched_count": 6,
+  "dedup_count": 6,
+  "candidates": [
+    {
+      "asin": "B07ST5HS7G",
+      "title": "[エースジーン] ビジネスリュック ガジェタブルCB 62363 15インチPC対応 セットアップ可能 ブラック",
+      "url": "https://www.amazon.co.jp/dp/B07ST5HS7G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07ST5HS7G?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/717kNpSrOML._AC_SY395_SX395_QL70_ML2_.jpg",
+      "features": [],
+      "maker": "ACE",
+      "query": "dg_20261113_backpack",
+      "queries_matched": [
+        "dg_20261113_backpack"
+      ],
+      "review_count": 270,
+      "star_rating": 4.4,
+      "stock_status": "out_of_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-23",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名エースジーン/既存DB ACE GENEとエース株式会社表記を同一メーカーとして統合（公式再確認待ち）",
+      "scope_pending": [],
+      "parent_asin": "B0FY5P2J69",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:24:36+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07H5RMC5Z",
+      "title": "[スーリー] リュック Thule Crossover 2 Backpack 20L ノートパソコン収納可 Dark Blue",
+      "url": "https://www.amazon.co.jp/dp/B07H5RMC5Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07H5RMC5Z?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/81W4fEqvYGL._AC_SY395_SX395_QL70_ML2_.jpg",
+      "features": [],
+      "maker": "THULE",
+      "query": "dg_20261113_backpack",
+      "queries_matched": [
+        "dg_20261113_backpack"
+      ],
+      "review_count": 322,
+      "star_rating": 4.5,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B07RGQJFD6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:24:43+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07HX6KWBR",
+      "title": "エレコム リュック ビジネスバッグ off toco(オフトコ) 15.6インチPC収納 A4対応 3WAY ハイグレード バックパック ブラック BM-OF02BK",
+      "url": "https://www.amazon.co.jp/dp/B07HX6KWBR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07HX6KWBR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71ULIOHO-bL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "休日に持ってでかけたくなる。 バックパック、メッセンジャーバッグ、ハンドバッグと、シーンに合わせて使い方を変えられる3WAY PCバックパック“off toco&#34;のハイグレードモデル。",
+        "外寸:幅310mm×奥行160mm×高さ465mm ※ハンドル・ショルダーベルト部含まず",
+        "参考収容寸法:バッグ本体内寸:幅285mm×奥行90mm×高さ445mm、PC収納部内寸:幅285mm×奥行30mm×高さ400mm、ボトル収納部内寸:幅105mm×奥行90mm×高さ255mm",
+        "ポケット数:上部収納スペース(内側:メッシュポケット×2、ファスナーポケット×2)、背面側収納口(内側:PC収納部×1、書類ポケット×1)、前面収納口×2、右側面収納口×1、左側面撥水収納口×1、背面ショルダー収納口×1、隠し背面ポケット×1、底面レインカバー収納口×1",
+        "材質:〔表面〕ポリエステル(撥水)、〔底面〕ハイパロンゴム(撥水)、〔裏面〕ポリエステル",
+        "重量:約1385g",
+        "付属品:レインカバー×1"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_20261113_backpack",
+      "queries_matched": [
+        "dg_20261113_backpack"
+      ],
+      "review_count": 365,
+      "star_rating": 4.4,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "scope_pending": [],
+      "parent_asin": "B096FG5V1V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:24:51+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DSZVQ6M1",
+      "title": "[エースジーン] ビジネスリュック ガジェタブルWR2 B4サイズ収納 15.6inchPC収納 19L No.68664",
+      "url": "https://www.amazon.co.jp/dp/B0DSZVQ6M1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DSZVQ6M1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71wLwubhPRL._AC_SY395_SX395_QL70_ML2_.jpg",
+      "features": [],
+      "maker": "ACE",
+      "query": "dg_20261113_backpack",
+      "queries_matched": [
+        "dg_20261113_backpack"
+      ],
+      "review_count": 54,
+      "star_rating": 4.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名エースジーン/既存DB ACE GENEとエース株式会社表記を同一メーカーとして統合（公式再確認待ち）",
+      "scope_pending": [],
+      "parent_asin": "B0DT449XR2",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:24:59+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DVBDHK5T",
+      "title": "エレコム バックパック リュックサック スクエア ～15.6インチ 撥水加工 大容量 19L ブラック BM-XBPSQ01BK",
+      "url": "https://www.amazon.co.jp/dp/B0DVBDHK5T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DVBDHK5T?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51zRvmCdj1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "大小さまざまなポケットを備えたスクエアバックパックです。",
+        "決まった場所に収納することで、かばんの中がごちゃつかず、必要なものをすぐに見つけられます。",
+        "前面にファスナーポケットがあり、スマートフォンなど頻繁に使う小物の収納に便利です。",
+        "15.6インチまでのノートパソコンやタブレットが収納できる、クッション内蔵の内装ポケットを備えています。移動中の揺れによる中の荷物との衝突を防ぎます。",
+        "前面ポケット内には、充電器などの小物を入れるのに便利な仕切りポケットが付いています。"
+      ],
+      "maker": "ELECOM",
+      "query": "dg_november_verified_recovery",
+      "queries_matched": [
+        "dg_november_verified_recovery"
+      ],
+      "review_count": 112,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-23",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "エレコム公式BM-XBPSQ01BK同一型番",
+      "scope_pending": [],
+      "parent_asin": "B0F2HNN2YK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:25:07+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0BRZBN96C",
+      "title": "[Incase] バックパック INCO100683-SIV A R C Commuter Pack-Smoked Ivy メンズ GREY Free Size 137222053002",
+      "url": "https://www.amazon.co.jp/dp/B0BRZBN96C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BRZBN96C?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61OEsGe9cXL._AC_SY395_SX395_QL70_ML2_.jpg",
+      "features": [],
+      "maker": "Incase",
+      "query": "dg_20261113_incase_recovery",
+      "queries_matched": [
+        "dg_20261113_incase_recovery"
+      ],
+      "review_count": 55,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": null,
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "国内公式INCO100683-SIV同型一致",
+      "scope_pending": [],
+      "official_source": "https://incasejapan.com/products/a-r-c-commuter-pack-grey",
+      "parent_asin": "B0BSGNN4YQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T11:28:53+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:backpack"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-13",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:backpack",
+    "theme": "PCと仕事道具を持ち運ぶ。ビジネスリュック",
+    "exclude_used_since": "2026-10-14",
+    "current_stock_verified": false
+  },
+  "pre_measure_exclusions": {
+    "B07N3WQ6H7": "独立公式同型未確定",
+    "B082VV36T8": "独立公式同型未確定"
+  },
+  "scope_recovery_note": "BM-XBPSQ01BK公式PC収納15.6インチ確認で保留解除。テーマはPC収納のビジネスリュック、薄型断定をしない。Incase公式同型16inchPC収納確認で追加補充。",
+  "measurement_checkpointed_at": "2026-10-10T11:28:53+09:00"
+}

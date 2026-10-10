@@ -1,0 +1,804 @@
+{
+  "date": "2026-11-13",
+  "topic_id": "daily_gadget_20261113_08ed1fc9",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 6,
+  "parent_groups": {
+    "B09HHQ9FLJ": [
+      "B07N3WQ6H7"
+    ],
+    "B0FX3VYBBN": [
+      "B082VV36T8"
+    ],
+    "B0FY5P2J69": [
+      "B07ST5HS7G"
+    ],
+    "B07RGQJFD6": [
+      "B07H5RMC5Z"
+    ],
+    "B096FG5V1V": [
+      "B07HX6KWBR"
+    ],
+    "B0DT449XR2": [
+      "B0DSZVQ6M1"
+    ]
+  },
+  "rows": [
+    {
+      "asin": "B01JHRVZP0",
+      "title": "[PHOENIX IKKI] 12L ミニ 軽量 広口開口仕様 耐久性 耐水性 選べる6色 迷彩柄 カジュアル リュックサック アウトドア バックパック かわいい デイパック ブラック",
+      "maker": "PHOENIX",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "PHOENIX IKKI",
+      "historical_tier": 2,
+      "parent_asin": "B07BV4LB7V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "PC収納対応をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07H5RMC5Z",
+      "title": "[スーリー] リュック Thule Crossover 2 Backpack 20L ノートパソコン収納可 Dark Blue",
+      "maker": "THULE",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "THULE(スーリー)",
+      "historical_tier": 2,
+      "parent_asin": "B07RGQJFD6",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-04-24",
+      "dg_use_history": [
+        {
+          "published_date": "2026-04-24",
+          "title": "出張をスマートに。ガジェット収納に最適な「多機能バックパック」 6 選",
+          "asin": "B07H5RMC5Z"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07HX6KWBR",
+      "title": "エレコム リュック ビジネスバッグ off toco(オフトコ) 15.6インチPC収納 A4対応 3WAY ハイグレード バックパック ブラック BM-OF02BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "エレコム(ELECOM)",
+      "historical_tier": 2,
+      "parent_asin": "B096FG5V1V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-10",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-10",
+          "title": "旅行から出張まで。ガジェットに強い「バックパック」 7 選",
+          "asin": "B07HX6KWBR"
+        },
+        {
+          "published_date": "2026-04-24",
+          "title": "出張をスマートに。ガジェット収納に最適な「多機能バックパック」 6 選",
+          "asin": "B07HX6KWBR"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07N3WQ6H7",
+      "title": "MATEIN 特大バックパック、17インチ旅行用ノートパソコンバックパック、盗難防止 TSAフレンドリー ビジネス 仕事 大学 コンピューターバックパック 男女兼用 ブラック",
+      "maker": "MATEIN",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "MATEIN",
+      "historical_tier": 1,
+      "parent_asin": "B09HHQ9FLJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-31",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-31",
+          "title": "8 月のベストバイ。買ってよかった「夏の終わりギア」 8 選",
+          "asin": "B07N3WQ6H7"
+        },
+        {
+          "published_date": "2026-08-10",
+          "title": "旅行から出張まで。ガジェットに強い「バックパック」 7 選",
+          "asin": "B07N3WQ6H7"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07QPNFV3S",
+      "title": "TRIWONDER ボストンバッグ 折りたたみ ダッフルバッグ トラベルバッグ キャリーオンバッグ 旅行バック スポーツ 出張 合宿 アウトドア リュック ボストンバック 手提げバッグ メンズ レディース (ブラック)",
+      "maker": "TRIWONDER",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "TRIWONDER",
+      "historical_tier": 1,
+      "parent_asin": "B07QMQP2M7",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B07ST5HS7G",
+      "title": "[エースジーン] ビジネスリュック ガジェタブルCB 62363 15インチPC対応 セットアップ可能 ブラック",
+      "maker": "ACE",
+      "maker_source": "商品名エースジーン/既存DB ACE GENEとエース株式会社表記を同一メーカーとして統合（公式再確認待ち）",
+      "maker_live_verified": false,
+      "db_brand": "ACE GENE",
+      "historical_tier": 2,
+      "parent_asin": "B0FY5P2J69",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B07WK1R8L6",
+      "title": "[4Monster] アウトドアバックパック 折りたたみ リュック 携帯リュック 軽量 大容量 防水 収納ナップサック 超軽量 バックパック メンズ 携帯用 旅行用 通学 通勤… (blue, 16L)",
+      "maker": "4Monster",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "4Monster",
+      "historical_tier": 1,
+      "parent_asin": "B082V7NLZB",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "PC収納対応をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B082VV36T8",
+      "title": "[MARK RYDEN] 旅行リュック 30L大容量 バックパック 旅行バッグ カバン リュックサック メンズ ビジネスリュック 盗難防止 17型PC対応 撥水加工 通学 通勤 仕事用 トラベル 出張 ブラック",
+      "maker": "MARK RYDEN",
+      "maker_source": "商品名MARK RYDEN。MARKへの途中切断を修正",
+      "maker_live_verified": false,
+      "db_brand": "MARK RYDEN",
+      "historical_tier": 1,
+      "parent_asin": "B0FX3VYBBN",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0974D2LBW",
+      "title": "[G4Free] ミニ10Lハイキングデイパック 小型ハイキングバックパック サイクリング コンパクト ショルダーバッグ バックパック アウトドア 男性用 女性用",
+      "maker": "G4Free",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "G4Free",
+      "historical_tier": 2,
+      "parent_asin": "B09JYNK45R",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09FJLW6W9",
+      "title": "[コールマン] ウォーカー15 メンズ レディース ユニセックス リュック バックパック バッグ 15L 通勤 通学 ビジネス 軽量 小さめ",
+      "maker": "Coleman",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Coleman(コールマン)",
+      "historical_tier": 1,
+      "parent_asin": "B0FSC41794",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "PC収納対応をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09MCRR1T9",
+      "title": "アイメディア(Aimedia) エコバッグ リュック 折りたたみ たためる コンパクト バックパック 男女兼用 軽量 撥水 12L ネイビー",
+      "maker": "アイメディア",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "アイメディア(Aimedia)",
+      "historical_tier": 2,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09V4SPXFB",
+      "title": "[G4Free] ミニ 10L ハイキング バックパック 軽量 小型 ハイキング デイパック 旅行 ショルダー バックパック デイパック 男女兼用",
+      "maker": "G4Free",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "G4Free",
+      "historical_tier": 2,
+      "parent_asin": "B0B1BCVXXK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B09XH7W85X",
+      "title": "[G4Free] ミニ10Lハイキングデイパック 小型ハイキングバックパック サイクリング コンパクト ショルダーバッグ バックパック アウトドア 男性用 女性用",
+      "maker": "G4Free",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "G4Free",
+      "historical_tier": 2,
+      "parent_asin": "B09JYNK45R",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0B2WGPSXT",
+      "title": "[サムソナイト] バックパック フライズライト 2 FLYZ-LITE 2 バックパック L エキスパンダブル ブラック",
+      "maker": "Samsonite",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Samsonite",
+      "historical_tier": 3,
+      "parent_asin": "B0FRS8DR77",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "PC収納対応をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0B51QDFXQ",
+      "title": "[G4Free] 12Lミニハイキングデイパック、小型ハイキングバックパック旅行サイクリングのためのコンパクトなアウトドアショルダーバックパック",
+      "maker": "G4Free",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "G4Free",
+      "historical_tier": 1,
+      "parent_asin": "B0B51RKFHV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0B51QG1LN",
+      "title": "[G4Free] 12Lミニハイキングデイパック、小型ハイキングバックパック旅行サイクリングのためのコンパクトなアウトドアショルダーバックパック",
+      "maker": "G4Free",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "G4Free",
+      "historical_tier": 1,
+      "parent_asin": "B0B51RKFHV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BLYQ78NV",
+      "title": "[ZOMAKE] リュック 超軽量 10L アウトドアバック 防水 小型 バックパック デイパック キャンプ 旅行 スポーツ ランニング 自転車 ジム 通学 通勤 メンズ レディース 携帯便利",
+      "maker": "ZOMAKE",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "ZOMAKE",
+      "historical_tier": 2,
+      "parent_asin": "B0CL6675YV",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "PC収納対応をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BRWHJST3",
+      "title": "[BOACAY] 飛行機や車用の柔らかくて暖かい旅行用ブランケット - 女性、男性、子供にとっての長距離フライトの必需品 - 持ち運びに便利なスーツケースベルトとバックパッククリップ付きのコンパクトな枕",
+      "maker": "飛行機や車用の柔らかくて暖かい旅行用ブランケット",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "飛行機や車用の柔らかくて暖かい旅行用ブランケット",
+      "historical_tier": 1,
+      "parent_asin": "B0C8Z83G5V",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BRZBN96C",
+      "title": "[Incase] バックパック INCO100683-SIV A R C Commuter Pack-Smoked Ivy メンズ GREY Free Size 137222053002",
+      "maker": "Incase",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Incase(インケース)",
+      "historical_tier": 3,
+      "parent_asin": "B0BSGNN4YQ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-10",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-10",
+          "title": "旅行から出張まで。ガジェットに強い「バックパック」 7 選",
+          "asin": "B0BRZBN96C"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "PC収納対応をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0BTYMSRG6",
+      "title": "[G4Free] 10Lハイキングバックパック軽量パッカブルハイキングデイパック小さな旅行アウトドア折り畳み式ショルダーバッグ",
+      "maker": "G4Free",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "G4Free",
+      "historical_tier": 1,
+      "parent_asin": "B0B17JDV55",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C2GN696Q",
+      "title": "[G4Free] 10Lハイキングバックパック軽量パッカブルハイキングデイパック小さな旅行アウトドア折り畳み式ショルダーバッグ",
+      "maker": "G4Free",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "G4Free",
+      "historical_tier": 1,
+      "parent_asin": "B0B17JDV55",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C4FPH691",
+      "title": "[BOACAY] 飛行機や車用の折り畳みデザインのブランケット - コンパクトなオフィス用ブランケット - 大人と子供向けの枕、持ち運び可能なケース付き、スーツケースベルトとバックパッククリップ付き",
+      "maker": "飛行機や車用の折り畳みデザインのブランケット",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "飛行機や車用の折り畳みデザインのブランケット",
+      "historical_tier": 1,
+      "parent_asin": "B0CR7QV5M9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C4FRL71X",
+      "title": "[BOACAY] 飛行機や車用の折り畳みデザインのブランケット - コンパクトなオフィス用ブランケット - 大人と子供向けの枕、持ち運び可能なケース付き、スーツケースベルトとバックパッククリップ付き",
+      "maker": "飛行機や車用の折り畳みデザインのブランケット",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "飛行機や車用の折り畳みデザインのブランケット",
+      "historical_tier": 1,
+      "parent_asin": "B0CR7QV5M9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0C4FSWWP3",
+      "title": "[BOACAY] 飛行機や車用の折り畳みデザインのブランケット - コンパクトなオフィス用ブランケット - 大人と子供向けの枕、持ち運び可能なケース付き、スーツケースベルトとバックパッククリップ付き",
+      "maker": "飛行機や車用の折り畳みデザインのブランケット",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "飛行機や車用の折り畳みデザインのブランケット",
+      "historical_tier": 1,
+      "parent_asin": "B0CR7QV5M9",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0CV5J8D6R",
+      "title": "[コロンビア] キャッスルロック 15L バックパックII PU8664 ワンサイズ ブラック",
+      "maker": "Columbia",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Columbia(コロンビア)",
+      "historical_tier": 3,
+      "parent_asin": "B0CV4ZYHJ8",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "PC収納対応をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DDBGCPHH",
+      "title": "[G4Free] 15L ハイキング デイパック 軽量 旅行 バックパック パッカブル アウトドア カジュアル 折りたたみ ショルダーバッグ",
+      "maker": "G4Free",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "G4Free",
+      "historical_tier": 2,
+      "parent_asin": "B0DK8DVMMY",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DSZVQ6M1",
+      "title": "[エースジーン] ビジネスリュック ガジェタブルWR2 B4サイズ収納 15.6inchPC収納 19L No.68664",
+      "maker": "ACE",
+      "maker_source": "商品名エースジーン/既存DB ACE GENEとエース株式会社表記を同一メーカーとして統合（公式再確認待ち）",
+      "maker_live_verified": false,
+      "db_brand": "エース株式会社",
+      "historical_tier": 3,
+      "parent_asin": "B0DT449XR2",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-10",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-10",
+          "title": "旅行から出張まで。ガジェットに強い「バックパック」 7 選",
+          "asin": "B0DSZVQ6M1"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DVBDHK5T",
+      "title": "エレコム バックパック リュックサック スクエア ～15.6インチ 撥水加工 大容量 19L ブラック BM-XBPSQ01BK",
+      "maker": "ELECOM",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "エレコム",
+      "historical_tier": 2,
+      "parent_asin": "B0F2HNN2YK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "PC収納対応をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0DWW4YYFW",
+      "title": "サンワダイレクト 多機能ビジネスリュック",
+      "maker": "サンワサプライ",
+      "maker_source": "ensei 11/5既存公式会社確認記録（サンワダイレクト運営）",
+      "maker_live_verified": false,
+      "db_brand": "サンワダイレクト",
+      "historical_tier": 3,
+      "parent_asin": "B0G92KXX9Z",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-08-10",
+      "dg_use_history": [
+        {
+          "published_date": "2026-08-10",
+          "title": "旅行から出張まで。ガジェットに強い「バックパック」 7 選",
+          "asin": "B0FJKYRXNV"
+        },
+        {
+          "published_date": "2026-04-24",
+          "title": "出張をスマートに。ガジェット収納に最適な「多機能バックパック」 6 選",
+          "asin": "B0FJKYRXNV"
+        },
+        {
+          "published_date": "2026-02-24",
+          "title": "まだポーチで消耗してる？整理が完結するリュック 6選",
+          "asin": "B0DWW4YYFW"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "PC収納対応をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FJRVTVPL",
+      "title": "携帯リュック 折り畳みリュック パック アウト 大容量 軽量 防水 登山 旅行 スポーツ ショッピング 通学 通勤に最適 (ブラック)",
+      "maker": "UrbanPulse",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "UrbanPulse",
+      "historical_tier": 3,
+      "parent_asin": "B0GN2GPX5J",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "PC収納対応をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0FPQCZ7T9",
+      "title": "[TRIWONDER] 登山 リュック 15L リュックサック アタックザック メンズ 軽量 防水 小さめ 山登り バックパック 小型 キャンプ 釣り アウトドア ハイキング 旅行 Hiking Backpack (グレー)",
+      "maker": "TRIWONDER",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "TRIWONDER",
+      "historical_tier": 3,
+      "parent_asin": "B0FW4TRXFX",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "別用途・アクセサリ・別構造の本体を除外",
+      "selection_status": "excluded_or_hold"
+    },
+    {
+      "asin": "B0GZZ7J6GS",
+      "title": "[Vulmoon] 折り畳み アウトドア 折りたたみ リュック 15L 防水 軽量 163g 旅行 収納袋付き 男女兼用",
+      "maker": "Vulmoon",
+      "maker_source": "既存normalize_makerによるDBブランド/商品名",
+      "maker_live_verified": false,
+      "db_brand": "Vulmoon",
+      "historical_tier": 2,
+      "parent_asin": "B0HLGBGJCJ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-14",
+      "scope_pending": [],
+      "exclusion_reason": "PC収納対応をローカル仕様で確認できない",
+      "selection_status": "excluded_or_hold"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B01JHRVZP0",
+      "title": "[PHOENIX IKKI] 12L ミニ 軽量 広口開口仕様 耐久性 耐水性 選べる6色 迷彩柄 カジュアル リュックサック アウトドア バックパック かわいい デイパック ブラック",
+      "reason": "PC収納対応をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B07QPNFV3S",
+      "title": "TRIWONDER ボストンバッグ 折りたたみ ダッフルバッグ トラベルバッグ キャリーオンバッグ 旅行バック スポーツ 出張 合宿 アウトドア リュック ボストンバック 手提げバッグ メンズ レディース (ブラック)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B07WK1R8L6",
+      "title": "[4Monster] アウトドアバックパック 折りたたみ リュック 携帯リュック 軽量 大容量 防水 収納ナップサック 超軽量 バックパック メンズ 携帯用 旅行用 通学 通勤… (blue, 16L)",
+      "reason": "PC収納対応をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0974D2LBW",
+      "title": "[G4Free] ミニ10Lハイキングデイパック 小型ハイキングバックパック サイクリング コンパクト ショルダーバッグ バックパック アウトドア 男性用 女性用",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B09FJLW6W9",
+      "title": "[コールマン] ウォーカー15 メンズ レディース ユニセックス リュック バックパック バッグ 15L 通勤 通学 ビジネス 軽量 小さめ",
+      "reason": "PC収納対応をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B09MCRR1T9",
+      "title": "アイメディア(Aimedia) エコバッグ リュック 折りたたみ たためる コンパクト バックパック 男女兼用 軽量 撥水 12L ネイビー",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B09V4SPXFB",
+      "title": "[G4Free] ミニ 10L ハイキング バックパック 軽量 小型 ハイキング デイパック 旅行 ショルダー バックパック デイパック 男女兼用",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B09XH7W85X",
+      "title": "[G4Free] ミニ10Lハイキングデイパック 小型ハイキングバックパック サイクリング コンパクト ショルダーバッグ バックパック アウトドア 男性用 女性用",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0B2WGPSXT",
+      "title": "[サムソナイト] バックパック フライズライト 2 FLYZ-LITE 2 バックパック L エキスパンダブル ブラック",
+      "reason": "PC収納対応をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0B51QDFXQ",
+      "title": "[G4Free] 12Lミニハイキングデイパック、小型ハイキングバックパック旅行サイクリングのためのコンパクトなアウトドアショルダーバックパック",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0B51QG1LN",
+      "title": "[G4Free] 12Lミニハイキングデイパック、小型ハイキングバックパック旅行サイクリングのためのコンパクトなアウトドアショルダーバックパック",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BLYQ78NV",
+      "title": "[ZOMAKE] リュック 超軽量 10L アウトドアバック 防水 小型 バックパック デイパック キャンプ 旅行 スポーツ ランニング 自転車 ジム 通学 通勤 メンズ レディース 携帯便利",
+      "reason": "PC収納対応をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0BRWHJST3",
+      "title": "[BOACAY] 飛行機や車用の柔らかくて暖かい旅行用ブランケット - 女性、男性、子供にとっての長距離フライトの必需品 - 持ち運びに便利なスーツケースベルトとバックパッククリップ付きのコンパクトな枕",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0BRZBN96C",
+      "title": "[Incase] バックパック INCO100683-SIV A R C Commuter Pack-Smoked Ivy メンズ GREY Free Size 137222053002",
+      "reason": "PC収納対応をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0BTYMSRG6",
+      "title": "[G4Free] 10Lハイキングバックパック軽量パッカブルハイキングデイパック小さな旅行アウトドア折り畳み式ショルダーバッグ",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0C2GN696Q",
+      "title": "[G4Free] 10Lハイキングバックパック軽量パッカブルハイキングデイパック小さな旅行アウトドア折り畳み式ショルダーバッグ",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0C4FPH691",
+      "title": "[BOACAY] 飛行機や車用の折り畳みデザインのブランケット - コンパクトなオフィス用ブランケット - 大人と子供向けの枕、持ち運び可能なケース付き、スーツケースベルトとバックパッククリップ付き",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0C4FRL71X",
+      "title": "[BOACAY] 飛行機や車用の折り畳みデザインのブランケット - コンパクトなオフィス用ブランケット - 大人と子供向けの枕、持ち運び可能なケース付き、スーツケースベルトとバックパッククリップ付き",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0C4FSWWP3",
+      "title": "[BOACAY] 飛行機や車用の折り畳みデザインのブランケット - コンパクトなオフィス用ブランケット - 大人と子供向けの枕、持ち運び可能なケース付き、スーツケースベルトとバックパッククリップ付き",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0CV5J8D6R",
+      "title": "[コロンビア] キャッスルロック 15L バックパックII PU8664 ワンサイズ ブラック",
+      "reason": "PC収納対応をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0DDBGCPHH",
+      "title": "[G4Free] 15L ハイキング デイパック 軽量 旅行 バックパック パッカブル アウトドア カジュアル 折りたたみ ショルダーバッグ",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0DVBDHK5T",
+      "title": "エレコム バックパック リュックサック スクエア ～15.6インチ 撥水加工 大容量 19L ブラック BM-XBPSQ01BK",
+      "reason": "PC収納対応をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0DWW4YYFW",
+      "title": "サンワダイレクト 多機能ビジネスリュック",
+      "reason": "PC収納対応をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0FJRVTVPL",
+      "title": "携帯リュック 折り畳みリュック パック アウト 大容量 軽量 防水 登山 旅行 スポーツ ショッピング 通学 通勤に最適 (ブラック)",
+      "reason": "PC収納対応をローカル仕様で確認できない"
+    },
+    {
+      "asin": "B0FPQCZ7T9",
+      "title": "[TRIWONDER] 登山 リュック 15L リュックサック アタックザック メンズ 軽量 防水 小さめ 山登り バックパック 小型 キャンプ 釣り アウトドア ハイキング 旅行 Hiking Backpack (グレー)",
+      "reason": "別用途・アクセサリ・別構造の本体を除外"
+    },
+    {
+      "asin": "B0GZZ7J6GS",
+      "title": "[Vulmoon] 折り畳み アウトドア 折りたたみ リュック 15L 防水 軽量 163g 旅行 収納袋付き 男女兼用",
+      "reason": "PC収納対応をローカル仕様で確認できない"
+    }
+  ],
+  "variant_policy": "同親の色/サイズ/バンドルを候補群として残す。独立採用は最新親監査+機械選抜が決定",
+  "notes": [
+    "最新在庫/レビュー/親は未実測",
+    "採用・順序・件数は主担当の機械選抜で確定",
+    "候補に残る未確認事項は公式照合前の採用根拠としない"
+  ],
+  "historical_tier_distribution": {
+    "1": 2,
+    "2": 3,
+    "3": 1
+  }
+}
