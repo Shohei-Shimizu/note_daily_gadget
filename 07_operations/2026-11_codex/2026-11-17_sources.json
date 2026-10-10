@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-10",
+  "article_date": "2026-11-17",
+  "products": [
+    {
+      "order": 1,
+      "asin": "B00TMYO5EM",
+      "official_urls": [
+        "https://www.buffalo.jp/product/detail/ruf3-k16ga-bk_n.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B00TMYO5EM?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-17_usb_memory_candidates.json",
+        "path": "candidates[asin=B00TMYO5EM].features"
+      },
+      "verified_article_specs": [
+        "容量：16GB",
+        "端子：USB Type-A",
+        "規格：USB 3.2 Gen 1／USB 2.0対応",
+        "本体重量：約10g",
+        "出荷時形式：FAT32"
+      ],
+      "check": "16GB型番/Nまで公式一致。シリーズ70MB/sは別同等型番テストなので速度数値不採用。32GB/4GB抽出を当該容量にしない。ストラップ別途。"
+    },
+    {
+      "order": 2,
+      "asin": "B087CHMKR4",
+      "official_urls": [
+        "https://www.buffalo.jp/product/detail/ruf3-ks32ga-bk_n.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B087CHMKR4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-17_usb_memory_candidates.json",
+        "path": "candidates[asin=B087CHMKR4].features"
+      },
+      "verified_article_specs": [
+        "容量：32GB",
+        "端子：USB Type-A",
+        "規格：USB 3.2 Gen 1／USB 2.0対応",
+        "本体重量：約12g",
+        "機構：ノック式・オートリターン"
+      ],
+      "check": "32GB型番/Nまで公式一致。90MB/sは同等16GBモデル測定のため当該容量保証に転用せず。19.8×10×66mm/12g。ストラップ別途。"
+    },
+    {
+      "order": 3,
+      "asin": "B0GVM2MRRY",
+      "official_urls": [
+        "https://www.elecom.co.jp/products/MF-PKU3256GWHF.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0GVM2MRRY?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-17_usb_memory_candidates.json",
+        "path": "candidates[asin=B0GVM2MRRY].features"
+      },
+      "verified_article_specs": [
+        "容量：256GB",
+        "端子：USB-A",
+        "規格：USB 3.2 Gen 1",
+        "本体重量：約10g",
+        "セキュリティ：PASS／PASS×AES対応（要ダウンロード）"
+      ],
+      "check": "末尾Fまで公式完全一致。読み込み最大100MB/sは公式測定値だが書込み同速度/5Gbps実測保証はしない。ソフト対応OSは本体と別で要確認、常時ハードウェア暗号化ではない。"
+    },
+    {
+      "order": 4,
+      "asin": "B0FFM7SRGC",
+      "official_urls": [
+        "https://www.acerstorage.com/products/usb-flash-drive/acer-ut300-usb-flash-drive/",
+        "https://www.acerstorage.com/wp-content/uploads/2025/09/Acer-UT300-Specifications.pdf"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B0FFM7SRGC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-17_usb_memory_candidates.json",
+        "path": "candidates[asin=B0FFM7SRGC].features"
+      },
+      "verified_article_specs": [
+        "容量：32GB",
+        "端子：USB Type-A／Type-C",
+        "規格：USB 3.2 Gen 1",
+        "素材：アルミニウム合金",
+        "サイズ：63.43×17.90×8.40mm"
+      ],
+      "check": "Acer正式ライセンスBIWIN公式UT300と32GB仕様一致。シリーズ読出最大150MB/sは環境依存、書込み保証でないので数値不採用。両端子内蔵、変換アダプタ付属扱いにしない。全iPhone/Android対応/MFiを付与しない。"
+    },
+    {
+      "order": 5,
+      "asin": "B073JFMPPT",
+      "official_urls": [
+        "https://www.elecom.co.jp/products/MF-MSU2B32GBK.html"
+      ],
+      "amazon_url": "https://www.amazon.co.jp/dp/B073JFMPPT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "features_source": {
+        "file": "2026-11-17_usb_memory_candidates.json",
+        "path": "candidates[asin=B073JFMPPT].features"
+      },
+      "verified_article_specs": [
+        "容量：32GB",
+        "端子：USB Type-A",
+        "規格：USB 2.0",
+        "本体重量：約9g",
+        "セキュリティ：PASS／PASS×AES対応（要ダウンロード）"
+      ],
+      "check": "32GB黒型番完全一致。USB2.0をUSB3.2実速度にしない。PASS/PASS×AESは選択ダウンロード、全OSで暗号化自動有効としない。旧掲載OS数値を最新端末保証にしない。"
+    }
+  ],
+  "related_article_sources": [
+    {
+      "url": "https://note.com/daily_gadget/n/n3a9b1117d511",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/n42c61862b347",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    },
+    {
+      "url": "https://note.com/daily_gadget/n/ncd25d7bebee6",
+      "copied_from_monthly_metadata": true,
+      "public_page_verified": true
+    }
+  ],
+  "jev_used": false,
+  "official_gate_passed": true,
+  "unresolved_omitted_specs": [
+    "シリーズ最大読出速度は当該容量の実速度保証として不採用",
+    "全iPhone/Android対応・MFiは付与しない",
+    "セキュリティソフト現行OS対応は購入前確認"
+  ],
+  "excluded_before_latest_selection": [
+    "B0BHWB3T1Q"
+  ]
+}
