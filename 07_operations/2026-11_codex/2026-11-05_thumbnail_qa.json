@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-05",
+  "account": "daily_gadget",
+  "production_mode": "built-in image_gen",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "output_path": "04_thumbnail/2026-11/2026-11-05_timer.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-6d13e19e-b6c7-4d05-b09d-8bbb0eafdd48.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-05_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "e24994d02199d4ce874b09e123fbedcdc52c1c0902c7541ae0dbfdd781e9c59b",
+  "evidence_files": [
+    "02_article/2026-11/2026-11-05_作業と休憩の区切りをつくる。「デスクタイマー」10選.md",
+    "06_research/2026-11/2026-11-05_作業と休憩の区切りをつくる。「デスクタイマー」10選.md",
+    "07_operations/2026-11_codex/2026-11-05_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "デスクタイマー10商品比較記事。アカウント固有の中央代表1製品",
+    "count": "タイマー1台。ノート・ペン・マグ・植物は生活小物",
+    "material": "白い樹脂筐体、緑の表示色面。採用品の樹脂系視覚型タイマー分類に一致",
+    "structure": "丸角四角い自立筐体、中央ダイヤル、色面で残り時間を表示。SONIC/Time Timer視覚型分類と一致。デジタル/六角柱型と同じ形とは扱わない",
+    "use_case": "仕事の机上で作業と休憩の区切りをつくる。表示の時間値、通知手段、電源方式は画像から断定しない"
+  },
+  "completed_article_checked": true,
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_text_numbers_logos_watermarks": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "complete_case_visible": true,
+    "natural_contact_shadow": true,
+    "coherent_dial_color_sector": true,
+    "no_clock_hands": true,
+    "thumbnail_subject_clear": true
+  },
+  "note_ui_touched": false,
+  "new_design": false
+}

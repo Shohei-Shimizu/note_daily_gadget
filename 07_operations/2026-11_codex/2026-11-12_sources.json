@@ -194,26 +194,30 @@
       "official_confirmation": "confirmed_core"
     },
     {
-      "asin": "B0GLGJTQ7C",
-      "name": "SOUNDPEATS UU2イヤーカフ（POP Clip2）",
-      "source": "https://jp.soundpeats.com/products/uu2",
-      "points": [
-        "耳を塞がないイヤーカフ型で周囲音を確認しやすい。",
-        "物理ボタンとENC/AI通話ノイズ低減を搭載。",
-        "マルチポイントとLDACには併用条件がある。"
+      "checked_at": "2026-10-10",
+      "asin": "B0DJNXH5KV",
+      "official_model": "JBL SOUNDGEAR SENSE",
+      "official_sku": "JBLSNDGEARSNSBLU",
+      "color": "ブルー",
+      "official_urls": [
+        "https://jp.jbl.com/SOUNDGEAR-SENSE.html?cgid=special-1&dwvar_SOUNDGEAR-SENSE_color=Blue-GLOBAL-Current",
+        "https://jp.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw98db30cb/pdfs/JBL%20Soundgear%20Sense_Specsheet_JP.pdf"
       ],
-      "specs": [
-        "形式：イヤーカフ型・オープンイヤー",
-        "接続：Bluetooth 6.0・マルチポイント",
-        "コーデック：LDAC・AAC・SBC",
-        "通話：ENC・AIノイズ低減",
-        "操作：物理ボタン"
+      "identity_check": "入力タイトルJBLSNDGEARSNSBLUと国内公式BlueページItem#完全一致",
+      "features_input": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_earphone_candidates.json:candidates[asin=B0DJNXH5KV].features",
+      "purchase_conditions": [
+        "当該入力Featuresは国内正規品・新品のみメーカー保証1年と記載。保証は本文に掲載しない。",
+        "JBL直販Blueは売切れ表示、Amazonの当日実測在庫と混同しない。親が当該ASIN一致GUIリンクを確認する。"
       ],
-      "body": "耳を塞ぐタイプが苦手で、周囲の音も聞きながら使いたい人向けの候補です。イヤーカフ型に物理ボタンと通話ノイズ低減を備え、アプリで音質も調整できる構成。LDAC使用中はマルチポイントを利用できないため、接続先の切り替えを使う場面では設定を確認しておきたいモデルです。",
-      "cautions": [
-        "公式https://jp.soundpeats.com/blogs/news/uu2 にモデル名POPClip2を明記。最大42hはケース合計/本体10h、通話時間とは別。ENCを聞く側ANCと呼ばない。FAQには他機種表記混在もあるがUU2仕様表のmultipointとLDAC排他注意を照合。"
+      "notes": [
+        "空気伝導のオープンイヤー。骨伝導やANCを付与しない。",
+        "IP54はイヤホン本体のみ、水泳・水没や充電ケース防水の保証にしない。",
+        "本体最大約6hとケース追加18hを区別。合計24h連続装着再生としない。通話は音楽再生日数と別。",
+        "マルチポイントは2台接続/切替、2台音声同時再生ではない。",
+        "OpenSoundは音漏れ低減、音漏れゼロや周囲音の完全把握・移動中安全保証を断言しない。"
       ],
-      "official_confirmation": "confirmed"
+      "official_gate_passed": true,
+      "order": 10
     }
   ],
   "selection_preserved": true,
@@ -228,5 +232,10 @@
     "02_article/2026-02/_metadata.json",
     "02_article/2026-09/_metadata.json"
   ],
-  "superseded_archive": "07_operations/2026-11_codex/superseded/2026-11-12_before_official_reselection"
+  "superseded_archive": "07_operations/2026-11_codex/superseded/2026-11-12_before_official_reselection",
+  "redirect_exclusion": {
+    "asin": "B0GLGJTQ7C",
+    "reason": "GUI redirects to a different color ASIN; no matching generated URL",
+    "replacement_asin": "B0DJNXH5KV"
+  }
 }

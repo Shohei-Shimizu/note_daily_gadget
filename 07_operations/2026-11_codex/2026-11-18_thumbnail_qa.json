@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-18",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-18_air_duster.png",
+  "source_path": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-eeb972f7-8b0a-4dd9-8f31-e57773ddce05.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "61a15631990fe4aada6b6c10c61beae4bad1b7c5732add6b4b53a143c5e62b04",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-18_机まわりのホコリを飛ばす。「電動エアダスター」5選.md",
+    "07_operations/2026-11_codex/2026-11-18_sources.json",
+    "07_operations/2026-11_codex/2026-11-18_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "電動エアダスター5品比較、代表1本体",
+    "count": "送風機1台、装着ノズル1本。背景キーボードは掃除用途小物",
+    "material": "黒マット樹脂ケースとノズル、採用電動送風機群のカテゴリ素材に一致",
+    "structure": "小型モーター部＋バッテリー握り＋一体接続した中空ノズル、吸気グリル。噴出ノズルでマッサージ球/吸引機/缶ではない",
+    "use_case": "机周り隙間のホコリを吹く充電式カテゴリ。AC機は原稿で別物、風量/回転数/速度/ライト/稼働時間を絵で追加保証しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "one_central_hero_or_functional_set": true,
+    "natural_support": true,
+    "whole_hero_visible": true,
+    "thumbnail_subject_clear": true
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_assigned_date_files_changed": true,
+  "new_design": false
+}

@@ -173,5 +173,13 @@
     "B0F5GQLNWP",
     "B0CJVFJMVF",
     "B0CJDV213W"
-  ]
+  ],
+  "current_app_service_check": {
+    "asin": "B01AUL0U8K",
+    "checked_at": "2026-10-10",
+    "sony_distribution_url": "https://www.sony.net/lspx-p1/store/",
+    "google_play": "https://play.google.com/store/apps/details?id=jp.co.sony.lspx001",
+    "app_store": "https://apps.apple.com/jp/app/id1074839891",
+    "observed": "Sony公式配信導線からメーカー公式ストア掲載へ接続、配信停止は確認なし。日本AppStore3.2.10/iOS15以降、Android各端末対応は購入前確認。終了はIFTTT連携のみ。"
+  }
 }

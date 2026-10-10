@@ -1,0 +1,243 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月19日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322759726/rectangle_large_type_2_7a7ea3a0f62ab3ab38fdba2a95d5ba03.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "写真データをPCへ取り込む。「カードリーダー」6選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月19日 20:00
+    - paragraph: カメラやアクションカメラに保存した写真を、PCへ取り込むためのカードリーダー。端子とカード規格の違いを比べられる6個を調べてまとめました。
+    - paragraph:
+      - text: 今回の6個は
+      - strong: 「接続端子」、「使えるカード規格」、「持ち運びと同時利用」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① UGREEN USB-C／USB-A カードリーダー":
+          - /url: "#117b382e-d1b8-4936-ab08-0917422e057c"
+        - link "② Anker USB-C 2-in-1 カードリーダー":
+          - /url: "#c61e549c-5ca9-4b1c-a88f-9ef61d592ac1"
+        - link "③ UGREEN USB-C SD 4.0 カードリーダー":
+          - /url: "#a14971b0-819a-4ec7-8dc4-261d1a7ca6fe"
+        - link "④ ProGrade Digital PGM0.5":
+          - /url: "#bde24d5a-b9b7-404f-9070-2b24a66c7413"
+        - link "⑤ Anker MagGo USB-C カードリーダー":
+          - /url: "#24e5b31a-e743-4ff9-b224-a08a339ca498"
+        - link "⑥ エレコム MR3C-D20EBK":
+          - /url: "#16f8c636-a422-4a37-8ea4-b3bda80c7775"
+        - link "最後に":
+          - /url: "#a389ecfc-0e7f-40a0-8682-76978f0d1e07"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#d5e14624-a6dd-4b50-a6bb-fda4805da76a"
+        - link "あわせて読みたい":
+          - /url: "#71d5f032-7696-4ed0-b50b-ffb57f03ecb8"
+    - heading "① UGREEN USB-C／USB-A カードリーダー" [level=2]
+    - figure:
+      - link "UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応 www.amazon.co.jp 1,148円 (2026年10月10日 13:04時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07D1J88CF?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN カードリーダー USB-C/A SD TF 2in1 MicroSD 高速 USB3.0 メモリカードリーダー OTG対応
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,148円
+        - text: (2026年10月10日 13:04時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07D1J88CF?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 接続するPCの端子が変わっても、同じリーダーを使いたい人向けです。USB-AとUSB-Cの両方を備え、SDカードとmicroSDカードを読み込める構成。端子のキャップを付けて持ち運べるため、カメラや小物と一緒に収納する道具として候補へ入れました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続端子：USB-A／USB-C
+          - text: ・スロット：SD／microSD
+          - text: ・カード規格：UHS-I
+          - text: ・USB規格：USB 3.0
+          - text: ・構造：端子保護キャップ付き
+    - heading "② Anker USB-C 2-in-1 カードリーダー" [level=2]
+    - figure:
+      - link "Anker USB-C 2-in-1 カードリーダー www.amazon.co.jp 1,490円 (2026年10月10日 13:05時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07P1XB7BG?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker USB-C 2-in-1 カードリーダー
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,490円
+        - text: (2026年10月10日 13:05時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07P1XB7BG?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: USB-C端子のPCへ、カードの写真を直接取り込みたい人向けです。ケーブルを持ち歩かず差し込める小型の構成で、SDカードとmicroSDカードの両方を扱えます。使用するカードの規格を確認し、普段持ち出すカメラやPCと組み合わせて選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・製品型番：A83700A2
+          - text: ・接続端子：USB-C
+          - text: ・スロット：SD／microSD
+          - text: ・カード規格：UHS-I
+          - text: ・構造：PCへの直挿し型
+    - heading "③ UGREEN USB-C SD 4.0 カードリーダー" [level=2]
+    - figure:
+      - link "UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用 www.amazon.co.jp 3,690円 (2026年10月10日 13:05時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0BNBXVLZS?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN USB-C SDカードリーダー SD 4.0 UHS-II SDXCカード 4K動画 高速転送 UHS-I/UHS-II 用
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,690円
+        - text: (2026年10月10日 13:05時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BNBXVLZS?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: UHS-IIカードに保存した写真や動画をPCへ取り込みたい人向けです。SDとmicroSDのスロットを備え、USB-C端子で接続するアルミ筐体の構成。カード側とUSB側で転送規格が異なるため、使うカードと接続するPCを合わせて比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続端子：USB-C
+          - text: ・スロット：SD／microSD
+          - text: ・カード規格：UHS-II／UHS-I
+          - text: ・USB側規格：USB 3.1 Gen 1
+          - text: ・素材：アルミニウム
+    - heading "④ ProGrade Digital PGM0.5" [level=2]
+    - figure:
+      - link "ProGrade Digital [SD/microSD UHS-II] ダブルスロットカードリーダー (PGM0.5) 本体端子USB-C プログレードデジタル 正規輸入品 www.amazon.co.jp 5,200円 (2026年10月10日 13:06時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0B6HM369H?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ProGrade Digital [SD/microSD UHS-II] ダブルスロットカードリーダー (PGM0.5) 本体端子USB-C プログレードデジタル 正規輸入品
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 5,200円
+        - text: (2026年10月10日 13:06時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0B6HM369H?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: SDカードとmicroSDカードを使う撮影機器を併用し、PCでまとめて取り込みたい人向けです。コンパクトな本体にふたつのスロットを備え、ノートPCでは両スロットを同時に利用できる構成。USB-C接続の道具として、持ち出す撮影セットと合わせて比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・製品型番：PGM0.5
+          - text: ・接続端子：USB-C
+          - text: ・スロット：SD／microSD
+          - text: ・カード規格：UHS-II
+          - text: ・USB側規格：USB 3.2 Gen 1
+    - heading "⑤ Anker MagGo USB-C カードリーダー" [level=2]
+    - figure:
+      - link "Anker MagGo USB-C カードリーダー (3-in-1, 10Gbps) ブラック www.amazon.co.jp 3,990円 (2026年10月10日 13:06時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D7PBX46R?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker MagGo USB-C カードリーダー (3-in-1, 10Gbps) ブラック
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,990円
+        - text: (2026年10月10日 13:06時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D7PBX46R?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: PCへの取り込みに加え、対応するUSB-CのiPhoneでもカードを使いたい人向けです。SDとmicroSDの読み込み、パススルー充電をまとめた構成。磁石は固定用で、データは一体型ケーブルを通るため、使う端末と充電器の対応条件を合わせて確認したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・製品型番：A83D1NA1（ブラック）
+          - text: ・スロット：SD／microSD（UHS-II）
+          - text: ・USB側規格：10Gbps対応
+          - text: ・PDパススルー出力：最大42.5W（使用条件による）
+          - text: ・接続：一体型USB-Cケーブル
+    - heading "⑥ エレコム MR3C-D20EBK" [level=2]
+    - figure:
+      - link "エレコム カードリーダー USB-C 2-in-1 5Gbps 【SDXC/SDHC/SD/microSDXC/microSDHC/microSD対応】 MR3C-D20EBK www.amazon.co.jp 1,380円 (2026年10月10日 13:06時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0FFR5714G?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム カードリーダー USB-C 2-in-1 5Gbps 【SDXC/SDHC/SD/microSDXC/microSDHC/microSD対応】 MR3C-D20EBK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,380円
+        - text: (2026年10月10日 13:06時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0FFR5714G?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: カードリーダーをケーブルなしで持ち歩き、USB-CのPCへ直接差し込みたい人向けです。SDとmicroSDを同時に使え、アクセスランプで動作も確認できる構成。新しいカード規格のものも読み書きできますが、転送はUHS-Iの範囲になる点を踏まえて選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・製品型番：MR3C-D20EBK
+          - text: ・接続端子：USB-C
+          - text: ・スロット：SD／microSD（同時利用対応）
+          - text: ・カード転送規格：UHS-I
+          - text: ・本体重量：約8g
+    - heading "最後に" [level=2]
+    - paragraph: カードリーダーは、使うカードの規格とPCの接続口を合わせて選ぶと比較しやすくなります。USB側の速度だけで判断せず、同時利用や給電の条件も確認し、ご自身の撮影データを取り込む道具を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ カフェも車内も。外出先で仕事を進めるモバイルガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4cPpADI
+        - strong: 毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4cPpADI
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert

@@ -1,0 +1,239 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月26日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322764880/rectangle_large_type_2_19827d4bf0869a406085dd7516e3a4bc.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "会話の言葉をつなぐ。「携帯翻訳機」5選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月26日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 出張先での会話や、メニューの文字を確認するための携帯翻訳機。スマートフォンとは別に持つ専用端末として、通信方法と使える翻訳機能を比べられる5個を調べてまとめました。
+    - paragraph:
+      - text: 今回の5個は
+      - strong: 「会話と文字の翻訳機能」、「使う場所の通信条件」、「画面と持ち運びやすさ」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① Vasco Translator V4":
+          - /url: "#ecf1ff62-39a5-4d45-bec7-c0da31ba8bb0"
+        - link "② POCKETALK S ブラック PTSGK":
+          - /url: "#a12ccee2-9ef3-4151-8d4d-c0501628fb3f"
+        - link "③ Vasco Translator Q1 Phantom Black":
+          - /url: "#42baaa11-4c24-4638-9e22-9bfd9f79a3a7"
+        - link "④ Wooask W12":
+          - /url: "#7d495fdd-d60b-4d1a-bc27-61813d202010"
+        - link "⑤ POCKETALK S Plus ホワイト PTSPGW":
+          - /url: "#c18b4fe5-4791-4633-ab9d-2f980484814d"
+        - link "最後に":
+          - /url: "#fd625334-fb32-49e9-bd4b-790a6ef13128"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#90345d8a-0429-468e-aa8d-d266d59b7f39"
+        - link "あわせて読みたい":
+          - /url: "#3698b49d-45b1-4d6d-b1e5-81e4e59ee79e"
+    - heading "① Vasco Translator V4" [level=2]
+    - figure:
+      - link "Vasco Translator V4 AI音声翻訳機｜113言語対応｜法人・インバウンド対応｜通信料永久無料｜海外でもそのまま使える｜買いきり www.amazon.co.jp 55,000円 (2026年10月10日 13:25時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0B7SBVGP6?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Vasco Translator V4 AI音声翻訳機｜113言語対応｜法人・インバウンド対応｜通信料永久無料｜海外でもそのまま使える｜買いきり
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 55,000円
+        - text: (2026年10月10日 13:25時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0B7SBVGP6?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 海外で話しかけたり、メニューの文字を確認したりするために、専用端末を持ちたい人向けです。内蔵SIMのデータ通信料はメーカーが永久無料と案内。音声・写真・テキストで対応言語が異なり、一部言語の読み上げは有料なので、使う言語と機能を合わせて確認したい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・画面：5インチタッチスクリーン
+          - text: ・重量：134g
+          - text: ・接続：内蔵SIM／Wi-Fi
+          - text: ・SIMデータ通信料：メーカー表示で永久無料
+          - text: ・翻訳：音声／カメラ／テキスト（対応言語は機能別）
+    - heading "② POCKETALK S ブラック PTSGK" [level=2]
+    - figure:
+      - link "AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付92言語以上対応 ブラック PTSGK www.amazon.co.jp 10,280円 (2026年10月10日 13:25時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07ZP695PB?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付92言語以上対応 ブラック PTSGK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 10,280円
+        - text: (2026年10月10日 13:25時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07ZP695PB?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 小さな本体を持ち歩き、ボタンを押して会話を訳したい人向けです。通信付きのモデルで、初期設定の表示言語を選びOKを押すと通信期間が始まります。期限後もWi-Fiやテザリングで翻訳でき、外出先の内蔵SIMを使い続ける場合は有料の延長方法を確認したい構成です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・型番：PTSGK
+          - text: ・画面：2.8インチ
+          - text: ・重量：約75g
+          - text: ・翻訳時の接続：モバイル通信／Wi-Fi
+          - text: ・付属グローバル通信：2年（初期設定の有効化から）
+    - heading "③ Vasco Translator Q1 Phantom Black" [level=2]
+    - figure:
+      - link "Vasco Translator Q1 |ボイスクローニング技術搭載AI翻訳機 | 113言語に対応、約200の国と地域で繋がるデータ通信料永久無料 | Phantom Black www.amazon.co.jp 79,500円 (2026年10月10日 13:25時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0FQPF59WR?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Vasco Translator Q1 |ボイスクローニング技術搭載AI翻訳機 | 113言語に対応、約200の国と地域で繋がるデータ通信料永久無料 | Phantom Black
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 79,500円
+        - text: (2026年10月10日 13:25時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0FQPF59WR?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 対面の会話に加え、電話のやり取りにも翻訳を使いたい人向けです。ハンズフリーの音声翻訳やカメラ翻訳を備え、内蔵SIMのデータ通信料はメーカーが永久無料と案内。電話翻訳は無料分を超えると追加パッケージが必要なので、通信費とは分けて比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・画面：3.54インチ
+          - text: ・重量：147g
+          - text: ・接続：内蔵SIM／Wi-Fi
+          - text: ・SIMデータ通信料：メーカー表示で永久無料
+          - text: ・電話翻訳：最初の10分無料／追加は有料
+    - heading "④ Wooask W12" [level=2]
+    - figure:
+      - link "Wooask W12 翻訳機 音声翻訳機 ウーアスク【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.5秒翻訳 写真翻訳 オフライン対応 タッチスクリーン www.amazon.co.jp 29,800円 (2026年10月10日 13:26時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CT378Q1M?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Wooask W12 翻訳機 音声翻訳機 ウーアスク【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.5秒翻訳 写真翻訳 オフライン対応 タッチスクリーン
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 29,800円
+        - text: (2026年10月10日 13:26時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CT378Q1M?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: Wi-Fiで使う翻訳と、通信がない場所での音声翻訳を使い分けたい人向けです。国内向けのオフライン対象には日本語や英語が含まれ、写真翻訳はオンライン専用。メーカーの月額料金は不要ですが、オンライン時に接続するWi-Fiやテザリングの通信環境は用意したい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・画面：3.7インチタッチスクリーン
+          - text: ・重量：103g
+          - text: ・オンライン接続：Wi-Fi／テザリング
+          - text: ・国内オフライン音声：日本語・英語など10言語
+          - text: ・写真翻訳：オンライン専用
+    - heading "⑤ POCKETALK S Plus ホワイト PTSPGW" [level=2]
+    - figure:
+      - link "AI翻訳機 POCKETALK(ポケトーク)S Plus(1.85倍大型画面) グローバル通信2年付92言語以上対応 ホワイト PTSPGW www.amazon.co.jp 12,000円 (2026年10月10日 13:26時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08BP1912B?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: AI翻訳機 POCKETALK(ポケトーク)S Plus(1.85倍大型画面) グローバル通信2年付92言語以上対応 ホワイト PTSPGW
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 12,000円
+        - text: (2026年10月10日 13:26時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08BP1912B?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 会話の翻訳結果を、ひと回り大きな画面で見たい人向けです。音声とカメラ翻訳に対応する通信2年モデルですが、通信期間は初回の有効化から始まります。中古品は通信の利用開始状況と残り期間を購入前に確認してください。期限後はWi-Fi利用か有料延長を選べるので、本体型番と通信プランを合わせて確認したい構成です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・型番：PTSPGW
+          - text: ・画面：3.97インチ
+          - text: ・重量：約125g
+          - text: ・通信モデル仕様：2年（初回有効化から／中古品は残り期間を確認）
+          - text: ・期限後：Wi-Fi／テザリング利用または有料延長
+    - heading "最後に" [level=2]
+    - paragraph: 翻訳機は、対応言語の総数だけでなく、音声・写真・オフラインで何が使えるかを比べたいところです。渡航先の通信対象エリアと、SIMの期限や追加機能の料金も確認し、ご自身が話す場面に合う一台を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/42HITJ4
+        - strong: 毎日ガジェット通信's Amazon Page - 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/42HITJ4
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 会話の言葉をつなぐ。「携帯翻訳機」5選｜毎日ガジェット通信｜note

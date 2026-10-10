@@ -1,0 +1,238 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月6日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322731918/rectangle_large_type_2_37c2f62d01a49ef41d76d2d661422d83.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」5選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月6日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: マウスやストレージ、外部画面をつなぐたびにPCの端子が足りなくなるなら、必要な接続をハブにまとめる方法があります。USB-C接続のハブを5個調べてまとめました。
+    - paragraph:
+      - text: 今回の5個は
+      - strong: 「増やせる端子」、「画面出力と給電」、「接続する機器との相性」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① Anker 332 USB-C ハブ（5-in-1）":
+          - /url: "#c9954fd0-a11b-4c1b-99c8-c1cd5a01016a"
+        - link "② UGREEN Revodok 107":
+          - /url: "#a3b09925-e776-4856-bfbe-a16104e64fa6"
+        - link "③ UGREEN Revodok USB-C ハブ 6in1":
+          - /url: "#c0fe456b-bb96-468e-a034-9ccaad7caaf3"
+        - link "④ Anker USB-C ハブ（5-in-1, 4K, HDMI）":
+          - /url: "#be8f6f0f-d25f-4552-ad2d-9b8b2fcced55"
+        - link "⑤ エレコム U3HC-H042BK/E":
+          - /url: "#e4ad7d8a-4135-40e6-be36-34b1c8671bd8"
+        - link "最後に":
+          - /url: "#466bf260-f038-433b-8738-79c832986123"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#03b92e08-92ca-41bf-8a3b-c0253025ba26"
+        - link "あわせて読みたい":
+          - /url: "#2b1bc10a-d0a6-461f-86bb-9ad0d6e74877"
+    - heading "① Anker 332 USB-C ハブ（5-in-1）" [level=2]
+    - figure:
+      - link "Anker 332 USB-C ハブ (5-in-1) www.amazon.co.jp 2,990円 (2026年10月10日 11:25時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0BQMSXFP7?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker 332 USB-C ハブ (5-in-1)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,990円
+        - text: (2026年10月10日 11:25時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BQMSXFP7?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: USB-A機器だけでなく、USB-Cのデータ機器も接続したい人向けの候補です。データ転送用のポートとHDMI、充電用のUSB-Cを備え、外部画面を使いながらノートPCへ給電する構成にできます。USB-Cポートは充電用とデータ用に分かれるため、差す場所を確認しておきたい設計。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・PC接続：USB-C
+          - text: ・データ用ポート：USB-C×1・USB-A×2（最大5Gbps）
+          - text: ・HDMI：最大4K・30Hz
+          - text: ・PDパススルー：最大85W（100W対応充電器・ケーブル使用時）
+    - heading "② UGREEN Revodok 107" [level=2]
+    - figure:
+      - link "UGREEN Revodok 107 USB Cハブ 7-IN-1 USB3.0ハブ 4K@60Hz HDMI出力 100W PD急速充電 www.amazon.co.jp 3,299円 (2026年10月10日 11:25時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B093FKT9BF?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN Revodok 107 USB Cハブ 7-IN-1 USB3.0ハブ 4K@60Hz HDMI出力 100W PD急速充電
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,299円
+        - text: (2026年10月10日 11:25時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B093FKT9BF?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 周辺機器に加え、カードの読み込みと有線LANも同じハブにまとめたい人向けです。HDMIやUSB-Aを備えているため、仕事机へ戻ったときの接続をまとめる用途で候補に入れました。画面出力にはPC側のUSB-Cの対応が必要で、端子の形だけで互換性を判断しないようにしたいモデル。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・PC接続：USB-C
+          - text: ・データ用ポート：USB-A×2（最大5Gbps）
+          - text: ・その他：HDMI・ギガビットLAN・SD・microSD
+          - text: ・HDMI：最大4K・60Hz（接続元の対応条件あり）
+          - text: ・PD入力：最大100W（PC充電は最大95W）
+    - heading "③ UGREEN Revodok USB-C ハブ 6in1" [level=2]
+    - figure:
+      - link "UGREEN Revodok USB-C ハブ 6in1 100W USB PD対応 4K 60Hz 10Gbps 高速データ転送 www.amazon.co.jp 2,999円 (2026年10月10日 11:25時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D1XLNWP2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN Revodok USB-C ハブ 6in1 100W USB PD対応 4K 60Hz 10Gbps 高速データ転送
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,999円
+        - text: (2026年10月10日 11:25時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D1XLNWP2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: USB-AとUSB-Cのデータ機器を複数つなぎたい場合に調べた候補です。HDMIと充電入力も備え、データの転送と外部画面への接続をまとめる構成にできます。転送中にPD充電器を抜き差しすると影響が出る可能性があるため、接続を整えてから作業を始めたいモデル。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・PC接続：USB-C
+          - text: ・データ用ポート：USB-A×2・USB-C×2（最大10Gbps）
+          - text: ・HDMI：最大4K・60Hz（PC側の映像出力対応が必要）
+          - text: ・PD入力：最大100W（パススルー最大85W）
+    - heading "④ Anker USB-C ハブ（5-in-1, 4K, HDMI）" [level=2]
+    - figure:
+      - link "Anker USB-C ハブ (5-in-1, 4K, HDMI) グレー www.amazon.co.jp 2,790円 (2026年10月10日 11:28時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DLWDJJQ8?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker USB-C ハブ (5-in-1, 4K, HDMI) グレー
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,790円
+        - text: (2026年10月10日 11:28時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DLWDJJQ8?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: USB-A機器を中心に使うなら、①との違いはデータ用ポートの構成です。こちらはUSB-Aの増設とHDMI、PCへの充電をまとめる用途に向く設計。USB-CポートはPD充電入力用なので、USB-Cのストレージをつなぎたい場合は用途に合うか確認してみてください。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・PC接続：USB-C
+          - text: ・データ用ポート：USB-A×3（最大5Gbps）
+          - text: ・HDMI：最大4K・30Hz
+          - text: ・PDパススルー：最大90W（100W対応充電器・ケーブル使用時）
+    - heading "⑤ エレコム U3HC-H042BK/E" [level=2]
+    - figure:
+      - link "エレコム USBハブ USB-C接続 USB3.2(Gen1) 5Gbps 4ポート バスパワー 15cm ケーブル 小型・軽量設計 ブラック U3HC-H042BK/E www.amazon.co.jp 1,442円 (2026年10月10日 11:28時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DVFVVV5S?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム USBハブ USB-C接続 USB3.2(Gen1) 5Gbps 4ポート バスパワー 15cm ケーブル 小型・軽量設計 ブラック U3HC-H042BK/E
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,442円
+        - text: (2026年10月10日 11:28時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DVFVVV5S?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 画面出力やPC充電は別に用意し、USB-Aポートだけ増やしたい人向けに選びました。マウスやキーボード、USBメモリをまとめて接続するシンプルな構成です。PC側はUSB-C接続で、バスパワー専用のため、つなぐ機器の消費電力も確認しておきたい一台。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・PC接続：USB-C
+          - text: ・増設ポート：USB-A×4
+          - text: ・通信規格：USB3.2 Gen1・最大5Gbps（理論値）
+          - text: ・給電方式：バスパワー専用
+          - text: ・ケーブル・重量：約15cm・約36g
+    - heading "最後に" [level=2]
+    - paragraph: USB-C接続でも、増設できる端子や画面出力、PD充電の役割は製品ごとに異なります。手持ちの周辺機器とPC側の対応規格を確認し、必要な機能に合う一台を探してみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ カフェも車内も。外出先で仕事を進めるモバイルガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4cPpADI
+        - strong: 毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4cPpADI
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」5選｜毎日ガジェット通信｜note

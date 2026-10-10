@@ -1,0 +1,362 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月1日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322710758/rectangle_large_type_2_8172272172d06cf1c63e70adf5fa1d12.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "文章入力の道具を見直す。仕事用「キーボード」10選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月1日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 文章入力の道具は、机で使うか持ち歩くかによって選び方が変わります。テンキー付きの据え置き型から折りたたみ式まで、仕事用のキーボードを10個調べてまとめました。
+    - paragraph:
+      - text: 今回の10個は
+      - strong: 「接続方法」、「キー配列と入力方式」、「設置・持ち運びのしやすさ」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① ロジクール K295GP":
+          - /url: "#0abf3838-25de-4ffd-8398-8cb76d12a96d"
+        - link "② エレコム TK-FDM110TXBK":
+          - /url: "#3a5f1dbe-ba6d-445d-87c7-7f3ebc52a2b5"
+        - link "③ エレコム TK-FFCM01BK":
+          - /url: "#bba628ef-254b-4413-b4eb-2da698efda65"
+        - link "④ Ewin 日本語配列Bluetoothキーボード":
+          - /url: "#d81c58c9-4161-4912-9b5d-cd72072daebb"
+        - link "⑤ ロジクール K120":
+          - /url: "#9ae3746c-7f01-411f-b13b-dba5ac5b04ab"
+        - link "⑥ バッファロー BSKBW125BK":
+          - /url: "#7675d995-84a3-4f78-a1e4-54a0c37b2fce"
+        - link "⑦ Omikamo タッチパッド付き折りたたみキーボード":
+          - /url: "#a2254163-2dc4-4d9d-9ce6-f4c534dccc6c"
+        - link "⑧ iClever IC-BK06":
+          - /url: "#8e440c4c-9d46-4ce5-8d17-e89107486d54"
+        - link "⑨ iClever DK02":
+          - /url: "#cbc84947-cb89-4c1a-bb88-6c397d5530d7"
+        - link "⑩ Keychron B1 Pro 日本語JIS配列":
+          - /url: "#d25883d9-e174-42a6-9d72-3d64664db5ec"
+      - button "すべて表示":
+        - generic: すべて表示
+    - heading "① ロジクール K295GP" [level=2]
+    - figure:
+      - link "ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品 link.amazon 2,709円 (2026年10月10日 10:33時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://link.amazon/B04mwgoar
+        - strong: ロジクール ワイヤレスキーボード K295GP 静音 耐水 キーボード 無線 Unifying K295 グラファイト 国内正規品
+        - emphasis
+        - emphasis: link.amazon
+        - emphasis: 2,709円
+        - text: (2026年10月10日 10:33時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://link.amazon/B04mwgoar
+    - paragraph: 打鍵音を抑えながら、数字入力もまとめて進めたい人に向く一台です。静音設計とテンキー付きの配列を両立し、ケーブルを机に這わせずに設置できるのが選んだ理由。音量や電卓を呼び出すショートカットも備えています。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：2.4GHz（Unifying USBレシーバー）
+          - text: ・配列：日本語108キー・テンキー付き
+          - text: ・キー方式：メンブレン／SilentTouch
+          - text: ・電源：単4形乾電池2本
+          - text: ・サイズ：441×149×18mm
+    - heading "② エレコム TK-FDM110TXBK" [level=2]
+    - figure:
+      - link "エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK www.amazon.co.jp 1,899円 (2026年10月10日 10:40時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07PJW2X2F?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム ワイヤレスキーボード メンブレン 薄型 フルキーボード テンキー ブラック TK-FDM110TXBK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,899円
+        - text: (2026年10月10日 10:40時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07PJW2X2F?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: ノートPCに近い浅めのキーを、テンキー付きで使いたい場合の比較候補です。大型のEnterキーと独立したDeleteキーを備え、いつもの日本語配列を保ちながら無線化できる構成。レシーバーは裏面に収納でき、席を移るときにもまとめやすくなっています。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：2.4GHz（USB-Aレシーバー）
+          - text: ・配列：日本語109キー・テンキー付き
+          - text: ・キー方式：メンブレン
+          - text: ・キーピッチ／ストローク：19mm／2.5mm
+          - text: ・電源：単4形乾電池1本
+    - heading "③ エレコム TK-FFCM01BK" [level=2]
+    - figure:
+      - link "エレコム 有線キーボード メンブレン ブラック TK-FFCM01BK www.amazon.co.jp 1,040円 (2026年10月10日 10:44時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B01HGGWZMG?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム 有線キーボード メンブレン ブラック TK-FFCM01BK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,040円
+        - text: (2026年10月10日 10:44時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B01HGGWZMG?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 電池の残量や無線の接続先を管理せず、デスクに据え置きたい人向けです。テンキー付きの配列を残しながら筐体をコンパクトにまとめており、表計算と文章入力を行き来する用途に合う構成。傾斜を変えられるスタンドも選定理由のひとつです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続／電源：USB-A有線／USBバスパワー
+          - text: ・配列：日本語109キー・テンキー付き
+          - text: ・キー方式：メンブレン
+          - text: ・キーピッチ／ストローク：19mm／2.8mm
+          - text: ・ケーブル長：1.5m
+    - heading "④ Ewin 日本語配列Bluetoothキーボード" [level=2]
+    - figure:
+      - link "Ewin キーボード ワイヤレス bluetooth 小型 キーボード JIS基準 日本語配列 ios android Windows mac対応 www.amazon.co.jp 2,096円 (2026年10月10日 10:45時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B081JSVYHQ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Ewin キーボード ワイヤレス bluetooth 小型 キーボード JIS基準 日本語配列 ios android Windows mac対応
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,096円
+        - text: (2026年10月10日 10:45時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B081JSVYHQ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: PCとタブレットを切り替えながら、同じキーボードで文章を入力したい人向けの小型モデルです。日本語配列とパンタグラフ式のキーを備え、受信機を持ち歩かずに接続できる点を重視しました。Androidでは機種やOSによって非対応があるため、接続予定の端末を商品ページで確認してみてください。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth 5.1
+          - text: ・配列：日本語79キー
+          - text: ・キー方式：パンタグラフ
+          - text: ・登録台数：最大3台（切り替え使用）
+          - text: ・サイズ／重さ：295×120×20mm／約290g
+    - heading "⑤ ロジクール K120" [level=2]
+    - figure:
+      - link "ロジクール 有線 キーボード 耐水 K120 USB接続 日本語配列 テンキー 薄型 有線キーボード 国内正規品 www.amazon.co.jp 2,200円 (2026年10月10日 10:46時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B00BJZ2JWC?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ロジクール 有線 キーボード 耐水 K120 USB接続 日本語配列 テンキー 薄型 有線キーボード 国内正規品
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,200円
+        - text: (2026年10月10日 10:46時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B00BJZ2JWC?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 日々の入力用に、USBへつなぐだけのシンプルな一台を探す人向けです。フルサイズのテンキーと曲線状のスペースバーを備え、数字も文章もひとつの配列で扱えるのが選定理由。高さを変えられる脚があり、机に据え置く道具として比較しやすいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：USB有線
+          - text: ・配列：日本語・テンキー付き
+          - text: ・電源：USB給電
+          - text: ・機能：角度調節用ティルトレッグ
+          - text: ・設計：耐水（防水ではありません）
+    - heading "⑥ バッファロー BSKBW125BK" [level=2]
+    - figure:
+      - link "バッファロー キーボード ワイヤレス BSKBW125BK www.amazon.co.jp 1,660円 (2026年10月10日 10:46時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08CRN2P44?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: バッファロー キーボード ワイヤレス BSKBW125BK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,660円
+        - text: (2026年10月10日 10:46時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08CRN2P44?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: テンキー付きの無線モデルを、デスクで長く使いたい人向けに調べた一台です。スペースキー付近に広がりを持たせたカーブ形状が特徴で、親指を置く位置を選びやすい構成。受信機をUSBポートへ挿して使え、配線を減らしたい場合にも向いています。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：2.4GHz（USB-Aレシーバー）
+          - text: ・配列：日本語108キー・テンキー付き
+          - text: ・キー方式：メンブレン
+          - text: ・キーピッチ／ストローク：19mm／3mm
+          - text: ・電源：単3形乾電池または充電池1本
+    - heading "⑦ Omikamo タッチパッド付き折りたたみキーボード" [level=2]
+    - figure:
+      - link "【最新型】Omikamo キーボード bluetooth 折り畳み式 ワイヤレス JIS標準日本語配列 ipad キーボード スマホ マルチペアリング www.amazon.co.jp 6,980円 (2026年10月10日 10:46時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CWKWXP37?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 【最新型】Omikamo キーボード bluetooth 折り畳み式 ワイヤレス JIS標準日本語配列 ipad キーボード スマホ マルチペアリング
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 6,980円
+        - text: (2026年10月10日 10:46時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CWKWXP37?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: タブレットで文章を書く際に、ポインター操作の道具もまとめて持ち歩きたい人向けです。日本語配列のキーボードとタッチパッドを折りたたんで収納できる点を重視しました。入力中はタッチパッドをキー操作でオフにできるため、文章作成と画面操作を使い分けやすい構成です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth
+          - text: ・配列：JIS標準日本語配列・かな印字付き
+          - text: ・キー方式：パンタグラフ
+          - text: ・登録台数：最大3台（切り替え使用）
+          - text: ・機能：折りたたみ／タッチパッド無効化
+    - heading "⑧ iClever IC-BK06" [level=2]
+    - figure:
+      - link "iClever 折りたたみ Bluetooth キーボード- 多ペアリング対応 360度回転可能 超軽量薄型 レザー保護カバー付き 折れない設計 iPad/iPhone/Mac/Android/Windows 対応 （ブラック）BK06 www.amazon.co.jp 4,990円 (2026年10月10日 10:46時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B01MA23P3J?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: iClever 折りたたみ Bluetooth キーボード- 多ペアリング対応 360度回転可能 超軽量薄型 レザー保護カバー付き 折れない設計 iPad/iPhone/Mac/Android/Windows 対応 （ブラック）BK06
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,990円
+        - text: (2026年10月10日 10:46時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B01MA23P3J?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: バッグへしまいやすさと、開いたときの手の置き方を重視する人向けの折りたたみ式です。左右に広がるV字の形状とパンタグラフ式のキーが、平らな小型モデルとの違い。英語配列が基本のため、日本語配列から乗り換える場合は記号キーやショートカットの配置を確認してみてください。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth
+          - text: ・配列：英語配列（US）
+          - text: ・キー方式：パンタグラフ
+          - text: ・形状：V字型・折りたたみ式
+          - text: ・電源：内蔵充電池（開閉で電源切り替え）
+    - heading "⑨ iClever DK02" [level=2]
+    - figure:
+      - link "iClever ワイヤレスキーボード Bluetooth・2.4GHz JIS日本語配列 コンパクト パンタグラフ Type-C充電 DK02 www.amazon.co.jp 3,799円 (2026年10月10日 10:46時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DBZNH3D3?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: iClever ワイヤレスキーボード Bluetooth・2.4GHz JIS日本語配列 コンパクト パンタグラフ Type-C充電 DK02
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,799円
+        - text: (2026年10月10日 10:46時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DBZNH3D3?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: デスクのPCとBluetooth端末を、コンパクトな一台で使い分けたい人向けです。受信機を使う無線接続とBluetoothの両方を備え、キー操作で接続先を切り替えられるのが選定理由。USB-C充電式なので、乾電池を常備するより充電の習慣に合わせたい場合にも向くはずです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：2.4GHz／Bluetooth
+          - text: ・配列：日本語82キー
+          - text: ・キー方式：パンタグラフ
+          - text: ・接続枠：USBレシーバー1台＋Bluetooth2台
+          - text: ・充電／重さ：USB-C／約327g
+    - heading "⑩ Keychron B1 Pro 日本語JIS配列" [level=2]
+    - figure:
+      - link "【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (シルバー（かな印字なし）, JISレイアウト) www.amazon.co.jp 6,930円 (2026年10月10日 10:47時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0FDW68VH4?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 【国内正規品】Keychron B1 Pro ウルトラスリム ワイヤレスキーボード、ZMKカスタマイズ、シザースイッチ、2.4 GHz/Bluetooth 5.2/有線接続、ロングバッテリーライフ、Mac Windows Linux対応 (シルバー（かな印字なし）, JISレイアウト)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 6,930円
+        - text: (2026年10月10日 10:47時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0FDW68VH4?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 薄型のキーボードで、接続方法やキーの割り当てにも選択肢を持ちたい人向けです。無線と有線を使い分けられ、Webアプリでキーをカスタマイズできる点を重視しました。掲載モデルはかな印字のない日本語配列で、ローマ字入力を中心に使いたい場合の比較候補です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：2.4GHz／Bluetooth 5.2／USB-C有線
+          - text: ・配列：日本語JIS・かな印字なし
+          - text: ・キー方式：シザースイッチ
+          - text: ・機能：Keychron Launcherでキー割り当て変更
+          - text: ・電源：内蔵充電池
+    - heading "最後に" [level=2]
+    - paragraph: デスクで数字を入力するならテンキー付き、端末を行き来するなら接続切り替え、外出先では収納時の形状が比較の目安になります。使う場所と入力する内容に合わせて、ご自身の仕事に合う一台を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 創作と集中を加速する。クリエイター向け生産性ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 創作と集中を加速する。クリエイター向け生産性ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4tdkjuu
+        - strong: 毎日ガジェット通信's Amazon Page - 創作と集中を加速する。クリエイター向け生産性ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4tdkjuu
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 文章入力の道具を見直す。仕事用「キーボード」10選｜毎日ガジェット通信｜note

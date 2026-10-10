@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-29",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-29_mouse.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-a7812476-69f0-4849-b425-273c76ad89ed.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-29_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "59f2c1248606fe7fd3dc8664987b17762127f6426da13df3da007e24a555d744",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-29_手元の操作を見直す。「ワイヤレスマウス」6選.md",
+    "07_operations/2026-11_codex/2026-11-29_sources.json",
+    "07_operations/2026-11_codex/2026-11-29_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "ワイヤレスマウス6選",
+    "count": "代表マウス1台",
+    "material": "灰色樹脂＋黒スクロール輪はM185/M220系に整合",
+    "structure": "左右クリックパネル1対・中央輪1つ・左右対称の丸い本体",
+    "use_case": "日常クリックとスクロール。全品静音/Bluetooth/充電式/レーザー/ジェスチャー対応を保証しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "natural_support": true,
+    "whole_hero_visible": true,
+    "thumbnail_subject_clear": true
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_assigned_date_files_changed": true,
+  "new_design": false
+}

@@ -15,5 +15,12 @@
   },
   "official_gate_passed": true,
   "saved_preview": "pending_main_publisher",
-  "unresolved_specs": []
+  "unresolved_specs": [],
+  "redirect_reselection": {
+    "description_80_200": true,
+    "specs_at_most_5": true,
+    "points_three": true,
+    "same_domestic_sku": true,
+    "other_products_modified": false
+  }
 }

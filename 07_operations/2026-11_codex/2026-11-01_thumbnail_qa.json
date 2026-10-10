@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-01",
+  "account": "daily_gadget",
+  "status": "local_visual_qa_passed_pending_main_article_and_note_crop_check",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-01_keyboard.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-56a55dcb-ae07-48b2-915b-796dc37f1c6f.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-01_thumbnail_prompt.md",
+  "sha256": "2eb8445876f6c9c7fd1c852ed2feec77314ca97d7f1b8ec901779d874a8bb124",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "existing_design_retained": true,
+  "five_point_audit": {
+    "article_format": "キーボードカテゴリ比較記事の代表1点イメージ",
+    "count": "キーボード1台のみ。ノート/マグ/植物は生活小物",
+    "material": "黒マットの薄いケース、平らな低いキー",
+    "structure": "薄型通常デスクトップキーボード。厚いメカニカルキーではない。無刻印の架空配置で日本語/英語/特定製品の正確な配列は主張しない",
+    "use_case": "仕事の机で文章を入力する道具"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text": true,
+    "no_logos_watermarks": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "complete_case_visible": true,
+    "low_profile_keycaps": true,
+    "natural_contact_shadow": true,
+    "thumbnail_subject_clear": true,
+    "notes": "原寸1672×941と320×180縮小を確認。整ったキー列、長いスペースバー、全周ケース可視。配列はカテゴリイメージのため厳密JIS/US一致とは扱わない。記事本文の仕様・noteトリムは主担当が最終確認。"
+  }
+}

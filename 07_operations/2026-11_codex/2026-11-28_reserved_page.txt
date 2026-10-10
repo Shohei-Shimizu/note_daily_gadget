@@ -1,0 +1,289 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月28日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322766066/rectangle_large_type_2_fe79b8c008046e4d69138260374694f6.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "なくした持ち物を探す。「紛失防止タグ」7選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月28日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 鍵や財布、バッグの置き場所をスマートフォンで確認する紛失防止タグ。GPS端末とは異なるBluetoothと探索ネットワークの仕組みで、持ち物に合わせて選べる7個を調べてまとめました。
+    - paragraph:
+      - text: 今回の7個は
+      - strong: 「対応するOSとネットワーク」、「取り付ける形」、「電池と充電の方法」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① UGREEN FineTrack":
+          - /url: "#c0f61ef1-cc23-4ee7-b5b9-3783ce559150"
+        - link "② Anker Eufy SmartTrack Card E30":
+          - /url: "#152703c4-ba5f-4695-b290-078b9c5aa961"
+        - link "③ Anker Eufy SmartTrack Link Android用":
+          - /url: "#dc484e13-9f58-42af-9f5d-6dd8b328fada"
+        - link "④ UGREEN Finder Duo 4個セット":
+          - /url: "#0bcd5741-2b54-4983-8fc9-65b91070f141"
+        - link "⑤ Tile Slim 2024":
+          - /url: "#6743ed8b-1df3-4f3f-b7b3-60808eef3482"
+        - link "⑥ Life360 Tile Pro ブラック":
+          - /url: "#01aeec0b-d959-476e-a0a3-579f2ed5e803"
+        - link "⑦ Apple AirTag 第2世代":
+          - /url: "#6902dcee-8841-4bf5-aa57-19b81d61067d"
+        - link "最後に":
+          - /url: "#5fc5e069-4135-4eb4-94f6-61a2d93c4411"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#f172e4f1-0107-4383-b24c-d53749398885"
+        - link "あわせて読みたい":
+          - /url: "#c2aead90-3614-457c-bd71-9307b0d27a8d"
+    - heading "① UGREEN FineTrack" [level=2]
+    - figure:
+      - link "UGREEN FineTrack 紛失防止タグ 探し物Appleの「探す」に対応 (iOS端末のみ) スマートトラッカー 1個 鍵/バッグ/財布用 黒 www.amazon.co.jp 2,299円 (2026年10月10日 13:30時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D53RXMB1?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN FineTrack 紛失防止タグ 探し物Appleの「探す」に対応 (iOS端末のみ) スマートトラッカー 1個 鍵/バッグ/財布用 黒
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,299円
+        - text: (2026年10月10日 13:30時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D53RXMB1?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 鍵やバッグにタグを付け、iPhoneの「探す」で置き場所を確認したい人向けです。近くなら音を鳴らし、離れた場所では周囲のApple端末からの検出を利用する構成。電池を交換して使えるので、充電の習慣を増やさずに持ち物へ取り付けたい場合に比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・対応ネットワーク：Apple「探す」
+          - text: ・対応OS：iOS／iPadOS 14.5以降
+          - text: ・電源：交換式CR2032電池
+          - text: ・サイズ：36×36×7.4mm
+          - text: ・選択セット：1個
+    - heading "② Anker Eufy SmartTrack Card E30" [level=2]
+    - figure:
+      - link "【アップグレード版】Anker Eufy (ユーフィ) SmartTrack Card E30 www.amazon.co.jp 4,680円 (2026年10月10日 13:30時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DWMPNCLC?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 【アップグレード版】Anker Eufy (ユーフィ) SmartTrack Card E30
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,680円
+        - text: (2026年10月10日 13:30時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DWMPNCLC?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 財布やカードケースへ、充電式の薄いカードを入れておきたい人向けです。Appleの「探す」に対応し、専用充電器で充電する構成。購入時は旧版と区別して改善版を確認し、マグネット式充電器は磁気カードの近くで使ったり保管したりしないよう、置き場所も考えて選びたい一枚です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・対応ネットワーク：Apple「探す」
+          - text: ・現行改善版型番：T87B1N12
+          - text: ・厚さ：約2.6mm
+          - text: ・充電：付属マグネット式充電器
+          - text: ・充電電源：USB Type-A充電器が別途必要
+    - heading "③ Anker Eufy SmartTrack Link Android用" [level=2]
+    - figure:
+      - link "Anker Eufy (ユーフィ) SmartTrack Link www.amazon.co.jp 2,990円 (2026年10月10日 13:30時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D9VTLK47?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker Eufy (ユーフィ) SmartTrack Link
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,990円
+        - text: (2026年10月10日 13:30時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D9VTLK47?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: Androidスマートフォンで鍵やバッグを探したい人向けです。GoogleのFind Hubに対応し、穴のあるタグをキーチェーンなどへ取り付ける構成。タグからスマートフォンを鳴らす機能はEufyアプリ側で使うため、位置情報の許可とアプリの設定も確認して選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・対応ネットワーク：Google Find Hub
+          - text: ・国内型番：T87B4N11
+          - text: ・電源：交換式CR2032電池
+          - text: ・防水：IPX4（本体・水没不可）
+          - text: ・キーチェーン用リング：別途用意
+    - heading "④ UGREEN Finder Duo 4個セット" [level=2]
+    - figure:
+      - link "UGREEN Finder Duo Android/iOS対応 紛失防止タグ USB-C充電式電池 財布/鍵/荷物/かばん用 4個セット www.amazon.co.jp 6,299円 (2026年10月10日 13:30時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0FRLWSGPW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN Finder Duo Android/iOS対応 紛失防止タグ USB-C充電式電池 財布/鍵/荷物/かばん用 4個セット
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 6,299円
+        - text: (2026年10月10日 13:30時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0FRLWSGPW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: iPhoneかAndroidのどちらかに合わせ、複数の持ち物へタグを付けたい人向けです。Appleの「探す」またはGoogleのFind Hubを選び、USB-Cで充電する構成。両方のOSへ同時登録はできないため、使うスマートフォンとネットワークを決めて選びたいセットです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・対応ネットワーク：Apple「探す」／Google Find Hub
+          - text: ・登録：どちらか一方のOSのみ
+          - text: ・電源：USB-C充電式
+          - text: ・選択セット：4個
+          - text: ・位置更新：近隣の対応端末による検出に依存
+    - heading "⑤ Tile Slim 2024" [level=2]
+    - figure:
+      - link "Life360 Tile slim カード型 スマートタグ 紛失防止タグ 最長3年電池 IP68 防水 105m Bluetooth 財布 パスケース iOS Android 対応 www.amazon.co.jp 4,380円 (2026年10月10日 13:31時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D99ZHVD2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Life360 Tile slim カード型 スマートタグ 紛失防止タグ 最長3年電池 IP68 防水 105m Bluetooth 財布 パスケース iOS Android 対応
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,380円
+        - text: (2026年10月10日 13:31時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D99ZHVD2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 財布や定期入れにカード型を入れ、iPhoneやAndroidから探したい人向けです。Tile独自のアプリとネットワークを使い、基本の音鳴らしや探索は無料。置き忘れ通知などには有料プランの条件があるため、必要な機能を確認し、電池を交換できない点も比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・形状：カード型・厚さ2.5mm
+          - text: ・対応：iOS／AndroidのTileアプリ
+          - text: ・探索ネットワーク：Tile独自
+          - text: ・電池：交換不可・充電不可
+          - text: ・防水・防塵：IP68（本体）
+    - heading "⑥ Life360 Tile Pro ブラック" [level=2]
+    - figure:
+      - link "Life360 Tile Pro 電池交換可 ハイスペックモデル ブラック スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 音を鳴らして場所をお知らせ 防水機能Bluetooth接続範囲外でも探せる 縦長 iOS Android 対応 カギやバッグに www.amazon.co.jp 6,310円 (2026年10月10日 13:31時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D9B21YQP?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Life360 Tile Pro 電池交換可 ハイスペックモデル ブラック スマートトラッカー スマートタグ 紛失防止タグ 置き忘れ防止 音を鳴らして場所をお知らせ 防水機能Bluetooth接続範囲外でも探せる 縦長 iOS Android 対応 カギやバッグに
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 6,310円
+        - text: (2026年10月10日 13:31時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D9B21YQP?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 鍵やバッグへ取り付け、電池を交換しながら使いたい人向けです。Tileアプリで音を鳴らし、離れた場所ではTileネットワークからの検出を利用する構成。地図の表示は最後に確認された場所で、持ち物が動いていれば現在地と異なることもあるため、更新時刻も確認して使いたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・選択世代：2024年モデル
+          - text: ・対応：iOS／AndroidのTileアプリ
+          - text: ・電源：交換式CR2032電池
+          - text: ・防水・防塵：IP68（本体）
+          - text: ・料金：基本探索無料／追加機能は有料プランあり
+    - heading "⑦ Apple AirTag 第2世代" [level=2]
+    - figure:
+      - link "Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載 www.amazon.co.jp 4,793円 (2026年10月10日 13:31時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0GJTW9CL8?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Apple AirTag（第2世代）：紛失防止タグ、音で探せる、耐水 防塵 iPhone/iPad「探す」ネットワーク対応、探せる範囲が最大1.5 倍に広がった「正確な場所を見つける」機能搭載
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,793円
+        - text: (2026年10月10日 13:31時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0GJTW9CL8?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: iPhoneの「探す」で持ち物を探し、対応端末では近くの方向や距離も確認したい人向けです。コイン電池を交換できる構成。日本では精密探索の範囲拡張やApple Watchでの精密探索に制限があるため、使う端末のOSと、利用する地域の条件を合わせて確認したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・対応ネットワーク：Apple「探す」
+          - text: ・iPhone条件：iOS 26.2.1以降／Apple Account
+          - text: ・精密探索：UWB対応端末と地域条件が必要
+          - text: ・電源：交換式CR2032電池
+          - text: ・耐水・防塵：IP67（本体）
+    - heading "最後に" [level=2]
+    - paragraph: タグの位置更新は、スマートフォンとの接続や周囲の対応端末による検出に左右され、常にリアルタイムで分かるわけではありません。自分の持ち物に使い、OSと追加機能の料金、電池の管理方法を比べて、ご自身の使い方に合う一台を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ カフェも車内も。外出先で仕事を進めるモバイルガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4cPpADI
+        - strong: 毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4cPpADI
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: なくした持ち物を探す。「紛失防止タグ」7選｜毎日ガジェット通信｜note

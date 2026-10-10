@@ -1,0 +1,360 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月10日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322743809/rectangle_large_type_2_f5c9cf4ec13e3dbb5a69eb5d13f920db.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "端末の充電環境を見直す。「USB-C充電器」10選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月10日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 持ち歩く充電器を見直すときは、端末の必要電力と同時に充電する台数を揃えて考えると選びやすくなります。単ポートから複数ポートまで、USB-C充電器を10個調べてまとめました。
+    - paragraph:
+      - text: 今回の10個は
+      - strong: 「ポート構成」、「単独・同時充電時の出力」、「持ち運びのしやすさ」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① Anker Nano II 65W":
+          - /url: "#7f4b8572-cd5c-47f3-b6d9-7485d5c906cd"
+        - link "② UGREEN Nexode 45W":
+          - /url: "#cda95d33-ef57-404e-9604-278de157bd0c"
+        - link "③ UGREEN Uno Robot Charger 65W":
+          - /url: "#9eea2e1b-1cad-4a5e-a5e5-4f8d2b6866ee"
+        - link "④ Anker 511 Charger（Nano 3, 30W）":
+          - /url: "#25b85aaf-667f-404b-b850-f62a7732583e"
+        - link "⑤ CIO NovaPort TRIOⅡ 67W 2C1A":
+          - /url: "#5c005a83-8861-4b2c-a93a-733b91f57a0f"
+        - link "⑥ 多摩電子工業 Permier PR-AP146UC2W":
+          - /url: "#6a766d19-11a0-4f6f-827e-d27299c0b361"
+        - link "⑦ エレコム EC-AC8565BK":
+          - /url: "#de75ebb8-da1b-4714-b755-a29c8f9cdc25"
+        - link "⑧ エレコム EC-AC10367WF":
+          - /url: "#a72da982-29d9-4cee-bd6c-ac9a0fe3cee4"
+        - link "⑨ Belkin BoostCharge Pro 65W デュアルUSB-C":
+          - /url: "#280615a2-e8e1-497d-80dd-6fc5d5cdef7e"
+        - link "⑩ CIO NovaPort DUOⅡ 67W 2C":
+          - /url: "#a3a99887-0601-45c2-a07c-5bc172d3c52e"
+      - button "すべて表示":
+        - generic: すべて表示
+    - heading "① Anker Nano II 65W" [level=2]
+    - figure:
+      - link "Anker Nano II 65W www.amazon.co.jp 3,090円 (2026年10月10日 12:06時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08X11GD52?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker Nano II 65W
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,090円
+        - text: (2026年10月10日 12:06時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08X11GD52?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: ノートPCの充電器を、USB-Cで使う小型の一台に置き換えたい人向けです。単独のポートへ必要な電力をまとめる構成で、複数端末の同時充電より持ち出す道具を絞る用途を重視しました。折りたたみプラグがあり、ポーチにしまいやすい形です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・ポート：USB-C×1
+          - text: ・最大出力：65W
+          - text: ・規格：USB Power Delivery
+          - text: ・プラグ：折りたたみ式
+          - text: ・本体重量：約112g
+    - heading "② UGREEN Nexode 45W" [level=2]
+    - figure:
+      - link "UGREEN Nexode 45W PD充電器 タイプc USB-C*2 PD3.0/PPS急速充電器 PSE適合 GaNII www.amazon.co.jp 3,380円 (2026年10月10日 12:06時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0B38TWKVR?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN Nexode 45W PD充電器 タイプc USB-C*2 PD3.0/PPS急速充電器 PSE適合 GaNII
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,380円
+        - text: (2026年10月10日 12:06時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0B38TWKVR?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: スマートフォンとタブレットなど、USB-C端末を一緒に充電したい人向けです。単独で使うときと同時に使うときで出力が変わるため、充電したい機器の組み合わせを決めて比較するモデル。接続機器に応じて電圧を調整するPPSにも対応しています。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・ポート：USB-C×2
+          - text: ・単ポート最大出力：45W
+          - text: ・2ポート同時：25W＋20W
+          - text: ・規格：USB PD 3.0／PPS
+          - text: ・半導体：GaN
+    - heading "③ UGREEN Uno Robot Charger 65W" [level=2]
+    - figure:
+      - link "UGREEN Uno 65W PD 充電器 ロボット型 USB-C充電器 PSE適合 PD/PPS/QC4+対応 www.amazon.co.jp 6,280円 (2026年10月10日 12:06時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0C6DX66TN?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN Uno 65W PD 充電器 ロボット型 USB-C充電器 PSE適合 PD/PPS/QC4+対応
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 6,280円
+        - text: (2026年10月10日 12:06時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0C6DX66TN?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 給電だけでなく、充電器の見た目にも好みを反映したい人向けのモデルです。ロボットの表情を表示する画面と、USB-C・USB-Aを備えた構成を確認しました。モバイルバッテリーとは異なりコンセントで使う製品で、端末の同時接続時は出力配分を確認したい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・ポート：USB-C×2／USB-A×1
+          - text: ・USB-C単ポート最大出力：65W（対応ポート使用時）
+          - text: ・機能：充電状態を表示するLCD
+          - text: ・規格：USB PD 3.0
+          - text: ・電源：コンセント接続
+    - heading "④ Anker 511 Charger（Nano 3, 30W）" [level=2]
+    - figure:
+      - link "Anker 511 Charger (Nano 3, 30W) ホワイト www.amazon.co.jp 2,790円 (2026年10月10日 12:06時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0B2QR8HN9?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker 511 Charger (Nano 3, 30W) ホワイト
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,790円
+        - text: (2026年10月10日 12:06時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0B2QR8HN9?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: スマートフォンを中心に、持ち歩く充電器を小さくしたい人向けです。USB-Cの単ポートと折りたたみプラグを備え、使う端末をひとつに絞った充電環境に合わせやすい構成。大きな電力が必要なPC用と分け、身軽に携帯する道具として候補へ入れました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・ポート：USB-C×1
+          - text: ・最大出力：30W
+          - text: ・規格：USB PD／PPS
+          - text: ・プラグ：折りたたみ式
+          - text: ・本体重量：約40g
+    - heading "⑤ CIO NovaPort TRIOⅡ 67W 2C1A" [level=2]
+    - figure:
+      - link "CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック） www.amazon.co.jp 6,589円 (2026年10月10日 12:07時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D53VJJ7F?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: CIO NovaPort TRIOⅡ 65W 2C1A PD急速充電器 USB-C×2+USB-A×1 3台同時充電 世界最小級（ブラック）
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 6,589円
+        - text: (2026年10月10日 12:07時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D53VJJ7F?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: USB-CのPCやスマートフォンに加え、USB-Aの小物も充電したい人向けです。端末に合わせて電力を振り分ける機能を備え、机でも外出先でも機器を組み合わせて使える構成。同時接続するポートによって配分が異なるため、必要な電力を先に確認して選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・ポート：USB-C×2／USB-A×1
+          - text: ・USB-C単ポート最大出力：67W
+          - text: ・USB-C2ポート同時：45W＋20Wなど（合計最大65W）
+          - text: ・3ポート同時：USB-C1最大45W＋残り2ポート合計15W
+          - text: ・本体重量：約109g
+    - heading "⑥ 多摩電子工業 Permier PR-AP146UC2W" [level=2]
+    - figure:
+      - link "多摩電子工業 PD65W AC急速充電器 USB x3 (USB-C x2、USB-A x1) Permier PR-AP146UC2W (ホワイト) GaN PSE 折りたたみ式プラグ iPhone 18 / 17 / 16/ iPhoneAir 他/Android MacBook Japan Travel Fast Charging Japan Quality B2B www.amazon.co.jp 2,480円 (2026年10月10日 12:07時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CMCD9DY3?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 多摩電子工業 PD65W AC急速充電器 USB x3 (USB-C x2、USB-A x1) Permier PR-AP146UC2W (ホワイト) GaN PSE 折りたたみ式プラグ iPhone 18 / 17 / 16/ iPhoneAir 他/Android MacBook Japan Travel Fast Charging Japan Quality B2B
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,480円
+        - text: (2026年10月10日 12:07時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CMCD9DY3?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: USB-C端末と従来のUSB-A小物を、同じ充電器で使いたい人向けです。回転するプラグと複数の出力ポートを備え、移動時にもまとめて持ち出せる構成。同時接続時は使うポートで出力が変わるため、PC用と小物用の差し込み先を決めておきたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・ポート：USB-C×2／USB-A×1
+          - text: ・USB-C単ポート最大出力：65W
+          - text: ・USB-C2ポート同時：45W＋20W
+          - text: ・3ポート同時：USB-C1最大45W＋残り2ポート合計15W
+          - text: ・本体重量：約123g
+    - heading "⑦ エレコム EC-AC8565BK" [level=2]
+    - figure:
+      - link "エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK www.amazon.co.jp 3,020円 (2026年10月10日 12:07時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CTJDLWV4?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム 充電器 65W USB PD対応 小型 Type-C 1ポート PPS対応 GaN II採用 PSE認証 ブラック 【iPhone 16 15 iPad Macbook 等対応】 EC-AC8565BK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,020円
+        - text: (2026年10月10日 12:07時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CTJDLWV4?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: USB-CのPCやスマートフォンを、必要に応じて差し替えて充電する人向けです。ポートを増やさず単独充電に絞り、ケーブルは使いたい長さを別に選べる構成。折りたたみプラグとPPSへの対応を、持ち運ぶ充電器を見直す比較軸として確認しました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・ポート：USB-C×1
+          - text: ・最大出力：65W（PD／PPS）
+          - text: ・プラグ：90度スイング
+          - text: ・サイズ：約45.2×38.1×43.8mm
+          - text: ・本体重量：約98g
+    - heading "⑧ エレコム EC-AC10367WF" [level=2]
+    - figure:
+      - link "エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 しろちゃん EC-AC10367WF www.amazon.co.jp 3,490円 (2026年10月10日 12:07時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0F43N4Z21?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム 充電器 合計65W 3ポート Type-C USB-A USB PD対応 スイング式プラグ採用 しろちゃん EC-AC10367WF
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,490円
+        - text: (2026年10月10日 12:07時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0F43N4Z21?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: スマートフォンや小物を組み合わせて、まとめて充電したい人向けです。USB-CとUSB-Aを備え、単独使用と同時使用で出力を振り分ける構成。USB-A機器を残しながらUSB-Cへ移行したい場合の候補で、複数台を使う際はポート別の配分を確認してみてください。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・ポート：USB-C×2／USB-A×1
+          - text: ・USB-C単ポート最大出力：67W
+          - text: ・USB-C2ポート同時：45W＋20W（合計65W）
+          - text: ・3ポート同時：40W＋10W＋10W（合計60W）
+          - text: ・プラグ：スイング式
+    - heading "⑨ Belkin BoostCharge Pro 65W デュアルUSB-C" [level=2]
+    - figure:
+      - link "Belkin BoostCharge Pro GaN 65W 充電器 type-c USB-C×2 2台同時充電 急速充電 ホワイト www.amazon.co.jp 4,743円 (2026年10月10日 12:07時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0B5QKMCZD?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Belkin BoostCharge Pro GaN 65W 充電器 type-c USB-C×2 2台同時充電 急速充電 ホワイト
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,743円
+        - text: (2026年10月10日 12:07時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0B5QKMCZD?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: USB-C端末を一緒に充電し、PC用とスマホ用のポートを分けて使いたい人向けです。同時使用時は上部と下部のポートで出力が異なり、充電する機器に合わせて差し込み先を選ぶ構成。PPSと折りたたみプラグも備え、持ち出す充電器の候補に入れました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・ポート：USB-C×2
+          - text: ・単ポート最大出力：65W
+          - text: ・2ポート同時：上部45W＋下部20W
+          - text: ・規格：USB PD 3.0／PPS
+          - text: ・プラグ：折りたたみ式
+    - heading "⑩ CIO NovaPort DUOⅡ 67W 2C" [level=2]
+    - figure:
+      - link "CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック） www.amazon.co.jp 5,480円 (2026年10月10日 12:08時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D53VKL36?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: CIO NovaPort DUOⅡ 65W PD急速充電器 USB-C×2 2台同時充電 世界最小級（ブラック）
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 5,480円
+        - text: (2026年10月10日 12:08時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D53VKL36?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: USB-C端末を中心に使い、USB-Aポートは必要ない人向けの比較候補です。接続する端末に合わせて電力を振り分ける構成で、PCとスマートフォンをまとめて充電する場面に向きます。TRIOⅡと比べる際は出力だけでなく、手持ちのケーブル端子も確認したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・ポート：USB-C×2
+          - text: ・単ポート最大出力：67W
+          - text: ・2ポート同時：45W＋20Wなど（合計最大65W）
+          - text: ・規格：USB PD 3.0／PPS
+          - text: ・本体重量：約104g
+    - heading "最後に" [level=2]
+    - paragraph: ひとつの端末を充電するなら単ポート、PCとスマートフォンをまとめるなら同時使用時の配分が比較の目安です。端末の対応規格と必要電力を確認し、その出力に対応したケーブルも用意して、ご自身の使い方に合う一台を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ カフェも車内も。外出先で仕事を進めるモバイルガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4cPpADI
+        - strong: 毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4cPpADI
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert

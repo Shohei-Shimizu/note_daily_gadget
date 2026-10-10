@@ -105,10 +105,20 @@
         "型番：PTSPGW",
         "画面：3.97インチ",
         "重量：約125g",
-        "付属グローバル通信：2年（初期設定の有効化から）",
+        "通信モデル仕様：2年（初回有効化から／中古品は残り期間を確認）",
         "期限後：Wi-Fi／テザリング利用または有料延長"
       ],
-      "check": "国内PTSPGW白SPlusとFeatures通信2年一致。公式同型番6ヶ月版もあり型番だけで付属期間を推定しない。S/SPlus共通manual起算・現延長資料・公式型番表照合。S2Plusと別世代、W翻訳終了はS/SPlus対象外。"
+      "check": "国内PTSPGW白SPlusとFeatures通信2年一致。公式同型番6ヶ月版もあり型番だけで付属期間を推定しない。S/SPlus共通manual起算・現延長資料・公式型番表照合。S2Plusと別世代、W翻訳終了はS/SPlus対象外。 主作業GUIで同ASINタイトルS Plus PTSPGW・グローバル通信2年、選択S Plus 1_端末のみ・Features2年を確認。ただし現購入枠は中古のみ。新品同様の残り2年を示唆せず、本文とスペックに中古品の開始状況と残期間確認を追記。",
+      "main_gui_evidence": {
+        "source": "parent root GUI verification reported in delegated task",
+        "asin": "B08BP1912B",
+        "title_model": "S Plus PTSPGW グローバル通信2年モデル",
+        "selected_option": "S Plus 1_端末のみ",
+        "condition": "used_only_at_check",
+        "new_availability_confirmed": false,
+        "communication_remaining_period": "not_confirmed_for_used_unit",
+        "buyer_caution": "中古品は通信の利用開始状況と残り期間を購入前に確認"
+      }
     }
   ],
   "related_article_sources": [
@@ -141,6 +151,6 @@
     "pocketalk_end": "現公式SIM延長はS/S2対象。期限後WiFi/テザリング継続。オンライン/serial延長は期限1年前〜期限後363日、新SIM交換は随時。価格は省略。",
     "q1_phone": "国内公式最初10分無料、追加900円/10分はサポート購入。月ごとの無料回復とは記載しない。",
     "w12_offline": "当該Featuresと国内公式10言語一致（英/日/西/中/アラビア/露/仏/独/韓/タイ）。写真オンライン専用。国内Featuresダウンロード不要。海外改版16言語の数値を転用しない。",
-    "pocketalk_bundle": "PTSPGWに6ヶ月版もある。今回当該候補Featuresに2年モデル明記、型番のみで期限を固定しない。入稿通常GUIで通信付属プラン照合。"
+    "pocketalk_bundle": "PTSPGWに6ヶ月版もある。今回当該候補Featuresに2年モデル明記、型番のみで期限を固定しない。入稿通常GUIで通信付属プラン照合。 主作業の同ASIN GUI照合で2年モデル確認済み。ただし中古のみのため通信起算は初回有効化、利用開始済み/残期間を購入前確認、新たに2年付与とはしない。"
   }
 }

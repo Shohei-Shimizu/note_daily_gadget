@@ -1,0 +1,355 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月12日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322745864/rectangle_large_type_2_019ed1ff04b1e8089d9bf022ff18a73b.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "会議も音楽も持ち歩く。「ワイヤレスイヤホン」10選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月12日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 移動中の音楽と仕事の通話を、同じイヤホンで使いたい場面は多いものです。接続方法や通話機能を確認できるワイヤレスイヤホンを10個調べてまとめました。
+    - paragraph:
+      - text: 今回の10個は
+      - strong: 「接続先の切り替え」、「通話機能」、「装着と音の聞き方」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① Anker Soundcore P40i":
+          - /url: "#4d981825-97a7-41c1-86fe-dac034caf47d"
+        - link "② TOZO NC9":
+          - /url: "#7dd1e19f-9fa1-48b9-9041-e2696c0c9600"
+        - link "③ EarFun Air Pro 4":
+          - /url: "#ea9e2fd1-04ac-4694-84d9-8eb1adadcf52"
+        - link "④ Xiaomi REDMI Buds 8 Lite":
+          - /url: "#923cc92e-9657-42c5-b6a2-22dd2cb7dc69"
+        - link "⑤ Anker Soundcore Liberty 5":
+          - /url: "#98c7222d-3384-49e0-b8cd-51ddd8aee717"
+        - link "⑥ ソニー WF-1000XM5":
+          - /url: "#de28b3b9-65d1-45d6-a916-b12e443ebebd"
+        - link "⑦ Apple AirPods Pro 3":
+          - /url: "#2e722e57-9354-4a92-9e40-ec4224e87655"
+        - link "⑧ SOUNDPEATS C30":
+          - /url: "#2eb506e7-fcdc-4d0c-8e7c-bd7c99cbaeda"
+        - link "⑨ Bose Ultra Open Earbuds":
+          - /url: "#1cdd12ab-e518-46a5-bed6-a4001dd66c67"
+        - link "⑩ JBL SOUNDGEAR SENSE":
+          - /url: "#587cc72e-4f6c-4a84-928c-f2463c8201ef"
+      - button "すべて表示":
+        - generic: すべて表示
+    - heading "① Anker Soundcore P40i" [level=2]
+    - figure:
+      - link "Anker Soundcore P40i ブラック www.amazon.co.jp 6,780円 (2026年10月10日 12:14時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CP4RQZ3L?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker Soundcore P40i ブラック
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 6,780円
+        - text: (2026年10月10日 12:14時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CP4RQZ3L?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: PCでの会議とスマホの音楽を同じイヤホンにまとめたい人向けの候補です。マルチポイントによる端末切り替えと、マイク・AIによる通話ノイズ低減を備える構成。充電ケースも使った再生時間は、本体だけで続けて使える時間とは異なるため、会議の長さに合わせて確認しておきたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth 5.3・マルチポイント
+          - text: ・通常再生：本体最大12時間・ケース使用時最大60時間
+          - text: ・ANC再生：本体最大10時間・ケース使用時最大50時間
+          - text: ・通話：6マイク・AIノイズ低減
+    - heading "② TOZO NC9" [level=2]
+    - figure:
+      - link "TOZO NC9 VGP2026受賞【アップグレード版】ワイヤレスイヤホン Bluetoothイヤホン ハイブリッドANC搭載 最大45dBノイズ低減 外音取り込み 豊かな中低音サウンド アプリ対応・カスタムEQ 最大60時間再生 ENC通話ノイズリダクション マイク内蔵 USB-C急速充電 高い防水性能 WEB会議 通勤 通学 スポーツ （ ブラック www.amazon.co.jp 5,990円 (2026年10月10日 12:14時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DK53QZ8J?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: TOZO NC9 VGP2026受賞【アップグレード版】ワイヤレスイヤホン Bluetoothイヤホン ハイブリッドANC搭載 最大45dBノイズ低減 外音取り込み 豊かな中低音サウンド アプリ対応・カスタムEQ 最大60時間再生 ENC通話ノイズリダクション マイク内蔵 USB-C急速充電 高い防水性能 WEB会議 通勤 通学 スポーツ （ ブラック
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 5,990円
+        - text: (2026年10月10日 12:14時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DK53QZ8J?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 通話と音楽でノイズ低減の役割を使い分けたい人向けに調べた候補です。聞く側の周囲音を抑えるANCと、マイクから送る音声のノイズを低減するENCを備えます。アプリで音質も調整できるため、接続するPCやスマホの設定を確認しながら使いたいモデル。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth 5.3
+          - text: ・機能：ANC・外音取り込み
+          - text: ・通話：6マイクENC
+          - text: ・調整：TOZOアプリのEQ
+    - heading "③ EarFun Air Pro 4" [level=2]
+    - figure:
+      - link "【VGP 2025 金賞】EarFun Air Pro 4 ワイヤレスイヤホン Bluetooth 5.4/50dBアダプティブ式 ハイブリッドANC www.amazon.co.jp 7,989円 (2026年10月10日 12:14時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D4Z8KJXY?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 【VGP 2025 金賞】EarFun Air Pro 4 ワイヤレスイヤホン Bluetooth 5.4/50dBアダプティブ式 ハイブリッドANC
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 7,989円
+        - text: (2026年10月10日 12:14時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D4Z8KJXY?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 移動中の音楽とオンライン会議を両方使う人向けの候補です。ANCと通話用マイクを備え、アプリで接続や音質を調整する構成。高音質コーデックを有効にすると再生時間や接続機能の条件が変わるため、会議に使う端末との組み合わせを確認しておきたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth 5.4
+          - text: ・機能：アダプティブANC・外音取り込み
+          - text: ・通話：6マイク・AIノイズ低減
+          - text: ・通常再生：本体最大11時間・ケース込み52時間（ANC/LDACオフ）
+          - text: ・ANC再生：本体最大7.5時間・ケース込み35時間（LDACオフ）
+    - heading "④ Xiaomi REDMI Buds 8 Lite" [level=2]
+    - figure:
+      - link "Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生 www.amazon.co.jp 3,717円 (2026年10月10日 12:15時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0FRSCXWSV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホン Bluetooth 5.4 ノイズキャンセリング ANC 36時間再生
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,717円
+        - text: (2026年10月10日 12:15時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0FRSCXWSV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: PCとスマホをつなぎ、着信時の切り替えを重視する人向けの候補です。デュアルデバイス接続に対応し、アプリで音質やタッチ操作を調整できる構成。ANCと通話のノイズ低減は別の役割なので、音楽と会議それぞれの設定を確かめながら使いたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth 5.4・デュアルデバイス接続
+          - text: ・コーデック：SBC・AAC
+          - text: ・機能：ANC・外音取り込み
+          - text: ・アプリ：Xiaomi Earbuds
+    - heading "⑤ Anker Soundcore Liberty 5" [level=2]
+    - figure:
+      - link "Anker Soundcore Liberty 5 ミッドナイトブラック www.amazon.co.jp 14,990円 (2026年10月10日 12:16時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DRVB48LJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker Soundcore Liberty 5 ミッドナイトブラック
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 14,990円
+        - text: (2026年10月10日 12:16時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DRVB48LJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 端末切り替えと音楽のコーデックを両立したい人向けに候補へ入れました。LDACやDolby Audioをマルチポイントと併用でき、通話にはマイクとAIによるノイズ低減を使う構成です。LDACは対応端末とアプリ設定が必要なので、接続元も含めて機能を確認してみてください。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth 5.4・マルチポイント
+          - text: ・コーデック：SBC・AAC・LDAC
+          - text: ・通常再生：本体最大12時間・ケース使用時最大48時間
+          - text: ・ANC再生：本体最大8時間・ケース使用時最大32時間
+          - text: ・通話：6マイク・AIノイズ低減
+    - heading "⑥ ソニー WF-1000XM5" [level=2]
+    - figure:
+      - link "ソニー(SONY)ワイヤレスノイズキャンセリングイヤホン WF-1000XM5 :【VGP2025金賞】 / 完全ワイヤレス/圧倒的ノイズキャンセリング性能/小型軽量設計/高性能マイク通話品質/Amazon Alexa搭載/Bluetooth/LDAC対応 / 最大8時間連続再生 / IPX4防滴性能 / マルチポイント対応/ブラック/WF-1000XM5 BC www.amazon.co.jp 24,000円 (2026年10月10日 12:16時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CBKQZXT7?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ソニー(SONY)ワイヤレスノイズキャンセリングイヤホン WF-1000XM5 :【VGP2025金賞】 / 完全ワイヤレス/圧倒的ノイズキャンセリング性能/小型軽量設計/高性能マイク通話品質/Amazon Alexa搭載/Bluetooth/LDAC対応 / 最大8時間連続再生 / IPX4防滴性能 / マルチポイント対応/ブラック/WF-1000XM5 BC
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 24,000円
+        - text: (2026年10月10日 12:16時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CBKQZXT7?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 端末の切り替えに加え、相手へ声を送る仕組みも重視して調べた候補です。骨伝導センサーとボイスピックアップを通話に用い、PCとスマホを同時接続できる構成。使う会議アプリ側のマイクや出力先も合わせて設定し、音楽と通話を使い分けたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth・2台同時マルチポイント
+          - text: ・機能：ANC・外音取り込み
+          - text: ・通話：高精度ボイスピックアップ・骨伝導センサー
+          - text: ・重量：約5.9g（片耳）
+    - heading "⑦ Apple AirPods Pro 3" [level=2]
+    - figure:
+      - link "Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電 www.amazon.co.jp 42,800円 (2026年10月10日 12:17時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、ライブ翻訳、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 42,800円
+        - text: (2026年10月10日 12:17時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: iPhoneやMacを中心に使い、音楽と通話を同じイヤホンで扱いたい人向けの候補です。ANCや外部音取り込みを備え、対応するAppleデバイスとの連携も考えられる構成。他社の端末でもBluetoothイヤホンとして使えますが、一部機能が制限される点を確認しておきたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth 5.3
+          - text: ・ANC再生：本体最大8時間・ケース使用時最大24時間
+          - text: ・充電ケース：USB-C・MagSafe・Qi対応
+          - text: ・重量：5.55g（片耳）
+    - heading "⑧ SOUNDPEATS C30" [level=2]
+    - figure:
+      - link "SOUNDPEATS(サウンドピーツ) C30 ノイズキャンセリング ワイヤレスイヤホン ブラックグレー www.amazon.co.jp 3,778円 (2026年10月10日 12:17時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0FWC7ZSTK?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: SOUNDPEATS(サウンドピーツ) C30 ノイズキャンセリング ワイヤレスイヤホン ブラックグレー
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,778円
+        - text: (2026年10月10日 12:17時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0FWC7ZSTK?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: PCとスマホの切り替えを使いつつ、音楽の設定も調整したい人向けの候補です。ANCと通話用のAIノイズ低減を備え、アプリで音質や操作を変更できる構成。LDACを使っている間はマルチポイントが利用できないため、会議と音楽で優先する機能を決めておきたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・機能：アダプティブANC・外音取り込み
+          - text: ・コーデック：LDAC・AAC・SBC
+          - text: ・通話：6マイク・AIノイズ低減
+          - text: ・接続：マルチポイント（LDAC使用時は利用不可）
+    - heading "⑨ Bose Ultra Open Earbuds" [level=2]
+    - figure:
+      - link "Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック www.amazon.co.jp 21,580円 (2026年10月10日 12:18時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CSKFY1Q2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Bose Ultra Open Earbuds 空間オーディオ イヤホン オープンイヤー 完全 ワイヤレス Bluetooth接続 マイク付 最大7.5時間再生 防滴 ブラック
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 21,580円
+        - text: (2026年10月10日 12:18時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CSKFY1Q2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 周囲の声を聞きながら音楽や通話を使いたい人向けの候補です。耳を塞がない構造で、ANCによって周囲を静かにするタイプとは使い方が異なります。マルチポイントはソフトウェア更新で対応するため、アプリで更新を確認してから端末の切り替えを設定したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・形式：オープンイヤー
+          - text: ・接続：Bluetooth・2台同時マルチポイント（更新が必要）
+          - text: ・機能：通話マイク・Bose OpenAudio
+          - text: ・防滴：IPX4
+    - heading "⑩ JBL SOUNDGEAR SENSE" [level=2]
+    - figure:
+      - link "JBL SOUNDGEAR SENSE 完全ワイヤレスイヤホン/オープンイヤー/マルチポイント / IP54防水 / Bluetooth5.3 / 耳を塞がない/音漏れ防止/ブルー/JBLSNDGEARSNSBLU www.amazon.co.jp 8,280円 (2026年10月10日 12:24時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DJNXH5KV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: JBL SOUNDGEAR SENSE 完全ワイヤレスイヤホン/オープンイヤー/マルチポイント / IP54防水 / Bluetooth5.3 / 耳を塞がない/音漏れ防止/ブルー/JBLSNDGEARSNSBLU
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 8,280円
+        - text: (2026年10月10日 12:24時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DJNXH5KV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 周囲の音も聞きながら、音楽と通話を使い分けたい人向けのオープンイヤー型です。角度を調整できるイヤーフックと、付属の着脱式ネックバンドで装着方法を選べる構成。マルチポイントにも対応し、PCとスマートフォンを行き来する場面の候補として入れました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth 5.3／マルチポイント
+          - text: ・通話用マイク：左右合計4基
+          - text: ・音楽再生：本体最大約6時間＋ケース約18時間
+          - text: ・防水防塵：IP54（イヤホン本体）
+          - text: ・付属品：着脱式ネックバンド
+    - heading "最後に" [level=2]
+    - paragraph: 端末を切り替える接続機能と、声を相手へ届ける通話機能は別のものです。PCや会議アプリとの相性、コーデックの利用条件を確認し、音楽と通話の両方に合う一台を探してみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/42HITJ4
+        - strong: 毎日ガジェット通信's Amazon Page - 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/42HITJ4
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 会議も音楽も持ち歩く。「ワイヤレスイヤホン」10選｜毎日ガジェット通信｜note

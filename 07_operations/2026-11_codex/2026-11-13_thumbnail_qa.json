@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-13",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen_with_targeted_framing_edit",
+  "output_path": "04_thumbnail/2026-11/2026-11-13_backpack.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-68d79663-631a-4b27-adf2-6da8b93ed549.png",
+  "initial_rejected_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-086b5008-4014-4adf-826c-bedc1803f814.png",
+  "regeneration_reason": "初版上部持手が上端20px程度でnote横長トリムに弱い。カメラを引いて上部約120px/下部約160pxを確保。",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-13_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "9008f203603360359efb64bd125135d495a0d2890c846a2d7757b5b179931300",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-13_PCと小物をまとめて持ち歩く。「ビジネスリュック」5選.md",
+    "07_operations/2026-11_codex/2026-11-13_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "ビジネスPCリュック5商品比較、代表1台",
+    "count": "バックパック1個。別バッグ/スーツケース/機器陳列なし",
+    "material": "灰黒の布外装、パッド入り内張り。採用品のビジネス布バッグ群のカテゴリ分類と一致、精密素材/耐水性は画像から断定しない",
+    "structure": "角丸四角の背負い袋、左右連続肩紐と上部持手、ファスナー開口/PC内ポケット。ELECOM/THULE/Incase/ACEビジネスPCリュック分類を代表、全品同容量/形状とは主張しない",
+    "use_case": "PCと小物を仕事へ持参する。PC本体や画面は描かず収納可能な特定実寸/インチを保証しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_text_brand_watermark": true,
+    "no_people_hands": true,
+    "one_central_backpack": true,
+    "no_comparison_luggage": true,
+    "coherent_handle_straps_zipper": true,
+    "natural_contact_shadow": true,
+    "whole_backpack_visible": true,
+    "crop_clearance_top_bottom": true,
+    "thumbnail_subject_clear": true,
+    "notes": "薄型/軽量/完全防水を絵で強調しない。カメラ修正のみで既存デザインを維持。"
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "new_design": false
+}

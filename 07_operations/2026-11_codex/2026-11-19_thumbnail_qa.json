@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-19",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_main_sku_identity_gate_and_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-19_card_reader.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-0f1e8456-5607-4f0c-8c4c-59ced0dc0d2c.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-19_thumbnail_prompt.md",
+  "sha256": "4e8e381225a2d2a0ab2cbdcb12bc82f8ee2aebd93ecc58fade2436549f983084",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-19_写真データをPCへ取り込む。「カードリーダー」6選.md",
+    "07_operations/2026-11_codex/2026-11-19_sources.json",
+    "07_operations/2026-11_codex/2026-11-19_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "カードリーダー6商品比較、代表1読取機",
+    "count": "リーダー1台＋差込済みSD1枚は使用アクセサリ。複数リーダー比較無し",
+    "material": "灰黒の樹脂/金属調ケース、金属USB-C端子、黒いSD。確定Anker/Elecom小型USB-Cカテゴリに一致",
+    "structure": "USB-C直挿し小型本体、SDスロットへSDを一部挿入、別microSDスロット空。未確認UGREEN固有SKU/両端子/磁気/PDを生成根拠にしない",
+    "use_case": "カメラ写真データをPCへ取り込む。UHS仕様/速度/同時利用/充電機能を画像では主張しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_brands_watermark": true,
+    "no_people_hands": true,
+    "one_central_reader_with_card": true,
+    "coherent_usb_c_slot_card": true,
+    "natural_contact_shadow": true,
+    "whole_case_plug_visible": true,
+    "thumbnail_subject_clear": true,
+    "notes": "挿入側のSD上隅はスロット内に隠れる。外見だけからUHS規格や容量を決めない。カードはリーダー付属品の同梱保証ではなく使用例。"
+  },
+  "independent_pending_gate": {
+    "asins": [
+      "B07D1J88CF",
+      "B0BNBXVLZS"
+    ],
+    "check": "main task Amazon GUI exact UGREEN50706/15251 identity",
+    "owner": "main_task_before_ingestion",
+    "status": "pending_not_performed",
+    "image_qa_does_not_satisfy": true
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_date_19_files_changed": true,
+  "new_design": false
+}

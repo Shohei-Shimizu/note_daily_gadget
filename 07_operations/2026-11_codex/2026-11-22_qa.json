@@ -14,10 +14,15 @@
     "research_title_sync": true
   },
   "official_gate_passed": true,
-  "saved_preview": "pending_main_publisher",
+  "saved_preview": true,
   "unresolved_specs": [],
   "publishing_gate": {
-    "status": "pending_parent",
-    "required_check": "AmazonBasics B00CD8AFFW 最終GUI同ASIN商品仕様証跡＋note保存プレビュー"
+    "status": "passed",
+    "evidence": [
+      "2026-11-22_saved_editor.html",
+      "2026-11-22_reserved_page.txt",
+      "2026-11-22_confirmation.txt",
+      "2026-11-22_AmazonBasics_sku.json"
+    ]
   }
 }

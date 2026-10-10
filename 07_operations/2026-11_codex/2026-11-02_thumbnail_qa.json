@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-02",
+  "state": "local_qa_passed",
+  "source": "accounts/daily_gadget/04_thumbnail/2026-07/2026-07-25_ifttt_smart_hub.png",
+  "output": "accounts/daily_gadget/04_thumbnail/2026-11/2026-11-02_smart_remote.png",
+  "sha256": "5400035dc1d558e1db0b6c7c2d7e546b797d6fbc3fe4d68cdeeb909dff7ff8d3",
+  "article_format": "category_comparison_representative_one_hub",
+  "subject_count": 1,
+  "material": "plastic_hub_enclosure",
+  "structure": "single_compact_infrared_smart_remote_hub",
+  "use": "room_appliance_infrared_control",
+  "no_text_people_logo": true,
+  "account_design_unchanged": true,
+  "image_is_category_illustration": true
+}

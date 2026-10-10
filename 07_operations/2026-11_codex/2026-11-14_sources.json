@@ -21,7 +21,8 @@
         "対応OS：iOS 17以降／Android 10以降"
       ],
       "model_notes": "RingConnはGen2本体公式のFuture Silverとサイズ10に対応。キット案内は本体の事前サイズ確認。最終Amazon GUIの本体SKUは主担当が入稿時に照合する。Gen2 AirやGen3仕様を転用しない。現行対応OS17/10を使用し旧14/8を転用しない。",
-      "amazon_gui_identity_gate": "pending_main_task"
+      "amazon_gui_identity_gate": "passed",
+      "amazon_gui_identity_evidence": "2026-11-14_RingConn_sku.txt"
     },
     {
       "order": 2,
@@ -138,19 +139,28 @@
   ],
   "jev_used": false,
   "article_evidence_gate_passed": true,
-  "official_gate_passed": false,
+  "official_gate_passed": true,
   "ui_gate": "not_performed",
   "required_ui_identity_check": {
     "asin": "B0DG2QKMFX",
     "check": "Amazon GUIでGen2本体・シルバー・サイズ10を確認（キット単体でないこと）",
-    "owner": "main_task_before_publication"
+    "owner": "main_task_before_publication",
+    "status": "passed",
+    "evidence": "2026-11-14_RingConn_sku.txt"
   },
   "unresolved_omitted_specs": [
     "SOXAI現行アプリ最低OS数値",
     "Helio追加サービス費用/全機能無料の断定",
-    "Helio最大4日の試験条件数値",
-    "RingConn国内当該SKUの最終GUI同定は未実施"
+    "Helio最大4日の試験条件数値"
   ],
   "official_specification_gate_passed": true,
-  "official_gate_pending_reason": "RingConn当該ASINの本体SKU最終GUI確認は主担当が入稿前に実施"
+  "official_gate_pending_reason": null,
+  "ringconn_gui_check": {
+    "status": "passed",
+    "asin": "B0DG2QKMFX",
+    "product": "Gen2 ring body",
+    "color": "Future Silver",
+    "size": "10",
+    "evidence": "2026-11-14_RingConn_sku.txt"
+  }
 }

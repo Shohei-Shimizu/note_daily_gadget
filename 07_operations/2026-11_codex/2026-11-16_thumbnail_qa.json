@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-16",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "reuse_byte_identical_copy",
+  "output_path": "04_thumbnail/2026-11/2026-11-16_label_printer.png",
+  "source_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-12_label_printer.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "97a31a86fc1d43b3b5df7765649500d70f7c340cda841b3aacf01bd47d1d38f0",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-16_小物の場所をラベルで揃える。「ラベルプリンター」6選.md",
+    "06_research/2026-11/2026-11-16_小物の場所をラベルで揃える。「ラベルプリンター」6選.md",
+    "07_operations/2026-11_codex/2026-11-16_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "ラベルプリンター6品比較、中央代表1製品",
+    "count": "本体1台と排出空白ラベルのみ、スマホ/別本体比較無し",
+    "material": "白樹脂筐体と空白ラベル紙。採用品の小型ラベルプリンター群のカテゴリ素材を代表",
+    "structure": "キーボード無し小型本体と排出口から繋がる幅広ラベル列。NIIMBOT/Phomemo幅広感熱ラベル群のカテゴリ形状に適合。細幅テープ式/本体入力SR370と同外形とはしない",
+    "use_case": "小物/収納場所の整理ラベルを作る。印字無しで特定文字/ラベル幅/消耗品/アプリ/無線通信を保証しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "whole_body_visible": true,
+    "natural_support": true,
+    "thumbnail_subject_clear": true
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "new_design": false,
+  "source_output_identical": true
+}

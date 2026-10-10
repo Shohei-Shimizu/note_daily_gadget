@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-10",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-10_charger.png",
+  "source_path": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-61ab5e56-9aa7-4632-a43a-4957dbc94013.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "de5eea8411a2b4f14b02f67a51ecc9e1b92878b3ff5ce23be01344390e51bece",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-10_端末の充電環境を見直す。「USB-C充電器」10選.md",
+    "07_operations/2026-11_codex/2026-11-10_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "USB-C充電器10品比較、代表1台",
+    "count": "AC充電器1台のみ、ケーブル無し",
+    "material": "黒い樹脂筐体と金属プラグ、採用Anker/Elecomの単ポート群に一致",
+    "structure": "単一USB-C出力＋2本平刃Type-A ACプラグ、接地ピン無し。コンセント用充電器、電池ではない。折畳み機構は視点背後",
+    "use_case": "仕事/携帯の充電環境を見直す。ポート数・出力・GaN・PPS・付属ケーブルを実在機へ追加主張しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "natural_support": true,
+    "whole_device_visible": true,
+    "thumbnail_subject_clear": true,
+    "notes": "完成原稿と公式sourcesを照合。特定メーカーの精密商品写真ではなく代表カテゴリイメージ。"
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "new_design": false
+}

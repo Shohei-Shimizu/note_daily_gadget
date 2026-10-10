@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-17",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-17_usb_memory.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-78782463-acb1-44ed-b178-b938c266fa55.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-17_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "0d7f46061d0b38d975eb87b90dd1ca0443d7ac1babd4e57bc5e614617739db0e",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-17_手元でデータを運ぶ。「USBメモリ」5選.md",
+    "07_operations/2026-11_codex/2026-11-17_sources.json",
+    "07_operations/2026-11_codex/2026-11-17_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "USBメモリ5商品比較、中央代表1製品",
+    "count": "USB-Aメモリ本体1台とその外したキャップ1個、同じ1製品セット",
+    "material": "黒い樹脂外装と金属USB-A端子、採用Buffalo/Elecom通常キャップ式群と分類一致",
+    "structure": "キャップ式USB-Aスティック、自然な端子幅/保持孔/内側樹脂。指紋センサー/第二端子/液晶/物理暗号化機能無し",
+    "use_case": "PC間でデータを運ぶ通常USBメモリ。容量/速度/形式/セキュリティソフト対応は画像で保証しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_brands_watermark": true,
+    "no_people_hands": true,
+    "central_single_product_set": true,
+    "complete_edges_visible": true,
+    "coherent_usb_a_and_cap": true,
+    "natural_contact_shadow": true,
+    "thumbnail_subject_clear": true,
+    "notes": "Acerデュアル端子とノック式モデルも原稿に含むが、代表キャップ式と同機構とは扱わない。黒いUSB-A1台＋付属キャップのみ。"
+  },
+  "rejected_existing_candidate": {
+    "path": "04_thumbnail/2026-07/2026-07-13_secure_usb_storage.png",
+    "reason": "指紋センサー搭載機能の暗示は最終採用品と不一致"
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_date_17_files_changed": true,
+  "new_design": false
+}

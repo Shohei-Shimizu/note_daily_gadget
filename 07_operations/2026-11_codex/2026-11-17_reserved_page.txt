@@ -1,0 +1,236 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月17日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322755612/rectangle_large_type_2_87638a454c629a2f4ccef4ecef2583c5.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "手元でデータを運ぶ。「USBメモリ」5選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月17日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: ファイルをPC間で受け渡したり、手元の保存先を増やしたりするUSBメモリ。容量と端子、収納方法を比較できる5個を調べてまとめました。
+    - paragraph:
+      - text: 今回の5個は
+      - strong: 「容量と端子」、「持ち運びと収納方法」、「利用環境とデータの扱い方」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① バッファロー RUF3-K16GA-BK/N":
+          - /url: "#989afe6d-e256-47b4-a508-3c290b36e5f2"
+        - link "② バッファロー RUF3-KS32GA-BK/N":
+          - /url: "#206ec89f-fc52-4a6f-995b-3922a1295220"
+        - link "③ エレコム MF-PKU3256GWHF":
+          - /url: "#6986c8b9-a84b-4f70-bb7c-d7ea9e5fbfd0"
+        - link "④ Acer UT300":
+          - /url: "#c64700ef-f325-493d-924b-1be41ad032d5"
+        - link "⑤ エレコム MF-MSU2B32GBK":
+          - /url: "#7dde265a-9207-4b23-b878-b6053e33c54c"
+        - link "最後に":
+          - /url: "#8ae5616f-dfde-486f-8653-a75034d2cc29"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#e5649beb-e62b-4380-ae61-c7250c67aec5"
+        - link "あわせて読みたい":
+          - /url: "#08b95ddc-6452-4362-a01f-243beac703a1"
+    - heading "① バッファロー RUF3-K16GA-BK/N" [level=2]
+    - figure:
+      - link "バッファロー USBメモリ 16GB USB3.2(Gen1)/3.1(Gen 1)/3.0/2.0 充実サポート RUF3-K16GA-BK/N www.amazon.co.jp 1,580円 (2026年10月10日 12:50時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B00TMYO5EM?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: バッファロー USBメモリ 16GB USB3.2(Gen1)/3.1(Gen 1)/3.0/2.0 充実サポート RUF3-K16GA-BK/N
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,580円
+        - text: (2026年10月10日 12:50時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B00TMYO5EM?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 書類や写真をPC間で受け渡す、シンプルな道具を探す人向けです。端子を覆うキャップ付きの小型モデルで、ストラップホールも備えた構成。保存先を増やす用途で比較しやすく、大きな動画ファイルを扱う場合は容量だけでなく出荷時のファイル形式も確認したい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・容量：16GB
+          - text: ・端子：USB Type-A
+          - text: ・規格：USB 3.2 Gen 1／USB 2.0対応
+          - text: ・本体重量：約10g
+          - text: ・出荷時形式：FAT32
+    - heading "② バッファロー RUF3-KS32GA-BK/N" [level=2]
+    - figure:
+      - link "バッファロー USBメモリ 32GB ノックスライド式 USB3.2Gen1 RUF3-KS32GA-BK/N www.amazon.co.jp 2,580円 (2026年10月10日 12:50時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B087CHMKR4?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: バッファロー USBメモリ 32GB ノックスライド式 USB3.2Gen1 RUF3-KS32GA-BK/N
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,580円
+        - text: (2026年10月10日 12:50時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B087CHMKR4?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 外したキャップを管理せず、PCへ差し込んで使いたい人向けです。ノックで端子を出し、取り外すと自動で収納する仕組みを備えています。ファイルの受け渡しで何度も抜き差しする場面に合わせやすく、手持ちのPCの端子と対応環境を確認して選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・容量：32GB
+          - text: ・端子：USB Type-A
+          - text: ・規格：USB 3.2 Gen 1／USB 2.0対応
+          - text: ・本体重量：約12g
+          - text: ・機構：ノック式・オートリターン
+    - heading "③ エレコム MF-PKU3256GWHF" [level=2]
+    - figure:
+      - link "エレコム USBメモリ 256GB USB3.2（Gen1）ノック式 ホワイト しろちゃん MF-PKU3256GWHF www.amazon.co.jp 7,590円 (2026年10月10日 12:50時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0GVM2MRRY?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム USBメモリ 256GB USB3.2（Gen1）ノック式 ホワイト しろちゃん MF-PKU3256GWHF
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 7,590円
+        - text: (2026年10月10日 12:50時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0GVM2MRRY?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 保存するファイルが多く、見た目も好みに合わせたい人向けのしろちゃんモデルです。ノックで端子を出し、PCから抜くと自動で収納する構成。セキュリティソフトもダウンロードして利用できるため、使うPCの環境とソフトの対応条件を合わせて確認したい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・容量：256GB
+          - text: ・端子：USB-A
+          - text: ・規格：USB 3.2 Gen 1
+          - text: ・本体重量：約10g
+          - text: ・セキュリティ：PASS／PASS×AES対応（要ダウンロード）
+    - heading "④ Acer UT300" [level=2]
+    - figure:
+      - link "Acer UT300 USBメモリ 32GB USB 3.2 最大読出速度150MB/s USB-A/C両対応 高速 フラッシュメモリドライブ 金属筐体 - BL.9BWWA.588 www.amazon.co.jp 1,790円 (2026年10月10日 12:50時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0FFM7SRGC?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Acer UT300 USBメモリ 32GB USB 3.2 最大読出速度150MB/s USB-A/C両対応 高速 フラッシュメモリドライブ 金属筐体 - BL.9BWWA.588
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,790円
+        - text: (2026年10月10日 12:50時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0FFM7SRGC?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: USB-AとUSB-Cの端末を行き来して、同じデータを持ち運びたい人向けです。両側の端子をスライド式カバーで保護する金属筐体を備え、変換アダプターを挟まず端子を選べる構成。スマートフォンで使う際は端子形状だけで判断せず、外部ストレージへの対応も確認したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・容量：32GB
+          - text: ・端子：USB Type-A／Type-C
+          - text: ・規格：USB 3.2 Gen 1
+          - text: ・素材：アルミニウム合金
+          - text: ・サイズ：63.43×17.90×8.40mm
+    - heading "⑤ エレコム MF-MSU2B32GBK" [level=2]
+    - figure:
+      - link "エレコム USBメモリ 32GB USB2.0 セキュリティ機能対応 ブラック MF-MSU2B32GBK www.amazon.co.jp Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B073JFMPPT?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム USBメモリ 32GB USB2.0 セキュリティ機能対応 ブラック MF-MSU2B32GBK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B073JFMPPT?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: PCで文書や写真を受け渡し、必要に応じてデータ保護ソフトも使いたい人向けです。キャップ付きのシンプルなモデルで、USB-A端子に接続する構成。転送規格は新しい高速モデルと異なるため、ファイルの大きさと使うソフトの対応環境を確認して比較したい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・容量：32GB
+          - text: ・端子：USB Type-A
+          - text: ・規格：USB 2.0
+          - text: ・本体重量：約9g
+          - text: ・セキュリティ：PASS／PASS×AES対応（要ダウンロード）
+    - heading "最後に" [level=2]
+    - paragraph: USBメモリは容量だけでなく、端末の接続口やファイルの扱い方に合わせて選びたい道具です。大切なデータは別の場所にもコピーを残し、使う機器とセキュリティソフトの対応環境を確かめて、ご自身に合う一台を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ カフェも車内も。外出先で仕事を進めるモバイルガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4cPpADI
+        - strong: 毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4cPpADI
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert

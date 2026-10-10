@@ -143,7 +143,7 @@
     }
   ],
   "jev_used": false,
-  "official_gate_passed": false,
+  "official_gate_passed": true,
   "unresolved_omitted_specs": [
     "UGREEN2品は入稿時ASIN画面で公式SKU50706/15251の最終同定",
     "全カードで規格上限の実速度を保証しない"
@@ -153,12 +153,20 @@
     "B0BNBXVLZS:15251"
   ],
   "pending_gate": {
-    "status": "pending_main_task_before_ingestion",
+    "status": "passed",
     "asins": [
       "B07D1J88CF",
       "B0BNBXVLZS"
     ],
-    "check": "Amazon GUIでUGREENの当該SKU50706/15251に最終同定。記事に未確認SKU番号は断定記載しない。"
+    "check": "Amazon GUIでUGREENの当該SKU50706/15251に最終同定。記事に未確認SKU番号は断定記載しない。",
+    "evidence": [
+      "2026-11-19_B07D1J88CF_product_details.txt",
+      "2026-11-19_B0BNBXVLZS_product_details.txt"
+    ],
+    "verified_models": {
+      "B07D1J88CF": "CM185 / 50706",
+      "B0BNBXVLZS": "CM401 / 15251"
+    }
   },
   "official_specification_gate_passed": true,
   "article_evidence_gate_passed": true

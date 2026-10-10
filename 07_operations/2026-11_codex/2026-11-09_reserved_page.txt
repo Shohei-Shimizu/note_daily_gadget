@@ -1,0 +1,260 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月9日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322742674/rectangle_large_type_2_4037beef75076713976a82141df524e5.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "写真と作業データの保存先に。「外付けHDD」6選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月9日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 写真や作業データが増えてきたら、PC本体とは別の保存先も用意しておきたいものです。ファイル保存に使える外付けHDDを6個調べてまとめました。
+    - paragraph:
+      - text: 今回の6個は
+      - strong: 「保存容量」、「持ち運びと電源」、「PCでの利用条件」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① WD Elements Portable 2TB":
+          - /url: "#e298ab71-50af-4b80-8324-71e15ec6bd71"
+        - link "② WD My Passport 2TB":
+          - /url: "#45c35999-3def-4b48-b9c4-ed1c93615ebb"
+        - link "③ バッファロー HD-AD4U3 4TB":
+          - /url: "#dc19a470-eee8-40da-9cb2-3667520466cd"
+        - link "④ Seagate Expansion Portable 2TB":
+          - /url: "#858d3714-02c1-40b5-a120-b7e2154d927c"
+        - link "⑤ バッファロー HD-PCFS2.0U3-BBA":
+          - /url: "#cd25aadc-a5ff-47ae-8aee-22910319ab84"
+        - link "⑥ エレコム ELD-HTV060UBK 6TB":
+          - /url: "#8f8c7316-a4e8-4ef0-a011-bd6b9f055821"
+        - link "最後に":
+          - /url: "#b1df5d3e-1e38-4310-baae-99d259939c83"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#8e811b37-2e06-4734-a93c-60e591a85bbf"
+        - link "あわせて読みたい":
+          - /url: "#8f7572e2-c5a7-471d-a4eb-5378a844cad9"
+    - heading "① WD Elements Portable 2TB" [level=2]
+    - figure:
+      - link "ウエスタンデジタル(Western Digital) WD ポータブルHDD 2TB USB3.0 ブラック WD Elements Portable 外付けハードディスク / メーカー2年保証 WDBU6Y0020BBK-WESN 国内正規代理店品 www.amazon.co.jp 19,980円 (2026年10月10日 12:02時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B06W55K9N6?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ウエスタンデジタル(Western Digital) WD ポータブルHDD 2TB USB3.0 ブラック WD Elements Portable 外付けハードディスク / メーカー2年保証 WDBU6Y0020BBK-WESN 国内正規代理店品
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 19,980円
+        - text: (2026年10月10日 12:02時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B06W55K9N6?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 写真や文書をPCの外へ保存する用途に絞り、シンプルなポータブル型を探す人向けです。USBケーブルで接続してファイルを保存する構成で、手元に別の保存先を用意したい場合の候補。Windows以外で使う際は、対応OSや再フォーマットの必要性を確認しておきたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・型番：WDBU6Y0020BBK-WESN
+          - text: ・容量：2TB
+          - text: ・接続規格：USB3.2 Gen1・USB3.0
+          - text: ・形式：ポータブル
+    - heading "② WD My Passport 2TB" [level=2]
+    - figure:
+      - link "WD ポータブルHDD 2TB USB3.0 ブラック My Passport 暗号化 パスワード保護 外付けハードディスク / メーカー3年保証 WDBYVG0020BBK-WESN 国内正規代理店品 www.amazon.co.jp 21,800円 (2026年10月10日 12:02時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07VTFN6HM?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: WD ポータブルHDD 2TB USB3.0 ブラック My Passport 暗号化 パスワード保護 外付けハードディスク / メーカー3年保証 WDBYVG0020BBK-WESN 国内正規代理店品
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 21,800円
+        - text: (2026年10月10日 12:02時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07VTFN6HM?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 保存したファイルの持ち出しと、アクセス保護も考えたい人向けの候補です。パスワード保護とハードウェア暗号化を備え、データを入れたドライブを管理する機能を重視して選びました。利用するOSや付属ソフトの条件を確認し、PC本体とは別の保存先として使う構成。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・型番：WDBYVG0020BBK-WESN
+          - text: ・容量：2TB
+          - text: ・接続規格：USB3.0
+          - text: ・機能：パスワード保護・ハードウェア暗号化
+    - heading "③ バッファロー HD-AD4U3 4TB" [level=2]
+    - figure:
+      - link "Amazon限定 バッファロー 外付けHDD 4TB テレビ録画 nasne 対応 静音 日本製 HD-AD4U3 www.amazon.co.jp 23,480円 (2026年10月10日 12:02時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07BK6696F?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Amazon限定 バッファロー 外付けHDD 4TB テレビ録画 nasne 対応 静音 日本製 HD-AD4U3
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 23,480円
+        - text: (2026年10月10日 12:02時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07BK6696F?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 机に置く保存先として、ACアダプターを使うタイプを探す人向けです。テレビ録画向けの案内もありますが、PCのデータ保存にも対応する据え置き型として候補に入れました。テレビ用に設定したドライブをPC保存用と兼ねる前提にはせず、用途を決めて使いたいモデル。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・型番：HD-AD4U3
+          - text: ・容量：4TB
+          - text: ・接続規格：USB3.2 Gen1・USB3.1 Gen1・USB3.0
+          - text: ・電源：ACアダプター
+          - text: ・出荷時フォーマット：NTFS
+    - heading "④ Seagate Expansion Portable 2TB" [level=2]
+    - figure:
+      - link "Seagate Expansion 2.5インチ ポータブルHDD 2TB STKM2000400 www.amazon.co.jp 26,800円 (2026年10月10日 12:02時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08ZJG6TVT?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Seagate Expansion 2.5インチ ポータブルHDD 2TB STKM2000400
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 26,800円
+        - text: (2026年10月10日 12:02時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08ZJG6TVT?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 電源アダプターを増やさず、PCの横に保存先を用意したい人向けの候補です。USB給電で動くポータブル型で、ケーブルをつないでファイルをコピーする用途に向きます。WindowsやMacの利用条件を確認し、必要に応じてフォーマットを整えてから使いたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・型番：STKM2000400
+          - text: ・容量：2TB
+          - text: ・接続規格：USB3.0
+          - text: ・給電：USBバスパワー
+    - heading "⑤ バッファロー HD-PCFS2.0U3-BBA" [level=2]
+    - figure:
+      - link "バッファロー ポータブルHDD 2TB USB3.1(Gen1)/USB3.0用 HD-PCFS2.0U3-BBA www.amazon.co.jp 27,091円 (2026年10月10日 12:03時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07D7978NV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: バッファロー ポータブルHDD 2TB USB3.1(Gen1)/USB3.0用 HD-PCFS2.0U3-BBA
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 27,091円
+        - text: (2026年10月10日 12:03時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07D7978NV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: PCの保存先を増やすだけでなく、ドライブの状態確認も考えたい人向けに選びました。対応ソフトをPCへ入れることで、故障予測サービス「みまもり合図」を利用できる構成です。USB給電のポータブル型なので、使うPCの対応OSとソフトの条件も確認しておきたい一台。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・型番：HD-PCFS2.0U3-BBA
+          - text: ・容量：2TB
+          - text: ・接続規格：USB3.1 Gen1・USB3.0
+          - text: ・給電：USBバスパワー
+    - heading "⑥ エレコム ELD-HTV060UBK 6TB" [level=2]
+    - figure:
+      - link "エレコム 外付けHDD ハードディスク ハイブリッドドライブ 6TB テレビ録画用/Mac/Windowsブラック ELD-HTV060UBK www.amazon.co.jp 27,199円 (2026年10月10日 12:03時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0BN8VZ22H?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム 外付けHDD ハードディスク ハイブリッドドライブ 6TB テレビ録画用/Mac/Windowsブラック ELD-HTV060UBK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 27,199円
+        - text: (2026年10月10日 12:03時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BN8VZ22H?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 保存容量を大きく確保し、机に固定して使うドライブを探す人向けです。テレビ録画用の製品として案内されていますが、公式仕様ではWindows PCとApple Macにも対応します。出荷時フォーマットはNTFSのため、Macで書き込みたい場合などはOSに合う準備を確認しておきたい構成。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・型番：ELD-HTV060UBK
+          - text: ・容量：6TB
+          - text: ・接続規格：USB3.2 Gen1・USB3.1 Gen1・USB3.0
+          - text: ・電源：ACアダプター
+          - text: ・出荷時フォーマット：NTFS
+    - heading "最後に" [level=2]
+    - paragraph: 外付けHDDは、持ち運ぶか机に置くか、どのOSで使うかによって選び方が変わります。保存したいデータ量と接続条件を確認し、大切なファイルは一台だけに集約せず、複数の保存先へ残す使い方も考えてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ カフェも車内も。外出先で仕事を進めるモバイルガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4cPpADI
+        - strong: 毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4cPpADI
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 写真と作業データの保存先に。「外付けHDD」6選｜毎日ガジェット通信｜note

@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-21",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen_with_targeted_framing_text_repair",
+  "output_path": "04_thumbnail/2026-11/2026-11-21_monitor_light.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-e598e061-e2e3-4c02-9e91-08d694e1c9c1.png",
+  "initial_rejected_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-b0d766a8-7d07-475c-8bc4-75bdc7f53638.png",
+  "repair_reason": "初版バー上端付近/右側本背表紙に微細文字、フレーム変更と該当書籍除去で修正。バー中心最終y320程度。",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-21_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "344089bc55e7e78aa977c38001e1659f247aba538df10a820994bf1ca47ad4b3",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-21_画面の上から手元を照らす。「モニターライト」5選.md",
+    "07_operations/2026-11_codex/2026-11-21_sources.json",
+    "07_operations/2026-11_codex/2026-11-21_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "モニターライト5商品比較、代表1バー",
+    "count": "ライトバー1台。モニターは取付支持物、机文具は使用小物",
+    "material": "黒い金属/樹脂バーと中央クランプ、採用desktopモニターライト分類に一致",
+    "structure": "バーと中央支持が連続、中央前唇がモニター上縁に接し背部へ掛かる。電源線は後部へ自然に続く。独立浮遊や机台座式ではない",
+    "use_case": "desktop画面上から手元を照らす。ノートPC全品対応/対応厚み/USB給電能力/調光/背面ライトを画像で保証しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "single_light_centered": true,
+    "bar_at_central_vertical_safe_area": true,
+    "whole_bar_and_clamp_visible": true,
+    "physical_clamp_contact": true,
+    "coherent_power_lead": true,
+    "natural_downward_light": true,
+    "thumbnail_subject_clear": true
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_date_21_files_changed": true,
+  "new_design": false
+}

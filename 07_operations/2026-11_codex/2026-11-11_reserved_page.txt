@@ -1,0 +1,241 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月11日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322744979/rectangle_large_type_2_dfbf906af3a87099ee20ba6b0103dad2.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "書類の両面をPDFに残す。「スキャナー」5選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月11日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 紙の書類をデータに残すとき、裏面まで一枚ずつ読み直すのは手間がかかります。両面読み取りに対応するドキュメントスキャナーを5個調べてまとめました。
+    - paragraph:
+      - text: 今回の5個は
+      - strong: 「給紙の方法」、「接続と電源」、「保存先との相性」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① ScanSnap iX1600":
+          - /url: "#972dc719-768d-4243-8d83-aded9ad9a6aa"
+        - link "② ブラザー MDS-940DW":
+          - /url: "#396328e9-cb83-41f7-abda-7f20fa9b4587"
+        - link "③ エプソン DS-531":
+          - /url: "#a88e6bcf-4a72-4c18-9ae7-fbe13055b1e5"
+        - link "④ エプソン DS-360W":
+          - /url: "#6844f018-6d2e-4c33-9e29-e61537952c88"
+        - link "⑤ キヤノン imageFORMULA R10":
+          - /url: "#dcdd8727-7533-4508-8bab-26792fb555be"
+        - link "最後に":
+          - /url: "#f59a96d3-b016-4c19-8338-c2734bc8ef57"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#419168ae-e555-411e-9014-6e10f6e0bd63"
+        - link "あわせて読みたい":
+          - /url: "#051b0393-bbf2-42da-9bde-27875d4d52e4"
+    - heading "① ScanSnap iX1600" [level=2]
+    - figure:
+      - link "リコー PFU ドキュメントスキャナー ScanSnap iX1600 (最新/高速毎分40枚/両面読取/ADF/4.3インチタッチパネル/Wi-Fi対応/USB接続/フラグシップ/書類/レシート/名刺/写真) (White) www.amazon.co.jp 39,690円 (2026年10月10日 12:11時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0C23XJGCW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: リコー PFU ドキュメントスキャナー ScanSnap iX1600 (最新/高速毎分40枚/両面読取/ADF/4.3インチタッチパネル/Wi-Fi対応/USB接続/フラグシップ/書類/レシート/名刺/写真) (White)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 39,690円
+        - text: (2026年10月10日 12:11時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0C23XJGCW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: たまった書類を机でまとめて取り込みたい人向けの候補です。ADFに複数枚を載せて両面を読み取り、本体のタッチパネルから操作する構成。Wi-Fi経由のスマホ連携にも対応するため、保存先をPCにするかスマホにするか決めて使いたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・給紙：ADF・最大50枚（A4・80g/m²）
+          - text: ・読取：両面同時
+          - text: ・接続：USB・Wi-Fi（2.4GHz/5GHz）
+          - text: ・操作：4.3インチタッチパネル
+          - text: ・電源：ACアダプター
+    - heading "② ブラザー MDS-940DW" [level=2]
+    - figure:
+      - link "ブラザー工業(Brother Industries) ドキュメントスキャナー MDS-940DW (モバイルスタイル/両面スキャン/無線LAN/スマホ接続) www.amazon.co.jp 16,964円 (2026年10月10日 12:11時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B083VZHDGZ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ブラザー工業(Brother Industries) ドキュメントスキャナー MDS-940DW (モバイルスタイル/両面スキャン/無線LAN/スマホ接続)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 16,964円
+        - text: (2026年10月10日 12:11時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B083VZHDGZ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 少量の書類をその場で取り込み、持ち運びも考える人向けの候補です。ADFへ束を載せる方式ではなく、一枚ずつ手差しして両面を同時に読み取る設計。内蔵充電池やUSB給電で使え、スマホへ取り込む際はアプリと無線接続の条件を確認しておきたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・給紙：手差し・1枚
+          - text: ・読取：両面同時（Dual CIS）
+          - text: ・接続：USB3.2 Gen1・無線LAN
+          - text: ・電源：内蔵充電池・USBバスパワー
+          - text: ・重量：約700g
+    - heading "③ エプソン DS-531" [level=2]
+    - figure:
+      - link "エプソン スキャナー DS-531(シートフィード/A4両面) www.amazon.co.jp 34,891円 (2026年10月10日 12:11時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08HYKSYRJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エプソン スキャナー DS-531(シートフィード/A4両面)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 34,891円
+        - text: (2026年10月10日 12:11時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08HYKSYRJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: PCで書類の取り込み作業をまとめて行う人向けに調べた候補です。ADFで両面を読み取り、USBでつないだPCへPDFとして保存する構成。紙の重なりを検知する機能も備えているため、束の状態を整えてから連続して読み込ませたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・給紙：ADF・最大50枚（80g/m²）
+          - text: ・読取：両面同時
+          - text: ・接続：USB3.0
+          - text: ・電源：ACアダプター
+          - text: ・出力：PDFなど（Epson Scan 2使用時）
+    - heading "④ エプソン DS-360W" [level=2]
+    - figure:
+      - link "EPSON スキャナー DS-360W (シートフィード/A4両面/Wi-Fi対応 コードレス) www.amazon.co.jp 37,500円 (2026年10月10日 12:11時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B01IALGUYA?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: EPSON スキャナー DS-360W (シートフィード/A4両面/Wi-Fi対応 コードレス)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 37,500円
+        - text: (2026年10月10日 12:11時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B01IALGUYA?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 置き場所を変えて、複数枚の書類をまとめて取り込みたい人向けの候補です。コンパクトな本体にADFを備え、手差しの②とは給紙方法が異なる構成。Wi-Fi接続とバッテリー動作に対応しますが、使用するOSやソフトの対応状況を確認しておきたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・給紙：ADF・最大20枚（80g/m²）
+          - text: ・読取：両面同時
+          - text: ・接続：USB3.0・Wi-Fi
+          - text: ・電源：バッテリー・USBバスパワー・ACアダプター
+          - text: ・重量：約1.3kg（バッテリー含む）
+    - heading "⑤ キヤノン imageFORMULA R10" [level=2]
+    - figure:
+      - link "Canon キヤノン ドキュメントスキャナー imageFORMULA R10 PG www.amazon.co.jp 28,109円 (2026年10月10日 12:11時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B09FRYGKLR?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Canon キヤノン ドキュメントスキャナー imageFORMULA R10 PG
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 28,109円
+        - text: (2026年10月10日 12:11時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B09FRYGKLR?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 電源アダプターを増やさず、PCのそばで書類を取り込みたい人向けに選びました。原稿をトレーにまとめて載せ、USBケーブルでPCへ接続して両面を読み取る構成です。スマホへ直接つなぐ用途より、PCで取り込みとファイル整理を進めたい場合に検討したいモデル。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・給紙：約20枚（80g/m²・積載高さ3mm以下）
+          - text: ・読取：片面・両面
+          - text: ・接続：USB2.0
+          - text: ・電源：USBバスパワー
+          - text: ・重量：約1.0kg
+    - heading "最後に" [level=2]
+    - paragraph: 両面読み取りに対応していても、束を載せるADFと、一枚ずつ入れる手差しでは使い方が異なります。取り込む書類の量と保存先、電源を使う場所を考え、日々の紙整理に合う一台を探してみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 創作と集中を加速する。クリエイター向け生産性ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 創作と集中を加速する。クリエイター向け生産性ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4tdkjuu
+        - strong: 毎日ガジェット通信's Amazon Page - 創作と集中を加速する。クリエイター向け生産性ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4tdkjuu
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 書類の両面をPDFに残す。「スキャナー」5選｜毎日ガジェット通信｜note

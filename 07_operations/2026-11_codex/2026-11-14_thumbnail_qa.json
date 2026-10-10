@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-14",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_main_sku_identity_gate_and_note_crop",
+  "production_mode": "reuse_byte_identical_copy",
+  "source_path": "04_thumbnail/2026-10/2026-10-03_smart_ring.png",
+  "output_path": "04_thumbnail/2026-11/2026-11-14_smart_ring.png",
+  "source_output_identical": true,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "5cf2108b4b898f78a1959674d2a79e891f889e3b77fbefa2914bb7e1f4a1a368",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-14_指先で記録を振り返る。「スマートリング」5選.md",
+    "06_research/2026-11/2026-11-14_指先で記録を振り返る。「スマートリング」5選.md",
+    "07_operations/2026-11_codex/2026-11-14_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "スマートリング5商品比較、中央代表1台",
+    "count": "リング本体1個。台皿は生活小物、充電器としては扱わない",
+    "material": "銀色金属外装、黒い内面。チタン/チタン合金外装採用品の金属リング分類と一致、成分は画像から分析したとは扱わない",
+    "structure": "閉じた指輪形状と内面センサー風の部位。採用カテゴリを代表、特定ブランドの正確なセンサー配置/サイズ/部品を再現とは主張しない",
+    "use_case": "指へ着けて記録するリング本体を外して置く日常用途。診断/治療/改善/医療効果、計測値、駆動日数、無料機能を絵で主張しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "one_central_ring": true,
+    "no_readable_text_brand_watermark": true,
+    "no_fingers_hands_people": true,
+    "natural_resting_support": true,
+    "whole_ring_visible": true,
+    "thumbnail_subject_clear": true
+  },
+  "independent_pending_gate": {
+    "name": "RingConn Gen2本体SKU GUI同定",
+    "asin": "B0DG2QKMFX",
+    "owner": "main_task_before_publication",
+    "status": "pending_not_performed",
+    "image_qa_does_not_satisfy": true
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "new_design": false
+}

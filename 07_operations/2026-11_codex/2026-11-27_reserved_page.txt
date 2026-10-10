@@ -1,0 +1,263 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月27日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322765560/rectangle_large_type_2_6f4cb6e70f1895c148fcab16b5b20ce2.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "机で使う明かりを選ぶ。「デスクライト」6選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月27日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 机の手元を照らすなら、照明を置く場所や取り付け方も合わせて選びたいものです。据え置きとクランプで使えるデスクライトを6個調べてまとめました。
+    - paragraph:
+      - text: 今回の6個は
+      - strong: 「設置と可動の方法」、「光の調整」、「給電と光源」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① Lepro クランプライト PR310005-DWW":
+          - /url: "#873a2fc4-4e46-4a2e-94fb-e0eaa2e73d91"
+        - link "② アイリスオーヤマ PDL-101-W":
+          - /url: "#3246350f-eb78-478f-8779-febddc90d8b2"
+        - link "③ Lepro デスクライト PR310001-DWW-JP":
+          - /url: "#bd73e7ca-2406-4d83-bf79-fc69a7e837ce"
+        - link "④ オーム電機 DS-LS12USB-W":
+          - /url: "#b6de1fa4-5ff4-496d-b7db-80b6506e907a"
+        - link "⑤ アイリスオーヤマ LDL-QLDL-W":
+          - /url: "#a4d2fed3-73a8-4437-a429-e679b25f2d77"
+        - link "⑥ 山田照明 Z-LIGHT Z-108NB":
+          - /url: "#ea68c28d-80d0-487a-9aef-e1a33fa3035b"
+        - link "最後に":
+          - /url: "#eeb73956-ea64-4849-aa38-afd102528dd5"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#2a1e5fa4-fa23-49a4-8e21-3081e4e69f68"
+        - link "あわせて読みたい":
+          - /url: "#4f0198b6-35c7-4c82-8a8b-25728d32b1f0"
+    - heading "① Lepro クランプライト PR310005-DWW" [level=2]
+    - figure:
+      - link "Lepro デスクライト クランプ led 目に優しい クリップライト スタンドライト 電気スタンド 卓上ライト 明るい USB給電式 (ホワイト) www.amazon.co.jp 2,399円 (2026年10月10日 13:28時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B09XF3HRGW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Lepro デスクライト クランプ led 目に優しい クリップライト スタンドライト 電気スタンド 卓上ライト 明るい USB給電式 (ホワイト)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,399円
+        - text: (2026年10月10日 13:28時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B09XF3HRGW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 机の上に照明の台座を置かず、手元を照らしたい人向けの候補です。机の縁にクランプで取り付け、アームの向きや明るさ、光の色を調整できます。天板の厚さと縁の形状、USB電源の条件を確認して設置したい構成。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・取付方式：クランプ（範囲約5cm）
+          - text: ・給電：USB-A・5V/1A（アダプター別売）
+          - text: ・調光：10段階・調色：3段階
+          - text: ・コード長：約1.5m
+          - text: ・光源：LED・交換不可
+    - heading "② アイリスオーヤマ PDL-101-W" [level=2]
+    - figure:
+      - link "アイリスオーヤマ LEDデスクライト 調色3段階 調光無段階 簡単操作 自由可動 フレキシブルアーム 角度調節可能 省エネ ホワイト PDL-101-W www.amazon.co.jp 2,900円 (2026年10月10日 13:28時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07KKC7M1Q?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: アイリスオーヤマ LEDデスクライト 調色3段階 調光無段階 簡単操作 自由可動 フレキシブルアーム 角度調節可能 省エネ ホワイト PDL-101-W
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,900円
+        - text: (2026年10月10日 13:28時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07KKC7M1Q?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: ライトを机の上に置き、アームを動かして照らす場所を合わせたい人向けに選びました。調光と調色に対応し、明るさの設定を記憶できます。台座を置く場所と電源コードの届く範囲を確認して、手元に合う位置で使いたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・設置：据え置き式
+          - text: ・全光束：300lm
+          - text: ・定格消費電力：6W
+          - text: ・定格電源：AC100V・50/60Hz
+          - text: ・コード長：1.8m
+    - heading "③ Lepro デスクライト PR310001-DWW-JP" [level=2]
+    - figure:
+      - link "Lepro デスクライト led 目に優しい DCアダプター付き 電気スタンド 800lm超高輝度 卓上ライト おしゃれ テーブルライト【5段階色温度・明るさ/調光調色/タッチセンサー操作/多角度調整/コンセント付き】 人気 省エネ 学習机 台灯 勉強 机 明るい ブックライト 読書灯 (ホワイト) www.amazon.co.jp 2,799円 (2026年10月10日 13:28時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08MJR93YJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Lepro デスクライト led 目に優しい DCアダプター付き 電気スタンド 800lm超高輝度 卓上ライト おしゃれ テーブルライト【5段階色温度・明るさ/調光調色/タッチセンサー操作/多角度調整/コンセント付き】 人気 省エネ 学習机 台灯 勉強 机 明るい ブックライト 読書灯 (ホワイト)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,799円
+        - text: (2026年10月10日 13:28時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08MJR93YJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 専用アダプター付きの据え置きライトで、光を手元から調整したい人向けの候補です。タッチ操作で明るさと色を切り替え、ヘッドやアームの角度も変えられます。クランプ型とは異なる台座の置き場所を確保し、付属の電源で使いたい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・設置：据え置き式
+          - text: ・給電：付属DCアダプター・12V/1A
+          - text: ・調光：5段階・調色：5段階
+          - text: ・全光束：約800lm（明るさ100％時）
+          - text: ・光源：LED・交換不可
+    - heading "④ オーム電機 DS-LS12USB-W" [level=2]
+    - figure:
+      - link "オーム電機 LEDデスクランプ デスクライト デスクスタンド USB電源 昼白色 スマホスタンド付き DS-LS12USB-W 06-3704 OHM www.amazon.co.jp Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B09Z9X46PW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: オーム電機 LEDデスクランプ デスクライト デスクスタンド USB電源 昼白色 スマホスタンド付き DS-LS12USB-W 06-3704 OHM
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B09Z9X46PW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: USB電源の近くに置き、手元を照らす場所を調整したい人向けの候補です。フレキシブルアームとスマホスタンドを備え、昼白色の光で点灯します。スタンドに充電機能があるとは考えず、電源や設置位置を確認して使いたい構成。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・給電：5V/1A以上のUSBポート
+          - text: ・光色：昼白色
+          - text: ・全光束：約170lm
+          - text: ・照度：約950lx（25cm直下）
+          - text: ・光源：LED12灯・交換不可
+    - heading "⑤ アイリスオーヤマ LDL-QLDL-W" [level=2]
+    - figure:
+      - link "アイリスオーヤマ(IRIS OHYAMA) 【置くだけでスマホ充電】 デスクライト 置くだけで充電 Qiワイヤレス充電 画面の見やすいスタンドタイプ USB給電ポート付 調色3段階 調光無段階 高演色性 LDL-QLDL-W ホワイト www.amazon.co.jp 5,400円 (2026年10月10日 13:29時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08LG1JS2M?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: アイリスオーヤマ(IRIS OHYAMA) 【置くだけでスマホ充電】 デスクライト 置くだけで充電 Qiワイヤレス充電 画面の見やすいスタンドタイプ USB給電ポート付 調色3段階 調光無段階 高演色性 LDL-QLDL-W ホワイト
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 5,400円
+        - text: (2026年10月10日 13:29時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08LG1JS2M?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 手元の照明と対応スマホの充電場所を、机の一か所にまとめたい人向けに選びました。縦置きのQi充電部に加え、USB給電ポートを備える構成です。両方の充電は同時に使えないため、スマホの対応状況と充電方法を確認して使いたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・設置：据え置き式
+          - text: ・電源：AC100V・50/60Hz（本体DC9V）
+          - text: ・調光：無段階・調色：3段階
+          - text: ・充電：Qi・USB出力5V/1.5A（同時使用不可）
+          - text: ・コード長：1.8m
+    - heading "⑥ 山田照明 Z-LIGHT Z-108NB" [level=2]
+    - figure:
+      - link "山田照明(Yamada Shomei) Z-LIGHT LEDデスクライト 合金鋼 ブラック E26LED電球 昼白色 Z-108NB www.amazon.co.jp 7,009円 (2026年10月10日 13:29時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B082PWV4L7?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 山田照明(Yamada Shomei) Z-LIGHT LEDデスクライト 合金鋼 ブラック E26LED電球 昼白色 Z-108NB
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 7,009円
+        - text: (2026年10月10日 13:29時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B082PWV4L7?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 照らす場所をアームで調整し、光源を交換して使いたい人向けの候補です。クランプで机に固定するライトで、指定されたE26 LED電球を使う構成。調光はできないため、光の色と取り付け条件、交換時の適合ランプを確認して選びたい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・取付方式：クランプ（天板厚55mmまで）
+          - text: ・光源：E26 LED電球7.2W×1
+          - text: ・適合ランプ：No.255S／使用可能LDA7N-G/2
+          - text: ・光色：昼白色5000K・非調光
+          - text: ・コード長：1.9m
+    - heading "最後に" [level=2]
+    - paragraph: 据え置きなら台座の場所を、クランプなら天板の厚さや縁の形を確認すると選びやすくなります。照らしたい位置に合わせた可動範囲や電源、光源の交換条件も見て、机に合う一台を探してみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 在宅もオフィスも。デスクワークが捗る環境改善ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 在宅もオフィスも。デスクワークが捗る環境改善ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4tfeXyT
+        - strong: 毎日ガジェット通信's Amazon Page - 在宅もオフィスも。デスクワークが捗る環境改善ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4tfeXyT
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 机で使う明かりを選ぶ。「デスクライト」6選｜毎日ガジェット通信｜note

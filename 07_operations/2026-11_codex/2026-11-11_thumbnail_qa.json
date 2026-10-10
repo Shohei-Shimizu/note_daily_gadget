@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-11",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "reuse_byte_identical_copy",
+  "output_path": "04_thumbnail/2026-11/2026-11-11_scanner.png",
+  "source_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-07_scanner.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "24c75b014a3404c67a0c12054d4b943f5ba4d40674014d340258eef17366838e",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-11_書類の両面をPDFに残す。「スキャナー」5選.md",
+    "07_operations/2026-11_codex/2026-11-11_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "両面スキャナー5品比較、代表ADF1台",
+    "count": "スキャナー1台。原稿束と排紙は使用小物",
+    "material": "白い樹脂筐体と灰色給紙/排紙支持",
+    "structure": "後部ADF/前部排紙トレイの卓上1台。採用4ADF機の給排紙カテゴリと一致。手差しBrother1機と同一形状にはしない",
+    "use_case": "紙の書類の両面を取り込むADF型代表。両面機能自体やWiFi/給電/保存形式を外観で断定しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "natural_support": true,
+    "whole_device_visible": true,
+    "thumbnail_subject_clear": true,
+    "notes": "完成原稿と公式sourcesを照合。特定メーカーの精密商品写真ではなく代表カテゴリイメージ。"
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "new_design": false,
+  "source_output_identical": true
+}

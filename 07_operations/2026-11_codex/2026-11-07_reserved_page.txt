@@ -1,0 +1,241 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月7日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322735720/rectangle_large_type_2_e15eb207b5926d7a202d74febd6155ee.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "オンライン会議の映りを整える。「ウェブカメラ」5選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月7日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: オンライン会議では、映る範囲や手元を見せる場面に合ったカメラを選びたいものです。固定式から人物を自動追跡するモデルまで、ウェブカメラを5個調べてまとめました。
+    - paragraph:
+      - text: 今回の5個は
+      - strong: 「映像とピントの機能」、「人物追跡や操作方法」、「設置と映る範囲の調整」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① OBSBOT Tiny 2 Lite":
+          - /url: "#bebfbf46-2818-4e40-bd56-115ee270559c"
+        - link "② Insta360 Link 2":
+          - /url: "#04b46d70-acd6-4919-90ba-50c2b0fa00af"
+        - link "③ Anker PowerConf C200":
+          - /url: "#68d42d84-71fe-4514-9cb3-9aec898f93e2"
+        - link "④ OBSBOT Tiny 2":
+          - /url: "#b9e07a4a-a582-4e36-a404-36dd29a12416"
+        - link "⑤ ロジクール C270nd":
+          - /url: "#152a812d-6718-49d2-a985-f275c41b8480"
+        - link "最後に":
+          - /url: "#c9871cd8-5e7b-410c-9c2a-2a65d575d8e4"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#738e3eeb-79d1-460a-8d5f-544fad21fd02"
+        - link "あわせて読みたい":
+          - /url: "#50db6bb6-2dab-44da-98e8-deb8e41286c8"
+    - heading "① OBSBOT Tiny 2 Lite" [level=2]
+    - figure:
+      - link "OBSBOT TINY 2 Lite Webカメラ 4K ウェブカメラ www.amazon.co.jp 24,800円 (2026年10月10日 11:38時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CZ6XY78Y?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: OBSBOT TINY 2 Lite Webカメラ 4K ウェブカメラ
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 24,800円
+        - text: (2026年10月10日 11:38時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CZ6XY78Y?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 会議や説明中に体を動かすことがあり、カメラの向きを自動で合わせたい人向けです。ジンバルによる人物追跡とオートフォーカスを備え、手元で位置を直す操作を減らせる構成。離れた場所からジェスチャーで追跡やズームを操作できる点も重視しました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・映像：最大4K／30fps、1080p／60fps
+          - text: ・センサー：1/2インチCMOS
+          - text: ・フォーカス：PDAF（位相差検出AF）
+          - text: ・構造：2軸ジンバル・AI人物追跡
+          - text: ・音声：デュアル無指向性マイク・ノイズ低減
+    - heading "② Insta360 Link 2" [level=2]
+    - figure:
+      - link "Insta360 Link 2 Webカメラ 4K ウェブカメラ AI追跡 ジンバル搭载 www.amazon.co.jp 29,192円 (2026年10月10日 11:38時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DDTH3HX8?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Insta360 Link 2 Webカメラ 4K ウェブカメラ AI追跡 ジンバル搭载
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 29,192円
+        - text: (2026年10月10日 11:38時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DDTH3HX8?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 顔を映す会議と、机上の資料を見せる説明を行き来する人向けです。ジンバルが人物を追跡し、DeskViewモードでは手元へカメラを向けられる点を確認しました。固定式のLink 2Cとは構造が異なるため、動きを伴うプレゼン用途で比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・映像：4K・HDR対応
+          - text: ・センサー：1/2インチ
+          - text: ・構造：ジンバル搭載・AI人物追跡
+          - text: ・撮影機能：DeskView／ホワイトボードモード
+          - text: ・音声：AIノイズキャンセリング
+    - heading "③ Anker PowerConf C200" [level=2]
+    - figure:
+      - link "Anker PowerConf C200 【コンパクトサイズかつ軽量なウェブカメラ】 www.amazon.co.jp 8,990円 (2026年10月10日 11:38時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B09MHPFV4Q?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker PowerConf C200 【コンパクトサイズかつ軽量なウェブカメラ】
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 8,990円
+        - text: (2026年10月10日 11:38時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B09MHPFV4Q?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 座った状態でのオンライン会議に、コンパクトなカメラを追加したい人向けです。自動でピントを合わせる機能と画角調整を備え、自分の席に合った映る範囲を選べる構成。使わないときはレンズを覆えるカバーがあり、会議の前後で切り替えやすい点も重視しました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・映像：2K
+          - text: ・フォーカス：オートフォーカス
+          - text: ・音声：デュアルマイク・ノイズリダクション
+          - text: ・機能：画角調整／プライバシーカバー
+          - text: ・重さ：約83g
+    - heading "④ OBSBOT Tiny 2" [level=2]
+    - figure:
+      - link "OBSBOT TINY 2 webカメラ AI自動追跡 ウェブカメラ HDR 4K 5000万画素 全画素AF ジェスチャー 音声制御 ノイキャンマイク 会議 ライブ配信 ビデオ通話 PC Mac Windows www.amazon.co.jp 51,800円 (2026年10月10日 11:39時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0C3B6ZR1V?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: OBSBOT TINY 2 webカメラ AI自動追跡 ウェブカメラ HDR 4K 5000万画素 全画素AF ジェスチャー 音声制御 ノイキャンマイク 会議 ライブ配信 ビデオ通話 PC Mac Windows
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 51,800円
+        - text: (2026年10月10日 11:39時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0C3B6ZR1V?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 人物追跡に加え、カメラの操作方法にも選択肢を持ちたい人向けです。全画素オートフォーカスと自動ズームを備え、ジェスチャーや音声で操作できるのがLiteとの比較軸。音声制御は英語と中国語に対応するため、日本語で指示できる機能とは分けて検討したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・映像：4K・HDR対応
+          - text: ・フォーカス：全画素オートフォーカス
+          - text: ・追跡：AI人物追跡・自動ズーム
+          - text: ・操作：ジェスチャー／音声（英語・中国語）
+          - text: ・音声：デュアル無指向性マイク・ノイズ低減
+    - heading "⑤ ロジクール C270nd" [level=2]
+    - figure:
+      - link "ロジクール ウェブカメラ HD 720P C270nd 小型 自動光補正 国内正規品 【Amazon.co.jp限定】 www.amazon.co.jp 1,970円 (2026年10月10日 11:39時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D21FZ5KN?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ロジクール ウェブカメラ HD 720P C270nd 小型 自動光補正 国内正規品 【Amazon.co.jp限定】
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,970円
+        - text: (2026年10月10日 11:39時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D21FZ5KN?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 自動追跡よりも、PCに接続して使う基本的なカメラを探す人向けです。自動光補正とノイズリダクションマイクを備え、着席した状態のビデオ通話を想定して候補に入れました。調節できるクリップがあり、画面の上に付けるほか棚に置く使い方も選べる構成です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・映像：HD 720p／30fps
+          - text: ・対角画角：55度
+          - text: ・接続：USB-A
+          - text: ・機能：自動光補正
+          - text: ・音声：モノラル・ノイズリダクションマイク
+    - heading "最後に" [level=2]
+    - paragraph: 着席した会議なら画角や設置方法、動きのある説明なら人物追跡、資料を見せるなら手元を映すモードが比較の目安です。映したい内容とPC・会議アプリの対応条件を確認し、ご自身の会議スタイルに合う一台を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/42HITJ4
+        - strong: 毎日ガジェット通信's Amazon Page - 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/42HITJ4
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: オンライン会議の映りを整える。「ウェブカメラ」5選｜毎日ガジェット通信｜note

@@ -1,0 +1,3901 @@
+{
+  "audit_kind": "final_read_only_local_integrity_snapshot",
+  "snapshot_note": "全30 actualreserved後の保存証跡・最新ローカル原稿/台帳を読み取り監査。UI再訪・DB操作は行っていない。画像は日別ローカルファイルの存在と保存公開前ページの見出し画像表示を確認、画像ピクセルの一致をこの静的監査で証明してはいない。GUIregistry dateは記事予定日であり独立した発行タイムスタンプではない。",
+  "source_metadata": "accounts/daily_gadget/02_article/2026-11/_metadata.json",
+  "source_progress": "accounts/daily_gadget/07_operations/2026-11_codex/batch_progress.json",
+  "source_gui_registry": "accounts/daily_gadget/07_operations/2026-11_codex/gui_links.json",
+  "date_duplicate_metadata": [],
+  "date_duplicate_progress": [],
+  "rows": [
+    {
+      "date": "2026-11-01",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 10,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B08K2CHMWK",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07PJW2X2F",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B01HGGWZMG",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B081JSVYHQ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B00BJZ2JWC",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08CRN2P44",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CWKWXP37",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B01MA23P3J",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DBZNH3D3",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0FDW68VH4",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-01_saved_editor.html",
+        "sha256": "cf643431e9ba89b5a22453c075585c8ac9728656eb994f254a435121aea55be9",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 10,
+        "card_count": 14,
+        "expected_card_count": 14,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n5fc5895da192",
+          "https://note.com/daily_gadget/n/nb4bb727ad140",
+          "https://note.com/daily_gadget/n/n2f32776dd6f3"
+        ],
+        "amazon_card_asins": [
+          "B08K2CHMWK",
+          "B07PJW2X2F",
+          "B01HGGWZMG",
+          "B081JSVYHQ",
+          "B00BJZ2JWC",
+          "B08CRN2P44",
+          "B0CWKWXP37",
+          "B01MA23P3J",
+          "B0DBZNH3D3",
+          "B0FDW68VH4"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-01_settings.txt",
+          "date20_verified": true,
+          "sha256": "44f8dbbc3213ff2e7fbb18abf6aa50d26990307371e6ecce17101c158c9edf1a"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-01_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "f0469adc9f2fdc4a206e797d3a4903c1bd5691ca13a039bedca33503550b5cc8"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-01_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "1bf1415c8b738d8b1af28dd8029645e67abf7a2ab07472ba3f1c4ec939279a2c"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-01_keyboard.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/nc244790bf039",
+      "topic_id": "daily_gadget_20261101_5d60a8d4"
+    },
+    {
+      "date": "2026-11-02",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0DSPXKDP8",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08P6ZSXWZ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0C6V1CJB7",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08BN8WSGZ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0B44WTLHT",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-02_saved_editor.html",
+        "sha256": "5ff94b668d15023fbf55c872788ef4d40f6fe429498d9485f49c14514cf5b8e8",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/nf2d5d04244d0",
+          "https://note.com/daily_gadget/n/nf9b0445fddd4",
+          "https://note.com/daily_gadget/n/na84a30ae3914"
+        ],
+        "amazon_card_asins": [
+          "B0DSPXKDP8",
+          "B08P6ZSXWZ",
+          "B0C6V1CJB7",
+          "B08BN8WSGZ",
+          "B0B44WTLHT"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-02_settings.txt",
+          "date20_verified": true,
+          "sha256": "1dff14fa8009b146aecde88f47b48753083ed451fcbd0252c2f499f2b120d4db"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-02_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "9b5237beebfcabcbb125472be57b0f1ad519353ae049d9f68de06a3367ee3b7a"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-02_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "d55a677dcf4ff0f5aac77a463bb1b3b4e45c57f2f5123491e96d0b2ee94198b7"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-02_smart_remote.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n69d478819b12",
+      "topic_id": "daily_gadget_20261102_f6e93a8d"
+    },
+    {
+      "date": "2026-11-03",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 10,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B01HE6L6BY",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07XFVCW1S",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CY57DPW5",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0843QXWWZ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08DCYD9LD",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0H2F6R341",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D8TJJGNJ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07Q9K2QHV",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BMTRNQ43",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08L35V3R5",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-03_saved_editor.html",
+        "sha256": "0a6dbf6acbfb45d68be375de94d7a56e6c1235de1f906a1d386bd8e36aae2961",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 10,
+        "card_count": 14,
+        "expected_card_count": 14,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n09d55fbb8dc4",
+          "https://note.com/daily_gadget/n/na82122e0c47a",
+          "https://note.com/daily_gadget/n/n31e80512500d"
+        ],
+        "amazon_card_asins": [
+          "B01HE6L6BY",
+          "B07XFVCW1S",
+          "B0CY57DPW5",
+          "B0843QXWWZ",
+          "B08DCYD9LD",
+          "B0H2F6R341",
+          "B0D8TJJGNJ",
+          "B07Q9K2QHV",
+          "B0BMTRNQ43",
+          "B08L35V3R5"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-03_settings.txt",
+          "date20_verified": true,
+          "sha256": "d1c27b597312bbd24d8fd48f9d49cfeb25598da04bcd68b9957808de6509896c"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-03_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "a864454aae84c6b58502c67e2cb1bb8b7eb4a7f29c731e359d6e7989b6b3279f"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-03_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "fe2d62b0dce15dead94021327e4b1fe9a548d949386219a2d21cb63491b6e28f"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-03_gadget_pouch.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/nc0d90603f5fb",
+      "topic_id": "daily_gadget_20261103_164160ad"
+    },
+    {
+      "date": "2026-11-04",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 8,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B08HYX5NS9",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0GXYWTMPN",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B09Z2QYYD1",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BVPNJP1C",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CQKFTYW5",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CWNQP4RG",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0FL2HYBGJ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D4VMVCFX",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-04_saved_editor.html",
+        "sha256": "e422d400097732a5bce4fa5fcd3bdbe9771815c28bdbb8a939b5202af7a66956",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 8,
+        "card_count": 12,
+        "expected_card_count": 12,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/nce409c61ed07",
+          "https://note.com/daily_gadget/n/n5b247e8a0c1a",
+          "https://note.com/daily_gadget/n/n3f3977cb8d22"
+        ],
+        "amazon_card_asins": [
+          "B08HYX5NS9",
+          "B0GXYWTMPN",
+          "B09Z2QYYD1",
+          "B0BVPNJP1C",
+          "B0CQKFTYW5",
+          "B0CWNQP4RG",
+          "B0FL2HYBGJ",
+          "B0D4VMVCFX"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-04_settings.txt",
+          "date20_verified": true,
+          "sha256": "6245618da394186ddf9aa891cb95d6e01e4bc28b13c7361365a58fe836f4380c"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-04_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "66188b18d577d7d3b40c0e904bf7c7179112b817f0a2664dbc0ab4859055e857"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-04_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "31f2574bdfea64d1c1e0a449c909bfed68da6e604fa214b6a2463bf900aa025c"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-04_headphone.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/nff8117a93af7",
+      "topic_id": "daily_gadget_20261104_a6fa15ce"
+    },
+    {
+      "date": "2026-11-05",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 10,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0DBY8JCQ5",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07X2QHVDW",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08HWCWY6Z",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B00DAM5L1S",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BK2J71M1",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BB5WSKPF",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B004KSRN3K",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07KGH6B81",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B087S3YKH7",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08KRMQT5S",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-05_saved_editor.html",
+        "sha256": "95334060e8a5fcc77eee38d1ef8559e3f5b432514ff0a7db8f648b917381c4ac",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 10,
+        "card_count": 14,
+        "expected_card_count": 14,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/nb4bb727ad140",
+          "https://note.com/daily_gadget/n/n5fc5895da192",
+          "https://note.com/daily_gadget/n/n2f32776dd6f3"
+        ],
+        "amazon_card_asins": [
+          "B0DBY8JCQ5",
+          "B07X2QHVDW",
+          "B08HWCWY6Z",
+          "B00DAM5L1S",
+          "B0BK2J71M1",
+          "B0BB5WSKPF",
+          "B004KSRN3K",
+          "B07KGH6B81",
+          "B087S3YKH7",
+          "B08KRMQT5S"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-05_settings.txt",
+          "date20_verified": true,
+          "sha256": "b8cc8cda42c8447f3ac55e7593bc17c399856cb03280dae76f3fb957bae75908"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-05_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "1dbe7b781f1c5a509a300e3e894f964376a542b4f82ab95239161026b4cc6a10"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-05_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "dbbabb6f7dec93ac2b769aa599dda47a081716d0d6444d134a6e3e66994a40ff"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-05_timer.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n1eed8d5bb130",
+      "topic_id": "daily_gadget_20261105_5405bca5"
+    },
+    {
+      "date": "2026-11-06",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0BQMSXFP7",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B093FKT9BF",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D1XLNWP2",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DLWDJJQ8",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DVFVVV5S",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_saved_editor.html",
+        "sha256": "f863007d4a0e4c81ab308fb2ef6582e6f39a262481635dc9c405ac22b2814fea",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n5cabffd3351b",
+          "https://note.com/daily_gadget/n/n1a4e8f9fb5b3",
+          "https://note.com/daily_gadget/n/n31e80512500d"
+        ],
+        "amazon_card_asins": [
+          "B0BQMSXFP7",
+          "B093FKT9BF",
+          "B0D1XLNWP2",
+          "B0DLWDJJQ8",
+          "B0DVFVVV5S"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_settings.txt",
+          "date20_verified": true,
+          "sha256": "d635d158de97d98fce5a9f5adf005a4b6ae0557e7a7844531e221b9a12f80c37"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "3cd2167d0f298d3b44d1b3c19e35c3325c756852cf348b74f4fd84824b318718"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-06_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "7c5c251091a017af69bb37bb0b77483c5a3a692c571295b6d7a149451a6e001e"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-06_usb_hub.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n75160df23f70",
+      "topic_id": "daily_gadget_20261106_25de440c"
+    },
+    {
+      "date": "2026-11-07",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0CZ6XY78Y",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DDTH3HX8",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B09MHPFV4Q",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0C3B6ZR1V",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D21FZ5KN",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_saved_editor.html",
+        "sha256": "c03d62cee63d7fed671cbfb49c030579d12ff63e107856af13b67d6401d800fb",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n3f3977cb8d22",
+          "https://note.com/daily_gadget/n/ne815e4ca30ae",
+          "https://note.com/daily_gadget/n/n5b247e8a0c1a"
+        ],
+        "amazon_card_asins": [
+          "B0CZ6XY78Y",
+          "B0DDTH3HX8",
+          "B09MHPFV4Q",
+          "B0C3B6ZR1V",
+          "B0D21FZ5KN"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_settings.txt",
+          "date20_verified": true,
+          "sha256": "8c396073972c9d963bb46af065b8823cd51c801f13c0d30191e8fde69d9b9927"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "25d0a1cf778965a5a3b526da41e7c96d4d88830ebbae26472cd8bfaec19d20d0"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-07_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "9850e7aa250bd6063f01a17de61cb8febce64b8fd24021add6c5ff1f45fb9e33"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-07_webcam.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n9115ef44bdea",
+      "topic_id": "daily_gadget_20261107_e7642028"
+    },
+    {
+      "date": "2026-11-08",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 7,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B09PYKJ6CS",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B083348J3X",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DBLDKVDW",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BWCL335L",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BLRQ5HTT",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DB18WL6Z",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07DVJ1P6J",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_saved_editor.html",
+        "sha256": "53e4f78ad93b34a86d19571f0d875887e3acd32ca1e56c0924fea3739a918f5f",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 7,
+        "card_count": 11,
+        "expected_card_count": 11,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/nf2d5d04244d0",
+          "https://note.com/daily_gadget/n/nb727d58b3370",
+          "https://note.com/daily_gadget/n/naa8f89132514"
+        ],
+        "amazon_card_asins": [
+          "B09PYKJ6CS",
+          "B083348J3X",
+          "B0DBLDKVDW",
+          "B0BWCL335L",
+          "B0BLRQ5HTT",
+          "B0DB18WL6Z",
+          "B07DVJ1P6J"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_settings.txt",
+          "date20_verified": true,
+          "sha256": "480dae0fe1bff02d9a293a5fd596c798f5e63446a9bf35c9f9005d1199b8b867"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "e19433dcce5e16281001f5be50d33e7d637e72a17959263598ac93e5924e325f"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-08_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "d838683f8639469b524176cc2bd16310524aab05b5b31d7e45e1556a0f8bb1ca"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-08_thermo_hygrometer.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n3cbdc7dafd20",
+      "topic_id": "daily_gadget_20261108_5512daf8"
+    },
+    {
+      "date": "2026-11-09",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 6,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B06W55K9N6",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07VTFN6HM",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07BK6696F",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08ZJG6TVT",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07D7978NV",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BN8VZ22H",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_saved_editor.html",
+        "sha256": "11202ca47e0946bd610d7aadaa7e74fd439b50736bc888b30a979b6e4f50779e",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 6,
+        "card_count": 10,
+        "expected_card_count": 10,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n5cabffd3351b",
+          "https://note.com/daily_gadget/n/n31e80512500d",
+          "https://note.com/daily_gadget/n/n5ae5865b8f47"
+        ],
+        "amazon_card_asins": [
+          "B06W55K9N6",
+          "B07VTFN6HM",
+          "B07BK6696F",
+          "B08ZJG6TVT",
+          "B07D7978NV",
+          "B0BN8VZ22H"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_settings.txt",
+          "date20_verified": true,
+          "sha256": "c989568c654dede6c5e12cb0c5137cc9cff3ec4297b39b61d4e05f7079bccce1"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "2a3721f6c7014135eec8c43ff11b42fd18be8bc3065d9b88910783fa8fac8770"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-09_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "fdddec4f63d8e02a7035df76009005a40b06b2baaae1ef34b03041bc7fe48381"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-09_external_hdd.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n53a3a5c05c12",
+      "topic_id": "daily_gadget_20261109_fd8499b3"
+    },
+    {
+      "date": "2026-11-10",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 10,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B08X11GD52",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0B38TWKVR",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0C6DX66TN",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0B2QR8HN9",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D53VJJ7F",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CMCD9DY3",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CTJDLWV4",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0F43N4Z21",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0B5QKMCZD",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D53VKL36",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-10_saved_editor.html",
+        "sha256": "7f64dfb08732e4438bcd1c02de33a105caf20ccf3841f24bdea4e3566a537d4b",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 10,
+        "card_count": 14,
+        "expected_card_count": 14,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n09d55fbb8dc4",
+          "https://note.com/daily_gadget/n/na82122e0c47a",
+          "https://note.com/daily_gadget/n/n31e80512500d"
+        ],
+        "amazon_card_asins": [
+          "B08X11GD52",
+          "B0B38TWKVR",
+          "B0C6DX66TN",
+          "B0B2QR8HN9",
+          "B0D53VJJ7F",
+          "B0CMCD9DY3",
+          "B0CTJDLWV4",
+          "B0F43N4Z21",
+          "B0B5QKMCZD",
+          "B0D53VKL36"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-10_settings.txt",
+          "date20_verified": true,
+          "sha256": "eec7b73485ba5850e1d117698fb9eaf2ed309cb41b3fb64b7e084420e8b21e1a"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-10_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "63bf77e50232feae3e257d9550c1e2326ce528f6093f30829a7f6d65703d8f18"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-10_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "e08a38f7862406088e7a1343a7f37acd5884b4f048b3831ec84521587854f9e8"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-10_charger.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n42c1e7c84180",
+      "topic_id": "daily_gadget_20261110_5bb157d8"
+    },
+    {
+      "date": "2026-11-11",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0C23XJGCW",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B083VZHDGZ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08HYKSYRJ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B01IALGUYA",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B09FRYGKLR",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_saved_editor.html",
+        "sha256": "639ef5a99251b3ebe5247ecc16068a67688e792b6e5e34fa68dc71906a4ec8e0",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n29caa989f55d",
+          "https://note.com/daily_gadget/n/n1ffbde3cf8b6",
+          "https://note.com/daily_gadget/n/n5b247e8a0c1a"
+        ],
+        "amazon_card_asins": [
+          "B0C23XJGCW",
+          "B083VZHDGZ",
+          "B08HYKSYRJ",
+          "B01IALGUYA",
+          "B09FRYGKLR"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_settings.txt",
+          "date20_verified": true,
+          "sha256": "4914fd4742753636835c762e7ec2f751cd031f41539688617edbfb5d1e0e5c19"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "365f32b0193b3f30bf7c52e7ff74d6739b8034ccbc765d7a58b0677f94a94637"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-11_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "162b0aca3f491c8b1cbfbfdd1f9404bdf4c20388cf95022c58f70d7c6a69f7d8"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-11_scanner.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/nfd1b0c81b462",
+      "topic_id": "daily_gadget_20261111_9e1adf8e"
+    },
+    {
+      "date": "2026-11-12",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 10,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0CP4RQZ3L",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DK53QZ8J",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D4Z8KJXY",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0FRSCXWSV",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DRVB48LJ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CBKQZXT7",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0FQFQDN6K",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0FWC7ZSTK",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CSKFY1Q2",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DJNXH5KV",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_saved_editor.html",
+        "sha256": "ecb1c6bbf9b179823ff316ae2c587f289ffb48ca885eadf54a82615b08799c54",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 10,
+        "card_count": 14,
+        "expected_card_count": 14,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/nce409c61ed07",
+          "https://note.com/daily_gadget/n/n7b8221e33ca9",
+          "https://note.com/daily_gadget/n/n5b247e8a0c1a"
+        ],
+        "amazon_card_asins": [
+          "B0CP4RQZ3L",
+          "B0DK53QZ8J",
+          "B0D4Z8KJXY",
+          "B0FRSCXWSV",
+          "B0DRVB48LJ",
+          "B0CBKQZXT7",
+          "B0FQFQDN6K",
+          "B0FWC7ZSTK",
+          "B0CSKFY1Q2",
+          "B0DJNXH5KV"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_settings.txt",
+          "date20_verified": true,
+          "sha256": "8539eb6474ca9f447cc875e650f0a28d9906609e2d22d4e9f95e912e35f76562"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "78e27a1081bb135f1770ad2a99d15d4670d9d28d9e735b35ef0db8025b804c0c"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-12_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "25961b613de34cb6cdabc4ec21f6c057eced4f88f082164fefdfea384e84047d"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-12_earphone.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/ncab416b085d9",
+      "topic_id": "daily_gadget_20261112_731daa9a"
+    },
+    {
+      "date": "2026-11-13",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B07HX6KWBR",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07H5RMC5Z",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DVBDHK5T",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BRZBN96C",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DSZVQ6M1",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_saved_editor.html",
+        "sha256": "75505ac2ef13d54634b5a10ec08458264dc5ed45b84cf8e4f9e270968fc473a7",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n5ae5865b8f47",
+          "https://note.com/daily_gadget/n/n09d55fbb8dc4",
+          "https://note.com/daily_gadget/n/nc8ed3beb4597"
+        ],
+        "amazon_card_asins": [
+          "B07HX6KWBR",
+          "B07H5RMC5Z",
+          "B0DVBDHK5T",
+          "B0BRZBN96C",
+          "B0DSZVQ6M1"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_settings.txt",
+          "date20_verified": true,
+          "sha256": "79c204d0e44916db7162d7e4283c048cd15f24869e1e61b7859663d77f333ad2"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "0bb3aa11ec17ed74c834a952cc427fee3645bdce676ba45bd800567d917402cd"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-13_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "aac9e683ea98db7308246f262083500934efeea8f9947ecbbc2ebd0004f5c86d"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-13_backpack.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/nf66569948306",
+      "topic_id": "daily_gadget_20261113_08ed1fc9"
+    },
+    {
+      "date": "2026-11-14",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0DG2QKMFX",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D9WT1S2T",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0F59W7RGH",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0H4RH1L21",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DJNVNVP2",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_saved_editor.html",
+        "sha256": "0105ff618667e2f1899c5c58c97c0a99fe3e061cfcd41fec693a6b47001d61bf",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n236dd21b2c06",
+          "https://note.com/daily_gadget/n/ne0c134563e5c",
+          "https://note.com/daily_gadget/n/n106fe0a6041f"
+        ],
+        "amazon_card_asins": [
+          "B0DG2QKMFX",
+          "B0D9WT1S2T",
+          "B0F59W7RGH",
+          "B0H4RH1L21",
+          "B0DJNVNVP2"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_settings.txt",
+          "date20_verified": true,
+          "sha256": "6220191a161cec46c17c7c6fc8eac05bf514a824a49060ef11a1a72b4b565b32"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "9cdd006e93e0399c195f7e0bd59fd1384388764127a554ce716f327575603752"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-14_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "709445ee8daacf5597a14eddb7f6105ca6cf85670dacabf6ac7686ea973bb813"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-14_smart_ring.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n5fe09a4c9a89",
+      "topic_id": "daily_gadget_20261114_92c0cc94"
+    },
+    {
+      "date": "2026-11-15",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 7,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0BCTP8VJH",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D1TYZSXV",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0776TCTK2",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B00PIM0PTG",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B01AUL0U8K",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B01N0EJD6I",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0FH21C9P6",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_saved_editor.html",
+        "sha256": "051d7e3f7bfe3ed22806e01f56ee379e1fbf055cf6bac17b4dba5674ba2e2612",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 7,
+        "card_count": 11,
+        "expected_card_count": 11,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n0654b94a8bd3",
+          "https://note.com/daily_gadget/n/n7b7d5bd31ed5",
+          "https://note.com/daily_gadget/n/nfe7a1373d9ca"
+        ],
+        "amazon_card_asins": [
+          "B0BCTP8VJH",
+          "B0D1TYZSXV",
+          "B0776TCTK2",
+          "B00PIM0PTG",
+          "B01AUL0U8K",
+          "B01N0EJD6I",
+          "B0FH21C9P6"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_settings.txt",
+          "date20_verified": true,
+          "sha256": "51f45be0acc0a68c67ad4870670f0a2c35e4964f9230816b0c9a9fd5a7c7dab4"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "1272f542a79aab49561b0f2ca6297a96d1b7542ec5ba8f4d5998acb68cc9b843"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-15_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "7e54ef37addc82ccd9e149944ff8fd1cb38951c5559eaed562f1e61a0791a2d2"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-15_projector.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/nf85fa44b3c82",
+      "topic_id": "daily_gadget_20261115_436f7300"
+    },
+    {
+      "date": "2026-11-16",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 6,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B08M3K411P",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BCW4YMR8",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DHWX7B1V",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0895JCJKM",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BRZ1QB74",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07J6SYY95",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_saved_editor.html",
+        "sha256": "52d371dce1748223af448b86161a365f1849143fdf0b742d696b0a92d05c4a35",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 6,
+        "card_count": 10,
+        "expected_card_count": 10,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n48428c64a7f6",
+          "https://note.com/daily_gadget/n/na550b03346d5",
+          "https://note.com/daily_gadget/n/nb56841d4aeaf"
+        ],
+        "amazon_card_asins": [
+          "B08M3K411P",
+          "B0BCW4YMR8",
+          "B0DHWX7B1V",
+          "B0895JCJKM",
+          "B0BRZ1QB74",
+          "B07J6SYY95"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_settings.txt",
+          "date20_verified": true,
+          "sha256": "f57f44f3737c8e4610b53ba4953da4297a99b2ee570a79399e26dc7294c693c8"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "986cc941c7c9d8a01430ec8d1d9a4ada835c3f36e79f1d2a3e6bd9a89a9a31de"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-16_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "66c18bbfc112c5be11c88da4d934ee6e8396141f99cac5ed965320fcd63541f6"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-16_label_printer.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n923384aebf68",
+      "topic_id": "daily_gadget_20261116_bbfd27fe"
+    },
+    {
+      "date": "2026-11-17",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B00TMYO5EM",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B087CHMKR4",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0GVM2MRRY",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0FFM7SRGC",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B073JFMPPT",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-17_saved_editor.html",
+        "sha256": "5b17fe35aaccda802656ab36bc83d549ab1bb925894ddd9e639dc42e177d3a13",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n3a9b1117d511",
+          "https://note.com/daily_gadget/n/n42c61862b347",
+          "https://note.com/daily_gadget/n/ncd25d7bebee6"
+        ],
+        "amazon_card_asins": [
+          "B00TMYO5EM",
+          "B087CHMKR4",
+          "B0GVM2MRRY",
+          "B0FFM7SRGC",
+          "B073JFMPPT"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-17_settings.txt",
+          "date20_verified": true,
+          "sha256": "95118a7320a3611fcd6d60f32440dddb311922ebc85f9a2ea944b629ca1e7aac"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-17_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "d22539c69b4f3a33109e8dd7cc58a05ff2e45d6405b3c8eb06ec876f1c3a4aa8"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-17_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "d826cd6d6c03ed1780d23e017615e0c9cb6392580874848afaf3d8ac5241bd94"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-17_usb_memory.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n3e3389c1d79b",
+      "topic_id": "daily_gadget_20261117_1a758de7"
+    },
+    {
+      "date": "2026-11-18",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0GC4TJDXL",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BV5RHNM1",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B083TW2H7S",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0B74JT9R2",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DJDZRW18",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_saved_editor.html",
+        "sha256": "3061fd8366efe494fd03c32037ec9f8b0bce9cf06f9c6cfd4bc434f56af1327a",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n48428c64a7f6",
+          "https://note.com/daily_gadget/n/na550b03346d5",
+          "https://note.com/daily_gadget/n/nb56841d4aeaf"
+        ],
+        "amazon_card_asins": [
+          "B0GC4TJDXL",
+          "B0BV5RHNM1",
+          "B083TW2H7S",
+          "B0B74JT9R2",
+          "B0DJDZRW18"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_settings.txt",
+          "date20_verified": true,
+          "sha256": "4a3a97369195e32d986bcb2e099ea5edaaff88e268150d0414a765666432641f"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "ea3f690f5847b7402696f46001ea8694474a64a9c045e1987aaa7a8c32c854f8"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-18_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "7b0b626d6e4742ea3803c6309351afd62bf7ad959c45f40a821ef81890df1ccb"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-18_air_duster.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/ne2dee325f070",
+      "topic_id": "daily_gadget_20261118_155b52cc"
+    },
+    {
+      "date": "2026-11-19",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 6,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B07D1J88CF",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07P1XB7BG",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0BNBXVLZS",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0B6HM369H",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D7PBX46R",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0FFR5714G",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_saved_editor.html",
+        "sha256": "b0294e9c5b452571b9818d74118c39a55bb2d101b3b821fb98ba549ecdc7c7e5",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 6,
+        "card_count": 10,
+        "expected_card_count": 10,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n3a9b1117d511",
+          "https://note.com/daily_gadget/n/n42c61862b347",
+          "https://note.com/daily_gadget/n/ncd25d7bebee6"
+        ],
+        "amazon_card_asins": [
+          "B07D1J88CF",
+          "B07P1XB7BG",
+          "B0BNBXVLZS",
+          "B0B6HM369H",
+          "B0D7PBX46R",
+          "B0FFR5714G"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_settings.txt",
+          "date20_verified": true,
+          "sha256": "7770df60723cf6688d87836924ad3e2348cd1b8a06a3389c2a6dbdc4a080d75f"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "1c2b7287b8511efab1fa641a15bd1cadd83afdb815a439e88e3f8a08430da3e8"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-19_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "33b7f6df98e60ca6264f7e007edc79f8f6101660a9bf1240b5ad70a6bcfbc840"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-19_card_reader.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/nb8f8e64a2cc2",
+      "topic_id": "daily_gadget_20261119_0038b5ca"
+    },
+    {
+      "date": "2026-11-20",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B08HDL3XJR",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DG9VSBLS",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B09988GM1B",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08BP625V6",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DX1TFTY1",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-20_saved_editor.html",
+        "sha256": "339c3946593263d8d8a86f0c66bcd5647b746a0fa540969216fc80c71c977c4e",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n1ffbde3cf8b6",
+          "https://note.com/daily_gadget/n/n3c59fec7b45d",
+          "https://note.com/daily_gadget/n/n07974d0c1e08"
+        ],
+        "amazon_card_asins": [
+          "B08HDL3XJR",
+          "B0DG9VSBLS",
+          "B09988GM1B",
+          "B08BP625V6",
+          "B0DX1TFTY1"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-20_settings.txt",
+          "date20_verified": true,
+          "sha256": "9456d64148e9e0640fb59a38090869c4a35669934e4367e07b95dbacbfb0f84b"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-20_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "24599cf59f1c36e337cfcfc510cbcdc242a2810020518a2f875447f86e983a83"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-20_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "e5b59f5212a4d8615e23459b100e46ac9f107aed7a663e79626378a4b2648793"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-20_digital_notebook.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n373ce957c959",
+      "topic_id": "daily_gadget_20261120_b091861e"
+    },
+    {
+      "date": "2026-11-21",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B08W2C5W59",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0785D93KD",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08WT889V3",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0B11Q33HP",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B09RFM7PKX",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-21_saved_editor.html",
+        "sha256": "81079ff5ae211bcdb2d3fdcfed43f0fb53016a582ca1be1148266b1b55c479e5",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n48428c64a7f6",
+          "https://note.com/daily_gadget/n/na550b03346d5",
+          "https://note.com/daily_gadget/n/nb56841d4aeaf"
+        ],
+        "amazon_card_asins": [
+          "B08W2C5W59",
+          "B0785D93KD",
+          "B08WT889V3",
+          "B0B11Q33HP",
+          "B09RFM7PKX"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-21_settings.txt",
+          "date20_verified": true,
+          "sha256": "759aba4852ffe591726566747aabbe4c03d3f370999ea0b9f653403b7e2f2381"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-21_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "cf068d449fdac35fd06ae4f754dd7ab38fd7a93e4207c4db8b2218c5dd7ca962"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-21_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "dbffe065948f81c709bee70e33e449704d2abf2a1a4ad0eefd74bdfbbabd66f0"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-21_monitor_light.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/ncfd452d67d47",
+      "topic_id": "daily_gadget_20261121_00248fb1"
+    },
+    {
+      "date": "2026-11-22",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 6,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B00CD8AFFW",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B06XXB9G8G",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0F23BX5NB",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0FLQ33529",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D33FB2GW",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D33JGH4G",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-22_saved_editor.html",
+        "sha256": "2dc93f1f2228221afd8a902faf4d0db7c9964ed48fb25f724aa4477e5f97c165",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 6,
+        "card_count": 10,
+        "expected_card_count": 10,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n5ae5865b8f47",
+          "https://note.com/daily_gadget/n/n09d55fbb8dc4",
+          "https://note.com/daily_gadget/n/nc8ed3beb4597"
+        ],
+        "amazon_card_asins": [
+          "B00CD8AFFW",
+          "B06XXB9G8G",
+          "B0F23BX5NB",
+          "B0FLQ33529",
+          "B0D33FB2GW",
+          "B0D33JGH4G"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-22_settings.txt",
+          "date20_verified": true,
+          "sha256": "75387d1ee542e7c066eb5d92b88e5fb53df34439adffe315226c1a5d0a48d00c"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-22_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "89f02633584501daff7a51d5ca4025bb99b3e50e8fc032434d09ca54b93a817c"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-22_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "b471bddd238b1c849f8d1aa9045699572e731d8b51664dce819b8618904ae461"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-22_laptop_case.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n8759e95e32e6",
+      "topic_id": "daily_gadget_20261122_ed8999ae"
+    },
+    {
+      "date": "2026-11-23",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B07RKL4L7Q",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0F29YZWSM",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07N31KRZL",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DQX529CV",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0F9P5J764",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-23_saved_editor.html",
+        "sha256": "fc6c6e2b95794a6901cf9e2507bb34272a09b29bbf8a4bd909fb2e0fd799c042",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n3a9b1117d511",
+          "https://note.com/daily_gadget/n/n42c61862b347",
+          "https://note.com/daily_gadget/n/ncd25d7bebee6"
+        ],
+        "amazon_card_asins": [
+          "B07RKL4L7Q",
+          "B0F29YZWSM",
+          "B07N31KRZL",
+          "B0DQX529CV",
+          "B0F9P5J764"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-23_settings.txt",
+          "date20_verified": true,
+          "sha256": "32a3c9c19c365865b17bc7518cc0e7caecbdc2806502b09dc5090e8c468fd604"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-23_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "293ec0a8a9cf32635acef1144b868cab4da1fa1e6cb1614206c5826b1b8ea597"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-23_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "57921801ffb4991436f073da03c712011057e43460129061b9576adb9712a1f8"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-23_sd_card.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/nd0edf99a7bea",
+      "topic_id": "daily_gadget_20261123_c7f865dc"
+    },
+    {
+      "date": "2026-11-24",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 8,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0DFZPR9Z4",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DYF82545",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0B75RC9C3",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0F1XCKZYW",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CJFRY955",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B09XGYX7JF",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DZHFRKQD",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DGQ9S3GQ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-24_saved_editor.html",
+        "sha256": "deda0bd3bfe325d008ee6a85a6085db055f2b4851f6ab75134cba5a47291069b",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 8,
+        "card_count": 12,
+        "expected_card_count": 12,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n106fe0a6041f",
+          "https://note.com/daily_gadget/n/ne0c134563e5c",
+          "https://note.com/daily_gadget/n/n236dd21b2c06"
+        ],
+        "amazon_card_asins": [
+          "B0DFZPR9Z4",
+          "B0DYF82545",
+          "B0B75RC9C3",
+          "B0F1XCKZYW",
+          "B0CJFRY955",
+          "B09XGYX7JF",
+          "B0DZHFRKQD",
+          "B0DGQ9S3GQ"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-24_settings.txt",
+          "date20_verified": true,
+          "sha256": "7f280c4e276507efe295fbd37b11b0cdccc865372797056025f729ecbcbb9d73"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-24_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "cdd523bf55ce8c6be99069b064ad34377c9a78d53bb351441cb6e13f72bf13d3"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-24_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "7491878d7ea71cea2aaf24ca1f3138d19f2955133d37bac97671767e1eace357"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-24_smartwatch.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n21ab7e8b9f3d",
+      "topic_id": "daily_gadget_20261124_6b30ecfb"
+    },
+    {
+      "date": "2026-11-25",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 6,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0DBLJLK75",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B092VX5RK7",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0F28G8MKX",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CMX88TM6",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B071DFVCTK",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08QCP1WC3",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-25_saved_editor.html",
+        "sha256": "dd72ad54b8fd92591c101c001776291e5a0f2d3dd3f14bb6fe4890affd48be67",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 6,
+        "card_count": 10,
+        "expected_card_count": 10,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n48428c64a7f6",
+          "https://note.com/daily_gadget/n/na550b03346d5",
+          "https://note.com/daily_gadget/n/nb56841d4aeaf"
+        ],
+        "amazon_card_asins": [
+          "B0DBLJLK75",
+          "B092VX5RK7",
+          "B0F28G8MKX",
+          "B0CMX88TM6",
+          "B071DFVCTK",
+          "B08QCP1WC3"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-25_settings.txt",
+          "date20_verified": true,
+          "sha256": "ecb8dc509a63e2744a54a6438ff5d1cf14f6f207c3ccfa48563e8a23f5d409fd"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-25_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "02e0bc466bd7bde0367f1f139fd282837809f9ff13f3d49d763d8711d18509bb"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-25_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "e68dc0747203e7485f3c54378763c8ce05741f829ed535c53205cba26226b07d"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-25_standing_desk.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n511c3316b4f8",
+      "topic_id": "daily_gadget_20261125_68d577dc"
+    },
+    {
+      "date": "2026-11-26",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 5,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0B7SBVGP6",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07ZP695PB",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0FQPF59WR",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CT378Q1M",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08BP1912B",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-26_saved_editor.html",
+        "sha256": "9473a15db119cbd443a13a6daee9bdc9354f3c2003a822515907f9d07c4916b7",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 5,
+        "card_count": 9,
+        "expected_card_count": 9,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n3d83ccce7e3e",
+          "https://note.com/daily_gadget/n/nb99adca17a30",
+          "https://note.com/daily_gadget/n/n8d03aae390f1"
+        ],
+        "amazon_card_asins": [
+          "B0B7SBVGP6",
+          "B07ZP695PB",
+          "B0FQPF59WR",
+          "B0CT378Q1M",
+          "B08BP1912B"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-26_settings.txt",
+          "date20_verified": true,
+          "sha256": "14a0a67ac454c3a0f6fdbf189a2ededd23508797348438e3d900bc8f2c79c1ac"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-26_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "e70ce372b8253c8ae26a0ea3876f8761666ee10de419f3278c00425e33ddfd59"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-26_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "bf395fb2575f1a9b283dd589d22fda665eac9b3b626af03b119bbfa038dd8e8e"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-26_translator.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/ne33a85f704d9",
+      "topic_id": "daily_gadget_20261126_9ccd2f95"
+    },
+    {
+      "date": "2026-11-27",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 6,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B09XF3HRGW",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B07KKC7M1Q",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08MJR93YJ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B09Z9X46PW",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08LG1JS2M",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B082PWV4L7",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-27_saved_editor.html",
+        "sha256": "2d94c5b3530a5b8d4f56c8c63e21f318bdb8cc446a7e4c0c64b1538abe6b0984",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 6,
+        "card_count": 10,
+        "expected_card_count": 10,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n48428c64a7f6",
+          "https://note.com/daily_gadget/n/na550b03346d5",
+          "https://note.com/daily_gadget/n/nb56841d4aeaf"
+        ],
+        "amazon_card_asins": [
+          "B09XF3HRGW",
+          "B07KKC7M1Q",
+          "B08MJR93YJ",
+          "B09Z9X46PW",
+          "B08LG1JS2M",
+          "B082PWV4L7"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-27_settings.txt",
+          "date20_verified": true,
+          "sha256": "2a9f7fd2552fb03f9bd6db1948296fcb15ad5f9a2e3c7e3598f6962a7d989573"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-27_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "af796b0ed760774f7974159cf2c706b38e3a0581c4ba32db5ac1753a072b766d"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-27_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "1dc5f7d7b7ef600726966713a7d3e63c1bd2083ccfcf9a8199183f45ea2ac79f"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-27_desk_light.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/nac73b60df94e",
+      "topic_id": "daily_gadget_20261127_f633f513"
+    },
+    {
+      "date": "2026-11-28",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 7,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B0D53RXMB1",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0DWMPNCLC",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D9VTLK47",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0FRLWSGPW",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D99ZHVD2",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D9B21YQP",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0GJTW9CL8",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-28_saved_editor.html",
+        "sha256": "534b61aec7e99a43f977605a9d2d0388f03ff5427d2f15ac87c1809de8b3906f",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 7,
+        "card_count": 11,
+        "expected_card_count": 11,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n8d03aae390f1",
+          "https://note.com/daily_gadget/n/nb99adca17a30",
+          "https://note.com/daily_gadget/n/n9a1b55b5b97d"
+        ],
+        "amazon_card_asins": [
+          "B0D53RXMB1",
+          "B0DWMPNCLC",
+          "B0D9VTLK47",
+          "B0FRLWSGPW",
+          "B0D99ZHVD2",
+          "B0D9B21YQP",
+          "B0GJTW9CL8"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-28_settings.txt",
+          "date20_verified": true,
+          "sha256": "79c8554a135e478f6dca7a3e6cfba05fc8744f0ee4e818735c16bad27ccbcd78"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-28_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "0b48abfc05dbd5ad11618573ac40394db3767f71374a3511b1ea7d390a71ec5c"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-28_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "6b7f71d88c5b83480c5a14cf2986e600d7036bd9cc0069a410cb02e1a7585bcc"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-28_gps_tracker.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/nf2a5cb70f963",
+      "topic_id": "daily_gadget_20261128_f64d8613"
+    },
+    {
+      "date": "2026-11-29",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 6,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B07S8VWT5B",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B06WRN4VGJ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0956X785M",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08LMK3L5C",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B088P8QYWN",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B09J46WG5D",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-29_saved_editor.html",
+        "sha256": "4fa99bbf3f35a91d6c087c6b24a3f3607d6a7d6ce06ee46f89448ec35f24cf77",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 6,
+        "card_count": 10,
+        "expected_card_count": 10,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/ndbce63cf191b",
+          "https://note.com/daily_gadget/n/n83dbd826c169",
+          "https://note.com/daily_gadget/n/ndd361fecfc9b"
+        ],
+        "amazon_card_asins": [
+          "B07S8VWT5B",
+          "B06WRN4VGJ",
+          "B0956X785M",
+          "B08LMK3L5C",
+          "B088P8QYWN",
+          "B09J46WG5D"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-29_settings.txt",
+          "date20_verified": true,
+          "sha256": "c080a4831b5e31af3b77747acc09a1094a5284762945f5a69ac919bc06c648b6"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-29_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "60ceb4ffecc250a41223f6cc7b9fd6739d2ab50df38fdc202afc8028c31ee028"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-29_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "52773c736568805e0bfa0a05d48bac02f53474a19fbf90b46f344c869207a949"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-29_mouse.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/nd4c3b2637d7d",
+      "topic_id": "daily_gadget_20261129_8393c396"
+    },
+    {
+      "date": "2026-11-30",
+      "audit_status": "reserved_local_evidence_verified",
+      "expected_product_count": 6,
+      "checks": {
+        "single_article": true,
+        "title_h1_filename": true,
+        "metadata_progress_handoff_title": true,
+        "productH2_N": true,
+        "ASIN_order": true,
+        "spec_blockquote_N": true,
+        "research_exists": true,
+        "reserved_progress": true,
+        "date_time_progress": true,
+        "URL_metadata_progress": true,
+        "topic_metadata_progress": true,
+        "related_MD_3URLs_only": true,
+        "GUI_registry_all": true,
+        "HTML_emptyP0": true,
+        "HTML_nativeTOC1": true,
+        "HTML_nativequoteN": true,
+        "HTML_cardN4": true,
+        "HTML_related3only": true,
+        "HTML_ASIN_order": true,
+        "settings_date20": true,
+        "confirmation_date20": true,
+        "reserved_page_date20": true,
+        "reserved_page_H1": true,
+        "reserved_page_account": true,
+        "reserved_page_header_image": true,
+        "local_thumbnail_one": true
+      },
+      "failed_checks": [],
+      "gui_checks": [
+        {
+          "asin": "B07H774Q42",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B08TLVKBMJ",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0B5DRS12W",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B095W9HP4N",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0D637HRT5",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        },
+        {
+          "asin": "B0CPHX4R58",
+          "registry_date": true,
+          "URL_exact": true,
+          "tag_body": true,
+          "tag_registry": true
+        }
+      ],
+      "saved_html": {
+        "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-30_saved_editor.html",
+        "sha256": "2f00d93f0e68a8728091ce8ff4243480dfe55005c501321f48beda01eb4c11af",
+        "emptyP_count": 0,
+        "nativeTOC_count": 1,
+        "nativequote_count": 6,
+        "card_count": 10,
+        "expected_card_count": 10,
+        "related_card_urls": [
+          "https://note.com/daily_gadget/n/n48428c64a7f6",
+          "https://note.com/daily_gadget/n/na550b03346d5",
+          "https://note.com/daily_gadget/n/nb56841d4aeaf"
+        ],
+        "amazon_card_asins": [
+          "B07H774Q42",
+          "B08TLVKBMJ",
+          "B0B5DRS12W",
+          "B095W9HP4N",
+          "B0D637HRT5",
+          "B0CPHX4R58"
+        ],
+        "related_outside_text": ""
+      },
+      "reservation_evidence": {
+        "settings": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-30_settings.txt",
+          "date20_verified": true,
+          "sha256": "d966e36d1585ed66f46214b940019a6938e7ecb4b2df7449b0594cb414affc68"
+        },
+        "confirmation": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-30_confirmation.txt",
+          "date20_verified": true,
+          "sha256": "fc759b1296bc668f86cb31e4829be478f0e6a519e6f0185d214b831361b71377"
+        },
+        "reserved_page": {
+          "path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/07_operations/2026-11_codex/2026-11-30_reserved_page.txt",
+          "date20_verified": true,
+          "sha256": "e47ffc7cf0c892ff25d1337c6dcb47eab8717d1d212fd308862710cda7663c11"
+        }
+      },
+      "thumbnail_local_files": [
+        "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-11/2026-11-30_laptop_stand.png"
+      ],
+      "note_url": "https://note.com/daily_gadget/n/n5fb0c2040321",
+      "topic_id": "daily_gadget_20261130_4283a16e"
+    }
+  ],
+  "issues": [],
+  "gui_identity_gates": {
+    "19": {
+      "passed": true,
+      "evidence": {
+        "status": "passed",
+        "asins": [
+          "B07D1J88CF",
+          "B0BNBXVLZS"
+        ],
+        "check": "Amazon GUIでUGREENの当該SKU50706/15251に最終同定。記事に未確認SKU番号は断定記載しない。",
+        "evidence": [
+          "2026-11-19_B07D1J88CF_product_details.txt",
+          "2026-11-19_B0BNBXVLZS_product_details.txt"
+        ],
+        "verified_models": {
+          "B07D1J88CF": "CM185 / 50706",
+          "B0BNBXVLZS": "CM401 / 15251"
+        }
+      }
+    },
+    "22": {
+      "passed": true,
+      "evidence": "2026-11-22_AmazonBasics_sku.json",
+      "optional_specs_not_blocker": [
+        "tomtoc寸法省略",
+        "B1071誤混入構造を本文不使用"
+      ]
+    },
+    "26": {
+      "passed": true,
+      "evidence": "2026-11-26_POCKETALK_Plus_sku.txt",
+      "communication_caution_MD_present": true,
+      "communication_caution_HTML_present": true,
+      "optional_specs_not_blocker": [
+        "言語数省略",
+        "国内W12同型10言語確認済み",
+        "SIM無料と別機能追加課金の分離"
+      ]
+    }
+  },
+  "summary": {
+    "reserved_local_evidence_verified": 30
+  },
+  "no_ui_db_api_metadata_mutations": true,
+  "final": true,
+  "final_pass": true,
+  "date_coverage": {
+    "metadata_dates": true,
+    "progress_dates": true,
+    "unique_note_URLs": true,
+    "unique_topic_IDs": true,
+    "all_daily_gadget_URLs": true
+  },
+  "method_notes": [
+    "11/19はbanner部分が省略された保存snapshotだが記事の著者リンクが毎日ガジェット通信/note.com/daily_gadgetと一致。アカウント確認はメニュー画像の有無でなく保存ページ著者リンクで判定。",
+    "HTML内のプレビューカード内テキストは関連記事の重複テキストとして誤検出しない。関連記事見出し以降のカード外テキストのみ検査。",
+    "商品URL抽出は/dp/ASINのみ。テーマ一覧/shop CTAは商品ASINリンクに混ぜない。",
+    "同型GUIgateは保存SKU一次証跡とsourceのpassed条件を確認。未使用の任意スペック数値省略は未解決blockerに数えない。"
+  ],
+  "main_task_final_db_evidence": {
+    "path": "accounts/daily_gadget/07_operations/2026-11_codex/2026-11_final_db_audit.json",
+    "saved_result": {
+      "article_count": 30,
+      "product_count": 195,
+      "issues": [],
+      "reserved_count": 30,
+      "unique_urls": 30,
+      "db_verified": true
+    },
+    "audit_method": "主担当保存結果の読み取り。監査担当がDBへ接続/書込みしたものではない。"
+  },
+  "batch_link_generation_final": {
+    "state": "completed_verified",
+    "store": "zanetti-22",
+    "tracking": "daily-gadget-22",
+    "product_link_count": 195,
+    "evidence": "gui_links.json",
+    "date_mapping": "explicit_date_and_selected_asin"
+  }
+}

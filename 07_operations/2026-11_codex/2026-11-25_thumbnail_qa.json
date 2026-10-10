@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-25",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-25_standing_desk.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-fa05119b-2ce5-466d-b230-0a3f1dfd4607.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-25_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "38bf7586dfffd26c753971d0ab964406843abd6c5216a54ab83cbf8521e422aa",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-25_姿勢に合わせて高さを変える。「昇降デスク」6選.md",
+    "07_operations/2026-11_codex/2026-11-25_sources.json",
+    "07_operations/2026-11_codex/2026-11-25_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "昇降デスク6選",
+    "count": "中央1台の代表カテゴリ写真。6品比較構図ではない",
+    "material": "木天板＋黒金属フレームはE7/YAMAZEN木天板製品系に適合",
+    "structure": "天板・2本伸縮柱・下部梁・T字足・コントローラ・電源配線が自然に接続",
+    "use_case": "机上作業の高さ変更。手動1品とは区別、全品電動/耐荷重/高さ範囲を保証しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "natural_support": true,
+    "whole_hero_visible": true,
+    "thumbnail_subject_clear": true
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_assigned_date_files_changed": true,
+  "new_design": false,
+  "repair_reason": "モニター添景の微細ブランド風マークを除去するためモニター本体を削除。机の構造は保持。",
+  "rejected_generated_sources": [
+    "exec-2fd9bfcd-1fdf-45cc-9312-bcaed563e31c.png",
+    "exec-472dadb0-b82f-432a-8a6b-2ba31ff766fd.png"
+  ]
+}

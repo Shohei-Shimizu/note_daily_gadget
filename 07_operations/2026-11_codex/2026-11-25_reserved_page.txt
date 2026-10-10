@@ -1,0 +1,264 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月25日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322764350/rectangle_large_type_2_df72de79bc801ef32428940436cf2f23.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "姿勢に合わせて高さを変える。「昇降デスク」6選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月25日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 座るときも立つときも、作業面を自分の姿勢に合わせたいものです。天板付きで選べる昇降デスクを6個調べてまとめました。
+    - paragraph:
+      - text: 今回の6個は
+      - strong: 「天板の広さ」、「昇降の方式」、「高さの操作」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① Claiks 電動昇降デスク 160×80cm":
+          - /url: "#6b83a503-26e0-4683-865e-0ce6c1c08941"
+        - link "② FLEXISPOT E7 天板セット 140×70cm":
+          - /url: "#30e612eb-ca60-41b4-a02e-d79015455cd2"
+        - link "③ 山善 ELD-FS／T1000 100×70cm":
+          - /url: "#26d17e57-1097-4915-9c24-84f568f60733"
+        - link "④ 山善 AED-1260 120×60cm":
+          - /url: "#8c6cfd5c-44ae-496a-a645-c668451100ea"
+        - link "⑤ Bauhutte BHD-1000H-WH":
+          - /url: "#171e2948-d390-4b64-b2b1-f3d17d6d6b4a"
+        - link "⑥ FLEXISPOT EF1 天板セット 120×60cm":
+          - /url: "#55523f25-00eb-405c-8a0f-f3e9e8e90b2b"
+        - link "最後に":
+          - /url: "#e2bbb381-8b71-489b-871e-f1a0a5a8072e"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#aeae211f-b8c5-4474-bdcf-b160b9714247"
+        - link "あわせて読みたい":
+          - /url: "#db7c69c5-a7e7-4af8-a867-6cdd30af36fe"
+    - heading "① Claiks 電動昇降デスク 160×80cm" [level=2]
+    - figure:
+      - link "Claiks 昇降デスク 大きめ 電動 パソコンデスク 昇降式 スタンディングデスク 在宅ワーク オフィスデスク 高さ調節 メモリ機能 幅160cm*奥行き80cm 高さ72~118cm ホワイトフレーム/ホワイト天板 www.amazon.co.jp 23,999円 (2026年10月10日 13:23時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DBLJLK75?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Claiks 昇降デスク 大きめ 電動 パソコンデスク 昇降式 スタンディングデスク 在宅ワーク オフィスデスク 高さ調節 メモリ機能 幅160cm*奥行き80cm 高さ72~118cm ホワイトフレーム/ホワイト天板
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 23,999円
+        - text: (2026年10月10日 13:23時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DBLJLK75?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: モニターや書類を並べる場所がほしいなら、幅160cm・奥行80cmの天板付きモデル。ボタンで高さを変えられ、よく使う高さを3つ登録できます。天板にはメラミン加工が施されているので、作業面の素材も含めて選びたい人に向いています。大きめの天板が入るか、設置場所と搬入経路を先に測っておきましょう。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・天板：幅160×奥行80cm
+          - text: ・高さ：約72〜118cm
+          - text: ・昇降：電動式
+          - text: ・メモリー：3つ
+          - text: ・天板表面：メラミン加工
+    - heading "② FLEXISPOT E7 天板セット 140×70cm" [level=2]
+    - figure:
+      - link "FLEXISPOT スタンディングデスク メーカー5年保証 電動式昇降デスク 高さ調節 パソコンデスク E7セット (フレーム(黒)+天板(マホガニー), 140×70cm) www.amazon.co.jp 73,500円 (2026年10月10日 13:23時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B092VX5RK7?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: FLEXISPOT スタンディングデスク メーカー5年保証 電動式昇降デスク 高さ調節 パソコンデスク E7セット (フレーム(黒)+天板(マホガニー), 140×70cm)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 73,500円
+        - text: (2026年10月10日 13:23時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B092VX5RK7?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 天板を含めて机を揃えたい人には、マホガニー天板と黒フレームのE7セット。2モーターで高さを変え、メモリー機能で登録した位置を呼び出せます。フレームの昇降範囲は58〜123cmで、実際の作業面には天板の厚さが加わります。座るときと立つとき、それぞれの高さを先に確かめて選びましょう。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・天板：幅140×奥行70cm
+          - text: ・フレーム昇降範囲：58〜123cm（天板厚を除く）
+          - text: ・耐荷重：125kg
+          - text: ・駆動：2モーター
+          - text: ・機能：メモリー・ロック・障害物検知
+    - heading "③ 山善 ELD-FS／T1000 100×70cm" [level=2]
+    - figure:
+      - link "山善(YAMAZEN) 昇降デスク 電動 電動昇降デスク 一枚板 昇降式 スタンディングデスク 上下昇降 pc オフィスデスク テレワーク メモリー機能 衝突検知 100×70×71-117cm 耐荷重80kg 組立品 ダークブラウン/マットブラック ELD-FS(MBK)/T1000(DBR) www.amazon.co.jp 60,308円 (2026年10月10日 13:23時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0F28G8MKX?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 山善(YAMAZEN) 昇降デスク 電動 電動昇降デスク 一枚板 昇降式 スタンディングデスク 上下昇降 pc オフィスデスク テレワーク メモリー機能 衝突検知 100×70×71-117cm 耐荷重80kg 組立品 ダークブラウン/マットブラック ELD-FS(MBK)/T1000(DBR)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 60,308円
+        - text: (2026年10月10日 13:23時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0F28G8MKX?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 幅を100cmに抑えながら、奥行70cmの作業面を確保したいときの候補。2モーターで昇降し、よく使う高さを4パターン登録できます。天板は一枚板で、完成した机の高さは71〜117cm。ダークブラウンの天板とマットブラックの脚を組み合わせたセットなので、設置幅と作業面の広さを一緒に確認できます。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外寸：幅100×奥行70×高さ71〜117cm（天板込み）
+          - text: ・天板：一枚板・厚さ1.8cm
+          - text: ・耐荷重：80kg（均等荷重）
+          - text: ・駆動：2モーター
+          - text: ・メモリー：4パターン
+    - heading "④ 山善 AED-1260 120×60cm" [level=2]
+    - figure:
+      - link "山善(YAMAZEN) 昇降デスク 電動 昇降式デスク 一枚板 スタンディングデスク 上下昇降 pc オフィスデスク テレワーク メモリー機能 衝突検知 USBポート付き 120×60×71-116cm 耐荷重60kg 組立品 ブラック/マットブラック AED-1260 BK/MBK www.amazon.co.jp 29,655円 (2026年10月10日 13:24時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CMX88TM6?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 山善(YAMAZEN) 昇降デスク 電動 昇降式デスク 一枚板 スタンディングデスク 上下昇降 pc オフィスデスク テレワーク メモリー機能 衝突検知 USBポート付き 120×60×71-116cm 耐荷重60kg 組立品 ブラック/マットブラック AED-1260 BK/MBK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 29,655円
+        - text: (2026年10月10日 13:24時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CMX88TM6?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 奥行60cmの机に、日常の高さ調整と充電用の端子をまとめたいならAED-1260。電動で71〜116cmに調節でき、3パターンの高さを記憶します。USB Type-AとType-Cを各1口備え、天板は一枚板です。幅120cmのブラック天板とマットブラック脚の組み合わせで、机に置く物の重さも均等荷重60kgの範囲で確認しましょう。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外寸：幅120×奥行60×高さ71〜116cm（天板込み）
+          - text: ・天板：一枚板・厚さ1.8cm
+          - text: ・耐荷重：60kg（均等荷重）
+          - text: ・メモリー：3パターン
+          - text: ・USB端子：Type-A×1・Type-C×1
+    - heading "⑤ Bauhutte BHD-1000H-WH" [level=2]
+    - figure:
+      - link "Bauhutte (バウヒュッテ) 昇降式 スタンディングデスク ホワイト (幅100cm×奥行45cm) BHD-1000H-WH www.amazon.co.jp 26,400円 (2026年10月10日 13:24時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B071DFVCTK?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Bauhutte (バウヒュッテ) 昇降式 スタンディングデスク ホワイト (幅100cm×奥行45cm) BHD-1000H-WH
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 26,400円
+        - text: (2026年10月10日 13:24時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B071DFVCTK?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 奥行45cmの作業面で、電動機構を使わず高さを合わせたい人向けの一台。昇降ロックレバーを押しながら手動で調整し、ストッパーで位置を固定する方式です。高さを変えるときはPCや荷物を下ろし、2人で作業する必要があります。机上の機器を載せたまま頻繁に上下する使い方とは、操作の手間を分けて考えておきましょう。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・天板：幅100×奥行45cm
+          - text: ・昇降：手動式
+          - text: ・固定：昇降ロックレバー・ストッパー
+          - text: ・カラー：ホワイト
+          - text: ・高さ調整：荷物を下ろし2人で実施
+    - heading "⑥ FLEXISPOT EF1 天板セット 120×60cm" [level=2]
+    - figure:
+      - link "FLEXISPOT 電動式昇降パソコンデスク EF1 70kg耐荷重 ゲーミングデスク オフィスワーク 天板120×60 足(黒)+天板(ブラック) www.amazon.co.jp 35,800円 (2026年10月10日 13:24時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08QCP1WC3?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: FLEXISPOT 電動式昇降パソコンデスク EF1 70kg耐荷重 ゲーミングデスク オフィスワーク 天板120×60 足(黒)+天板(ブラック)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 35,800円
+        - text: (2026年10月10日 13:24時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08QCP1WC3?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 幅120cm・奥行60cmの黒い机を天板付きで選びたいなら、EF1セットも候補になります。1モーターで電動昇降し、4つのメモリーで高さを呼び出せる構成です。障害物検知も備えていますが、上下に動く範囲には物を置かず、電源や接続機器のケーブルに余裕を持たせて使いましょう。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・天板：幅120×奥行60cm
+          - text: ・構成：黒フレーム＋黒天板
+          - text: ・駆動：1モーター
+          - text: ・耐荷重：70kg（天板重量を含まず）
+          - text: ・機能：4つのメモリー・障害物検知
+    - heading "最後に" [level=2]
+    - paragraph: 机の幅と奥行きを測り、座るときと立つときに使いたい作業面の高さを確認しておくと選びやすくなります。電動か手動か、よく使う高さを記憶できるかも合わせて、作業の切り替え方に合う一台を探してみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 在宅もオフィスも。デスクワークが捗る環境改善ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 在宅もオフィスも。デスクワークが捗る環境改善ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4tfeXyT
+        - strong: 毎日ガジェット通信's Amazon Page - 在宅もオフィスも。デスクワークが捗る環境改善ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4tfeXyT
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 姿勢に合わせて高さを変える。「昇降デスク」6選｜毎日ガジェット通信｜note

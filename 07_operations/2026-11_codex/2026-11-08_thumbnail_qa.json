@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-08",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "reuse_byte_identical_copy",
+  "output_path": "04_thumbnail/2026-11/2026-11-08_thermo_hygrometer.png",
+  "source_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-01_thermo_hygrometer.png",
+  "sha256": "db34adee7f29e256e982ae83f27fd8af0946cc6c4b3f171ae935c07bc1833501",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-08_部屋の変化をスマホで確認。「温湿度計」7選.md",
+    "07_operations/2026-11_codex/2026-11-08_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "スマホ連携温湿度計7商品比較、中央代表1製品",
+    "count": "表示付き温湿度計1台。スマホやハブは描かない",
+    "material": "白い樹脂と白灰画面、採用品SwitchBot/Govee/Tapo表示付き分類に一致",
+    "structure": "温度/湿度のアイコンと抽象棒表示、自立スタンド1台。T310等表示なし機と同形状ではない。実在機の画面/数値再現は主張しない",
+    "use_case": "部屋の温湿度を測る本体。通信方式や屋外遠隔/ハブ不要を画像では主張しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "whole_product_visible": true,
+    "natural_support": true,
+    "thumbnail_subject_clear": true,
+    "notes": "完成7品本文とsourcesのBluetooth圏内/別売ハブ条件を照合。スマホ直結WiFiアイコンや通知/屋外グラフィックなしで未確認通信能力を追加しない。"
+  },
+  "note_ui_touched": false,
+  "new_design": false,
+  "source_output_identical": true
+}

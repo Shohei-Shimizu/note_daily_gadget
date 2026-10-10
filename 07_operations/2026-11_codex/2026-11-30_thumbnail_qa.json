@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-30",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-30_laptop_stand.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-e2664cc0-7b79-47d7-b5a3-c841c1884748.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-30_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "c9611c5da5220ec8cd105b8d2050409ab2580eee5228eaa8105b59e89330ed40",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-30_画面の高さと収納を見直す。「ノートPCスタンド」6選.md",
+    "07_operations/2026-11_codex/2026-11-30_sources.json",
+    "07_operations/2026-11_codex/2026-11-30_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "高さと収納を見直すノートPCスタンド6選",
+    "count": "代表スタンド単体1台、PC添景は省略",
+    "material": "銀色アルミ合金＋滑り止めパッドはBoYata N21/N31系に適合",
+    "structure": "1枚底板と1枚支持板、左右ヒンジ支柱、下り前縁受け2つ。支点・傾斜・接地自然",
+    "use_case": "画面高さと角度の調整、折畳可能な関節のカテゴリ。全品同型/超軽量/粘着型/同耐荷重を主張しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "natural_support": true,
+    "whole_hero_visible": true,
+    "thumbnail_subject_clear": true,
+    "front_downhill_retaining_hooks": true,
+    "hinges_attached": true
+  },
+  "rejected_candidates": [
+    {
+      "path": "04_thumbnail/2026-10/2026-10-04_laptop_stand.png",
+      "reason": "固定支持に見え折り畳み支点不明瞭"
+    },
+    {
+      "path": "exec-f3728bc7-60b9-49db-8a69-3af1a0533883.png",
+      "reason": "PC添景の受け方向と傾斜曖昧"
+    },
+    {
+      "path": "exec-ce3bf2c9-cec9-4ffe-ad1a-343868456195.png",
+      "reason": "修正後支持板の二重化"
+    }
+  ],
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_assigned_date_files_changed": true,
+  "new_design": false
+}

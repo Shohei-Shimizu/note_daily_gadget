@@ -1,0 +1,362 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月3日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322724165/rectangle_large_type_2_e7aa2911ae1e32709e6686ba0c029733.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "出先の小物をひとまとめに。「ガジェットポーチ」10選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月3日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: バッグの中で充電器やケーブルがばらばらになると、出先で必要なものを探す手間が増えます。小物をひとまとめに持ち歩けるガジェットポーチを10個調べてまとめました。
+    - paragraph:
+      - text: 今回の10個は
+      - strong: 「小物の分けやすさ」、「開口部と取り出し方」、「持ち歩くときの形状」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① サンワダイレクト 200-BAGIN005GY":
+          - /url: "#12c6caac-a50c-46af-84f5-605fb6f928e3"
+        - link "② エレコム BMA-F01XGY":
+          - /url: "#d3d410f6-c52a-4e6b-aaaa-80bd4f162fd3"
+        - link "③ tomtoc 二層式ガジェットポーチ":
+          - /url: "#27e05f8a-6400-41df-9d39-67821643878e"
+        - link "④ サンワダイレクト 200-BAGIN014BK":
+          - /url: "#aa11fd3d-39b2-40f7-9b46-65bf99964a2f"
+        - link "⑤ エレコム BMA-GP14BK":
+          - /url: "#0a552546-6e8b-455d-943d-6b5e38c19e99"
+        - link "⑥ UGREEN ガジェットポーチ Mサイズ・ブルー":
+          - /url: "#107dd589-cce4-4ee9-828c-62f4bc6b018a"
+        - link "⑦ Anker Smart Pouch Supported by KOKUYO":
+          - /url: "#f8dcc567-8a4e-466b-9a2f-b0cc41a00090"
+        - link "⑧ UGREEN ガジェットポーチ グレー":
+          - /url: "#2a479722-bc59-4821-8198-d8138271fcd9"
+        - link "⑨ tomtoc 大容量アクセサリーバッグ":
+          - /url: "#79e7ca0f-be53-457b-b53f-af749788a0b7"
+        - link "⑩ aso TOFTPOUCH Mサイズ・センターファスナー":
+          - /url: "#df4efa56-5513-4a4b-97b5-3796045cb70d"
+      - button "すべて表示":
+        - generic: すべて表示
+    - heading "① サンワダイレクト 200-BAGIN005GY" [level=2]
+    - figure:
+      - link "サンワダイレクト ガジェットポーチ 旅行 出張 便利グッズ 収納ポーチ グレー 200-BAGIN005GY www.amazon.co.jp 1,580円 (2026年10月10日 11:00時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B01HE6L6BY?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: サンワダイレクト ガジェットポーチ 旅行 出張 便利グッズ 収納ポーチ グレー 200-BAGIN005GY
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,580円
+        - text: (2026年10月10日 11:00時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B01HE6L6BY?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: ケーブルや充電器を小分けにして、出先で中身をひと目で確認したい人向けです。上下に大きく開く形とメッシュポケットを備え、必要なものを探しやすい構成。軽さと分類のしやすさを両立したい場合の比較候補に入れました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外寸：190×135×50mm
+          - text: ・重さ：約85g
+          - text: ・収納：ファスナーポケット1個／メッシュポケット4個
+          - text: ・開閉：ダブルファスナー
+          - text: ・素材：ポリエステル
+    - heading "② エレコム BMA-F01XGY" [level=2]
+    - figure:
+      - link "エレコム トラベルポーチ ガジェットポーチ ガジェット ポーチ バックインバック 旅行 出張 収納 小物入れ グレー BMA-F01XGY www.amazon.co.jp 1,550円 (2026年10月10日 11:00時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07XFVCW1S?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム トラベルポーチ ガジェットポーチ ガジェット ポーチ バックインバック 旅行 出張 収納 小物入れ グレー BMA-F01XGY
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,550円
+        - text: (2026年10月10日 11:00時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07XFVCW1S?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 細かな小物を分けつつ、内側の生地にも配慮したい人向けに調べたポーチです。起毛した内生地と小分けポケットを備え、充電器やケーブルをまとめる用途に合う構成。引き手ハンドルがあり、バッグから取り出す動作も考えられています。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外寸：約幅220×厚み60×高さ120mm
+          - text: ・重さ：約105g
+          - text: ・収納：小物ポケット4個／ファスナーポケット1個
+          - text: ・主素材：ポリエステル
+          - text: ・内生地：起毛素材
+    - heading "③ tomtoc 二層式ガジェットポーチ" [level=2]
+    - figure:
+      - link "tomtoc 二層 ガジェットポーチ Tech Pouch 自立 大容量 YKKファスナー採用 EDCポーチ トラベルポーチ www.amazon.co.jp 3,190円 (2026年10月10日 11:00時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CY57DPW5?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: tomtoc 二層 ガジェットポーチ Tech Pouch 自立 大容量 YKKファスナー採用 EDCポーチ トラベルポーチ
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,190円
+        - text: (2026年10月10日 11:00時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CY57DPW5?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: ガジェットと身の回り品を分けて、移動先でもそのまま取り出したい人向けです。収納スペースを分けた構成と自立する形を備え、机の上で中身を見渡しやすい点を重視しました。再生素材を使った表地とファスナーの仕様も確認した比較候補です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外寸：24.5×13×7cm
+          - text: ・収納構造：二層式・内側ポケット付き
+          - text: ・形状：自立型
+          - text: ・素材：再生PET 600Dポリエステル
+          - text: ・ファスナー：YKK
+    - heading "④ サンワダイレクト 200-BAGIN014BK" [level=2]
+    - figure:
+      - link "サンワダイレクト ガジェットポーチ セミハード 仕切り付 マウス ケーブル モバイルバッテリー Sサイズ ブラック 200-BAGIN014BK www.amazon.co.jp 1,780円 (2026年10月10日 11:00時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0843QXWWZ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: サンワダイレクト ガジェットポーチ セミハード 仕切り付 マウス ケーブル モバイルバッテリー Sサイズ ブラック 200-BAGIN014BK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,780円
+        - text: (2026年10月10日 11:00時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0843QXWWZ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 小物の形に合わせて、収納区画を作りたい人向けのセミハードタイプです。面ファスナー式の間仕切りは位置を変えたり取り外したりでき、入れるものに合わせられるのが選定理由。大きく開く構造で、しまった道具の位置も確認しやすくなっています。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外寸：約170×125×52mm
+          - text: ・重さ：約133g
+          - text: ・形状：セミハード・Sサイズ
+          - text: ・仕切り：面ファスナー式3個（取り外し可能）
+          - text: ・機能：内側メッシュポケット／ストラップ
+    - heading "⑤ エレコム BMA-GP14BK" [level=2]
+    - figure:
+      - link "エレコム ガジェットポーチ 大容量 自立型 旅行 出張 テレワーク オーガナイズポーチ ブラック BMA-GP14BK www.amazon.co.jp 1,381円 (2026年10月10日 11:00時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08DCYD9LD?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム ガジェットポーチ 大容量 自立型 旅行 出張 テレワーク オーガナイズポーチ ブラック BMA-GP14BK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,381円
+        - text: (2026年10月10日 11:00時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08DCYD9LD?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 外出先の机で、ポーチを開いたまま小物を使いたい人向けです。自立する形と内部の仕切りがあり、ケーブルや筆記具を一緒に持ち歩く用途を重視しました。前面のスリーブポケットは、よく取り出す小物の置き場所として使い分けられる構成です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外寸：約240×90×130mm
+          - text: ・重さ：約185g
+          - text: ・形状：自立型・ダブルファスナー
+          - text: ・内側収納：メッシュポケット5個／ファスナーポケット1個
+          - text: ・前面収納：スリーブポケット1個
+    - heading "⑥ UGREEN ガジェットポーチ Mサイズ・ブルー" [level=2]
+    - figure:
+      - link "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー USB ハブなどの収納 レイヤー構造 スプラッシュ防止素材 保護ケース 収納バッグ 小物入れ 出張/旅行用 撥水素材 ブルー Mサイズ（24cm x 13cm x 7cm） www.amazon.co.jp 2,010円 (2026年10月10日 11:01時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0H2F6R341?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー USB ハブなどの収納 レイヤー構造 スプラッシュ防止素材 保護ケース 収納バッグ 小物入れ 出張/旅行用 撥水素材 ブルー Mサイズ（24cm x 13cm x 7cm）
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,010円
+        - text: (2026年10月10日 11:01時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0H2F6R341?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 少し大きめのポーチで、周辺機器を分類してまとめたい人向けです。内部をレイヤーで区切る構造とファスナー付きポケットを備え、細かな小物と大きめの収納物を分けられる点を重視しました。手提げがあり、ポーチだけをバッグから持ち出す場面にも向くはずです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外寸：24×13×7cm（Mサイズ）
+          - text: ・収納構造：レイヤー式
+          - text: ・内側収納：ファスナー付きポケット
+          - text: ・機能：手提げ付き
+          - text: ・カラー：ブルー
+    - heading "⑦ Anker Smart Pouch Supported by KOKUYO" [level=2]
+    - figure:
+      - link "Anker Smart Pouch www.amazon.co.jp 3,960円 (2026年10月10日 11:01時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D8TJJGNJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker Smart Pouch
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,960円
+        - text: (2026年10月10日 11:01時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D8TJJGNJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: ガジェットと文具をまとめて、移動先の机へ持ち出したい人向けのポーチです。側面のボタンを留めると開いた状態で自立し、収納した道具をその場で取り出せる構造。内部の仕切りやホルダーを使い分けられる点を、コクヨとの共同開発モデルで確認しました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外寸：約23×16×5cm
+          - text: ・重さ：約165g
+          - text: ・構造：側面ボタン固定で自立
+          - text: ・収納：内部仕切り／複数ポケット／ホルダーバンド
+          - text: ・共同開発：Anker・コクヨ
+    - heading "⑧ UGREEN ガジェットポーチ グレー" [level=2]
+    - figure:
+      - link "UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー収納 www.amazon.co.jp 1,790円 (2026年10月10日 11:01時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07Q9K2QHV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN ガジェットポーチ コンパクト PC周辺小物 収納ケース 充電器 ケーブル モバイルバッテリー収納
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,790円
+        - text: (2026年10月10日 11:01時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07Q9K2QHV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 小物をまとめながら、ケース形状の収納を選びたい人向けです。レイヤー構造と内側のファスナーポケットを備え、ケーブルや小さな周辺機器を分類できるのが選定理由。手提げと両開きのファスナーがあり、持ち運びと中身の確認をしやすい構成です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外寸：20.3×12.9×7.2cm
+          - text: ・外装：ハードシェル構造
+          - text: ・収納構造：レイヤー式
+          - text: ・内側収納：ファスナー付きポケット
+          - text: ・機能：手提げ／ダブルファスナー
+    - heading "⑨ tomtoc 大容量アクセサリーバッグ" [level=2]
+    - figure:
+      - link "tomtoc ガジェットポーチ アクセサリーバッグ 大容量 MacBookアダプター対応 PC周辺収納 万能バッグ 撥水加工 旅行 出張 通勤 www.amazon.co.jp 4,690円 (2026年10月10日 11:01時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0BMTRNQ43?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: tomtoc ガジェットポーチ アクセサリーバッグ 大容量 MacBookアダプター対応 PC周辺収納 万能バッグ 撥水加工 旅行 出張 通勤
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,690円
+        - text: (2026年10月10日 11:01時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BMTRNQ43?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 持ち歩く道具が多く、ポーチの中にそれぞれの置き場所を作りたい人向けです。大小のポケットに加えてペンホルダーや収納バンドを備え、小物を分類する構成を重視しました。口が大きく開き、自立した状態で中身を取り出せる点も候補に入れた理由です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外寸：26×15×10cm
+          - text: ・収納：大小ポケット12個
+          - text: ・整理機能：ペンホルダー2個／収納バンド4本
+          - text: ・形状：自立型・大きく開く開口部
+          - text: ・機能：可動式収納シート／取手
+    - heading "⑩ aso TOFTPOUCH Mサイズ・センターファスナー" [level=2]
+    - figure:
+      - link "[ aso ] TOFTPOUCH タフトポーチ 耐水 軽量 ガジェット ポーチ 日本製 Mサイズ センターファスナー ブラック tf-v180-bl www.amazon.co.jp 2,760円 (2026年10月10日 11:01時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08L35V3R5?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: "[ aso ] TOFTPOUCH タフトポーチ 耐水 軽量 ガジェット ポーチ 日本製 Mサイズ センターファスナー ブラック tf-v180-bl"
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,760円
+        - text: (2026年10月10日 11:01時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08L35V3R5?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 必要なケーブルなどを少量に絞って、薄いポーチで持ち歩きたい人向けです。中央のファスナーを開くと中身を見渡せる形で、取り出し方のシンプルさを重視しました。耐水素材を使っていますが、水没に対応するケースとして扱わず、小物の整理用に選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・重さ：約24g
+          - text: ・形状：Mサイズ・センターファスナー
+          - text: ・素材：ポリエステルPUコーティング
+          - text: ・引手素材：本革
+          - text: ・機能：ループ付きタグ
+    - heading "最後に" [level=2]
+    - paragraph: 小物を分けて持ち歩くならポケットの配置、出先の机でも使うなら開き方と自立する形が比較の目安です。持ち歩く道具のサイズと量を先に確認し、ご自身のバッグや作業場所に合うポーチを見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ カフェも車内も。外出先で仕事を進めるモバイルガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4cPpADI
+        - strong: 毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4cPpADI
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 出先の小物をひとまとめに。「ガジェットポーチ」10選｜毎日ガジェット通信｜note

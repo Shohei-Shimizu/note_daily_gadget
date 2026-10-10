@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-27",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen_with_text_removal_edit",
+  "output_path": "04_thumbnail/2026-11/2026-11-27_desk_light.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-6acceaec-69bf-4799-89e8-a81fb1934ed2.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-27_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "8af1f70768dbeac842107ceafea53775aecef9f64fcfee0e325ab715a71a417a",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-27_机で使う明かりを選ぶ。「デスクライト」6選.md",
+    "07_operations/2026-11_codex/2026-11-27_sources.json",
+    "07_operations/2026-11_codex/2026-11-27_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "デスクライト6商品比較、代表通常据置LED1台",
+    "count": "机ライト1台、追加バーやライト無し",
+    "material": "白い樹脂/金属調アームと台座、採用白いLepro/IRIS系据置カテゴリを代表",
+    "structure": "台座/支柱/上下ヒンジ/直線LEDヘッドが連続、後部電源線と自然な接地。モニター掛け式21と異なり独立台座。机クランプ型/E26交換球型と同機構とは扱わない",
+    "use_case": "机の手元を照らす。照度/光束/充電式/Qi/USB出力/球交換可/全機種調光を絵で保証しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "natural_support": true,
+    "whole_hero_visible": true,
+    "thumbnail_subject_clear": true,
+    "coherent_hinges_base_power_lead": true
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_assigned_date_files_changed": true,
+  "new_design": false,
+  "initial_rejected_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-8d65d27a-a10a-43f8-9367-458f1e54fa84.png",
+  "repair_reason": "背景右側本背表紙に微細文字が入り、ランプ構造/構図は維持して本だけ除去。"
+}

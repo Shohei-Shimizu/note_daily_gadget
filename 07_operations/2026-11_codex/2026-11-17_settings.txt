@@ -1,0 +1,115 @@
+- button "キャンセル":
+  - generic: キャンセル
+- button "予約投稿":
+  - generic: 予約投稿
+- menu:
+  - heading "公開設定" [level=1]
+  - button "ハッシュタグ"
+  - button "記事タイプ"
+  - button "記事の追加"
+  - button "クーポン"
+  - button "詳細設定"
+- main:
+  - heading "ハッシュタグ" [level=3]
+  - button "#おすすめガジェット 削除":
+    - text: "#おすすめガジェット"
+    - img "削除":
+  - button "#USBメモリ 削除":
+    - text: "#USBメモリ"
+    - img "削除":
+  - button "#データ保存 削除":
+    - text: "#データ保存"
+    - img "削除":
+  - button "#モバイル 削除":
+    - text: "#モバイル"
+    - img "削除":
+  - combobox "ハッシュタグを追加する"
+  - button "#端子"
+  - button "#容量"
+  - button "#ファイル"
+  - button "#モデル"
+  - button "#規格"
+  - heading "お題/コンテストに参加" [level=4]
+  - button "#AIとできたこと 17,149件 10月18日まで":
+    - img "#AIとできたこと"
+    - generic: 17,149件
+    - generic: 1.7万件
+    - time: 10月18日まで
+  - button "#自動化したいこと 2,209件 11月1日まで":
+    - img "#自動化したいこと"
+    - generic: 2,209件
+    - generic: 2,209件
+    - time: 11月1日まで
+  - button "#お酒で伝えるありがとう 2,078件 10月25日まで":
+    - img "#お酒で伝えるありがとう"
+    - generic: 2,078件
+    - generic: 2,078件
+    - time: 10月25日まで
+  - button "# おいしいは元気のはじまり with 明治ホールディングス株式会社 1,794件":
+    - generic: "#"
+    - paragraph: おいしいは元気のはじまり
+    - paragraph: with 明治ホールディングス株式会社
+    - generic: 1,794件
+    - generic: 1,794件
+  - button "# チームだからできたこと with 日本経済新聞 107件":
+    - generic: "#"
+    - paragraph: チームだからできたこと
+    - paragraph: with 日本経済新聞
+    - generic: 107件
+    - generic: 107件
+  - button "もっと見る"
+  - heading "記事タイプ" [level=3]
+  - radio "無料" [checked]
+  - generic: 無料
+  - radio "有料"
+  - generic: 有料
+  - heading "記事の追加" [level=3]
+  - checkbox "マガジン" [checked]
+  - checkbox "メンバーシップ"
+  - generic: スマートホーム・ライフスタイル・健康管理
+  - generic: 毎日ガジェット通信
+  - button "追加":
+    - generic: 追加
+  - generic: 生産性向上・クリエイティブ・入力機器
+  - generic: 毎日ガジェット通信
+  - button "追加":
+    - generic: 追加
+  - generic: モバイル・電源・周辺機器
+  - generic: 毎日ガジェット通信
+  - button "追加済":
+    - generic: 追加済
+  - generic: ワークスペース・デスク環境の最適化
+  - generic: 毎日ガジェット通信
+  - button "追加":
+    - generic: 追加
+  - generic: コミュニケーション・会議・音声
+  - generic: 毎日ガジェット通信
+  - button "追加":
+    - generic: 追加
+  - heading "クーポン" [level=3]
+  - radiogroup "クーポン":
+    - radio "使用しない" [checked]
+    - generic: 使用しない
+  - paragraph: 公開中のクーポンはありません
+  - heading "詳細設定" [level=3]
+  - heading "クリエイターページに表示" [level=3]
+  - switch "クリエイターページに表示" [checked]
+  - heading "記事の自動翻訳" [level=3]
+  - text: AIが記事を自動で翻訳し、海外の読者に届けます。
+  - link "もっとくわしく":
+    - /url: https://www.help-note.com/hc/ja/articles/56332864927897--%E8%87%AA%E5%8B%95%E3%81%A7%E3%81%AE%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%AF%BE%E5%BF%9C-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+  - switch "記事の自動翻訳" [checked]
+  - heading "AI学習対価還元プログラムに参加する" [level=3]
+  - text: テキストコンテンツをnoteが提携するAI事業者に提供し、対価を受け取ることができます。
+  - link "もっとくわしく":
+    - /url: https://note.com/info/n/n49bbcbdefe1a
+  - switch "AI学習対価還元プログラムに参加する" [checked]
+  - heading "コメントの受けつけ" [level=3]
+  - switch "コメントの受けつけ" [checked]
+  - heading "予約投稿" [level=3]
+  - button "2026年11月17日 20:00" [active]:
+    - generic: 2026年11月17日 20:00
+  - generic: タイムゾーン：日本標準時
+- generic: 下書きを保存しました
+- alert: note
+- status: 1Passwordメニューが利用できます。下矢印キーを押して選択してください。

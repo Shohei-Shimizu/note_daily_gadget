@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-03",
+  "account": "daily_gadget",
+  "production_mode": "reuse_byte_identical_copy",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "output_path": "04_thumbnail/2026-11/2026-11-03_gadget_pouch.png",
+  "source_path": "04_thumbnail/2026-08/2026-08-12_nomad_gadget_pouch.png",
+  "source_and_output_sha256": "56d1a45cd79a4b4a3ce81a61973989cc8a0037adeeb26f7f388bc7ca488089be",
+  "source_output_identical": true,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "evidence_files": [
+    "06_research/2026-11/2026-11-03_出先の小物をひとまとめに。「ガジェットポーチ」10選.md",
+    "02_article/2026-11/2026-11-03_出先の小物をひとまとめに。「ガジェットポーチ」10選.md",
+    "07_operations/2026-11_codex/2026-11-03_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "ポーチ10商品比較、既存アカウントは代表1ポーチを見せる",
+    "count": "ポーチ1個。収納中充電器/バッテリー/ケーブルは使用例の小物",
+    "material": "黒い布外装、灰色布内張りとメッシュ。ポリエステル/再生PETの採用機群に一致",
+    "structure": "ダブルファスナー開口、メッシュポケット、固定バンドと分割区画。200-BAGIN005GY/Anker/他布ポーチ群とカテゴリ構造一致。全商品同形状とは主張しない",
+    "use_case": "出先へ充電器とケーブル等をひとまとめに持参、机上で取り出す"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_people_hands": true,
+    "no_readable_text_logo_watermark": true,
+    "natural_support": true,
+    "central_hero": true,
+    "thumbnail_subject_clear": true,
+    "notes": "原稿10機種に小分け収納・メッシュ・固定バンド式が含まれる。aso薄型等も同じ外形とは扱わず、代表カテゴリイメージ。容量・防水・落下耐性を画像で主張しない。"
+  },
+  "completed_article_checked": true,
+  "note_ui_touched": false,
+  "new_prompt_required": false
+}

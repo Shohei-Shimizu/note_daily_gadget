@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-06",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-06_usb_hub.png",
+  "source_path": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-b0d10754-2c76-4945-8dfc-88a1e25f7dd1.png",
+  "sha256": "e833dd5edc0e21156862411e2b7fe716f2930a30ce219312e98671c830f6d86b",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-06_周辺機器をひとまとめ。用途で選ぶ「USB-Cハブ」5選.md",
+    "07_operations/2026-11_codex/2026-11-06_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "USB-Cハブ5商品比較、中央代表1製品",
+    "count": "ハブ1台と直付けのケーブル1本のみ",
+    "material": "灰色金属調の角丸筐体、黒いケーブル、金属USB-C端子。確定Anker/UGREEN群のカテゴリ素材と一致",
+    "structure": "コンパクトUSB-Cホスト接続ハブ、近側USB-A2個とUSB-C1個、他辺ポートは見えない。PCドック/SSD/電池ではない。特定商品の正確ポート配置は主張しない",
+    "use_case": "PC端子を増やす仕事机の小型周辺機器"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "whole_product_visible": true,
+    "natural_support": true,
+    "thumbnail_subject_clear": true,
+    "notes": "最終5品と公式ゲート通過sourcesを確認、BENFEI2品を根拠から除外。自然なUSB-C雄端子/ケーブル支持、ケース全体可視。"
+  },
+  "note_ui_touched": false,
+  "new_design": false
+}

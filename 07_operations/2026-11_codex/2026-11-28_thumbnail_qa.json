@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-28",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-28_gps_tracker.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-311682ca-a093-4f99-9a97-cc3205030f7e.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-28_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "0d19f15664cd1868b9248bbce9e62b81226c25cd38b3dcc4ec28d70b3a2cebfc",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-28_なくした持ち物を探す。「紛失防止タグ」7選.md",
+    "07_operations/2026-11_codex/2026-11-28_sources.json",
+    "07_operations/2026-11_codex/2026-11-28_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "紛失防止タグ7商品比較、代表1タグ",
+    "count": "小型タグ1個、背景鍵は使用例小物",
+    "material": "黒マット樹脂ケース、採用小型キータグカテゴリと一致",
+    "structure": "丸角四角いキー/バッグ用タグ、角の取付穴と自然な筐体継ぎ目。FineTrack/SmartTrack Link系分類を代表、カード型/円形機とは同形状にしない",
+    "use_case": "自分の鍵やバッグを探すBluetoothタグ。GPS端末/人追跡/全ネット同時対応/高精度位置/リアルタイム/無料全機能を絵で主張しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_brands_watermark": true,
+    "no_people_hands": true,
+    "one_central_tag": true,
+    "whole_case_visible": true,
+    "coherent_hole_and_seam": true,
+    "natural_contact_shadow": true,
+    "thumbnail_subject_clear": true,
+    "no_location_network_effects": true
+  },
+  "legacy_type_key": "gps_tracker",
+  "actual_subject": "Bluetooth item-finding tag, not GPS terminal",
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_date_28_files_changed": true,
+  "new_design": false
+}

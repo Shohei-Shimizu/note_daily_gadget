@@ -1,0 +1,266 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月16日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322754039/rectangle_large_type_2_3df6d0ead65d0cf611c3f0e16c647470.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "小物の場所をラベルで揃える。「ラベルプリンター」6選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月16日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 収納箱や引き出しは、何を入れる場所か分かる表示を揃えておきたいものです。小物の整理に使えるラベルプリンターを6個調べてまとめました。
+    - paragraph:
+      - text: 今回の6個は
+      - strong: 「入力と接続の方法」、「対応ラベル幅」、「消耗品と電源」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① Phomemo D30":
+          - /url: "#a013bdec-1fe5-4ce1-b7ee-d49d82d1ed12"
+        - link "② NIIMBOT B1":
+          - /url: "#40690b3e-bcbd-4930-b03c-58357a5b9109"
+        - link "③ ブラザー P-TOUCH CUBE PT-P300BTLT":
+          - /url: "#ed3f5e07-c0be-4953-bf20-a1b313b88a0f"
+        - link "④ Phomemo M110":
+          - /url: "#16b7d991-9f3a-4118-aa66-c076e590004c"
+        - link "⑤ キングジム「テプラ」PRO SR-R2500P":
+          - /url: "#7066cb4d-49cc-4d33-ab34-1189295b14e9"
+        - link "⑥ キングジム「テプラ」PRO SR370":
+          - /url: "#4cee980a-c9fc-4a45-b8c1-cd62403ddfda"
+        - link "最後に":
+          - /url: "#e6fc9ebb-230b-4fba-bc3c-1207b4d76ff6"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#8798d04c-7449-417e-9ba5-cc8d45208c41"
+        - link "あわせて読みたい":
+          - /url: "#e5250e43-6607-499b-8b41-4ed729377915"
+    - heading "① Phomemo D30" [level=2]
+    - figure:
+      - link "ラベルプリンター Phomemo D30 ラベルライター スマホ対応 Bluetooth 小型シールプリンター 6mm～15mm 幅テープ対応 www.amazon.co.jp 2,799円 (2026年10月10日 12:44時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08M3K411P?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ラベルプリンター Phomemo D30 ラベルライター スマホ対応 Bluetooth 小型シールプリンター 6mm～15mm 幅テープ対応
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,799円
+        - text: (2026年10月10日 12:44時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08M3K411P?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 引き出しやケーブルに小さな名前ラベルを付けたい人向けの候補です。スマホのPrint Masterアプリで文字を編集し、アプリ内からBluetooth接続して印刷する構成。PC印刷には対応せず、対応する感熱ラベルとスマホを用意して使うモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth・Print Masterアプリ
+          - text: ・対応ラベル幅：6・12・14・15mm
+          - text: ・印刷方式：感熱式
+          - text: ・解像度：203dpi
+          - text: ・PC印刷：非対応
+    - heading "② NIIMBOT B1" [level=2]
+    - figure:
+      - link "NIIMBOT B1 ラベルメーカー ラベルプリンター 感熱ラベルライター 値札プリンター DIY 商業プリンター 20-50mm対応 ブルー www.amazon.co.jp 3,980円 (2026年10月10日 12:44時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0BCW4YMR8?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: NIIMBOT B1 ラベルメーカー ラベルプリンター 感熱ラベルライター 値札プリンター DIY 商業プリンター 20-50mm対応 ブルー
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,980円
+        - text: (2026年10月10日 12:44時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BCW4YMR8?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 収納箱の中身や宛名など、少し大きなラベルを作りたい人向けに選びました。スマホアプリからBluetoothで印刷でき、紙幅よりも実際に印字できる幅は狭くなります。対応ラベルとアプリの動作条件を確認し、必要な文字量を収められるか検討したい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth・USB
+          - text: ・対応ラベル幅：20〜50mm
+          - text: ・最大有効印刷幅：48mm
+          - text: ・印刷方式：感熱式
+          - text: ・解像度：203dpi
+    - heading "③ ブラザー P-TOUCH CUBE PT-P300BTLT" [level=2]
+    - figure:
+      - link "ブラザー ラベルライター ピータッチキューブ ラテ PT-P300BTLT (スマホ専用/3.5mm~12mm幅/TZeテープ/サンプルテープ2本付き) 【日本子育て支援大賞2025】 www.amazon.co.jp 4,626円 (2026年10月10日 12:44時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DHWX7B1V?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ブラザー ラベルライター ピータッチキューブ ラテ PT-P300BTLT (スマホ専用/3.5mm~12mm幅/TZeテープ/サンプルテープ2本付き) 【日本子育て支援大賞2025】
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,626円
+        - text: (2026年10月10日 12:44時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DHWX7B1V?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 収納ラベルの書体や配置をスマホで整えたい人向けの候補です。P-touch Design&Print 2アプリで編集し、TZe規格のテープへ印刷します。テープ幅と印刷高には違いがあり、電池や別売ACアダプターも必要になるため、対応する消耗品と電源を揃えて使いたい構成。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth・スマホ専用
+          - text: ・対応テープ幅：3.5・6・9・12mm（TZe規格）
+          - text: ・印刷方式：熱転写式
+          - text: ・最大印刷高：9mm
+          - text: ・カッター：手動
+    - heading "④ Phomemo M110" [level=2]
+    - figure:
+      - link "Phomemo M110 ラベルライター スマホ対応 ラベルプリンター 20-50mm 感熱 値札プリンタ DIY 業務用プリンタ ブラック www.amazon.co.jp 6,599円 (2026年10月10日 12:45時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0895JCJKM?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Phomemo M110 ラベルライター スマホ対応 ラベルプリンター 20-50mm 感熱 値札プリンタ DIY 業務用プリンタ ブラック
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 6,599円
+        - text: (2026年10月10日 12:45時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0895JCJKM?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 小物の分類名だけでなく、宛名や管理用のラベルも作りたい人向けの候補です。スマホはPrint Masterアプリ内から接続し、Windows PCではドライバーを入れてUSBで印刷できます。作業する端末と対応する感熱ラベルを先に確認し、作りたい表示に合わせて選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・スマホ接続：Bluetooth・Print Masterアプリ
+          - text: ・PC接続：USB（Windows用ドライバーが必要）
+          - text: ・対応ラベル幅：20〜50mm
+          - text: ・印刷方式：感熱式
+          - text: ・解像度：203dpi
+    - heading "⑤ キングジム「テプラ」PRO SR-R2500P" [level=2]
+    - figure:
+      - link "キングジム ラベルプリンター スマホ専用 「テプラ」PRO SR-R2500P (対応ラベル幅:4-18mm幅) www.amazon.co.jp 6,997円 (2026年10月10日 12:45時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0BRZ1QB74?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: キングジム ラベルプリンター スマホ専用 「テプラ」PRO SR-R2500P (対応ラベル幅:4-18mm幅)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 6,997円
+        - text: (2026年10月10日 12:45時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BRZ1QB74?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: スマホでラベルを作り、印刷後のカットまで任せたい人向けに選びました。HelloやTEPRA LINK 2の対応アプリから操作する、スマホ専用のテプラです。PC接続用とは区別し、対応OSやPROテープ、別売の電池を確認して、収納場所の表示を揃える用途に検討してみてください。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth・スマホ専用
+          - text: ・対応テープ幅：4・6・9・12・18mm（PRO規格）
+          - text: ・印刷方式：熱転写式
+          - text: ・カッター：自動
+          - text: ・電源：単3アルカリ／ニッケル水素電池6本（別売）
+    - heading "⑥ キングジム「テプラ」PRO SR370" [level=2]
+    - figure:
+      - link "キングジム(Kingjim) ラベルライター 「テプラ」PRO SR370 (対応ラベル幅:4-24mm幅) www.amazon.co.jp 10,898円 (2026年10月10日 12:45時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07J6SYY95?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: キングジム(Kingjim) ラベルライター 「テプラ」PRO SR370 (対応ラベル幅:4-24mm幅)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 10,898円
+        - text: (2026年10月10日 12:45時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07J6SYY95?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: スマホやPCを接続せず、その場で名前を入力して印刷したい人向けの候補です。本体キーボードと画面で操作でき、付属ACアダプターを使えば机に置いて作業できます。対応するPROテープを選び、幅広の収納ラベルも含めて作り分けたいときに検討したい構成。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・入力：本体キーボード
+          - text: ・対応テープ幅：4〜24mm（PRO規格）
+          - text: ・印刷方式：熱転写式
+          - text: ・カッター：自動
+          - text: ・電源：付属ACアダプター／単3電池6本（電池別売）
+    - heading "最後に" [level=2]
+    - paragraph: スマホで編集するか、本体で入力するかを決めると、候補を絞りやすくなります。貼りたい場所に合うラベル幅と対応する消耗品を確認し、整理に続けて使いやすい一台を探してみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 創作と集中を加速する。クリエイター向け生産性ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 創作と集中を加速する。クリエイター向け生産性ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4tdkjuu
+        - strong: 毎日ガジェット通信's Amazon Page - 創作と集中を加速する。クリエイター向け生産性ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4tdkjuu
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 小物の場所をラベルで揃える。「ラベルプリンター」6選｜毎日ガジェット通信｜note

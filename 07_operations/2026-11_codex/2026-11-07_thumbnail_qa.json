@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-07",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "reuse_byte_identical_copy",
+  "output_path": "04_thumbnail/2026-11/2026-11-07_webcam.png",
+  "source_path": "04_thumbnail/2026-06/2026-06-18_4k_webcams_regen.png",
+  "source_output_identical": true,
+  "sha256": "e67b63795acacccdc6a392a426bef5c1f0ec965ba38cd93221d6bb60f666c4bb",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-07_オンライン会議の映りを整える。「ウェブカメラ」5選.md",
+    "06_research/2026-11/2026-11-07_オンライン会議の映りを整える。「ウェブカメラ」5選.md",
+    "07_operations/2026-11_codex/2026-11-07_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "ウェブカメラ5商品比較。アカウント固有代表1台イメージ",
+    "count": "固定式ウェブカメラ1台。設置先のモニターは用途補助",
+    "material": "黒い筐体・レンズ・クリップ部。採用品の黒いカメラ分類と一致",
+    "structure": "横長固定式カメラとモニター上縁クリップ。採用品C270nd等の固定式クリップ装着カテゴリを代表。OBSBOT/Insta360のジンバルと同形状とは主張しない",
+    "use_case": "着席オンライン会議で画面上縁へ設置する用途"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logos_watermarks": true,
+    "no_people_hands": true,
+    "one_hero_complete_visible": true,
+    "natural_clip_support": true,
+    "subject_in_central_safe_band": true,
+    "notes": "主役中心は幅の約62%、高さ約36%。画面全体の中央よりやや右だが主役ケース全体は中央安全域内で左右端へ寄らず、320pxでもカメラ/レンズ/クリップが明瞭。noteトリムで製品を維持。4Kや追跡機能を画像から主張しない。"
+  },
+  "note_ui_touched": false,
+  "new_design": false
+}

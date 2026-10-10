@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-20",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "reuse_byte_identical_copy",
+  "output_path": "04_thumbnail/2026-11/2026-11-20_digital_notebook.png",
+  "source_path": "/Users/shoheishimizu/Knowledge/note/accounts/daily_gadget/04_thumbnail/2026-10/2026-10-20_digital_notebook.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "208acd03021a25b2f67393bddd610644c374cab63cf50167d072f19aa5c06bec",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-20_手書きメモをデータで残す。「電子ノート」5選.md",
+    "07_operations/2026-11_codex/2026-11-20_sources.json",
+    "07_operations/2026-11_codex/2026-11-20_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "電子ノート5品比較、代表電子ペーパー＋付属ペン1組",
+    "count": "端末1台と筆記用スタイラス1本のみ、比較陳列無し",
+    "material": "白灰枠と電子ペーパー風の淡色画面、黒ペン、採用モノクロ電子ノート分類と一致",
+    "structure": "薄い四角端末と独立筆記ペン、画面は抽象線/円/三角のみ文字無し。カラーPaperProと同表示能力とはしない",
+    "use_case": "手書きメモをデータで残すための筆記カテゴリ。画面サイズ/カラー/PDF保存/AI/クラウド無料/ペン互換を絵で保証しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "one_central_hero_or_functional_set": true,
+    "natural_support": true,
+    "whole_hero_visible": true,
+    "thumbnail_subject_clear": true
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_assigned_date_files_changed": true,
+  "new_design": false,
+  "source_output_identical": true
+}

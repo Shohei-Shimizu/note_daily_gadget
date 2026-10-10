@@ -1,0 +1,361 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月5日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322728823/rectangle_large_type_2_a65c125a9e96bb9a137be5c28cf5cd80.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "作業と休憩の区切りをつくる。「デスクタイマー」10選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月5日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 作業を続けるうちに、休憩や次の予定へ移るタイミングを逃すことがあります。机に置いて時間を区切れるデスクタイマーを10個調べてまとめました。
+    - paragraph:
+      - text: 今回の10個は
+      - strong: 「時間を設定する操作」、「残り時間の表示」、「終了の知らせ方」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① ドリテック ラーニングタイマー T-587PK3":
+          - /url: "#6776c5ed-74cc-4747-913d-38b77daf73cc"
+        - link "② ソニック トキ・サポ 時っ感タイマー LV-3062-I":
+          - /url: "#1038195c-98a0-4669-bf31-f083e306962b"
+        - link "③ TickTime 六角柱タイマー":
+          - /url: "#9eee9c5d-00c2-4e3b-9138-11881f0a6840"
+        - link "④ タニタ バイブレーションタイマー TD-370N":
+          - /url: "#03facc87-45b5-4756-a866-9d9df9deb28d"
+        - link "⑤ Time Timer MOD Home Edition":
+          - /url: "#d1fc2863-3750-458a-aff5-b0c9f49fc7bc"
+        - link "⑥ ドリテック 大画面タイマー シャボン6":
+          - /url: "#7353db6f-99d4-49aa-9763-67804cae265f"
+        - link "⑦ タニタ でか見えタイマー TD-395 WH":
+          - /url: "#6728a6ef-b9cc-44d4-b70f-86302b306f2d"
+        - link "⑧ TimeCube Plus ホワイト":
+          - /url: "#134b5ed0-51ea-4e9f-b3ff-fb873a66c026"
+        - link "⑨ 無印良品 ダイヤル式キッチンタイマー TD-393":
+          - /url: "#779957aa-ee1e-42c5-beef-d89070124ecb"
+        - link "⑩ ソニック トキ・サポ 時っ感タイマー 時計プラス":
+          - /url: "#cd82c312-6b3a-43ff-8b1a-6e6e11de97cd"
+      - button "すべて表示":
+        - generic: すべて表示
+    - heading "① ドリテック ラーニングタイマー T-587PK3" [level=2]
+    - figure:
+      - link "ドリテック(dretec) 勉強タイマー タイムアップ2 消音 T-587PK3 ピンク www.amazon.co.jp 1,472円 (2026年10月10日 11:15時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DBY8JCQ5?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ドリテック(dretec) 勉強タイマー タイムアップ2 消音 T-587PK3 ピンク
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,472円
+        - text: (2026年10月10日 11:15時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DBY8JCQ5?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 机で作業する時間を決めて、手元のボタンで計測を始めたい人向けです。大きなSTART/STOPボタンと音・ランプによる通知を備え、終了音を鳴らさず使える点を重視しました。キーロックもあり、持ち運ぶときの誤操作に配慮した構成です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・操作：大型START/STOPボタン
+          - text: ・通知：音・ランプ（無音設定可能）
+          - text: ・機能：カウントダウン／カウントアップ／キーロック
+          - text: ・電源：単4形乾電池2本
+          - text: ・サイズ：約60×80×23mm
+    - heading "② ソニック トキ・サポ 時っ感タイマー LV-3062-I" [level=2]
+    - figure:
+      - link "ソニック 時っ感タイマー トキ・サポ 10cm 時間経過を実感 アイボリー LV-3062-I www.amazon.co.jp 1,609円 (2026年10月10日 11:15時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07X2QHVDW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ソニック 時っ感タイマー トキ・サポ 10cm 時間経過を実感 アイボリー LV-3062-I
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,609円
+        - text: (2026年10月10日 11:15時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07X2QHVDW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 残り時間を数字だけでなく、色の面積で確認したい人向けです。時間が経つとフィルムの色面が減っていき、ダイヤルを回して作業時間を設定できる構造。カウントダウン中の作動音を抑えた設計も、机に置く道具として選んだ理由です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・設定時間：最大60分
+          - text: ・操作：ダイヤル式
+          - text: ・表示：色面が減るフィルム式
+          - text: ・通知：電子アラーム（音量・鳴動時間2段階）
+          - text: ・サイズ：103×101×46mm
+    - heading "③ TickTime 六角柱タイマー" [level=2]
+    - figure:
+      - link "【TickTime・新時代のデジタルタイマー】 正六角柱 ポモドーロタイマー キッチンタイマー キューブタイマー 勉強 会議 スポーツテスト www.amazon.co.jp 5,580円 (2026年10月10日 11:15時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08HWCWY6Z?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 【TickTime・新時代のデジタルタイマー】 正六角柱 ポモドーロタイマー キッチンタイマー キューブタイマー 勉強 会議 スポーツテスト
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 5,580円
+        - text: (2026年10月10日 11:15時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08HWCWY6Z?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 同じ長さの作業時間を繰り返し設定する人向けの、向きを変えて使うタイマーです。希望する時間の面を上にすると計測が始まり、ボタンを何度も押す手間を減らせる構成。あらかじめ決められた時間以外も設定できる点を比較候補として確認しました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・プリセット：3／5／10／15／25／30分
+          - text: ・機能：カウントダウン／カウントアップ
+          - text: ・最大計測：99分59秒
+          - text: ・充電：USB Type-C
+          - text: ・サイズ／重さ：41×47×45mm／約52g
+    - heading "④ タニタ バイブレーションタイマー TD-370N" [level=2]
+    - figure:
+      - link "タニタ 勉強 学習 タイマー ストラップ付き バイブレーション機能 24時間 ホワイト TD-370N WH www.amazon.co.jp 1,282円 (2026年10月10日 11:16時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B00DAM5L1S?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: タニタ 勉強 学習 タイマー ストラップ付き バイブレーション機能 24時間 ホワイト TD-370N WH
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,282円
+        - text: (2026年10月10日 11:16時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B00DAM5L1S?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 音を出しにくい場所で、振動による終了通知を使いたい人向けです。電子ブザーとバイブレーションを切り替えられ、バッグやポケットへ取り付けるストラップも付属。机の上だけでなく、席を移る場面にも持ち出しやすい小型モデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・設定時間：最大23時間59分59秒
+          - text: ・通知：電子ブザー／バイブレーション
+          - text: ・機能：カウントダウン／カウントアップ
+          - text: ・重さ：約25g（電池込み・ストラップ除く）
+          - text: ・電源：CR2032電池1個
+    - heading "⑤ Time Timer MOD Home Edition" [level=2]
+    - figure:
+      - link "Time Timer TIME TIMER MOD Home Edition 9cm 60分 タイムタイマー モッド フェルングリーン 時間管理 TTM9-HFG-W 正規品 www.amazon.co.jp 4,158円 (2026年10月10日 11:16時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0BK2J71M1?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Time Timer TIME TIMER MOD Home Edition 9cm 60分 タイムタイマー モッド フェルングリーン 時間管理 TTM9-HFG-W 正規品
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,158円
+        - text: (2026年10月10日 11:16時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BK2J71M1?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 作業の残り時間を、画面の色が減る様子で把握したい人向けの視覚型タイマーです。数字を細かく追うより時間の区切りを見える形にしたい場合に候補へ入れました。アラームをオフにできるため、音による通知が不要な場面でも使える構成です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・設定時間：60分
+          - text: ・表示：色面が減る視覚式
+          - text: ・通知：アラームON／OFF切り替え
+          - text: ・電源：単3形乾電池1本
+          - text: ・カラー：フェルングリーン
+    - heading "⑥ ドリテック 大画面タイマー シャボン6" [level=2]
+    - figure:
+      - link "ドリテック(dretec) タイマー 6キー 時計表示 シャボン6 ホワイト www.amazon.co.jp 2,585円 (2026年10月10日 11:16時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0BB5WSKPF?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ドリテック(dretec) タイマー 6キー 時計表示 シャボン6 ホワイト
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,585円
+        - text: (2026年10月10日 11:16時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BB5WSKPF?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 机の上で残り時間を大きく表示し、作業の区切りを確認したい人向けです。カウントダウンだけでなく経過時間の計測にも使え、タイマーを使わないときは時計表示に切り替えられる構成。スタンドやマグネットで設置場所を選べる点を重視しました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・表示：大画面デジタル
+          - text: ・機能：カウントダウン／カウントアップ／リピート
+          - text: ・表示切り替え：時計
+          - text: ・設置：スタンド／マグネット／フック穴
+    - heading "⑦ タニタ でか見えタイマー TD-395 WH" [level=2]
+    - figure:
+      - link "タニタ(Tanita) キッチン 勉強 学習 タイマー マグネット付き 大画面 100分 ホワイト TD-395 WH でか見えプラスタイマー www.amazon.co.jp 1,480円 (2026年10月10日 11:17時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B004KSRN3K?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: タニタ(Tanita) キッチン 勉強 学習 タイマー マグネット付き 大画面 100分 ホワイト TD-395 WH でか見えプラスタイマー
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,480円
+        - text: (2026年10月10日 11:17時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B004KSRN3K?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 文字の大きさとボタンの押しやすさを重視して、机に置く一台を選びたい人向けです。日本語表記の時間設定ボタンを備え、使いたい時間を決める操作が分かりやすい構成。小さな表示を近くで読み取るより、手元で確認しやすさを求める場合の候補です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・表示：大型液晶
+          - text: ・操作：日本語表記の時間設定ボタン
+          - text: ・設置：マグネット付き
+          - text: ・サイズ：133.5×48×17mm
+          - text: ・重さ：約73g
+    - heading "⑧ TimeCube Plus ホワイト" [level=2]
+    - figure:
+      - link "TimeCube Plus プリセット タイマー LEDライト4つ/アラーム付き 時間の管理用 カウントダウン設定 (ホワイト - 5分 15分 30分 60分) www.amazon.co.jp 2,286円 (2026年10月10日 11:17時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07KGH6B81?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: TimeCube Plus プリセット タイマー LEDライト4つ/アラーム付き 時間の管理用 カウントダウン設定 (ホワイト - 5分 15分 30分 60分)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,286円
+        - text: (2026年10月10日 11:17時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07KGH6B81?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 決まった長さの作業と休憩を、向きを変える操作で切り替えたい人向けです。時間が書かれた面を上にするとカウントダウンが始まり、計測を一時停止して再開することも可能。音とLEDの通知を選べる点も、作業場所に合わせるための選定理由です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・プリセット：5／15／30／60分
+          - text: ・操作：面を上にしてカウントダウン開始
+          - text: ・通知：ブザー／LED／併用
+          - text: ・機能：一時停止／再開
+          - text: ・表示：向きに合わせて回転する液晶
+    - heading "⑨ 無印良品 ダイヤル式キッチンタイマー TD-393" [level=2]
+    - figure:
+      - link "無印良品 ダイヤル式キッチンタイマー TD‐393 82248296 www.amazon.co.jp 1,992円 (2026年10月10日 11:17時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B087S3YKH7?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 無印良品 ダイヤル式キッチンタイマー TD‐393 82248296
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,992円
+        - text: (2026年10月10日 11:17時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B087S3YKH7?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: ボタンを何度も押さず、ダイヤルで時間を調整したい人向けに調べた一台です。外周を回して設定する構造で、細かく作業時間を変えたい場面の比較候補。カウントアップとリピート機能を備え、経過時間の確認や同じ時間の繰り返しにも対応しています。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・操作：ダイヤル式
+          - text: ・機能：カウントダウン／カウントアップ／リピート
+          - text: ・サイズ：直径62×23mm
+          - text: ・重さ：約59g
+          - text: ・電源：CR2032電池1個
+    - heading "⑩ ソニック トキ・サポ 時っ感タイマー 時計プラス" [level=2]
+    - figure:
+      - link "ソニック(Sonic) 時っ感タイマー トキ・サポ 時計プラス 時間の経過を実感 ミントブルー LV-3521-MB www.amazon.co.jp 3,640円 (2026年10月10日 11:17時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08KRMQT5S?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ソニック(Sonic) 時っ感タイマー トキ・サポ 時計プラス 時間の経過を実感 ミントブルー LV-3521-MB
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,640円
+        - text: (2026年10月10日 11:17時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08KRMQT5S?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 残り時間を色で確認しながら、現在時刻も同じ場所で見たい人向けです。タイマーとアナログ時計を組み合わせ、作業の終了時刻を考えやすい構成。タイマーの作動音と時計の秒針音を抑えた設計を、机の上で使う比較軸として確認しました。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・操作：ダイヤル式タイマー
+          - text: ・表示：色面が減るフィルム／アナログ時計
+          - text: ・通知：電子アラーム
+          - text: ・時計機能：目覚まし／スヌーズ
+          - text: ・設計：タイマー・秒針の静音作動
+    - heading "最後に" [level=2]
+    - paragraph: 決まった時間を繰り返すならプリセット式、残り時間を視覚で追うなら色面の表示、音を出しにくい場所では振動や光の通知が比較の目安です。まずは作業と休憩の長さを決め、ご自身の仕事の進め方に合うタイマーを見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 創作と集中を加速する。クリエイター向け生産性ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 創作と集中を加速する。クリエイター向け生産性ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4tdkjuu
+        - strong: 毎日ガジェット通信's Amazon Page - 創作と集中を加速する。クリエイター向け生産性ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4tdkjuu
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 作業と休憩の区切りをつくる。「デスクタイマー」10選｜毎日ガジェット通信｜note

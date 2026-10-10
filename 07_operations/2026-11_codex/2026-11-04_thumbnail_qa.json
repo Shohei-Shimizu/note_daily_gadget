@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-04",
+  "account": "daily_gadget",
+  "production_mode": "reuse_byte_identical_copy",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "output_path": "04_thumbnail/2026-11/2026-11-04_headphone.png",
+  "source_path": "04_thumbnail/2026-06/2026-06-06_noise_canceling_regen.png",
+  "source_and_output_sha256": "d60caf8eb5658647ac1d2414bb228bc4138dbfe424ed0ce02bc50cde4d3cf38f",
+  "source_output_identical": true,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "evidence_files": [
+    "02_article/2026-11/2026-11-04_会議と集中を切り替える。「ノイキャンヘッドホン」8選.md",
+    "06_research/2026-11/2026-11-04_会議と集中を切り替える。「ノイキャンヘッドホン」8選.md",
+    "07_operations/2026-11_codex/2026-11-04_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "ANCヘッドホン8商品比較、既存アカウントは代表1台を見せる",
+    "count": "ヘッドホン1台。背景閉PCとノートは用途小物",
+    "material": "黒マット外装、柔らかい黒パッド。Anker/SONY/Bose等黒い採用機群とカテゴリ素材一致",
+    "structure": "オーバーイヤー左右ハウジング、連続ヘッドバンド、机上へ自然に支持。採用8機種のオーバーイヤー分類に一致。実在型番の形状を再現とは主張しない",
+    "use_case": "会議と集中作業で使う仕事の机"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_people_hands": true,
+    "no_readable_text_logo_watermark": true,
+    "natural_support": true,
+    "central_hero": true,
+    "thumbnail_subject_clear": true,
+    "notes": "完成原稿8品、更新済み研究、公式sourcesを再確認。全品オーバーイヤー、黒い採用品複数で代表画像の素材/構造/机上用途が一致。ANC・通話条件・接続機能を画像で追加主張しない。"
+  },
+  "completed_article_checked": true,
+  "note_ui_touched": false,
+  "new_prompt_required": false
+}

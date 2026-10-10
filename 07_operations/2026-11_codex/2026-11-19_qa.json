@@ -1,5 +1,5 @@
 {
-  "status": "pass_article_content_pending_sku_gate",
+  "status": "pass_article_content_sku_gate_resolved",
   "checks": {
     "product_count": true,
     "asins_order_unchanged": true,
@@ -29,7 +29,7 @@
     131
   ],
   "related_count": 3,
-  "official_gate_passed": false,
+  "official_gate_passed": true,
   "main_task_required": [
     "UGREEN2品ASIN/SKU同定GUI確認",
     "月metadata/DB反映",
@@ -42,13 +42,22 @@
     "全カードで規格上限の実速度を保証しない"
   ],
   "pending_gate": {
-    "status": "pending_main_task_before_ingestion",
+    "status": "passed",
     "asins": [
       "B07D1J88CF",
       "B0BNBXVLZS"
     ],
-    "check": "Amazon GUIでUGREENの当該SKU50706/15251に最終同定。記事に未確認SKU番号は断定記載しない。"
+    "check": "Amazon GUIでUGREENの当該SKU50706/15251に最終同定。記事に未確認SKU番号は断定記載しない。",
+    "evidence": [
+      "2026-11-19_B07D1J88CF_product_details.txt",
+      "2026-11-19_B0BNBXVLZS_product_details.txt"
+    ],
+    "verified_models": {
+      "B07D1J88CF": "CM185 / 50706",
+      "B0BNBXVLZS": "CM401 / 15251"
+    }
   },
   "official_specification_gate_passed": true,
-  "article_evidence_gate_passed": true
+  "article_evidence_gate_passed": true,
+  "sku_gui_gate_passed": true
 }

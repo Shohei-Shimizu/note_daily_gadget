@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-23",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-23_sd_card.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-774cc03d-312d-42f2-96f0-d4b4b9d462ea.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-23_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "a7ef21aae4af854fda0de3b6524d643fc8ec17cc387431d1faa0bddec824e703",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-23_小さなカードに保存先を増やす。「microSDカード」5選.md",
+    "07_operations/2026-11_codex/2026-11-23_sources.json",
+    "07_operations/2026-11_codex/2026-11-23_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "microSD5商品比較、代表カード1枚",
+    "count": "microSD1枚のみ、SDアダプター/別カード比較無し",
+    "material": "薄い黒樹脂カードと金接点、一般microSD分類と一致",
+    "structure": "microSD状の小さな側部段差/薄い輪郭、接点面に単一列8金接点。標準UHS-Iカテゴリを代表、Express用の第2接点列無し",
+    "use_case": "機器の保存先追加。特定容量/速度/UHS級/Express全品対応/Switch2全品対応を画像で主張しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "natural_support": true,
+    "whole_edges_visible": true,
+    "thumbnail_subject_clear": true,
+    "single_row_eight_contacts": true,
+    "not_full_size_sd_adapter": true,
+    "no_express_claim": true,
+    "notes": "マクロ写真のため実際の15×11mm寸法を物差し実測したとは主張しない。一般microSDの輪郭/接点1列を代表する。"
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_assigned_date_files_changed": true,
+  "new_design": false
+}

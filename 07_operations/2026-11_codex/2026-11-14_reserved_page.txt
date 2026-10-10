@@ -1,0 +1,241 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月14日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322750952/rectangle_large_type_2_f4b7e6d84a7664b7c82c78c9ca36dc54.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "指先で記録を振り返る。「スマートリング」5選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月14日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 指に着けて残した睡眠や活動のデータを、スマートフォンで振り返るスマートリング。サイズの確かめ方やアプリの利用条件が異なる5個を調べてまとめました。
+    - paragraph:
+      - text: 今回の5個は
+      - strong: 「確認できる記録」、「サイズと充電の条件」、「アプリの使い方」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① RingConn Gen 2":
+          - /url: "#9bc8e787-96d4-4052-b648-020f1b2e48ad"
+        - link "② Oura Ring 4":
+          - /url: "#56e673a2-0ef4-4b72-8a76-5c08049ddd94"
+        - link "③ SOXAI RING 1.1":
+          - /url: "#6288e2bf-2367-4ac6-a88b-3a180c198963"
+        - link "④ SOXAI RING 2":
+          - /url: "#6c2d16e7-75e0-4584-84d2-1ea9520e8234"
+        - link "⑤ Amazfit Helio Ring":
+          - /url: "#6f24ac99-047a-4cc0-bcaf-1ff25230b970"
+        - link "最後に":
+          - /url: "#95145cf0-866a-48ee-aacb-b266bdf266ba"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#8f1905bb-0aa6-46c0-9191-fb9f16013e53"
+        - link "あわせて読みたい":
+          - /url: "#b32e90d6-50e8-435a-9a75-dc667d36f98f"
+    - heading "① RingConn Gen 2" [level=2]
+    - figure:
+      - link "RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリー持続最長12日、睡眠・心拍・ストレス・女性の健康管理・フィットネス追跡、Android & iOS対応（シルバー、サイズ10） www.amazon.co.jp 52,800円 (2026年10月10日 12:33時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DG2QKMFX?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: RingConn Gen 2 スマートリング｜アプリ購読不要、まずサイジングキットでサイズ確認、バッテリー持続最長12日、睡眠・心拍・ストレス・女性の健康管理・フィットネス追跡、Android & iOS対応（シルバー、サイズ10）
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 52,800円
+        - text: (2026年10月10日 12:33時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DG2QKMFX?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 睡眠や活動の記録を、追加のアプリ購読なしで確認したい人向けです。充電ケースを備え、指に着ける本体と持ち歩く充電環境をまとめられる構成。一般的な指輪とはサイズ基準が異なるため、専用キットで装着感を確認してから本体を選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外装素材：チタン合金
+          - text: ・幅・厚み：6.8mm・2mm
+          - text: ・重量：2〜3g（サイズによる）
+          - text: ・駆動時間：10〜12日（サイズ・使用条件による）
+          - text: ・対応OS：iOS 17以降／Android 10以降
+    - heading "② Oura Ring 4" [level=2]
+    - figure:
+      - link "Oura Ring 第4世代 スマートリング – シルバー – サイズ10 |iPhone/Android対応 |まずはサイズ確認:専用サイズキット対応|睡眠・心拍・フィットネスを計測|最長8日間バッテリー持続 www.amazon.co.jp 52,800円 (2026年10月10日 12:33時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D9WT1S2T?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Oura Ring 第4世代 スマートリング – シルバー – サイズ10 |iPhone/Android対応 |まずはサイズ確認:専用サイズキット対応|睡眠・心拍・フィットネスを計測|最長8日間バッテリー持続
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 52,800円
+        - text: (2026年10月10日 12:33時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D9WT1S2T?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 睡眠と日中の活動を、同じアプリで振り返りたい人向けの候補です。詳細なデータや分析を利用するには、本体とは別にメンバーシップが必要。サイズ確認にはこの世代の専用キットを使い、購入前に継続費用とスマートフォンの対応条件も確かめたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・素材：チタン（内側・外側）
+          - text: ・幅・厚み：7.9mm・2.88mm
+          - text: ・駆動時間：通常5〜8日（設定・サイズなどによる）
+          - text: ・対応OS：iOS 16以降／Android 11以降
+          - text: ・詳細機能：Ouraメンバーシップ対象
+    - heading "③ SOXAI RING 1.1" [level=2]
+    - figure:
+      - link "SOXAI RING 1.1 日本製スマートリング ソクサイリング 健康管理 睡眠管理 メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (ピンクゴールド, 16号) www.amazon.co.jp 15,542円 (2026年10月10日 12:34時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0F59W7RGH?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: SOXAI RING 1.1 日本製スマートリング ソクサイリング 健康管理 睡眠管理 メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (ピンクゴールド, 16号)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 15,542円
+        - text: (2026年10月10日 12:34時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0F59W7RGH?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 睡眠や歩数などの記録を、国内メーカーの専用アプリで確認したい人向けです。日々同期してデータを振り返る使い方に合わせ、充電や装着の習慣も考えて選びたい構成。後継モデルとはサイズ規格が異なるため、同じ号数だけで判断しないことも比較のポイントです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外装素材：チタン
+          - text: ・通信：Bluetooth Low Energy 5.0
+          - text: ・駆動時間：最大9日（サイズ・使用状況による理論値）
+          - text: ・充電時間：通常60〜120分
+          - text: ・アプリ：SOXAI RINGアプリ
+    - heading "④ SOXAI RING 2" [level=2]
+    - figure:
+      - link "SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリー メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (シルバー, 22号) www.amazon.co.jp 39,980円 (2026年10月10日 12:35時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0H4RH1L21?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: SOXAI RING 2 日本製スマートリング ソクサイリング 睡眠管理 健康管理 最大15日間バッテリー メーカー保証1年 歩数計 100m防水 チタン製 サブスク不要専用アプリ iPhone/Android対応 公式ストア 日本人サポート (シルバー, 22号)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 39,980円
+        - text: (2026年10月10日 12:35時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0H4RH1L21?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 充電の間隔とサイズ選びを重視して、指に着ける道具を比較したい人向けです。長い駆動時間にはサイズと省電力モードの条件があり、日常の設定でも同じ日数とは限りません。専用キットで装着感を確かめ、充電用のケーブルも手持ちと合わせて用意したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・外装素材：チタン合金
+          - text: ・選択候補：シルバー・22号
+          - text: ・駆動時間：最大15日（20〜26号・省電力モード時の理論値）
+          - text: ・充電時間：最大約2時間
+          - text: ・充電ケーブル：別途用意
+    - heading "⑤ Amazfit Helio Ring" [level=2]
+    - figure:
+      - link "Amazfit Helio Ring スマートリング 軽量 チタン合金 回復分析 健康管理 睡眠 心拍 ストレス 4つのスポーツモード 10 ATM耐水 活動量計 Google Fit/Apple Health/adidas Running連携 (サイズ10（US）・20号（日本）ーリングの内周66mm) www.amazon.co.jp 24,900円 (2026年10月10日 12:35時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DJNVNVP2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Amazfit Helio Ring スマートリング 軽量 チタン合金 回復分析 健康管理 睡眠 心拍 ストレス 4つのスポーツモード 10 ATM耐水 活動量計 Google Fit/Apple Health/adidas Running連携 (サイズ10（US）・20号（日本）ーリングの内周66mm)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 24,900円
+        - text: (2026年10月10日 12:35時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DJNVNVP2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 運動と睡眠の記録をZeppアプリでまとめて見たい人向けです。対応するAmazfitウォッチとのデータ統合も比較のポイントで、指輪側の記録と合わせて振り返れます。追加サービスの利用条件は購入前に確認し、表示されるスコアは診断ではなく記録を読む目安として扱いたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・サイズ・重量：US10・3.75g
+          - text: ・幅・厚み：8mm・2.6mm
+          - text: ・充電方法：ワイヤレス充電
+          - text: ・アプリ：Zepp（タブレット未対応）
+          - text: ・対応OS：iOS 14以降／Android 7以降
+    - heading "最後に" [level=2]
+    - paragraph: スマートリングは、記録したデータを振り返る道具として選びたい製品です。診断や治療の代わりにせず、専用のサイズ確認方法、対応スマートフォン、アプリの継続費用を比較し、ご自身の生活に合わせて使える一台を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 家事も健康も自動化。スマートホーム＆ライフ改善ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 暮らしを自動化＆快適に。スマートホーム＆ライフ改善ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://www.amazon.co.jp/shop/zanetti/list/3PE57JTNNDNGZ?linkCode=spc&tag=daily-gadget-22&domainId=influencer&asc_contentid=amzn1.ideas.3PE57JTNNDNGZ
+        - strong: 毎日ガジェット通信's Amazon Page - 暮らしを自動化＆快適に。スマートホーム＆ライフ改善ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://www.amazon.co.jp/shop/zanetti/list/3PE57JTNNDNGZ?linkCode=spc&tag=daily-gadget-22&domainId=influencer&asc_contentid=amzn1.ideas.3PE57JTNNDNGZ
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 指先で記録を振り返る。「スマートリング」5選｜毎日ガジェット通信｜note

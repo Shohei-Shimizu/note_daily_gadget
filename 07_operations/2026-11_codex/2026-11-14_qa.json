@@ -1,5 +1,5 @@
 {
-  "status": "pass_article_content_ui_gate_pending",
+  "status": "pass_reserved_verified",
   "checks": {
     "product_count": true,
     "asins_order_unchanged": true,
@@ -28,7 +28,7 @@
   ],
   "related_count": 3,
   "article_evidence_gate_passed": true,
-  "ui_gate": "not_performed",
+  "ui_gate": "passed",
   "main_task_required": [
     "RingConn Gen2本体SKUのAmazon GUI同定",
     "月metadata/DB反映",
@@ -41,5 +41,15 @@
     "Helio追加サービス費用/全機能無料の断定",
     "Helio最大4日の試験条件数値",
     "RingConn国内当該SKUの最終GUI同定は未実施"
-  ]
+  ],
+  "ringconn_sku_gate": "passed",
+  "note_publication_evidence": {
+    "url": "https://note.com/daily_gadget/n/n5fe09a4c9a89",
+    "datetime": "2026-11-14T20:00:00+09:00",
+    "files": [
+      "2026-11-14_confirmation.txt",
+      "2026-11-14_reserved_page.txt",
+      "2026-11-14_saved_editor.html"
+    ]
+  }
 }

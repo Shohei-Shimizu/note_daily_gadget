@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-22",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-22_laptop_case.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-32e59ca9-f52f-4ce7-81a8-4e6dd7921817.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-22_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "6a880c582ed2f7092ab9b57c40b853634d7e7cf75a5c26475b3277ed350f8b80",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-22_持ち運ぶPCを守る。「ノートPCケース」6選.md",
+    "07_operations/2026-11_codex/2026-11-22_sources.json",
+    "07_operations/2026-11_codex/2026-11-22_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "PCケース6品比較、代表スリーブ1つ",
+    "count": "スリーブ1個、収納途中の閉PCは使用例。別ケース/別荷物なし",
+    "material": "灰黒の布外装とファスナー/内張り、採用通常布スリーブ分類を代表",
+    "structure": "上辺開口からPCを部分収納、ファスナー両縁と内ポケットが自然、PCは intact生地を貫通しない。ファスナーレス機やハンドル付と同形状とはしない",
+    "use_case": "PCを包んで持ち歩く。全機種インチ適合/完全防水/衝撃完全保護/内寸は保証しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "central_single_hero": true,
+    "natural_support": true,
+    "whole_edges_visible": true,
+    "thumbnail_subject_clear": true
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_assigned_date_files_changed": true,
+  "new_design": false,
+  "independent_pending_gate": {
+    "asin": "B00CD8AFFW",
+    "status": "pending_main_publishing_same_asin_gui_evidence",
+    "image_qa_does_not_satisfy": true
+  }
+}

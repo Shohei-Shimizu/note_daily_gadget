@@ -1,0 +1,291 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月15日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322752147/rectangle_large_type_2_758fc6d46f886eff2edb22afc7ace83a.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "映像の画面を広げる。「プロジェクター」7選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月15日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: PCや再生機器の映像を壁に映すものから、本体の動画アプリを使うものまで。接続方法と置き場所を比べられるプロジェクターを7個調べてまとめました。
+    - paragraph:
+      - text: 今回の7個は
+      - strong: 「映像の表示と入力」、「設置のしやすさ」、「再生機器やアプリとのつなぎ方」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① Anker Nebula Capsule 3 Laser":
+          - /url: "#e2259194-131c-4532-89c6-57dce3d90cc5"
+        - link "② Dangbei DBOX02":
+          - /url: "#00fd530d-287f-4119-8e40-5fcc227f4540"
+        - link "③ BenQ TH671ST":
+          - /url: "#364eb6a9-9ab2-40f6-9a57-74158dd915a6"
+        - link "④ エプソン EB-535W":
+          - /url: "#2eda0ca5-aecc-4e9b-8e82-899e3928de15"
+        - link "⑤ ソニー LSPX-P1":
+          - /url: "#33333137-6f32-4367-8891-6df1a22220d2"
+        - link "⑥ エプソン EB-1785W":
+          - /url: "#61fa135d-5411-49de-a83d-502dbc0b4b15"
+        - link "⑦ TCL PlayCube":
+          - /url: "#4a92874e-546b-489d-bc89-7f4ad1b5c5d3"
+        - link "最後に":
+          - /url: "#d2eb14a4-502b-4d2b-8994-1b96e40f5fbc"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#b36dbc6b-7fe3-4126-9f8e-dc443191c448"
+        - link "あわせて読みたい":
+          - /url: "#258ac64e-a880-411d-b0fe-78779d603dc6"
+    - heading "① Anker Nebula Capsule 3 Laser" [level=2]
+    - figure:
+      - link "Anker Nebula Capsule 3 Laser 【小型モバイルレーザープロジェクター】 www.amazon.co.jp 119,900円 (2026年10月10日 12:38時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0BCTP8VJH?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker Nebula Capsule 3 Laser 【小型モバイルレーザープロジェクター】
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 119,900円
+        - text: (2026年10月10日 12:38時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BCTP8VJH?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 動画アプリを使い、部屋を移動しながら映像を楽しみたい人向けです。Google TV版はNetflixを本体のアプリから利用でき、バッテリーも内蔵。旧Android TV版とは異なるため、購入時は搭載OSを確認し、配信サービスの契約も合わせて用意したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・表示解像度：フルHD
+          - text: ・明るさ：300 ANSIルーメン
+          - text: ・OS：Google TV
+          - text: ・機能：オートフォーカス・自動台形補正
+          - text: ・電源：内蔵バッテリー／付属ACアダプター
+    - heading "② Dangbei DBOX02" [level=2]
+    - figure:
+      - link "Dangbei(ダンベイ) DBOX02 4K レーザー プロジェクター 2450ISOルーメン 静音ファン 家庭用 www.amazon.co.jp 188,900円 (2026年10月10日 12:38時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D1TYZSXV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Dangbei(ダンベイ) DBOX02 4K レーザー プロジェクター 2450ISOルーメン 静音ファン 家庭用
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 188,900円
+        - text: (2026年10月10日 12:38時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D1TYZSXV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 据え置きの映像環境を整え、精細な画面で映画を楽しみたい人向けです。レーザー光源とGoogle TVを備え、Netflixの正式ライセンスも確認しました。投写できる壁の広さだけでなく、設置位置と配信サービスの利用条件も合わせて比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・表示解像度：4K
+          - text: ・明るさ：2450 ISOルーメン
+          - text: ・光源：ALPDレーザー
+          - text: ・OS：Google TV
+          - text: ・スピーカー：12W×2
+    - heading "③ BenQ TH671ST" [level=2]
+    - figure:
+      - link "BenQ TH671ST 短焦点 DLPホームプロジェクター フルHD/3,000ANSIルーメン/低遅延/ゲーミング www.amazon.co.jp 82,800円 (2026年10月10日 12:38時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0776TCTK2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: BenQ TH671ST 短焦点 DLPホームプロジェクター フルHD/3,000ANSIルーメン/低遅延/ゲーミング
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 82,800円
+        - text: (2026年10月10日 12:38時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0776TCTK2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: ゲーム機や再生機器を接続し、画面を大きくしたい人向けの短焦点モデルです。部屋の奥から映す構成と比べて置き場所を検討しやすく、ゲーム向けの低遅延設計も比較のポイント。本体の動画アプリではなく、HDMIにつなぐ映像機器を用意して使う構成です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・表示解像度：1920×1080
+          - text: ・明るさ：3000 ANSIルーメン
+          - text: ・投写方式：DLP
+          - text: ・入力：HDMI
+          - text: ・設計：短焦点
+    - heading "④ エプソン EB-535W" [level=2]
+    - figure:
+      - link "エプソン プロジェクター EB-535W (3400lm/WXGA/3.7kg/デスクトップ型超短焦点) www.amazon.co.jp 22,000円 (2026年10月10日 12:39時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B00PIM0PTG?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エプソン プロジェクター EB-535W (3400lm/WXGA/3.7kg/デスクトップ型超短焦点)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 22,000円
+        - text: (2026年10月10日 12:39時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B00PIM0PTG?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 壁に近い位置へ置き、PCの映像や資料を大きく表示したい人向けです。ビジネス向けに設計された短焦点機で、再生機器の映像も入力端子を介して投写する構成。動画アプリ搭載機とは使い方が異なるため、入力する機器と設置寸法を先に確認して選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・表示解像度：WXGA（1280×800）
+          - text: ・投写方式：3LCD
+          - text: ・有効光束：3400lm（メーカー公表値）
+          - text: ・本体重量：約3.7kg
+          - text: ・入力：HDMIなど
+    - heading "⑤ ソニー LSPX-P1" [level=2]
+    - figure:
+      - link "ソニー プロジェクター ポータブル/超短焦点/バッテリー・スピーカー内蔵 LSPX-P1 www.amazon.co.jp 87,980円 (2026年10月10日 12:39時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B01AUL0U8K?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ソニー プロジェクター ポータブル/超短焦点/バッテリー・スピーカー内蔵 LSPX-P1
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 87,980円
+        - text: (2026年10月10日 12:39時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B01AUL0U8K?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 壁際に置いたり、テーブルや床へ映したり、投写する場所を工夫したい人向けです。内蔵バッテリーを備え、外部再生機器は付属ワイヤレスユニットのHDMIへ接続する構成。操作には専用アプリを使うため、購入前に手持ちのスマートフォンで利用条件を確かめたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・表示画素数：1366×768
+          - text: ・投写画面：22〜80型
+          - text: ・光源：レーザーダイオード
+          - text: ・電源：内蔵バッテリー
+          - text: ・外部入力：付属ワイヤレスユニットのHDMI
+    - heading "⑥ エプソン EB-1785W" [level=2]
+    - figure:
+      - link "EPSON プロジェクター EB-1785W 3,200lm WXGA 1.8kg www.amazon.co.jp 146,800円 (2026年10月10日 12:39時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B01N0EJD6I?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: EPSON プロジェクター EB-1785W 3,200lm WXGA 1.8kg
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 146,800円
+        - text: (2026年10月10日 12:39時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B01N0EJD6I?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: PCを持って移動し、資料や映像をその場で大きく表示したい人向けです。薄型のビジネス用モデルで、持ち運ぶ場面と接続する機器を合わせて検討できる構成。映像の入力対応と実際の表示解像度は異なるため、文字の見やすさや映したい内容に合わせて比較したい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・表示解像度：WXGA（1280×800）
+          - text: ・投写方式：3LCD
+          - text: ・有効光束：3200lm（メーカー公表値）
+          - text: ・サイズ：292×213×44mm（突起部除く）
+          - text: ・本体重量：約1.8kg
+    - heading "⑦ TCL PlayCube" [level=2]
+    - figure:
+      - link "TCL PlayCube 【750 ISO 小型モバイルプロジェクター Google TV搭載】 www.amazon.co.jp 113,990円 (2026年10月10日 12:40時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0FH21C9P6?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: TCL PlayCube 【750 ISO 小型モバイルプロジェクター Google TV搭載】
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 113,990円
+        - text: (2026年10月10日 12:40時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0FH21C9P6?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 動画アプリを使いながら、壁や天井に合わせて本体の向きを変えたい人向けです。回転する形状と内蔵バッテリーを備え、Google TVから配信サービスを利用する構成。高解像度の入力に対応していても表示はフルHDなので、画面の精細さと使いたい場所を分けて比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・実表示解像度：フルHD（1080p）
+          - text: ・対応入力：4K入力・デコード
+          - text: ・明るさ：750 ISOルーメン
+          - text: ・OS：Google TV
+          - text: ・電源：内蔵バッテリー
+    - heading "最後に" [level=2]
+    - paragraph: 動画アプリを本体で使うか、PCや再生機器を接続するかで、必要な準備が変わります。表示解像度と入力対応を区別し、設置距離や電源、配信サービスの契約も確かめて、映したい内容に合う一台を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/42HITJ4
+        - strong: 毎日ガジェット通信's Amazon Page - 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/42HITJ4
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 映像の画面を広げる。「プロジェクター」7選｜毎日ガジェット通信｜note

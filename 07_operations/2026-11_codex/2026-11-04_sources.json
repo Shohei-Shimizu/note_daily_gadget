@@ -21,7 +21,14 @@
       "body": "作業場所に合わせてノイズキャンセリングのモードを選びたい人向けの候補です。アプリで交通機関・屋外・屋内のモードを切り替えられ、外音取り込みにも対応します。内蔵マイクによる通話はBluetooth接続時のみなので、ケーブル接続で会議に使う予定なら注意したい一台。",
       "cautions": [
         "採用名と現行公式の第2世代/BT5.3が一致。旧版BT5.0等を不使用。再生50時間はANC時であり通常70時間と区別。"
-      ]
+      ],
+      "asin_connection_evidence": {
+        "checked_at": "2026-10-10",
+        "source": "https://www.ankerjapan.com/products/a3028",
+        "official_model": "A3028013",
+        "official_amazon_purchase_url": "https://www.amazon.co.jp/dp/B08HYX5NS9?m=A2Q9OW6QVJC5XE&tag=aoositmdtlpg-22",
+        "status": "メーカー現行第2世代の商品ページが採用ASINを購入先として直接指定。出品者指定付きである点も保存。"
+      }
     },
     {
       "asin": "B0GXYWTMPN",

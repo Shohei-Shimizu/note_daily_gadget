@@ -1,0 +1,264 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月29日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322766683/rectangle_large_type_2_d036b29171b472ac10e792b16b420767.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "手元の操作を見直す。「ワイヤレスマウス」6選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月29日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 手元のクリックやスクロールを担うワイヤレスマウス。USBレシーバーで接続するタイプとBluetoothを使うタイプから、形状と操作方法を比べられる6個を調べてまとめました。
+    - paragraph:
+      - text: 今回の6個は
+      - strong: 「接続方法とUSB端子」、「形状とボタン操作」、「電池と静音の仕様」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① バッファロー BSMBW315BK":
+          - /url: "#3a5aed50-6034-4e97-8c0d-32159fe59289"
+        - link "② バッファロー BSMBW325BK":
+          - /url: "#59859e9a-efbb-4594-8c49-7e4b403a8bbf"
+        - link "③ ロジクール M185CG グレー":
+          - /url: "#7e3a4e56-a940-4415-92c3-baa2ee0a36d8"
+        - link "④ エレコム Slint M-TM10BBBK/EC":
+          - /url: "#c4fc6ada-c706-4429-9d18-cc98d5f5c7f5"
+        - link "⑤ エレコム EX-G M-XGM10DBBK/EC":
+          - /url: "#74bb30e9-4331-4670-bd73-ac3f9996341c"
+        - link "⑥ ロジクール M220CG グレー":
+          - /url: "#f02ea8bb-9bd5-431b-a974-15641785071b"
+        - link "最後に":
+          - /url: "#6e197f64-e675-4df0-9464-8034adc64b56"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#3cca72c9-fec3-4f0b-bf2c-02eeed711681"
+        - link "あわせて読みたい":
+          - /url: "#080c54ab-45ca-4b35-af0c-bbfec0c0b747"
+    - heading "① バッファロー BSMBW315BK" [level=2]
+    - figure:
+      - link "バッファロー マウス ワイヤレス 5ボタン 最大584日使用可能 BlueLED ブラック BSMBW315BK www.amazon.co.jp 1,040円 (2026年10月10日 13:32時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07S8VWT5B?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: バッファロー マウス ワイヤレス 5ボタン 最大584日使用可能 BlueLED ブラック BSMBW315BK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,040円
+        - text: (2026年10月10日 13:32時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07S8VWT5B?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: ブラウザーの戻る・進む操作を、マウスのサイドボタンで行いたい人向けです。付属レシーバーをUSB端子へ差して使い、単三電池を交換する構成。Windowsではマウスカスタム＋でボタン割り当てを変えられるため、基本操作から自分の作業に合わせたい場合に比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：2.4GHz／付属USB Type-Aレシーバー
+          - text: ・ボタン：5個
+          - text: ・静音ボタン：なし
+          - text: ・電源：単3形電池1本
+          - text: ・重量：約60g（電池含まず）
+    - heading "② バッファロー BSMBW325BK" [level=2]
+    - figure:
+      - link "バッファロー マウス ワイヤレス 静音 5ボタン dpi切替 BlueLED ブラック BSMBW325BK www.amazon.co.jp 1,389円 (2026年10月10日 13:32時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B06WRN4VGJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: バッファロー マウス ワイヤレス 静音 5ボタン dpi切替 BlueLED ブラック BSMBW325BK
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,389円
+        - text: (2026年10月10日 13:32時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B06WRN4VGJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: クリック音を抑えながら、サイドボタンも使いたい人向けです。左右だけでなく、ホイールボタンやサイドボタンも静音の構成。カーソル速度を切り替えられるため、付属レシーバーを挿すUSB端子と手に合う形を確認し、机での操作を整えたい場合に比較したい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：2.4GHz／付属USB Type-Aレシーバー
+          - text: ・ボタン：5個・静音仕様
+          - text: ・分解能：1000／1600DPI
+          - text: ・電源：単3形電池1本
+          - text: ・重量：約70g（電池含まず）
+    - heading "③ ロジクール M185CG グレー" [level=2]
+    - figure:
+      - link "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品 www.amazon.co.jp 998円 (2026年10月10日 13:32時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0956X785M?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 無線 マウス M185CG M185 グレー 国内正規品
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 998円
+        - text: (2026年10月10日 13:32時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0956X785M?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 小さな左右対称のマウスを、USBレシーバーで使いたい人向けです。単三電池を交換する構成で、Bluetoothのペアリングは不要。今回のモデルはUnifyingに対応しないため、別のロジクール製品とレシーバーを共用する前提にせず、付属品で接続する使い方に向いています。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：2.4GHz／付属USBレシーバー
+          - text: ・電源：単3形電池1本
+          - text: ・形状：左右対称
+          - text: ・Unifying：当該モデルは非対応
+          - text: ・対応OS：Windows／macOS／ChromeOS／Linux
+    - heading "④ エレコム Slint M-TM10BBBK/EC" [level=2]
+    - figure:
+      - link "エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC www.amazon.co.jp 1,290円 (2026年10月10日 13:33時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08LMK3L5C?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム ワイヤレスマウス Bluetooth Slint 薄型 静音 4ボタン プレゼンモード機能付 Windows Mac Android iOS iPadOS FireOS対応 ブラック M-TM10BBBK/EC
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,290円
+        - text: (2026年10月10日 13:33時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08LMK3L5C?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: かばんへ入れやすい薄型で、USB端子を空けて使いたい人向けです。Bluetooth接続と静音スイッチを備え、戻るボタンも使える構成。プレゼンテーションモードなどの設定にはエレコムマウスアシスタントを使うため、マウス本体と設定ソフトそれぞれの対応OSを確認して選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：Bluetooth 4.2／HOGP
+          - text: ・ボタン：4個・静音スイッチ
+          - text: ・本体高さ：28mm
+          - text: ・電源：単3形電池1本
+          - text: ・重量：約66g（電池含む）
+    - heading "⑤ エレコム EX-G M-XGM10DBBK/EC" [level=2]
+    - figure:
+      - link "エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC www.amazon.co.jp 1,000円 (2026年10月10日 13:33時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B088P8QYWN?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム マウス ワイヤレス Mサイズ 5ボタン(戻る・進むボタン搭載) BlueLED 握りの極み ガンメタリック M-XGM10DBBK/EC
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,000円
+        - text: (2026年10月10日 13:33時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B088P8QYWN?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 手の形に合わせた本体と、サイドボタンの操作を重視したい人向けです。ミディアムサイズで、戻る・進む操作を備える構成。対応するパソコンではエレコムマウスアシスタントで機能を割り当てられるため、手への収まりと設定ソフトの対応環境を合わせて比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：2.4GHz／USB Type-Aレシーバー
+          - text: ・サイズ分類：M
+          - text: ・ボタン：5個
+          - text: ・電源：単3形電池1本
+          - text: ・重量：約75g（電池含まず）
+    - heading "⑥ ロジクール M220CG グレー" [level=2]
+    - figure:
+      - link "【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220CG グレー 国内正規品 www.amazon.co.jp 1,270円 (2026年10月10日 13:33時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B09J46WG5D?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 【Amazon.co.jp限定】 ロジクール ワイヤレスマウス 静音 無線 M220CG グレー 国内正規品
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,270円
+        - text: (2026年10月10日 13:33時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B09J46WG5D?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 小型の左右対称形状を選び、クリック音も抑えたい人向けです。付属USBレシーバーで接続し、単三電池を交換する構成。Bluetooth接続やサイドボタンの多機能操作を求める場合とは分けて、基本のクリックとスクロールを静かに使いたい用途で比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・接続：2.4GHz／付属USBレシーバー
+          - text: ・クリック：静音設計
+          - text: ・電源：単3形電池1本
+          - text: ・形状：左右対称
+          - text: ・Unifying：非対応
+    - heading "最後に" [level=2]
+    - paragraph: マウスは、持ちやすさに加えて、USB端子を使うか、クリック音を抑えたいかでも選び方が変わります。USBレシーバーとBluetoothの違い、本体と設定ソフトの対応OSを確認し、ご自身の作業に合う一台を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 創作と集中を加速する。クリエイター向け生産性ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 創作と集中を加速する。クリエイター向け生産性ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4tdkjuu
+        - strong: 毎日ガジェット通信's Amazon Page - 創作と集中を加速する。クリエイター向け生産性ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4tdkjuu
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert

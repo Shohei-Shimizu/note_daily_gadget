@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-09",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "built-in image_gen",
+  "output_path": "04_thumbnail/2026-11/2026-11-09_external_hdd.png",
+  "generated_source": "/Users/shoheishimizu/.codex/generated_images/01a12351-42d3-7693-a2be-7e0d0ff83de3/exec-a744432c-96a9-4e48-820c-bcdb37b63a72.png",
+  "prompt_path": "07_operations/2026-11_codex/2026-11-09_thumbnail_prompt.md",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "73490ce75f3363c496d89d3bba2fe79df5d558d8d5666c6421a312598b278d28",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-09_写真と作業データの保存先に。「外付けHDD」6選.md",
+    "06_research/2026-11/2026-11-09_写真と作業データの保存先に。「外付けHDD」6選.md",
+    "07_operations/2026-11_codex/2026-11-09_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "外付けHDD6商品比較、既存アカウント中央代表1製品",
+    "count": "ポータブルHDD1台＋USBケーブル1本。背景PCは用途補助",
+    "material": "黒い樹脂角丸筐体/薄い成形溝、採用WD/Seagate/Buffaloの携帯HDDカテゴリと一致",
+    "structure": "厚みのあるパームサイズHDD外装と自然な接続ケーブル/USB-A末端。筐体側のポートは視点背後に隠し精密形状を創作しない。複数出力ポートなし",
+    "use_case": "PCの写真/作業ファイルの別保存先。USB給電portable4品の代表イメージでAC据置2品と同じ給電/形状とは扱わない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_brands_watermark": true,
+    "no_people_hands": true,
+    "one_central_hero": true,
+    "complete_case_visible": true,
+    "coherent_usb_cable_plug": true,
+    "natural_contact_shadow": true,
+    "thumbnail_subject_clear": true,
+    "notes": "標準USB接続マークがケーブル末端にあるがブランド/文字ではない。容量、暗号化、安全性やOS互換性を画像で主張しない。"
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "new_design": false
+}

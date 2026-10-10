@@ -1,0 +1,311 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月24日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322763867/rectangle_large_type_2_4e3ab9cdebcc796d075aaa3c38d5d1ce.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "日々の動きを手元で見る。「スマートウォッチ」8選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月24日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 歩数や睡眠、屋外での活動を手元で確認するスマートウォッチ。画面やスマートフォンとの連携、GPSの使い方を比べられる8個を調べてまとめました。
+    - paragraph:
+      - text: 今回の8個は
+      - strong: 「画面と装着する形」、「日常の記録とGPS」、「アプリの利用条件」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① Xiaomi Redmi Watch 5 Active":
+          - /url: "#0ebf1579-f48a-443a-a2e2-d3710d6a3f69"
+        - link "② Xiaomi Smart Band 10":
+          - /url: "#0332311b-d0a6-48b3-a920-fdb407726b19"
+        - link "③ Fitbit Inspire 3":
+          - /url: "#0de1ede9-9e87-4c24-a3c4-79821da514ab"
+        - link "④ Amazfit Bip 6":
+          - /url: "#e0de4e46-95f0-4748-81b3-ded3afdf1a96"
+        - link "⑤ Garmin vívoactive 5 Ivory／Cream Gold":
+          - /url: "#d70f15ae-ac82-4035-b6cf-d058e258a8f0"
+        - link "⑥ Garmin vívosmart 5 Black S/M":
+          - /url: "#b6b9b19a-02f3-4c49-aede-492395f8c4b0"
+        - link "⑦ HUAWEI Band 10 Aluminum Edition":
+          - /url: "#bba17fe2-e508-476d-a6f4-084e19dd9e7c"
+        - link "⑧ Amazfit T-Rex 3 48mm":
+          - /url: "#51c07af5-5c31-425e-883a-821aa4816713"
+        - link "最後に":
+          - /url: "#d3a617ef-5529-416a-bc5e-a25cc06eb120"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#93aad498-8257-486a-ab09-db57487c1003"
+      - button "すべて表示":
+        - generic: すべて表示
+    - heading "① Xiaomi Redmi Watch 5 Active" [level=2]
+    - figure:
+      - link "Xiaomi Redmi Watch 5 Active シャオミ スマートウォッチ Bluetooth通話 心拍 睡眠 18日間持続 5ATM防水 www.amazon.co.jp Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DFZPR9Z4?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Xiaomi Redmi Watch 5 Active シャオミ スマートウォッチ Bluetooth通話 心拍 睡眠 18日間持続 5ATM防水
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DFZPR9Z4?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 手元の大きな画面で日々の活動や通知を確認したい人向けです。スマートフォンと接続してBluetooth通話も使える構成。移動のルートを記録する際はスマートフォン側の位置情報を使うため、本体だけで測位するモデルとは分けて比較したい一台です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・画面：2インチLCD
+          - text: ・アプリ：Mi Fitness
+          - text: ・GPS：スマートフォンの位置情報を利用
+          - text: ・対応OS：Android 8以降／iOS 12以降
+          - text: ・バッテリー：最大18日（メーカーの標準使用条件）
+    - heading "② Xiaomi Smart Band 10" [level=2]
+    - figure:
+      - link "Xiaomi Smart Band 10 スマートウォッチ シャオミ バンド 大画面 ランニング 睡眠 心拍 21日間持続 LINE通知 防水 軽量 www.amazon.co.jp 5,978円 (2026年10月10日 13:21時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DYF82545?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Xiaomi Smart Band 10 スマートウォッチ シャオミ バンド 大画面 ランニング 睡眠 心拍 21日間持続 LINE通知 防水 軽量
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 5,978円
+        - text: (2026年10月10日 13:21時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DYF82545?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 時計よりも細身の形を選び、活動や睡眠の記録を手元で見たい人向けです。カラー画面と通知表示を備え、Mi Fitnessアプリでデータを振り返る構成。ルート記録は接続するスマートフォンに依存するので、位置情報の許可も合わせて確認したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・画面：1.72インチAMOLED
+          - text: ・アプリ：Mi Fitness
+          - text: ・GPS：スマートフォンの位置情報を利用
+          - text: ・対応OS：Android 8以降／iOS 12以降
+          - text: ・バッテリー：最大21日（メーカー試験条件）
+    - heading "③ Fitbit Inspire 3" [level=2]
+    - figure:
+      - link "Fitbit Inspire 3 フィットネストラッカ― ミッドナイトゼン／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品] www.amazon.co.jp 11,520円 (2026年10月10日 13:21時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0B75RC9C3?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Fitbit Inspire 3 フィットネストラッカ― ミッドナイトゼン／ブラック スマートウォッチ/iPhone対応/アンドロイド対応/最大10日間のバッテリー/心拍計/睡眠スコア [日本正規品]
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 11,520円
+        - text: (2026年10月10日 13:21時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0B75RC9C3?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 歩数や睡眠の記録を、細身のトラッカーとスマートフォンで振り返りたい人向けです。現在はGoogle HealthアプリとGoogleアカウントが必要で、以前のFitbitアカウント条件とは異なります。移動のルートにはスマートフォンのGPSを使い、追加の有料機能は利用条件を確認して選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・形状：バンド型トラッカー
+          - text: ・アプリ：Google Health
+          - text: ・アカウント：Googleアカウントが必要
+          - text: ・対応OS：Android 11以降／iOS 16.4以降
+          - text: ・GPS：接続するスマートフォンを利用
+    - heading "④ Amazfit Bip 6" [level=2]
+    - figure:
+      - link "Amazfit Bip 6 スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 ストレス 健康管理 140+スポーツモード ナビゲーション ルートインポート 14日間バッテリー持続 (ブラック) www.amazon.co.jp 15,800円 (2026年10月10日 13:22時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0F1XCKZYW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Amazfit Bip 6 スマートウォッチ 2000nit高輝度 GPS内蔵 オフラインマップ AIによる音声操作と睡眠/運動管理 心拍 睡眠 ストレス 健康管理 140+スポーツモード ナビゲーション ルートインポート 14日間バッテリー持続 (ブラック)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 15,800円
+        - text: (2026年10月10日 13:22時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0F1XCKZYW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 日々の活動に加え、屋外のウォーキングや移動ルートを時計側で記録したい人向けです。GPSを内蔵し、地図のダウンロードやルートの取り込みも比較のポイント。スマートフォン側のZeppアプリと組み合わせて、記録した内容を振り返る使い方に向くモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・画面：AMOLED
+          - text: ・GPS：内蔵・5衛星測位
+          - text: ・アプリ：Zepp
+          - text: ・対応OS：Android 7以降／iOS 14以降
+          - text: ・バッテリー：最大14日（メーカーの標準使用条件）
+    - heading "⑤ Garmin vívoactive 5 Ivory／Cream Gold" [level=2]
+    - figure:
+      - link "GARMIN(ガーミン) vivoactive 5 Ivory/Cream Gold フィットネスGPSウォッチ 睡眠管理/フィットネス年齢/お昼寝検出/Suica対応/心拍センサー/ストレスレベル測定/iOS・アンドロイド対応 / 11日間のバッテリー持続時間 / スマートウォッチ【日本正規品】 www.amazon.co.jp 27,018円 (2026年10月10日 13:22時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CJFRY955?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: GARMIN(ガーミン) vivoactive 5 Ivory/Cream Gold フィットネスGPSウォッチ 睡眠管理/フィットネス年齢/お昼寝検出/Suica対応/心拍センサー/ストレスレベル測定/iOS・アンドロイド対応 / 11日間のバッテリー持続時間 / スマートウォッチ【日本正規品】
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 27,018円
+        - text: (2026年10月10日 13:22時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CJFRY955?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 日々の活動を記録しながら、通勤や買い物にも時計を使いたい人向けです。国内モデルはSuicaに対応し、GPSも内蔵する構成。記録はGarmin Connectで振り返れるため、購入前にスマートフォンの対応環境と、決済機能の設定条件を確認したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・国内商品番号：010-02862-41
+          - text: ・画面：1.2インチAMOLED
+          - text: ・GPS：内蔵
+          - text: ・アプリ：Garmin Connect
+          - text: ・決済：Suica対応（国内モデル）
+    - heading "⑥ Garmin vívosmart 5 Black S/M" [level=2]
+    - figure:
+      - link "GARMIN(ガーミン) vívosmart 5 Black S/M バンド型スマートウォッチ 【日本正規品】 www.amazon.co.jp 17,555円 (2026年10月10日 13:22時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B09XGYX7JF?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: GARMIN(ガーミン) vívosmart 5 Black S/M バンド型スマートウォッチ 【日本正規品】
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 17,555円
+        - text: (2026年10月10日 13:22時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B09XGYX7JF?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 小さなバンドで歩数や睡眠の記録を見たい人向けです。タッチ画面とボタンを備え、Garmin Connectで日々のデータを振り返る構成。屋外のルート記録はスマートフォンのGPSへ接続して使うため、スマホを持たずに測位したい用途とは分けて選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・選択サイズ：S/M
+          - text: ・本体サイズ：19.5×10.7×217mm
+          - text: ・重量：24.5g（S/M）
+          - text: ・GPS：スマートフォンを利用
+          - text: ・アプリ：Garmin Connect
+    - heading "⑦ HUAWEI Band 10 Aluminum Edition" [level=2]
+    - figure:
+      - link "HUAWEI Band 10 Aluminum Edition アルミニウムケース スマートウォッチ 快適な付け心地 情緒モニタリング 24時間睡眠管理 14日間持続バッテリー 急速充電 LINE通知 睡眠時呼吸乱れ検知 薄型軽量 カスタマイズ可能な情報表示 フルオロエラストマーベルト iOS/Android対応 ブラック www.amazon.co.jp 7,556円 (2026年10月10日 13:22時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DZHFRKQD?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: HUAWEI Band 10 Aluminum Edition アルミニウムケース スマートウォッチ 快適な付け心地 情緒モニタリング 24時間睡眠管理 14日間持続バッテリー 急速充電 LINE通知 睡眠時呼吸乱れ検知 薄型軽量 カスタマイズ可能な情報表示 フルオロエラストマーベルト iOS/Android対応 ブラック
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 7,556円
+        - text: (2026年10月10日 13:22時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DZHFRKQD?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 軽いバンド型を選び、日々の活動や睡眠の記録を手元で見たい人向けです。アルミニウム合金ケースの版と、別の素材の版があるため、購入時は版名を確認したい構成。データはHUAWEI Healthで振り返り、スマートフォンの対応条件も合わせて選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・画面：1.47インチAMOLED
+          - text: ・ケース：アルミニウム合金
+          - text: ・重量：約15g（ベルト除く）
+          - text: ・アプリ：HUAWEI Health
+          - text: ・対応OS：Android 9以降／iOS 13以降
+    - heading "⑧ Amazfit T-Rex 3 48mm" [level=2]
+    - figure:
+      - link "Amazfit T-Rex 3 48mm スマートウォッチ 登山 ヤマレコ ヤマップ アウトドア iPhone Android対応 GPS 6衛星 ミリタリー 超低温動作 3種類オフラインマップ ナビゲーション ルートインポート 170＋スポーツモード 健康管理 気圧高度計 筋力トレーニング 10ATM防水 AIによる音声操作と睡眠/運動管理 水泳 サーフィン (オニキス) www.amazon.co.jp 39,900円 (2026年10月10日 13:22時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DGQ9S3GQ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Amazfit T-Rex 3 48mm スマートウォッチ 登山 ヤマレコ ヤマップ アウトドア iPhone Android対応 GPS 6衛星 ミリタリー 超低温動作 3種類オフラインマップ ナビゲーション ルートインポート 170＋スポーツモード 健康管理 気圧高度計 筋力トレーニング 10ATM防水 AIによる音声操作と睡眠/運動管理 水泳 サーフィン (オニキス)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 39,900円
+        - text: (2026年10月10日 13:22時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DGQ9S3GQ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 日々の活動だけでなく、屋外の移動やルートも時計で記録したい人向けです。GPSとオフラインマップを備え、取り込んだルートを画面で確認できる構成。記録データはZeppで振り返り、街歩きとアウトドアの両方で使う道具として比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・選択サイズ：48mm
+          - text: ・画面：1.5インチAMOLED
+          - text: ・GPS：内蔵・デュアルバンド／6衛星測位
+          - text: ・アプリ：Zepp
+          - text: ・対応OS：Android 7以降／iOS 14以降
+    - heading "最後に" [level=2]
+    - paragraph: 手元の記録は、日々の動きを振り返る目安として使いたいところです。診断や治療の代わりにせず、アプリの対応OSとGPSの使い方、充電や装着の習慣を比較し、ご自身の生活に合う一台を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 家事も健康も自動化。スマートホーム＆ライフ改善ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 暮らしを自動化＆快適に。スマートホーム＆ライフ改善ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://www.amazon.co.jp/shop/zanetti/list/3PE57JTNNDNGZ?linkCode=spc&tag=daily-gadget-22&domainId=influencer&asc_contentid=amzn1.ideas.3PE57JTNNDNGZ
+        - strong: 毎日ガジェット通信's Amazon Page - 暮らしを自動化＆快適に。スマートホーム＆ライフ改善ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://www.amazon.co.jp/shop/zanetti/list/3PE57JTNNDNGZ?linkCode=spc&tag=daily-gadget-22&domainId=influencer&asc_contentid=amzn1.ideas.3PE57JTNNDNGZ
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 日々の動きを手元で見る。「スマートウォッチ」8選｜毎日ガジェット通信｜note

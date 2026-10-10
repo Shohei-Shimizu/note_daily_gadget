@@ -1,0 +1,283 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月8日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322741087/rectangle_large_type_2_2dba23265698019d959ed8fc302bee6d.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "部屋の変化をスマホで確認。「温湿度計」7選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月8日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 部屋の温湿度は、今の数値だけでなく時間による変化も気になるものです。スマホ連携で測定値や記録を確認できる温湿度計を7個調べてまとめました。
+    - paragraph:
+      - text: 今回の7個は
+      - strong: 「スマホへの接続方式」、「記録と通知」、「ハブの必要性」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① SwitchBot 温湿度計プラス":
+          - /url: "#ce74dcbb-e233-4063-94ec-d519267ea7a1"
+        - link "② Govee Bluetooth 温湿度計":
+          - /url: "#038ddbc2-17e5-48e6-8629-125144806925"
+        - link "③ SwitchBot 温湿度計 Pro":
+          - /url: "#6ea4d7c6-0352-486d-b90e-e324145a34d9"
+        - link "④ TP-Link Tapo T315":
+          - /url: "#98d12cb5-1588-4ee9-922b-f25dcc8ef3ac"
+        - link "⑤ TP-Link Tapo T310":
+          - /url: "#ba9809a9-c279-44ab-b169-da6431fd05a4"
+        - link "⑥ TempPro Bluetooth 温湿度計":
+          - /url: "#00e71b6e-d691-44ae-a3d3-66b23a7c3a22"
+        - link "⑦ INKBIRD IBS-TH1 Plus":
+          - /url: "#40e56877-827b-410e-a0f5-4de80c967a48"
+        - link "最後に":
+          - /url: "#bcf743a3-0e8f-44de-8fee-913724627b4c"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#06320d45-2a83-42e2-95cd-dd6d6d168a8f"
+        - link "あわせて読みたい":
+          - /url: "#04ade06c-d341-4a09-9c38-9382c4093838"
+    - heading "① SwitchBot 温湿度計プラス" [level=2]
+    - figure:
+      - link "SwitchBot 温湿度計プラス Alexa 温度計 湿度計 - スイッチボット スマホで温度湿度管理 デジタル 高精度 コンパクト 大画面 温度 湿度 アラーム 顔マーク グラフ記録 スマートホーム 梅雨 Alexa Google Home IFTTT イフト Siriに対応(ハブ必要) www.amazon.co.jp 2,980円 (2026年10月10日 11:57時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B09PYKJ6CS?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: SwitchBot 温湿度計プラス Alexa 温度計 湿度計 - スイッチボット スマホで温度湿度管理 デジタル 高精度 コンパクト 大画面 温度 湿度 アラーム 顔マーク グラフ記録 スマートホーム 梅雨 Alexa Google Home IFTTT イフト Siriに対応(ハブ必要)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,980円
+        - text: (2026年10月10日 11:57時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B09PYKJ6CS?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 本体の画面とスマホの両方で、部屋の状態を確認したい人向けの候補です。単体ではBluetoothの通信範囲内でアプリへつながり、設定した温湿度の範囲を超えたときの通知にも対応します。外出先から確認したい場合は、SwitchBotハブ製品との併用が必要です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・スマホ接続：Bluetooth Low Energy
+          - text: ・アプリ：SwitchBot
+          - text: ・外出先確認：SwitchBotハブ製品併用時
+          - text: ・本体表示：温度・湿度・快適度
+    - heading "② Govee Bluetooth 温湿度計" [level=2]
+    - figure:
+      - link "Govee 温湿度計 Bluetooth デジタル スマホ管理 高精度 大画面 コンパクト www.amazon.co.jp 1,599円 (2026年10月10日 11:57時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B083348J3X?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Govee 温湿度計 Bluetooth デジタル スマホ管理 高精度 大画面 コンパクト
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,599円
+        - text: (2026年10月10日 11:57時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B083348J3X?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 家の中でスマホから温湿度を確認できれば十分、という人向けに選びました。Govee Homeアプリで履歴を振り返り、設定範囲を外れた際の通知を受け取る構成です。Bluetoothの届く範囲で使う機器なので、外出先からのインターネット経由の確認とは分けて考えたい一台。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・スマホ接続：Bluetooth
+          - text: ・アプリ：Govee Home
+          - text: ・表示：温度・湿度・快適度
+          - text: ・記録：履歴グラフ・データエクスポート
+    - heading "③ SwitchBot 温湿度計 Pro" [level=2]
+    - figure:
+      - link "【夏の熱中症対策】SwitchBot 温湿度計 プロ スマホで管理 アレクサ - スイッチボット 温度計 湿度計 快適指数 大画面 デジタル 天気予報 時計 カレンダー アラート通知 高精度 コンパクト グラフ記録 スマートホーム Alexa Google Home Siriに対応 www.amazon.co.jp 3,980円 (2026年10月10日 11:57時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DBLDKVDW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 【夏の熱中症対策】SwitchBot 温湿度計 プロ スマホで管理 アレクサ - スイッチボット 温度計 湿度計 快適指数 大画面 デジタル 天気予報 時計 カレンダー アラート通知 高精度 コンパクト グラフ記録 スマートホーム Alexa Google Home Siriに対応
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,980円
+        - text: (2026年10月10日 11:57時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DBLDKVDW?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: スマホでの記録に加えて、時計や日付も本体で見たい人向けの候補です。温湿度を大きな画面で確認でき、単体のアプリ接続はBluetoothの通信範囲内で使う方式。天気予報表示や外出先からの確認にはハブ製品が必要なので、追加する機器も含めて選んでみてください。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・スマホ接続：Bluetooth Low Energy
+          - text: ・アプリ：SwitchBot
+          - text: ・本体表示：温湿度・快適指数・日時
+          - text: ・外出先確認・天気予報表示：SwitchBotハブ製品が必要
+    - heading "④ TP-Link Tapo T315" [level=2]
+    - figure:
+      - link "TP-Link Tapo スマートホーム コンパクト 電子ペーパー 大型画面 温湿度計 温度計 スイス 高精度 温度 湿度 アラーム スマート温湿度計 Tapo T315 www.amazon.co.jp 4,200円 (2026年10月10日 11:58時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0BWCL335L?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: TP-Link Tapo スマートホーム コンパクト 電子ペーパー 大型画面 温湿度計 温度計 スイス 高精度 温度 湿度 アラーム スマート温湿度計 Tapo T315
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,200円
+        - text: (2026年10月10日 11:58時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BWCL335L?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 部屋では画面を見て、外出先ではスマホから確認したい人向けに候補へ入れました。本体だけでも温湿度を表示できますが、アプリでの遠隔確認やデータ保存にはTapoスマートハブが必要です。すでにTapoの機器を使っている場合は、温湿度を条件にした連携も検討しやすい構成。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・アプリ：Tapo
+          - text: ・スマホ連携：Tapoスマートハブが必要
+          - text: ・本体画面：2.7インチ電子ペーパー
+          - text: ・機能：アラート・データ保存（ハブ併用時）
+    - heading "⑤ TP-Link Tapo T310" [level=2]
+    - figure:
+      - link "TP-Link Wi-Fi Tapo スマートホーム コンパクト 温湿度計 スイス高精度 アラーム Tapoスマートハブ必須 Sub-1GHz T310 www.amazon.co.jp 1,870円 (2026年10月10日 11:58時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0BLRQ5HTT?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: TP-Link Wi-Fi Tapo スマートホーム コンパクト 温湿度計 スイス高精度 アラーム Tapoスマートハブ必須 Sub-1GHz T310
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,870円
+        - text: (2026年10月10日 11:58時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BLRQ5HTT?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 本体の表示より、アプリで部屋の状態を確認する使い方を重視する人向けです。Tapoスマートハブとつないで測定値を確認し、温湿度が設定範囲を外れた際の通知にも対応します。Tapoプラグなどと組み合わせて家電を自動操作したい場合も、ハブを含めた構成を考える必要があります。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・アプリ：Tapo
+          - text: ・接続：Tapoスマートハブ必須
+          - text: ・通信：Sub-1GHz（ハブとの接続）
+          - text: ・機能：アラート・温湿度データ保存
+    - heading "⑥ TempPro Bluetooth 温湿度計" [level=2]
+    - figure:
+      - link "TempPro デジタル温湿度計 Bluetooth スマホ連動 ワイヤレス 室内 温度計 湿度計 小型 高精度 見やすい 大画面 顔マーク www.amazon.co.jp 1,773円 (2026年10月10日 11:58時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DB18WL6Z?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: TempPro デジタル温湿度計 Bluetooth スマホ連動 ワイヤレス 室内 温度計 湿度計 小型 高精度 見やすい 大画面 顔マーク
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 1,773円
+        - text: (2026年10月10日 11:58時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DB18WL6Z?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 部屋ごとの温湿度をスマホでまとめて見たい人向けに調べた候補です。Bluetooth接続で通知や履歴の確認を使う構成で、本体の顔マークでも室内の状態を確認できます。スマホが通信範囲を離れた場合まで確認できるわけではないため、家の中での記録管理を中心に考えたいモデル。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・スマホ接続：Bluetooth
+          - text: ・表示：温度・湿度・快適度の顔マーク
+          - text: ・アプリ機能：通知・履歴グラフ・CSV出力
+    - heading "⑦ INKBIRD IBS-TH1 Plus" [level=2]
+    - figure:
+      - link "Inkbird 温湿度計 Bluetooth対応 データロガー デジタル 温度計 湿度計 スマホで温度湿度管理 グラフ記録 プローブ付き マグネット付き °Cと°Fの切り替え 温度管理 (IBS-TH1 PLUS) www.amazon.co.jp 4,399円 (2026年10月10日 11:58時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07DVJ1P6J?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Inkbird 温湿度計 Bluetooth対応 データロガー デジタル 温度計 湿度計 スマホで温度湿度管理 グラフ記録 プローブ付き マグネット付き °Cと°Fの切り替え 温度管理 (IBS-TH1 PLUS)
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,399円
+        - text: (2026年10月10日 11:58時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07DVJ1P6J?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 決まった場所の変化を記録し、あとから振り返りたい人向けの候補です。EngbirdアプリとBluetoothでつなぎ、現在のデータや履歴を確認する構成。外部温度プローブにも対応しますが、プローブで湿度まで測れるわけではないため、測りたい対象に合わせて使い分けたい一台。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・スマホ接続：Bluetooth
+          - text: ・アプリ：Engbird（iOS・Android）
+          - text: ・記録：履歴確認・記録間隔設定
+          - text: ・外部プローブ：温度測定用
+    - heading "最後に" [level=2]
+    - paragraph: スマホ連携には、Bluetoothの届く範囲で使う方式と、ハブを介して外出先から確認する方式があります。家の中で履歴を見たいのか、外出先からも確認したいのかを決め、必要なハブも含めて選んでみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 家事も健康も自動化。スマートホーム＆ライフ改善ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 暮らしを自動化＆快適に。スマートホーム＆ライフ改善ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://www.amazon.co.jp/shop/zanetti/list/3PE57JTNNDNGZ?linkCode=spc&tag=daily-gadget-22&domainId=influencer&asc_contentid=amzn1.ideas.3PE57JTNNDNGZ
+        - strong: 毎日ガジェット通信's Amazon Page - 暮らしを自動化＆快適に。スマートホーム＆ライフ改善ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://www.amazon.co.jp/shop/zanetti/list/3PE57JTNNDNGZ?linkCode=spc&tag=daily-gadget-22&domainId=influencer&asc_contentid=amzn1.ideas.3PE57JTNNDNGZ
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 部屋の変化をスマホで確認。「温湿度計」7選｜毎日ガジェット通信｜note

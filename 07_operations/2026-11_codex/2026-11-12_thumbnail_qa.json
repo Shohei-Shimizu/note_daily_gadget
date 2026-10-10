@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-12",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "reuse_byte_identical_copy",
+  "source_path": "04_thumbnail/2026-06/2026-06-22_multipoint_earbuds.png",
+  "output_path": "04_thumbnail/2026-11/2026-11-12_earphone.png",
+  "source_output_identical": true,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "c36ebf1170e71cd15767b50a86f3c343bf615bed0f9c46fc78aa60383ae10545",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-12_会議も音楽も持ち歩く。「ワイヤレスイヤホン」10選.md",
+    "06_research/2026-11/2026-11-12_会議も音楽も持ち歩く。「ワイヤレスイヤホン」10選.md",
+    "07_operations/2026-11_codex/2026-11-12_sources.json"
+  ],
+  "five_point_audit": {
+    "article_format": "ワイヤレスイヤホン10商品比較、アカウント代表1製品セット",
+    "count": "左右2耳が対応するケース内へ収まる1製品セット。ケース＋耳を別商品比較として陳列しない",
+    "material": "黒樹脂ケース/イヤホン、黒イヤーチップ。SONY/TOZO等採用インイヤー群の素材と一致",
+    "structure": "短い豆型カナルイヤホン左右をケースへ一体収納。採用品のインイヤー分類を代表、開放イヤーカフUU2/Boseの形とは扱わない",
+    "use_case": "仕事机で通話/音楽に使い、セットで持ち歩く。ANC/マルチポイント/全品同機能を外観で主張しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "one_coherent_product_set": true,
+    "no_readable_text_logo_watermark": true,
+    "no_people_hands": true,
+    "natural_support_case_slots": true,
+    "central_safe_band": true,
+    "thumbnail_subject_clear": true,
+    "notes": "最終10品本文にヘッドバンド式ヘッドホンは無し。インイヤー8品・開放型2品を混ぜず、代表インイヤー1組のみ。ケース内左右2点は1製品セット。ANC/ENCの音響効果や波形を追加しない。"
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "new_design": false
+}

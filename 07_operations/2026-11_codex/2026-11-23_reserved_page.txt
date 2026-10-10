@@ -1,0 +1,239 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月23日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322763524/rectangle_large_type_2_c98c03d6936b520d202512280cbe4120.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "小さなカードに保存先を増やす。「microSDカード」5選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月23日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: カメラや携帯端末に、小さなカードで保存先を増やすmicroSDカード。一般的なUHS-IとmicroSD Expressを区別し、容量や使う機器を比べられる5個を調べてまとめました。
+    - paragraph:
+      - text: 今回の5個は
+      - strong: 「容量とカード規格」、「速度の利用条件」、「対応機器との組み合わせ」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① SanDisk Extreme PRO microSDXC 512GB":
+          - /url: "#244401c4-3967-4931-8dac-efa26f33de29"
+        - link "② Kingston Canvas Go! Plus Gen4 256GB":
+          - /url: "#3ddcda68-4446-4e4a-98a0-f24b0cb695d9"
+        - link "③ Transcend USD300S 256GB":
+          - /url: "#fb0d6b82-7c26-4c81-aaeb-53ebbc77ee82"
+        - link "④ Samsung PRO Plus Sonic Edition 512GB":
+          - /url: "#f32fe5c2-bfe6-4d48-a41f-174816eed99f"
+        - link "⑤ Lexar PLAY PRO microSDXC Express 512GB":
+          - /url: "#a4ba6847-508f-4794-bd27-e32b06ac20ae"
+        - link "最後に":
+          - /url: "#00e7862a-81b9-490f-adcc-7aae9056963d"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#f810c7ac-1ef2-4423-9336-c0799b90eace"
+        - link "あわせて読みたい":
+          - /url: "#c2a0ae3d-ccfb-4833-a1e5-70ae53ad78f4"
+    - heading "① SanDisk Extreme PRO microSDXC 512GB" [level=2]
+    - figure:
+      - link "マイクロSD 512GB サンディスク Extreme PRO microSDXC A2 SDSQXCZ-512G 海外パッケージ品 www.amazon.co.jp 20,780円 (2026年10月10日 13:19時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07RKL4L7Q?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: マイクロSD 512GB サンディスク Extreme PRO microSDXC A2 SDSQXCZ-512G 海外パッケージ品
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 20,780円
+        - text: (2026年10月10日 13:19時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07RKL4L7Q?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 対応するカメラや携帯端末の保存容量を増やし、写真や動画を持ち運びたい人向けです。同じシリーズ名でも型番や世代で性能が異なるため、購入時はパッケージと使う機器の対応容量を確認したいモデル。海外パッケージ品なので、販売店の購入条件も合わせて比較する候補です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・容量：512GB
+          - text: ・型番：SDSQXCZ-512G
+          - text: ・カード形状：microSDXC
+          - text: ・接続規格：UHS-I
+          - text: ・パッケージ：海外版
+    - heading "② Kingston Canvas Go! Plus Gen4 256GB" [level=2]
+    - figure:
+      - link "Kingston キングストン 256GB microSDXC Canvas Go Plus Gen4 200MB/秒 A2 U3 V30 アダプタ付き SDCG4/256GB www.amazon.co.jp 13,200円 (2026年10月10日 13:19時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0F29YZWSM?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Kingston キングストン 256GB microSDXC Canvas Go Plus Gen4 200MB/秒 A2 U3 V30 アダプタ付き SDCG4/256GB
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 13,200円
+        - text: (2026年10月10日 13:19時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0F29YZWSM?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: アクションカメラなどの撮影データを保存し、PCへ取り込む使い方に合わせたい人向けです。動画向けの速度クラスとアプリ向けのクラスを備えた構成。最大転送速度には専用リーダーの条件があるため、カードだけでなく取り込み側の機器も確認して選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・容量：256GB
+          - text: ・型番：SDCG4/256GB
+          - text: ・規格：UHS-I／U3／V30／A2
+          - text: ・最大読込・書込：200・160MB/s（メーカー試験条件）
+          - text: ・最大性能の条件：MobileLite Plus Reader使用
+    - heading "③ Transcend USD300S 256GB" [level=2]
+    - figure:
+      - link "Transcend マイクロSDカード 256GB UHS-I U3対応 Class10 Nintendo Switch 動作確認済 TS256GUSD300S-A www.amazon.co.jp 13,658円 (2026年10月10日 13:19時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07N31KRZL?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Transcend マイクロSDカード 256GB UHS-I U3対応 Class10 Nintendo Switch 動作確認済 TS256GUSD300S-A
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 13,658円
+        - text: (2026年10月10日 13:19時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07N31KRZL?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 対応する携帯ゲーム機やカメラに、写真や動画の保存先を追加したい人向けです。一般的なmicroSDXC機器で使うUHS-Iの構成で、Express対応機とは規格が異なります。長時間の上書きを繰り返す用途では高耐久カードも比較し、機器が求める規格に合わせて選びたいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・容量：256GB
+          - text: ・型番：TS256GUSD300S-A
+          - text: ・規格：microSDXC／UHS-I
+          - text: ・速度クラス：Class 10／U3／V30
+          - text: ・用途確認：対応機器の容量・規格を確認
+    - heading "④ Samsung PRO Plus Sonic Edition 512GB" [level=2]
+    - figure:
+      - link "Samsung PRO Plus Sonic The Hedgehog 512GB microSDXC+アダプター、最大180MB/秒。 www.amazon.co.jp 28,029円 (2026年10月10日 13:20時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0DQX529CV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Samsung PRO Plus Sonic The Hedgehog 512GB microSDXC+アダプター、最大180MB/秒。
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 28,029円
+        - text: (2026年10月10日 13:20時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0DQX529CV?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: カードの見た目も好みに合わせながら、対応端末の保存容量を増やしたい人向けです。ソニックシリーズのデザインとSD変換アダプターを備えた構成。最大速度は特定のSamsungリーダーを使う条件なので、ゲーム機やカメラで同じ速度が出るとは考えず比較したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・容量：512GB
+          - text: ・型番：MB-MD512SA/LC1
+          - text: ・規格：UHS-I／U3／V30／A2
+          - text: ・最大読込・書込：180・130MB/s（メーカー試験条件）
+          - text: ・付属品：SD変換アダプター
+    - heading "⑤ Lexar PLAY PRO microSDXC Express 512GB" [level=2]
+    - figure:
+      - link "Lexar PLAY PRO microSDXC Expressカード 512GB 最大読込900MB/s 最大書込600MB/s Nintendo Switch 4K動画 ドローン対応 防水 耐衝撃 国内正規品 www.amazon.co.jp 17,677円 (2026年10月10日 13:20時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0F9P5J764?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Lexar PLAY PRO microSDXC Expressカード 512GB 最大読込900MB/s 最大書込600MB/s Nintendo Switch 4K動画 ドローン対応 防水 耐衝撃 国内正規品
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 17,677円
+        - text: (2026年10月10日 13:20時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0F9P5J764?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: Nintendo Switch 2など、microSD Expressを必要とする機器の保存容量を増やしたい人向けです。従来のUHS機器にも後方互換がありますが、その場合はUHS-Iの速度で動作する構成。高速な取り込みを期待するなら、PC側のリーダーもExpressに対応しているか確認したいモデルです。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・容量：512GB
+          - text: ・カード規格：microSDXC Express
+          - text: ・インターフェース：PCIe／NVMe
+          - text: ・高速転送の条件：microSD Express対応機器
+          - text: ・後方互換：UHS機器ではUHS-I速度
+    - heading "最後に" [level=2]
+    - paragraph: microSDカードは、機器が対応する容量と規格を先に確認して選びたい道具です。Nintendo Switch 2の保存容量を増やす場合はmicroSD Expressが必要なので、従来のSwitch用カードと区別し、撮影やデータ保存に合う一枚を見つけてみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ カフェも車内も。外出先で仕事を進めるモバイルガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4cPpADI
+        - strong: 毎日ガジェット通信's Amazon Page - カフェも車内も。外出先で仕事を進めるモバイルガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4cPpADI
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 小さなカードに保存先を増やす。「microSDカード」5選｜毎日ガジェット通信｜note

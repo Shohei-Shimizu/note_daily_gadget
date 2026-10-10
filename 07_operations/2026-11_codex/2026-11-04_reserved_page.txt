@@ -1,0 +1,313 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月4日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322726341/rectangle_large_type_2_6388be60cda7d4a3dd7e1038661b1fac.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "会議と集中を切り替える。「ノイキャンヘッドホン」8選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月4日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: 会議の前後にヘッドホンを持ち替える手間を減らしたいときは、通話と音楽を同じ一台にまとめる方法があります。ノイズキャンセリング機能を備えるヘッドホンを8個調べてまとめました。
+    - paragraph:
+      - text: 今回の8個は
+      - strong: 「通話機能」、「周囲の音との切り替え」、「接続と持ち運び」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① Anker Soundcore Life Q30（第2世代）":
+          - /url: "#8d72270f-32a9-4a90-84dd-43cc48de9b14"
+        - link "② UGREEN HiTune Max5c":
+          - /url: "#90422b3a-dab7-4dd0-813c-d01c2738e089"
+        - link "③ ソニー WH-1000XM5":
+          - /url: "#64dad92d-5910-4950-b998-46d235112978"
+        - link "④ ソニー WH-CH720N":
+          - /url: "#6580066c-c8b4-45f7-9008-e6ad254b815a"
+        - link "⑤ ゼンハイザー ACCENTUM Plus Wireless":
+          - /url: "#4acee5f9-6bcc-4adb-9851-53b5fb874219"
+        - link "⑥ HAYLOU S30 Pro":
+          - /url: "#6380e3c3-026e-4c1f-8dc1-29c5edc5a930"
+        - link "⑦ Bose QuietComfort Ultra Headphones（第2世代）":
+          - /url: "#f60d7725-bde3-4520-953f-3dfc9f6fa6fe"
+        - link "⑧ Anker Soundcore Space One Pro":
+          - /url: "#b6de01d0-1554-4e4d-aff3-c0627a731145"
+        - link "最後に":
+          - /url: "#4a77f5a3-5b45-41b6-a2bd-37571cc755ef"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#6ea41d1b-e94d-4819-82db-c213dcdc4f25"
+      - button "すべて表示":
+        - generic: すべて表示
+    - heading "① Anker Soundcore Life Q30（第2世代）" [level=2]
+    - figure:
+      - link "Anker Soundcore Life Q30 ブラック www.amazon.co.jp 5,580円 (2026年10月10日 11:07時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08HYX5NS9?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker Soundcore Life Q30 ブラック
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 5,580円
+        - text: (2026年10月10日 11:07時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08HYX5NS9?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 作業場所に合わせてノイズキャンセリングのモードを選びたい人向けの候補です。アプリで交通機関・屋外・屋内のモードを切り替えられ、外音取り込みにも対応します。内蔵マイクによる通話はBluetooth接続時のみなので、ケーブル接続で会議に使う予定なら注意したい一台。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・Bluetooth：5.3
+          - text: ・音楽再生：最大50時間（ANC時）・最大70時間（通常）
+          - text: ・充電端子：USB-C
+          - text: ・通話：内蔵マイク（Bluetooth接続時のみ）
+          - text: ・重量：約260g
+    - heading "② UGREEN HiTune Max5c" [level=2]
+    - figure:
+      - link "UGREEN HiTune Max5c Bluetooth5.4 オーバーイヤーヘッドホン 最大75時間再生 LDACハイレゾ ノイキャン ブルー www.amazon.co.jp 4,990円 (2026年10月10日 11:07時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0GXYWTMPN?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN HiTune Max5c Bluetooth5.4 オーバーイヤーヘッドホン 最大75時間再生 LDACハイレゾ ノイキャン ブルー
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,990円
+        - text: (2026年10月10日 11:07時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0GXYWTMPN?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 充電の頻度と端末の切り替えを重視して調べたモデルです。複数の端末への接続に対応し、通話ではマイクとAIによるノイズ低減を使う構成。アプリで音質やANCを調整できるため、作業中の音楽と音声通話を同じヘッドホンにまとめたい場合の候補になります。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・Bluetooth：5.4
+          - text: ・音楽再生：最大75時間（ANCオフ）・最大45時間（ANCオン）
+          - text: ・対応コーデック：LDAC
+          - text: ・通話：デュアルマイク・DNN AIノイズ低減
+          - text: ・充電端子：USB-C
+    - heading "③ ソニー WH-1000XM5" [level=2]
+    - figure:
+      - link "ソニー(SONY) ワイヤレスノイズキャンセリングステレオヘッドホン WH-1000XM5:【VGP殿堂入り】 / ノイキャン性能向上 / Amazon Alexa搭載 / 通話性能向上 / ソフトフィットレザーによる高い遮音性 / ブラック / WH1000XM5 BM www.amazon.co.jp 38,879円 (2026年10月10日 11:07時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B09Z2QYYD1?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ソニー(SONY) ワイヤレスノイズキャンセリングステレオヘッドホン WH-1000XM5:【VGP殿堂入り】 / ノイキャン性能向上 / Amazon Alexa搭載 / 通話性能向上 / ソフトフィットレザーによる高い遮音性 / ブラック / WH1000XM5 BM
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 38,879円
+        - text: (2026年10月10日 11:07時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B09Z2QYYD1?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 周囲の音を抑える機能だけでなく、相手へ声を届ける仕組みも重視して候補に入れました。ボイスピックアップ機能はマイクの指向性とAIを活用する設計です。マルチポイント接続にも対応し、音楽を聴く端末と会議用の端末を切り替える使い方を考えやすいモデル。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・Bluetooth：5.2
+          - text: ・音楽再生：最大30時間（NCオン）・最大40時間（NCオフ）
+          - text: ・連続通話：最大24時間（NCオン）・最大32時間（NCオフ）
+          - text: ・接続：マルチポイント
+          - text: ・重量：約250g
+    - heading "④ ソニー WH-CH720N" [level=2]
+    - figure:
+      - 'link "ソニー(SONY) ワイヤレスノイズキャンセリングヘッドホン WH-CH720N: ノイズキャンセリング搭載/Bluetooth対応/軽量設計/マイク搭載/外音取り込み搭載/360Reality Audio対応/ブラック WH-CH720N B www.amazon.co.jp 15,980円 (2026年10月10日 11:08時点 詳しくはこちら) Amazon.co.jpで購入する"':
+        - /url: https://www.amazon.co.jp/dp/B0BVPNJP1C?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: "ソニー(SONY) ワイヤレスノイズキャンセリングヘッドホン WH-CH720N: ノイズキャンセリング搭載/Bluetooth対応/軽量設計/マイク搭載/外音取り込み搭載/360Reality Audio対応/ブラック WH-CH720N B"
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 15,980円
+        - text: (2026年10月10日 11:08時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0BVPNJP1C?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 長時間の作業で、軽さと通話機能を両方確認したい人向けの候補です。ノイズキャンセリングに加え、高精度ボイスピックアップと外音取り込みを搭載します。マルチポイントで会議用PCとスマホをつなぐ使い方にも対応するため、机の上で端末を使い分ける場合に検討したいモデル。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・Bluetooth：5.2
+          - text: ・音楽再生：最大35時間（NCオン）・最大50時間（NCオフ）
+          - text: ・連続通話：最大35時間（NCオン）・最大40時間（NCオフ）
+          - text: ・接続：2台同時マルチポイント
+          - text: ・機能：ノイズキャンセリング・外音取り込み
+    - heading "⑤ ゼンハイザー ACCENTUM Plus Wireless" [level=2]
+    - figure:
+      - link "ゼンハイザー(Sennheiser) ワイヤレスヘッドホン ACCENTUM Plus Wireless ホワイト高性能ドライバー 50時間再生 ハイブリッドアダプティブノイズキャンセリング 外音取り込み マルチポイント対応 タッチコントロール クリアな通話 【国内正規品】 www.amazon.co.jp 20,999円 (2026年10月10日 11:08時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CQKFTYW5?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: ゼンハイザー(Sennheiser) ワイヤレスヘッドホン ACCENTUM Plus Wireless ホワイト高性能ドライバー 50時間再生 ハイブリッドアダプティブノイズキャンセリング 外音取り込み マルチポイント対応 タッチコントロール クリアな通話 【国内正規品】
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 20,999円
+        - text: (2026年10月10日 11:08時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CQKFTYW5?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 音楽と通話の操作をイヤーカップのタッチ操作にまとめたい人向けに選びました。周囲に合わせて調整するANCと、外音を取り込むモードを搭載した構成です。通話マイクにはビームフォーミングを用い、装着を外した際の音楽の自動一時停止にも対応します。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・Bluetooth：5.2
+          - text: ・音楽再生：最大50時間（Bluetooth・ANC、iPhone中音量での試験）
+          - text: ・通話マイク：2マイク・ビームフォーミング
+          - text: ・機能：アダプティブ・ハイブリッドANC
+          - text: ・重量：約227g
+    - heading "⑥ HAYLOU S30 Pro" [level=2]
+    - figure:
+      - link "HAYLOU S30 Pro ワイヤレスヘッドホン ANC 43dB Bluetooth5.4 低遅延 80時間再生 www.amazon.co.jp Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CWNQP4RG?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: HAYLOU S30 Pro ワイヤレスヘッドホン ANC 43dB Bluetooth5.4 低遅延 80時間再生
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CWNQP4RG?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 作業の合間に周囲の声を聞く場面が多いなら、会話モードを確認したい候補です。イヤーパッドをタッチしている間、音楽の音量を下げて外音を取り込む仕組み。折りたたんで持ち運べるため、場所を変えて作業する人にも検討しやすい構成です。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・Bluetooth：5.4
+          - text: ・音楽再生：約80時間（ANCオフ）・約50時間（ANCオン）
+          - text: ・充電端子：USB-C
+          - text: ・機能：ANC・会話モード
+          - text: ・収納：折りたたみ式
+    - heading "⑦ Bose QuietComfort Ultra Headphones（第2世代）" [level=2]
+    - figure:
+      - link "Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 ブラック www.amazon.co.jp 49,950円 (2026年10月10日 11:08時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0FL2HYBGJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Bose QuietComfort Ultra Headphones（第2世代） 空間オーディオ 完全 ワイヤレス オーバーイヤー型 ヘッドホン ノイズキャンセリング Bluetooth接続 マイク搭載 最大30時間再生 急速充電 ブラック
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 49,950円
+        - text: (2026年10月10日 11:08時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0FL2HYBGJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 周囲の音を抑える時間と、外の音を聞く時間をモードで切り替えたい人向けの候補です。内蔵マイクを備え、本体のボタンで着信への応答やモード変更を操作できます。第2世代はUSB-Cオーディオにも対応しますが、会議で使う場合は接続方法ごとのマイク利用条件を確認しておきたい一台。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・Bluetooth：5.4
+          - text: ・マイク：内蔵
+          - text: ・機能：ノイズキャンセリング・アウェアモード
+          - text: ・接続：Bluetooth・USB-Cオーディオ
+          - text: ・重量：約260g
+    - heading "⑧ Anker Soundcore Space One Pro" [level=2]
+    - figure:
+      - link "Anker Soundcore Space One Pro ミッドナイトブラック www.amazon.co.jp 26,990円 (2026年10月10日 11:08時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D4VMVCFX?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: Anker Soundcore Space One Pro ミッドナイトブラック
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 26,990円
+        - text: (2026年10月10日 11:08時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D4VMVCFX?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 持ち運びと会議用端末への切り替えを両立したい人向けに候補へ入れました。折りたたみ構造を備え、マルチポイントでスマホとPCを接続できる設計です。通話時はマイクとAIでノイズを低減し、作業中は周囲に合わせてANCの強度を自動調整します。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・Bluetooth：5.3
+          - text: ・音楽再生：最大60時間（通常）・最大40時間（ANCオン）
+          - text: ・通話：4マイク・AIノイズ低減
+          - text: ・接続：マルチポイント
+          - text: ・重量：約287g
+    - heading "最後に" [level=2]
+    - paragraph: 周囲の音を抑えるANCと、相手に声を届ける通話マイクは別の機能です。会議用PCやアプリの対応、接続方法ごとのマイク利用条件を確認し、集中作業との切り替えに合う一台を探してみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/42HITJ4
+        - strong: 毎日ガジェット通信's Amazon Page - 録る・撮る・聴く。配信&リモート会議向け音響映像ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/42HITJ4
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 会議と集中を切り替える。「ノイキャンヘッドホン」8選｜毎日ガジェット通信｜note

@@ -18,7 +18,8 @@
     "pocketalk_start_and_after": true,
     "wooask_domestic_scope": true,
     "active_one_article_research": true,
-    "not_scheduled_or_published": true
+    "not_scheduled_or_published": true,
+    "product5_used_unit_communication_caution": true
   },
   "title_chars": 19,
   "product_count": 5,
@@ -27,7 +28,7 @@
     127,
     124,
     130,
-    126
+    151
   ],
   "related_count": 3,
   "official_gate_passed": true,
@@ -43,5 +44,18 @@
     "POCKETALK現行言語数は音声/テキスト別件数の確認を原稿で省略",
     "Wooask国内10言語と海外16言語版を分離、国内のみ採用",
     "通信無料はSIMデータ通信料のメーカー表示。Q1通話翻訳追加課金、V4一部発声有料を分離"
-  ]
+  ],
+  "product5_main_gui_model_confirmed": true,
+  "product5_new_availability_confirmed": false,
+  "product5_used_communication_remaining_period": "unconfirmed_purchase_check_required",
+  "publishing_gate": {
+    "status": "passed",
+    "evidence": [
+      "2026-11-26_saved_editor.html",
+      "2026-11-26_reserved_page.txt",
+      "2026-11-26_confirmation.txt",
+      "2026-11-26_POCKETALK_Plus_sku.txt"
+    ]
+  },
+  "saved_preview": true
 }

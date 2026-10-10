@@ -1,0 +1,266 @@
+- link "メインコンテンツへスキップ":
+  - /url: "#main-content"
+- banner:
+  - link "note":
+    - /url: /
+    - img "note"
+  - search:
+    - searchbox "キーワードやクリエイターで検索"
+    - button "検索":
+      - img "検索"
+  - navigation "自分のコンテンツや通知":
+    - link "メッセージ":
+      - /url: /messages/rooms
+      - img "メッセージ"
+    - button "通知":
+      - img "通知"
+    - button "メニュー":
+      - img "毎日ガジェット通信"
+    - link "新規投稿":
+      - /url: /notes/new
+      - generic: 投稿
+    - button "投稿メニュー":
+- main:
+  - generic: これは予約投稿中の公開前記事です。
+  - text: 公開日時：
+  - time: 2026年11月30日 20:00
+  - button "公開リンクをコピー":
+    - text: 公開リンクをコピー
+  - button "共有用リンクをコピー":
+    - text: 共有用リンクをコピー
+  - article:
+    - figure:
+      - link "見出し画像を拡大":
+        - /url: https://assets.st-note.com/production/uploads/images/322767155/rectangle_large_type_2_ddce8874689e26e49946b5df1b2fc4b0.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90
+        - img "見出し画像"
+    - heading "画面の高さと収納を見直す。「ノートPCスタンド」6選" [level=1]
+    - link:
+      - /url: https://note.com/daily_gadget
+    - link "毎日ガジェット通信":
+      - /url: https://note.com/daily_gadget
+    - time: 2026年11月30日 20:00
+    - button "その他のアクション":
+      - img "その他のアクション"
+    - paragraph: ノートPCの画面を見やすい位置に上げるなら、使い終わったあとの収納も合わせて選びたいものです。折り畳んで片付けられるノートPCスタンドを6個調べてまとめました。
+    - paragraph:
+      - text: 今回の6個は
+      - strong: 「調整の方法」、「折り畳みと収納」、「PCを支える条件」
+      - text: の3点で選びました。
+    - navigation "目次":
+      - generic "目次":
+        - heading "目次" [level=2]
+      - list:
+        - link "① BoYata N21":
+          - /url: "#da8784ad-fe7d-4af5-8458-b01e81f05d3e"
+        - link "② UGREEN 折り畳みノートPCスタンド 40289":
+          - /url: "#9d8ecc12-b9ed-48d0-a9da-5f686f28244a"
+        - link "③ エレコム PCA-LTSH8WH":
+          - /url: "#dee991ba-3ca3-49e8-95b4-6adbda2a71f6"
+        - link "④ BoYata N31 ミニスタンド":
+          - /url: "#d5db47d8-a262-4764-a304-01536951a55a"
+        - link "⑤ SODI 314":
+          - /url: "#198d8847-6ebd-418e-9277-60b55d5b1137"
+        - link "⑥ MOFT 超薄型ノートパソコンスタンド 粘着タイプ":
+          - /url: "#147d39f7-e5da-4e56-8b03-bd41de8494ba"
+        - link "最後に":
+          - /url: "#627d5a3d-ae83-489e-90c0-bce8caf9d805"
+        - link "🛒 同じテーマの厳選アイテムをまとめてチェック":
+          - /url: "#a58caa35-539f-4d10-9f32-b803d188413a"
+        - link "あわせて読みたい":
+          - /url: "#7dc6bd3c-fc19-4ced-b6b7-481322990069"
+    - heading "① BoYata N21" [level=2]
+    - figure:
+      - link "BoYata ノートパソコンスタンド PCスタンド 無段階高さ・角度調整 人間工学設計 姿勢改善 猫背対策 アルミ合金製 17インチまで対応 www.amazon.co.jp 4,798円 (2026年10月10日 13:34時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B07H774Q42?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: BoYata ノートパソコンスタンド PCスタンド 無段階高さ・角度調整 人間工学設計 姿勢改善 猫背対策 アルミ合金製 17インチまで対応
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 4,798円
+        - text: (2026年10月10日 13:34時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B07H774Q42?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 画面の高さと角度を細かく合わせたいなら、二つのヒンジで調整するN21。PC側と接地面に滑り止めパッドを備え、使わないときは折り畳めます。ただし重さは1.15kgあるため、毎日の移動ではPCと合わせた荷物の重さも確認したいところ。対応インチ数に加え、底面の形と支持面、バッグに収まるかも見て選びましょう。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・対応目安：11〜17インチ
+          - text: ・支持面の幅：29.5cm
+          - text: ・耐荷重：20kg
+          - text: ・重量：1.15kg
+          - text: ・方式：折り畳み・高さと角度の無段階調整
+    - heading "② UGREEN 折り畳みノートPCスタンド 40289" [level=2]
+    - figure:
+      - link "UGREEN ノートパソコンスタンド PC 折りたたみ式 コンパクト 持ち運びやすい www.amazon.co.jp 2,890円 (2026年10月10日 13:34時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B08TLVKBMJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: UGREEN ノートパソコンスタンド PC 折りたたみ式 コンパクト 持ち運びやすい
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,890円
+        - text: (2026年10月10日 13:34時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B08TLVKBMJ?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 移動先でスタンドを広げて使うなら、付属のケースに収められるUGREENの40289。高さは5段階で選べ、本体は220gです。PCを支える部分と接地面にはシリコンを備えています。17.3インチまでが対応の目安ですが、重さは5kg以内で、底面の足や端の形が支えに合うかも確かめておきましょう。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・対応目安：8〜17.3インチ
+          - text: ・耐荷重：5kg
+          - text: ・重量：220g
+          - text: ・調整：5段階
+          - text: ・素材：アルミ合金・シリコン
+    - heading "③ エレコム PCA-LTSH8WH" [level=2]
+    - figure:
+      - link "エレコム ノートPCスタンド 折りたたみ8段階 9.5cm 折りたたみ時サイズ:幅280×厚み280×高さ26mm 耐荷重:10kg ホワイト PCA-LTSH8WH www.amazon.co.jp 2,399円 (2026年10月10日 13:34時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0B5DRS12W?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: エレコム ノートPCスタンド 折りたたみ8段階 9.5cm 折りたたみ時サイズ:幅280×厚み280×高さ26mm 耐荷重:10kg ホワイト PCA-LTSH8WH
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,399円
+        - text: (2026年10月10日 13:34時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0B5DRS12W?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: PCの角度に加えて、高さも上げたいならエレコムの脚付きモデル。8段階の角度調整と、高さを9.5cm追加する折り畳み脚を備えています。左右のスマートフォンスタンドも使えますが、収納時の面積は約28cm角、重さは約840g。バッグに入る広さを確認し、画面を高くする使い方では外付けキーボードを置く場所も考えておきましょう。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・対応目安：15.6インチまで
+          - text: ・折り畳み時：約280×280×26mm
+          - text: ・耐荷重：10kg
+          - text: ・重量：約840g
+          - text: ・角度：23〜53度の8段階／高さアップ脚：9.5cm
+    - heading "④ BoYata N31 ミニスタンド" [level=2]
+    - figure:
+      - link "BoYata ノートパソコンスタンド PCスタンド アルミ合金 高さ角度無段階調整 折りたたみ式 滑り止めパッド付き 放熱対策 人間工学 www.amazon.co.jp 3,799円 (2026年10月10日 13:35時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B095W9HP4N?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: BoYata ノートパソコンスタンド PCスタンド アルミ合金 高さ角度無段階調整 折りたたみ式 滑り止めパッド付き 放熱対策 人間工学
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,799円
+        - text: (2026年10月10日 13:35時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B095W9HP4N?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: 小さめのPCを使い、画面位置を細かく調整したい人にはN31。支持面は約250×210mmで、14インチまでのPCやタブレットが対応の目安です。折り畳んでバッグに入れられ、使用中は下の空間を小物の置き場所にできます。手前のフックとPCの厚みが合うかを確認し、腕に当たる場合は外付けキーボードで作業する配置も考えましょう。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・対応目安：7〜14インチ
+          - text: ・支持面：約250×210mm
+          - text: ・耐荷重：5kg
+          - text: ・素材：アルミ合金
+          - text: ・方式：折り畳み・高さと角度の無段階調整
+    - heading "⑤ SODI 314" [level=2]
+    - figure:
+      - link "【革新的・極コンパクト】 SODI ノートパソコンスタンド PCスタンド 折りたたみ式 持ち運びやすい スペースグレイ www.amazon.co.jp 2,599円 (2026年10月10日 13:35時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0D637HRT5?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: 【革新的・極コンパクト】 SODI ノートパソコンスタンド PCスタンド 折りたたみ式 持ち運びやすい スペースグレイ
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 2,599円
+        - text: (2026年10月10日 13:35時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0D637HRT5?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: バッグの中でスタンドの場所を小さくしたいなら、折り畳むと12.7×4.4cmになるSODI 314。185gの本体に収納袋が付き、角度は15〜30度の6段階で調整できます。PCを支える部分にはシリコンパッドを備えています。対応インチ数だけで決めず、PCの重さや底面の形が支持部分に合うか、設置前に確認して使いましょう。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・対応目安：10〜15.6インチ
+          - text: ・折り畳み時：12.7×4.4cm
+          - text: ・重量：185g
+          - text: ・耐荷重：最大5kg
+          - text: ・角度：15〜30度の6段階
+    - heading "⑥ MOFT 超薄型ノートパソコンスタンド 粘着タイプ" [level=2]
+    - figure:
+      - link "MOFT【公式直営店】ノートパソコンスタンド PCスタンド 持ち運び便利 折りたたみ式 超薄型 軽量 安定性 15°&25°二段階調整 姿勢改善 www.amazon.co.jp 3,580円 (2026年10月10日 13:35時点 詳しくはこちら) Amazon.co.jpで購入する":
+        - /url: https://www.amazon.co.jp/dp/B0CPHX4R58?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+        - strong: MOFT【公式直営店】ノートパソコンスタンド PCスタンド 持ち運び便利 折りたたみ式 超薄型 軽量 安定性 15°&25°二段階調整 姿勢改善
+        - emphasis
+        - emphasis: www.amazon.co.jp
+        - emphasis: 3,580円
+        - text: (2026年10月10日 13:35時点
+        - link "詳しくはこちら)"
+        - generic: Amazon.co.jpで購入する
+      - link:
+        - /url: https://www.amazon.co.jp/dp/B0CPHX4R58?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1&language=ja_JP
+    - paragraph: PCとスタンドを一緒に持ち運びたいなら、底面に貼り付けるMOFTの粘着タイプ。畳んだ厚さは3mmで、展開すると15度と25度を選べます。貼り付けには224×170mm以上の平らな面が必要です。底面の通気口をふさがない位置に取り付けられるかを確認し、貼り付けずに使うモデルとの違いも見て選びましょう。
+    - figure:
+      - blockquote:
+        - paragraph:
+          - strong: スペック
+          - text: ・対応目安：11.6〜15.6インチ
+          - text: ・本体：224×170×3mm
+          - text: ・重量：89g
+          - text: ・耐荷重：最大5kg
+          - text: ・角度：15度・25度
+    - heading "最後に" [level=2]
+    - paragraph: 持ち運ぶなら、PCとスタンドを合わせた重さやバッグに収まる寸法を確認しておきたいところです。インチ数だけでなく、PCの底面の幅や厚み、足や通気口の位置も合わせて、安定して置けるスタンドを選んでみてください。
+    - paragraph: 毎日ガジェット通信では、仕事と生活をラクにするガジェット情報を発信しています。気に入っていただけたら、ぜひスキとフォローをお願いします！
+    - heading "🛒 同じテーマの厳選アイテムをまとめてチェック" [level=2]
+    - paragraph: このカテゴリのおすすめガジェットをAmazonの「アイデアリスト」にまとめました。気になった商品を一覧で比較したい方はこちらからどうぞ。
+    - paragraph: ▼ 在宅もオフィスも。デスクワークが捗る環境改善ガジェット
+    - figure:
+      - link "毎日ガジェット通信's Amazon Page - 在宅もオフィスも。デスクワークが捗る環境改善ガジェット Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp. www.amazon.co.jp":
+        - /url: https://amzn.to/4tfeXyT
+        - strong: 毎日ガジェット通信's Amazon Page - 在宅もオフィスも。デスクワークが捗る環境改善ガジェット
+        - emphasis: Shop recommended products from 毎日ガジェット通信 on www.amazon.co.jp.
+        - emphasis: www.amazon.co.jp
+      - link:
+        - /url: https://amzn.to/4tfeXyT
+    - heading "あわせて読みたい" [level=2]
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - figure:
+      - iframe
+    - link "毎日ガジェット通信のプロフィール画像":
+      - /url: https://note.com/daily_gadget
+      - img "毎日ガジェット通信のプロフィール画像"
+    - paragraph:
+      - link "毎日ガジェット通信":
+        - /url: https://note.com/daily_gadget
+    - generic: 仕事も生活もラクにするガジェット便りを毎日お届け。モバイルワークから自宅セットアップ、職種別・価格別まとめまで幅広く紹介します。Amazonアソシエイト参加中（リンクには広告を含みます）。
+    - link "RSSのURL":
+      - /url: https://note.com/daily_gadget/rss
+      - img "RSSのURL"
+- contentinfo:
+  - list:
+    - link "noteプレミアム":
+      - /url: https://premium.lp-note.com
+    - link "note pro":
+      - /url: https://pro.lp-note.com/?utm_source=notecom&utm_medium=footer
+    - link "ヘルプ":
+      - /url: https://help-note.com/hc/ja
+    - link "プライバシー":
+      - /url: https://terms.help-note.com/hc/ja/articles/44948981050649
+    - link "クリエイターへのお問い合わせ":
+      - /url: /daily_gadget/message
+    - link "フィードバック":
+      - /url: https://help-note.com/hc/ja/requests/new?ticket_form_id=360000081181
+    - link "ご利用規約":
+      - /url: https://terms.help-note.com/hc/ja/articles/44943817565465
+    - link "通常ポイント利用特約":
+      - /url: https://note.com/terms/paid_point
+    - link "加盟店規約":
+      - /url: https://note.com/terms/seller_creators
+    - link "資金決済法に基づく表示":
+      - /url: https://note.com/terms/payment_service_act
+    - link "特商法表記":
+      - /url: https://note.com/daily_gadget/terms/specified
+    - link "投資情報の免責事項":
+      - /url: https://note.com/terms/investment_disclaimer
+- alert: 画面の高さと収納を見直す。「ノートPCスタンド」6選｜毎日ガジェット通信｜note

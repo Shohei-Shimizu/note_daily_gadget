@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-24",
+  "account": "daily_gadget",
+  "status": "local_article_and_image_qa_passed_pending_note_crop",
+  "production_mode": "reuse_byte_identical_copy",
+  "source_path": "04_thumbnail/2026-10/2026-10-17_smartwatch_activity_sleep.png",
+  "output_path": "04_thumbnail/2026-11/2026-11-24_smartwatch.png",
+  "source_output_identical": true,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "77967059ca1c89a443d6a2010b60b2000fe76d6485774e3ff5bcea0098adab71",
+  "completed_article_checked": true,
+  "evidence_files": [
+    "02_article/2026-11/2026-11-24_日々の動きを手元で見る。「スマートウォッチ」8選.md",
+    "07_operations/2026-11_codex/2026-11-24_sources.json",
+    "07_operations/2026-11_codex/2026-11-24_metadata_handoff.json"
+  ],
+  "five_point_audit": {
+    "article_format": "スマートウォッチ8品比較、代表時計1台",
+    "count": "時計ケースとバンドで1製品、別時計/端末無し",
+    "material": "黒い金属調枠/シリコーン風バンド、採用Redmi/Bip四角系カテゴリに一致",
+    "structure": "四角画面＋自然な閉ループバンド、全本体/バンド可視。バンド細身型/丸いGarmin/T-Rexと同形状とはしない",
+    "use_case": "活動/睡眠の記録を日々振り返る時計を外して置く日常シーン。医療効果やGPS全品内蔵、通話/OS/精密測定能力を画像で主張しない"
+  },
+  "visual_qa": {
+    "viewed_original": true,
+    "viewed_320px": true,
+    "no_readable_text_numbers_brand_watermark": true,
+    "no_people_hands_wrists": true,
+    "one_central_watch": true,
+    "coherent_band_case": true,
+    "natural_support": true,
+    "whole_watch_visible": true,
+    "abstract_screen_only": true,
+    "no_medical_diagnostic_graphics": true,
+    "thumbnail_subject_clear": true
+  },
+  "note_ui_touched": false,
+  "db_or_month_metadata_touched": false,
+  "only_date_24_files_changed": true,
+  "new_design": false
+}
