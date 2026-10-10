@@ -1,0 +1,600 @@
+{
+  "generated_at": "2026-10-10T01:11:45+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261126_9ccd2f95",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261126_translator"
+  ],
+  "fetched_count": 10,
+  "dedup_count": 10,
+  "candidates": [
+    {
+      "asin": "B0B7SBVGP6",
+      "title": "Vasco Translator V4 | 音声翻訳機 | 108言語、約200の 国と地域に対応 | 通信料永久無料・買い替え不要",
+      "url": "https://www.amazon.co.jp/dp/B0B7SBVGP6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B7SBVGP6?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61LDXhYAw6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Vasco Translator V4 は、113の言語を即座に翻訳することができます",
+        "約200の国と地域に対応、データ通信料は永久無料でお使いいただけます",
+        "サブスクリプション不要で、更新・買い替え費用等も一切かかりません",
+        "初期設定やアプリのダウンロードは不要で、電源を入れるだけの簡単操作",
+        "日本語の初期設定ガイド付属、商品説明書は公式サイトにてご覧いただけます"
+      ],
+      "maker": "Vasco",
+      "query": "dg_20261126_translator",
+      "queries_matched": [
+        "dg_20261126_translator"
+      ],
+      "review_count": 1986,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-04",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "parent_asin": "B0CC9NFTTJ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:32:14+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07ZP5CH8P",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付70言語以上対応 ホワイト PTSWW",
+      "url": "https://www.amazon.co.jp/dp/B07ZP5CH8P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07ZP5CH8P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61EE3U1Bk9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【簡単な音声翻訳】ボタンを押しながら話すだけで一瞬で通訳。撮影した文字を翻訳できるカメラ翻訳機能付き。",
+        "ポケトークには2年分のグローバル通信SIMが内蔵されており、電源を入れるだけで世界170以上の国や地域ですぐに使い始められます。本体にはeSIM（チップ型SIM）を搭載しているため、物理的なSIMカードの挿入は不要です。また、Wi-Fi接続にも対応しています。",
+        "【計85言語対応】ポケトークは74言語が音声と文字に、11言語が文字のみの計85言語に対応しています。ポケトークは言語ごとに最適なエンジンを採用し、常にクラウド上の最新のエンジンを利用して翻訳。ネイティブの語学講師も認めた翻訳精度を実現しています。",
+        "(ご注意)(1)専用の通信SIMカード以外での動作はサポート対象外です。(2)同梱の取扱説明書を必ずお読みください。(3)翻訳結果は、都度変わる可能性があります。"
+      ],
+      "maker": "POCKETALK",
+      "query": "dg_20261126_translator",
+      "queries_matched": [
+        "dg_20261126_translator"
+      ],
+      "review_count": 172,
+      "star_rating": 3.6,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "translator_device",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-04",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名POCKETALK/ポケトーク統合。製造/販売会社は公式再確認待ち",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T12:32:23+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0CT378Q1M",
+      "title": "Wooask W12 翻訳機 音声翻訳機 ウーアスク【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.5秒翻訳 写真翻訳 オフライン対応 タッチスクリーン",
+      "url": "https://www.amazon.co.jp/dp/B0CT378Q1M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CT378Q1M?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61Nolz4Z1BL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "Wooask W12 写真翻訳機能付の音声翻訳機です。翻訳言語は144言語（70アクセントを含む）を双方向リアルタイムに翻訳できます。Wooask翻訳機は世界の70か所に翻訳サーバーを配置。世界のどこでも使える0.5翻訳の速度と安定性を提供します。（翻訳速度：最大0.5-3.0秒）",
+        "主な搭載機能：HD文字認識カメラ(42言語対応)※オンラインでのみ使用可能、英会話レッスン、デュアル海外時計、Wifi＆Hotspot接続機能、タッチスクリーン機能",
+        "サイズ：5.5×13×1cm、バッテリー：7日間（スタンバイ）8時間（連続利用）",
+        "インターネット不要のオフライン翻訳対応（10カ国対応） ※通常のオンライン翻訳よりも精度は落ちる場合があります。オフライン機能を使用する場合は、ゆっくりはっきり話すようにしてください。※ご購入後のダウンロード等は不要で、すぐにオフラインモードがご使用になれます。",
+        "タッチ操作も、テキスト確認も楽々。デュアル世界時計搭載。ガイダンスボイスの男女変更機能付き。ボイスレコーダー機能付き。※アダプターやType-C充電コードの規格が合わない場合、充電ができないことがございます。充電コードについては付属品の使用を推奨しております。"
+      ],
+      "maker": "Wooask",
+      "query": "dg_20261126_translator",
+      "queries_matched": [
+        "dg_20261126_translator"
+      ],
+      "review_count": 142,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": null,
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-04",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "parent_asin": "B0HJGS7SK3",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:32:33+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07ZP695PB",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付92言語以上対応 ブラック PTSGK",
+      "url": "https://www.amazon.co.jp/dp/B07ZP695PB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07ZP695PB?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61Mi-5oXVcL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "本商品は2年間のeSIMが内蔵されています。eSIMは端末内蔵型のデジタルSIMのため、カードは同梱されていませんが、問題なくお使いいただけます。",
+        "【簡単な音声翻訳】ボタンを押しながら話すだけで一瞬で通訳。撮影した文字を翻訳できるカメラ翻訳機能付き。",
+        "ポケトークには2年分のグローバル通信SIMが内蔵されており、電源を入れるだけで世界170以上の国や地域ですぐに使い始められます。本体にはeSIM（チップ型SIM）を搭載しているため、物理的なSIMカードの挿入は不要です。また、Wi-Fi接続にも対応しています。",
+        "【計92言語対応】ポケトークは91言語が音声と文字に、1言語が文字のみの計92言語に対応しています。ポケトークは言語ごとに最適なエンジンを採用し、常にクラウド上の最新のエンジンを利用して翻訳。ネイティブの語学講師も認めた翻訳精度を実現しています。",
+        "(ご注意)(1)専用の通信SIMカード以外での動作はサポート対象外です。(2)同梱の取扱説明書を必ずお読みください。(3)翻訳結果は、都度変わる可能性があります。"
+      ],
+      "maker": "POCKETALK",
+      "query": "dg_20261126_translator",
+      "queries_matched": [
+        "dg_20261126_translator"
+      ],
+      "review_count": 252,
+      "star_rating": 3.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "translator_device",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名POCKETALK/ポケトーク統合。製造/販売会社は公式再確認待ち",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "parent_asin": "B0HGLJSRYQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:32:41+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B07ZP8D717",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付92言語以上対応 ゴールド PTSGG",
+      "url": "https://www.amazon.co.jp/dp/B07ZP8D717?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07ZP8D717?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61Evg4VA6xL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【簡単な音声翻訳】ボタンを押しながら話すだけで一瞬で通訳。撮影した文字を翻訳できるカメラ翻訳機能付き。",
+        "(ご注意)(1)専用の通信SIMカード以外での動作はサポート対象外です。(2)同梱の取扱説明書を必ずお読みください。(3)翻訳結果は、都度変わる可能性があります。"
+      ],
+      "maker": "POCKETALK",
+      "query": "dg_20261126_translator",
+      "queries_matched": [
+        "dg_20261126_translator"
+      ],
+      "review_count": 252,
+      "star_rating": 3.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "translator_device",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名POCKETALK/ポケトーク統合。製造/販売会社は公式再確認待ち",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "parent_asin": "B0HGLJSRYQ",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:32:50+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08BP1912B",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S Plus(1.85倍大型画面) グローバル通信2年付70言語以上対応 ホワイト PTSPGW",
+      "url": "https://www.amazon.co.jp/dp/B08BP1912B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08BP1912B?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61RG68+qj1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "「POCKETALK（ポケトーク）」は、互いの言葉を話せない人同士が自国語のままで対話できるAI通訳機です。―お届けする商品は「ポケトークS Plus グローバル通信2年モデル」です。画面サイズ…3.97インチ。",
+        "【簡単な音声翻訳】ボタンを押しながら話すだけで一瞬で通訳。撮影した文字を翻訳できるカメラ翻訳機能付き。",
+        "【難しい設定不要、2年分の通信費用がセットに】ポケトーク本体は、2年分の通信費用がすでに含まれています。 難しい設定や契約を行う必要なく、電源を入れてすぐに世界140以上の国と地域でご利用いただけます。Wi-fi接続でのご利用も可能です。通信期間が過ぎた後も、ご自宅やオフィス等のWi-Fiに接続してご利用いただけます。",
+        "【計92言語対応】ポケトークは92言語対応。（91言語を音声とテキストに、1言語をテキストのみに翻訳） ポケトークは言語ごとに最適なエンジンを採用し、常にクラウド上の最新のエンジンを利用して翻訳。ネイティブの語学講師も認めた翻訳精度を実現しています。",
+        "(ご注意)(1)専用の通信SIMカード以外での動作はサポート対象外です。(2)同梱の取扱説明書を必ずお読みください。(3)翻訳結果は、都度変わる可能性があります。"
+      ],
+      "maker": "POCKETALK",
+      "query": "dg_20261126_translator",
+      "queries_matched": [
+        "dg_20261126_translator"
+      ],
+      "review_count": 50,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "translator_device",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名POCKETALK/ポケトーク統合。製造/販売会社は公式再確認待ち",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "parent_asin": "B0HCBHMT7V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:33:00+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DHV75M4X",
+      "title": "AUTOOSE Z2 翻訳機 音声翻訳機【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.2秒翻訳 写真翻訳 オフライン対応 タッチスクリーン 写真翻訳",
+      "url": "https://www.amazon.co.jp/dp/B0DHV75M4X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DHV75M4X?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/613dzLaiVNL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "「AUTOOSE Z2」は英語と中国語の方言含めて137言語に対応し、世界中に283ヵ国で使用されている音声通訳機です。",
+        "【翻訳機の新時代】日常会話の一言くらいなら最速で0.2秒と市場の翻訳機より精度の高い翻訳結果を実現しました。主な搭載機能：オンライン翻訳、オフライン翻訳、カメラ翻訳、録音翻訳、リアルタイム翻訳、グループ翻訳、ChatGPT、翻訳結果自動保存など。",
+        "【オフライン翻訳にも対応】SIMカード不要！ネットワーク接続無しで、17言語のオフライン翻訳をサポートします。 外で急にネットワークに接続できない場合、オフライン翻訳機能を薦めます。 「注意」オフライン翻訳の機能を使用する前に、オフライン言語をダウンロードする必要があります。",
+        "【カメラ翻訳】内蔵カメラで簡単撮影！写真の文字を自動で翻訳します。オートフォーカスだから取り損ねも防ぎます。海外旅行にわからない看板に写真撮影すれば、早々に文字識別ができ、翻訳してくれる！",
+        "【録音・文字起こし】「AUTOOSE Z2」は強力な音声文字変換機能を備えています。また、音声を録音して、ワンタッチで事前に設定した言語へ翻訳するといったことが可能です。「録音翻訳」モードでは、会話をリアルタイムで録音・文字起こししてくれるため、議事録作成の時間短縮につなげることができます。"
+      ],
+      "maker": "AUTOOSE",
+      "query": "dg_20261126_translator",
+      "queries_matched": [
+        "dg_20261126_translator"
+      ],
+      "review_count": 96,
+      "star_rating": 4.3,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "translator_device",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T12:33:08+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DJLZMYR4",
+      "title": "【公式ストア限定】AI翻訳機 POCKETALK(ポケトーク)S2 Plus 1.85倍大型画面グローバル通信2年付90言語以上対応特別セット ホワイト 画面保護シール+ケース+ネックストラップ+ポーチ+海外用変換プラグ+ACアダプター PTS2P-W",
+      "url": "https://www.amazon.co.jp/dp/B0DJLZMYR4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DJLZMYR4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61aCf5zMTML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "お届けする製品は「POCKETALK（ポケトーク）S2 Plus ホワイト」です。ポケトークは、互いの言葉を話せない人同士が自国語のままで対話できるAI通訳機です。（画面サイズ…3.97インチ）",
+        "【新機能】(1)あらかじめ選んだ２つの言語のうち、話した言語を自動判定し、瞬時に通訳します。ボタンを押しながら話すだけで、翻訳方向を気にせず、スムーズな会話ができるようになりました。(2)使える国や地域が170以上に対応できるようになりました。(3)バッテリーがさらに長持ちになりました。",
+        "ポケトークには2年分のグローバル通信SIMが内蔵されており、電源を入れるだけで世界170以上の国や地域ですぐに使い始められます。本体にはeSIM（チップ型SIM）を搭載しているため、物理的なSIMカードの挿入は不要です。また、Wi-Fi接続にも対応しています。",
+        "【簡単な音声翻訳】ボタンを押しながら話すだけで一瞬で通訳。撮影した文字を翻訳できるカメラ翻訳機能付き。【ポケトークS2 Plus】(1)あらかじめ選んだ２つの言語のうち、話した言語を自動判定し、瞬時に通訳します。ボタンを押しながら話すだけで、翻訳方向を気にせず、スムーズな会話ができるようになりました。(2)使える国や地域が170以上に対応できるようになりました。(3)バッテリーがさらに長持ちになりました。",
+        "(ご注意)(1)専用の通信SIMカード以外での動作はサポート対象外です。(2)同梱の取扱説明書を必ずお読みください。(3)翻訳結果は、都度変わる可能性があります。"
+      ],
+      "maker": "POCKETALK",
+      "query": "dg_20261126_translator",
+      "queries_matched": [
+        "dg_20261126_translator"
+      ],
+      "review_count": 47,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "charger_power",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "商品名POCKETALK/ポケトーク統合。製造/販売会社は公式再確認待ち",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "parent_asin": "B0HCBHMT7V",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:33:15+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DQ6Y68F4",
+      "title": "MUMEOMU Z8 AI翻訳機 283ヵ国137言語対応 音声翻訳機【オンライン翻訳＋オフライン翻訳＋カメラ翻訳＋録音翻訳＋リアルタイム翻訳+ChatGPT】双方向翻訳 携帯翻訳機 日本語 中国語 英語 0.2秒",
+      "url": "https://www.amazon.co.jp/dp/B0DQ6Y68F4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DQ6Y68F4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/610llONOh2L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "MUMEOMU Z8は互いの言葉を話せない人同士が自国語のままで対話できるAI通訳機です。137言語で音声・テキストに翻訳でき、世界中に283ヵ国で使用されています。",
+        "主な搭載機能：オンライン翻訳、オフライン翻訳、カメラ翻訳、録音翻訳、リアルタイム翻訳、グループ翻訳、ChatGPT、翻訳結果自動保存など。",
+        "【オフライン翻訳にも対応】SIMカード不要！ネットワーク接続無しで、17言語のオフライン翻訳をサポートします。 外で急にネットワークに接続できない場合、オフライン翻訳機能を薦めます。 「注意」オフライン翻訳の機能を使用する前に、オフライン言語をダウンロードする必要があります。",
+        "【カメラ翻訳】内蔵カメラで簡単撮影！写真の文字を自動で翻訳します。オートフォーカスだから取り損ねも防ぎます。海外旅行にわからない看板に写真撮影すれば、早々に文字識別ができ、翻訳してくれる！",
+        "【革新的AI技術】この翻訳機はChatGPTのようなAI対話機能を備えており、より高精度の翻訳、スムーズで自然なコミュニケーションを可能にします。日常会話、専門用語、複雑な問題に対しても正確に理解し、文脈に沿った回答を提供します。海外旅行時には、現地のグルメや観光スポットなどの情報収集におすすめです。日常会話機能は言語学習におすすめです。"
+      ],
+      "maker": "MUMEOMU",
+      "query": "dg_20261126_translator",
+      "queries_matched": [
+        "dg_20261126_translator"
+      ],
+      "review_count": 66,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "translator_device",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "parent_asin": "B0GQLQPBZ6",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:33:24+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FWQX4F4F",
+      "title": "AUTOOSE Z9 AI翻訳機 音声翻訳機 ChatGPT搭載【SIM不要/追加料金不要/オフライン翻訳対応】 携帯翻訳機 150言語対応 0.5秒翻訳 オンライン翻訳/双方向音声翻訳/写真翻訳/電話翻訳/入力翻訳/録音翻訳 携帯翻訳機",
+      "url": "https://www.amazon.co.jp/dp/B0FWQX4F4F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FWQX4F4F?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61H-hz4KTmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【150多言語対応 】AUTOOSE Z9は、150カ国の言語に対応したオンライン翻訳機能を備えています。わずか0.5秒で迅速かつ正確に翻訳を行うことができ、言葉の壁を感じることなくスムーズなコミュニケーションを実現します。話すだけで希望の言語に即座に翻訳し、音声で再生することが可能です。海外旅行では現地の人々との交流をより深め、外国語学習では効率的な学びをサポートします。また、ビジネスシーンにおいても異なる言語間のコミュニケーションを円滑にし、国際的なビジネスの場での信頼関係構築に貢献します。",
+        "【多機能のAI翻訳機】主な搭載機能：オンライン翻訳、オフライン翻訳、カメラ翻訳、録音翻訳、リアルタイム翻訳、グループ翻訳、電話翻訳、入力翻訳、ChatGPT、翻訳結果自動保存など。ご使用上の注意: 初回使用時には2時間の充電が必要です。また、5GHz WiFiには対応していないため、2.4GHz WiFiをご利用ください。",
+        "【AI機能搭載した翻訳機】AUTOOSE Z9は、翻訳機能だけでなく、AIを活用した多彩な機能で、あなたのコミュニケーションや情報処理をサポートします。xiaobeiAI音声アシスタントサーバーがChatGPTと連携しています。xiaobeiAI大規模言語モデル：テキストエクスポート、スマート抜粋、スマート音声アシスタント、スマート編集（AI編集、AI校閲、AI拡充、AI続編作成、AI文章要約）。1日3回無料で利用することができます。AI機能は毎日最初の3回は無料で、4回目からは有料が必要です。",
+        "【翻訳機の新時代】日常会話の一言くらいなら最速で0.1秒と市場の翻訳機より精度の高い翻訳結果を実現しました。AUTOOSE Z9の翻訳精度は、高性能な人工知能(AI)を搭載した5つの翻訳エンジンが瞬時に正しい翻訳結果を抽出するので、正しい文法で喋りかける事により、精度の高い翻訳結果を実現可能にしました。また、高精度な雑音除去技術を搭載、雑音の多い環境下でも正確に音声を認識可能です。",
+        "【1年間のメーカー保証】12ケ月の安心保証が付き、万が一商品不具合のようでしたら、何時でもお気軽に連絡してください。保証期間内にご使用で製品に不具合が発生した場合は、当社は無償交換、返金いたします。"
+      ],
+      "maker": "AUTOOSE",
+      "query": "dg_20261126_translator",
+      "queries_matched": [
+        "dg_20261126_translator"
+      ],
+      "review_count": 46,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "translator_device",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_maker: DBブランド/商品名",
+      "scope_pending": [
+        "専用翻訳端末としてのオンライン/オフライン言語と通信利用期間を公式確認",
+        "機械翻訳の精度・即時性を広告値から保証しない"
+      ],
+      "parent_asin": "B0GJ337LTX",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T12:33:32+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0H8YNT7NR",
+      "title": "Timekettle New T1 AI翻訳機 52言語106アクセント・44組オフライン翻訳対応 音声翻訳機 4G/Wi-Fi搭載 写真翻訳 双方向翻訳 リアルタイム翻訳 海外旅行 海外出張 語学学習 国際会議 ビジネス商談用 携帯翻訳機",
+      "url": "https://www.amazon.co.jp/dp/B0H8YNT7NR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H8YNT7NR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/71F33WpR-VL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【52言語106アクセント翻訳対応｜世界中で自然なコミュニケーションを実現】Timekettle T1は最新AI翻訳エンジンを搭載した高性能翻訳機です。52言語106アクセント音声翻訳に対応し、旅行・ビジネス・国際交流・語学学習など幅広いシーンで活躍します。英語、中国語、韓国語、スペイン語、フランス語、ドイツ語をはじめ、多くの主要言語をカバー。言葉が通じない不安を解消し、世界中の人々とスムーズな会話を実現します。",
+        "【44組オフライン翻訳対応｜通信環境がなくても安心】海外旅行中や山間部、機内、通信環境が不安定な場所でも利用できるよう、44組オフライン翻訳対応。インターネット接続がなくても翻訳機能を利用できるため、急なトラブル時や海外での移動中も安心です。ネット環境に左右されず、必要なときにすぐ翻訳できる頼れるパートナーです。",
+        "【4つの翻訳モード搭載｜あらゆる会話シーンに対応】ワンタッチ翻訳、チャット翻訳、リスニングモード、横画面モードを搭載し、さまざまなコミュニケーションシーンに柔軟に対応します。海外旅行中の現地の方との会話から、海外出張での商談、国際会議での情報収集、展示会での接客対応まで、相手の言葉をより自然に理解し、自分の思いをスムーズに伝えることができます。言語の壁を感じることなく、安心してコミュニケーションを楽しめます。",
+        "【写真翻訳機能搭載｜メニューや標識も瞬時に理解】高性能OCR文字認識技術を採用。レストランのメニュー、駅の案内板、道路標識、商品パッケージ、契約書類などを撮影するだけで、内容を素早く翻訳できます。海外旅行中の食事や移動、買い物、ビジネスシーンでの情報確認をよりスムーズにサポートします。",
+        "【グローバル通信対応｜海外旅行・出張の強い味方】4G通信とWi-Fi接続に対応し、世界中で快適な翻訳環境を実現。AIネットワーク認識技術により、利用環境に応じて最適な通信方式を自動選択します。翻訳精度は最大95％を実現し、会話のニュアンスまで正確に伝達。海外旅行、国際商談、展示会、現地視察など、グローバルなコミュニケーションを強力にサポートします。"
+      ],
+      "review_count": 9,
+      "star_rating": 4.8,
+      "queries_matched": [
+        "Timekettle Fluentalk 翻訳機 T1"
+      ],
+      "maker": "Timekettle",
+      "model_candidate": "NEW T1",
+      "primary_urls": [
+        "https://www.timekettle.co/products/fluentalk-t1-handheld-translator-device",
+        "https://community.timekettle.co/en/post/timekettle-new-t1-user-guide-tutorials-faq-1138838"
+      ],
+      "scope_note": "現行NEW T1の独立手持ち本体/ボタン音声翻訳をメーカー確認。旧T1/T1 miniと世代・型番を分離。24か月付属通信、期限後WiFi/端末内プラン更新。オフラインは初回言語パックのダウンロード要否を明記。Amazon52言語/106アクセント/44組が現行説明と対応するがASINの一次リンク/物理型番は未確認。",
+      "scope_status": "primary_model_supported_ASIN_mapping_pending",
+      "db_readonly_result": {
+        "asin": "B0H8YNT7NR",
+        "parent_asin": null,
+        "parent_resolution_status": "no_parent",
+        "tier": null,
+        "brand": null
+      },
+      "parent_status": "no_parent",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "service_status": "現行公式に提供表示あり。限定検索で該当停止告知未発見、実機疎通/未来の継続保証ではない。",
+      "required_gate": [
+        "ASIN同型/世代/型番一次照合",
+        "親解決/no_parent確定と既存pool統合",
+        "カラー/SIM付属年数variant統合",
+        "メーカー最大2",
+        "最新Tier/レビュー/在庫実測",
+        "親確定後30日窓再照合"
+      ],
+      "stock_status": "in_stock",
+      "parent_asin": null,
+      "measurement_observed_at": "2026-10-10T12:33:41+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0HF83LDBQ",
+      "title": "iFLYTEK Smart Translator AI翻訳機 音声翻訳機 グローバル通信2年付 60言語対応 0.3秒翻訳 オンライン翻訳・リアルタイム翻訳・双方向音声翻訳・カメラ翻訳・オフライン翻訳対応 携帯翻訳機 海外旅行・ビジネスに",
+      "url": "https://www.amazon.co.jp/dp/B0HF83LDBQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0HF83LDBQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61AAVQWCZAL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【対面での会話をもっとスムーズに｜双方向分割画面】iFLYTEK独自の双方向分割画面により、話し手と聞き手それぞれの翻訳結果を1画面に同時表示。翻訳機を交互に渡す必要がなく、相手の顔を見ながら自然に会話できます。5.05インチの高精細タッチディスプレイと直感的な操作性を備え、海外旅行はもちろん、ビジネス商談や学校・学習シーンにもおすすめです。",
+        "【60言語オンライン＋18言語ペアのオフライン翻訳】オンラインでは60言語に対応し、さらに18言語ペアのオフライン翻訳にも対応。飛行機内や通信環境が不安定な場所、海外の遠隔地でも、事前に言語パックをダウンロードしておけば翻訳を利用できます。海外旅行や出張など、さまざまなコミュニケーションシーンをサポートします。※オフライン言語パックのダウンロードにはWi-Fi接続が必要です。",
+        "【98％の高精度＆最速0.3秒のリアルタイム翻訳】iFLYTEK独自のAI音声翻訳技術を搭載し、翻訳精度98％、最速0.3秒の高速レスポンスを実現。会話の流れを止めにくく、日常会話からビジネスシーンまでスムーズなコミュニケーションをサポートします。世界最高峰の音声翻訳技術を、持ち歩きやすい1台に凝縮しました。",
+        "【HIPAA要件に準拠した、プライバシー重視の設計】大切な会話や機密性の高い情報を安心して翻訳できるよう、HIPAA（医療保険の相互運用性と説明責任に関する法律）の要件に準拠したプライバシー・セキュリティ設計を採用。外部ストレージへの保存やデータ共有に配慮し、医療・ビジネスなど、高い情報管理が求められるシーンでも安心して使えるAI翻訳機です。",
+        "【2年間のグローバル通信データを内蔵】約200の国と地域をカバーする2年間のモバイル通信データを内蔵。海外旅行中にSIMカードを購入・交換したり、追加の通信契約を用意したりする必要がありません。Wi-Fiやテザリングにも対応し、さまざまな環境で快適な通信をサポートします。",
+        "【50言語のカメラ翻訳で「読めない」も解決】音声だけでなく、50言語のカメラ翻訳にも対応。カメラをかざすだけで、海外のメニュー、道路標識、案内表示、商品ラベルなどの文字を読み取り、内容を確認できます。音声翻訳とカメラ翻訳を1台に集約し、旅行中の「これ、何て書いてある？」をスムーズに解決します。",
+        "【5インチHDディスプレイ＆直感的な操作性】5.05インチの高精細ディスプレイで翻訳結果を見やすく表示。タッチ操作に加えて物理ボタンも搭載し、シーンに合わせて直感的に操作できます。スマートフォンを取り出してアプリを起動する必要がなく、翻訳専用機だからこそ、会話中でもスムーズに使えます。",
+        "【コンパクトボディ＆約6時間の連続翻訳】ポケットにも収まりやすいコンパクト設計で、旅行や出張にも手軽に持ち運べます。1回の充電で約6時間の連続翻訳、最大10日間の待機に対応。さらに急速充電にも対応し、外出先でも使いやすい実用性を備えています。",
+        "【翻訳履歴を保存できる16GBストレージ】16GBの大容量ストレージを搭載し、最大1,000件の翻訳履歴を自動保存。過去の会話や翻訳内容を後から確認するときにも便利です。必要な情報を保存・整理でき、旅行やビジネスを支える実用的な翻訳デバイスとして活用できます。",
+        "【12か月保証・24時間サポート・無料OTAアップデート】購入後も安心して長く使える12か月保証と24時間カスタマーサポートを提供。さらに、OTAによる無料の継続アップデートに対応し、iFLYTEKの最新翻訳技術を長くお使いいただけます。旅行だけでなく、ビジネスでも継続して活用できる翻訳専用デバイスです。"
+      ],
+      "review_count": 28,
+      "star_rating": 4.6,
+      "queries_matched": [
+        "Vasco Translator M3 翻訳機"
+      ],
+      "maker": "iFLYTEK",
+      "model_candidate": "Smart Translator",
+      "primary_urls": [
+        "https://iflytek.co.jp/products/iflytek-smart-translator",
+        "https://iflytek.co.jp/pages/smart-translator-faq",
+        "https://www.iflytek.co.jp/wp-content/uploads/2023/10/iFLYTEKSmartTranslator_%E5%88%A9%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89.pdf"
+      ],
+      "scope_note": "メーカー現行同名の独立翻訳本体、音声/対面翻訳、グローバル通信2年と限定オフラインを確認。デュアルスクリーン別モデルと区別。APIタイトル0.3秒と公式0.5秒は不一致なので速度を保証/転記しない。実ASIN型番と付属通信プランを確認。",
+      "scope_status": "primary_model_supported_ASIN_mapping_pending",
+      "db_readonly_result": {
+        "asin": "B0HF83LDBQ",
+        "parent_asin": null,
+        "parent_resolution_status": "no_parent",
+        "tier": null,
+        "brand": null
+      },
+      "parent_status": "no_parent",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "service_status": "現行公式に提供表示あり。限定検索で該当停止告知未発見、実機疎通/未来の継続保証ではない。",
+      "required_gate": [
+        "ASIN同型/世代/型番一次照合",
+        "親解決/no_parent確定と既存pool統合",
+        "カラー/SIM付属年数variant統合",
+        "メーカー最大2",
+        "最新Tier/レビュー/在庫実測",
+        "親確定後30日窓再照合"
+      ],
+      "stock_status": "in_stock",
+      "parent_asin": null,
+      "measurement_observed_at": "2026-10-10T12:33:49+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FQPF59WR",
+      "title": "Vasco Translator Q1 |ボイスクローニング技術搭載AI翻訳機 | 113言語に対応、約200の国と地域で繋がるデータ通信料永久無料 | Phantom Black",
+      "url": "https://www.amazon.co.jp/dp/B0FQPF59WR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FQPF59WR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51Pjdyn7shL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "- 音声クローン対応AI翻訳機：54言語を自分の声で翻訳、自然でパーソナルな翻訳を実現します。",
+        "- 通話翻訳：世界53言語での通話を即時翻訳します。（初回10分無料、サポートより追加購入可能）",
+        "- データ通信永久無料：内蔵SIMにより、約200か国で繋がる翻訳用のデータ通信が永久無料、更新料も一切不要です。",
+        "- 多機能翻訳機：写真翻訳113言語、文字翻訳108言語、音声翻訳86言語に対応。言語を自動検出し瞬時に翻訳。",
+        "- 日本語のカスタマーサポート：オンラインで日本語の説明書がご取得いただけるほか、カスタマーサポートも日本語で対応しています。"
+      ],
+      "review_count": 142,
+      "star_rating": 4.4,
+      "queries_matched": [
+        "Vasco Translator M3 翻訳機"
+      ],
+      "maker": "Vasco",
+      "model_candidate": "Translator Q1 Phantom Black",
+      "primary_urls": [
+        "https://vasco-translator.jp/translators/vasco-translator-q1/"
+      ],
+      "scope_note": "独立手持ち本体で音声翻訳、内蔵SIMのオンライン通信。メーカー音声86・写真113・テキスト108などモードを区別、113を音声数に転記しない。通話翻訳は無料10分後に追加購入なので端末機能全部永久無料と書かない。V4と合わせmaker最大2。",
+      "scope_status": "primary_model_supported_ASIN_mapping_pending",
+      "db_readonly_result": null,
+      "parent_status": "resolved",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "service_status": "現行公式に提供表示あり。限定検索で該当停止告知未発見、実機疎通/未来の継続保証ではない。",
+      "required_gate": [
+        "ASIN同型/世代/型番一次照合",
+        "親解決/no_parent確定と既存pool統合",
+        "カラー/SIM付属年数variant統合",
+        "メーカー最大2",
+        "最新Tier/レビュー/在庫実測",
+        "親確定後30日窓再照合"
+      ],
+      "stock_status": "in_stock",
+      "parent_asin": "B0G3N8THV7",
+      "measurement_observed_at": "2026-10-10T12:33:59+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:translator"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "read-onlyの実在typeと採用ゲート。狭い構造は商品名/履歴Featuresで監査、未確認attrを推測で掛けない"
+  },
+  "date": "2026-11-26",
+  "planning_status": "historical_unmeasured_candidates_not_selected",
+  "scope_conditions": {
+    "type_tag": "type:translator",
+    "theme": "海外出張で会話を支える。音声翻訳機",
+    "exclude_used_since": "2026-10-27",
+    "current_stock_verified": false
+  },
+  "measurement_checkpointed_at": "2026-10-10T12:33:59+09:00"
+}

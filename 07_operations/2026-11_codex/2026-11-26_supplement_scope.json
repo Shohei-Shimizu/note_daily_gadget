@@ -1,0 +1,344 @@
+{
+  "date": "2026-11-26",
+  "audit_kind": "read_only_translator_supplement_scope",
+  "source_pool": "2026-11-26_translator_supplement_pool.json",
+  "prior_audits": [
+    "2026-11-26_translator_primary_preflight.json",
+    "2026-11-26_translator_replenishment_proposal.json"
+  ],
+  "pool_count": 28,
+  "fresh_count": 3,
+  "fresh_asins": [
+    "B0H8YNT7NR",
+    "B0HF83LDBQ",
+    "B0FQPF59WR"
+  ],
+  "candidates": [
+    {
+      "asin": "B0H8YNT7NR",
+      "title": "Timekettle New T1 AI翻訳機 52言語106アクセント・44組オフライン翻訳対応 音声翻訳機 4G/Wi-Fi搭載 写真翻訳 双方向翻訳 リアルタイム翻訳 海外旅行 海外出張 語学学習 国際会議 ビジネス商談用 携帯翻訳機",
+      "url": "https://www.amazon.co.jp/dp/B0H8YNT7NR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0H8YNT7NR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/41GlJx-FeTL._SL500_.jpg",
+      "features": [
+        "【52言語106アクセント翻訳対応｜世界中で自然なコミュニケーションを実現】Timekettle T1は最新AI翻訳エンジンを搭載した高性能翻訳機です。52言語106アクセント音声翻訳に対応し、旅行・ビジネス・国際交流・語学学習など幅広いシーンで活躍します。英語、中国語、韓国語、スペイン語、フランス語、ドイツ語をはじめ、多くの主要言語をカバー。言葉が通じない不安を解消し、世界中の人々とスムーズな会話を実現します。",
+        "【44組オフライン翻訳対応｜通信環境がなくても安心】海外旅行中や山間部、機内、通信環境が不安定な場所でも利用できるよう、44組オフライン翻訳対応。インターネット接続がなくても翻訳機能を利用できるため、急なトラブル時や海外での移動中も安心です。ネット環境に左右されず、必要なときにすぐ翻訳できる頼れるパートナーです。",
+        "【4つの翻訳モード搭載｜あらゆる会話シーンに対応】ワンタッチ翻訳、チャット翻訳、リスニングモード、横画面モードを搭載し、さまざまなコミュニケーションシーンに柔軟に対応します。海外旅行中の現地の方との会話から、海外出張での商談、国際会議での情報収集、展示会での接客対応まで、相手の言葉をより自然に理解し、自分の思いをスムーズに伝えることができます。言語の壁を感じることなく、安心してコミュニケーションを楽しめます。",
+        "【写真翻訳機能搭載｜メニューや標識も瞬時に理解】高性能OCR文字認識技術を採用。レストランのメニュー、駅の案内板、道路標識、商品パッケージ、契約書類などを撮影するだけで、内容を素早く翻訳できます。海外旅行中の食事や移動、買い物、ビジネスシーンでの情報確認をよりスムーズにサポートします。",
+        "【グローバル通信対応｜海外旅行・出張の強い味方】4G通信とWi-Fi接続に対応し、世界中で快適な翻訳環境を実現。AIネットワーク認識技術により、利用環境に応じて最適な通信方式を自動選択します。翻訳精度は最大95％を実現し、会話のニュアンスまで正確に伝達。海外旅行、国際商談、展示会、現地視察など、グローバルなコミュニケーションを強力にサポートします。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Timekettle Fluentalk 翻訳機 T1"
+      ],
+      "maker": "Timekettle",
+      "model_candidate": "NEW T1",
+      "primary_urls": [
+        "https://www.timekettle.co/products/fluentalk-t1-handheld-translator-device",
+        "https://community.timekettle.co/en/post/timekettle-new-t1-user-guide-tutorials-faq-1138838"
+      ],
+      "scope_note": "現行NEW T1の独立手持ち本体/ボタン音声翻訳をメーカー確認。旧T1/T1 miniと世代・型番を分離。24か月付属通信、期限後WiFi/端末内プラン更新。オフラインは初回言語パックのダウンロード要否を明記。Amazon52言語/106アクセント/44組が現行説明と対応するがASINの一次リンク/物理型番は未確認。",
+      "scope_status": "primary_model_supported_ASIN_mapping_pending",
+      "db_readonly_result": {
+        "asin": "B0H8YNT7NR",
+        "parent_asin": null,
+        "parent_resolution_status": "no_parent",
+        "tier": null,
+        "brand": null
+      },
+      "parent_status": "no_parent",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "service_status": "現行公式に提供表示あり。限定検索で該当停止告知未発見、実機疎通/未来の継続保証ではない。",
+      "required_gate": [
+        "ASIN同型/世代/型番一次照合",
+        "親解決/no_parent確定と既存pool統合",
+        "カラー/SIM付属年数variant統合",
+        "メーカー最大2",
+        "最新Tier/レビュー/在庫実測",
+        "親確定後30日窓再照合"
+      ]
+    },
+    {
+      "asin": "B0HF83LDBQ",
+      "title": "iFLYTEK Smart Translator AI翻訳機 音声翻訳機 グローバル通信2年付 60言語対応 0.3秒翻訳 オンライン翻訳・リアルタイム翻訳・双方向音声翻訳・カメラ翻訳・オフライン翻訳対応 携帯翻訳機 海外旅行・ビジネスに",
+      "url": "https://www.amazon.co.jp/dp/B0HF83LDBQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0HF83LDBQ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/319JSkyyCQL._SL500_.jpg",
+      "features": [
+        "【対面での会話をもっとスムーズに｜双方向分割画面】iFLYTEK独自の双方向分割画面により、話し手と聞き手それぞれの翻訳結果を1画面に同時表示。翻訳機を交互に渡す必要がなく、相手の顔を見ながら自然に会話できます。5.05インチの高精細タッチディスプレイと直感的な操作性を備え、海外旅行はもちろん、ビジネス商談や学校・学習シーンにもおすすめです。",
+        "【60言語オンライン＋18言語ペアのオフライン翻訳】オンラインでは60言語に対応し、さらに18言語ペアのオフライン翻訳にも対応。飛行機内や通信環境が不安定な場所、海外の遠隔地でも、事前に言語パックをダウンロードしておけば翻訳を利用できます。海外旅行や出張など、さまざまなコミュニケーションシーンをサポートします。※オフライン言語パックのダウンロードにはWi-Fi接続が必要です。",
+        "【98％の高精度＆最速0.3秒のリアルタイム翻訳】iFLYTEK独自のAI音声翻訳技術を搭載し、翻訳精度98％、最速0.3秒の高速レスポンスを実現。会話の流れを止めにくく、日常会話からビジネスシーンまでスムーズなコミュニケーションをサポートします。世界最高峰の音声翻訳技術を、持ち歩きやすい1台に凝縮しました。",
+        "【HIPAA要件に準拠した、プライバシー重視の設計】大切な会話や機密性の高い情報を安心して翻訳できるよう、HIPAA（医療保険の相互運用性と説明責任に関する法律）の要件に準拠したプライバシー・セキュリティ設計を採用。外部ストレージへの保存やデータ共有に配慮し、医療・ビジネスなど、高い情報管理が求められるシーンでも安心して使えるAI翻訳機です。",
+        "【2年間のグローバル通信データを内蔵】約200の国と地域をカバーする2年間のモバイル通信データを内蔵。海外旅行中にSIMカードを購入・交換したり、追加の通信契約を用意したりする必要がありません。Wi-Fiやテザリングにも対応し、さまざまな環境で快適な通信をサポートします。",
+        "【50言語のカメラ翻訳で「読めない」も解決】音声だけでなく、50言語のカメラ翻訳にも対応。カメラをかざすだけで、海外のメニュー、道路標識、案内表示、商品ラベルなどの文字を読み取り、内容を確認できます。音声翻訳とカメラ翻訳を1台に集約し、旅行中の「これ、何て書いてある？」をスムーズに解決します。",
+        "【5インチHDディスプレイ＆直感的な操作性】5.05インチの高精細ディスプレイで翻訳結果を見やすく表示。タッチ操作に加えて物理ボタンも搭載し、シーンに合わせて直感的に操作できます。スマートフォンを取り出してアプリを起動する必要がなく、翻訳専用機だからこそ、会話中でもスムーズに使えます。",
+        "【コンパクトボディ＆約6時間の連続翻訳】ポケットにも収まりやすいコンパクト設計で、旅行や出張にも手軽に持ち運べます。1回の充電で約6時間の連続翻訳、最大10日間の待機に対応。さらに急速充電にも対応し、外出先でも使いやすい実用性を備えています。",
+        "【翻訳履歴を保存できる16GBストレージ】16GBの大容量ストレージを搭載し、最大1,000件の翻訳履歴を自動保存。過去の会話や翻訳内容を後から確認するときにも便利です。必要な情報を保存・整理でき、旅行やビジネスを支える実用的な翻訳デバイスとして活用できます。",
+        "【12か月保証・24時間サポート・無料OTAアップデート】購入後も安心して長く使える12か月保証と24時間カスタマーサポートを提供。さらに、OTAによる無料の継続アップデートに対応し、iFLYTEKの最新翻訳技術を長くお使いいただけます。旅行だけでなく、ビジネスでも継続して活用できる翻訳専用デバイスです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Vasco Translator M3 翻訳機"
+      ],
+      "maker": "iFLYTEK",
+      "model_candidate": "Smart Translator",
+      "primary_urls": [
+        "https://iflytek.co.jp/products/iflytek-smart-translator",
+        "https://iflytek.co.jp/pages/smart-translator-faq",
+        "https://www.iflytek.co.jp/wp-content/uploads/2023/10/iFLYTEKSmartTranslator_%E5%88%A9%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89.pdf"
+      ],
+      "scope_note": "メーカー現行同名の独立翻訳本体、音声/対面翻訳、グローバル通信2年と限定オフラインを確認。デュアルスクリーン別モデルと区別。APIタイトル0.3秒と公式0.5秒は不一致なので速度を保証/転記しない。実ASIN型番と付属通信プランを確認。",
+      "scope_status": "primary_model_supported_ASIN_mapping_pending",
+      "db_readonly_result": {
+        "asin": "B0HF83LDBQ",
+        "parent_asin": null,
+        "parent_resolution_status": "no_parent",
+        "tier": null,
+        "brand": null
+      },
+      "parent_status": "no_parent",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "service_status": "現行公式に提供表示あり。限定検索で該当停止告知未発見、実機疎通/未来の継続保証ではない。",
+      "required_gate": [
+        "ASIN同型/世代/型番一次照合",
+        "親解決/no_parent確定と既存pool統合",
+        "カラー/SIM付属年数variant統合",
+        "メーカー最大2",
+        "最新Tier/レビュー/在庫実測",
+        "親確定後30日窓再照合"
+      ]
+    },
+    {
+      "asin": "B0FQPF59WR",
+      "title": "Vasco Translator Q1 |ボイスクローニング技術搭載AI翻訳機 | 113言語に対応、約200の国と地域で繋がるデータ通信料永久無料 | Phantom Black",
+      "url": "https://www.amazon.co.jp/dp/B0FQPF59WR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FQPF59WR?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/21bMT1v3qbL._SL500_.jpg",
+      "features": [
+        "- 音声クローン対応AI翻訳機：54言語を自分の声で翻訳、自然でパーソナルな翻訳を実現します。",
+        "- 通話翻訳：世界53言語での通話を即時翻訳します。（初回10分無料、サポートより追加購入可能）",
+        "- データ通信永久無料：内蔵SIMにより、約200か国で繋がる翻訳用のデータ通信が永久無料、更新料も一切不要です。",
+        "- 多機能翻訳機：写真翻訳113言語、文字翻訳108言語、音声翻訳86言語に対応。言語を自動検出し瞬時に翻訳。",
+        "- 日本語のカスタマーサポート：オンラインで日本語の説明書がご取得いただけるほか、カスタマーサポートも日本語で対応しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "queries_matched": [
+        "Vasco Translator M3 翻訳機"
+      ],
+      "maker": "Vasco",
+      "model_candidate": "Translator Q1 Phantom Black",
+      "primary_urls": [
+        "https://vasco-translator.jp/translators/vasco-translator-q1/"
+      ],
+      "scope_note": "独立手持ち本体で音声翻訳、内蔵SIMのオンライン通信。メーカー音声86・写真113・テキスト108などモードを区別、113を音声数に転記しない。通話翻訳は無料10分後に追加購入なので端末機能全部永久無料と書かない。V4と合わせmaker最大2。",
+      "scope_status": "primary_model_supported_ASIN_mapping_pending",
+      "db_readonly_result": null,
+      "parent_status": "unverified_not_in_db",
+      "recent_use_matches": [],
+      "selection_status": "not_selected",
+      "stock_measurement": "not_performed",
+      "service_status": "現行公式に提供表示あり。限定検索で該当停止告知未発見、実機疎通/未来の継続保証ではない。",
+      "required_gate": [
+        "ASIN同型/世代/型番一次照合",
+        "親解決/no_parent確定と既存pool統合",
+        "カラー/SIM付属年数variant統合",
+        "メーカー最大2",
+        "最新Tier/レビュー/在庫実測",
+        "親確定後30日窓再照合"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "asin": "B0GHY547M3",
+      "title": "Timekettle W4 Pro AI通訳機 翻訳機 翻訳イヤホン 双方向同時通訳 52言語・106アクセント対応 通話翻訳 オンライン会議 動画翻訳 AI議事録作成 計13組オフライン翻訳 オープンイヤー型 音楽対応 Bluetooth接続 iOS15.0/Android7.0以上対応 専用アプリ必須 海外旅行 出張 ビジネス タイムケトル パープル",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0BVBPJ91Z",
+      "title": "Timekettle M3 イヤホン翻訳機 オンライン式 43言語96アクセント タイムケトル 音楽・通話可能 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ブラック",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0FGX9C7S4",
+      "title": "Timekettle W4 翻訳機能付きイヤホン 骨声紋センサー内蔵 98％精度 52ヶ国語と106アクセント AI通訳機 AIによる自動誤り訂正 翻訳イヤホン 専用アプリが必要 ビジネス商談 海外出張 翻訳機 タイムケトル ブルー",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0H25RB9BS",
+      "title": "Timekettle X1 Meeting 独立型AI同時通訳機 最大50人・5言語リアルタイム同時通訳 スマホアプリ不要のスタンドアローン設計 3.4インチHD画面＋翻訳イヤホン付き オンライン・オフライン多言語会議システム 骨声紋認識＋AIノイズキャンセリング リモート会議(Zoom/Teams)対応 音声・動画翻訳 国際会議・展示会・工場研修・海外出張・ビジネス商談向け (本体)",
+      "reason": "X1 Meetingは独立端末でスマホアプリ不要だが、公式では翻訳イヤホンを中心とした会議ハブ構造。T1系の手持ち音声再生本体とは別比較軸。今回はearbudsを混ぜない条件により保留/除外。必要ならテーマの構造範囲を主担当が再判断。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0BRCDYNXS",
+      "title": "Timekettle M3 イヤホン翻訳機 オフライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ホワイト",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0BRC9V334",
+      "title": "Timekettle M3 イヤホン翻訳機 オフライン式 43言語96アクセント タイムケトル 専用アプリ 双方向音声通訳機 ANC・通話ノイズ低減 音楽・通話可能 携帯翻訳機 海外旅行 ビジネス 出張 語学学習 iOS15.0&Android7.0以上対応 Bluetooth5.2対応 ブラック",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0FNRK56K7",
+      "title": "Timekettle W4 翻訳機能付きイヤホン 骨声紋センサー内蔵 98％精度 52ヶ国語と106アクセント AI通訳機 AIによる自動誤り訂正 翻訳イヤホン 専用アプリが必要 ビジネス商談 海外出張 翻訳機 タイムケトル ゴールド",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0H8NPRMSF",
+      "title": "翻訳機 Wifi不要 音声翻訳機 音声翻訳機 オフライン翻訳対応 大画面 携帯翻訳機 オンライン翻訳 オフライン翻訳 カメラ翻訳 写真翻訳 リアルタイム翻訳 双方向翻訳 タッチスクリーン 世界時計 海外旅行 外国人 為替レートの変換 ChatGPT対応可能",
+      "reason": "独立メーカー同型/サービス配信元を限定一次調査で未同定。販売題だけでハンドヘルド本体・通信継続を確定しない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0GYNGVN21",
+      "title": "イヤホン翻訳機 【2025年新モデル】翻訳機1位 AI翻訳機 通訳イヤホン 翻訳機能付きイヤホン 144言語対応 同時通訳 スマートタッチ操作 ディスプレイ搭載 高精度 通話 音楽再生 Bluetooth 音漏れ抑制 ノイズキャンセリングイヤホン 英語 中国語 フランス語 ロシア語 日本語 オンライン翻訳・オフラインなどを翻訳対応 海外旅行 出張 音楽/ゲーム（white）",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0CT378Q1M",
+      "title": "Wooask W12 翻訳機 音声翻訳機 ウーアスク【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.5秒翻訳 写真翻訳 オフライン対応 タッチスクリーン",
+      "reason": "既存10候補と同ASIN。merge重複除外。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0B74752CR",
+      "title": "イヤホン翻訳機 通訳機 公式 Wooask M6 PLUS ウーアスク プラス 【オフライン対応版】 イヤホン型 AI翻訳機 オフライン 翻訳機 127言語対応 高精度 通話 音楽再生可能 Bluetooth ハンズフリートーク 英語 中国語 フランス語 イタリア語 日本語",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0H7VP4HBS",
+      "title": "翻訳イヤホン Wooask M9 オープンイヤー オフライン対応",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0F8V8458Q",
+      "title": "Wooask W12 翻訳機 音声翻訳機 ウーアスク【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.5秒翻訳 写真翻訳 オフライン対応 タッチスクリーン (W12)",
+      "reason": "既存Wooask W12と同名別流通/variant。親未確認でも新モデル数へ追加せず統合。同ASINの新旧改版が実証された場合のみ再監査。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0DJ969YGN",
+      "title": "翻訳イヤホン 翻訳機 Wooask M3 PLUS ウーアスク プラス AI通訳イヤホン 144言語対応 公式 (オン・オフライン版)",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0B72NQWQK",
+      "title": "Wooask M6 127言語対応 翻訳機 通訳機 ウーアスク イヤホン イヤホン型 オンライン版 AI翻訳機 高精度 通話 音楽再生可能 Bluetooth ハンズフリー 英語 中国語 フランス語 イタリア語 日本語 PSE 技適認証済み",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0FWQDBBGZ",
+      "title": "Wooask A8 翻訳機 通訳機 翻訳イヤホン オフライン対応 ChatGPT 搭載 モニター付翻訳機 ウーアスク イヤホン型 AI翻訳機 画面付 AIチャット 144言語対応 高精度 通話 音楽再生 Bluetooth ハンズフリートーク 英語 韓国語",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0FS59PWM9",
+      "title": "InnAIO T10 音声翻訳機 AI同時通訳機 GPTリアルタイム翻訳 140言語対応 声質クーロン搭載 高精度写真翻訳 ビジネス会議 会議通訳 オンライン会議 対面通訳 海外旅行向け 多言語翻訳デバイス",
+      "reason": "独立メーカー同型/サービス配信元を限定一次調査で未同定。販売題だけでハンドヘルド本体・通信継続を確定しない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0F5NSRNHL",
+      "title": "FILMEXT フィルム Wooask W10 翻訳機 用 曲面対応 超透明 保護フィルム 自己修復材料 日本製",
+      "reason": "ケース/保護フィルム等アクセサリ、本体でない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0B7S9WD15",
+      "title": "Vasco Translator V4 AI音声翻訳機｜113言語対応｜法人・インバウンド対応｜通信料永久無料｜海外でもそのまま使える｜買いきり",
+      "reason": "既存Vasco V4のカラー/同名variant。独立モデルの水増しにしない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0B7SBVGP6",
+      "title": "Vasco Translator V4 AI音声翻訳機｜113言語対応｜法人・インバウンド対応｜通信料永久無料｜海外でもそのまま使える｜買いきり",
+      "reason": "既存10候補と同ASIN。merge重複除外。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0B7SD23LR",
+      "title": "Vasco Translator V4 AI音声翻訳機｜113言語対応｜法人・インバウンド対応｜通信料永久無料｜海外でもそのまま使える｜買いきり",
+      "reason": "既存Vasco V4のカラー/同名variant。独立モデルの水増しにしない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0FXPZDXQ4",
+      "title": "Ruilicase 専用 収納ケース Vasco Translator V4/M3音声翻訳機 対応（ケースのみ)",
+      "reason": "ケース/保護フィルム等アクセサリ、本体でない。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0DQ6Y68F4",
+      "title": "MUMEOMU Z8 AI翻訳機 283ヵ国137言語対応 音声翻訳機【オンライン翻訳＋オフライン翻訳＋カメラ翻訳＋録音翻訳＋リアルタイム翻訳+ChatGPT】双方向翻訳 携帯翻訳機 日本語 中国語 英語 0.2秒",
+      "reason": "既存10候補と同ASIN。merge重複除外。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0FQPM47RW",
+      "title": "Vasco Translator Q1 |ボイスクローニング技術搭載AI翻訳機 | 113言語に対応、約200の国と地域で繋がるデータ通信料永久無料 | Mystic Plum",
+      "reason": "Q1 Mystic Plum色違い。Phantom Blackと統合。",
+      "recent_use_matches": []
+    },
+    {
+      "asin": "B0FDGK5C23",
+      "title": "Timekettle W4 Pro AI通訳機 翻訳機 翻訳イヤホン 双方向同時通訳 52言語・106アクセント対応 通話翻訳 オンライン会議 動画翻訳 AI議事録作成 計13組オフライン翻訳 オープンイヤー型 音楽対応 Bluetooth接続 iOS15.0/Android7.0以上対応 専用アプリ必須 海外旅行 出張 ビジネス タイムケトル グレー",
+      "reason": "イヤホン型/アプリ連携翻訳機。手持ち本体の比較へ混ぜない。",
+      "recent_use_matches": []
+    }
+  ],
+  "requested_targets_not_returned": [
+    "Timekettle T1 mini hand-held body",
+    "old Fluentalk T1 body",
+    "Wooask W10 body",
+    "Wooask W09 body",
+    "Vasco Translator M3 body"
+  ],
+  "returned_accessory_warning": "Wooask W10用フィルムとVasco M3対応ケースは補充本体ではない。",
+  "reuse_check": {
+    "account_id": "daily_gadget",
+    "cutoff": "2026-10-27",
+    "window_end_exclusive": "2026-11-26",
+    "connection": "mode=ro",
+    "db": "shared/db/product.sqlite",
+    "matches": "fresh ASIN/既知親一致なし",
+    "note": "NEW T1/iFLYTEKはDB no_parentだがTier未判定、Q1はDB未登録で親未確認。補充時の親解決と再照合を実施する。"
+  },
+  "merge_conditions": [
+    "Vasco V4色違いを1商品へ統合、Q1色違いも1商品。V4+Q1はメーカー最大2内。",
+    "POCKETALK S色違いとSIM年数の違いだけで独立商品数を増やさない。",
+    "NEW T1・旧T1・T1 miniの仕様を混用しない。今回返却はNEW T1のみ。",
+    "Wooask W12別流通をW10/W09の代わりに新モデル計上しない。",
+    "既存白POCKETALK S PTSWW通信付き矛盾とメーカー未同定3ASINの保留を継続。"
+  ],
+  "x1_primary_urls": [
+    "https://www.timekettle.co/en-inter/pages/x1",
+    "https://www.timekettle.co/blogs/tips-and-tricks/timekettle-x1-vs-x1-meeting-a-comprehensive-comparison"
+  ],
+  "no_final_selection": true,
+  "no_ui_api_measurement_db_write": true,
+  "canonical_pool_modified": false
+}

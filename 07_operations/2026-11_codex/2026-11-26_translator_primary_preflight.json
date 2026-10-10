@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-26",
+  "topic_id": "daily_gadget_20261126_9ccd2f95",
+  "audit_kind": "bounded_primary_scope_service_preflight",
+  "observed_candidate_count": 10,
+  "observed_db_parent_count": 8,
+  "count_note": "依頼の8件はDB親数と一致。保存候補は10 ASIN。",
+  "historical_tier1_count": 0,
+  "no_ui_api_measurement_db_write": true,
+  "canonical_metadata_modified": false,
+  "sources": {
+    "vasco_v4": "https://vasco-translator.jp/translators/vasco-translator-v4/",
+    "vasco_press": "https://vasco-translator.jp/wp/wp-content/uploads/2023/02/V4_PressRelease_JP.pdf",
+    "wooask_w12": "https://store.wooask.com/zh-hans/products/w12-translator-device",
+    "pocketalk_models": "https://pocketalk.jp/pages/pocketalk-warranty",
+    "pocketalk_sim": "https://pocketalk.jp/pocketalk/sim-extension",
+    "pocketalk_w_end": "https://support.sourcenext.com/fa/support/web/knowledge27106.html",
+    "pocketalk_faq": "https://pocketalk.jp/device/faq",
+    "pocketalk_center": "https://pocketalk.jp/pt-center"
+  },
+  "checks": [
+    {
+      "asin": "B0B7SBVGP6",
+      "title": "Vasco Translator V4 | 音声翻訳機 | 108言語、約200の 国と地域に対応 | 通信料永久無料・買い替え不要",
+      "maker": "Vasco",
+      "historical_tier": 2,
+      "stock_measurement": "not_performed",
+      "selection_status": "not_selected",
+      "same_asin_primary_link_verified": false,
+      "service_stop_status": "no_applicable_stop_notice_found_in_bounded_search_not_lifetime_guarantee",
+      "model": "Vasco Translator V4",
+      "primary_model_status": "same_named_model_confirmed_ASIN_link_unverified",
+      "standalone_voice": "メーカーの端末上マイク操作・画面表示・音声再生を確認。通常の音声翻訳にスマホアプリは必須ではない。",
+      "network": "内蔵SIM/4GまたはWiFiを用いるオンライン端末。SIM通信料無料のメーカー表示とオフライン翻訳を混同しない。",
+      "caution": "現在公式の音声86・テキスト108・カメラ113は別の対応数。タイトル108言語を音声対応数として転記しない。MultiTalkのスマホ利用要件を通常音声翻訳へ広げない。",
+      "sources": [
+        "https://vasco-translator.jp/translators/vasco-translator-v4/",
+        "https://vasco-translator.jp/wp/wp-content/uploads/2023/02/V4_PressRelease_JP.pdf"
+      ]
+    },
+    {
+      "asin": "B07ZP5CH8P",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付70言語以上対応 ホワイト PTSWW",
+      "maker": "POCKETALK",
+      "historical_tier": 2,
+      "stock_measurement": "not_performed",
+      "selection_status": "not_selected",
+      "same_asin_primary_link_verified": false,
+      "service_stop_status": "W終了告知はS/S Plus/S2/S2 Plusを対象外と明記。Pocketalk Center終了は端末翻訳サービス終了ではない。",
+      "model": "PTSWW / PTSGW mismatch",
+      "primary_model_status": "hold_model_and_included_connectivity_conflict",
+      "standalone_voice": "専用本体で音声翻訳。通信経路が必要であり、WiFiを用意できればスマホは必須ではない。テザリングは任意の接続手段。",
+      "network": "グローバル通信付属期間終了後は延長・新SIM・WiFi/テザリングで利用可能。モデルコードだけで2年/別期間の同梱プランを確定しない。",
+      "sources": [
+        "https://pocketalk.jp/pages/pocketalk-warranty",
+        "https://pocketalk.jp/pocketalk/sim-extension",
+        "https://support.sourcenext.com/fa/support/web/knowledge27106.html",
+        "https://pocketalk.jp/device/faq"
+      ],
+      "caution": "保存タイトルはグローバル通信2年付とPTSWWを併記。公式PTSWWは通信なし、PTSGWは通信付き。現物型番/同梱通信プランを一次資料と実測で解消するまで通信2年を記載しない。"
+    },
+    {
+      "asin": "B0CT378Q1M",
+      "title": "Wooask W12 翻訳機 音声翻訳機 ウーアスク【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.5秒翻訳 写真翻訳 オフライン対応 タッチスクリーン",
+      "maker": "Wooask",
+      "historical_tier": 2,
+      "stock_measurement": "not_performed",
+      "selection_status": "not_selected",
+      "same_asin_primary_link_verified": false,
+      "service_stop_status": "no_applicable_stop_notice_found_in_bounded_search_not_lifetime_guarantee",
+      "model": "Wooask W12",
+      "primary_model_status": "same_named_model_confirmed_ASIN_link_unverified",
+      "standalone_voice": "独立メーカーFAQは外部端末不要の単体翻訳機と明記。",
+      "network": "2.4GHz WiFi。オンライン144は74言語+70アクセント、オフライン16言語。オンライン時の接続先WiFiやテザリング費用まで無料とは保証しない。",
+      "caution": "公式SKU WOOASK-W12Bと当該ASINの同一改版は未確認。",
+      "sources": [
+        "https://store.wooask.com/zh-hans/products/w12-translator-device"
+      ]
+    },
+    {
+      "asin": "B07ZP695PB",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付92言語以上対応 ブラック PTSGK",
+      "maker": "POCKETALK",
+      "historical_tier": 3,
+      "stock_measurement": "not_performed",
+      "selection_status": "not_selected",
+      "same_asin_primary_link_verified": false,
+      "service_stop_status": "W終了告知はS/S Plus/S2/S2 Plusを対象外と明記。Pocketalk Center終了は端末翻訳サービス終了ではない。",
+      "model": "PTSGK",
+      "primary_model_status": "same_named_model_confirmed_ASIN_link_unverified",
+      "standalone_voice": "専用本体で音声翻訳。通信経路が必要であり、WiFiを用意できればスマホは必須ではない。テザリングは任意の接続手段。",
+      "network": "グローバル通信付属期間終了後は延長・新SIM・WiFi/テザリングで利用可能。モデルコードだけで2年/別期間の同梱プランを確定しない。",
+      "sources": [
+        "https://pocketalk.jp/pages/pocketalk-warranty",
+        "https://pocketalk.jp/pocketalk/sim-extension",
+        "https://support.sourcenext.com/fa/support/web/knowledge27106.html",
+        "https://pocketalk.jp/device/faq"
+      ],
+      "caution": "同じSの色違い。白SとはDB親が別だが独立した製品モデルとして水増ししない。"
+    },
+    {
+      "asin": "B07ZP8D717",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S グローバル通信2年付92言語以上対応 ゴールド PTSGG",
+      "maker": "POCKETALK",
+      "historical_tier": 3,
+      "stock_measurement": "not_performed",
+      "selection_status": "not_selected",
+      "same_asin_primary_link_verified": false,
+      "service_stop_status": "W終了告知はS/S Plus/S2/S2 Plusを対象外と明記。Pocketalk Center終了は端末翻訳サービス終了ではない。",
+      "model": "PTSGG",
+      "primary_model_status": "same_named_model_confirmed_ASIN_link_unverified",
+      "standalone_voice": "専用本体で音声翻訳。通信経路が必要であり、WiFiを用意できればスマホは必須ではない。テザリングは任意の接続手段。",
+      "network": "グローバル通信付属期間終了後は延長・新SIM・WiFi/テザリングで利用可能。モデルコードだけで2年/別期間の同梱プランを確定しない。",
+      "sources": [
+        "https://pocketalk.jp/pages/pocketalk-warranty",
+        "https://pocketalk.jp/pocketalk/sim-extension",
+        "https://support.sourcenext.com/fa/support/web/knowledge27106.html",
+        "https://pocketalk.jp/device/faq"
+      ],
+      "caution": "同じSの色違い。白SとはDB親が別だが独立した製品モデルとして水増ししない。"
+    },
+    {
+      "asin": "B08BP1912B",
+      "title": "AI翻訳機 POCKETALK(ポケトーク)S Plus(1.85倍大型画面) グローバル通信2年付70言語以上対応 ホワイト PTSPGW",
+      "maker": "POCKETALK",
+      "historical_tier": 3,
+      "stock_measurement": "not_performed",
+      "selection_status": "not_selected",
+      "same_asin_primary_link_verified": false,
+      "service_stop_status": "W終了告知はS/S Plus/S2/S2 Plusを対象外と明記。Pocketalk Center終了は端末翻訳サービス終了ではない。",
+      "model": "PTSPGW",
+      "primary_model_status": "same_named_model_confirmed_ASIN_link_unverified",
+      "standalone_voice": "専用本体で音声翻訳。通信経路が必要であり、WiFiを用意できればスマホは必須ではない。テザリングは任意の接続手段。",
+      "network": "グローバル通信付属期間終了後は延長・新SIM・WiFi/テザリングで利用可能。モデルコードだけで2年/別期間の同梱プランを確定しない。",
+      "sources": [
+        "https://pocketalk.jp/pages/pocketalk-warranty",
+        "https://pocketalk.jp/pocketalk/sim-extension",
+        "https://support.sourcenext.com/fa/support/web/knowledge27106.html",
+        "https://pocketalk.jp/device/faq"
+      ],
+      "caution": "S PlusとS2 Plusは世代違いだが現在同一DB親。親解決を飛ばして別商品数に計上しない。"
+    },
+    {
+      "asin": "B0DHV75M4X",
+      "title": "AUTOOSE Z2 翻訳機 音声翻訳機【SIM不要/追加料金不要/オフライン翻訳対応】画面 携帯翻訳機 144言語対応 0.2秒翻訳 写真翻訳 オフライン対応 タッチスクリーン 写真翻訳",
+      "maker": "AUTOOSE",
+      "historical_tier": 3,
+      "stock_measurement": "not_performed",
+      "selection_status": "not_selected",
+      "same_asin_primary_link_verified": false,
+      "service_stop_status": "unknown_no_identified_primary_service_operator",
+      "primary_model_status": "hold_independent_manufacturer_and_same_model_not_identified",
+      "standalone_voice": "商品タイトルだけでは確定しない。",
+      "network": "SIM不要/オフライン/ChatGPTの範囲・配信元・継続状況をメーカー一次資料で未確認。",
+      "caution": "公式資料未発見はサービス終了の証明ではない。Wooask等の似た外観・互換品資料で同型と推定しない。Manuals.plusのASIN別生成説明や販売転載は一次根拠に採用しない。",
+      "sources": []
+    },
+    {
+      "asin": "B0DJLZMYR4",
+      "title": "【公式ストア限定】AI翻訳機 POCKETALK(ポケトーク)S2 Plus 1.85倍大型画面グローバル通信2年付90言語以上対応特別セット ホワイト 画面保護シール+ケース+ネックストラップ+ポーチ+海外用変換プラグ+ACアダプター PTS2P-W",
+      "maker": "POCKETALK",
+      "historical_tier": 3,
+      "stock_measurement": "not_performed",
+      "selection_status": "not_selected",
+      "same_asin_primary_link_verified": false,
+      "service_stop_status": "W終了告知はS/S Plus/S2/S2 Plusを対象外と明記。Pocketalk Center終了は端末翻訳サービス終了ではない。",
+      "model": "PTS2P-W",
+      "primary_model_status": "same_named_model_confirmed_ASIN_link_unverified",
+      "standalone_voice": "専用本体で音声翻訳。通信経路が必要であり、WiFiを用意できればスマホは必須ではない。テザリングは任意の接続手段。",
+      "network": "グローバル通信付属期間終了後は延長・新SIM・WiFi/テザリングで利用可能。モデルコードだけで2年/別期間の同梱プランを確定しない。",
+      "sources": [
+        "https://pocketalk.jp/pages/pocketalk-warranty",
+        "https://pocketalk.jp/pocketalk/sim-extension",
+        "https://support.sourcenext.com/fa/support/web/knowledge27106.html",
+        "https://pocketalk.jp/device/faq"
+      ],
+      "caution": "S PlusとS2 Plusは世代違いだが現在同一DB親。親解決を飛ばして別商品数に計上しない。"
+    },
+    {
+      "asin": "B0DQ6Y68F4",
+      "title": "MUMEOMU Z8 AI翻訳機 283ヵ国137言語対応 音声翻訳機【オンライン翻訳＋オフライン翻訳＋カメラ翻訳＋録音翻訳＋リアルタイム翻訳+ChatGPT】双方向翻訳 携帯翻訳機 日本語 中国語 英語 0.2秒",
+      "maker": "MUMEOMU",
+      "historical_tier": 3,
+      "stock_measurement": "not_performed",
+      "selection_status": "not_selected",
+      "same_asin_primary_link_verified": false,
+      "service_stop_status": "unknown_no_identified_primary_service_operator",
+      "primary_model_status": "hold_independent_manufacturer_and_same_model_not_identified",
+      "standalone_voice": "商品タイトルだけでは確定しない。",
+      "network": "SIM不要/オフライン/ChatGPTの範囲・配信元・継続状況をメーカー一次資料で未確認。",
+      "caution": "公式資料未発見はサービス終了の証明ではない。Wooask等の似た外観・互換品資料で同型と推定しない。Manuals.plusのASIN別生成説明や販売転載は一次根拠に採用しない。",
+      "sources": []
+    },
+    {
+      "asin": "B0FWQX4F4F",
+      "title": "AUTOOSE Z9 AI翻訳機 音声翻訳機 ChatGPT搭載【SIM不要/追加料金不要/オフライン翻訳対応】 携帯翻訳機 150言語対応 0.5秒翻訳 オンライン翻訳/双方向音声翻訳/写真翻訳/電話翻訳/入力翻訳/録音翻訳 携帯翻訳機",
+      "maker": "AUTOOSE",
+      "historical_tier": 3,
+      "stock_measurement": "not_performed",
+      "selection_status": "not_selected",
+      "same_asin_primary_link_verified": false,
+      "service_stop_status": "unknown_no_identified_primary_service_operator",
+      "primary_model_status": "hold_independent_manufacturer_and_same_model_not_identified",
+      "standalone_voice": "商品タイトルだけでは確定しない。",
+      "network": "SIM不要/オフライン/ChatGPTの範囲・配信元・継続状況をメーカー一次資料で未確認。",
+      "caution": "公式資料未発見はサービス終了の証明ではない。Wooask等の似た外観・互換品資料で同型と推定しない。Manuals.plusのASIN別生成説明や販売転載は一次根拠に採用しない。",
+      "sources": []
+    }
+  ],
+  "supply_warning": {
+    "status": "replenishment_or_theme_change_likely",
+    "reason": "公式独立資料が見つからないAUTOOSE Z2/Z9とMUMEOMU Z8を未確認のまま採用せず、POCKETALKメーカー最大2を適用すると、既存資料で同型の説明に進める商品数は最大4（POCKETALK2+Vasco1+Wooask1）。白S型番矛盾と親/色違いを解消しても5商品の自然な成立を証明していない。歴史Tier1ゼロ、Tier2は3 ASINのみ。最新実測は別途必要。",
+    "proposed_next_step": "現テーマなら独立公式のある別メーカー/別モデルの専用音声端末を補充し、API候補と実測を主担当が確認。5商品成立しなければ主担当がテーマ変更を判断。補充未実施、最終選抜未実施。"
+  },
+  "service_end_distinction": {
+    "POCKETALK_W": "グローバルSIMは2026-01末終了、翻訳機能は2027-06-30停止予定。現候補にWはなし。",
+    "POCKETALK_S_families": "W告知で対象外。古い販売終了だけでは排除しない。",
+    "POCKETALK_Center": "管理サービス2024-10-15終了、他製品継続を公式明記。端末翻訳停止と区別。",
+    "unknown_brands": "サービス稼働/停止とも一次証明なし。未同定として保留。"
+  },
+  "search_limit_note": "ブランド完全一致と型番、公式POCKETALK/Vasco/Wooaskに限定。広域追加候補収集は行っていない。"
+}
