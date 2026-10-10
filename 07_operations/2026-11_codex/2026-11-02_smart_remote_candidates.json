@@ -1,0 +1,396 @@
+{
+  "generated_at": "2026-10-10T01:00:56+00:00",
+  "account_id": "daily_gadget",
+  "topic_id": "daily_gadget_20261102_f6e93a8d",
+  "partner_tag": "daily-gadget-22",
+  "mode": "library",
+  "queries": [
+    "dg_20261102_smart_remote"
+  ],
+  "fetched_count": 9,
+  "dedup_count": 9,
+  "candidates": [
+    {
+      "asin": "B08P6ZSXWZ",
+      "title": "Nature Remo mini 2 ネイチャーリモ スマートリモコン 温度センサー搭載 お子様やペットの室温管理に Alexa/Google Home/Siri対応 Remo-2W2",
+      "url": "https://www.amazon.co.jp/dp/B08P6ZSXWZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08P6ZSXWZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51UgblSwGHL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【温度センサーで室温管理】スマホから0.1℃単位で室温を確認。室温に敏感なお子様やペットがいる方にも。",
+        "【ダイキン製エアコンの細やかな操作も】「お休み運転」、「自動内部クリーン」「加湿暖房」などの6つの固有機能に対応。",
+        "【遠くの家電でも操作】前モデルと比べて、赤外線飛距離が約2倍に。蛍光灯の照明がある環境など、赤外線信号が届きにくい環境でも操作できます。",
+        "【オートメーションで日々を快適に】曜日・時間、位置情報に加え、温度の条件で家電の操作を自動化。28度以上で冷房をオンすることも可能です。"
+      ],
+      "maker": "Nature",
+      "query": "dg_20261102_smart_remote",
+      "queries_matched": [
+        "dg_20261102_smart_remote"
+      ],
+      "review_count": 9837,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "smart_home",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-08-23",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "DBブランドNatureと商品名Nature Remoの統合。公式ライブ再確認未実施",
+      "parent_asin": "B0G1YLSH8T",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:04:03+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0C6V1CJB7",
+      "title": "【Echoから家電を音声操作】Nature Remo nano ネイチャーリモ スマートリモコン スマホからリモコン操作 いつもの家電操作を効率化 Alexa/Google Home/Siri対応 Remo-5W1",
+      "url": "https://www.amazon.co.jp/dp/B0C6V1CJB7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0C6V1CJB7?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/4175XD2OT1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "はじめてのスマートホームに: テレビ、エアコン、扇風機。たくさんのリモコンはぜんぶスマホにまとめて、いつもの家電操作を効率化してみませんか。",
+        "オートメーションで、日々を快適に: 曜日・時間、位置情報の条件で家電操作を自動化。起床時にテレビと照明を自動でオン、家に近づいたらエアコンを自動でオンすることも。",
+        "スマートスピーカーと連携して便利に: 料理中などスマホを触れない時でも音声で家電操作が可能。アレクサまたはGoogleアシスタントに対応しています。",
+        "小さくても共通規格Matterに対応: スマートホームの共通規格「Matter」に対応。古い家電がMatter対応家電に早変わり。Matterを介してApple HomePodにも接続できます。",
+        "短縮されたセットアップ: セットアップにBluetooth Low Energyを採用し、セットアップにかかる時間を手間を短縮。",
+        "ボタンを押すだけで自動登録: リモコンをNature Remo本体に向けて、ボタンを押すだけ。家電登録も手間なく行えます。",
+        "古い家電も、幅広い機種に対応: 赤外線方式のリモコンに対応した家電であれば、メーカーや型番・年式などに関係なく使用可能です。",
+        "省資源化による環境配慮: 省資源化を行い、輸送時に排出されるCO2を削減。塗装レスにしたことで、性能・デザインを損なわずに、VOC（揮発性有機化合物）の排出量を削減しました。",
+        "日本でデザイン、中国で組み立て: Designed by Nature in Japan, Assembled in Chinaの品質管理のもと製造されています。",
+        "赤外線リモコン対応家電に幅広く使用可能: 赤外線方式のリモコンで操作できる家電であれば、古い機種から新しい機種まで幅広く対応しています。"
+      ],
+      "maker": "Nature",
+      "query": "dg_20261102_smart_remote",
+      "queries_matched": [
+        "dg_20261102_smart_remote"
+      ],
+      "review_count": 3433,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "smart_home",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_observed_at": "2026-09-11T00:10:34+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "DBブランドNatureと商品名Nature Remoの統合。公式ライブ再確認未実施",
+      "parent_asin": "B0H11HDH46",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:04:10+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08BLSLWH4",
+      "title": "Nature Remo 3 ネイチャーリモ スマートリモコン 温湿度/照度/人感センサー搭載 スマートロック対応 Alexa/Google Home/Siri対応 Remo-1W3",
+      "url": "https://www.amazon.co.jp/dp/B08BLSLWH4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08BLSLWH4?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61NUiIuulpL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【4つのセンサーの精度向上】温度/湿度/照度/人感センサーを搭載。照度センサーの性能も前モデルより向上しています。",
+        "【他社デバイスにも対応】めざましカーテン「mornin&#39; plus」に対応しています。",
+        "【7つの細やかなオートメーション】「曜日・時間、位置情報・温度」に加え、「湿度・照度・人感」の条件で家電を自動で操作。人が通ったら電気をオン、部屋が暗くなったら電気をオンということも可能です。",
+        "【空間に溶け込むデザイン】前モデルと比較して軽く・小さくなり、角のない丸みをおびたデザインに。LEDもホタルの光り方をイメージした優しい光になっています。",
+        "【Apple Watchから操作】スマホがなくても、手元で操作が可能。Apple WatchのSiriからショートカットで音声操作することもできます。",
+        "【防犯もスマートに】決まった時間に照明をつけたり、カーテンを閉めたりして留守を悟らせないように。スマートロックと連携して、鍵の閉め忘れもなくせます。",
+        "【おうち時間を快適に】温度・湿度に応じたオートメーションでエアコンを自動で操作。リラックスできる環境を整えることができます。スマートスピーカーがあれば、その場から声で家電を操作することもできます。",
+        "【日々のルーティンを自動化】豊富なセンサーを使ったオートメーション機能で、好きな条件で家電を自動で操作できます。夜決まった時間に照明やテレビをOFFにすれば、お子様の生活習慣づけにも役立ちます。",
+        "【主要スマートスピーカー対応】Alexa、Google Home、Siriに対応しており、音声で家電を操作することができます。",
+        "【日本設計】日本国内で設計された製品で、日本の住環境に最適化されたスマートリモコンです。"
+      ],
+      "maker": "Nature",
+      "query": "dg_20261102_smart_remote",
+      "queries_matched": [
+        "dg_20261102_smart_remote"
+      ],
+      "review_count": 2855,
+      "star_rating": 4.2,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "smart_home",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-22",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "DBブランドNatureと商品名Nature Remoの統合。公式ライブ再確認未実施",
+      "parent_asin": "B0H1M9R868",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:04:18+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DSPXKDP8",
+      "title": "【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) Alexa - 温湿度センサー搭載 スイッチボット Hub Mini マター対応 スマートホーム 学習リモコン 赤外線家電を管理 節電·省エネ Echo Google Home Siri IFTTT SmartThings対応 Kataステッカー付き 熱中症対策",
+      "url": "https://www.amazon.co.jp/dp/B0DSPXKDP8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DSPXKDP8?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61H8-E60PlL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【新基準のMatter対応、新規格のスマートホームハブ】インターネットに接続できない赤外線の家電製品（エアコン、照明、テレビなど）や、従来HomeKit非対応のSwitchBot Bluetooth通信デバイスなど、ハブミニ(Matter対応) に連携して、Matter(マター)に通じて、Apple Homeアプリ上で管理したり、スマートスピーカーで音声コントロールしたりできるようになります。(※Apple Homeからデバイスを操作するには、Apple Homepodなどとの併用が必要です。Matterを利用するには、Amazon Echoシリーズや、Apple Homepod、Google Nest hubなどのMatterコントローラーデバイスが必要です。)",
+        "【自宅の温湿度を管理】付属のケーブルには温度センサーと湿度センサーが搭載、お部屋の温湿度がより精確に分かります。",
+        "【簡単セットアップに対応、セットアップ手順もシンプルに】デバイスをコンセントに挿すだけですぐに使えます！煩わしい設定手順から解放されます。（*簡単セットアップ機能を利用するには、インターネットにすでに接続されているAmazon Echoデバイスが必要です。本機能はAmazonで購入した場合のみ対応可能となります。必ず2.4Ghz帯のWi-Fiに接続してください。）",
+        "【あらゆる赤外線家電はそのままスマート家電に】圧倒的な赤外線コードデータベース所有量が所有し、新デバイスも旧式家電も簡単にスマートに。自社開発のスマートラーニング方式で、ワンボタンで家電を登録。",
+        "【家中のリモコンを1つに集約し、スマホから操作】エアコン・テレビ・照明など、多くの赤外線タイプのリモコンに対応。簡単なデバイス登録を行えば、赤外線タイプのリモコンを本製品1台にまとめて、スマートフォンから管理・操作できます。外出先からスマホでエアコンを操作したり、テレビや照明をコントロールしたらすることが可能に。",
+        "【Works with Alexa認定】本商品はWorks with Alexa認定を受けたAmazon Alexa対応端末です。※本製品は2.4GHz帯の電波周波数帯のみ対応。",
+        "【限定のKataステッカー付き】"
+      ],
+      "maker": "SwitchBot",
+      "query": "dg_20261102_smart_remote",
+      "queries_matched": [
+        "dg_20261102_smart_remote"
+      ],
+      "review_count": 59471,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 1,
+        "category_id": "smart_home",
+        "metric_observed_kind": "measured",
+        "metric_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_observed_at": "2026-08-26T14:37:45+00:00",
+        "content_source": "product_page"
+      },
+      "maker_source": "DBブランド/商品名SwitchBotの表記正規化",
+      "parent_asin": "B0HJWGCFYM",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:04:25+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0D3TSNWBG",
+      "title": "Nature Remo Lapis ネイチャーリモ スマートリモコン 温湿度センサー搭載 エアコンの節電を快適に Alexa/Google Home/Siri対応 Remo-2W3",
+      "url": "https://www.amazon.co.jp/dp/B0D3TSNWBG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0D3TSNWBG?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61pkviV3YnL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "空気をととのえるスマートリモコン: エアコンの節電機能を備えた次世代のスマートリモコン。家電の遠隔操作やアレクサなどのスマートスピーカーにももちろん対応。",
+        "温湿度センサーを搭載: 外出先からお部屋の温度や湿度を確認。また、温度センサー・湿度センサーを使ったエアコンの自動制御も。",
+        "エアコンの節電はおまかせ: 節電と快適のバランスを選ぶだけで自動で節電する「オートエコ」機能に加え、エアコン起動直後の無駄をカットする「コスパ起動」を搭載。エアコンの消し忘れを知らせる「消し忘れアラート」も今後追加予定。",
+        "年間最大13,800円節約: ここちよく暮らしながら、我慢せず節電。年間13,800円は、夏と冬に1日中(24時間)エアコンをつけっぱなしの家庭で、8時間の節電を実施した場合。東京電力の従量電灯、3段階目料金で計算。エアコン1台を2℃調整した際の節電量を0.18 kWh/時間 として試算。",
+        "ここちよい毎日をサポート: 熱中症アラートや快適指数表示、ウェアラブルデバイスとのバイタルデータ連携なども今後追加予定。無理なく節電しながら、ここちよく過ごすことが出来ます。",
+        "スマートホーム世界標準規格のMatter対応: Nature Remo nanoでは3台までに限定されていたMatter接続制限を20台まで拡張。スマートロックなど新しいデバイスタイプにも対応しました。",
+        "ブランドを超えた接続: めざましカーテン「mornin&#39; plus」、スマート照明「Philips Hue」シリーズにも対応予定。",
+        "お部屋のどこにでも馴染むデザイン: テレビ台や机の上に加え、キッチンや寝室にも。Nature Remo Lapisは陰ながらあなたを支えます。",
+        "1年間の製品保証: お買い上げから1年以内に不具合がおきた等、思わぬトラブルの際にも修理・交換等の対応をいたします。",
+        "日本デザイン・中国組立: Designed by Nature in Japan, Assembled in China"
+      ],
+      "maker": "Nature",
+      "query": "dg_20261102_smart_remote",
+      "queries_matched": [
+        "dg_20261102_smart_remote"
+      ],
+      "review_count": 255,
+      "star_rating": 3.8,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "smart_home",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-22",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "DBブランドNatureと商品名Nature Remoの統合。公式ライブ再確認未実施",
+      "parent_asin": "B0H1M9R868",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:04:35+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0DHKWGFNC",
+      "title": "Nature Remo mini 2 ネイチャーリモ スマートリモコン 温度センサー搭載 お子様やペットの室温管理に Alexa/Google Home/Siri対応 Remo-2W2",
+      "url": "https://www.amazon.co.jp/dp/B0DHKWGFNC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0DHKWGFNC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61UhWaA3qJL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "温度センサーで室温管理：スマホから0.1℃単位で室温を確認。室温に敏感なお子様やペットがいる方にも。",
+        "ダイキン製エアコンの細やかな操作も：「お休み運転」、「自動内部クリーン」「加湿暖房」などの6つの固有機能に対応。",
+        "遠くの家電でも操作：前モデルと比べて、赤外線飛距離が約2倍に。蛍光灯の照明がある環境など、赤外線信号が届きにくい環境でも操作できます。",
+        "オートメーションで日々を快適に：曜日・時間、位置情報に加え、温度の条件で家電の操作を自動化。28度以上で冷房をオンすることも可能です。",
+        "生活に溶け込むデザイン：ステータスを示すLEDが側面にあり、発光部が目立ちづらくなりました。寝室でも光を気にせず、使うことができます。",
+        "小さなお子様のいる方に：手が離せない寝かしつけ時にもその場から動かず、電気やエアコンを操作できます。子供のいたずらでリモコンがどこかに行ってしまっても、スマホから操作できます。",
+        "ペットも快適に：外出先から室内の温度を確認してエアコンを操作。ペットが過ごしやすい環境を保つことができます。",
+        "音声アシスタント対応：Alexa、Google Home、Siriに対応しており、声だけで家電を操作することができます。",
+        "簡単セットアップ：Wi-Fi環境があれば、スマートフォンアプリから簡単に設定でき、すぐに使い始めることができます。"
+      ],
+      "maker": "Nature",
+      "query": "dg_20261102_smart_remote",
+      "queries_matched": [
+        "dg_20261102_smart_remote"
+      ],
+      "review_count": 184,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "smart_home",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-04-02",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "DBブランドNatureと商品名Nature Remoの統合。公式ライブ再確認未実施",
+      "parent_asin": "B0H1M9R868",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:04:45+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0FD2RTHHK",
+      "title": "エジソンスマート 温度湿度センサー搭載 スマートリモコン Alexa対応 シーンスイッチ 赤外線リモコン 家電一括管理 温度湿度で自動制御 DIR-S03RTCBK",
+      "url": "https://www.amazon.co.jp/dp/B0FD2RTHHK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0FD2RTHHK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61HcL0Bj9yL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "家中の赤外線家電をまとめて管理できる「マルチスマートリモコン S03」。赤外線リモコン対応のエアコン・テレビ・照明・加湿器などを、スマホや音声(Alexa／Google Home)で簡単に操作できます。温度・湿度センサーを内蔵し、環境に合わせた自動制御も可能です。またアプリを開かずに家電を操作できる「シーンスイッチ機能」を搭載。生活スタイルに合わせて快適なスマートホーム環境を実現します。Wi-Fi(2.4GHz/Ipv4)対応で、主要家電メーカーに幅広く対応！",
+        "【スマホで家電をまとめて操作】赤外線リモコンで操作できるエアコン・テレビ・照明などを、スマホ1台で一括操作。外出先からの遠隔操作や、タイマー＆スケジュール設定で、毎日のルーティンを自動化して快適な生活をサポート。家族との共有もラクラク。",
+        "【温度・湿度センサー搭載で快適自動化】内蔵の温度湿度センサーが、部屋の状態をリアルタイムで監視。設定した温度・湿度に応じて、自動でエアコンや加湿器などの操作ができます。夏の熱中症予防や冬の乾燥対策、またペットの室温管理などにも役立ちます。また過去の温度・湿度の推移をExcel形式で出力も可能。",
+        "【音声アシスタント対応(Alexa/Google Home)】スマートスピーカーと連携すれば、「アレクサ、エアコンをつけて」の一言で、スマホが手元になくても音声で家電を操作できます。手が離せない時やお子様・高齢者の操作にも便利です。※一部の細かな操作はアプリでの操作をご利用ください。",
+        "【仕様】●本体サイズ:φ75.8×D20.0mm●重量：約36g●材質：ABS●入力：DC5V/1A●赤外線：到達距離約10m(半径)※設置環境による●赤外線周波数：38kHz●動作環境：温度0～70℃、湿度5～95％(結露がないこと)●温度測定範囲：0～50℃(温度測定精度:±1℃)●湿度測定範囲：10～85％(湿度測定精度:±5%)●通信方法：Wi-Fi●使用周波数帯域：2.4GHz帯(5GHz不可)●暗号化形式：WPA/WPA2●対応OS：iOS10.0以上/Android6.0以上●スマートスピーカー：Amazon Echo(Amazon Alexa)/Google Home(Google Assistant)対応/Siri対応(「シーン」操作のみ)　※ACアダプターは付属しておりません。"
+      ],
+      "maker": "エジソンスマート",
+      "query": "dg_20261102_smart_remote",
+      "queries_matched": [
+        "dg_20261102_smart_remote"
+      ],
+      "review_count": 71,
+      "star_rating": 4.1,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 3,
+        "category_id": "smart_home",
+        "metric_observed_kind": "article_dated",
+        "metric_observed_at": "2026-06-30",
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "DBブランドと商品名",
+      "parent_asin": null,
+      "parent_status": "no_parent",
+      "measurement_observed_at": "2026-10-10T10:04:52+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B08BN8WSGZ",
+      "title": "【国内メーカー・国内サーバー】LinkJapan eRemote5+ スマートリモコン Alexa対応 ハブ不要 遠隔操作 赤外線 学習リモコン 丸型 ホワイト 高精度温湿度センサー付き【Google Home/Siri/HomeLink 対応】10年以上のIoT開発実績",
+      "url": "https://www.amazon.co.jp/dp/B08BN8WSGZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08BN8WSGZ?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/61sm8ig+vZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【国内メーカーならではの安心サポート】 設定方法やトラブルなどでお困りの際は、専門のサポートチームへメール・LINEにてお問い合わせください。 【サポート窓口】 Mail: support@linkjapan.co.jp LINE: @515wljtu 対応時間 メール・LINE：平日10:00〜19:00（※平日のみ） AIチャット：毎日対応 保証期間：1年 LINEお友達登録で半年延長",
+        "【国内スマートリモコンの先駆者｜10年を超える実績】 2014年の誕生以来、多くのユーザーに選ばれてきたLinkJapanのスマートリモコン。 日本の住環境に合わせて開発された「HomeLink」が、安定した操作性と安心のプラットフォームを提供します。",
+        "【電気代を抑えて快適に｜温湿度センサーで自動調整】 高精度の温湿度センサーが室内環境をリアルタイムで測定。 設定した条件に応じてエアコンを自動でコントロールし、無駄な電力消費を抑えます。 「つけっぱなし」や「冷やしすぎ」を防ぎながら、快適さと省エネを両立します。",
+        "【スマホでかんたん操作｜外出先から家電操作】 エアコンやテレビ、照明などの家電をスマホからまとめて操作可能。 外出先から電源を入れたり。エアコンを操作して、帰宅前の部屋を快適な温度に整えることもできます。",
+        "【誰でも使える簡単設定｜古い家電にも対応】 国内の主要メーカー製家電に対応しており、初期設定もシンプル。 対応家電は新旧問わず、赤外線リモコンならOK。リモコンを学習させるだけで、スマホから操作できます。",
+        "【スマートホームの中心に｜HomeLink連携】 eRemote5+は、スマートカーテンや照明などとHomeLinkでアプリ内連携も可能。 1台で家中の家電や環境をまとめて管理できます。 日常の操作をよりシンプルに、より快適に。スマートな暮らしをサポートします。",
+        "【eLamp2シリーズにも対応｜スマートホームをさらに便利に】 eRemote5+はハブ機能を内蔵しており、スマート電球「eLamp2」などの対応デバイスと連携できます。 家電だけでなく、eLamp2なども遠隔操作や音声アシスタント（Alexa / Google Home / Siri）に対応し、より便利にご利用いただけます。",
+        "【データプライバシー保護】個人情報や機器情報を海外送信しません。"
+      ],
+      "maker": "LinkJapan",
+      "query": "dg_20261102_smart_remote",
+      "queries_matched": [
+        "dg_20261102_smart_remote"
+      ],
+      "review_count": 1594,
+      "star_rating": 3.9,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "smart_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "parent_asin": "B0F6CCTK1K",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:05:02+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    },
+    {
+      "asin": "B0B44WTLHT",
+      "title": "smalia スマートリモコン",
+      "url": "https://www.amazon.co.jp/dp/B0B44WTLHT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B44WTLHT?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "N/A",
+      "image_url": "https://m.media-amazon.com/images/I/51BYxS2ft3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "features": [
+        "【 外出先から家電操作が可能 】 本製品は、外出先でもsmalia (スマリア)アプリで家電操作が可能です。 エアコンや照明をつけっぱなしで出かけてしまった時も、外出先からまとめてOFF。帰宅前に冷房をつけておき、あらかじめ部屋を快適にしておくこともできます。",
+        "【 Wi-Fi接続は5GHz/2.4GHzの両対応 】 本製品は5GHzと2.4GHzに対応しており、メッシュWi-FiやWi-Fi6環境でもしっかり安定動作。スマホが5GHz/2.4GHzどちらの接続先につながっていても、ストレスなく接続できます。",
+        "【 一括操作や自動操作に便利な「シーン機能」 】 「シーン機能」では、実行したい家電操作を事前に登録しておくことができます。 複数の操作をまとめて登録できるため、「帰宅時にエアコンと照明をまとめてONにしたい」「テレビON→地上波を押す→チャンネル2を押す…をまとめて実行したい」といった際に便利です。 実行条件は「手動実行」「トリガー実行」の2種類。 自身の生活スタイルにあわせた操作方法を選ぶことができます。",
+        "【 [音声やウィジェットで手軽に操作] 】 手動実行では、お好みのタイミングで家電を操作することができます。 smaliaアプリやウィジェットから、帰宅時や就寝時の操作をまとめて実行。 Alexaと連携すれば、指定した呼びかけ文で実行することも可能。「いつもの番組をつけて」で好きなチャンネルをつける、といった活用ができます。",
+        "【 トリガー実行でらくらく操作 】 トリガー実行を活用すれば、いつもの家電操作を自動化することができます。 「時刻」「温度」「湿度」「距離（自宅）」の4種類で、登録した操作を自動実行。留守番中のペットの温度管理や、離れて暮らす両親の見守りなどにおすすめです。",
+        "【 連携製品をプラスして、家電操作をもっと便利に 】 別売りの連携製品を追加すれば、smaliaスマートリモコンの活用方法がさらに広がります。 smaliaアプリで、外出先から連携製品の計測値や状況を確認。 「ドアを開けたら照明ON」など、連携製品に応じた家電操作（トリガー実行）も可能です。",
+        "【 温度/湿度/照度　3つのセンサーを搭載 】 本製品は温度、湿度、照度の3つのセンサーを搭載しています。smalia (スマリア)アプリにセンサーの数値が表示されるため、家電のON/OFFの状態を把握するめやすにもなります。また、センサーの数値は、smaliaアプリの「センサーデータ」にて24時間分の記録をグラフで表示します。",
+        "【 Apple Watch対応でスマートに家電操作 】 本製品はApple Watchに対応しています。複数の家電をまとめてON/OFFしたり、部屋の温湿度をチェックしたりと、Apple Watchでsmalia (スマリア)のアプリ操作をおこなえます。",
+        "【 約10,000機種の家電を登録済み 】 テレビ、エアコン、照明に加え、さまざまな家電製品に対応。国内独自メーカー品のリモコンデータも豊富に収録しています。 家電の追加方法は、smalia (スマリア)アプリ上で家電の種類、メーカー、リモコンの写真を選ぶだけ。登録されていないモデルも、リモコン信号の手動登録が可能です。"
+      ],
+      "maker": "RATOC Systems",
+      "query": "dg_20261102_smart_remote",
+      "queries_matched": [
+        "dg_20261102_smart_remote"
+      ],
+      "review_count": 291,
+      "star_rating": 4.0,
+      "stock_status": "in_stock",
+      "library": {
+        "tier": 2,
+        "category_id": "smart_home",
+        "metric_observed_kind": null,
+        "metric_observed_at": null,
+        "content_observed_at": null,
+        "content_source": null
+      },
+      "maker_source": "DBブランド: ラトックシステム",
+      "parent_asin": "B0H4YY42RK",
+      "parent_status": "resolved",
+      "measurement_observed_at": "2026-10-10T10:05:11+09:00",
+      "measurement_source": "product_page",
+      "measurement_error": ""
+    }
+  ],
+  "library_query": {
+    "tags": [
+      "type:smart_remote"
+    ],
+    "any_tags": null,
+    "asins_explicit": true,
+    "max_tier": 3,
+    "gate": true,
+    "exclude_used_since": null,
+    "exclude_asins": null,
+    "db_path": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+    "tag_usage_note": "explicit-ASIN export前に同type・active・tier<=3・resolved/no_parentをread-only照合。テーマの狭い構造は商品名で追加監査しattrタグを推測して掛けていない"
+  },
+  "date": "2026-11-02",
+  "planning_status": "historical_candidates_require_refresh",
+  "scope_conditions": {
+    "type_tag": "type:smart_remote",
+    "title_scope": "standalone infrared remote",
+    "exclude_used_since": "2026-10-03",
+    "parent_gate_audited": true
+  },
+  "measurement_checkpointed_at": "2026-10-10T10:05:11+09:00"
+}

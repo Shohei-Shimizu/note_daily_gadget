@@ -1,0 +1,449 @@
+{
+  "date": "2026-11-02",
+  "topic_id": "daily_gadget_20261102_f6e93a8d",
+  "db_mode": "read_only",
+  "source_db": "/Users/shoheishimizu/Knowledge/note/shared/db/product.sqlite",
+  "candidate_count": 9,
+  "parent_groups": {
+    "B0H1M9R868": [
+      "B08BLSLWH4",
+      "B0D3TSNWBG",
+      "B0DHKWGFNC"
+    ],
+    "B0F6CCTK1K": [
+      "B08BN8WSGZ"
+    ],
+    "B0G1YLSH8T": [
+      "B08P6ZSXWZ"
+    ],
+    "B0H4YY42RK": [
+      "B0B44WTLHT"
+    ],
+    "B0H11HDH46": [
+      "B0C6V1CJB7"
+    ],
+    "B0GGB2H5HZ": [
+      "B0DSPXKDP8"
+    ],
+    "B0FD2RTHHK": [
+      "B0FD2RTHHK"
+    ]
+  },
+  "variant_policy": "候補段階では色サイズ違いを残し親群を提示。採用は主担当の最新実測・機械選抜が決める。異なる型番が同一親なら再監査",
+  "rows": [
+    {
+      "asin": "B077XHJPHF",
+      "title": "オリジナルXiaomi LEDデスクランプ スマートリモコン 調光機能付きテーブルランプ デスクライト 携帯電話アプリコントロール 4つの照明モード ちらつきのないライト",
+      "maker": "オリジナルXiaomi",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "オリジナルXiaomi",
+      "tier_history": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": true,
+      "exclusion_reason": "照明本体であり赤外線リモコン本体ではない",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B07YLW9F3J",
+      "title": "SwitchBot ハブミニ 温湿度計 2個セット スイッチボット スマートホーム 学習リモコン スマートリモコン 赤外線家電を管理 家電を遠隔操作 家電自動化 スマホで温度湿度管理 Alexa Google Home Siriに対応 (ハブミニ 1点+温湿度計 1点)",
+      "maker": "SwitchBot",
+      "maker_source": "DBブランド/商品名SwitchBotの表記正規化",
+      "maker_verified_live": false,
+      "db_brand": null,
+      "tier_history": 1,
+      "parent_asin": "B0GGH198JW",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-02-18",
+      "dg_use_history": [
+        {
+          "published_date": "2026-02-18",
+          "title": "声だけで家電操作！おすすめスマートリモコン 6 選",
+          "asin": "B07TTH5TMW"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": true,
+      "exclusion_reason": "別売温湿度計との混成セット。単体赤外線リモコン比較から除外",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B08BLSLWH4",
+      "title": "Nature Remo 3 ネイチャーリモ スマートリモコン 温湿度/照度/人感センサー搭載 スマートロック対応 Alexa/Google Home/Siri対応 Remo-1W3",
+      "maker": "Nature",
+      "maker_source": "DBブランドNatureと商品名Nature Remoの統合。公式ライブ再確認未実施",
+      "maker_verified_live": false,
+      "db_brand": "Nature",
+      "tier_history": 1,
+      "parent_asin": "B0H1M9R868",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-25",
+          "title": "ルーティンを全自動化。IFTTT 対応の「スマート連携」 6 選",
+          "asin": "B08BLSLWH4"
+        },
+        {
+          "published_date": "2026-05-16",
+          "title": "帰宅前に部屋を涼しく。外出先から操る「スマートリモコン」 7 選",
+          "asin": "B0D3TSNWBG"
+        },
+        {
+          "published_date": "2026-03-07",
+          "title": "布団から出たくない冬に。スマホで操る「IoT 暖房ガジェット」 5 選",
+          "asin": "B0DHKWGFNC"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08BN8WSGZ",
+      "title": "【国内メーカー・国内サーバー】LinkJapan eRemote5+ スマートリモコン Alexa対応 ハブ不要 遠隔操作 赤外線 学習リモコン 丸型 ホワイト 高精度温湿度センサー付き【Google Home/Siri/HomeLink 対応】10年以上のIoT開発実績",
+      "maker": "LinkJapan",
+      "maker_source": "既存normalize_makerによる商品名/DBブランド正規化",
+      "maker_verified_live": false,
+      "db_brand": "LinkJapan",
+      "tier_history": 2,
+      "parent_asin": "B0F6CCTK1K",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-16",
+          "title": "帰宅前に部屋を涼しく。外出先から操る「スマートリモコン」 7 選",
+          "asin": "B08BN8WSGZ"
+        },
+        {
+          "published_date": "2026-03-07",
+          "title": "布団から出たくない冬に。スマホで操る「IoT 暖房ガジェット」 5 選",
+          "asin": "B0F9XW3NHQ"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B08P6ZSXWZ",
+      "title": "Nature Remo mini 2 ネイチャーリモ スマートリモコン 温度センサー搭載 お子様やペットの室温管理に Alexa/Google Home/Siri対応 Remo-2W2",
+      "maker": "Nature",
+      "maker_source": "DBブランドNatureと商品名Nature Remoの統合。公式ライブ再確認未実施",
+      "maker_verified_live": false,
+      "db_brand": "Nature Remo",
+      "tier_history": 1,
+      "parent_asin": "B0G1YLSH8T",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0B44WTLHT",
+      "title": "smalia スマートリモコン",
+      "maker": "RATOC Systems",
+      "maker_source": "DBブランド: ラトックシステム",
+      "maker_verified_live": false,
+      "db_brand": "ラトックシステム",
+      "tier_history": 2,
+      "parent_asin": "B0H4YY42RK",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-02-18",
+      "dg_use_history": [
+        {
+          "published_date": "2026-02-18",
+          "title": "声だけで家電操作！おすすめスマートリモコン 6 選",
+          "asin": "B0B44WTLHT"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0BM8VS13P",
+      "title": "SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
+      "maker": "SwitchBot",
+      "maker_source": "DBブランド/商品名SwitchBotの表記正規化",
+      "maker_verified_live": false,
+      "db_brand": "SwitchBot",
+      "tier_history": 1,
+      "parent_asin": "B0HFHW4RYC",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-16",
+          "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-08-01",
+          "title": "実家のご両親へ。安心を贈る「見守り・簡単ガジェット」 7 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-07-25",
+          "title": "ルーティンを全自動化。IFTTT 対応の「スマート連携」 6 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-07-10",
+          "title": "【Amazonプライムデー】期間中に狙いたいお得ガジェット 20 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-05-31",
+          "title": "5 月の振り返り。改めて気になった「最新ガジェット」 8 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-05-29",
+          "title": "【Amazonスマイルセール】充電器・PC周辺機器・梅雨対策家電の狙い目 10 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-05-16",
+          "title": "帰宅前に部屋を涼しく。外出先から操る「スマートリモコン」 7 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-05-09",
+          "title": "スマートホームの基本。アレクサ対応おすすめガジェット 7 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-04-03",
+          "title": "【SwitchBot 徹底比較】家のスイッチを自動化する人気商品 10 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-03-31",
+          "title": "3 月のベストバイ。新生活を彩る「買ってよかったギア」 8 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-03-07",
+          "title": "布団から出たくない冬に。スマホで操る「IoT 暖房ガジェット」 5 選",
+          "asin": "B0BM8VS13P"
+        },
+        {
+          "published_date": "2026-02-18",
+          "title": "声だけで家電操作！おすすめスマートリモコン 6 選",
+          "asin": "B0BM8VS13P"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": false,
+      "exclusion_reason": "予定日の30日再掲載窓に同ASIN/親の掲載あり: 2026-10-16",
+      "selection_status": "excluded_from_scope"
+    },
+    {
+      "asin": "B0C6V1CJB7",
+      "title": "【Echoから家電を音声操作】Nature Remo nano ネイチャーリモ スマートリモコン スマホからリモコン操作 いつもの家電操作を効率化 Alexa/Google Home/Siri対応 Remo-5W1",
+      "maker": "Nature",
+      "maker_source": "DBブランドNatureと商品名Nature Remoの統合。公式ライブ再確認未実施",
+      "maker_verified_live": false,
+      "db_brand": "Nature Remo",
+      "tier_history": 1,
+      "parent_asin": "B0H11HDH46",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-05-16",
+      "dg_use_history": [
+        {
+          "published_date": "2026-05-16",
+          "title": "帰宅前に部屋を涼しく。外出先から操る「スマートリモコン」 7 選",
+          "asin": "B0C6V1CJB7"
+        },
+        {
+          "published_date": "2026-05-09",
+          "title": "スマートホームの基本。アレクサ対応おすすめガジェット 7 選",
+          "asin": "B0C6V1CJB7"
+        },
+        {
+          "published_date": "2026-02-18",
+          "title": "声だけで家電操作！おすすめスマートリモコン 6 選",
+          "asin": "B0C6V1CJB7"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0D3TSNWBG",
+      "title": "Nature Remo Lapis ネイチャーリモ スマートリモコン 温湿度センサー搭載 エアコンの節電を快適に Alexa/Google Home/Siri対応 Remo-2W3",
+      "maker": "Nature",
+      "maker_source": "DBブランドNatureと商品名Nature Remoの統合。公式ライブ再確認未実施",
+      "maker_verified_live": false,
+      "db_brand": "Nature",
+      "tier_history": 2,
+      "parent_asin": "B0H1M9R868",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-25",
+          "title": "ルーティンを全自動化。IFTTT 対応の「スマート連携」 6 選",
+          "asin": "B08BLSLWH4"
+        },
+        {
+          "published_date": "2026-05-16",
+          "title": "帰宅前に部屋を涼しく。外出先から操る「スマートリモコン」 7 選",
+          "asin": "B0D3TSNWBG"
+        },
+        {
+          "published_date": "2026-03-07",
+          "title": "布団から出たくない冬に。スマホで操る「IoT 暖房ガジェット」 5 選",
+          "asin": "B0DHKWGFNC"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DHKWGFNC",
+      "title": "Nature Remo mini 2 ネイチャーリモ スマートリモコン 温度センサー搭載 お子様やペットの室温管理に Alexa/Google Home/Siri対応 Remo-2W2",
+      "maker": "Nature",
+      "maker_source": "DBブランドNatureと商品名Nature Remoの統合。公式ライブ再確認未実施",
+      "maker_verified_live": false,
+      "db_brand": "Nature",
+      "tier_history": 2,
+      "parent_asin": "B0H1M9R868",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-07-25",
+      "dg_use_history": [
+        {
+          "published_date": "2026-07-25",
+          "title": "ルーティンを全自動化。IFTTT 対応の「スマート連携」 6 選",
+          "asin": "B08BLSLWH4"
+        },
+        {
+          "published_date": "2026-05-16",
+          "title": "帰宅前に部屋を涼しく。外出先から操る「スマートリモコン」 7 選",
+          "asin": "B0D3TSNWBG"
+        },
+        {
+          "published_date": "2026-03-07",
+          "title": "布団から出たくない冬に。スマホで操る「IoT 暖房ガジェット」 5 選",
+          "asin": "B0DHKWGFNC"
+        }
+      ],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0DSPXKDP8",
+      "title": "【Amazon.co.jp限定】 SwitchBot スマートリモコン ハブミニ(Matter対応) Alexa - 温湿度センサー搭載 スイッチボット Hub Mini マター対応 スマートホーム 学習リモコン 赤外線家電を管理 節電·省エネ Echo Google Home Siri IFTTT SmartThings対応 Kataステッカー付き 熱中症対策",
+      "maker": "SwitchBot",
+      "maker_source": "DBブランド/商品名SwitchBotの表記正規化",
+      "maker_verified_live": false,
+      "db_brand": "スイッチボット(SwitchBot)",
+      "tier_history": 1,
+      "parent_asin": "B0GGB2H5HZ",
+      "parent_resolution_status": "resolved",
+      "dg_latest_use": "2026-10-01",
+      "dg_use_history": [
+        {
+          "published_date": "2026-10-01",
+          "title": "部屋の乾燥を数値で見る。卓上とスマホ連携の「温湿度計」 5 選",
+          "asin": "B09PYKJ6CS"
+        },
+        {
+          "published_date": "2026-05-16",
+          "title": "帰宅前に部屋を涼しく。外出先から操る「スマートリモコン」 7 選",
+          "asin": "B0DSPXKDP8"
+        }
+      ],
+      "october_local_research_matches": [
+        "accounts/daily_gadget/06_research/2026-10/2026-10-01_部屋の乾燥と結露を数値で見る。温湿度計.md"
+      ],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    },
+    {
+      "asin": "B0FD2RTHHK",
+      "title": "エジソンスマート 温度湿度センサー搭載 スマートリモコン Alexa対応 シーンスイッチ 赤外線リモコン 家電一括管理 温度湿度で自動制御 DIR-S03RTCBK",
+      "maker": "エジソンスマート",
+      "maker_source": "DBブランドと商品名",
+      "maker_verified_live": false,
+      "db_brand": "エジソンスマート",
+      "tier_history": 3,
+      "parent_asin": null,
+      "parent_resolution_status": "no_parent",
+      "dg_latest_use": null,
+      "dg_use_history": [],
+      "october_local_research_matches": [],
+      "30_day_cutoff": "2026-10-03",
+      "30_day_allowed": true,
+      "exclusion_reason": null,
+      "selection_status": "candidate_not_selected"
+    }
+  ],
+  "exclusions": [
+    {
+      "asin": "B077XHJPHF",
+      "title": "オリジナルXiaomi LEDデスクランプ スマートリモコン 調光機能付きテーブルランプ デスクライト 携帯電話アプリコントロール 4つの照明モード ちらつきのないライト",
+      "reason": "照明本体であり赤外線リモコン本体ではない"
+    },
+    {
+      "asin": "B07YLW9F3J",
+      "title": "SwitchBot ハブミニ 温湿度計 2個セット スイッチボット スマートホーム 学習リモコン スマートリモコン 赤外線家電を管理 家電を遠隔操作 家電自動化 スマホで温度湿度管理 Alexa Google Home Siriに対応 (ハブミニ 1点+温湿度計 1点)",
+      "reason": "別売温湿度計との混成セット。単体赤外線リモコン比較から除外"
+    },
+    {
+      "asin": "B0BM8VS13P",
+      "title": "SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
+      "reason": "予定日の30日再掲載窓に同ASIN/親の掲載あり: 2026-10-16"
+    }
+  ],
+  "note": "全て履歴値。メーカー正規化はローカル根拠であり公式ライブ再確認は未実施。",
+  "parent_anomalies": [
+    {
+      "parent_asin": "B0H1M9R868",
+      "asins": [
+        "B08BLSLWH4",
+        "B0D3TSNWBG",
+        "B0DHKWGFNC"
+      ],
+      "issue": "Remo3/Remo Lapis/Remo mini2が同親に登録。真の色違いか異モデル誤同定か未確認。最新親と公式型番で再照合し、人手で親を作らない"
+    },
+    {
+      "asins": [
+        "B08P6ZSXWZ",
+        "B0DHKWGFNC"
+      ],
+      "issue": "同一Remo mini2/Remo-2W2だが親が異なる。最新親と型番の二重監査が必要"
+    }
+  ],
+  "manufacturer_gate_note": "名称は販促文字列を排除して正規化。Nature/Nature Remo、SwitchBot表記、サンワダイレクト/サンワサプライは同一メーカーとして扱う。未確認メーカー品は除外。候補であり選抜結果ではない"
+}
