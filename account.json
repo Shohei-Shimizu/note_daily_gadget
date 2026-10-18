@@ -8,7 +8,13 @@
     "url": "https://note.com/daily_gadget/"
   },
   "amazon": {
-    "partner_tag": "daily-gadget-22"
+    "partner_tag": "daily-gadget-22",
+    "store_id": "zanetti-22",
+    "tracking_id": "daily-gadget-22",
+    "store_policy": "shared_store",
+    "identity_verified_at": "2026-10-18",
+    "identity_evidence": "../../shared/audits/2026-10-18-amazon-accounts/audit.json",
+    "registered_site_verified_at": "2026-10-18"
   },
   "profile_file": "PROFILE.md",
   "categories": [
