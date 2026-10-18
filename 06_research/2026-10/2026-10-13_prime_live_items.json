@@ -1,0 +1,2186 @@
+{
+  "fetched_at": "2026-10-13T08:18:45.920228+09:00",
+  "source": "Amazon Creators API GetItems",
+  "requested_asins": [
+    "B07Q8TJ2KL",
+    "B0BR3M8XHK",
+    "B07H774Q42",
+    "B0CHVZHLZ1",
+    "B091BGMKYS",
+    "B07RFFYN2D",
+    "B0B6GHW1SX",
+    "B08ZY32XRC",
+    "B07QQR6G5N",
+    "B07YG7RNF2",
+    "B0BM8VS13P",
+    "B07L4QNZVF"
+  ],
+  "items": [
+    {
+      "asin": "B07Q8TJ2KL",
+      "title": "ERGOTRON エルゴトロン LX モニターアーム デスクマウント ブラック 34インチまで対応 国内正規品 10年保証付 45-241-224",
+      "url": "https://www.amazon.co.jp/dp/B07Q8TJ2KL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07Q8TJ2KL?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥15,470",
+      "image_url": "",
+      "features": [
+        "【指先ひとつで自在に動くシングルモニターアーム】エルゴトロン独自のコンスタント・フォース技術を搭載したメカニカルスプリング式。モニターの位置・角度・高さを軽く触れるだけで自在に調整でき、好きな位置でピタッと静止。モニタースタンドが不要になり、デスクスペースを有効活用でき、機能的で快適なワークスペースを実現。",
+        "【長期10年保証と人間工学的デザイン】ガススプリング式のような経年劣化がなく、10,000回サイクルテスト合格の長期耐久設計。ワイドモニター対応。前後伸縮・左右パン・チルト・360°回転可能。目・首・肩への負担を軽減する人間工学的な最適ポジションに設定可能。モニターを持ち上げてデスクを広く使え、使わないときはコンパクトに折りたたむことで省スペース化も可能。",
+        "【スペック】1)対応モニターサイズ：21.5 / 24 / 27 / 32 / 34インチ等。 2)耐荷重（耐重量）3.2-11.3kgまで。 3)VESA規格： 100×100、75×75mm。 4)チルト上70°/下5°で幅広い視角に対応。5)昇降範囲33cm。6)アーム下の隠し配線機構でケーブルが外から見えません。",
+        "【クランプ式/天板厚10-60mm対応】工具不要の簡単設置。クランプは60mmまでの厚さ、グロメットは直径8-50mmの穴、57mmまでの厚さに取り付け可能。別売ノートブックトレイ(50-193-200)を追加可能。【付属品】LXアーム、エクステンション、ベース、ポール、デスククランプ、グロメットマウント、取付金具。",
+        "【日本正規代理店取扱品】日本語サポート対応。エルゴトロンは独自技術「コンスタント・フォース技術」をはじめ200以上の特許を取得している1982年創業の人間工学機器ブランドで、世界中のワークスペース・医療・教育現場で信頼されるグローバルリーダー。シングルモニターアームはオフィス・ゲーミング・クリエイター作業など幅広い用途に対応。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B07Q8TJ2KL",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B07Q8TJ2KL?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "Ergotron",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "エルゴトロン",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "【指先ひとつで自在に動くシングルモニターアーム】エルゴトロン独自のコンスタント・フォース技術を搭載したメカニカルスプリング式。モニターの位置・角度・高さを軽く触れるだけで自在に調整でき、好きな位置でピタッと静止。モニタースタンドが不要になり、デスクスペースを有効活用でき、機能的で快適なワークスペースを実現。",
+              "【長期10年保証と人間工学的デザイン】ガススプリング式のような経年劣化がなく、10,000回サイクルテスト合格の長期耐久設計。ワイドモニター対応。前後伸縮・左右パン・チルト・360°回転可能。目・首・肩への負担を軽減する人間工学的な最適ポジションに設定可能。モニターを持ち上げてデスクを広く使え、使わないときはコンパクトに折りたたむことで省スペース化も可能。",
+              "【スペック】1)対応モニターサイズ：21.5 / 24 / 27 / 32 / 34インチ等。 2)耐荷重（耐重量）3.2-11.3kgまで。 3)VESA規格： 100×100、75×75mm。 4)チルト上70°/下5°で幅広い視角に対応。5)昇降範囲33cm。6)アーム下の隠し配線機構でケーブルが外から見えません。",
+              "【クランプ式/天板厚10-60mm対応】工具不要の簡単設置。クランプは60mmまでの厚さ、グロメットは直径8-50mmの穴、57mmまでの厚さに取り付け可能。別売ノートブックトレイ(50-193-200)を追加可能。【付属品】LXアーム、エクステンション、ベース、ポール、デスククランプ、グロメットマウント、取付金具。",
+              "【日本正規代理店取扱品】日本語サポート対応。エルゴトロンは独自技術「コンスタント・フォース技術」をはじめ200以上の特許を取得している1982年創業の人間工学機器ブランドで、世界中のワークスペース・医療・教育現場で信頼されるグローバルリーダー。シングルモニターアームはオフィス・ゲーミング・クリエイター作業など幅広い用途に対応。"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "ブラック",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "isAdultProduct": {
+              "displayValue": false,
+              "label": "IsAdultProduct",
+              "locale": "en_US"
+            },
+            "itemDimensions": {
+              "height": {
+                "displayValue": 7.0,
+                "label": "Height",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "length": {
+                "displayValue": 18.0,
+                "label": "Length",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "weight": {
+                "displayValue": 9.75,
+                "label": "Weight",
+                "locale": "ja_JP",
+                "unit": "ポンド"
+              },
+              "width": {
+                "displayValue": 10.65,
+                "label": "Width",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              }
+            },
+            "releaseDate": {
+              "displayValue": "2019-06-20T00:00:01Z",
+              "label": "ReleaseDate",
+              "locale": "en_US"
+            },
+            "size": {
+              "displayValue": "LX_ノーマル",
+              "label": "Size",
+              "locale": "ja_JP"
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "ERGOTRON エルゴトロン LX モニターアーム デスクマウント ブラック 34インチまで対応 国内正規品 10年保証付 45-241-224",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "PRIME_EXCLUSIVE",
+                "badge": "プライム感謝祭先行セール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-12T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 15470,
+                  "currency": "JPY",
+                  "displayAmount": "￥15,470"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 2730,
+                    "currency": "JPY",
+                    "displayAmount": "￥2,730"
+                  },
+                  "percentage": 15
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 18200,
+                    "currency": "JPY",
+                    "displayAmount": "￥18,200"
+                  },
+                  "savingBasisType": "WAS_PRICE",
+                  "savingBasisTypeLabel": "過去価格:"
+                }
+              },
+              "violatesMAP": false
+            },
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 30,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "isBuyBoxWinner": false,
+              "price": {
+                "money": {
+                  "amount": 18217,
+                  "currency": "JPY",
+                  "displayAmount": "￥18,217"
+                }
+              },
+              "violatesMAP": false
+            },
+            {
+              "availability": {
+                "message": "残り1点 ご注文はお早めに",
+                "maxOrderQuantity": 1,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK_SCARCE"
+              },
+              "isBuyBoxWinner": false,
+              "price": {
+                "money": {
+                  "amount": 13960,
+                  "currency": "JPY",
+                  "displayAmount": "￥13,960"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        },
+        "parentASIN": "B0H4TVC9RZ"
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "PRIME_EXCLUSIVE",
+        "badge": "プライム感謝祭先行セール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-12T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 18200,
+          "currency": "JPY",
+          "displayAmount": "￥18,200"
+        },
+        "savingBasisType": "WAS_PRICE",
+        "savingBasisTypeLabel": "過去価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B07Q8TJ2KL?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": "B0H4TVC9RZ"
+    },
+    {
+      "asin": "B0BR3M8XHK",
+      "title": "UGREEN Revodok 105 USB C ハブ 5-IN-1 HDMI 出力USB ハブ Type-C 100W PD急速充電 1*USB3.0+2*USB2.0ポート 5Gbps超高速データ転送用 スリムハブ 4K@30Hz Window/MacOS/linux/IOS/Androidシステム対応 Mac Pro/Air/iPad Proなど対応",
+      "url": "https://www.amazon.co.jp/dp/B0BR3M8XHK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BR3M8XHK?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥1,298",
+      "image_url": "",
+      "features": [
+        "『スリム&多数のポートを同時に使用』：スリムで洗練されたUSB Cハブは、HDMIポートと1つのUSB 3.0、2つのUSB 2.0ポート、1つのPD充電ポートをを備えた5ポートマルチポートアダプターで瞬時に拡張し、ラップトップ、タブレットなどのUSB-Cデバイスの接続を改善します。",
+        "『PD 100Wの電力供給』：Power Delivery 3.0対応したUSB-Cポート経由で、MacBookや Surface Go 、Dell XPS、HP Spectre、Lenovo Yogaなどパソコンに最大95Wの急速充電を提供できるだけではなく、過電流・短絡保護機構を内蔵し、機器の安全性を確保します。多数のデバイスを同時に接続しても、電力不足の心配がありません。※ご注意：当USB-Cポートはデータ転送に非対応です。",
+        "『鮮やかな4Kディスプレイに対応』：このUSB Cマルチポートハブは、HDMIディスプレイに接続するためのHDMIポートを備えており、最大4K（3840*2160P@30Hz）の画質映像出力可能です。4K、Full HD 1080pをサポートし、音声と映像出力、ミラーモードと拡張モード両方も対応します。画像のティアリング、スタッター、ジャーキネスがなく、オーディオとディスプレイの同期も良好です。",
+        "『数秒でファイルを転送』：USB-Cハブは、キーボード、マウス、メモリなどの複数のUSB周辺機器を接続するために、1つのUSB 3.0、2つのUSB 2.0ポートを増設されます。最大5Gbpsの速度で、映画などのファイルを超高速で簡単に転送します。",
+        "『24ヶ月の保証期間』 ：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B0BR3M8XHK",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B0BR3M8XHK?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "UGREEN",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "UGREEN GROUP LIMITED",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "『スリム&多数のポートを同時に使用』：スリムで洗練されたUSB Cハブは、HDMIポートと1つのUSB 3.0、2つのUSB 2.0ポート、1つのPD充電ポートをを備えた5ポートマルチポートアダプターで瞬時に拡張し、ラップトップ、タブレットなどのUSB-Cデバイスの接続を改善します。",
+              "『PD 100Wの電力供給』：Power Delivery 3.0対応したUSB-Cポート経由で、MacBookや Surface Go 、Dell XPS、HP Spectre、Lenovo Yogaなどパソコンに最大95Wの急速充電を提供できるだけではなく、過電流・短絡保護機構を内蔵し、機器の安全性を確保します。多数のデバイスを同時に接続しても、電力不足の心配がありません。※ご注意：当USB-Cポートはデータ転送に非対応です。",
+              "『鮮やかな4Kディスプレイに対応』：このUSB Cマルチポートハブは、HDMIディスプレイに接続するためのHDMIポートを備えており、最大4K（3840*2160P@30Hz）の画質映像出力可能です。4K、Full HD 1080pをサポートし、音声と映像出力、ミラーモードと拡張モード両方も対応します。画像のティアリング、スタッター、ジャーキネスがなく、オーディオとディスプレイの同期も良好です。",
+              "『数秒でファイルを転送』：USB-Cハブは、キーボード、マウス、メモリなどの複数のUSB周辺機器を接続するために、1つのUSB 3.0、2つのUSB 2.0ポートを増設されます。最大5Gbpsの速度で、映画などのファイルを超高速で簡単に転送します。",
+              "『24ヶ月の保証期間』 ：当店でご購入の製品は24ヶ月間の保証サービスをご提供しております。お客様が製品を購入された時点から24ヶ月後の応当日まで保証いたします。 ご注意：お客様または第三者による故意の破損が認められる場合は、保証の対象外となります。"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "シルバーグレー",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "itemDimensions": {
+              "height": {
+                "displayValue": 0.4724409444,
+                "label": "Height",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "length": {
+                "displayValue": 4.78740156992,
+                "label": "Length",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "weight": {
+                "displayValue": 0.20062065842,
+                "label": "Weight",
+                "locale": "ja_JP",
+                "unit": "ポンド"
+              },
+              "width": {
+                "displayValue": 1.09448818786,
+                "label": "Width",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              }
+            },
+            "size": {
+              "displayValue": "5Gbps",
+              "label": "Size",
+              "locale": "ja_JP"
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "UGREEN Revodok 105 USB C ハブ 5-IN-1 HDMI 出力USB ハブ Type-C 100W PD急速充電 1*USB3.0+2*USB2.0ポート 5Gbps超高速データ転送用 スリムハブ 4K@30Hz Window/MacOS/linux/IOS/Androidシステム対応 Mac Pro/Air/iPad Proなど対応",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "PRIME_EXCLUSIVE",
+                "badge": "プライム感謝祭先行セール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-12T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 1298,
+                  "currency": "JPY",
+                  "displayAmount": "￥1,298"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 801,
+                    "currency": "JPY",
+                    "displayAmount": "￥801"
+                  },
+                  "percentage": 38
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 2099,
+                    "currency": "JPY",
+                    "displayAmount": "￥2,099"
+                  },
+                  "savingBasisType": "WAS_PRICE",
+                  "savingBasisTypeLabel": "過去価格:"
+                }
+              },
+              "violatesMAP": false
+            },
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 210,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "isBuyBoxWinner": false,
+              "price": {
+                "money": {
+                  "amount": 2099,
+                  "currency": "JPY",
+                  "displayAmount": "￥2,099"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        },
+        "parentASIN": "B0H4T9D5ZD"
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "PRIME_EXCLUSIVE",
+        "badge": "プライム感謝祭先行セール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-12T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 2099,
+          "currency": "JPY",
+          "displayAmount": "￥2,099"
+        },
+        "savingBasisType": "WAS_PRICE",
+        "savingBasisTypeLabel": "過去価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B0BR3M8XHK?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": "B0H4T9D5ZD"
+    },
+    {
+      "asin": "B07H774Q42",
+      "title": "BoYata ノートパソコンスタンド PCスタンド 無段階高さ・角度調整 人間工学設計 姿勢改善 猫背対策 アルミ合金製 17インチまで対応",
+      "url": "https://www.amazon.co.jp/dp/B07H774Q42?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07H774Q42?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥4,103",
+      "image_url": "",
+      "features": [
+        "【無段階角度・高さ調整可能】●人間工学に基づいて設計により、PC作業時、角度・高度を無段階調整可能で自分に最適な高度まで調整できるパソコンスタンド！●デスクが低いためデスクワークの際に腰に負担がかかってしまっていたが、Boyataスタンドを使うことによってパソコンを目線と同じ高さにする事で背筋が伸び、猫背などを有効に防止、背中が丸まりにくくなって、リモートワーク時代の必需品 !!",
+        "【安定感抜群・耐重20kg】●Boyata PCスタンドの角度調節は多少力がいりますが、成人女性でも問題ない程度です。逆に、調節に力が必要な分しっかりしているので、使用中に下がってくるようなことは無い、頑丈で安定しています。●安心の両足構造で傾きがなく、安定性が抜群で、20kgまで耐えられます。",
+        "【液タプ用スタンドとしても機能】Boyata ノートパソコンスタンド の使い方としてはタブレット スタンドですが、液タブ/板タプを載せても非常に使いやすいです。ヒンジがとても硬いので、重い液タブをおいても全然角度ががたついたりしませんし、結構角度が自由に設定できて、自分の体に負担がかからない角度で絵を描くことができます。",
+        "【放熱対策・滑り止め】●肉厚でしっかりとした造りながら、中央に大きな穴が開いているのでノートPCなどの放熱が気になるものを載せても平気です。●シリコンゴム製の滑り止めパッドが上下両面(接地側およびパソコン側)の接地面に付いているので、滑りにくく安定して使えます。また、構造上、pc スタンドの下に空間ができるので、書類を広げたり、使わない時はキーボードをしまっておけたりできるのが助かっています。",
+        "【パソコン スタンド 折りたたみ式】●折りたたみ仕様で、省スペース収納可能です。アルミニウム合金のシルバーでデザインが統一されているのもクールで、 タブレットとの相性はバッチリです。●17インチまでのノートPCやタブレットに幅広くに対応可能です。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B07H774Q42",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B07H774Q42?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "BoYata",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "BoYata",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "【無段階角度・高さ調整可能】●人間工学に基づいて設計により、PC作業時、角度・高度を無段階調整可能で自分に最適な高度まで調整できるパソコンスタンド！●デスクが低いためデスクワークの際に腰に負担がかかってしまっていたが、Boyataスタンドを使うことによってパソコンを目線と同じ高さにする事で背筋が伸び、猫背などを有効に防止、背中が丸まりにくくなって、リモートワーク時代の必需品 !!",
+              "【安定感抜群・耐重20kg】●Boyata PCスタンドの角度調節は多少力がいりますが、成人女性でも問題ない程度です。逆に、調節に力が必要な分しっかりしているので、使用中に下がってくるようなことは無い、頑丈で安定しています。●安心の両足構造で傾きがなく、安定性が抜群で、20kgまで耐えられます。",
+              "【液タプ用スタンドとしても機能】Boyata ノートパソコンスタンド の使い方としてはタブレット スタンドですが、液タブ/板タプを載せても非常に使いやすいです。ヒンジがとても硬いので、重い液タブをおいても全然角度ががたついたりしませんし、結構角度が自由に設定できて、自分の体に負担がかからない角度で絵を描くことができます。",
+              "【放熱対策・滑り止め】●肉厚でしっかりとした造りながら、中央に大きな穴が開いているのでノートPCなどの放熱が気になるものを載せても平気です。●シリコンゴム製の滑り止めパッドが上下両面(接地側およびパソコン側)の接地面に付いているので、滑りにくく安定して使えます。また、構造上、pc スタンドの下に空間ができるので、書類を広げたり、使わない時はキーボードをしまっておけたりできるのが助かっています。",
+              "【パソコン スタンド 折りたたみ式】●折りたたみ仕様で、省スペース収納可能です。アルミニウム合金のシルバーでデザインが統一されているのもクールで、 タブレットとの相性はバッチリです。●17インチまでのノートPCやタブレットに幅広くに対応可能です。"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "シルバー",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "itemDimensions": {
+              "height": {
+                "displayValue": 1.181102361,
+                "label": "Height",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "length": {
+                "displayValue": 11.7322834526,
+                "label": "Length",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "weight": {
+                "displayValue": 2.6235009178,
+                "label": "Weight",
+                "locale": "ja_JP",
+                "unit": "ポンド"
+              },
+              "width": {
+                "displayValue": 9.9999999898,
+                "label": "Width",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              }
+            },
+            "size": {
+              "displayValue": "1個 (x 1)",
+              "label": "Size",
+              "locale": "ja_JP"
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "BoYata ノートパソコンスタンド PCスタンド 無段階高さ・角度調整 人間工学設計 姿勢改善 猫背対策 アルミ合金製 17インチまで対応",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "PRIME_EXCLUSIVE",
+                "badge": "プライム感謝祭先行セール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-12T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 4103,
+                  "currency": "JPY",
+                  "displayAmount": "￥4,103"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 696,
+                    "currency": "JPY",
+                    "displayAmount": "￥696"
+                  },
+                  "percentage": 15
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 4799,
+                    "currency": "JPY",
+                    "displayAmount": "￥4,799"
+                  },
+                  "savingBasisType": "LIST_PRICE",
+                  "savingBasisTypeLabel": "参考価格:"
+                }
+              },
+              "violatesMAP": false
+            },
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 30,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "isBuyBoxWinner": false,
+              "price": {
+                "money": {
+                  "amount": 4798,
+                  "currency": "JPY",
+                  "displayAmount": "￥4,798"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        },
+        "parentASIN": "B0HC6Y7K9N"
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "PRIME_EXCLUSIVE",
+        "badge": "プライム感謝祭先行セール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-12T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 4799,
+          "currency": "JPY",
+          "displayAmount": "￥4,799"
+        },
+        "savingBasisType": "LIST_PRICE",
+        "savingBasisTypeLabel": "参考価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B07H774Q42?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": "B0HC6Y7K9N"
+    },
+    {
+      "asin": "B0CHVZHLZ1",
+      "title": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ブラック)",
+      "url": "https://www.amazon.co.jp/dp/B0CHVZHLZ1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0CHVZHLZ1?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥3,280",
+      "image_url": "",
+      "features": [
+        "【薄さ16mm】30W以上のモバイルバッテリーの中で極限まで薄く設計された約16mmを実現。*自社調べ:10000mAh入出力30W以上のバッテリーと比較。 1円玉の直径よりも薄いサイズでどこでも持ち運びに大活躍。バッグやポーチのポケットなど狭いスペースにも楽々収納可能です。カフェや新幹線、飛行機、出張や旅行にも最適です。",
+        "【単ポート最大35W出力】USB-C単ポート最大35W出力に対応。35W対応で利便性は飛躍的に向上し、スマートフォン(iPhoneやGalaxy、Xperia等のAndroidスマホ)からタブレット(iPad用 / mini / Pro)のみならず、一部ミドルレンジのノートPC（MacBook Air）などへの充電も可能です。",
+        "【3ポート搭載】平らなフォルムを最大限活かすため、USB-Cポート×2、USB-Aポート×1の合計3つの充電口を搭載。 様々な用途の充電が可能となり、充電しながらiPhoneやAndroid等のCポートが必要なデバイスを充電したり、 イヤホン等のAポートが必要なデバイスを充電したりと、お持ちのデバイスやケーブル状況にあわせたパススルー充電が可能となります。【急速充電】 更に『SMARTCOBY Pro SLIM』はPPSにも対応している為、 Galaxyは超急速充電モードで充電可能です。 本体は35Wに対応しており、急速充電器を用いる事で約90分で満充電に。",
+        "【パススルー充電対応】デバイスとバッテリーの両方を充電 バッテリーを経由しながらデバイスの急速充電が可能。バッテリーを充電するのが面倒で、使いたい時にバッテリーが空になっているとき、『SMARTCOBY Pro SLIM』はパススルー機能搭載で、バッテリーに充電しながらスマホなどへの充電にも対応しております。 コンセントが一つしかない環境や、両方を充電したいときに大活躍します。 ※最大35Wの蓄電を行うには、USB PD規格に対応した35W以上の出力が可能な充電器をご使用ください。 CIO製USB充電器をご使用いただくことで、互換性や安全性を確保できます。 他社製充電器をご使用の場合は、USB PD規格対応かつ35W以上の出力が可能な製品をご選択ください。",
+        "【デジタル残量表示】 通常時（非表示状態）はデジタル基盤の有無が気にならないフラットな表面で、本体のデザイン性を高く維持。 従来のディスプレイ画面だと傷が目立ってしまうことがありましたが、外観と同じシボ加工を実装することで傷が目立ちにくくなりました。 デバイスを充電中は残量を数字で表示し、バッテリー本体へ蓄電中は遊び心を取り入れたアニメーション風に表示します。 【電池残量確認ボタンについて】 デバイス接続時は1回押すと電源ON、2回押すと電源OFFになります。 デバイス無接続時は、ボタンを1回押すとバッテリー残量をLEDで確認できます。2回押しても何も起こらず、表示は5秒後に自動OFFとなります。 ※一部機種で動作が異なる可能性があるので、ご注意ください。",
+        "【大容量10000mAh】 高出力・コンパクトでありながら様々なデバイスを複数回充電可能。",
+        "【本体の蓄電も約90分】 本体への蓄電も35Wに対応しており、急速充電器を用いることで約90分でフル充電が完了します。",
+        "【CIO 安心保証対応】日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はAmazonのご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B0CHVZHLZ1",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B0CHVZHLZ1?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "CIO",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "CIO",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "【薄さ16mm】30W以上のモバイルバッテリーの中で極限まで薄く設計された約16mmを実現。*自社調べ:10000mAh入出力30W以上のバッテリーと比較。 1円玉の直径よりも薄いサイズでどこでも持ち運びに大活躍。バッグやポーチのポケットなど狭いスペースにも楽々収納可能です。カフェや新幹線、飛行機、出張や旅行にも最適です。",
+              "【単ポート最大35W出力】USB-C単ポート最大35W出力に対応。35W対応で利便性は飛躍的に向上し、スマートフォン(iPhoneやGalaxy、Xperia等のAndroidスマホ)からタブレット(iPad用 / mini / Pro)のみならず、一部ミドルレンジのノートPC（MacBook Air）などへの充電も可能です。",
+              "【3ポート搭載】平らなフォルムを最大限活かすため、USB-Cポート×2、USB-Aポート×1の合計3つの充電口を搭載。 様々な用途の充電が可能となり、充電しながらiPhoneやAndroid等のCポートが必要なデバイスを充電したり、 イヤホン等のAポートが必要なデバイスを充電したりと、お持ちのデバイスやケーブル状況にあわせたパススルー充電が可能となります。【急速充電】 更に『SMARTCOBY Pro SLIM』はPPSにも対応している為、 Galaxyは超急速充電モードで充電可能です。 本体は35Wに対応しており、急速充電器を用いる事で約90分で満充電に。",
+              "【パススルー充電対応】デバイスとバッテリーの両方を充電 バッテリーを経由しながらデバイスの急速充電が可能。バッテリーを充電するのが面倒で、使いたい時にバッテリーが空になっているとき、『SMARTCOBY Pro SLIM』はパススルー機能搭載で、バッテリーに充電しながらスマホなどへの充電にも対応しております。 コンセントが一つしかない環境や、両方を充電したいときに大活躍します。 ※最大35Wの蓄電を行うには、USB PD規格に対応した35W以上の出力が可能な充電器をご使用ください。 CIO製USB充電器をご使用いただくことで、互換性や安全性を確保できます。 他社製充電器をご使用の場合は、USB PD規格対応かつ35W以上の出力が可能な製品をご選択ください。",
+              "【デジタル残量表示】 通常時（非表示状態）はデジタル基盤の有無が気にならないフラットな表面で、本体のデザイン性を高く維持。 従来のディスプレイ画面だと傷が目立ってしまうことがありましたが、外観と同じシボ加工を実装することで傷が目立ちにくくなりました。 デバイスを充電中は残量を数字で表示し、バッテリー本体へ蓄電中は遊び心を取り入れたアニメーション風に表示します。 【電池残量確認ボタンについて】 デバイス接続時は1回押すと電源ON、2回押すと電源OFFになります。 デバイス無接続時は、ボタンを1回押すとバッテリー残量をLEDで確認できます。2回押しても何も起こらず、表示は5秒後に自動OFFとなります。 ※一部機種で動作が異なる可能性があるので、ご注意ください。",
+              "【大容量10000mAh】 高出力・コンパクトでありながら様々なデバイスを複数回充電可能。",
+              "【本体の蓄電も約90分】 本体への蓄電も35Wに対応しており、急速充電器を用いることで約90分でフル充電が完了します。",
+              "【CIO 安心保証対応】日本メーカーとして動作不良にもしっかりと対応させていただきます。初期不良やご使用中の製品不良の際はまずはお問い合わせくださいませ。お問い合わせ時はAmazonのご注文番号をお伝えいただくとスムーズです。※動作検品時に製品を開封し、問題ないものを納品させていただいております為、開封痕がある場合がございます。間違いなく新品未使用の為ご安心いただけますと幸いです。"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "ブラック",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "itemDimensions": {
+              "weight": {
+                "displayValue": 0.4850169764,
+                "label": "Weight",
+                "locale": "ja_JP",
+                "unit": "ポンド"
+              }
+            },
+            "size": {
+              "displayValue": "従来品",
+              "label": "Size",
+              "locale": "ja_JP"
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "CIO モバイルバッテリー PD USB-C×2 USB-A×1 10000mAh SMARTCOBY Pro SLIM 35W (ブラック)",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 30,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "ALL",
+                "badge": "タイムセール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-12T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 3280,
+                  "currency": "JPY",
+                  "displayAmount": "￥3,280"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 1538,
+                    "currency": "JPY",
+                    "displayAmount": "￥1,538"
+                  },
+                  "percentage": 32
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 4818,
+                    "currency": "JPY",
+                    "displayAmount": "￥4,818"
+                  },
+                  "savingBasisType": "LIST_PRICE",
+                  "savingBasisTypeLabel": "参考価格:"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        },
+        "parentASIN": "B0GTY8YBYL"
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "maxOrderQuantity": 30,
+        "minOrderQuantity": 1,
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "ALL",
+        "badge": "タイムセール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-12T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 4818,
+          "currency": "JPY",
+          "displayAmount": "￥4,818"
+        },
+        "savingBasisType": "LIST_PRICE",
+        "savingBasisTypeLabel": "参考価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B0CHVZHLZ1?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": "B0GTY8YBYL"
+    },
+    {
+      "asin": "B091BGMKYS",
+      "title": "UGREEN Nexode 急速 充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式",
+      "url": "https://www.amazon.co.jp/dp/B091BGMKYS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B091BGMKYS?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥2,979",
+      "image_url": "",
+      "features": [
+        "▶【65W高出力 Type-C 急速充電器】最 大65W出力（USB-C単ポート使用時）で、ノートPCからスマホまで幅広いデバイスを高速充電可能。MacBook Pro 13インチは約1時間50分でフル充電、iPhone 16は約30分で60%まで到達。USB-AポートはQC3.0・SCP・FCPに対応し、Androidスマホも急速充電可能です。",
+        "▶【3台同時充電に対応｜2C1A多ポート充電器】USB-Cポート×2（最 大65W/65W）とUSB-Aポート×1（最 大22.5W）を搭載。スマホ・タブレット・ノートPCなど最 大3台を同時に充電できます。コンセントスペースを有効活用し、コンセント周りをすっきり整理。家庭やオフィスで大活躍する一台です。",
+        "▶【次世代GaNII技術｜小型・低温・高効率】従来のGaN I世代比で約30%小型化。II世代GaN技術により、発熱を抑えながら安定した高出力を長時間維持。折り畳み式プラグ採用で持ち運びも簡単。さらに、優れたデザイン性が認められ、2022 Red Dot Design Awardを受賞しています。",
+        "▶【多重安全保護機能｜PSE適合で安心】過電流・過電圧・過熱・短絡保護回路を内蔵。難燃性PC素材を使用し、インテリジェント検知機能が接続デバイスに合わせて自動で出力調整。夜間の長時間充電も安心してご利用いただけます。日本のPSE技術基準にも認証済みです。",
+        "▶【幅広い互換性】PD3.0・PPS・QC3.0・SCP・FCPに対応。iPhone、iPad、MacBook、Galaxy、Xperia、Switchなど、USB-C搭載のほとんどの機器を最適な速度で充電します。C1ポートは、対応するSamsung Galaxy Sシリーズに最大45Wでの充電をサポート。さまざまな機器に合わせた充電が可能です。",
+        "▶【24ヶ月間の保 証】当店でご購入いただいた製品には、24ヶ月間の保 証サービスをご提供しております。保 証期間は、ご購入日より24ヶ月間です。 ※お客様または第三者による故意または過失による破損・故障については、保 証対象外となります。なお、最新ロットの製品は外観を改良し、ポート部に識別用の印字を追加しております。これはお客様に各ポートをより分かりやすくご確認いただけるよう改善したものです。製品の機能・性能に変更はございませんので、どうぞご安心ください。",
+        "▶【iPhone 17シリーズの充電出力（実測値）】iPhone 17では30W、iPhone 17 Pro Maxでは36Wの充電出力を実測しています。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B091BGMKYS",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B091BGMKYS?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "UGREEN",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "Ugreen Group Limited",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "▶【65W高出力 Type-C 急速充電器】最 大65W出力（USB-C単ポート使用時）で、ノートPCからスマホまで幅広いデバイスを高速充電可能。MacBook Pro 13インチは約1時間50分でフル充電、iPhone 16は約30分で60%まで到達。USB-AポートはQC3.0・SCP・FCPに対応し、Androidスマホも急速充電可能です。",
+              "▶【3台同時充電に対応｜2C1A多ポート充電器】USB-Cポート×2（最 大65W/65W）とUSB-Aポート×1（最 大22.5W）を搭載。スマホ・タブレット・ノートPCなど最 大3台を同時に充電できます。コンセントスペースを有効活用し、コンセント周りをすっきり整理。家庭やオフィスで大活躍する一台です。",
+              "▶【次世代GaNII技術｜小型・低温・高効率】従来のGaN I世代比で約30%小型化。II世代GaN技術により、発熱を抑えながら安定した高出力を長時間維持。折り畳み式プラグ採用で持ち運びも簡単。さらに、優れたデザイン性が認められ、2022 Red Dot Design Awardを受賞しています。",
+              "▶【多重安全保護機能｜PSE適合で安心】過電流・過電圧・過熱・短絡保護回路を内蔵。難燃性PC素材を使用し、インテリジェント検知機能が接続デバイスに合わせて自動で出力調整。夜間の長時間充電も安心してご利用いただけます。日本のPSE技術基準にも認証済みです。",
+              "▶【幅広い互換性】PD3.0・PPS・QC3.0・SCP・FCPに対応。iPhone、iPad、MacBook、Galaxy、Xperia、Switchなど、USB-C搭載のほとんどの機器を最適な速度で充電します。C1ポートは、対応するSamsung Galaxy Sシリーズに最大45Wでの充電をサポート。さまざまな機器に合わせた充電が可能です。",
+              "▶【24ヶ月間の保 証】当店でご購入いただいた製品には、24ヶ月間の保 証サービスをご提供しております。保 証期間は、ご購入日より24ヶ月間です。 ※お客様または第三者による故意または過失による破損・故障については、保 証対象外となります。なお、最新ロットの製品は外観を改良し、ポート部に識別用の印字を追加しております。これはお客様に各ポートをより分かりやすくご確認いただけるよう改善したものです。製品の機能・性能に変更はございませんので、どうぞご安心ください。",
+              "▶【iPhone 17シリーズの充電出力（実測値）】iPhone 17では30W、iPhone 17 Pro Maxでは36Wの充電出力を実測しています。"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "1)グレー(USB-C*2+USB-A*1)",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "itemDimensions": {
+              "height": {
+                "displayValue": 3.93700787,
+                "label": "Height",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "length": {
+                "displayValue": 5.3149606245,
+                "label": "Length",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "weight": {
+                "displayValue": 0.2875,
+                "label": "Weight",
+                "locale": "ja_JP",
+                "unit": "ポンド"
+              },
+              "width": {
+                "displayValue": 1.4960629906,
+                "label": "Width",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              }
+            },
+            "size": {
+              "displayValue": "65W",
+              "label": "Size",
+              "locale": "ja_JP"
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "UGREEN Nexode 急速 充電器 65W Type-C 2C1A 3ポート PD/PPS 4.5A/QC3.0/SCP/FCP対応 折り畳み式",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 400,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "ALL",
+                "badge": "タイムセール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-12T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 2979,
+                  "currency": "JPY",
+                  "displayAmount": "￥2,979"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 1301,
+                    "currency": "JPY",
+                    "displayAmount": "￥1,301"
+                  },
+                  "percentage": 30
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 4280,
+                    "currency": "JPY",
+                    "displayAmount": "￥4,280"
+                  },
+                  "savingBasisType": "LIST_PRICE",
+                  "savingBasisTypeLabel": "参考価格:"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        },
+        "parentASIN": "B0HJZPKZXN"
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "maxOrderQuantity": 400,
+        "minOrderQuantity": 1,
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "ALL",
+        "badge": "タイムセール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-12T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 4280,
+          "currency": "JPY",
+          "displayAmount": "￥4,280"
+        },
+        "savingBasisType": "LIST_PRICE",
+        "savingBasisTypeLabel": "参考価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B091BGMKYS?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": "B0HJZPKZXN"
+    },
+    {
+      "asin": "B07RFFYN2D",
+      "title": "NANAMI ワイヤレス充電器 Qi認証 USB-Cポート Quick Charge 3.0 15W 急速 置くだけ充電 スマホスタンド",
+      "url": "https://www.amazon.co.jp/dp/B07RFFYN2D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07RFFYN2D?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥2,059",
+      "image_url": "",
+      "features": [
+        "「Qi規格急速充電」ワイヤレス給電の国際標準規格 Qi（チー）に対応したワイヤレス充電器で、iPhone 8以上またAndroid（アンドロイド）システム搭載した機種Galaxy S26(Ultra含め)やZ Flip/Z FoldまでのQi対応機種なら、出力18W以降のQC3.0/2.0アダプターで接続してから、乗せるだけで7.5Ｗ・10W急速な充電をスタートします。従来の5W充電アダプターと比べ、充電速度を50％向上するため、充電時間が最大で30分短縮されます。",
+        "「広い互換性」Qi受信機を内蔵されている機種はほとんど対応できます。最新のiPhone18シリーズから17/16/15/14/13/12/12 Pro/SE (第2/3世代) /11/11Pro Max/Xs/Xr/Xs Max/X/8/8 Plus、Galaxy S26/S25/S24/S23/S22/S21/S20など対応以外、Pixel、XperiaのQi搭載機種も対応できます。（ご注意：Xperia xz2/xz2 premiumは横置き/逆置きで充電必要です。ご注意：iPhone12/13 mini機種のサイズが小さくて、内蔵バッテリーが右下に設計しているため、縦置きで充電する場合、上に1cm程浮かんでいる状態で置いてください。）",
+        "「より高い安定性」人間工学に基づいて、使用中に縦と横両方向置いても、目と手に相応しい角度をデザインとして、スマホトレイと底面に滑り止めゴムが付いています。安定性を高めた上に、スマホにも傷つけません。厚さ5ｍｍ以下、非金属製のケースを付けても、このまま置くだけで充電可能です。（お薦め：本製品はFOD異物検査機能を搭載しています。スマホカバー以外の金属製、磁気を帯びる飾りや、クレジットカードを付けた場合、充電前に取り外して下さいますようお願い致します）",
+        "※充電できない時の対処： 対処1、スマホケースを装着している場合、ケースに金属パーツが付いていないか、またはMagSafe対応のケースかどうかをご確認ください。ワイヤレス充電は電磁誘導の原理で動作するため、スマホと充電器の間に金属があると、電磁波の伝達が妨げられ、充電できない場合や異常発熱の原因になることがあります。その場合は、ケースを外して充電をお試しください。対処２、一部のスマホでは、まれに充電器との互換性の問題で充電できない場合があります。その際は、スマホの再起動やOSのアップデートを行うと改善されることがありますので、お試しください。",
+        "「LEDインジケーター付」機種に関わらず、充電中、インジケーターは点灯し続け、充電完了LEDの表示: Galaxyシリーズ - 浅い青になります。iPhone16また最新のiOSシステムをアップデートしたアイホン機種は、充電完了後、緑から青になります。他の機種 - 緑ままに点灯しています。ワイヤレス充電スタンドに異物があると（例えば磁気パッド、金属、クレジットカード、QI非対応機種）、青いライトが点滅していて、充電できません。",
+        "「パッケージ内容」ワイヤレス充電器本体*1、 USB-A to Type-C ケーブル*1(約1メートル)、日本語取扱説明書*1。贈り物に最適：敬老の日・母の日・父の日・バレンタイン・クリスマス・誕生日・お歳末・正月・年始の贈答に最適です。大切な方への「実用的でスマートな贈り物」として喜ばれます。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B07RFFYN2D",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B07RFFYN2D?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "NANAMI",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "NANAMI",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "「Qi規格急速充電」ワイヤレス給電の国際標準規格 Qi（チー）に対応したワイヤレス充電器で、iPhone 8以上またAndroid（アンドロイド）システム搭載した機種Galaxy S26(Ultra含め)やZ Flip/Z FoldまでのQi対応機種なら、出力18W以降のQC3.0/2.0アダプターで接続してから、乗せるだけで7.5Ｗ・10W急速な充電をスタートします。従来の5W充電アダプターと比べ、充電速度を50％向上するため、充電時間が最大で30分短縮されます。",
+              "「広い互換性」Qi受信機を内蔵されている機種はほとんど対応できます。最新のiPhone18シリーズから17/16/15/14/13/12/12 Pro/SE (第2/3世代) /11/11Pro Max/Xs/Xr/Xs Max/X/8/8 Plus、Galaxy S26/S25/S24/S23/S22/S21/S20など対応以外、Pixel、XperiaのQi搭載機種も対応できます。（ご注意：Xperia xz2/xz2 premiumは横置き/逆置きで充電必要です。ご注意：iPhone12/13 mini機種のサイズが小さくて、内蔵バッテリーが右下に設計しているため、縦置きで充電する場合、上に1cm程浮かんでいる状態で置いてください。）",
+              "「より高い安定性」人間工学に基づいて、使用中に縦と横両方向置いても、目と手に相応しい角度をデザインとして、スマホトレイと底面に滑り止めゴムが付いています。安定性を高めた上に、スマホにも傷つけません。厚さ5ｍｍ以下、非金属製のケースを付けても、このまま置くだけで充電可能です。（お薦め：本製品はFOD異物検査機能を搭載しています。スマホカバー以外の金属製、磁気を帯びる飾りや、クレジットカードを付けた場合、充電前に取り外して下さいますようお願い致します）",
+              "※充電できない時の対処： 対処1、スマホケースを装着している場合、ケースに金属パーツが付いていないか、またはMagSafe対応のケースかどうかをご確認ください。ワイヤレス充電は電磁誘導の原理で動作するため、スマホと充電器の間に金属があると、電磁波の伝達が妨げられ、充電できない場合や異常発熱の原因になることがあります。その場合は、ケースを外して充電をお試しください。対処２、一部のスマホでは、まれに充電器との互換性の問題で充電できない場合があります。その際は、スマホの再起動やOSのアップデートを行うと改善されることがありますので、お試しください。",
+              "「LEDインジケーター付」機種に関わらず、充電中、インジケーターは点灯し続け、充電完了LEDの表示: Galaxyシリーズ - 浅い青になります。iPhone16また最新のiOSシステムをアップデートしたアイホン機種は、充電完了後、緑から青になります。他の機種 - 緑ままに点灯しています。ワイヤレス充電スタンドに異物があると（例えば磁気パッド、金属、クレジットカード、QI非対応機種）、青いライトが点滅していて、充電できません。",
+              "「パッケージ内容」ワイヤレス充電器本体*1、 USB-A to Type-C ケーブル*1(約1メートル)、日本語取扱説明書*1。贈り物に最適：敬老の日・母の日・父の日・バレンタイン・クリスマス・誕生日・お歳末・正月・年始の贈答に最適です。大切な方への「実用的でスマートな贈り物」として喜ばれます。"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "ホワイト",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "itemDimensions": {
+              "height": {
+                "displayValue": 4.5669291292,
+                "label": "Height",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "length": {
+                "displayValue": 2.8346456664,
+                "label": "Length",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "weight": {
+                "displayValue": 0.2866009406,
+                "label": "Weight",
+                "locale": "ja_JP",
+                "unit": "ポンド"
+              },
+              "width": {
+                "displayValue": 3.3858267682,
+                "label": "Width",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              }
+            },
+            "size": {
+              "displayValue": "スタンド型",
+              "label": "Size",
+              "locale": "ja_JP"
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "NANAMI ワイヤレス充電器 Qi認証 USB-Cポート Quick Charge 3.0 15W 急速 置くだけ充電 スマホスタンド",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "PRIME_EXCLUSIVE",
+                "badge": "プライム感謝祭先行セール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-12T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 2059,
+                  "currency": "JPY",
+                  "displayAmount": "￥2,059"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 521,
+                    "currency": "JPY",
+                    "displayAmount": "￥521"
+                  },
+                  "percentage": 20
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 2580,
+                    "currency": "JPY",
+                    "displayAmount": "￥2,580"
+                  },
+                  "savingBasisType": "WAS_PRICE",
+                  "savingBasisTypeLabel": "過去価格:"
+                }
+              },
+              "violatesMAP": false
+            },
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 100,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "isBuyBoxWinner": false,
+              "price": {
+                "money": {
+                  "amount": 2580,
+                  "currency": "JPY",
+                  "displayAmount": "￥2,580"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        },
+        "parentASIN": "B0CW95QGZ2"
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "PRIME_EXCLUSIVE",
+        "badge": "プライム感謝祭先行セール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-12T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 2580,
+          "currency": "JPY",
+          "displayAmount": "￥2,580"
+        },
+        "savingBasisType": "WAS_PRICE",
+        "savingBasisTypeLabel": "過去価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B07RFFYN2D?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": "B0CW95QGZ2"
+    },
+    {
+      "asin": "B0B6GHW1SX",
+      "title": "ゼンハイザー(Sennheiser) MOMENTUM 4 Wireless ワイヤレスヘッドホン ブラック 高性能ドライバー Bluetooth ノイズキャンセリング 最大60時間再生 タッチパネル 低遅延 aptX Adaptive マルチポイント 【国内正規品】",
+      "url": "https://www.amazon.co.jp/dp/B0B6GHW1SX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0B6GHW1SX?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥28,025",
+      "image_url": "",
+      "features": [
+        "シームレスなファームウェアとアプリの更新：Bluetoothオーバーイヤーヘッドホンで最新のファームウェアとSmart Control Plusアプリの機能を活用し、よりスムーズで信頼性の高い体験をお楽しみください。ノイズキャンセリング ヘッドホンとしてANC切り替え機能やタッチパッドのオフスイッチを備え、プレミアムな音楽クオリティを実現します",
+        "比類なきサウンド：ゼンハイザーのオーディオ技術で開発した42mmトランスデューサーは低音から繊細な高音の細部まで豊かに描き忠実に再現。Bluetooth用チップと、DAC・ANCの役割を担うもう一つのチップで、全体のパフォーマンスを効率化し、音質を大幅に向上。バッフルの角度を調整し、サウンドよりダイレクトに届き、より自然なサウンドステージを創出。aptX Adaptiveにも対応。",
+        "パーソナライズできるリスニング体験：オーバーイヤーワイヤレスヘッドホン（ゼンハイザー ヘッドホン）でSmart Control Plusアプリを介してサウンドをカスタマイズ。内蔵イコライザー、プリセット、サウンドモードにより、音楽、ポッドキャスト、ゲームなど独自のカスタムオーディオを作成できます。",
+        "アダプティブノイズキャンセリングとトランスペアレントモード（外音取り込み機能）：周囲の雑音を遮断したり、周辺の状況を認識しながら、シームレスに音楽を楽しめます。通勤、学生、プロフェッショナルに理想的です。",
+        "卓越した快適さと長時間バッテリー：ゼンハイザー ヘッドホンのノイズキャンセリング機能付きワイヤレスヘッドホンは軽量でケース収納可能。クッション付きヘッドバンドとイヤーパッドを採用し、急速充電で最大60時間の長時間快適な再生を提供します。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B0B6GHW1SX",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B0B6GHW1SX?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "ゼンハイザー(Sennheiser)",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "ゼンハイザー(Sennheiser)",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "シームレスなファームウェアとアプリの更新：Bluetoothオーバーイヤーヘッドホンで最新のファームウェアとSmart Control Plusアプリの機能を活用し、よりスムーズで信頼性の高い体験をお楽しみください。ノイズキャンセリング ヘッドホンとしてANC切り替え機能やタッチパッドのオフスイッチを備え、プレミアムな音楽クオリティを実現します",
+              "比類なきサウンド：ゼンハイザーのオーディオ技術で開発した42mmトランスデューサーは低音から繊細な高音の細部まで豊かに描き忠実に再現。Bluetooth用チップと、DAC・ANCの役割を担うもう一つのチップで、全体のパフォーマンスを効率化し、音質を大幅に向上。バッフルの角度を調整し、サウンドよりダイレクトに届き、より自然なサウンドステージを創出。aptX Adaptiveにも対応。",
+              "パーソナライズできるリスニング体験：オーバーイヤーワイヤレスヘッドホン（ゼンハイザー ヘッドホン）でSmart Control Plusアプリを介してサウンドをカスタマイズ。内蔵イコライザー、プリセット、サウンドモードにより、音楽、ポッドキャスト、ゲームなど独自のカスタムオーディオを作成できます。",
+              "アダプティブノイズキャンセリングとトランスペアレントモード（外音取り込み機能）：周囲の雑音を遮断したり、周辺の状況を認識しながら、シームレスに音楽を楽しめます。通勤、学生、プロフェッショナルに理想的です。",
+              "卓越した快適さと長時間バッテリー：ゼンハイザー ヘッドホンのノイズキャンセリング機能付きワイヤレスヘッドホンは軽量でケース収納可能。クッション付きヘッドバンドとイヤーパッドを採用し、急速充電で最大60時間の長時間快適な再生を提供します。"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "ブラック",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "itemDimensions": {
+              "height": {
+                "displayValue": 7.086614166,
+                "label": "Height",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "length": {
+                "displayValue": 17.716535415,
+                "label": "Length",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "weight": {
+                "displayValue": 0.64595442766,
+                "label": "Weight",
+                "locale": "ja_JP",
+                "unit": "ポンド"
+              },
+              "width": {
+                "displayValue": 7.086614166,
+                "label": "Width",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              }
+            },
+            "releaseDate": {
+              "displayValue": "2022-08-31T00:00:01Z",
+              "label": "ReleaseDate",
+              "locale": "en_US"
+            },
+            "size": {
+              "displayValue": "アラウンドイヤー",
+              "label": "Size",
+              "locale": "ja_JP"
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "ゼンハイザー(Sennheiser) MOMENTUM 4 Wireless ワイヤレスヘッドホン ブラック 高性能ドライバー Bluetooth ノイズキャンセリング 最大60時間再生 タッチパネル 低遅延 aptX Adaptive マルチポイント 【国内正規品】",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "PRIME_EXCLUSIVE",
+                "badge": "プライム感謝祭先行セール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-12T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 28025,
+                  "currency": "JPY",
+                  "displayAmount": "￥28,025"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 24115,
+                    "currency": "JPY",
+                    "displayAmount": "￥24,115"
+                  },
+                  "percentage": 46
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 52140,
+                    "currency": "JPY",
+                    "displayAmount": "￥52,140"
+                  },
+                  "savingBasisType": "LIST_PRICE",
+                  "savingBasisTypeLabel": "参考価格:"
+                }
+              },
+              "violatesMAP": false
+            },
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 2,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "isBuyBoxWinner": false,
+              "price": {
+                "money": {
+                  "amount": 29500,
+                  "currency": "JPY",
+                  "displayAmount": "￥29,500"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 22640,
+                    "currency": "JPY",
+                    "displayAmount": "￥22,640"
+                  },
+                  "percentage": 43
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 52140,
+                    "currency": "JPY",
+                    "displayAmount": "￥52,140"
+                  },
+                  "savingBasisType": "LIST_PRICE",
+                  "savingBasisTypeLabel": "参考価格:"
+                }
+              },
+              "violatesMAP": false
+            },
+            {
+              "availability": {
+                "message": "残り1点 ご注文はお早めに",
+                "maxOrderQuantity": 1,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK_SCARCE"
+              },
+              "isBuyBoxWinner": false,
+              "price": {
+                "money": {
+                  "amount": 20680,
+                  "currency": "JPY",
+                  "displayAmount": "￥20,680"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        },
+        "parentASIN": "B0HCNGWV7V"
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "PRIME_EXCLUSIVE",
+        "badge": "プライム感謝祭先行セール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-12T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 52140,
+          "currency": "JPY",
+          "displayAmount": "￥52,140"
+        },
+        "savingBasisType": "LIST_PRICE",
+        "savingBasisTypeLabel": "参考価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B0B6GHW1SX?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": "B0HCNGWV7V"
+    },
+    {
+      "asin": "B08ZY32XRC",
+      "title": "Dreamegg ホワイトノイズマシン 赤ちゃん 寝かしつけ 夜泣き対策 21種の癒し音 授乳ライト 調光可能 USB充電 出産祝い Lite D11",
+      "url": "https://www.amazon.co.jp/dp/B08ZY32XRC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B08ZY32XRC?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥3,609",
+      "image_url": "",
+      "features": [
+        "【新しいアップグレード:11種➜21種癒しサウンドに増加（2024/6/24から）】多種類の癒やし自然音（海の波打ち、川のせせらぎ、睡眠オルゴール1、睡眠オルゴール2、「すーすー」の音、ドライヤー動作音、母の胎内音、市場の音、虫の鳴き声） が用意し、ホワイトノイズとファン音も備えています。赤ちゃんの寝かしつけおもちゃとして大活躍してくれるだけでなく、自宅でも各種な雰囲気を創造でき、睡眠改善・集中力アップ・騒音対策・耳鳴り緩和になることに役に立ちます。",
+        "【調光可能な優しいライト】目に優しい電球色のナイトライトは明るさを無段階に調節できるので、お好きな明るさを簡単に選べます。暖かい雰囲気を作り出しながら、夜中の授乳やオムツ換えに便利し、夜中の躓き転倒防止にも役に立ちます。",
+        "【便利なUSB充電式&携帯しやすい】バッテリー内蔵でコードレスでも使え、USB-C充電だがら専用充電アダプターが不要、パソコンやモバイルバッテリーから便利に充電できます。手に収まるコンパクトサイズで軽量、吊り下げフック付きで、簡単装着してベビーカー・ベビーベッドやデスクサイドに吊り下げて、省スペースで設置でき、持ち運びにも便利です。",
+        "【無段階音量調節&お休みタイマー機能】：お好みによって、ボリュームを0~75dBまで音量を細かく調節できます。タイマー機能も搭載され、寝る前ニーズに合わせて自動オフ時間を30分間、60分間と90分間に設定できます。設定した時間がくると、音量が徐々に小さくなっていくので、睡眠を妨げず、手動でスイッチを切る必要もありません。",
+        "【ママ目線で安全に配慮】安全ロック機能付き、ボタンの操作をロックして、お子様にの誤操作を防げます。全体が丸みを帯びたデザインは、万が一ぶつかっても、角がないから安心。BPAフリーの無毒無害安全な素材で作られ、子どもに使かわせても心配なし。国際CEとROHS及びFCC認証取得済みです。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B08ZY32XRC",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B08ZY32XRC?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "Dreamegg",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "Dreamegg",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "【新しいアップグレード:11種➜21種癒しサウンドに増加（2024/6/24から）】多種類の癒やし自然音（海の波打ち、川のせせらぎ、睡眠オルゴール1、睡眠オルゴール2、「すーすー」の音、ドライヤー動作音、母の胎内音、市場の音、虫の鳴き声） が用意し、ホワイトノイズとファン音も備えています。赤ちゃんの寝かしつけおもちゃとして大活躍してくれるだけでなく、自宅でも各種な雰囲気を創造でき、睡眠改善・集中力アップ・騒音対策・耳鳴り緩和になることに役に立ちます。",
+              "【調光可能な優しいライト】目に優しい電球色のナイトライトは明るさを無段階に調節できるので、お好きな明るさを簡単に選べます。暖かい雰囲気を作り出しながら、夜中の授乳やオムツ換えに便利し、夜中の躓き転倒防止にも役に立ちます。",
+              "【便利なUSB充電式&携帯しやすい】バッテリー内蔵でコードレスでも使え、USB-C充電だがら専用充電アダプターが不要、パソコンやモバイルバッテリーから便利に充電できます。手に収まるコンパクトサイズで軽量、吊り下げフック付きで、簡単装着してベビーカー・ベビーベッドやデスクサイドに吊り下げて、省スペースで設置でき、持ち運びにも便利です。",
+              "【無段階音量調節&お休みタイマー機能】：お好みによって、ボリュームを0~75dBまで音量を細かく調節できます。タイマー機能も搭載され、寝る前ニーズに合わせて自動オフ時間を30分間、60分間と90分間に設定できます。設定した時間がくると、音量が徐々に小さくなっていくので、睡眠を妨げず、手動でスイッチを切る必要もありません。",
+              "【ママ目線で安全に配慮】安全ロック機能付き、ボタンの操作をロックして、お子様にの誤操作を防げます。全体が丸みを帯びたデザインは、万が一ぶつかっても、角がないから安心。BPAフリーの無毒無害安全な素材で作られ、子どもに使かわせても心配なし。国際CEとROHS及びFCC認証取得済みです。"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "グレー",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "isAdultProduct": {
+              "displayValue": false,
+              "label": "IsAdultProduct",
+              "locale": "en_US"
+            },
+            "itemDimensions": {
+              "height": {
+                "displayValue": 1.7716535415,
+                "label": "Height",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "length": {
+                "displayValue": 3.3464566895,
+                "label": "Length",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "width": {
+                "displayValue": 3.3464566895,
+                "label": "Width",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              }
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "Dreamegg ホワイトノイズマシン 赤ちゃん 寝かしつけ 夜泣き対策 21種の癒し音 授乳ライト 調光可能 USB充電 出産祝い Lite D11",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "PRIME_EXCLUSIVE",
+                "badge": "プライム感謝祭先行セール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-12T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 3609,
+                  "currency": "JPY",
+                  "displayAmount": "￥3,609"
+                },
+                "pricePerUnit": {
+                  "amount": 3609,
+                  "currency": "JPY",
+                  "displayAmount": "￥3,609 / 個"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 2371,
+                    "currency": "JPY",
+                    "displayAmount": "￥2,371"
+                  },
+                  "percentage": 40
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 5980,
+                    "currency": "JPY",
+                    "displayAmount": "￥5,980"
+                  },
+                  "savingBasisType": "LIST_PRICE",
+                  "savingBasisTypeLabel": "参考価格:"
+                }
+              },
+              "violatesMAP": false
+            },
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 5,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "isBuyBoxWinner": false,
+              "price": {
+                "money": {
+                  "amount": 5980,
+                  "currency": "JPY",
+                  "displayAmount": "￥5,980"
+                },
+                "pricePerUnit": {
+                  "amount": 5980,
+                  "currency": "JPY",
+                  "displayAmount": "￥5,980 / 個"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        },
+        "parentASIN": "B09ZSRD427"
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "PRIME_EXCLUSIVE",
+        "badge": "プライム感謝祭先行セール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-12T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 5980,
+          "currency": "JPY",
+          "displayAmount": "￥5,980"
+        },
+        "savingBasisType": "LIST_PRICE",
+        "savingBasisTypeLabel": "参考価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B08ZY32XRC?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": "B09ZSRD427"
+    },
+    {
+      "asin": "B07QQR6G5N",
+      "title": "ロジクール Webカメラ フルHD 1080P オートフォーカス ステレオマイク C920n 国内正規品 【Amazon.co.jp限定】",
+      "url": "https://www.amazon.co.jp/dp/B07QQR6G5N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07QQR6G5N?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥4,880",
+      "image_url": "",
+      "features": [
+        "【 オンライン会議 に適切】遅延なくスムーズなフルHD(1080p/30fps)の映像で、 Zoom、Microsoft Teams、Google Meetなど主要なWeb会議ソフトウェアに対応し、Windows/Mac等の環境でも追加設定の手間なくスムーズに利用開始できます。既存のPC環境への追加導入もしやすく、テレワーク環境の急な拡張にも即対応できます。",
+        "【自動HD光補正機能を搭載】光の状態に合わせて微調整し、薄暗い場所でもクリアでシャープな画質を実現。",
+        "【デュアルマイク ステレオ音声】2本のマイクが装備され、幅広い角度からリアルなサウンドをキャプチャし、自分の声がビデオ会議で自然かつクリアに伝わります。",
+        "【オートフォーカス対応】フルHD、5エレメントのガラスレンズは非常にシャープでクリアな画像をキャプチャ。優れたオートフォーカスは常に高解像度を提供するようスムーズかつ精確に調整します。",
+        "【2年間長期保証】国内正規品 2年間メーカー保証(製品箱にクイックスタートガイドが直接記載されており、 別途説明書のようなものは同梱されておりません)"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B07QQR6G5N",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B07QQR6G5N?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "Logicool(ロジクール)",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "Logicool(ロジクール)",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "【 オンライン会議 に適切】遅延なくスムーズなフルHD(1080p/30fps)の映像で、 Zoom、Microsoft Teams、Google Meetなど主要なWeb会議ソフトウェアに対応し、Windows/Mac等の環境でも追加設定の手間なくスムーズに利用開始できます。既存のPC環境への追加導入もしやすく、テレワーク環境の急な拡張にも即対応できます。",
+              "【自動HD光補正機能を搭載】光の状態に合わせて微調整し、薄暗い場所でもクリアでシャープな画質を実現。",
+              "【デュアルマイク ステレオ音声】2本のマイクが装備され、幅広い角度からリアルなサウンドをキャプチャし、自分の声がビデオ会議で自然かつクリアに伝わります。",
+              "【オートフォーカス対応】フルHD、5エレメントのガラスレンズは非常にシャープでクリアな画像をキャプチャ。優れたオートフォーカスは常に高解像度を提供するようスムーズかつ精確に調整します。",
+              "【2年間長期保証】国内正規品 2年間メーカー保証(製品箱にクイックスタートガイドが直接記載されており、 別途説明書のようなものは同梱されておりません)"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "ブラック",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "itemDimensions": {
+              "height": {
+                "displayValue": 1.70472440771,
+                "label": "Height",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "length": {
+                "displayValue": 2.7952755877,
+                "label": "Length",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "weight": {
+                "displayValue": 0.35714886444,
+                "label": "Weight",
+                "locale": "ja_JP",
+                "unit": "ポンド"
+              },
+              "width": {
+                "displayValue": 3.7007873978,
+                "label": "Width",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              }
+            },
+            "releaseDate": {
+              "displayValue": "2019-04-25T00:00:01Z",
+              "label": "ReleaseDate",
+              "locale": "en_US"
+            },
+            "size": {
+              "displayValue": "フルHD(1080P)",
+              "label": "Size",
+              "locale": "ja_JP"
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "ロジクール Webカメラ フルHD 1080P オートフォーカス ステレオマイク C920n 国内正規品 【Amazon.co.jp限定】",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 30,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "ALL",
+                "badge": "タイムセール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-05T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 4880,
+                  "currency": "JPY",
+                  "displayAmount": "￥4,880"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 1319,
+                    "currency": "JPY",
+                    "displayAmount": "￥1,319"
+                  },
+                  "percentage": 21
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 6199,
+                    "currency": "JPY",
+                    "displayAmount": "￥6,199"
+                  },
+                  "savingBasisType": "WAS_PRICE",
+                  "savingBasisTypeLabel": "過去価格:"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        }
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "maxOrderQuantity": 30,
+        "minOrderQuantity": 1,
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "ALL",
+        "badge": "タイムセール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-05T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 6199,
+          "currency": "JPY",
+          "displayAmount": "￥6,199"
+        },
+        "savingBasisType": "WAS_PRICE",
+        "savingBasisTypeLabel": "過去価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B07QQR6G5N?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": null
+    },
+    {
+      "asin": "B07YG7RNF2",
+      "title": "【Amazon Alexa 認定取得】 TP-Link ネットワークWi-Fiカメラ ペットカメラ フルHD 屋内カメラ 夜間撮影 相互音声会話 動作検知 スマホ通知 ドーム型防犯カメラ Tapo C200 3年保証",
+      "url": "https://www.amazon.co.jp/dp/B07YG7RNF2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07YG7RNF2?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥3,199",
+      "image_url": "",
+      "features": [
+        "[特徴] スマホでかんたんに操作&確認可能な見守りカメラ。胴体検知など便利な機能群を搭載。",
+        "[パン・チルト機能] 水平方向 360°、垂直方向114°までを広範囲カバー",
+        "[マイクロSD対応] 512GBまでのマイクロSDカード※に対応(※別売り)",
+        "[動作検知] 検知してスマホアプリ通知を可能に",
+        "[相互音声会話] スマホから音声会話を可能に"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B07YG7RNF2",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B07YG7RNF2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "Tapo(タポ)",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "TP-Link",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "[特徴] スマホでかんたんに操作&確認可能な見守りカメラ。胴体検知など便利な機能群を搭載。",
+              "[パン・チルト機能] 水平方向 360°、垂直方向114°までを広範囲カバー",
+              "[マイクロSD対応] 512GBまでのマイクロSDカード※に対応(※別売り)",
+              "[動作検知] 検知してスマホアプリ通知を可能に",
+              "[相互音声会話] スマホから音声会話を可能に"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "FullHD",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "itemDimensions": {
+              "height": {
+                "displayValue": 4.633849,
+                "label": "Height",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "length": {
+                "displayValue": 3.417316,
+                "label": "Length",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "weight": {
+                "displayValue": 0.26014546916,
+                "label": "Weight",
+                "locale": "ja_JP",
+                "unit": "ポンド"
+              },
+              "width": {
+                "displayValue": 3.362198,
+                "label": "Width",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              }
+            },
+            "releaseDate": {
+              "displayValue": "2019-12-19T00:00:01Z",
+              "label": "ReleaseDate",
+              "locale": "en_US"
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "【Amazon Alexa 認定取得】 TP-Link ネットワークWi-Fiカメラ ペットカメラ フルHD 屋内カメラ 夜間撮影 相互音声会話 動作検知 スマホ通知 ドーム型防犯カメラ Tapo C200 3年保証",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "PRIME_EXCLUSIVE",
+                "badge": "プライム感謝祭先行セール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-12T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 3199,
+                  "currency": "JPY",
+                  "displayAmount": "￥3,199"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 1399,
+                    "currency": "JPY",
+                    "displayAmount": "￥1,399"
+                  },
+                  "percentage": 30
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 4598,
+                    "currency": "JPY",
+                    "displayAmount": "￥4,598"
+                  },
+                  "savingBasisType": "LIST_PRICE",
+                  "savingBasisTypeLabel": "参考価格:"
+                }
+              },
+              "violatesMAP": false
+            },
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 3,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "isBuyBoxWinner": false,
+              "price": {
+                "money": {
+                  "amount": 3984,
+                  "currency": "JPY",
+                  "displayAmount": "￥3,984"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 614,
+                    "currency": "JPY",
+                    "displayAmount": "￥614"
+                  },
+                  "percentage": 13
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 4598,
+                    "currency": "JPY",
+                    "displayAmount": "￥4,598"
+                  },
+                  "savingBasisType": "LIST_PRICE",
+                  "savingBasisTypeLabel": "参考価格:"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        }
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "PRIME_EXCLUSIVE",
+        "badge": "プライム感謝祭先行セール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-12T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 4598,
+          "currency": "JPY",
+          "displayAmount": "￥4,598"
+        },
+        "savingBasisType": "LIST_PRICE",
+        "savingBasisTypeLabel": "参考価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B07YG7RNF2?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": null
+    },
+    {
+      "asin": "B0BM8VS13P",
+      "title": "スイッチボット(SwitchBot) SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
+      "url": "https://www.amazon.co.jp/dp/B0BM8VS13P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B0BM8VS13P?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥7,980",
+      "image_url": "",
+      "features": [
+        "【高性能の4-in-1スマートリモコン】SwitchBot ハブ2 一つでおうちを簡単にスマートに。あらゆる家電のリモコンを1つに集約してスマホで操作できるスマートリモコンだけではなく、温湿度計、スマートボタン、スマートハブなど便利な機能を多数搭載しています。本商品はWorks with Alexa認定を受けたAmazon Alexa対応端末です。（※本製品はWi-Fi2.4GHz帯のみ対応。）",
+        "【あらゆる赤外線家電はそのままスマート家電に】圧倒的な赤外線コードデータベース所有量が誇り。対応可能なメーカー数4877社、対応可能なリモコンの種類21363種、対応可能な製品型番83934個、新デバイスも旧式家電も簡単にスマートに。自社開発のスマートラーニング方式で、ワンタッチで家電を登録。初心者もすぐに使えます。",
+        "【自宅の温湿度・照度の変化が常にひと目で分かる】付属のケーブルには温度センサーと湿度センサーが搭載、お部屋の温湿度がより精確に分かります。光センサーも搭載されいるため、SwitchBotシーリングライトやSwitchBotカーテンなどの室内照明調整アイテムと併用すれば、室内の光度や日照量を自動で調節します。オートメーションを設定する際にも活躍できます。",
+        "【遠隔操作可能、音声で家電をコントロール】テレビ・エアコン・照明など赤外線の家電製品をSwitchBot Hub2一つで集約し、おうちでも外出先でもスマホで家電を一括にコントロールします。音声コントロールが対応。Amazonアレクサ、Googleアシスタント、Siriショートカットなどのスマートスピーカーと連携すれば、話しかけるだけで家電を操作できます。",
+        "【新基準のMatter対応、新規格のスマートホームハブ】ネットに接続できない赤外線家電（エアコン、照明など）や、従来HomeKit非対応のSwitchBotデバイスなど、ハブ 2に連携して、Matter(マター)に通じて、AppleのHomeアプリ上で管理したり、スマートスピーカーで音声コントロールしたりできるようになります。（本機能を利用するには、サードパーティスマートハブとの併用が必要。）"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B0BM8VS13P",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B0BM8VS13P?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "スイッチボット(SwitchBot)",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "スイッチボット(SwitchBot)",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "【高性能の4-in-1スマートリモコン】SwitchBot ハブ2 一つでおうちを簡単にスマートに。あらゆる家電のリモコンを1つに集約してスマホで操作できるスマートリモコンだけではなく、温湿度計、スマートボタン、スマートハブなど便利な機能を多数搭載しています。本商品はWorks with Alexa認定を受けたAmazon Alexa対応端末です。（※本製品はWi-Fi2.4GHz帯のみ対応。）",
+              "【あらゆる赤外線家電はそのままスマート家電に】圧倒的な赤外線コードデータベース所有量が誇り。対応可能なメーカー数4877社、対応可能なリモコンの種類21363種、対応可能な製品型番83934個、新デバイスも旧式家電も簡単にスマートに。自社開発のスマートラーニング方式で、ワンタッチで家電を登録。初心者もすぐに使えます。",
+              "【自宅の温湿度・照度の変化が常にひと目で分かる】付属のケーブルには温度センサーと湿度センサーが搭載、お部屋の温湿度がより精確に分かります。光センサーも搭載されいるため、SwitchBotシーリングライトやSwitchBotカーテンなどの室内照明調整アイテムと併用すれば、室内の光度や日照量を自動で調節します。オートメーションを設定する際にも活躍できます。",
+              "【遠隔操作可能、音声で家電をコントロール】テレビ・エアコン・照明など赤外線の家電製品をSwitchBot Hub2一つで集約し、おうちでも外出先でもスマホで家電を一括にコントロールします。音声コントロールが対応。Amazonアレクサ、Googleアシスタント、Siriショートカットなどのスマートスピーカーと連携すれば、話しかけるだけで家電を操作できます。",
+              "【新基準のMatter対応、新規格のスマートホームハブ】ネットに接続できない赤外線家電（エアコン、照明など）や、従来HomeKit非対応のSwitchBotデバイスなど、ハブ 2に連携して、Matter(マター)に通じて、AppleのHomeアプリ上で管理したり、スマートスピーカーで音声コントロールしたりできるようになります。（本機能を利用するには、サードパーティスマートハブとの併用が必要。）"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "ハブ2/白",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "itemDimensions": {
+              "height": {
+                "displayValue": 0.90551,
+                "label": "Height",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "length": {
+                "displayValue": 3.1496,
+                "label": "Length",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "weight": {
+                "displayValue": 0.07936641432,
+                "label": "Weight",
+                "locale": "ja_JP",
+                "unit": "ポンド"
+              },
+              "width": {
+                "displayValue": 2.7559,
+                "label": "Width",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              }
+            },
+            "size": {
+              "displayValue": "ハブ2(単品",
+              "label": "Size",
+              "locale": "ja_JP"
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "スイッチボット(SwitchBot) SwitchBot スマートリモコン ハブ2 赤外線家電を管理 スマートホーム Alexa スイッチボット 学習リモコン 温湿度計機能付き 光センサー付き リモートボタン スケジュール シーンで家電一括操作 遠隔操作 節電·省エネ Google Home IFTTT Siri SmartThingsに対応 Hub2",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "PRIME_EXCLUSIVE",
+                "badge": "プライム感謝祭先行セール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-12T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 7980,
+                  "currency": "JPY",
+                  "displayAmount": "￥7,980"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 2000,
+                    "currency": "JPY",
+                    "displayAmount": "￥2,000"
+                  },
+                  "percentage": 20
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 9980,
+                    "currency": "JPY",
+                    "displayAmount": "￥9,980"
+                  },
+                  "savingBasisType": "LIST_PRICE",
+                  "savingBasisTypeLabel": "参考価格:"
+                }
+              },
+              "violatesMAP": false
+            },
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 3,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "isBuyBoxWinner": false,
+              "price": {
+                "money": {
+                  "amount": 9980,
+                  "currency": "JPY",
+                  "displayAmount": "￥9,980"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        },
+        "parentASIN": "B0HFHW4RYC"
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "PRIME_EXCLUSIVE",
+        "badge": "プライム感謝祭先行セール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-12T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 9980,
+          "currency": "JPY",
+          "displayAmount": "￥9,980"
+        },
+        "savingBasisType": "LIST_PRICE",
+        "savingBasisTypeLabel": "参考価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B0BM8VS13P?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": "B0HFHW4RYC"
+    },
+    {
+      "asin": "B07L4QNZVF",
+      "title": "【Works with Alexa認定】SwitchBot 温湿度計 デジタル スマート家電 高精度 スイス製センサー スマホで温度湿度管理 梅雨 熱中症対策 アラーム付き グラフ記録 Alexa、Google home、HomePod、IFTTT に対応(ハブ必要) 熱中症対策",
+      "url": "https://www.amazon.co.jp/dp/B07L4QNZVF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "affiliate_url": "https://www.amazon.co.jp/dp/B07L4QNZVF?tag=daily-gadget-22&linkCode=osi&th=1&psc=1",
+      "price": "￥1,567",
+      "image_url": "",
+      "features": [
+        "【4WAYタイプ&取付簡単】SwitchBotアプリに3ステップのみで簡単にセットアップ完了。そのまま机に置いたり、粘着シールを使用して壁掛けたり、専用的スタンドで斜め置いたり(斜めの角度:56℃)、内蔵されているマグネットで冷蔵庫に取り付けたりすることが可能です。ご注意:使用前に温湿度計表面のシールをお剝がしください。",
+        "【スイス製高精度センサー搭載】高精度で信頼性の高い温湿度測定を実現し、より正確な温度や湿度を管理可能。温度・湿度のデータは4秒ごとに取得し、感度と精度の両方とも優れています。液晶パネルを採用し、コンパクトでも視認性が高いです。温度・湿度のほか、電池残量にも表示されます。",
+        "【アラート通知機能&遠隔確認】SwitchBotハブミニと併用すれば、リアルタイムにお家の温度・湿度を確認可能。設定した温度・湿度を超えると、外出先でもアプリのプッシュ通知が受け取れます。お年寄り、赤ちゃんやペットがいるご家庭におすすめです。",
+        "【スマートスピーカーと連携】Amazon Alexa、Google アシスタントやSiriと連携して、声でお部屋の温度・湿度を確認できます。IFTTTにも対応可能。",
+        "【SwitchBotシリーズと連携】SwitchBotアプリにある「シーン」という機能より、温度が28度以上になったら、エアコンがONというふうに設定して熱中症対策として非常に有効。インフルエンザや乾燥、梅雨時期のカビ予防にもお役に立ちます。",
+        "【データの保存/削除/エクスポート可能】温湿度計本体は過去36日間のデータが保存でき、SwitchBotハブミニと連携し、アプリにデータ記録が2年間に保存可能。Bluetooth範囲内にクラウドサービスをオフにしたら、本体に保存されているデータが削除可能。クラウドサービスをオンにしたら、データの削除ができません。そして、温度・湿度がグラフで可視化でき、CSVファイル形式でダウンロードできます。",
+        "【使用上のご注意】有効的な動作環境範囲（-10°C～60°C / 20～85%RH）でご使しようください。液晶パネルに外力をかけられないように要注意。そうすると、液晶パネルを壊れさせ、数字が正常的に表示できない可能性があります。"
+      ],
+      "review_count": null,
+      "star_rating": null,
+      "query": "existing article refresh",
+      "raw": {
+        "asin": "B07L4QNZVF",
+        "detailPageURL": "https://www.amazon.co.jp/dp/B07L4QNZVF?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+        "itemInfo": {
+          "byLineInfo": {
+            "brand": {
+              "displayValue": "スイッチボット(SwitchBot)",
+              "label": "Brand",
+              "locale": "ja_JP"
+            },
+            "manufacturer": {
+              "displayValue": "スイッチボット(SwitchBot)",
+              "label": "Manufacturer",
+              "locale": "ja_JP"
+            }
+          },
+          "features": {
+            "displayValues": [
+              "【4WAYタイプ&取付簡単】SwitchBotアプリに3ステップのみで簡単にセットアップ完了。そのまま机に置いたり、粘着シールを使用して壁掛けたり、専用的スタンドで斜め置いたり(斜めの角度:56℃)、内蔵されているマグネットで冷蔵庫に取り付けたりすることが可能です。ご注意:使用前に温湿度計表面のシールをお剝がしください。",
+              "【スイス製高精度センサー搭載】高精度で信頼性の高い温湿度測定を実現し、より正確な温度や湿度を管理可能。温度・湿度のデータは4秒ごとに取得し、感度と精度の両方とも優れています。液晶パネルを採用し、コンパクトでも視認性が高いです。温度・湿度のほか、電池残量にも表示されます。",
+              "【アラート通知機能&遠隔確認】SwitchBotハブミニと併用すれば、リアルタイムにお家の温度・湿度を確認可能。設定した温度・湿度を超えると、外出先でもアプリのプッシュ通知が受け取れます。お年寄り、赤ちゃんやペットがいるご家庭におすすめです。",
+              "【スマートスピーカーと連携】Amazon Alexa、Google アシスタントやSiriと連携して、声でお部屋の温度・湿度を確認できます。IFTTTにも対応可能。",
+              "【SwitchBotシリーズと連携】SwitchBotアプリにある「シーン」という機能より、温度が28度以上になったら、エアコンがONというふうに設定して熱中症対策として非常に有効。インフルエンザや乾燥、梅雨時期のカビ予防にもお役に立ちます。",
+              "【データの保存/削除/エクスポート可能】温湿度計本体は過去36日間のデータが保存でき、SwitchBotハブミニと連携し、アプリにデータ記録が2年間に保存可能。Bluetooth範囲内にクラウドサービスをオフにしたら、本体に保存されているデータが削除可能。クラウドサービスをオンにしたら、データの削除ができません。そして、温度・湿度がグラフで可視化でき、CSVファイル形式でダウンロードできます。",
+              "【使用上のご注意】有効的な動作環境範囲（-10°C～60°C / 20～85%RH）でご使しようください。液晶パネルに外力をかけられないように要注意。そうすると、液晶パネルを壊れさせ、数字が正常的に表示できない可能性があります。"
+            ],
+            "label": "Features",
+            "locale": "ja_JP"
+          },
+          "productInfo": {
+            "color": {
+              "displayValue": "温湿度計/ホワイト",
+              "label": "Color",
+              "locale": "ja_JP"
+            },
+            "isAdultProduct": {
+              "displayValue": false,
+              "label": "IsAdultProduct",
+              "locale": "en_US"
+            },
+            "itemDimensions": {
+              "height": {
+                "displayValue": 0.9448818888,
+                "label": "Height",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "length": {
+                "displayValue": 2.1653543285,
+                "label": "Length",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              },
+              "weight": {
+                "displayValue": 0.1543235834,
+                "label": "Weight",
+                "locale": "ja_JP",
+                "unit": "ポンド"
+              },
+              "width": {
+                "displayValue": 2.1653543285,
+                "label": "Width",
+                "locale": "ja_JP",
+                "unit": "インチ"
+              }
+            },
+            "size": {
+              "displayValue": "単品",
+              "label": "Size",
+              "locale": "ja_JP"
+            },
+            "unitCount": {
+              "displayValue": 1,
+              "label": "NumberOfItems",
+              "locale": "en_US"
+            }
+          },
+          "title": {
+            "displayValue": "【Works with Alexa認定】SwitchBot 温湿度計 デジタル スマート家電 高精度 スイス製センサー スマホで温度湿度管理 梅雨 熱中症対策 アラーム付き グラフ記録 Alexa、Google home、HomePod、IFTTT に対応(ハブ必要) 熱中症対策",
+            "label": "Title",
+            "locale": "ja_JP"
+          }
+        },
+        "offersV2": {
+          "listings": [
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "type": "IN_STOCK"
+              },
+              "dealDetails": {
+                "accessType": "PRIME_EXCLUSIVE",
+                "badge": "プライム感謝祭先行セール",
+                "endTime": "2026-10-19T14:59:59Z",
+                "startTime": "2026-10-12T15:00:00Z"
+              },
+              "isBuyBoxWinner": true,
+              "price": {
+                "money": {
+                  "amount": 1567,
+                  "currency": "JPY",
+                  "displayAmount": "￥1,567"
+                },
+                "savings": {
+                  "money": {
+                    "amount": 413,
+                    "currency": "JPY",
+                    "displayAmount": "￥413"
+                  },
+                  "percentage": 21
+                },
+                "savingBasis": {
+                  "money": {
+                    "amount": 1980,
+                    "currency": "JPY",
+                    "displayAmount": "￥1,980"
+                  },
+                  "savingBasisType": "LIST_PRICE",
+                  "savingBasisTypeLabel": "参考価格:"
+                }
+              },
+              "violatesMAP": false
+            },
+            {
+              "availability": {
+                "message": "在庫あり。",
+                "maxOrderQuantity": 50,
+                "minOrderQuantity": 1,
+                "type": "IN_STOCK"
+              },
+              "isBuyBoxWinner": false,
+              "price": {
+                "money": {
+                  "amount": 1982,
+                  "currency": "JPY",
+                  "displayAmount": "￥1,982"
+                }
+              },
+              "violatesMAP": false
+            }
+          ]
+        },
+        "parentASIN": "B0GRV6SL2W"
+      },
+      "availability": {
+        "message": "在庫あり。",
+        "type": "IN_STOCK"
+      },
+      "deal_details": {
+        "accessType": "PRIME_EXCLUSIVE",
+        "badge": "プライム感謝祭先行セール",
+        "endTime": "2026-10-19T14:59:59Z",
+        "startTime": "2026-10-12T15:00:00Z"
+      },
+      "saving_basis": {
+        "money": {
+          "amount": 1980,
+          "currency": "JPY",
+          "displayAmount": "￥1,980"
+        },
+        "savingBasisType": "LIST_PRICE",
+        "savingBasisTypeLabel": "参考価格:"
+      },
+      "raw_detail_page_url": "https://www.amazon.co.jp/dp/B07L4QNZVF?tag=daily-gadget-22&linkCode=ogi&th=1&psc=1",
+      "parent_asin": "B0GRV6SL2W"
+    }
+  ]
+}

@@ -212,12 +212,36 @@
       "published_date": "2026-10-15"
     },
     {
-      "filename": "2026-10-16_【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット.md",
+      "filename": "2026-10-13_【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット.md",
       "title": "【Amazonプライム感謝祭2026】仕事と暮らしをラクにする注目ガジェット",
       "url": "https://note.com/daily_gadget/n/nae44ce455821",
       "tags": "Amazonプライム感謝祭 おすすめガジェット セール デスク環境 スマートホーム",
       "category": "生産性向上・クリエイティブ・入力機器",
-      "published_date": "2026-10-16"
+      "published_date": "2026-10-13",
+      "content_finalized_date": "2026-10-13",
+      "content_status": "published",
+      "live_verification_file": "06_research/2026-10/2026-10-13_プライム感謝祭2026_公開前確認.md",
+      "product_data_refreshed_at": "2026-10-13T08:18:45.920228+09:00",
+      "product_data_file": "06_research/2026-10/2026-10-13_prime_live_items.json",
+      "note_update_status": "complete",
+      "note_updated_at": "2026-10-13T09:07:20+09:00",
+      "note_qa": {
+        "amazon_cards": 12,
+        "related_cards": 6,
+        "standard_toc": true,
+        "plain_urls": 0,
+        "product_card_observation_date": "2026-10-13",
+        "idea_list_cards": 1,
+        "verified_publication_date": "2026-10-13"
+      },
+      "published_at": "2026-10-13T09:06:00+09:00",
+      "original_scheduled_date": "2026-10-16",
+      "original_scheduled_at": "2026-10-16T20:00:00+09:00",
+      "note_publication_status": "published",
+      "idea_list_url": "https://amzn.to/3W5FPX4",
+      "idea_list_id": "2DYN2UOFLCRNS",
+      "idea_list_title": "プライム感謝祭2026｜仕事と暮らしをラクにするガジェット",
+      "publication_type": "sale_extra"
     },
     {
       "filename": "2026-10-17_活動量と睡眠を記録する「スマートウォッチ」7選.md",

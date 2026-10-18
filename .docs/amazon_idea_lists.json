@@ -26,6 +26,12 @@
       "url": "https://amzn.to/4pg03YY",
       "title": "プライムデー特集：狙い目のお得ガジェットまとめ",
       "_note": "2026-09-10 記入。2026-07-10号外記事の本文に入っていた実URLから確定した。展開先は .../shop/zanetti/list/30F78N2LYB78F?...&tag=daily-gadget-22 で、タグは付いている。category_to_magazine からは参照されない号外専用。"
+    },
+    "🎉 Amazonプライム感謝祭2026特集": {
+      "url": "https://amzn.to/3W5FPX4",
+      "title": "プライム感謝祭2026｜仕事と暮らしをラクにするガジェット",
+      "list_id": "2DYN2UOFLCRNS",
+      "_note": "2026-10-13 作成。号外専用。Amazon GUIでzanetti-22 / daily-gadget-22を選択して生成。記事と同一ASIN12点。通常カテゴリの対応付けは維持。"
     }
   },
   "category_to_magazine": {
